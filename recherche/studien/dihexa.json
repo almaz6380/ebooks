@@ -1,0 +1,261 @@
+{
+ "name": "Dihexa",
+ "status": "nicht_zugelassen",
+ "suchbegriff_pubmed": "dihexa[tiab]",
+ "suchbegriff_ctgov": "dihexa",
+ "humanstudien_alle": [],
+ "humanstudien_detail": [],
+ "metaanalysen": [
+  {
+   "pmid": "29733881",
+   "titel": "Cognitive benefits of angiotensin IV and angiotensin-(1-7): A systematic review of experimental studies",
+   "jahr": "2018",
+   "journal": "Neurosci Biobehav Rev",
+   "erstautor": "Ho JK",
+   "doi": "10.1016/j.neubiorev.2018.05.005",
+   "typ": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "abstract": "OBJECTIVES: To explore effects of the brain renin-angiotensin system (RAS) on cognition. DESIGN: Systematic review of experimental (non-human) studies assessing cognitive effects of RAS peptides angiotensin-(3-8) [Ang IV] and angiotensin-(1-7) [Ang-(1-7)] and their receptors, the Ang IV receptor (AT4R) and the Mas receptor. RESULTS: Of 450 articles identified, 32 met inclusion criteria. Seven of 11 studies of normal animals found Ang IV had beneficial effects on tests of passive or conditioned avoidance and object recognition. In models of cognitive deficit, eight of nine studies found Ang IV and its analogs (Nle1-Ang IV, dihexa, LVV-hemorphin-7) improved performance on spatial working memory and passive avoidance tasks. Two of three studies examining Ang-(1-7) found it benefited memory. Mas receptor removal was associated with reduced fear memory in one study. CONCLUSION: Studies of cognitive impairment show salutary effects of acute administration of Ang IV and its analogs, as well as AT4R activation. Brain RAS peptides appear most effective administered intracerebroventricularly, close to the time of learning acquisition or retention testing. Ang-(1-7) shows anti-dementia qualities."
+  }
+ ],
+ "praeklinik": [
+  {
+   "pmid": "41490200",
+   "titel": "Therapeutic Peptides in Orthopaedics: Applications, Challenges, and Future Directions",
+   "jahr": "2026",
+   "journal": "J Am Acad Orthop Surg Glob Res Rev",
+   "erstautor": "Rahman OF",
+   "doi": "10.5435/JAAOSGlobal-D-25-00236",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Therapeutic peptides are emerging as promising adjuncts in the management of orthopaedic injuries, grounded in their ability to modulate molecular signaling networks central to cellular medicine. By acting on key pathways such as PI3K/Akt, mTOR, MAPK, TGF-β, and AMPK, peptides exert influence over tissue regeneration, inflammation resolution, and neuromuscular recovery. Wound-healing peptides such as BPC-157, TB-500, and GHK-Cu promote angiogenesis, integrin-mediated extracellular matrix remodeling, and fibroblast activation, whereas growth hormone secretagogues like ipamorelin, CJC-1295, tesamorelin, sermorelin, and AOD-9604 activate IGF-1 signaling and satellite cell repair. Recovery-enhancing agents such as epithalon, delta sleep-inducing peptide, and pinealon target circadian and mitochondrial regulators, and neuroactive peptides like selank, semax, and dihexa enhance brain-derived neurotrophic factor and HGF/c-Met pathways critical to neuroplasticity. Although preclinical studies are promising, there is a current lack of clinical trials. This review integrates current mechanistic insights with orthopaedic relevance, emphasizing safety, efficacy, and future directions for responsible integration into musculoskeletal care."
+  },
+  {
+   "pmid": "23055539",
+   "titel": "Evaluation of metabolically stabilized angiotensin IV analogs as procognitive/antidementia agents",
+   "jahr": "2013",
+   "journal": "J Pharmacol Exp Ther",
+   "erstautor": "McCoy AT",
+   "doi": "10.1124/jpet.112.199497",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Angiotensin IV (AngIV: VYIHPF)-related peptides have long been recognized as procognitive agents with potential as antidementia therapeutics. Their development as useful therapeutics, however, has been limited by physiochemical properties that make them susceptible to metabolic degradation and impermeable to gut and blood-brain barriers. A previous study demonstrated that the core structural information required to impart the procognitive activity of the AngIV analog, norleucine(1)-angiotensin IV, resides in its three N-terminal amino acids, Nle-Tyr-Ile. The goal of this project was to chemically modify this tripeptide in such a way to enhance its metabolic stability and barrier permeability to produce a drug candidate with potential clinical utility. Initial results demonstrated that several N- and C-terminal modifications lead to dramatically improved stability while maintaining the capability to reverse scopolamine-induced deficits in Morris water maze performance and augment hippocampal synaptogenesis. Subsequent chemical modifications, which were designed to increase hydrophobicity and decrease hydrogen bonding, yielded an orally active, blood-barrier permeant, metabolically stabilized analog, N-hexanoic-Tyr-Ile-(6) aminohexanoic amide (dihexa), that exhibits excellent antidementia activity in the scopolamine and aged rat models and marked synaptogenic activity. These data suggest that dihexa may have therapeutic potential as a treatment of disorders, such as Alzheimer's disease, where augmented synaptic connectivity may be beneficial."
+  },
+  {
+   "pmid": "18097939",
+   "titel": "Dimeric DOTA-alpha-melanocyte-stimulating hormone analogs: synthesis and in vivo characteristics of radiopeptides with high in vitro activity",
+   "jahr": "2007",
+   "journal": "J Recept Signal Transduct Res",
+   "erstautor": "Bapst JP",
+   "doi": "10.1080/10799890701723528",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Dimeric analogs of alpha-melanocyte-stimulating hormone (alpha-MSH) labeled with radiometals are potential candidates for diagnosis and therapy of melanoma by receptor-mediated tumor targeting. Both melanotic and amelanotic melanomas (over-)express the melanocortin-1 receptor (MC1-R), the target for alpha-MSH. In the past, dimerized MSH analogs have been shown to display increased receptor affinity compared to monomeric MSH, offering the possibility of improving the ratio between specific uptake of radiolabeled alpha-MSH by melanoma and nonspecific uptake by the kidneys. We have designed three linear dimeric analogs containing a slightly modified MSH hexapeptide core sequence (Nle-Asp-His-d-Phe-Arg-Trp) in parallel or antiparallel orientation, a short spacer, and the DOTA chelator for incorporation of the radiometal. In vitro, all three peptides were more potent ligands of the mouse B16-F1 melanoma cell melanocortin-1 receptor (MC1-R) than DOTA-NAPamide, which served as standard. The binding activity of DOTA-diHexa(NC-NC)-amide was 1.75-fold higher, that of diHexa(NC-NC)-Gly-Lys(DOTA)-amide was 3.37-fold higher, and that of DOTA-diHexa(CN-NC)-amide was 2.34-fold higher. Using human HBL melanoma cells, the binding activity of diHexa(NC-NC)-Gly-Lys(DOTA)-amide was sixfold higher than that of DOTA-NAPamide. Uptake by cultured B16-F1 cells was rapid and almost quantitative. In vivo, however, the data were less promising: tumor-to-kidney ratios 4 hr postinjection were 0.11 for [(111)In]DOTA-diHexa(NC-NC)-amide, 0.26 for diHexa(NC-NC)-Gly-Lys([(111)In]DOTA)-amide, and 0.36 for [(111)In]DOTA-diHexa(CN-NC)-amide, compared to 1.67 for [(111)In]DOTA-NAPamide. It appears that despite the higher affinity to the MC1-R of the peptide dimers and their excellent internalization in vitro, the uptake by melanoma tumors in vivo was lower, possibly because of reduced tissue penetration. More striking, however, was the marked increase of kidney uptake of the dimers, explaining the unfavorable ratios. In conclusion, although radiolabeled alpha-MSH dimer peptides display excellent receptor affinity and internalization, they are no alternative to the monomeric DOTA-NAPamide for in vivo application."
+  },
+  {
+   "pmid": "25649658",
+   "titel": "The Brain Hepatocyte Growth Factor/c-Met Receptor System: A New Target for the Treatment of Alzheimer's Disease",
+   "jahr": "2015",
+   "journal": "J Alzheimers Dis",
+   "erstautor": "Wright JW",
+   "doi": "10.3233/JAD-142814",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "Alzheimer's disease (AD) is a progressive neurodegenerative disease increasing in frequency as life expectancy of the world's population increases. There are an estimated 5 million diagnosed AD patients in the U.S. and 16 million worldwide with no adequate treatment presently available. New therapeutic approaches are needed to slow, and hopefully reverse, disease progression. This review summarizes available information regarding an overlooked therapeutic target that may offer a treatment to slow and hopefully halt AD, namely the hepatocyte growth factor (HGF)/c-Met receptor system. Activation of the c-Met receptor stimulates mitogenesis, motogenesis, morphogenesis, the ability to mediate stem cell differentiation and neurogenesis, and protects against tissue insults in a wide range of cells including neurons. This growth factor system has recently been shown to induce dendritic arborization and synaptogenesis when stimulated by a newly developed angiotensin-based analogue, N-hexanoic-Tyr-Ile-(6) amino hexanoic amide (Dihexa). This small molecule was derived from the pre-prototype molecule Nle1-angiotensin IV and has shown promise in facilitating the formation of new functional synaptic connections and augmenting memory consolidation in animal models of AD. Dihexa is a first-in-class compound that is orally active, penetrates the blood-brain barrier, and facilitates memory consolidation and retrieval. This angiotensin-based small molecule may be efficacious as a treatment for AD."
+  },
+  {
+   "pmid": "27532814",
+   "titel": "Small-Molecule-Directed Hepatocyte-Like Cell Differentiation of Human Pluripotent Stem Cells",
+   "jahr": "2016",
+   "journal": "Curr Protoc Stem Cell Biol",
+   "erstautor": "Mathapati S",
+   "doi": "10.1002/cpsc.13",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Hepatocyte-like cells (HLCs) generated in vitro from human pluripotent stem cells (hPSCs) provide an invaluable resource for basic research, regenerative medicine, drug screening, toxicology, and modeling of liver disease and development. This unit describes a small-molecule-driven protocol for in vitro differentiation of hPSCs into HLCs without the use of growth factors. hPSCs are coaxed through a developmentally relevant route via the primitive streak to definitive endoderm (DE) using the small molecule CHIR99021 (a Wnt agonist), replacing the conventional growth factors Wnt3A and activin A. The small-molecule-derived DE is then differentiated to hepatoblast-like cells in the presence of dimethyl sulfoxide. The resulting hepatoblasts are then differentiated to HLCs with N-hexanoic-Tyr, Ile-6 aminohexanoic amide (Dihexa, a hepatocyte growth factor agonist) and dexamethasone. The protocol provides an efficient and reproducible procedure for differentiation of hPSCs into HLCs utilizing small molecules. © 2016 by John Wiley & Sons, Inc."
+  },
+  {
+   "pmid": "25187433",
+   "titel": "The procognitive and synaptogenic effects of angiotensin IV-derived peptides are dependent on activation of the hepatocyte growth factor/c-met system",
+   "jahr": "2014",
+   "journal": "J Pharmacol Exp Ther",
+   "erstautor": "Benoist CC",
+   "doi": "10.1124/jpet.114.218735",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Retracted Publication"
+   ],
+   "abstract": "A subset of angiotensin IV (AngIV)-related molecules are known to possess procognitive/antidementia properties and have been considered as templates for potential therapeutics. However, this potential has not been realized because of two factors: 1) a lack of blood-brain barrier-penetrant analogs, and 2) the absence of a validated mechanism of action. The pharmacokinetic barrier has recently been overcome with the synthesis of the orally active, blood-brain barrier-permeable analog N-hexanoic-tyrosine-isoleucine-(6) aminohexanoic amide (dihexa). Therefore, the goal of this study was to elucidate the mechanism that underlies dihexa's procognitive activity. Here, we demonstrate that dihexa binds with high affinity to hepatocyte growth factor (HGF) and both dihexa and its parent compound Norleucine 1-AngIV (Nle(1)-AngIV) induce c-Met phosphorylation in the presence of subthreshold concentrations of HGF and augment HGF-dependent cell scattering. Further, dihexa and Nle(1)-AngIV induce hippocampal spinogenesis and synaptogenesis similar to HGF itself. These actions were inhibited by an HGF antagonist and a short hairpin RNA directed at c-Met. Most importantly, the procognitive/antidementia capacity of orally delivered dihexa was blocked by an HGF antagonist delivered intracerebroventricularly as measured using the Morris water maze task of spatial learning."
+  },
+  {
+   "pmid": "25674052",
+   "titel": "Hepatocyte growth factor mimetic protects lateral line hair cells from aminoglycoside exposure",
+   "jahr": "2015",
+   "journal": "Front Cell Neurosci",
+   "erstautor": "Uribe PM",
+   "doi": "10.3389/fncel.2015.00003",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Loss of sensory hair cells from exposure to certain licit drugs (e.g., aminoglycoside antibiotics, platinum-based chemotherapy agents) can result in permanent hearing loss. Here we ask if allosteric activation of the hepatocyte growth factor (HGF) cascade via Dihexa, a small molecule drug candidate, can protect hair cells from aminoglycoside toxicity. Unlike native HGF, Dihexa is chemically stable and blood-brain barrier permeable. As a synthetic HGF mimetic, it forms a functional ligand by dimerizing with endogenous HGF to activate the HGF receptor and downstream signaling cascades. To evaluate Dihexa as a potential hair cell protectant, we used the larval zebrafish lateral line, which possesses hair cells that are homologous to mammalian inner ear hair cells and show similar responses to toxins. A dose-response relationship for Dihexa protection was established using two ototoxins, neomycin and gentamicin. We found that a Dihexa concentration of 1 μM confers optimal protection from acute treatment with either ototoxin. Pretreatment with Dihexa does not affect the amount of fluorescently tagged gentamicin that enters hair cells, indicating that Dihexa's protection is likely mediated by intracellular events and not by inhibiting aminoglycoside entry. Dihexa-mediated protection is attenuated by co-treatment with the HGF antagonist 6-AH, further evidence that HGF activation is a component of the observed protection. Additionally, Dihexa's robust protection is partially attenuated by co-treatment with inhibitors of the downstream HGF targets Akt, TOR and MEK. Addition of an amino group to the N-terminal of Dihexa also attenuates the protective response, suggesting that even small substitutions greatly alter the specificity of Dihexa for its target. Our data suggest that Dihexa confers protection of hair cells through an HGF-mediated mechanism and that Dihexa holds clinical potential for mitigating chemical ototoxicity."
+  },
+  {
+   "pmid": "29733881",
+   "titel": "Cognitive benefits of angiotensin IV and angiotensin-(1-7): A systematic review of experimental studies",
+   "jahr": "2018",
+   "journal": "Neurosci Biobehav Rev",
+   "erstautor": "Ho JK",
+   "doi": "10.1016/j.neubiorev.2018.05.005",
+   "typ": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "abstract": "OBJECTIVES: To explore effects of the brain renin-angiotensin system (RAS) on cognition. DESIGN: Systematic review of experimental (non-human) studies assessing cognitive effects of RAS peptides angiotensin-(3-8) [Ang IV] and angiotensin-(1-7) [Ang-(1-7)] and their receptors, the Ang IV receptor (AT4R) and the Mas receptor. RESULTS: Of 450 articles identified, 32 met inclusion criteria. Seven of 11 studies of normal animals found Ang IV had beneficial effects on tests of passive or conditioned avoidance and object recognition. In models of cognitive deficit, eight of nine studies found Ang IV and its analogs (Nle1-Ang IV, dihexa, LVV-hemorphin-7) improved performance on spatial working memory and passive avoidance tasks. Two of three studies examining Ang-(1-7) found it benefited memory. Mas receptor removal was associated with reduced fear memory in one study. CONCLUSION: Studies of cognitive impairment show salutary effects of acute administration of Ang IV and its analogs, as well as AT4R activation. Brain RAS peptides appear most effective administered intracerebroventricularly, close to the time of learning acquisition or retention testing. Ang-(1-7) shows anti-dementia qualities."
+  },
+  {
+   "pmid": "35410439",
+   "titel": "Efficiently generate functional hepatic cells from human pluripotent stem cells by complete small-molecule strategy",
+   "jahr": "2022",
+   "journal": "Stem Cell Res Ther",
+   "erstautor": "Pan T",
+   "doi": "10.1186/s13287-022-02831-1",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Various methods have been developed to generate hepatic cells from human pluripotent stem cells (hPSCs) that rely on the combined use of multiple expensive growth factors, limiting industrial-scale production and widespread applications. Small molecules offer an attractive alternative to growth factors for producing hepatic cells since they are more economical and relatively stable. METHODS: We dissect small-molecule combinations and identify the ideal cocktails to achieve an optimally efficient and cost-effective strategy for hepatic cells differentiation, expansion, and maturation. RESULTS: We demonstrated that small-molecule cocktail CIP (including CHIR99021, IDE1, and PD0332991) efficiently induced definitive endoderm (DE) formation via increased endogenous TGF-β/Nodal signaling. Furthermore, we identified that combining Vitamin C, Dihexa, and Forskolin (VDF) could substitute growth factors to induce hepatic specification. The obtained hepatoblasts (HBs) could subsequently expand and mature into functional hepatocyte-like cells (HLCs) by the established chemical formulas. Thus, we established a stepwise strategy with complete small molecules for efficiently producing scalable HBs and functionally matured HLCs. The small-molecule-derived HLCs displayed typical functional characteristics as mature hepatocytes in vitro and repopulating injured liver in vivo. CONCLUSION: Our current small-molecule-based hepatic generation protocol presents an efficient and cost-effective platform for the large-scale production of functional human hepatic cells for cell-based therapy and drug discovery using."
+  },
+  {
+   "pmid": "25332729",
+   "titel": "Phase segregation of polymerizable lipids to construct filters for separating lipid-membrane-embedded species",
+   "jahr": "2014",
+   "journal": "Biomicrofluidics",
+   "erstautor": "Hu SK",
+   "doi": "10.1063/1.4895570",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Supported lipid bilayer (SLB) platforms have been developed to transport and separate membrane-embedded species in the species' native bilayer environment. In this study, we used the phase segregation phenomenon of lipid mixtures containing a polymerizable diacetylene phospholipid, 1,2-bis(10,12-tricosadiynoyl)-sn-glycero-3-phosphocholine (DiynePC), and a nonpolymerizable phospholipid, 1,2-dioleoyl-sn-glycero-3-phosphocholine (DOPC), to create filter barrier structures in SLBs. Upon exposing the phase segregated samples to UV light, the DiynePC-rich domains could become crosslinked and remain fixed on the surface of the support, while the DOPC-rich regions, where no crosslinking could happen, could be removed later by detergent washing, and thus became the void regions in the filter. During the filter fabrication process, we used the laminar flow configuration in a microfluidic channel to control the spatial locations of the feed region and filter region in the SLB. The flow in a microfluidic channel was also used to apply a strong hydrodynamic shear stress to the SLB to transport the membrane-embedded species from the feed region to the filter region. We varied the DiynePC/DOPC molar ratio from 60/40 to 80/20 to adjust the cutoff size of the filter barriers and used two model membrane-embedded species of different sizes to examine the filtering capability. One of the model species, Texas Red 1,2-dihexa-decanoyl-sn-glycero-3-phosphoethanolamine triethylammonium salt (Texas Red DHPE), had a single-lipid size, and the other species, cholera toxin subunit B-GM1 complex, had a multilipid size. When the DiynePC/DOPC molar ratio was 60/40, both species had high penetration ratios in the filter region. However, when the ratio was increased to 70/30, only the Texas Red DHPE, which was the smaller of the two model species, could penetrate the filter to a considerable extent. When the ratio was increased to 80/20, neither of the model species could penetrate the filter region. The results showed the possibility of using phase segregation of a mixture containing a polymerizable lipid and a nonpolymerizable lipid to fabricate filter barrier structures with tunable cutoff sizes in SLBs."
+  },
+  {
+   "pmid": "25455861",
+   "titel": "The development of small molecule angiotensin IV analogs to treat Alzheimer's and Parkinson's diseases",
+   "jahr": "2015",
+   "journal": "Prog Neurobiol",
+   "erstautor": "Wright JW",
+   "doi": "10.1016/j.pneurobio.2014.11.004",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "Alzheimer's (AD) and Parkinson's (PD) diseases are neurodegenerative diseases presently without effective drug treatments. AD is characterized by general cognitive impairment, difficulties with memory consolidation and retrieval, and with advanced stages episodes of agitation and anger. AD is increasing in frequency as life expectancy increases. Present FDA approved medications do little to slow disease progression and none address the underlying progressive loss of synaptic connections and neurons. New drug design approaches are needed beyond cholinesterase inhibitors and N-methyl-d-aspartate receptor antagonists. Patients with PD experience the symptomatic triad of bradykinesis, tremor-at-rest, and rigidity with the possibility of additional non-motor symptoms including sleep disturbances, depression, dementia, and autonomic nervous system failure. This review summarizes available information regarding the role of the brain renin-angiotensin system (RAS) in learning and memory and motor functions, with particular emphasis on research results suggesting a link between angiotensin IV (AngIV) interacting with the AT4 receptor subtype. Currently there is controversy over the identity of this AT4 receptor protein. Albiston and colleagues have offered convincing evidence that it is the insulin-regulated aminopeptidase (IRAP). Recently members of our laboratory have presented evidence that the brain AngIV/AT4 receptor system coincides with the brain hepatocyte growth factor/c-Met receptor system. In an effort to resolve this issue we have synthesized a number of small molecule AngIV-based compounds that are metabolically stable, penetrate the blood-brain barrier, and facilitate compromised memory and motor systems. These research efforts are described along with details concerning a recently synthesized molecule, Dihexa that shows promise in overcoming memory and motor dysfunctions by augmenting synaptic connectivity via the formation of new functional synapses."
+  },
+  {
+   "pmid": "24914896",
+   "titel": "Effect of structure on the interactions between five natural antimicrobial compounds and phospholipids of bacterial cell membrane on model monolayers",
+   "jahr": "2014",
+   "journal": "Molecules",
+   "erstautor": "Nowotarska SW",
+   "doi": "10.3390/molecules19067497",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Monolayers composed of bacterial phospholipids were used as model membranes to study interactions of the naturally occurring phenolic compounds 2,5-dihydroxybenzaldehyde and 2-hydroxy-5-methoxybenzaldehyde, and the plant essential oil compounds carvacrol, cinnamaldehyde, and geraniol, previously found to be active against both Gram-positive and Gram-negative pathogenic microorganisms. The lipid monolayers consist of 1,2-dihexadecanoyl-sn-glycero-3-phosphoethanolamine (DPPE), 1,2-dihexa- decanoyl-sn-glycero-3-phospho-(1'-rac-glycerol) (DPPG), and 1,1',2,2'-tetratetradecanoyl cardiolipin (cardiolipin). Surface pressure-area (π-A) and surface potential-area (Δψ-A) isotherms were measured to monitor changes in the thermodynamic and physical properties of the lipid monolayers. Results of the study indicated that the five compounds modified the three lipid monolayer structures by integrating into the monolayer, forming aggregates of antimicrobial -lipid complexes, reducing the packing effectiveness of the lipids, increasing the membrane fluidity, and altering the total dipole moment in the monolayer membrane model. The interactions of the five antimicrobial compounds with bacterial phospholipids depended on both the structure of the antimicrobials and the composition of the monolayers. The observed experimental results provide insight into the mechanism of the molecular interactions between naturally-occurring antimicrobial compounds and phospholipids of the bacterial cell membrane that govern activities."
+  },
+  {
+   "pmid": "1514645",
+   "titel": "Localization of alveolar surfactant clearance in rabbit lung cells",
+   "jahr": "1992",
+   "journal": "Am J Physiol",
+   "erstautor": "Rider ED",
+   "doi": "10.1152/ajplung.1992.263.2.L201",
+   "typ": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "Localization of surfactant phospholipid clearance in lung cells was investigated in vivo in rabbits using radiolabeled dipalmitoylphosphatidylcholine (DPPC) and 1,2-dihexa-decyl-sn-glycero-3-phosphocholine (DPPC-ether), a phospholipase A1- and A2-resistant analogue of DPPC. After intratracheal injection of liposomes of the labeled lipids associated with unlabeled surfactant, adult rabbits were killed in groups of three to five at 0, 4, 12, and 24 h with recovery of bronchoalveolar lavages for alveolar macrophages and surfactant. Type II cells and tissue-associated macrophages were isolated on Percoll gradients following elastase and trypsin digestion of the lungs. Radiolabel recoveries as saturated phosphatidylcholine were measured in alveolar wash, alveolar macrophages, lung tissue, and the type II cell and mixed cell bands from the Percoll gradients. Cost accounting of label demonstrated similar recoveries at 0 h, but significantly more DPPC-ether compared with DPPC in cells at later times, indicating ineffective degradation of the DPPC-ether. Internalization of the lung tissue-associated labels into cells was time dependent. At all times, greater than 65% of the cell-associated labels were recovered in type II cells, indicating the primary role for these cells in clearing alveolar surfactant phospholipid in vivo. The total contribution of alveolar macrophages to the overall clearance was approximately 20%."
+  },
+  {
+   "pmid": "34703584",
+   "titel": "Stem cell, Granulocyte-Colony Stimulating Factor and/or Dihexa to promote limb function recovery in a rat sciatic nerve damage-repair model: Experimental animal studies",
+   "jahr": "2021",
+   "journal": "Ann Med Surg (Lond)",
+   "erstautor": "Weiss JB",
+   "doi": "10.1016/j.amsu.2021.102917",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: Optimizing nerve regeneration and re-innervation of target muscle/s is the key for improved functional recovery following peripheral nerve damage. We investigated whether administration of mesenchymal stem cell (MSC), Granulocyte-Colony Stimulating Factor (G-CSF) and/or Dihexa can improve recovery of limb function following peripheral nerve damage in rat sciatic nerve transection-repair model. MATERIALS AND METHODS: There were 10 experimental groups (n = 6-8 rats/group). Bone marrow derived syngeneic MSCs (2 × 106; passage≤6), G-CSF (200-400 μg/kg b.wt.), Dihexa (2-4 mg/kg b.wt.) and/or Vehicle were administered to male Lewis rats locally via hydrogel at the site of nerve repair, systemically (i.v./i.p), and/or to gastrocnemius muscle. The limb sensory and motor functions were assessed at 1-2 week intervals post nerve repair until the study endpoint (16 weeks). RESULTS: The sensory function in all nerve boundaries (peroneal, tibial, sural) returned to nearly normal by 8 weeks (Grade 2.7 on a scale of Grade 0-3 [0 = No function; 3 = Normal function]) in all groups combined. The peroneal nerve function recovered quickly with return of function at one week (∼2.0) while sural nerve function recovered rather slowly at four weeks (∼1.0). Motor function at 8-16 weeks post-nerve repair as determined by walking foot print grades significantly (P < 0.05) improved with MSC + G-CSF or MSC + Dihexa administrations into gastrocnemius muscle and mitigated foot flexion contractures. CONCLUSIONS: These findings demonstrate MSC, G-CSF and Dihexa are promising candidates for adjunct therapies to promote limb functional recovery after surgical nerve repair, and have implications in peripheral nerve injury and limb transplantation. IACUC No.215064."
+  },
+  {
+   "pmid": "15745423",
+   "titel": "Studies on the subcellular localization of the porphycene CPO",
+   "jahr": "2005",
+   "journal": "Photochem Photobiol",
+   "erstautor": "Kessel D",
+   "doi": "10.1562/2004-12-16-RA-403",
+   "typ": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "This study was designed to provide more detailed information on the subcellular sites of binding of the porphycene, termed 9-capronyloxytetrakis (methoxyethyl) porphycene (CPO), with a fluorescence resonance energy transfer (FRET) technique. The proximity of CPO to two fluorescent probes was determined: nonyl acridine orange (NAO), a dye with specific affinity for the mitochondrial lipid cardiolipin, and dihexa-oxacarbocyanine iodide (DiOC6), an agent that labels the endoplasmic reticulum (ER). FRET spectra indicated energy transfer between DiOC6 and CPO but no significant transfer between NAO and CPO. These results confirm data obtained by fluorescence microscopy, suggesting a similar pattern of subcellular localization by CPO and DiOC6 but not by CPO and NAO. However, when cells containing CPO were irradiated and then loaded with NAO, FRET between the two fluorophores was observed. Hence, a relocalization of CPO can occur during irradiation. These data provide an explanation for recent studies on CPO-catalyzed photodamage to both ER and mitochondrial Bcl-2."
+  },
+  {
+   "pmid": "42825082",
+   "titel": "Hepatocyte Growth Factor/MET Activator Rescues Working Memory Deficits after Repeated Mild Traumatic Brain Injury",
+   "jahr": "2025",
+   "journal": "Neurotrauma Rep",
+   "erstautor": "Martino KA",
+   "doi": "10.1177/2689288X251392851",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Mild traumatic brain injury (mTBI) can produce persistent cognitive and behavioral deficits. These impairments result in a reduced quality of life and difficulty returning to work, school, or other activities. Individuals with repeated injuries show increased risk for greater cognitive impairment and persistence of symptoms. A variety of pharmacological approaches have been tried to limit cognitive symptoms and other aspects of secondary injury following mTBI. However, their efficacy and ability to treat the sequela of mTBI remains disputed and no FDA-approved drug exists for mTBI. However, neurotrophins have considerable promise as regenerative therapies for mTBI by exhibiting procognitive, neuroprotective, and anti-inflammatory actions. One neurotrophin, hepatocyte growth factor, and its receptor MET (HGF/MET) are upregulated in response to CNS injury within the prefrontal cortex and other regions supporting memory and higher cognitive function impaired by TBI. HGF/MET activation can be anti-inflammatory and neuroprotective, yet an understanding of its actions on cognitive function after mTBI is limited. Using a closed-head midline impact model of mild TBI, we characterized the actions of the HGF/MET system on working memory performance after repeated injury. Following repeated mild TBI, the HGF/MET-positive modulator dose-dependently rescued the working memory deficits following injury. These actions indicate that neuroptrophic transmitter systems, including HGF/MET, may hold critical pharmacological targets for treating the neurosequela of TBI."
+  },
+  {
+   "pmid": "38489193",
+   "titel": "Effects of an Angiotensin IV Analog on 3-Nitropropionic Acid-Induced Huntington's Disease-Like Symptoms in Rats",
+   "jahr": "2024",
+   "journal": "J Huntingtons Dis",
+   "erstautor": "Wells RG",
+   "doi": "10.3233/JHD-231507",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Huntington's disease (HD) is a neurodegenerative disorder characterized by motor, cognitive, and psychiatric dysfunction caused by a mutant huntingtin protein. Compromised metabolic activity resulting from systemic administration of the mitochondrial toxin, 3-nitropropionic acid (3-NP), is known to mimic the pathology of HD and induce HD-like symptoms in rats. N-hexanoic-Tyr-Ile-(6)-amino hexanoic amide (PNB-0408), also known as Dihexa, has been shown to have neuroprotective and procognitive properties in animal models of Alzheimer's and Parkinson's diseases. Given the mechanism of action and success in other neurodegenerative diseases, we felt it an appropriate compound to investigate further for HD. OBJECTIVE: The present study was designed to test if PNB-0408, an angiotensin IV analog, could attenuate 3-NP-induced HD-like symptoms in rats and serve as a potential therapeutic agent. METHODS: Forty male Wistar rats were randomized into three groups consisting of a \"vehicle\" group, a \"3-NP\" group, and a \"3-NP + PNB-0408\" group. PNB-0408 was administered along with chronic exposure to 3-NP. Animal body weight, motor function, and cognitive abilities were measured for five weeks, before euthanasia and histopathological analysis. RESULTS: Exposure to 3-NP decreased the amount of weight rats gained, impaired spatial learning and memory consolidation, and led to marked motor dysfunction. From our observations and analysis, PNB-0408 did not protect rats from the deficits induced by 3-NP neurotoxicity. CONCLUSIONS: Our findings suggest that PNB-0408 may not be an efficacious treatment strategy for preventing 3-NP-induced HD-like symptoms in a preclinical model. These data highlight the need for further research of this compound in alternate models and/or alternative approaches to managing this disorder."
+  },
+  {
+   "pmid": "34827486",
+   "titel": "AngIV-Analog Dihexa Rescues Cognitive Impairment and Recovers Memory in the APP/PS1 Mouse via the PI3K/AKT Signaling Pathway",
+   "jahr": "2021",
+   "journal": "Brain Sci",
+   "erstautor": "Sun X",
+   "doi": "10.3390/brainsci11111487",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The renin-angiotensin system (RAS) is a paracrine RAS within the central nervous system (CNS) and is closely related to Alzheimer's disease (AD). The endogenous hexapeptide angiotensin IV (Ang IV), an important component of the brain RAS, was found to rescue cognitive impairment and recover memory in previous studies. In our study, we used different doses of Dihexa, which can be orally administered and cross the BBB in APP/PS1 mice. We found that the amount of AngIV in mouse tissue increased after the administration of Dihexa compared to that in the WT group. Meanwhile, Dihexa restored spatial learning and cognitive functions in the Morris water maze test. Dihexa increased the neuronal cells and the expression of SYP protein in APP/PS1 mice in Nissl staining. Furthermore, Dihexa decreased the activation of astrocytes and microglia, markedly reduced levels of the pro-inflammatory cytokines IL-1β and TNF-α and increased the levels of the anti-inflammatory cytokine IL-10. Dihexa activated the PI3K/AKT signaling pathway, while PI3K inhibitor wortmannin significantly reversed the anti-inflammatory and anti-apoptotic effects of APP/PS1 mice. These findings highlight the brain AngIV/PI3K/AKT axis as a potential target for the treatment of AD."
+  }
+ ],
+ "ctgov": [],
+ "gruppe": "D_gehirn_langlebigkeit"
+}

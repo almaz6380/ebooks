@@ -1,0 +1,630 @@
+{
+ "name": "Ipamorelin",
+ "status": "nicht_zugelassen",
+ "suchbegriff_pubmed": "ipamorelin[tiab]",
+ "suchbegriff_ctgov": "ipamorelin",
+ "humanstudien_alle": [
+  {
+   "pmid": "25331030",
+   "titel": "Prospective, randomized, controlled, proof-of-concept study of the Ghrelin mimetic ipamorelin for the management of postoperative ileus in bowel resection patients",
+   "jahr": "2014",
+   "journal": "Int J Colorectal Dis",
+   "erstautor": "Beck DE",
+   "doi": "10.1007/s00384-014-2030-8",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "10496658",
+   "titel": "Pharmacokinetic-pharmacodynamic modeling of ipamorelin, a growth hormone releasing peptide, in human volunteers",
+   "jahr": "1999",
+   "journal": "Pharm Res",
+   "erstautor": "Gobburu JV",
+   "doi": "10.1023/a:1018955126402",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  }
+ ],
+ "humanstudien_detail": [
+  {
+   "pmid": "25331030",
+   "titel": "Prospective, randomized, controlled, proof-of-concept study of the Ghrelin mimetic ipamorelin for the management of postoperative ileus in bowel resection patients",
+   "jahr": "2014",
+   "journal": "Int J Colorectal Dis",
+   "erstautor": "Beck DE",
+   "doi": "10.1007/s00384-014-2030-8",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Postoperative ileus is a significant clinical challenge lacking effective management strategies. Ghrelin-receptor stimulation has promotility effects in the upper and lower gastrointestinal tract. OBJECTIVE: This proof-of-concept, phase 2, randomized study evaluated the safety and efficacy of the ghrelin-receptor agonist ipamorelin in the treatment of postoperative ileus following abdominal surgery (ClinicalTrials.gov NCT00672074). DESIGN: The design was a multicenter, double-blind, placebo-controlled, clinical trial. SETTINGS: The settings include hospital inpatients. PATIENTS: The patients were adults undergoing small and large bowel resection by open or laparoscopic surgery. INTERVENTION: The intervention was intravenous infusions of 0.03-mg/kg ipamorelin vs placebo twice daily, on postoperative day 1 to 7 or hospital discharge. MAIN OUTCOME MEASURES: Safety was assessed by monitoring adverse events and laboratory tests. The key efficacy endpoint was time from first dose of study drug to tolerance of a standardized solid meal. RESULTS: One hundred seventeen patients were enrolled, of whom 114 patients composed the safety and modified intent-to-treat populations. Demographic and disease characteristics were balanced between groups. Overall incidence of any treatment-emergent adverse events was 87.5 % in the ipamorelin group and 94.8 % in placebo group. Median time to first tolerated meal was 25.3 and 32.6 h in the ipamorelin and placebo groups, respectively (p = 0.15). LIMITATIONS: This proof of concept study was small and enrolled patients with a broad range of underlying conditions. CONCLUSIONS: Ipamorelin 0.03-mg/kg twice daily for up to 7 days was well tolerated. There were no significant differences between ipamorelin and placebo in the key and secondary efficacy analyses."
+  },
+  {
+   "pmid": "10496658",
+   "titel": "Pharmacokinetic-pharmacodynamic modeling of ipamorelin, a growth hormone releasing peptide, in human volunteers",
+   "jahr": "1999",
+   "journal": "Pharm Res",
+   "erstautor": "Gobburu JV",
+   "doi": "10.1023/a:1018955126402",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "PURPOSE: To examine the pharmacokinetics (PK) and pharmacodynamics (PD) of ipamorelin, a growth hormone (GH) releasing peptide, in healthy volunteers. METHODS: A trial was conducted with a dose escalation design comprising 5 different infusion rates (4.21, 14.02, 42.13, 84.27 and 140.45 nmol/kg over 15 minutes) with eight healthy male subjects at each dose level. Concentrations of ipamorelin and growth hormone were measured. RESULTS: The PK parameters showed dose-proportionality, with a short terminal half-life of 2 hours, a clearance of 0.078 L/h/kg and a volume of distribution at steady-state of 0.22 L/kg. The time course of GH stimulation by ipamorelin showed a single episode of GH release with a peak at 0.67 hours and an exponential decline to negligible GH concentration at all doses. The ipamorelin-GH concentration relationship was characterized using an indirect response model and population fitting. The model employed a zero-order GH release rate over a finite duration of time to describe the episodic release of GH. Ipamorelin induces the release of GH at all dose levels with the concentration (SC50) required for half-maximal GH stimulation of 214 nmol/L and a maximal GH production rate of 694 mIU/L/h. The inter-individual variability of the PD parameters was larger than that of the PK parameters. CONCLUSIONS: The proposed PK/PD model provides a useful characterization of ipamorelin disposition and GH responses across a range of doses."
+  }
+ ],
+ "metaanalysen": [],
+ "praeklinik": [
+  {
+   "pmid": "9849822",
+   "titel": "Ipamorelin, the first selective growth hormone secretagogue",
+   "jahr": "1998",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Raun K",
+   "doi": "10.1530/eje.0.1390552",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The development and pharmacology of a new potent growth hormone (GH) secretagogue, ipamorelin, is described. Ipamorelin is a pentapeptide (Aib-His-D-2-Nal-D-Phe-Lys-NH2), which displays high GH releasing potency and efficacy in vitro and in vivo. As an outcome of a major chemistry programme, ipamorelin was identified within a series of compounds lacking the central dipeptide Ala-Trp of growth hormone-releasing peptide (GHRP)-1. In vitro, ipamorelin released GH from primary rat pituitary cells with a potency and efficacy similar to GHRP-6 (ECs) = 1.3+/-0.4nmol/l and Emax = 85+/-5% vs 2.2+/-0.3nmol/l and 100%). A pharmacological profiling using GHRP and growth hormone-releasing hormone (GHRH) antagonists clearly demonstrated that ipamorelin, like GHRP-6, stimulates GH release via a GHRP-like receptor. In pentobarbital anaesthetised rats, ipamorelin released GH with a potency and efficacy comparable to GHRP-6 (ED50 = 80+/-42nmol/kg and Emax = 1545+/-250ng GH/ml vs 115+/-36nmol/kg and 1167+/-120ng GH/ml). In conscious swine, ipamorelin released GH with an ED50 = 2.3+/-0.03 nmol/kg and an Emax = 65+/-0.2 ng GH/ml plasma. Again, this was very similar to GHRP-6 (ED50 = 3.9+/-1.4 nmol/kg and Emax = 74+/-7ng GH/ml plasma). GHRP-2 displayed higher potency but lower efficacy (ED50 = 0.6 nmol/kg and Emax = 56+/-6 ng GH/ml plasma). The specificity for GH release was studied in swine. None of the GH secretagogues tested affected FSH, LH, PRL or TSH plasma levels. Administration of both GHRP-6 and GHRP-2 resulted in increased plasma levels of ACTH and cortisol. Very surprisingly, ipamorelin did not release ACTH or cortisol in levels significantly different from those observed following GHRH stimulation. This lack of effect on ACTH and cortisol plasma levels was evident even at doses more than 200-fold higher than the ED50 for GH release. In conclusion, ipamorelin is the first GHRP-receptor agonist with a selectivity for GH release similar to that displayed by GHRH. The specificity of ipamorelin makes this compound a very interesting candidate for future clinical development."
+  },
+  {
+   "pmid": "41966639",
+   "titel": "Safety and Efficacy of Approved and Unapproved Peptide Therapies for Musculoskeletal Injuries and Athletic Performance",
+   "jahr": "2026",
+   "journal": "Sports Med",
+   "erstautor": "Mendias CL",
+   "doi": "10.1007/s40279-026-02437-0",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Peptides are short chains of amino acids with a unique pharmacological niche between small-molecule drugs and large proteins. Their use in sports medicine is rapidly expanding, driven by patient demand for accelerated injury recovery and performance enhancement. While numerous peptide drugs have undergone a rigorous approval process that evaluates both safety and efficacy, a parallel \"gray market\" of unapproved compounds has emerged, operating largely outside of regulatory oversight. Our objective is to present the pharmacological mechanisms, safety profiles, and regulatory status of prominent approved and unapproved peptides marketed direct to patients, including AOD-9604 (anti-obesity drug 9604), BPC-157 (body protection compound 157), CJC-1295, FS-344 (follistatin-344), GHK-Cu (glycyl-L-histidyl-L-lysine copper), ipamorelin, MOTS-C (mitochondrial ORF of the 12S rRNA type-c), sermorelin, SS-31 (elamipretide), tesamorelin (Egrifta), Tβ4 (thymosin beta-4), and TB-500 (thymosin beta-4 fragment). Many unapproved peptides demonstrate favorable tissue repair and metabolic outcomes in animal models, but rigorous human safety data are scarce, and there is potential for serious harm to patients. This narrative review focuses on the utilization of peptides in sports medicine, and alternative treatments that may be considered. We provide a framework to navigate patient discussions about peptides to better facilitate evidence-based practices for musculoskeletal healing and athletic performance. We also discuss the placebo effect as a mediator of peptide efficacy, and how social media amplifies this effect."
+  },
+  {
+   "pmid": "41490200",
+   "titel": "Therapeutic Peptides in Orthopaedics: Applications, Challenges, and Future Directions",
+   "jahr": "2026",
+   "journal": "J Am Acad Orthop Surg Glob Res Rev",
+   "erstautor": "Rahman OF",
+   "doi": "10.5435/JAAOSGlobal-D-25-00236",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Therapeutic peptides are emerging as promising adjuncts in the management of orthopaedic injuries, grounded in their ability to modulate molecular signaling networks central to cellular medicine. By acting on key pathways such as PI3K/Akt, mTOR, MAPK, TGF-β, and AMPK, peptides exert influence over tissue regeneration, inflammation resolution, and neuromuscular recovery. Wound-healing peptides such as BPC-157, TB-500, and GHK-Cu promote angiogenesis, integrin-mediated extracellular matrix remodeling, and fibroblast activation, whereas growth hormone secretagogues like ipamorelin, CJC-1295, tesamorelin, sermorelin, and AOD-9604 activate IGF-1 signaling and satellite cell repair. Recovery-enhancing agents such as epithalon, delta sleep-inducing peptide, and pinealon target circadian and mitochondrial regulators, and neuroactive peptides like selank, semax, and dihexa enhance brain-derived neurotrophic factor and HGF/c-Met pathways critical to neuroplasticity. Although preclinical studies are promising, there is a current lack of clinical trials. This review integrates current mechanistic insights with orthopaedic relevance, emphasizing safety, efficacy, and future directions for responsible integration into musculoskeletal care."
+  },
+  {
+   "pmid": "41476424",
+   "titel": "Injectable Peptide Therapy: A Primer for Orthopaedic and Sports Medicine Physicians",
+   "jahr": "2026",
+   "journal": "Am J Sports Med",
+   "erstautor": "Mayfield CK",
+   "doi": "10.1177/03635465251357593",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "BACKGROUND: Therapeutic peptides are short-chain amino acids that regulate cellular functions and facilitate biochemical processes. In recent years, there has been significant growth in the global market for therapeutic peptides and thus its popularity among patients. Given the increase in the development of peptides and increased marketing to patients for orthopaedic injuries, it is critical for orthopaedic surgeons to understand the current evidence behind these therapeutic peptides. PURPOSE: To evaluate the current evidence and applications of injectable peptide therapy, focusing on its potential in regenerative medicine and sports performance, to help orthopaedic providers better understand the current state of different therapeutic peptide approaches. STUDY DESIGN: Narrative review. METHODS: A comprehensive literature search was conducted using PubMed to identify biochemical and clinical studies on the most popular types of injectable peptide therapy. Key peptides evaluated included BPC-157, TB-4, TB-500, CJC-1295 + ipamorelin, tesamorelin, and GHK-Cu. RESULTS: BPC-157 demonstrated potential benefits in tendon and muscle repair, but these findings are largely unvalidated in human trials. A single human case series reported improvements in pain after intra-articular knee injections of BPC-157, although significant methodological flaws and a lack of controls limit its applicability and reliability. TB-4 and its derivative TB-500 promoted angiogenesis and tissue repair in preclinical models, but human orthopaedic data are lacking, and both remain banned substances in sports. CJC-1295 combined with ipamorelin showed significantly improved maximum tetanic tension in murine models with glucocorticoid-induced muscle loss, but these findings are limited to animal studies. Tesamorelin, approved for treating HIV-associated lipodystrophy, has no supporting orthopaedic evidence. GHK-Cu showed promise in wound healing and anti-inflammatory effects, but no clinical data support its use for musculoskeletal conditions. CONCLUSION: While peptide therapy may possess significant therapeutic and regenerative potential, it is critical that orthopaedic and sports medicine providers understand the current lack of evidence to support the clinical use of these peptides. Importantly, information regarding the indications, dosing, frequency, and duration of treatment remains unknown. Despite the popularity of these peptides in mainstream media and among patients, significant research regarding the safety and efficacy of these therapeutic methods is required before definitive recommendations can be made to patients."
+  },
+  {
+   "pmid": "42578445",
+   "titel": "Peptide Supplements and Their Therapeutic Applications in Sports Medicine",
+   "jahr": "2026",
+   "journal": "Am J Sports Med",
+   "erstautor": "Tewari K",
+   "doi": "10.1177/03635465261464420",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: The peptide supplement market has experienced rapid growth due to marketing claims of enhanced performance and accelerated recovery from musculoskeletal injury. These peptides are increasingly popular with patients and athletes and are often perceived as low risk, despite the absence of efficacy or safety data for many emerging peptides. PURPOSE: To summarize existing peer-reviewed data on 6 emerging peptides (BPC-157, thymosin beta-4 or TB-500, CJC-1295, MK-677, ipamorelin, and GHK-Cu [copper peptide]) for musculoskeletal recovery and enhancement in animal and human models. STUDY DESIGN: Scoping review. METHODS: Three independent reviewers searched the PubMed database using permutations of peptide search terms (BPC-157, TB-500, CJC-1295, MK-677 [ibutamoren], ipamorelin, and GHK-Cu) combined with musculoskeletal tissue search terms (bone, fracture, muscle, tendon, ligament, meniscus, and cartilage) following PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines. Papers were independently screened by 2 reviewers, with a third serving as a tiebreaker. Papers examining these peptides for musculoskeletal treatment, tissue recovery, or performance in animal or human models were included. RESULTS: Overall, 67% of identified publications utilized preclinical animal models. In animal models, most commonly rats, each compound demonstrated unique mechanisms with promising but variable effects on tendon, muscle, bone, and ligament healing. Human clinical studies were limited to a handful of investigations, most lacking robust controls or rigorous study designs. Human data were heterogeneous and revealed modest improvements at best for metabolic bone health and degenerative knee pain. Some peptides such as MK-677 were associated with significant risks including congestive heart failure, and significant heterogeneity existed in dosing and route of administration. CONCLUSION: Despite promising findings in animal studies, the claimed benefits of emerging peptide supplements for musculoskeletal recovery and performance remain unsubstantiated by current human trials. Documented risks include cardiovascular complications and metabolic dysfunction such as insulin resistance. Because of the lack of robust efficacy and safety data, peptide supplements should not currently be recommended as a replacement or adjunct for existing orthopaedic standard of care."
+  },
+  {
+   "pmid": "15665799",
+   "titel": "Mechanism of ipamorelin-evoked insulin release from the pancreas of normal and diabetic rats",
+   "jahr": "2004",
+   "journal": "Neuro Endocrinol Lett",
+   "erstautor": "Adeghate E",
+   "doi": "",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: To examine the effect of ipamorelin (IPA), a novel pentapeptide with a strong growth hormone releasing potency, on insulin secretion from pancreatic tissue fragments of normal and diabetic rats. MATERIALS AND METHODS: Diabetes mellitus was induced by streptozotocin (60 mg kg(-1)). Four weeks after the induction of diabetes, pancreatic tissue fragments of normal and diabetic rats were removed and incubated with different concentrations (10(-12) - 10(-6) M) of IPA. Insulin release from the pancreas was measured by radioimmunoassay. RESULTS: Ipamorelin evoked significant (p<0.04) increases in insulin secretion from the pancreas of normal and diabetic rats. Either diltiazem or yohimbine or propranolol or a combination of atropine, propranolol and yohimbine inhibited IPA-evoked insulin secretion significantly (p<0.03) from the pancreas of normal and diabetic rats. Atropine caused a significant (p<0.007) reduction in the IPA-induced insulin secretion in diabetic but not in normal rats. CONCLUSION: IPA stimulates insulin release through the calcium channel and the adrenergic receptor pathways. This is the first study to examine the effect of ipamorelin on insulin secretion in the pancreas."
+  },
+  {
+   "pmid": "32257855",
+   "titel": "Beyond the androgen receptor: the role of growth hormone secretagogues in the modern management of body composition in hypogonadal males",
+   "jahr": "2020",
+   "journal": "Transl Androl Urol",
+   "erstautor": "Sinha DK",
+   "doi": "10.21037/tau.2019.11.30",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Male hypogonadism is an increasingly prevalent clinical condition that affects patients' quality of life and overall health. Obesity and metabolic syndrome can both cause and result from hypogonadism. Although testosterone remains the gold standard for hypogonadism management, its benefits are not always conserved across different populations, especially with regards to changes in body composition. Partially in response to this, growth hormone secretagogues (GHS) have emerged as a potential novel adjunctive therapy for some of the symptoms of hypogonadism, although current data on their clinical efficacy largely remain lacking. The present review examines the existing literature on the use of GHS and explores their potential complementary role in the management of hypogonadal and eugonadal males with metabolic syndrome or subclinical hypogonadism (SH). The GHS that will be discussed include sermorelin, growth hormone-releasing peptides (GHRP)-2, GHRP-6, ibutamoren, and ipamorelin. All are potent GH and IGF-1 stimulators that can significantly improve body composition while ameliorating specific hypogonadal symptoms including fat gain and muscular atrophy. However, a paucity of data examining the clinical effects of these compounds currently limits our understanding of GHS' role in the treatment of men with hypogonadism, but does open opportunities for future investigation."
+  },
+  {
+   "pmid": "42123471",
+   "titel": "Therapeutic Peptides in Aesthetic, Metabolic and Endocrine Conditions: Effects, Safety, Clinical Applications, and Future Perspectives",
+   "jahr": "2026",
+   "journal": "Int J Mol Sci",
+   "erstautor": "Renke G",
+   "doi": "10.3390/ijms27093890",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Therapeutic peptides are short chains of amino acids used to treat metabolic and endocrine conditions such as obesity and type 2 diabetes. While several peptide drugs have undergone rigorous approval processes that evaluate both safety and efficacy, novel, unapproved compounds have emerged and are rapidly expanding into preventive medicine and performance enhancement. Our objective is to present the effects, clinical applications, safety profiles, and regulatory status of prominent peptides used to treat several conditions. We reviewed 106 articles, prioritizing systematic reviews, meta-analyses, and randomized controlled trials in the PubMed, ScienceDirect, and SciELO databases. Our results suggest that therapeutic peptides are a promising tool for treating type 2 diabetes and obesity, for skin rejuvenation, and as hormone analogs for specific diseases and conditions. Although these are strategic and innovative options that can improve health, performance, and longevity, further studies are needed before most new peptides can be used safely in humans."
+  },
+  {
+   "pmid": "41880199",
+   "titel": "A new era of doping? Use of peptide and peptide-analog drugs in recreational and professional sport and bodybuilding: a critical review",
+   "jahr": "2026",
+   "journal": "J Sports Med Phys Fitness",
+   "erstautor": "Coutinho LFD",
+   "doi": "10.23736/S0022-4707.26.17773-1",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "The pursuit of pharmacological enhancement in sport has evolved from the widespread use of anabolic-androgenic steroids (AAS) to novel agents such as peptides and peptide analogues. Marketed as more selective and ostensibly safer alternatives, peptides-including growth hormone secretagogues (e.g., Ipamorelin), growth hormone-releasing hormone analogues (e.g., CJC-1295, Sermorelin), and synthetic fragments (e.g., Frag 176-191, KPV)-are promoted for muscle growth, fat metabolism, recovery, and anti-inflammatory effects. Their pharmacological profiles, including enhanced stability and receptor selectivity, have made them attractive in both medical research and bodybuilding communities. Despite their growing popularity, the clinical evidence supporting peptide use in sport is limited. Most published studies examine therapeutic applications under controlled dosing regimens, not the supraphysiological or combined protocols common in bodybuilding. Emerging data highlight potential risks: cardiovascular strain, insulin resistance, dyslipidemia, and psychiatric instability. The largely unregulated supply chain exacerbates these dangers, as products are often mislabeled or contaminated. Regulatory bodies such as the World Anti-Doping Agency (WADA) have responded by expanding detection technologies, yet analytical challenges remain due to peptides' structural similarity to endogenous hormones and short half-lives. Beyond elite sport, the extent of peptide use in the general population is unknown. Anecdotal reports and widespread promotion on social media suggest growing uptake among recreational gym-goers, including younger individuals, but prevalence studies are lacking. This represents a critical gap in current knowledge. In conclusion, peptides represent a new phase in performance enhancement but remain experimental substances with poorly defined long-term risks. Until longitudinal data clarify their safety and prevalence, peptide use in both competitive and recreational settings should be considered high-risk and ethically problematic."
+  },
+  {
+   "pmid": "27497113",
+   "titel": "Doping control container for urine stabilization: a pilot study",
+   "jahr": "2017",
+   "journal": "Drug Test Anal",
+   "erstautor": "Tsivou M",
+   "doi": "10.1002/dta.2048",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Urine collection containers used in the doping control collection procedure do not provide a protective environment for urine, against degradation by microorganisms and proteolytic enzymes. An in-house chemical stabilization mixture was developed to tackle urine degradation problems encountered in human sport samples, in cases of microbial contamination or proteolytic activity. The mixture consists of antimicrobial substances and protease inhibitors for the simultaneous inactivation of a wide range of proteolytic enzymes. It has already been tested in lab-scale, as part of World Anti-Doping Agency's (WADA) funded research project, in terms of efficiency against microbial and proteolytic activity. The present work, funded also by WADA, is a follow-up study on the improvement of chemical stabilization mixture composition, application mode and limitation of interferences, using pilot urine collection containers, spray-coated in their internal surface with the chemical stabilization mixture. Urine in plastic stabilized collection containers have been gone through various incubation cycles to test for stabilization efficiency and analytical matrix interferences by three WADA accredited Laboratories (Athens, Ghent, and Rome). The spray-coated chemical stabilization mixture was tested against microorganism elimination and steroid glucuronide degradation, as well as enzymatic breakdown of proteins, such as intact hCG, recombinant erythropoietin and small peptides (GHRPs, ipamorelin), induced by proteolytic enzymes. Potential analytical interferences, observed in the presence of spray-coated chemical stabilization mixture, were recorded using routine screening procedures. The results of the current study support the application of the spray-coated plastic urine container, in the doping control collection procedure. Copyright © 2016 John Wiley & Sons, Ltd."
+  },
+  {
+   "pmid": "32801950",
+   "titel": "Attenuation of Visceral and Somatic Nociception by Ghrelin Mimetics",
+   "jahr": "2020",
+   "journal": "J Exp Pharmacol",
+   "erstautor": "N Mohammadi E",
+   "doi": "10.2147/JEP.S249747",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "PURPOSE: The anti-nociceptive properties of ghrelin have been demonstrated in alleviating inflammatory and neuropathic pain. Whether a ghrelin receptor-mediated mechanism attenuates visceral and somatic pain in the absence of active inflammation remains to be explored. Here, we investigate the efficacy of peripherally restricted (ipamorelin) and a globally active (HM01) selective ghrelin receptor agonist in an experimental model of non-inflammatory visceral hypersensitivity and somatic mechanical allodynia. MATERIALS AND METHODS: Visceral hypersensitivity was induced by dilute acetic acid (0.6%) infusion in the colon of rats in the absence of colonic epithelial inflammation. Ghrelin mimetics HM01 and ipamorelin were administered orally or intravenously, respectively. The ghrelin receptor antagonist H0900 was administered orally. Colonic sensitivity was assessed via a visceromotor behavioral response (VMR) quantified as the number of abdominal contractions in response to graded isobaric pressures (0-60 mmHg) of colorectal distension (CRD). Somatic mechanical allodynia was quantified by the number of ipsilateral paw withdrawals in response to a calibrated von Frey filament. RESULTS: Compared to vehicle controls, ghrelin mimetics HM01 and ipamorelin significantly attenuated colonic hypersensitivity and somatic allodynia. The anti-nociceptive effects of the ghrelin mimetics were blocked after administration of the ghrelin receptor antagonist H0900. CONCLUSION: We have shown that ghrelin receptor-mediated mechanisms are involved in visceral and somatic hypersensitivity in the absence of active colonic inflammation. Furthermore, visceral and somatic hypersensitivity could be attenuated by a peripherally restricted ghrelin mimetic. These results highlight a potential novel approach for treating acute visceral and somatic pain by ghrelin mimetics."
+  },
+  {
+   "pmid": "10373343",
+   "titel": "Ipamorelin, a new growth-hormone-releasing peptide, induces longitudinal bone growth in rats",
+   "jahr": "1999",
+   "journal": "Growth Horm IGF Res",
+   "erstautor": "Johansen PB",
+   "doi": "10.1054/ghir.1999.9998",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Ipamorelin is a new and potent synthetic pentapeptide which has distinct and specific growth hormone (GH)-releasing properties. With the objective of investigating the effects on longitudinal bone growth rate (LGR), body weight (BW), and GH release, ipamorelin in different doses (0, 18, 90 and 450 microg/day) was injected s.c. three times daily for 15 days to adult female rats. After intravital tetracycline labelling on days 0, 6, and 13, LGR was determined by measuring the distance between the respective fluorescent bands in the proximal tibia metaphysis. Ipamorelin dose-dependently increased LGR from 42 microm/day in the vehicle group to 44, 50, and 52 microm/day in the treatment groups (P<0.0001). There was also a pronounced and dose-dependent effect on BW gain. The treatment did not affect total IGF-I levels, IGFBPs, or serum markers of bone formation and resorption. The number of tartrate-resistant acid phosphatase-positive multinuclear cells in the metaphysis of the tibia did not change significantly with treatment. The responsiveness of the pituitary to a provocative i.v. dose of ipamorelin or GHRH showed that the plasma GH response was marginally reduced (P<0.03) after ipamorelin, but unchanged after GHRH. The pituitary GH content was unchanged by ipamorelin treatment. Whether ipamorelin or other GH secretagogues may have a place in the treatment of children with growth retardation requires demonstration in future clinical studies."
+  },
+  {
+   "pmid": "23101768",
+   "titel": "Metabolism of growth hormone releasing peptides",
+   "jahr": "2012",
+   "journal": "Anal Chem",
+   "erstautor": "Thomas A",
+   "doi": "10.1021/ac302034w",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "New, potentially performance enhancing compounds have frequently been introduced to licit and illicit markets and rapidly distributed via worldwide operating Internet platforms. Developing fast analytical strategies to follow these new trends is one the most challenging issues for modern doping control analysis. Even if reference compounds for the active drugs are readily obtained, their unknown metabolism complicates effective testing strategies. Recently, a new class of small C-terminally amidated peptides comprising four to seven amino acid residues received considerable attention of sports drug testing authorities due to their ability to stimulate growth hormone release from the pituitary. The most promising candidates are the growth hormone releasing peptide (GHRP)-1, -2, -4, -5, -6, hexarelin, alexamorelin, and ipamorelin. With the exemption of GHRP-2, the entity of these peptides represents nonapproved pharmaceuticals; however, via Internet providers, all compounds are readily available. To date, only limited information on the metabolism of these substances is available and merely one metabolite for GHRP-2 is established. Therefore, a comprehensive in vivo (po and iv administration in rats) and in vitro (with human serum and recombinant amidase) study was performed in order to generate information on urinary metabolites potentially useful for routine doping controls. The urine samples from the in vivo experiments were purified by mixed-mode cation-exchange solid-phase extraction and analyzed by ultrahigh-performance liquid chromatography (UHPLC) separation followed by high-resolution/high-accuracy mass spectrometry. Combining the high resolution power of a benchtop Orbitrap mass analyzer for the first metabolite screening and the speed of a quadrupole/time-of-flight (Q-TOF) instrument for identification, urinary metabolites were screened by means of a sensitive full scan analysis and subsequently confirmed by high-accuracy product ion scan experiments. Two deuterium-labeled internal standards (triply deuterated GHRP-4 and GHRP-2 metabolite) were used to optimize the extraction and analysis procedure. Overall, 28 metabolites (at least three for each GHRP) were identified from the in vivo samples and main metabolites were confirmed by the human in vitro model. All identified metabolites were formed due to exopeptidase- (amino- or carboxy-), amidase-, or endopeptidase activity."
+  },
+  {
+   "pmid": "42021992",
+   "titel": "Therapeutic peptides in gerontology: mechanisms and applications for healthy aging",
+   "jahr": "2026",
+   "journal": "Front Aging",
+   "erstautor": "Mavrych V",
+   "doi": "10.3389/fragi.2026.1790247",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "BACKGROUND: Peptide therapeutics represent an emerging frontier in gerontological medicine, targeting fundamental hallmarks of aging including metabolic dysfunction, telomere attrition, tissue repair impairment, and hormonal decline. OBJECTIVE: To comprehensively review the mechanisms, clinical applications, evidence base, and safety profiles of therapeutic peptides with demonstrated or potential applications in healthy aging and age-related conditions. METHODS: A comprehensive narrative review was conducted through systematic searches of PubMed, Scopus, and regulatory databases (FDA, WADA) from inception through January 2026. Search terms included \"peptide therapeutics,\" \"aging,\" \"gerontology,\" \"healthspan,\" combined with specific peptide names (tirzepatide, epitalon, GHK-Cu, BPC-157, TB-500, Semax, CJC-1295, ipamorelin, bremelanotide). Peer-reviewed articles, clinical trials, regulatory documents, and preclinical studies were evaluated. A total of 20 primary sources were selected based on relevance, methodological quality, and contribution to understanding peptide mechanisms and clinical outcomes in aging populations. RESULTS: Nine peptides were identified spanning diverse aging interventions: metabolic restoration (tirzepatide), telomere biology (epitalon), dermal regeneration (GHK-Cu), tissue repair (BPC-157, TB-500), neuroprotection (Semax), growth hormone modulation (CJC-1295, ipamorelin), and sexual function (bremelanotide). FDA-approved agents demonstrated robust safety profiles from large-scale trials. Non-approved peptides showed promising preclinical and limited clinical evidence but lack long-term safety data and systematic validation. Significant knowledge gaps include optimal dosing regimens, combination therapy effects, and biomarkers for monitoring efficacy. CONCLUSION: Therapeutic peptides offer mechanistically diverse approaches to multiple aging hallmarks. While FDA-approved agents demonstrate clinical potential, investigational peptides require rigorous validation through well-designed clinical trials to establish safety and efficacy for healthspan extension."
+  },
+  {
+   "pmid": "29864719",
+   "titel": "Analysis of new growth promoting black market products",
+   "jahr": "2018",
+   "journal": "Growth Horm IGF Res",
+   "erstautor": "Krug O",
+   "doi": "10.1016/j.ghir.2018.05.001",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Detecting agents allegedly or evidently promoting growth such as human growth hormone (GH) or growth hormone releasing peptides (GHRP) in doping controls has represented a pressing issue for sports drug testing laboratories. While GH is a recombinant protein with a molecular weight of 22 kDa, the GHRPs are short (3-6 amino acids long) peptides with GH releasing properties. The endogenously produced GH (22 kDa isoform) consists of 191 amino acids and has a monoisotopic molecular mass of 22,124 Da. Within this study, a slightly modified form of GH was discovered consisting of 192 amino acids carrying an additional alanine at the N-terminus, leading to a monoisotopic mass of 22,195 Da. This was confirmed by top-down and bottom-up experiments using liquid chromatography coupled to high resolution/high accuracy mass spectrometry. Additionally, three analogues of GHRPs were identified as Gly-GHRP-6, Gly-GHRP-2 and Gly-Ipamorelin, representing the corresponding GHRP extended by a N-terminal glycine residue. The structure of these peptides was characterised by means of high resolution (tandem) mass spectrometry, and for Gly-Ipamorelin and Gly-GHRP-2 their identity was additionally confirmed by custom synthesis. Further, established in-vitro experiments provided preliminary information considering the potential metabolism after administration."
+  },
+  {
+   "pmid": "19289567",
+   "titel": "Efficacy of ipamorelin, a novel ghrelin mimetic, in a rodent model of postoperative ileus",
+   "jahr": "2009",
+   "journal": "J Pharmacol Exp Ther",
+   "erstautor": "Venkova K",
+   "doi": "10.1124/jpet.108.149211",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Ghrelin and ghrelin mimetics stimulate appetite and enhance gastric motility. The present study investigates whether ipamorelin, a selective growth hormone secretagogue and agonist of the ghrelin receptor, would accelerate gastrointestinal transit and ameliorate the symptoms in a rodent model of postoperative ileus (POI). Fasted male rats were subjected to laparotomy and intestinal manipulation. At the end of surgery, a dye marker was infused in the proximal colon to evaluate postsurgical colonic transit time, which was the time to the first bowel movement. In addition, fecal pellet output, food intake, and body weight were monitored regularly for 48 h. Ipamorelin (0.01-1 mg/kg), growth hormone-releasing peptide (GHRP)-6 (20 microg/kg), or vehicle (saline) were administered via intravenous bolus infusion after a single dosing or a 2-day repetitive dosing regimen (four doses a day at 3-h intervals). Compared with the vehicle, a single dose of ipamorelin (1 mg/kg) or GHRP-6 (20 microg/kg) decreased the time to the first bowel movement but had no effect on cumulative fecal output, food intake, or body weight gain measured 48 h after the surgery. In contrast, repetitive dosing of ipamorelin (0.1 or 1 mg/kg) significantly increased the cumulative fecal pellet output, food intake, and body weight gain. The results suggest that postsurgical intravenous infusions of ipamorelin may ameliorate the symptoms in patients with POI."
+  },
+  {
+   "pmid": "9879640",
+   "titel": "Pharmacokinetic evaluation of ipamorelin and other peptidyl growth hormone secretagogues with emphasis on nasal absorption",
+   "jahr": "1998",
+   "journal": "Xenobiotica",
+   "erstautor": "Johansen PB",
+   "doi": "10.1080/004982598238976",
+   "typ": [
+    "Comparative Study",
+    "Journal Article"
+   ],
+   "abstract": "1. The pharmacokinetics of three new peptidyl growth hormone secretagogues, ipamorelin (NNC 26-0161), NNC 26-0194 and NNC 26-0235, were compared with two well-known hexapeptides, GHRP-2 and GHRP-6, in the male rat following different routes of administration. 2. Following i.v. bolus injection, plasma concentrations of the peptides declined biexponentially. Ipamorelin differed markedly from the other peptides investigated, demonstrating a systemic plasma clearance 5-fold lower than that of GHRP-6. Ipamorelin was mainly excreted in the urine, whereas GHRP-6 was predominantly excreted in the bile. NNC 26-0194 and NNC 26-0235 also showed high biliary excretions. Ipamorelin and the two NNC peptides were moderately resistant towards metabolism as 60-80% of the administered dose could be recovered from bile and urine as intact peptide. 3. After intranasal application, the bioavailability of ipamorelin was estimated at approximately 20%. Higher bioavailabilities of approximately 50% were determined for NNC 26-0235, NNC 26-0194 and GHRP-2, whereas the nasal absorption of GHRP-6 was somewhat lower. Thus, the peptides could be easily transported across the nasal epithelium suggesting that the nasal route seems promising for systemic delivery of this family of peptidyl growth hormone secretagogues."
+  },
+  {
+   "pmid": "14630569",
+   "titel": "Growth hormone (GH) hypersecretion and GH receptor resistance in streptozotocin diabetic mice in response to a GH secretagogue",
+   "jahr": "2003",
+   "journal": "Exp Diabesity Res",
+   "erstautor": "Johansen PB",
+   "doi": "10.1155/EDR.2003.73",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The growth hormone (GH) and insulin-like growth factor I (IGF-I) axis were studied in streptozotocin (STZ) diabetic and nondiabetic female mice following intravenous (IV) injection of the GH secretagogue (GHS) ipamorelin or saline. On day 14, blood samples were obtained before and 10 minutes after the injection. Livers were removed and frozen for determination of the mRNA expressions of the GH receptor, GH-binding protein, and IGF-I, and hepatic IGF-I peptide. Serum samples were analyzed for GH and IGF-I. Following ipamorelin injection, the GH levels were found to be 150 +/- 35 microg/L and 62 +/- 11 microg/L in the diabetic compared to the nondiabetic mice (P <.05). Serum IGF-I levels were lower in diabetic than in nondiabetic animals, and rose after stimulation only in the nondiabetic animals. Furthermore, hepatic GH resistance and IGF-I mRNA levels and IGF-I peptide were increased in nondiabetic animals in response to GH stimulation, whereas the low levels per se of all these parameters in diabetic mice were unaffected. The study shows that STZ diabetic mice demonstrate a substantial part of the clinical features of type 1 diabetes in humans, including GH hypersecretion and GH resistance. Accordingly, it is proposed that STZ diabetic mice may be a better model of the perturbations of the GH/IGF-I axis in diabetes than STZ diabetic rats."
+  },
+  {
+   "pmid": "38996787",
+   "titel": "The influence of ghrelin agonist ipamorelin acetate on the hypothalamic-pituitary-testicular axis in a cichlid fish, Oreochromis mossambicus",
+   "jahr": "2024",
+   "journal": "Anim Reprod Sci",
+   "erstautor": "Gouda M",
+   "doi": "10.1016/j.anireprosci.2024.107550",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Ghrelin, a peptide found in the brain and gut, is predicted to play a significant role in the control of various physiological systems in fish. The objective of this study was to examine the impact of ipamorelin acetate (IPA), a ghrelin agonist, on the reproductive axis of the tilapia Oreochromis mossambicus. The administration of either 5 or 30 µg of IPA for 21 days led to a significant and dose-dependent rise in food intake concomitant with a significant increase in the numbers of primary spermatocytes, secondary spermatocytes, and early spermatids compared to the control group. There was a significant rise in the number of late spermatids, as well as the areas of the lobule and lumen, in fish treated with 30 µg of IPA, compared to the control group. Moreover, there was no significant difference in the percentage of gonadotropin-releasing hormone (GnRH)-immunoreactive fibres in the hypothalamus and anterior pituitary gland across different groups. However, a significant elevation in the expression of androgen receptor protein was observed in fish treated with 30 µg of IPA. Furthermore, the concentrations of luteinizing hormone (LH) and 11-ketotestosterone (11-KT) in the serum of fish treated with either 5 or 30 µg of IPA were significantly elevated in comparison to the control group. Collectively, these findings suggest that the administration of ghrelin enhances the development of germ cells during the meiosis-I phase and that this effect might be mediated via the stimulation of 11-KT and androgen receptors at the testicular level and LH at the pituitary level in the tilapia."
+  },
+  {
+   "pmid": "12168778",
+   "titel": "Influence of chronic treatment with the growth hormone secretagogue Ipamorelin, in young female rats: somatotroph response in vitro",
+   "jahr": "2002",
+   "journal": "Histol Histopathol",
+   "erstautor": "Jiménez-Reina L",
+   "doi": "10.14670/HH-17.707",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Growth hormone (GH) is secreted in the anterior pituitary gland by the somatotroph cells. Secretion is regulated by growth hormone releasing hormone (GHRH) and somatostatin. Morever, GH secretagogues (GHS) can exert a considerable effect on GH secretion. In order to determine the effects of chronic treatment with the GHS Ipamorelin on the composition of the somatotroph cell population and on somatotroph GH content, an in vitro analysis was performed of the percentage of somatotroph cells (% of total), the ratio of different GH cell types (strongly/weakly-staining) and individual GH content, in pituitary cell cultures obtained from young female rats receiving Ipamorelin over 21 days (Ipamorelin group) and the effects were compared with those of GHRH (GHRH group) or saline (saline group). The ultrastructure of somatotroph cells did not change, but the volume density of secretion granules was increased (P<0.05) by previous in vivo Ipamorelin or GHRH treatment. In 3-day basal pituitary cell monolayer cultures, the percentage of somatotroph cells showed no modifications between groups, nor was there any change in the ratio of strongly/weakly immunostaining GH cells. In the Ipamorelin group alone, in vitro treatment with Ipamorelin (10(-8) M), or GHRP 6 (10(-8) M), or GHRH (10(-8) M) for 4 hours, increased the percentage of somatotroph cells, without modifying the ratio of strongly/weakly immunostained GH cells. Basal intracellular GH content in somatotroph cells over 4 hours was lower in the Ipamorelin group and the GHRH group than in the saline group. Only in the Ipamorelin group did Ipamorelin (10(-8) M), GHRP 6 (10(-8) M) and GHRH (10(-8) M) prompt increased intracellular GH content. These data suggest that, at least in the young female rat, the GHS Ipamorelin is able to exert a dynamic control effect on the somatotroph population and on GH hormone content."
+  },
+  {
+   "pmid": "10828840",
+   "titel": "The GH secretagogues ipamorelin and GH-releasing peptide-6 increase bone mineral content in adult female rats",
+   "jahr": "2000",
+   "journal": "J Endocrinol",
+   "erstautor": "Svensson J",
+   "doi": "10.1677/joe.0.1650569",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Growth hormone (GH) is of importance for normal bone remodelling. A recent clinical study demonstrated that MK-677, a member of a class of GH secretagogues (GHSs), increases serum concentrations of biochemical markers of bone formation and bone resorption. The aim of the present study was to investigate whether the GHSs, ipamorelin (IPA) and GH-releasing peptide-6 (GHRP-6), increase bone mineral content (BMC) in young adult female rats. Thirteen-week-old female Sprague-Dawley rats were given IPA (0.5 mg/kg per day; n=7), GHRP-6 (0.5 mg/kg per day; n=8), GH (3.5 mg/kg per day; n=7), or vehicle administered continuously s.c. via osmotic minipumps for 12 weeks. The animals were followed in vivo by dual X-ray absorptiometry (DXA) measurements every 4th week. After the animals were killed, femurs were analysed in vitro by mid-diaphyseal peripheral quantitative computed tomography (pQCT) scans. After this, excised femurs and vertebrae L6 were analysed by the use of Archimedes' principle and by determinations of ash weights. All treatments increased body weight and total tibial and vertebral BMC measured by DXA in vivo compared with vehicle-treated controls. However, total BMC corrected for the increase in body weight (total BMC:body weight ratio) was unaffected. Tibial area bone mineral density (BMD, BMC/area) was increased, but total and vertebral area BMDs were unchanged. The pQCT measurements in vitro revealed that the increase in the cortical BMC was due to an increased cross-sectional bone area, whereas the cortical volumetric BMD was unchanged. Femur and vertebra L6 volumes were increased but no effect was seen on the volumetric BMDs as measured by Archimedes' principle. Ash weight was increased by all treatments, but the mineral concentration was unchanged. We conclude that treatment of adult female rats with the GHSs ipamorelin and GHRP-6 increases BMC as measured by DXA in vivo. The results of in vitro measurements using pQCT and Archimedes' principle, in addition to ash weight determinations, show that the increases in cortical and total BMC were due to an increased growth of the bones with increased bone dimensions, whereas the volumetric BMD was unchanged."
+  },
+  {
+   "pmid": "11162489",
+   "titel": "Growth hormone (GH)-independent stimulation of adiposity by GH secretagogues",
+   "jahr": "2001",
+   "journal": "Biochem Biophys Res Commun",
+   "erstautor": "Lall S",
+   "doi": "10.1006/bbrc.2000.4065",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Growth hormone secretagogues (GHSs) stimulate growth hormone (GH) secretion, which is lipolytic. Here we compared the effects of twice daily s.c. treatment of GH and the GHS, ipamorelin, on body fat in GH-deficient (lit/lit) and in GH-intact (+/lit and +/+) mice. In +/lit and lit/lit mice ipamorelin induced a small (15%) increase in body weight by 2 weeks, that was not further augmented by 9 weeks. GH treatment markedly enhanced body weight in both groups. Ipamorelin also increased fat pad weights relative to body weight in both lit/lit and +/lit mice. Two weeks GHS treatment (ipamorelin or GHRP-6) also increased relative body fat, quantified by in vivo dual energy X-ray absorpiometry (DEXA) in GH-intact mice. GH decreased relative fat mass in lit/lit mice and had no effect in GH-intact mice. Treatment with GHS, but not GH, increased serum leptin and food intake in GH-intact mice. Thus, GHSs increase body fat by GH-independent mechanisms that may include increased feeding."
+  },
+  {
+   "pmid": "39043357",
+   "titel": "The growth hormone secretagogue receptor 1a agonists, anamorelin and ipamorelin, inhibit cisplatin-induced weight loss in ferrets: Anamorelin also exhibits anti-emetic effects via a central mechanism",
+   "jahr": "2024",
+   "journal": "Physiol Behav",
+   "erstautor": "Lu Z",
+   "doi": "10.1016/j.physbeh.2024.114644",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "This study investigated whether ghrelin mimetics, namely anamorelin and ipamorelin, can alleviate weight loss and inhibition of feeding observed during acute and delayed phases of cisplatin-induced emesis in ferrets. The potential of anamorelin to inhibit electrical field stimulation (EFS)-induced contractions of isolated ferret ileum was compared with ipamorelin. In other experiments, ferrets were administered anamorelin (1-3 mg/kg), ipamorelin (1-3 mg/kg), or vehicle intraperitoneally (i.p.) 30 s before cisplatin (5 mg/kg, i.p.) and then every 24 h, and their behaviour was recorded for up to 72 h. Food and water consumption was measured every 24 h. The effect of anamorelin (10 µg) was also assessed following intracerebroventricular administration. Anamorelin and ipamorelin inhibited EFS-induced contractions of isolated ileum by 94.4 % (half-maximal inhibitory concentration [IC50]=14.0 µM) and 54.4 % (IC50=11.7 µM), respectively. Neither of compounds administered i.p. had any effect on cisplatin-induced acute or delayed emesis, but both inhibited associated cisplatin-induced weight loss on the last day of delayed phase (48-72 h) by approximately 24 %. Anamorelin (10 µg) administered intracerebroventricularly reduced cisplatin-induced acute emesis by 60 % but did not affect delayed emesis. It also improved food and water consumption by approximately 20 %-40 % during acute phase, but not delayed phase, and reduced associated cisplatin-induced weight loss during delayed phase by ∼23 %. In conclusion, anamorelin and ipamorelin administered i.p. had beneficial effects in alleviating cisplatin-induced weight loss during delayed phase, and these effects were seen when centrally administered anamorelin. Anamorelin inhibited cisplatin-induced acute emesis following intracerebroventricular but not intraperitoneal administration, suggesting that brain penetration is important for its anti-emetic mechanism of action."
+  },
+  {
+   "pmid": "27186127",
+   "titel": "Efficacy of ipamorelin, a ghrelin mimetic, on gastric dysmotility in a rodent model of postoperative ileus",
+   "jahr": "2012",
+   "journal": "J Exp Pharmacol",
+   "erstautor": "Greenwood-Van Meerveld B",
+   "doi": "10.2147/JEP.S35396",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: Delayed gastric emptying is a common disorder with few effective therapeutic options. The goal of this study was to investigate whether ipamorelin, a synthetic peptidomimetic that acts on the ghrelin receptor, accelerates gastric emptying in a rodent model of gastroparesis induced by abdominal surgery and intestinal manipulation. METHODS: Fasted adult male rats were subjected to laparotomy and intestinal manipulation. Following the surgery rats received ipamorelin (0.014-0.14 µmol/kg) or vehicle control via intravenous administration. Gastric emptying was measured by the percent of total recovered radioactivity remaining in the stomach 15 minutes after intragastric gavage of 1.5 mL of (99m)Tc (technicium-99m) sulfur colloid in 0.5% methylcellulose. In a separate group of rats subjected to laparotomy and intestinal manipulation, the gastric fundus was isolated and tissue segments were suspended in an organ bath to assess the effect of ipamorelin (1 µM) on gastric smooth muscle contractility induced by acetylcholine and electrical field stimulation. RESULTS: Abdominal surgery caused a delay in gastric emptying with 78% ± 5% of the meal remaining in the stomach in vehicle controls. Ipamorelin (0.014 µmol/kg intravenous) resulted in a significant acceleration (P < 0.05 vs vehicle-treated rat) of gastric emptying with 52% ± 11% of the meal remaining in the stomach compared to nonsurgical control animals with 44% ± 6%. Following abdominal surgery and intestinal manipulation, isolated preparations of gastric smooth muscle exhibited a marked inhibition of acetylcholine and electrical field stimulation-induced contractile responses, which were reversed by ipamorelin and ghrelin. CONCLUSION: These results suggest that ipamorelin accelerates gastric emptying in a rodent model of postoperative ileus through the stimulation of gastric contractility by activating a ghrelin receptor-mediated mechanism involving cholinergic excitatory neurons."
+  },
+  {
+   "pmid": "25869809",
+   "titel": "Determination of growth hormone releasing peptides metabolites in human urine after nasal administration of GHRP-1, GHRP-2, GHRP-6, Hexarelin, and Ipamorelin",
+   "jahr": "2015",
+   "journal": "Drug Test Anal",
+   "erstautor": "Semenistaya E",
+   "doi": "10.1002/dta.1787",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Validation Study"
+   ],
+   "abstract": "Growth hormone releasing peptides (GHRPs) stimulate secretion of endogenous growth hormone and are listed on the World Anti-Doping Agency (WADA) Prohibited List. To develop an effective method for GHRPs anti-doping control we have investigated metabolites of GHRP-1, GHRP-2, GHRP-6, Hexarelin, and Ipamorelin in urine after nasal administration. Each compound was administrated to one volunteer. Samples were collected for 2 days after administration, processed by solid-phase extraction on weak cation exchange cartridges and analyzed by means of nano-liquid chromatography - high resolution mass spectrometry. Six metabolites of GHRP-1 were identified. GHRP-1 in the parent form was not detected. GHRP-1 (2-4) free acid was detected in urine up to 27 h. GHRP-2, GHRP-2 free acid and GHRP-2 (1-3) free acid were detected in urine up to 47 h after administration. GHRP-6 was mostly excreted unchanged and detected in urine 23 h after administration, its metabolites were detectable for 12 h only. Hexarelin and Ipamorelin metabolized intensively and were excreted as a set of parent compounds with metabolites. Hexarelin (1-3) free acid and Ipamorelin (1-4) free acid were detected in urine samples after complete withdrawal of parent substances. GHRPs and their most prominent metabolites were included into routine ultra-pressure liquid chromatography-tandem mass spectrometry procedure. The method was fully validated, calibration curves of targeted analytes were obtained and excretion curves of GHRPs and their metabolites were plotted. Our results confirm that the detection window after GHRPs administration depends on individual metabolism, drug preparation form and the way of administration."
+  },
+  {
+   "pmid": "10427162",
+   "titel": "Pharmacological characterisation of a new oral GH secretagogue, NN703",
+   "jahr": "1999",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Hansen BS",
+   "doi": "10.1530/eje.0.1410180",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "NN703 is a novel orally active GH secretagogue (GHS) derived from ipamorelin. NN703 stimulates GH release from rat pituitary cells in a dose-dependent manner with a potency and efficacy similar to that of GHRP-6. The effect is inhibited by known GHS antagonists, but not by a GH-releasing hormone antagonist. Binding of (35)S-MK677 to the human type 1A GHS receptor (GHS-R 1A) stably expressed on BHK cells was inhibited by GHRP-6 and MK677 as expected. NN703 was also able to inhibit the binding of (35)S-MK677. However, the observed K(i) value was lower than expected, as based on the observed potencies regarding GH release from rat pituitary cells. Similarly, the effect of NN703 on the GHS-R 1A-induced inositol phosphate turnover in these cells showed a lower potency, when compared with GHRP-6 and MK677, than that observed in rat pituitary cells. The effect of i.v. administration of NN703 on GH and cortisol release was studied in swine. The potency and efficacy of NN703 on GH release were determined to be 155+/-23 nmol/kg and 91+/-7 ng GH/ml plasma respectively. A 50% increase of cortisol, compared with basal levels, was observed for all the tested doses of NN703, but no dose-dependency was shown. The effect of NN703 on GH release after i. v. and oral dosing in beagle dogs was studied. NN703 dose-dependently increased the GH release after oral administration. At the highest dose (20 micromol/kg), a 35-fold increase in peak GH concentration was observed (49.5+/-17.8 ng/ml, mean+/-s.e.m.). After a single i.v. dose of 1 micromol/kg the peak GH plasma concentration was elevated to 38.5+/-19.6 ng/ml (mean+/-s.e.m.) approximately 30 min after dosing and returned to basal level after 360 min. The oral bioavailability was 30%. The plasma half-life of NN703 was 4.1+/-0.4 h. A long-term biological effect of NN703 was demonstrated in a rat study, where the body weight gain was measured during a 14-day once daily oral challenge with 100 micromol/kg. The body weight gain was significantly increased after 14 days as compared with a vehicle-treated group. In summary, we here describe an orally active and GH specific secretagogue, NN703. This compound acts through a similar mechanism as GHRP-6, but has a different receptor pharmacology. NN703 induced GH release in both swine and dogs after i.v. and/or p.o. administration, had a high degree of GH specificity in swine and significantly increased the body weight gain in rats."
+  },
+  {
+   "pmid": "9733495",
+   "titel": "A new series of highly potent growth hormone-releasing peptides derived from ipamorelin",
+   "jahr": "1998",
+   "journal": "J Med Chem",
+   "erstautor": "Ankersen M",
+   "doi": "10.1021/jm9801962",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "A new series of GH secretagogues derived from ipamorelin is described. In an attempt to obtain oral bioavailability, by reducing the size and the number of potential hydrogen-bonding sites of the compounds, a strategy using the peptidomimetic fragment 3-(aminomethyl)benzoic acid and sequential backbone N-methylations was applied. Several compounds from this series release GH with high in vitro potency and efficacy in a rat pituitary cell assay and high in vivo potency and efficacy in anesthetized rats. The tetrapeptide NNC 26-0235 (3-(aminomethyl)benzoyl-D-2Nal-N-Me-D-Phe-Lys-NH2) shows, following iv administration, comparable in vivo potency to ipamorelin, GHRP-2, and GHRP-6 with an ED50 in swine at 2 nmol/kg. NNC 26-0235 demonstrated a 10% oral bioavailability in dogs, and NNC 26-0235 and ipamorelin were able to increase basal GH level by more than 10-fold after oral administration of a dose of 1.8 and 2.7 mg/kg, respectively. The tripeptide NNC 26-0323 (3-(aminomethyl)benzoic acid-N-Me-D-2Nal-N-Me-D-Phe-ol) which showed moderate in vitro potency but lacked in vivo potency demonstrated a 20% oral bioavailability in rats."
+  },
+  {
+   "pmid": "19231263",
+   "titel": "Growth hormone and growth hormone secretagogue effects on nitrogen balance and urea synthesis in steroid treated rats",
+   "jahr": "2009",
+   "journal": "Growth Horm IGF Res",
+   "erstautor": "Aagaard NK",
+   "doi": "10.1016/j.ghir.2009.01.001",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVES: Growth hormone (GH) reduces the catabolic side effects of steroid treatment via effects on the amino-nitrogen metabolism. Ipamorelin is a synthetic peptide with GH releasing properties. We wished to study the metabolic effects of Ipamorelin and GH on selected hepatic measures of alpha-amino-nitrogen conversion during steroid-induced catabolism. DESIGN: Five groups of rats were included: (1) free-fed controls (2) pair-fed controls (3) prednisolone (delcortol, 4 mg x kg(-1) x day(-1)) (4) prednisolone and GH (1 mg x kg(-1) x day(-1)) (5) prednisolone and Ipamorelin (0.5 mg x kg(-1) x day(-1)). After seven days the hepatic capacity of urea-N synthesis (CUNS) was determined in parallel with measurements of liver mRNA levels of urea cycle enzymes, whole-body N-balance, and N-contents of various organs. RESULTS: Compared to pair-fed controls, prednisolone increased CUNS (p<0.01) as well as the expression of urea cycle genes (p<0.01), and decreased N-balance (p<0.01) as well as organ N-contents (p<0.05). Compared to prednisolone treated animals, co-administration of GH reduced CUNS by 33% (p<0.01), normalized urea cycle gene expression, improved N-balance 2.5-fold, and normalized or improved organ N-contents. In prednisolone treated rats Ipamorelin reduced CUNS by 20% (p<0.05), decreased the expression of urea cycle enzymes, neutralised N-balance, and normalized or improved organ N-contents. CONCLUSION: Accelerated nitrogen wasting in the liver and other organs caused by prednisolone treatment was counteracted by treatment with either GH or its secretagogue Ipamorelin, though at the doses given less efficiently by the latter. This functional study of animals confirms that the GH secretagogue exerts GH related metabolic effects and may be useful in the treatment of steroid-induced catabolism."
+  },
+  {
+   "pmid": "11735244",
+   "titel": "The growth hormone secretagogue ipamorelin counteracts glucocorticoid-induced decrease in bone formation of adult rats",
+   "jahr": "2001",
+   "journal": "Growth Horm IGF Res",
+   "erstautor": "Andersen NB",
+   "doi": "10.1054/ghir.2001.0239",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The ability of the growth hormone secretagogue (GHS) Ipamorelin to counteract the catabolic effects of glucocorticoid (GC) on skeletal muscles and bone was investigated in vivo in an adult rat model. Groups of 8-month-old female rats were injected subcutaneously for 3 months with GC (methylprednisolone) 9 mg/kg/day or GHS (Ipamorelin) 100 microg/kg three times daily, or both GC and GHS in combination. The maximum tetanic tension of the calf muscles was determined in vivo in a materials testing machine. The maximum tetanic tension was increased significantly, and the periosteal bone formation rate increased four-fold in animals injected with GC and GHS in combination, compared with the group injected with GC alone. In conclusion, the decrease in muscle strength and bone formation found in GC-injected rats was counteracted by simultaneous administration of the growth hormone secretagogue."
+  },
+  {
+   "pmid": "10629165",
+   "titel": "Methylprednisolone does not inhibit the release of growth hormone after intravenous injection of a novel growth hormone secretagogue in rats",
+   "jahr": "1999",
+   "journal": "Growth Horm IGF Res",
+   "erstautor": "Malmlöf K",
+   "doi": "10.1054/ghir.1999.0128",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The present study was undertaken to study the growth hormone-releasing properties and growth-promoting effect of a GH secretagogue ipamorelin (IPA) in rats given the synthetic glucocorticoid methylprednisolone (MP). In a first experiment, rats received either saline or MP (5.0 mg/kg) for 8 days. Treatment with MP significantly (P< 0.001) decreased body weight gain, but the acute response to either IPA or growth hormone releasing hormone (GHRH) in terms of plasma GH was not changed. In a second experiment, venous catheters were surgically implanted. On the next day, rats were randomly allocated to receive saline alone, MP alone (5.0 mg/kg) or MP plus IPA in doses of 0.4 or 1.6 mg/kg/day for 10 days. IPA was administered intravenously four times a day.MP treatment significantly (P< 0.05) retarded recovery from surgery in terms of body weight. Thus, saline treated animals lost 4.0 +/- 3.5 g over the entire experimental period, whereas animals receiving MP lost 13. 6 +/- 2.9 g. When IPA was given together with MP, losses in body weight were significantly (P< 0.05) reduced to 2.3 +/- 2.0 and 1.6 +/- 2.0 g in animals given the high and low dose of IPA, respectively. In parallel with this IGF-I levels increased. In conclusion, this work shows that MP does not disrupt the response of the GH-IGF-I axis to an exogenous stimulus like IPA, and repeated stimulation leads to increases in IGF-I and of body weight gain."
+  },
+  {
+   "pmid": "9733496",
+   "titel": "Novel orally active growth hormone secretagogues",
+   "jahr": "1998",
+   "journal": "J Med Chem",
+   "erstautor": "Hansen TK",
+   "doi": "10.1021/jm980197u",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "A novel class of growth hormone-releasing compounds with a molecular weight in the range from 500 to 650 has been discovered. The aim of this study was to obtain growth hormone secretagogues with oral bioavailability. By a rational approach we were able to reduce the size of the lead compound ipamorelin (4) and simultaneously to reduce hydrogen-bonding potential by incorporation of backbone isosters while retaining in vivo potency in swine. A rat pituitary assay was used for screening of all compounds and to evaluate which compounds should be tested further for in vivo potency in swine and oral bioavailability, fpo, in dogs. Most of the tested compounds had fpo in the range of 10-55%. In vivo potency in swine after iv dosing is reported, and ED50 was found to be 30 nmol/kg of body weight for the most potent compound."
+  },
+  {
+   "pmid": "11322495",
+   "titel": "Do growth hormone-releasing peptides act as ghrelin secretagogues?",
+   "jahr": "2001",
+   "journal": "Endocrine",
+   "erstautor": "Ahnfelt-Rønne I",
+   "doi": "10.1385/ENDO:14:1:133",
+   "typ": [
+    "Comparative Study",
+    "Journal Article"
+   ],
+   "abstract": "NN703 is an orally active and selective growth hormone secretagogue (GHS) that was derived from growth hormone-releasing peptide-1(GHRP-1) via ipamorelin by a peptidomimetic approach and has now entered into phase II clinical trials. When the disposition in rats of NN703 and GHRP-6 was studied using whole-body autoradiography following administration of an iv dose of radiolabeled material, we found that a substantial amount of these secretagogues accumulate in the glandular part of the stomach. Because this is the site of synthesis and secretion of ghrelin, the endogenous GHS, we investigated the effect of resection of the gastrointestinal (GI) tract on growth hormone (GH) release induced by GHRP-6. This procedure significantly attenuated the GH secretion response by 60-70%. By contrast, the effect of GH-releasing hormone on GH release was not inhibited. The binding of GHRPs to the glandular part of the stomach and the blunted GH response to GHRP-6 following resection of the GI tract suggest a role for ghrelin as a mediator of part of the GH-releasing effect of GHRPs."
+  },
+  {
+   "pmid": "26811125",
+   "titel": "Structure-activity relationship for peptídic growth hormone secretagogues",
+   "jahr": "2017",
+   "journal": "Drug Test Anal",
+   "erstautor": "Ferro P",
+   "doi": "10.1002/dta.1947",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Growth hormone releasing peptides (GHRPs) could be widely used by cheating athletes because they produce growth hormone (GH) secretion, so may generate an ergogenic effect in the body. Knowledge of the essential amino acids needed in GHRP structure for interaction with the target biological receptor GHSR1a, the absorption through different administration routes, and the maintenance of pharmacological activity of potential biotransformation products may help in the fight against their abuse in sport. Several GHRPs and truncated analogues with the common core Ala-Trp-(D-Phe)-Lys have been studied with a radio-competitive assay for the GHSR1a receptor against the radioactive natural ligand ghrelin. Relevant chemical modifications influencing the activity for positions 1, 2, 3, and 7 based on the structure aa-aa-aa-Ala-Trp-(D-Phe)-Lys have been obtained. To test in vivo the applicability of the activities observed, the receptor assay activity in samples from excretion studies performed after nasal administration of GHRP-1, GHRP-2, GHRP-6, Hexarelin, and Ipamorelin was confirmed. Overall results obtained allow to infer structure-activity information for those GHRPs and to detect GHSR1a binding (intact GHRPs plus active metabolites) in excreted urines. Copyright © 2016 John Wiley & Sons, Ltd."
+  },
+  {
+   "pmid": "30136411",
+   "titel": "Glycine-modified growth hormone secretagogues identified in seized doping material",
+   "jahr": "2019",
+   "journal": "Drug Test Anal",
+   "erstautor": "Gajda PM",
+   "doi": "10.1002/dta.2489",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "A number of unknown pharmaceutical preparations seized by Danish customs authorities were submitted for liquid chromatography-high resolution mass spectrometry (LC-HRMS) analysis. Comparison with reference standards unequivocally identified the content of the powders as analogs of the growth hormone secretagogues GHRP-2 (Pralmorelin), GHRP-6, Ipamorelin, and modified growth hormone releasing factor (modified GRF 1-29), which can be used as performance-enhancing substances in sports. In all cases, the detected modification involved the addition of an extra glycine amino acid at the N-terminus, and analytical methods targeting growth hormone secretagogues should hence be updated accordingly."
+  },
+  {
+   "pmid": "24574167",
+   "titel": "A high-throughput LC-MS/MS screen for GHRP in equine and human urine, featuring peptide derivatization for improved chromatography",
+   "jahr": "2014",
+   "journal": "Drug Test Anal",
+   "erstautor": "Timms M",
+   "doi": "10.1002/dta.1624",
+   "typ": [
+    "Journal Article",
+    "Validation Study"
+   ],
+   "abstract": "The growth hormone releasing peptides (GHRPs) hexarelin, ipamorelin, alexamorelin, GHRP-1, GHRP-2, GHRP-4, GHRP-5, and GHRP-6 are all synthetic met-enkephalin analogues that include unnatural D-amino acids. They were designed specifically for their ability to stimulate growth hormone release and may serve as performance enhancing drugs. To regulate the use of these peptides within the horse racing industry and by human athletes, a method is presented for the extraction, derivatization, and detection of GHRPs from equine and human urine. This method takes advantage of a highly specific solid-phase extraction combined with a novel derivatization method to improve the chromatography of basic peptides. The method was validated with respect to linearity, repeatability, intermediate precision, specificity, limits of detection, limits of confirmation, ion suppression, and stability. As proof of principle, all eight GHRPs or their metabolites could be detected in urine collected from rats after intravenous administration."
+  },
+  {
+   "pmid": "11459660",
+   "titel": "Highly potent growth hormone secretagogues: hybrids of NN703 and ipamorelin",
+   "jahr": "2001",
+   "journal": "Bioorg Med Chem Lett",
+   "erstautor": "Hansen TK",
+   "doi": "10.1016/s0960-894x(01)00345-6",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "A series of NN703 analogues with lysine mimetics combined with naphthyl- or biphenylalanine in the core has been prepared and tested in vitro in a rat pituitary cell based assay and subsequently in vivo in pigs in a single dose at 50 nmol/kg. Re-introduction of certain pharmacophores in the C-terminal of NN703, which were originally removed during optimisation for oral bioavailability, led to unexpectedly potent compounds in vitro as well as in vivo."
+  },
+  {
+   "pmid": "30282322",
+   "titel": "Peptidomimetic growth hormone secretagogue derivatives for positron emission tomography imaging of the ghrelin receptor",
+   "jahr": "2018",
+   "journal": "Eur J Med Chem",
+   "erstautor": "Fowkes MM",
+   "doi": "10.1016/j.ejmech.2018.08.062",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The ghrelin receptor is a seven-transmembrane (7-TM) receptor known to have an increased level of expression in human carcinoma and heart failure. Recent work has focused on the synthesis of positron emission tomography (PET) probes designed to target and image this receptor for disease diagnosis and staging. However, these probes have been restricted to small-molecule quinalizonones and peptide derivatives of the endogenous ligand ghrelin. We describe the design, synthesis and biological evaluation of a series of 4-fluorobenzoylated growth hormone secretagogues (GHSs) derived from peptidic (GHRP-1, GHPR-2 and GHRP-6) and peptidomimetic (G-7039, [1-Nal4]G-7039 and ipamorelin) families in order to test locations for the insertion of fluorine-18 for PET imaging. The peptidomimetic G-7039 was found to be the most suitable for 18F-radiolabelling as its non-radioactive 4-fluorobenzoylated analogue ([1-Nal4,Lys5(4-FB)]G-7039), had both a high binding affinity (IC50 = 69 nM) and promising in vitro efficacy (EC50 = 1.1 nM). Prosthetic group radiolabelling of the precursor compound [1-Nal4]G-7039 using N-succinimidyl-4-[18F]fluorobenzoate ([18F]SFB) delivered the PET probe [1-Nal4,Lys5(4-[18F]-FB)]G-7039 in an average decay-corrected radiochemical yield of 48%, a radio-purity ≥ 99% and an average molar activity of >34 GBq/μmol. This compound could be investigated as a PET probe for the detection of diseases that are characterised by overexpression of the ghrelin receptor."
+  },
+  {
+   "pmid": "30168238",
+   "titel": "A stable meta-carborane enables the generation of boron-rich peptide agonists targeting the ghrelin receptor",
+   "jahr": "2018",
+   "journal": "J Pept Sci",
+   "erstautor": "Worm DJ",
+   "doi": "10.1002/psc.3119",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Boron neutron capture therapy (BNCT) is a binary cancer therapy, which combines the biochemical targeting of a boron-containing drug with the regional localization of radiation treatment. Although the concept of BNCT has been known for decades, the selective delivery of boron into tumor cells remains challenging. G protein-coupled receptors that are overexpressed on cancer cells in combination with peptidic ligands can be potentially used as shuttle system for a tumor-directed boron uptake. In this study, we present the generation of short, boron-rich peptide conjugates that target the ghrelin receptor. Expression of the ghrelin receptor on various cancer cells makes it a viable target for BNCT. We designed a novel hexapeptide super-agonist that was modified with different specifically synthesized carborane monoclusters and tested for ghrelin receptor activation. A meta-carborane building block with a mercaptoacetic acid linker was found to be optimal for peptide modification, owing to its chemical stability and a suitable activation efficacy of the conjugate. The versatility of this carborane for the development of peptidic boron delivery agents was further demonstrated by the generation of highly potent, boron-loaded conjugates using the backbone of the known ghrelin receptor ligands growth hormone releasing peptide 6 and Ipamorelin."
+  },
+  {
+   "pmid": "26578461",
+   "titel": "Simplifying and expanding the screening for peptides <2 kDa by direct urine injection, liquid chromatography, and ion mobility mass spectrometry",
+   "jahr": "2016",
+   "journal": "J Sep Sci",
+   "erstautor": "Thomas A",
+   "doi": "10.1002/jssc.201501060",
+   "typ": [
+    "Evaluation Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The analysis of low-molecular-mass peptides in doping controls has become a mandatory aspect in sports drug testing and, thus, the number of samples that has to be tested for these analytes has been steadily increasing. Several peptides <2 kDa with performance-enhancing properties are covered by the list of prohibited substances of the World Anti-Doping Agency including Desmopressin, LH-RH, Buserelin, Triptorelin, Leuprolide, GHRP-1, GHRP-2, GHRP-3, GHRP-4, GHRP-5,GHRP-6, Alexamorelin, Ipamorelin, Hexarelin, ARA-290, AOD-9604, TB-500 and Anamorelin. With the presented method employing direct urine injection into a liquid chromatograph followed by ion-mobility time-of-flight mass spectrometry, a facile, specific and sensitive assay for the aforementioned peptidic compounds is provided. The accomplished sensitivity allows for limits of detection between 50 and 500 pg/mL and thus covers the minimum required performance level of 2 ng/mL accordingly. The method is precise (imprecision <20%) and linear in the estimated working range between 0 and 10 ng/mL. The stability of the peptides in urine was tested, and -20°C was found to be the appropriate storage temperature for sports drug testing. Finally, proof-of-concept was shown by analysing elimination study urine samples collected from individuals having administered GHRP-6, GHRP-2, or LHRH."
+  },
+  {
+   "pmid": "42862021",
+   "titel": "Peptides in urology and sexual medicine: clinical effectiveness, dosing, indications, and safety: a narrative review",
+   "jahr": "2026",
+   "journal": "Sex Med Rev",
+   "erstautor": "Vasylieva V",
+   "doi": "10.1093/sxmrev/qeag078",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "INTRODUCTION: Peptide-based therapies are increasingly used in urology and sexual medicine, although adoption is often influenced by off-label prescribing, direct-to-consumer promotion, and limited long-term safety data. We review mechanisms, clinical evidence, dosing, safety, and regulatory status of these agents. METHODS: A structured search of PubMed, Scopus, and Google Scholar identified studies of peptide-based therapies in sexual medicine. Search terms included Bremelanotide, Melanotan II, Kisspeptin, Oxytocin, PnPP-19, Gonadorelin and growth hormone secretagogues, including GHRP-2, GHRP-6, Ibutamoren, Ipamorelin, Tesamorelin, Sermorelin, and CJC-1295. Of 725 records, 76 studies met inclusion criteria. Findings were synthesized narratively given heterogeneity across studies. RESULTS: Peptides reviewed act through diverse mechanisms, including central modulation of desire and arousal, stimulation of the hypothalamic-pituitary-gonadal and growth hormone axes, and nitric oxide-mediated effects on erectile physiology. Bremelanotide and Tesamorelin are the most clinically established agents, with defined dosing and regulatory approval for selected indications. Kisspeptin shows early promise but remains investigational. Growth hormone secretagogues reliably increase growth hormone and insulin-like growth factor 1 concentrations; however, evidence for improved sexual function, physical performance, or quality of life remains limited. Melanotan II, Ibutamoren, CJC-1295, and related agents remain accessible through unregulated markets, raising concerns about product quality, dosing variability, and incompletely characterized adverse effects. Oxytocin has biologic plausibility but limited efficacy data, whereas PnPP-19 remains preclinical. Gonadorelin was Food and Drug Administration approved but is no longer manufactured. Across peptide classes, safety data are limited by short follow-up, small samples, and incomplete assessment of cardiovascular, metabolic, and oncologic outcomes. DISCUSSION: Peptide-based therapies in urology and sexual medicine show selective therapeutic potential, but most remain insufficiently validated for clinical use. Clinicians should distinguish approved therapies from investigational and nonregulated compounds and counsel patients regarding uncertain benefit, potential harm, and risks of unsupervised use. Randomized trials with standardized dosing and long-term safety assessment are needed before broader adoption."
+  }
+ ],
+ "ctgov": [
+  {
+   "nct": "NCT07717866",
+   "titel": "Trifecta Research Study",
+   "phase": "",
+   "typ": "OBSERVATIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 52,
+   "start": "2022-08-01",
+   "ende": "2026-11",
+   "erkrankungen": [
+    "PTSD - Post Traumatic Stress Disorder",
+    "Cognitive Dysfunction",
+    "Brain Injury",
+    "Depression - Major Depressive Disorder",
+    "Suicidal Ideation"
+   ],
+   "sponsor": "Axial Therapeutic Research",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT01280344",
+   "titel": "Safety and Efficacy of Ipamorelin Compared to Placebo for the Recovery of Gastrointestinal Function",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 320,
+   "start": "2011-04",
+   "ende": "2014-05",
+   "erkrankungen": [
+    "Gastrointestinal Dysmotility"
+   ],
+   "sponsor": "Helsinn Therapeutics (U.S.), Inc",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00672074",
+   "titel": "Safety and Efficacy of Ipamorelin for Management of Post-Operative Ileus",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 117,
+   "start": "2008-04",
+   "ende": "2009-12",
+   "erkrankungen": [
+    "Ileus"
+   ],
+   "sponsor": "Helsinn Therapeutics (U.S.), Inc",
+   "ergebnisse": false
+  }
+ ],
+ "gruppe": "C_wachstumshormon"
+}

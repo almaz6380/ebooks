@@ -1,0 +1,1410 @@
+{
+ "name": "Survodutid",
+ "status": "nicht_zugelassen",
+ "suchbegriff_pubmed": "survodutide[tiab]",
+ "suchbegriff_ctgov": "survodutide",
+ "humanstudien_alle": [
+  {
+   "pmid": "42331726",
+   "titel": "Dual Glucagon and GLP-1 Receptor Agonist Survodutide Improves Biomarkers of Beta-Cell Function and Insulin Sensitivity in People With Type 2 Diabetes or Living With Overweight/Obesity",
+   "jahr": "2026",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Ekinci EI",
+   "doi": "10.1111/dom.70861",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase II"
+   ]
+  },
+  {
+   "pmid": "42253238",
+   "titel": "Survodutide Once Weekly for the Treatment of Adults with Obesity",
+   "jahr": "2026",
+   "journal": "N Engl J Med",
+   "erstautor": "le Roux CW",
+   "doi": "10.1056/NEJMoa2600751",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Multicenter Study",
+    "Clinical Trial, Phase III"
+   ]
+  },
+  {
+   "pmid": "42252333",
+   "titel": "Survodutide in adults with obesity and metabolic dysfunction-associated steatotic liver disease: SYNCHRONIZE-MASLD, a randomized, double-blind, placebo-controlled phase 3 trial",
+   "jahr": "2026",
+   "journal": "Nat Med",
+   "erstautor": "Kaplan LM",
+   "doi": "10.1038/s41591-026-04479-3",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III"
+   ]
+  },
+  {
+   "pmid": "41216778",
+   "titel": "Baseline characteristics in the SYNCHRONIZE™-2 randomized phase 3 trial of survodutide, a glucagon receptor/GLP-1 receptor dual agonist, for obesity in people with type 2 diabetes",
+   "jahr": "2026",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Wharton S",
+   "doi": "10.1111/dom.70263",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III",
+    "Multicenter Study"
+   ]
+  },
+  {
+   "pmid": "41187967",
+   "titel": "Survodutide for treatment of obesity: Baseline characteristics of participants in a randomized, double-blind, placebo-controlled, phase 3 trial (SYNCHRONIZE™-1)",
+   "jahr": "2026",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "le Roux CW",
+   "doi": "10.1111/dom.70196",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III",
+    "Multicenter Study"
+   ]
+  },
+  {
+   "pmid": "39821928",
+   "titel": "Subgroup analysis by sex and baseline BMI in people with a BMI ≥27 kg/m(2) in the phase 2 trial of survodutide, a glucagon/GLP-1 receptor dual agonist",
+   "jahr": "2025",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "le Roux CW",
+   "doi": "10.1111/dom.16167",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase II",
+    "Multicenter Study"
+   ]
+  },
+  {
+   "pmid": "38857788",
+   "titel": "Efficacy, tolerability and pharmacokinetics of survodutide, a glucagon/glucagon-like peptide-1 receptor dual agonist, in cirrhosis",
+   "jahr": "2024",
+   "journal": "J Hepatol",
+   "erstautor": "Lawitz EJ",
+   "doi": "10.1016/j.jhep.2024.06.003",
+   "typ": [
+    "Journal Article",
+    "Clinical Trial, Phase I",
+    "Multicenter Study"
+   ]
+  },
+  {
+   "pmid": "38847460",
+   "titel": "A Phase 2 Randomized Trial of Survodutide in MASH and Fibrosis",
+   "jahr": "2024",
+   "journal": "N Engl J Med",
+   "erstautor": "Sanyal AJ",
+   "doi": "10.1056/NEJMoa2401755",
+   "typ": [
+    "Journal Article",
+    "Clinical Trial, Phase II",
+    "Randomized Controlled Trial",
+    "Multicenter Study"
+   ]
+  },
+  {
+   "pmid": "38330987",
+   "titel": "Glucagon and GLP-1 receptor dual agonist survodutide for obesity: a randomised, double-blind, placebo-controlled, dose-finding phase 2 trial",
+   "jahr": "2024",
+   "journal": "Lancet Diabetes Endocrinol",
+   "erstautor": "le Roux CW",
+   "doi": "10.1016/S2213-8587(23)00356-X",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "38095657",
+   "titel": "Dose-response effects on HbA(1c) and bodyweight reduction of survodutide, a dual glucagon/GLP-1 receptor agonist, compared with placebo and open-label semaglutide in people with type 2 diabetes: a randomised clinical trial",
+   "jahr": "2024",
+   "journal": "Diabetologia",
+   "erstautor": "Blüher M",
+   "doi": "10.1007/s00125-023-06053-9",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Multicenter Study",
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  }
+ ],
+ "humanstudien_detail": [
+  {
+   "pmid": "38847460",
+   "titel": "A Phase 2 Randomized Trial of Survodutide in MASH and Fibrosis",
+   "jahr": "2024",
+   "journal": "N Engl J Med",
+   "erstautor": "Sanyal AJ",
+   "doi": "10.1056/NEJMoa2401755",
+   "typ": [
+    "Journal Article",
+    "Clinical Trial, Phase II",
+    "Randomized Controlled Trial",
+    "Multicenter Study"
+   ],
+   "abstract": "BACKGROUND: Dual agonism of glucagon receptor and glucagon-like peptide-1 (GLP-1) receptor may be more effective than GLP-1 receptor agonism alone for treating metabolic dysfunction-associated steatohepatitis (MASH). The efficacy and safety of survodutide (a dual agonist of glucagon receptor and GLP-1 receptor) in persons with MASH and liver fibrosis are unclear. METHODS: In this 48-week, phase 2 trial, we randomly assigned adults with biopsy-confirmed MASH and fibrosis stage F1 through F3 in a 1:1:1:1 ratio to receive once-weekly subcutaneous injections of survodutide at a dose of 2.4, 4.8, or 6.0 mg or placebo. The trial had two phases: a 24-week rapid-dose-escalation phase, followed by a 24-week maintenance phase. The primary end point was histologic improvement (reduction) in MASH with no worsening of fibrosis. Secondary end points included a decrease in liver fat content by at least 30% and biopsy-assessed improvement (reduction) in fibrosis by at least one stage. RESULTS: A total of 293 randomly assigned participants received at least one dose of survodutide or placebo. Improvement in MASH with no worsening of fibrosis occurred in 47% of the participants in the survodutide 2.4-mg group, 62% of those in the 4.8-mg group, and 43% of those in the 6.0-mg group, as compared with 14% of those in the placebo group (P<0.001 for the quadratic dose-response curve as best-fitting model). A decrease in liver fat content by at least 30% occurred in 63% of the participants in the survodutide 2.4-mg group, 67% of those in the 4.8-mg group, 57% of those in the 6.0-mg group, and 14% of those in the placebo group; improvement in fibrosis by at least one stage occurred in 34%, 36%, 34%, and 22%, respectively. Adverse events that were more frequent with survodutide than with placebo included nausea (66% vs. 23%), diarrhea (49% vs. 23%), and vomiting (41% vs. 4%); serious adverse events occurred in 8% with survodutide and 7% with placebo. CONCLUSIONS: Survodutide was superior to placebo with respect to improvement in MASH without worsening of fibrosis, warranting further investigation in phase 3 trials. (Funded by Boehringer Ingelheim; 1404-0043 ClinicalTrials.gov number, NCT04771273; EudraCT number, 2020-002723-11.)."
+  },
+  {
+   "pmid": "38330987",
+   "titel": "Glucagon and GLP-1 receptor dual agonist survodutide for obesity: a randomised, double-blind, placebo-controlled, dose-finding phase 2 trial",
+   "jahr": "2024",
+   "journal": "Lancet Diabetes Endocrinol",
+   "erstautor": "le Roux CW",
+   "doi": "10.1016/S2213-8587(23)00356-X",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Obesity is a widespread and chronic condition that requires long-term management; research into additional targets to improve treatment outcomes remains a priority. This study aimed to investigate the safety, tolerability, and efficacy of glucagon receptor-GLP-1 receptor dual agonist survodutide (BI 456906) in obesity management. METHODS: In this randomised, double-blind, placebo-controlled, dose-finding phase 2 trial conducted in 43 centres in 12 countries, we enrolled participants (aged 18-75 years, BMI ≥27 kg/m2, without diabetes) and randomly assigned them by interactive response technology (1:1:1:1:1; stratified by sex) to subcutaneous survodutide (0·6, 2·4, 3·6, or 4·8 mg) or placebo once-weekly for 46 weeks (20 weeks dose escalation; 26 weeks dose maintenance). The primary endpoint was the percentage change in bodyweight from baseline to week 46. Primary analysis included the modified intention-to-treat population (defined as all randomly assigned patients who received at least one dose of trial medication and who had analysable data for at least one efficacy endpoint) and was based on the dose assigned at randomisation (planned treatment), including all data censored for COVID-19-related discontinuations; the sensitivity analysis was based on the actual dose received during maintenance phase (actual treatment) and included on-treatment data. Safety analysis included all participants who received at least one dose of study drug. The trial is registered with ClinicalTrials.gov (NCT04667377) and EudraCT (2020-002479-37). FINDINGS: Between March 30, 2021, and Nov 11, 2021, we enrolled 387 participants; 386 (100%) participants were treated (0·6 mg, n=77; 2·4 mg, n=78; 3·6 mg, n=77; 4·8 mg, n=77; placebo n=77) and 233 (60·4%) of 386 completed the 46-week treatment period (187 [61%] of 309 receiving survodutide; 46 [60%] of 77 receiving placebo). When analysed according to planned treatment, mean (95% CI) changes in bodyweight from baseline to week 46 were -6·2% (-8·3 to -4·1; 0·6 mg); -12·5% (-14·5 to -10·5; 2·4 mg); -13·2% (-15·3 to -11·2; 3·6 mg); -14·9% (-16·9 to -13·0; 4·8 mg); -2·8% (-4·9 to -0·7; placebo). Adverse events occurred in 281 (91%) of 309 survodutide recipients and 58 (75%) of 77 placebo recipients; these were primarily gastrointestinal in 232 (75%) of 309 survodutide recipients and 32 (42%) of 77 placebo recipients. INTERPRETATION: All tested survodutide doses were tolerated, and dose-dependently reduced bodyweight. FUNDING: Boehringer Ingelheim."
+  },
+  {
+   "pmid": "42253238",
+   "titel": "Survodutide Once Weekly for the Treatment of Adults with Obesity",
+   "jahr": "2026",
+   "journal": "N Engl J Med",
+   "erstautor": "le Roux CW",
+   "doi": "10.1056/NEJMoa2600751",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Multicenter Study",
+    "Clinical Trial, Phase III"
+   ],
+   "abstract": "BACKGROUND: Although medications with glucagon-like peptide-1 (GLP-1) receptor agonist activity have transformed the management of obesity and shown substantial cardiometabolic benefits, unmet needs remain. Survodutide, an investigational glucagon receptor-GLP-1 receptor dual agonist, led to substantial weight reduction in a phase 2 trial involving adults with obesity without diabetes. METHODS: In this phase 3, double-blind trial, we randomly assigned adults with a body-mass index (BMI; the weight in kilograms divided by the square of the height in meters) of 30 or higher, or 27 or higher with at least one obesity-related complication (excluding diabetes), in a 1:1:1 ratio to receive once-weekly survodutide administered subcutaneously at a dose adjusted up to 3.6 mg or 6.0 mg or placebo, in addition to counseling for lifestyle modification. The two primary end points were the percent change in body weight and a reduction in body weight of at least 5% from baseline to week 76. The primary efficacy analysis was conducted according to the treatment-regimen estimand, which incorporates the effects of any early discontinuation of survodutide or placebo, the use of protocol-prohibited obesity medications, and a prolonged dose-escalation period. RESULTS: Among 725 participants (241 in the 3.6-mg survodutide group, 242 in the 6.0-mg survodutide group, and 242 in the placebo group), the mean age was 47.1 years; 294 participants (40.6%) were men. At baseline, the mean BMI was 37.9, and the mean body weight was 108.8 kg. At week 76, the mean change in body weight from baseline according to the treatment-regimen estimand was -12.2% (95% confidence interval [CI], -13.6 to -10.8) in the 3.6-mg group, -13.0% (95% CI, -14.4 to -11.6) in the 6.0-mg group, and -5.4% (95% CI, -6.9 to -4.0) in the placebo group; 72.6%, 71.9% and 46.3% of the participants, respectively, had weight reduction of at least 5% (P<0.001 for all comparisons with placebo). The most common adverse events were gastrointestinal symptoms (typically mild to moderate), which occurred in 80.9% of the participants in the 3.6-mg group, in 89.7% of those in the 6.0-mg group, and in 47.9% of those in the placebo group. No deaths were reported. CONCLUSIONS: Survodutide led to significantly greater reductions in body weight than placebo in adults with obesity without diabetes. (Funded by Boehringer Ingelheim; SYNCHRONIZE-1 ClinicalTrials.gov number, NCT06066515.)."
+  },
+  {
+   "pmid": "42252333",
+   "titel": "Survodutide in adults with obesity and metabolic dysfunction-associated steatotic liver disease: SYNCHRONIZE-MASLD, a randomized, double-blind, placebo-controlled phase 3 trial",
+   "jahr": "2026",
+   "journal": "Nat Med",
+   "erstautor": "Kaplan LM",
+   "doi": "10.1038/s41591-026-04479-3",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III"
+   ],
+   "abstract": "Survodutide is a glucagon receptor/glucagon-like peptide-1 receptor dual agonist under investigation for treating obesity and related diseases. The SYNCHRONIZE-MASLD phase 3, randomized, double-blind, placebo-controlled trial included 216 adults (131 female and 85 male) with obesity (defined as a body mass index ≥30 kg m-2 or ≥27 kg m-2 with at least one obesity complication) and at-risk metabolic dysfunction-associated steatotic liver disease (MASLD), defined by MASLD with evidence of liver inflammation and/or fibrosis by noninvasive tests (NITs) or biopsy-confirmed metabolic dysfunction-associated steatohepatitis (MASH). Participants were randomized (2:1) and treated with once-weekly subcutaneous injections of survodutide 6.0 mg (n = 146) or placebo (n = 70). The co-primary endpoints, ≥30% reduction in magnetic resonance imaging-proton density fat fraction (MRI-PDFF)-assessed liver fat content (LFC) and percentage change in body weight (both baseline to week 48), were met. In total, 84.2% of survodutide-treated patients versus 24.3% of placebo-treated patients had ≥30% reduction in LFC using the efficacy estimand (P < 0.0001; treatment regimen estimand: 68.5% versus 28.6%, respectively; P < 0.0001). Mean percentage change in body weight was -12.2% with survodutide and -1.0% with placebo using the efficacy estimand (P < 0.0001; treatment regimen estimand: -8.7% versus -1.4%, respectively; P < 0.0001). The most frequently reported adverse events with survodutide were gastrointestinal, commonly occurring during dose escalation, and were generally of mild-to-moderate severity. In adults with obesity and at-risk MASLD, survodutide treatment was statistically and clinically superior to placebo for reductions in MRI-PDFF-assessed LFC and body weight. Limitations included short trial duration (48 weeks) and limited global reach (participants recruited in the United States and Spain)."
+  },
+  {
+   "pmid": "38095657",
+   "titel": "Dose-response effects on HbA(1c) and bodyweight reduction of survodutide, a dual glucagon/GLP-1 receptor agonist, compared with placebo and open-label semaglutide in people with type 2 diabetes: a randomised clinical trial",
+   "jahr": "2024",
+   "journal": "Diabetologia",
+   "erstautor": "Blüher M",
+   "doi": "10.1007/s00125-023-06053-9",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Multicenter Study",
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "AIMS/HYPOTHESIS: The aim of this study was to assess the dose-response effects of the subcutaneous glucagon receptor/glucagon-like peptide-1 receptor dual agonist survodutide (BI 456906) on HbA1c levels and bodyweight reduction. METHODS: This Phase II, multicentre, randomised, double-blind, parallel-group, placebo-controlled study, conducted in clinical research centres, assessed survodutide in participants aged 18-75 years with type 2 diabetes, an HbA1c level of 53-86 mmol/mol (7.0-10.0%) and a BMI of 25-50 kg/m2 on a background of metformin therapy. Participants were randomised via interactive response technology to receive survodutide (up to 0.3, 0.9, 1.8 or 2.7 mg once weekly [qw; dose group (DG) 1-4, respectively] or 1.2 or 1.8 mg twice weekly [DG 5 and 6, respectively]), placebo or semaglutide (up to 1.0 mg qw). Participants and all those involved in the trial conduct/analysis were blinded; the semaglutide arm was open-label. The primary endpoint was absolute change from baseline in HbA1c after 16 weeks' treatment. The key secondary endpoint was relative change from baseline in bodyweight after 16 weeks' treatment. RESULTS: A total of 413 participants were randomised (DG1, n=50; DG2, n=50; DG3, n=52; DG4, n=50; DG5, n=51; DG6, n=50; semaglutide, n=50; placebo, n=60). The full analysis set comprised 411 treated participants (DG6, n=49; placebo, n=59). Adjusted mean (95% CI) HbA1c decreased from baseline (mean ± SD 64.7±9.2 mmol/mol [8.07±0.84%] after 16 weeks' treatment: DG1 (n=41), -9.92 mmol/mol (-12.27, -7.56; -0.91% [-1.12, -0.69]); DG2 (n=46), -15.95 mmol/mol (-18.27, -13.63; -1.46% [-1.67, -1.25]); DG3 (n=36), -18.72 mmol/mol (-21.15, -16.29; -1.71% [-1.94, -1.49]); DG4 (n=33), -17.01 mmol/mol (-19.59, -14.43; -1.56% [-1.79, -1.32]); DG5 (n=44), -17.84 mmol/mol (-20.18, -15.51; -1.63% [-1.85, -1.42]); DG6 (n=36), -18.38 mmol/mol (-20.90, -15.87; -1.68% [-1.91, -1.45]). The mean reduction in HbA1c was similar with low-dose survodutide (DG2: -15.95 mmol/mol [-1.46%]; n=46) and semaglutide (-16.07 mmol/mol [-1.47%]; n=45). Mean (95% CI) bodyweight decreased dose-dependently up to -8.7% (-10.1, -7.3; DG6, n=37); survodutide ≥1.8 mg qw produced greater bodyweight reductions than semaglutide (-5.3% [-6.6, -4.1]; n=45). Adverse events (AEs) were reported for 77.8% of survodutide-treated participants (mainly gastrointestinal), 52.5% receiving placebo and 52.0% receiving semaglutide. CONCLUSIONS/INTERPRETATION: Survodutide reduced HbA1c levels and bodyweight after 16 weeks' treatment in participants with type 2 diabetes. Dose-related gastrointestinal AEs could be mitigated with slower dose escalations. TRIAL REGISTRATION: ClinicalTrials.gov NCT04153929 and EudraCT 2019-002390-60. FUNDING: Boehringer Ingelheim Pharma GmbH & Co. KG, Ingelheim, Germany."
+  },
+  {
+   "pmid": "38857788",
+   "titel": "Efficacy, tolerability and pharmacokinetics of survodutide, a glucagon/glucagon-like peptide-1 receptor dual agonist, in cirrhosis",
+   "jahr": "2024",
+   "journal": "J Hepatol",
+   "erstautor": "Lawitz EJ",
+   "doi": "10.1016/j.jhep.2024.06.003",
+   "typ": [
+    "Journal Article",
+    "Clinical Trial, Phase I",
+    "Multicenter Study"
+   ],
+   "abstract": "BACKGROUND & AIMS: Survodutide is a glucagon/glucagon-like peptide-1 receptor dual agonist in development for the treatment of metabolic dysfunction-associated steatohepatitis (MASH). We investigated the pharmacokinetic and safety profile of survodutide in people with cirrhosis. METHODS: This multinational, non-randomized, open-label, phase I clinical trial initially evaluated a single subcutaneous dose of survodutide 0.3 mg in people with Child-Pugh class A, B or C cirrhosis and healthy individuals with or without overweight/obesity matched for age, sex, and weight; the primary endpoints were the area under the plasma concentration-time curve from 0 to infinity (AUC0-∞) and maximal plasma concentration (Cmax). Subsequently, people with overweight/obesity with or without cirrhosis (Child-Pugh class A or B) received once-weekly subcutaneous doses escalated from 0.3 mg to 6.0 mg over 24 weeks then maintained for 4 weeks; the primary endpoint was drug-related treatment-emergent adverse events, with MASH/cirrhosis-related endpoints explored. RESULTS: In the single-dose cohorts (n = 41), mean AUC0-∞ and Cmax were similar in those with cirrhosis compared with healthy individuals (90% CIs for adjusted geometric mean ratios spanned 1). Drug-related adverse events occurred in 25.0% of healthy individuals and ≤25.0% of those with cirrhosis after single doses, and 82.4% and 87.5%, respectively, of the multiple-dose cohorts (n = 41) over 28 weeks. Liver fat content, liver stiffness, liver volume, body weight, and other hepatic and metabolic disease markers were generally reduced after 28 weeks of survodutide treatment. CONCLUSIONS: Survodutide is generally tolerable in people with compensated or decompensated cirrhosis, does not require pharmacokinetic-related dose adjustment, and may improve liver-related non-invasive tests, supporting its investigation for MASH-related cirrhosis. IMPACT AND IMPLICATIONS: Survodutide is a glucagon receptor/glucagon-like peptide-1 receptor dual agonist in development for treatment of metabolic dysfunction-associated steatohepatitis (MASH), which causes cirrhosis in ∼20% of cases. This trial delineates the pharmacokinetic and safety profile of survodutide in people with compensated or decompensated cirrhosis, and revealed associated reductions in liver fat content, markers of liver fibrosis and body weight. These findings have potential relevance for people with MASH-including those with decompensated cirrhosis, who are usually excluded from clinical trials of investigational drugs. Based on this study, further investigation of survodutide for MASH-related cirrhosis is warranted. GOV IDENTIFIER: NCT05296733."
+  },
+  {
+   "pmid": "41187967",
+   "titel": "Survodutide for treatment of obesity: Baseline characteristics of participants in a randomized, double-blind, placebo-controlled, phase 3 trial (SYNCHRONIZE™-1)",
+   "jahr": "2026",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "le Roux CW",
+   "doi": "10.1111/dom.70196",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III",
+    "Multicenter Study"
+   ],
+   "abstract": "AIMS: Survodutide, a novel glucagon receptor and glucagon-like peptide-1 (GLP-1) receptor dual agonist, elicited significant weight loss in a phase 2 trial in individuals with obesity without type 2 diabetes (T2D). Two multinational phase 3 trials are investigating survodutide for obesity management in individuals with or without T2D. We report the baseline characteristics of participants in the SYNCHRONIZE-1 trial in adults with obesity without T2D (ClinicalTrials.gov: NCT06066515). MATERIALS AND METHODS: Participants aged ≥18 years with BMI ≥30 or ≥27 kg/m2 with ≥1 obesity complication without T2D were randomized 1:1:1 to double-blind, once-weekly, subcutaneous injections of survodutide (up-titrated to 3.6 or 6.0 mg) or placebo for 76 weeks. The primary endpoints are percent body weight change and achievement of body weight reduction ≥5% from baseline to Week 76. Efficacy and safety analyses will include all randomized and treated participants. RESULTS: At baseline, participants (n = 725 from 14 countries) had a mean age of 47.1 years, BMI 37.9 kg/m2, and waist circumference 115.2 cm. Most participants (59.4%) were female; 47.3% were from North America, 21.0% from Europe, and 20.0% from East Asia. Obesity complications included hypertension (40.0%), dyslipidaemia (33.7%), and prediabetes (30.2%). Mean haemoglobin A1c was 5.5%, estimated glomerular filtration rate 93.0 mL/min/1.73 m2, systolic/diastolic blood pressure 127.0/82.7 mmHg, and low-density lipoprotein cholesterol 116.4 mg/dL; 21.8% were taking lipid-lowering drugs. CONCLUSIONS: SYNCHRONIZE-1 will determine the efficacy, safety, and tolerability of survodutide, a glucagon receptor/GLP-1 receptor dual agonist, for weight loss in a representative cohort of people with obesity without T2D."
+  },
+  {
+   "pmid": "41216778",
+   "titel": "Baseline characteristics in the SYNCHRONIZE™-2 randomized phase 3 trial of survodutide, a glucagon receptor/GLP-1 receptor dual agonist, for obesity in people with type 2 diabetes",
+   "jahr": "2026",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Wharton S",
+   "doi": "10.1111/dom.70263",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III",
+    "Multicenter Study"
+   ],
+   "abstract": "AIMS: Survodutide is an investigational glucagon receptor/glucagon-like peptide-1 receptor dual agonist that has shown promise for treating obesity and its complications in Phase 2 trials. Two double-blind, randomized, global Phase 3 trials are designed to assess the efficacy and safety of survodutide for treatment of obesity-SYNCHRONIZE™-1 in people with obesity without type 2 diabetes (T2D) and SYNCHRONIZE™-2 in people with obesity and T2D. This paper describes the baseline characteristics of participants in SYNCHRONIZE-2 (ClinicalTrials.gov identifier NCT06066528). MATERIALS AND METHODS: Participants aged ≥18 years with a body mass index (BMI) ≥27 kg/m2 and T2D were randomized 1:1:1 to weekly subcutaneous survodutide (up-titrated to 3.6 or 6.0 mg) or placebo with recommendations for modified diet and physical activity. The primary endpoints are the percentage change in body weight (BW) and achievement of BW reduction of ≥5% from baseline to Week 76. RESULTS: SYNCHRONIZE-2 includes 752 treated participants from 133 sites across 19 countries. At baseline, participants had a mean age of 55.7 years, BMI 36.5 kg/m2, BW 104.1 kg, waist circumference 115.5 cm and haemoglobin A1c 7.4%; 50.7% were female. Overall, 36.2% are from Europe, 32.8% from North America and 22.3% from East Asia. The most common obesity complications included hypertension (69.0%), dyslipidaemia (67.6%), obstructive sleep apnoea (17.3%) and arteriosclerotic cardiovascular disease (10.9%); 78.7% were treated with metformin, 34.2% with sodium-glucose co-transporter-2 inhibitors and 58.6% with lipid-lowering medications. CONCLUSIONS: SYNCHRONIZE-2 will determine the efficacy, safety and tolerability of survodutide for BW reduction in people with obesity and T2D, whose baseline characteristics suggest a representative, diverse cohort."
+  },
+  {
+   "pmid": "42331726",
+   "titel": "Dual Glucagon and GLP-1 Receptor Agonist Survodutide Improves Biomarkers of Beta-Cell Function and Insulin Sensitivity in People With Type 2 Diabetes or Living With Overweight/Obesity",
+   "jahr": "2026",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Ekinci EI",
+   "doi": "10.1111/dom.70861",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase II"
+   ],
+   "abstract": "AIMS: This post hoc analysis evaluated the effect of survodutide on beta-cell function, insulin sensitivity, and glucose biomarkers in two phase 2 trial populations. MATERIALS AND METHODS: Trial 1404-0002 randomised 413 participants with type 2 diabetes on metformin to receive survodutide, placebo, or semaglutide over 16 weeks. Trial 1404-0036 randomised 387 participants with overweight/obesity and normoglycaemia to receive survodutide or placebo for 46 weeks. Descriptive statistics were derived from both trials. Biomarker responses were analysed using mixed models for repeated measures and regression analysis to assess the impact of bodyweight changes. RESULTS: In trial 1404-0002, survodutide was associated with significant and rapid increases in HOMA-β versus placebo, with significant decreases in HOMA-IR, glucagon, and fasting plasma glucose (FPG). No significant changes occurred in high-molecular-weight (HMW) adiponectin, C-peptide, or fasting insulin levels. In trial 1404-0036, there was no significant change in HOMA-β with survodutide versus placebo, likely owing to normoglycaemia in participants. Survodutide was associated with significant decreases in HOMA-IR, glucagon, C-peptide, fasting insulin, and FPG versus placebo, and significant increases in HMW adiponectin. Combining all survodutide dose groups for each trial, absolute change in bodyweight from baseline explained the largest proportion of total variability in changes from baseline in fasting insulin and HOMA-IR. However, it did not explain other changes observed. CONCLUSIONS: Survodutide was associated with significantly improved beta-cell function and insulin sensitivity in adults with type 2 diabetes and with overweight or obesity. The durability of beta-cell improvements after treatment cessation remains unknown. These effects were largely independent of bodyweight changes, suggesting additional metabolic benefit beyond weight loss. TRIAL REGISTRATION: Trial 1404-0002, ClinicalTrials.gov identifier: NCT04153929; EudraCT number: 2019-002390-60. Trial 1404-0036, ClinicalTrials.gov identifier: NCT04667377; EudraCT number: 2020-002479-37."
+  },
+  {
+   "pmid": "39821928",
+   "titel": "Subgroup analysis by sex and baseline BMI in people with a BMI ≥27 kg/m(2) in the phase 2 trial of survodutide, a glucagon/GLP-1 receptor dual agonist",
+   "jahr": "2025",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "le Roux CW",
+   "doi": "10.1111/dom.16167",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase II",
+    "Multicenter Study"
+   ],
+   "abstract": "AIM: To explore the effects of sex and baseline body mass index (BMI) on the efficacy and safety of survodutide in people with a BMI ≥27 kg/m2. MATERIALS AND METHODS: Totally 387 people (aged 18-75 years, BMI ≥27 kg/m2, without diabetes) were randomized 1:1:1:1:1 to once-weekly subcutaneous survodutide (0.6, 2.4, 3.6 or 4.8 mg) or placebo for 46 weeks (20-week dose escalation; 26-week dose maintenance). Participants were categorized according to sex and baseline BMI. Data were analysed descriptively for the full analysis set (FAS), according to dose assigned at randomization (planned treatment) using on-treatment data or all data censored for COVID-19-related treatment discontinuations. (ClinicalTrials.gov number: NCT04667377). RESULTS: After 46 weeks of survodutide treatment, females had greater reductions in bodyweight and waist circumference than males. Participants with a lower baseline BMI had greater proportional reductions in bodyweight than those with a higher baseline BMI; the trend was reversed for reductions in waist circumference. Rates of adverse events (AEs) were comparable between subgroups for sex and baseline BMI. Nausea was the most frequently reported gastrointestinal AE in all subgroups. CONCLUSIONS: In people with a BMI ≥27 kg/m2, survodutide was associated with clinically meaningful reductions in bodyweight and waist circumference when compared with placebo, in prespecified subgroups based on sex and baseline BMI, and was tolerated at all doses tested."
+  }
+ ],
+ "metaanalysen": [
+  {
+   "pmid": "39903735",
+   "titel": "Comparison of pharmacological therapies in metabolic dysfunction-associated steatohepatitis for fibrosis regression and MASH resolution: Systematic review and network meta-analysis",
+   "jahr": "2025",
+   "journal": "Hepatology",
+   "erstautor": "Souza M",
+   "doi": "10.1097/HEP.0000000000001254",
+   "typ": [
+    "Journal Article",
+    "Systematic Review",
+    "Comparative Study",
+    "Network Meta-Analysis",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND AND AIMS: Metabolic dysfunction-associated steatohepatitis (MASH) is a leading cause of liver disease. With the advent of multiple therapeutic targets in late-phase clinical drug development for MASH, there is a knowledge gap to better understand the comparative efficacy of various pharmacological agents. We conducted an updated network meta-analysis to evaluate the relative rank order of the different pharmacological agents for both fibrosis regression and MASH resolution. APPROACH AND RESULTS: We searched PubMed and Embase databases from January 1, 2020 to December 1, 2024, for published randomized controlled trials comparing pharmacological interventions in patients with biopsy-proven MASH. The co-primary endpoints were fibrosis improvement ≥1 stage without MASH worsening and MASH resolution without worsening fibrosis. We conducted surface under the cumulative ranking curve (SUCRA) analysis. A total of 29 randomized controlled trials (n=9324) were included. Pegozafermin, cilofexor + firsocostat, denifanstat, survodutide, obeticholic acid, tirzepatide, resmetirom, and semaglutide were significantly better than placebo in achieving fibrosis regression without worsening MASH. Pegozafermin (SUCRA: 79.92), cilofexor + firsocostat (SUCRA: 71.38), and cilofexor + selonsertib (SUCRA: 69.11) were ranked the most effective interventions. Pegozafermin, survodutide, tirzepatide, efruxifermin, liraglutide, vitamin E + pioglitazone, resmetirom, semaglutide, pioglitazone, denifanstat, semaglutide, and lanifibranor were significantly better than placebo in achieving MASH resolution without worsening fibrosis. Pegozafermin (SUCRA: 91.75), survodutide (SUCRA: 90.87), and tirzepatide (SUCRA: 84.70) were ranked the most effective interventions for achieving MASH resolution without worsening fibrosis. CONCLUSIONS: This study provides updated rank-order efficacy of MASH pharmacological therapies for fibrosis regression and MASH resolution. These data are helpful to inform practice and clinical trial design."
+  },
+  {
+   "pmid": "39952695",
+   "titel": "Emerging pharmacotherapies for obesity: A systematic review",
+   "jahr": "2025",
+   "journal": "Pharmacol Rev",
+   "erstautor": "Kokkorakis M",
+   "doi": "10.1124/pharmrev.123.001045",
+   "typ": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "abstract": "The history of antiobesity pharmacotherapies is marked by disappointments, often entangled with societal pressure promoting weight loss and the prevailing conviction that excess body weight signifies a lack of willpower. However, categories of emerging pharmacotherapies generate hope to reduce obesity rates. This systematic review of phase 2 and phase 3 trials in adults with overweight/obesity investigates the effect of novel weight loss pharmacotherapies, compared to placebo/control or US Food and Drug Administration-approved weight loss medication, through searching Medline, Embase, and ClinicalTrials.gov (2012-2024). We identified 53 phase 3 and phase 2 trials, with 36 emerging antiobesity drugs or combinations thereof and 4 withdrawn or terminated trials. Oral semaglutide 50 mg is the only medication that has completed a phase 3 trial. There are 14 ongoing phase 3 trials on glucagon-like peptide-1 (GLP-1) receptor agonists (RAs) (ecnoglutide, orforglipron, and TG103), GLP-1 RA/amylin agonist (CagriSema), GLP-1/glucagon RAs (mazdutide and survodutide), GLP-1/glucose-dependent insulinotropic polypeptide and glucagon RA (retatrutide), dapagliflozin, and the combination sibutramine/topiramate. Completed phase 2 trials on incretin-based therapies showed a mean percent weight loss of 7.4% to 24.2%. Almost half of the drugs undergoing phase 2 trials are incretin analogs. The obesity drug pipeline is expanding rapidly, with the most promising results reported with incretin analogs. Data on mortality and obesity-related complications, such as cardio-renal-metabolic events, are needed. Moreover, long-term follow-up data on the safety and efficacy of weight maintenance with novel obesity pharmacotherapies, along with studies focused on underrepresented populations, cost-effectiveness assessments, and drug availability, are needed to bridge the care gap for patients with obesity. SIGNIFICANCE STATEMENT: Obesity is the epidemic of the 21st century. Except for the newer injectable medications, drugs with suboptimal efficacy have been available in the clinician's armamentarium for weight management. However, emerging alternatives of novel agents and combinations populate the current obesity therapeutic pipeline. This systematic review identifies the state and mechanism of action of emerging pharmacotherapies undergoing or having completed phase 2 and phase 3 clinical trials. The information provided herein furthers the understanding of obesity management, implying direct clinical implications and stimulating research initiatives."
+  },
+  {
+   "pmid": "40489581",
+   "titel": "Efficacy of GLP-1-based Therapies on Metabolic Dysfunction-associated Steatotic Liver Disease and Metabolic Dysfunction-associated Steatohepatitis: A Systematic Review and Meta-analysis",
+   "jahr": "2025",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Wang Y",
+   "doi": "10.1210/clinem/dgaf336",
+   "typ": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: New therapies are urgently needed for the treatment of metabolic dysfunction-associated steatotic liver disease (MASLD) and metabolic dysfunction-associated steatohepatitis (MASH). We conducted this systematic review and meta-analysis to evaluate the therapeutic effects of glucagon-like peptide-1 receptor agonists (GLP-1RAs) on MASLD/MASH. METHODS: We searched PubMed, Embase, and Cochrane Library databases to identify randomized controlled trials (RCTs) that compared GLP-1RAs with placebo or active agents with respect to the efficacy in patients with MASLD/MASH. The effects of GLP-1RAs on liver fat content (LFC) by imaging, liver histology, serum liver enzymes, and noninvasive fibrosis indexes [Fibrosis-4, nonalcoholic fatty liver disease fibrosis score, cytokeratin 18, procollagen III, and liver stiffness) were evaluated. Mean differences and risk ratios with 95% confidence intervals were pooled using a random-effect model. RESULTS: Twenty-five RCTs involving 2600 patients who used GLP-1RAs including liraglutide, exenatide, dulaglutide, semaglutide, tirzepatide, efinopegdutide, survodutide, and retatrutide were included. Overall, GLP-1RAs treatment for a median of 24 weeks demonstrated a significant reduction in LFC by 5.21%, with retatrutide displaying the most obvious treatment effects. GLP-1RAs treatment induced significant histological improvements in steatosis, hepatocellular ballooning, and lobular inflammation but nonsignificantly improved fibrosis, with the evidence for tirzepatide more robust than that for semaglutide and liraglutide. GLP-1RAs treatment significantly decreased serum alanine aminotransferase, aspartate aminotransferase, and γ-glutamyl transferase compared with control. GLP-1RAs also significantly improved liver stiffness, with semaglutide displaying the most obvious treatment effect. No drug-related adverse effects involving the liver were observed. CONCLUSION: GLP-1RAs decreased liver fat deposition and improved histological steatosis, hepatocellular ballooning, and lobular inflammation, without worsening of fibrosis in MASLD and MASH."
+  },
+  {
+   "pmid": "40685589",
+   "titel": "Efficacy and Safety of GLP-1 Receptor Agonists, Dual Agonists, and Retatrutide for Weight Loss in Adults With Overweight or Obesity: A Bayesian NMA",
+   "jahr": "2025",
+   "journal": "Obesity (Silver Spring)",
+   "erstautor": "Sinha B",
+   "doi": "10.1002/oby.24360",
+   "typ": [
+    "Journal Article",
+    "Network Meta-Analysis",
+    "Systematic Review"
+   ],
+   "abstract": "OBJECTIVE: To compare the efficacy and safety of GLP-1 receptor agonists (GLP-1RAs), dual agonists (GLP-1RAs/GIP or GCGR), and retatrutide (GLP-1/GIP/glucagon) for weight loss in adults with overweight or obesity. METHODS: We conducted a systematic review and Bayesian network meta-analysis (NMA) of 19 randomized controlled trials (RCTs) including 29,506 adults (BMI ≥ 25 kg/m2), assessing liraglutide, semaglutide, survodutide, tirzepatide, retatrutide, and placebo. Outcomes included mean weight loss, achievement of ≥ 5%, ≥ 10%, and ≥ 15% weight loss, waist circumference (WC), BMI, and adverse events (AEs) at ≥ 36 weeks. Subgroup and meta-regression analyses evaluated the impact of diabetes status, sex, age, and BMI. RESULTS: Retatrutide and dual agonists achieved equivalent mean weight loss (-11.0 kg), surpassing GLP-1RAs (-9.0 kg), with retatrutide excelling at achieving ≥ 15% weight loss (OR 54.6). Dual agonists and GLP-1RAs followed (OR 16.4 and 9.0, respectively). Retatrutide had the highest AE risk. Meta-regression showed type 2 diabetes mellitus (T2DM) reduced weight loss by 4.338 kg for GLP-1RAs and 5.016 kg for dual agonists, with enhanced outcomes in female-dominant or high-BMI cohorts. CONCLUSIONS: Retatrutide offers superior weight loss efficacy but with a higher AE risk. Dual agonists provide a favorable efficacy-safety balance. Personalized treatment selection based on patient characteristics is recommended."
+  },
+  {
+   "pmid": "40922121",
+   "titel": "Efficacy and safety of survodutide on glycemic control and weight loss in adults: A systematic review and meta-analysis",
+   "jahr": "2025",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Xiao YJ",
+   "doi": "10.1111/dom.70105",
+   "typ": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+   ],
+   "abstract": "AIM: This meta-analysis aimed to evaluate the efficacy and safety of survodutide on glycemic control and weight loss in adults. METHODS: We systematically searched PubMed, Embase, the Cochrane Library, Scopus, Web of Science, and ClinicalTrials.gov for randomized controlled trials (RCTs) evaluating the efficacy and safety of survodutide up to 12 July 2025. The primary outcomes were changes in glycated haemoglobin (HbA1c), fasting glucagon levels, body weight, waist circumference, along with the incidence of adverse events (AEs). Secondary outcomes included body mass index (BMI), lipid profiles, and blood pressure. RESULTS: Six RCTs involving 1272 participants were included in this meta-analysis. Compared with placebo, survodutide significantly reduced HbA1c (weighted mean difference [WMD]: -0.66%, 95% confidence interval [CI] [-1.08, -0.23], p = 0.002) and fasting glucagon levels (WMD: -7 pmol/L, 95% CI [-10.3, -3.69], p = 0.016). Greater reductions were observed in the subgroup receiving a total weekly dose of >2.4 mg compared with the subgroup receiving ≤2.4 mg weekly. Survodutide also significantly decreased body weight (WMD: -6.7 kg, 95% CI [-10.0, -3.4], p < 0.001) and waist circumference (WMD: -7.09 cm, 95% CI [-9.44, -4.47], p < 0.001), with enhanced effects observed at higher total weekly doses (>2.4 mg) and longer treatment durations (>16 weeks). Additionally, significant reductions were observed in BMI, and modest reductions were noted in total cholesterol, triglycerides, and blood pressure. However, survodutide was associated with a higher risk of treatment discontinuation due to AEs, with gastrointestinal AEs being the most common, although there was no significant increase in the incidence of serious AEs. CONCLUSIONS: Survodutide significantly reduced HbA1c, body weight, and waist circumference. A greater reduction in HbA1c was specifically associated with a higher total weekly dose (>2.4 mg), while more pronounced effects on body weight and waist circumference were observed with both higher doses and longer treatment durations (>16 weeks). However, it is crucial to highlight the significant increase in gastrointestinal AEs and the associated risk of treatment discontinuation. Further large-scale, multicentre, long-term, and high-quality RCTs are necessary to validate these results in diverse populations."
+  },
+  {
+   "pmid": "41063381",
+   "titel": "Histological efficacy of anti-diabetic agents in MASH and the mediating role of weight loss: A network meta-analysis",
+   "jahr": "2026",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Banerjee M",
+   "doi": "10.1111/dom.70187",
+   "typ": [
+    "Journal Article",
+    "Network Meta-Analysis"
+   ],
+   "abstract": "BACKGROUND: Metabolic dysfunction-associated steatohepatitis (MASH) is a progressive liver disease with rising global prevalence, closely linked to type 2 diabetes. While several anti-diabetic agents show promise, a comprehensive analysis comparing their efficacy on biopsy-confirmed histological outcomes, including dose-dependent effects and the mediating role of weight loss, remains unexplored. METHODS: A frequentist random-effects network meta-analysis (NMA) was conducted to explore histological efficacy of anti-diabetic agents in biopsy-confirmed MASH without cirrhosis. The primary outcome was fibrosis improvement (≥1 stage) without worsening steatohepatitis; the secondary outcome was MASH resolution without fibrosis worsening. Incretin-based agents were dose-stratified. Treatment ranking used surface-under the cumulative-ranking curve (SUCRA). Meta-regression investigated the impact of percentage weight loss and baseline covariates on the proportion of individuals achieving histological end-points. RESULTS: Data from five RCTs (N = 1667) were included. All active treatments, including Dapagliflozin 10 mg, Survodutide (2.4 mg/wk, 4.8-6 mg/wk), Tirzepatide (5 mg/wk, 10-15 mg/wk), and Semaglutide (0.7-1.4 mg/wk, 2.4 or 2.8 mg/wk), improved fibrosis versus placebo (I2 = 0%). For MASH resolution, dose-dependent effects led to significant heterogeneity (I2 = 73%), with lower-dose Semaglutide demonstrating no benefits and Dapagliflozin showing benefits in the F2-F3 subgroup only on sensitivity analysis. Survodutide exhibited the highest ranking (SUCRA = 0.822-0.849), followed by Tirzepatide (SUCRA = 0.622-0.681) and higher-dose Semaglutide (SUCRA = 0.327) for MASH resolution. Meta-regression using data from 16 interventions, including placebo arms, showed that weight loss significantly explained heterogeneity in treatment effects on fibrosis improvement (R2 = 54.26%) and MASH resolution (R2 = 78.16%). CONCLUSIONS: SGLT2 inhibitor and incretin-based agents improved fibrosis in MASH, with weight loss being a significant mediator. Targeting multiple incretin pathways, especially involving glucagon receptors, may offer greater MASH resolution. Dose-dependent effects were more prominent for MASH resolution than fibrosis improvement, indicating potential weight-loss-independent anti-fibrotic pathways."
+  },
+  {
+   "pmid": "42192439",
+   "titel": "Efficacy of pharmacotherapies in improving liver fibrosis among patients with MASLD and fibrosis stages of F1-F3: systematic review and network meta-analysis",
+   "jahr": "2026",
+   "journal": "J Transl Med",
+   "erstautor": "Sun XY",
+   "doi": "10.1186/s12967-026-08219-6",
+   "typ": [
+    "Network Meta-Analysis",
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "abstract": "BACKGROUND: Metabolism-associated steatotic liver disease (MASLD) is one of the most prevalent chronic liver diseases worldwide. In recent years, although a network meta-analysis evaluated the efficacy of different drugs for patients with MASLD, it did not provide the specific dosage of the drugs and could not be accurately applied to the specific population for MASLD and fibrosis stages F1-F3, which greatly affected the extensibility and accuracy of the evidence. Therefore, this study aimed to evaluate the efficacy of various pharmacotherapies with different dosages in improving liver fibrosis among MASLD patients with fibrosis stages F1-F3 through a network meta-analysis. METHODS: Randomized controlled trials involving adults with MASLD and fibrosis stages of F1-F3 who received pharmacological interventions for improving liver fibrosis from three databases were identified from inception to July 21, 2025. RESULTS: Thirteen RCTs involving 3,871 patients with 12 pharmacological interventions were involved. Compared with placebo in this network meta-analysis, 6 active pharmacological interventions, including resmetirom 80 mg/day (RR = 2.56, 95%CI: 1.09, 6.02), resmetirom 100 mg/day (RR = 3.07, 95%CI: 1.31, 7.16), survodutide 6 mg/week (RR = 7.25, 95%CI: 2.07, 25.36), tirzepatide 5 mg/week (RR = 4.29, 95%CI: 1.33, 13.82), tirzepatide 10 mg/week (RR = 5.31, 95%CI: 1.67, 16.85), and tirzepatide 15 mg/week (RR = 6.00, 95%CI: 1.91, 18.89), were significantly more effective for achieving NASH resolution without worsening of fibrosis. In direct comparisons, 6 active interventions, including resmetirom 80 mg/day (RR = 1.70, 95%CI: 1.22, 2.37), survodutide 6 mg/week (RR = 7.25, 95%CI: 2.68, 19.60), tirzepatide 5 mg/week (RR = 4.29, 95%CI: 1.76, 10.43), tirzepatide 10 mg/week (RR = 5.31, 95%CI: 2.23, 12.66), tirzepatide 15 mg/week (RR = 6.00, 95%CI: 2.54, 14.15), and denifanstat 50 mg/day (RR = 2.46, 95%CI: 1.18, 5.13), were significantly more effective than placebo. The ranking based SUCRA showed that survodutide 6 mg/week (92.0%) demonstrated the best efficacy, followed by tirzepatide 15 mg/week (89.9%), whereas emricasan 10 mg/day had the poorest efficacy (8.1%). CONCLUSIONS: This study supported the use of survodutide (4.8 mg/week), efruxiferimin (28 mg/week), resmetirom (80 mg/day), and denifanstat (50 mg/day) as an recommended regimen in adults with MASLD and fibrosis stages of F1-F3. However, these findings did not support the clinical use of emricasan because of its poor efficacy. Concurrently, multiple pharmacological agents also exhibited efficacy at other relevant clinical endpoints. TRIAL REGISTRATION: The protocol of NMA was available at the Open Science Framework (OSF: https://doi.org/10.17605/OSF.IO/DM2NC )."
+  },
+  {
+   "pmid": "41466530",
+   "titel": "Comparative Analysis of Glucagon Receptor Agonists vs. Resmetirom in MASLD and MASH: Network Meta-Analysis of Clinical Trials",
+   "jahr": "2026",
+   "journal": "Endocrinol Diabetes Metab",
+   "erstautor": "Andonie CR",
+   "doi": "10.1002/edm2.70157",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Network Meta-Analysis",
+    "Systematic Review"
+   ],
+   "abstract": "BACKGROUND: MASLD and its progressive form MASH represent a global public health challenge due to their rising prevalence and their possible progression to cirrhosis and HCC. Resmetirom, dual (e.g., cotadutide, survodutide), and triple GRAs (e.g., retarutide) have demonstrated potential efficacy in recent clinical trials. This network meta-analysis evaluates the comparative efficacy and safety of these treatments. METHODS: We systematically searched PubMed, Scopus, ClinicalTrials.gov, and Cochrane Central for randomised controlled trials evaluating these medications versus placebo in adults with MASLD and MASH. The outcomes assessed included changes in ALT, AST, LDL, and HDL levels, changes in MRI-PDFF, safety outcomes (diarrhoea, fatigue, and nausea), serious adverse events, ELF, adiponectin, and MASH resolution with no worsening of fibrosis. Random-effects model and network meta-analysis methods were employed. RESULTS: Six trials met the inclusion criteria. GRAs significantly reduced ALT levels with MD of -22.10, while resmetirom demonstrated the greatest reduction in AST levels with a MD of -13.17. Resmetirom also led to a borderline significant increase in HDL with the most significant reduction in LDL levels. Moreover, GRAs showed a significant effect on MRI-PDFF with a MD of -46.09. Overall, resmetirom showed a more favourable safety profile. In addition, GRAs significantly decreased ELF scores, resmetirom significantly improved MASH resolution without worsening of fibrosis, and both treatments significantly increased adiponectin. CONCLUSION: GRAs superiorly reduce ALT levels, MRI-PDFF, and ELF. Resmetirom significantly reduces AST, HDL, and LDL levels, increases MASH resolution without worsening of fibrosis, and offers a more favourable safety profile. Both GRAs and resmetirom significantly increase adiponectin."
+  },
+  {
+   "pmid": "41787737",
+   "titel": "Comparative Efficacy and Safety of Glucagon Receptor Agonists on Metabolic Outcomes: A Network Meta-Analysis of Randomised Controlled Trials",
+   "jahr": "2026",
+   "journal": "Endocrinol Diabetes Metab",
+   "erstautor": "Abulehia A",
+   "doi": "10.1002/edm2.70187",
+   "typ": [
+    "Journal Article",
+    "Network Meta-Analysis",
+    "Comparative Study",
+    "Review"
+   ],
+   "abstract": "INTRODUCTION: Glucagon receptor agonists (GRAs) are an emerging class of therapies for obesity and type 2 diabetes, demonstrating encouraging metabolic and weight-reducing effects. Several investigational GRA-based agents, including retatrutide, cotadutide, mazdutide, and survodutide, have reported promising results across early and mid-phase clinical trials. This comprehensive meta-analysis evaluates the efficacy and safety of these agents in individuals with type 2 diabetes, overweight, or obesity. METHODS: PubMed, Cochrane, Embase, and Scopus databases were systematically searched. Fourteen randomised controlled trials meeting the inclusion criteria were analysed using frequentist network meta-analysis. Random-effects models were applied to assess mean differences (MD) in weight change, both absolute and percent changes, HbA1c, adverse events, and discontinuation due to adverse events. Heterogeneity was quantified using the I2 statistic. RESULTS: Retatrutide demonstrated the greatest weight reduction versus placebo (MD -13.44 kg; 95% CI [-18.38, -8.51]), followed by survodutide (MD -10.74 kg; 95% CI [-15.68, -5.80]) and mazdutide (MD -6.47 kg; 95% CI [-10.71, -2.24]). Cotadutide showed the smallest and nonsignificant effect (MD -3.41 kg; 95% CI [-11.63, 4.81]). Regarding HbA1c reduction, retatrutide showed the largest effect, followed by survodutide, mazdutide, and cotadutide; however, only the effect of retatrutide reached statistical significance. In terms of safety, mazdutide demonstrated the most favourable tolerability profile, whereas retatrutide and cotadutide were associated with comparatively lower tolerability. CONCLUSIONS: Retatrutide and survodutide exhibit the most favourable efficacy profiles for obesity and T2DM, with acceptable safety. These findings support their potential clinical use and highlight the need for future head-to-head trials."
+  }
+ ],
+ "praeklinik": [
+  {
+   "pmid": "38843460",
+   "titel": "Efficacy and Safety of GLP-1 Medicines for Type 2 Diabetes and Obesity",
+   "jahr": "2024",
+   "journal": "Diabetes Care",
+   "erstautor": "Drucker DJ",
+   "doi": "10.2337/dci24-0003",
+   "typ": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The development of glucagon-like peptide 1 receptor agonists (GLP-1RA) for type 2 diabetes and obesity was followed by data establishing the cardiorenal benefits of GLP-1RA in select patient populations. In ongoing trials investigators are interrogating the efficacy of these agents for new indications, including metabolic liver disease, peripheral artery disease, Parkinson disease, and Alzheimer disease. The success of GLP-1-based medicines has spurred the development of new molecular entities and combinations with unique pharmacokinetic and pharmacodynamic profiles, exemplified by tirzepatide, a GIP-GLP-1 receptor coagonist. Simultaneously, investigational molecules such as maritide block the GIP and activate the GLP-1 receptor, whereas retatrutide and survodutide enable simultaneous activation of the glucagon and GLP-1 receptors. Here I highlight evidence establishing the efficacy of GLP-1-based medicines, while discussing data that inform safety, focusing on muscle strength, bone density and fractures, exercise capacity, gastrointestinal motility, retained gastric contents and anesthesia, pancreatic and biliary tract disorders, and the risk of cancer. Rapid progress in development of highly efficacious GLP-1 medicines, and anticipated differentiation of newer agents in subsets of metabolic disorders, will provide greater opportunities for use of personalized medicine approaches to improve the health of people living with cardiometabolic disorders."
+  },
+  {
+   "pmid": "39903735",
+   "titel": "Comparison of pharmacological therapies in metabolic dysfunction-associated steatohepatitis for fibrosis regression and MASH resolution: Systematic review and network meta-analysis",
+   "jahr": "2025",
+   "journal": "Hepatology",
+   "erstautor": "Souza M",
+   "doi": "10.1097/HEP.0000000000001254",
+   "typ": [
+    "Journal Article",
+    "Systematic Review",
+    "Comparative Study",
+    "Network Meta-Analysis",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND AND AIMS: Metabolic dysfunction-associated steatohepatitis (MASH) is a leading cause of liver disease. With the advent of multiple therapeutic targets in late-phase clinical drug development for MASH, there is a knowledge gap to better understand the comparative efficacy of various pharmacological agents. We conducted an updated network meta-analysis to evaluate the relative rank order of the different pharmacological agents for both fibrosis regression and MASH resolution. APPROACH AND RESULTS: We searched PubMed and Embase databases from January 1, 2020 to December 1, 2024, for published randomized controlled trials comparing pharmacological interventions in patients with biopsy-proven MASH. The co-primary endpoints were fibrosis improvement ≥1 stage without MASH worsening and MASH resolution without worsening fibrosis. We conducted surface under the cumulative ranking curve (SUCRA) analysis. A total of 29 randomized controlled trials (n=9324) were included. Pegozafermin, cilofexor + firsocostat, denifanstat, survodutide, obeticholic acid, tirzepatide, resmetirom, and semaglutide were significantly better than placebo in achieving fibrosis regression without worsening MASH. Pegozafermin (SUCRA: 79.92), cilofexor + firsocostat (SUCRA: 71.38), and cilofexor + selonsertib (SUCRA: 69.11) were ranked the most effective interventions. Pegozafermin, survodutide, tirzepatide, efruxifermin, liraglutide, vitamin E + pioglitazone, resmetirom, semaglutide, pioglitazone, denifanstat, semaglutide, and lanifibranor were significantly better than placebo in achieving MASH resolution without worsening fibrosis. Pegozafermin (SUCRA: 91.75), survodutide (SUCRA: 90.87), and tirzepatide (SUCRA: 84.70) were ranked the most effective interventions for achieving MASH resolution without worsening fibrosis. CONCLUSIONS: This study provides updated rank-order efficacy of MASH pharmacological therapies for fibrosis regression and MASH resolution. These data are helpful to inform practice and clinical trial design."
+  },
+  {
+   "pmid": "39952695",
+   "titel": "Emerging pharmacotherapies for obesity: A systematic review",
+   "jahr": "2025",
+   "journal": "Pharmacol Rev",
+   "erstautor": "Kokkorakis M",
+   "doi": "10.1124/pharmrev.123.001045",
+   "typ": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "abstract": "The history of antiobesity pharmacotherapies is marked by disappointments, often entangled with societal pressure promoting weight loss and the prevailing conviction that excess body weight signifies a lack of willpower. However, categories of emerging pharmacotherapies generate hope to reduce obesity rates. This systematic review of phase 2 and phase 3 trials in adults with overweight/obesity investigates the effect of novel weight loss pharmacotherapies, compared to placebo/control or US Food and Drug Administration-approved weight loss medication, through searching Medline, Embase, and ClinicalTrials.gov (2012-2024). We identified 53 phase 3 and phase 2 trials, with 36 emerging antiobesity drugs or combinations thereof and 4 withdrawn or terminated trials. Oral semaglutide 50 mg is the only medication that has completed a phase 3 trial. There are 14 ongoing phase 3 trials on glucagon-like peptide-1 (GLP-1) receptor agonists (RAs) (ecnoglutide, orforglipron, and TG103), GLP-1 RA/amylin agonist (CagriSema), GLP-1/glucagon RAs (mazdutide and survodutide), GLP-1/glucose-dependent insulinotropic polypeptide and glucagon RA (retatrutide), dapagliflozin, and the combination sibutramine/topiramate. Completed phase 2 trials on incretin-based therapies showed a mean percent weight loss of 7.4% to 24.2%. Almost half of the drugs undergoing phase 2 trials are incretin analogs. The obesity drug pipeline is expanding rapidly, with the most promising results reported with incretin analogs. Data on mortality and obesity-related complications, such as cardio-renal-metabolic events, are needed. Moreover, long-term follow-up data on the safety and efficacy of weight maintenance with novel obesity pharmacotherapies, along with studies focused on underrepresented populations, cost-effectiveness assessments, and drug availability, are needed to bridge the care gap for patients with obesity. SIGNIFICANCE STATEMENT: Obesity is the epidemic of the 21st century. Except for the newer injectable medications, drugs with suboptimal efficacy have been available in the clinician's armamentarium for weight management. However, emerging alternatives of novel agents and combinations populate the current obesity therapeutic pipeline. This systematic review identifies the state and mechanism of action of emerging pharmacotherapies undergoing or having completed phase 2 and phase 3 clinical trials. The information provided herein furthers the understanding of obesity management, implying direct clinical implications and stimulating research initiatives."
+  },
+  {
+   "pmid": "40489581",
+   "titel": "Efficacy of GLP-1-based Therapies on Metabolic Dysfunction-associated Steatotic Liver Disease and Metabolic Dysfunction-associated Steatohepatitis: A Systematic Review and Meta-analysis",
+   "jahr": "2025",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Wang Y",
+   "doi": "10.1210/clinem/dgaf336",
+   "typ": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: New therapies are urgently needed for the treatment of metabolic dysfunction-associated steatotic liver disease (MASLD) and metabolic dysfunction-associated steatohepatitis (MASH). We conducted this systematic review and meta-analysis to evaluate the therapeutic effects of glucagon-like peptide-1 receptor agonists (GLP-1RAs) on MASLD/MASH. METHODS: We searched PubMed, Embase, and Cochrane Library databases to identify randomized controlled trials (RCTs) that compared GLP-1RAs with placebo or active agents with respect to the efficacy in patients with MASLD/MASH. The effects of GLP-1RAs on liver fat content (LFC) by imaging, liver histology, serum liver enzymes, and noninvasive fibrosis indexes [Fibrosis-4, nonalcoholic fatty liver disease fibrosis score, cytokeratin 18, procollagen III, and liver stiffness) were evaluated. Mean differences and risk ratios with 95% confidence intervals were pooled using a random-effect model. RESULTS: Twenty-five RCTs involving 2600 patients who used GLP-1RAs including liraglutide, exenatide, dulaglutide, semaglutide, tirzepatide, efinopegdutide, survodutide, and retatrutide were included. Overall, GLP-1RAs treatment for a median of 24 weeks demonstrated a significant reduction in LFC by 5.21%, with retatrutide displaying the most obvious treatment effects. GLP-1RAs treatment induced significant histological improvements in steatosis, hepatocellular ballooning, and lobular inflammation but nonsignificantly improved fibrosis, with the evidence for tirzepatide more robust than that for semaglutide and liraglutide. GLP-1RAs treatment significantly decreased serum alanine aminotransferase, aspartate aminotransferase, and γ-glutamyl transferase compared with control. GLP-1RAs also significantly improved liver stiffness, with semaglutide displaying the most obvious treatment effect. No drug-related adverse effects involving the liver were observed. CONCLUSION: GLP-1RAs decreased liver fat deposition and improved histological steatosis, hepatocellular ballooning, and lobular inflammation, without worsening of fibrosis in MASLD and MASH."
+  },
+  {
+   "pmid": "40865172",
+   "titel": "Weight management treatment in obesity",
+   "jahr": "2025",
+   "journal": "Med Clin (Barc)",
+   "erstautor": "Rubio-Herrera MA",
+   "doi": "10.1016/j.medcli.2025.107152",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Obesity is a chronic and relapsing disease associated with medical complications and mortality. Our improved understanding of the relevance of the gut-brain axis in regulating appetite and body weight has encouraged research into nutrient-stimulated gastroenteropancreatic hormones as a new therapeutic arsenal for the treatment of people living with obesity. Beyond the necessary lifestyle changes, this new era with second-generation drugs has been able to achieve weight loss of 15-25%, close to that of bariatric surgery. Glucagon-like peptide-1 (GLP-1) receptor agonists (RA), used as weekly injectable monotherapy or daily oral (semaglutide), achieve weight loss of 15-17%, with a good safety profile. The synergistic combination with other hormones (such as glucose-dependent insulinotropic polypeptide (GIP), glucagon, or amylin) will allow to increase weight loss, as well as improve cardiometabolic variables. Tirzepatide (a dual GLP-1/GIP receptor agonist) achieves weight loss of up to 22.5% at the highest doses. In this same range of weight loss, it is expected that it can be achieved with the combination of Cagrisema (cagrilintide 2.4mg plus semaglutide 2.4mg), combinations of GLP-1 RAs - glucagon agonists or with the triple combination of GLP-1 RAs-GIP-Glucagon (Retatrutide). In this review, we will examine the efficacy and safety of the drugs marketed and others under ongoing clinical trials for the treatment of persons with obesity, as well as the main challenges faced by both healthcare professionals and patients in maintaining long-term treatment."
+  },
+  {
+   "pmid": "41375628",
+   "titel": "Diabetes Mellitus and Chronic Kidney Disease: The Future Is Being Surpassed",
+   "jahr": "2025",
+   "journal": "J Clin Med",
+   "erstautor": "Martínez-Castelao A",
+   "doi": "10.3390/jcm14238326",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Diabetes mellitus (DM) continues to be a global world health problem. Despite medical advances, both DM and chronic kidney disease (CKD) remain global health issues with high mortality and limited options to prevent end-stage renal failure. Current therapies encompass five classes of drugs: (1) angiotensin-converting-enzyme inhibitors (ACEI) or angiotensin II receptor blockers (AIIRB); (2) sodium-glucose-transporter 2 (SGLT2) inhibitors; (3) glucagon-like peptide-1 receptor agonists (GLP-1 RA); and (4) an antagonist of type 1 endothelin receptor (ET1R) with proven efficacy to reduce albuminuria and proteinuria. (5) The mineralocorticoid receptor antagonist (MRA) finerenone has been tested in RCTs as a kidney protective agent. In our review, we summarize many of the principal trials that have generated evidence in this regard. Many novel agents-many of them proven not only for DM management but also for the treatment of obesity with or without DM or heart failure (HF)-are now in development and may be added to the five classical pillars: other non-steroidal MRA (balcinrenone); aldosterone synthase inhibitors (baxdrostat and vicadrostat); other GLP-1 RA (tirzepatide, survodutide, retatrutide, and cagrilintide); ET1 R antagonists, (zibotentan); and soluble guanylate cyclase activators (avenciguat). These new agents aim to slow disease progression further and reduce cardiovascular risk. Future strategies rely on integrated, patient-centered approaches and personalized therapy to curb renal disease and its related complications."
+  },
+  {
+   "pmid": "40590228",
+   "titel": "Therapeutic horizons in metabolic dysfunction-associated steatohepatitis",
+   "jahr": "2025",
+   "journal": "J Clin Invest",
+   "erstautor": "Newsome PN",
+   "doi": "10.1172/JCI186425",
+   "typ": [
+    "Journal Article",
+    "Review",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Metabolic dysfunction-associated steatohepatitis (MASH), the progressive inflammatory form of MASLD, is now a leading cause of chronic liver disease worldwide. Driven by obesity and type 2 diabetes, MASH significantly increases the risk of cirrhosis, hepatocellular carcinoma, and liver failure. While public health interventions remain essential, therapeutic strategies targeting metabolic dysfunction, inflammation, and fibrosis are urgently needed. This Review focuses on pharmacological treatments in advanced development, including incretin-based therapies (GLP-1, dual, and triple agonists), metabolic modulators (PPAR, FGF21, and THR-β agonists), and novel agents such as fatty acid synthase inhibitors. Current regulatory approval is based on histological end points, with increasing interest in noninvasive biomarkers and personalized treatment approaches. Recent trials with agents such as semaglutide, tirzepatide, survodutide, lanifibranor, pegozafermin, and resmetirom demonstrate substantial promise in resolving MASH and improving fibrosis, but unresolved issues remain regarding treatment duration, response heterogeneity, and long-term adherence. Genetic variants (e.g., PNPLA3 polymorphisms) and emerging molecular biomarkers may enhance stratification, while artificial intelligence is beginning to shape trial design and drug development. As the field moves toward combination therapies and precision medicine, the definition of therapeutic success will likely evolve to reflect both histological improvement and patient-reported outcomes. This Review provides a timely synthesis of the landscape, challenges, and future directions in MASH therapeutics."
+  },
+  {
+   "pmid": "39481534",
+   "titel": "The impact of weight loss on fat-free mass, muscle, bone and hematopoiesis health: Implications for emerging pharmacotherapies aiming at fat reduction and lean mass preservation",
+   "jahr": "2024",
+   "journal": "Metabolism",
+   "erstautor": "Stefanakis K",
+   "doi": "10.1016/j.metabol.2024.156057",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Similar to bariatric surgery, incretin receptor agonists have revolutionized the treatment of obesity, achieving up to 15-25 % weight loss in many patients, i.e., at a rate approaching that achieved with bariatric surgery. However, over 25 % of total weight lost from both surgery and pharmacotherapy typically comes from fat-free mass, including skeletal muscle mass, which is often overlooked and can impair metabolic health and increase the risk of subsequent sarcopenic obesity. Loss of muscle and bone as well as anemia can compromise physical function, metabolic rate, and overall health, especially in older adults. The myostatin-activin-follistatin-inhibin system, originally implicated in reproductive function and subsequently muscle regulation, appears to be crucial for muscle and bone maintenance during weight loss. Activins and myostatin promote muscle degradation, while follistatins inhibit their activity in states of negative energy balance, thereby preserving lean mass. Novel compounds in the pipeline, such as Bimagrumab, Trevogrumab, and Garetosmab-which inhibit activin and myostatin signaling-have demonstrated promise in preventing muscle loss while promoting fat loss. Either alone or combined with incretin receptor agonists, these medications may enhance fat loss while preserving or even increasing muscle and bone mass, offering a potential solution for improving body composition and metabolic health during significant weight loss. Since this dual therapeutic approach could help address the challenges of muscle and bone loss during weight loss, well-designed studies are needed to optimize these strategies and assess long-term benefits. For the time being, considerations like advanced age and prefrailty may affect the choice of suitable candidates in clinical practice for current and emerging anti-obesity medications due to the associated risk of sarcopenia."
+  },
+  {
+   "pmid": "39735270",
+   "titel": "GLP-1, GIP/GLP-1, and GCGR/GLP-1 receptor agonists: Novel therapeutic agents for metabolic dysfunction-associated steatohepatitis",
+   "jahr": "2024",
+   "journal": "World J Gastroenterol",
+   "erstautor": "Singh A",
+   "doi": "10.3748/wjg.v30.i48.5205",
+   "typ": [
+    "Review",
+    "Journal Article"
+   ],
+   "abstract": "The global prevalence of metabolic dysfunction-associated steatotic liver disease (MASLD) is estimated at 32.4%, reflecting its growing clinical significance. MASLD, which includes MASLD and metabolic dysfunction-associated steatohepatitis (MASH) has been linked to increased metabolic, cardiovascular, and malignant morbidity. Progression into fibrotic stages of MASLD is also strongly associated with liver-related mortality. The past few years have seen a heightened focus on creating innovative therapeutic strategies for MASH management. GLP-1 receptor agonists (RA) have also emerged as a potential treatment option. Studies on GLP-1 agonists, such as liraglutide and semaglutide, have demonstrated efficacy in MASH management, albeit with limited histological improvement of fibrosis. However, recent investigations into GLP-1/GIP RA (tirzepatide) and Glucagon/GLP-1 RA (survodutide) have shown even more encouraging results, with higher rates of MASH resolution and fibrosis improvement. The tolerability of these medications due to their gastrointestinal side effects remains a major concern. Future research should focus on optimizing drug regimens, identifying patients most likely to benefit, and balancing efficacy with tolerability. The evolving landscape of MASH therapeutics suggests a bright future, with the potential for combination therapies to further enhance patient outcomes."
+  },
+  {
+   "pmid": "42208956",
+   "titel": "Beyond weight loss: multisystem benefits of obesity medications",
+   "jahr": "2026",
+   "journal": "Lancet Diabetes Endocrinol",
+   "erstautor": "Savas M",
+   "doi": "10.1016/S2213-8587(26)00100-2",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Obesity is increasingly managed with medications as disease-modifying therapies, reflecting its role as a gateway disease driving metabolic, cardiovascular, reproductive, neuropsychiatric, and mechanical conditions. This Review synthesises evidence from randomised controlled trials and high-quality meta-analyses on approved and late-stage investigational obesity medications, including phentermine-topiramate, naltrexone-bupropion, glucagon-like peptide-1 (GLP-1) receptor agonists (eg, liraglutide, semaglutide, subcutaneously and orally), and newer GLP-1 receptor agonist-based agents (eg, tirzepatide, survodutide, mazdutide, retatrutide, cagrilintide-semaglutide, and amycretin). We evaluated the effects of obesity medications across major obesity-related conditions, including type 2 diabetes, metabolic dysfunction-associated steatotic liver disease, chronic kidney disease, heart failure, cardiovascular disease, obstructive sleep apnoea syndrome, polycystic ovary syndrome (recently named polyendocrine metabolic ovarian syndrome), osteoarthritis, muscle mass, depression, quality of life, and food cravings, along with binge-eating disorders, substance use disorders, and neurodegenerative diseases. Overall, GLP-1-based and multiagonist therapies show beneficial effects across these comorbid conditions. While many benefits of obesity medications are mediated by weight loss, accumulating evidence indicates important weight loss-independent effects, particularly with GLP-1 receptor agonist-based therapies. A broader understanding of these pleiotropic effects is essential to inform personalised obesity management and optimise long-term clinical outcomes."
+  },
+  {
+   "pmid": "41054801",
+   "titel": "Novel GLP-1-based Medications for Type 2 Diabetes and Obesity",
+   "jahr": "2026",
+   "journal": "Endocr Rev",
+   "erstautor": "Son JW",
+   "doi": "10.1210/endrev/bnaf036",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "The approvals of semaglutide and tirzepatide have set new benchmarks in the treatment of type 2 diabetes and obesity. Building on their success, novel glucagon-like peptide-1 (GLP-1)-based therapeutics are rapidly advancing. These next-generation agents engage not only GLP-1 receptors but also those for other gastro-entero-pancreatic hormones such as glucose-dependent insulinotropic polypeptide (GIP), glucagon, amylin, and peptide YY to enhance energy uptake, storage, and expenditure through synergistic mechanisms. Both GIP receptor agonism and antagonism, particularly in combination with GLP-1 receptor agonism, have shown promise. Maridebart cafraglutide, combining GLP-1 receptor agonism with GIP receptor antagonism, exemplifies this innovative approach. Glucagon coagonists like survodutide and mazdutide have demonstrated significant weight loss and improved glycemic control. Amylin-based agents, including CagriSema (cagrilintide + semaglutide) and amycretin, enhance satiety and glycemic outcomes through complementary actions. Further innovation is seen in triple agonists such as retatrutide, which targets GIP, GLP-1, and glucagon receptors to amplify metabolic effects. Meanwhile, the emergence of orally active small-molecule GLP-1 receptor agonists like danuglipron and orforglipron, which are resistant to enzymatic degradation, marks a major advance in patient-friendly drug delivery. This review explores the mechanisms, clinical development, and therapeutic potential of these novel agents, excluding already approved drugs like liraglutide, semaglutide, and tirzepatide. We highlight how multireceptor agonists and oral GLP-1-based therapies may reshape the future landscape of obesity and type 2 diabetes treatment by offering more effective and better-tolerated options."
+  },
+  {
+   "pmid": "40364529",
+   "titel": "Review Article: GLP-1 Receptor Agonists and Glucagon/GIP/GLP-1 Receptor Dual or Triple Agonists-Mechanism of Action and Emerging Therapeutic Landscape in MASLD",
+   "jahr": "2025",
+   "journal": "Aliment Pharmacol Ther",
+   "erstautor": "Zafer M",
+   "doi": "10.1111/apt.70196",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "BACKGROUND: Metabolic dysfunction-associated steatotic liver disease (MASLD) is primarily managed through diet and lifestyle modifications. However, these behavioural interventions alone may not achieve disease regression or remission, and maintaining long-term adherence is challenging. Incretin mimetics and other gastrointestinal hormones targeting the pleiotropic pathophysiological pathways underlying MASLD have now emerged as promising disease-modifying therapies. AIMS: This is a comprehensive review summarising the role of glucagon-like peptide-1 (GLP-1) receptor agonists and glucagon/glucose-dependent insulinotropic polypeptide (GIP)/GLP-1 receptor dual or triple agonists in the treatment of metabolic dysfunction-associated steatohepatitis (MASH). METHODS: Only clinical trials with endpoints assessed by liver histology were included for a robust evaluation of therapeutic efficacy. RESULTS: Recent evidence from phase 2 clinical trials for MASH demonstrated that pharmacological agents based on GLP-1 receptor agonism are effective in improving disease activity. Additionally, tirzepatide and survodutide showed potential clinical benefits in reducing fibrosis. Other cardiometabolic benefits observed include weight loss and improvements in glycaemic control and lipid profile. Adherence to treatment may be limited by gastrointestinal side effects, though they were found to be generally mild to moderate in severity. An interim analysis of the semaglutide phase 3 trial confirmed its efficacy in improving steatohepatitis and demonstrated its potential to improve fibrosis. CONCLUSIONS: GLP-1 receptor agonists, alone or in combination with GIP and/or glucagon receptor agonists, represent promising, effective pharmacotherapies for the treatment of MASLD/MASH. Larger and longer-duration clinical trials are needed to further evaluate the efficacy and safety of GIP receptor and glucagon receptor agonism."
+  },
+  {
+   "pmid": "39453356",
+   "titel": "Survodutide for the Treatment of Obesity: Rationale and Design of the SYNCHRONIZE Cardiovascular Outcomes Trial",
+   "jahr": "2024",
+   "journal": "JACC Heart Fail",
+   "erstautor": "Kosiborod MN",
+   "doi": "10.1016/j.jchf.2024.09.004",
+   "typ": [
+    "Clinical Trial Protocol",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "abstract": "Dual agonism of glucagon and glucagon-like peptide-1 (GLP-1) receptors may be more effective than GLP-1 receptor agonism alone in reducing body weight, but the cardiovascular (CV) effects are unknown. The authors describe the rationale and design of SYNCHRONIZE-CVOT, a phase 3, randomized, double-blind, parallel-group, event-driven, CV safety study of survodutide, a dual glucagon and GLP-1 receptor agonist, administered subcutaneously once weekly compared with placebo in adults with a body mass index ≥27 kg/m2 and established CV disease or chronic kidney disease, and/or at least 2 weight-related complications or risk factors for CV disease. The primary endpoint of SYNCHRONIZE-CVOT is time to first occurrence of the composite adjudicated endpoint of 5-point major adverse CV events. This global CV outcomes trial is currently enrolling, with a target recruitment of 4,935 participants. SYNCHRONIZE-CVOT is the first trial that will determine the CV safety and efficacy of survodutide in people with obesity and increased CV risk. (A Study to Test the Effect of Survodutide [BI 456906] on Cardiovascular Safety in People With Overweight or Obesity [SYNCHRONIZE-CVOT]; NCT06077864)."
+  },
+  {
+   "pmid": "40963161",
+   "titel": "Survodutide: A Dual GLP-1/Glucagon Agonist Reshaping Cardiometabolic Care",
+   "jahr": "2025",
+   "journal": "Cardiol Rev",
+   "erstautor": "Arun AJ",
+   "doi": "10.1097/CRD.0000000000001062",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Cardiovascular disease remains the leading cause of mortality worldwide, with obesity, type 2 diabetes, and metabolic dysfunction-associated steatohepatitis (MASH) serving as major upstream drivers. Current therapies largely address downstream risk factors, leaving a need for agents that modify the metabolic contributors to cardiovascular disease. Survodutide, a dual glucagon and glucagon-like peptide-1 receptor agonist, represents an emerging therapy with broad metabolic effects, including potent weight reduction, glycemic control, hepatic fat reduction, and anti-inflammatory activity. Phase 2 trials have demonstrated weight loss up to 18.7% and HbA1c reductions up to -1.71%, outperforming semaglutide for weight outcomes while maintaining comparable glycemic efficacy. In MASH, survodutide achieved significant improvements in liver fat and fibrosis, offering potential cardiovascular protection through reductions in systemic inflammation and fibrosis-related remodeling. Its mechanistic profile suggests benefits for visceral and epicardial adiposity, with implications for heart failure with preserved ejection fraction. Early signals of renal benefit further underscore its role in cardiorenal syndromes. Adverse events, primarily gastrointestinal intolerance and modest heart rate increases, remain important limitations, contributing to discontinuation rates higher than comparator agents. The ongoing Survodutide for the treatment of obesity study (SYNCHRONIZE-CVOT) trial will clarify whether these robust metabolic effects translate into reduced cardiovascular events and long-term safety. Survodutide has the potential to reshape cardiometabolic care by addressing multiple converging pathways that drive cardiovascular disease. Confirmation of its safety and efficacy in outcomes trials could establish dual agonism as a cornerstone therapeutic strategy for patients with obesity, type 2 diabetes, MASH, and cardiorenal disease."
+  },
+  {
+   "pmid": "40685589",
+   "titel": "Efficacy and Safety of GLP-1 Receptor Agonists, Dual Agonists, and Retatrutide for Weight Loss in Adults With Overweight or Obesity: A Bayesian NMA",
+   "jahr": "2025",
+   "journal": "Obesity (Silver Spring)",
+   "erstautor": "Sinha B",
+   "doi": "10.1002/oby.24360",
+   "typ": [
+    "Journal Article",
+    "Network Meta-Analysis",
+    "Systematic Review"
+   ],
+   "abstract": "OBJECTIVE: To compare the efficacy and safety of GLP-1 receptor agonists (GLP-1RAs), dual agonists (GLP-1RAs/GIP or GCGR), and retatrutide (GLP-1/GIP/glucagon) for weight loss in adults with overweight or obesity. METHODS: We conducted a systematic review and Bayesian network meta-analysis (NMA) of 19 randomized controlled trials (RCTs) including 29,506 adults (BMI ≥ 25 kg/m2), assessing liraglutide, semaglutide, survodutide, tirzepatide, retatrutide, and placebo. Outcomes included mean weight loss, achievement of ≥ 5%, ≥ 10%, and ≥ 15% weight loss, waist circumference (WC), BMI, and adverse events (AEs) at ≥ 36 weeks. Subgroup and meta-regression analyses evaluated the impact of diabetes status, sex, age, and BMI. RESULTS: Retatrutide and dual agonists achieved equivalent mean weight loss (-11.0 kg), surpassing GLP-1RAs (-9.0 kg), with retatrutide excelling at achieving ≥ 15% weight loss (OR 54.6). Dual agonists and GLP-1RAs followed (OR 16.4 and 9.0, respectively). Retatrutide had the highest AE risk. Meta-regression showed type 2 diabetes mellitus (T2DM) reduced weight loss by 4.338 kg for GLP-1RAs and 5.016 kg for dual agonists, with enhanced outcomes in female-dominant or high-BMI cohorts. CONCLUSIONS: Retatrutide offers superior weight loss efficacy but with a higher AE risk. Dual agonists provide a favorable efficacy-safety balance. Personalized treatment selection based on patient characteristics is recommended."
+  },
+  {
+   "pmid": "38560764",
+   "titel": "The dual GCGR/GLP-1R agonist survodutide: Biomarkers and pharmacological profiling for clinical candidate selection",
+   "jahr": "2024",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Thomas L",
+   "doi": "10.1111/dom.15551",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "AIM: To describe the biomarker strategy that was applied to select survodutide (BI 456906), BI 456908 and BI 456897 from 19 dual glucagon receptor (GCGR)/ glucagon-like peptide-1 receptor (GLP-1R) agonists for in-depth pharmacological profiling, which led to the qualification of survodutide as the clinical development candidate. MATERIALS AND METHODS: Potencies to increase cyclic adenosine monophosphate (cAMP) were determined in Chinese hamster ovary (CHO)-K1 cells stably expressing human GCGR and GLP-1R. Agonism for endogenously expressed receptors was investigated in insulinoma cells (MIN6) for mouse GLP-1R, and in rat primary hepatocytes for the GCGR. In vivo potencies to engage the GLP-1R or GCGR were determined, measuring improvement in oral glucose tolerance (30 nmol/kg) and increase in plasma fibroblast growth factor-21 (FGF21) and liver nicotinamide N-methyltransferase (NNMT) mRNA expression (100 nmol/kg), respectively. Body weight- and glucose-lowering efficacies were investigated in diet-induced obese (DIO) mice and diabetic db/db mice, respectively. RESULTS: Upon acute dosing in lean mice, target engagement biomarkers for the GCGR and GLP-1R demonstrated a significant correlation (Spearman correlation coefficient with p < 0.05) to the in vitro GCGR and GLP-1R potencies for the 19 dual agonists investigated. Survodutide, BI 456908 and BI 456897 were selected for in-depth pharmacological profiling based on the significant improvement in acute oral glucose tolerance achieved (area under the curve [AUC] of 54%, 57% and 60% vs. vehicle) that was comparable to semaglutide (AUC of 45% vs. vehicle), while showing different degrees of in vivo GCGR engagement, as determined by hepatic NNMT mRNA expression (increased by 15- to 17-fold vs. vehicle) and plasma FGF21 concentrations (increased by up to sevenfold vs. vehicle). In DIO mice, survodutide (30 nmol/kg/once daily), BI 456908 (30 nmol/kg/once daily) and BI 456897 (10 nmol/kg/once daily) achieved a body weight-lowering efficacy from baseline of 25%, 27% and 26%, respectively. In db/db mice, survodutide and BI 456908 (10 and 20 nmol/kg/once daily) significantly lowered glycated haemoglobin (0.4%-0.6%); no significant effect was observed for BI 456897 (3 and 7 nmol/kg/once daily). CONCLUSIONS: Survodutide was selected as the clinical candidate based on its balanced dual GCGR/GLP-1R pharmacology, engaging the GCGR for robust body weight-lowering efficacy exceeding that of selective GLP-1R agonists, while achieving antidiabetic efficacy that was comparable to selective GLP-1R agonism. Survodutide is currently being investigated in Phase 3 clinical trials in people living with obesity."
+  },
+  {
+   "pmid": "41329105",
+   "titel": "Survodutide for the Treatment of Obesity: Baseline Characteristics of the SYNCHRONIZE Cardiovascular Outcomes Trial",
+   "jahr": "2026",
+   "journal": "JACC Heart Fail",
+   "erstautor": "Platz E",
+   "doi": "10.1016/j.jchf.2025.102780",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "39663847",
+   "titel": "Survodutide in MASH: bridging the gap between hepatic and systemic metabolic dysfunction",
+   "jahr": "2024",
+   "journal": "Expert Opin Investig Drugs",
+   "erstautor": "Kaya E",
+   "doi": "10.1080/13543784.2024.2441865",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "INTRODUCTION: Glucagon-like peptide-1 receptor (GLP-1 R) agonists have demonstrated remarkable effectiveness in the treatment of obesity and type 2 diabetes. Although these agents provide beneficial effects for metabolic dysfunction-associated steatohepatitis (MASH) through their glucose-lowering and weight-reducing properties, their efficacy in promoting fibrosis regression remains unproven. Survodutide, an investigational dual agonist that simultaneously targets both the glucagon receptor (GCGR) and GLP-1 R, has emerged as a promising therapeutic candidate for the comprehensive management of obesity and MASH. By engaging these two critical receptors, this drug has the potential to offer a broad spectrum of metabolic benefits, addressing multiple pathogenic mechanisms underlying these interrelated disorders. AREAS COVERED: This review examines the pharmacological profile, clinical efficacy, and safety data of survodutide derived from phase 1 and 2 clinical trials. EXPERT OPINION: Survodutide's dual agonism of the GCGR and GLP-1 R may surpass the efficacy of selective GLP-1 R agonists, demonstrating significant potential in resolving MASH and promoting fibrosis regression. The drug is generally well tolerated, with primarily manageable gastrointestinal adverse effects. As survodutide progresses through phase 3 clinical development, its potential to provide a more effective and holistic approach to treating MASH and its comorbidities may significantly improve patient outcomes and quality of life."
+  },
+  {
+   "pmid": "40772898",
+   "titel": "Hydrogen Sulfide Deficiency and Therapeutic Targeting in Cardiometabolic HFpEF: Evidence for Synergistic Benefit With GLP-1/Glucagon Agonism",
+   "jahr": "2025",
+   "journal": "JACC Basic Transl Sci",
+   "erstautor": "Doiron JE",
+   "doi": "10.1016/j.jacbts.2025.04.011",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Heart failure with preserved ejection fraction (HFpEF) presents significant treatment challenges. We assessed hydrogen sulfide (H2S) bioavailability in HFpEF patients and 2 animal models: the \"2-hit\" L-NAME + high-fat diet mouse model and ZSF1 obese rats. H2S levels were significantly reduced in patients and both models, linked to decreased cystathionine-γ-lyase expression and increased sulfide quinone oxidoreductase. Cystathionine-γ-lyase knockout worsened HFpEF, whereas pharmacological supplementation with an H2S donor improved diastolic function and reduced cardiac fibrosis. H2S supplement synergized with GLP-1/glucagon agonist and ameliorated HFpEF. These findings suggest that enhancing H2S bioavailability may provide a novel therapeutic strategy for HFpEF."
+  },
+  {
+   "pmid": "40081498",
+   "titel": "Multifunctional incretin peptides in therapies for type 2 diabetes, obesity and associated co-morbidities",
+   "jahr": "2025",
+   "journal": "Peptides",
+   "erstautor": "Bailey CJ",
+   "doi": "10.1016/j.peptides.2025.171380",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Recent studies with peptide-based incretin therapies have focussed mainly on the glucagon-like peptide-1 (GLP-1) receptor agonist semaglutide and the dual agonist tirzepatide that engages receptors for GLP-1 and glucose-dependent insulinotropic polypeptide (GIP). Randomised clinical trials and 'real-world' studies have confirmed the marked glucose-lowering and weight-lowering efficacy of these agents across diverse populations. These include different ethnic groups, young and elderly individuals with and without diabetes and/or overweight or obesity. Recent studies have also confirmed protections against the development and progression of cardiovascular and renal diseases that are additive to the benefits conferred by improved control of blood glucose and body weight. Emerging evidence suggests that incretin therapies could additionally ameliorate fatty liver disease, chronic inflammation, sleep apnea and possibly degenerative bone disorders and cognitive decline. New incretin-based peptide therapies in development include a long-acting glucagon receptor agonist (LY3324954), dual GLP-1/glucagon receptor agonists (survodutide, pemvidutide, mazdutide, G49), triple GLP-1/GIP/glucagon receptor agonists (retatrutide, efocipegtrutide), a combination of semaglutide with the amylin analogue cagrilintide (CagriSema), a unimolecular GLP-1/amylin receptor dual agonist (amycretin), and a GIP receptor antibody with GLP-1 receptor agonism (MariTide). The creation of multi-targeting incretin-based synthetic peptides provides opportunities for improved management of type 2 diabetes and obesity as well as new therapeutic approaches to an expanding list of associated co-morbidities. The aim of the review is to acquaint the reader with developments in the field from 2023 to the present (February 2025)."
+  },
+  {
+   "pmid": "40619099",
+   "titel": "Novel NPY2R agonist BI 1820237 provides synergistic anti-obesity efficacy when combined with the GCGR/GLP-1R dual agonist survodutide",
+   "jahr": "2025",
+   "journal": "Mol Metab",
+   "erstautor": "Augustin R",
+   "doi": "10.1016/j.molmet.2025.102205",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "OBJECTIVE: Nutrient-stimulated gut hormone peptide YY3-36 (PYY3-36) selectively activates the neuropeptide Y2 receptor (NPY2R) and reduces energy intake in humans. We describe the discovery and pharmacology of the long-acting NPY2R agonist BI 1820237 and its potential bodyweight-lowering efficacy alone and in combination with the glucagon receptor (GCGR)/glucagon-like peptide-1 receptor (GLP-1R) dual agonist survodutide. METHODS & RESULTS: BI 1820237 dose-dependently reduced food intake and gastric emptying in lean mice. Significant bodyweight reductions were not observed with BI 1820237 alone in diet-induced obese mice, however combination with survodutide led to bodyweight reduction of 22% which was significantly (p < 0.01) greater than the 17% bodyweight reduction with survodutide alone. Regression-based interaction analysis demonstrated that BI 1820237 increased the efficacy of survodutide by 265% at an ED50 of 11.7 nmol/kg over a range of dose combinations. CONCLUSION: Synergistic NPY2R and GCGR/GLP-1R agonism provides an attractive mode of action for clinically relevant weight loss in patients with obesity."
+  },
+  {
+   "pmid": "42820639",
+   "titel": "Survodutide Once Weekly in Adults with Obesity and Type 2 Diabetes",
+   "jahr": "2026",
+   "journal": "N Engl J Med",
+   "erstautor": "Wharton S",
+   "doi": "10.1056/NEJMoa2607219",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: For persons living with both type 2 diabetes and obesity, weight management may be the most effective therapy for type 2 diabetes. Glucagon-like peptide-1 (GLP-1) receptor agonists have potent weight-reducing effects, and other mechanisms may confer additional benefits. Survodutide is an investigational glucagon receptor-GLP-1 receptor dual agonist with potential weight-reducing and metabolic benefits. METHODS: In this multinational, double-blind, phase 3 trial involving adults with type 2 diabetes and a body-mass index (BMI; the weight in kilograms divided by the square of the height in meters) of 27 or more, we randomly assigned participants in a 1:1:1 ratio to receive once-weekly subcutaneous survodutide (3.6 mg or 6.0 mg) or placebo. The two primary end points were the percent change in body weight and a reduction in body weight of at least 5% from baseline to week 76. RESULTS: Among 752 participants (250 in the 3.6-mg survodutide group, 251 in the 6.0-mg survodutide group, and 251 in the placebo group), the mean age at baseline was 55.7 years, and the mean BMI was 36.5; 49.3% were men. The mean weight change at week 76 according to the treatment-regimen estimand (which assessed effects regardless of whether the trial regimen was discontinued or interrupted or whether other antiobesity therapies were used) was -8.2% (95% confidence interval [CI], -9.2 to -7.2) in the 3.6-mg group, -9.8% (95% CI, -10.8 to -8.8) in the 6.0-mg group, and -3.9% (95% CI, -4.9 to -2.9) in the placebo group; weight reduction of at least 5% occurred in 57.6%, 64.5%, and 35.1% of the participants, respectively (P<0.001 for all comparisons with placebo). The mean change in the glycated hemoglobin level (from a baseline level of 7.4%) was -0.9 percentage points in the 3.6-mg group, -0.8 percentage points in the 6.0-mg group, and -0.2 percentage points in the placebo group. The most common adverse events were gastrointestinal (generally mild to moderate and transient), which occurred in 182 participants (72.8%) in the 3.6-mg group, 195 (77.7%) in the 6.0-mg group, and 97 (38.6%) in the placebo group. CONCLUSIONS: In adults with obesity and type 2 diabetes, survodutide at a weekly dose of 3.6 mg or 6.0 mg resulted in significantly greater weight reduction than placebo. (Funded by Boehringer Ingelheim; SYNCHRONIZE-2 ClinicalTrials.gov number, NCT06066528.)."
+  },
+  {
+   "pmid": "38753454",
+   "titel": "Oral glucagon-like peptide-1 receptor agonists and combinations of entero-pancreatic hormones as treatments for adults with type 2 diabetes: where are we now?",
+   "jahr": "2024",
+   "journal": "Expert Opin Pharmacother",
+   "erstautor": "Gogineni P",
+   "doi": "10.1080/14656566.2024.2356254",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "INTRODUCTION: Glucagon-like peptide-1 (GLP-1) receptor agonists (RAs) have changed the landscape of type 2 diabetes (T2D) management due to their cardio-renal benefits, their glucose-lowering efficacy and weight loss (WL) maintenance. However, the response to GLP-1 RA monotherapy is heterogeneous. Additionally, the majority of GLP-1 RAs are injectable treatments. Oral GLP-1 RAs and injectable combinations of GLP-1 with other entero-pancreatic hormones (glucose-dependent insulinotropic polypeptide (GIP), glucagon and amylin) are under development for T2D and obesity management. AREAS COVERED: Herein, we review the data on (i) oral GLP-1 RAs (oral semaglutide 25/50 mg and orforglipron) and (ii) dual/triple agonists (tirzepatide, cagrilintide 2.4 mg/semaglutide 2.4 mg, survodutide, mazdutide, retatrutide) that have recently completed phase 3 trials for T2D or are currently in phase 3 clinical trials. Tirzepatide is the first approved dual agonist (GLP-1/GIP) for T2D and obesity management. EXPERT OPINION: We are in a new era in T2D management where entero-pancreatic hormone-based treatments can result in ≥15% WL and euglycemia for many people with T2D. Multiple molecules with different mechanisms of action are under development for T2D, obesity and other metabolic complications. Data on their cardio-renal benefits, long-term efficacy and safety as well as their cost-effectiveness will better inform their position in treatment algorithms."
+  },
+  {
+   "pmid": "42568490",
+   "titel": "Incretin analogues as cardiovascular agents: a state-of-the-art review",
+   "jahr": "2026",
+   "journal": "Front Endocrinol (Lausanne)",
+   "erstautor": "Araiza-Garaygordobil D",
+   "doi": "10.3389/fendo.2026.1898812",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Glucagon-like peptide-1 (GLP-1) receptor agonists and the dual glucose-dependent insulinotropic polypeptide (GIP) and GLP-1 receptor agonist tirzepatide have evolved over the past decade from glucose-lowering antidiabetic agents into a cardiovascular drug class with proven outcome benefit across multiple clinical scenarios. This state-of-the-art review synthesizes the cardiovascular evidence base for incretin analogues, organized by clinical scenario, and addresses the structural challenges that constrain their deployment in low- and middle-income countries (LMICs). We review the pharmacology and proposed cardiovascular mechanisms, including direct effects on the vascular endothelium, macrophage inflammation, and epicardial adipose tissue, alongside indirect benefits mediated by weight loss, glycemic control, and blood pressure reduction. We summarize the evidence in five clinical scenarios: type 2 diabetes with established atherosclerotic cardiovascular disease or high cardiovascular risk; overweight or obesity with established cardiovascular disease but without diabetes; obesity-related heart failure with preserved ejection fraction; chronic kidney disease; and symptomatic peripheral artery disease. Pipeline agents (retatrutide, CagriSema, survodutide, orforglipron, zenagamtide, and MariTide) are reviewed alongside their ongoing cardiovascular outcome trials. A dedicated section examines the global access perspective, including the disproportionately high burden of cardiometabolic disease in LMICs, the limited representation of regional populations in pivotal trials, and the structural barriers of cost and reimbursement that constrain access. We close with a practical algorithm for the clinician, an honest assessment of evidence gaps, and a calibrated outlook on the next generation of incretin-based cardiovascular therapy."
+  },
+  {
+   "pmid": "40815181",
+   "titel": "Safety Choice Drivers of the Coming Treatment Options for Non-Cirrhotic Metabolic Steatohepatitis",
+   "jahr": "2025",
+   "journal": "Liver Int",
+   "erstautor": "Mangia A",
+   "doi": "10.1111/liv.70271",
+   "typ": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Metabolic dysfunction associated steatohepatitis (MASH), formerly known as NASH, represents one of the leading causes of chronic liver disease worldwide. Its high prevalence is driven by insulin resistance, obesity and type 2 diabetes (T2D) and is associated with cardiovascular disease. The main driver of liver damage is fat accumulation in hepatocytes leading to inflammation and fibrosis development. People with MASH and clinically significant fibrosis (stage F2/F3) are 'at risk' of progressing to cirrhosis and hepatocellular carcinoma and are considered in need of treatment. Metabolic drivers of MASH originating outside the liver, for example, from the adipose tissue and the gut, and genetic heterogeneity contribute to making the prevalent pathogenetic factor difficult to dissect at an individual level. In this scenario, the Food and Drug Administration's conditional approval of the liver-directed thyroid hormone receptor beta agonist Resmetirom as the first pharmacological treatment for MASH last March 2024 and the expected extension of the glucagon-like protein-1 receptor agonist Semaglutide indication from diabetes and obesity to MASH mark a key milestone. Both drugs are also under evaluation by the European Medicines Agency. The proven efficacy of these compounds in clinical trials needs to be balanced against safety profiles and patient preferences. To investigate future trajectories and possible uses as mono-therapy or in combination, we examined available results of clinical trials and real-life studies. Despite the need to await the final results of outcome studies to exclude any possible challenges for both compounds, safety profiles and external factors including reimbursement policies or supply limitations may currently guide the individual choice."
+  },
+  {
+   "pmid": "39495965",
+   "titel": "Survodutide for treatment of obesity: rationale and design of two randomized phase 3 clinical trials (SYNCHRONIZE™-1 and -2)",
+   "jahr": "2025",
+   "journal": "Obesity (Silver Spring)",
+   "erstautor": "Wharton S",
+   "doi": "10.1002/oby.24184",
+   "typ": [
+    "Clinical Trial Protocol",
+    "Journal Article"
+   ],
+   "abstract": "OBJECTIVE: The objective of this study was to describe the rationale and design of two multinational phase 3 clinical trials of survodutide, an investigational glucagon and glucagon-like peptide-1 receptor dual agonist for the treatment of obesity with or without type 2 diabetes (T2D; SYNCHRONIZE-1 and -2). METHODS: In these ongoing double-blind trials, participants were randomized to once-weekly subcutaneous injections of survodutide or placebo added to lifestyle modification. Survodutide doses are uptitrated to 3.6 or 6.0 mg, and dose flexibility is permitted. Participants (n = 726) in SYNCHRONIZE-1 (NCT06066515) have a baseline BMI ≥ 30 kg/m2 or ≥27 kg/m2 with at least one obesity-related complication but without T2D; participants (n = 755) in SYNCHRONIZE-2 (NCT06066528) have a baseline BMI ≥ 27 kg/m2 and T2D. The primary endpoints are percentage change in body weight and proportion of participants achieving ≥5% body weight reduction from baseline to week 76. Secondary endpoints include change in systolic blood pressure and measures of glycemia. A SYNCHRONIZE-1 substudy is evaluating changes in body composition and liver fat content using magnetic resonance imaging. CONCLUSIONS: These trials are designed to provide robust evaluation of the efficacy, safety, and tolerability of survodutide for the treatment of obesity in the presence or absence of T2D."
+  },
+  {
+   "pmid": "41063381",
+   "titel": "Histological efficacy of anti-diabetic agents in MASH and the mediating role of weight loss: A network meta-analysis",
+   "jahr": "2026",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Banerjee M",
+   "doi": "10.1111/dom.70187",
+   "typ": [
+    "Journal Article",
+    "Network Meta-Analysis"
+   ],
+   "abstract": "BACKGROUND: Metabolic dysfunction-associated steatohepatitis (MASH) is a progressive liver disease with rising global prevalence, closely linked to type 2 diabetes. While several anti-diabetic agents show promise, a comprehensive analysis comparing their efficacy on biopsy-confirmed histological outcomes, including dose-dependent effects and the mediating role of weight loss, remains unexplored. METHODS: A frequentist random-effects network meta-analysis (NMA) was conducted to explore histological efficacy of anti-diabetic agents in biopsy-confirmed MASH without cirrhosis. The primary outcome was fibrosis improvement (≥1 stage) without worsening steatohepatitis; the secondary outcome was MASH resolution without fibrosis worsening. Incretin-based agents were dose-stratified. Treatment ranking used surface-under the cumulative-ranking curve (SUCRA). Meta-regression investigated the impact of percentage weight loss and baseline covariates on the proportion of individuals achieving histological end-points. RESULTS: Data from five RCTs (N = 1667) were included. All active treatments, including Dapagliflozin 10 mg, Survodutide (2.4 mg/wk, 4.8-6 mg/wk), Tirzepatide (5 mg/wk, 10-15 mg/wk), and Semaglutide (0.7-1.4 mg/wk, 2.4 or 2.8 mg/wk), improved fibrosis versus placebo (I2 = 0%). For MASH resolution, dose-dependent effects led to significant heterogeneity (I2 = 73%), with lower-dose Semaglutide demonstrating no benefits and Dapagliflozin showing benefits in the F2-F3 subgroup only on sensitivity analysis. Survodutide exhibited the highest ranking (SUCRA = 0.822-0.849), followed by Tirzepatide (SUCRA = 0.622-0.681) and higher-dose Semaglutide (SUCRA = 0.327) for MASH resolution. Meta-regression using data from 16 interventions, including placebo arms, showed that weight loss significantly explained heterogeneity in treatment effects on fibrosis improvement (R2 = 54.26%) and MASH resolution (R2 = 78.16%). CONCLUSIONS: SGLT2 inhibitor and incretin-based agents improved fibrosis in MASH, with weight loss being a significant mediator. Targeting multiple incretin pathways, especially involving glucagon receptors, may offer greater MASH resolution. Dose-dependent effects were more prominent for MASH resolution than fibrosis improvement, indicating potential weight-loss-independent anti-fibrotic pathways."
+  },
+  {
+   "pmid": "40016997",
+   "titel": "The pleiotropic effects of glucagon-like peptide-1 receptor agonists in patients with metabolic dysfunction-associated steatohepatitis: a review for gastroenterologists",
+   "jahr": "2025",
+   "journal": "Expert Opin Investig Drugs",
+   "erstautor": "Alkhouri N",
+   "doi": "10.1080/13543784.2025.2473062",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "INTRODUCTION: Glucagon-like peptide-1 receptor agonists (GLP-1RAs), and dual GLP-1/glucose-dependent insulinotropic peptide (GIP) or glucagon receptor agonists have emerged as promising agents to treat metabolic dysfunction-associated steatotic liver disease (MASLD)/metabolic dysfunction-associated steatohepatitis (MASH). Although the beneficial effects of GLP-1RAs on glycemic control and weight are well-established, clinicians may be unfamiliar with other potential benefits of this class. AREAS COVERED: We examined the pleiotropic effects of GLP-1RAs and how they relate to gastroenterologists for MASLD/MASH treatment. Our narrative review of English articles included four GLP-1RAs (subcutaneous semaglutide, liraglutide, dulaglutide, and efpeglenatide), a dual GLP-1/GIP agonist (tirzepatide), a dual GLP-1/glucagon receptor agonist (survodutide), MASLD/MASH, related disorders, clinical management, treatment outcomes and landscape. EXPERT OPINION: In Phase I - III trials, GLP-1RAs are associated with clinically relevant hepatic improvements including MASH resolution, liver fat reduction, and preventing worsening fibrosis. Effects on cardiometabolic parameters align with type 2 diabetes/obesity Phase III data, comprising substantial improvements in glycemic, weight, and cardiovascular outcomes. Promising data also suggest benefits in common comorbidities, including obstructive sleep apnea, polycystic ovary syndrome, chronic kidney disease, and heart failure with preserved ejection fraction.GLP-1RAs represent a valuable pharmacotherapeutic option for gastroenterologists managing individuals with MASLD/MASH and cardiometabolic comorbid conditions."
+  },
+  {
+   "pmid": "40922121",
+   "titel": "Efficacy and safety of survodutide on glycemic control and weight loss in adults: A systematic review and meta-analysis",
+   "jahr": "2025",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Xiao YJ",
+   "doi": "10.1111/dom.70105",
+   "typ": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+   ],
+   "abstract": "AIM: This meta-analysis aimed to evaluate the efficacy and safety of survodutide on glycemic control and weight loss in adults. METHODS: We systematically searched PubMed, Embase, the Cochrane Library, Scopus, Web of Science, and ClinicalTrials.gov for randomized controlled trials (RCTs) evaluating the efficacy and safety of survodutide up to 12 July 2025. The primary outcomes were changes in glycated haemoglobin (HbA1c), fasting glucagon levels, body weight, waist circumference, along with the incidence of adverse events (AEs). Secondary outcomes included body mass index (BMI), lipid profiles, and blood pressure. RESULTS: Six RCTs involving 1272 participants were included in this meta-analysis. Compared with placebo, survodutide significantly reduced HbA1c (weighted mean difference [WMD]: -0.66%, 95% confidence interval [CI] [-1.08, -0.23], p = 0.002) and fasting glucagon levels (WMD: -7 pmol/L, 95% CI [-10.3, -3.69], p = 0.016). Greater reductions were observed in the subgroup receiving a total weekly dose of >2.4 mg compared with the subgroup receiving ≤2.4 mg weekly. Survodutide also significantly decreased body weight (WMD: -6.7 kg, 95% CI [-10.0, -3.4], p < 0.001) and waist circumference (WMD: -7.09 cm, 95% CI [-9.44, -4.47], p < 0.001), with enhanced effects observed at higher total weekly doses (>2.4 mg) and longer treatment durations (>16 weeks). Additionally, significant reductions were observed in BMI, and modest reductions were noted in total cholesterol, triglycerides, and blood pressure. However, survodutide was associated with a higher risk of treatment discontinuation due to AEs, with gastrointestinal AEs being the most common, although there was no significant increase in the incidence of serious AEs. CONCLUSIONS: Survodutide significantly reduced HbA1c, body weight, and waist circumference. A greater reduction in HbA1c was specifically associated with a higher total weekly dose (>2.4 mg), while more pronounced effects on body weight and waist circumference were observed with both higher doses and longer treatment durations (>16 weeks). However, it is crucial to highlight the significant increase in gastrointestinal AEs and the associated risk of treatment discontinuation. Further large-scale, multicentre, long-term, and high-quality RCTs are necessary to validate these results in diverse populations."
+  },
+  {
+   "pmid": "41333115",
+   "titel": "Harnessing GLP-1 Receptor Agonists for Obesity Treatment: Prospects and Obstacles on the Horizon",
+   "jahr": "2025",
+   "journal": "J Obes",
+   "erstautor": "Abdelrahman RM",
+   "doi": "10.1155/jobe/9919810",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "BACKGROUND: Obesity has emerged as a pressing global health challenge, and therapies based on glucagon-like Peptide 1 receptor agonists (GLP-1RAs) have transformed its management. Currently, liraglutide, semaglutide, and tirzepatide are FDA-approved for obesity treatment, while other agents are used off-label. These drugs not only provide unprecedented efficacy and acceptable safety in weight reduction and glycemic control for patients with obesity and Type 2 diabetes but also hold promise in broader indications, including neurodegenerative disorders, fatty liver disease, dyslipidemia, atherosclerosis, and cardiovascular conditions. METHODS: This narrative review examined the therapeutic applications of GLP-1RAs for obesity, emphasizing their efficacy, safety profile, challenges with patient adherence, and limitations. The review also explored emerging innovations such as ultralong-acting formulations, combination therapies, and the integration of digital health and artificial intelligence in advancing antiobesity drug development. RESULTS: GLP-1RAs represent a paradigm shift in the treatment of obesity and metabolic diseases, with rapidly expanding indications and global uptake. Recent evidence highlights improvements in tolerability, global accessibility, and the potential of novel technologies to optimize patient outcomes. By 2025, GLP-1RAs are anticipated to receive FDA approval for new indications, such as chronic kidney disease, heart failure with preserved ejection fraction, and metabolic dysfunction-associated steatohepatitis. Novel agents including CagriSema and higher dose oral semaglutide are advancing through clinical trials, while pivotal trial results for orforglipron, mazdutide, retatrutide, and survodutide are anticipated to further expand the therapeutic landscape. At the same time, the arrival of generic liraglutide and evolving insurance coverage are reshaping access and affordability. CONCLUSION: The convergence of pharmacological innovation, digital health strategies, and equitable care initiatives is expected to revolutionize obesity therapeutics in the coming decade. Priorities for future research include sustaining long-term weight loss, establishing disease-modifying potential in nonmetabolic disorders, and addressing health equity concerns to ensure broader global benefit."
+  },
+  {
+   "pmid": "42254697",
+   "titel": "How does survodutide work? Plain language review of a potential new medication for obesity and liver disease",
+   "jahr": "2026",
+   "journal": "Ther Adv Gastroenterol",
+   "erstautor": "Almandoz JP",
+   "doi": "10.1177/17562848261457269",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "What is this review about? This review provides an overview of a medication called survodutide. Survodutide is not yet approved for use but is currently being tested to treat people living with obesity, as well as those living with MASH (metabolic dysfunction-associated steatohepatitis). Obesity is a long-term disease in which extra energy stored as fat by the body begins to have harmful effects on health. MASH is an advanced form of a condition commonly called \"fatty liver disease\", or MASLD (metabolic dysfunction-associated steatotic liver disease). MASLD causes abnormal amounts of fat to build up in the liver. Obesity and MASH are linked diseases. Both involve problems related to metabolism, that is, the way that the body uses and stores energy. People living with obesity and those living with MASH often have other related health conditions at the same time. Improvements in dietary nutrition and increased physical activity are recommended treatments for people living with obesity and MASH. However, interventions such as medication and bariatric surgery are also effective treatments for metabolic dysfunction for those living with these diseases. Such therapies can help people reach their health goals. This review provides an overview of how survodutide works to help treat obesity and MASH. It also describes the key improvements in health status and the side effects experienced by people who took survodutide in clinical trials."
+  },
+  {
+   "pmid": "41025406",
+   "titel": "Shared mechanistic pathways of glucagon signalling: Unlocking its potential for treating obesity, metabolic dysfunction-associated steatotic liver disease, and other cardio-kidney-metabolic conditions",
+   "jahr": "2025",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Neff GW",
+   "doi": "10.1111/dom.70148",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Glucagon is a pancreatic peptide hormone whose receptor (GCGR) is expressed in the liver, kidney, and, to a lesser extent, various other tissues. Glucagon is well known as the counterpart to insulin in glucose homeostasis. However, recent evidence has revealed other potential roles of glucagon, which include the regulation of amino acid metabolism via a liver-pancreatic alpha cell axis, stimulation of lipolysis and mitochondrial fat oxidation in the liver (and possibly in other tissues), reduction of caloric intake, and an increase in energy expenditure (at least in animal models). These advances in basic science-together with clinical trials that found GCGR antagonists increased body weight, hepatic fat, and serum lipids in people with type 2 diabetes-are driving the development of GCGR-based agonists for the treatment of obesity, metabolic dysfunction-associated steatotic liver disease (MASLD), and other cardio-kidney-metabolic diseases. Due to the hyperglycaemic effects of glucagon, these unimolecular compounds also incorporate moieties that activate the glucagon-like peptide-1 (GLP-1) receptor, which stimulates insulin secretion to lower blood glucose levels. In early clinical trials, several GCGR-based multi-agonists (mazdutide, survodutide [being developed by the sponsor of this review], retatrutide) demonstrated substantial efficacy for eliciting weight loss in people with obesity while improving liver health in those with MASLD. However, the physiological and molecular pathways modulated by chronic pharmacological activation of the GCGR in humans remain to be delineated, as do its potential risks. Thus, there is great interest in the ongoing phase 3 clinical trials of these compounds. As data for their safety and efficacy emerge, glucagon's role in energy regulation and lipid metabolism will become clearer, along with warranting a potential new therapeutic option for obesity and MASLD."
+  },
+  {
+   "pmid": "42777696",
+   "titel": "MASLD: Established Knowledge and Emerging Directions - Guideline Updates",
+   "jahr": "2026",
+   "journal": "Z Gastroenterol",
+   "erstautor": "Roeb E",
+   "doi": "10.1055/a-2894-7628",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) has become a major global health challenge, largely driven by the increasing prevalence of obesity and type 2 diabetes mellitus. The disease spectrum ranges from isolated steatosis to metabolic dysfunction-associated steatohepatitis (MASH) with progressive fibrosis. Advanced fibrosis substantially increases the risk of cirrhosis, hepatocellular carcinoma, and cardiovascular complications, thereby contributing significantly to morbidity and mortality.Although lifestyle modification remains the cornerstone of therapy, pharmacological treatment is gaining importance in patients with progressive disease or high-risk profiles. Advances in the understanding of MASLD pathophysiology have enabled the development of targeted therapies addressing hepatic lipid accumulation, insulin resistance, inflammation, and fibrogenesis. Promising clinical data have been reported for resmetirom, semaglutide, tirzepatide, survodutide, lanifibranor, and fibroblast growth factor-21 analogues including efruxifermin, pegozafermin, and efimosfermin.This review summarises current and emerging diagnostic and therapeutic strategies and provides practical guidance for clinical management. In addition, a structured treatment algorithm for non-cirrhotic MASLD (F0-F3), restricted to therapies currently available in Europe and stratified according to diabetes status and fibrosis stage, is proposed as an evidence-based tool for routine clinical practice. Die mit metabolischer Dysfunktion assoziierte steatotische Lebererkrankung (MASLD) stellt infolge der steigenden Prävalenz von Adipositas und Typ-2-Diabetes mellitus eine zunehmende globale Herausforderung dar. Das Erkrankungsspektrum reicht von isolierter Steatose bis zur metabolisch assoziierten Steatohepatitis (MASH) mit progredienter Fibrose. Mit zunehmendem Fibrosestadium steigen Risiko und Mortalität durch Leberzirrhose, hepatozelluläres Karzinom und kardiovaskuläre Komplikationen erheblich an.Während Lebensstilinterventionen weiterhin die Basis der Therapie bilden, gewinnt die pharmakologische Behandlung bei fortgeschrittener Erkrankung zunehmend an Bedeutung. Fortschritte im Verständnis der Pathophysiologie haben zur Entwicklung zielgerichteter Therapien geführt, die hepatische Lipidakkumulation, Insulinresistenz, Inflammation und Fibrogenese adressieren. Vielversprechende Daten liegen unter anderem für Resmetirom, Semaglutid, Tirzepatid, Survodutid, Lanifibranor sowie FGF21-Analoga wie Efruxifermin, Pegozafermin und Efimosfermin vor.Diese Übersichtsarbeit fasst aktuelle diagnostische und pharmakologische Strategien zusammen und gibt praxisorientierte Empfehlungen für die klinische Anwendung. Ergänzend wird ein evidenzbasierter Therapiealgorithmus für die nicht-zirrhotische MASLD (F0–F3) vorgestellt, der sich auf derzeit in Europa verfügbare Therapieoptionen unter Berücksichtigung von Diabetesstatus und Fibrosestadium konzentriert."
+  },
+  {
+   "pmid": "41855048",
+   "titel": "A review of survodutide: a new dual acting agonist",
+   "jahr": "2026",
+   "journal": "Minerva Endocrinol (Torino)",
+   "erstautor": "Yathindra MR",
+   "doi": "10.23736/S2724-6507.26.04406-4",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Survodutide represents an innovative approach to obesity management and metabolic-associated fatty liver disease (MAFLD). These conditions, often closely linked with type 2 diabetes (T2DM) and cardiovascular diseases, demand effective treatment strategies. Survodutide acts by targeting both GLP-1 and glucagon receptors. This new dual agonist offers potential transformative benefits, with early clinical trials showcasing significant weight loss and improvements in metabolic markers. Survodutide's mechanism of action includes appetite regulation, enhanced glucose metabolism, and increased energy expenditure, making it a promising option for those struggling with obesity and related health issues. This review assesses Survodutide's pharmacology, efficacy, and safety in MASH and obesity, while also outlining its broader metabolic and cardiovascular benefits. It compares Survodutide's dual-agonist mechanism and clinical performance with single-target incretin therapies to clarify its potential role in the evolving treatment landscape. While the initial results are promising, the review emphasizes the importance of continued research to fully understand Survodutide's long-term safety and effectiveness. Ongoing trials will provide critical insights into its overall impact, side effects, patient response, and cost considerations. This article highlights Survodutide's potential in the treatment of obesity and metabolic disordersand evaluates its place in therapy for seeking improved outcomes."
+  },
+  {
+   "pmid": "42822760",
+   "titel": "Survodutide for the treatment of obesity: Mechanistic rationale, clinical evidence, and remaining uncertainties",
+   "jahr": "2026",
+   "journal": "Contemp Clin Trials",
+   "erstautor": "Sergi CM",
+   "doi": "10.1016/j.cct.2026.108493",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Survodutide (BI 456906) is an investigational once-weekly dual glucagon and Glucagon-like Peptide (GLP-1) receptor agonist being developed for obesity. In a phase 2 trial involving adults with a body mass index ≥27 kg/m2 without diabetes, participants assigned to the 4.8-mg dose achieved a mean body-weight reduction of up to 18.7% at 46 weeks, compared with 2.3% with placebo. Its proposed mechanism combines reduced food intake through GLP-1 receptor agonism with glucagon receptor-mediated effects on energy expenditure and hepatic metabolism. Gastrointestinal adverse events, including nausea, vomiting, and diarrhea, were common and were influenced by dose escalation. Phase 3 SYNCHRONIZE trials are evaluating efficacy, safety, and tolerability in broader populations with and without type 2 diabetes. Survodutide is not approved for routine clinical use, and its comparative effectiveness, durability, long-term safety, treatment persistence, and effects after discontinuation remain to be established."
+  },
+  {
+   "pmid": "41388343",
+   "titel": "Hepatic GCGR is required for the superior weight loss and metabolic effects of a structurally related analogue of the dual GCGR/GLP-1R agonist survodutide in mice",
+   "jahr": "2026",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Long F",
+   "doi": "10.1111/dom.70359",
+   "typ": [
+    "Letter"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "42683980",
+   "titel": "Pharmacological management of obesity: Current landscape and emerging therapies",
+   "jahr": "2026",
+   "journal": "Indian J Pharmacol",
+   "erstautor": "Atal S",
+   "doi": "10.4103/ijp.ijp_37_26",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Obesity is now recognized as a chronic, multifactorial, and progressive disease as opposed to mere excess of body weight. It significantly increases the risk of type 2 diabetes, cardiovascular disease, metabolic-associated fatty liver disease, and mental health disorders. 2022 data reveal that nearly 3 billion individuals worldwide were living with either obesity or overweight. Pharmacological therapy has evolved remarkably. Earlier medications targeted primarily the brain's monoaminergic pathways but they were withdrawn due to safety concerns. Currently, six medications (Orlistat, Phentermine/Topiramate, Naltrexone/Bupropion, Liraglutide, Semaglutide, and Tirzepatide) are approved by the U.S. Food and Drug Administration for long-term obesity management and among these, glucagon-like peptide receptor agonists have revolutionized the therapy. The emerging pipeline is even more promising. It has new dual and triple combinations such as CagriSema, Survodutide, and Retatrutide for better efficacy and metabolic outcomes, as well as long-acting and oral formulations, which will improve adherence and accessibility. India released its new obesity guideline in January 2025, emphasizing on early pharmacotherapy initiation and the adoption of stage-based obesity classification. Together, these developments signify a transformative era in obesity care where pharmacotherapy is a powerful and evidence-based tool that, in many cases, approaches the efficacy and metabolic benefits traditionally associated with bariatric surgeries."
+  },
+  {
+   "pmid": "42590128",
+   "titel": "Anti-Obesity Medications in Longevity and Aesthetic Medicine",
+   "jahr": "2026",
+   "journal": "J Clin Med",
+   "erstautor": "Bijoch J",
+   "doi": "10.3390/jcm15156026",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Anti-obesity medications (AOMs), led by the glucagon-like peptide-1 receptor agonists (GLP-1 RAs) semaglutide and liraglutide and the dual GIP/GLP-1 receptor agonist tirzepatide, have produced substantial weight reduction and growing signals of benefit that extend well beyond adiposity. These agents are now discussed in relation to longevity and aesthetic medicine, raising the question of whether their effects reach ageing biology and appearance. This narrative review (PubMed, EMBASE, Scopus, Web of Science, Cochrane Library, and Clinical trial registries; January 2010-June 2026) integrates mechanistic studies, randomised cardiovascular and renal outcome trials, ageing-biomarker analyses, body-composition data, and patient-facing aesthetic phenomena. The evidence indicates that AOMs reduce major cardiovascular events, slow kidney and liver disease progression, and lower all-cause mortality in selected populations; exploratory proteomic and epigenetic analyses further suggest effects partly independent of weight loss, though these do not establish slowed ageing. Newer multi-receptor agents act with greater metabolic specificity: glucagon-containing agents such as survodutide and the triple agonist retatrutide preferentially reduce visceral and hepatic fat (liver-fat reductions of roughly 60-80% in places), a quality of weight loss arguably more relevant to healthspan than its quantity. Concurrently, rapid large-magnitude weight loss drives soft-tissue and appearance changes colloquially termed \"Ozempic face\" and \"Ozempic body\", alongside accelerated skin laxity and loss of lean mass, the latter tempered by data showing lean-loss proportions comparable to established agents."
+  },
+  {
+   "pmid": "41638399",
+   "titel": "Survodutide acts through circumventricular organs in the brain and activates neuronal regions associated with appetite regulation",
+   "jahr": "2026",
+   "journal": "Mol Metab",
+   "erstautor": "Zimmermann T",
+   "doi": "10.1016/j.molmet.2026.102326",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Survodutide is a novel GCG/GLP-1 receptor (GCGR/GLP-1R) dual agonist in clinical development for people with obesity and people with metabolic dysfunction-associated steatohepatitis (MASH). Preclinically, survodutide demonstrated body weight lowering efficacy through decreased energy intake and increased energy expenditure. Here, we investigated the central site of action of survodutide and provide further insights into its mechanism of action in reducing body weight. We assessed GCGR and GLP1R expression in human and mouse circumventricular organs (CVOS) and showed for the first time that GCGR is barely detectable in area postrema (AP) and arcuate nucleus of the hypothalamus (ARH) at the single cell level. In contrast, GLP1R is expressed in these tissues. Using a fluorophore labeled survodutide to visualize sites of action in the mouse brain, survodutide was observed to directly access the CVOs and adjacent hypothalamic and hindbrain nuclei, without evidence of uniformly crossing the blood-brain-barrier. In addition, c-Fos labeling showed that multiple nuclei associated with the control of food intake were activated by survodutide. Consistent with the hypothesis that the intake suppressive effects of survodutide are GLP-1R dependent, a long-acting GCGR agonist did not induce neuronal activation in satiety-mediating regions, nor reduced food intake but showed reduction in body weight. These data further support the dual mode of action of survodutide and its potential to provide clinical benefit for people with obesity and/or MASH."
+  },
+  {
+   "pmid": "40734920",
+   "titel": "Review: Special Issue: Real-world evidence on the use of GLP1 receptor agonists: Emerging concepts in obesity management: focus on glucagon receptor agonist combinations",
+   "jahr": "2025",
+   "journal": "Drugs Context",
+   "erstautor": "Anderson SL",
+   "doi": "10.7573/dic.2025-4-8",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "The global rise in obesity and its associated health risks has driven the need for more effective pharmacological treatments. Glucagon receptor (GCGR)-based multi-agonist drugs are emerging as promising treatments for obesity, with several in advanced stages of clinical development. Agents like mazdutide, pemvidutide, survodutide and retatrutide have demonstrated the ability to trigger significant weight loss in earlier phase trials, often surpassing the amount of weight loss obtained with existing therapies. Their potential to address obesity-related comorbidities, including type 2 diabetes mellitus and cardiovascular disease, positions them as important additions to future obesity treatment guidelines. As these GCGR-based multi-agonists advance through clinical trials, their impact on obesity management may be substantial, particularly for patients who have not achieved success with current medications or lifestyle interventions. Some are also being evaluated for cardiovascular outcomes, highlighting their relevance in populations at high risk with overweight and obesity. Key considerations as these drugs move forward in development to eventual approval include cost, access and long-term safety. This article is part of the Real-world evidence on the use of GLP1 receptor agonists Special Issue: https://www.drugsincontext.com/special_issues/real-world-evidence-on-the-use-of-glp1-receptor-agonists."
+  }
+ ],
+ "ctgov": [
+  {
+   "nct": "NCT06214741",
+   "titel": "A Study to Test Whether Survodutide (BI 456906) Helps Chinese People Living With Overweight or Obesity to Lose Weight",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 307,
+   "start": "2024-02-06",
+   "ende": "2026-01-28",
+   "erkrankungen": [
+    "Obesity",
+    "Overweight"
+   ],
+   "sponsor": "Boehringer Ingelheim",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07407348",
+   "titel": "A Study in People With Overweight or Obesity to Compare How 2 Different Formulations of Survodutide Are Taken up by the Body",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 80,
+   "start": "2026-03-11",
+   "ende": "2027-03-02",
+   "erkrankungen": [
+    "Healthy",
+    "Obesity",
+    "Overweight"
+   ],
+   "sponsor": "Boehringer Ingelheim",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06309992",
+   "titel": "A Study to Test Whether Survodutide Helps People Living With Obesity or Overweight and With a Confirmed or Presumed Liver Disease Called Non-alcoholic Steatohepatitis (NASH) to Reduce Liver Fat and to Lose Weight (SYNCHRONIZE-MASLD)",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 218,
+   "start": "2024-04-02",
+   "ende": "2025-12-02",
+   "erkrankungen": [
+    "Obesity",
+    "Non-Alcoholic SteatoHepatitis (NASH)"
+   ],
+   "sponsor": "Boehringer Ingelheim",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT04771273",
+   "titel": "A Study to Test Safety and Efficacy of Survodutide (BI456906) in Adults With Non-alcoholic Steatohepatitis (NASH) and Fibrosis (F1-F3)",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 295,
+   "start": "2021-04-27",
+   "ende": "2023-12-21",
+   "erkrankungen": [
+    "Non-alcoholic Steatohepatitis (NASH)"
+   ],
+   "sponsor": "Boehringer Ingelheim",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT07855900",
+   "titel": "SYNCHRONIZE®-START- A Study to Test Whether Survodutide Helps People Living With Overweight or Obesity Who do Not Have Diabetes to Lose Weight",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "NOT_YET_RECRUITING",
+   "teilnehmende": 350,
+   "start": "2026-11-07",
+   "ende": "2029-11-06",
+   "erkrankungen": [
+    "Obesity"
+   ],
+   "sponsor": "Boehringer Ingelheim",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06772532",
+   "titel": "A Study in Healthy People to Compare How 3 Different Formulations of Survodutide Are Taken up in the Body",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 30,
+   "start": "2025-02-10",
+   "ende": "2025-06-10",
+   "erkrankungen": [
+    "Healthy"
+   ],
+   "sponsor": "Boehringer Ingelheim",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06564441",
+   "titel": "A Study to Test Whether BI 456906 (Survodutide) Influences the Amount of Bupropion, Caffeine and Midazolam in the Blood in People With Overweight or Obesity",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 34,
+   "start": "2024-10-01",
+   "ende": "2026-01-05",
+   "erkrankungen": [
+    "Overweight",
+    "Obesity"
+   ],
+   "sponsor": "Boehringer Ingelheim",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06352411",
+   "titel": "A Study to Test How BI 456906 is Taken up in the Blood of People With and Without Kidney Problems",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 42,
+   "start": "2024-05-15",
+   "ende": "2025-09-16",
+   "erkrankungen": [
+    "Healthy",
+    "Renal Impairment"
+   ],
+   "sponsor": "Boehringer Ingelheim",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06492135",
+   "titel": "A Study in Chinese People With Overweight or Obesity to Test How Different Doses of Survodutide Are Taken up in the Body",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 30,
+   "start": "2024-08-12",
+   "ende": "2025-04-15",
+   "erkrankungen": [
+    "Overweight",
+    "Obesity"
+   ],
+   "sponsor": "Boehringer Ingelheim",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07071974",
+   "titel": "A Study in Healthy People to Compare How 2 Different Formulations of Survodutide Are Taken up in the Body",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 16,
+   "start": "2025-07-28",
+   "ende": "2025-10-28",
+   "erkrankungen": [
+    "Healthy"
+   ],
+   "sponsor": "Boehringer Ingelheim",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06066515",
+   "titel": "A Study to Test Whether Survodutide (BI 456906) Helps People Living With Overweight or Obesity Who do Not Have Diabetes to Lose Weight",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 726,
+   "start": "2023-11-25",
+   "ende": "2026-02-20",
+   "erkrankungen": [
+    "Obesity"
+   ],
+   "sponsor": "Boehringer Ingelheim",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07221591",
+   "titel": "A Study in Healthy People to Compare How 2 Different Formulations of Survodutide Are Taken up by the Body",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 100,
+   "start": "2025-11-05",
+   "ende": "2026-07-28",
+   "erkrankungen": [
+    "Healthy"
+   ],
+   "sponsor": "Boehringer Ingelheim",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05202353",
+   "titel": "A Study in People With Obesity to Test the Effects of BI 456906 Compared With Semaglutide on Glucagon Receptor Activity in the Liver",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 29,
+   "start": "2024-11-01",
+   "ende": "2027-02-03",
+   "erkrankungen": [
+    "Obesity"
+   ],
+   "sponsor": "Boehringer Ingelheim",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06077864",
+   "titel": "A Study to Test the Effect of Survodutide (BI 456906) on Cardiovascular Safety in People With Overweight or Obesity (SYNCHRONIZE™ - CVOT)",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 5531,
+   "start": "2023-11-20",
+   "ende": "2026-06-30",
+   "erkrankungen": [
+    "Obesity"
+   ],
+   "sponsor": "Boehringer Ingelheim",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05896384",
+   "titel": "A Study in Women With Overweight or Obesity to Test Whether Different Doses of BI 456906 Influence the Amount of a Contraceptive in the Blood",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 32,
+   "start": "2023-12-21",
+   "ende": "2025-03-26",
+   "erkrankungen": [
+    "Healthy"
+   ],
+   "sponsor": "Boehringer Ingelheim",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06745284",
+   "titel": "A Study to Test Whether Survodutide Improves How the Body Uses Energy and Breaks Down Fat in People With Obesity",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 64,
+   "start": "2025-03-26",
+   "ende": "2027-01-10",
+   "erkrankungen": [
+    "Obesity"
+   ],
+   "sponsor": "Boehringer Ingelheim",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05296733",
+   "titel": "A Study to (1) Compare How BI 456906 is Taken up in the Body of Healthy People and People With Liver Problems and (2) Find Out How People With Overweight and Obesity, With and Without Liver Problems, Tolerate Different Doses of BI 456906",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 82,
+   "start": "2022-04-27",
+   "ende": "2023-12-29",
+   "erkrankungen": [
+    "Healthy",
+    "Liver Diseases",
+    "Obesity"
+   ],
+   "sponsor": "Boehringer Ingelheim",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06632444",
+   "titel": "LIVERAGE™: A Study to Test Whether Survodutide Helps People With a Liver Disease Called NASH/MASH Who Have Moderate or Advanced Liver Fibrosis",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 1800,
+   "start": "2024-10-14",
+   "ende": "2031-12-27",
+   "erkrankungen": [
+    "Metabolic Dysfunction Associated Steatohepatitis (MASH)",
+    "Liver Fibrosis"
+   ],
+   "sponsor": "Boehringer Ingelheim",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT04667377",
+   "titel": "A Study to Test Whether Different Doses of BI 456906 Help People With Overweight or Obesity to Lose Weight",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 387,
+   "start": "2021-03-08",
+   "ende": "2022-10-07",
+   "erkrankungen": [
+    "Obesity"
+   ],
+   "sponsor": "Boehringer Ingelheim",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT07850063",
+   "titel": "ELEVATE-LIVER: A Study to Test Whether Survodutide Helps Improve Heart Structure and Function in People With Overweight or Obesity and Fatty Liver Disease",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "NOT_YET_RECRUITING",
+   "teilnehmende": 600,
+   "start": "2026-10-23",
+   "ende": "2029-04-29",
+   "erkrankungen": [
+    "Obesity",
+    "Metabolic Dysfunction-associated Steatotic Liver Disease"
+   ],
+   "sponsor": "Boehringer Ingelheim",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07850050",
+   "titel": "SYNCHRONIZE®-HERA: A Study to Test Whether Survodutide Helps Women Who Are Living With Overweight or Obesity and Are Going Through or Have Finished Menopause, to Lose Weight",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "NOT_YET_RECRUITING",
+   "teilnehmende": 600,
+   "start": "2026-10-31",
+   "ende": "2028-07-26",
+   "erkrankungen": [
+    "Obesity"
+   ],
+   "sponsor": "Boehringer Ingelheim",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07768813",
+   "titel": "A Study to Compare How 2 Different Formulations of Survodutide Are Taken up in the Body When Given by Injection in Healthy Men and Women With and Without Overweight or Obesity",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 44,
+   "start": "2026-09-02",
+   "ende": "2026-12-22",
+   "erkrankungen": [
+    "Healthy",
+    "Obesity"
+   ],
+   "sponsor": "Boehringer Ingelheim",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06066528",
+   "titel": "A Study to Test Whether Survodutide (BI 456906) Helps People Living With Overweight or Obesity Who Also Have Diabetes to Lose Weight",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 755,
+   "start": "2023-11-27",
+   "ende": "2026-04-01",
+   "erkrankungen": [
+    "Obesity",
+    "Diabetes Mellitus, Type 2"
+   ],
+   "sponsor": "Boehringer Ingelheim",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07754461",
+   "titel": "A Study to Test Whether Survodutide Helps People With Type 2 Diabetes Control Their Blood Sugar",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 600,
+   "start": "2026-08-24",
+   "ende": "2028-05-01",
+   "erkrankungen": [
+    "Type 2 Diabetes"
+   ],
+   "sponsor": "Boehringer Ingelheim",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06176365",
+   "titel": "A Study to Test Whether Survodutide Helps Japanese People Living With Obesity Disease",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 274,
+   "start": "2024-01-16",
+   "ende": "2025-12-03",
+   "erkrankungen": [
+    "Obesity"
+   ],
+   "sponsor": "Boehringer Ingelheim",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06200467",
+   "titel": "A Study to Test Whether Multiple Doses of BI 456906 Have an Effect on Cardiac Safety in People With Overweight or Obesity",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 110,
+   "start": "2024-03-13",
+   "ende": "2025-10-22",
+   "erkrankungen": [
+    "Overweight",
+    "Obesity"
+   ],
+   "sponsor": "Boehringer Ingelheim",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07413913",
+   "titel": "A Study in Healthy People or Otherwise Healthy With Overweight or Obesity to Compare 2 Formulations of Survodutide Given in Different Ways, Either as a Pre-filled Syringe or a Pen-like Injector",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 56,
+   "start": "2026-03-03",
+   "ende": "2026-06-11",
+   "erkrankungen": [
+    "Healthy",
+    "Obesity"
+   ],
+   "sponsor": "Boehringer Ingelheim",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07206290",
+   "titel": "Albuminuria Reduction Study With Survodutide Treatment in Kidney Disease",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "NOT_YET_RECRUITING",
+   "teilnehmende": 120,
+   "start": "2026-03-02",
+   "ende": "2027-11-30",
+   "erkrankungen": [
+    "Chronic Kidney Disease"
+   ],
+   "sponsor": "University Medical Center Groningen",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06632457",
+   "titel": "LIVERAGE™ - Cirrhosis: A Study to Test Whether Survodutide Helps People With a Liver Disease Called NASH/MASH Who Have Cirrhosis",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 1590,
+   "start": "2024-11-12",
+   "ende": "2029-06-05",
+   "erkrankungen": [
+    "Metabolic Dysfunction Associated Steatohepatitis"
+   ],
+   "sponsor": "Boehringer Ingelheim",
+   "ergebnisse": false
+  }
+ ],
+ "gruppe": "A_stoffwechsel"
+}

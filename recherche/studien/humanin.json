@@ -1,0 +1,828 @@
+{
+ "name": "Humanin",
+ "status": "nicht_zugelassen",
+ "suchbegriff_pubmed": "humanin[tiab]",
+ "suchbegriff_ctgov": "humanin",
+ "humanstudien_alle": [
+  {
+   "pmid": "41975304",
+   "titel": "Preserving brain health in aging: structural and biochemical benefits of water based resistance training, a randomized controlled trial",
+   "jahr": "2026",
+   "journal": "BMC Geriatr",
+   "erstautor": "Hosseini MH",
+   "doi": "10.1186/s12877-026-07413-x",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "41249265",
+   "titel": "Redox-sensitive miRNAs and Humanin could mediate effects of exercise and astaxanthin on oxidative stress and inflammation in type 2 diabetes",
+   "jahr": "2025",
+   "journal": "Sci Rep",
+   "erstautor": "Basereh A",
+   "doi": "10.1038/s41598-025-23914-y",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "37730689",
+   "titel": "Neuron-derived extracellular vesicles in blood reveal effects of exercise in Alzheimer's disease",
+   "jahr": "2023",
+   "journal": "Alzheimers Res Ther",
+   "erstautor": "Delgado-Peraza F",
+   "doi": "10.1186/s13195-023-01303-9",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Journal Article",
+    "Research Support, N.I.H., Intramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "34351816",
+   "titel": "Acute endurance exercise stimulates circulating levels of mitochondrial-derived peptides in humans",
+   "jahr": "2021",
+   "journal": "J Appl Physiol (1985)",
+   "erstautor": "von Walden F",
+   "doi": "10.1152/japplphysiol.00706.2019",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "31134827",
+   "titel": "Protective Effect of Hyperbaric Oxygen Therapy on Cognitive Function in Patients with Vascular Dementia",
+   "jahr": "2019",
+   "journal": "Cell Transplant",
+   "erstautor": "Xu Y",
+   "doi": "10.1177/0963689719853540",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "31084332",
+   "titel": "Epigenome-Wide Association Study Indicates Hypomethylation of MTRNR2L8 in Large-Artery Atherosclerosis Stroke",
+   "jahr": "2019",
+   "journal": "Stroke",
+   "erstautor": "Shen Y",
+   "doi": "10.1161/STROKEAHA.118.023436",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "28726777",
+   "titel": "Humanin G (HNG) protects age-related macular degeneration (AMD) transmitochondrial ARPE-19 cybrids from mitochondrial and cellular damage",
+   "jahr": "2017",
+   "journal": "Cell Death Dis",
+   "erstautor": "Nashine S",
+   "doi": "10.1038/cddis.2017.348",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "27923980",
+   "titel": "Humanin skeletal muscle protein levels increase after resistance training in men with impaired glucose metabolism",
+   "jahr": "2016",
+   "journal": "Physiol Rep",
+   "erstautor": "Gidlund EK",
+   "doi": "10.14814/phy2.13063",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  }
+ ],
+ "humanstudien_detail": [
+  {
+   "pmid": "37730689",
+   "titel": "Neuron-derived extracellular vesicles in blood reveal effects of exercise in Alzheimer's disease",
+   "jahr": "2023",
+   "journal": "Alzheimers Res Ther",
+   "erstautor": "Delgado-Peraza F",
+   "doi": "10.1186/s13195-023-01303-9",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Journal Article",
+    "Research Support, N.I.H., Intramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Neuron-derived extracellular vesicles (NDEVs) in blood may be used to derive biomarkers for the effects of exercise in Alzheimer's disease (AD). For this purpose, we studied changes in neuroprotective proteins proBDNF, BDNF, and humanin in plasma NDEVs from patients with mild to moderate AD participating in the randomized controlled trial (RCT) of exercise ADEX. METHODS: proBDNF, BDNF, and humanin were quantified in NDEVs immunocaptured from the plasma of 95 ADEX participants, randomized into exercise and control groups, and collected at baseline and 16 weeks. Exploratorily, we also quantified NDEV levels of putative exerkines known to respond to exercise in peripheral tissues. RESULTS: NDEV levels of proBDNF, BDNF, and humanin increased in the exercise group, especially in APOE ε4 carriers, but remained unchanged in the control group. Inter-correlations between NDEV biomarkers observed at baseline were maintained after exercise. NDEV levels of putative exerkines remained unchanged. CONCLUSIONS: Findings suggest that the cognitive benefits of exercise could be mediated by the upregulation of neuroprotective factors in NDEVs. Additionally, our results indicate that AD subjects carrying APOE ε4 are more responsive to the neuroprotective effects of physical activity. Unchanged NDEV levels of putative exerkines after physical activity imply that exercise engages different pathways in neurons and peripheral tissues. Future studies should aim to expand upon the effects of exercise duration, intensity, and type in NDEVs from patients with early AD and additional neurodegenerative disorders. TRIAL REGISTRATION: The Effect of Physical Exercise in Alzheimer Patients (ADEX) was registered in ClinicalTrials.gov on April 30, 2012 with the identifier NCT01681602."
+  },
+  {
+   "pmid": "31084332",
+   "titel": "Epigenome-Wide Association Study Indicates Hypomethylation of MTRNR2L8 in Large-Artery Atherosclerosis Stroke",
+   "jahr": "2019",
+   "journal": "Stroke",
+   "erstautor": "Shen Y",
+   "doi": "10.1161/STROKEAHA.118.023436",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Background and Purpose- Ischemic stroke, a complex and heterogeneous disease, is the second leading cause of death worldwide. Genetic factors and epigenetic modification contribute to the pathogenesis of this disease. However, the effects of epigenetic factors on this disease have not been systematically investigated. Our study was designed to identify methylation alterations in large-artery atherosclerotic stroke. Methods- We conducted an epigenome-wide association analysis of large-artery atherosclerotic stroke using an Infinium HumanMethylation450 array (cases:controls=12:12), and the differentially methylated loci were validated in 2 cohorts (cases:controls, 110:122 and 191:191, respectively) using a Sequenom EpiTYPER assay. Results- In the screening stage, 1012 differentially methylated CpG sites annotated in 672 genes were found to be significantly associated with large-artery atherosclerotic stroke (mean methylation difference >5%, P<0.01). Disease, Gene Ontology, and pathway analysis highlighted the enrichment of these differentially methylated genes in cardiovascular, metabolic, neurological and immune-related functional gene clusters ( P<0.05). We identified a differentially methylated region in the promoter of a humanin gene ( MTRNR2L8, mean methylation difference=-13.01%, P=8.86×10-14). We constructed a diagnostic prediction model that was based on the mean number of significantly changed CpG loci in MTRNR2L8 and showed high diagnostic specificity and sensitivity ( P<0.0001, area under the curve=0.774). Conclusions- Together, these findings demonstrate that DNA methylation plays an important role in large-artery atherosclerotic stroke and that methylation of MTRNR2L8 is a potential therapeutic target and diagnostic biomarker for stroke."
+  },
+  {
+   "pmid": "27923980",
+   "titel": "Humanin skeletal muscle protein levels increase after resistance training in men with impaired glucose metabolism",
+   "jahr": "2016",
+   "journal": "Physiol Rep",
+   "erstautor": "Gidlund EK",
+   "doi": "10.14814/phy2.13063",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Humanin (HN) is a mitochondrially encoded and secreted peptide linked to glucose metabolism and tissue protecting mechanisms. Whether skeletal muscle HN gene or protein expression is influenced by exercise remains unknown. In this intervention study we show, for the first time, that HN protein levels increase in human skeletal muscle following 12 weeks of resistance training in persons with prediabetes. Male subjects (n = 55) with impaired glucose regulation (IGR) were recruited and randomly assigned to resistance training, Nordic walking or a control group. The exercise interventions were performed three times per week for 12 weeks with progressively increased intensity during the intervention period. Biopsies from the vastus lateralis muscle and venous blood samples were taken before and after the intervention. Skeletal muscle and serum protein levels of HN were analyzed as well as skeletal muscle gene expression of the mitochondrially encoded gene MT-RNR2, containing the open reading frame for HN To elucidate mitochondrial training adaptation, mtDNA, and nuclear DNA as well as Citrate synthase were measured. Skeletal muscle HN protein levels increased by 35% after 12 weeks of resistance training. No change in humanin protein levels was seen in serum in any of the intervention groups. There was a significant correlation between humanin levels in serum and the improvements in the 2 h glucose loading test in the resistance training group. The increase in HN protein levels in skeletal muscle after regular resistance training in prediabetic males may suggest a role for HN in the regulation of glucose metabolism. Given the preventative effect of exercise on diabetes type 2, the role of HN as a mitochondrially derived peptide and an exercise-responsive mitokine warrants further investigation."
+  },
+  {
+   "pmid": "28726777",
+   "titel": "Humanin G (HNG) protects age-related macular degeneration (AMD) transmitochondrial ARPE-19 cybrids from mitochondrial and cellular damage",
+   "jahr": "2017",
+   "journal": "Cell Death Dis",
+   "erstautor": "Nashine S",
+   "doi": "10.1038/cddis.2017.348",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Age-related macular degeneration (AMD) ranks third among the leading causes of visual impairment with a blindness prevalence rate of 8.7%. Despite several treatment regimens, such as anti-angiogenic drugs, laser therapy, and vitamin supplementation, being available for wet AMD, to date there are no FDA-approved therapies for dry AMD. Substantial evidence implicates mitochondrial damage and retinal pigment epithelium (RPE) cell death in the pathogenesis of AMD. However, the effects of AMD mitochondria and Humanin G (HNG), a more potent variant of the mitochondrial-derived peptide (MDP) Humanin, on retinal cell survival have not been elucidated. In this study, we characterized mitochondrial and cellular damage in transmitochondrial cybrid cell lines that contain identical nuclei but possess mitochondria from either AMD or age-matched normal (Older-normal (NL)) subjects. AMD cybrids showed (1) reduced levels of cell viability, lower mtDNA copy numbers, and downregulation of mitochondrial replication/transcription genes and antioxidant enzyme genes; and (2) elevated levels of genes related to apoptosis, autophagy and ER-stress along with increased mtDNA fragmentation and higher susceptibility to amyloid-β-induced toxicity compared to NL cybrids. In AMD cybrids, HNG protected the AMD mitochondria, reduced pro-apoptosis gene and protein levels, upregulated gp130 (a component of the HN receptor complex), and increased the protection against amyloid-β-induced damage. In summary, in cybrids, damaged AMD mitochondria mediate cell death that can be reversed by HNG treatment. Our results also provide evidence of Humanin playing a pivotal role in protecting cells with AMD mitochondria. In the future, it may be possible that AMD patient's blood samples containing damaged mitochondria may be useful as biomarkers for this condition. In conclusion, HNG may be a potential therapeutic target for treatment of dry AMD, a debilitating eye disease that currently has no available treatment. Further studies are needed to establish HNG as a viable mitochondria-targeting therapy for dry AMD."
+  },
+  {
+   "pmid": "31134827",
+   "titel": "Protective Effect of Hyperbaric Oxygen Therapy on Cognitive Function in Patients with Vascular Dementia",
+   "jahr": "2019",
+   "journal": "Cell Transplant",
+   "erstautor": "Xu Y",
+   "doi": "10.1177/0963689719853540",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Recent studies have shown that hyperbaric oxygen (HBO) has a therapeutic effect on vascular dementia (VD); however, the exact mechanism remains unclear. This article aims to reveal the protective effects and underlying mechanisms of HBO on VD. A total of 158 patients with VD were prospectively included in the study and were randomly divided into control group and HBO group. The control group was given conventional treatment and the HBO group was treated with HBO in addition to conventional treatment. The following HBO protocol was practiced: 5 days per week, 60 min each, 100% oxygen at 2 standard atmospheric pressures for 12 weeks. The Mini-Mental State Examination (MMSE) scores and serum Humanin levels were detected before and after treatments in both groups. The baseline characteristics were not different dramatically between groups (p > 0.05). There was no significant difference in MMSE scores and serum Humanin levels between the two groups before treatment (p > 0.05). After treatment, compared with the control group, the MMSE scores and serum Humanin levels in the HBO group were significantly increased (p < 0.05). Spearman correlation analysis showed that the serum Humanin levels were positively correlated with MMSE scores (r = 0.409, p < 0.05) and this correlation was independent of baseline characteristics (β = 0.312, p < 0.05). HBO therapy can improve cognitive function in patients with VD, and its mechanism may be related to elevated serum Humanin levels."
+  },
+  {
+   "pmid": "34351816",
+   "titel": "Acute endurance exercise stimulates circulating levels of mitochondrial-derived peptides in humans",
+   "jahr": "2021",
+   "journal": "J Appl Physiol (1985)",
+   "erstautor": "von Walden F",
+   "doi": "10.1152/japplphysiol.00706.2019",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Mitochondrial-derived peptides (MDPs) humanin (HN) and mitochondrial open reading frame of the 12S rRNA-c (MOTS-c) are involved in cell survival, suppression of apoptosis, and metabolism. Circulating levels of MDPs are altered in chronic diseases such as diabetes type 2 and chronic kidney disease. Whether acute resistance (RE) or endurance (EE) exercise modulates circulating levels of HN and MOTS-c in humans is unknown. Following familiarization, subjects were randomized to EE (n = 10, 45 min cycling at 70% of estimated V̇O2max), RE (n = 10, 4 sets × 7RM, leg press and knee extension), or control (CON, n = 10). Skeletal muscle biopsies and blood samples were collected before and at 30 min and 3 h following exercise. Plasma concentration of HN and MOTS-c, skeletal muscle MOTS-c as well as gene expression of exercise-related genes were analyzed. Acute EE and RE promoted changes in skeletal muscle gene expression typically seen in response to each exercise modality (c-Myc, 45S pre-rRNA, PGC-1α-total, and PGC-1α-ex1b). At rest, circulating levels of HN were positively correlated to MOTS-c levels and age. Plasma levels of MDPs were not correlated to fitness outcomes [V̇O2max, leg strength, or muscle mitochondrial (mt) DNA copy number]. Circulating levels of HN were significantly elevated by acute EE but not RE. MOTS-C levels showed a trend to increase after EE. These results indicate that plasma MDP levels are not related to fitness status but that acute EE increases circulating levels of MDPs, in particular HN.NEW & NOTEWORTHY In this manuscript, we report for the first time, to our knowledge, the response of circulating levels of mitochondrial-derived peptides humanin and MOTS-c to acute resistance and endurance exercise. Our data support that acute endurance exercise stimulates MDP levels in plasma, whereas acute resistance exercise does not."
+  },
+  {
+   "pmid": "41975304",
+   "titel": "Preserving brain health in aging: structural and biochemical benefits of water based resistance training, a randomized controlled trial",
+   "jahr": "2026",
+   "journal": "BMC Geriatr",
+   "erstautor": "Hosseini MH",
+   "doi": "10.1186/s12877-026-07413-x",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "BACKGROUND: Brain aging leads to structural changes, especially atrophy, which can result in dysfunction. Mitochondrial dysfunction is thought to explain the structural changes in brain aging. OBJECTIVE: This study aimed to investigate the effects of a 12-week water-based resistance training (WBRT) program on brain structural integrity, mitochondrial-related growth factors, oxidative stress, and inflammation in older women. METHODS: A total of 24 older women (mean age:66) were randomly assigned to a WBRT group (n = 12) or a control (CON) group (n = 12). Participants in the WBRT group performed supervised resistance training in water three times per week for 12 weeks. Brain structural changes were assessed using magnetic resonance imaging (MRI), and blood samples were analyzed for Humanin (HN), Fibroblast Growth Factor 21 (FGF21), Growth Differentiation Factor 15 (GDF-15), Brain-Derived Neurotrophic Factor (BDNF), and Insulin-like Growth Factor 1 (IGF-1) as well as oxidative and inflammation biomarkers. RESULTS: The WBRT group showed significant increases in gray matter, subcortical gray matter, cerebellar gray matter volume, and cerebrum white matter compared to the CON group (p < 0.05). Furthermore, WBRT resulted in significant increases in BDNF, IGF-1, FGF21, and GDF-15 levels (p < 0.05). Malondialdehyde decreased, and glutathione peroxidase increased, with significant reductions in tumor necrosis factor-alpha and an increase in interleukin-10 in the WBRT group compared to the CON group (p < 0.05), suggesting anti-inflammatory and antioxidant effects of WBRT. CONCLUSION: These findings support the potential beneficial effects of WBRT as an non-pharmacological intervention to counteract age-related brain atrophy and promote brain health in aging populations. TRIAL REGISTRATION: IR.KMU.REC.1402.068, 29/06/2023"
+  },
+  {
+   "pmid": "41249265",
+   "titel": "Redox-sensitive miRNAs and Humanin could mediate effects of exercise and astaxanthin on oxidative stress and inflammation in type 2 diabetes",
+   "jahr": "2025",
+   "journal": "Sci Rep",
+   "erstautor": "Basereh A",
+   "doi": "10.1038/s41598-025-23914-y",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "Type 2 diabetes mellitus (T2DM) is driven by oxidative stress (OS) and inflammation (IF), accelerating disease progression. This study examined whether combined aerobic and resistance training (CT) and astaxanthin (AST) supplementation synergistically improve oxidant and inflammatory status as well as metabolic indices in T2DM, focusing on the mediatory role of Humanin (HN) and microRNAs (miRNA-122, miRNA-126-3p, and miRNA-146a). Ninety women with T2DM were randomly assigned to six groups (n = 15 each): control (C), placebo (P), AST supplementation (S), combined training (CT), CT + placebo (CT + P), and CT + AST supplementation (CT + S). CT, CT + P and CT + S groups underwent an 8-week training program (eight exercises, three sessions per week). Groups and CT + S groups received 8 mg/day of AST. OS markers, inflammatory cytokines, HN levels, miRNAs expression, fasting blood glucose (FBG), insulin resistance (HOMA-IR), lipid profile, and hemoglobin A1c (HbA1c) were assessed. Both CT and AST enhanced antioxidant defenses and reduced IF, with CT + S showing the best effects. HN levels increased significantly in CT and CT + S (p < 0.05). MiRNA-126-3p and miRNA-146a were upregulated, while miRNA-122 was downregulated in CT + S compared to other groups. Lipid profile improved with both interventions, with CT + S yielding the highest increases in HDL and triglycerides. FBG, IR, and HbA1c improved significantly in CT groups but remained unchanged with S group. The metabolic and anti-inflammatory benefits of CT and AST in T2DM may mediated by the effects of HN on mitochondrial function and insulin signaling, together with miRNA-mediated regulation of lipid metabolism, endothelial health, and innate immunity. Targeting these molecular pathways may improve therapeutic strategies for diabetes management."
+  }
+ ],
+ "metaanalysen": [
+  {
+   "pmid": "42640735",
+   "titel": "Mitochondrial-derived peptides (MDPs) activated by physical exercise as therapeutic targets for metabolic disorders: A systematic review",
+   "jahr": "2026",
+   "journal": "Physiol Int",
+   "erstautor": "Ayubi N",
+   "doi": "10.1556/2060.2026.00863",
+   "typ": [
+    "Journal Article",
+    "Systematic Review",
+    "Review"
+   ],
+   "abstract": "BACKGROUND: Type 2 diabetes mellitus and metabolic diseases are increasing worldwide and are closely linked to mitochondrial dysfunction. Mitochondrial-derived peptides (MDPs), such as humanin and MOTS-c, play a role in regulating energy balance and cellular stress responses. Exercise is known to improve metabolic function and stimulate MDP synthesis through mitochondria-dependent signaling pathways. Understanding these mechanisms has the potential to uncover new therapeutic targets for the treatment of metabolic diseases. RESEARCH OBJECTIVES: This study sought to ascertain how physical activity affected MDPs levels. METHODS: This systematic review searched four electronic databases, PubMed, Scopus, Web of Science, and ScienceDirect, for studies published between 2016 and 2025 that examined MDPs and exercise. A total of 435 records were identified. After screening according to predefined inclusion and exclusion criteria following PRISMA guidelines, nine studies were included in the final analysis. RESULTS: Of the nine studies included in this systematic review, most reported a trend toward increased MDP levels after exercise. However, these findings should be interpreted with caution due to the limited number of studies and variations in study design, subject characteristics, and exercise protocols. CONCLUSION: Available evidence suggests that physical exercise has the potential to increase MDP levels, which may be associated with improved metabolic function, increased insulin sensitivity, and the efficiency of cellular energy metabolism. However, current evidence is limited, particularly in human studies. Therefore, further research, particularly controlled clinical trials and longitudinal studies, is needed to confirm these findings and evaluate MDP's potential as a therapeutic target in the prevention and management of metabolic diseases."
+  }
+ ],
+ "praeklinik": [
+  {
+   "pmid": "36642986",
+   "titel": "Mitochondrial stress and mitokines in aging",
+   "jahr": "2023",
+   "journal": "Aging Cell",
+   "erstautor": "Burtscher J",
+   "doi": "10.1111/acel.13770",
+   "typ": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Mitokines are signaling molecules that enable communication of local mitochondrial stress to other mitochondria in distant cells and tissues. Among those molecules are FGF21, GDF15 (both expressed in the nucleus) and several mitochondrial-derived peptides, including humanin. Their responsiveness to mitochondrial stress induces mitokine-signaling in response for example to exercise, following mitochondrial challenges in skeletal muscle. Such signaling is emerging as an important mediator of exercise-derived and dietary strategy-related molecular and systemic health benefits, including healthy aging. A compensatory increase in mitokine synthesis and secretion could preserve mitochondrial function and overall cellular vitality. Conversely, resistance against mitokine actions may also develop. Alterations of mitokine-levels, and therefore of mitokine-related inter-tissue cross talk, are associated with general aging processes and could influence the development of age-related chronic metabolic, cardiovascular and neurological diseases; whether these changes contribute to aging or represent \"rescue factors\" remains to be conclusively shown. The aim of the present review is to summarize the expanding knowledge on mitokines, the potential to modulate them by lifestyle and their involvement in aging and age-related diseases. We highlight the importance of well-balanced mitokine-levels, the preventive and therapeutic properties of maintaining mitokine homeostasis and sensitivity of mitokine signaling but also the risks arising from the dysregulation of mitokines. While reduced mitokine levels may impair inter-organ crosstalk, also excessive mitokine concentrations can have deleterious consequences and are associated with conditions such as cancer and heart failure. Preservation of healthy mitokine signaling levels can be achieved by regular exercise and is associated with an increased lifespan."
+  },
+  {
+   "pmid": "39053460",
+   "titel": "Myeloid cells coordinately induce glioma cell-intrinsic and cell-extrinsic pathways for chemoresistance via GP130 signaling",
+   "jahr": "2024",
+   "journal": "Cell Rep Med",
+   "erstautor": "Cheng J",
+   "doi": "10.1016/j.xcrm.2024.101658",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The DNA damage response (DDR) and the blood-tumor barrier (BTB) restrict chemotherapeutic success for primary brain tumors like glioblastomas (GBMs). Coherently, GBMs almost invariably relapse with fatal outcomes. Here, we show that the interaction of GBM and myeloid cells simultaneously induces chemoresistance on the genetic and vascular levels by activating GP130 receptor signaling, which can be addressed therapeutically. We provide data from transcriptomic and immunohistochemical screens with human brain material and pharmacological experiments with a humanized organotypic GBM model, proteomics, transcriptomics, and cell-based assays and report that nanomolar concentrations of the signaling peptide humanin promote temozolomide (TMZ) resistance through DDR activation. GBM mouse models recapitulating intratumoral humanin release show accelerated BTB formation. GP130 blockade attenuates both DDR activity and BTB formation, resulting in improved preclinical chemotherapeutic efficacy. Altogether, we describe an overarching mechanism for TMZ resistance and outline a translatable strategy with predictive markers to improve chemotherapy for GBMs."
+  },
+  {
+   "pmid": "32800320",
+   "titel": "Humanin: A mitochondria-derived peptide with emerging properties",
+   "jahr": "2020",
+   "journal": "Ann Cardiol Angeiol (Paris)",
+   "erstautor": "Rochette L",
+   "doi": "10.1016/j.ancard.2020.07.015",
+   "typ": [
+    "Editorial"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "37468558",
+   "titel": "Mitochondria-derived peptide SHLP2 regulates energy homeostasis through the activation of hypothalamic neurons",
+   "jahr": "2023",
+   "journal": "Nat Commun",
+   "erstautor": "Kim SK",
+   "doi": "10.1038/s41467-023-40082-7",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Small humanin-like peptide 2 (SHLP2) is a mitochondrial-derived peptide implicated in several biological processes such as aging and oxidative stress. However, its functional role in the regulation of energy homeostasis remains unclear, and its corresponding receptor is not identified. Hereby, we demonstrate that both systemic and intracerebroventricular (ICV) administrations of SHLP2 protected the male mice from high-fat diet (HFD)-induced obesity and improved insulin sensitivity. In addition, the activation of pro-opiomelanocortin (POMC) neurons by SHLP2 in the arcuate nucleus of the hypothalamus (ARC) is involved in the suppression of food intake and the promotion of thermogenesis. Through high-throughput structural complementation screening, we discovered that SHLP2 binds to and activates chemokine receptor 7 (CXCR7). Taken together, our study not only reveals the therapeutic potential of SHLP2 in metabolic disorders but also provides important mechanistic insights into how it exerts its effects on energy homeostasis."
+  },
+  {
+   "pmid": "35650177",
+   "titel": "Epigenome-wide DNA methylation in obsessive-compulsive disorder",
+   "jahr": "2022",
+   "journal": "Transl Psychiatry",
+   "erstautor": "Schiele MA",
+   "doi": "10.1038/s41398-022-01996-w",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "In adult patients with obsessive-compulsive disorder (OCD), altered DNA methylation has been discerned in several candidate genes, while DNA methylation on an epigenome-wide level has been investigated in only one Chinese study so far. Here, an epigenome-wide association study (EWAS) was performed in a sample of 76 OCD patients of European ancestry (37 women, age ± SD: 33.51 ± 10.92 years) and 76 sex- and age-matched healthy controls for the first time using the Illumina MethylationEPIC BeadChip. After quality control, nine epigenome-wide significant quantitative trait methylation sites (QTMs) and 21 suggestive hits were discerned in the final sample of 68 patients and 68 controls. The top hit (cg24159721) and four other significant QTMs (cg11894324, cg01070250, cg11330075, cg15174812) map to the region of the microRNA 12136 gene (MIR12136). Two additional significant CpG sites (cg05740793, cg20450977) are located in the flanking region of the MT-RNR2 (humanin) like 8 gene (MT-RNRL8), while two further QTMs (cg16267121, cg15890734) map to the regions of the MT-RNR2 (humanin) like 3 (MT-RNRL3) and MT-RNR2 (humanin) like 2 (MT-RNRL2) genes. Provided replication of the present findings in larger samples, the identified QTMs might provide more biological insight into the pathogenesis of OCD and thereby could in the future serve as peripheral epigenetic markers of OCD risk with the potential to inform targeted preventive and therapeutic efforts."
+  },
+  {
+   "pmid": "36605935",
+   "titel": "Editorial: The effects of circulating non-sex hormones in cardiovascular disease",
+   "jahr": "2022",
+   "journal": "Front Endocrinol (Lausanne)",
+   "erstautor": "Shan SK",
+   "doi": "10.3389/fendo.2022.1065155",
+   "typ": [
+    "Editorial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "35843407",
+   "titel": "Humanin derivative, HNG, enhances neurotransmitter release",
+   "jahr": "2022",
+   "journal": "Biochim Biophys Acta Gen Subj",
+   "erstautor": "Ikegawa N",
+   "doi": "10.1016/j.bbagen.2022.130204",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Humanin (HN) is an endogenous 24-residue peptide that was first identified as a protective factor against neuronal death in Alzheimer's disease (AD). We previously demonstrated that the highly potent HN derivative HNG (HN with substitution of Gly for Ser14) ameliorated cognitive impairment in AD mouse models. Despite the accumulating evidence on the antagonizing effects of HN against cognitive deficits, the mechanisms behind these effects remain to be elucidated. METHODS: The extracellular fluid in the hippocampus of wild-type young mice was collected by microdialysis and the amounts of neurotransmitters were measured. The kinetic analysis of exocytosis was performed by amperometry using neuroendocrine cells. RESULTS: The hippocampal acetylcholine (ACh) levels were increased by intraperitoneal injection of HNG. HNG did not affect the physical activities of the mice but modestly improved their object memory. In a neuronal cell model, rat pheochromocytoma PC12 cells, HNG enhanced ACh-induced dopamine release. HNG increased ACh-induced secretory events and vesicular quantal size in primary neuroendocrine cells. CONCLUSIONS: These findings suggest that HN directly enhances regulated exocytosis in neurons, which can contribute to the improvement of cognitive functions. GENERAL SIGNIFICANCE: The regulator of exocytosis is a novel physiological role of HN, which provides a molecular clue for HN's effects on brain functions under health and disease."
+  },
+  {
+   "pmid": "32592613",
+   "titel": "Biochemical determinants of the IGFBP-3-hyaluronan interaction",
+   "jahr": "2020",
+   "journal": "FEBS Open Bio",
+   "erstautor": "Dorandish S",
+   "doi": "10.1002/2211-5463.12919",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "IGFBP-3, the most abundant IGFBP and the main carrier of insulin-like growth factor I (IGF-I) in the circulation, can bind IGF-1 with high affinity, which attenuates IGF/IGF-IR interactions, thereby resulting in antiproliferative effects. The C-terminal domain of insulin-like growth factor-binding protein-3 (IGFBP-3) is known to contain an 18-basic amino acid motif capable of interacting with either humanin (HN) or hyaluronan (HA). We previously showed that the 18-amino acid IGFBP-3 peptide is capable of binding either HA or HN with comparable affinities to the full-length IGFBP-3 protein and that IGFBP-3 can compete with the HA receptor, CD44, for binding HA. Blocking the interaction between HA and CD44 reduced viability of A549 human lung cancer cells. In this study, we set out to better characterize IGFBP-3-HA interactions. We show that both stereochemistry and amino acid identity are important determinants of the interaction between the IGFBP-3 peptide and HA and for the peptide's ability to exert its cytotoxic effects. Binding of IGFBP-3 to either HA or HN was unaffected by glycosylation or reduction of IGFBP-3, suggesting that the basic 18-amino acid residue sequence of IGFBP-3 remains accessible for interaction with either HN or HA upon glycosylation or reduction of the full-length protein. Removing N-linked oligosaccharides from CD44 increased its ability to compete with IGFBP-3 for binding HA, while reduction of CD44 rendered the protein relatively ineffective at blocking IGFBP-3-HA interactions. We conclude that both deglycosylation and disulfide bond formation are important for CD44 to compete with IGFBP-3 for binding HA."
+  },
+  {
+   "pmid": "38663202",
+   "titel": "Single cell transcriptomics of cerebrospinal fluid cells from patients with recent-onset narcolepsy",
+   "jahr": "2024",
+   "journal": "J Autoimmun",
+   "erstautor": "Huth A",
+   "doi": "10.1016/j.jaut.2024.103234",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Narcolepsy is a rare cause of hypersomnolence and may be associated or not with cataplexy, i.e. sudden muscle weakness. These forms are designated narcolepsy-type 1 (NT1) and -type 2 (NT2), respectively. Notable characteristics of narcolepsy are that most patients carry the HLA-DQB1*06:02 allele and NT1-patients have strongly decreased levels of hypocretin-1 (synonym orexin-A) in the cerebrospinal fluid (CSF). The pathogenesis of narcolepsy is still not completely understood but the strong HLA-bias and increased frequencies of CD4+ T cells reactive to hypocretin in the peripheral blood suggest autoimmune processes in the hypothalamus. Here we analyzed the transcriptomes of CSF-cells from twelve NT1 and two NT2 patients by single cell RNAseq (scRNAseq). As controls, we used CSF cells from patients with multiple sclerosis, radiologically isolated syndrome, and idiopathic intracranial hypertension. From 27,255 CSF cells, we identified 20 clusters of different cell types and found significant differences in three CD4+ T cell and one monocyte clusters between narcolepsy and multiple sclerosis patients. Over 1000 genes were differentially regulated between patients with NT1 and other diseases. Surprisingly, the most strongly upregulated genes in narcolepsy patients as compared to controls were coding for the genome-encoded MTRNR2L12 and MTRNR2L8 peptides, which are homologous to the mitochondria-encoded HUMANIN peptide that is known playing a role in other neurological diseases including Alzheimer's disease."
+  },
+  {
+   "pmid": "38008175",
+   "titel": "Mitochondrial-derived peptides in cardiovascular disease: Novel insights and therapeutic opportunities",
+   "jahr": "2024",
+   "journal": "J Adv Res",
+   "erstautor": "Li Y",
+   "doi": "10.1016/j.jare.2023.11.018",
+   "typ": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Mitochondria-derived peptides (MDPs) represent a recently discovered family of peptides encoded by short open reading frames (ORFs) found within mitochondrial genes. This group includes notable members including humanin (HN), mitochondrial ORF of the 12S rDNA type-c (MOTS-c), and small humanin-like peptides 1-6 (SHLP1-6). MDPs assume pivotal roles in the regulation of diverse cellular processes, encompassing apoptosis, inflammation, and oxidative stress, which are all essential for sustaining cellular viability and normal physiological functions. Their emerging significance extends beyond this, prompting a deeper exploration into their multifaceted roles and potential applications. AIM OF REVIEW: This review aims to comprehensively explore the biogenesis, various types, and diverse functions of MDPs. It seeks to elucidate the central roles and underlying mechanisms by which MDPs participate in the onset and development of cardiovascular diseases (CVDs), bridging the connections between cell apoptosis, inflammation, and oxidative stress. Furthermore, the review highlights recent advancements in clinical research related to the utilization of MDPs in CVD diagnosis and treatment. KEY SCIENTIFIC CONCEPTS OF REVIEW: MDPs levels are diminished with aging and in the presence of CVDs, rendering them potential new indicators for the diagnosis of CVDs. Also, MDPs may represent a novel and promising strategy for CVD therapy. In this review, we delve into the biogenesis, various types, and diverse functions of MDPs. We aim to shed light on the pivotal roles and the underlying mechanisms through which MDPs contribute to the onset and advancement of CVDs connecting cell apoptosis, inflammation, and oxidative stress. We also provide insights into the current advancements in clinical research related to the utilization of MDPs in the treatment of CVDs. This review may provide valuable information with MDPs for CVD diagnosis and treatment."
+  },
+  {
+   "pmid": "31131430",
+   "titel": "Mitochondrial peptides-appropriate options for therapeutic exploitation",
+   "jahr": "2019",
+   "journal": "Cell Tissue Res",
+   "erstautor": "Popov LD",
+   "doi": "10.1007/s00441-019-03049-z",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Besides their well-known function in cellular bioenergetics, the role of mitochondria in signaling regulation of cells homeostasis and survival has been uncovered during the past few decades. Possessing an independent genome and a unique genetic code, mitochondria biosynthesize protective stress response factors, the \"mitochondrial-derived peptides,\" import and deposit peptides within their matrix and are the target of peptides bound to bioactive agents, aiming at alleviation of pathology-related malfunction of the electron transport chain. As the rapidly evolving field of mitochondrial peptides is appropriate for therapeutic exploitation, a brief overview of the major recent findings is timely needed. Here, the focus is on the following issues: (i) the biological effects of mitochondrial-derived peptides (humanin, humanin-like peptides and MOTS-c) and their use in therapy, (ii) the abnormal accumulation of β-amyloid peptide within the mitochondrial matrix and (iii) the effectiveness of \"mitochondrial cell-penetrating/targeting peptides\" as vehicles for delivery of bioactive agents into dysfunctional mitochondria."
+  },
+  {
+   "pmid": "35499074",
+   "titel": "Mitochondria-derived peptides in aging and healthspan",
+   "jahr": "2022",
+   "journal": "J Clin Invest",
+   "erstautor": "Miller B",
+   "doi": "10.1172/JCI158449",
+   "typ": [
+    "Journal Article",
+    "Review",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "abstract": "The mechanisms that explain mitochondrial dysfunction in aging and healthspan continue to be studied, but one element has been unexplored: microproteins. Small open reading frames in circular mitochondria DNA can encode multiple microproteins, called mitochondria-derived peptides (MDPs). Currently, eight MDPs have been published: humanin, MOTS-c, and SHLPs 1-6. This Review describes recent advances in microprotein discovery with a focus on MDPs. It discusses what is currently known about MDPs in aging and how this new understanding could add to the way we understand age-related diseases including type 2 diabetes, cancer, and neurodegenerative diseases at the genomic, proteomic, and drug-development levels."
+  },
+  {
+   "pmid": "35086467",
+   "titel": "Humanin Ameliorates Late-onset Hypogonadism in Aged Male Rats",
+   "jahr": "2022",
+   "journal": "Curr Mol Pharmacol",
+   "erstautor": "El Kattawy HA",
+   "doi": "10.2174/1874467215666220127115602",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: The potential to reproduce declines with age. Late-onset hypogonadism is characterized by reduced serum testosterone. Humanin is a mitochondrial-derived signaling peptide encoded by short open reading frames within the mitochondrial genome. It may protect against some age-related diseases such as atherosclerosis by its cytoprotective effects. OBJECTIVE: The study aimed to investigate the potential anti-aging effects of humanin on the testicular architecture, oxidative stress, some apoptotic and inflammatory markers in the hypogonadal aged male rats. METHODS: Forty male albino rats were divided into 4 groups: normal adult controls, aged vehicle- treated group, aged testosterone-treated group, and aged humanin-treated group. Twenty-month- old male rats with declined serum testosterone were selected to be the animal models of lateonset hypogonadism. Testicular weights, serum testosterone, and some sperm parameters were measured. Testicular tissue IL-6 and TNF-α, superoxide dismutase activity, glutathione peroxidase, and malondialdehyde were assessed. The activity of caspase-3, BCL2, PCNA, and the nuclear factor erythroid 2-related factor 2-antioxidant response element pathway were evaluated. Testes were subjected to histopathological and immunohistochemical examination. Statistical analysis was executed using. One Way Analysis of variance (ANOVA) followed by Post hoc (LSD) test to compare means among all studied groups. RESULTS: Humanin treatment significantly improved serum testosterone, sperm characteristics, and antioxidant defenses. It decreased active caspase-3, pro-apoptotic BAX expression, and increased antiapoptotic BCL2 and proliferating cell nuclear antigen (PCNA) possibly via activating the (Nrf2- ARE) pathway. CONCLUSION: Humanin might be a promising therapeutic modality in late-onset hypogonadism as it ameliorated some age-related testicular and hormonal adverse effects."
+  },
+  {
+   "pmid": "35185787",
+   "titel": "Mitochondrial-Derived Peptides in Diabetes and Its Complications",
+   "jahr": "2021",
+   "journal": "Front Endocrinol (Lausanne)",
+   "erstautor": "Wu Y",
+   "doi": "10.3389/fendo.2021.808120",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "The changes of mitochondrial function are closely related to diabetes and its complications. Here we describe the effects of mitochondrial-derived peptides (MDPs), short peptides formed by transcription and translation of the open reading frame site in human mitochondrial DNA (mtDNA), on diabetes and its complications. We mainly focus on MDPs that have been discovered so far, such as Humanin (HN), mitochondrial open reading frame of the 12S rRNA-c (MOTS-c) and Small humanin-like peptides (SHLP 1-6), and elucidated the role of MDPs in diabetes and its major complications stroke and myocardial infarction by improving insulin resistance, inhibiting inflammatory response and anti-apoptosis. It provides more possibilities for the clinical application of mitochondrial derived peptides."
+  },
+  {
+   "pmid": "34471251",
+   "titel": "Abnormal levels of mitochondrial proteins in plasma neuronal extracellular vesicles in major depressive disorder",
+   "jahr": "2021",
+   "journal": "Mol Psychiatry",
+   "erstautor": "Goetzl EJ",
+   "doi": "10.1038/s41380-021-01268-x",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, N.I.H., Intramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "To characterize neuronal mitochondrial abnormalities in major depressive disorder (MDD), functional mitochondrial proteins (MPs) extracted from enriched plasma neuron-derived extracellular vesicles (NDEVs) of MDD participants (n = 20) were quantified before and after eight weeks of treatment with a selective serotonin reuptake inhibitor (SSRI). Pretreatment baseline NDEV levels of the transcriptional type 2 nuclear respiratory factor (NRF2) which controls mitochondrial biogenesis and many anti-oxidant gene responses, regulators of diverse neuronal mitochondrial functions cyclophilin D (CYPD) and mitofusin-2 (MFN2), leucine zipper EF-hand containing transmembrane 1 protein (LETM1) component of a calcium channel/calcium channel enhancer, mitochondrial tethering proteins syntaphilin (SNPH) and myosin VI (MY06), inner membrane electron transport complexes I (subunit 6) and III (subunit 10), the penultimate enzyme of nicotinamide adenine dinucleotide (NAD) generation nicotinamide mononucleotide adenylytransferase 2 (NMNAT2), and neuronal mitochondrial metabolic regulatory and protective factors humanin and mitochondrial open-reading frame of the 12S rRNA-c (MOTS-c) all were significantly lower than those of NDEVs from matched controls (n = 10), whereas those of pro-neurodegenerative NADase Sterile Alpha and TIR motif-containing protein 1 (SARM1) were higher. The baseline NDEV levels of transcription factor A mitochondrial (TFAM) and the transcriptional master-regulator of mitochondrial biogenesis PPAR γ coactivator-1α (PGC-1α) showed no differences between MDD participants and controls. Several of these potential biomarker proteins showed substantially different changes in untreated MDD than those we reported in untreated first-episode psychosis. NDEV levels of MPs of all functional classes, except complex I-6, NRF2 and PGC-1α were normalized in MDD participants who responded to SSRI therapy (n = 10) but not in those who failed to respond (n = 10) by psychiatric evaluation. If larger studies validate NDEV MP abnormalities, they may become useful biomarkers and identify new drug targets."
+  },
+  {
+   "pmid": "32846213",
+   "titel": "Decoding the rosetta stone of mitonuclear communication",
+   "jahr": "2020",
+   "journal": "Pharmacol Res",
+   "erstautor": "English J",
+   "doi": "10.1016/j.phrs.2020.105161",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "Cellular homeostasis in eukaryotic cells requires synchronized coordination of multiple organelles. A key role in this stage is played by mitochondria, which have recently emerged as highly interconnected and multifunctional hubs that process and coordinate diverse cellular functions. Beyond producing ATP, mitochondria generate key metabolites and are central to apoptotic and metabolic signaling pathways. Because most mitochondrial proteins are encoded in the nuclear genome, the biogenesis of new mitochondria and the maintenance of mitochondrial functions and flexibility critically depend upon effective mitonuclear communication. This review addresses the complex network of signaling molecules and pathways allowing mitochondria-nuclear communication and coordinated regulation of their independent but interconnected genomes, and discusses the extent to which dynamic communication between the two organelles has evolved for mutual benefit and for the overall maintenance of cellular and organismal fitness."
+  },
+  {
+   "pmid": "42333946",
+   "titel": "Humanin Mitigates Aβ-Induced Retinal Pigment Epithelium Injury via AMPK-Beclin1-Dependent Mitophagy",
+   "jahr": "2026",
+   "journal": "Aging Cell",
+   "erstautor": "Jang HY",
+   "doi": "10.1111/acel.70601",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Amyloid beta (Aβ), a key component of drusen in age-related macular degeneration (AMD), induces oxidative stress, mitochondrial dysfunction, and degeneration in the retinal pigment epithelium (RPE), contributing to progressive vision loss in the elderly. We investigated the protective role of Humanin (HN), a mitochondria-derived peptide with known neuroprotective effects in Aβ-related neurodegenerative diseases, in retinal pathology induced by subretinal injection of FITC-labeled Aβ. HN enhanced the clearance of Aβ-accumulated mitochondria in the RPE while preserving retinal function and RPE barrier integrity. In ARPE-19 cells, HN activated AMP-activated protein kinase (AMPK), leading to phosphorylation of ULK1 and Beclin1, which promoted the interaction between Beclin1 and Parkin and their translocation to mitochondria. This process facilitated the removal of Aβ-accumulated mitochondria in the RPE. Our results demonstrate that targeting mitophagy in the RPE with HN may offer a promising therapeutic strategy for AMD."
+  },
+  {
+   "pmid": "38132360",
+   "titel": "Neuroprotective Action of Humanin and Humanin Analogues: Research Findings and Perspectives",
+   "jahr": "2023",
+   "journal": "Biology (Basel)",
+   "erstautor": "Karachaliou CE",
+   "doi": "10.3390/biology12121534",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Humanin is a 24-mer peptide first reported in the early 2000s as a new neuroprotective/cytoprotective factor rescuing neuronal cells from death induced by various Alzheimer's disease-associated insults. Nowadays it is known that humanin belongs to the novel class of the so-called mitochondrial-derived peptides (which are encoded by mitochondrial DNA) and has been shown to exert beneficial cytoprotective effects in a series of in vitro and/or in vivo experimental models of human diseases, including not only neurodegenerative disorders but other human diseases as well (e.g., age-related macular degeneration, cardiovascular diseases, or diabetes mellitus). This review article is focused on the presentation of recent in vitro and in vivo research results associated with the neuroprotective action of humanin as well as of various, mainly synthetic, analogues of the peptide; moreover, the main mode(s)/mechanism(s) through which humanin and humanin analogues may exert in vitro and in vivo regarding neuroprotection have been reported. The prospects of humanin and humanin analogues to be further investigated in the frame of future research endeavors against neurodegenerative/neural diseases have also been briefly discussed."
+  },
+  {
+   "pmid": "25138702",
+   "titel": "Apollon/Bruce is upregulated by Humanin",
+   "jahr": "2014",
+   "journal": "Mol Cell Biochem",
+   "erstautor": "Hashimoto Y",
+   "doi": "10.1007/s11010-014-2182-4",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Humanin, a short bioactive peptide, inhibits a variety of cell deaths. Humanin-mediated inhibition of neuronal cell death, caused by an Alzheimer's disease (AD)-linked mutant gene occurs via binding of Humanin to its heterotrimeric Humanin receptor (htHNR), which results in the activation of the Janus-associated kinases (JAKs) and signal transducer and activator and transcription 3 (STAT3) signaling pathway. A previous study demonstrated that the Humanin-induced activation of the htHNR/JAK2/STAT3 signaling pathway leads to increased expression of SH3 domain-binding protein 5 (SH3BP5), which is an essential effector of Humanin's anti-cell death activity in some cultured neuronal cells. However, it remains unknown whether SH3BP5 is the sole effector of the Humanin signaling pathway via htHNR/JAKs/STAT3. Here we show that the Humanin signaling pathway via htHNR/JAKs/STAT3 increased the expression levels of mRNA and protein of Apollon/Bruce, an unusual member of the inhibitors of apoptosis proteins, and that overexpression of Apollon/Bruce inhibits neuronal death, caused by a London-type familial AD-linked mutant (V642I) of amyloid β precursor protein. Overall, the results indicate that expression of Apollon/Bruce is upregulated by Humanin, and Apollon/Bruce could be an effector of Humanin in a context-dependent manner."
+  },
+  {
+   "pmid": "40811024",
+   "titel": "S14G-Humanin ameliorates ovarian dysfunction in a cyclophosphamide-induced premature ovarian insufficiency mouse model",
+   "jahr": "2025",
+   "journal": "Mol Hum Reprod",
+   "erstautor": "Huang J",
+   "doi": "10.1093/molehr/gaaf042",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Premature ovarian insufficiency (POI) is a major cause of female infertility, for which effective therapies remain limited. S14G-Humanin (HNG), a potent analogue of Humanin, exhibits strong antioxidant and anti-apoptotic properties and has demonstrated cytoprotective effects in various tissues, including the ovary. In this study, a cyclophosphamide (CP)-induced POI mouse model was established to evaluate both the ovarian damage induced by chemotherapy and the protective effects of HNG. HNG administration significantly increased the number of primordial follicles (P = 0.044) and growing follicles (all P > 0.05), as well as corpora lutea (P = 0.09). Moreover, HNG markedly improved oocyte quality (P = 0.009), significantly lowering the proportion of abnormal ovulated oocytes (P = 0.002). Fertility outcomes were also enhanced: CP treatment significantly reduced litter size compared to controls (4.6 ± 1.1 vs 8.0 ± 1.0; P < 0.001), whereas HNG treatment significantly mitigated this reduction (6.2 ± 0.8 vs 4.6 ± 1.1; P = 0.029). Mechanistically, HNG alleviated oxidative stress and apoptosis in ovarian tissues (all P < 0.05), reduced ROS levels (P = 0.034), and restored mitochondrial membrane potential (P = 0.004) in a human granulosa cell line. Furthermore, HNG significantly upregulated PGC-1α expression and enhanced AMPK phosphorylation in both in vivo and in vitro models (both P < 0.05). Collectively, these findings demonstrate that HNG confers significant protection against chemotherapy-induced ovarian damage and highlight its potential as a novel therapeutic agent for chemotherapy-induced ovarian damage."
+  },
+  {
+   "pmid": "34624450",
+   "titel": "Humanin-induced autophagy plays important roles in skeletal muscle function and lifespan extension",
+   "jahr": "2022",
+   "journal": "Biochim Biophys Acta Gen Subj",
+   "erstautor": "Kim SJ",
+   "doi": "10.1016/j.bbagen.2021.130017",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Autophagy, a highly conserved homeostatic mechanism, is essential for cell survival. The decline of autophagy function has been implicated in various diseases as well as aging. Although mitochondria play a key role in the autophagy process, whether mitochondrial-derived peptides are involved in this process has not been explored. METHODS: We developed a high through put screening method to identify potential autophagy inducers among mitochondrial-derived peptides. We used three different cell lines, mice, c.elegans, and a human cohort to validate the observation. RESULTS: Humanin, a mitochondrial-derived peptide, increases autophagy and maintains autophagy flux in several cell types. Humanin administration increases the expression of autophagy-related genes and lowers accumulation of harmful misfolded proteins in mice skeletal muscle, suggesting that humanin-induced autophagy potentially contributes to the improved skeletal function. Moreover, autophagy is a critical role in humanin-induced lifespan extension in C. elegans. CONCLUSIONS: Humanin is an autophagy inducer. GENERAL SIGNIFICANCE: This paper presents a significant, novel discovery regarding the role of the mitochondrial derived peptide humanin in autophagy regulation and as a possible therapeutic target for autophagy in various age-related diseases."
+  },
+  {
+   "pmid": "29541379",
+   "titel": "Humanin enhances the cellular response to stress by activation of chaperone-mediated autophagy",
+   "jahr": "2018",
+   "journal": "Oncotarget",
+   "erstautor": "Gong Z",
+   "doi": "10.18632/oncotarget.24396",
+   "typ": [
+    "Editorial"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "24586106",
+   "titel": "New role for the mitochondrial peptide humanin: protective agent against chemotherapy-induced side effects",
+   "jahr": "2014",
+   "journal": "J Natl Cancer Inst",
+   "erstautor": "Cohen P",
+   "doi": "10.1093/jnci/dju006",
+   "typ": [
+    "Editorial",
+    "Research Support, N.I.H., Extramural",
+    "Comment"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "33899108",
+   "titel": "Humanin: A Potential Treatment for PCOS?",
+   "jahr": "2021",
+   "journal": "Endocrinology",
+   "erstautor": "Rodriguez Paris V",
+   "doi": "10.1210/endocr/bqab085",
+   "typ": [
+    "Journal Article",
+    "Comment"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "29376862",
+   "titel": "Humanin Exerts Neuroprotection During Cardiac Ischemia-Reperfusion Injury",
+   "jahr": "2018",
+   "journal": "J Alzheimers Dis",
+   "erstautor": "Kumfu S",
+   "doi": "10.3233/JAD-170708",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Cardiac ischemia-reperfusion (I/R) injury has been shown to impair brain function. Humanin analogue (HNG) given prior to cardiac ischemia has been shown to attenuate both heart and brain mitochondrial dysfunction caused by cardiac I/R injury. In a clinical setting, patients received medical treatment for acute myocardial infarction either during or after the onset of myocardial ischemia; thus, in this study, we tested the hypothesis that the administration of HNG during cardiac I/R injury has therapeutic potential for brain protection. Thirty-six male Wistar rats were divided into two groups: a cardiac I/R group (n = 30), and a sham group (n = 6). The I/R rats were then divided into five subgroups to receive: 1) vehicle; 2) HNG (84 μg/kg); 3) HNG (168 μg/kg); 4) HNG (252 μg/kg) intravenously administered during the cardiac-ischemia; and 5) HNG at 252 μg/kg given at the onset of reperfusion. At the end of treatment, brains were removed for determination of blood-brain barrier (BBB) breakdown, oxidative stress, brain mitochondrial function, brain mitochondrial dynamics, p-tau, amyloid-β (Aβ) and apoptosis. HNG at a dose of 168 and 252 μg/kg administered during ischemia, and 252 μg/kg given at the onset of reperfusion effectively attenuated the brain mitochondrial dysfunction, tau hyperphosphorylation and Aβ accumulation, and apoptosis, without reducing BBB breakdown, brain oxidative stress, or mitochondrial dynamic, caused by cardiac I/R injury. In conclusion, humanin exerted neuroprotection during induced cardiac I/R injury via improvement in brain mitochondrial function, and the reduction of Alzheimer's disease pathology and apoptosis."
+  },
+  {
+   "pmid": "32174022",
+   "titel": "Humanin analogue, HNG, inhibits platelet activation and thrombus formation by stabilizing platelet microtubules",
+   "jahr": "2020",
+   "journal": "J Cell Mol Med",
+   "erstautor": "Ren L",
+   "doi": "10.1111/jcmm.15151",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "HNG, a highly potent mutant of the anti-Alzheimer peptide-humanin, has been shown to protect against ischaemia-reperfusion (I/R) injury. However, the underlying mechanism related to platelet activation remains unknown. We proposed that HNG has an effect on platelet function and thrombus formation. In this study, platelet aggregation, granule secretion, clot retraction, integrin activation and adhesion under flow conditions were evaluated. In mice receiving HNG or saline, cremaster arterial thrombus formation induced by laser injury, tail bleeding time and blood loss were recorded. Platelet microtubule depolymerization was evaluated using immunofluorescence staining. Results showed that HNG inhibited platelet aggregation, P-selectin expression, ATP release, and αIIb β3 activation and adhesion under flow conditions. Mice receiving HNG had attenuated cremaster arterial thrombus formation, although the bleeding time was not prolonged. Moreover, HNG significantly inhibited microtubule depolymerization, enhanced tubulin acetylation in platelets stimulated by fibrinogen or microtubule depolymerization reagent, nocodazole, and inhibited AKT and ERK phosphorylation downstream of HDAC6 by collagen stimulation. Therefore, our results identified a novel role of HNG in platelet function and thrombus formation potentially through stabilizing platelet microtubules via tubulin acetylation. These findings suggest a potential benefit of HNG in the management of cardiovascular diseases."
+  },
+  {
+   "pmid": "40090538",
+   "titel": "The neuroprotective role of Humanin in Alzheimer's disease: The molecular effects",
+   "jahr": "2025",
+   "journal": "Eur J Pharmacol",
+   "erstautor": "Alqahtani SM",
+   "doi": "10.1016/j.ejphar.2025.177510",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Humanin (HN) is an endogenous micropeptide also known as a mitochondria-derived peptide. It has a neuroprotective effect against Alzheimer's disease (AD) and other neurodegenerative diseases by improving hippocampal acetylcholine and attenuating the development of oxidative stress and associated neurotoxicity. HN protects the neuron from the toxic effects of amyloid beta (Aβ). HN is regarded as a biomarker of mitochondrial stress. Interestingly, aging reduces brain expression of HN, leading to cognitive impairment and elevating the risk of neurodegeneration, including AD. However, in old subjects and AD patients, circulating HN levels increase as a compensatory mechanism to reduce neurodegeneration and mitochondrial dysfunction in AD. Conversely, other studies demonstrated a reduction in circulating HN levels in AD. These findings indicated controversial points regarding the precise mechanistic role of HN in AD. Therefore, the aim of this review was to discuss the exact role of HN in AD neuropathology and also to discuss the molecular mechanisms of HN in AD."
+  },
+  {
+   "pmid": "35536048",
+   "titel": "The protective effects of S14G-humanin on gestational diabetes mellitus symptoms",
+   "jahr": "2022",
+   "journal": "Gynecol Endocrinol",
+   "erstautor": "Jiang H",
+   "doi": "10.1080/09513590.2022.2073348",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Gestational diabetes mellitus is a frequently diagnosed glucose metabolic disorder during pregnancy. Diabetes mellitus has been found to pose important health risks to the developing fetus, mother, and offspring. Here, we investigated the protective effects of S14G-humanin, a potent humanin analogue, against maternal and neonatal adverse outcomes in mice with diabetes mellitus. The results show that S14G-humanin administration reduced the blood glucose levels and elevated the serum insulin levels in diabetes mellitus mice. The parameters of serum lipid metabolism including low-density lipoprotein, total cholesterol, and high-density lipoprotein in diabetes mellitus mice were also decreased after S14G-humanin administration. Intervention with S14G-humanin also increased the fetus alive ratio and fetal length, as well as decreased fetal and placenta weights. In addition, we demonstrate that S14G-humanin elevated the activity of the anti-oxidative enzymes catalase, glutathione peroxidase, and superoxide dismutase and reduced the inflammatory cytokines levels in the placentas of diabetes mellitus mice. The significantly increased endoplasmic reticulum stress in the placentas of diabetes mellitus mice was also attenuated by S14G-humanin administration. Taken together, S14G-humanin exerted protective roles in improving maternal and neonatal outcomes. Our findings indicate that S14G-humanin might be an effective intervention approach for women with diabetes mellitus."
+  },
+  {
+   "pmid": "35576057",
+   "titel": "Effect of Humanin G (HNG) on inflammation in age-related macular degeneration (AMD)",
+   "jahr": "2022",
+   "journal": "Aging (Albany NY)",
+   "erstautor": "Nashine S",
+   "doi": "10.18632/aging.204074",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "abstract": "Inflammation plays a crucial role in the etiology and pathogenesis of AMD (Age-related Macular Degeneration). Humanin G (HNG) is a Mitochondrial Derived Peptide (MDP) that is cytoprotective in AMD and can protect against mitochondrial and cellular stress induced by damaged AMD mitochondria. The goal of this study was to test our hypothesis that inflammation-associated marker protein levels are increased in AMD and treatment with HNG leads to reduction in their protein levels. Humanin protein levels were measured in the plasma of AMD patients and normal subjects using ELISA assay. Humanin G was added to AMD and normal (control) cybrids which had identical nuclei from mitochondria-deficient ARPE-19 cells but differed in mitochondrial DNA (mtDNA) content derived from clinically characterized AMD patients and normal (control) subjects. Cell lysates were extracted from untreated and HNG-treated AMD and normal cybrids, and the Luminex XMAP multiplex assay was used to measure the levels of inflammatory proteins. AMD plasma showed reduced Humanin protein levels, but higher protein levels of inflammation markers compared to control plasma samples. In AMD RPE cybrid cells, Humanin G reduced the CD62E/ E-Selectin, CD62P/ P-Selectin, ICAM-1, TNF-α, MIP-1α, IFN-γ, IL-1β, IL-13, and IL-17A protein levels, thereby suggesting that Humanin G may rescue from mtDNA-mediated inflammation in AMD cybrids. In conclusion, we present novel findings that: A) show reduced Humanin protein levels in AMD plasma vs. normal plasma; B) suggest the role of inflammatory markers in AMD pathogenesis, and C) highlight the positive effects of Humanin G in reducing inflammation in AMD."
+  },
+  {
+   "pmid": "32575074",
+   "titel": "The mitochondrial derived peptide humanin is a regulator of lifespan and healthspan",
+   "jahr": "2020",
+   "journal": "Aging (Albany NY)",
+   "erstautor": "Yen K",
+   "doi": "10.18632/aging.103534",
+   "typ": [
+    "Journal Article",
+    "Observational Study",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, N.I.H., Intramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Humanin is a member of a new family of peptides that are encoded by short open reading frames within the mitochondrial genome. It is conserved in animals and is both neuroprotective and cytoprotective. Here we report that in C. elegans the overexpression of humanin is sufficient to increase lifespan, dependent on daf-16/Foxo. Humanin transgenic mice have many phenotypes that overlap with the worm phenotypes and, similar to exogenous humanin treatment, have increased protection against toxic insults. Treating middle-aged mice twice weekly with the potent humanin analogue HNG, humanin improves metabolic healthspan parameters and reduces inflammatory markers. In multiple species, humanin levels generally decline with age, but here we show that levels are surprisingly stable in the naked mole-rat, a model of negligible senescence. Furthermore, in children of centenarians, who are more likely to become centenarians themselves, circulating humanin levels are much greater than age-matched control subjects. Further linking humanin to healthspan, we observe that humanin levels are decreased in human diseases such as Alzheimer's disease and MELAS (Mitochondrial Encephalopathy, Lactic Acidosis, and Stroke-like episodes). Together, these studies are the first to demonstrate that humanin is linked to improved healthspan and increased lifespan."
+  },
+  {
+   "pmid": "30582721",
+   "titel": "Mitochondrial-derived peptide humanin as therapeutic target in cancer and degenerative diseases",
+   "jahr": "2019",
+   "journal": "Expert Opin Ther Targets",
+   "erstautor": "Zuccato CF",
+   "doi": "10.1080/14728222.2019.1559300",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "Mitochondrial-derived peptides (MDPs) are encoded within the mitochondrial genome. They signal within the cell or are released to act as autocrine/paracrine/endocrine cytoprotective factors playing a key role in the cellular stress response. The first reported and better characterized MDP is humanin (HN), which exerts robust protective effects against a myriad of cytotoxic stimuli in many cell types. These effects have led to the evaluation of HN and its analogs as therapeutic targets for several chronic diseases. Areas covered: We describe the latest findings on the mechanism of action of HN and discuss the role of HN as therapeutic target for neurodegenerative and cardiovascular diseases, diabetes, male infertility, and cancer. Since HN can be detected in circulation, we also depict its value as a biomarker for these diseases. Expert opinion: HN analogs and peptide mimetics have been developed over the last decade and show promising results in preclinical models of degenerative diseases. Local administration of gene therapy vectors that overexpress or silence endogenous HN could also hold therapeutic potential. Controversy on the role of HN in cancer progression and chemoresistance should be addressed before the translation of these therapeutic approaches."
+  },
+  {
+   "pmid": "29187525",
+   "titel": "Humanin is an endogenous activator of chaperone-mediated autophagy",
+   "jahr": "2018",
+   "journal": "J Cell Biol",
+   "erstautor": "Gong Z",
+   "doi": "10.1083/jcb.201606095",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Chaperone-mediated autophagy (CMA) serves as quality control during stress conditions through selective degradation of cytosolic proteins in lysosomes. Humanin (HN) is a mitochondria-associated peptide that offers cytoprotective, cardioprotective, and neuroprotective effects in vivo and in vitro. In this study, we demonstrate that HN directly activates CMA by increasing substrate binding and translocation into lysosomes. The potent HN analogue HNG protects from stressor-induced cell death in fibroblasts, cardiomyoblasts, neuronal cells, and primary cardiomyocytes. The protective effects are lost in CMA-deficient cells, suggesting that they are mediated through the activation of CMA. We identified that a fraction of endogenous HN is present at the cytosolic side of the lysosomal membrane, where it interacts with heat shock protein 90 (HSP90) and stabilizes binding of this chaperone to CMA substrates as they bind to the membrane. Inhibition of HSP90 blocks the effect of HNG on substrate translocation and abolishes the cytoprotective effects. Our study provides a novel mechanism by which HN exerts its cardioprotective and neuroprotective effects."
+  },
+  {
+   "pmid": "15655255",
+   "titel": "Humanin: after the discovery",
+   "jahr": "2004",
+   "journal": "Mol Neurobiol",
+   "erstautor": "Niikura T",
+   "doi": "10.1385/MN:30:3:327",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Humanin (HN) is a novel neuroprotective factor that consists of 24 amino acid residues. HN suppresses neuronal cell death caused by Alzheimer's disease (AD)-specific insults, including both amyloid-beta (betaAbeta) peptides and familial AD-causative genes. Cerebrovascular smooth muscle cells are also protected from Abeta toxicity by HN, suggesting that HN affects both neuronal and non-neuronal cells when they are exposed to AD-related cytotoxicity. HN peptide exerts a neuroprotective effect through the cell surface via putative receptor(s). HN activates a cellular signaling cascade that intervenes (at least) in activation of c-Jun N-terminal kinase. The highly selective effect of HN on AD-relevant cell death indicates that HN is promising for AD therapy. Additionally, a recent study showed that intracellularly overexpressed HN suppressed mitochondria-mediated apoptosis by inhibiting Bax activity."
+  },
+  {
+   "pmid": "41296392",
+   "titel": "Research Progress on Signalling Pathways Related to Sepsis-Associated Acute Kidney Injury in Children",
+   "jahr": "2025",
+   "journal": "Curr Issues Mol Biol",
+   "erstautor": "Zhang Z",
+   "doi": "10.3390/cimb47110888",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Sepsis-associated acute kidney injury (SA-AKI) is a prevalent and life-threatening complication in critically ill children, contributing to high mortality rates (up to 30%) and long-term renal dysfunction in pediatric intensive care units. This review synthesizes recent advances in the signalling pathways underlying SA-AKI, emphasizing pediatric-specific mechanisms, biomarkers, and therapeutic targets. This review covers inflammatory cascades via TLR/NF-κB leading to cytokine storms (IL-6, TNF-α); apoptosis and necrosis involving mitochondrial Bcl-2 dysregulation and OLFM4; and emerging processes like pyroptosis (NF-κB-mediated), metabolic reprogramming (choline deficiency and Nrf2-mitophagy), and novel routes such as cGAS-STING and TGF-β signalling. Biomarkers like urinary OLFM4, DKK3, NGAL, and serum suPAR, alanine, and Penkid enable early diagnosis and risk stratification, with models like PERSEVERE-II enhancing prognostic accuracy. Therapeutic strategies include fluid optimization, renal replacement therapies (CRRT, SLED-f), and pathway-targeted interventions such as choline supplementation, oXiris for cytokine removal, Humanin for immunomodulation, and investigational cGAS-STING inhibitors. Despite progress, challenges persist in translating animal models to pediatric trials and addressing heterogeneity. Integrating multi-omics and precision medicine holds promise for improving outcomes, underscoring the need for multicenter studies in children."
+  },
+  {
+   "pmid": "30657335",
+   "titel": "Humanin is a novel regulator of Hedgehog signaling and prevents glucocorticoid-induced bone growth impairment",
+   "jahr": "2019",
+   "journal": "FASEB J",
+   "erstautor": "Zaman F",
+   "doi": "10.1096/fj.201801741R",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Glucocorticoids (GCs) are frequently used to treat chronic disorders in children, including inflammation and cancer. Prolonged treatment with GCs is well known to impair bone growth, an effect linked to increased apoptosis and suppressed proliferation in growth plate chondrocytes. We hypothesized that the endogenous antiapoptotic protein humanin (HN) may prevent these effects. Interestingly, GC-induced bone growth impairment and chondrocyte apoptosis was prevented in HN overexpressing mice, HN-treated wild-type mice, and in HN-treated cultured rat metatarsal bones. GC-induced suppression of chondrocyte proliferation was also prevented by HN. Furthermore, GC treatment reduced Indian Hedgehog expression in growth plates of wild-type mice but not in HN overexpressing mice or HN-treated wild-type animals. A Hedgehog (Hh) antagonist, vismodegib, was found to suppress the growth of cultured rat metatarsal bones, and this effect was also prevented by HN. Importantly, HN did not interfere with the desired anti-inflammatory effects of GCs. We conclude that HN is a novel regulator of Hh signaling preventing GC-induced bone growth impairment without interfering with desired effects of GCs. Our data may open for clinical studies exploring a new possible strategy to prevent GC-induced bone growth impairment by cotreating with HN.-Zaman, F., Zhao, Y., Celvin, B., Mehta, H. H., Wan, J., Chrysis, D., Ohlsson, C., Fadeel, B., Cohen, P., Sävendahl, L. Humanin is a novel regulator of Hedgehog signaling and prevents glucocorticoid-induced bone growth impairment."
+  },
+  {
+   "pmid": "29070438",
+   "titel": "Humanin affects object recognition and gliosis in short-term cuprizone-treated mice",
+   "jahr": "2017",
+   "journal": "Neuropeptides",
+   "erstautor": "Murakami M",
+   "doi": "10.1016/j.npep.2017.10.002",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Humanin (HN) is a 24-residue peptide that manipulates cell survival under various stresses. A highly potent HN derivative, HNG, reduced amyloid burden and neuroinflammation and suppressed cognitive impairment in Alzheimer's disease model mice. Cuprizone (CPZ), a copper chelator, provokes demyelination in the central nervous system of mice. A shorter (one week) exposure to CPZ induces schizophrenia-like behavior and glial activation prior to demyelination. We tested the effect of HNG on these short-term responses to CZP in mice. Intraperitoneal injection of HNG for one week improved object recognition memory but not working memory in CPZ-treated mice. Quantitative PCR analyses showed that HNG significantly suppressed CPZ-induced activation of microglia, but did not alter the reduced level of a myelin-specific transcript. These results suggest that HN can suppress neuroinflammation and the associated cognitive deficit in a wider range of neurological disorders beyond Alzheimer's disease."
+  },
+  {
+   "pmid": "15128389",
+   "titel": "Humanin antagonists: mutants that interfere with dimerization inhibit neuroprotection by Humanin",
+   "jahr": "2004",
+   "journal": "Eur J Neurosci",
+   "erstautor": "Hashimoto Y",
+   "doi": "10.1111/j.0953-816X.2004.03298.x",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The 24-residue peptide Humanin (HN) protects neuronal cells from insults of various Alzheimer's disease (AD) genes and Abeta by forming a homodimer. We have previously shown that P3A, S7A, C8A, L9A, L12A, T13A, S14A and P19A mutations nullify the neuroprotective function of HN [Yamagishi, Y., Hashimoto, Y., Niikura, T. & Nishimoto, I. (2003) Peptides, 24, 585-595]. Here we examined whether any of these 'null' mutants could function as dominant-negative mutants. Homodimerization-defective mutants, P3A-, L12A-, S14A- and P19A-HN, specifically blocked neuroprotection by HN, but not by activity-dependent neurotrophic factor. Furthermore, insertion of S7A, the mutation that blocks the homodimerization of HN, but not insertion of G5A abolished the antagonizing function of L12A-HN. While L12A-HN and G5A/L12A-HN actually inhibited HN homodimerization, S7A/L12A-HN had no effect. These data indicate that P3A-, L12A-, S14A- and P19A-HN function as HN antagonists by forming an inactive dimer with HN. This study provides a novel insight into the understanding of the in vivo function of HN, as well as into the development of clinically applicable HN neutralizers."
+  },
+  {
+   "pmid": "35372353",
+   "titel": "The Molecular Structure and Role of Humanin in Neural and Skeletal Diseases, and in Tissue Regeneration",
+   "jahr": "2022",
+   "journal": "Front Cell Dev Biol",
+   "erstautor": "Zhu S",
+   "doi": "10.3389/fcell.2022.823354",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Humanin (HN) belongs to a member of mitochondrial-derived peptides (MDPs) which are encoded by mitochondrial genes. HN shares sequence homology with thirteen HN-like proteins, named MTRNR2L1 to MTRNR2L13, which encompass 24-28 amino acid residues in length. HN mediates mitochondrial status and cell survival by acting via an intracellular mechanism, or as a secreted factor via extracellular signals. Intracellularly, it binds Bcl2-associated X protein (BAX), Bim and tBid, and IGFBP3 to inhibit caspase activity and cell apoptosis. When released from cells as a secreted peptide, HN interacts with G protein-coupled formyl peptide receptor-like 1 (FPRL1/2) to mediate apoptosis signal-regulating kinase (ASK) and c-Jun N-terminal kinase (JNK) signalling pathways. Additionally, it interacts with CNTFR-α/gp130/WSX-1 trimeric receptors to induce JAK2/STA3 signalling cascades. HN also binds soluble extracellular proteins such as VSTM2L and IGFBP3 to modulate cytoprotection. It is reported that HN plays a role in neuronal disorders such as Alzheimer's disease, as well as in diabetes mellitus, infertility, and cardiac diseases. Its roles in the skeletal system are emerging, where it appears to be involved with the regulation of osteoclasts, osteoblasts, and chondrocytes. Understanding the molecular structure and role of HN in neural and skeletal diseases is vital to the application of HN in tissue regeneration."
+  },
+  {
+   "pmid": "31185388",
+   "titel": "The role of mitochondria-derived peptides in cardiovascular disease: Recent updates",
+   "jahr": "2019",
+   "journal": "Biomed Pharmacother",
+   "erstautor": "Yang Y",
+   "doi": "10.1016/j.biopha.2019.109075",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Mitochondria-derived peptides (MDPs) are a series of peptides encoded by mitochondrial DNA, and have similar functions to mitochondria. At present there are three types of MDPs that have been found, including Humanin, MOTS-c and SHLP1-6. They are new metabolic regulators of human body, and play a cytoprotective role in maintaining mitochondrial function and cell viability under pressure. Increasingly researchers have demonstrated that MDPs have proved effects on cell survival, metabolism, response to stressors, and inflammation in vivo and vitro. Recently with the advance of research, it have shown that MDPs have significant effects on the development of cardiovascular diseases (CVD). In this review, we will cover the relationships of MDPs with cardiovascular risk factors, myocardial ischemia, reperfusion injury, myocardial fibrosis, and coronary microcirculatory dysfunction, and also their possible pathogenic mechanisms. MDPs are considered to be novel biomarkers or therapeutic targets for CVD."
+  },
+  {
+   "pmid": "40639309",
+   "titel": "Ameliorative effects of Gly[14]-humanin on cyclophosphamide-induced premature ovarian insufficiency and underlying mechanisms",
+   "jahr": "2025",
+   "journal": "Reprod Biomed Online",
+   "erstautor": "Huang J",
+   "doi": "10.1016/j.rbmo.2025.104901",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "RESEARCH QUESTION: Can Gly[14]-humanin (HNG) improve cyclophosphamide-induced premature ovarian insufficiency (POI)? DESIGN: A POI model was induced in female rats by intraperitoneal injection of cyclophosphamide, followed by treatment with an intraperitoneal injection of HNG. Ovarian weight, ovarian index, regularity of the oestrous cycle, numbers of various types of follicle, hormone concentrations, and expression of the proliferation marker Ki67 were assessed in rats, and terminal deoxynucleotidyl transferase dUTP nick-end labelling (TUNEL) staining was performed. The human ovarian granulosa cell line COV434 was exposed to the cyclophosphamide metabolite 4-hydroperoxy cyclophosphamide (4-HC), followed by HNG treatment. Cell viability and single-cell clone formation after HNG treatment were also evaluated. Reactive oxygen species (ROS), mitochondrial ROS (mtROS), 5-ethynyl-2'-deoxyuridine (EdU) and Ki67 expression, and Western blot analysis were performed to evaluate the expression of apoptosis-related proteins (Bcl-2 and Bax) and phosphorylated STAT3 protein. RESULTS: HNG mitigated cyclophosphamide-induced ovarian damage significantly in rats by restoring the disrupted oestrous cycle and sex hormone concentrations while reducing follicular depletion (P < 0.05) and apoptosis (P < 0.001). HNG treatment enhanced cell viability (P < 0.01) without causing abnormal cell proliferation. Furthermore, HNG ameliorated the 4-HC-induced damage in COV434 cells by enhancing cell viability, increasing the expression of proliferation markers (EdU and Ki67) and reducing ROS and mtROS concentrations (P < 0.05). HNG also decreased the 4-HC-induced elevation in Bax expression, and increased the expression of Bcl-2 and phosphorylated STAT3 (P < 0.05). CONCLUSIONS: The mitochondrial-derived peptide analogue HNG confers protection against cyclophosphamide-induced POI in rats by reducing oxidative stress and apoptosis. These findings suggest the potential of HNG as a therapeutic agent for preventing cyclophosphamide-induced POI in women."
+  }
+ ],
+ "ctgov": [
+  {
+   "nct": "NCT07678073",
+   "titel": "Comparison of the Effects of General Anesthesia and Combined Spinal-Epidural Anesthesia on Ferroptosis, Humanin and MOTS-c Levels in Renal Transplantation",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 68,
+   "start": "2026-03-01",
+   "ende": "2026-10-15",
+   "erkrankungen": [
+    "Kidney Disease, End-Stage",
+    "Kidney Transplant",
+    "Kidney",
+    "Kidney Disease",
+    "Renal Transplant"
+   ],
+   "sponsor": "University of Gaziantep",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06105229",
+   "titel": "Clinical Value of Plasma Humanin in Acute Kidney Injury",
+   "phase": "",
+   "typ": "OBSERVATIONAL",
+   "status": "UNKNOWN",
+   "teilnehmende": 60,
+   "start": "2022-08-01",
+   "ende": "2024-06",
+   "erkrankungen": [
+    "Acute Kidney Injury"
+   ],
+   "sponsor": "Guangdong Provincial People's Hospital",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT03431844",
+   "titel": "Humanin Isoforms in Cardiac Muscle and Blood Plasma and Major Complications After Cardiac Operation",
+   "phase": "",
+   "typ": "OBSERVATIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 106,
+   "start": "2018-01-01",
+   "ende": "2019-08-31",
+   "erkrankungen": [
+    "Myocardial Ischemia",
+    "Coronary Artery Bypass Surgery"
+   ],
+   "sponsor": "University of Tartu",
+   "ergebnisse": false
+  }
+ ],
+ "gruppe": "D_gehirn_langlebigkeit"
+}

@@ -1,0 +1,635 @@
+{
+ "name": "Semax",
+ "status": "teilweise",
+ "suchbegriff_pubmed": "semax[tiab]",
+ "suchbegriff_ctgov": "semax",
+ "humanstudien_alle": [
+  {
+   "pmid": "29798983",
+   "titel": "[The efficacy of semax in the tretament of patients at different stages of ischemic stroke]",
+   "jahr": "2018",
+   "journal": "Zh Nevrol Psikhiatr Im S S Korsakova",
+   "erstautor": "Gusev EI",
+   "doi": "10.17116/jnevro20181183261-68",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "18379501",
+   "titel": "[The study of chronic partial denervation and quality of life in patients with motor neuron disease treated with semax]",
+   "jahr": "2007",
+   "journal": "Zh Nevrol Psikhiatr Im S S Korsakova",
+   "erstautor": "Serdiuk AV",
+   "doi": "",
+   "typ": [
+    "Comparative Study",
+    "English Abstract",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "10741256",
+   "titel": "[Evaluation of therapeutic effect of new Russian drug semax in optic nerve disease]",
+   "jahr": "2000",
+   "journal": "Vestn Oftalmol",
+   "erstautor": "Polunin GS",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Controlled Clinical Trial",
+    "English Abstract",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "11517472",
+   "titel": "[Effectiveness of semax in acute period of hemispheric ischemic stroke (a clinical and electrophysiological study)]",
+   "jahr": "1997",
+   "journal": "Zh Nevrol Psikhiatr Im S S Korsakova",
+   "erstautor": "Gusev EI",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Controlled Clinical Trial",
+    "Journal Article"
+   ]
+  }
+ ],
+ "humanstudien_detail": [
+  {
+   "pmid": "10741256",
+   "titel": "[Evaluation of therapeutic effect of new Russian drug semax in optic nerve disease]",
+   "jahr": "2000",
+   "journal": "Vestn Oftalmol",
+   "erstautor": "Polunin GS",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Controlled Clinical Trial",
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "Semax is a synthetic analog of adrenocorticotropic hormone 4-10 with a pronounced nootropic effect. It was used in the treatment of vascular, toxic allergic, and inflammatory diseases of the optic nerve and partial atrophy of the optic nerve in parallel with basic neurotrophic and antiinflammatory therapy. For evaluating the drug efficiency, the patients were divided into 3 groups, administered the drug via different routes. In group 1 semax was administered intransally as nasal drops, in group 2 by endonasal electrophoresis, and group 3 was control. Addition of semax to therapeutic complex in patients with diseases of the optic nerve had a favorable impact on the intensity and rate of recovery and improved the visual functions. Semax effectively protected nervous tissue from aftereffects of injury, particularly during the acute stage of optic nerve disease: it stimulated positive changes in the clinical picture, which were evaluated by improvement of visual acuity, extension of the total visual field, increase in the electric sensitivity and conductivity of the optic nerve, and improvement of color vision."
+  },
+  {
+   "pmid": "18379501",
+   "titel": "[The study of chronic partial denervation and quality of life in patients with motor neuron disease treated with semax]",
+   "jahr": "2007",
+   "journal": "Zh Nevrol Psikhiatr Im S S Korsakova",
+   "erstautor": "Serdiuk AV",
+   "doi": "",
+   "typ": [
+    "Comparative Study",
+    "English Abstract",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "The study of chronic partial denervation (CPD) and quality of life was carried out in 27 patients with definite, probable and possible diagnosis of motor neuron disease (MND) treated with semax (1% solution). The needle electromyography (EMG) was performed thrice with short-term 2 month interval (60 days before enrollment and on day 1 and day 48 of the study) in three muscles on bulbar, cervical and lumbosacral levels on the less affected side. According to Revised El-Escorial Criteria (1998) the needle EMG for diagnostic purposes was also performed in two muscles on the cervical and lumbosacral levels on the more affected side along with stimulation electroneuronmyography of motor and sensory fibers of the peripheral nerves of neck, upper and lower extremities. The open-label clinical trial of Semax (1% solution) was conducted in sequential groups of patients. The drug was administered intranasally in two 10-day-long courses with 2-weeks break in daily dose of 12 mg. Sixty days before enrollment, and on days 1, 10, 24, 34 and 48, patients were assessed by the Norris ALS, the ALS Functioning Rating Scale and the ALSAQ-40 quality of life in the ALS scale. It was shown that CPD on the early as well as on the late stages was characterized by forward-backward, but not unidirectional course, that did not allow to recommend the follow-up needle EMG with short-term interval for evaluation of drug efficacy monitoring. Early CPD stages were characterized by forward-backwards fluctuations reflecting the compensatory reinnervation process (a phenomenon of exchange of muscle fibers, more rational in view of reinnervation, between adjacent motor units) whereas on the late CPD stages these forward-backwards CPD fluctuations reflected the processes of progressive deterioration of muscle fibers and secondary demyelination of large motor axons. Semax (1% solution) does not influence either the course of CPD or the dynamics of clinical estimates, in particular the terms of ensuing marked functional deficits on bulbar, cervical and lumbosacral levels of segmental innervation. However, 1% semax significantly improves the total estimate of life quality due to the improvement of emotional state and motivation in MND patients with the maximal effect on day 10. This finding suggests that it is feasible to administer 1% semax in complex MND palliative therapy."
+  },
+  {
+   "pmid": "11517472",
+   "titel": "[Effectiveness of semax in acute period of hemispheric ischemic stroke (a clinical and electrophysiological study)]",
+   "jahr": "1997",
+   "journal": "Zh Nevrol Psikhiatr Im S S Korsakova",
+   "erstautor": "Gusev EI",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Controlled Clinical Trial",
+    "Journal Article"
+   ],
+   "abstract": "Efficiency of Semax (synthetic derivative of ACTH-4-10) was studied in 30 patients in acute period of hemispherical ischemic stroke. Control group consisted of 80 patients with the strokes analogous in severity and location of the damages and which were treated by conventional therapy. Different clinical rating scales were used for both objectivization of the severity of the patients' state and estimation of the degree of neurological defect. The control of Semax influence on the functional state of the brain included monitoring of EEG with mapping, repeated analysis of somatosensory evoked potentials and their mapping. It was established that including of Semax in combined intensive therapy of acute ischemic stroke had some influence on the rate of restoration of the damaged neurological functions in terms of increasing the regress of general cerebral and focal, especially motor disorders. The most effective daily doses were 12 mg for patients with strokes of moderate severity and 18 mg for patients with severe strokes (treatment course--5 and 10 days)."
+  },
+  {
+   "pmid": "29798983",
+   "titel": "[The efficacy of semax in the tretament of patients at different stages of ischemic stroke]",
+   "jahr": "2018",
+   "journal": "Zh Nevrol Psikhiatr Im S S Korsakova",
+   "erstautor": "Gusev EI",
+   "doi": "10.17116/jnevro20181183261-68",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ],
+   "abstract": "AIM: To evaluate the efficacy of semax and timing of rehabilitation on the dynamics of plasma BDNF levels, motor performance, and Barthel index score in patients after ischemic stroke (IS). MATERIAL AND METHODS: One hundred and ten patients after IS (43 men, 67 women, mean age 58.0±9.7, Ме 63 years) were examined. All patients were divided into early (89±9 days) and late (214±22 days) rehabilitation groups. Each group was subdivided into semax+ and semax- subgroups. Standard regimen of semax included 2 courses (6000 mcg/day) for 10 days with 20 day interval. Plasma BDNF levels, motor performance on the British Medical Research Council scale and Barthel index were assessed in all groups. RESULTS: Administration of semax, regardless of the timing of rehabilitation, increased BDNF plasma levels which remained high during the whole study period. In semax- subgroups high BDNF plasma levels were positively correlated with early rehabilitation. Administration of semax and high BDNF levels accelerated the improvement and ameliorated the final outcome of Barthel score index. There was a positive correlation between BDNF plasma levels and Barthel score, as well as a correlation between early rehabilitation and motor performance improvement. The correlation between BDNF plasma levels and Barthel score was modified by the timing of rehabilitation. CONCLUSION: Early rehabilitation and administration of semax increase BDNF plasma level, speed functional recovery, and improve motor performance. Цель исследования. Изучить влияние семакса и времени начала реабилитационных мероприятий на динамику содержания нейротрофического фактора головного мозга (BDNF) в крови, степень восстановления двигательных функций и функциональной активности у больных, перенесших ишемический инсульт (ИИ). Материал и методы. На протяжении 5 мес наблюдали 110 больных (43 мужчин и 67 женщин, средний возраст 58,0±9,7 года, Ме 63 года), перенесших ИИ. Больные были разделены на группы ранней (89±9 сут) и поздней реабилитации (214±22 сут), из которых в свою очередь были выделены подгруппы больных, получавших и не получавших семакс. Препарат назначали по 6000 мкг/сут двумя курсами по 10 сут с перерывом в 20 сут между ними. Во всех группах с учетом времени начала реабилитации и назначения семакса оценивали динамику уменьшения выраженности пареза, степень восстановления по шкале Бартел и уровень BDNF. Результаты. Применение семакса вне зависимости от времени начала реабилитации приводило к быстрому приросту уровня BDNF и сохранению его высокой и равномерной концентрации на протяжении всего периода исследования. У больных, не получавших семакс, ранняя реабилитация сопровождалась более быстрым приростом и высоким уровнем BDNF, чем поздняя. Назначение семакса и высокий уровень BDNF ускоряли и улучшали итоговое восстановление по шкале Бартел и в меньшей степени влияли на уменьшение парезов. Влияние реабилитации и уровня BDNF на уменьшение выраженности парезов и степень восстановления нарушенных функций было наиболее значимым в ранним периоде после ИИ. Заключение. Назначение семакса и ранняя реабилитация после ИИ уменьшают выраженность двигательных нарушений, улучшают показатели восстановления и увеличивают уровень BDNF в плазме."
+  }
+ ],
+ "metaanalysen": [],
+ "praeklinik": [
+  {
+   "pmid": "41490200",
+   "titel": "Therapeutic Peptides in Orthopaedics: Applications, Challenges, and Future Directions",
+   "jahr": "2026",
+   "journal": "J Am Acad Orthop Surg Glob Res Rev",
+   "erstautor": "Rahman OF",
+   "doi": "10.5435/JAAOSGlobal-D-25-00236",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Therapeutic peptides are emerging as promising adjuncts in the management of orthopaedic injuries, grounded in their ability to modulate molecular signaling networks central to cellular medicine. By acting on key pathways such as PI3K/Akt, mTOR, MAPK, TGF-β, and AMPK, peptides exert influence over tissue regeneration, inflammation resolution, and neuromuscular recovery. Wound-healing peptides such as BPC-157, TB-500, and GHK-Cu promote angiogenesis, integrin-mediated extracellular matrix remodeling, and fibroblast activation, whereas growth hormone secretagogues like ipamorelin, CJC-1295, tesamorelin, sermorelin, and AOD-9604 activate IGF-1 signaling and satellite cell repair. Recovery-enhancing agents such as epithalon, delta sleep-inducing peptide, and pinealon target circadian and mitochondrial regulators, and neuroactive peptides like selank, semax, and dihexa enhance brain-derived neurotrophic factor and HGF/c-Met pathways critical to neuroplasticity. Although preclinical studies are promising, there is a current lack of clinical trials. This review integrates current mechanistic insights with orthopaedic relevance, emphasizing safety, efficacy, and future directions for responsible integration into musculoskeletal care."
+  },
+  {
+   "pmid": "32342318",
+   "titel": "Functional Connectomic Approach to Studying Selank and Semax Effects",
+   "jahr": "2020",
+   "journal": "Dokl Biol Sci",
+   "erstautor": "Panikratova YR",
+   "doi": "10.1134/S001249662001007X",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The present study was aimed at the assessment of effects of anxiolytic Selank and nootropic Semax on the whole-brain resting-state functional connectivity (FC) of each of the predefined regions of interest (ROIs) in 52 healthy participants. The ROIs included amygdala (one of the key regions for the regulation of anxiety) and dorsolateral prefrontal cortex (DLPFC; the key region for executive functions, including working memory) in the right and left hemisphere. Resting-state fMRI was carried out three times, namely before, after 5 and 20 min of the injection of either Semax, or Selank, or placebo. Between-group alongwith between-condition differences were revealed in FC between the right amygdala and a region in fusiform, inferior and middle temporal as well as parahippocampal gyri in the right hemisphere. Post hoc analysis allowed us to define both general and specific effects of Selank and Semax on FC between the right amygdala and the right temporal cortex for the first time."
+  },
+  {
+   "pmid": "27921334",
+   "titel": "Synacton and individual activity of synthetic and natural corticotropins",
+   "jahr": "2017",
+   "journal": "J Mol Recognit",
+   "erstautor": "Vyunova TV",
+   "doi": "10.1002/jmr.2597",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Short endogenous peptides represent one of the most important constituents of the mammalian body's general regulatory system. Some synthesized analogs and modified natural peptides (eg, corticotropins) also show high biological activity. Nevertheless, the mechanism of action of regulatory peptides remains unclear. To explain the effects of peptides of intermolecular processes, the hypothesis that a synactonal mechanism underlies the action of regulatory peptides, exemplified by the heptapeptide Semax, has been proposed. Thus, in the total pool of Semax metabolites, which includes the cleavage products of the parental molecule, we can distinguish the functional core, represented by the major metabolic products-peptides HFPGP and PGP. These peptides have their own binding sites with similar although differing characteristics. Together with Semax, they constitute a single complex of bioregulators acting in a certain sequence and in interaction, ie, synacton. It can be assumed that the diverse clinically significant effects of the drug Semax are determined by its synacton. Specific interactions between some tritium-labeled peptides (basic constituents of the Semax synacton) and plasma membranes of neurons have been characterized. Only a few peptides of the Semax synacton showed competitive activity for the Semax binding sites. Fragments comprising 5 amino acid residues (EHFPG and HFPGP) showed the highest competitive activity. We also characterized the processes of specific ligand-receptor interactions of some tritium-labeled corticotropins ([3 H-Pro]MEHFPGP, [3 H-Pro]HFPGP, and [3 H-Pro]PGP) by applying mathematical discriminative models (Scatchard, Hill, Bjerrum, and Lineweaver-Burk plots). So the intermolecular interactions of these peptides with plasma membranes of neuronal brain targets are probably not limited by specific binding at orthosteric sites. The effect of peptides that act in the synacton considerably extends the regulatory potential of the initial molecule."
+  },
+  {
+   "pmid": "35080861",
+   "titel": "Semax, a Synthetic Regulatory Peptide, Affects Copper-Induced Abeta Aggregation and Amyloid Formation in Artificial Membrane Models",
+   "jahr": "2022",
+   "journal": "ACS Chem Neurosci",
+   "erstautor": "Sciacca MFM",
+   "doi": "10.1021/acschemneuro.1c00707",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Alzheimer's disease, the most common form of dementia, is characterized by the aggregation of amyloid beta protein (Aβ). The aggregation and toxicity of Aβ are strongly modulated by metal ions and phospholipidic membranes. In particular, Cu2+ ions play a pivotal role in modulating Aβ aggregation. Although in the last decades several natural or synthetic compounds were evaluated as candidate drugs, to date, no treatments are available for the pathology. Multifunctional compounds able to both inhibit fibrillogenesis, and in particular the formation of oligomeric species, and prevent the formation of the Aβ:Cu2+ complex are of particular interest. Here we tested the anti-aggregating properties of a heptapeptide, Semax, an ACTH-like peptide, which is known to form a stable complex with Cu2+ ions and has been proven to have neuroprotective and nootropic effects. We demonstrated through a combination of spectrofluorometric, calorimetric, and MTT assays that Semax not only is able to prevent the formation of Aβ:Cu2+ complexes but also has anti-aggregating and protective properties especially in the presence of Cu2+. The results suggest that Semax inhibits fiber formation by interfering with the fibrillogenesis of Aβ:Cu2+ complexes."
+  },
+  {
+   "pmid": "30225715",
+   "titel": "Effects of Semax on the Default Mode Network of the Brain",
+   "jahr": "2018",
+   "journal": "Bull Exp Biol Med",
+   "erstautor": "Lebedeva IS",
+   "doi": "10.1007/s10517-018-4234-3",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The effects of nootropic drug Semax on the neuronal network of the brain were studied by the resting state functional magnetic-resonance imaging (resting state fMRI). The study was carried out on two groups of healthy volunteers (11 men and 13 women aged 43.9±9.5 years). Resting state fMRI was carried out 3 times: directly before and 5 and 20 min after intranasal 1% Semax (14 subjects) or placebo (10 subjects). The topography of the resting state default mode network was studied. A greater volume of the default mode network rostral (medial frontal cortex) subcomponent was detected in the Semax group in comparison with controls. Resting state fMRI confirmed Semax effects on the neuronal network of the brain and demonstrated topography of these effects."
+  },
+  {
+   "pmid": "41171324",
+   "titel": "The Effect of Peptide Semax, an ACTH(4-10) Analogue, on Intracellular Calcium Dynamics in Rat Brain Neurons",
+   "jahr": "2025",
+   "journal": "Bull Exp Biol Med",
+   "erstautor": "Kolbaev SN",
+   "doi": "10.1007/s10517-025-06501-z",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "We studied the effects of Semax on spontaneous fluctuations of intracellular calcium ion concentration [Ca2+]i in pyramidal neurons on hippocampal slices and on proton-induced increase in [Ca2+]i in cerebellar granule cells in cerebellar slices. Application of Semax (1 μM), significantly increased the frequency of spontaneous [Ca2+]i fluctuations in the pyramidal layer cells of the hippocampal CA1 field, but had no significant effect on proton-stimulated increase in [Ca2+]i in cerebellar granule cells. These data provide insight into the localization of cellular targets and elucidate the dynamics of the initial stages of interaction between the peptide and the hippocampal neuronal network. The primary mechanism of the neuroprotective effect of Semax appears to be unrelated to attenuation of calcium entry through acid-sensing ion channels in cerebellar granule cells."
+  },
+  {
+   "pmid": "28514338",
+   "titel": "[A comparative chemoreactome analysis of mexidol]",
+   "jahr": "2017",
+   "journal": "Zh Nevrol Psikhiatr Im S S Korsakova",
+   "erstautor": "Torshin IY",
+   "doi": "10.17116/jnevro20171171275-84",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "AIM: To compare mexidol with control molecules (choline alfoscerate, piracetam, glycine, semax) using chemoreactome analysis. MATERIAL AND METHODS: The chemical structure of mexidol was compared to molecule metabolites extracted from the Human Metabolome Database (HMDB) and a drug database. More than 40 000 of metabolites from HMDB were used as a model of human metabolome. RESULTS AND CONCLUSION: The chemoreactome analysis showed that mexidol may be (1) an agonist of acetylcholine and GABA-A receptors; (2) an anti-inflammatory agent, the effects of which are carried out by inhibiting the synthesis of pro-inflammatory prostaglandins; (3) a neurotrophic agent with neuroprotective properties; (4) a coagulation inhibitor; (5) a diabetes medication and (6) a hypolipidemic agent. Compared to 'control' molecules, mexidol has a more pronounced safety profile (a lower impact on serotonin, dopamine and adrenergic receptors, a lesser degree of interaction with the potassium channels of the heart, MAO and P450 cytochromes). The results of modeling allow to specify the mechanisms of action of mexidol at the molecular level. Цель исследования. Сравнительный хемореактомный анализ молекулы мексидола (этилметилгидроксипиридина сукцинат) с контрольными молекулами (холина альфосцерат, пирацетам, глицин, семакс). Материал и методы. Проведены сравнения химической структуры мексидола с молекулами в базе данных метаболо́ма человека и молекулами в базах данных лекарственных средств. В качестве модели метаболома человека использованы более 40 000 соединений, приведенных в базе HMDB (Human Metabolome Database). Результаты и заключение. Хемореактомный анализ показал, что мексидол может являться агонистом ацетилхолиновых и ГАМК-A рецепторов; противовоспалительным агентом, эффекты которого происходят за счет ингибирования синтеза провоспалительных простагландинов; нейропротективным агентом с нейротрофическими свойствами; ингибитором коагуляции; сахароснижающим и гиполипидемическим средством. От молекул сравнения мексидол отличает более выраженный профиль безопасности (меньшее воздействие на серотониновые, дофаминовые и адренергические рецепторы, меньшая степень взаимодействия с калиевыми каналами сердца, ферментами МАО и цитохромами Р450). Результаты моделирования позволяют на молекулярном уровне уточнить механизм действия молекулы мексидола."
+  },
+  {
+   "pmid": "40692165",
+   "titel": "Semax peptide targets the μ opioid receptor gene Oprm1 to promote deubiquitination and functional recovery after spinal cord injury in female mice",
+   "jahr": "2025",
+   "journal": "Br J Pharmacol",
+   "erstautor": "Liu R",
+   "doi": "10.1111/bph.70122",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND AND PURPOSE: Lysosomal membrane permeabilization (LMP) is exacerbated following spinal cord injury (SCI), leading to increased neuronal cell death. Ubiquitination may affect LMP by regulating the stability and functionality of lysosomal membranes. Semax, a synthetic heptapeptide, comprising the ACTH (4-7) fragment and a C-terminal Pro-Gly-Pro tripeptide, exhibits neuroprotective properties and improves cognitive function. Given the key roles of LMP and ubiquitination in SCI pathophysiology, this study investigated how Semax could modulate these pathways to affect functional recovery following SCI. EXPERIMENTAL APPROACH: An SCI mouse model was generated by impacting the spinal cord of female C57BL/6 mice at T9-T10. Functional recovery in SCI mice was evaluated using histochemical methods, along with footprint analysis, Basso scores and inclined plane tests. Marker levels and distributions in the SCI model and in the PC12 cell neuroinflammation model were analysed using immunofluorescence, Western blot, RT-qPCR and transmission electron microscopy. RNA sequencing, network pharmacology and molecular docking were used to identify possible molecular targets of Semax. KEY RESULTS: Semax improved SCI functional recovery and inhibited LMP-related pyroptosis in SCI mice and neuroinflammation models, by decreasing oxidative stress. RNA-seq and other analyses found that Semax regulated the ubiquitin specific protease USP18. USP18 knockdown confirmed Semax's role in SCI recovery. Network pharmacology and docking revealed the μ-opioid receptor as a Semax target. CONCLUSION AND IMPLICATIONS: Semax promoted SCI functional recovery by targeting μ-opioid receptors, which regulated USP18 and, subsequently, deubiquitination of the fat mass and obesity-associated protein (FTO), suggesting its potential for SCI treatment."
+  },
+  {
+   "pmid": "22803132",
+   "titel": "Semax attenuates the influence of neonatal maternal deprivation on the behavior of adolescent white rats",
+   "jahr": "2012",
+   "journal": "Bull Exp Biol Med",
+   "erstautor": "Volodina MA",
+   "doi": "10.1007/s10517-012-1574-2",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Maternal deprivation in the early postnatal period significantly affects the behavior and development of different animals. Here we studied delayed effects of daily maternal deprivation (5 h/day) on physical development and behavior of white rats during postnatal days 1 to 14. Here we studied the possibility of reducing the negative consequences of deprivation by daily intranasal treatment with Semax, an analog of ACTH(4-10), in a dose of 0.05 mg/kg from postnatal days 15 to 28. It was found that maternal deprivation decelerated the growth of young rats, boosted physical activity and emotional reactivity in novel environment, and increased anxiety in one-month-old animals. Semax weakened the impact of deprivation on animal body weight and normalized the levels of anxiety in rats."
+  },
+  {
+   "pmid": "24661604",
+   "titel": "The peptide semax affects the expression of genes related to the immune and vascular systems in rat brain focal ischemia: genome-wide transcriptional analysis",
+   "jahr": "2014",
+   "journal": "BMC Genomics",
+   "erstautor": "Medvedeva EV",
+   "doi": "10.1186/1471-2164-15-228",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: The nootropic neuroprotective peptide Semax (Met-Glu-His-Phe-Pro-Gly-Pro) has proved efficient in the therapy of brain stroke; however, the molecular mechanisms underlying its action remain obscure. Our genome-wide study was designed to investigate the response of the transcriptome of ischemized rat brain cortex tissues to the action of Semax in vivo. RESULTS: The gene-expression alteration caused by the action of the peptide Semax was compared with the gene expression of the \"ischemia\" group animals at 3 and 24 h after permanent middle cerebral artery occlusion (pMCAO). The peptide predominantly enhanced the expression of genes related to the immune system. Three hours after pMCAO, Semax influenced the expression of some genes that affect the activity of immune cells, and, 24 h after pMCAO, the action of Semax on the immune response increased considerably. The genes implicated in this response represented over 50% of the total number of genes that exhibited Semax-induced altered expression. Among the immune-response genes, the expression of which was modulated by Semax, genes that encode immunoglobulins and chemokines formed the most notable groups. In response to Semax administration, 24 genes related to the vascular system exhibited altered expression 3 h after pMCAO, whereas 12 genes were changed 24 h after pMCAO. These genes are associated with such processes as the development and migration of endothelial tissue, the migration of smooth muscle cells, hematopoiesis, and vasculogenesis. CONCLUSIONS: Semax affects several biological processes involved in the function of various systems. The immune response is the process most markedly affected by the drug. Semax altered the expression of genes that modulate the amount and mobility of immune cells and enhanced the expression of genes that encode chemokines and immunoglobulins. In conditions of rat brain focal ischemia, Semax influenced the expression of genes that promote the formation and functioning of the vascular system.The immunomodulating effect of the peptide discovered in our research and its impact on the vascular system during ischemia are likely to be the key mechanisms underlying the neuroprotective effects of the peptide."
+  },
+  {
+   "pmid": "25464761",
+   "titel": "[Opposite Semax influence on conditioning and functional disturbances of avoidance responses in rats]",
+   "jahr": "2013",
+   "journal": "Zh Vyssh Nerv Deiat Im I P Pavlova",
+   "erstautor": "Inozemtsev AN",
+   "doi": "10.7868/s0044467713060063",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Semax effects on formation of active avoidance reaction in rats in different experimental models have been studied. It was shown that intraperitoneal Semax administration at a dose of 0.05 mg/kg accelerated acquisition of one-way active avoidance response when rats were trained to avoid electric foot-shock by jumping on the shelf. When rats were trained in shuttle-box the peptide increased the electroshock threshold value required to provocation of rat moving in experimental box and delayed acquisition of two-way active avoidance response. At the same time Semax stimulated avoidance response restoration in shuttle-box after functional disturbances induced by acute modification of cause-effect and spatial relationships in experimental environment. Data obtained support nootropic properties of Semax."
+  },
+  {
+   "pmid": "42021992",
+   "titel": "Therapeutic peptides in gerontology: mechanisms and applications for healthy aging",
+   "jahr": "2026",
+   "journal": "Front Aging",
+   "erstautor": "Mavrych V",
+   "doi": "10.3389/fragi.2026.1790247",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "BACKGROUND: Peptide therapeutics represent an emerging frontier in gerontological medicine, targeting fundamental hallmarks of aging including metabolic dysfunction, telomere attrition, tissue repair impairment, and hormonal decline. OBJECTIVE: To comprehensively review the mechanisms, clinical applications, evidence base, and safety profiles of therapeutic peptides with demonstrated or potential applications in healthy aging and age-related conditions. METHODS: A comprehensive narrative review was conducted through systematic searches of PubMed, Scopus, and regulatory databases (FDA, WADA) from inception through January 2026. Search terms included \"peptide therapeutics,\" \"aging,\" \"gerontology,\" \"healthspan,\" combined with specific peptide names (tirzepatide, epitalon, GHK-Cu, BPC-157, TB-500, Semax, CJC-1295, ipamorelin, bremelanotide). Peer-reviewed articles, clinical trials, regulatory documents, and preclinical studies were evaluated. A total of 20 primary sources were selected based on relevance, methodological quality, and contribution to understanding peptide mechanisms and clinical outcomes in aging populations. RESULTS: Nine peptides were identified spanning diverse aging interventions: metabolic restoration (tirzepatide), telomere biology (epitalon), dermal regeneration (GHK-Cu), tissue repair (BPC-157, TB-500), neuroprotection (Semax), growth hormone modulation (CJC-1295, ipamorelin), and sexual function (bremelanotide). FDA-approved agents demonstrated robust safety profiles from large-scale trials. Non-approved peptides showed promising preclinical and limited clinical evidence but lack long-term safety data and systematic validation. Significant knowledge gaps include optimal dosing regimens, combination therapy effects, and biomarkers for monitoring efficacy. CONCLUSION: Therapeutic peptides offer mechanistically diverse approaches to multiple aging hallmarks. While FDA-approved agents demonstrate clinical potential, investigational peptides require rigorous validation through well-designed clinical trials to establish safety and efficacy for healthspan extension."
+  },
+  {
+   "pmid": "31325343",
+   "titel": "An integrated approach to study the molecular aspects of regulatory peptides biological mechanism",
+   "jahr": "2019",
+   "journal": "J Labelled Comp Radiopharm",
+   "erstautor": "Vyunova TV",
+   "doi": "10.1002/jlcr.3785",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "An integrated methodological approach to study the molecular aspects of short regulatory neuropeptides biological mechanism is proposed. The complex research is based on radioligand-receptor method of analysis and covers such points of peptides molecular activity as: specific binding of peptides to brain cells plasmatic membranes, formation of tissue specific synacton, influence of peptides (as allosteric modulators) on functionality of different neuroreceptors as well as delayed in time effects of peptides on receptor-binding activity of well-known neuroreceptor systems. Radiolabeled ligands in such complex study are the one of the best and precision instruments to uncover the molecular mechanism of multiple and multitarget biological effects of regulatory peptides. In this issue we used heptapeptide Semax as a model regulatory peptide, [3 H]Ach and [3 H]GABA as an effector molecules, and the rat model of stress-induced memory and behavior impairment as a morbid state. We showed the ability of Semax to modulate in a dose-dependent manner [3 H]Ach and [3 H]GABA specific binding to some of its corresponding receptors as well as to affect the number of [3 H]GABA specific binding places on rat neurons plasmatic membranes after complex stress exposure."
+  },
+  {
+   "pmid": "16996037",
+   "titel": "Semax, an analog of ACTH(4-10) with cognitive effects, regulates BDNF and trkB expression in the rat hippocampus",
+   "jahr": "2006",
+   "journal": "Brain Res",
+   "erstautor": "Dolotov OV",
+   "doi": "10.1016/j.brainres.2006.07.108",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The heptapeptide Semax (Met-Glu-His-Phe-Pro-Gly-Pro) is an analog of the adrenocorticotropin fragment (4-10) which after intranasal application has profound effects on learning and exerts marked neuroprotective activities. Here, we found that a single application of Semax (50 microg/kg body weight) results in a maximal 1.4-fold increase of BDNF protein levels accompanying with 1.6-fold increase of trkB tyrosine phosporylation levels, and a 3-fold and a 2-fold increase of exon III BDNF and trkB mRNA levels, respectively, in the rat hippocampus. Semax-treated animals showed a distinct increase in the number of conditioned avoidance reactions. We suggest that Semax affects cognitive brain functions by modulating the expression and the activation of the hippocampal BDNF/trkB system."
+  },
+  {
+   "pmid": "35853762",
+   "titel": "Diagnostic Value of Different 3-D Shear Wave Elastography Sections in the Diagnosis of Thyroid Nodules",
+   "jahr": "2022",
+   "journal": "Ultrasound Med Biol",
+   "erstautor": "Hu Z",
+   "doi": "10.1016/j.ultrasmedbio.2022.05.036",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The aim of the study was to explore the value of 3-D shear wave elastography (SWE) in differentiating malignant from benign thyroid nodules. A total of 188 patients with 216 nodules who underwent conventional ultrasound, 2-D SWE and 3-D SWE were included in this study. All patients underwent surgical excision, and the pathological results were the gold standard. Receiver operating characteristic (ROC) curves of the American College of Radiology's Thyroid Imaging Reporting and Data System (ACR TI-RADS), 2-D SWE and 3-D SWE were plotted, and the areas under the curves (AUCs) were compared using a Z-test. There were 62 benign thyroid nodules and 154 malignant thyroid nodules in this study. Young's modulus (Emin, Emean, Emax, Esd) values of thyroid malignant nodules in different sections of 2-D SWE and 3-D SWE were significantly higher than those of thyroid benign nodules (p < 0.001). The AUC of Emax in 2-D SWE transverse sections was significantly lower than that in 3-D SWE transverse sections and 3-D SWE sagittal sections (0.768 vs. 0.831 and 0.844, p < 0.05). The AUC of 3-D S-Emax combined with ACR TI-RADS was 0.859; the specificity increased from 54.84% to 85.71%, and the diagnostic accuracy increased from 74.54% to 85.19%, compared with ACR TI-RADS. The difference was statistically significant (p < 0.05). Three-dimensional SWE combined with ACR TI-RADS for the diagnosis of thyroid nodules significantly improved the diagnostic ability of ACR TI-RADS, and was significantly better than 2-D SWE combined with ACR TI-RADS."
+  },
+  {
+   "pmid": "32621722",
+   "titel": "The Influence of Selank on the Level of Cytokines Under the Conditions of \"Social\" Stress",
+   "jahr": "2021",
+   "journal": "Curr Rev Clin Exp Pharmacol",
+   "erstautor": "Leonidovna YA",
+   "doi": "10.2174/1574884715666200704152810",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: It was previously thought that inflammation and an immune response were the only factors capable of causing IL-1β, IL-6 and other cytokine`s production. In recent years data have appeared that stressful effects can also occupy an important place, enhancing production of IL- 1β, IL-6 and other cytokines; the result will be a change in the functional activity of a particular cell element, for example immunocompetent cells with subsequent development of inflammation, or a change in the functional activity of neurons. This experiment is aimed at studying the effect of the Selank glyprolin neuropeptide drug on the level of cytokines in animals under conditions of \"social\" stress, the results of which indicate the presence of stress-protective activity. METHODS: White nonlinear rats were used as experimental animals. A model of confrontations between males was chosen to create a \"social\" stress. The animals were in pairs in a cage which were separated by a septum preventing physical contact but having openings that provide sensory contact. Each day, the septum was removed for 10 minutes leading in an overwhelming majority to agonistic collisions (confrontations). Laboratory animals were divided into 3 groups: a group of intact males, a group of animals that were subjected to stress (sensory contact) for 20 days and a group that received intraperitoneally Selank at a dose of 100 mcg/kg/day under conditions of 20-day stress. The level of cytokines under study was determined by enzyme-linked immunosorbent assay. RESULTS: As a result of the work performed to determine the concentration of pro-inflammatory and anti- inflammatory cytokines, it was found that in the serum of animals exposed to stress, there was a statistically significant increase in the level of IL-1β, IL-6 and TGF-β1 in individuals with both types of behavior. It should be noted that, under the conditions of this stressful impact, there was a tendency to decrease the concentration of IL-4 and increase the level of TNF-α but these indicators were not statistically significant. Evaluation of the effect of Semax on the level of the cytokines in a stress-induced state showed that this neuropeptide causes a decrease in the concentration of IL-1β and IL-6, restoration of the level of IL-4, as well as suppression of the production of TGF-β1 and TNF-α in these conditions. CONCLUSION: This peptide is able to reduce the concentration of IL-1β, IL-6 and TNF-α, as well as TGF-β1, practically reaching control values, when studying the effect of Selank on the level of cytokines under conditions of \" social\" stress. There is the need for a detailed study of the role of cytokines in the development of stress-induced changes in order to find optimal correction tools."
+  },
+  {
+   "pmid": "28875850",
+   "titel": "Pharmacological Aspects of Neuro-Immune Interactions",
+   "jahr": "2018",
+   "journal": "Curr Pharm Des",
+   "erstautor": "Tarasov VV",
+   "doi": "10.2174/1381612823666170829135115",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "The use of systematic approach for the analysis of mechanism of action of drugs at different levels of biological organization of organisms is an important task in experimental and clinical pharmacology for drug designing and increasing the efficacy and safety of drugs. The analysis of published data on pharmacological effects of psychotropic drugs possessing immunomodulatory and/or antiviral properties have shown a correlation between central effects of examined drugs associated with the impact on the processes of neurogenesis of adult brain and survival of neurons, and their ability to alter levels of key proinflammatory cytokines. The changes that occur as a result of the influence of pharmacological agents at one of the systems should inevitably lead to the functional reorganization at another. Integrative mechanisms underlying the neuro-immune interactions may explain the \"pleiotropic\" pharmacological effects of some antiviral and immunomodulatory drugs. Amantadine, which was originally considered as an antiviral agent, was approved as anti-parkinsonic drug after its wide medical use. The prolonged administration of interferon alpha caused depression in 30-45% of patients, thus limiting its clinical use. The antiviral drug \"Oseltamivir\" may provoke the development of central side effects, including abnormal behavior, delirium, impaired perception and suicides. Anti-herpethetical drug \"Panavir\" shows pronounced neuroprotective properties. The purpose of this review is to analyze the experimental and clinical data related to central effects of drugs with antiviral or/and immunotropic activity, and to discover the relationship of these effects with changes in reactivity of immune system and proinflammatory response."
+  },
+  {
+   "pmid": "16082427",
+   "titel": "Gateways to clinical trials",
+   "jahr": "2005",
+   "journal": "Methods Find Exp Clin Pharmacol",
+   "erstautor": "Bayes M",
+   "doi": "",
+   "typ": [
+    "Bibliography",
+    "Journal Article"
+   ],
+   "abstract": "Gateways to Clinical Trials is a guide to the most recent clinical trials in current literature and congresses. The data in the following tables have been retrieved from the Clinical Trials Knowledge Area of Prous Science Integrity, the drug discovery and development portal, http://integrity.prous.com. This issue focuses on the following selection of drugs: 3-AP, Adalimumab, adefovir dipivoxil, AeroDose albuterol inhaler, agalsidase alfa, alemtuzumab, aminolevulinic acid methyl ester, anidulafungin, anthrax vaccine, anti-CTLA-4 MAb, azimilide hydrochloride; Bevacizumab, BG-12, bimatoprost, bortezomib, bosentan, botulinum toxin type B; Caspofungin acetate, ceftobiprole, certolizumab pegol, CG-53135, cilansetron; Darbepoetin alfa, degarelix acetate, dimethylfumarate, duloxetine hydrochloride, dutasteride; Eicosapentaenoic acid/docosahexaenoic acid, eletriptan, entecavir, esomeprazole magnesium, exatecan mesilate, exenatide, ezetimibe; Falecalcitriol, fampridine, fondaparinux sodium, fontolizumab; Gefitinib, gepirone hydrochloride; Human insulin; IDEA-070, imatinib mesylate, iodine (I131) tositumomab; Lanthanum carbonate, lubiprostone; Mafosfamide cyclohexylamine salt, melatonin; NC-531, nemifitide ditriflutate, neridronic acid, nolatrexed dihydrochloride; Oral insulin; Palifermin, parecoxib sodium, PEG-filgrastim, peginterferon alfa-2a, peginterferon alfa-2b, plerixafor hydrochloride, posaconazole, pramlintide acetate, pregabalin, PT-141; Quercetin; Ranibizumab, renzapride hydrochloride, RSD-1235; Sabarubicin hydrochloride, semapimod hydrochloride, Semax, SHL-749; Tegaserod maleate, tenatoprazole, tetrodotoxin, tolevamer sodium, trabectedin, travoprost, travoprost/timolol; Valdecoxib, visilizumab, Xcellerated T cells, XP-828L; Zoledronic acid monohydrate."
+  },
+  {
+   "pmid": "36083821",
+   "titel": "[Results of the application of complex physiotherapeutic neurostimulation in optical neuropathies of various genesis]",
+   "jahr": "2022",
+   "journal": "Vopr Kurortol Fizioter Lech Fiz Kult",
+   "erstautor": "Dragon AK",
+   "doi": "10.17116/kurort20229904272",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "UNLABELLED: Optical neuropathies (ON) are the outcome of many diseases of various origins. The main ones are classified as inflammatory, vascular and traumatic ON. ON lead to subatrophy of the optic nerve, but even after the completion of treatment, it is possible to improve visual functions by using physiotherapeutic means of ophthalmic rehabilitation. OBJECTIVE: To evaluate the effectiveness of complex physiotherapeutic neuro-ophthalmostimulation in case of ON of vascular origin. MATERIAL AND METHODS: The study included 60 patients (120 eyes) with a verified diagnosis of optic neuropathy of vascular origin, who were divided into 2 groups comparable in age, gender and anatomical and functional characteristics: the main group of 30 patients (60 eyes) and the control group - 30 patients (60 eyes), including 24 men and 36 women, mean age was 66.2±4.1 years, disease duration was 4.1±1.7 years. All patients underwent courses of conservative treatment with vitamins according to the available ophthalmological standards, repeating them 1-2 times a year, the last of which was six months before the present study. Physiotherapy courses and patients did not pass. 20 healthy volunteers were taken to create basic indicators of the «norm» of the applied research methods. Patients of the main group used a set of procedures: transcranial magnetic electrical stimulation, endonasal electrophoresis with the drug neuroprotector Semax 0.1%, oxybaric chamber and acupuncture. Patients in the control group were prescribed basic therapy, including taking the vitamin complex BEROCCA for 3 months. Breakpoints: before treatment and at times: 1st week, 12 weeks and 24 weeks after the course of treatment, according to the standard recommendations for international multicenter studies. The following were assessed: visual field boundaries (dilation meridians; in deg.), light sensitivity (MS, MD; in dB), indicators of the state of the retinal ganglion layer (GCS thickness, volume loss): Avg CCG (in µm), FLV, GLV (in %). RESULTS: When evaluating the results in patients of the main group who received complex neurostimulation, the therapeutic efficacy in a week after the end of treatment was 94%, in 12 weeks - in 88% and in 24 weeks - 83%, while in patients of the control group for all studied indicators showed only a positive trend and therapeutic efficacy did not exceed 30-42%. CONCLUSION: Under the influence of the developed neurostimulating complex, the activity of nerve cells objectively increases, leading to a significant increase in the boundaries of the field of view and light sensitivity and a decrease in global losses of the retinal ganglion complex and optic nerve. UNLABELLED: Оптические нейропатии (ОН) являются исходом многих заболеваний различного генеза. Наиболее часто встречаются воспалительные, сосудистые и травматические ОН. ОН приводят к субатрофии зрительного нерва, однако даже после завершения основного лечения возможно улучшить зрительные функции с помощью метода физиотерапевтической офтальмореабилитации. ЦЕЛЬ ИССЛЕДОВАНИЯ: Оценка эффективности комплексной физиотерапевтической нейроофтальмостимуляции при ОН сосудистого генеза. МАТЕРИАЛ И МЕТОДЫ: В исследование включили 60 пациентов (120 глаз) с верифицированным диагнозом: «ОН сосудистого генеза». Пациенты были разделены на 2 сопоставимые по возрасту, полу и анатомо-функциональным характеристикам группы: основную группу — 30 пациентов (60 глаз) и контрольную группу — 30 пациентов (60 глаз). Среди пациентов были 24 мужчины и 36 женщин, средний возраст составил 66,2±4,1 года, длительность заболевания — 4,1±1,7 года. Все пациенты проходили курсы консервативного лечения витаминами по имеющимся офтальмологическим стандартам 1—2 раза в год (последний курс за полгода до исследования) без курсов физиотерапии. Для создания базовых показателей «нормы» были использованы данные 20 здоровых добровольцев. Больные основной группы получали комплексное лечение: транскраниальную магнито- и электростимуляцию, электрофорез эндоназальный с нейропротектором Семакс 0,1%, процедуры в оксибарокамере и иглорефлексотерапию. Больным контрольной группы проводили базовую терапию, включающую прием витаминного комплекса Берокка в течение 3 мес, которая служила фоном в основной группе. Контрольные точки (до лечения, через 1; 12 и 24 нед после курса лечения) определяли согласно стандартным рекомендациям для международных многоцентровых исследований. Оценивали границы поля зрения (меридианы расширения; в град.), световую чувствительность (MS, MD; в дБ), показатели состояния ганглиозного слоя сетчатки: толщину ганглиозного комплекса сетчатки (Avg CCG; в мкм), фокальную и глобальную потерю объема (FLV, GLV; в %). РЕЗУЛЬТАТЫ: У пациентов основной группы, получавших комплексную нейростимуляцию, терапевтическая эффективность через 1 нед после окончания лечения составила 94%, через 12 нед — 88% и через 24 нед — 83%, в то время как у пациентов контрольной группы по всем изучаемым показателям отмечалась лишь положительная тенденция, а терапевтическая эффективность не превышала 30—42%. ВЫВОД: Под влиянием разработанного нейростимулирующего комплекса объективно повышается активность нервных клеток, приводящая к значительному увеличению границ поля зрения и световой чувствительности и уменьшению глобальных потерь ганглиозного комплекса сетчатки и зрительного нерва."
+  },
+  {
+   "pmid": "15341218",
+   "titel": "The neuroprotective effects of Semax in conditions of MPTP-induced lesions of the brain dopaminergic system",
+   "jahr": "2004",
+   "journal": "Neurosci Behav Physiol",
+   "erstautor": "Levitskaya NG",
+   "doi": "10.1023/b:neab.0000018752.59465.28",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "This report describes studies cf the effects of the ACTH(4-10) analog Semax (MEHFPGP) on the behavior of white rats with lesions to the brain dopaminergic system induced by the neurotoxin MPTP. Neurotoxin was given as single i.p. doses of 25 mg/kg. Neurotoxin injections were shown to decrease movement activity and increase anxiety in the animals. Daily intranasal administration of Semax at a dose of 0.2 mg/kg decreased the severity of MPTP-induced behavioral disturbances. The protective activity of Semax in MPTP-induced lesions of the brain dopaminergic system may be associated with both its modulating effect on the dopaminergic system and the neurotrophic action of the peptide."
+  },
+  {
+   "pmid": "23821048",
+   "titel": "Semax corrects brain dysfunction caused by prenatal introduction of valproic acid",
+   "jahr": "2013",
+   "journal": "Dokl Biol Sci",
+   "erstautor": "Malyshev AV",
+   "doi": "10.1134/S0012496613030046",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "34201112",
+   "titel": "Brain Protein Expression Profile Confirms the Protective Effect of the ACTH((4-7))PGP Peptide (Semax) in a Rat Model of Cerebral Ischemia-Reperfusion",
+   "jahr": "2021",
+   "journal": "Int J Mol Sci",
+   "erstautor": "Sudarkina OY",
+   "doi": "10.3390/ijms22126179",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The Semax (Met-Glu-His-Phe-Pro-Gly-Pro) peptide is a synthetic melanocortin derivative that is used in the treatment of ischemic stroke. Previously, studies of the molecular mechanisms underlying the actions of Semax using models of cerebral ischemia in rats showed that the peptide enhanced the transcription of neurotrophins and their receptors and modulated the expression of genes involved in the immune response. A genome-wide RNA-Seq analysis revealed that, in the rat transient middle cerebral artery occlusion (tMCAO) model, Semax suppressed the expression of inflammatory genes and activated the expression of neurotransmitter genes. Here, we aimed to evaluate the effect of Semax in this model via the brain expression profiling of key proteins involved in inflammation and cell death processes (MMP-9, c-Fos, and JNK), as well as neuroprotection and recovery (CREB) in stroke. At 24 h after tMCAO, we observed the upregulation of active CREB in subcortical structures, including the focus of the ischemic damage; downregulation of MMP-9 and c-Fos in the adjacent frontoparietal cortex; and downregulation of active JNK in both tissues under the action of Semax. Moreover, a regulatory network was constructed. In conclusion, the suppression of inflammatory and cell death processes and the activation of recovery may contribute to the neuroprotective action of Semax at both the transcriptome and protein levels."
+  },
+  {
+   "pmid": "23652441",
+   "titel": "Stability of Semax acetyl to proteolysis in various biological media",
+   "jahr": "2013",
+   "journal": "Dokl Biol Sci",
+   "erstautor": "Shevchenko KV",
+   "doi": "10.1134/S0012496613020166",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "34707903",
+   "titel": "A Mouse Model of Nigrostriatal Dopaminergic Axonal Degeneration As a Tool for Testing Neuroprotectors",
+   "jahr": "2021",
+   "journal": "Acta Naturae",
+   "erstautor": "Kolacheva AA",
+   "doi": "10.32607/actanaturae.11433",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Degeneration of nigrostriatal dopaminergic neurons in Parkinson's disease begins from the axonal terminals in the striatum and, then, in retrograde fashion, progresses to the cell bodies in the substantia nigra. Investigation of the dynamics of axonal terminal degeneration may help in the identification of new targets for neuroprotective treatment and be used as a tool for testing potential drugs. We have shown that the degeneration rate of dopaminergic axonal terminals changes over time, and that the striatal dopamine concentration is the most sensitive parameter to the action of 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP). This model was validated using neuroprotectors with well-known mechanisms of action: the dopamine transporter inhibitor nomifensine and SEMAX peptide that stimulates the secretion of endogenous neurotrophic factors or acts as an antioxidant. Nomifensine was shown to almost completely protect dopaminergic fibers from the toxic effect of MPTP and maintain the striatal dopamine concentration at the control level. However, SEMAX, slightly but reliably, increased striatal dopamine when administered before MPTP treatment, which indicates that it is more effective as an inductor of endogenous neurotrophic factor secretion rather than as an antioxidant."
+  },
+  {
+   "pmid": "18204410",
+   "titel": "Therapeutic possibility of \"Semax\" for depression",
+   "jahr": "2008",
+   "journal": "CNS Spectr",
+   "erstautor": "Pae CU",
+   "doi": "10.1017/s1092852900016102",
+   "typ": [
+    "Letter",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "16984088",
+   "titel": "Effects of semax against the background of dopaminergic receptor blockade with haloperidol",
+   "jahr": "2006",
+   "journal": "Bull Exp Biol Med",
+   "erstautor": "Sebentsova EA",
+   "doi": "10.1007/s10517-006-0119-y",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "We studied the neurotropic effects of ACTH(4-10) analog semax against the background of dopaminergic receptors blockade with haloperidol. Intranasal administration of semax (0.05, 0.2, and 0.6 mg/kg) produced virtually no effect on disturbances of orientation and exploratory reactions and motor activity caused by intraperitoneal injection of 0.2 mg/kg haloperidol. By contrast, preliminary administration of 0.05 mg/kg semax prevented haloperidol-induced disturbances in active avoidance conditioning."
+  },
+  {
+   "pmid": "36828803",
+   "titel": "Synthetic corticotropins and the GABA-receptor system: Direct and delayed effects",
+   "jahr": "2023",
+   "journal": "Chem Biol Drug Des",
+   "erstautor": "Vyunova TV",
+   "doi": "10.1111/cbdd.14221",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The central effectors of the stress system are greatly interconnected and include, among others, a large group of peptides derived from proopiomelanocortin. In addition to natural corticotropins, a number of artificial molecules that contain some ACTH fragments in their structure are also referred to members of this family. Some of them possess a wide range of biological activity. The molecular mechanism underlying the biological activity of such peptides is partly based on allosteric modulation of various receptors. We analyzed the ability of some biologically active synthetic corticotropins (ACTH(4-7)PGP, ACTH(6-9)PGP, ACTH(7-10)PGP), and glyproline PGPL to affect the GABA-receptor system of rat brain. The effects of the peptides were studied in the isolated plasma membranes of brain cells, as well as after systemic peptide administration in the rat model of acute restraint stress. The delayed effect of stress or preadministration of each of the studied peptides on [3 H]GABA binding was different for its high- and low-affinity-specific sites. The studied peptides individually affected the binding of [3 H]GABA in their own way. Acute restraint stress caused a decrease in [3 H]GABA binding at its low-affine site and did not affected the high-affine site. Preliminary peptide administration did not influence this effect of stress."
+  },
+  {
+   "pmid": "17278839",
+   "titel": "Specific binding of semax in different regions of the rat brain",
+   "jahr": "2006",
+   "journal": "Dokl Biol Sci",
+   "erstautor": "V'yunova TV",
+   "doi": "10.1134/s0012496606050085",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "16635254",
+   "titel": "Semax, an analogue of adrenocorticotropin (4-10), binds specifically and increases levels of brain-derived neurotrophic factor protein in rat basal forebrain",
+   "jahr": "2006",
+   "journal": "J Neurochem",
+   "erstautor": "Dolotov OV",
+   "doi": "10.1111/j.1471-4159.2006.03658.x",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The heptapeptide Semax (Met-Glu-His-Phe-Pro-Gly-Pro) is an analogue of the N-terminal fragment (4-10) of adrenocorticotropic hormone which, after intranasal application, has profound effects on learning and memory formation in rodents and humans, and also exerts marked neuroprotective effects. A clue to the molecular mechanism underlying this neurotropic action was recently given by the observation that Semax stimulates the synthesis of brain-derived neurotrophic factor (BDNF), a potent modulator of synaptic plasticity, in astrocytes cultured from rat basal forebrain. In the present study, we investigated whether Semax affects BDNF levels in rat basal forebrain upon intranasal application of the peptide. In addition, we examined whether cell membranes isolated from this brain region contained binding sites for Semax. The binding of tritium-labelled Semax was found to be time dependent, specific and reversible. Specific Semax binding required calcium ions and was characterized by a mean+/-SEM dissociation constant (KD) of 2.4+/-1.0 nm and a BMAX value of 33.5+/-7.9 fmol/mg protein. Sandwich immunoenzymatic analysis revealed that Semax applied intranasally at 50 and 250 microg/kg bodyweight resulted in a rapid increase in BDNF levels after 3 h in the basal forebrain, but not in the cerebellum. These results point to the presence of specific binding sites for Semax in the rat basal forebrain. In addition, these findings indicate that the cognitive effects exerted by Semax might be associated, at least in part, with increased BDNF protein levels in this brain region."
+  },
+  {
+   "pmid": "19633950",
+   "titel": "Semax and Pro-Gly-Pro activate the transcription of neurotrophins and their receptor genes after cerebral ischemia",
+   "jahr": "2010",
+   "journal": "Cell Mol Neurobiol",
+   "erstautor": "Dmitrieva VG",
+   "doi": "10.1007/s10571-009-9432-0",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Consisting of a fragment of ACTH(4-7) and C-terminal PGP tripeptide, the polypeptide Semax is successfully used for acute stroke therapy. Previous experiments showed rapid induction of Bdnf, Ngf, and TrkB expression in intact rat hippocampus following Semax treatment. To investigate the mRNA expression of neurotrophins and their receptors after treatment with either Semax or PGP, the rat brains were analyzed at three time points following a permanent middle cerebral artery occlusion (pMCAO). We have shown for the first time that both Semax and PGP activate the transcription of neurotrophins and their receptors in the cortex of rats subjected to pMCAO. The profiles of transcription alteration under PGP and Semax treatment were partially overlapped. Semax enhanced the transcription of Bdnf, TrkC, and TrkA 3 h after occlusion, Nt-3 and Ngf 24 h after occlusion, and Ngf 72 h after occlusion. PGP enhanced the transcription of Bdnf and TrkC 3 h after pMCAO and Ngf, TrkB, TrkC, and TrkA 24 h after pMCAO. The analysis of the transcription alterations under PGP and Semax treatment in the cortex of rats without surgery, sham-operated rats and rats subjected to pMCAO revealed that Semax selectively affected the transcription of neurotrophins and their receptors in the ischemic rat cortex, whereas the influence of PGP was mainly unspecific."
+  },
+  {
+   "pmid": "14556513",
+   "titel": "The heptapeptide SEMAX stimulates BDNF expression in different areas of the rat brain in vivo",
+   "jahr": "2003",
+   "journal": "Dokl Biol Sci",
+   "erstautor": "Dolotov OV",
+   "doi": "10.1023/a:1025177812262",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "32580520",
+   "titel": "Novel Insights into the Protective Properties of ACTH((4-7))PGP (Semax) Peptide at the Transcriptome Level Following Cerebral Ischaemia-Reperfusion in Rats",
+   "jahr": "2020",
+   "journal": "Genes (Basel)",
+   "erstautor": "Filippenkov IB",
+   "doi": "10.3390/genes11060681",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Cerebral ischaemia is the most common cause of impaired brain function. Biologically active peptides represent potential drugs for reducing the damage that occurs after ischaemia. The synthetic melanocortin derivative, ACTH(4-7)PGP (Semax), has been used successfully in the treatment of patients with severe impairment of cerebral blood circulation. However, its molecular mechanisms of action within the brain are not yet fully understood. Previously, we used the transient middle cerebral artery occlusion (tMCAO) model to study the damaging effects of ischaemia-reperfusion on the brain transcriptome in rats. Here, using RNA-Seq analysis, we investigated the protective properties of the Semax peptide at the transcriptome level under tMCAO conditions. We have identified 394 differentially expressed genes (DEGs) (>1.5-fold change) in the brains of rats at 24 h after tMCAO treated with Semax relative to saline. Following tMCAO, we found that Semax suppressed the expression of genes related to inflammatory processes and activated the expression of genes related to neurotransmission. In contrast, ischaemia-reperfusion alone activated the expression of inflammation-related genes and suppressed the expression of neurotransmission-related genes. Therefore, the neuroprotective action of Semax may be associated with a compensation of mRNA expression patterns that are disrupted during ischaemia-reperfusion conditions."
+  },
+  {
+   "pmid": "33459919",
+   "titel": "Morphofunctional State of the Large Intestine in Rats under Conditions of Restraint Stress and Administration of Peptide ACTH((4-7))-PGP (Semax)",
+   "jahr": "2021",
+   "journal": "Bull Exp Biol Med",
+   "erstautor": "Svishcheva MV",
+   "doi": "10.1007/s10517-021-05072-z",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "We studied the effect of intraperitoneal administration ACTH(4-7)-PGP in doses of 5, 50, 150, and 450 μg/kg to Wistar male rats 12-15 min before modeling restraint stress on the morphofunctional state of the colon. In rats exposed to restraint stress, signs of atrophy and inflammatory reaction in the colon wall, changes in functional activity and number of mast cells, and increased serum level of corticosterone were observed. Administration of the peptide led to a decrease in corticosterone concentration, alleviated stress-induced pathomorphological changes, and promoted adaptation of the intestinal wall to stress. The positive effects of ACTH(4-7)-PGP can be determined by multifunctional nature of the physiological and pharmacological effects of the neuropeptide."
+  },
+  {
+   "pmid": "8998343",
+   "titel": "[Study of the analgesic effect of the semax preparation]",
+   "jahr": "1996",
+   "journal": "Biull Eksp Biol Med",
+   "erstautor": "Koroleva MV",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "15678666",
+   "titel": "[An experimental substantiation for using the \"Semax\" neuroprotector in the treatment of optic-nerve diseases]",
+   "jahr": "2004",
+   "journal": "Vestn Oftalmol",
+   "erstautor": "Sheremet NL",
+   "doi": "",
+   "typ": [
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "In order to substantiate the feasibility of using the \"Semax\" neuroprotector in the treatment of optic-nerve diseases its pharmacokinetics in the intranasal administration was studied in experiments with rats; besides, the physical-and-chemical properties of \"Semax\" were investigated to define the preparation's stability and mobility in the electric field. A series of experiments, involving a tritium-marked \"Semax\", showed that the peptide actively penetrates into the brain and eyes of experimental animals after its intranasal administration. It was established, within a study aimed at determining the electrophoretic activity and stability of \"Semax\" in the electric field, that the preparation does not disintegrate in the electric field, it posses the electrophoretic mobility and moves, in the electric field, from plus to minus; therefore, the \"Semax\" solution must be fed from anode while making the electrophoresis procedure."
+  },
+  {
+   "pmid": "39767736",
+   "titel": "ACTH-like Peptides Compensate Rat Brain Gene Expression Profile Disrupted by Ischemia a Day After Experimental Stroke",
+   "jahr": "2024",
+   "journal": "Biomedicines",
+   "erstautor": "Filippenkov IB",
+   "doi": "10.3390/biomedicines12122830",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Background: Ischemic stroke results from a disruption of cerebral blood flow. Adrenocorticotropic hormone (ACTH) serves as the basis for the creation of synthetic peptides as neuroprotective agents for stroke therapy. Previously, using RNA-Seq we first revealed differential expressed genes (DEGs) associated with ACTH(4-7)PGP (Semax) and ACTH(6-9)PGP peptides under cerebral ischemia conditions. Analysis was carried out at 4.5 h after transient middle cerebral artery occlusion (tMCAO) model in the ipsilateral frontal cortex of a rat brain. Methods: Here, we analyzed the penumbra-associated frontal cortex of rats and actions under the same peptides at 24 h after tMCAO using RNA-Seq. Results: 3774 DEGs (fold change > 1.5 and Padj < 0.05) were identified under ischemia conditions, whereas 1539 and 2066 DEGs were revealed under Semax and ACTH(6-9)PGP peptides at 24 h after tMCAO. Furthermore, both peptides significantly reduced expression distortions caused by ischemia for 1171 genes associated with immune and neurosignaling pathways. Concomitantly, there were 32 DEGs under ACTH(6-9)PGP versus Semax administration at 24 h after tMCAO. Besides, neurogenesis-, angiogenesis-, protein kinase- and growth factor-related DEGs were revealed under peptides action. Previously, we observed the neuroprotective effect of peptides at the histological level in rat brains at 24 h after tMCAO. Thus, here we demonstrate the transcriptome manifestation of this histological effect. Furthermore, comparison with previous data at the 4.5 h post-tMCAO time point showed that the pattern of peptide action on the transcriptome depends on the time elapsed after tMCAO. Conclusions: We revealed that the effect of ACTH(6-9)PGP was more similar to Semax than different from it a day after tMCAO. At this time point, ACTH-like peptides compensated rat brain gene expression profiles disrupted by ischemia. Thus, our results may be useful for selecting more effective structures for future anti-stroke drugs and appropriate post-stroke time points for their testing."
+  },
+  {
+   "pmid": "41479572",
+   "titel": "The Potential of the Peptide Drug Semax and Its Derivative for Correcting Pathological Impairments in the Animal Model of Alzheimer's Disease",
+   "jahr": "2025",
+   "journal": "Acta Naturae",
+   "erstautor": "Radchenko AI",
+   "doi": "10.32607/actanaturae.27808",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Alzheimer's disease, first described over a century ago, is currently among the most common neurodegenerative diseases whose significance is increasingly growing with the aging of populations. Throughout the entire period of its study, no remedies have been found that would be effective in treating - or at least significantly slowing - the pathological process, while being sufficiently safe. In this regard, significant attention is paid to the development and application of natural peptide drugs lacking side effects. The present study assessed the effect of the known neuroprotective peptide Semax and its derivative on the behavioral characteristics and development of amyloidosis in transgenic APPswe/PS1dE9/Blg mice acting as a model of Alzheimer's disease. The open field, novel object recognition, and Barnes maze tests demonstrated that both Semax and its derivative improved cognitive functions in mice. Histological examination showed that these peptides reduced the number of amyloid inclusions in the cortex and hippocampus of the animals' brains. These findings demonstrate the high potential of Semax and its derivatives when used to develop therapeutic and corrective strategies for Alzheimer's disease."
+  },
+  {
+   "pmid": "11457573",
+   "titel": "Rapid induction of neurotrophin mRNAs in rat glial cell cultures by Semax, an adrenocorticotropic hormone analog",
+   "jahr": "2001",
+   "journal": "Neurosci Lett",
+   "erstautor": "Shadrina MI",
+   "doi": "10.1016/s0304-3940(01)01994-2",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The proliferation, differentiation and survival of neuronal and glial cells are affected by a number of neurotrophic factors, such as nerve growth factor (NGF), brain-derived neurotrophic factor (BDNF) and others. In a previous study, we observed the effects of 'Semax' (Met-Glu-His-Phe-Pro-Gly-Pro), the physiologically active analogue of adrenocorticotropic hormone(4--10), on neuronal cell survival in vitro. We hypothesized that these effects may be mediated by the regulation of expression of some neurotrophic factors. To test this hypothesis we analyzed NGF and BDNF gene expression in glial cells obtained from the basal forebrain of newborn rats, following in vitro treatment with 'Semax'. We observed changes in mRNA levels for both the NGF and BDNF genes. The greatest increase in expression was found after 30 min of 'Semax' administration. At this time, BDNF mRNA level was increased eight-fold in comparison with control, and NGF mRNA level was increased five-fold."
+  },
+  {
+   "pmid": "18274453",
+   "titel": "Expression changes caused by the peptide semax in the intracellular signal pathway genes in rat hippocamp",
+   "jahr": "2007",
+   "journal": "Dokl Biochem Biophys",
+   "erstautor": "Agapova TY",
+   "doi": "10.1134/s1607672907060129",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "12918351",
+   "titel": "Effects of Semax, a peptide ACTH4-10 analogue, on the respiratory burst in human neutrophils",
+   "jahr": "2001",
+   "journal": "Dokl Biol Sci",
+   "erstautor": "Astashkin EI",
+   "doi": "10.1023/a:1019239413480",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": ""
+  }
+ ],
+ "ctgov": [],
+ "gruppe": "D_gehirn_langlebigkeit"
+}

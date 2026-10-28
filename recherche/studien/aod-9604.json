@@ -1,0 +1,299 @@
+{
+ "name": "AOD-9604",
+ "status": "nicht_zugelassen",
+ "suchbegriff_pubmed": "AOD9604[tiab] OR AOD-9604[tiab]",
+ "suchbegriff_ctgov": "AOD9604",
+ "humanstudien_alle": [],
+ "humanstudien_detail": [],
+ "metaanalysen": [],
+ "praeklinik": [
+  {
+   "pmid": "41490200",
+   "titel": "Therapeutic Peptides in Orthopaedics: Applications, Challenges, and Future Directions",
+   "jahr": "2026",
+   "journal": "J Am Acad Orthop Surg Glob Res Rev",
+   "erstautor": "Rahman OF",
+   "doi": "10.5435/JAAOSGlobal-D-25-00236",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Therapeutic peptides are emerging as promising adjuncts in the management of orthopaedic injuries, grounded in their ability to modulate molecular signaling networks central to cellular medicine. By acting on key pathways such as PI3K/Akt, mTOR, MAPK, TGF-β, and AMPK, peptides exert influence over tissue regeneration, inflammation resolution, and neuromuscular recovery. Wound-healing peptides such as BPC-157, TB-500, and GHK-Cu promote angiogenesis, integrin-mediated extracellular matrix remodeling, and fibroblast activation, whereas growth hormone secretagogues like ipamorelin, CJC-1295, tesamorelin, sermorelin, and AOD-9604 activate IGF-1 signaling and satellite cell repair. Recovery-enhancing agents such as epithalon, delta sleep-inducing peptide, and pinealon target circadian and mitochondrial regulators, and neuroactive peptides like selank, semax, and dihexa enhance brain-derived neurotrophic factor and HGF/c-Met pathways critical to neuroplasticity. Although preclinical studies are promising, there is a current lack of clinical trials. This review integrates current mechanistic insights with orthopaedic relevance, emphasizing safety, efficacy, and future directions for responsible integration into musculoskeletal care."
+  },
+  {
+   "pmid": "41966639",
+   "titel": "Safety and Efficacy of Approved and Unapproved Peptide Therapies for Musculoskeletal Injuries and Athletic Performance",
+   "jahr": "2026",
+   "journal": "Sports Med",
+   "erstautor": "Mendias CL",
+   "doi": "10.1007/s40279-026-02437-0",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Peptides are short chains of amino acids with a unique pharmacological niche between small-molecule drugs and large proteins. Their use in sports medicine is rapidly expanding, driven by patient demand for accelerated injury recovery and performance enhancement. While numerous peptide drugs have undergone a rigorous approval process that evaluates both safety and efficacy, a parallel \"gray market\" of unapproved compounds has emerged, operating largely outside of regulatory oversight. Our objective is to present the pharmacological mechanisms, safety profiles, and regulatory status of prominent approved and unapproved peptides marketed direct to patients, including AOD-9604 (anti-obesity drug 9604), BPC-157 (body protection compound 157), CJC-1295, FS-344 (follistatin-344), GHK-Cu (glycyl-L-histidyl-L-lysine copper), ipamorelin, MOTS-C (mitochondrial ORF of the 12S rRNA type-c), sermorelin, SS-31 (elamipretide), tesamorelin (Egrifta), Tβ4 (thymosin beta-4), and TB-500 (thymosin beta-4 fragment). Many unapproved peptides demonstrate favorable tissue repair and metabolic outcomes in animal models, but rigorous human safety data are scarce, and there is potential for serious harm to patients. This narrative review focuses on the utilization of peptides in sports medicine, and alternative treatments that may be considered. We provide a framework to navigate patient discussions about peptides to better facilitate evidence-based practices for musculoskeletal healing and athletic performance. We also discuss the placebo effect as a mediator of peptide efficacy, and how social media amplifies this effect."
+  },
+  {
+   "pmid": "16625817",
+   "titel": "Obesity drugs in clinical development",
+   "jahr": "2006",
+   "journal": "Curr Opin Investig Drugs",
+   "erstautor": "Halford JC",
+   "doi": "",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "A number of anti-obesity drugs are currently undergoing clinical development. These include: (i) centrally-acting drugs, such as the noradrenergic and dopaminergic reuptake inhibitor radafaxine, the endocannabinoid antagonist rimonabant, the selective serotonin 5-HT2c agonist APD-356, and oleoyl-estrone; (ii) drugs that target peripheral episodic satiety signals, such as glucagon-like peptide-1 (exenatide, exenatide-LAR and liraglutide), peptide YY (intranasal PYY3-36 and AC-162325) and amylin (pramlintide); (iii) drugs that block fat absorption, such as the novel lipase inhibitors cetilistat and GT-389255; and (iv) a human growth hormone fragment (AOD-9604) that increases adipose tissue breakdown. Of these, only rimonabant has got as far as completing phase III clinical trials. This review will provide an overview of the most prominent drugs currently undergoing clinical development as potential anti-obesity therapies."
+  },
+  {
+   "pmid": "15134286",
+   "titel": "AOD-9604 Metabolic",
+   "jahr": "2004",
+   "journal": "Curr Opin Investig Drugs",
+   "erstautor": "Wilding J",
+   "doi": "",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Metabolic is developing AOD-9604 for the potential treatment of obesity. By February 2002, phase IIa trials were underway."
+  },
+  {
+   "pmid": "26578461",
+   "titel": "Simplifying and expanding the screening for peptides <2 kDa by direct urine injection, liquid chromatography, and ion mobility mass spectrometry",
+   "jahr": "2016",
+   "journal": "J Sep Sci",
+   "erstautor": "Thomas A",
+   "doi": "10.1002/jssc.201501060",
+   "typ": [
+    "Evaluation Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The analysis of low-molecular-mass peptides in doping controls has become a mandatory aspect in sports drug testing and, thus, the number of samples that has to be tested for these analytes has been steadily increasing. Several peptides <2 kDa with performance-enhancing properties are covered by the list of prohibited substances of the World Anti-Doping Agency including Desmopressin, LH-RH, Buserelin, Triptorelin, Leuprolide, GHRP-1, GHRP-2, GHRP-3, GHRP-4, GHRP-5,GHRP-6, Alexamorelin, Ipamorelin, Hexarelin, ARA-290, AOD-9604, TB-500 and Anamorelin. With the presented method employing direct urine injection into a liquid chromatograph followed by ion-mobility time-of-flight mass spectrometry, a facile, specific and sensitive assay for the aforementioned peptidic compounds is provided. The accomplished sensitivity allows for limits of detection between 50 and 500 pg/mL and thus covers the minimum required performance level of 2 ng/mL accordingly. The method is precise (imprecision <20%) and linear in the estimated working range between 0 and 10 ng/mL. The stability of the peptides in urine was tested, and -20°C was found to be the appropriate storage temperature for sports drug testing. Finally, proof-of-concept was shown by analysing elimination study urine samples collected from individuals having administered GHRP-6, GHRP-2, or LHRH."
+  },
+  {
+   "pmid": "14685303",
+   "titel": "Gateways to clinical trials",
+   "jahr": "2003",
+   "journal": "Methods Find Exp Clin Pharmacol",
+   "erstautor": "Bayes M",
+   "doi": "",
+   "typ": [
+    "Bibliography",
+    "Journal Article"
+   ],
+   "abstract": "Gateways to Clinical Trials is a guide to the most recent clinical trials in current literature and congresses. The data in the following tables has been retrieved from the Clinical Studies Knowledge Area of Prous Science Integrity, the drug discovery and development portal, http://integrity.prous.com. This issue focuses on the following selection of drugs: Abarelix, ABX-EGF, ademetionine, agomelatine, AMGN-0007, 9-aminocamptothecin, AN-9, anecortave acetate, anidulafungin, AOD-9604, apolizumab, apomate, L-arginine hydrochloride, arzoxifene hydrochloride; Bevacizumab, BP-897, BufferGel; Capravirine, carboxyamidotriazole, carnosine, CC-4047, CEP-701, cerivastatin sodium, clofarabine, conivaptan hydrochloride, CP-461, CS-003; Daptomycin, darifenacin, decitabine, deferasirox, duloxetine hydrochloride; Eberconazole, Ecyd, efalizumab, eglumegad hydrate, EMD-72000, (-)-epigallocatechin gallate, exatecan mesilate, exenatide; Fampridine, fenretinide, ferumoxtran-10; Gadofosveset sodium, garenoxacin mesilate, genistein, glutamine, GPI-15715; Hexyl insulin M2, human insulin, HYB-165; Indisulam, irofulven; KRN-5500, L-796568, laurocapram, lidocaine/prilocaine, lonafarnib, lotrafiban; Melagatran, melatonin, 2-methoxyestradiol, metreleptin, motexafin gadoliniu, motexafin lutetium; Natalizumab, nelarabine, NO-aspirin, NSC-683864; ONO-6126; Pemetrexed disodium, pexelizumab, pirfenidone, PncCRM9, polyglutamate paclitaxel, pramlintide acetate pregabalin, PRO-2000; Ragaglitazar, ramelteon, rasagiline mesilate, rDNA insulin, recombinant glucagon-like peptide-1 (7-36) amide, recombinant human parathyroid hormone (1-84), reolysin RG228, roflumilast, roxifiban acetate, RPI-4610, rubitecan; Safinamide mesilate, solifenacin succinate, SRL-172; T-138067, tafenoquine succinate, tecadenoson, TER-286, tesaglitazar, tetrathiomolybdate, tezosentan disodium, TheraCIM, tigecycline, tipifarnib, tolvaptan, trabectedin, tributyrin, trimegestone, troxacitabine; UCN-01, urokinase alfa; Vinflunine, viscum fraxini 2; Xcellerated T cells, ximelagatran."
+  },
+  {
+   "pmid": "14571286",
+   "titel": "Gateways to clinical trials",
+   "jahr": "2003",
+   "journal": "Methods Find Exp Clin Pharmacol",
+   "erstautor": "Bayés M",
+   "doi": "",
+   "typ": [
+    "Bibliography",
+    "Journal Article"
+   ],
+   "abstract": "Gateways to Clinical Trials is a guide to the most recent clinical trials in current literature and congresses. The data in the following tables has been retrieved from the Clinical Studies Knowledge Area of Prous Science Integrity, the drug discovery and development portal, http://integrity.prous.com. This issue focuses on the following selection of drugs: Abetimus sodium, adefovir dipivoxil, AGI-1067, alefacept, alemtuzumab, ALVAC-p53, aminolevulinic acid hydrochloride, aminolevulinic acid methyl ester, Anti-CTLA-4 Mab, AOD-9604, apafant, aprinocarsen sodium, arsenic trioxide; Balaglitazone, BIM-23190, bimatoprost, bortezomib, bosentan, BR-1; Canertinib dihydrochloride, CDP-850, cevimeline hydrochloride, cinacalcet hydrochloride, clenoliximab, clevudine, CN-787; D-003, darusentan, deferasirox, desloratadine dexanabinol, duloxetine hydrochloride; E-5564, edaravone, efaproxiral sodium, elvucitabine emfilermin, EN-101, enfuvirtide, entecavir, epithalon, eplerenone, erlotinib hydrochloride, escitalopram oxalate, esomeprazole magnesium, eszopiclone, etilefrine pivalate hydrochloride etoricoxib, everolimus, exenatide; Fidarestat, fondaparinux sodium; Ganstigmine hydrochloride; Homoharringtonine, HuMax-IL-15, hyperimmune IVIG; Imatinib mesylate, IMC-1C11, Inhaled insulin, irofulven, iseganan hydrochloride, ISIS-14803, ISIS-5132, ivabradine hydrochloride; Keratinocyte growth factor; Lafutidine, lanthanum carbonate, LAS-34475, levocetirizine, liraglutide, LY-307161 SR; Magnesium sulfate, maribavir, melatonin, mycobacterium cell wall complex; NN-414, NO-aspirin, nociceptin, nolomirole hydrochloride; Olmesartan medoxomil oral insulin, ospemifene; PDX, perillyl alcohol, pimecrolimus, pitavastatin calcium, pramlintide acetate, prasterone, pregabalin, PRO-542, PV-701, pyrazoloacridine; R-744, ranelic acid distrontium salt, rasburicase, rDNA insulin, resiniferatoxin, reslizumab, ridogrel, riplizumab ropivacaine, rosuvastatin calcium, roxifiban acetate, ruboxistaurin mesilate hydrate; Satraplatin, Sch-58500, semaxanib, sitaxsentan sodium, SMP-114, SU-6668; Teriparatide, tetrathiomolybdate, tipifarnib, tolvaptan, travoprost, treprostinil sodium; Valdecoxib, valganciclovir hydrochloride, vardenafil hydrochloride hydrate, vatalanib succinate; Ximelagatran; Z-335, ziprasidone hydrochloride, zoledronic acid monohydrate, ZYC-00101."
+  },
+  {
+   "pmid": "15834452",
+   "titel": "Gateways to clinical trials",
+   "jahr": "2005",
+   "journal": "Methods Find Exp Clin Pharmacol",
+   "erstautor": "Bayés M",
+   "doi": "",
+   "typ": [
+    "Bibliography",
+    "Journal Article"
+   ],
+   "abstract": "Gateways to Clinical Trials is a guide to the most recent clinical trials in current literature and congresses. The data in the following tables has been retrieved from the Clinical Trials Knowledge Area of Prous Science Integrity, the drug discovery and development portal, http://integrity. prous.com. This issue focuses on the following selection of drugs: ABX-IL-8, Acclaim, adalimumab, AGI-1067, alagebrium chloride, alemtuzumab, Alequel, Androgel, anti-IL-12 MAb, AOD-9604, aripiprazole, atomoxetine hydrochloride; Biphasic insulin aspart, bosentan, botulinum toxin type B, bovine lactoferrin, brivudine; Cantuzumab mertansine, CB-1954, CDB-4124, CEA-TRICOM, choriogonadotropin alfa, cilansetron, CpG-10101, CpG-7909, CTL-102, CTL-102/CB-1954; DAC:GRF, darbepoetin alfa, davanat-1, decitabine, del-1 Genemedicine, dexanabinol, dextofisopam, dnaJP1, dronedarone hydrochloride, dutasteride; Ecogramostim, eletriptan, emtricitabine, EPI-hNE-4, eplerenone, eplivanserin fumarate, erlotinib hydrochloride, ertapenem sodium, escitalopram oxalate, esomeprazole magnesium, etoricoxib, ezetimibe; Falecalcitriol, fingolimod hydrochloride; Gepirone hydrochloride; HBV-ISS, HSV-2 theracine, human insulin; Imatinib mesylate, Indiplon, insulin glargine, ISAtx-247; L612 HuMAb, levodopa/carbidopa/entacapone, lidocaine/prilocaine, LL-2113AD, lucinactant, LY-156735; Meclinertant, metelimumab, morphine hydrochloride, morphine-6-glucuronide; Natalizumab, nimotuzumab, NX-1207, NYVAC-HIV C; Omalizumab, onercept, osanetant; PABA, palosuran sulfate, parathyroid hormone (human recombinant), parecoxib sodium, PBI-1402, PCK-3145, peginterferon alfa-2a, peginterferon alfa-2b, peginterferon alfa-2b/ribavirin, pemetrexed disodium, pimecrolimus, PINC, pregabalin; Ramelteon, rasagiline mesilate, rasburicase, rimonabant hydrochloride, RO-0098557, rofecoxib, rosiglitazone maleate/metformin hydrochloride; Safinamide mesilate, SHL-749, sitaxsentan sodium, sparfosic acid, SprayGel, squalamine, St. John's Wort extract, synthetic human secretin; Taxus, telavancin hydrochloride, telithromycin, temoporfin, tenofovir disoproxil fumarate, tenofovir disoproxil fumarate/emtricitabine, teriparatide, testosterone gel, TG-1024, tirapazamine, travoprost, travoprost/timolol; Valdecoxib, valganciclovir hydrochloride, voriconazole; Ximelagatran."
+  },
+  {
+   "pmid": "22435392",
+   "titel": "Current updates in the medical management of obesity",
+   "jahr": "2012",
+   "journal": "Recent Pat Endocr Metab Immune Drug Discov",
+   "erstautor": "Khan A",
+   "doi": "10.2174/187221412800604644",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Obesity is a chronic medical condition that is expected to become an indirect but leading cause of mortality and morbidity. Obesity results in type 2 diabetes mellitus, insulin resistance, hypertension, dyslipidemia, coronary heart disease. These factors contribute to cardiovascular disease that is a leading cause of death. Therefore, the approach to obesity therapy should be designed to reduce cardiovascular disease risk and mortality. Diet and lifestyle changes remain the cornerstones of therapy for obesity, but the resultant weight loss is often small. For more effective weight loss, individuals have shown to benefit from anti-obesity medications. Anti-Obesity therapy is considered for individuals with a body mass index greater than 30 kg/m2 or ranging from 25 to 30 kg/m2, or individuals with co-morbid conditions. Recent anti-obese medications affect biological mechanisms that suppress appetite and absorb nutrients to regulate body weight. In this review, we discuss the FDA approved anti-obesity drugs and recent patents which include phentermine/topiramate, pramlintide, lorcaserin, AOD9604, oleoyl-estrone, trk-beta antagonists and melanin concentrating hormone that can reduce adiposity at the molecular level."
+  },
+  {
+   "pmid": "11146367",
+   "titel": "Metabolic studies of a synthetic lipolytic domain (AOD9604) of human growth hormone",
+   "jahr": "2000",
+   "journal": "Horm Res",
+   "erstautor": "Ng FM",
+   "doi": "10.1159/000053183",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "A synthetic analogue (AOD9604) of the lipolytic domain of human growth hormone (hGH) has been studied for its metabolic actions in obese Zucker rats. Daily treatment with an oral dose of AOD9604 of 500 microg/kg body weight for 19 days reduced over 50% (15.8 +/- 0.6 vs. 35.6 +/- 0.8 g) body weight gain of the animals in comparison with the control. The adipose tissues of the AOD9604--treated animals were found to have an increase in lipolytic activity. In contrast to chronic treatment with intact hGH, chronic treatment with AOD9604 showed no adverse effect on insulin sensitivity of the animals, as demonstrated with euglycemic clamp techniques. The results in the present study suggest that the analogue of the hGH lipolytic domain may have the potential to be developed into an orally usable and safe therapeutic agent for obesity."
+  },
+  {
+   "pmid": "25382550",
+   "titel": "Detecting peptidic drugs, drug candidates and analogs in sports doping: current status and future directions",
+   "jahr": "2014",
+   "journal": "Expert Rev Proteomics",
+   "erstautor": "Thevis M",
+   "doi": "10.1586/14789450.2014.965159",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "With the growing availability of mature systems and strategies in biotechnology and the continuously expanding knowledge of cellular processes and involved biomolecules, human sports drug testing has become a considerably complex field in the arena of analytical chemistry. Proving the exogenous origin of peptidic drugs and respective analogs at lowest concentration levels in biological specimens (commonly blood, serum and urine) of rather limited volume is required to pursue an action against cheating athletes. Therefore, approaches employing chromatographic-mass spectrometric, electrophoretic, immunological and combined test methods have been required and developed. These allow detecting the misuse of peptidic compounds of lower (such as growth hormone-releasing peptides, ARA-290, TB-500, AOD-9604, CJC-1295, desmopressin, luteinizing hormone-releasing hormones, synacthen, etc.), intermediate (e.g., insulins, IGF-1 and analogs, 'full-length' mechano growth factor, growth hormone, chorionic gonadotropin, erythropoietin, etc.) and higher (e.g., stamulumab) molecular mass with desired specificity and sensitivity. A gap between the technically possible detection and the day-to-day analytical practice, however, still needs to be closed."
+  },
+  {
+   "pmid": "25208511",
+   "titel": "Detection and in vitro metabolism of AOD9604",
+   "jahr": "2015",
+   "journal": "Drug Test Anal",
+   "erstautor": "Cox HD",
+   "doi": "10.1002/dta.1715",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Validation Study"
+   ],
+   "abstract": "AOD9604 is a peptide consisting of the C-terminal fragment of human growth hormone from amino acids 177-191 with an additional tyrosine residue at the N-terminus of the peptide. It is reported to mimic the lipolytic properties of growth hormone without the diabetogenic side effects. Therefore, AOD9604 may be used as a performance enhancing drug and is banned by the World Anti-doping Agency (WADA). The peptide is available on several Internet websites and was recently identified in confiscated vials in the USA. To detect abuse of the peptide in athletes, a solid-phase extraction method was validated in urine with a limit of detection of 50 pg/mL. The method has good linearity, precision (<20%), specificity and recovery (62%). Six potential metabolites of the peptide were identified after incubation of AOD9604 in serum and urine. Quantification of the metabolites in serum identified a single metabolite, consisting of amino acids CRSVEGSCG, which is significantly more stable than the other metabolites or the parent compound. Screening for AOD9604 and the stable metabolite may potentially allow an increased window of detection."
+  },
+  {
+   "pmid": "11673763",
+   "titel": "Increase of fat oxidation and weight loss in obese mice caused by chronic treatment with human growth hormone or a modified C-terminal fragment",
+   "jahr": "2001",
+   "journal": "Int J Obes Relat Metab Disord",
+   "erstautor": "Heffernan MA",
+   "doi": "10.1038/sj.ijo.0801740",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: To observe the chronic effects of human growth hormone (hGH) and AOD9604 (a C-terminal fragment of hGH) on body weight, energy balance, and substrate oxidation rates in obese (ob/ob) and lean C57BL/6Jmice. In vitro assays were used to confirm whether the effects of AOD9604 are mediated through the hGH receptor, and if this peptide is capable of cell proliferation via the hGH receptor. METHOD: Obese and lean mice were treated with hGH, AOD or saline for 14 days using mini-osmotic pumps. Body weight, caloric intake, resting energy expenditure, fat oxidation, glucose oxidation, and plasma glucose, insulin and glycerol were measured before and after treatment. BaF-BO3 cells transfected with the hGH receptor were used to measure in vitro 125I-hGH receptor binding and cell proliferation. RESULTS: Both hGH and AOD significantly reduced body weight gain in obese mice. This was associated with increased in vivo fat oxidation and increased plasma glycerol levels (an index of lipolysis). Unlike hGH, however, AOD9604 did not induce hyperglycaemia or reduce insulin secretion. AOD9604 does not compete for the hGH receptor and nor does it induce cell proliferation, unlike hGH. CONCLUSIONS: Both hGH and its C-terminal fragment reduce body weight gain, increase fat oxidation, and stimulate lipolysis in obese mice, yet AOD9604 does not interact with the hGH receptor. Thus, the concept of hGH behaving as a pro-hormone is further confirmed. This data shows that fragments of hGH can act in a manner novel to traditional hGH-stimulated pathways."
+  },
+  {
+   "pmid": "11713213",
+   "titel": "The effects of human GH and its lipolytic fragment (AOD9604) on lipid metabolism following chronic treatment in obese mice and beta(3)-AR knock-out mice",
+   "jahr": "2001",
+   "journal": "Endocrinology",
+   "erstautor": "Heffernan M",
+   "doi": "10.1210/endo.142.12.8522",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Both human GH (hGH) and a lipolytic fragment (AOD9604) synthesized from its C-terminus are capable of inducing weight loss and increasing lipolytic sensitivity following long-term treatment in mice. One mechanism by which this may occur is through an interaction with the beta-adrenergic pathway, particularly with the beta(3)-adrenergic receptors (beta(3)-AR). Here we describe how hGH and AOD9604 can reduce body weight and body fat in obese mice following 14 d of chronic ip administration. These results correlate with increases in the level of expression of beta(3)-AR RNA, the major lipolytic receptor found in fat cells. Importantly, both hGH and AOD9604 are capable of increasing the repressed levels of beta(3)-AR RNA in obese mice to levels comparable with those in lean mice. The importance of beta(3)-AR was verified when long-term treatment with hGH and AOD9604 in beta(3)-AR knock-out mice failed to produce the change in body weight and increase in lipolysis that was observed in wild-type control mice. However, in an acute experiment, AOD9604 was capable of increasing energy expenditure and fat oxidation in the beta(3)-AR knock-out mice. In conclusion, this study demonstrates that the lipolytic actions of both hGH and AOD9604 are not mediated directly through the beta(3)-AR although both compounds increase beta(3)-AR expression, which may subsequently contribute to enhanced lipolytic sensitivity."
+  },
+  {
+   "pmid": "26275694",
+   "titel": "Effect of Intra-articular Injection of AOD9604 with or without Hyaluronic Acid in Rabbit Osteoarthritis Model",
+   "jahr": "2015",
+   "journal": "Ann Clin Lab Sci",
+   "erstautor": "Kwon DR",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: To investigate the effects of AOD9604 intra-articular injections with or without hyaluronic acid (HA) in a collagenase-induced knee osteoarthritis (OA) rabbit model. DESIGN: Mature New Zealand white rabbits (n=32) were randomly administered 2 mg collagenase type II twice in each knee joint. Weekly injections of 0.6 mL saline (Group 1), 6 mg HA (Group 2), 0.25 mg AOD9604 (Group 3), and 0.25 mg AOD9604 with 6 mg HA (Group 4) were administered for 4-7 weeks after the first intra-articular collagenase injection. The degree of cartilage degeneration was assessed using morphological and histopathological findings, and the degree of lameness was observed at 8 weeks after the first collagenase injection. RESULTS: Mean gross morphological and histopathological scores were significantly higher in Group 1 than in Groups 2, 3, and 4, and the scores were significantly lower in Group 4 than in Groups 2 and 3. The lameness period in Group 4 was significantly shorter than those in Groups 1, 2, and 3. The lameness period in Group 1 was significantly longer than those in Groups 2 and 3. CONCLUSION: Intra-articular AOD9604 injections using ultrasound guidance enhanced cartilage regeneration, and combined AOD9604 and HA injections were more effective than HA or AOD9604 injections alone in the collagenase-induced knee OA rabbit model."
+  },
+  {
+   "pmid": "24976118",
+   "titel": "Identification and characterization of peptide drugs in unknown pharmaceutical preparations seized by the Belgian authorities: case report on AOD9604",
+   "jahr": "2014",
+   "journal": "Drug Test Anal",
+   "erstautor": "Vanhee C",
+   "doi": "10.1002/dta.1687",
+   "typ": [
+    "Letter"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "16931496",
+   "titel": "Potential role of new therapies in modifying cardiovascular risk in overweight patients with metabolic risk factors",
+   "jahr": "2006",
+   "journal": "Obesity (Silver Spring)",
+   "erstautor": "Jensen MD",
+   "doi": "10.1038/oby.2006.294",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "The serotonin, norepinephrine, dopamine, and endocannabinoid systems, as well as a host of other systems, mediate hunger and satiety signals. Weight loss agents that modulate appetite through pure central nervous system pathways (e.g., APD356, a selective serotonin receptor agonist) and peripheral signals to central nervous system pathways (e.g., cholecystokinin receptor agonists and ghrelin receptor antagonists) are in preclinical or early phase studies. Both devices and pharmacological compounds that facilitate weight loss and/or target multiple components of metabolic risk also are in development. One of the medications that has completed extensive phase III clinical trials and may become available in the foreseeable future is rimonabant, a selective cannabinoid 1-receptor antagonist. Drugs that improve adipose tissue function or fatty acid metabolism (e.g., AOD9604) also are in clinical trials. Some currently available medications may reduce metabolic complications without treating obesity per se (e.g., acipimox, pioglitazone). Surgically implanted gastric pacemaker systems that modulate vagus nerve activity and delay gastric emptying are under study."
+  },
+  {
+   "pmid": "24124033",
+   "titel": "AOD-9604 does not influence the WADA hGH isoform immunoassay",
+   "jahr": "2013",
+   "journal": "Drug Test Anal",
+   "erstautor": "Orlovius AK",
+   "doi": "10.1002/dta.1557",
+   "typ": [
+    "Letter",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "24906629",
+   "titel": "Analytical approaches for the detection of emerging therapeutics and non-approved drugs in human doping controls",
+   "jahr": "2014",
+   "journal": "J Pharm Biomed Anal",
+   "erstautor": "Thevis M",
+   "doi": "10.1016/j.jpba.2014.05.020",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "The number and diversity of potentially performance-enhancing substances is continuously growing, fueled by new pharmaceutical developments but also by the inventiveness and, at the same time, unscrupulousness of black-market (designer) drug producers and providers. In terms of sports drug testing, this situation necessitates reactive as well as proactive research and expansion of the analytical armamentarium to ensure timely, adequate, and comprehensive doping controls. This review summarizes literature published over the past 5 years on new drug entities, discontinued therapeutics, and 'tailored' compounds classified as doping agents according to the regulations of the World Anti-Doping Agency, with particular attention to analytical strategies enabling their detection in human blood or urine. Among these compounds, low- and high-molecular mass substances of peptidic (e.g. modified insulin-like growth factor-1, TB-500, hematide/peginesatide, growth hormone releasing peptides, AOD-9604, etc.) and non-peptidic (selective androgen receptor modulators, hypoxia-inducible factor stabilizers, siRNA, S-107 and ARM036/aladorian, etc.) as well as inorganic (cobalt) nature are considered and discussed in terms of specific requirements originating from physicochemical properties, concentration levels, metabolism, and their amenability for chromatographic-mass spectrometric or alternative detection methods."
+  },
+  {
+   "pmid": "42328738",
+   "titel": "Rapid and harmonized analytical workflow for the determination of peptidic and non-peptidic doping agents in dried and liquid blood matrices",
+   "jahr": "2026",
+   "journal": "Analyst",
+   "erstautor": "Mazzarino M",
+   "doi": "10.1039/d6an00455e",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Recently, methods for detecting small peptides in dried blood spots have been published. These procedures typically involve multiple sample preparation steps, resulting in labor-intensive and costly workflows. In the present study, we report a fast, streamlined, and harmonized analytical workflow to detect 54 prohibited peptidic and non-peptidic compounds in dried blood spots, serum, and plasma. Sample preparation is based on a single microextraction step using 500 µL of a methanol/water (8 : 2, v/v) mixture. Detection was performed using liquid chromatography coupled with high-resolution mass spectrometry. The validation results showed satisfactory performance with respect to selectivity (no interferences were detected at the retention times of the analytes), detection limits (0.05-1.25 ng mL-1), carry-over (no signals in the negative sample injected after the positive sample), matrix effect (5-33%), extraction yield (15-80%), and extract stability (the target analytes were stable for at least 72 h in the autosampler at 10 °C). The method was successfully applied to samples containing sub-ng levels of ibutamoren, confirming that the analytical procedure presented in this study is fit for purpose within the doping-control framework. Stability studies showed that all compounds were stable (variation lower than 15%) for at least two months at -20 °C in all the blood matrices considered. At 4 and 22 °C, alexamorelin, AOD9604, buserelin, hGH 176-191, kisspeptin-10 and LHRH were extensively degraded after one week in serum and plasma, whereas BPC-157, TB500, vasopressin, lypressin, and terlipressin showed complete degradation only in serum. In contrast, in dried matrices all compounds remained detectable throughout the entire duration of the study, indicating that samples can be transported and stored under non-refrigerated conditions, thereby reducing costs."
+  },
+  {
+   "pmid": "42395176",
+   "titel": "The emerging landscape of performance-enhancing peptides modulating GH-IGF1 axis: bridging the gap between clinical evidence and patient self-administration",
+   "jahr": "2026",
+   "journal": "Front Endocrinol (Lausanne)",
+   "erstautor": "Dominikowski A",
+   "doi": "10.3389/fendo.2026.1822475",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Performance-enhancing drugs (PEDs) marketed as \"research compounds\" include unregulated peptides intended to modulate the growth hormone-insulin-like growth factor-1 (GH-IGF-1) axis. The agents most commonly encountered in clinical practice and online self-administration protocols include growth hormone-releasing hormone (GHRH) analogues (e.g., sermorelin, tesamorelin, CJC-1295 with Drug Affinity Complex [DAC], CJC-1295 without DAC), growth hormone secretagogues (GHS; e.g., growth hormone-releasing peptide-2 (GHRP-2), growth hormone-releasing peptide-6 (GHRP-6), hexarelin, ipamorelin), the growth hormone (GH) fragment - AOD9604 (hGH 176-191), and insulin-like growth factor-1 (IGF-1) analogues (e.g., pegylated mechano growth factor (PEG-MGF), IGF-1 Long R3 (IGF-1 LR3)). Reported adverse effects span endocrine and metabolic disturbances (including prolactin and cortisol elevations, appetite changes, and dysglycaemia), fluid retention syndromes, musculoskeletal symptoms (myalgia/arthralgia), and injection-site reactions. Given the absence of regulatory approval for physique- or performance-related indications and the uncertainty surrounding product composition, dose, and stacking practices in unregulated supply chains, clinicians increasingly require a pragmatic framework to interpret symptoms and laboratory abnormalities in patients using these compounds. This narrative review contrasts peer-reviewed pharmacokinetic/pharmacodynamic and clinical evidence with commonly encountered online self-administration protocols, stratifying peptides into evidence tiers from regulatory-grade randomized trial data to a complete absence of human studies, and highlights the resulting uncertainty around putative performance and recomposition benefits. We summarise structural characteristics, pharmacologic effects, and commonly reported dosing patterns, and we synthesise clinically relevant adverse effects with particular attention to hormonal imbalance, endocrine-metabolic risk, and biologically plausible but unproven mitogenic concerns. Finally, we propose a clinically oriented assessment algorithm to support exposure history taking, triage of symptom domains, and risk communication without legitimising off-label peptide regimens."
+  },
+  {
+   "pmid": "17971763",
+   "titel": "[Obesity: a review of currently used antiobesity drugs and new compounds in clinical development]",
+   "jahr": "2007",
+   "journal": "Postepy Hig Med Dosw (Online)",
+   "erstautor": "Zieba R",
+   "doi": "",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "This review summarizes data on currently used antiobesity drugs and new compounds under clinical development. Three antiobesity drugs are currently accepted for long-term use. Sibutramine is a noradrenaline and serotonin reuptake inhibitor which reduces body weight by about 4-5 kg but increases heart rate and arterial blood pressure. Orlistat is a gastrointestinal lipase inhibitor which results in mean weight loss by about 3 kg and reduces the incidence of type 2 diabetes in patients with impaired glucose tolerance; however, adverse gastrointestinal effects have been observed. Rimonabant is an endocannabinoid CB1 receptor antagonist which induces a 4-5 kg mean weight loss and improves glycemic and lipid profiles, but it induces anxiety and depressive disorders. Unfortunately, there are no data on the chronic administration of these drugs. Other drugs can induce weight loss, e.g. some antidepressants, antiseizure agents, and antidiabetic drugs. The moderate efficacy of currently used antiobesity drugs has led to an intense effort to identify new, safe antiobesity drugs with better therapeutic profiles. The new antiobesity drugs under clinical development include: 1) agents that affect neurotransmitters in the central nervous system, including noradrenaline and dopamine reuptake inhibitors (bupropion, radafaxine), selective 5HT2C receptor agonists (lorcaserin), and selective 5HT6 receptor antagonists, 2) agents that modulate the activity of neuropeptides influencing food intake, including leptin analogues, human ciliary neurotrophic factor (Axokine), neuropeptide Y antagonists, and melanine-concentrating hormone antagonists, 3) agents that affect the peripheral satiety signals and brain-gut axis, e.g. selective cholecystokinin receptor A agonists, PYY3-36, agents decreasing ghrelin activity, 4) thermogenic agents, e.g. selective beta3 receptor agonists and selective thyroid hormone receptor beta agonists, and 5) others, e.g. human growth hormone fragment (AOD9604) and gastrointestinal lipase inhibitor (cetilistat)."
+  }
+ ],
+ "ctgov": [],
+ "gruppe": "A_stoffwechsel"
+}

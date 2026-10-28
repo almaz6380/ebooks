@@ -1,0 +1,538 @@
+{
+ "name": "IGF-1 LR3",
+ "status": "nicht_zugelassen",
+ "suchbegriff_pubmed": "LR3-IGF-1[tiab] OR IGF-1 LR3[tiab] OR \"Long R3\"[tiab]",
+ "suchbegriff_ctgov": "IGF-1 LR3",
+ "humanstudien_alle": [],
+ "humanstudien_detail": [],
+ "metaanalysen": [],
+ "praeklinik": [
+  {
+   "pmid": "12074575",
+   "titel": "Effects of a non-IGF binding mutant of IGFBP-5 on cell death in human breast cancer cells",
+   "jahr": "2002",
+   "journal": "Biochem Biophys Res Commun",
+   "erstautor": "Perks CM",
+   "doi": "10.1016/S0006-291X(02)00570-3",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "We have demonstrated previously that IGFBP-5 alone had no effect on cell death but modulated ceramide-induced apoptosis in Hs578T IGF non-responsive cells. To investigate if IGFBP-5 maintains its intrinsic ability to modulate apoptosis in IGF-responsive cells, we used a non-IGF binding mutant of IGFBP-5. In Hs578T cells, non-glycosylated, glycosylated or mutant IGFBP-5 alone each had no effect on cell death, whereas all forms inhibited ceramide-induced apoptosis. In IGF-responsive MCF-7 cells, each wild type form reduced ceramide-induced cell death but mutant IGFBP-5 was without effect. In the presence of mutant IGFBP-5, however, IGF-I no longer conferred survival and in the presence of wild type IGFBP-5, long R3 IGF-I was also unable to confer survival. In summary, all forms of IGFBP-5 modulated ceramide-induced apoptosis in Hs578T cells. In MCF-7 cells, IGF-I-induced survival could be facilitated by IGFBP-5, but also blocked by IGFBP-5 if association with IGFBP-5 was prevented."
+  },
+  {
+   "pmid": "11606061",
+   "titel": "Insulin-like growth factor-binding protein-5 inhibits growth and induces differentiation of mouse osteosarcoma cells",
+   "jahr": "2001",
+   "journal": "Biochem Biophys Res Commun",
+   "erstautor": "Schneider MR",
+   "doi": "10.1006/bbrc.2001.5785",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "The precise role of insulin-like growth factor-binding protein-5 (IGFBP-5) in regulating the growth of tumor cells, especially of bone-derived malignant cells, is not well understood. We have investigated the biological activity of IGFBP-5 by transfecting OS/50-K8 mouse osteosarcoma cells with an expression vector containing the osteocalcin promoter and the complete mouse IGFBP-5 cDNA (OC-IGFBP-5). Overexpression of IGFBP-5 mRNA and secretion of increased amounts of bioactive protein in conditioned media were demonstrated in different clones. For the analysis of cell proliferation, three clones exhibiting high levels of IGFBP-5 expression were selected and compared to a mock clone and to nontransfected parental cells. IGFBP-5-secreting clones displayed reduced proliferation under both anchorage-dependent and -independent conditions (P < 0.05). The increase in proliferation observed in IGFBP-5-secreting clones after addition of exogenous IGF was significantly lower than that observed in mock-transfected or parental cells. A similar result was obtained with long[R3]IGF-I which has a low affinity for all IGFBPs, suggesting that the inhibitory effect of IGFBP-5 is only partially IGF-dependent. OC-IGFBP-5-transfected clones expressed significantly higher amounts of osteocalcin mRNA (P < 0.05) and secreted more osteocalcin protein than a mock clone or parental OS-50/K8 cells. Thus, part of the growth-inhibiting effect of IGFBP-5 may be due to an induction of differentiation in these cells."
+  },
+  {
+   "pmid": "10984150",
+   "titel": "Intramammary infusion of insulin or long R3 insulin-like growth factor-I did not increase milk protein yield in dairy cows",
+   "jahr": "2000",
+   "journal": "J Dairy Sci",
+   "erstautor": "Mackle TR",
+   "doi": "10.3168/jds.S0022-0302(00)75044-2",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ],
+   "abstract": "Two experiments investigated the regulation of milk protein synthesis in well-fed cows (n = 4) using 1) a hyperinsulinemic-euglycemic clamp and 2) intramammary infusion of insulin or long R3 insulin-like growth factor-I plus supplementary amino acids. In experiment 1, insulin was infused at 1.0 microg x kg BW(-1) x h(-1) to increase circulating levels fourfold, and euglycemia was maintained by infusion of glucose. An insulin clamp increased the yields of casein and whey protein both with and without supplementary amino acids. Plasma concentrations of insulin-like growth factor-I were increased and insulin-like growth factor binding protein-2 decreased during insulin clamp, while both insulin and insulin-like growth factor-I in milk were elevated by this treatment. Milk concentrations of insulin peaked on day 4, but insulin-like growth factor-I concentrations in milk peaked on day 1 of the insulin clamp. In experiment 2, intramammary infusion of insulin had no effects on any measured variables, while yields of milk, protein, and fat were slightly lower following long R3 insulin-like growth factor-I treatment. This could be associated with an increase in somatic cell count, which occurred following long R3 insulin-like growth factor-I treatment. Results from experiment 1 suggest insulin and insulin-like growth factor-I are likely candidates responsible for the increased milk protein yields during the insulin clamp. However, in experiment 2 neither hormone enhanced milk protein yield when administered using an intramammary technique."
+  },
+  {
+   "pmid": "37261455",
+   "titel": "Recombinant expression of IGF-1 and LR3 IGF-1 fused with xylanase in Pichia pastoris",
+   "jahr": "2023",
+   "journal": "Appl Microbiol Biotechnol",
+   "erstautor": "Lu Z",
+   "doi": "10.1007/s00253-023-12606-0",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Insulin-like growth factor-1 (IGF-1) is a pleiotropic protein hormone and has become an attractive therapeutic target because of its multiple roles in various physiological processes, including growth, development, and metabolism. However, its production is hindered by low heterogenous protein expression levels in various expression systems and hard to meet the needs of clinical and scientific research. Here, we report that human IGF-1 and its analog Long R3 IGF-1 (LR3 IGF-1) are recombinant expressed and produced in the Pichia pastoris (P. pastoris) expression system through being fused with highly expressed xylanase XynCDBFV. Furthermore, purified IGF-1 and LR3 IGF-1 display excellent bioactivity of cell proliferation compared to the standard IGF-1. Moreover, higher heterologous expression levels of the fusion proteins XynCDBFV-IGF-1 and XynCDBFV-LR3 IGF-1 are achieved by fermentation in a 15-L bioreactor, reaching up to about 0.5 g/L XynCDBFV-IGF-1 and 1 g/L XynCDBFV-TEV-LR3 IGF-1. Taken together, high recombinant expression of bioactive IGF-1 and LR3 IGF-1 is acquired with the assistance of xylanase as a fusion partner in P. pastoris, which could be used for both clinical and scientific applications. KEY POINTS: • Human IGF-1 and LR3 IGF-1 are produced in the P. pastoris expression system. • Purified IGF-1 and LR3 IGF-1 show bioactivity comparable to the standard IGF-1. • High heterologous expression of IGF-1 and LR3 IGF-1 is achieved by fermentation in a bioreactor."
+  },
+  {
+   "pmid": "39679943",
+   "titel": "IGF-1 LR3 does not promote growth in late-gestation growth-restricted fetal sheep",
+   "jahr": "2025",
+   "journal": "Am J Physiol Endocrinol Metab",
+   "erstautor": "White A",
+   "doi": "10.1152/ajpendo.00259.2024",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Insulin-like growth factor-1 (IGF-1) and insulin are important fetal anabolic hormones. Complications of pregnancy, such as placental insufficiency, can lead to fetal growth restriction (FGR) with low-circulating IGF-1 and insulin concentrations and attenuated glucose-stimulated insulin secretion (GSIS), which likely contribute to neonatal glucose dysregulation. We previously demonstrated that a 1-wk infusion of IGF-1 LR3, an IGF-1 analog with low affinity for IGF-binding proteins and high affinity for the IGF-1 receptor, at 6.6 µg·kg-1·h-1 into normal fetal sheep increased body weight but lowered insulin concentrations and GSIS. In this study, FGR fetal sheep received either IGF-1 LR3 treatment at 1.17 ± 0.12 μg·kg-1·h-1 (LR3; n = 7) or vehicle (VEH; n = 7) for 1 wk. Plasma insulin, glucose, oxygen, and amino acids were measured before starting treatment and at the end of the treatment period. GSIS was measured on the final treatment day. Fetal body weights, insulin, glucose, oxygen, and GSIS were not different between groups. Amino acid concentrations decreased in LR3 (baseline vs. final individual means comparison P = 0.0232) but not in VEH (P = 0.3866). In summary, a 1-wk IGF-1 LR3 treatment did not improve growth in FGR fetuses. Insulin concentrations and GSIS were not attenuated by IGF-1 LR3, yet circulating amino acids decreased, which could reflect increased amino acid utilization. We speculate that maintaining amino acid concentrations or raising insulin, glucose, and/or oxygen concentrations to values consistent with normally growing fetuses during IGF-1 LR3 treatment may be necessary to increase fetal growth in the setting of placental insufficiency and FGR.NEW & NOTEWORTHY IGF-1 LR3 treatment administered directly into growth-restricted fetal sheep circulation did not improve fetal growth or attenuate circulating insulin or fetal GSIS. Importantly, IGF-1 LR3 treatment reduced circulating amino acids, notably branched-chain amino acids, which have been shown to potentiate GSIS and protein accretion supporting fetal growth."
+  },
+  {
+   "pmid": "24906928",
+   "titel": "Epidermal growth factor receptor is required for estradiol-stimulated bovine satellite cell proliferation",
+   "jahr": "2014",
+   "journal": "Domest Anim Endocrinol",
+   "erstautor": "Reiter BC",
+   "doi": "10.1016/j.domaniend.2014.01.001",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ],
+   "abstract": "The objective of this study was to assess the role of the epidermal growth factor receptor (EGFR) in estradiol-17β (E2)-stimulated proliferation of cultured bovine satellite cells (BSCs). Treatment of BSC cultures with AG1478 (a specific inhibitor of EGFR tyrosine kinase activity) suppresses E2-stimulated BSC proliferation (P < 0.05). In addition, E2-stimulated proliferation is completely suppressed (P < 0.05) in BSCs in which EGFR expression is silenced by treatment with EGFR small interfering RNA (siRNA). These results indicate that EGFR is required for E2 to stimulate proliferation in BSC cultures. Both AG1478 treatment and EGFR silencing also suppress proliferation stimulated by LR3-IGF-1 (an IGF1 analogue that binds normally to the insulin-like growth factor receptor (IGFR)-1 but has little or no affinity for IGF binding proteins) in cultured BSCs (P < 0.05). Even though EGFR siRNA treatment has no effect on IGFR-1β mRNA expression in cultured BSCs, IGFR-1β protein level is substantially reduced in BSCs treated with EGFR siRNA. These data suggest that EGFR silencing results in post-transcriptional modifications that result in decreased IGFR-1β protein levels. Although it is clear that functional EGFR is necessary for E2-stimulated proliferation of BSCs, the role of EGFR is not clear. Transactivation of EGFR may directly stimulate proliferation, or EGFR may function to maintain the level of IGFR-1β which is necessary for E2-stimulated proliferation. It also is possible that the role of EGFR in E2-stimulated BSC proliferation may involve both of these mechanisms."
+  },
+  {
+   "pmid": "36499281",
+   "titel": "N-Linked Glycosylation in Chinese Hamster Ovary Cells Is Critical for Insulin-like Growth Factor 1 Signaling",
+   "jahr": "2022",
+   "journal": "Int J Mol Sci",
+   "erstautor": "Salvi R",
+   "doi": "10.3390/ijms232314952",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Cell surface proteins carrying N-glycans play important roles in inter- and intracellular processes including cell adhesion, development, and cellular recognition. Dysregulation of the glycosylation machinery has been implicated in various diseases, and investigation of global differential cell surface proteome effects due to the loss of N-glycosylation will provide comprehensive insights into their pathogenesis. Cell surface proteins isolated from Parent Pro-5 CHO cells (W5 cells), two CHO mutants with loss of N-glycosylation function derived from Pro-5 CHO (Lec1 and Lec4 cells), were subjected to proteome analysis via high-resolution LCMS. We identified 44 and 43 differentially expressed membrane proteins in Lec1 and Lec4 cells, respectively, as compared to W5 cells. The defective N-glycosylation mutants showed increased abundance of integrin subunits in Lec1 and Lec4 cells at the cell surface. We also found significantly reduced levels of IGF-1R (Insulin like growth factor-1 receptor); a receptor tyrosine kinase; and the GTPase activating protein IQGAP1 (IQ motif-containing GTPase activating protein), a highly conserved cytoplasmic scaffold protein) in Lec1 and Lec4 cells. In silico docking studies showed that the IQ domain of IQGAP1 interacts with the kinase domain of IGF-1R. The integrin signaling and insulin growth factor receptor signaling were also enriched according to GSEA analysis and pathway analysis of differentially expressed proteins. Significant reductions of phosphorylation of ERK1 and ERK2 in Lec1 and Lec4 cells were observed upon IGF-1R ligand (IGF-1 LR3) stimulation. IGF-1 LR3, known as Long arginine3-IGF-1, is a synthetic protein and lengthened analog of insulin-like growth factor 1. The work suggests a novel mechanism for the activation of IGF-1 dependent ERK signaling in CHO cells, wherein IQGAP1 plausibly functions as an IGF-1R-associated scaffold protein. Appropriate glycosylation by the enzymes MGAT1 and MGAT5 is thus essential for processing of cell surface receptor IGF-1R, a potential binding partner in IQGAP1 and ERK signaling, the integral components of the IGF pathway."
+  },
+  {
+   "pmid": "36091374",
+   "titel": "Sheep recombinant IGF-1 promotes organ-specific growth in fetal sheep",
+   "jahr": "2022",
+   "journal": "Front Physiol",
+   "erstautor": "Stremming J",
+   "doi": "10.3389/fphys.2022.954948",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "IGF-1 is a critical fetal growth-promoting hormone. Experimental infusion of an IGF-1 analog, human recombinant LR3 IGF-1, into late gestation fetal sheep increased fetal organ growth and skeletal muscle myoblast proliferation. However, LR3 IGF-1 has a low affinity for IGF binding proteins (IGFBP), thus reducing physiologic regulation of IGF-1 bioavailability. The peptide sequences for LR3 IGF-1 and sheep IGF-1 also differ. To overcome these limitations with LR3 IGF-1, we developed an ovine (sheep) specific recombinant IGF-1 (oIGF-1) and tested its effect on growth in fetal sheep. First, we measured in vitro myoblast proliferation in response to oIGF-1. Second, we examined anabolic signaling pathways from serial skeletal muscle biopsies in fetal sheep that received oIGF-1 or saline infusion for 2 hours. Finally, we measured the effect of fetal oIGF-1 infusion versus saline infusion (SAL) for 1 week on fetal body and organ growth, in vivo myoblast proliferation, skeletal muscle fractional protein synthetic rate, IGFBP expression in skeletal muscle and liver, and IGF-1 signaling pathways in skeletal muscle. Using this approach, we showed that oIGF-1 stimulated myoblast proliferation in vitro. When infused for 1 week, oIGF-1 increased organ growth of the heart, kidney, spleen, and adrenal glands and stimulated skeletal myoblast proliferation compared to SAL without increasing muscle fractional synthetic rate or hindlimb muscle mass. Hepatic and muscular gene expression of IGFBPs one to three was similar between oIGF-1 and SAL. We conclude that oIGF-1 promotes tissue and organ-specific growth in the normal sheep fetus."
+  },
+  {
+   "pmid": "32573852",
+   "titel": "Coronary vascular growth matches IGF-1-stimulated cardiac growth in fetal sheep",
+   "jahr": "2020",
+   "journal": "FASEB J",
+   "erstautor": "Jonker SS",
+   "doi": "10.1096/fj.202000215R",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "abstract": "As loss of contractile function in heart disease could often be mitigated by increased cardiomyocyte number, expansion of cardiomyocyte endowment paired with increased vascular supply is a desirable therapeutic goal. Insulin-like growth factor 1 (IGF-1) administration increases fetal cardiomyocyte proliferation and heart mass, but how fetal IGF-1 treatment affects coronary growth and function is unknown. Near-term fetal sheep underwent surgical instrumentation and were studied from 127 to 134 d gestation (term = 147 d), receiving either IGF-1 LR3 or vehicle. Coronary growth and function were interrogated using pressure-flow relationships, an episode of acute hypoxia with progressive blockade of adenosine receptors and nitric oxide synthase, and by modeling the determinants of coronary flow. The main findings were that coronary conductance was preserved on a per-gram basis following IGF-1 treatment, adenosine and nitric oxide contributed to hypoxia-mediated coronary vasodilation similarly in IGF-1-treated and Control fetuses, and the relationships between coronary flow and blood oxygen contents were similar between groups. We conclude that IGF-1-stimulated fetal myocardial growth is accompanied by appropriate expansion and function of the coronary vasculature. These findings support IGF-1 as a potential strategy to increase cardiac myocyte and coronary vascular endowment at birth."
+  },
+  {
+   "pmid": "10825414",
+   "titel": "Response of isolated ruminant mammary arteries to the long R3 analogue of insulin-like growth factor I",
+   "jahr": "2000",
+   "journal": "Exp Physiol",
+   "erstautor": "Gow IF",
+   "doi": "",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Isolated mammary arteries from ruminants were used in a conventional organ bath system. Acetylcholine relaxed bovine but not ovine mammary arteries; both types responded to sodium nitroprusside. Noradrenaline (NA) caused a dose-dependent increase in generated tension. An analogue of insulin-like growth factor I (long R3-IGF-I) caused a rightward shift in the NA response curve in bovine vessels with intact endothelium (P < 0.02), and also in sheep arteries (P < 0.01). In bovine vessels, this effect was abolished when the endothelium was removed. The effect of long R3-IGF-I in bovine vessels was abolished by N -nitro-L-arginine methyl ester (L-NAME) an inhibitor of nitric oxide synthase, suggesting the effect of IGF-I on mammary arteries in vitro requires NO generation."
+  },
+  {
+   "pmid": "37114757",
+   "titel": "Attenuated glucose-stimulated insulin secretion during an acute IGF-1 LR3 infusion into fetal sheep does not persist in isolated islets",
+   "jahr": "2023",
+   "journal": "J Dev Orig Health Dis",
+   "erstautor": "White A",
+   "doi": "10.1017/S2040174423000090",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "abstract": "Insulin-like growth factor-1 (IGF-1) is a critical fetal growth hormone that has been proposed as a therapy for intrauterine growth restriction. We previously demonstrated that a 1-week IGF-1 LR3 infusion into fetal sheep reduces in vivo and in vitro insulin secretion suggesting an intrinsic islet defect. Our objective herein was to determine whether this intrinsic islet defect was related to chronicity of exposure. We therefore tested the effects of a 90-min IGF-1 LR3 infusion on fetal glucose-stimulated insulin secretion (GSIS) and insulin secretion from isolated fetal islets. We first infused late gestation fetal sheep (n = 10) with either IGF-1 LR3 (IGF-1) or vehicle control (CON) and measured basal insulin secretion and in vivo GSIS utilizing a hyperglycemic clamp. We then isolated fetal islets immediately following a 90-min IGF-1 or CON in vivo infusion and exposed them to glucose or potassium chloride to measure in vitro insulin secretion (IGF-1, n = 6; CON, n = 6). Fetal plasma insulin concentrations decreased with IGF-1 LR3 infusion (P < 0.05), and insulin concentrations during the hyperglycemic clamp were 66% lower with IGF-1 LR3 infusion compared to CON (P < 0.0001). Insulin secretion in isolated fetal islets was not different based on infusion at the time of islet collection. Therefore, we speculate that while acute IGF-1 LR3 infusion may directly suppress insulin secretion, the fetal β-cell in vitro retains the ability to recover GSIS. This may have important implications when considering the long-term effects of treatment modalities for fetal growth restriction."
+  },
+  {
+   "pmid": "33427051",
+   "titel": "IGF-1 infusion to fetal sheep increases organ growth but not by stimulating nutrient transfer to the fetus",
+   "jahr": "2021",
+   "journal": "Am J Physiol Endocrinol Metab",
+   "erstautor": "Stremming J",
+   "doi": "10.1152/ajpendo.00453.2020",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "abstract": "Insulin-like growth factor-1 (IGF-1) is an important fetal growth factor. However, the role of fetal IGF-1 in increasing placental blood flow, nutrient transfer, and nutrient availability to support fetal growth and protein accretion is not well understood. Catheterized fetuses from late gestation pregnant sheep received an intravenous infusion of LR3 IGF-1 (LR3 IGF-1; n = 8) or saline (SAL; n = 8) for 1 wk. Sheep then underwent a metabolic study to measure uterine and umbilical blood flow, nutrient uptake rates, and fetal protein kinetic rates. By the end of the infusion, fetal weights were not statistically different between groups (SAL: 3.260 ± 0.211 kg, LR3 IGF-1: 3.682 ± 0.183; P = 0.15). Fetal heart, adrenal gland, and spleen weights were higher (P < 0.05), and insulin was lower in LR3 IGF-1 (P < 0.05). Uterine and umbilical blood flow and umbilical uptake rates of glucose, lactate, and oxygen were similar between groups. Umbilical amino acid uptake rates were lower in LR3 IGF-1 (P < 0.05) as were fetal concentrations of multiple amino acids. Fetal protein kinetic rates were similar. LR3 IGF-1 skeletal muscle had higher myoblast proliferation (P < 0.05). In summary, LR3 IGF-1 infusion for 1 wk into late gestation fetal sheep increased the weight of some fetal organs. However, because umbilical amino acid uptake rates and fetal plasma amino acid concentrations were lower in the LR3 IGF-1 group, we speculate that animals treated with LR3 IGF-1 can efficiently utilize available nutrients to support organ-specific growth in the fetus rather than by stimulating placental blood flow or nutrient transfer to the fetus.NEW & NOTEWORTHY After a 1-wk infusion of LR3 IGF-1, late gestation fetal sheep had lower umbilical uptake rates of amino acids, lower fetal arterial amino acid and insulin concentrations, and lower fetal oxygen content; however, LR-3 IGF-1-treated fetuses were still able to effectively utilize the available nutrients and oxygen to support organ growth and myoblast proliferation."
+  },
+  {
+   "pmid": "9921154",
+   "titel": "Chemical treatment of Escherichia coli: 3. Selective extraction of a recombinant protein from cytoplasmic inclusion bodies in intact cells",
+   "jahr": "1999",
+   "journal": "Biotechnol Bioeng",
+   "erstautor": "Falconer RJ",
+   "doi": "10.1002/(sici)1097-0290(19990220)62:4<455::aid-bit8>3.0.co;2-2",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "In previous parts of this study we developed procedures for the high-efficiency chemical extraction of soluble and insoluble protein from intact Escherichia coli cells. Although high yields were obtained, extraction of recombinant protein directly from cytoplasmic inclusion bodies led to low product purity due to coextraction of soluble contaminants. In this work, a two-stage procedure for the selective extraction of recombinant protein at high efficiency and high purity is reported. In the first stage, inclusion-body stability is promoted by the addition of 15 mM 2-hydroxyethyldisulfide (2-HEDS), also known as oxidized beta-mercaptoethanol, to the permeabilization buffer (6 M urea + 3 mM ethylenediaminetetraacetate [EDTA]). 2-HEDS is an oxidizing agent believed to promote disulfide bond formation, rendering the inclusion body resistant to solubilization in 6 M urea. Contaminating proteins are separated from the inclusion-body fraction by centrifugation. In the second stage, disulfide bonds are readily eliminated by including reducing agent (20 mM dithiothreitol [DTT]) into the permeabilization buffer. Extraction using this selective two-stage process yielded an 81% (w/w) recovery of the recombinant protein Long-R3-IGF-I from inclusion bodies located in the cytoplasm of intact E. coli, at a purity of 46% (w/w). This was comparable to that achieved by conventional extraction (mechanical disruption followed by centrifugation and solubilization). A pilot-scale procedure was also demonstrated using a stirred reactor and diafiltration. This is the first reported study that achieves both high extraction efficiency and selectivity by the chemical treatment of cytoplasmic inclusion bodies in intact bacterial cells."
+  },
+  {
+   "pmid": "20675162",
+   "titel": "Detection of His-tagged Long-R³-IGF-I in a black market product",
+   "jahr": "2010",
+   "journal": "Growth Horm IGF Res",
+   "erstautor": "Kohler M",
+   "doi": "10.1016/j.ghir.2010.07.001",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: Performance-enhancing substances are illicitly used in elite or amateur sports and may be obtained from the black market due to a cheaper and easier availability. Although various studies have shown that black market products frequently do not contain the declared substances, enormous amounts of illegally produced and/or imported drugs are confiscated from athletes or at customs with alarming results concerning the outcome of the analyses of the ingredients. This case report describes the identification of His-tagged Long-R³-IGF-I, which is usually produced for biochemical studies, in an injection vial. DESIGN: The ingredients were isolated by immunoaffinity purification and identified by nano-UPLC, high-resolution/high accuracy mass spectrometry of the intact and trypsinated substance and by an enzyme-linked immunosorbent assay. RESULTS: (Tandem) mass spectra characterized the protein as Long-R³-IGF-I with a His₆-tag attached to the C-terminus by the linker amino acids Leu-Glu. CONCLUSION: His-tags are commonly added to proteins during synthesis to allow a convenient and complete purification of the final product and His-tags are subsequently removed by specific enzymes when being attached to the N-terminus. The effects of His-tagged Long-R³-IGF-I in humans have not been elucidated or described and the product may rather be a by-product from biochemical studies than synthesized for injection purposes."
+  },
+  {
+   "pmid": "31285507",
+   "titel": "Inhibition of activin-like kinase 4/5 attenuates cancer cachexia associated muscle wasting",
+   "jahr": "2019",
+   "journal": "Sci Rep",
+   "erstautor": "Levolger S",
+   "doi": "10.1038/s41598-019-46178-9",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Cancer mediated activation of the ActRIIB-ALK4/5 heterodimer by myostatin is strongly associated with muscle wasting. We investigated in vitro and in vivo the efficacy of ALK4/5 receptor blockers SB431542 and GW788388 in preventing muscle wasting, and explored synergy with IGF-I analogue LONG R3 (LR3) IGF-I. In vitro, C2C12 skeletal muscle cells were treated with vehicle, SB431542, GW788388 and LR3 IGF-I. A C26-CD2F1 cachexia model was used to induce cachexia in vivo. Mice were allocated as non-tumour bearing (NTB) or C26 tumour-bearing (C26 TB) vehicle control, treated with SB431542, LR3 IGF-I, SB431542 and LR3 IGF-I, or GW788388 (intraperitoneally or orally). In vitro, differentiation index and mean nuclei count increased using SB431542, GW788388, LR3 IGF-I. In vivo, GW788388 was superior to SB431542 in limiting loss of bodyweight, grip-strength and gastrocnemius weight. and downregulated Atrogin-1 expression comparable to NTB mice. LR3 IGF-I treatment limited loss of muscle mass, but at the expense of accelerated tumour growth. In conclusion, treatment with GW788388 prevented cancer cachexia, and downregulated associated ubiquitin ligase Atrogin-1."
+  },
+  {
+   "pmid": "10370861",
+   "titel": "Action of long(R3)-insulin-like growth factor-1 on protein metabolism in beef heifers",
+   "jahr": "1999",
+   "journal": "Domest Anim Endocrinol",
+   "erstautor": "Hill RA",
+   "doi": "10.1016/s0739-7240(99)00015-6",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Insulin-like growth factor-1 (IGF-1) is perhaps the most important endogenous factor controlling growth. Most studies to date in livestock have shown that IGF-1 has greatest efficacy when animals are in a catabolic state. We have determined the effects of an i.v. infusion of the IGF-1 analog Long(R3)-IGF-1 on protein metabolism in beef heifers that were slowly losing liveweight because of restricted feeding. There was a tendency for both whole-body protein and skeletal muscle protein to be conserved in Long(R3)-IGF-1-treated heifers. Long(R3)-IGF-1 administration markedly reduced the plasma concentrations of all amino acids measured and glucose. There was a significant change in the profile differences of endogenous plasma IGF-1 concentrations during the 8-hr infusion period, with plasma IGF-1 decreasing sharply in the test group. There was a significant difference in mean profiles for plasma IGF-2 between the test and control groups. Overall, plasma IGF-2 for the control group decreased only slightly over time (about 40 ng/ml), whereas the test group decreased dramatically (by about 140 ng/ml). Increased plasma concentrations of a 31-32-kDa IGF-binding protein (possibly IGF-binding protein-1) in the treated group was detected by radioligand blot. We found that Long(R3)-IGF-1 infusion tended to preserve whole-body and muscle protein in beef heifers on a low-quality diet, and suggest that further investigation of this treatment may provide an alternative approach to reducing weight loss during the dry season."
+  },
+  {
+   "pmid": "33938236",
+   "titel": "Reduced glucose-stimulated insulin secretion following a 1-wk IGF-1 infusion in late gestation fetal sheep is due to an intrinsic islet defect",
+   "jahr": "2021",
+   "journal": "Am J Physiol Endocrinol Metab",
+   "erstautor": "White A",
+   "doi": "10.1152/ajpendo.00623.2020",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "abstract": "Insulin and insulin-like growth factor-1 (IGF-1) are fetal hormones critical to establishing normal fetal growth. Experimentally elevated IGF-1 concentrations during late gestation increase fetal weight but lower fetal plasma insulin concentrations. We therefore hypothesized that infusion of an IGF-1 analog for 1 wk into late gestation fetal sheep would attenuate fetal glucose-stimulated insulin secretion (GSIS) and insulin secretion in islets isolated from these fetuses. Late gestation fetal sheep received infusions with IGF-1 LR3 (IGF-1, n = 8), an analog of IGF-1 with low affinity for the IGF binding proteins and high affinity for the IGF-1 receptor, or vehicle control (CON, n = 9). Fetal GSIS was measured with a hyperglycemic clamp (IGF-1, n = 8; CON, n = 7). Fetal islets were isolated, and insulin secretion was assayed in static incubations (IGF-1, n = 8; CON, n = 7). Plasma insulin and glucose concentrations in IGF-1 fetuses were lower compared with CON (P = 0.0135 and P = 0.0012, respectively). During the GSIS study, IGF-1 fetuses had lower insulin secretion compared with CON (P = 0.0453). In vitro, glucose-stimulated insulin secretion remained lower in islets isolated from IGF-1 fetuses (P = 0.0447). In summary, IGF-1 LR3 infusion for 1 wk into fetal sheep lowers insulin concentrations and reduces fetal GSIS. Impaired insulin secretion persists in isolated fetal islets indicating an intrinsic islet defect in insulin release when exposed to IGF-1 LR3 infusion for 1 wk. We speculate this alteration in the insulin/IGF-1 axis contributes to the long-term reduction in β-cell function in neonates born with elevated IGF-1 concentrations following pregnancies complicated by diabetes or other conditions associated with fetal overgrowth.NEW & NOTEWORTHY After a 1-wk infusion of IGF-1 LR3, late gestation fetal sheep had lower plasma insulin and glucose concentrations, reduced fetal glucose-stimulated insulin secretion, and decreased fractional insulin secretion from isolated fetal islets without differences in pancreatic insulin content."
+  },
+  {
+   "pmid": "12947030",
+   "titel": "Extracellular signal-regulated kinase and phosphoinositol-3 kinase mediate IGF-1 induced proliferation of fetal sheep cardiomyocytes",
+   "jahr": "2003",
+   "journal": "Am J Physiol Regul Integr Comp Physiol",
+   "erstautor": "Sundgren NC",
+   "doi": "10.1152/ajpregu.00232.2003",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "Growth of the fetal heart involves cardiomyocyte enlargement, division, and maturation. Insulin-like growth factor-1 (IGF-1) is implicated in many aspects of growth and is likely to be important in developmental heart growth. IGF-1 stimulates the IGF-1 receptor (IGF1R) and downstream signaling pathways, including extracellular signal-regulated kinase (ERK) and phosphoinositol-3 kinase (PI3K). We hypothesized that IGF-1 stimulates cardiomyocyte proliferation and enlargement through stimulation of the ERK cascade and stimulates cardiomyocyte differentiation through the PI3K cascade. In vivo administration of Long R3 IGF-1 (LR3 IGF-1) did not stimulate cardiomyocyte hypertrophy but led to a decreased percentage of cells that were binucleated in vivo. In culture, LR3 IGF-1 increased myocyte bromodeoxyuridine (BrdU) uptake by three- to five-fold. The blockade of either ERK or PI3K signaling (by UO-126 or LY-294002, respectively) completely abolished BrdU uptake stimulated by LR3 IGF-1. LR3 IGF-1 did not increase footprint area, but as expected, phenylephrine stimulated an increase in binucleated cardiomyocyte size. We conclude that 1) IGF-1 through IGF1R stimulates cardiomyocyte division in vivo; hyperplastic growth is the most likely explanation of IGF-1 stimulated heart growth in vivo; 2) IGF-1 through IGF1R does not stimulate binucleation in vitro or in vivo; 3) IGF-1 through IGF1R does not stimulate hypertrophy either in vivo or in vitro; and 4) IGF-1 through IGF1R requires both ERK and PI3K signaling for proliferation of near-term fetal sheep cardiomyocytes in vitro."
+  },
+  {
+   "pmid": "8919033",
+   "titel": "Design and characterisation of long-R3-insulin-like growth factor-I muteins which show resistance to pepsin digestion",
+   "jahr": "1996",
+   "journal": "Growth Factors",
+   "erstautor": "Bryant KJ",
+   "doi": "10.3109/08977199609003227",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Site-directed mutagenesis was used to construct pepsin-resistant, single-point mutations of the N-terminal extended IGF-I analogue, long-R3-IGF-I. In order to identify the most susceptible sites, the kinetics of long-R3-IGF-I digestion by purified porcine pepsin were determined. Pepsin initially cleaved the Leu10-Phe11 bond in the N-terminal extension peptide to generate FVN-R3-IGF-I, followed in rapid succession by cleavage at Gln15-Phe16, Tyr24-Phe25, Leu10-Val11 and Met59-Tyr60 in the IGF-I moiety. Single-point mutations at these sites were designed on the basis of the preferred cleavage bonds for pepsin, as well as amino acid substitutions less likely to disturb protein structure. These included Leu10Val, Phe16Ala, Phe25Leu, Asp53Glu and Met59Gln. All five muteins retained growth-promoting activity equivalent to or higher than that of IGF-I. In terms of pepsin susceptibility, Leu10Val and Asp53Glu were degraded as rapidly as the parent long-R3-IGF-I, Met59Gln and Phe25Leu were partially stabilised, and Phe16Ala showed a marked improvement in stability over a wide range of pepsin:substrate ratios. Accordingly, the Phe16Ala mutein, long-R3A16-IGF-I, has potential for oral applications to enhance gastric growth and repair."
+  },
+  {
+   "pmid": "11707703",
+   "titel": "Mechanisms of age-related decline in insulin-like growth factor-I dependent proteoglycan synthesis in rat intervertebral disc cells",
+   "jahr": "2001",
+   "journal": "Spine (Phila Pa 1976)",
+   "erstautor": "Okuda S",
+   "doi": "10.1097/00007632-200111150-00005",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "STUDY DESIGN: Age-related fluctuations in insulin-like growth factor-I dependent proteoglycan synthesis in rat intervertebral disc cells were investigated. OBJECTIVES: The purpose of this study was to determine whether synthetic responses to insulin-like growth factor-I decline with age and to explore the possibility that an age-related increase in the expression of insulin-like growth factor binding proteins suppresses matrix synthesis in intervertebral disc cells. SUMMARY AND BACKGROUND DATA: Several studies have reported that the responsiveness of chondrocytes to insulin-like growth factor-I decreases with age and furthermore that this phenomenon may be related to increased expression of insulin-like growth factor binding proteins by chondrocytes. MATERIALS AND METHODS: Nucleus pulposus tissue and cells were obtained from the coccygeal vertebrae of 8-week-old, 40-week-old, and 120-week-old rats. Age-related changes in the expression of insulin-like growth factor-I and its receptor were assessed together with insulin-like growth factor-I dependent proteoglycan synthesis by the cultured nucleus pulposus cells. Also, western blot analysis of insulin-like growth factor binding protein-1 was carried out, and further examination was performed of insulin-like growth factor-I signal transduction through tyrosine phosphorylation of insulin receptor substrate-1, which is a signal transducer of insulin-like growth factor-I. RESULTS: Semiquantitative reverse transcription polymerase chain reaction analysis indicated that the expression of insulin-like growth factor-I receptor in 120-week cells decreased clearly in comparison with the cells of younger animals. By contrast, insulin-like growth factor-I dependent proteoglycan synthesis decreased with age, and the sharpest decline of synthesis was found between 8-week and 40-week cells, although the level of insulin-like growth factor-I/insulin-like growth factor-I receptor gene expression was maintained in 40-week-old animals. Consistent with the results of proteoglycan synthesis, the expression of phosphorylated insulin receptor substrate-1 decreased with age. Thus, the expression of insulin-like growth factor binding protein-1 and proteoglycan synthesis was investigated by use of Long R3 insulin-like growth factor-I, which was not influenced by insulin-like growth factor binding proteins. Insulin-like growth factor binding protein-1 was strongly expressed in 40-week cells in comparison with the expression in 8-week cells. Furthermore, proteoglycan synthesis in 40-week cells supplemented with Long R3 insulin-like growth factor-I was upregulated in comparison with that in 40-week cells supplemented with insulin-like growth factor-I. CONCLUSION: The present findings indicate that the age-related decline in insulin-like growth factor-I dependent proteoglycan synthesis in nucleus pulposus is caused, at least in part, by the increase in insulin-like growth factor binding proteins at the early stages of aging, and further suggest that a loss of proteoglycan synthesis during the late stages of aging is caused by the downregulation of insulin-like growth factor-I receptor in addition to an increase in insulin-like growth factor binding proteins."
+  },
+  {
+   "pmid": "9252489",
+   "titel": "The somatotropic axis in neonatal calves can be modulated by nutrition, growth hormone, and Long-R3-IGF-I",
+   "jahr": "1997",
+   "journal": "Am J Physiol",
+   "erstautor": "Hammon H",
+   "doi": "10.1152/ajpendo.1997.273.1.E130",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Effects on the somatotropic axis [plasma levels of insulin-like growth factors (IGFs) I and II, IGF-binding proteins (IGFBPs), and growth hormone (GH)] of feeding different amounts of colostrum or milk replacer, of Long-R3-IGF-I (administered subcutaneously or orally; 50 micrograms.kg body wt-1.day-1 for 7 days), and of subcutaneously injected recombinant bovine GH (rbGH; 1 mg.kg body wt-1.day-1 for 7 days) were evaluated in calves during the 1st wk of life. Plasma Long-R3-IGF-I increased after subcutaneous application but not with the oral dose. Endogenous IGF-I was higher in calves fed colostrum six times compared with those fed only milk replacer. Native IGF-I was highest in rbGH-injected calves but was lowered by the subcutaneous injection of Long-R3-IGF-I. IGF-II concentrations were not modified by any of the treatments. IGFBP-2 increased in calves fed only milk replacer and those receiving subcutaneous Long-R3-IGF-I. GH was not modulated by differences in nutrition but increased after rbGH administration and similarly in all groups after intravenous injection of GH-releasing factor analog GRF-(1-29). Parenteral administration of Long-R3-IGF-I decreased GH concentration but did not affect the secretory pattern. The data demonstrate that the somatotrophic axis is basically functioning in neonatal calves and is influenced by nutrition, GH, and Long-R3-IGF-I."
+  },
+  {
+   "pmid": "21281823",
+   "titel": "IGF-1 has plaque-stabilizing effects in atherosclerosis by altering vascular smooth muscle cell phenotype",
+   "jahr": "2011",
+   "journal": "Am J Pathol",
+   "erstautor": "von der Thüsen JH",
+   "doi": "10.1016/j.ajpath.2010.10.007",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Insulin-like growth factor-1 (IGF-1) signaling is important for the maintenance of plaque stability in atherosclerosis due to its effects on vascular smooth muscle cell (vSMC) phenotype. To investigate this hypothesis, we studied the effects of the highly inflammatory milieu of the atherosclerotic plaque on IGF-1 signaling and stability-related phenotypic parameters of murine vSMCs in vitro, and the effects of IGF-1 supplementation on plaque phenotype in an atherosclerotic mouse model. M1-polarized, macrophage-conditioned medium inhibited IGF-1 signaling by ablating IGF-1 and increasing IGF-binding protein 3, increased vSMC apoptosis, and decreased proliferation. Expression of α-actin and col3a1 genes was strongly attenuated by macrophage-conditioned medium, whereas expression of matrix-degrading enzymes was increased. Importantly, all of these effects could be corrected by supplementation with IGF-1. In vivo, treatment with the stable IGF-1 analog Long R3 IGF-1 in apolipoprotein E knockout mice reduced stenosis and core size, and doubled cap/core ratio in early atherosclerosis. In advanced plaques, Long R3 IGF-1 increased the vSMC content of the plaque by more than twofold and significantly reduced the rate of intraplaque hemorrhage. We believe that IGF-1 in atherosclerotic plaques may have a role in preventing plaque instability, not only by modulating smooth muscle cell turnover, but also by altering smooth muscle cell phenotype."
+  },
+  {
+   "pmid": "17636166",
+   "titel": "Effects of IGF-I bioavailability on bovine preantral follicular development in vitro",
+   "jahr": "2007",
+   "journal": "Reproduction",
+   "erstautor": "Thomas FH",
+   "doi": "10.1530/REP-06-0382",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The aim of this study was to determine the effect of regulation of IGF-I bioavailability on preantral follicle development in vitro. Bovine preantral follicles were cultured for 6 days in serum-free medium with increasing doses of Long R3 (LR3) IGF-I (an analog with low affinity for IGF-binding proteins (IGFBPs)), or human recombinant IGF-I (hrIGF-I). Follicle diameter and estradiol production were measured every second day. On day 6, ratios of oocyte/follicle diameter and oocyte morphology were assessed by histological examination, and IGFBP-2 and -3 were detected by immunocytochemistry and in situ hybridization respectively. Both types of IGF-I increased follicle diameter in a dose-dependent manner (P < 0.05) and increased estradiol production over control levels (P < 0.05). However, follicles treated with LR3 IGF-I and the highest concentration of hrIGF-I (1000 ng/ml) had smaller oocyte/follicle ratios, and increased oocyte degeneration, compared with controls or follicles treated with physiological concentrations of hrIGF-I (P < 0.05). IGFBPs were detected in cultured preantral follicles, indicating a requirement for regulation of IGF bioavailability during the early stages of follicular development. Specifically, IGFBP-3 mRNA was found to be expressed in oocytes, and IGFBP-2 immunoreactivity was detected in oocytes and granulosa cells of cultured follicles. In summary, the regulation of IGF-I bioavailability by IGFBPs is necessary for the co-ordination of oocyte and follicle development in vitro."
+  },
+  {
+   "pmid": "9483305",
+   "titel": "Endocrine and metabolic changes in neonatal calves in response to growth hormone and long-R3-insulin-like growth factor-I administration",
+   "jahr": "1998",
+   "journal": "Biol Neonate",
+   "erstautor": "Hammon H",
+   "doi": "10.1159/000013968",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Postnatal growth is primarily controlled by growth hormone (GH) and insulin-like growth factor-I (IGF-I). We have studied effects of recombinant bovine GH (rbGH) and Long-R3-insulin-like growth factor-I (Long-R3-IGF-I) on metabolic and endocrine characteristics of neonatal calves. Group GrC (control) was fed colostrum as first meal and then milk replacer up to day 7. Groups GrIGFf, GrIGFi and GrGH were fed as GrC. In group GrIGFf, Long-R3-IGF-I (50 micrograms/[kg x day], twice daily for 7 days) was fed together with colostrum or milk replacer and in group GrIGFi, Long-R3-IGF-I (50 micrograms/[kg x day], twice daily for 7 days) was injected subcutaneously at times of feeding. Calves of group GrGH were injected rbGH (1 mg/[kg x day, s.c.], twice daily for 7 days) at times of feeding. While orally administered Long-R3-IGF-I had no effects, subcutaneously administered Long-R3-IGF-I lowered plasma glucose and insulin concentrations (p < 0.05). In group GrGH, day-2 postprandial plasma insulin concentrations were increased more than in Long-R3-IGF-I-treated groups (p < 0.05) and day-2 postprandial prolactin responses were greater in group GrGH than in controls (p < 0.05). Other traits (lactic acid, nonesterified fatty acids, glucagon, cortisol, thyroxine and 3.5.3'-triiodothyronine) exhibited age-dependent changes, but were not significantly affected by rbGH or Long-R3-IGF-I. The study shows, that parenteral, but not oral, Long-R3-IGF-I affects plasma glucose and insulin concentrations, and that rbGH transiently influences plasma prolactin concentrations in neonatal calves."
+  },
+  {
+   "pmid": "41015370",
+   "titel": "Revolutionary decellularized Alstroemeria stem-based nerve conduit integrated with GelMA and controlled IGF-1 LR3 release for enhanced rat sciatic nerve regeneration",
+   "jahr": "2025",
+   "journal": "Int J Biol Macromol",
+   "erstautor": "Yavuz E",
+   "doi": "10.1016/j.ijbiomac.2025.147888",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Peripheral nerve injuries lead to significant functional deficits, with no treatment achieving complete recovery. Autologous nerve grafting remains the gold standard, but it is limited by donor site morbidity. Artificial nerve conduits have been developed but have not matched the outcomes of autologous grafts. This study introduces the first-ever decellularized plant-based nerve conduit, fabricated from Alstroemeria stem material, integrated with GelMA, and featuring controlled release of Insulin-like Growth Factor Long Arginine 3 (IGF-1 LR3) for enhanced axonal regeneration. Thirty rats were assigned to six experimental groups (n = 5) and underwent a 1 cm sciatic nerve defect. Regeneration was assessed via gait analysis, electrophysiology, histology, and immunohistochemistry, comparing the decellularized conduit to autologous grafts and commercial conduits. The IGF-1 LR3-controlled releasing decellularized conduit significantly improved axonal regeneration and showed comparable performance to autologous nerve grafts, without inducing systemic toxicity. This novel conduit demonstrates the potential of plant-based biomaterials for effective peripheral nerve repair."
+  },
+  {
+   "pmid": "11735239",
+   "titel": "Effect of IGFBP-3 on IGF- and IGF-analogue-induced insulin-like growth factor-I receptor (IGFIR) signalling",
+   "jahr": "2001",
+   "journal": "Growth Horm IGF Res",
+   "erstautor": "Devi GR",
+   "doi": "10.1054/ghir.2001.0231",
+   "typ": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "Insulin-like growth factor binding protein-3 (IGFBP-3) binds IGF-I and IGF-II with high affinity, at least an order of magnitude higher than the affiniy of the IGFs for the IGFIR. It has been hypothesized that IGFBP-3 inhibits IGF binding to the IGFIR via a mechanism independent of its ability to sequester IGFs. In the present study, we examined the effects of IGFBP-3 and its proteolytic fragments on the initial events of the IGFIR signalling pathway. IGFBP-3 inhibited IGF-I-, IGF-II-, Des(1-3)IGF-I- and Long(R3)IGF-I-induced IGFIR phosphorylation in a dose-dependent manner at similar concentration range but not QAYL-induced IGFIR-P. The((1-97))IGFBP-3 fragment was able to inhibit only IGF-I-induced IGFIR-P. The((1-97))IGFBP-3 fragment but not intact IGFBP-3 inhibited insulin-induced IGFIR-P. Monolayer cross-linking with [(125)I]IGFBP-3 indicated that there is no direct interaction of IGFBP-3 with the IGFIR. This study demonstrates that the effect on the initial step of IGFIR signalling by IGFBP-3 is largely due to its ability to sequester IGF and the IGF analogues in the extracellular milieu and not the result of any interaction of IGFBP-3 with the IGFIR or a mechanism independent of its ability to bind IGFs."
+  },
+  {
+   "pmid": "39610283",
+   "titel": "Intranasal long R3 insulin-like growth factor-1 treatment promotes amyloid plaque remodeling in cerebral cortex but fails to preserve cognitive function in male 5XFAD mice",
+   "jahr": "2025",
+   "journal": "J Alzheimers Dis",
+   "erstautor": "Engel MG",
+   "doi": "10.1177/13872877241299056",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "abstract": "BACKGROUND: Insulin-like growth factor-1 (IGF-1) promotes neurogenesis, cell survival, and glial function, making it a promising candidate therapy in Alzheimer's disease (AD). OBJECTIVE: Long arginine 3-IGF-1 (LR3-IGF-1) is a potent IGF-1 analogue. We sought to determine whether intranasal (IN) LR3 treatment would delay cognitive decline and pathology in 5XFAD mice. METHODS: Wildtype and 5XFAD male mice were treated for 7 months (3-10 months of age), with IN LR3-IGF-1 or IN Vehicle (Veh) (n = 19-27 mice/group). Behavior, memory, and brain imaging were assessed at 8-9 months of age and tissues collected at 10 months. A comprehensive amyloid-β (Aβ) profile and other pathologic features were conducted and supportive in vitro stimulation studies in BV-2 microglial cells were also performed. RESULTS: In male 5XFAD mice, IN LR3-IGF-1 treatment improved body composition, but did not significantly alter cognitive symptoms, as assessed by multiple assays. In cortex, LR3 treatment improved some facets of pathology, including a reduction in filamentous plaques, and increase in inert plaques, corresponding with a reduction in low molecular weight Aβ oligomers. In vitro, uptake of Aβ1-42 peptide by BV2 cells was enhanced by LR3-IGF-1, which was also found to promote gene pathways implicated in actin remodeling and endocytosis. CONCLUSIONS: LR3 promotes favorable effects on Aβ plaque remodeling in cortex of male 5XFAD mice but fails to preserve aspects of behavior or memory. While these data do not support LR3 as a monotherapy per se, they do warrant further investigation into its potential for combinatorial formulations aimed at targeting the complexity of AD."
+  },
+  {
+   "pmid": "16983336",
+   "titel": "Insulin-like growth factor-binding protein-3 inhibition of prostate cancer growth involves suppression of angiogenesis",
+   "jahr": "2007",
+   "journal": "Oncogene",
+   "erstautor": "Liu B",
+   "doi": "10.1038/sj.onc.1209977",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Insulin-like growth factor-binding protein-3 (IGFBP-3) is a multifunctional protein that induces apoptosis utilizing both insulin-like growth factor receptor (IGF)-dependent and -independent mechanisms. We investigated the effects of IGFBP-3 on tumor growth and angiogenesis utilizing a human CaP xenograft model in severe-combined immunodeficiency mice. A 16-day course of IGFBP-3 injections reduced tumor size and increased apoptosis and also led to a reduction in the number of vessels stained with CD31. In vitro, IGFBP-3 inhibited both vascular endothelial growth factor- and IGF-stimulated human umbilical vein endothelial cells vascular network formation in a matrigel assay. This action is primarily IGF independent as shown by studies utilizing the non-IGFBP-binding IGF-1 analog Long-R3. Additionally, we used a fibroblast growth factor-enriched matrigel-plug assay and chick allantoic membrane assays to show that IGFBP-3 has potent antiangiogenic actions in vivo. Finally, overexpression of IGFBP-3 or the non-IGF-binding GGG-IGFBP-3 mutant in Zebrafish embryos confirmed that both IGFBP-3 and the non-IGF-binding mutant inhibited vessel formation in vivo, indicating that the antiangiogenic effect of IGFBP-3 is an IGF-independent phenomenon. Together, these studies provide the first evidence that IGFBP-3 has direct, IGF-independent inhibitory effects on angiogenesis providing an additional mechanism by which it exerts its tumor suppressive effects and further supporting its development for clinical use in the therapy of patients with prostate cancer."
+  },
+  {
+   "pmid": "8910605",
+   "titel": "Thyrotropin via cyclic AMP induces insulin receptor expression and insulin Co-stimulation of growth and amplifies insulin and insulin-like growth factor signaling pathways in dog thyroid epithelial cells",
+   "jahr": "1996",
+   "journal": "J Biol Chem",
+   "erstautor": "Burikhanov R",
+   "doi": "10.1074/jbc.271.46.29400",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Despite the similarity of their receptors and signal transduction pathways, insulin is regarded as a regulator of glucose, protein, and lipid metabolism, whereas insulin-like growth factors (IGF-I and IGF-II) mainly act as mitogenic hormones. In the dog thyroid primary culture model, the triggering of DNA synthesis by thyrotropin (TSH) through cAMP, or by cAMP-independent factors including epidermal growth factor, hepatocyte growth factor and phorbol esters, requires insulin or IGFs as comitogenic factors. In the present study, in TSH-treated cells, IGF-I receptors and insulin receptors were paradoxically equivalent in their capacity to elicit the comitogenic pathway, which, however, was mediated only by IGF-I receptors in dog thyroid cells stimulated by cAMP-independent mitogens. Moreover, prior cell exposure to TSH or forskolin increased their responsiveness to insulin, IGF-I, and IGF-II, as seen on DNA synthesis and activation of a common insulin/IGF signaling pathway. To understand these observations, binding characteristics and expression of insulin and IGF-I receptors were examined. To analyze IGF-I receptor characteristics, the unexpected interference of a huge presence of IGF-binding proteins at the cell membrane was avoided using labeled Long R3 IGF-I instead of IGF-I. Strikingly, TSH, through cAMP, time-dependently induced insulin binding and insulin receptor mRNA and protein accumulation without any effect on IGF-I receptors. These findings constitute a first example of an induction of insulin receptor gene expression by a cAMP-mediated hormone. In dog thyroid cells, this allows low physiological insulin concentrations to act as a comitogenic factor and might explain in part the enhanced responsiveness to IGFs in response to TSH. This raises the possibility that TSH-insulin interactions may play a role in the regulation of thyroid growth and function in vivo."
+  },
+  {
+   "pmid": "10828839",
+   "titel": "Differential regulation of IGF-binding proteins in rabbit costal chondrocytes by IGF-I and dexamethasone",
+   "jahr": "2000",
+   "journal": "J Endocrinol",
+   "erstautor": "Koedam JA",
+   "doi": "10.1677/joe.0.1650557",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Cartilage is a primary target tissue for the IGFs. The mitogenic activity of these peptides is regulated by a family of high-affinity IGF-binding proteins (IGFBP-1 to -6). We characterized the IGFBPs produced by cultured chondrocytes derived from rib cartilage of prepubertal rabbits. Culture medium, which had been conditioned by these cells for 48 h showed bands of 22 kDa, 24 kDa and a 31/32 kDa doublet by Western ligand blotting with [(125)I]IGF-II. When the cells were grown in the presence of increasing amounts of IGF-I or IGF-II, the 31/32 kDa doublet increased in intensity (reaching a plateau of about 11-fold stimulation between 2 and 10 nM IGF-I). The 22 kDa and 24 kDa bands increased only slightly while a 26 kDa band became faintly visible. By Western immunoblotting the 31/32 kDa doublet was identified as IGFBP-5. An IGF-I analog with reduced affinity for IGFBPs, Long-R3 IGF-I, also induced IGFBP-5, while insulin was less effective (2.2-fold stimulation at 10 nM). IGF-I protected IGFBP-5 against proteolytic degradation by conditioned medium. IGF-I also enhanced the level of IGFBP-5 mRNA. LY294002, a specific inhibitor of the intracellular signaling molecule phosphatidylinositol 3-kinase, inhibited stimulation of IGFBP-5 by IGF-I. Dexamethasone suppressed IGFBP-5 (by 70% at 20 nM) but, at the same time, a 39/41 kDa doublet (presumably IGFBP-3) was induced. IGFBP-5 has been shown in several cell types to enhance the mitogenic activity of IGF-I. IGFBP-3 generally acts as a growth inhibitor. Therefore, the differential effects of dexamethasone on these regulatory proteins could account, at least in part, for the growth-arresting effect of this glucocorticoid."
+  },
+  {
+   "pmid": "11999215",
+   "titel": "Effects of insulin-like growth factor-I and its analogue, long-R3-IGF-I, on intestinal absorption of 3-O-methyl-D-glucose are less pronounced than gut mucosal growth responses",
+   "jahr": "2002",
+   "journal": "Growth Factors",
+   "erstautor": "Garnaut SM",
+   "doi": "10.1080/08977190290022194",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The relationship between insulin-like growth factor-I (IGF-I) peptide-induced increases in bowel mass and functional improvement is unclear. We utilised three independent methods to investigate the effects of IGF-I peptides on intestinal absorption of the glucose analogue, 3-O-methyl-D-glucose (3MG) in rats. Rats received vehicle, IGF-I or the more potent analogue, long-R3-IGF-I via subcutaneously implanted mini-pump, for 7 days, at which time intestinal absorption was assessed by: (1) plasma 3MG appearance following oral gavage, (2) single-pass- or (3) recirculating-perfusion of a jejunal segment. 3MG (320 or 800 mg) was gavaged on day 7 to rats treated with vehicle, IGR-I or long-R3-IGF-I. With the lower 3MG dose, only long-R3-IGF-I increased (40%) the initial rate of 3MG appearance in plasma. IGF-I had no significant effect, whilst at the higher 3MG dose neither peptide was effective. Utilising perfusion techniques, long-R3-IGF-I, but not IGF-I, significantly increased 3MG uptake per cm of jejunum by up to 69%, although significance was lost when expressed as a function of tissue weight. Long-R3-IGF-I, but not native IGF-I, enhanced 3MG absorption from the intestinal lumen, presumably reflecting an increased mucosal mass rather than an up-regulation of specific epithelial glucose transporters."
+  },
+  {
+   "pmid": "15254966",
+   "titel": "Effect of recombinant porcine IGFBP-3 on IGF-I and long-R3-IGF-I-stimulated proliferation and differentiation of L6 myogenic cells",
+   "jahr": "2004",
+   "journal": "J Cell Physiol",
+   "erstautor": "Xi G",
+   "doi": "10.1002/jcp.20068",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ],
+   "abstract": "Insulin-like growth factor (IGF)-I stimulates both proliferation and differentiation of myogenic precursor cells. In vivo, IGFs are bound to one of the members of a family of six high-affinity IGF binding proteins (IGFBP 1-6) that regulate their biological activity. One of these binding proteins, IGFBP-3, affects cell proliferation via both IGF-dependent and IGF-independent mechanisms and it has generally been shown to suppress proliferation of cultured cells; however, it also may stimulate proliferation depending upon the cell type and the assay conditions. Cultured porcine embryonic myogenic cells (PEMCs) produce IGFBP-3 and its level drops significantly immediately prior to differentiation. Additionally, IGFBP-3 suppresses both IGF-I and Long-R3-IGF-I-stimulated proliferation of embryonic porcine myogenic cells. In this study, we have examined the effects of recombinant porcine IGFBP-3 (rpIGFBP-3) on IGF-I- and Long-R3-IGF-I-stimulated proliferation and differentiation of the L6 myogenic cell line. L6 cells potentially provide a good model for studying the actions of IGFBP-3 on muscle because they contain no non-muscle cells and they do not produce detectable levels of IGFBP-3. RpIGFBP-3 suppresses both IGF-I and Long-R3-IGF-I-stimulated proliferation of L6 cells, indicating that it suppresses proliferation via both IGF-dependent and IGF-independent mechanisms. Our data also show that rpIGFBP-3 causes IGF-independent suppression of proliferation without increasing the level of phosphosmad-2 in L6 cultures. Additionally, rpIGFBP-3 suppresses IGF-I-stimulated differentiation of L6 cells. In contrast, however, rpIGFBP-3 does not suppress Long-R3-IGF-I-stimulated differentiation. This suggests that rpIGFBP-3 does not have IGF-independent effects on L6 cell differentiation."
+  },
+  {
+   "pmid": "9867252",
+   "titel": "Involvement of insulin-like growth factor-1 and its binding proteins in proliferation and differentiation of murine bone marrow-derived macrophage precursors",
+   "jahr": "1998",
+   "journal": "Endocrine",
+   "erstautor": "Long E",
+   "doi": "10.1385/ENDO:9:2:185",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Insulin-like growth factor 1 (IGF-1) and its binding proteins (IGFBPs) are involved in proliferation and differentiation of many cell types. In the present study, the involvement of IGF-1 and IGFBPs in proliferation and differentiation of murine bone marrow-derived macrophages (BMDM) was investigated. L929-conditioned media (LCM) containing abundant macrophage colony-stimulating factor CSF-1 were used to stimulate BMDM development from their bone marrow precursors. The alteration of IGF-1 and IGFBPs during LCM-induced BMDM proliferation and differentiation was first studied. The cells were cultured in RPMI complete media containing 20% LCM for different time periods and then incubated in serum-free media for 24 h. The supernatants were collected for Western ligand blotting and immunoblotting analyses, and the cell pellets for Northern blotting analyses. The mRNA level of IGF-1 increased in a time-dependent manner. An increase of IGFBP-4 accumulation in the conditioned media was also observed during this process. However the mRNA expression of IGFBP-4 remained constant, indicating a posttranscriptional regulation of IGFBP-4 secretion and/or stability. The effects of exogenous recombinant human IGF-1 (rhIGF-1) on BMDM proliferation and differentiation were further studied. Two IGF-1 analogs (long R3 IGF-1 and des [1-3] IGF-1) were also used in parallel with regular IGF-1 to indicate the involvement of IGFBPs in BMDM development. Cells were cultured in complete media containing 20% LCM for different time periods, and then incubated in serum-free media in the presence of rhIGF-1 or its analogs for 24 h. These three forms of IGF-1 all potentiated the proliferation of freshly isolated BMDM precursors (d 0). rhIGF-1 and long R3 IGF-1, but not des (1-3) IGF-1, continued to stimulate the cell proliferation on d 1. The effects of these three forms of IGF-1 on BMDM differentiation were investigated using mannose receptor expression as a marker. Long R3 IGF-1 and des (1-3) IGF-1, but not rhIGF-1, enhanced BMDM differentiation on d 4. The different effects of rhIGF-1 and its analogs on BMDM differentiation suggest that the accumulation of IGFBP-4 in BMDM development might have an inhibitory effect on IGF-1 actions by sequestering free IGF-1."
+  },
+  {
+   "pmid": "1379161",
+   "titel": "Insulin and insulin-like growth factors (IGFs) stimulate production of IGF-binding proteins by ovarian granulosa cells",
+   "jahr": "1992",
+   "journal": "Endocrinology",
+   "erstautor": "Grimes RW",
+   "doi": "10.1210/endo.131.2.1379161",
+   "typ": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "Ligand blot analysis of granulosa cell (GC)-conditioned culture medium revealed several easily measurable insulin-like growth factor (IGF)-binding proteins (IGFBPs), including IGFBP-3 [40-44 kilodaltons (kDa)] and IGFBP-2 (34 kDa). In the present study, IGF-I, in a dose-dependent manner, significantly stimulated the production of these IGFBPs. Insulin, but not IGF-II, mimicked IGF-I's action on IGFBP-3 and -2 production, but was less potent. The synthetic IGF, long R3-IGF-I, which has very low affinity for IGFBPs and only slightly reduced affinity for the IGF-I (type I) receptor, had significantly greater potency in stimulating IGFBP-3 and -2 production compared to IGF-I. Des-(1-3)-IGF-I had similar effects. IGF-I, IGF-II, and the IGF-I analogs, but not insulin, also induced production of an unidentified 30-kDa IGFBP not normally detectable in these cultures. However, in the presence of epidermal growth factor (which was without independent effect on the 30-kDa IGFBP), insulin also induced this 30-kDa IGFBP. By Northern analysis the expression of IGFBP-3 mRNA was found to be significantly stimulated by IGF-I. In summary, insulin stimulated IGFBP-3 and -2 production in a manner that mimics that of IGF-I and the more potent long R3-IGF-I. However, its low potency suggested that IGFBP production is regulated via the IGF-I (type I) receptor. The much higher potency of long R3-IGF-I compared to that of IGF-I suggests that the IGFBPs themselves modulate the action of IGFs by sequestering exogenous IGFs. Thus, one cellular response to IGF stimulation is the production of IGFBPs, which, in turn, reduce or negate the biological activity of the IGFs. The effects of insulin-like peptides are exerted at least in part by increasing levels of mRNA for specific BPs."
+  },
+  {
+   "pmid": "10535672",
+   "titel": "Cellular localization and expression of insulin-like growth factors (IGFs) and IGF binding proteins within the epiphyseal growth plate of the ovine fetus: possible functional implications",
+   "jahr": "1999",
+   "journal": "Can J Physiol Pharmacol",
+   "erstautor": "de los Rios P",
+   "doi": "",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The insulin-like growth factors (IGFs) are important in the regulation of normal fetal musculoskeletal growth and development, and their actions have been shown to be modulated by IGF binding proteins (IGFBPs). Because the anatomical distribution of IGFBPs is likely to dictate IGF bioavailability, we determined the cellular distribution and expression of IGF-I, IGF-II, and IGFBP-1 to IGFBP-6 in epiphyseal growth plates of the fetal sheep, using immunocytochemistry and in situ hybridization. Little mRNA for IGF-I was detectable within the growth plates, but mRNA for IGF-II was abundant in germinal and proliferative chondrocytes, although absent from some differentiating chondrocytes and hypertrophic cells. Immunohistochemistry for IGF-I and IGF-II showed a presence of both peptides in all chondrocyte zones, including hypertrophic cells. Immunoreactive IGFBP-2 to -5 were localized within the germinal and proliferative zones of chondrocytes, but little immunoreactivity was present within the columns of differentiating cells. IGFBP immunoreactivity again appeared in hypertrophic chondrocytes. IGFBP mRNA in chondrocytes of the epiphyseal growth plate was below the detectable limit of in situ hybridization. However, low levels of mRNAs for IGFBP-2 to -6 were detected by the reverse transcriptase polymerase chain reaction. A co-localization of IGFBPs with IGF peptides in intact cartilage suggests that they may regulate IGF bioavailability and action locally. To test this hypothesis, monolayer cultures of chondrocytes were established from the proliferative zone of the growth plate, and were found to release immunoreactive IGF-II and to express mRNAs encoding IGFBP-2 to -6. Exogenous IGFBP-3, -4, and -5 had an inhibitory action on IGF-II-dependent DNA synthesis. IGFBP-2 had a biphasic effect, potentiating IGF-II action at low concentrations but inhibiting DNA synthesis at equimolar or greater concentrations relative to IGF-II. Long R3 IGF-I, which has a reduced binding affinity for many IGFBPs, was more potent than native IGF-I in promoting DNA synthesis by chondrocytes. Our findings suggest that locally produced IGF-II and IGF-I derived from the circulation can influence fetal epiphyseal chondrogenesis, and that this may be modulated locally by multiple IGFBP expression."
+  },
+  {
+   "pmid": "19446281",
+   "titel": "Novel insulin-like growth factor-methotrexate covalent conjugate inhibits tumor growth in vivo at lower dosage than methotrexate alone",
+   "jahr": "2009",
+   "journal": "Transl Res",
+   "erstautor": "McTavish H",
+   "doi": "10.1016/j.trsl.2009.02.005",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The insulin-like growth factor receptor is overexpressed on many types of cancer cells and has been implicated in metastasis and resistance to apoptosis. We report here the development of a novel covalent conjugate that contains the antifolate drug methotrexate coupled to an engineered variant of insulin-like growth factor-1 (IGF-1), long-R3-IGF-1, which was designed to target methotrexate to tumor cells that overexpress the membrane IGF-1 receptor. The IGF-methotrexate conjugate was found to contain at least 4 methotrexate molecules per IGF-1 protein. The IGF-methotrexate conjugate bound to MCF7 breast cancer cells with greater than 3.3-fold higher affinity than unconjugated long-R3-IGF-1 in a competition binding assay against radiolabeled wild-type IGF-1. Compared with free methotrexate, the IGF-methotrexate conjugate required slightly higher concentrations to inhibit the in vitro growth of the human prostate cancer cell line LNCaP. In vivo, however, in a mouse xenograft model using LNCaP cells, the IGF-methotrexate conjugate was more effective than free methotrexate even at a 6.25-fold lower molar dosage. Similarly, MCF7 xenografts were inhibited more effectively by the IGF-methotrexate conjugate than free methotrexate, even at a 4-fold lower molar dosage. Our results suggest that the targeting of the IGF receptor on tumor cells and tumor-related tissues with IGF-chemotherapy conjugates may substantially increase the specific drug localization and therapeutic effect in the tumor."
+  },
+  {
+   "pmid": "17154301",
+   "titel": "Leptin in the bovine corpus luteum: receptor expression and effects on progesterone production",
+   "jahr": "2007",
+   "journal": "Mol Reprod Dev",
+   "erstautor": "Nicklin LT",
+   "doi": "10.1002/mrd.20671",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "In cattle, leptin has been implicated in the control of ovarian function and has been shown to modulate steroid production by theca and granulosa cells in a number of species. However, a direct effect of leptin on bovine luteal function has not been demonstrated. This study was conducted to determine if the leptin receptor (OB-R) is expressed in the bovine corpus luteum (CL), and to examine the effects of leptin on progesterone production by dispersed luteal cells in vitro. RT-PCR was used to detect the presence of OB-R and, more specifically, the long, biologically active isoform (OB-Rb), in CL, collected on days 2-18 of the oestrous cycle (n=18). The effects of leptin on progesterone production were investigated in dispersed luteal cells prepared from CL collected on days 5 and 8 (n=14) of the cycle. The dispersed luteal cells were cultured for 24 hr with recombinant human leptin and/or LR3-IGF-1 and/or LH. OB-Rs, in particular, OB-Rb, were expressed in the CL at all stages of development. Progesterone production by luteal cells was increased (P<0.001) by treatment with LH (10 ng/ml) but treatment with leptin alone had no effect. However, in the presence of IGF-1 (100 ng/ml), leptin (10 ng/ml) caused a significant (P<0.005) increase in progesterone production. In conclusion, we have shown that the leptin receptor is expressed in the bovine CL and have demonstrated a modulatory effect of leptin on luteal progesterone production in vitro."
+  },
+  {
+   "pmid": "7522591",
+   "titel": "Differential steroidogenic response of subpopulations of porcine granulosa cells to insulin-like growth factor-1 (IGF-1) or IGF-1 analogs",
+   "jahr": "1994",
+   "journal": "Biol Reprod",
+   "erstautor": "Howard HJ",
+   "doi": "10.1095/biolreprod51.1.108",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ],
+   "abstract": "Two experiments were conducted to examine responses of porcine granulosa cells to insulin-like growth factor-1 (IGF-1) or IGF-1 analogs (des [1-3] and Long R3) that have reduced affinity for IGF-binding proteins (IGFBP). Both experiments evaluated estradiol and IGFBP production by granulosa cells after separation of cells into subpopulations that maintain long-term estradiol production in vitro (tightly bound) and those that do not (weakly associated). Granulosa cells were obtained from medium-sized follicles (4-6 mm) at random stages of the estrous cycle in experiment 1 and from the 10 largest follicles per ovary at 0 or 48 h after weaning in experiment 2. Follicle diameter and follicular fluid estradiol concentrations increased with time after weaning (p < 0.05). Tightly bound cells produced more estradiol than weakly associated cells at 24-120 h of culture in experiment 1 and from 0 to 48 h in experiment 2 (p < 0.05). In tightly bound but not weakly associated cells, IGF-1 stimulated estradiol production. The IGF analogs were more potent stimulators than IGF-1 in experiment 1 (p < 0.05); and in experiment 2, this response was restricted to cells collected at 48 h after weaning. Conversely, tightly bound cells obtained at 0 h after weaning responded similarly to IGF-1 and des (1-3). During the final 48 h of culture, weakly associated cells produced greater quantities of 28-30-kDa IGFBP than did tightly bound cells in response to IGF-1 or analogs (both experiments; p < 0.05).(ABSTRACT TRUNCATED AT 250 WORDS)"
+  },
+  {
+   "pmid": "9488001",
+   "titel": "Long [R3] insulin-like growth factor-I reduces growth, plasma growth hormone, IGF binding protein-3 and endogenous IGF-I concentrations in pigs",
+   "jahr": "1997",
+   "journal": "J Endocrinol",
+   "erstautor": "Dunaiski V",
+   "doi": "10.1677/joe.0.1550559",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Growth hormone (GH) improves growth performance in the pig. Analogues of insulin-like growth factor-I (IGF-I) that bind poorly to IGF binding proteins (IGFBP) stimulate growth in the rat but, in contrast, inhibit growth in the pig. This study was designed to determine the effect of IGF peptides alone or in combination with porcine GH (pGH) on growth characteristics and plasma hormone concentrations in finisher pigs. A four-day infusion of Long [R3] IGF-I (LR3IGF-I; 180 micrograms/kg/day) decreased the average daily gain, food intake, and plasma IGFBP-3, IGF-I and insulin concentrations. The mean plasma GH concentration was decreased by 23% and the area under the GH peaks was reduced by 60%. Co-administration of pGH (30 micrograms/kg/day) with LR3IGF-I had no interactive effect on growth performance, and plasma insulin, IGFBP-3 and IGF-I concentrations remained suppressed. The area under the GH peaks was not restored with this combination treatment although mean plasma GH concentrations were elevated in all animals receiving pGH. Infusion of IGF-I (180 micrograms/kg/day) decreased plasma insulin and mean GH concentrations but had no significant effect on IGFBP-3 concentrations. Average daily gain and feed intake were not changed by IGF-I treatment. A combination of IGF-I and pGH injection (30 micrograms/kg/day) increased plasma IGFBP-3 concentrations but plasma insulin levels remained suppressed. Plasma glucose levels were unaffected by any treatment. The study demonstrates that both IGF-I and LR3IGF-I suppress plasma GH concentrations in finisher pigs. This, in turn, may be responsible for the reduction in the plasma concentration of IGF-I, IGFBP-3 and insulin seen in LR3IGF-I-treated animals. The decrease in these parameters may contribute to the inhibitory effect of LR3IGF-I on growth performance in the pig."
+  },
+  {
+   "pmid": "7561636",
+   "titel": "Long R3 insulin-like growth factor-I (IGF-I) infusion stimulates organ growth but reduces plasma IGF-I, IGF-II and IGF binding protein concentrations in the guinea pig",
+   "jahr": "1995",
+   "journal": "J Endocrinol",
+   "erstautor": "Conlon MA",
+   "doi": "10.1677/joe.0.1460247",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "We have tested whether an animal with substantial amounts of both IGF-I and IGF-II in circulation, such as the guinea pig, would respond to chronic IGF infusion in the same manner as the adult rat, which has negligible amounts of IGF-II in blood. Female guinea pigs of 350 g body weight were continuously infused for 7 days with recombinant guinea pig IGF-I or -II (120 or 360 micrograms/day) or long R3 IGF-I (LR3IGF-I) (120 micrograms/day), an analogue which has much reduced affinities for IGF binding proteins. IGF-I or IGF-II infusion led to substantial increases in plasma IGF-I or IGF-II respectively in comparison with vehicle-infused animals. Nevertheless, body weight gain, feed intake, feed conversion efficiency and carcass composition were not significantly affected by any treatment (significance was deemed to be P < 0.05). Amongst the tissues examined only the fractional weight (g/kg body weight) of the adrenals was increased, and that only by the higher dose (360 micrograms/day) of IGF-I. However, the fractional weight of adrenals, gut, kidneys and spleen were significantly increased by LR3IGF-I, but again overall growth was not stimulated. A possible explanation for the lack of IGF-I effects is that total circulating IGF concentrations were not increased by these treatments. IGF-II significantly raised total IGF concentrations at the higher dose only. Plasma IGF-I was reduced by IGF-II infusion, as was plasma IGF-II by IGF-I infusion.(ABSTRACT TRUNCATED AT 250 WORDS)"
+  }
+ ],
+ "ctgov": [],
+ "gruppe": "C_wachstumshormon"
+}

@@ -1,0 +1,13 @@
+body { font-family: serif; line-height: 1.45; margin: 0 2%; }
+h1 { font-size: 1.6em; margin: 1.5em 0 0.8em; page-break-before: always; text-align: left; }
+h2 { font-size: 1.35em; margin: 1.4em 0 0.6em; page-break-before: always; }
+h3 { font-size: 1.12em; margin: 1.2em 0 0.4em; }
+h4 { font-size: 1em; margin: 1em 0 0.3em; }
+p { margin: 0 0 0.6em; text-indent: 0; }
+table { border-collapse: collapse; width: 100%; margin: 0.8em 0; font-size: 0.85em; }
+th, td { border: 1px solid #999; padding: 0.25em 0.35em; vertical-align: top; text-align: left; }
+th { background: #eee; font-weight: bold; }
+ul, ol { margin: 0.3em 0 0.8em 1.2em; padding: 0; }
+li { margin-bottom: 0.25em; }
+blockquote { margin: 0.8em 1em; font-style: italic; }
+nav#toc ol { list-style: none; margin-left: 0.8em; }

@@ -1,0 +1,603 @@
+{
+ "name": "BPC-157",
+ "status": "nicht_zugelassen",
+ "suchbegriff_pubmed": "BPC 157[tiab] OR BPC-157[tiab] OR pentadecapeptide BPC[tiab]",
+ "suchbegriff_ctgov": "BPC-157",
+ "humanstudien_alle": [],
+ "humanstudien_detail": [],
+ "metaanalysen": [
+  {
+   "pmid": "42885452",
+   "titel": "Human evidence for BPC-157 in orthopaedic and regenerative medicine: a systematic review of efficacy and safety",
+   "jahr": "2026",
+   "journal": "Acta Orthop Belg",
+   "erstautor": "Poolton JT",
+   "doi": "10.52628/92.3.15837",
+   "typ": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "abstract": "or mzyjp23@nottingham.ac.uk Body Protective Compound-157 (BPC-157) is a synthetic pentadecapeptide popular among athletic populations for musculoskeletal injury recovery, despite lacking regulatory approval for human use and evidence being largely limited to animal models. This PRISMA-compliant systematic review, prospectively registered with PROSPERO (CRD420261406325), aimed to evaluate the efficacy and safety of BPC-157 for orthopaedic and regenerative purposes in humans. Electronic databases (Embase, PubMed, Cochrane Library and ClinicalTrials.gov) were searched up to 1 June 2026. Eligibility included quantitative and qualitative studies investigating BPC-157 for any indication in human participants. Methodological quality and certainty of evidence was assessed using the National Institutes of Health Quality Assessment Tool for Before-After Studies With No Control Group and GRADE framework respectively. Findings were narratively synthesised in accordance with SWiM guidance. Three studies (n=30) met the inclusion criteria, consisting of a retrospective study of intra-articular BPC-157 injections for knee pain (n=16), a retrospective pilot study of intravesical BPC-157 for interstitial cystitis (n=12), and a prospective pilot study evaluating intravenous BPC-157 safety (n=2). All studies reported symptom improvement in most participants without treatment-related adverse events, but were judged to be of poor methodological quality. Overall certainty of evidence was rated very low due to serious risk of bias, indirectness and imprecision. Accordingly, BPC-157 should not be used clinically in humans outside ethically approved, regulated, high-quality clinical trials."
+  }
+ ],
+ "praeklinik": [
+  {
+   "pmid": "40005999",
+   "titel": "Multifunctionality and Possible Medical Application of the BPC 157 Peptide-Literature and Patent Review",
+   "jahr": "2025",
+   "journal": "Pharmaceuticals (Basel)",
+   "erstautor": "Józwiak M",
+   "doi": "10.3390/ph18020185",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "BPC 157, known as the \"Body Protection Compound\", is a pentadecapeptide isolated from human gastric juice that demonstrated its pleiotropic beneficial effects in various preclinical models mimicking medical conditions, such as tissue injury, inflammatory bowel disease, or even CNS disorders. Unlike many other drugs, BPC 157 has a desirable safety profile, since only a few side effects have been reported following its administration. Nevertheless, this compound was temporarily banned by the World Anti-Doping Agency (WADA) in 2022 (it is not currently listed as banned by the WADA). However, it has not been approved for use in standard medicine by the FDA and other global regulatory authorities due to the absence of sufficient and comprehensive clinical studies confirming its health benefits in humans. In this review, we summarize information on the biological activities of BPC 157, with particular reference to its mechanism of action and probable toxicity. This generated the attention of experts, as BPC 157 has been offered for sale on many websites. We also present recent interest in BPC 157 as reflected in a number of patent applications and granted patents."
+  },
+  {
+   "pmid": "40756949",
+   "titel": "Emerging Use of BPC-157 in Orthopaedic Sports Medicine: A Systematic Review",
+   "jahr": "2025",
+   "journal": "HSS J",
+   "erstautor": "Vasireddi N",
+   "doi": "10.1177/15563316251355551",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Background: Body protection compound-157 (BPC-157) is a naturally occurring gastric peptide that promotes mucosal integrity and homeostasis. Preclinical studies show its potential for promoting healing in musculoskeletal injuries such as fractures, tendon ruptures, ligament tears, and muscle injuries. Despite lacking US Food and Drug Administration approval and its use being banned in professional sports, it is increasingly used by clinicians and athletes. Purpose: We sought to (1) provide a comprehensive synthesis of the BPC-157 literature from an orthopedic sports medicine perspective and (2) elucidate the mechanism of action, musculoskeletal effects, metabolism, and safety profile. Methods. We conducted a systematic review of English-language literature, published from database inception to June 3, 2024, from PubMed, Cochrane, and Embase. We searched PROSPERO to identify any current or unpublished reviews. Studies reporting BPC-157's mechanism, musculoskeletal outcomes, metabolism, and safety were included. Articles were screened in 3 phases by 2 reviewers. In cases of a disagreement between the 2 reviewers, blinding was removed, and eligibility was determined by group consensus, with a third author making the final decision. Results. A total of 544 articles from 1993 to 2024 were identified. After duplicates were removed, 36 studies were included (35 preclinical studies, 1 clinical study). The studies suggest that BPC-157 enhances growth hormone receptor expression and several pathways involved in cell growth and angiogenesis, while reducing inflammatory cytokines. In preclinical models, BPC-157 improved functional, structural, and biomechanical outcomes in muscle, tendon, ligament, and bony injuries. In a retrospective study of musculoskeletal pain following intraarticular injection of BPC-157 for unspecified chronic knee pain, 7 of 12 patients reported relief for >6 months. BPC-157 is metabolized in the liver, with a half-life of less than 30 minutes, and is cleared by the kidneys. Preclinical safety studies showed no adverse effects across several organ systems. No clinical safety data were found. Conclusion: This systematic review of level IV and level V studies suggests that BPC-157 shows promise for promoting recovery from musculoskeletal injuries. Adverse effects are possible due to unregulated manufacturing, contamination, or unknown clinical safety. We recommend that clinicians counsel athletes to understand their organizations' rules to remain compliant with medication/supplement safety and testing standards. Review of the Musculoskeletal Literature Surrounding a Relatively Novel Peptide, Body Protection Compound-157 Body protection compound-157 (BPC-157) is a naturally occurring substance in the body that helps maintain healthy tissues and organs. Even though it is not approved by the US Food and Drug Administration and is banned in some sports, BPC-157 is still being used. This study aimed to review all the research on BPC-157 to understand how it works, its effects on muscles and joints, how the body processes it, and whether it is safe. The review looked at 36 studies published from 1993 to 2024. The findings showed that BPC-157 helps promote healing by boosting growth factors and reducing inflammation. It has improved outcomes in muscle, tendon, ligament, and bone injury models in animals. In one human study, 7 out of 12 people with chronic knee pain felt relief for over six months after receiving one BPC-157 knee injection. Animal studies showed no harmful effects, but there is no clinical safety data in humans. Overall, BPC-157 could help heal musculoskeletal injuries, but there are potential risks due to unregulated production and lack of clinical safety data."
+  },
+  {
+   "pmid": "30915550",
+   "titel": "Gastric pentadecapeptide body protection compound BPC 157 and its role in accelerating musculoskeletal soft tissue healing",
+   "jahr": "2019",
+   "journal": "Cell Tissue Res",
+   "erstautor": "Gwyer D",
+   "doi": "10.1007/s00441-019-03016-8",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "There is a current need for a therapy that can alleviate the social and economic burden that presents itself with debilitating and recurring musculoskeletal soft tissue injuries and disorders. Currently, several therapies are emerging and undergoing trials in animal models; these focus on the manipulation and administration of several growth factors implicated with healing. However, limitations include in vivo instability, reliance on biocompatible and robust carriers and restricted application procedures (local and direct). The aim of this paper is therefore to critically review the current literature surrounding the use of BPC 157, as a feasible therapy for healing and functional restoration of soft tissue damage, with a focus on tendon, ligament and skeletal muscle healing. Currently, all studies investigating BPC 157 have demonstrated consistently positive and prompt healing effects for various injury types, both traumatic and systemic and for a plethora of soft tissues. However, to date, the majority of studies have been performed on small rodent models and the efficacy of BPC 157 is yet to be confirmed in humans. Further, over the past two decades, only a handful of research groups have performed in-depth studies regarding this peptide. Despite this, it is apparent that BPC 157 has huge potential and following further development has promise as a therapy to conservatively treat or aid recovery in hypovascular and hypocellular soft tissues such as tendon and ligaments. Moreover, skeletal muscle injury models have suggested a beneficial effect not only for disturbances that occur as a result of direct trauma but also for systemic insults including hyperkalamia and hypermagnesia. Promisingly, there are few studies reporting any adverse reactions to the administration of BPC 157, although there is still a need to understand the precise healing mechanisms for this therapy to achieve clinical realisation."
+  },
+  {
+   "pmid": "34267654",
+   "titel": "Stable Gastric Pentadecapeptide BPC 157 and Wound Healing",
+   "jahr": "2021",
+   "journal": "Front Pharmacol",
+   "erstautor": "Seiwerth S",
+   "doi": "10.3389/fphar.2021.627533",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Significance: The antiulcer peptide, stable gastric pentadecapeptide BPC 157 (previously employed in ulcerative colitis and multiple sclerosis trials, no reported toxicity (LD1 not achieved)), is reviewed, focusing on the particular skin wound therapy, incisional/excisional wound, deep burns, diabetic ulcers, and alkali burns, which may be generalized to the other tissues healing. Recent Advances: BPC 157 has practical applicability (given alone, with the same dose range, and same equipotent routes of application, regardless the injury tested). Critical Issues: By simultaneously curing cutaneous and other tissue wounds (colocutaneous, gastrocutaneous, esophagocutaneous, duodenocutaneous, vesicovaginal, and rectovaginal) in rats, the potency of BPC 157 is evident. Healing of the wounds is accomplished by resolution of vessel constriction, the primary platelet plug, the fibrin mesh which acts to stabilize the platelet plug, and resolution of the clot. Thereby, BPC 157 is effective in wound healing much like it is effective in counteracting bleeding disorders, produced by amputation, and/or anticoagulants application. Likewise, BPC 157 may prevent and/or attenuate or eliminate, thus, counteract both arterial and venous thrombosis. Then, confronted with obstructed vessels, there is circumvention of the occlusion, which may be the particular action of BPC 157 in ischemia/reperfusion. Future Directions: BPC 157 rapidly increases various genes expression in rat excision skin wound. This would define the healing in the other tissues, that is, gastrointestinal tract, tendon, ligament, muscle, bone, nerve, spinal cord, cornea (maintained transparency), and blood vessels, seen with BPC 157 therapy."
+  },
+  {
+   "pmid": "34324435",
+   "titel": "Intra-Articular Injection of BPC 157 for Multiple Types of Knee Pain",
+   "jahr": "2021",
+   "journal": "Altern Ther Health Med",
+   "erstautor": "Lee E",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "INTRODUCTION: Knee pain, a common complaint in primary care, has many causes, the most common of which is osteoarthritis (OA). Other common causes are meniscus tears, tendinosis, ligament tears or sprains, rheumatoid arthritis, lupus and septic arthritis. Also, referred pain from hip joint pathology like slipped capital femoral epiphysis can result in knee pain.1 The use of peptides BPC157 and thymosin-beta-4 (TB4) has not been studied in the treatment of knee pain. METHODS: A retrospective study was done at the Institute for Hormonal Balance in Orlando, Florida, USA to see whether intra-articular injection of the peptide BPC 157, alone or combined with TB4, helped relieve knee pain. A 1-year chart review from 2019 to 2020 was performed. Since this was a retrospective study, patient follow-up varied, with most patients having had an injection of peptide into their knee 6 months to 1 year prior to the study. Of the 17 patients in the study, 16 were contacted by phone to follow up on the status of their knee pain. Only 1 patient could not be reached for the survey. Patients were asked to rate their pain prior to injection, the length of time the peptides helped ease the pain and the degree to which the injection helped them. No specific tools were used to measure their improvement in function, quality of life, stiffness or activities of daily living. The survey's main goal was to determine whether BPC157 helped with multiple types of knee pain in a primary care setting. RESULTS: Of the 16 patients, 12 had received only BPC 157 as an intra-articular injection. In this group, 11 of the 12 patients (91.6%) had significant improvement in knee pain, whereas 1 patient (8.3 %) had no improvement. The other 4 patients received a combination of 2 peptide injections of BPC 157 and TB4. Of the patients who received both peptides, 75% showed significant improvement, but 25% had no relief of their knee pain. Overall, 14 of 16 patients (87.5%) had relief of their knee pain when BPC 157 or a combination of BPC 157 and TB4 was used. CONCLUSION: This small study suggests that intra-articular injection of BPC-157 helps with multiple types of knee pain. CLINICAL IMPLICATIONS: BPC157 is a peptide with regenerative properties that can be used to relieve multiple types of knee pain.2,3 Future studies are needed to look at the different causes of knee pain with follow-up magnetic resonance imaging scans (MRIs) to document the peptide's benefits. BPC157 has the potential to repair tears, build cartilage and reduce the number of knee surgeries. Because of its reparative properties, treatment with BPC157 offers advantages over the use of steroids. RESULTS: BPC157 is a peptide with regenerative properties that can be used to relieve multiple types of knee pain.2,3 Future studies are needed to look at the different causes of knee pain with follow-up MRIs to document the peptide's benefits. BPC157 has the potential to repair tears, build cartilage and reduce the number of knee surgeries. Because of its reparative properties, treatment with BPC157 offers advantages over the use of steroids."
+  },
+  {
+   "pmid": "41490200",
+   "titel": "Therapeutic Peptides in Orthopaedics: Applications, Challenges, and Future Directions",
+   "jahr": "2026",
+   "journal": "J Am Acad Orthop Surg Glob Res Rev",
+   "erstautor": "Rahman OF",
+   "doi": "10.5435/JAAOSGlobal-D-25-00236",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Therapeutic peptides are emerging as promising adjuncts in the management of orthopaedic injuries, grounded in their ability to modulate molecular signaling networks central to cellular medicine. By acting on key pathways such as PI3K/Akt, mTOR, MAPK, TGF-β, and AMPK, peptides exert influence over tissue regeneration, inflammation resolution, and neuromuscular recovery. Wound-healing peptides such as BPC-157, TB-500, and GHK-Cu promote angiogenesis, integrin-mediated extracellular matrix remodeling, and fibroblast activation, whereas growth hormone secretagogues like ipamorelin, CJC-1295, tesamorelin, sermorelin, and AOD-9604 activate IGF-1 signaling and satellite cell repair. Recovery-enhancing agents such as epithalon, delta sleep-inducing peptide, and pinealon target circadian and mitochondrial regulators, and neuroactive peptides like selank, semax, and dihexa enhance brain-derived neurotrophic factor and HGF/c-Met pathways critical to neuroplasticity. Although preclinical studies are promising, there is a current lack of clinical trials. This review integrates current mechanistic insights with orthopaedic relevance, emphasizing safety, efficacy, and future directions for responsible integration into musculoskeletal care."
+  },
+  {
+   "pmid": "40789979",
+   "titel": "Regeneration or Risk? A Narrative Review of BPC-157 for Musculoskeletal Healing",
+   "jahr": "2025",
+   "journal": "Curr Rev Musculoskelet Med",
+   "erstautor": "McGuire FP",
+   "doi": "10.1007/s12178-025-09990-7",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "PURPOSE OF REVIEW: This scoping review aims to evaluate the molecular mechanisms, therapeutic potential, and safety concerns of Body Protective Compound-157 (BPC-157) in the context of musculoskeletal healing. Given the compound’s increasing availability, popularity, and its regulatory controversies, we sought to assess the breadth and quality of preclinical and clinical data supporting its use in musculoskeletal medicine. RECENT FINDINGS: BPC-157 is a synthetic pentadecapeptide originally isolated from gastric juice and has demonstrated regenerative properties across numerous animal models. It activates several overlapping pathways, notably VEGFR2 and nitric oxide synthesis via the Akt-eNOS axis, promoting angiogenesis, fibroblast activity, and neuromuscular stabilization. It also engages ERK1/2 signaling, facilitates endothelial and muscle repair, and exerts anti-inflammatory effects. These effects promote angiogenesis, fibroblast activity, and neuromuscular stabilization, particularly in poorly vascularized tissues such as tendons and myotendinous junctions. Despite broad preclinical support, human data are extremely limited. Only three pilot studies have examined BPC-157 in humans, including its use for intraarticular knee pain, interstitial cystitis, and intravenous safety/pharmacokinetics. No adverse effects were reported, but rigorous, large-scale trials are lacking. BPC-157 demonstrates robust regenerative and cytoprotective effects in preclinical studies, positioning it as a potentially valuable tool in musculoskeletal medicine. Despite its growing popularity among athletes and its wide availability through non-regulated sources, there is minimal human data available. Until well-designed clinical trials are conducted, BPC-157 should be considered investigational, and its use approached with caution. This review highlights that given the robust preclinical evidence and high public interest, there is a critical need for well-designed human trials to assess the safety, efficacy, and clinical utility of BPC-157 in musculoskeletal medicine."
+  },
+  {
+   "pmid": "41476424",
+   "titel": "Injectable Peptide Therapy: A Primer for Orthopaedic and Sports Medicine Physicians",
+   "jahr": "2026",
+   "journal": "Am J Sports Med",
+   "erstautor": "Mayfield CK",
+   "doi": "10.1177/03635465251357593",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "BACKGROUND: Therapeutic peptides are short-chain amino acids that regulate cellular functions and facilitate biochemical processes. In recent years, there has been significant growth in the global market for therapeutic peptides and thus its popularity among patients. Given the increase in the development of peptides and increased marketing to patients for orthopaedic injuries, it is critical for orthopaedic surgeons to understand the current evidence behind these therapeutic peptides. PURPOSE: To evaluate the current evidence and applications of injectable peptide therapy, focusing on its potential in regenerative medicine and sports performance, to help orthopaedic providers better understand the current state of different therapeutic peptide approaches. STUDY DESIGN: Narrative review. METHODS: A comprehensive literature search was conducted using PubMed to identify biochemical and clinical studies on the most popular types of injectable peptide therapy. Key peptides evaluated included BPC-157, TB-4, TB-500, CJC-1295 + ipamorelin, tesamorelin, and GHK-Cu. RESULTS: BPC-157 demonstrated potential benefits in tendon and muscle repair, but these findings are largely unvalidated in human trials. A single human case series reported improvements in pain after intra-articular knee injections of BPC-157, although significant methodological flaws and a lack of controls limit its applicability and reliability. TB-4 and its derivative TB-500 promoted angiogenesis and tissue repair in preclinical models, but human orthopaedic data are lacking, and both remain banned substances in sports. CJC-1295 combined with ipamorelin showed significantly improved maximum tetanic tension in murine models with glucocorticoid-induced muscle loss, but these findings are limited to animal studies. Tesamorelin, approved for treating HIV-associated lipodystrophy, has no supporting orthopaedic evidence. GHK-Cu showed promise in wound healing and anti-inflammatory effects, but no clinical data support its use for musculoskeletal conditions. CONCLUSION: While peptide therapy may possess significant therapeutic and regenerative potential, it is critical that orthopaedic and sports medicine providers understand the current lack of evidence to support the clinical use of these peptides. Importantly, information regarding the indications, dosing, frequency, and duration of treatment remains unknown. Despite the popularity of these peptides in mainstream media and among patients, significant research regarding the safety and efficacy of these therapeutic methods is required before definitive recommendations can be made to patients."
+  },
+  {
+   "pmid": "36200148",
+   "titel": "Stable Gastric Pentadecapeptide BPC 157: Prompt Particular Activation of Collateral Pathways",
+   "jahr": "2023",
+   "journal": "Curr Med Chem",
+   "erstautor": "Sikiric P",
+   "doi": "10.2174/0929867329666221005111553",
+   "typ": [
+    "Editorial"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "39265666",
+   "titel": "Injectable Therapeutic Peptides-An Adjunct to Regenerative Medicine and Sports Performance?",
+   "jahr": "2025",
+   "journal": "Arthroscopy",
+   "erstautor": "DeFoor MT",
+   "doi": "10.1016/j.arthro.2024.09.005",
+   "typ": [
+    "Review",
+    "Letter"
+   ],
+   "abstract": "High-level athletes and bodybuilders are constantly seeking novel therapies to enhance recovery and expedite return from injury-injectable peptides are a new and trending therapy that may be the wave of the future in the realm of regenerative medicine research in treating joint injuries and osteoarthritis. Very early in vivo research on pharmacokinetics indicates the possibility that body protection compound 157 (BPC-157) is at the forefront of therapeutic peptides, with early demonstrations of this experimental peptide optimizing endurance training, metabolism, recovery, and tissue repair. Although unregulated and yet readily available for purchase over the internet, there is scarce orthopaedic literature investigating the clinical use and outcomes of such therapeutic peptides in tendon, muscle, and cartilage injury. However, this has not slowed the recent exponential growth of the multi-billion-dollar industry in the development of therapeutic peptides. As orthopaedic surgeons and team physicians, we should stay up to date with the latest pharmacokinetic, safety, ethical, and legal profiles and regulations regarding synthetic peptide supplementation for injury recovery and sports performance optimization in our patients, from elite athletes to fitness fanatics, because they will continue to seek the latest and greatest in treatment options and will be approaching us with questions on their results, risks, and benefits."
+  },
+  {
+   "pmid": "23782145",
+   "titel": "BPC 157 and blood vessels",
+   "jahr": "2014",
+   "journal": "Curr Pharm Des",
+   "erstautor": "Seiwerth S",
+   "doi": "10.2174/13816128113199990421",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "This review focuses on the described effects of BPC 157 on blood vessels after different types of damage, and elucidate by investigating different aspects of vascular response to injury (endothelium damage, clotting, thrombosis, vasoconstriction, vasodilatation, vasculoneogenesis and edema formation) especially in connection to the healing processes. In this respect, BPC 157 was concluded to be the most potent angiomodulatory agent, acting through different vasoactive pathways and systems (e.g. NO, VEGF, FAK) and leading to optimization of the vascular response followed, as it has to be expected, by optimization of the healing process. Formation of new blood vessels involves two main, partly overlapping mechanisms, angiogenesis and vasculogenesis. The additional mechanism of arteriogenesis is involved in the formation of collaterals. In conjunction with blood vessel function, we at least have to consider leakage of fluid/proteins/plasma, resulting in edema/exudate formation as well as thrombogenesis. Blood vessels are also strongly involved in tumor biology. In this aspect, we have neoangiogenesis resulting in pathological vascularization, vascular invasion resulting in release of metastatic cells and the phenomenon of homing resulting in formation of secondary tumors--metastases."
+  },
+  {
+   "pmid": "41966639",
+   "titel": "Safety and Efficacy of Approved and Unapproved Peptide Therapies for Musculoskeletal Injuries and Athletic Performance",
+   "jahr": "2026",
+   "journal": "Sports Med",
+   "erstautor": "Mendias CL",
+   "doi": "10.1007/s40279-026-02437-0",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Peptides are short chains of amino acids with a unique pharmacological niche between small-molecule drugs and large proteins. Their use in sports medicine is rapidly expanding, driven by patient demand for accelerated injury recovery and performance enhancement. While numerous peptide drugs have undergone a rigorous approval process that evaluates both safety and efficacy, a parallel \"gray market\" of unapproved compounds has emerged, operating largely outside of regulatory oversight. Our objective is to present the pharmacological mechanisms, safety profiles, and regulatory status of prominent approved and unapproved peptides marketed direct to patients, including AOD-9604 (anti-obesity drug 9604), BPC-157 (body protection compound 157), CJC-1295, FS-344 (follistatin-344), GHK-Cu (glycyl-L-histidyl-L-lysine copper), ipamorelin, MOTS-C (mitochondrial ORF of the 12S rRNA type-c), sermorelin, SS-31 (elamipretide), tesamorelin (Egrifta), Tβ4 (thymosin beta-4), and TB-500 (thymosin beta-4 fragment). Many unapproved peptides demonstrate favorable tissue repair and metabolic outcomes in animal models, but rigorous human safety data are scarce, and there is potential for serious harm to patients. This narrative review focuses on the utilization of peptides in sports medicine, and alternative treatments that may be considered. We provide a framework to navigate patient discussions about peptides to better facilitate evidence-based practices for musculoskeletal healing and athletic performance. We also discuss the placebo effect as a mediator of peptide efficacy, and how social media amplifies this effect."
+  },
+  {
+   "pmid": "40759852",
+   "titel": "Concerning BPC-157, a natural pentadecapeptide, that acts as a cytoprotectant and is believed to protect the gastro-intestinal tract (GIT)",
+   "jahr": "2025",
+   "journal": "Inflammopharmacology",
+   "erstautor": "Whitehouse M",
+   "doi": "10.1007/s10787-025-01882-z",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "This article discusses the lengthy review by Pedrag Sikiric and twenty one (21) co-authors in Inflammopharmacology (2024) 32:3119-3161."
+  },
+  {
+   "pmid": "29998800",
+   "titel": "BPC 157 and Standard Angiogenic Growth Factors. Gastrointestinal Tract Healing, Lessons from Tendon, Ligament, Muscle and Bone Healing",
+   "jahr": "2018",
+   "journal": "Curr Pharm Des",
+   "erstautor": "Seiwerth S",
+   "doi": "10.2174/1381612824666180712110447",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Commonly, the angiogenic growth factors signify healing. However, gastrointestinal ulceration is still poorly understood particularly with respect to a general pharmacological/pathophysiological role of various angiogenic growth factors implemented in growth factors wound healing concept. Thereby, we focused on the stable gastric pentadecapeptide BPC 157, a peptide given always alone vs. standard peptidergic angiogenic growth factors (EGF, FGF, VEGF), and numerous carriers. Further, we reviewed how the gastrointestinal tract healing could be generally perceived (i) in terms of angiogenic growth factors, and/or (ii) through the healing of extragastrointestinal tissues healing, such as tendon, ligament, muscle and bone, and vice versa. Respected were the beneficial effects obtained with free peptides or peptides with different carriers; EGF, FGF, VEGF, and BPC 157, their presentation along with injuries, and a healing commonality, providing their implementation in both gastrointestinal ulcer healing and tendon, ligament, muscle and bone healing. Only BPC 157 was consistently effective in all of the models of acute/chronic injury of esophagus, stomach, duodenum and lower gastrointestinal tract, intraperitoneally, per-orally or locally. Unlike bFGF-, EGF-, VEGF-gastrointestinal tract studies demonstrating improved healing, most of the studies on tendon, muscle and bone injuries provide evidence of their (increased) presentation along with the various procedures used to produce beneficial effects, compared to fewer studies in vitro, while in vivo healing has a limited number of studies, commonly limited to local application, diverse healing evidence with diverse carriers and delivery systems. Contrary to this, BPC 157 - using same regimens like in gastrointestinal healing studies - improves tendon, ligament and bone healing, accurately implementing its own angiogenic effect in the healing. Thus, we claim that just BPC 157 represents in practice a pharmacological and pathophysiological role of various peptidergic growth factors."
+  },
+  {
+   "pmid": "14554208",
+   "titel": "Gastric pentadecapeptide BPC 157 accelerates healing of transected rat Achilles tendon and in vitro stimulates tendocytes growth",
+   "jahr": "2003",
+   "journal": "J Orthop Res",
+   "erstautor": "Staresinic M",
+   "doi": "10.1016/S0736-0266(03)00110-4",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "In studies intended to improve healing of transected Achilles tendon, effective was a stable gastric pentadecapeptide BPC 157 (GEPPPGKPADDAGLV, M.W. 1419). Currently in clinical trials for inflammatory bowel disease (PLD-116, PL 14736, Pliva), it ameliorates internal and external wound healing. In rats, the right Achilles tendon transected (5 mm proximal to its calcaneal insertion) presents with a large tendon defect between cut ends. Agents (/kg b.w., i.p., once time daily) (BPC 157 (dissolved in saline, with no carrier addition) (10 microg, 10 ng or 10 pg) or saline (5.0 ml)), were firstly applied at 30 min after surgery, the last application at 24 h before autopsy. Achilles functional index (AFI) was assessed once time daily. Biomechanical, microscopical and macroscopical assessment was on day 1, 4, 7, 10 and 14. Controls generally have severely compromised healing. In comparison, pentadecapeptide BPC 157 fully improves recovery: (i) biomechanically, increased load of failure, load of failure per area and Young's modulus of elasticity; (ii) functionally, significantly higher AFI-values; (iii) microscopically, more mononuclears and less granulocytes, superior formation of fibroblasts, reticulin and collagen; (iv) macroscopically, smaller size and depth of tendon defect, and subsequently the reestablishment of full tendon integrity. Likewise, unlike TGF-beta, pentadecapeptide BPC 157, presenting with no effect on the growth of cultured cell of its own, consistently opposed 4-hydroxynonenal (HNE), a negative modulator of the growth. HNE-effect is opposed in both combinations: BPC 157+HNE (HNE growth inhibiting effect reversed into growth stimulation of cultured tendocytes) and HNE+BPC 157(abolished inhibiting activity of the aldehyde), both in the presence of serum and serum deprived conditions. In conclusion, these findings, particularly, Achilles tendon transection fully recovered in rats, peptide stability suitable delivery, usefully favor gastric pentadecapeptide BPC 157 in future Achilles tendon therapy."
+  },
+  {
+   "pmid": "28641541",
+   "titel": "\"Stress\" is 80 Years Old: From Hans Selye Original Paper in 1936 to Recent Advances in GI Ulceration",
+   "jahr": "2017",
+   "journal": "Curr Pharm Des",
+   "erstautor": "Szabo S",
+   "doi": "10.2174/1381612823666170622110046",
+   "typ": [
+    "Historical Article",
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "The first scientific publication on 'general adaption syndrome', or as we know today 'biologic stress' has been published in Nature in 1936 by the 29-year old Hans Selye. His results in that short publication that contained no references or illustrations, were based on experiments in rats that were exposed to severe insults/ stressors, but his idea about a 'nonspecific bodily response' originated from his observations of sick patients whom he had seen as a medical student and young clinician. Autopsy of stressed rats revealed three major, grossly visible changes: hyperemia and enlargement of the adrenals, atrophy of the thymus and lymph nodes as well as hemorrhagic gastric erosions/ulcers (the \"stress triad\"). Based on this and additional observations, he concluded that the key master organ in stress reactions is the adrenal cortex (although he also accepted the limited and short lasting effect of catecholamines released from the adrenal medulla) which stimulated by an increased secretion of ACTH, secreted by the anterior pituitary gland. He thus identified the first molecular mediators of the stress reaction, i.e., steroids released from the adrenal cortex that we call today glucocorticoids, based on his classification and naming of steroids. At the end of a very productive life in experimental medicine, Selye recognized that under both unpleasant and demanding stressors as well as positive, rewarding stimuli adrenal cortex releases the same glucocorticoids and only certain brain structures may distinguish the stimuli under distress and eustress - terms he introduced in 1974, that also contained his last definition of stress: the nonspecific response of the body on any demand on it. After brief description of the history of stress research, the rest of this review is focused on one element of stress triad, i.e., gastroduodenal ulceration, especially its pathogenesis, prevention and treatment. Following a short description of acute gastroprotection, discovered by one of Selye's students, we discuss new molecular mediators of gastroduodenal ulceration like dopamine and new drugs that either only heal (very potently, on molar basis) or prevent and heal ulcers like sucralfate derivatives and the relatively new peptide BPC-157. We conclude that despite the extensive and multidisciplinary research on stress during the last 80 years, a lot of basic and clinical research is needed to better understand the manifestations, central and peripheral molecular regulators of stress response, especially the modes of prevention/management of distress or its transformation into eustress and the treatment of stress-related diseases."
+  },
+  {
+   "pmid": "42578445",
+   "titel": "Peptide Supplements and Their Therapeutic Applications in Sports Medicine",
+   "jahr": "2026",
+   "journal": "Am J Sports Med",
+   "erstautor": "Tewari K",
+   "doi": "10.1177/03635465261464420",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: The peptide supplement market has experienced rapid growth due to marketing claims of enhanced performance and accelerated recovery from musculoskeletal injury. These peptides are increasingly popular with patients and athletes and are often perceived as low risk, despite the absence of efficacy or safety data for many emerging peptides. PURPOSE: To summarize existing peer-reviewed data on 6 emerging peptides (BPC-157, thymosin beta-4 or TB-500, CJC-1295, MK-677, ipamorelin, and GHK-Cu [copper peptide]) for musculoskeletal recovery and enhancement in animal and human models. STUDY DESIGN: Scoping review. METHODS: Three independent reviewers searched the PubMed database using permutations of peptide search terms (BPC-157, TB-500, CJC-1295, MK-677 [ibutamoren], ipamorelin, and GHK-Cu) combined with musculoskeletal tissue search terms (bone, fracture, muscle, tendon, ligament, meniscus, and cartilage) following PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines. Papers were independently screened by 2 reviewers, with a third serving as a tiebreaker. Papers examining these peptides for musculoskeletal treatment, tissue recovery, or performance in animal or human models were included. RESULTS: Overall, 67% of identified publications utilized preclinical animal models. In animal models, most commonly rats, each compound demonstrated unique mechanisms with promising but variable effects on tendon, muscle, bone, and ligament healing. Human clinical studies were limited to a handful of investigations, most lacking robust controls or rigorous study designs. Human data were heterogeneous and revealed modest improvements at best for metabolic bone health and degenerative knee pain. Some peptides such as MK-677 were associated with significant risks including congestive heart failure, and significant heterogeneity existed in dosing and route of administration. CONCLUSION: Despite promising findings in animal studies, the claimed benefits of emerging peptide supplements for musculoskeletal recovery and performance remain unsubstantiated by current human trials. Documented risks include cardiovascular complications and metabolic dysfunction such as insulin resistance. Because of the lack of robust efficacy and safety data, peptide supplements should not currently be recommended as a replacement or adjunct for existing orthopaedic standard of care."
+  },
+  {
+   "pmid": "10672996",
+   "titel": "Pentadecapeptide BPC 157 attenuates gastric lesions induced by alloxan in rats and mice",
+   "jahr": "1999",
+   "journal": "J Physiol Paris",
+   "erstautor": "Petek M",
+   "doi": "10.1016/s0928-4257(99)00120-5",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "A diabetogenic alloxan regimen produced lesions in all stomachs of treated animals, either rats (200 mg x kg(-1) s.c.) or mice (400 mg x kg(-1) i.p.). In control animals, the lesions, when developed (i.e. 24 h following application), appear to be quite sustained, and consistently present also after 1 or 2 weeks. The application of the pentadecapeptide BPC 157 (10 microg or 10 ng x kg(-1) i.p. coadministered together with alloxan) would significantly attenuate these lesions' appearance. This beneficial effect seems to be present in either rats or mice and in either of the tested intervals. Importantly, the beneficial effect seems to be shared by both microgram and nanogram regimens."
+  },
+  {
+   "pmid": "42757290",
+   "titel": "Dangers of Injectable Peptides and Other Unregulated \"Biohacking\" Drugs",
+   "jahr": "2026",
+   "journal": "Mo Med",
+   "erstautor": "Moiz A",
+   "doi": "",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Injectable peptides are increasingly used without prescriptions for cosmetic and athletic enhancement, driven by digital marketing and social media. While evidence-based, FDA-approved peptides like semaglutide and tirzepatide offer significant clinical benefits under medical supervision, an expanding illicit market provides easy access without a prescription to many unapproved experimental drugs. These unregulated substances-including the veterinary anabolic steroid trenbolone, investigational triple-agonists like retatrutide, and unapproved peptides such as BPC-157, TB-500, and melanotan-II-lack established human safety profiles. Their use introduces severe potential risks, including product contamination, manufacturing impurities, inaccurate dosing, pathological angiogenesis, carcinogenesis, cardiovascular stress, and supraphysiological hormonal signaling. This review differentiates evidence-based therapeutics from unproven, high-risk compounds and outlines the molecular mechanisms of toxicity associated with popular \"looksmaxxing\" injectables. Clinicians must recognize these trends, and counsel patients on potential long-term health hazards of these potent agents."
+  },
+  {
+   "pmid": "34380875",
+   "titel": "Pentadecapeptide BPC 157 and the central nervous system",
+   "jahr": "2022",
+   "journal": "Neural Regen Res",
+   "erstautor": "Vukojevic J",
+   "doi": "10.4103/1673-5374.320969",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "We reviewed the pleiotropic beneficial effects of the stable gastric pentadecapeptide BPC 157, three very recent demonstrations that may be essential in the gut-brain and brain-gut axis operation, and therapy application in the central nervous system disorders, in particular. Firstly, given in the reperfusion, BPC 157 counteracted bilateral clamping of the common carotid arteries-induced stroke, sustained brain neuronal damages were resolved in rats as well as disturbed memory, locomotion, and coordination. This therapy effect supports particular gene expression in hippocampal tissues that appeared in BPC 157-treated rats. Secondly, there are L-NG-nitro arginine methyl ester (L-NAME)- and haloperidol-induced catalepsy as well as the rat acute and chronic models of 'positive-like' schizophrenia symptoms, that BPC 157 counteracted, and resolved the complex relationship of the nitric oxide-system with amphetamine and apomorphine (dopamine agents application), MK-801 (non-competitive antagonist of the N-methyl-D-aspartate receptor) and chronic methamphetamine administration (to induce sensitivity). Thirdly, after rat spinal cord compression, there were advanced healing and functional recovery (counteracted tail paralysis). Likewise, in BPC 157 therapy, there is specific support for each of these topics: counteracted encephalopathies; alleviated vascular occlusion disturbances (stroke); counteracted dopamine disturbances (dopamine receptors blockade, receptors super sensitivity development, or receptor activation, over-release, nigrostriatal damage, vesicles depletion), and nitric oxide-system disturbances (\"L-NAME non-responsive, L-arginine responsive,\" and \"L-NAME responsive, L-arginine responsive\") (schizophrenia therapy); inflammation reduction, nerve recovery in addition to alleviated hemostasis and vessels function after compression (spinal cord injury therapy). Thus, these disturbances may be all resolved within the same agent's beneficial activity, i.e., the stable gastric pentadecapeptide BPC 157."
+  },
+  {
+   "pmid": "21030672",
+   "titel": "The promoting effect of pentadecapeptide BPC 157 on tendon healing involves tendon outgrowth, cell survival, and cell migration",
+   "jahr": "2011",
+   "journal": "J Appl Physiol (1985)",
+   "erstautor": "Chang CH",
+   "doi": "10.1152/japplphysiol.00945.2010",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Pentadecapeptide BPC 157, composed of 15 amino acids, is a partial sequence of body protection compound (BPC) that is discovered in and isolated from human gastric juice. Experimentally it has been demonstrated to accelerate the healing of many different wounds, including transected rat Achilles tendon. This study was designed to investigate the potential mechanism of BPC 157 to enhance healing of injured tendon. The outgrowth of tendon fibroblasts from tendon explants cultured with or without BPC 157 was examined. Results showed that BPC 157 significantly accelerated the outgrowth of tendon explants. Cell proliferation of cultured tendon fibroblasts derived from rat Achilles tendon was not directly affected by BPC 157 as evaluated by MTT assay. However, the survival of BPC 157-treated cells was significantly increased under the H(2)O(2) stress. BPC 157 markedly increased the in vitro migration of tendon fibroblasts in a dose-dependent manner as revealed by transwell filter migration assay. BPC 157 also dose dependently accelerated the spreading of tendon fibroblasts on culture dishes. The F-actin formation as detected by FITC-phalloidin staining was induced in BPC 157-treated fibroblasts. The protein expression and activation of FAK and paxillin were determined by Western blot analysis, and the phosphorylation levels of both FAK and paxillin were dose dependently increased by BPC 157 while the total amounts of protein was unaltered. In conclusion, BPC 157 promotes the ex vivo outgrowth of tendon fibroblasts from tendon explants, cell survival under stress, and the in vitro migration of tendon fibroblasts, which is likely mediated by the activation of the FAK-paxillin pathway."
+  },
+  {
+   "pmid": "39204186",
+   "titel": "Stable Gastric Pentadecapeptide BPC 157 and Intestinal Anastomoses Therapy in Rats-A Review",
+   "jahr": "2024",
+   "journal": "Pharmaceuticals (Basel)",
+   "erstautor": "Bajramagic S",
+   "doi": "10.3390/ph17081081",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "By introducing the healing of many distinctive anastomoses by BPC 157 therapy, this review practically deals with the concept of the resection and reconnection of the hollow parts of the gastrointestinal tract as one of the cornerstones of visceral surgery. In principle, the healing of quite distinctive anastomoses itself speaks for applied BPC 157 therapy, in particular, as a way in which the therapy of anastomoses can be successfully approached and carried out. Some of the anastomoses implicated were esophagogastric, colocolonic, jejunoileal, and ileoileal anastomoses, along with concomitant disturbances, such as esophagitis, sphincter dysfunction, failed intestinal adaptation, colitis, short bowel syndrome, major vessel occlusion, NO-system, and prostaglandins-system dysfunction, which were accordingly counteracted as well, and, finally, findings concerning other anastomoses healing (i.e., nerve and vessel). Moreover, the healing of fistulas, both external and internal, colocutaneous, gastrocutaneous, esophagocutaneous, duodenocutaneous, vesicovaginal, colovesical, and rectovaginal in rats, perceived as anastomoses made between two different tissues which are normally not connected, may also be indicative. This may be a particular reconnection of the parts of the gastrointestinal tract to re-establish adequate integrity depending on the tissue involved, given that both various intestinal anastomoses and various fistulas (intestinal and skin were accordingly healed simultaneously as the fistulas disappeared) were all healed."
+  },
+  {
+   "pmid": "32445447",
+   "titel": "BPC 157 Rescued NSAID-cytotoxicity Via Stabilizing Intestinal Permeability and Enhancing Cytoprotection",
+   "jahr": "2020",
+   "journal": "Curr Pharm Des",
+   "erstautor": "Park JM",
+   "doi": "10.2174/1381612826666200523180301",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "The stable gastric pentadecapeptide BPC 157 protects stomach cells, maintains gastric integrity against various noxious agents such as alcohol, nonsteroidal anti-inflammatory drugs (NSAIDs), and exerts cytoprotection/ adaptive cytoprotection/organoprotection in other epithelia, that is, skin, liver, pancreas, heart, and brain. Especially BPC 157 counteracts gastric endothelial injury that precedes and induces damage to the gastric epithelium and generalizes \"gastric endothelial protection\" to protection of the endothelium of other vessels including thrombosis, prolonged bleeding, and thrombocytopenia. In this background, we put the importance of BPC 157 as a possible way of securing GI safety against NSAIDs-induced gastroenteropathy since still unmet medical needs to mitigate NSAIDs-induced cytotoxicity are urgent. Furthermore, gastrointestinal irritants such as physical or mental stress, NSAIDs administration, surfactants destroyer such as bile acids, alcohol can lead to leaky gut syndrome through increasing epithelial permeability. In this review article, we described the potential rescuing actions of BPC 157 against leaky gut syndrome after NSAIDs administration for the first time."
+  },
+  {
+   "pmid": "39865815",
+   "titel": "Withdrawn: Stable Gastric Pentadecapeptide BPC 157 as a Therapy of Severe Electrolyte Disturbances in Rats",
+   "jahr": "2025",
+   "journal": "Curr Neuropharmacol",
+   "erstautor": "Grubisic MM",
+   "doi": "10.2174/011570159X349612241205065330",
+   "typ": [
+    "Journal Article",
+    "Retracted Publication"
+   ],
+   "abstract": "UNLABELLED: The article has been withdrawn at the author's request from the website of the journal Current Neuropharmacology. Bentham Science apologizes to the readers of the journal for any inconvenience this may have caused. The Bentham Editorial Policy on Article Withdrawal can be found at https://benthamscience.com/editorial-policies-main.php BENTHAM SCIENCE DISCLAIMER: It is a condition of publication that manuscripts submitted to this journal have not been published and will not be simultaneously submitted or published elsewhere. Furthermore, any data, illustration, structure or table that has been published elsewhere must be reported, and copyright permission for reproduction must be obtained. Plagiarism is strictly forbidden, and by submitting the article for publication the authors agree that the publishers have the legal right to take appropriate action against the authors, if plagiarism or fabricated information is discovered. By submitting a manuscript, the authors agree that the copyright of their article is transferred to the publishers if and when the article is accepted for publication."
+  },
+  {
+   "pmid": "42021992",
+   "titel": "Therapeutic peptides in gerontology: mechanisms and applications for healthy aging",
+   "jahr": "2026",
+   "journal": "Front Aging",
+   "erstautor": "Mavrych V",
+   "doi": "10.3389/fragi.2026.1790247",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "BACKGROUND: Peptide therapeutics represent an emerging frontier in gerontological medicine, targeting fundamental hallmarks of aging including metabolic dysfunction, telomere attrition, tissue repair impairment, and hormonal decline. OBJECTIVE: To comprehensively review the mechanisms, clinical applications, evidence base, and safety profiles of therapeutic peptides with demonstrated or potential applications in healthy aging and age-related conditions. METHODS: A comprehensive narrative review was conducted through systematic searches of PubMed, Scopus, and regulatory databases (FDA, WADA) from inception through January 2026. Search terms included \"peptide therapeutics,\" \"aging,\" \"gerontology,\" \"healthspan,\" combined with specific peptide names (tirzepatide, epitalon, GHK-Cu, BPC-157, TB-500, Semax, CJC-1295, ipamorelin, bremelanotide). Peer-reviewed articles, clinical trials, regulatory documents, and preclinical studies were evaluated. A total of 20 primary sources were selected based on relevance, methodological quality, and contribution to understanding peptide mechanisms and clinical outcomes in aging populations. RESULTS: Nine peptides were identified spanning diverse aging interventions: metabolic restoration (tirzepatide), telomere biology (epitalon), dermal regeneration (GHK-Cu), tissue repair (BPC-157, TB-500), neuroprotection (Semax), growth hormone modulation (CJC-1295, ipamorelin), and sexual function (bremelanotide). FDA-approved agents demonstrated robust safety profiles from large-scale trials. Non-approved peptides showed promising preclinical and limited clinical evidence but lack long-term safety data and systematic validation. Significant knowledge gaps include optimal dosing regimens, combination therapy effects, and biomarkers for monitoring efficacy. CONCLUSION: Therapeutic peptides offer mechanistically diverse approaches to multiple aging hallmarks. While FDA-approved agents demonstrate clinical potential, investigational peptides require rigorous validation through well-designed clinical trials to establish safety and efficacy for healthspan extension."
+  },
+  {
+   "pmid": "32329684",
+   "titel": "Fistulas Healing. Stable Gastric Pentadecapeptide BPC 157 Therapy",
+   "jahr": "2020",
+   "journal": "Curr Pharm Des",
+   "erstautor": "Sikiric P",
+   "doi": "10.2174/1381612826666200424180139",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "This review is focused on the healing of fistulas and stable gastric pentadecapeptide BPC 157. Assuming that the healing of the various wounds is essential also for the gastrointestinal fistulas healing, the healing effect on fistulas in rats, consistently noted with the stable gastric pentadecapeptide BPC 157, may raise several interesting possibilities. BPC 157 is originally an anti-ulcer agent, native to and stable in human gastric juice (for more than 24 h). Likely, it is a novel mediator of Robert's cytoprotection maintaining gastrointestinal mucosal integrity. Namely, it is effective in the whole gastrointestinal tract, and heals various wounds (i.e., skin, muscle, tendon, ligament, bone; ulcers in the entire gastrointestinal tract; corneal ulcer); LD1 is not achieved. It is used in ulcerative colitis clinical trials, and now in multiple sclerosis, and addressed in several reviews. Therefore, it is not surprising that BPC 157 has documented consistent healing of the various gastrointestinal fistulas, external (esophagocutaneous, gastrocutaneous, duodenocutaneous, colocutaneous) and internal (colovesical, rectovaginal). Taking fistulas as a pathological connection, this rescue is verified with the beneficial effects in rats with the various gastrointestinal anastomoses, esophagogastric, jejunoileal, colo-colonic, ileoileal, esophagojejunal, esophagoduodenal, and gastrojejunal. This beneficial effect occurs equally when the gastrointestinal anastomoses are impaired with the application of NSAIDs, cysteamine, large bowel resection, as well as concomitant esophageal, gastric, and duodenal lesions and/or ulcerative colitis presentation, short bowel syndrome progression, liver and brain disturbances presentation. Particular aspects of the BPC 157 healing of the fistulas are especially emphasized."
+  },
+  {
+   "pmid": "42123471",
+   "titel": "Therapeutic Peptides in Aesthetic, Metabolic and Endocrine Conditions: Effects, Safety, Clinical Applications, and Future Perspectives",
+   "jahr": "2026",
+   "journal": "Int J Mol Sci",
+   "erstautor": "Renke G",
+   "doi": "10.3390/ijms27093890",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Therapeutic peptides are short chains of amino acids used to treat metabolic and endocrine conditions such as obesity and type 2 diabetes. While several peptide drugs have undergone rigorous approval processes that evaluate both safety and efficacy, novel, unapproved compounds have emerged and are rapidly expanding into preventive medicine and performance enhancement. Our objective is to present the effects, clinical applications, safety profiles, and regulatory status of prominent peptides used to treat several conditions. We reviewed 106 articles, prioritizing systematic reviews, meta-analyses, and randomized controlled trials in the PubMed, ScienceDirect, and SciELO databases. Our results suggest that therapeutic peptides are a promising tool for treating type 2 diabetes and obesity, for skin rejuvenation, and as hormone analogs for specific diseases and conditions. Although these are strategic and innovative options that can improve health, performance, and longevity, further studies are needed before most new peptides can be used safely in humans."
+  },
+  {
+   "pmid": "35125818",
+   "titel": "Cytoprotective gastric pentadecapeptide BPC 157 resolves major vessel occlusion disturbances, ischemia-reperfusion injury following Pringle maneuver, and Budd-Chiari syndrome",
+   "jahr": "2022",
+   "journal": "World J Gastroenterol",
+   "erstautor": "Sikiric P",
+   "doi": "10.3748/wjg.v28.i1.23",
+   "typ": [
+    "Editorial"
+   ],
+   "abstract": "The stable gastric pentadecapeptide BPC 157 counteracts various venous occlusion-induced syndromes. Summarized are all these arguments, in the Robert's cytoprotection concept, to substantiate the resolution of different major vessel occlusion disturbances, in particular ischemia-reperfusion injury following the Pringle maneuver and Budd-Chiari syndrome, which was obtained by BPC 157 therapy. Conceptually, there is a new point, namely, endothelium maintenance to epithelium maintenance (the recruitment of collateral blood vessels to compensate for vessel occlusion and reestablish blood flow or bypass the occluded or ruptured vessel). In this paper, we summarize the evidence of the native cytoprotective gastric pentadecapeptide BPC 157, which is stable in the human gastric juice, is a membrane stabilizer and counteracts gut-leaky syndrome. As a particular target, it is distinctive from the standard peptide growth factors, involving particular molecular pathways and controlling VEGF and NO pathways. In the early 1990s, BPC 157 appeared as a late outbreak of the Robert's and Szabo's cytoprotection-organoprotection concept, like the previous theoretical/practical breakthrough in the 1980s and the brain-gut axis and gut-brain axis. As the time went on, with its reported effects, it is likely most useful theory practical implementation and justification. Meantime, several reviews suggest that BPC 157, which does not have a lethal dose, has profound cytoprotective activity, used to be demonstrated in ulcerative colitis and multiple sclerosis trials. Likely, it may bring the theory to practical application, starting with the initial argument, no degradation in human gastric juice for more than 24 h, and thereby, the therapeutic effectiveness (including via a therapeutic per-oral regimen) and pleiotropic beneficial effects."
+  },
+  {
+   "pmid": "40131143",
+   "titel": "Safety of Intravenous Infusion of BPC157 in Humans: A Pilot Study",
+   "jahr": "2025",
+   "journal": "Altern Ther Health Med",
+   "erstautor": "Lee E",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: For years, the peptide Body Protection Compound 157 (BPC-157) has been used to treat partial muscle or tendon tears. Few studies on humans have been published, with none on the intravenous use of BPC-157 in humans. OBJECTIVE: This IRB-approved study was conducted to assess whether intravenous BPC-157 is safe in humans. METHODS: Baseline blood work and vital signs were obtained from 2 participants before and after each infusion. On day 1, 10 mg of BPC-157 in 250 cc of normal saline was infused over one hour. On day 2, fasting blood work was repeated, vital signs were recorded, and 20 mg of BPC-157 in 250 cc of normal saline was infused over one hour. On day 3, fasting blood work and vital signs were repeated. Patients were questioned about any side effects at each appointment. SETTING: This study was performed at a private clinic in Florida. PARTICIPANTS: Two patients participated: a 58-year-old Asian male and a 68-year-old Caucasian female, each of whom had received intravenous BPC-157 before this trial. RESULTS: The infusions of BPC-157 resulted in no measurable effects on the tested biomarkers of the heart, liver, kidneys, thyroid, or blood glucose levels. The BPC-157 peptide infusion was tolerated, with no side effects reported. CONCLUSION: Intravenous infusion of up to 20 mg of BPC-157 in 2 healthy adults showed no adverse effects and was well-tolerated. The results of this pilot study showed the safety of BPC-157 in humans. Future studies are also needed to confirm the safety of intravenous BPC-157 in humans."
+  },
+  {
+   "pmid": "36551977",
+   "titel": "Stable Gastric Pentadecapeptide BPC 157 and Striated, Smooth, and Heart Muscle",
+   "jahr": "2022",
+   "journal": "Biomedicines",
+   "erstautor": "Staresinic M",
+   "doi": "10.3390/biomedicines10123221",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "First, we review the definitively severed myotendinous junction and recovery by the cytoprotective stable gastric pentadecapeptide BPC 157 therapy, its healing that might combine both transected and detached tendon and transected muscle, ligament and bone injuries, applied alone, as native peptide therapy, effective in rat injury, given intraperitoneally or in drinking water or topically, at the site of injury. As a follow up, we reviewed that with the BPC 157 therapy, its cytoprotective ability to organize simultaneous healing of different tissues of and full recovery of the myotendinous junction might represent the particular muscle therapy against distinctive etiopathology muscle disabilities and weakness. In this, BPC 157 therapy might recover many of muscle disabilities (i.e., succinylcholine, vascular occlusion, spinal cord compression, stroke, traumatic brain injury, severe electrolyte disturbances, neurotoxins, neuroleptics, alcohol, serotonin syndrome and NO-system blockade and tumor-cachexia). These might provide practical realization of the multimodal muscle-axis impact able to react depending on the condition and the given agent(s) and the symptoms distinctively related to the prime injurious cause symptoms in the wide healing concept, the concept of cytoprotection, in particular. Further, the BPC 157 therapy might be the recovery for the disabled heart functioning, and disabled smooth muscle functioning (various sphincters function recovery). Finally, BPC 157, native and stable in human gastric juice, might be a prototype of anti-ulcer cytoprotective peptide for the muscle therapy with high curing potential (very safe profile (lethal dose not achieved), with suited wide effective range (µg-ng regimens) and ways of application)."
+  },
+  {
+   "pmid": "17657443",
+   "titel": "The pharmacological properties of the novel peptide BPC 157 (PL-10)",
+   "jahr": "1999",
+   "journal": "Inflammopharmacology",
+   "erstautor": "Sikiric P",
+   "doi": "10.1007/s10787-999-0022-z",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The reported beneficial effects of the gastric mucosal derived pentadecapeptide BPC 157 (Gly Glu Pro Pro Pro Gly Lys Pro Ala Asp Asp Ala Gly Leu Val, M.W. 1419) on different organ lesions are reviewed. Apart from the effects on various gastrointestinal lesions, the potentially beneficial effect on pancreas, liver injuries, endothelium and heart damage, i.e. dysrhythmias following reoxygenation, and blood pressure, along with effect on experimental acute/chronic inflammation, wound and fracture (pseudoarthrosis) healing are described. It appears that these beneficial effects all together provide a particular network reflecting activity of a special peptidergic defence system. In support of this concept, it appears that there are interactions of this pentadecapeptide with many important systems (namely, dopamine-, NO-, prostaglandin-, somatosensory neurone-systems), that could provide a basis for the observed protective effects. Moreover, since disturbance of these systems' functions (i.e. dopamine-, NO-, somatosensory neuronal-system) which manifest either over-activity or as inhibition, may contribute to the multiple lesions in different organs. The reported evidence that this pentadecapeptide is able to counteract both their over-action, and their inhibition, may suggest this pentadecapeptide as a new, but most probably essential physiological defence system and that should be further investigated."
+  },
+  {
+   "pmid": "23755725",
+   "titel": "Stable gastric pentadecapeptide BPC 157-NO-system relation",
+   "jahr": "2014",
+   "journal": "Curr Pharm Des",
+   "erstautor": "Sikiric P",
+   "doi": "10.2174/13816128113190990411",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "We reviewed stable gastric pentadecapeptide BPC 157-NO-system-relation, its close participation in Moncada's (maintained vascular integrity, platelets control) homeostatic healing response of NO-system to injury. Namely, BPC 157's particular healing effect also affects all events after vascular integrity loss (dependent on circumstances, it reduces either thrombosis (abdominal aorta anastomosis) or bleeding/thrombocytopenia (amputation, heparin, warfarin, aspirin)) and in a series of different injurious models, acute and chronic, BPC 157 consistently advances healing after severe injuries in various tissues spontaneously unable to heal; stimulates egr-1 and naB2 genes; exhibits high safety (LD1 not achieved)). Hypothesis, that BPC 157 (since formed constitutively in the gastric mucosa, stable in human gastric juice, along with significance of NO-synthase and the basal formation of NO in stomach mucosa, greater than that seen in other tissues) exhibits a general, effective competing both with L-arginine analogues (i. e., L-NAME) and L-arginine, and that this has some physiologic importance (NO-generation), later, practically supports its beneficial effects illustrating BPC 157 and NOsystem mutual (with L-NAME/L-arginine; alone and together) relations in (i) gastric mucosa and mucosal protection, following alcohol lesions, in cytoprotection course, NO-generation, and blood pressure regulation; (ii) alcohol acute/chronic intoxication, and withdrawal; (iii) cardiovascular disturbances, chronic heart failure, pulmonary hypertension, and arrhythmias; (iv) disturbances after hypokalemia and hyperkalemia, and potassium-cell membrane dysfunction; and finally, in (v) complex healing failure, proved by the fistulas healing, colocutaneous and esophagocutaneous. However, how this advantage of modulating NO-system (i. e., particular effect on eNOS gene), may be practically translated into an enhanced clinical performance remains to be determined."
+  },
+  {
+   "pmid": "37513963",
+   "titel": "Stable Gastric Pentadecapeptide BPC 157-Possible Novel Therapy of Glaucoma and Other Ocular Conditions",
+   "jahr": "2023",
+   "journal": "Pharmaceuticals (Basel)",
+   "erstautor": "Sikiric P",
+   "doi": "10.3390/ph16071052",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Recently, stable gastric pentadecapeptide BPC 157 therapy by activation of collateral pathways counteracted various occlusion/occlusion-like syndromes, vascular, and multiorgan failure, and blood pressure disturbances in rats with permanent major vessel occlusion and similar procedures disabling endothelium function. Thereby, we revealed BPC 157 cytoprotective therapy with strong vascular rescuing capabilities in glaucoma therapy. With these capabilities, BPC 157 therapy can recover glaucomatous rats, normalize intraocular pressure, maintain retinal integrity, recover pupil function, recover retinal ischemia, and corneal injuries (i.e., maintained transparency after complete corneal abrasion, corneal ulceration, and counteracted dry eye after lacrimal gland removal or corneal insensitivity). The most important point is that in glaucomatous rats (three of four episcleral veins cauterized) with high intraocular pressure, all BPC 157 regimens immediately normalized intraocular pressure. BPC 157-treated rats exhibited normal pupil diameter, microscopically well-preserved ganglion cells and optic nerve presentation, normal fundus presentation, nor- mal retinal and choroidal blood vessel presentation, and normal optic nerve presentation. The one episcleral vein rapidly upgraded to accomplish all functions in glaucomatous rats may correspond with occlusion/occlusion-like syndromes of the activated rescuing collateral pathway (azygos vein direct blood flow delivery). Normalized intraocular pressure in glaucomatous rats corresponded to the counteracted intra-cranial (superior sagittal sinus), portal, and caval hypertension, and aortal hypotension in occlusion/occlusion-like syndromes, were all attenuated/eliminated by BPC 157 therapy. Furthermore, given in other eye disturbances (i.e., retinal ischemia), BPC 157 instantly breaks a noxious chain of events, both at an early stage and an already advanced stage. Thus, we further advocate BPC 157 as a therapeutic agent in ocular disease."
+  },
+  {
+   "pmid": "9403790",
+   "titel": "BPC 157's effect on healing",
+   "jahr": "1997",
+   "journal": "J Physiol Paris",
+   "erstautor": "Seiwerth S",
+   "doi": "10.1016/s0928-4257(97)89480-6",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The 15 amino acid agent BPC 157, showing a wide range of organoprotective action in different experimental models, was used in our experiments in order to establish its influence on different elements connected with the healing process. Elements thought to be of greatest importance in the process of healing are formation of granulation tissue, angiogenesis and production of collagen. In our work we tested the influence of BPC 157 on: granulation tissue and collagen formation, on angiogenesis as well as on tensile strength development, using three experimental rat models: 1) skin incisional wounds; 2) colon-colon anastomoses; and 3) angiogenesis model with synthetic sponge implantation. The specimens were histologically assessed for collagen, reticulin and blood vessels using scoring and morphometry. In all experiments significant differences between BPC 157-treated animals and controls were found, showing a strong, promoting involvement of BPC in the healing process. It is worth noting that these effects were achieved by different routes of application, including intragastric and local, making BPC 157 a potentially useful therapeutic agent."
+  },
+  {
+   "pmid": "37242459",
+   "titel": "Stable Gastric Pentadecapeptide BPC 157 May Recover Brain-Gut Axis and Gut-Brain Axis Function",
+   "jahr": "2023",
+   "journal": "Pharmaceuticals (Basel)",
+   "erstautor": "Sikiric P",
+   "doi": "10.3390/ph16050676",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Conceptually, a wide beneficial effect, both peripherally and centrally, might have been essential for the harmony of brain-gut and gut-brain axes' function. Seen from the original viewpoint of the gut peptides' significance and brain relation, the favorable stable gastric pentadecapeptide BPC 157 evidence in the brain-gut and gut-brain axes' function might have been presented as a particular interconnected network. These were the behavioral findings (interaction with main systems, anxiolytic, anticonvulsive, antidepressant effect, counteracted catalepsy, and positive and negative schizophrenia symptoms models). Muscle healing and function recovery appeared as the therapeutic effects of BPC 157 on the various muscle disabilities of a multitude of causes, both peripheral and central. Heart failure was counteracted (including arrhythmias and thrombosis), and smooth muscle function recovered. These existed as a multimodal muscle axis impact on muscle function and healing as a function of the brain-gut axis and gut-brain axis as whole. Finally, encephalopathies, acting simultaneously in both the periphery and central nervous system, BPC 157 counteracted stomach and liver lesions and various encephalopathies in NSAIDs and insulin rats. BPC 157 therapy by rapidly activated collateral pathways counteracted the vascular and multiorgan failure concomitant to major vessel occlusion and, similar to noxious procedures, reversed initiated multicausal noxious circuit of the occlusion/occlusion-like syndrome. Severe intracranial (superior sagittal sinus) hypertension, portal and caval hypertensions, and aortal hypotension were attenuated/eliminated. Counteracted were the severe lesions in the brain, lungs, liver, kidney, and gastrointestinal tract. In particular, progressing thrombosis, both peripherally and centrally, and heart arrhythmias and infarction that would consistently occur were fully counteracted and/or almost annihilated. To conclude, we suggest further BPC 157 therapy applications."
+  },
+  {
+   "pmid": "27138887",
+   "titel": "Brain-gut Axis and Pentadecapeptide BPC 157: Theoretical and Practical Implications",
+   "jahr": "2016",
+   "journal": "Curr Neuropharmacol",
+   "erstautor": "Sikiric P",
+   "doi": "10.2174/1570159x13666160502153022",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "BACKGROUND: Brain-gut interaction involves, among others, peptidergic growth factors which are native in GI tract and have strong antiulcer potency and thus could from periphery beneficially affect CNS-disorders. We focused on the stable gastric pentadecapeptide BPC 157, an antiulcer peptidergic agent, safe in inflammatory bowel disease trials and now in multiple sclerosis trial, native and stable in human gastric juice. METHODS: Review of our research on BPC 157 in terms of brain-gut axis. RESULTS: BPC 157 may serve as a novel mediator of Robert's cytoprotection, involved in maintaining of GI mucosa integrity, with no toxic effect. BPC 157 was successful in the therapy of GI tract, periodontitis, liver and pancreas lesions, and in the healing of various tissues and wounds. Stimulated Egr-1 gene, NAB2, FAK-paxillin and JAK-2 pathways are hitherto implicated. Initially corresponding beneficial central influence was seen when BPC 157 was given peripherally and a serotonin release in particular brain areas, mostly nigrostriatal, was changed. BPC 157 modulates serotonergic and dopaminergic systems, beneficially affects various behavioral disturbances that otherwise appeared due to specifically (over)stimulated/damaged neurotransmitters systems. Besides, BPC 157 has neuroprotective effects: protects somatosensory neurons; peripheral nerve regeneration appearent after transection; after traumatic brain injury counteracts the otherwise progressing course, in rat spinal cord compression with tail paralysis, axonal and neuronal necrosis, demyelination, cyst formation and rescues tail function in both short-terms and long-terms; after NSAIDs or insulin overdose or cuprizone encephalopathies were attenuated along with GI, liver and vascular injuries. CONCLUSION: BPC 157, a gastric peptide, may serve as remedy in various CNS-disorders."
+  },
+  {
+   "pmid": "20225319",
+   "titel": "Pentadecapeptide BPC 157 (PL 14736) improves ligament healing in the rat",
+   "jahr": "2010",
+   "journal": "J Orthop Res",
+   "erstautor": "Cerovecki T",
+   "doi": "10.1002/jor.21107",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "We improved medial collateral ligament (MCL) healing throughout 90 days after surgical transection. We introduced intraperitoneal, per-oral (in drinking water) and topical (thin cream layer) peptide therapy always given alone, without a carrier. Previously, as an effective peptide therapy, stable gastric pentadecapeptide BPC 157 (GEPPPGKPADDAGLV, an anti-ulcer peptide effective in inflammatory bowel disease therapy (PL 14736)) particularly improved healing of transected tendon and muscle and wound healing effect including the expression of the early growth response 1 (egr-1) gene. After MCL transection BPC 157 was effective in rats when given once daily intraperitoneally (10 microg or 10 ng/kg) or locally as a thin layer (1.0 microg dissolved in distilled water/g commercial neutral cream) at the site of injury, first application 30 min after surgery and the final application 24 h before sacrifice. Likewise, BPC 157 was effective given per-orally (0.16 microg/ml in the drinking water (12 ml/day/rat)) until sacrifice. Commonly, BPC 157 microg-ng-rats exhibited consistent functional, biomechanical, macroscopic and histological healing improvements. Thus, we suggest BPC 157 improved healing of acute ligament injuries in further ligament therapy."
+  },
+  {
+   "pmid": "35052769",
+   "titel": "Stable Gastric Pentadecapeptide BPC 157 Therapy of Rat Glaucoma",
+   "jahr": "2021",
+   "journal": "Biomedicines",
+   "erstautor": "Kralj T",
+   "doi": "10.3390/biomedicines10010089",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Cauterization of three episcleral veins (open-angle glaucoma model) induces venous congestion and increases intraocular pressure in rats. If not upgraded, one episcleral vein is regularly unable to acquire and take over the whole function, and glaucoma-like features persist. Recently, the rapid upgrading of the collateral pathways by a stable gastric pentadecapeptide BPC 157 has cured many severe syndromes induced by permanent occlusion of major vessels, veins and/or arteries, peripherally and centrally. In a six-week study, medication was given prophylactically (immediately before glaucoma surgery, i.e., three episcleral veins cauterization) or as curative treatment (starting at 24 h after glaucoma surgery). The daily regimen of BPC 157 (0.4 µg/eye, 0.4 ng/eye; 10 µg/kg, 10 ng/kg) was administered locally as drops in each eye, intraperitoneally (last application at 24 h before sacrifice) or per-orally in drinking water (0.16 µg/mL, 0.16 ng/mL, 12 mL/rat until the sacrifice, first application being intragastric). Consequently, all BPC 157 regimens immediately normalized intraocular pressure. BPC 157-treated rats exhibited normal pupil diameter, microscopically well-preserved ganglion cells and optic nerve presentation, normal fundus presentation, normal retinal and choroidal blood vessel presentation and normal optic nerve presentation. As leading symptoms, increased intraocular pressure and mydriasis, as well as degeneration of retinal ganglion cells, optic nerve head excavation and reduction in optic nerve thickness, generalized severe irregularity of retinal vessels, faint presentation of choroidal vessels and severe optic nerve disc atrophy were all counteracted. In conclusion, we claim that the reversal of the episcleral veins cauterization glaucoma appeared as a consequence of the BPC 157 therapy of the vessel occlusion-induced perilous syndrome."
+  },
+  {
+   "pmid": "34798584",
+   "titel": "BPC 157 as Potential Treatment for COVID-19",
+   "jahr": "2021",
+   "journal": "Med Hypotheses",
+   "erstautor": "Deek SA",
+   "doi": "10.1016/j.mehy.2021.110736",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The emergence of coronavirus disease (COVID-19) in China at the end of 2019 has caused a large global outbreak. COVID-19 is largely seen as a thrombotic and vascular disease targeting endothelial cells (ECs) throughout the body that can provoke the breakdown of central vascular functions. This explains the complications and multi-organ failure seen in COVID-19 patients including acute respiratory distress syndrome, cardiovascular complications, liver damage, and neurological damage. Acknowledging the comorbidities and potential organ injuries throughout the course of COVID-19 is therefore crucial in the clinical management of patients. Here we discuss BPC 157, based primarily on animal model data, as a novel agent that can improve the clinical management of COVID-19. BPC 157 is a peptide that has demonstrated anti-inflammatory, cytoprotective, and endothelial-protective effects in different organ systems in different species. BPC 157 activated endothelial nitric oxide synthase (eNOS) is associated with nitric oxide (NO) release, tissue repair and angiomodulatory properties which can lead to improved vascular integrity and immune response, reduced proinflammatory profile, and reduced critical levels of the disease. As a result, discussion of its use as a potential prophylactic and complementary treatment is critical. All examined treatments, although potentiality effective against COVID-19, need either appropriate drug development or clinical trials in humans to be suitable for clinical use."
+  },
+  {
+   "pmid": "22300085",
+   "titel": "Focus on ulcerative colitis: stable gastric pentadecapeptide BPC 157",
+   "jahr": "2012",
+   "journal": "Curr Med Chem",
+   "erstautor": "Sikiric P",
+   "doi": "10.2174/092986712803414015",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Stable gastric pentadecapeptide BPC 157 (GEPPPGKPADDAGLV, M.W. 1419) may be the new drug stable in human gastric juice, effective both in the upper and lower GI tract, and free of side effects. BPC 157, in addition to an antiulcer effect efficient in therapy of inflammatory bowel disease (IBD) (PL 14736) so far only tested in clinical phase II, has a very safe profile, and exhibited a particular wound healing effect. It also has shown to interact with the NO-system, providing endothelium protection and angiogenic effect, even in severely impaired conditions (i.e., it stimulated expression of early growth response 1 gene responsible for cytokine and growth factor generation and early extracellular matrix (collagen) formation (but also its repressor nerve growth factor 1-A binding protein-2)), important to counteract severe complications of advanced and poorly controlled IBD. Hopefully, the lessons from animal studies, particularly advanced intestinal anastomosis healing, reversed short bowel syndrome and fistula healing indicate BPC 157's high significance in further IBD therapy. Also, this supportive evidence (i.e., no toxic effect, limit test negative, LD1 not achieved, no side effect in trials) may counteract the problems commonly exercised in the use of peptidergic agents, particularly those used on a long-term basis."
+  }
+ ],
+ "ctgov": [
+  {
+   "nct": "NCT07437547",
+   "titel": "BPC 157 for Acute Hamstring Muscle Strain Repair",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 120,
+   "start": "2026-02-02",
+   "ende": "2028-02-17",
+   "erkrankungen": [
+    "Hamstring Muscle Strain",
+    "Skeletal Muscle Injury"
+   ],
+   "sponsor": "Hudson Biotech",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT02637284",
+   "titel": "PCO-02 - Safety and Pharmacokinetics Trial",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "UNKNOWN",
+   "teilnehmende": 42,
+   "start": "2015-10",
+   "ende": "2016-03",
+   "erkrankungen": [
+    "Healthy Volunteers"
+   ],
+   "sponsor": "PharmaCotherapia d.o.o.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07803250",
+   "titel": "Impact of BPC-157 on Recovery Following Rotator Cuff Repair Surgery",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "NOT_YET_RECRUITING",
+   "teilnehmende": 30,
+   "start": "2027-01-01",
+   "ende": "2027-08-01",
+   "erkrankungen": [
+    "Rotator Cuff Tear"
+   ],
+   "sponsor": "University of Arkansas",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07752381",
+   "titel": "A Clinical Trial to Evaluate the Effects of Peptide Gummies on Markers of Inflammation, Physical Performance, and Recovery",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 40,
+   "start": "2025-09-01",
+   "ende": "2025-11-01",
+   "erkrankungen": [
+    "Musculoskeletal Inflammation",
+    "Exercise-Induced Muscle Damage",
+    "Post-Exercise Recovery",
+    "Musculoskeletal Pain"
+   ],
+   "sponsor": "Parlay Wellness",
+   "ergebnisse": false
+  }
+ ],
+ "gruppe": "B_regeneration"
+}

@@ -1,0 +1,786 @@
+{
+ "name": "MOTS-c",
+ "status": "nicht_zugelassen",
+ "suchbegriff_pubmed": "MOTS-c[tiab]",
+ "suchbegriff_ctgov": "MOTS-c",
+ "humanstudien_alle": [
+  {
+   "pmid": "40674654",
+   "titel": "Repeated Heat Stress Modulates the Levels of the Mitokines MOTS-C and FGF21 in Active Men during Calf Muscle Immobilization",
+   "jahr": "2025",
+   "journal": "Med Sci Sports Exerc",
+   "erstautor": "Elhusseiny R",
+   "doi": "10.1249/MSS.0000000000003825",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "36490309",
+   "titel": "Circulating levels of MOTS-c in patients with breast cancer treated with metformin",
+   "jahr": "2022",
+   "journal": "Aging (Albany NY)",
+   "erstautor": "Cuyàs E",
+   "doi": "10.18632/aging.204423",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "34351816",
+   "titel": "Acute endurance exercise stimulates circulating levels of mitochondrial-derived peptides in humans",
+   "jahr": "2021",
+   "journal": "J Appl Physiol (1985)",
+   "erstautor": "von Walden F",
+   "doi": "10.1152/japplphysiol.00706.2019",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "34413391",
+   "titel": "Effect of aerobic and resistance exercise on the mitochondrial peptide MOTS-c in Hispanic and Non-Hispanic White breast cancer survivors",
+   "jahr": "2021",
+   "journal": "Sci Rep",
+   "erstautor": "Dieli-Conwright CM",
+   "doi": "10.1038/s41598-021-96419-z",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "32052315",
+   "titel": "β-Amyloid and mitochondrial-derived peptide-c are additive predictors of adverse outcome to high-on-treatment platelet reactivity in type 2 diabetics with revascularized coronary artery disease",
+   "jahr": "2020",
+   "journal": "J Thromb Thrombolysis",
+   "erstautor": "Ikonomidis I",
+   "doi": "10.1007/s11239-020-02060-4",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Multicenter Study"
+   ]
+  }
+ ],
+ "humanstudien_detail": [
+  {
+   "pmid": "36490309",
+   "titel": "Circulating levels of MOTS-c in patients with breast cancer treated with metformin",
+   "jahr": "2022",
+   "journal": "Aging (Albany NY)",
+   "erstautor": "Cuyàs E",
+   "doi": "10.18632/aging.204423",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The mitokine MOTS-c is a mitochondrially-encoded \"exercise-mimetic peptide\" expressed in multiple tissues, particularly skeletal muscles, which can be detected as a circulating hormone in the blood. MOTS-c mechanisms of action (MoA) involve insulin sensitization, enhanced glucose utilization, suppression of mitochondrial respiration, and targeting of the folate-AICAR-AMPK pathway. Although MOTS-c MoA largely overlap those of the anti-diabetic biguanide metformin, the putative regulatory actions of metformin on MOTS-c have not yet been evaluated in detail. Here, we measured circulating MOTS-c in paired baseline and post-treatment sera obtained from HER2-positive breast cancer patients randomized to receive either metformin combined with neoadjuvant chemotherapy and trastuzumab or an equivalent regimen without metformin. We failed to find any significant alteration of circulating MOTS-c -as measured using the commercially available competitive ELISA CEX132Hu- in response to 24 weeks of a neoadjuvant chemotherapy/trastuzumab regimen with or without daily metformin. Changes in circulating MOTS-c levels failed to reach statistical significance when comparing patients achieving pathological complete response (pCR), irrespective of metformin treatment. The inability of metformin to target skeletal muscle, the major tissue for MOTS-c production and secretion, might limit its regulatory effects on circulating MOTS-c. Further studies are needed to definitely elucidate the nature of the interaction between metformin and MOTS-c in cancer and non-cancer patients."
+  },
+  {
+   "pmid": "34351816",
+   "titel": "Acute endurance exercise stimulates circulating levels of mitochondrial-derived peptides in humans",
+   "jahr": "2021",
+   "journal": "J Appl Physiol (1985)",
+   "erstautor": "von Walden F",
+   "doi": "10.1152/japplphysiol.00706.2019",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Mitochondrial-derived peptides (MDPs) humanin (HN) and mitochondrial open reading frame of the 12S rRNA-c (MOTS-c) are involved in cell survival, suppression of apoptosis, and metabolism. Circulating levels of MDPs are altered in chronic diseases such as diabetes type 2 and chronic kidney disease. Whether acute resistance (RE) or endurance (EE) exercise modulates circulating levels of HN and MOTS-c in humans is unknown. Following familiarization, subjects were randomized to EE (n = 10, 45 min cycling at 70% of estimated V̇O2max), RE (n = 10, 4 sets × 7RM, leg press and knee extension), or control (CON, n = 10). Skeletal muscle biopsies and blood samples were collected before and at 30 min and 3 h following exercise. Plasma concentration of HN and MOTS-c, skeletal muscle MOTS-c as well as gene expression of exercise-related genes were analyzed. Acute EE and RE promoted changes in skeletal muscle gene expression typically seen in response to each exercise modality (c-Myc, 45S pre-rRNA, PGC-1α-total, and PGC-1α-ex1b). At rest, circulating levels of HN were positively correlated to MOTS-c levels and age. Plasma levels of MDPs were not correlated to fitness outcomes [V̇O2max, leg strength, or muscle mitochondrial (mt) DNA copy number]. Circulating levels of HN were significantly elevated by acute EE but not RE. MOTS-C levels showed a trend to increase after EE. These results indicate that plasma MDP levels are not related to fitness status but that acute EE increases circulating levels of MDPs, in particular HN.NEW & NOTEWORTHY In this manuscript, we report for the first time, to our knowledge, the response of circulating levels of mitochondrial-derived peptides humanin and MOTS-c to acute resistance and endurance exercise. Our data support that acute endurance exercise stimulates MDP levels in plasma, whereas acute resistance exercise does not."
+  },
+  {
+   "pmid": "34413391",
+   "titel": "Effect of aerobic and resistance exercise on the mitochondrial peptide MOTS-c in Hispanic and Non-Hispanic White breast cancer survivors",
+   "jahr": "2021",
+   "journal": "Sci Rep",
+   "erstautor": "Dieli-Conwright CM",
+   "doi": "10.1038/s41598-021-96419-z",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "abstract": "MOTS-c is a mitochondrial derived peptide with exercise mimetic activity that elicits beneficial effects on metabolism and exercise capacity. Furthermore, MOTS-c effects in humans are affected by race, potentially via ethnic-specific mtDNA variations. Women treated for breast cancer are at an increased risk for cardiovascular disease, diabetes and obesity, due to side effects of cancer-treatments. We conducted a secondary analysis of the effects of a 16-week aerobic and resistance exercise intervention on MOTS-c in Hispanic and Non-Hispanic White breast cancer survivors (BCS). BCS (Stage I-III) were randomized to exercise or standard care. The intervention promoted aerobic and resistance exercise for 16 weeks. MOTS-c was analyzed in fasting plasma using an in-house ELISA. Within and between group differences were assessed by paired t-test and repeated measures ANOVA. Pearson's correlation was computed to assess the association between MOTS-c and metabolic biomarkers at baseline and post-exercise. Twenty-five Hispanic-BCS and 24 non-Hispanic White BCS were included. Hispanic BCS were younger, of greater adiposity, had higher stage cancers, and had worse metabolic profiles at baseline compared to non-Hispanic White BCS (p < 0.001). Post-exercise, MOTS-c levels significantly increased when compared to baseline and the usual care group among non-Hispanic White BCS (p < 0.01) but not among Hispanic breast cancer survivors (p > 0.01). Post-exercise levels of MOTS-c among non-Hispanic White BCS were significantly associated with reductions in fat mass, body weight, HOMA-IR, CRP, and an increase in lean mass (p < 0.01). A 16-week aerobic and resistance intervention increased MOTS-c levels among non-Hispanic White BCS. Trial registration: This trial is registered on ClinicalTrials.gov: NCT01140282 as of June 9, 2010. https://clinicaltrials.gov/ct2/show/NCT01140282 ."
+  },
+  {
+   "pmid": "40674654",
+   "titel": "Repeated Heat Stress Modulates the Levels of the Mitokines MOTS-C and FGF21 in Active Men during Calf Muscle Immobilization",
+   "jahr": "2025",
+   "journal": "Med Sci Sports Exerc",
+   "erstautor": "Elhusseiny R",
+   "doi": "10.1249/MSS.0000000000003825",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "PURPOSE: Heat stress, like exercise, can elicit beneficial mitochondrial adaptations and attenuate disuse muscle atrophy. The beneficial effects of heat therapy may in part be related to mitokines as they are released by the cells in response to perceived mitochondrial stress. This study thus investigated the effect of repeated heat exposures on mitokine response in the context of immobilization-induced muscle atrophy. METHODS: A total of 19 physically active men underwent 4 wk of supervised training followed by 2 wk of immobilization of the left ankle, during which they were randomly divided into the heat ( n = 9) or the sham ( n = 10) treatment group. Muscle thickness by ultrasound, cross-sectional area by magnetic resonance imaging, circulating and skeletal muscle mitokine levels, and a series of skeletal muscle anabolism and atrophy markers were assessed before and after the 2-wk immobilization period. RESULTS: Although immobilization did not induce any effect on mitokine levels, repeated heat treatment upregulated the circulating MOTS-c ( P = 0.033) and downregulated the skeletal muscle FGF21 ( P = 0.027) levels. Immobilization decreased muscle thickness ( P = 0.012, η2 = 0.32) and cross-sectional area ( P < 0.01, η2 = 0.75) of the gastrocnemius medialis. CONCLUSIONS: Our results indicate that repeated heat stress specifically modulates the levels of the mitokines MOTS-c and FGF21 in a manner that is comparable to, but not identical to, exercise. Further research is needed to elucidate the underlying mechanisms and explore the therapeutic potential of heat stress and mitokines in mitigating muscle loss."
+  },
+  {
+   "pmid": "32052315",
+   "titel": "β-Amyloid and mitochondrial-derived peptide-c are additive predictors of adverse outcome to high-on-treatment platelet reactivity in type 2 diabetics with revascularized coronary artery disease",
+   "jahr": "2020",
+   "journal": "J Thromb Thrombolysis",
+   "erstautor": "Ikonomidis I",
+   "doi": "10.1007/s11239-020-02060-4",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Multicenter Study"
+   ],
+   "abstract": "BACKGROUND AND AIMS: Increased β-amyloid and decreased mitochondrial-derived peptide (MOTS-c), are reported in diabetes. We investigated their additive value to high on-clopidogrel platelet reactivity (HPR) for adverse outcome in type 2 diabetics after recent revascularization. PATIENTS AND METHODS: In 121 type II diabetics, treated with clopidogrel and aspirin, (93 males, mean age 67.2 years) we measured: (a) maximum platelet aggregation to adenosine diphosphate (ADP) by light transmission aggregometry (LTAmax), (b) malondialdehyde (MDA), as oxidative stress marker, (c) MOTS-c, (d) β-amyloid blood levels. Cardiac death and acute coronary syndromes (MACE) were recorded during 2 years of follow-up. RESULTS: Out of 121 patients, 32 showed HPR (LTAmax > 48%,). At baseline, HPR was associated with β-amyloid > 51 pg/ml (p = 0.006) after adjusting clinical variables, HbA1c, MOTS-c, MDA and medication. During follow-up, 22 patients suffered a MACE. HPR, β-amyloid > 51 pg/ml and MOTS-c < 167 ng/ml were predictors of MACE (relative risk 3.1, 3.5 and 3.8 respectively, p < 0.05) after adjusting for confounders and medication. There was significant interaction between HPR and β-amyloid or MOTS-c for the prediction of MACE (p < 0.05). Patients with HPR and β-amyloid > 51 mg/dl or HPR and MOTS-c concentration < 167 ng/ml had a fourfold higher risk for MACE than patients without these predictors (relative risk 4.694 and 4.447 respectively p < 0.01). The above results were confirmed in an external validation cohort of 90 patients with diabetes and CAD. CONCLUSIONS: Increased β-amyloid or low MOTS-c are additive predictors to high on-clopidogrel platelet reactivity for adverse outcome in diabetics with CAD during 2-years follow-up. Clinical Trial Registration-URL: https://www.clinicaltrials.gov. Unique identifier: NCT04027712."
+  }
+ ],
+ "metaanalysen": [
+  {
+   "pmid": "42640735",
+   "titel": "Mitochondrial-derived peptides (MDPs) activated by physical exercise as therapeutic targets for metabolic disorders: A systematic review",
+   "jahr": "2026",
+   "journal": "Physiol Int",
+   "erstautor": "Ayubi N",
+   "doi": "10.1556/2060.2026.00863",
+   "typ": [
+    "Journal Article",
+    "Systematic Review",
+    "Review"
+   ],
+   "abstract": "BACKGROUND: Type 2 diabetes mellitus and metabolic diseases are increasing worldwide and are closely linked to mitochondrial dysfunction. Mitochondrial-derived peptides (MDPs), such as humanin and MOTS-c, play a role in regulating energy balance and cellular stress responses. Exercise is known to improve metabolic function and stimulate MDP synthesis through mitochondria-dependent signaling pathways. Understanding these mechanisms has the potential to uncover new therapeutic targets for the treatment of metabolic diseases. RESEARCH OBJECTIVES: This study sought to ascertain how physical activity affected MDPs levels. METHODS: This systematic review searched four electronic databases, PubMed, Scopus, Web of Science, and ScienceDirect, for studies published between 2016 and 2025 that examined MDPs and exercise. A total of 435 records were identified. After screening according to predefined inclusion and exclusion criteria following PRISMA guidelines, nine studies were included in the final analysis. RESULTS: Of the nine studies included in this systematic review, most reported a trend toward increased MDP levels after exercise. However, these findings should be interpreted with caution due to the limited number of studies and variations in study design, subject characteristics, and exercise protocols. CONCLUSION: Available evidence suggests that physical exercise has the potential to increase MDP levels, which may be associated with improved metabolic function, increased insulin sensitivity, and the efficiency of cellular energy metabolism. However, current evidence is limited, particularly in human studies. Therefore, further research, particularly controlled clinical trials and longitudinal studies, is needed to confirm these findings and evaluate MDP's potential as a therapeutic target in the prevention and management of metabolic diseases."
+  }
+ ],
+ "praeklinik": [
+  {
+   "pmid": "36761202",
+   "titel": "MOTS-c: A promising mitochondrial-derived peptide for therapeutic exploitation",
+   "jahr": "2023",
+   "journal": "Front Endocrinol (Lausanne)",
+   "erstautor": "Zheng Y",
+   "doi": "10.3389/fendo.2023.1120533",
+   "typ": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Mitochondrial ORF of the 12S rRNA Type-C (MOTS-c) is a mitochondrial-derived peptide composed of 16 amino acids encoded by the 12S rRNA region of the mitochondrial genome. The MOTS-c protein is transferred to the nucleus during metabolic stress and directs the expression of nuclear genes to promote cell balance. Different tissues co-expressed the protein with mitochondria, and plasma also contained the protein, but its level decreased with age. In addition, MOTS-c has been shown to improve glucose metabolism in skeletal muscle, which indicates its benefits for diseases such as diabetes, obesity, and aging. Nevertheless, MOTS-c has been used less frequently in disease treatment, and no effective method of applying MOTS-c in the clinic has been developed. Throughout this paper, we discussed the discovery and physiological function of mitochondrial-derived polypeptide MOTS-c, and the application of MOTS-c in the treatment of various diseases, such as aging, cardiovascular disease, insulin resistance, and inflammation. To provide additional ideas for future research and development, we tapped into the molecular mechanisms and therapeutic potentials of MOTS-c to improve diseases and combined the technology with synthetic biology in order to offer a new approach to its development and application."
+  },
+  {
+   "pmid": "25738459",
+   "titel": "The mitochondrial-derived peptide MOTS-c promotes metabolic homeostasis and reduces obesity and insulin resistance",
+   "jahr": "2015",
+   "journal": "Cell Metab",
+   "erstautor": "Lee C",
+   "doi": "10.1016/j.cmet.2015.02.009",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Mitochondria are known to be functional organelles, but their role as a signaling unit is increasingly being appreciated. The identification of a short open reading frame (sORF) in the mitochondrial DNA (mtDNA) that encodes a signaling peptide, humanin, suggests the possible existence of additional sORFs in the mtDNA. Here we report a sORF within the mitochondrial 12S rRNA encoding a 16-amino-acid peptide named MOTS-c (mitochondrial open reading frame of the 12S rRNA-c) that regulates insulin sensitivity and metabolic homeostasis. Its primary target organ appears to be the skeletal muscle, and its cellular actions inhibit the folate cycle and its tethered de novo purine biosynthesis, leading to AMPK activation. MOTS-c treatment in mice prevented age-dependent and high-fat-diet-induced insulin resistance, as well as diet-induced obesity. These results suggest that mitochondria may actively regulate metabolic homeostasis at the cellular and organismal level via peptides encoded within their genome."
+  },
+  {
+   "pmid": "41966639",
+   "titel": "Safety and Efficacy of Approved and Unapproved Peptide Therapies for Musculoskeletal Injuries and Athletic Performance",
+   "jahr": "2026",
+   "journal": "Sports Med",
+   "erstautor": "Mendias CL",
+   "doi": "10.1007/s40279-026-02437-0",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Peptides are short chains of amino acids with a unique pharmacological niche between small-molecule drugs and large proteins. Their use in sports medicine is rapidly expanding, driven by patient demand for accelerated injury recovery and performance enhancement. While numerous peptide drugs have undergone a rigorous approval process that evaluates both safety and efficacy, a parallel \"gray market\" of unapproved compounds has emerged, operating largely outside of regulatory oversight. Our objective is to present the pharmacological mechanisms, safety profiles, and regulatory status of prominent approved and unapproved peptides marketed direct to patients, including AOD-9604 (anti-obesity drug 9604), BPC-157 (body protection compound 157), CJC-1295, FS-344 (follistatin-344), GHK-Cu (glycyl-L-histidyl-L-lysine copper), ipamorelin, MOTS-C (mitochondrial ORF of the 12S rRNA type-c), sermorelin, SS-31 (elamipretide), tesamorelin (Egrifta), Tβ4 (thymosin beta-4), and TB-500 (thymosin beta-4 fragment). Many unapproved peptides demonstrate favorable tissue repair and metabolic outcomes in animal models, but rigorous human safety data are scarce, and there is potential for serious harm to patients. This narrative review focuses on the utilization of peptides in sports medicine, and alternative treatments that may be considered. We provide a framework to navigate patient discussions about peptides to better facilitate evidence-based practices for musculoskeletal healing and athletic performance. We also discuss the placebo effect as a mediator of peptide efficacy, and how social media amplifies this effect."
+  },
+  {
+   "pmid": "39321430",
+   "titel": "Mitochondrial-Derived Peptide MOTS-c Suppresses Ovarian Cancer Progression by Attenuating USP7-Mediated LARS1 Deubiquitination",
+   "jahr": "2024",
+   "journal": "Adv Sci (Weinh)",
+   "erstautor": "Yin Y",
+   "doi": "10.1002/advs.202405620",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Mitochondrial-nuclear communication plays a vital role in maintaining cellular homeostasis. MOTS-c, a short peptide derived from the 12S rRNA of mitochondrial DNA, has been suggested as a retrograde mitochondrial signal. Although recent clinical studies have suggested a possible link between MOTS-c and human cancer, the role of MOTS-c in tumorigenesis has yet to be investigated. Here, MOTS-c levels are found to be reduced in both serum and tumor tissues from ovarian cancer (OC) patients, which are associated with poor patients' prognosis. Exogenous MOTS-c inhibits the proliferation, migration and invasion of OC cells, and induces cell cycle arrest and apoptosis. Mechanistically, MOTS-c interacts with LARS1 and promotes its ubiquitination and proteasomal degradation. In addition, USP7 was identified as a deubiquitinase of LARS1, and MOTS-c can attenuates USP7-mediated LARS1 deubiquitination by competing with USP7 for binding to LARS1. Besides, LARS1 was found to be increased and play an important oncogenic function in OC. More importantly, MOTS-c displays a marked anti-tumor effect on OC growth without systemic toxicity in vivo. In conclusion, this study reveals a crucial role of MOTS-c in OC and provides a possibility for MOTS-c as a therapeutic target for the treatment of this manlignacy."
+  },
+  {
+   "pmid": "33473109",
+   "titel": "MOTS-c is an exercise-induced mitochondrial-encoded regulator of age-dependent physical decline and muscle homeostasis",
+   "jahr": "2021",
+   "journal": "Nat Commun",
+   "erstautor": "Reynolds JC",
+   "doi": "10.1038/s41467-020-20790-0",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Healthy aging can be promoted by enhanced metabolic fitness and physical capacity. Mitochondria are chief metabolic organelles with strong implications in aging that also coordinate broad physiological functions, in part, using peptides that are encoded within their independent genome. However, mitochondrial-encoded factors that actively regulate aging are unknown. Here, we report that mitochondrial-encoded MOTS-c can significantly enhance physical performance in young (2 mo.), middle-age (12 mo.), and old (22 mo.) mice. MOTS-c can regulate (i) nuclear genes, including those related to metabolism and proteostasis, (ii) skeletal muscle metabolism, and (iii) myoblast adaptation to metabolic stress. We provide evidence that late-life (23.5 mo.) initiated intermittent MOTS-c treatment (3x/week) can increase physical capacity and healthspan in mice. In humans, exercise induces endogenous MOTS-c expression in skeletal muscle and in circulation. Our data indicate that aging is regulated by genes encoded in both of our co-evolved mitochondrial and nuclear genomes."
+  },
+  {
+   "pmid": "34798268",
+   "titel": "The mitochondrial-derived peptide MOTS-c relieves hyperglycemia and insulin resistance in gestational diabetes mellitus",
+   "jahr": "2022",
+   "journal": "Pharmacol Res",
+   "erstautor": "Yin Y",
+   "doi": "10.1016/j.phrs.2021.105987",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The most common complication during pregnancy, gestational diabetes mellitus (GDM), can cause adverse pregnancy outcomes and result in the mother and infant having a higher risk of developing type 2 diabetes after pregnancy. However, existing therapies for GDM remain scant, with the most common being lifestyle intervention and appropriate insulin treatment. MOTS-c, a mitochondrial-derived peptide, can target skeletal muscle and enhance glucose metabolism. Here, we demonstrate that MOTS-c can be an effective treatment for GDM. A GDM mouse model was established by short term high-fat diet combined with low-dose streptozotocin (STZ) treatment while MOTS-c was administrated daily during pregnancy. GDM symptoms such as blood glucose and insulin levels, glucose and insulin tolerance, as well as reproductive outcomes were investigated. MOTS-c significantly alleviated hyperglycemia, improved insulin sensitivity and glucose tolerance, and reduced birth weight and the death of offspring induced by GDM. Similar to a previous study, MOTS-c also could activate insulin sensitivity in the skeletal muscle of GDM mice and elevate glucose uptake in vitro. In addition, we found that MOTS-c protects pancreatic β-cell from STZ-mediated injury. Taken together, our findings demonstrate that MOTS-c could be a promising strategy for the treatment of GDM."
+  },
+  {
+   "pmid": "40403491",
+   "titel": "MOTS-c attenuates lung ischemia-reperfusion injury via MYH9-Dependent nuclear translocation and transcriptional activation of antioxidant genes",
+   "jahr": "2025",
+   "journal": "Redox Biol",
+   "erstautor": "Li X",
+   "doi": "10.1016/j.redox.2025.103681",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Acute respiratory distress syndrome (ARDS) following cardiopulmonary bypass (CPB) is driven by oxidative stress during lung ischemia-reperfusion injury (LIRI). Mitochondrial-derived peptide MOTS-c has emerged as a regulator of mitochondrial-nuclear communication, yet its role in CPB-induced ARDS remains unclear. Here, we identify MOTS-c as a critical mediator of endothelial protection against LIRI through MYH9-dependent nuclear translocation and transcriptional activation of antioxidant genes. In rat LIRI models, endothelial cells exhibited the most significant MOTS-c upregulation, correlating with barrier preservation and reduced oxidative stress. Mechanistically, hypoxia-reoxygenation (HR) triggered reactive oxygen species (ROS)-dependent phosphorylation of MYH9 at Ser1943 via casein kinase II subunit alpha (CK2A), enabling MOTS-c binding to MYH9-γ-Actin complexes for nuclear transport. RNA sequencing (RNA-seq) combined with chromatin immunoprecipitation sequencing (ChIP-seq) revealed direct MOTS-c interaction with promoters of antioxidant genes (e.g., HMOX1, NQO1), which harbor antioxidant response elements (AREs). Clinically, serum MOTS-c increments within 24 h post-CPB (ΔMOTS-c) outperformed traditional biomarkers in predicting ARDS incidence, with multivariate models incorporating ΔMOTS-c achieving superior discriminative power (AUC = 0.885). Exogenous MOTS-c administration in rats attenuated lung injury by reducing oxidative damage, inflammation, and mortality, recapitulating endogenous protective mechanisms. Our findings establish MOTS-c as a dual-function molecule-acting via ROS-CK2A-MYH9 signaling to activate nuclear antioxidant defenses and serving as a prognostic biomarker for CPB-related complications. This study bridges mitochondrial dynamics, nuclear transcriptional regulation, and clinical outcomes, offering novel preventive avenues for IRI-associated pathologies."
+  },
+  {
+   "pmid": "39559755",
+   "titel": "MOTS-c modulates skeletal muscle function by directly binding and activating CK2",
+   "jahr": "2024",
+   "journal": "iScience",
+   "erstautor": "Kumagai H",
+   "doi": "10.1016/j.isci.2024.111212",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "MOTS-c is a mitochondrial microprotein that improves metabolism. Here, we demonstrate CK2 is a direct and functional target of MOTS-c. MOTS-c directly binds to CK2 and activates it in cell-free systems. MOTS-c administration to mice prevented skeletal muscle atrophy and enhanced muscle glucose uptake, which were blunted by suppressing CK2 activity. Interestingly, the effects of MOTS-c are tissue-specific. Systemically administered MOTS-c binds to CK2 in fat and muscle, yet stimulates CK2 activity in muscle while suppressing it in fat by differentially modifying CK2-interacting proteins. Notably, a naturally occurring MOTS-c variant, K14Q MOTS-c, has reduced binding to CK2 and does not activate it or elicit its effects. Male K14Q MOTS-c carriers exhibited a higher risk of sarcopenia and type 2 diabetes (T2D) in an age- and physical-activity-dependent manner, whereas females had an age-specific reduced risk of T2D. Altogether, these findings provide evidence that CK2 is required for MOTS-c effects."
+  },
+  {
+   "pmid": "29983246",
+   "titel": "The Mitochondrial-Encoded Peptide MOTS-c Translocates to the Nucleus to Regulate Nuclear Gene Expression in Response to Metabolic Stress",
+   "jahr": "2018",
+   "journal": "Cell Metab",
+   "erstautor": "Kim KH",
+   "doi": "10.1016/j.cmet.2018.06.008",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Cellular homeostasis is coordinated through communication between mitochondria and the nucleus, organelles that each possess their own genomes. Whereas the mitochondrial genome is regulated by factors encoded in the nucleus, the nuclear genome is currently not known to be actively controlled by factors encoded in the mitochondrial DNA. Here, we show that MOTS-c, a peptide encoded in the mitochondrial genome, translocates to the nucleus and regulates nuclear gene expression following metabolic stress in a 5'-adenosine monophosphate-activated protein kinase (AMPK)-dependent manner. In the nucleus, MOTS-c regulated a broad range of genes in response to glucose restriction, including those with antioxidant response elements (ARE), and interacted with ARE-regulating stress-responsive transcription factors, such as nuclear factor erythroid 2-related factor 2 (NFE2L2/NRF2). Our findings indicate that the mitochondrial and nuclear genomes co-evolved to independently encode for factors to cross-regulate each other, suggesting that mitonuclear communication is genetically integrated."
+  },
+  {
+   "pmid": "37307934",
+   "titel": "MOTS-c: A potential anti-pulmonary fibrosis factor derived by mitochondria",
+   "jahr": "2023",
+   "journal": "Mitochondrion",
+   "erstautor": "Zhang Z",
+   "doi": "10.1016/j.mito.2023.06.002",
+   "typ": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Pulmonary fibrosis (PF) is a serious lung disease characterized by diffuse alveolitis and disruption of alveolar structure, with a poor prognosis and unclear etiopathogenesis. While ageing, oxidative stress, metabolic disorders, and mitochondrial dysfunction have been proposed as potential contributors to the development of PF, effective treatments for this condition remain elusive. However, Mitochondrial open reading frame of the 12S rRNA-c (MOTS-c), a peptide encoded by the mitochondrial genome, has shown promising effects on glucose and lipid metabolism, cellular and mitochondrial homeostasis, as well as the reduction of systemic inflammatory responses, and is being investigated as a potential exercise mimetic. Additionally, dynamic expression changes of MOTS-c have been closely linked to ageing and ageing-related diseases, indicating its potential as an exercise mimetic. Therefore, the review aims to comprehensively analyze the available literature on the potential role of MOTS-c in improving PF development and to identify specific therapeutic targets for future treatment strategies."
+  },
+  {
+   "pmid": "34471251",
+   "titel": "Abnormal levels of mitochondrial proteins in plasma neuronal extracellular vesicles in major depressive disorder",
+   "jahr": "2021",
+   "journal": "Mol Psychiatry",
+   "erstautor": "Goetzl EJ",
+   "doi": "10.1038/s41380-021-01268-x",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, N.I.H., Intramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "To characterize neuronal mitochondrial abnormalities in major depressive disorder (MDD), functional mitochondrial proteins (MPs) extracted from enriched plasma neuron-derived extracellular vesicles (NDEVs) of MDD participants (n = 20) were quantified before and after eight weeks of treatment with a selective serotonin reuptake inhibitor (SSRI). Pretreatment baseline NDEV levels of the transcriptional type 2 nuclear respiratory factor (NRF2) which controls mitochondrial biogenesis and many anti-oxidant gene responses, regulators of diverse neuronal mitochondrial functions cyclophilin D (CYPD) and mitofusin-2 (MFN2), leucine zipper EF-hand containing transmembrane 1 protein (LETM1) component of a calcium channel/calcium channel enhancer, mitochondrial tethering proteins syntaphilin (SNPH) and myosin VI (MY06), inner membrane electron transport complexes I (subunit 6) and III (subunit 10), the penultimate enzyme of nicotinamide adenine dinucleotide (NAD) generation nicotinamide mononucleotide adenylytransferase 2 (NMNAT2), and neuronal mitochondrial metabolic regulatory and protective factors humanin and mitochondrial open-reading frame of the 12S rRNA-c (MOTS-c) all were significantly lower than those of NDEVs from matched controls (n = 10), whereas those of pro-neurodegenerative NADase Sterile Alpha and TIR motif-containing protein 1 (SARM1) were higher. The baseline NDEV levels of transcription factor A mitochondrial (TFAM) and the transcriptional master-regulator of mitochondrial biogenesis PPAR γ coactivator-1α (PGC-1α) showed no differences between MDD participants and controls. Several of these potential biomarker proteins showed substantially different changes in untreated MDD than those we reported in untreated first-episode psychosis. NDEV levels of MPs of all functional classes, except complex I-6, NRF2 and PGC-1α were normalized in MDD participants who responded to SSRI therapy (n = 10) but not in those who failed to respond (n = 10) by psychiatric evaluation. If larger studies validate NDEV MP abnormalities, they may become useful biomarkers and identify new drug targets."
+  },
+  {
+   "pmid": "38008175",
+   "titel": "Mitochondrial-derived peptides in cardiovascular disease: Novel insights and therapeutic opportunities",
+   "jahr": "2024",
+   "journal": "J Adv Res",
+   "erstautor": "Li Y",
+   "doi": "10.1016/j.jare.2023.11.018",
+   "typ": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Mitochondria-derived peptides (MDPs) represent a recently discovered family of peptides encoded by short open reading frames (ORFs) found within mitochondrial genes. This group includes notable members including humanin (HN), mitochondrial ORF of the 12S rDNA type-c (MOTS-c), and small humanin-like peptides 1-6 (SHLP1-6). MDPs assume pivotal roles in the regulation of diverse cellular processes, encompassing apoptosis, inflammation, and oxidative stress, which are all essential for sustaining cellular viability and normal physiological functions. Their emerging significance extends beyond this, prompting a deeper exploration into their multifaceted roles and potential applications. AIM OF REVIEW: This review aims to comprehensively explore the biogenesis, various types, and diverse functions of MDPs. It seeks to elucidate the central roles and underlying mechanisms by which MDPs participate in the onset and development of cardiovascular diseases (CVDs), bridging the connections between cell apoptosis, inflammation, and oxidative stress. Furthermore, the review highlights recent advancements in clinical research related to the utilization of MDPs in CVD diagnosis and treatment. KEY SCIENTIFIC CONCEPTS OF REVIEW: MDPs levels are diminished with aging and in the presence of CVDs, rendering them potential new indicators for the diagnosis of CVDs. Also, MDPs may represent a novel and promising strategy for CVD therapy. In this review, we delve into the biogenesis, various types, and diverse functions of MDPs. We aim to shed light on the pivotal roles and the underlying mechanisms through which MDPs contribute to the onset and advancement of CVDs connecting cell apoptosis, inflammation, and oxidative stress. We also provide insights into the current advancements in clinical research related to the utilization of MDPs in the treatment of CVDs. This review may provide valuable information with MDPs for CVD diagnosis and treatment."
+  },
+  {
+   "pmid": "42633281",
+   "titel": "Mitochondria-derived peptide hydrogel augments mitochondrial transplantation for promoting cardiac repair via macrophage metabolic reprogramming",
+   "jahr": "2027",
+   "journal": "Bioact Mater",
+   "erstautor": "Li H",
+   "doi": "10.1016/j.bioactmat.2026.06.010",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Myocardial infarction (MI) is characterized by severe oxidative stress, excessive inflammation, and profound mitochondrial dysfunction. Although mitochondrial transplantation offers therapeutic promise for MI, its clinical translation is severely hampered by the extreme fragility of donor mitochondria with rapid loss of functional viability after isolation. Here, inspired by the intrinsic cellular defense mechanisms against mitochondrial dysfunction, MOTS-c, a mitochondria-derived peptide (MDP), is selected and further conjugated with self-assembling peptide (Q11) to fabricate a hydrogel-based mitochondrial delivery system (MQgel@Mito) for cardiac repair after MI. It has been observed that MQgel significantly extends the survival of isolated mitochondria and maintains metabolic enzyme activity for at least 8 h. More importantly, MQgel not only shields donor mitochondria from oxidative stress and calcium overload, but also enhances mitochondrial internalization by macrophages through an adenosine 5'-monophosphate-activated protein kinase (AMPK)-dependent mechanism. Furthermore, MQgel@Mito facilitates metabolic reprogramming of macrophages by suppressing pro-inflammatory glycolysis and enhancing oxidative phosphorylation (OXPHOS), thereby attenuating M1 polarization. Additionally, MQgel@Mito maintains mitochondrial homeostasis, reduces reactive oxygen species (ROS), and rescues apoptosis of macrophages. In a rat MI model, MQgel@Mito reduces M1 macrophage infiltration and cardiomyocyte damage by delivering viable mitochondria, thereby improving cardiac function and limiting pathological remodeling. These findings establish a paradigm for mitochondrial protection and demonstrate macrophage immunometabolism as a viable therapeutic strategy for MI."
+  },
+  {
+   "pmid": "42752426",
+   "titel": "Synthetic Peptides in Pharmacy Compounding: Analysis of PCAC Recommendations and Industry Safety Standards",
+   "jahr": "2026",
+   "journal": "Int J Pharm Compd",
+   "erstautor": "Willis J",
+   "doi": "",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Compounded peptides have quickly moved from a niche topic to a growing area of interest among patients and prescribers. These products are promoted for a wide range of uses, including tissue repair, inflammation, metabolic health, and healthy aging. This article examines the proposed uses of these peptides, the concerns raised during the review, and the practical implications for compounders."
+  },
+  {
+   "pmid": "41520850",
+   "titel": "MOTS-c improves intrinsic muscle mitochondrial bioenergetic health and efficiency in a PGC-1α/AMPK-dependent manner",
+   "jahr": "2026",
+   "journal": "Free Radic Biol Med",
+   "erstautor": "Gudiksen A",
+   "doi": "10.1016/j.freeradbiomed.2026.01.002",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Mitochondrial-derived peptides are a small class of regulatory peptides encoded by short open reading frames in mitochondrial DNA. One such peptide, mitochondrial open reading frame of the 12S rRNA-c (MOTS-c), has been shown to exert numerous beneficial effects on whole-cell and systemic metabolic parameters when administered exogenously. However, potential MOTS-c-mediated effects on mitochondrial bioenergetics have been largely overlooked. Therefore, the primary aim of the present study was to elucidate whether and, if so, how MOTS-c regulates skeletal muscle (SkM) mitochondrial function. We demonstrate, using two distinct transgenic mouse strains, that administration of MOTS-c augments muscle mitochondrial bioenergetic performance through reliance on both the transcriptional coactivator, Peroxisome proliferator-activated receptor gamma coactivator 1 alpha (PGC-1α), and cellular energy-sensing kinase, 5' adenosine monophosphate-activated protein kinase (AMPK). These effects seem to be exerted without apparent impact on mitochondrial respiratory protein content, alluding to intrinsic mitochondrial changes rather than changes in volume. Furthermore, MOTS-c treatment lowers mitochondrial reactive oxygen species (ROS) emission and ROS-related protein damage indicating substantial alleviation of cellular oxidative stress. RNA-sequence data reveal the effects of MOTS-c treatment to potentially be exerted subtly across a number of mitochondrial parameters such as redox handling, mitochondrial integrity and OXPHOS efficiency, jointly indicating a mechanistic basis for the observed functional improvements in mitochondrial bioenergetics. Despite increased interstitial MOTS-c levels no change was observed in the arterio-venous difference during one-legged knee extensor exercise in humans. This suggests that SkM may not be the source of circulating MOTS-c in response to exercise."
+  },
+  {
+   "pmid": "27216708",
+   "titel": "MOTS-c: A novel mitochondrial-derived peptide regulating muscle and fat metabolism",
+   "jahr": "2016",
+   "journal": "Free Radic Biol Med",
+   "erstautor": "Lee C",
+   "doi": "10.1016/j.freeradbiomed.2016.05.015",
+   "typ": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "abstract": "Mitochondria are ancient organelles that are thought to have emerged from once free-living α-proto-bacteria. As such, they still possess several bacterial-like qualities, including a semi-autonomous genetic system, complete with an independent genome and a unique genetic code. The bacterial-like circular mitochondrial DNA (mtDNA) has been described to encode 37 genes, including 22 tRNAs, 2 rRNAs, and 13 mRNAs. Two additional peptides reported to originate from the mtDNA, namely humanin (Hashimoto et al., 2001; Ikone et al., 2003; Guo et al., 2003) [1-3] and MOTS-c (mitochondrial ORF of the twelve S c) (Lee et al., 2015) [4], indicate a larger mitochondrial genetic repertoire (Shokolenko and Alexeyev, 2015) [5]. These mitochondrial-derived peptides (MDPs) have profound and distinct biological activities and provide a paradigm-shifting concept of active mitochondrial-encoded signals that act at the cellular and organismal level (i.e. mitochondrial hormone) (da Cunha et al., 2015; Quiros et al., 2016) [6,7]. Considering that mitochondria are the single most important metabolic organelle, it is not surprising that these MDPs have metabolic actions. MOTS-c has been shown to target the skeletal muscle and enhance glucose metabolism. As such, MOTS-c has implications in the regulation of obesity, diabetes, exercise, and longevity, representing an entirely novel mitochondrial signaling mechanism to regulate metabolism within and between cells."
+  },
+  {
+   "pmid": "36233287",
+   "titel": "MOTS-c, the Most Recent Mitochondrial Derived Peptide in Human Aging and Age-Related Diseases",
+   "jahr": "2022",
+   "journal": "Int J Mol Sci",
+   "erstautor": "Mohtashami Z",
+   "doi": "10.3390/ijms231911991",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "MOTS-c, a 16 amino acid mitochondrial derived peptide, is encoded from the 12S rRNA region of the mitochondrial genome. Under stress conditions, MOTS-c translocates to the nucleus where it regulates a wide range of genes in response to metabolic dysfunction. It is colocalized to mitochondria in various tissues and is found in plasma, but the levels decline with age. Since MOTS-c has important cellular functions as well as a possible hormonal role, it has been shown to have beneficial effects on age-related diseases including Diabetes, Cardiovascular diseases, Osteoporosis, postmenopausal obesity and Alzheimer. Aging is characterized by gradual loss of (mitochondrial) metabolic balance, decreased muscle homeostasis and eventual diminished physical capability, which potentially can be reversed with MOTS-c treatment. This review examines the latest findings on biological effects of MOTS-c as a nuclear regulatory peptide and focuses on the role of MOTS-c in aging and age-related disorders, including mechanisms of action and therapeutic potential."
+  },
+  {
+   "pmid": "33337582",
+   "titel": "MOTS-c promotes phosphorodiamidate morpholino oligomer uptake and efficacy in dystrophic mice",
+   "jahr": "2021",
+   "journal": "EMBO Mol Med",
+   "erstautor": "Ran N",
+   "doi": "10.15252/emmm.202012993",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Antisense oligonucleotide (AO)-mediated exon-skipping therapies show promise in Duchenne muscular dystrophy (DMD), a devastating muscular disease caused by frame-disrupting mutations in the DMD gene. However, insufficient systemic delivery remains a hurdle to clinical deployment. Here, we demonstrate that MOTS-c, a mitochondria-derived bioactive peptide, with an intrinsic muscle-targeting property, augmented glycolytic flux and energy production capacity of dystrophic muscles in vitro and in vivo, resulting in enhanced phosphorodiamidate morpholino oligomer (PMO) uptake and activity in mdx mice. Long-term repeated administration of MOTS-c (500 μg) and PMO at the dose of 12.5 mg/kg/week for 3 weeks followed by 12.5 mg/kg/month for 3 months (PMO-M) induced therapeutic levels of dystrophin expression in peripheral muscles, with up to 25-fold increase in diaphragm of mdx mice over PMO alone. PMO-M improved muscle function and pathologies in mdx mice without detectable toxicity. Our results demonstrate that MOTS-c enables enhanced PMO uptake and activity in dystrophic muscles by providing energy and may have therapeutic implications for exon-skipping therapeutics in DMD and other energy-deficient disorders."
+  },
+  {
+   "pmid": "40172798",
+   "titel": "MOTS-c: Magical Molecule for Diabetic Cardiomyopathy?",
+   "jahr": "2025",
+   "journal": "Cardiovasc Drugs Ther",
+   "erstautor": "Yerra VG",
+   "doi": "10.1007/s10557-025-07689-y",
+   "typ": [
+    "Editorial"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "36824008",
+   "titel": "Mitochondrial-Encoded Peptide MOTS-c, Diabetes, and Aging-Related Diseases",
+   "jahr": "2023",
+   "journal": "Diabetes Metab J",
+   "erstautor": "Kong BS",
+   "doi": "10.4093/dmj.2022.0333",
+   "typ": [
+    "Journal Article",
+    "Review",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Mitochondria are complex metabolic organelles with manifold pathophysiological implications in diabetes. Currently published mitochondrial-encoded peptides, which are expressed from the mitochondrial open reading frame of the 12S ribosomal RNA type-c (MOTS-c), 16S rRNA (humanin and short humanin like peptide 1-6 [SHLP1-6]), or small human mitochondrial open reading frame over serine tRNA (SHMOOSE) are associated with regulation of cellular metabolism and insulin action in age-related diseases, such as type 2 diabetes mellitus. This review focuses mainly on recent advances in MOTS-c research with regards to diabetes, including both type 1 and type 2. The emerging understanding of MOTS-c in diabetes may provide insight into the development of new therapies for diabetes and other age or senescence-related diseases."
+  },
+  {
+   "pmid": "36677050",
+   "titel": "MOTS-c Functionally Prevents Metabolic Disorders",
+   "jahr": "2023",
+   "journal": "Metabolites",
+   "erstautor": "Gao Y",
+   "doi": "10.3390/metabo13010125",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Mitochondrial-derived peptides are a family of peptides encoded by short open reading frames in the mitochondrial genome, which have regulatory effects on mitochondrial functions, gene expression, and metabolic homeostasis of the body. As a new member of the mitochondrial-derived peptide family, mitochondrial open reading frame of the 12S rRNA-c (MOTS-c) is regarding a peptide hormone that could reduce insulin resistance, prevent obesity, improve muscle function, promote bone metabolism, enhance immune regulation, and postpone aging. MOTS-c plays these physiological functions mainly through activating the AICAR-AMPK signaling pathways by disrupting the folate-methionine cycle in cells. Recent studies have shown that the above hormonal effect can be achieved through MOTS-c regulating the expression of genes such as GLUT4, STAT3, and IL-10. However, there is a lack of articles summarizing the genes and pathways involved in the physiological activity of MOTS-c. This article aims to summarize and interpret the interesting and updated findings of MOTS-c-associated genes and pathways involved in pathological metabolic processes. Finally, it is expected to develop novel diagnostic markers and treatment approaches with MOTS-c to prevent and treat metabolic disorders in the future."
+  },
+  {
+   "pmid": "37788894",
+   "titel": "Novel function of MOTS-c in mitochondrial remodelling contributes to its antiviral role during HBV infection",
+   "jahr": "2024",
+   "journal": "Gut",
+   "erstautor": "Lin C",
+   "doi": "10.1136/gutjnl-2023-330389",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: Hepatitis B virus (HBV) infection causes substantial harm to mitochondrial activity, which hinders the development of effective treatments for chronic hepatitis B (CHB). The discovery of the mitochondrial-derived short peptide MOTS-c, which possesses multiple bioactivities, offers a promising new approach in treating HBV infection. This study aims to explore the diagnostic and therapeutic potential of MOTS-c in HBV-related diseases and its molecular mechanism. DESIGN: In total, 85 healthy subjects and 404 patients with HBV infection, including 20 clinical treatment cohorts, were recruited for this study. MOTS-c levels were measured by ELISA and its diagnostic value was evaluated by receiving operating characteristic curve analysis. The therapeutic effect of MOTS-c was observed in multiple HBV-infected mice and cells through various techniques, including transcriptomic sequencing, flow cytometry, immunofluorescence and electron microscopy. Additionally, MOTS-c's potential interaction with myosin-9 (MYH9) and actin was predicted using immunoprecipitation, proteomics and target prediction software. RESULTS: MOTS-c negatively correlates with HBV DNA expression (R=-0.71), and its AUC (the area under the curve) for distinguishing CHB from healthy controls is 0.9530, and IA (immune reactive) from IC (inactive HBV carrier) is 0.8689. Inhibition of HBV replication (with a 50-70% inhibition rate) was observed alongside improved liver function without notable toxicity in vitro or in vivo. MOTS-c was found to promote mitochondrial biogenesis and enhance the MAVS (mitochondrial antiviral signalling protein) signalling pathway. The impact is dependent on MOTS-c's ability to regulate MYH9-actin-mediated mitochondrial homeostasis. CONCLUSION: MOTS-c has the potential to serve as a biomarker for the progression of HBV infection while also enhancing antiviral efficacy. These findings present a promising innovative approach for effectively treating patients with CHB. Furthermore, our research uncovers a novel role for MOTS-c in regulating MYH9-actin-mediated mitochondrial dynamics and contributing to mitochondrial biogenesis."
+  },
+  {
+   "pmid": "33554779",
+   "titel": "MOTS-c reduces myostatin and muscle atrophy signaling",
+   "jahr": "2021",
+   "journal": "Am J Physiol Endocrinol Metab",
+   "erstautor": "Kumagai H",
+   "doi": "10.1152/ajpendo.00275.2020",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Obesity and type 2 diabetes are metabolic diseases, often associated with sarcopenia and muscle dysfunction. MOTS-c, a mitochondrial-derived peptide, acts as a systemic hormone and has been implicated in metabolic homeostasis. Although MOTS-c improves insulin sensitivity in skeletal muscle, whether MOTS-c impacts muscle atrophy is not known. Myostatin is a negative regulator of skeletal muscle mass and also one of the possible mediators of insulin resistance-induced skeletal muscle wasting. Interestingly, we found that plasma MOTS-c levels are inversely correlated with myostatin levels in human subjects. We further demonstrated that MOTS-c prevents palmitic acid-induced atrophy in differentiated C2C12 myotubes, whereas MOTS-c administration decreased myostatin levels in plasma in diet-induced obese mice. By elevating AKT phosphorylation, MOTS-c inhibits the activity of an upstream transcription factor for myostatin and other muscle wasting genes, FOXO1. MOTS-c increases mTORC2 and inhibits PTEN activity, which modulates AKT phosphorylation. Further upstream, MOTS-c increases CK2 activity, which leads to PTEN inhibition. These results suggest that through inhibition of myostatin, MOTS-c could be a potential therapy for insulin resistance-induced skeletal muscle atrophy as well as other muscle wasting phenotypes including sarcopenia.NEW & NOTEWORTHY MOTS-c, a mitochondrial-derived peptide reduces high-fat-diet-induced muscle atrophy signaling by reducing myostatin expression. The CK2-PTEN-mTORC2-AKT-FOXO1 pathways play key roles in MOTS-c action on myostatin expression."
+  },
+  {
+   "pmid": "35842023",
+   "titel": "MOTS-c promotes muscle differentiation in vitro",
+   "jahr": "2022",
+   "journal": "Peptides",
+   "erstautor": "García-Benlloch S",
+   "doi": "10.1016/j.peptides.2022.170840",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "MOTS-c (mitochondrial open reading frame of the 12 S rRNA-c) is a newly discovered peptide that has been shown to have a protective role in whole-body metabolic homeostasis. This could be a consequence of the effect of MOTS-c on muscle tissue. Here, we investigated the role of MOTS-c in the differentiation of human (LHCN-M2) and murine (C2C12) muscle progenitor cells. Cells were treated with peptides at the onset of differentiation or after myotubes had been formed. We identified in silico a putative Src Homology 2 (SH2) binding motif in the YIFY region of the MOTS-c sequence, and created a Y8F mutant MOTS-c peptide to explore the role of this region. In both cellular models, treatment with wild-type MOTS-c peptide increased myotube formation whereas treatment with the Y8F peptide did not. MOTS-c wild-type, but not Y8F peptide, also protected against interleukin-6 (IL-6)-induced reduction of nuclear myogenin staining in myocytes. Thus, we investigated whether MOTS-c interacts with the IL-6/Janus kinase/ Signal transducer and activator of transcription 3 (STAT3) pathway, and found that MOTS-c, but not the Y8F peptide, blocked the transcriptional activity of STAT3 induced by IL-6. Altogether, our findings suggest that, in muscle cells, MOTS-c interacts with STAT3 via the putative SH2 binding motif in the YIFY region to reduce STAT3 transcriptional activity, which enhances myotube formation. This newly discovered mechanism of action highlights MOTS-c as a potential therapeutic target against muscle-wasting in several diseases."
+  },
+  {
+   "pmid": "30058454",
+   "titel": "Mitochondrial-Derived Peptides Exacerbate Senescence",
+   "jahr": "2018",
+   "journal": "Rejuvenation Res",
+   "erstautor": "Mendelsohn AR",
+   "doi": "10.1089/rej.2018.2114",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Mitochondrial-derived peptides (MDPs), encoded by mitochondrial DNA, play a cytoprotective role by helping preserve mitochondrial function and cell viability under stressful conditions. Humanin and its homologs and MOTS-c are two of several MDPs hypothesized to have antiaging activity based on correlative studies. For example, humanin plasma levels are inversely correlated with growth hormone and insulin-like growth factor 1 expression, which may promote accelerated aging. Humanin has been shown to protect cells from beta amyloid toxicity and preserve endothelial cell function in a mouse model of atherosclerosis. Furthermore, both humanin and MOTS-c improve insulin sensitivity in mouse models of type 2 diabetes. Recently it was reported that a potent analogue of humanin blocks cardiac fibrosis in aging mice. Although it has been hypothesized that MDPs might have senolytic activity, in a recent report humanin and MOTS-c both exacerbate the senescence-associated-secretory-phenotype (SASP) in senescent cells by stimulating the secretion of IL-6, IL-1β, IL-8, IL-10 and tumor necrosis factor α. It appears that the cytoprotective activity of the MDPs may be permissive for increased expression of a set of proinflammatory cytokines. Given the potential benefits of MDPs in many of the same diseases associated with the presence of senescent cells, a combination of senolytic and MDP-based treatments may be additive or synergistic. The MDPs would protect normal cells, whereas senescent cells would be eliminated by the senolytic therapy. It is even possible that MDPs by increasing the SASP phenotype would make the senescent cells more apt to be cleared by the immune system or more sensitive to senolytics. In contrast, if the MDPs actually cytoprotect the senescent cells, then the treatment can be performed serially with the senolytic used first."
+  },
+  {
+   "pmid": "32776825",
+   "titel": "Mitochondrial-derived peptides in energy metabolism",
+   "jahr": "2020",
+   "journal": "Am J Physiol Endocrinol Metab",
+   "erstautor": "Merry TL",
+   "doi": "10.1152/ajpendo.00249.2020",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "Mitochondrial-derived peptides (MDPs) are small bioactive peptides encoded by short open-reading frames (sORF) in mitochondrial DNA that do not necessarily have traditional hallmarks of protein-coding genes. To date, eight MDPs have been identified, all of which have been shown to have various cyto- or metaboloprotective properties. The 12S ribosomal RNA (MT-RNR1) gene harbors the sequence for MOTS-c, whereas the other seven MDPs [humanin and small humanin-like peptides (SHLP) 1-6] are encoded by the 16S ribosomal RNA gene. Here, we review the evidence that endogenous MDPs are sensitive to changes in metabolism, showing that metabolic conditions like obesity, diabetes, and aging are associated with lower circulating MDPs, whereas in humans muscle MDP expression is upregulated in response to stress that perturbs the mitochondria like exercise, some mtDNA mutation-associated diseases, and healthy aging, which potentially suggests a tissue-specific response aimed at restoring cellular or mitochondrial homeostasis. Consistent with this, treatment of rodents with humanin, MOTS-c, and SHLP2 can enhance insulin sensitivity and offer protection against a range of age-associated metabolic disorders. Furthermore, assessing how mtDNA variants alter the functions of MDPs is beginning to provide evidence that MDPs are metabolic signal transducers in humans. Taken together, MDPs appear to form an important aspect of a retrograde signaling network that communicates mitochondrial status with the wider cell and to distal tissues to modulate adaptative responses to metabolic stress. It remains to be fully determined whether the metaboloprotective properties of MDPs can be harnessed into therapies for metabolic disease."
+  },
+  {
+   "pmid": "35285072",
+   "titel": "SARS-CoV-2 and Mitochondrial Proteins in Neural-Derived Exosomes of COVID-19",
+   "jahr": "2022",
+   "journal": "Ann Neurol",
+   "erstautor": "Peluso MJ",
+   "doi": "10.1002/ana.26350",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, N.I.H., Intramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: As SARS-CoV-2 is known to invade neural cell mitochondria, a plasma system for quantifying central nervous system proteins in living humans was used to investigate neuropathogenic mechanisms of long-COVID-19. METHODS: SARS-CoV-2 proteins and mitochondrial proteins (MPs) in enriched plasma neuron-derived extracellular vesicles (NDEVs) and astrocyte-derived EVs (ADEVs) were quantified in resolved acute COVID-19 without post-acute sequelae of SARS-CoV-2 (PASC), PASC without neuropsychiatric manifestations (NP), PASC with NP and healthy controls. RESULTS: NDEV and ADEV mean levels of SARS-CoV-2 S1 and nucleocapsid (N) proteins were higher in all PASC sub-groups than controls, but only N levels were higher in PASC with than without NP. Exosome marker CD81-normalized NDEV mean levels of subunit 6 of MP respiratory chain complex I and subunit 10 of complex III, and neuroprotective MPs Humanin and mitochondrial open-reading frame of the 12S rRNA-c (MOTS-c) all were decreased significantly in PASC with NP but not in PASC without NP relative to controls. NDEV levels of MPs voltage-dependent anion-selective channel protein 1 (VDAC1) and N-methyl-D-aspartate receptor 1 (NMDAR1) were decreased in PASC without and with NP, whereas those of calcium channel MPs mitochondrial calcium uniporter (MCU), sodium/calcium exchanger (NCLX) and leucine zipper EF-hand containing transmembrane 1 protein (LETM1) were decreased only in PASC with NP. ADEV levels of MCU and NCLX only were increased in PASC without and with NP. INTERPRETATION: Abnormal NDEV and ADEV levels of SARS-CoV-2 N and S1 protein and MPs correlate with NP and may be biomarkers for long-COVID prognostics and therapeutic trials. ANN NEUROL 2022;91:772-781."
+  },
+  {
+   "pmid": "29096170",
+   "titel": "MOTS-c peptide increases survival and decreases bacterial load in mice infected with MRSA",
+   "jahr": "2017",
+   "journal": "Mol Immunol",
+   "erstautor": "Zhai D",
+   "doi": "10.1016/j.molimm.2017.10.017",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Sepsis is a life-threatening disease characterized by uncontrolled inflammatory responses upon pathogen infections, especially for the antibiotic-resistant strains, such as Methicillin-resistant S. aureus (MRSA). Here we demonstrated that a Mitochondria-derived peptide (MOTS-c) could significantly improve the survival rate and decrease bacteria loads in MRSA-challenged mice, accompanied with declined levels of pro-inflammatory cytokines, such as TNF-α, IL-6 and IL-1β, but with increased level of anti-inflammatory cytokine IL-10. Moreover this peptide enhanced bactericidal capacity of macrophages. Meanwhile, MOTS-c inhibited the phosphorylation mitogen-activated protein kinases (MAPK), and enhanced the expression of aryl hydrocarbon receptor (AhR) and signal transducer and activator of transcriptional 3 (STAT3) in macrophages. Overall, MOTS-c plays a beneficial role in curbing the overwhelming inflammatory bursts in the fight against MRSA infection. It may serve as a potential therapeutic agent in sepsis treatment. Highlight."
+  },
+  {
+   "pmid": "31378979",
+   "titel": "MOTS-c: A Mitochondrial-Encoded Regulator of the Nucleus",
+   "jahr": "2019",
+   "journal": "Bioessays",
+   "erstautor": "Benayoun BA",
+   "doi": "10.1002/bies.201900046",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "Mitochondria are increasingly being recognized as information hubs that sense cellular changes and transmit messages to other cellular components, such as the nucleus, the endoplasmic reticulum (ER), the Golgi apparatus, and lysosomes. Nonetheless, the interaction between mitochondria and the nucleus is of special interest because they both host part of the cellular genome. Thus, the communication between genome-bearing organelles would likely include gene expression regulation. Multiple nuclear-encoded proteins have been known to regulate mitochondrial gene expression. On the contrary, no mitochondrial-encoded factors are known to actively regulate nuclear gene expression. MOTS-c (mitochondrial open reading frame of the 12S ribosomal RNA type-c) is a recently identified peptide encoded within the mitochondrial 12S ribosomal RNA gene that has metabolic functions. Notably, MOTS-c can translocate to the nucleus upon metabolic stress (e.g., glucose restriction and oxidative stress) and directly regulate adaptive nuclear gene expression to promote cellular homeostasis. It is hypothesized that cellular fitness requires the coevolved mitonuclear genomes to coordinate adaptive responses using gene-encoded factors that cross-regulate the opposite genome. This suggests that cellular gene expression requires the bipartite split genomes to operate as a unified system, rather than the nucleus being the sole master regulator."
+  },
+  {
+   "pmid": "34520826",
+   "titel": "Mitochondrial-derived peptides and exercise",
+   "jahr": "2021",
+   "journal": "Biochim Biophys Acta Gen Subj",
+   "erstautor": "Woodhead JST",
+   "doi": "10.1016/j.bbagen.2021.130011",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Acute exercise, and in particular aerobic exercise, increases skeletal muscle energy demand causing mitochondrial stress, and mitochondrial-related adaptations which are a hallmark of exercise training. Given that mitochondria are central players in the exercise response, it is imperative that they have networks that can communicate their status both intra- and inter-cellularly. Peptides encoded by short open-reading frames within mitochondrial DNA, mitochondrial-derived peptides (MDPs), have been suggested to form a newly recognised branch of this retrograde signalling cascade that contribute to coordinating the adaptive response to regular exercise. Here we summarise the recent evidence that acute high intensity exercise in humans can increase concentrations of the MDPs humanin and MOTS-c in skeletal muscle and plasma, and speculate on the mechanisms controlling MDP responses to exercise stress. Evidence that exercise training results in chronic changes in MDP expression within tissues and the circulation is conflicting and may depend on the mode, duration, intensity of training plan and participant characteristics. Further research is required to define the effect of these variables on MDPs and to determine whether MDPs other than MOTS-c have exercise mimetic properties. MOTS-c treatment of young and aged mice improves exercise capacity/performance and leads to adaptions that are similar to that of being physically active (weight loss, increased antioxidant capacity and improved insulin sensitivity), however, studies utilising a MOTS-c inactivating genetic variant or combination of exercise + MOTS-c treatment in mice suggest that there are distinct and overlapping pathways through which exercise and MOTS-c evoke metabolic benefits. Overall, MOTS-c, and potentially other MDPs, may be exercise-sensitive myokines and further work is required to define inter- and intra-tissue targets in an exercise context."
+  },
+  {
+   "pmid": "40872612",
+   "titel": "Exercise-Induced Muscle-Fat Crosstalk: Molecular Mediators and Their Pharmacological Modulation for the Maintenance of Metabolic Flexibility in Aging",
+   "jahr": "2025",
+   "journal": "Pharmaceuticals (Basel)",
+   "erstautor": "Tero-Vescan A",
+   "doi": "10.3390/ph18081222",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Regular physical activity induces a dynamic crosstalk between skeletal muscle and adipose tissue, modulating the key molecular pathways that underlie metabolic flexibility, mitochondrial function, and inflammation. This review highlights the role of myokines and adipokines-particularly IL-6, irisin, leptin, and adiponectin-in orchestrating muscle-adipose tissue communication during exercise. Exercise stimulates AMPK, PGC-1α, and SIRT1 signaling, promoting mitochondrial biogenesis, fatty acid oxidation, and autophagy, while also regulating muscle hypertrophy through the PI3K/Akt/mTOR and Wnt/β-catenin pathways. Simultaneously, adipose-derived factors like leptin and adiponectin modulate skeletal muscle metabolism via JAK/STAT3 and AdipoR1-mediated AMPK activation. Additionally, emerging exercise mimetics such as the mitochondrial-derived peptide MOTS-c and myostatin inhibitors are highlighted for their roles in increasing muscle mass, the browning of white adipose tissue, and improving systemic metabolic function. The review also addresses the role of anti-inflammatory compounds, including omega-3 polyunsaturated fatty acids and low-dose aspirin, in mitigating NF-κB and IL-6 signaling to protect mitochondrial health. The resulting metabolic flexibility, defined as the ability to efficiently switch between lipid and glucose oxidation, is enhanced through repeated exercise, counteracting age- and disease-related mitochondrial and functional decline. Together, these adaptations demonstrate the importance of inter-tissue signaling in maintaining energy homeostasis and preventing sarcopenia, obesity, and insulin resistance. Finally, here we propose a stratified treatment algorithm based on common age-related comorbidities, offering a framework for precision-based interventions that may offer a promising strategy to preserve metabolic plasticity and delay the age-associated decline in cardiometabolic health."
+  },
+  {
+   "pmid": "41468174",
+   "titel": "Muscle-Targeted Nanocomposite Therapy Alleviates Age-Related Sarcopenia via Antioxidant and Metabolic Reprogramming",
+   "jahr": "2026",
+   "journal": "ACS Nano",
+   "erstautor": "Liu Z",
+   "doi": "10.1021/acsnano.5c18226",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Sarcopenia, a progressive skeletal muscle disorder marked by loss of mass and function, presents growing societal challenges due to limited therapeutic options. Here, we identify mitochondrial dysfunction and oxidative stress as central drivers of sarcopenia through integrated bioinformatics and clinical validation. To address this pathophysiology, we engineer a muscle-targeted nanocomposite (BP-PEG-MOTS-c, BM) combining mitochondrial-derived peptide MOTS-c with antioxidant black phosphorus nanosheets (BP). BM exhibits dual functionality: MOTS-c restores mitochondrial function, while BP synergistically amplifies ROS scavenging capacity. In cellular and murine models with age-related sarcopenia, BM treatment alleviates muscle dysfunction and muscle loss, concurrently normalizing mitochondrial function and reducing lipid peroxidation. Mechanistic profiling via RNA-seq reveals BM's activation of PI3K/AKT/Nrf2 and suppression of ROS/p38 MAPK signaling pathway, mediating antioxidant responses and maintenance of mitochondrial homeostasis. The nanocomposite demonstrats superior biocompatibility in toxicity assays, outperforming conventional delivery systems. Our findings establish that BM has been established as a promising mitochondrial redox modulator with translational potential for sarcopenia and related age-associated pathologies."
+  },
+  {
+   "pmid": "34320351",
+   "titel": "Mitochondrial-encoded MOTS-c prevents pancreatic islet destruction in autoimmune diabetes",
+   "jahr": "2021",
+   "journal": "Cell Rep",
+   "erstautor": "Kong BS",
+   "doi": "10.1016/j.celrep.2021.109447",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Mitochondria are principal metabolic organelles that are increasingly unveiled as immune regulators. However, it is currently not known whether mitochondrial-encoded peptides modulate T cells to induce changes in phenotype and function. In this study, we found that MOTS-c (mitochondrial open reading frame of the 12S rRNA type-c) prevented autoimmune β cell destruction by targeting T cells in non-obese diabetic (NOD) mice. MOTS-c ameliorated the development of hyperglycemia and reduced islet-infiltrating immune cells. Furthermore, adoptive transfer of T cells from MOTS-c-treated NOD mice significantly decreased the incidence of diabetes in NOD-severe combined immunodeficiency (SCID) mice. Metabolic and genomic analyses revealed that MOTS-c modulated T cell phenotype and function by regulating T cell receptor (TCR)/mTOR complex 1 (mTORC1) signaling. Type 1 diabetes (T1D) patients had a lower serum MOTS-c level than did healthy controls. Furthermore, MOTS-c reduced T cell activation by alleviating T cells from the glycolytic stress in T1D patients, suggesting therapeutic potential. Our findings indicate that MOTS-c regulates the T cell phenotype and suppresses autoimmune diabetes."
+  },
+  {
+   "pmid": "41043625",
+   "titel": "MOTS-c attenuates mitochondrial dysfunction induces pyroptosis and cartilage degradation in osteoarthritis via an Nrf2-Dependent Mechanism",
+   "jahr": "2025",
+   "journal": "Free Radic Biol Med",
+   "erstautor": "Li K",
+   "doi": "10.1016/j.freeradbiomed.2025.09.056",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Osteoarthritis, a common chronic degenerative disease in the field of orthopedics, is caused by the interaction of mechanical stress, traumatic inflammation, and metabolic imbalance, and this interaction progresses over time. MOTS-c, a mitochondria-derived peptide, exerts pivotal roles in regulating metabolism, anti-inflammation, and antioxidant stress responses. However, current research on the role of MOTS-c in osteoarthritis remains scarce, and its specific mechanism of action remains unclear. Therefore, this study aims to further explore the molecular mechanisms by which MOTS-c regulates osteoarthritis. Exogenous supplementation of MOTS-c improves mitochondrial dysfunction, inhibits the activation of inflammatory bodies and rescues chondrocyte pyroptosis, thereby regulating the metabolic balance of extracellular matrix (ECM). Mechanistically, MOTS-c plays a key role in LPS-induced oxidative stress and chondrocyte pyroptosis through the Nrf2/TXNIP/NLRP3 axis. Our research demonstrates that MOTS-c can not only effectively inhibit the expression of inflammatory factors but also promote the expression of major components of the extracellular matrix (ECM) and suppress the production of matrix metalloproteinases. We validated the in vivo efficacy of MOTS-c by establishing a murine osteoarthritis model. Analysis of imaging and histopathological results revealed that MOTS-c can effectively delay the degeneration of articular cartilage and ameliorate the progression of osteoarthritis. Collectively, our findings uncover the intrinsic regulatory mechanism of MOTS-c in chondrocytes and its potential value in the treatment of osteoarthritis."
+  },
+  {
+   "pmid": "38170165",
+   "titel": "Mitochondrial-derived microprotein MOTS-c attenuates immobilization-induced skeletal muscle atrophy by suppressing lipid infiltration",
+   "jahr": "2024",
+   "journal": "Am J Physiol Endocrinol Metab",
+   "erstautor": "Kumagai H",
+   "doi": "10.1152/ajpendo.00285.2023",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Mitochondrial open reading frame of the 12S ribosomal RNA type-c (MOTS-c), a mitochondrial microprotein, has been described as a novel regulator of glucose and lipid metabolism. In addition to its role as a metabolic regulator, MOTS-c prevents skeletal muscle atrophy in high fat-fed mice. Here, we examined the preventive effect of MOTS-c on skeletal muscle mass, using an immobilization-induced muscle atrophy model, and explored its underlying mechanisms. Male C57BL/6J mice (10 wk old) were randomly assigned to one of the three experimental groups: nonimmobilization control group (sterilized water injection), immobilization control group (sterilized water injection), and immobilization and MOTS-c-treated group (15 mg/kg/day MOTS-c injection). We used casting tape for the immobilization experiment. After 8 days of the experimental period, skeletal muscle samples were collected and used for Western blotting, RNA sequencing, and lipid and collagen assays. Immobilization reduced ∼15% of muscle mass, whereas MOTS-c treatment attenuated muscle loss, with only a 5% reduction. MOTS-c treatment also normalized phospho-AKT, phospho-FOXO1, and phospho-FOXO3a expression levels and reduced circulating inflammatory cytokines, such as interleukin-1b (IL-1β), interleukin-6 (IL-6), chemokine C-X-C motif ligand 1 (CXCL1), and monocyte chemoattractant protein 1 (MCP-1), in immobilized mice. Unbiased RNA sequencing and its downstream analyses demonstrated that MOTS-c modified adipogenesis-modulating gene expression within the peroxisome proliferator-activated receptor (PPAR) pathway. Supporting this observation, muscle fatty acid levels were lower in the MOTS-c-treated group than in the casted control mice. These results suggest that MOTS-c treatment inhibits skeletal muscle lipid infiltration by regulating adipogenesis-related genes and prevents immobilization-induced muscle atrophy.NEW & NOTEWORTHY MOTS-c, a mitochondrial microprotein, attenuates immobilization-induced skeletal muscle atrophy. MOTS-c treatment improves systemic inflammation and skeletal muscle AKT/FOXOs signaling pathways. Furthermore, unbiased RNA sequencing and subsequent assays revealed that MOTS-c prevents lipid infiltration in skeletal muscle. Since lipid accumulation is one of the common pathologies among other skeletal muscle atrophies induced by aging, obesity, cancer cachexia, and denervation, MOTS-c treatment could be effective in other muscle atrophy models as well."
+  },
+  {
+   "pmid": "27237975",
+   "titel": "Mitochondria related peptide MOTS-c suppresses ovariectomy-induced bone loss via AMPK activation",
+   "jahr": "2016",
+   "journal": "Biochem Biophys Res Commun",
+   "erstautor": "Ming W",
+   "doi": "10.1016/j.bbrc.2016.05.135",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Therapeutic targeting bone loss has been the focus of the study in osteoporosis. The present study is intended to evaluate whether MOTS-c, a novel mitochondria related 16 aa peptide, can protect mice from ovariectomy-induced osteoporosis. After ovary removal, the mice were injected with MOTS-c at a dose of 5 mg/kg once a day for 12 weeks. Our results showed that MOTS-c treatment significantly alleviated bone loss, as determined by micro-CT examination. Mechanistically, we found that the receptor activator of nuclear factor-κB ligand (RANKL) induced osteoclast differentiation was remarkably inhibited by MOTS-c. Moreover, MOTS-c increased phosphorylated AMPK levels, and compound C, an AMPK inhibitor, could partially abrogate the effects of the MOTS-c on osteoclastogenesis. Thus, our findings provide evidence that MOTS-c may exert as an inhibitor of osteoporosis via AMPK dependent inhibition of osteoclastogenesis."
+  },
+  {
+   "pmid": "35499074",
+   "titel": "Mitochondria-derived peptides in aging and healthspan",
+   "jahr": "2022",
+   "journal": "J Clin Invest",
+   "erstautor": "Miller B",
+   "doi": "10.1172/JCI158449",
+   "typ": [
+    "Journal Article",
+    "Review",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "abstract": "The mechanisms that explain mitochondrial dysfunction in aging and healthspan continue to be studied, but one element has been unexplored: microproteins. Small open reading frames in circular mitochondria DNA can encode multiple microproteins, called mitochondria-derived peptides (MDPs). Currently, eight MDPs have been published: humanin, MOTS-c, and SHLPs 1-6. This Review describes recent advances in microprotein discovery with a focus on MDPs. It discusses what is currently known about MDPs in aging and how this new understanding could add to the way we understand age-related diseases including type 2 diabetes, cancer, and neurodegenerative diseases at the genomic, proteomic, and drug-development levels."
+  },
+  {
+   "pmid": "35185787",
+   "titel": "Mitochondrial-Derived Peptides in Diabetes and Its Complications",
+   "jahr": "2021",
+   "journal": "Front Endocrinol (Lausanne)",
+   "erstautor": "Wu Y",
+   "doi": "10.3389/fendo.2021.808120",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "The changes of mitochondrial function are closely related to diabetes and its complications. Here we describe the effects of mitochondrial-derived peptides (MDPs), short peptides formed by transcription and translation of the open reading frame site in human mitochondrial DNA (mtDNA), on diabetes and its complications. We mainly focus on MDPs that have been discovered so far, such as Humanin (HN), mitochondrial open reading frame of the 12S rRNA-c (MOTS-c) and Small humanin-like peptides (SHLP 1-6), and elucidated the role of MDPs in diabetes and its major complications stroke and myocardial infarction by improving insulin resistance, inhibiting inflammatory response and anti-apoptosis. It provides more possibilities for the clinical application of mitochondrial derived peptides."
+  },
+  {
+   "pmid": "31066084",
+   "titel": "Lipids and insulin regulate mitochondrial-derived peptide (MOTS-c) in PCOS and healthy subjects",
+   "jahr": "2019",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Ramanjaneya M",
+   "doi": "10.1111/cen.14007",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: Polycystic ovarian syndrome (PCOS) is a heterogeneous endocrine disorder associated with mitochondrial dysfunction and insulin resistance (IR). MOTS-c, a mitochondrial peptide, promotes insulin sensitivity (IS) through activating AKT and AMPK-dependent pathways. The current study was designed to examine the response of MOTS-c to lipids (intralipid) followed by insulin in PCOS and healthy subjects. METHODS: All subjects underwent 5-hour intralipid/saline infusion with a hyperinsulinemic-euglycaemic clamp in the final 2 hours. Plasma samples were collected to measure circulating MOTS-c using a commercial ELISA kit. Subsequently, this was repeated following an eight-week exercise intervention. RESULTS: Intralipid significantly increased plasma MOTS-c both in controls and PCOS subjects, whilst the insulin infusion blunted the intralipid-induced response seen for both lipids and MOT-c. Intralipid elevated plasma MOTS-c to 232 ± 124% of basal in control (P < 0.01) and to 349 ± 206% of basal in PCOS (P < 0.001) subjects. Administration of insulin suppressed intralipid-induced MOTS-c from 232 ± 124% to 165 ± 97% (NS) in control and from 349 ± 206% to 183 ± 177% (P < 0.05) in PCOS subjects, respectively. Following exercise, intralipid elevated plasma MOTS-c to 305 ± 153% of basal in control (P < 0.01) and to 215 ± 103% of basal in PCOS (P < 0.01) subjects; insulin suppressed intralipid-induced MOTS-c only in controls. CONCLUSIONS: In conclusion, this is the first study to show increased lipid enhanced circulating MOTS-c whilst insulin attenuated the MOTS-c response in human. Further, eight weeks of moderate exercise training did not show any changes in circulating MOTS-c levels in healthy controls and in women with PCOS."
+  },
+  {
+   "pmid": "34067710",
+   "titel": "The Role of Peptide Hormones Discovered in the 21st Century in the Regulation of Adipose Tissue Functions",
+   "jahr": "2021",
+   "journal": "Genes (Basel)",
+   "erstautor": "Kołodziejski PA",
+   "doi": "10.3390/genes12050756",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "Peptide hormones play a prominent role in controlling energy homeostasis and metabolism. They have been implicated in controlling appetite, the function of the gastrointestinal and cardiovascular systems, energy expenditure, and reproduction. Furthermore, there is growing evidence indicating that peptide hormones and their receptors contribute to energy homeostasis regulation by interacting with white and brown adipose tissue. In this article, we review and discuss the literature addressing the role of selected peptide hormones discovered in the 21st century (adropin, apelin, elabela, irisin, kisspeptin, MOTS-c, phoenixin, spexin, and neuropeptides B and W) in controlling white and brown adipogenesis. Furthermore, we elaborate how these hormones control adipose tissue functions in vitro and in vivo."
+  }
+ ],
+ "ctgov": [
+  {
+   "nct": "NCT04027712",
+   "titel": "Platelet Reactivity, B-amyloid, MOTS-c and Mortality of Type II Diabetics With CAD",
+   "phase": "",
+   "typ": "OBSERVATIONAL",
+   "status": "UNKNOWN",
+   "teilnehmende": 120,
+   "start": "2014-01-01",
+   "ende": "2021-12-31",
+   "erkrankungen": [
+    "Diabetes",
+    "Clopidogrel Resistance",
+    "Amyloid",
+    "Insulin Resistance"
+   ],
+   "sponsor": "University of Athens",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06133946",
+   "titel": "Cohort Of DEafness-gene Screening",
+   "phase": "",
+   "typ": "OBSERVATIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 35920,
+   "start": "2016-01-01",
+   "ende": "2028-12-31",
+   "erkrankungen": [
+    "Hearing Loss"
+   ],
+   "sponsor": "Affiliated Hospital of Nantong University",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07678073",
+   "titel": "Comparison of the Effects of General Anesthesia and Combined Spinal-Epidural Anesthesia on Ferroptosis, Humanin and MOTS-c Levels in Renal Transplantation",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 68,
+   "start": "2026-03-01",
+   "ende": "2026-10-15",
+   "erkrankungen": [
+    "Kidney Disease, End-Stage",
+    "Kidney Transplant",
+    "Kidney",
+    "Kidney Disease",
+    "Renal Transplant"
+   ],
+   "sponsor": "University of Gaziantep",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT03878706",
+   "titel": "The Cardiovascular Effect of GLP-1 Agonist, SGLT2 Inhibitor and Their Combination",
+   "phase": "",
+   "typ": "OBSERVATIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 240,
+   "start": "2017-11-03",
+   "ende": "2027-06-30",
+   "erkrankungen": [
+    "Diabetes Mellitus, Type 2"
+   ],
+   "sponsor": "University of Athens",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07505745",
+   "titel": "MOTS-c for Improving Insulin Sensitivity in Adults With Prediabetes and Overweight/Obesity",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 120,
+   "start": "2026-02-02",
+   "ende": "2028-05-17",
+   "erkrankungen": [
+    "Prediabetes",
+    "Insulin Resistance",
+    "Overweight/Obesity"
+   ],
+   "sponsor": "Hudson Biotech",
+   "ergebnisse": false
+  }
+ ],
+ "gruppe": "D_gehirn_langlebigkeit"
+}

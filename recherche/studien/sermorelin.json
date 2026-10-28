@@ -1,0 +1,752 @@
+{
+ "name": "Sermorelin",
+ "status": "teilweise",
+ "suchbegriff_pubmed": "sermorelin[tiab]",
+ "suchbegriff_ctgov": "sermorelin",
+ "humanstudien_alle": [],
+ "humanstudien_detail": [],
+ "metaanalysen": [],
+ "praeklinik": [
+  {
+   "pmid": "41966639",
+   "titel": "Safety and Efficacy of Approved and Unapproved Peptide Therapies for Musculoskeletal Injuries and Athletic Performance",
+   "jahr": "2026",
+   "journal": "Sports Med",
+   "erstautor": "Mendias CL",
+   "doi": "10.1007/s40279-026-02437-0",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Peptides are short chains of amino acids with a unique pharmacological niche between small-molecule drugs and large proteins. Their use in sports medicine is rapidly expanding, driven by patient demand for accelerated injury recovery and performance enhancement. While numerous peptide drugs have undergone a rigorous approval process that evaluates both safety and efficacy, a parallel \"gray market\" of unapproved compounds has emerged, operating largely outside of regulatory oversight. Our objective is to present the pharmacological mechanisms, safety profiles, and regulatory status of prominent approved and unapproved peptides marketed direct to patients, including AOD-9604 (anti-obesity drug 9604), BPC-157 (body protection compound 157), CJC-1295, FS-344 (follistatin-344), GHK-Cu (glycyl-L-histidyl-L-lysine copper), ipamorelin, MOTS-C (mitochondrial ORF of the 12S rRNA type-c), sermorelin, SS-31 (elamipretide), tesamorelin (Egrifta), Tβ4 (thymosin beta-4), and TB-500 (thymosin beta-4 fragment). Many unapproved peptides demonstrate favorable tissue repair and metabolic outcomes in animal models, but rigorous human safety data are scarce, and there is potential for serious harm to patients. This narrative review focuses on the utilization of peptides in sports medicine, and alternative treatments that may be considered. We provide a framework to navigate patient discussions about peptides to better facilitate evidence-based practices for musculoskeletal healing and athletic performance. We also discuss the placebo effect as a mediator of peptide efficacy, and how social media amplifies this effect."
+  },
+  {
+   "pmid": "41490200",
+   "titel": "Therapeutic Peptides in Orthopaedics: Applications, Challenges, and Future Directions",
+   "jahr": "2026",
+   "journal": "J Am Acad Orthop Surg Glob Res Rev",
+   "erstautor": "Rahman OF",
+   "doi": "10.5435/JAAOSGlobal-D-25-00236",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Therapeutic peptides are emerging as promising adjuncts in the management of orthopaedic injuries, grounded in their ability to modulate molecular signaling networks central to cellular medicine. By acting on key pathways such as PI3K/Akt, mTOR, MAPK, TGF-β, and AMPK, peptides exert influence over tissue regeneration, inflammation resolution, and neuromuscular recovery. Wound-healing peptides such as BPC-157, TB-500, and GHK-Cu promote angiogenesis, integrin-mediated extracellular matrix remodeling, and fibroblast activation, whereas growth hormone secretagogues like ipamorelin, CJC-1295, tesamorelin, sermorelin, and AOD-9604 activate IGF-1 signaling and satellite cell repair. Recovery-enhancing agents such as epithalon, delta sleep-inducing peptide, and pinealon target circadian and mitochondrial regulators, and neuroactive peptides like selank, semax, and dihexa enhance brain-derived neurotrophic factor and HGF/c-Met pathways critical to neuroplasticity. Although preclinical studies are promising, there is a current lack of clinical trials. This review integrates current mechanistic insights with orthopaedic relevance, emphasizing safety, efficacy, and future directions for responsible integration into musculoskeletal care."
+  },
+  {
+   "pmid": "34665524",
+   "titel": "Advances in the detection of growth hormone releasing hormone synthetic analogs",
+   "jahr": "2021",
+   "journal": "Drug Test Anal",
+   "erstautor": "Memdouh S",
+   "doi": "10.1002/dta.3183",
+   "typ": [
+    "Journal Article",
+    "Validation Study"
+   ],
+   "abstract": "The administration of growth hormone releasing hormone (GHRH) and its synthetic analogs is prohibited by the World Anti-Doping Agency (WADA). Although there is evidence of their use, based on admissions and intelligence, they do not appear to have been found in anti-doping samples by WADA accredited laboratories. This might be due to their small concentration in urine and limited knowledge about their metabolism, especially for unapproved synthetic analogs. This study investigates the in vitro metabolism and detection of four of the larger GHRH synthetic analogs (sermorelin, tesamorelin, CJC-1295, and CJC-1295 with drug affinity complex) in fortified urine. Nineteen major in vitro metabolites were identified, selected for synthesis, purified, and characterized in house. These were used as reference materials to spike into urine together with commercially available parent peptides and a metabolite of sermorelin (sermorelin(3-29)-NH2 ) to develop a sensitive liquid chromatography-tandem mass spectrometry method for their detection to help prove GHRH administration. Limits of detection of the target peptides were generally 1 ng/ml (WADA required performance limit) or less."
+  },
+  {
+   "pmid": "37806509",
+   "titel": "Cationic exchange SPE combined with triple quadrupole UHPLC-MS/MS for detection of GHRHs in urine samples",
+   "jahr": "2023",
+   "journal": "Anal Biochem",
+   "erstautor": "Cristea CD",
+   "doi": "10.1016/j.ab.2023.115336",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The use of growth hormone-releasing hormones (GHRHs) is prohibited in sports according to the regulations of the World Anti-Doping Agency (WADA). Considering the complexity of urine samples and the low concentrations at which these analytes should be detected, analyzing GHRHs is a challenging task. In most of the studies, GHRHs are analyzed using UHPLC-HRMS with an orbitrap. The present developed and validated method for some GHRHs (tesamorelin, CJC-1295, sermorelin (GRF 1-29), sermorelin (3-29)-NH2, somatorelin) is based on the triple quadrupole UHPLC/MS-MS method with solid phase extraction (SPE) with weak cation exchange and is able to detect concentrations as low as 0.2 ng/mL (LOD), a limit of quantification (LOQ) at 0.6 ng/mL, and linearity across the range of 0.1 ng/mL to 1.2 ng/mL. The present method developed by our doping control laboratory was validated according to WADA technical documents for selectivity, limit of detection (LOD), carryover, reliability of detection, stability and recovery. The results show that the method has adequate recoveries and sensitivity, hence, it can be employed for routine screening in anti-doping laboratories."
+  },
+  {
+   "pmid": "32257855",
+   "titel": "Beyond the androgen receptor: the role of growth hormone secretagogues in the modern management of body composition in hypogonadal males",
+   "jahr": "2020",
+   "journal": "Transl Androl Urol",
+   "erstautor": "Sinha DK",
+   "doi": "10.21037/tau.2019.11.30",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Male hypogonadism is an increasingly prevalent clinical condition that affects patients' quality of life and overall health. Obesity and metabolic syndrome can both cause and result from hypogonadism. Although testosterone remains the gold standard for hypogonadism management, its benefits are not always conserved across different populations, especially with regards to changes in body composition. Partially in response to this, growth hormone secretagogues (GHS) have emerged as a potential novel adjunctive therapy for some of the symptoms of hypogonadism, although current data on their clinical efficacy largely remain lacking. The present review examines the existing literature on the use of GHS and explores their potential complementary role in the management of hypogonadal and eugonadal males with metabolic syndrome or subclinical hypogonadism (SH). The GHS that will be discussed include sermorelin, growth hormone-releasing peptides (GHRP)-2, GHRP-6, ibutamoren, and ipamorelin. All are potent GH and IGF-1 stimulators that can significantly improve body composition while ameliorating specific hypogonadal symptoms including fat gain and muscular atrophy. However, a paucity of data examining the clinical effects of these compounds currently limits our understanding of GHS' role in the treatment of men with hypogonadism, but does open opportunities for future investigation."
+  },
+  {
+   "pmid": "38716080",
+   "titel": "Probing for peptidic drugs (2-10 kDa) in doping control blood samples",
+   "jahr": "2022",
+   "journal": "Anal Sci Adv",
+   "erstautor": "Thomas A",
+   "doi": "10.1002/ansa.202200027",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Bioactive peptides with a molecular mass between 2 and 10 kDa represent an important class of substances banned in elite sports, which has been recognized with an increasing number and variety of substances by anti-doping organizations. Also, the annually renewed list of prohibited substances of the World Anti-Doping Agency (WADA) explicitly mentions more and more of these peptides, and efficient testing procedures are required. Even under simplified sample preparation conditions, liquid chromatography coupled to high-resolution mass spectrometry (with resolution properties > 100,000 full width at half maximum) offers suitable conditions for this task and can therefore be used as an initial testing procedure. In contrast to urine, blood analysis essentially relies on the detection of intact peptide hormones, and the expected concentrations are commonly higher in blood samples than in urine. This facilitates the analysis, and a generic sample preparation by means of mixed-mode solid-phase extraction could be realized in this study. Co-extraction and analysis of several different peptides such as insulins (human, lispro, aspart, glulisine, tresiba, detemir, glargine, bovine insulin and porcine insulin), growth hormone releasing hormones (sermorelin, CJC-1295 and tesamorelin), insulin-like growth factors (long-R3-IGF-I, R3-IGF-I and Des1-3-IGF-I) and mechano growth factors (human MGF and MGF-Goldspink) with criteria that fulfil the requirements of the WADA documents (TD2022 MRPL) for doping controls. The proof of principle was shown by the analysis of post administration samples after treatment with synthetic insulin analogues."
+  },
+  {
+   "pmid": "41880199",
+   "titel": "A new era of doping? Use of peptide and peptide-analog drugs in recreational and professional sport and bodybuilding: a critical review",
+   "jahr": "2026",
+   "journal": "J Sports Med Phys Fitness",
+   "erstautor": "Coutinho LFD",
+   "doi": "10.23736/S0022-4707.26.17773-1",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "The pursuit of pharmacological enhancement in sport has evolved from the widespread use of anabolic-androgenic steroids (AAS) to novel agents such as peptides and peptide analogues. Marketed as more selective and ostensibly safer alternatives, peptides-including growth hormone secretagogues (e.g., Ipamorelin), growth hormone-releasing hormone analogues (e.g., CJC-1295, Sermorelin), and synthetic fragments (e.g., Frag 176-191, KPV)-are promoted for muscle growth, fat metabolism, recovery, and anti-inflammatory effects. Their pharmacological profiles, including enhanced stability and receptor selectivity, have made them attractive in both medical research and bodybuilding communities. Despite their growing popularity, the clinical evidence supporting peptide use in sport is limited. Most published studies examine therapeutic applications under controlled dosing regimens, not the supraphysiological or combined protocols common in bodybuilding. Emerging data highlight potential risks: cardiovascular strain, insulin resistance, dyslipidemia, and psychiatric instability. The largely unregulated supply chain exacerbates these dangers, as products are often mislabeled or contaminated. Regulatory bodies such as the World Anti-Doping Agency (WADA) have responded by expanding detection technologies, yet analytical challenges remain due to peptides' structural similarity to endogenous hormones and short half-lives. Beyond elite sport, the extent of peptide use in the general population is unknown. Anecdotal reports and widespread promotion on social media suggest growing uptake among recreational gym-goers, including younger individuals, but prevalence studies are lacking. This represents a critical gap in current knowledge. In conclusion, peptides represent a new phase in performance enhancement but remain experimental substances with poorly defined long-term risks. Until longitudinal data clarify their safety and prevalence, peptide use in both competitive and recreational settings should be considered high-risk and ethically problematic."
+  },
+  {
+   "pmid": "41138283",
+   "titel": "Analysis of growth hormone releasing hormone and its analogs in urine using nano liquid chromatography coupled with quadrupole/orbitrap mass spectrometry",
+   "jahr": "2026",
+   "journal": "J Pharm Biomed Anal",
+   "erstautor": "Uçaktürk E",
+   "doi": "10.1016/j.jpba.2025.117207",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Growth hormone-releasing hormone (GHRH) and its synthetic analogs are considered performance-enhancing substances and are therefore prohibited by the World Anti-Doping Agency (WADA). The analysis of GHRH and its analogs in urine presents significant analytical challenges due to their inherent in vivo instability, rapid renal clearance, and low urinary concentrations. The present study aimed to develop a robust nano-LC quadrupole/orbitrap mass spectrometry (nano-LC-Q/Orbitrap MS) method for both screening and confirmation analyses of GHRH and its synthetic analogs (sermorelin/CJC-1293, tesamorelin, and CJC-1295) and the primary metabolite of sermorelin in urine, in accordance with WADA requirements. The sample preparation workflow was systematically investigated. Existing solid-phase extraction (SPE) protocols were compared, and two additional commercially available SPE cartridges were evaluated. Within the SPE step, the influence of various washing and elution solvent strengths on peptide recovery was also systematically examined. The effectiveness of different cleanup solvents during the ultrafiltration step was further assessed. Based on these evaluations, a refined approach was developed, incorporating an initial ultrafiltration step followed by SPE. The proposed method was fully validated according to WADA guidelines, assessing key parameters such as selectivity, reliability, limits of detection (LOD), carryover, limits of identification (LOI), robustness, autosampler stability, and matrix effects. The validation results confirmed the method's suitability and robustness for anti-doping testing. Achieved LODs (≤ 0.5 ng/mL) and LOIs (0.5-0.75 ng/mL) demonstrated sufficient sensitivity for effective detection and confirmation analysis of the target peptides in urine."
+  },
+  {
+   "pmid": "18046908",
+   "titel": "Sermorelin: a better approach to management of adult-onset growth hormone insufficiency?",
+   "jahr": "2006",
+   "journal": "Clin Interv Aging",
+   "erstautor": "Walker RF",
+   "doi": "10.2147/ciia.2006.1.4.307",
+   "typ": [
+    "Editorial"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "35298973",
+   "titel": "An antibody-free, ultrafiltration-based assay for the detection of growth hormone-releasing hormones in urine at low pg/mL concentrations using nanoLC-HRMS/MS",
+   "jahr": "2022",
+   "journal": "J Pharm Biomed Anal",
+   "erstautor": "Coppieters G",
+   "doi": "10.1016/j.jpba.2022.114726",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "This work presents an ultrafiltration-based, validated method for the screening and confirmation of prohibited growth hormone-releasing hormone (GHRH) analogues (sermorelin/CJC-1293, sermorelin metabolite, CJC-1295 and tesamorelin) in urine by nanoLC-HRMS/MS. Sample preparation avoids the use of laborious antibody-based extraction approaches and consists solely of preconcentration by ultrafiltration. Even in the absence of immuno-affinity purification steps, high sensitivity was still ensured as limits of detection between 5 and 25 pg/mL and limits of identification between 25 and 50 pg/mL were established. The robustness of the miniaturized chromatographic setup was evaluated through the injection of 200 + preconcentrated urinary extracts. In a comparison with immuno-affinity purification, enhanced recoveries (59 - 115%) and similar sensitivity were achieved, yet at lower operational costs. Stability experiments showed the importance of the proper handling of urine samples to avoid degradation of these peptide hormones, especially for sermorelin and its metabolite which were found to rapidly degrade at temperatures > 4 °C and pH values < 7 in accordance with earlier studies. Without the need for specific antibodies, this method may be expanded to cover emerging peptide drugs (≥ ~3 kDa), as well as their metabolites in the future to facilitate coverage for this class of prohibited substances."
+  },
+  {
+   "pmid": "14499707",
+   "titel": "PEGylation of growth hormone-releasing hormone (GRF) analogues",
+   "jahr": "2003",
+   "journal": "Adv Drug Deliv Rev",
+   "erstautor": "Esposito P",
+   "doi": "10.1016/s0169-409x(03)00109-1",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Synthetically produced GRF1-29 (Sermorelin) has an amino acid composition identical to the N-terminal 29 amino acids sequence of the natural hypothalamic GHRH1-44 (Figure 1). It maintains bioactivity in vitro and is almost equally effective in eliciting secretion of endogenous growth hormone in vivo. The main drawbacks associated with the pharmaceutical use of hGRF1-29 relate to its short half-life in plasma, about 10-20 min in humans, which is caused mostly by renal ultrafiltration and enzymatic degradation at the N terminus. PEGylation has been considered as one valid approach to obtain more stable forms of the peptide, with a longer in vivo half-life and ultimately with increased pharmacodynamic response along the somatotropic axis (endogenous GH, IGF-1 levels). Different PEGylated GRF conjugates were obtained and their bioactivity was tested in vitro and in vivo by monitoring endogenous growth hormone (GH) serum levels after intravenous (i.v.) injection in rats, and intravenous and subcutaneous (s.c.) injection in pigs. It was found that GRF-PEG conjugates are able to bind and activate the human GRF receptor, although with different potency. The effect of PEG molecular weight, number of PEG chains bound and position of PEGylation site on GRF activity were investigated. Mono-PEGylated isomers with a PEG5000 polymer chain linked to Lys 12 or Lys 21 residues, showed high biological activity in vitro, which is similar to that of hGRF1-29, and a higher pharmacodynamic response as compared to unmodified GRF molecule."
+  },
+  {
+   "pmid": "38197510",
+   "titel": "Chromatographic-mass spectrometric analysis of peptidic analytes (2-10 kDa) in doping control urine samples",
+   "jahr": "2024",
+   "journal": "J Mass Spectrom",
+   "erstautor": "Thomas A",
+   "doi": "10.1002/jms.4996",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Peptides with a molecular mass between 2 and 10 kDa that are prohibited in elite sports usually require dedicated sample preparation and mass spectrometric detection that commonly cannot be combined with other (lower molecular mass) substances. In most instances, the physicochemical differences are too significant to allow for a generic analytical procedure. A simplification of established and comparably complex analytical approaches is therefore desirable and has been accomplished in the context of this study. With urine samples representing still the most frequently collected doping control specimens, efficient extraction of peptidic analytes from this matrix was a major goal of this method, as demonstrated for the included compounds such as insulins (human, lispro, aspart, glulisine, tresiba, glargine metabolite, bovine insulin, porcine insulin), growth hormone-releasing hormones (sermorelin, CJC-1295, tesamorelin) incl. their respective metabolites, insulin-like-growth factors (long-R3 -IGF-I, R3 -IGF-I, des1-3 -IGF-I), synacthen, gonadorelin and mechano growth factors (human MGF, MGF-Goldspink). Sample preparation and detection are controlled by five internal standards, covering all five included peptide drug categories. Nearly all requirements of the recent technical documents from the World Anti-Doping Agency (WADA) considering their minimum required performance levels (MRPL) are fulfilled, and the method was validated for its utilisation as initial testing procedure in doping controls. Finally, the approach was applied to authentic post-administration study urine samples (for insulins and gonadorelin) in order to provide proof of principle."
+  },
+  {
+   "pmid": "26456392",
+   "titel": "Operation resistance: A snapshot of falsified antibiotics and biopharmaceutical injectables in Europe",
+   "jahr": "2016",
+   "journal": "Drug Test Anal",
+   "erstautor": "Venhuis BJ",
+   "doi": "10.1002/dta.1888",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Operation Pangea is an annual international week of action combating pharmaceutical crime. In this study, called Operation Resistance, we asked the national agencies in Europe to search for falsified antibiotics and biopharmaceutical injectables (peptides and proteins) amongst the medicines seized in Pangea 7 (2014). Reports were received from Belgium, Cyprus, Czech Republic, Denmark, France, the Netherlands, Portugal, Sweden, Spain, the United Kingdom, Norway, and Switzerland. The countries reported seizing about 21,000 dose units (e.g. tablets, capsules) of falsified antibiotics in total. Most of the antibiotics were unlicensed medicines with common antibiotic drugs. In this study week, very few falsified biopharmaceutical injectables were reported. Laboratories reported human growth hormone, sermorelin, melanotan II, and no active ingredients. The average shipment size seemed too large for personal use indicating that a substantial part was intended for resale. This study provides a snapshot of the falsified antibiotics and biopharmaceuticals that enter European countries. How much is actually reaching users during Pangea week - in on other weeks - remains unknown. The shipment sizes indicate falsified antibiotics and biopharmaceuticals are imported for both personal use and resale. The use of antibiotics from unreliable sources is a health risk, contributes to antimicrobial resistance, and may obscure a source of infection from health agencies. The falsified biopharmaceuticals are a health risk because they lack all labelling and may contain unlicensed drugs for injection. It seems important to raise awareness among health-care professionals that falsified medicines in Europe are not restricted to erectile dysfunction drugs. Copyright © 2015 John Wiley & Sons, Ltd."
+  },
+  {
+   "pmid": "32971474",
+   "titel": "Comparison of magnetic bead surface functionalities for the immunopurification of growth hormone-releasing hormones prior to liquid chromatography-high resolution mass spectrometry",
+   "jahr": "2020",
+   "journal": "J Chromatogr A",
+   "erstautor": "Pont L",
+   "doi": "10.1016/j.chroma.2020.461548",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Growth hormone-releasing hormone and its analogues sermorelin, tesamorelin and CJC-1295 are included in the prohibited list of the World Antidoping Agency. These target peptides are found at very low concentrations in urine (at the pg/mL level). For this reason, hyphenated enrichment and purification steps prior to mass spectrometric detection are required. Among different strategies, immunopurification based on magnetic beads is an excellent alternative, as it offers improved selectivity when the immunoreactivity and orientation of the antibody are optimum and non-specific adsorption is minimized. However, choosing the magnetic bead surface functionalities that provide the best recoveries is not so straightforward. In this work, we have evaluated the suitability of magnetic beads with different supports, binding capacities and affinity chemistries prior analysis of human urine samples by liquid chromatography coupled to high resolution mass spectrometry using a Quadrupole-Orbitrap instrument. After optimization of the immunopurification protocol with the magnetic beads that provided better recoveries, the method was fully validated and found to be adequate considering the parameters specificity, intra- and inter-day precision (lower than 15 and 25%, respectively), matrix effect, limit of detection (0.2 ng/mL) and limit of identification (0.5 ng/mL)."
+  },
+  {
+   "pmid": "26382721",
+   "titel": "Expanded test method for peptides >2 kDa employing immunoaffinity purification and LC-HRMS/MS",
+   "jahr": "2015",
+   "journal": "Drug Test Anal",
+   "erstautor": "Thomas A",
+   "doi": "10.1002/dta.1868",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Validation Study"
+   ],
+   "abstract": "Bioactive peptides with an approximate molecular mass of 2-12 kDa are of considerable relevance in sports drug testing. Such peptides have been used to manipulate several potential performance-enhancing processes in the athlete's body and include for example growth hormone releasing hormones (sermorelin, CJC-1293, CJC-1295, tesamorelin), synthetic/animal insulins (lispro, aspart, glulisine, glargine, detemir, degludec, bovine and porcine insulin), synthetic ACTH (synacthen), synthetic IGF-I (longR(3) -IGF-I) and mechano growth factors (human MGF, modified human MGF, 'full-length' MGF). A combined initial test method using one analytical procedure is a desirable tool in doping controls and related disciplines as requests for higher sample throughput with utmost comprehensiveness preferably at reduced costs are constantly issued. An approach modified from an earlier assay proved fit-for-purpose employing pre-concentration of all target analytes by means of ultrafiltration, immunoaffinity purification with coated paramagnetic beads, nano-ultra high performance liquid chromatography (UHPLC) separation, and subsequent detection by means of high resolution tandem mass spectrometry. The method was shown to be applicable to blood and urine samples, which represent the most common doping control specimens. The method was validated considering the parameters specificity, recovery (11-69%), linearity, imprecision (<25%), limit of detection (5-100 pg in urine, 0.1-2 ng in plasma), and ion suppression. The analysis of administration study samples for insulin degludec, detemir, aspart, and synacthen provided the essential data for the proof-of-principle of the method."
+  },
+  {
+   "pmid": "26879649",
+   "titel": "Qualitative identification of growth hormone-releasing hormones in human plasma by means of immunoaffinity purification and LC-HRMS/MS",
+   "jahr": "2016",
+   "journal": "Anal Bioanal Chem",
+   "erstautor": "Knoop A",
+   "doi": "10.1007/s00216-016-9377-3",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Validation Study"
+   ],
+   "abstract": "The use of growth hormone-releasing hormones (GHRHs) is prohibited in sports according to the regulations of the World Anti-Doping Agency (WADA). The aim of the present study was to develop a method for the simultaneous detection of four different GHRHs and respective metabolites from human plasma by means of immunoaffinity purification and subsequent nano-ultrahigh performance liquid chromatography-high resolution/high accuracy (tandem) mass spectrometry. The target analytes included Geref (Sermorelin), CJC-1293, CJC-1295, and Egrifta (Tesamorelin) as well as two metabolites of Geref and CJC-1293, which were captured from plasma samples using a polyclonal GHRH antibody in concert with protein A/G monolithic MSIA™ D.A.R.T.'S® (Disposable Automation Research Tips) prior to separation and detection. The method was fully validated and found to be fit for purpose considering the parameters specificity, linearity, recovery (19-37%), lower limit of detection (<50 pg/mL), imprecision (<20%), and ion suppression/enhancement effects. The analytes' stability and metabolism were elucidated using in vitro and in vivo approaches. EDTA blood samples were collected from rats 2, 4, and 8 h after intravenous administration of GHRH (one compound per test animal). All intact substances were detected for at least 4 h but no anticipated metabolite was confirmed in laboratory rodents' samples; conversely, a Geref metabolite (GHRH3-29) was found in a human plasma sample collected after subcutaneous injection of the drug to a healthy male volunteer. The obtained results demonstrate that GHRHs are successfully detected in plasma using an immunoaffinity-mass spectrometry-based method, which can be applied to sports drug testing samples. Further studies are however required and warranted to account for potential species-related differences in metabolism and elimination of the target analytes."
+  },
+  {
+   "pmid": "36787346",
+   "titel": "Online large volume sample staking preconcentration and separation of enantiomeric GHRH analogs by capillary electrophoresis",
+   "jahr": "2023",
+   "journal": "Electrophoresis",
+   "erstautor": "Otin J",
+   "doi": "10.1002/elps.202200278",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "A capillary electrophoresis method is proposed to analyze the four most well-known growth hormone-releasing hormone (GHRH) analogs that are misused by athletes. Dimethyl-β-cyclodextrin used as a chiral selector allowed, for the first time, the separation of those basic peptide analogs, including enantiopeptides (sermorelin and CJC-1293) that differ by the chirality of only one amino acid. To increase the method sensitivity, electrokinetic preconcentration methods have been investigated. The large volume sample stacking with polarity switching (PS-LVSS) method with an injected sample volume corresponding to 80% of the capillary one was found superior to the sweeping in terms of signal enhancement factor (SEF). Acid and organic solvent addition to the sample (0.1 mM phosphoric acid with 30% methanol) led to a twofold signal improvement, when compared to water as a matrix. We increased capillary dimensions to provide a signal enhancement through the injection of a larger sample volume. Finally, using a combination of the optimized PS-LVSS preconcentration with the chiral capillary zone electrophoresis (CZE), the GHRH analogs were separated and limits of detection between 75 and 200 ng/mL were reached. This method was successfully applied to urine after a desalting step. An optimized C18 SPE was used for that purpose in order to provide low sample conductivity (<130 µS/cm) and preserve the efficiency of LVSS preconcentration. SEF of 640 was obtained with desalted urine spiked with sermorelin by comparison to the CZE (without preconcentration) method."
+  },
+  {
+   "pmid": "33842627",
+   "titel": "A potentially effective drug for patients with recurrent glioma: sermorelin",
+   "jahr": "2021",
+   "journal": "Ann Transl Med",
+   "erstautor": "Chang Y",
+   "doi": "10.21037/atm-20-6561",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: Treatment insensitivity is the main cause of glioma. This study was designed to screen out effective drugs for recurrent gliomas based on the transcriptomics data. METHODS: A total of 1,018 glioma patients with transcriptome sequencing data and clinical data were included in this study. There were 325 patients in the discovery cohort, including 229 primary patients and 92 recurrent patients. There were 693 patients in the validation cohort, including 422 primary patients and 271 relapsed patients. Drug Resistant Scores (DRS) of 4,865 drugs of each patient were used for screening. The analysis and drawing in this study were mainly based on R language. RESULTS: After high-throughput drug screening, we found that recurrent glioma patients were most sensitive to sermorelin. Further analysis revealed that sermorelin was suitable for recurrent patients with high grade, IDH-wildtype and 1p/19q non-codeletion status. GO and KEGG analyses found that sermorelin may inhibit tumor cell proliferation by cell cycle blocking. Moreover, sermorelin was also related to the immune system process and negatively regulated immune checkpoints and M0 macrophages. Lastly, the Kaplan-Meier method showed the patient's benefit from sermorelin was independent of postoperative adjuvant treatment. CONCLUSIONS: Recurrent glioma patients are sensitive to sermorelin and it makes effect through glioma cells proliferation inhibiting and immune response enhancing."
+  },
+  {
+   "pmid": "37688464",
+   "titel": "In-house standards derived from doping peptides: Enzymatic and serum stability and degradation profile of GHRP and GHRH-related peptides",
+   "jahr": "2023",
+   "journal": "Biomed Chromatogr",
+   "erstautor": "González-López NM",
+   "doi": "10.1002/bmc.5741",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Matrix effect and sample pretreatment significantly affect the percentage recovery of peptides in biological matrices, affecting the method robustness and accuracy. To counteract this effect, an internal standard (IS) is used; however, in most cases this is not available, which limits the analytical method. It is important to identify short peptides that can be used as ISs in the quantification of peptides in biological matrices. In this study, doping peptides GHRP-4, GHRP-5, GHRP-6, Sermorelin (1-11), Sermorelin (13-20) and Sermorelin (22-29) were synthesized using solid-phase peptide synthesis. Treatment with human blood, trypsin and chymotrypsin was used to determine the stability of the peptides. Products were evaluated using the high-performance liquid chromatography-diode array detector (HPLC-DAD) method. The analytical methodology and sample pretreatment were effective for the analysis of these molecules. A unique profile related to protein binding and enzymatic stability of each peptide was established. GHRP-4, GHRP-6 and Sermorelin (22-29) can be considered as in-house ISs as they were stable to enzyme and blood treatment and can be used for the quantification of peptides in biological samples. Peptides GHRP-6 and Sermorelin (22-29) were used to analyse a dimeric peptide (26 [F] LfcinB (20-30)2 ) in four different matrices to test these peptides as in-house IS."
+  },
+  {
+   "pmid": "18031173",
+   "titel": "Sermorelin: a review of its use in the diagnosis and treatment of children with idiopathic growth hormone deficiency",
+   "jahr": "1999",
+   "journal": "BioDrugs",
+   "erstautor": "Prakash A",
+   "doi": "10.2165/00063030-199912020-00007",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "UNLABELLED: Sermorelin, a 29 amino acid analogue of human growth hormone-releasing hormone (GHRH), is the shortest synthetic peptide with full biological activity of GHRH. Intravenous and subcutaneous sermorelin specifically stimulate growth hormone secretion from the anterior pituitary. Hormone responses to intravenous sermorelin 1 microg/kg bodyweight appear to be a rapid and relatively specific test for the diagnosis of growth hormone deficiency. False positive growth hormone responses are observed in fewer children without growth hormone deficiency after sermorelin than after other provocative tests. Adult data indicate that the combination of intravenous sermorelin and arginine is a more specific test and this merits evaluation in children with growth hormone deficiency. However, normal growth hormone responses to intravenous sermorelin cannot exclude growth hormone deficiency due to a hypothalamic deficit: subnormal growth hormone response to other provocative tests is needed to confirm the presence of disease in these patients. Limited data indicate that once daily subcutaneous sermorelin 30 microg/kg bodyweight given at bedtime is effective in treating some prepubertal children with idiopathic growth hormone deficiency. Significant increases in height velocity were sustained during 12 months' treatment with sermorelin and data in a few children suggest the effect is maintained for 36 months of continued treatment. Sermorelin induced catch-up growth in the majority of growth hormone-deficient children. Slow growing, shorter children with delayed bone and height age appear to have a good response to treatment with sermorelin. The effect of long term treatment with once daily subcutaneous sermorelin 30 microg/kg bodyweight on final adult height is yet to be determined. The effects of the recommended dosage of sermorelin have not been directly compared with those of somatropin. However, increases in height velocity from baseline values with subcutaneous sermorelin 30 microg/kg bodyweight per day, given as continuous infusion or as 3 divided doses, were less than those in children receiving once daily subcutaneous somatropin 30 microg/kg bodyweight. Intravenous single dose and repeated once daily subcutaneous doses of sermorelin are well tolerated. Transient facial flushing and pain at injection site were the most commonly reported adverse events. CONCLUSIONS: Sermorelin is a well tolerated analogue of GHRH which is suitable for use as a provocative test of growth hormone deficiency when given as a single intravenous 1 microg/kg bodyweight dose in conjunction with conventional tests. Limited data suggest that once daily subcutaneous sermorelin 30 microg/kg bodyweight is effective in promoting growth in some prepubertal children with idiopathic growth hormone deficiency."
+  },
+  {
+   "pmid": "28830317",
+   "titel": "Growth Hormone Secretagogue Treatment in Hypogonadal Men Raises Serum Insulin-Like Growth Factor-1 Levels",
+   "jahr": "2017",
+   "journal": "Am J Mens Health",
+   "erstautor": "Sigalos JT",
+   "doi": "10.1177/1557988317718662",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Realizing the reported misuse of human growth hormone (GH), investigation of a safe alternative mechanism for increasing endogenous GH is needed. Several GH secretagogues are available, including GH-releasing peptides (GHRPs) GHRP-2 and GHRP-6, and the GH-releasing hormone analog, sermorelin (SERM). Insulin-like growth factor 1 (IGF-1) serves as a surrogate marker for GH. Here, the effect of GHRP/SERM therapy on IGF-1 levels is evaluated. A retrospective review of medical records was performed for 105 men on testosterone (T) therapy seeking increases in lean body mass and fat loss who were prescribed 100 mcg of GHRP-6, GHRP-2, and SERM three times daily. Compliance with therapy was assessed, and 14 men met strict inclusion criteria. Serum hormone levels of IGF-1, T, free T (FT), estradiol (E), luteinizing hormone (LH), and follicle-stimulating hormone (FSH) were evaluated. Mean (SD) age of the cohort was 33.2 (2.9) years, and baseline IGF-1 level was 159.5 (26.7) ng/mL. Mean (SD) duration of continuous GHRP/SERM treatment was 134 (88) days. Mean posttreatment IGF-1 level was 239.0 (54.6) ng/mL ( p < .0001). Three of the 14 men were on an aromatase inhibitor and/or tamoxifen prior to treatment and another 4 men were coadministered an aromatase inhibitor and/or tamoxifen during treatment. Inhibition of E production or estrogen receptor blockade resulted in smaller increases in IGF-1 levels. GHRP/SERM therapy increases serum IGF-1 levels with strict compliance to thrice-daily dosing. The results suggest that combination therapy may be beneficial in men with wasting conditions that can improve with increased GH secretion."
+  },
+  {
+   "pmid": "2143200",
+   "titel": "Perinatal growth hormone (GH) physiology: effect of GH-releasing factor on maternal and fetal secretion of pituitary and placental GH",
+   "jahr": "1990",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "de Zegher F",
+   "doi": "10.1210/jcem-71-2-520",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "To study regulation of the secretion of human pituitary GH (hGH) and placental GH (hPGH) in the pregnant woman and human fetus, the GH-releasing factor Sermorelin [GRF-(1-29)-NH2] was administered to pregnant women at term (n = 5), just before elective cesarean section; saline was administered in control studies (n = 5). The effects of GRF-(1-29)-NH2 administration on maternal and fetal serum concentrations of hGH and GRF-(1-29)-NH2 and maternal serum levels of hPGH were evaluated at birth. The mean time span between injection and birth was 20 min (range, 15-25 min). Cord serum hGH concentrations were similar in infants of GRF-(1-29)-NH2-injected mothers and control infants. GRF-(1-29)-NH2 elicited a consistent but small rise in maternal hGH serum concentrations (P = 0.08), whereas hPGH concentrations remained unaltered. Finally, GRF-(1-29)-NH2 concentrations were undetectable in cord serum, but readily detectable in concomitantly obtained maternal serum. In conclusion, these data suggest that hGH secretion in the pregnant woman at term is suppressed at the pituitary level, that GRF does not affect hPGH secretion, and that fetal hGH secretion is independent of circulating maternal GRF, probably because of lack of transplacental GRF passage."
+  },
+  {
+   "pmid": "42465868",
+   "titel": "Anterior cervical osteophyte-related dysphagia in a long-term growth hormone user: a case report",
+   "jahr": "2026",
+   "journal": "Front Surg",
+   "erstautor": "Perez SL",
+   "doi": "10.3389/fsurg.2026.1859548",
+   "typ": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: Anterior cervical osteophytes can compress the esophagus, producing dysphagia. Although common on imaging in older adults, symptomatic osteophytic dysphagia is underdiagnosed, and the role of systemic anabolic factors in osteophyte growth is poorly characterized. CASE DESCRIPTION: A 62-year-old male ex-military recreational bodybuilder presented with cervicalgia and left shoulder pain. Cervical radiographs and MRI demonstrated multilevel degenerative changes including a prominent anterior osteophyte at C3-C4 with esophageal compression. On directed questioning, he reported intermittent dysphagia with larger food boluses. He reported a cervical injury during jiu-jitsu training in 2001-2002 and disclosed approximately 20 years of patient-reported exogenous growth hormone (GH) and GH secretagogue use, including cyclical somatropin, sermorelin/GHRP-6 combination therapy, and ongoing nightly somatropin. No objective swallowing evaluation was performed given the mild, intermittent nature of symptoms. CONCLUSION: This case raises the hypothesis that chronic GH axis stimulation, in combination with remote cervical trauma, may contribute to clinically significant osteophyte formation. Conservative management was initiated with dietary modification and counseling regarding GH cessation. Clinicians should screen for dysphagia in patients with cervical spondylosis and inquire about anabolic substance use as a potentially relevant history."
+  },
+  {
+   "pmid": "42862021",
+   "titel": "Peptides in urology and sexual medicine: clinical effectiveness, dosing, indications, and safety: a narrative review",
+   "jahr": "2026",
+   "journal": "Sex Med Rev",
+   "erstautor": "Vasylieva V",
+   "doi": "10.1093/sxmrev/qeag078",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "INTRODUCTION: Peptide-based therapies are increasingly used in urology and sexual medicine, although adoption is often influenced by off-label prescribing, direct-to-consumer promotion, and limited long-term safety data. We review mechanisms, clinical evidence, dosing, safety, and regulatory status of these agents. METHODS: A structured search of PubMed, Scopus, and Google Scholar identified studies of peptide-based therapies in sexual medicine. Search terms included Bremelanotide, Melanotan II, Kisspeptin, Oxytocin, PnPP-19, Gonadorelin and growth hormone secretagogues, including GHRP-2, GHRP-6, Ibutamoren, Ipamorelin, Tesamorelin, Sermorelin, and CJC-1295. Of 725 records, 76 studies met inclusion criteria. Findings were synthesized narratively given heterogeneity across studies. RESULTS: Peptides reviewed act through diverse mechanisms, including central modulation of desire and arousal, stimulation of the hypothalamic-pituitary-gonadal and growth hormone axes, and nitric oxide-mediated effects on erectile physiology. Bremelanotide and Tesamorelin are the most clinically established agents, with defined dosing and regulatory approval for selected indications. Kisspeptin shows early promise but remains investigational. Growth hormone secretagogues reliably increase growth hormone and insulin-like growth factor 1 concentrations; however, evidence for improved sexual function, physical performance, or quality of life remains limited. Melanotan II, Ibutamoren, CJC-1295, and related agents remain accessible through unregulated markets, raising concerns about product quality, dosing variability, and incompletely characterized adverse effects. Oxytocin has biologic plausibility but limited efficacy data, whereas PnPP-19 remains preclinical. Gonadorelin was Food and Drug Administration approved but is no longer manufactured. Across peptide classes, safety data are limited by short follow-up, small samples, and incomplete assessment of cardiovascular, metabolic, and oncologic outcomes. DISCUSSION: Peptide-based therapies in urology and sexual medicine show selective therapeutic potential, but most remain insufficiently validated for clinical use. Clinicians should distinguish approved therapies from investigational and nonregulated compounds and counsel patients regarding uncertain benefit, potential harm, and risks of unsupervised use. Randomized trials with standardized dosing and long-term safety assessment are needed before broader adoption."
+  },
+  {
+   "pmid": "42395176",
+   "titel": "The emerging landscape of performance-enhancing peptides modulating GH-IGF1 axis: bridging the gap between clinical evidence and patient self-administration",
+   "jahr": "2026",
+   "journal": "Front Endocrinol (Lausanne)",
+   "erstautor": "Dominikowski A",
+   "doi": "10.3389/fendo.2026.1822475",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Performance-enhancing drugs (PEDs) marketed as \"research compounds\" include unregulated peptides intended to modulate the growth hormone-insulin-like growth factor-1 (GH-IGF-1) axis. The agents most commonly encountered in clinical practice and online self-administration protocols include growth hormone-releasing hormone (GHRH) analogues (e.g., sermorelin, tesamorelin, CJC-1295 with Drug Affinity Complex [DAC], CJC-1295 without DAC), growth hormone secretagogues (GHS; e.g., growth hormone-releasing peptide-2 (GHRP-2), growth hormone-releasing peptide-6 (GHRP-6), hexarelin, ipamorelin), the growth hormone (GH) fragment - AOD9604 (hGH 176-191), and insulin-like growth factor-1 (IGF-1) analogues (e.g., pegylated mechano growth factor (PEG-MGF), IGF-1 Long R3 (IGF-1 LR3)). Reported adverse effects span endocrine and metabolic disturbances (including prolactin and cortisol elevations, appetite changes, and dysglycaemia), fluid retention syndromes, musculoskeletal symptoms (myalgia/arthralgia), and injection-site reactions. Given the absence of regulatory approval for physique- or performance-related indications and the uncertainty surrounding product composition, dose, and stacking practices in unregulated supply chains, clinicians increasingly require a pragmatic framework to interpret symptoms and laboratory abnormalities in patients using these compounds. This narrative review contrasts peer-reviewed pharmacokinetic/pharmacodynamic and clinical evidence with commonly encountered online self-administration protocols, stratifying peptides into evidence tiers from regulatory-grade randomized trial data to a complete absence of human studies, and highlights the resulting uncertainty around putative performance and recomposition benefits. We summarise structural characteristics, pharmacologic effects, and commonly reported dosing patterns, and we synthesise clinically relevant adverse effects with particular attention to hormonal imbalance, endocrine-metabolic risk, and biologically plausible but unproven mitogenic concerns. Finally, we propose a clinically oriented assessment algorithm to support exposure history taking, triage of symptom domains, and risk communication without legitimising off-label peptide regimens."
+  }
+ ],
+ "ctgov": [
+  {
+   "nct": "NCT01060488",
+   "titel": "Comparative Validation of the Growth Hormone Releasing Hormone and Arginine Test for the Diagnosis of Adult Growth Hormone Deficiency",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 69,
+   "start": "2004-01",
+   "ende": null,
+   "erkrankungen": [
+    "Growth Hormone Deficiency"
+   ],
+   "sponsor": "Merck KGaA, Darmstadt, Germany",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00608023",
+   "titel": "TH9507 Extension Study in Patients With HIV-Associated Lipodystrophy",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 263,
+   "start": "2007-08",
+   "ende": "2008-10",
+   "erkrankungen": [
+    "Lipodystrophy",
+    "HIV Infections"
+   ],
+   "sponsor": "Theratechnologies",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT01632592",
+   "titel": "Abdominal Obesity, Cardiovascular Inflammation, and Effects of Growth Hormone Releasing Hormone Analogue",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "WITHDRAWN",
+   "teilnehmende": 0,
+   "start": "2014-01",
+   "ende": "2014-01",
+   "erkrankungen": [
+    "Abdominal Obesity"
+   ],
+   "sponsor": "Massachusetts General Hospital",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT02553603",
+   "titel": "The Effect of Growth Hormone Releasing Hormone on Cognitive Function in Individuals With Mild Cognitive Impairment",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 22,
+   "start": "2017-07-18",
+   "ende": "2019-01-17",
+   "erkrankungen": [
+    "Mild Cognitive Impairment"
+   ],
+   "sponsor": "The University of Texas Medical Branch, Galveston",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00791843",
+   "titel": "The Effect of GHRH Therapy on Myocardial Structure and Function in Congestive Heart Failure",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 3,
+   "start": "2004-03",
+   "ende": "2011-08",
+   "erkrankungen": [
+    "Congestive Heart Failure"
+   ],
+   "sponsor": "University of Pennsylvania",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT02507245",
+   "titel": "Observational Longitudinal Study in Children Affected by Idiopathic Growth Hormone Deficiency (GHD)",
+   "phase": "",
+   "typ": "OBSERVATIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 48,
+   "start": "2014-01",
+   "ende": "2015-05",
+   "erkrankungen": [
+    "Growth Hormone Deficiency"
+   ],
+   "sponsor": "Stefania La Grutta, MD",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT01359488",
+   "titel": "VRS-317 in Adult Subjects With Growth Hormone Deficiency",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 50,
+   "start": "2011-03",
+   "ende": "2012-07",
+   "erkrankungen": [
+    "Growth Hormone Deficiency"
+   ],
+   "sponsor": "Versartis Inc.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT02736591",
+   "titel": "Dehydroepiandrosterone Versus Growth Hormone in Women Undergoing ICSI With Expected Poor Ovarian Response",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "UNKNOWN",
+   "teilnehmende": 210,
+   "start": "2016-06",
+   "ende": null,
+   "erkrankungen": [
+    "Subfertility"
+   ],
+   "sponsor": "Cairo University",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT02271282",
+   "titel": "Estradiol-Receptor Blockade in Older Men and Women",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 40,
+   "start": "2014-12",
+   "ende": "2016-05",
+   "erkrankungen": [
+    "Normal Healthy Volunteers"
+   ],
+   "sponsor": "Mayo Clinic",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00675506",
+   "titel": "Effectiveness of Growth Hormone Releasing Hormone in Reducing Abdominal Fat in People Who Are Obese",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 60,
+   "start": "2008-07",
+   "ende": "2012-01",
+   "erkrankungen": [
+    "Abdominal Obesity",
+    "Growth Hormone Deficiency"
+   ],
+   "sponsor": "Massachusetts General Hospital",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT02196831",
+   "titel": "Tesamorelin Effects on Liver Fat and Histology in HIV",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 61,
+   "start": "2015-07-01",
+   "ende": "2019-07-24",
+   "erkrankungen": [
+    "Human Immunodeficiency Virus (HIV)",
+    "Nonalcoholic Fatty Liver Disease (NAFLD)",
+    "Nonalcoholic Steatohepatitis (NASH)"
+   ],
+   "sponsor": "Massachusetts General Hospital",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT00807365",
+   "titel": "Six Month Treatment of Growth Hormone Releasing Hormone (GHRH) in the Elderly",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "TERMINATED",
+   "teilnehmende": 5,
+   "start": "2007-12-17",
+   "ende": "2010-04-29",
+   "erkrankungen": [
+    "Elderly"
+   ],
+   "sponsor": "Johns Hopkins University",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT00324064",
+   "titel": "Sexually Dimorphic Effects of GHRH in Adult Growth Hormone Testing",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 90,
+   "start": "2007-07",
+   "ende": "2009-07",
+   "erkrankungen": [
+    "Growth Hormone Deficiency"
+   ],
+   "sponsor": "Children's Mercy Hospital Kansas City",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT03031535",
+   "titel": "Study of Intranasal Octreotide (DP1038) in Healthy Adult Volunteers",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 32,
+   "start": "2017-01",
+   "ende": "2017-03",
+   "erkrankungen": [
+    "Healthy Volunteer Study"
+   ],
+   "sponsor": "Dauntless Pharmaceuticals",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00000380",
+   "titel": "Growth Hormone Releasing Hormone (GHRH) Treatment for Age-Related Sleep Disturbances",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": null,
+   "start": "1996-06",
+   "ende": "2007-07",
+   "erkrankungen": [
+    "Sleep Disorders"
+   ],
+   "sponsor": "University of Washington",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00004332",
+   "titel": "Study of the Effect of Growth Hormone-Releasing Hormone Antagonist on Growth Hormone Release in Acromegaly",
+   "phase": "",
+   "typ": "OBSERVATIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 148,
+   "start": "1993-05",
+   "ende": null,
+   "erkrankungen": [
+    "Acromegaly"
+   ],
+   "sponsor": "National Center for Research Resources (NCRR)",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT02012556",
+   "titel": "Pharmacokinetic and Pharmacodynamic Study of TH9507, a Growth Hormone-Releasing Factor Analog, in HIV Positive Patients",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 18,
+   "start": "2008-05",
+   "ende": "2008-07",
+   "erkrankungen": [
+    "HIV"
+   ],
+   "sponsor": "Theratechnologies",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT03375788",
+   "titel": "Growth Hormone Releasing Hormone Analog to Improve Nonalcoholic Fatty Liver Disease and Associated Cardiovascular Risk",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 51,
+   "start": "2019-01-17",
+   "ende": "2025-01-10",
+   "erkrankungen": [
+    "Non-Alcoholic Fatty Liver Disease",
+    "Obesity",
+    "Obesity, Abdominal",
+    "Liver Fat",
+    "Fatty Liver"
+   ],
+   "sponsor": "Massachusetts General Hospital",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT00257712",
+   "titel": "SMART: Somatotrophics, Memory, and Aging Research Trial",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 151,
+   "start": "2006-02",
+   "ende": "2011-12",
+   "erkrankungen": [
+    "Aging",
+    "Mild Cognitive Impairment"
+   ],
+   "sponsor": "University of Washington",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06554717",
+   "titel": "Tesamorelin as an Adjunct to Exercise for Improving Physical Function in HIV",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 100,
+   "start": "2025-07-10",
+   "ende": "2028-12-01",
+   "erkrankungen": [
+    "HIV-1-infection",
+    "Frailty",
+    "Impaired Physical Function",
+    "Abdominal Obesity",
+    "Aging"
+   ],
+   "sponsor": "Massachusetts General Hospital",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00795210",
+   "titel": "Effects of Short-term Growth Hormone in HIV-infected Patients",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 25,
+   "start": "2009-02",
+   "ende": "2012-11",
+   "erkrankungen": [
+    "HIV Lipodystrophy"
+   ],
+   "sponsor": "Massachusetts General Hospital",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT01263717",
+   "titel": "Effects of Growth Hormone Releasing Hormone in HIV",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 54,
+   "start": "2010-12",
+   "ende": "2014-02",
+   "erkrankungen": [
+    "HIV",
+    "HIV Lipodystrophy"
+   ],
+   "sponsor": "Massachusetts General Hospital",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT01410799",
+   "titel": "Three Month Treatment of Growth Hormone Releasing Hormone (GHRH) in the Elderly",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "TERMINATED",
+   "teilnehmende": 13,
+   "start": "2011-05",
+   "ende": "2011-08",
+   "erkrankungen": [
+    "Hormone Deficiency",
+    "Aging"
+   ],
+   "sponsor": "University of Pennsylvania",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT00123253",
+   "titel": "TH9507 in Patients With HIV-Associated Lipodystrophy",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 412,
+   "start": "2005-06",
+   "ende": "2007-04",
+   "erkrankungen": [
+    "HIV Infections",
+    "Lipodystrophy"
+   ],
+   "sponsor": "Theratechnologies",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00850564",
+   "titel": "Effect of Short Term Growth Hormone Releasing Hormone in Healthy Men",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 15,
+   "start": "2009-02",
+   "ende": "2010-04",
+   "erkrankungen": [
+    "Healthy Volunteers"
+   ],
+   "sponsor": "Massachusetts General Hospital",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT00720902",
+   "titel": "Adult Growth Hormone Deficiency and Cardiovascular Risk",
+   "phase": "PHASE4",
+   "typ": "INTERVENTIONAL",
+   "status": "TERMINATED",
+   "teilnehmende": 7,
+   "start": "2007-02",
+   "ende": "2011-05",
+   "erkrankungen": [
+    "Growth Hormone Deficiency"
+   ],
+   "sponsor": "Columbia University",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT03018886",
+   "titel": "Diagnosing Adult Growth Hormone Deficiency",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 160,
+   "start": "2001-05",
+   "ende": "2008-12",
+   "erkrankungen": [
+    "Growth Hormone Deficiency"
+   ],
+   "sponsor": "Helsinki University Central Hospital",
+   "ergebnisse": false
+  }
+ ],
+ "gruppe": "C_wachstumshormon"
+}

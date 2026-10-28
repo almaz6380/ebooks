@@ -1,0 +1,11 @@
+de:
+  titel: "Studienverzeichnis"
+  einleitung: >-
+    Dieses Verzeichnis listet alle Veröffentlichungen klinischer Studien am Menschen, die die Recherche
+    für die einzelnen Peptide in PubMed gefunden hat (Abfrage Oktober 2026, Filter siehe Methodik).
+    Titel und Zeitschriften stehen in der Originalsprache. Jede Studie lässt sich über ihre PMID unter
+    pubmed.ncbi.nlm.nih.gov nachschlagen. Nicht jeder Eintrag ist eine eigenständige Studie: Manche
+    Studien wurden mehrfach ausgewertet und veröffentlicht.
+  summe: "Insgesamt: {gesamt} Einträge."
+  tausender: "."
+  keine: "Keine Veröffentlichungen klinischer Studien am Menschen gefunden."

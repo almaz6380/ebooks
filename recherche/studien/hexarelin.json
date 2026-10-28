@@ -1,0 +1,1646 @@
+{
+ "name": "Hexarelin",
+ "status": "nicht_zugelassen",
+ "suchbegriff_pubmed": "hexarelin[tiab]",
+ "suchbegriff_ctgov": "hexarelin",
+ "humanstudien_alle": [
+  {
+   "pmid": "15177700",
+   "titel": "Hexarelin decreases slow-wave sleep and stimulates the secretion of GH, ACTH, cortisol and prolactin during sleep in healthy volunteers",
+   "jahr": "2004",
+   "journal": "Psychoneuroendocrinology",
+   "erstautor": "Frieboes RM",
+   "doi": "10.1016/S0306-4530(03)00152-5",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "15505990",
+   "titel": "There are no acute cardiac effects of a single iv dose of human ghrelin in severe growth hormone deficient patients",
+   "jahr": "2004",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Janssen JA",
+   "doi": "10.1007/BF03347499",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "15305235",
+   "titel": "Age-related differences in growth hormone (GH) regulation during strenuous exercise",
+   "jahr": "2004",
+   "journal": "Horm Metab Res",
+   "erstautor": "de Vries WR",
+   "doi": "10.1055/s-2004-825722",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "14594107",
+   "titel": "Effects of cortistatin-14 and somatostatin-14 on the endocrine response to hexarelin in humans",
+   "jahr": "2003",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Benso A",
+   "doi": "10.1007/BF03347014",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "12809173",
+   "titel": "GHRP-6 is able to stimulate cortisol and ACTH release in patients with Cushing's disease: comparison with DDAVP",
+   "jahr": "2003",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Oliveira JH",
+   "doi": "10.1007/BF03345162",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "12153607",
+   "titel": "Effects of glucose, free fatty acids or arginine load on the GH-releasing activity of ghrelin in humans",
+   "jahr": "2002",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Broglio F",
+   "doi": "10.1046/j.1365-2265.2002.01595.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "12144941",
+   "titel": "Effects of acute hexarelin administration on cardiac performance in patients with coronary artery disease during by-pass surgery",
+   "jahr": "2002",
+   "journal": "Eur J Pharmacol",
+   "erstautor": "Broglio F",
+   "doi": "10.1016/s0014-2999(02)01934-9",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "11888836",
+   "titel": "Impact of two or three daily subcutaneous injections of hexarelin, a synthetic growth hormone (GH) secretagogue, on 24-h GH, prolactin, adrenocorticotropin and cortisol secretion in humans",
+   "jahr": "2002",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Maccario M",
+   "doi": "10.1530/eje.0.1460310",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "11600590",
+   "titel": "Ghrelin, a natural GH secretagogue produced by the stomach, induces hyperglycemia and reduces insulin secretion in humans",
+   "jahr": "2001",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Broglio F",
+   "doi": "10.1210/jcem.86.10.8098",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "11238504",
+   "titel": "Endocrine activities of ghrelin, a natural growth hormone secretagogue (GHS), in humans: comparison and interactions with hexarelin, a nonnatural peptidyl GHS, and GH-releasing hormone",
+   "jahr": "2001",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Arvat E",
+   "doi": "10.1210/jcem.86.3.7314",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "11322491",
+   "titel": "Growth hormone-independent cardiotropic activities of growth hormone-releasing peptides in normal subjects, in patients with growth hormone deficiency, and in patients with idiopathic or ischemic dilated cardiomyopathy",
+   "jahr": "2001",
+   "journal": "Endocrine",
+   "erstautor": "Broglio F",
+   "doi": "10.1385/ENDO:14:1:105",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "11263473",
+   "titel": "Recombinant human IGF-I does not modify the ACTH and cortisol responses to hCRH and hexarelin, a peptidyl GH secretagogue, in humans",
+   "jahr": "2001",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Gianotti L",
+   "doi": "10.1007/BF03343815",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "11078983",
+   "titel": "Interaction between glucagon and hexarelin, a peptidyl GH secretagogue, on somatotroph and corticotroph secretion in humans",
+   "jahr": "2000",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Arvat E",
+   "doi": "10.1530/eje.0.1430601",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "11022186",
+   "titel": "Endocrine activities of alexamorelin (Ala-His-d-2-methyl-Trp-Ala-Trp-d-Phe-Lys-NH2), a synthetic GH secretagogue, in humans",
+   "jahr": "2000",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Broglio F",
+   "doi": "10.1530/eje.0.1430419",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "10886488",
+   "titel": "Desmopressin and hexarelin tests in alcohol-induced pseudo-Cushing's syndrome",
+   "jahr": "2000",
+   "journal": "J Intern Med",
+   "erstautor": "Coiro V",
+   "doi": "10.1046/j.1365-2796.2000.00676.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "10824712",
+   "titel": "Role of food intake in the modulation of hexarelin-induced growth hormone release in normal human subjects",
+   "jahr": "2000",
+   "journal": "Horm Metab Res",
+   "erstautor": "De Marinis L",
+   "doi": "10.1055/s-2007-978611",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "10803472",
+   "titel": "The negative GH auto-feedback in childhood: effects of rhGH and/or GHRH on the somatotroph response to GHRH or hexarelin, a peptidyl GH secretagogue, in children",
+   "jahr": "2000",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Bellone J",
+   "doi": "10.1007/BF03343699",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "11081154",
+   "titel": "Effects of alprazolam, a benzodiazepine, on the ACTH-, GH- and PRL-releasing activity of hexarelin, a synthetic peptidyl GH secretagogue (GHS), in patients with simple obesity and in patients with Cushing's disease",
+   "jahr": "1999",
+   "journal": "Pituitary",
+   "erstautor": "Grottoli S",
+   "doi": "10.1023/a:1009992909247",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "10528131",
+   "titel": "Cardiac effects of hexarelin in hypopituitary adults",
+   "jahr": "1999",
+   "journal": "Eur J Pharmacol",
+   "erstautor": "Bisi G",
+   "doi": "10.1016/s0014-2999(99)00537-3",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "10516483",
+   "titel": "Corticotropin-releasing effect of hexarelin, a peptidyl GH secretagogue, in normal subjects pretreated with metyrapone or RU-486, a glucocorticoid receptor antagonist, and in patients with Addison's disease",
+   "jahr": "1999",
+   "journal": "Neuroendocrinology",
+   "erstautor": "Arvat E",
+   "doi": "10.1159/000054477",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "10404825",
+   "titel": "The growth hormone secretagogue hexarelin stimulates the hypothalamo-pituitary-adrenal axis via arginine vasopressin",
+   "jahr": "1999",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Korbonits M",
+   "doi": "10.1210/jcem.84.7.5811",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "10342360",
+   "titel": "Acute cardiovascular and hormonal effects of GH and hexarelin, a synthetic GH-releasing peptide, in humans",
+   "jahr": "1999",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Bisi G",
+   "doi": "10.1007/BF03343555",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "10199757",
+   "titel": "The effects of dose, nutrition, and age on hexarelin-induced anterior pituitary hormone secretion in adult patients on maintenance hemodialysis",
+   "jahr": "1999",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Jenkins RC",
+   "doi": "10.1210/jcem.84.4.5635",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "10195374",
+   "titel": "Tyr-Ala-Hexarelin, a synthetic octapeptide, possesses the same endocrine activities of Hexarelin and GHRP-2 in humans",
+   "jahr": "1999",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Arvat E",
+   "doi": "10.1007/BF03350886",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "10341859",
+   "titel": "The effect of chronic hexarelin administration on the pituitary-adrenal axis and prolactin",
+   "jahr": "1999",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Rahim A",
+   "doi": "10.1046/j.1365-2265.1999.00609.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "9920097",
+   "titel": "Effects of recombinant human insulin-like growth factor I administration on growth hormone (GH) secretion, both spontaneous and stimulated by GH-releasing hormone or hexarelin, a peptidyl GH secretagogue, in humans",
+   "jahr": "1999",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Ghigo E",
+   "doi": "10.1210/jcem.84.1.5386",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "10361807",
+   "titel": "Growth hormone response to hexarelin, growth hormone-releasing hormone plus pyridostigmine and arginine plus estrogen in prepubertal and early pubertal short children",
+   "jahr": "1998",
+   "journal": "Minerva Endocrinol",
+   "erstautor": "Guzzaloni G",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "9851753",
+   "titel": "Adrenocorticotropin and cortisol hyperresponsiveness to hexarelin in patients with Cushing's disease bearing a pituitary microadenoma, but not in those with macroadenoma",
+   "jahr": "1998",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Arvat E",
+   "doi": "10.1210/jcem.83.12.5355",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "9814463",
+   "titel": "The growth hormone response to hexarelin in patients with different hypothalamic-pituitary abnormalities",
+   "jahr": "1998",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Maghnie M",
+   "doi": "10.1210/jcem.83.11.5242",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Controlled Clinical Trial",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "9641612",
+   "titel": "Effects of dexamethasone and alprazolam, a benzodiazepine, on the stimulatory effect of hexarelin, a synthetic GHRP, on ACTH, cortisol and GH secretion in humans",
+   "jahr": "1998",
+   "journal": "Neuroendocrinology",
+   "erstautor": "Arvat E",
+   "doi": "10.1159/000054328",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "9589671",
+   "titel": "Growth hormone status during long-term hexarelin therapy",
+   "jahr": "1998",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Rahim A",
+   "doi": "10.1210/jcem.83.5.4812",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "10990150",
+   "titel": "Does desensitization to hexarelin occur?",
+   "jahr": "1998",
+   "journal": "Growth Horm IGF Res",
+   "erstautor": "Rahim A",
+   "doi": "10.1016/s1096-6374(98)80039-7",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "9624598",
+   "titel": "Lack of effect of hexarelin on TRH-induced TSH response in normal adult man",
+   "jahr": "1998",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Arosio M",
+   "doi": "10.1007/BF03347309",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "9430449",
+   "titel": "Hexarelin, a synthetic growth-hormone releasing peptide, shows no interaction with corticotropin-releasing hormone and vasopressin on adrenocorticotropin and cortisol secretion in humans",
+   "jahr": "1997",
+   "journal": "Neuroendocrinology",
+   "erstautor": "Arvat E",
+   "doi": "10.1159/000127269",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "9425393",
+   "titel": "Interaction of the growth hormone releasing peptide hexarelin with somatostatin",
+   "jahr": "1997",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Massoud AF",
+   "doi": "10.1046/j.1365-2265.1997.3121128.x",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "9404449",
+   "titel": "Low hexarelin dose and pyridostigmine have additive effect and potentiate to the same extent the GHRH-induced GH response in man",
+   "jahr": "1997",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Arvat E",
+   "doi": "10.1046/j.1365-2265.1997.3081114.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "9258804",
+   "titel": "Hexarelin is a stronger GH-releasing peptide than GHRH in normal cycling women but not in anorexia nervosa",
+   "jahr": "1997",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Giusti M",
+   "doi": "10.1007/BF03350297",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "9186268",
+   "titel": "Oestrogen replacement does not restore the reduced GH-releasing activity of Hexarelin, a synthetic hexapeptide, in post-menopausal women",
+   "jahr": "1997",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Arvat E",
+   "doi": "10.1530/eje.0.1360483",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "9196598",
+   "titel": "Non-parametric deconvolution provides an objective assessment of GH responsiveness to GH-releasing stimuli in normal subjects",
+   "jahr": "1997",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Sartorio A",
+   "doi": "10.1046/j.1365-2265.1997.8770887.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "9156035",
+   "titel": "Acute administration of hexarelin stimulates GH secretion during day and night in normal men",
+   "jahr": "1997",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Loche S",
+   "doi": "10.1046/j.1365-2265.1997.1240940.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "9364340",
+   "titel": "Growth hormone release by the novel GH releasing peptide hexarelin in patients with homozygous beta-thalassemia",
+   "jahr": "1997",
+   "journal": "J Pediatr Endocrinol Metab",
+   "erstautor": "Tolis G",
+   "doi": "10.1515/jpem.1997.10.1.35",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "9005975",
+   "titel": "Mechanisms underlying the negative growth hormone (GH) autofeedback on the GH-releasing effect of hexarelin in man",
+   "jahr": "1997",
+   "journal": "Metabolism",
+   "erstautor": "Arvat E",
+   "doi": "10.1016/s0026-0495(97)90173-6",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "8954038",
+   "titel": "Hexarelin-induced growth hormone, cortisol, and prolactin release: a dose-response study",
+   "jahr": "1996",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Massoud AF",
+   "doi": "10.1210/jcem.81.12.8954038",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "8977750",
+   "titel": "The sequential administration of growth hormone-releasing hormone followed 120 minutes later by hexarelin, as an effective test to assess the pituitary GH reserve in man",
+   "jahr": "1996",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Micic D",
+   "doi": "10.1046/j.1365-2265.1996.00841.x",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "8921821",
+   "titel": "Short-term administration of intranasal or oral Hexarelin, a synthetic hexapeptide, does not desensitize the growth hormone responsiveness in human aging",
+   "jahr": "1996",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Ghigo E",
+   "doi": "10.1530/eje.0.1350407",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "8766941",
+   "titel": "Desensitization from long-term intranasal treatment with hexarelin does not interfere with the biological effects of this growth hormone-releasing peptide in short children",
+   "jahr": "1996",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Klinger B",
+   "doi": "10.1530/eje.0.1340716",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "8762732",
+   "titel": "The effect of repeated administration of hexarelin, a growth hormone releasing peptide, and growth hormone releasing hormone on growth hormone responsivity",
+   "jahr": "1996",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Massoud AF",
+   "doi": "10.1046/j.1365-2265.1996.722543.x",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "8851688",
+   "titel": "Influence of beta-adrenergic agonists and antagonists on the GH-releasing effect of Hexarelin in man",
+   "jahr": "1996",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Arvat E",
+   "doi": "10.1007/BF03347854",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "8706295",
+   "titel": "Hexarelin, a synthetic growth hormone releasing peptide, stimulates prolactin secretion in acromegalic but not in hyperprolactinaemic patients",
+   "jahr": "1996",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Ciccarelli E",
+   "doi": "10.1046/j.1365-2265.1996.626446.x",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "8548949",
+   "titel": "Intranasal administration of the GHRP hexarelin accelerates growth in short children",
+   "jahr": "1995",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Laron Z",
+   "doi": "10.1111/j.1365-2265.1995.tb02929.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "8548947",
+   "titel": "Hexarelin induced growth hormone release is influenced by exogenous growth hormone",
+   "jahr": "1995",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Massoud AF",
+   "doi": "10.1111/j.1365-2265.1995.tb02927.x",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "8719303",
+   "titel": "GH responsiveness to repeated GHRH or hexarelin administration in normal adults",
+   "jahr": "1995",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Sartorio A",
+   "doi": "10.1007/BF03349794",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "7673411",
+   "titel": "The effect of hexarelin on growth hormone (GH) secretion in patients with GH deficiency",
+   "jahr": "1995",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Loche S",
+   "doi": "10.1210/jcem.80.9.7673411",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "7586608",
+   "titel": "The effect of an opiate antagonist on the hormonal changes induced by hexarelin",
+   "jahr": "1995",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Korbonits M",
+   "doi": "10.1111/j.1365-2265.1995.tb02045.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "7561633",
+   "titel": "Comparison of the effects of growth hormone-releasing hormone and hexarelin, a novel growth hormone-releasing peptide-6 analog, on growth hormone secretion in humans with or without glucocorticoid excess",
+   "jahr": "1995",
+   "journal": "J Endocrinol",
+   "erstautor": "Giustina A",
+   "doi": "10.1677/joe.0.1460227",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "7584696",
+   "titel": "Short term effect of intranasal administration of hexarelin--a synthetic growth hormone-releasing peptide. Preliminary communication",
+   "jahr": "1995",
+   "journal": "J Pediatr Endocrinol Metab",
+   "erstautor": "Frenkel J",
+   "doi": "10.1515/jpem.1995.8.1.43",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "7962341",
+   "titel": "Arginine and growth hormone-releasing hormone restore the blunted growth hormone-releasing activity of hexarelin in elderly subjects",
+   "jahr": "1994",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Arvat E",
+   "doi": "10.1210/jcem.79.5.7962341",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "7957536",
+   "titel": "Growth hormone-releasing activity of hexarelin in humans. A dose-response study",
+   "jahr": "1994",
+   "journal": "Eur J Clin Pharmacol",
+   "erstautor": "Imbimbo BP",
+   "doi": "10.1007/BF00191904",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  }
+ ],
+ "humanstudien_detail": [
+  {
+   "pmid": "9624598",
+   "titel": "Lack of effect of hexarelin on TRH-induced TSH response in normal adult man",
+   "jahr": "1998",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Arosio M",
+   "doi": "10.1007/BF03347309",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The mechanism of action of the synthetic growth hormone (GH)releasing peptide hexarelin is not yet fully understood. Although a direct effect on pituitary cells has been demonstrated, the peptide is also active at hypothalamic level, where specific binding sites have been found. The observation that hexarelin acts synergistically with GH-releasing hormone (GHRH) in releasing GH has suggested that it might suppress endogenous somatostatin secretion. As somatostatin is also inhibitory on TSH secretion, to verify the occurrence of modifications of the somatostatinergic tone induced by hexarelin, we studied its effects on TRH-induced TSH secretion. Seven normal subjects (4 women and 3 men aged 24-29 years) underwent the following tests on 3 different days: a) TRH (200 micrograms/l i.v.) + placebo; b) hexarelin (1 microgram/Kg bw i.v.) + placebo c) combined TRH + hexarelin administration. Hexarelin induced significant and similar increases in serum GH levels when given in combination either with placebo or with TRH (1217 +/- 470 vs 986 +/- 208 micrograms/min/l p:NS), while no modifications of GH levels were seen after TRH + placebo. Serum TSH levels were unmodified by hexarelin + placebo injection. The TSH increase elicited by hexarelin + TRH was superimposable to that elicited by TRH + placebo (1124 +/- 530 and 1273 +/- 380 mU/min/l respectively). Circulating PRL levels slightly increased after hexarelin + placebo too (897 micrograms/min/l), and the PRL response to hexarelin + TRH was slightly, although not significantly, greater than that observed after TRH + placebo (2680 +/- 1517 and 2243 +/- 1108 micrograms/min/l, respectively). In conclusion, our data show that hexarelin does not alter basal and TRH-stimulated TSH secretion, thus suggesting that it does not inhibit somatostatin release. Furthermore a modest PRL-releasing effect of this peptide has been confirmed."
+  },
+  {
+   "pmid": "10341859",
+   "titel": "The effect of chronic hexarelin administration on the pituitary-adrenal axis and prolactin",
+   "jahr": "1999",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Rahim A",
+   "doi": "10.1046/j.1365-2265.1999.00609.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ],
+   "abstract": "OBJECTIVE: With the development of growth hormone (GH) releasing agents and their use in human subjects, it is clear that these agents are not specific for GH release. More recent studies in humans have demonstrated acute increases in adrenocorticotrophic hormone (ACTH), cortisol and prolactin (PRL) after boluses of intravenous or subcutaneous GHRPs. The potential adverse effects of repeated episodes of transient hyperprolactinaemia and hypercortisolaemia during long-term therapy with growth hormone releasing peptides (GHRPs) and similar agents have raised concern. We have therefore assessed the impact of chronic hexarelin administration on the pituitary-adrenal axis and serum prolactin levels. DESIGN: Each subject received twice-daily subcutaneous hexarelin therapy (1.5 micrograms/kg body weight) for 16 weeks. The ACTH, cortisol and PRL responses to the morning subcutaneous injection of hexarelin were assessed. Hexarelin was administered at time 0 and blood samples were taken at -10, 0, 10, 20, 30, 40, 50, 60, 90, 120, 170 and 180 min. The ACTH and PRL responses were assessed at baseline and after 16 weeks of therapy. The cortisol response was assessed at baseline, 16 weeks and also 4 weeks after completion of hexarelin therapy. Basal levels of cortisol binding globulin (CBG), 24-h urinary free cortisol (UFC) estimations, thyroid stimulating hormone (TSH) and total thyroxine (TT4) were performed at baseline, weeks 16 and 20. RESULTS: The mean (+/- SEM) area under the cortisol curve (AUCCORT) at baseline, week 16 and week 20 were 1506 (+/- 77) nmol/l/h, 1222 (+/- 92) nmol/l/h and 1586 (+/- 58) nmol/l/h, respectively. There was a significant change in AUCCORT over the study period (P = 0.008). Compared with baseline, AUCCOPRT had decreased significantly (P < 0.05) after 16 weeks of hexarelin therapy. Four weeks after completion of hexarelin therapy, the AUCCORT increased significantly compared with AUCCORT at week 16 (P < 0.01) and was no longer significantly different from baseline values. There were no significant changes in UFC (P = 0.3), basal cortisol measurements (P = 0.19), area under the ACTH curve (AUCACTH) (P = 0.24) or CBG (P = 0.6) over the study period. The mean (+/- SEM) area under the PRL curve (AUCPRL) at the baseline and week 16 were 624 (+/- 82) mU/l/h and 641 (+/- 83) mU/l/h, respectively. There was no significant change in AUCPRL over the study period (P = 0.35). CONCLUSION: The present study demonstrates clearly that in this hexarelin dosage regimen, over-stimulation of the pituitary adrenal axis and prolactin secretion do not occur. In fact the impact of chronic hexarelin therapy on the pituitary-adrenal axis, i.e. decreased AUCCORT, contradict the findings reported after acute hexarelin administration and cannot be explained by changes in CBG. The lack of change in UFC, however, suggests that these changes are unlikely to be of clinical significance although the underlying mechanism requires further study."
+  },
+  {
+   "pmid": "14594107",
+   "titel": "Effects of cortistatin-14 and somatostatin-14 on the endocrine response to hexarelin in humans",
+   "jahr": "2003",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Benso A",
+   "doi": "10.1007/BF03347014",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Cortistatin (CST)-14, a neuropeptide with high structural homology with somatostatine (SS)-14, binds all SS receptor subtypes but also shows activities not shared by SS. CST and SS are often co-expressed in the same neurons but are regulated by different stimuli. Moreover, CST, but not SS, also binds the GH secretagogue (GHS) receptor. We compared the effects of CST-14 and SS-14 (2.0 microg/kg/h i.v. from -30 to +90 min) on the endocrine response to hexarelin (HEX, 1.0 microg/kg i.v. at 0 min), a synthetic GHS, in 6 normal volunteers [age (mean+/-SEM): 28.7+/-2.9 yr; body mass index: 23.4+/-0.8 kg/m2]. GH, PRL, ACTH, cortisol, insulin and glucose levels were measured at each time point. CST-14 inhibited spontaneous GH secretion [delta-areas under curves (-AUC): -83.57+/-44.8 vs 2.3+/-2.7 microg/l/h, p<0.01] to the same extent of SS-14 (-186.1+/-162.9 microg/l/h, p<0.01). CST-14 as well as SS-14 also inhibited insulin secretion (p<0.05). The GH response to HEX was similarly inhibited by either CST-14 (AUC: 3814.1+/-924.2 vs 1212.9+/-379.8 microg/l/h, p<0.05) or SS-14 (720.9+/-158.6 microg/l/h, p<0.05). HEX significantly increased PRL, ACTH and cortisol levels but these responses were not modified by either CST-14 or SS-14. The effects of CST-14 and SS-14 on insulin and glucose levels were not modified by HEX. In conclusion, this study shows that CST-14 inhibits the GH response to HEX to the same extent of SS-14. Like SS-14, CST-14 also inhibits insulin secretion but both do not modify the stimulatory effects of HEX on lactotroph and corticotroph secretion. Thus, CST-14 exerts full SS-14 activity in humans."
+  },
+  {
+   "pmid": "7673411",
+   "titel": "The effect of hexarelin on growth hormone (GH) secretion in patients with GH deficiency",
+   "jahr": "1995",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Loche S",
+   "doi": "10.1210/jcem.80.9.7673411",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Hexarelin (Hex) is a new synthetic hexapeptide with potent GH-releasing activity in both animals and men. We evaluated the GH response to maximal doses of Hex (2 micrograms/kg, iv) and GHRH-(1-29) (1 microgram/kg, iv) in 15 children (11 boys and 4 girls, aged 6.0-17.3 yr) and 4 adults (3 men and 1 woman, aged 20.2-30 yr) with GH deficiency (GHD). GHD was idiopathic in 8 patients and associated with pituitary stalk interruption syndrome in 8, with a pituitary cyst in 2, and with empty sella syndrome in 1. In 11 patients, GHD was isolated, whereas in 8, it was associated with other pituitary hormone deficiencies. Forty-five short normal children (24 boys and 21 girls, aged 5.9-14 yr) served as controls. In patients with idiopathic GHD, the GH response to Hex was similar to that observed in short normal children, and it was significantly higher than the response to GHRH. In the patients with GHD associated with anatomical abnormalities, the GH responses to GHRH varied from normal to absent. Among these subjects, only 1 patient with a pituitary cyst had a sizable GH response to Hex, whereas in all others, the GH response to Hex was absent or blunted compared with those in the short normal children and the patients with idiopathic GHD. In all patients except those with associated ACTH deficiency, Hex administration caused a slight, but significant, increase in cortisol concentrations. This study shows that Hex stimulates GH secretion in patients with idiopathic GHD. The inability of Hex to stimulate GH secretion in patients with hypothalamic-pituitary disconnection strongly supports the concept that in humans, the GH-releasing effect of GH-releasing peptides is mediated by the hypothalamus."
+  },
+  {
+   "pmid": "9814463",
+   "titel": "The growth hormone response to hexarelin in patients with different hypothalamic-pituitary abnormalities",
+   "jahr": "1998",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Maghnie M",
+   "doi": "10.1210/jcem.83.11.5242",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Controlled Clinical Trial",
+    "Journal Article"
+   ],
+   "abstract": "We evaluated the GH-releasing effect of hexarelin (Hex; 2 microg/kg, i.v.) and GHRH (1 microg/kg, i.v.) in 18 patients (11 males and 7 females, aged 2.5-20.4 yr) with GH deficiency (GHD) whose hypothalamic pituitary abnormalities had been previously characterized by dynamic magnetic resonance imaging (MRI). Ten patients had isolated GHD, and 8 had multiple pituitary hormone deficiency. All patients were receiving appropriate hormone replacement therapy. Twenty-four prepubertal short normal children (11 boys and 13 girls, aged 5.9-13 yr, body weight within +/-10% of ideal weight) served as controls. MRI studies revealed an ectopic posterior pituitary at the infundibular recess in all patients. A residual vascular component of the pituitary stalk was visualized in 8 patients with isolated GHD (group 1), whereas MRI showed the absence of the pituitary stalk (vascular and neural components) in the remaining 10 patients (group 2), of whom 8 had multiple pituitary hormone deficiency and 2 had isolated GHD. In the short normal children, the mean peak GH response to GHRH (24.8 +/- 4.4 microg/L) was significantly lower than that observed after Hex treatment (48.1 +/- 4.9 microg/L; P < 0.0001). In the GHD patients of group 2, the mean peak GH responses to GHRH (1.4 +/- 0.3 microg/L) and Hex (0.9 +/- 0.3 microg/L) were similar and markedly low. In the patients of group 1, the GH responses to GHRH (8.7 +/- 1.3 microg/L) and Hex (7.0 +/- 1.3 microg/L) were also similar, but were significantly higher that those observed in group 2 (P < 0.0001). In the whole group of patients, a significant correlation was found between the GH peaks after Hex and those after GHRH (r = 0.746; P < 0.0001). In this study we have confirmed that the integrity of the hypothalamic pituitary connections is essential for Hex to express its full GH-releasing activity and that Hex is able to stimulate GH secretion in patients with GHD but with a residual vascular component of the pituitary stalk."
+  },
+  {
+   "pmid": "11888836",
+   "titel": "Impact of two or three daily subcutaneous injections of hexarelin, a synthetic growth hormone (GH) secretagogue, on 24-h GH, prolactin, adrenocorticotropin and cortisol secretion in humans",
+   "jahr": "2002",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Maccario M",
+   "doi": "10.1530/eje.0.1460310",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "OBJECTIVE: To extend the insights on the action of GH secretagogues (GHS) on pituitary function, we studied the impact of intermittent daily s.c. administration of a peptidyl GHS, hexarelin (HEX), on 24-h GH, PRL, ACTH and cortisol release in healthy volunteers. DESIGN: We investigated the impact of two or three times daily s.c. administration of a short-acting peptidyl GHS, the hexapeptide HEX (1.5 microg/kg) on 24-h GH, PRL, ACTH and cortisol secretion (sampling every 20 min) in six normal young men. To monitor possible down-regulation, the effect of 1 microg/kg i.v. HEX at the end of each 24-h sampling period was studied. METHODS: Multi-parameter deconvolution analysis was used to quantitate pulsatile GH, PRL, ACTH and cortisol secretion and estimate the corresponding hormone half-lives. Complementary to deconvolution analysis, approximate entropy was used as a scale- and model-independent statistic to quantify the serial orderliness or pattern regularity of hormone measurements. RESULTS: Mean and integrated (24-h) serum GH concentrations were increased from baseline values to the same extent by two and three HEX injections. Both HEX schedules equally increased GH secretory burst mass (but not burst frequency), mean daily GH production rate, GH half-life and irregularity of GH release patterns. No change occurred in the secretion of IGF-I, PRL, ACTH and cortisol. Intravenous HEX at the end of each spontaneous 24-h profile induced a significant rise in GH, PRL, ACTH and cortisol. Prior HEX administration blunted the GH response, abolished that of ACTH and cortisol and did not modify the PRL increase. CONCLUSIONS: The study showed that two or three daily s.c. injections of HEX augmented 24-h GH secretion equally, amplifying selectively GH secretory pulse mass without altering lactotroph and corticotroph secretion. IGF-I levels were not modified by these 1-day HEX treatment schedules."
+  },
+  {
+   "pmid": "12144941",
+   "titel": "Effects of acute hexarelin administration on cardiac performance in patients with coronary artery disease during by-pass surgery",
+   "jahr": "2002",
+   "journal": "Eur J Pharmacol",
+   "erstautor": "Broglio F",
+   "doi": "10.1016/s0014-2999(02)01934-9",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Growth hormone (GH) secretagogues are synthetic molecules with neuroendocrine but also cardiovascular activities mediated by specific GH secretagogue-receptors. The acute administration of hexarelin, a peptidyl GH secretagogue, increases left ventricular ejection fraction in normal subjects and even in patients with severe GH deficiency. We evaluated cardiac performances in patients with coronary artery disease after acute administration of hexarelin (2.0 microg/kg, i.v.) compared to that in patients given with GH-releasing hormone (GHRH; 2.0 microg/kg, i.v.), recombinant human (rh)-GH (10.0 microg/kg, i.v.) or placebo. Cardiac performance was studied in 24 male patients (age [mean +/- S.E.M.]: 59.5 +/- 1.1 years; body mass index: 24.6 +/- 0.9 kg/m(2); left ventricular ejection fraction: 57.2 +/- 1.4%) with coronary artery disease undergoing by-pass surgery during general anesthesia. Left ventricular ejection fraction, left ventricular end diastolic volume, cardiac index and cardiac output were evaluated by intraoperative omniplane transoesophageal echocardiography while wedge pressure, central venous pressure, mean arterial pressure and systemic vascular resistance index were evaluated by systemic and pulmonary arterial catheterization. RhGH, GHRH and placebo did not exert any hemodynamic effect while hexarelin induced a prompt (after +10 min) increase in left ventricular ejection fraction (P < 0.001), cardiac index (P < 0.001) and cardiac output (P < 0.001) lasting up to +90 min without any variation in left ventricular end diastolic volume. Accordingly, hexarelin induced a reduction of wedge pressure (P < 0.01). These changes occurred in the presence of increased mean arterial pressure (P < 0.05) and transient decrease of central venous pressure (P < 0.05 at +30 min only) but no change in systemic vascular resistance index. Heart rate after hexarelin was similar to that after placebo. Hexarelin induced a slight increase in GH levels which was similar to that after GHRH but far lower (P < 0.01) than that after rhGH. Thus, in patients with coronary artery disease undergoing by-pass surgery, the acute administration of hexarelin clearly improves cardiac performance without any relevant variation in systemic vascular resistance. The cardiotropic effect of hexarelin is not shared by GHRH or by rhGH, indicating that it is not mediated by the increase in circulating GH levels but more likely reflects activation of specific cardiovascular GH secretagogue receptors."
+  },
+  {
+   "pmid": "8548949",
+   "titel": "Intranasal administration of the GHRP hexarelin accelerates growth in short children",
+   "jahr": "1995",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Laron Z",
+   "doi": "10.1111/j.1365-2265.1995.tb02929.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: Hexarelin is a recently synthesized small growth hormone releasing peptide (GHRP) (His-D-2-methyl-Trp-Ala-Trp-D-Phe-Lys- NH2). It is active by intravenous, oral and intranasal administration in animals and man. The aim of this study was to find out whether long-term administration of this peptide would promote growth in short children. DESIGN AND PATIENTS: Intranasal hexarelin was administered in a dose of 60 micrograms/kg thrice daily to 8 prepubertal short children aged 4-11.6 years for periods of up to 8 months. RESULTS: Hexarelin treatment stimulated insulin-like growth factor-I (IGF-I) secretion raising the level from 10.4 +/- 3.9 (SD) to 14.1 +/- 4.6 nmol/l (P < 0.004). The rise in IGF-I led to a significant increase in the mean (+/- SD) linear growth velocity from 5.3 +/- 0.8 to 8.3 +/- 1.7 cm/year (P < 0.0001). There was also a significant decrease in skinfold thickness despite increase in body weight and an increase in head circumference. Additional findings were a rise in serum phosphate from 1.5 +/- 0.1 to 1.8 +/- 0.1 mmol/l (P < 0.004) and of alkaline phosphatase from 219 +/- 74 to 261 +/- 75 U/l (P < 0.05). CONCLUSIONS: The long-term GH/IGF-I stimulating, anabolic and growth promoting effects achieved by intranasal administration of this hexapeptide, seemingly without undesirable side-effects, suggests clinical potential for this new class of drugs."
+  },
+  {
+   "pmid": "9589671",
+   "titel": "Growth hormone status during long-term hexarelin therapy",
+   "jahr": "1998",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Rahim A",
+   "doi": "10.1210/jcem.83.5.4812",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Hexarelin, a powerful GH-releasing peptide, is capable of causing profound GH release in normal subjects after oral, intranasal, i.v., and s.c. administration. The effect of long-term administration on GH levels in adults is unknown. We have, therefore, assessed the effects of 16 weeks of twice-daily s.c. hexarelin therapy (1.5 micrograms/kg BW) on the GH response to a single injection of hexarelin, and also the GH response to hexarelin 4 weeks after cessation of hexarelin therapy. We have also assessed the effects of chronic hexarelin therapy on serum insulin-like growth factor (IGF)-I, IGF binding protein-3, markers of bone formation (osteocalcin, procollagen-type-III-N-terminal-peptide, and C-terminal propeptide of type I collagen), and resorption (urinary deoxypyridinoline and pyridinoline), body composition, and bone mineral density. The mean (+/- SEM) area under the GH curve (AUCGH) at weeks 0, 1, 4, 16, and 20 were 19.1 +/- 2.4 micrograms/L.h, 13.1 +/- 2.3 micrograms/L.h, 12.3 +/- 2.4 micrograms/L.h, 10.5 +/- 1.8 micrograms/L.h, and 19.4 +/- 3.7 micrograms/L.h, respectively. There was a significant change in AUCGH over the study period (P = 0.0003). Further analysis showed that, compared with baseline, the decrease in AUCGH at week 4 and week 16 were significant (P < 0.05 and P < 0.01, respectively). Four weeks after completion of hexarelin therapy, the AUCGH increased significantly, compared with AUCGH at week 16 (P < 0.05), and was not significantly different from that at week 0. Serum IGF-I and IGF binding protein-3 did not change significantly over the 20-week period (P = 0.24 and P = 0.74, respectively). Of the bone markers measured, only serum C-terminal propeptide of type I collagen changed significantly and was higher at week 16, compared with baseline (P = 0.019). Total body fat, lean body mass, and bone mineral density had not changed significantly at week 16, compared with baseline (P = 0.6, P = 0.3, and P = 0.3, respectively). In summary, we have demonstrated that chronic hexarelin therapy results in a partial and reversible attenuation of the GH response to hexarelin. In the present study, the biological impact of this hexarelin schedule on the GH-IGF-I axis seems to be minimal. The therapeutic potential of chronic hexarelin requires further investigation."
+  },
+  {
+   "pmid": "9641612",
+   "titel": "Effects of dexamethasone and alprazolam, a benzodiazepine, on the stimulatory effect of hexarelin, a synthetic GHRP, on ACTH, cortisol and GH secretion in humans",
+   "jahr": "1998",
+   "journal": "Neuroendocrinology",
+   "erstautor": "Arvat E",
+   "doi": "10.1159/000054328",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article"
+   ],
+   "abstract": "Hexarelin (HEX) is a synthetic GHRP which acts on specific receptors at both the pituitary and the hypothalamic level to stimulate GH release both in animals and in humans. Like other GHRPs, HEX possesses also acute ACTH and cortisol-releasing activity similar to that of hCRH. The mechanisms underlying the stimulatory effect of GHRPs on hypothalamo-pituitary-adrenal (HPA) axis are still unclear, although a CNS-mediated action has been demonstrated. In 6 normal healthy young women (26-34 years) we studied the effects on ACTH and cortisol secretion of HEX (2.0 microg/kg i.v. at 0 min) alone and preceded by dexamethasone (DEXA, 1 mg p.o. at 23.00 h on the previous night) or alprazolam (ALP, 0.02 mg/kg p.o. at -90 min), a benzodiazepine which binds to GABA receptors and possesses CRH-mediated inhibitory activity on HPA axis. ACTH and cortisol secretion after saline administration as well as the GH response to HEX alone and preceded by DEXA or ALP were also studied. HEX administration elicited an increase in ACTH (peak vs. baseline, mean +/- SEM: 28.0 +/- 6.7 vs. 11.7 +/- 2.2 pg/ml, p < 0.05) and cortisol secretion (162.6 +/- 15.0 vs. 137.7 +/- 12.6 microg/l, p < 0.05). DEXA pretreatment strongly inhibited basal ACTH (3.2 +/- 0.7 pg/ml, p < 0.01) and cortisol levels (11.3 +/- 2.5 microg/l, p < 0.001) and abolished the ACTH and cortisol responses to HEX (3.6 +/- 0.9 pg/ml, p < 0.01 and 10.7 +/- 2.0 microg/l, p < 0.001), respectively. On the other hand, ALP pretreatment did not significantly modify basal ACTH (7.9 +/- 2.0 pg/ml) and cortisol levels (127.6 +/- 14.5 microg/l) but abolished the HEX-induced ACTH and cortisol secretions (8.6 +/- 2.4 pg/ml, p < 0.05 and 111.0 +/- 6.0 microg/l, p < 0.05), respectively. ACTH and cortisol levels after HEX when preceded by ALP overlapped with those recorded during saline. HEX induced a clear GH response (peak at 15 min vs. baseline: 65.5 +/- 20.5 vs. 2.2 +/- 0.7 microg/l, p < 0.03) which was blunted by ALP (peak at 15 min: 21.5 +/- 5.5 microg/l, p < 0.05) while it was not modified by DEXA pretreatment (78.7 +/- 7.6 microg/l). In conclusion, our present data demonstrate that the ACTH- and cortisol-releasing effect of HEX is abolished by either dexamethasone or alprazolam, a benzodiazepine, which is even able to blunt the GH-releasing activity of the hexapeptide. These findings suggest that, in physiological conditions, the stimulatory effect of GHRPs on HPA axis is sensitive to the negative glucocorticoid feedback and could be mediated by GABAergic mechanisms; the latter seem also involved in the GH-releasing activity of GHRPs."
+  },
+  {
+   "pmid": "10516483",
+   "titel": "Corticotropin-releasing effect of hexarelin, a peptidyl GH secretagogue, in normal subjects pretreated with metyrapone or RU-486, a glucocorticoid receptor antagonist, and in patients with Addison's disease",
+   "jahr": "1999",
+   "journal": "Neuroendocrinology",
+   "erstautor": "Arvat E",
+   "doi": "10.1159/000054477",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "GH secretagogues (GHS) are peptidyl and nonpeptidyl molecules which possess strong GH-releasing activity but also stimulatory effect on hypothalamo-pituitary-adrenal axis. The ACTH and cortisol responses to Hexarelin (HEX), a peptidyl GHS, are abolished by low-dose dexamethasone pretreatment in normal subjects but are exaggerated and higher than those after hCRH in patients with pituitary ACTH-dependent Cushing's disease, in spite of their hypercortisolism. Based on the foregoing, we studied the ACTH, cortisol and GH responses to HEX (2.0 microgram/kg i.v. at 0 min) alone and after metyrapone (2 g p.o. at 23:00 h the night before) or RU-486 (400 mg p.o. at 02:00 h), a glucocorticoid receptor antagonist, in 6 normal women (NS, age 26-34 years). The endocrine responses (mean +/- SEM) to HEX alone were also studied in 8 patients with Addison's disease (AD, 6 males, 2 females, age 30-77 years; last hydrocortisone administration the day before testing). In NS, HEX stimulated basal ACTH (peak, mean +/- SEM: 26.0 +/- 7.8 vs. 10.7 +/- 2.0 pg/ml, p < 0. 05), cortisol (163.2 +/- 18.3 vs. 137.4 +/- 15.4 microgram/l, p < 0.05) and GH (72.6 +/- 23.5 vs. 3.7 +/- 1.3 microgram/l, p < 0.01) levels. Metyrapone markedly increased basal ACTH (294.4 +/- 61.6 pg/ml, p < 0.05), reduced basal cortisol (19.6 +/- 7.2 microgram/l, p < 0.05), while it did not modify GH levels. After metyrapone pretreatment the ACTH response to HEX was clearly increased (DeltaAUC: 2,857.4 +/- 901.9 vs. 367.3 +/- 274.0 pg/ml/h, p < 0.05), while the GH response was not modified. HEX did not stimulate the low cortisol levels after metyrapone pretreatment. RU-486 significantly increased basal ACTH (76.6 +/- 12.5 pg/ml, p < 0.05) and cortisol (312.7 +/- 22.2 microgram/l, p < 0.05), while it did not modify basal GH levels. RU-486 pretreatment did not modify the ACTH, cortisol and GH responses to HEX. In AD, HEX elicited a marked ACTH response (6,619.4 +/- 3,365.8 pg/ml/h; p < 0.01), which was clearly higher (p < 0.01) than that in NS after HEX alone but not significantly different from that after HEX+MET. The GH response to HEX in AD (1,325.6 +/- 284.1 microgram/l/h) was similar to that in NS (1,519.7 +/- 483.8 microgram/l/h). In conclusion, our present data demonstrate that the ACTH-releasing activity of HEX is increased in primary hypoadrenalism as well as in normal subjects after metyrapone but not after RU-486 pretreatment. These findings indicate that in normal subjects as well as in hypocortisolemic patients the ACTH-releasing activity of GHS is enhanced by the lack of negative glucocorticoid feedback."
+  },
+  {
+   "pmid": "8706295",
+   "titel": "Hexarelin, a synthetic growth hormone releasing peptide, stimulates prolactin secretion in acromegalic but not in hyperprolactinaemic patients",
+   "jahr": "1996",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Ciccarelli E",
+   "doi": "10.1046/j.1365-2265.1996.626446.x",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: In man, new synthetic peptides such as hexarelin have been shown to have a potent and dose dependent GH releasing activity. Furthermore, a significant PRL releasing activity has also been demonstrated, but this has been investigated in less detail. We have therefore evaluated the effect of hexarelin on PRL and GH secretion in patients with active acromegaly or pathological hyperprolactinaemia. DESIGN: Hexarelin (2 micrograms/kg i.v.), a modified derivative of GHRP-6 of the following structure: His-2-Me-D-Trp-Ala-Trp-D-Phe-Lys-NH2, or placebo, was administered in random order on two separate occasions. PATIENTS: Eight patients with active acromegaly (ACRO, 6 F and 2 M, mean age 61.7 years, range 56-73), 6 with macroadenomas and 2 without radiological signs of tumour, and 6 female patients with pathological hyperprolactinaemia (HPRL, mean age 31.2 years, range 18-47) 5 with microadenomas and 1 with empty sella, were studied. Fourteen normal subjects (NS, 8 F and 6 M, 27.1 years, 24-30) were studied as controls. MEASUREMENTS: GH and PRL levels were evaluated every 15 minutes for 2 hours after hexarelin or placebo. Both hormones were measured using commercial IRMA kits. Basal IGF-I was measured in all subjects using an RIA following acid-ethanol extraction. RESULTS: Hexarelin induced a significant increase in PRL levels in NS (median, range, delta peak HEX vs placebo: 150 (-14-402) vs 10 (-34-24) mU/l; delta AUC HEX vs placebo: 7710 (2,100-3 2540) vs 30 (-2,566-2,040) mU min/l, P < 0.01) and in ACRO (190 (-10-496) vs 6 (-100-34) mU/l; 10,170 (-5,310-51,436) vs -82 (-6,030-1,410) mU min/l, P < 0.02), but not in HPRL (10 (-180-80) vs 50 (-100-240) mU/l; -600 (-16,996-10,140) vs -1,950 (-8,540-14,160) mU min/l). Hexarelin also induced a lower increase of GH in HPRL (60 (30-82) vs 1.8 (-0.2-2.2) mU/l; 2,853 (1,477.6-4,372.6 vs 91.6 (-160.6-174) mU min/l, P < 0.05) than in NS (90.8 (50.6-181) vs 0.8 (-1.2-6.8) mU/l; 6642 (2,004-13,252.6 vs 42 (456-900) mU min/l, P < 0.01) or in ACRO (117.2 (21.2-420.6 vs 3.8 (-2.2-18) mU/l; 6645 (1,554-22,138.6 vs 334.6 (-324-1,065) mU min/l, P < 0.02). CONCLUSIONS: Our data show that the PRL releasing effect of hexarelin is preserved in acromegaly but lost in pathological hyperprolactinaemia. In contrast with acromegaly, the GH releasing effect of hexarelin is also blunted in hyperprolactinaemic patients. These data demonstrate that patients with pathological hyperprolactinaemia are partially refractory to the activity of hexarelin."
+  },
+  {
+   "pmid": "11081154",
+   "titel": "Effects of alprazolam, a benzodiazepine, on the ACTH-, GH- and PRL-releasing activity of hexarelin, a synthetic peptidyl GH secretagogue (GHS), in patients with simple obesity and in patients with Cushing's disease",
+   "jahr": "1999",
+   "journal": "Pituitary",
+   "erstautor": "Grottoli S",
+   "doi": "10.1023/a:1009992909247",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "GH secretagogues (GHS) possess potent GH-releasing activity but also stimulate PRL, ACTH and cortisol (F) secretion. To further clarify the endocrine activities of GHS, in 9 obese patients, 9 patients with Cushing's disease and 14 controls we studied the ACTH, F, GH and PRL responses to hexarelin (HEX, 2.0 micrograms/kg i.v.), a peptidyl GHS, alone and preceeded by alprazolam (ALP, 0.02 mg/kg p.o.), a benzodiazepine. The HEX-induced ACTH response in controls was similar to that in obese patients (delta peak: 9.9 +/- 1.9 and 24.7 +/- 7.6 ng/L, respectively) and both were lower (p < 0.002) than that in Cushing's patients (peak: 210.7 +/- 58.4 ng/L). The GH response to HEX in controls (peak: 58.1 +/- 10.3 x g/L) was higher (p < 0.001) than those in obese and Cushing's patients (18.2 +/- 3.8 and 12.6 +/- 5.4 x g/L, respectively) which, in turn, were similar. The PRL responses to HEX in controls, obese and Cushing's patients (peak: 11.9 +/- 1.6, 18.0 +/- 4.5 and 12.4 +/- 1.4 x g/L, respectively) were similar. In controls the HEX-induced ACTH response was abolished by ALP (peak: 8.6 +/- 2.4 vs 28.0 +/- 6.7 ng/L, p < 0.03) which, on the other hand, only blunted that in obese (peak: 12.7 +/- 2.1 vs 42.4 +/- 8.4 ng/L, p < 0.02) and did not modify that in Cushing's patients (205.6 +/- 55.4 vs 175.9 +/- 47.6 ng/L). ALP blunted the GH response to HEX in controls (peak: 31.0 +/- 7.1 x g/L, p < 0.03) while did not modify those in obese and in Cushing's patients (14.5 +/- 5.3 and 13.3 +/- 11.1 x g/L, respectively). ALP did not modify the HEX-induced PRL response in controls, obese and Cushing's patients (peak: 13.8 +/- 0.9, 16.3 +/- 2.4 and 19.2 +/- 1.1 x g/L, respectively). In conclusion, alprazolam inhibits the ACTH response to hexarelin in normal and obese subjects while fails to modify the exaggerated ACTH response in Cushing's Disease suggesting that GHS activate the HPA axis via the hypothalamus in normal and obese subjects but not in patients with Cushing's disease. Alprazolam is also able to blunt the GH-releasing activity of hexarelin in normal subjects but not the low GH response to the hexapeptide in obese and Cushing's patients. The PRL-releasing activity of hexarelin in controls, obese and hypercortisolemic patients is similar and is not modified by alprazolam pretreatment."
+  },
+  {
+   "pmid": "9258804",
+   "titel": "Hexarelin is a stronger GH-releasing peptide than GHRH in normal cycling women but not in anorexia nervosa",
+   "jahr": "1997",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Giusti M",
+   "doi": "10.1007/BF03350297",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "Anorexia nervosa (AN) is a chronic disease in which an enhanced GH response to GHRH, a paradoxic increase after TRH and LHRH, and low IGF1 levels may be present according to the patient's clinical state. It is well known that the GH hypersecretory state commonly found in the \"acute phase\" of AN is restored with weight gain. The new synthetic hexapeptide, Hexarelin (HEX), which is chemically similar to GH-releasing peptide 6, has recently been shown to possess a stronger GH-releasing activity than GHRH in humans and to share a synergistic effect with GHRH when administered intravenously. Indeed, HEX shows a slight cortisol and PRL-releasing activity. The aim of the study was to evaluate the effect of i.v. administration of old (GHRH) and new (HEX) GH-releasing peptides on GH, PRL and cortisol secretion in 9 AN patients in the \"recovery phase\" of the disease, after partial but significant weight gain. For controls we studied 7 normal cycling women. No significant difference in GH secretion after GHRH was found between AN and controls. GHRH was not able to release cortisol or PRL either in AN or controls. HEX produced a significantly (p < 0.05) higher GH peak in controls than in AN, while GH AUC was slightly but not significantly higher. Indeed, only in controls, HEX was a stronger GH-releasing peptide than GHRH. These findings could be explained by the fact that, in AN, GH secretion is already stimulated both by reduced IGF1 levels and by increased GHRH/somatostatin ratio. As reported in the literature, the action of HEX action is only slightly influenced by variations in somatostatin tone. It therefore appears likely that the absolute or relative GHRH increase present in AN could partially mimic the unknown hypothalamic factor necessary for HEX action on the hypophisis and that, following a structural modification of pituitary HEX receptors, GHRH would become able to bind to HEX receptors on somatotropic cells. Consequently, the pituitary cells would already be over-activated and so unable to respond maximally to HEX stimulation. Indeed, in AN, GHRH might play a role of negative modulation in the control of HEX action. Finally, in our study HEX was able to produce a persistent PRL release in controls but not in AN, thus suggesting that its action could be partially dependent on the estrogen milieu, while it stimulated cortisol secretion only transiently in the patients studied."
+  },
+  {
+   "pmid": "9851753",
+   "titel": "Adrenocorticotropin and cortisol hyperresponsiveness to hexarelin in patients with Cushing's disease bearing a pituitary microadenoma, but not in those with macroadenoma",
+   "jahr": "1998",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Arvat E",
+   "doi": "10.1210/jcem.83.12.5355",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "We previously reported that in Cushing's disease (CD) the ACTH- and cortisol (F)-releasing activity of Hexarelin (HEX), a GH secretagogue, is exaggerated with respect to that in normal subjects and is higher than that of human CRH (hCRH), but it is absent in Cushing's syndrome. Our aim was to extend the study about the effects of HEX (2.0 microg/kg, iv) on ACTH and F secretion in 21 patients with CD (3 men and 18 women, 16-68 yr old). Based on magnetic resonance imaging, 15 CD patients had pituitary microadenoma, and 6 had macroadenoma. The results in CD patients were compared with those in 27 normal age-matched controls (NS; 10 men and 17 women, 24-69 yr old). Basal ACTH and F levels in CD were similar in patients with microadenom (mean+/-SEM, 78.3+/-7.2 pg/mL and 237.1+/-23.6 microg/L, respectively) and macroadenoma (57.4+/-9.0 pg/mL and 196.9+/-20.1 microg/L, respectively) and were higher (P < 0.001) than those in NS (17.7+/-2.0 pg/mL and 115.3+/-6.7 microg/L, respectively). In microadenoma CD patients, HEX induced marked ACTH and F increases (delta peak, mean+/-SEM: 261.2+/-77.6 pg/mL and 226.1+/-87.2 microg/L, respectively), which were higher (P < 0.04) than those induced by hCRH (45.6+/-16.9 pg/mL and 84.6+/-25.7 microg/L, respectively). Moreover, in microadenoma CD patients, the ACTH and F responses to HEX were higher (P < 0.001) than those in NS (18.5+/-4.0 pg/mL and 36.1+/-6.8 microg/L, respectively). In macroadenoma CD patients, HEX induced a slight, but significant increase (P < 0.02) in ACTH and F levels (33.9+/-18.0 pg/mL and 89.6+/-34.3 microg/L, respectively), which was not significantly different from that elicited by hCRH (20.0+/-7.0 pg/mL and 54.8+/-21.3 microg/L, respectively). In macroadenoma CD patients, the ACTH and F responses to HEX and hCRH were, in turn, similar to those in NS. In conclusion, our findings demonstrate that the ACTH and F hyperresponsiveness to HEX is present in Cushing's disease with micro-, but not macro- ACTH-secreting pituitary adenoma. This finding agrees with other evidence pointing toward differences in the hormonal behavior between micro- and ACTH-secreting pituitary macroadenomas."
+  },
+  {
+   "pmid": "10199757",
+   "titel": "The effects of dose, nutrition, and age on hexarelin-induced anterior pituitary hormone secretion in adult patients on maintenance hemodialysis",
+   "jahr": "1999",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Jenkins RC",
+   "doi": "10.1210/jcem.84.4.5635",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Malnutrition is common in chronic renal failure (CRF) and adversely affects prognosis. In view of the anabolic action of GH in CRF, we have studied the effects of hexarelin, a GH secretagogue, on CRF. An iv dose-response study in six 20- to 40-yr-old well nourished hemodialysis (HD) patients was followed by administration of the maximally effective dose to six 20- to 40-yr-old healthy controls, six 20- to 40-yr-old poorly nourished HD patients, and six 50- to 70-yr-old poorly nourished HD patients. GH secretion (area under the curve over 180 min, mean +/- SE) after 2 and 1 microg/kg doses (10.7 +/- 4.2 and 8.2 +/- 5.2 min/U x L, respectively) was greater than after placebo (0.60 +/- 0.11 min/U x L; P < 0.001 and P < 0.05, respectively). The most effective dose (2 microg/kg) produced similar GH secretion (11.4 +/- 3.3 min/U x L) in controls. GH secretion in the younger poorly nourished HD group (19.0 +/- 4.4 min/U x L) was not significantly different from that in the well nourished 20- to 40-yr-old HD patients (P = 0.06). GH secretion in the older, poorly nourished HD patients (9.4 +/- 2.2 min/U x L) was similar to that in the young, poorly nourished group (P = 0.18). ACTH and cortisol concentrations increased in all groups, whereas PRL concentrations were not affected in CRF. The profound action of hexarelin on GH secretion has been shown to extend to CRF. Trends were evident toward increasing efficacy in malnourished subjects and decreasing efficacy with age. Further studies are required to determine whether the acute actions of hexarelin can be translated into long term anabolic changes."
+  },
+  {
+   "pmid": "10361807",
+   "titel": "Growth hormone response to hexarelin, growth hormone-releasing hormone plus pyridostigmine and arginine plus estrogen in prepubertal and early pubertal short children",
+   "jahr": "1998",
+   "journal": "Minerva Endocrinol",
+   "erstautor": "Guzzaloni G",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: Hexarelin (HEX), a synthetic hexapeptide with a strong GH-stimulating activity, has been suggested as a stimulus for evaluating GH secretion. However, in childhood it has never been compared with other stimuli capable to reduce the effect of the somatostatinergic tone and of the low production of gonadal steroids. METHODS: We evaluated GH response (expressed as the maximum value after stimulus [Cmax] and as area under the curve [AUC], mean +/- SD) to HEX at a dose of 2 micrograms/kg i.v., in comparison with those obtained after GHRH (1 microgram/kg i.v.) + pyridostigmine (PD, 60 mg p.o.) and arginine + ethynylestradiol (E2, 1 mg/day p.o. for 3 days before the test), in 5 subjects with familial short stature (FSS), 11 with constitutional growth delay (CGD), prepubertal (Tanner's stage I) and early pubertal (stage II), and in 8 healthy children age-matched as controls. RESULTS: HEX induced a Cmax of 31.9 +/- 18.4 micrograms/l and an AUC of 1511 +/- 923 micrograms/min x l in stage I, of 36.7 +/- 12.3 micrograms/l and 1938 +/- 903 micrograms/min x l in stage II (ns). GHRH + PD induced a Cmax of 33.8 +/- 14.6 micrograms/l and an AUC of 2072 +/- 1233 micrograms/min x l in stage I, of 29.6 +/- 15.6 micrograms/l and 1901 +/- 1252 micrograms/min x l in stage II (ns). ARG + E2 induced a Cmax of 17.8 +/- 7 micrograms/l and an AUC of 1157 +/- 505 micrograms/min x l in stage I, of 15.6 +/- 11.6 micrograms/l and 649 +/- 452 micrograms/min x l in stage II (ns). The Cmax of HEX was higher than that of ARG + E2 in both stages I and II (p < 0.05); AUC of HEX, was higher than that of ARG + E2 only in stage II (p < 0.01); the Cmax and the AUC of GHRH + PD were higher than those of ARG + E2 both in stage I (p < 0.01 and p < 0.05, respectively) and in stage II (p < 0.05). No difference, neither in the extent of GH response to HEX and GHRH + PD nor in that to stimuli between subjects and controls, was found. HEX has given 32% false positives in stage I and 17% in stage II, GHRH + PD 12% and 15%, while ARG + E2 provided 20% in stage I and 32% in stage II. On the whole, specificity was 76% for HEX and ARG + E2 and 89% for GHRH + PD. CONCLUSIONS: HEX induced greater GH response than that of ARG + E2 but similar to that of GHRH + PD and its specificity was not different to that of ARG + E2 and lower than that of GHRH + PD: then its use does not show a diagnostic advantage in respect to the other two stimuli in peripubertal age."
+  },
+  {
+   "pmid": "10528131",
+   "titel": "Cardiac effects of hexarelin in hypopituitary adults",
+   "jahr": "1999",
+   "journal": "Eur J Pharmacol",
+   "erstautor": "Bisi G",
+   "doi": "10.1016/s0014-2999(99)00537-3",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Growth hormone (GH)-releasing peptides possess specific pituitary, hypothalamic, and myocardial receptors. Seven adult male patients with GH deficiency (GHD) (age, mean+/-S.E.M.: 42.0+/-4.0 year) were studied by equilibrium radionuclide angiocardiography after i.v. administration of hexarelin, a peptide GH secretagogue. Data for these patients were compared with those for nine adult male controls (37.0+/-2.7 year). The GH response to hexarelin was negligible in patients with GHD compared to control subjects (CS) (peak: 1.9+/-0.9 vs. 45.7+/-3.6 microg/l, P<0.001). Basal left ventricular ejection fraction (LVEF) in patients with GHD was lower than that in CS (50+/-1% vs. 63+/-2%, P<0.001). Hexarelin administration increased LVEF both in patients with GHD and in CS (peak: 57+/-2 vs. 70+/-2, respectively, P<0.05 vs. baseline) without changing catecholamine levels, mean blood pressure (MBP), or cardiac output in either group. In conclusion, the acute administration of hexarelin exerts a short-lasting positive inotropic effect in humans, probably GH-independent and mediated by specific myocardial receptors for GH secretagogues."
+  },
+  {
+   "pmid": "8851688",
+   "titel": "Influence of beta-adrenergic agonists and antagonists on the GH-releasing effect of Hexarelin in man",
+   "jahr": "1996",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Arvat E",
+   "doi": "10.1007/BF03347854",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Beta-adrenergic receptors mediate the inhibitory influence of cathecolamines on GH secretion, probably via the stimulation of hypothalamic somatostatin release. Accordingly, beta-adrenergic agonists and antagonists inhibit and increase, respectively, the GH response to many stimuli, including GHRH, in man. Aim of the present study was to verify the effect, if any, of beta-adrenergic drugs on the GH response to Hexarelin, a synthetic GH-releasing hexapeptide. Interestingly, the GH-releasing effect of Hexarelin has been reported to be partially refractory to neuroendocrine manipulations known to strongly enhance or abolish the GHRH-induced GH release. In 6 normal male volunteers (aged 22-27 yr) we studied the interaction of the maximally effective iv dose of Hexarelin (HEX, 2 micrograms/kg iv at 0 min) with atenolol (100 mg po at -60 min) or salbutamol (0.08 mg/kg po at -60 min), which are beta-adrenergic antagonist and agonist, respectively. HEX induced a marked GH rise (AUC, mean +/- SE: 4573.2 +/- 588.8 micrograms.min/L), which was unchanged by atenolol (4706.2 +/- 928.2 micrograms.min/L) but blunted by salbutamol (2792.8 +/- 618.0 micrograms.min/L, p < 0.03). In conclusion, present data show that, in man, the GH-releasing effect of Hexarelin is not enhanced by beta-adrenergic blockade while is only blunted by the activation of beta receptors. According to other data, these results indicate that the potent GH-releasing activity of Hexarelin is, at least partially, refractory to beta-adrenergic-mediated manipulations of somatostatinergic activity."
+  },
+  {
+   "pmid": "10886488",
+   "titel": "Desmopressin and hexarelin tests in alcohol-induced pseudo-Cushing's syndrome",
+   "jahr": "2000",
+   "journal": "J Intern Med",
+   "erstautor": "Coiro V",
+   "doi": "10.1046/j.1365-2796.2000.00676.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "BACKGROUND: A challenge in clinical endocrinology is the distinction between Cushing's disease (Cushing's syndrome dependent by adrenocorticotrophic hormone (ACTH)-secreting tumours of pituitary origin) and alcohol-dependent pseudo-Cushing's syndrome. Patients with Cushing's disease are known to have high ACTH/cortisol responses to desmopressin (DDAVP, a vasopressin analogue) and to hexarelin (HEX, a synthetic GH-releasing peptide). OBJECTIVE: To compare the ACTH/cortisol responses to desmopressin and to hexarelin of subjects with alcohol pseudo-Cushing's syndrome with those obtained in patients with Cushing's disease and in normal controls. DESIGN: Randomized, single-blind study. SETTING: University medical centre. SUBJECTS: Eight alcoholics with pseudo-Cushing's syndrome, six patients with Cushing's disease and nine age-matched normal controls. INTERVENTION: Three tests at weekly intervals. The dexamethasone (1 mg) suppression test (DST) was carried out first. The desmopressin (10 microg intravenously at 09:00 h) test and hexarelin (2 microgram kg-1 intravenously at 09:00 h) test were carried out in random order. MEASUREMENTS: Plasma ACTH and cortisol levels. RESULTS: The basal plasma levels of ACTH and cortisol were significantly lower in normal subjects than in patients with Cushing's disease and in alcoholic subjects; these latter groups showed similar basal hormonal values. All normal controls, two patients with Cushing's disease and two alcoholics showed suppression of plasma cortisol levels (<5 microgram dL-1) after dexamethasone administration. Both desmopressin and hexarelin induced striking ACTH/cortisol responses in patients with Cushing's disease, whereas hexarelin, but not desmopressin, slightly increased ACTH/cortisol secretion in the normal controls. Neither desmopressin nor hexarelin administration induced any significant change in ACTH/cortisol secretion in alcoholics. CONCLUSIONS: These data suggest that either the hexarelin or desmopressin test can be used to differentiate patients with Cushing's disease from subjects with alcohol-dependent pseudo-Cushing's syndrome."
+  },
+  {
+   "pmid": "9425393",
+   "titel": "Interaction of the growth hormone releasing peptide hexarelin with somatostatin",
+   "jahr": "1997",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Massoud AF",
+   "doi": "10.1046/j.1365-2265.1997.3121128.x",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article"
+   ],
+   "abstract": "OBJECTIVE: Growth hormone releasing peptides (GHRPs) are potent growth hormone (GH) secretagogues. Their interaction with growth hormone releasing hormone (GHRH) has been studied extensively. Data on their interaction with somatostatin (SS) are limited. The aim of this study was to determine the effect of changing SS tone and the effects of SS withdrawal on the somatotroph response to hexarelin and GHRH, alone or in combination. In addition, we studied the effect of SS on the prolactin (PRL) and cortisol response to hexarelin. DESIGN: Boluses of saline, hexarelin (1 microgram/kg), GHRH-(1-29)-NH2 (1 microgram/kg) or hexarelin plus GHRH-(1-29)-NH2 were administered intravenously 1 hour after the start of a 3-hour constant intravenous infusion of saline, SS(1-14) (20 micrograms/m2/h) (SS20) or SS(1-14) (50 micrograms/m2/h) (SS50). In a second group of studies, the same boluses as above were administered intravenously at the time of withdrawal of a 3-hour constant intravenous infusion of saline or SS20. In a subset of the second group of studies, saline, hexarelin (0.5 microgram/kg) or GHRH-(1-29)-NH2 (0.5 microgram/kg) was administered intravenously two hours before the withdrawal of the SS(1-14) infusion, which was administered at a higher dose of 50 micrograms/m2/h. Studies were performed in a random order. SUBJECTS: Twelve healthy adult males (20.3-34.6 years) were studied. MEASUREMENTS: Serum GH and PRL concentrations were measured by immunoradiometric assays. Serum cortisol concentrations were measured by radioimmunoassay. RESULTS: Infusion of SS20 resulted in a significant reduction in the peak GH response to hexarelin, GHRH-(1-29)-NH2 or hexarelin plus GHRH-(1-29)-NH2 (P < 0.05). The peak serum GH concentrations following the intravenous administration of the two secretagogues, separately or in combination, were reduced further by the higher dose of SS50, but these were not significantly different from their respective peak serum GH concentrations obtained during the infusion of SS20. The peak serum GH concentration following the intravenous administration of hexarelin plus GHRH-(1-29)-NH2 remained large (52.6 +/- 7.2 mU/l; mean +/- SEM) despite the high dose of SS(1-14) (50 micrograms/m2/h). SS(1-14) did not affect the PRL and cortisol response to hexarelin. Withdrawal of SS20 infusion at the time of intravenous bolus administration of hexarelin, but not GHRH-(1-29)-NH2 or hexarelin plus GHRH-(1-29)-NH2, resulted in a significant increase in peak serum GH concentration (P = 0.03). The intravenous administration of hexarelin (0.5 microgram/kg) or GHRH-(1-29)-NH2 (0.5 microgram/kg) during an intravenous infusion of SS50 resulted in a small GH response (peak concentrations 6.8 +/- 3.6 mU/l and 2.4 +/- 0.5 mU/l, respectively) but the later withdrawal of the infusion was not followed by a rise in serum GH concentrations. CONCLUSIONS: This study shows that SS and hexarelin counteract their respective inhibitory and stimulatory action on GH secretion and provides further evidence for their interaction in vivo. The stimulatory effect of hexarelin on the lactotroph and the hypothalamo-pituitary-adrenal axis is unaltered by SS. Hexarelin plus GHRH are synergistic and have potent GH-releasing activity despite a high dose SS infusion. Withdrawal of SS enhances the GH response to hexarelin, which may reflect simultaneous endogenous GHRH release synergizing with hexarelin. A single cycle of pretreatment with hexarelin during SS infusion is insufficient to allow synthesis and storage of sufficient GH to influence its release following SS withdrawal. These findings add further to the data already gathered about GHRPs and their complex interaction with the main regulators of GH secretions."
+  },
+  {
+   "pmid": "10824712",
+   "titel": "Role of food intake in the modulation of hexarelin-induced growth hormone release in normal human subjects",
+   "jahr": "2000",
+   "journal": "Horm Metab Res",
+   "erstautor": "De Marinis L",
+   "doi": "10.1055/s-2007-978611",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article"
+   ],
+   "abstract": "Hexarelin (HEX) is a new synthetic analog of the Growth Hormone releasing peptides and is stronger than GHRH in releasing GH in vivo. No information is available on the effect of food ingestion on HEX-induced GH secretion. On the other hand, we have previously demonstrated that food intake at lunchtime in normal subjects has an inhibitory effect on the GH response to GHRH. The aim of the present study was to investigate the effect of food ingestion on GH secretion induced by HEX as compared to GHRH in six normal men (aged 23-29 years) and six normal women (aged 24-29 years). The body weights for all subjects were within 120% of their ideal body weight, according to their sex and age. Our data confirm that HEX is much more powerful than GHRH in inducing GH release in humans, both in the fasting state (GH-AUC: 3010 +/- 695 after HEX, vs. 1339 +/- 281 after GHRH, microg/L/120 min; p<0.06) and after a meal (GH-AUC: 1523 +/- 121, after HEX, vs. 309 +/- 61, after GHRH, microg/L/120 min; p<0.06). Moreover, our study shows that food intake partially blunts the fasting GH response to HEX (GH-AUC: 3010 +/- 695 after HEX, in fasting state, vs. 1523 +/- 121 after HEX, after meal, microg/L/120 min; p<0.06; mean inhibition of AUC 41.02 +/- 7.96%), whereas it nearly abolishes the GH response to GHRH in the same subjects (GH-AUC: 1339 +/- 281 after GHRH, in fasting state, vs. 309 +/- 61 after GHRH, after meal, microg/L/120 min; p<0.06; mean inhibition of AUC 70.31 +/- 6.22%). In conclusion, our study confirms that HEX acts differently from GHRH; the GH releasing effect of HEX could be only partially influenced by the physiological metabolic or neuroendocrine food-related modifications."
+  },
+  {
+   "pmid": "9404449",
+   "titel": "Low hexarelin dose and pyridostigmine have additive effect and potentiate to the same extent the GHRH-induced GH response in man",
+   "jahr": "1997",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Arvat E",
+   "doi": "10.1046/j.1365-2265.1997.3081114.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVES: Hexarelin (HEX) is a synthetic hexapeptide belonging to the growth hormone-releasing peptide (GHRP) family. The exact mechanism underlying the strong GH-releasing activity of GHRPs is still unclear, though it has been shown that they act both at the pituitary and the hypothalamic level, where they have specific receptors. To clarify the influence of the cholinergic system on the GH-releasing activity of GHRPs in man, we investigated the effects of pyridostigmine, a cholinergic agonist which stimulates GH secretion by inhibiting somatostatin release, on the GH response to various HEX doses. DESIGN: We studied the GH release induced by various HEX doses (0.25, 0.5 and 2.0 micrograms/kg i.v.) and pyridostigmine (PD, 120 mg po), both alone and coadministered. The interactions between the lowest HEX dose or PD and the maximally effective GHRH dose (1.0 microgram/kg i.v.) were also studied. SUBJECTS: Six normal male volunteers, aged 24-30 years, were studied. MEASUREMENTS: Serum GH was measured in duplicate by immunoradiometric assay. RESULTS: The GH response to HEX administration was dose-dependent. In fact, the GH response to 0.25 microgram/kg HEX (AUC, mean +/- SEM: 816.4 (235.6 mU/l/120 min) was lower, although not significantly, than that to 0.5 microgram/kg HEX (2154.6 +/- 491.6 mU/l/120 min), which, in turn, was lower (p < 0.05) than that after 2.0 micrograms/kg HEX (4819.2 +/- 668.0 mU/l/120 min). The GH rise after GHRH (1299.2 +/- 222.8 mU/l/120 min) was lower (P < 0.05) than that after 2.0 micrograms/kg HEX, but not different from the responses to either 0.25 or 0.5 microgram/kg HEX. PD induced a significant GH rise (559.0 +/- 129.8 mU/l/120 min, P < 0.05 vs saline), similar to that after 0.25 microgram/kg HEX, and lower than those after both 0.5 and 2.0 micrograms/kg HEX (P < 0.05 and p < 0.01, respectively) and GHRH (p < 0.05). PD pretreatment enhanced the GH response to the lowest HEX dose (1961.4 +/- 253.8 mU/l/120 min, p < 0.05) in an additive way, but failed to modify the GH response to either 0.5 or 2.0 micrograms/kg HEX (2753.6 +/- 444.6 and 5179.0 +/- 770.8 mU/l/120 min, respectively). Notably, the GH response to 0.25 microgram/kg HEX + PD was still lower (P < 0.05) than that to 2.0 micrograms/kg HEX. PD pretreatment as well as 0.25 microgram/kg HEX truly potentiated the GH response to GHRH to the same extent (4926.6 +/- 912.8 mU/l/120 min, p < 0.05 and 5958.8 +/- 750.0 mU/l/120 min, p < 0.05 respectively). The GH responses to PD + GHRH and 0.25 microgram/kg HEX + GHRH were similar to that after 2.0 micrograms/kg HEX alone. CONCLUSIONS: Our results demonstrate that pyridostigmine is able to enhance the GH response only to a very low dose Hexarelin which, in turn, potentiates the GHRH-induced GH rise to the same extent as pyridostigmine. As there is evidence that GHRPs do not inhibit hypothalamic somatostatin release, these findings are consistent with the hypothesis that they act by antagonizing somatostatin activity and/or through unknown factors. On the other hand, though there is evidence showing that GHRH activity is needed for GHRP action, our findings indicate that GHRPs act, at least partially, independently of GHRH."
+  },
+  {
+   "pmid": "10990150",
+   "titel": "Does desensitization to hexarelin occur?",
+   "jahr": "1998",
+   "journal": "Growth Horm IGF Res",
+   "erstautor": "Rahim A",
+   "doi": "10.1016/s1096-6374(98)80039-7",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ],
+   "abstract": "Hexarelin, a potent growth hormone (GH)-releasing peptide, is capable of causing profound GH release in normal individuals. If the GH response to hexarelin in humans becomes appreciably attenuated following long-term administration, this would seriously limit the potential therapeutic use of hexarelin and similar agents. The effect of twice-daily subcutaneous injections of hexarelin on GH release was therefore investigated over a period of 16 weeks in 12 healthy elderly individuals. The mean (+/- SEM) areas under the GH curve (AUCGH) at weeks 0, 1, 4 and 16 were 19.1 +/- 2.4, 13.1 +/- 2.3, 12.3 +/- 2.4 and 10.5 +/- 1.8 microg/l/hour, respectively. There was a significant change in AUCGH over the study period (P = 0.0003). Further analysis showed that the decreases in AUCGH at weeks 4 and 16 were significant (P < 0.05 and P < 0.01, respectively) compared with baseline values. Four weeks after completion of the 16-week study period, hexarelin was again administered. On this occasion, AUCGH increased significantly compared with that at week 16 (from 10.5 +/- 1.8 to 19.4 +/- 3.7 microg/l/hour; P < 0.05) and was not significantly different compared with that at week 0. These results show that attenuation of the GH response after long-term hexarelin therapy is partial and reversible."
+  },
+  {
+   "pmid": "8954038",
+   "titel": "Hexarelin-induced growth hormone, cortisol, and prolactin release: a dose-response study",
+   "jahr": "1996",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Massoud AF",
+   "doi": "10.1210/jcem.81.12.8954038",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "Dose-response data for GH-releasing peptides are limited. We studied the effects of varying doses (0-1.0 microgram/kg) of hexarelin, a novel GH-releasing peptide, administered iv to healthy adult males on GH, PRL, and cortisol release. In addition, we studied the effect of administration of a single dose of GHRH-(1-29)-NH2 (1.0 microgram/kg), alone or in combination with a low dose of hexarelin (0.125 microgram/kg). Dose-response curves for the maximum GH response and maximum percent change in serum PRL and cortisol concentrations from baseline were constructed. The GH dose-response curve reached a plateau of 140 mU/L, corresponding to a hexarelin dose of 1.0 microgram/kg, with an ED50 of 0.48 +/- 0.02 microgram/kg (mean +/- SEM). The PRL dose-response curve reached a plateau of 180% for the maximum percent rise from baseline, corresponding to a hexarelin dose of 1.0 microgram/kg, with an ED50 of 0.39 +/- 0.02 microgram/kg. The cortisol dose-response curve showed a step increase to approximately 40% at a hexarelin dose of 0.5 microgram/kg. The coadministration of GHRH-(1-29)-NH2 (1.0 microgram/kg) and low dose hexarelin (0.125 microgram/kg) resulted in massive GH release (115 +/- 32.8 mU/L), a moderate rise in serum PRL (84.9 +/- 27.5%), and no rise in serum cortisol. These data show that iv hexarelin was capable of inducing GH, PRL, and cortisol release in a dose-dependent manner. Low dose hexarelin was synergistic with GHRH and potent for GH release with a minimal effect on other hormones."
+  },
+  {
+   "pmid": "8548947",
+   "titel": "Hexarelin induced growth hormone release is influenced by exogenous growth hormone",
+   "jahr": "1995",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Massoud AF",
+   "doi": "10.1111/j.1365-2265.1995.tb02927.x",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: Growth hormone releasing peptides (GHRPs) are a group of synthetic compounds capable of releasing GH by an unknown mechanism. The aim of this study was to determine the effect of administering biosynthetic human growth hormone (rhGH) on the GH releasing activity of hexarelin, a new and potent GHRP, and to compare the results with those obtained with growth hormone releasing hormone (GHRH). DESIGN: Boluses of saline or rhGH were administered intravenously, followed 90 minutes later by a second intravenous bolus of saline, hexarelin or GHRH. Studies were performed following an overnight fast. Each subject underwent six studies performed in a random order and separated by at least 2 days. SUBJECTS: Six healthy adult males (23.8-34.3 years) were studied. MEASUREMENTS: Serum GH and IGF-I levels were measured by radioimmunoassay. RESULTS: The peak serum GH response to hexarelin was greater than that to GHRH, irrespective of whether the first bolus was saline (P < 0.05) or rhGH (P < 0.02). Prior administration of rhGH led to a reduction in peak serum GH response to hexarelin or GHRH (P < 0.05); the percentage reduction in response to hexarelin was less than that to GHRH, but this difference was not statistically significant (P = 0.3). There was no change in serum IGF-I concentration before or 90 minutes after the administration of rhGH. CONCLUSIONS: Hexarelin is a potent GH secretagogue subject to partial feedback inhibition by rhGH. This raises issues about its mechanism of action and may have implications for its potential therapeutic use."
+  },
+  {
+   "pmid": "11022186",
+   "titel": "Endocrine activities of alexamorelin (Ala-His-d-2-methyl-Trp-Ala-Trp-d-Phe-Lys-NH2), a synthetic GH secretagogue, in humans",
+   "jahr": "2000",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Broglio F",
+   "doi": "10.1530/eje.0.1430419",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: Peptidyl and non-peptidyl synthetic GH secretagogues (GHS) possess significant GH-, prolactin (PRL)- and ACTH/cortisol-releasing activity after i.v. and even p.o. administration, acting via specific hypothalamo-pituitary receptors in both animals and humans. The hexapeptide hexarelin (HEX) is a paradigmatic GHS whose activities have been widely studied in humans. The heptapeptide Ala-His-d-2-methyl-Trp-Ala-Trp-d-Phe-Lys-NH(2) (alexamorelin, ALEX) is a new synthetic molecule which inhibits GHS binding in vitro, but its endocrine activity has never been studied in humans. DESIGN: In six young adults we studied the effects of 1.0 and 2.0 microgram/kg i.v. ALEX or HEX on GH, PRL, ACTH, cortisol and aldosterone levels and those of 20mg p.o. ( approximately 300 microgram/kg) on GH levels. RESULTS: Basal GH, PRL, ACTH, cortisol and aldosterone levels in all testing sessions were similar. ALEX and HEX (1.0 and 2.0 microgram/kg i.v.) induced the same dose-dependent increase of GH and PRL levels. Both ALEX and HEX induced a dose-dependent increase of ACTH and cortisol levels. The ACTH and cortisol responses to the highest ALEX dose were significantly higher than those after HEX. Aldosterone levels significantly increased after both i.v. ALEX doses, but not after HEX. The GH response to 20mg p.o. ALEX was higher, though not significantly, than that to the same HEX dose. CONCLUSION: ALEX, a new GHS, shows the same GH-releasing activity as HEX. On the other hand, ALEX seems endowed with an ACTH-releasing activity more marked than that of HEX; this evidence could explain the significant increase of aldosterone levels after its i.v. administration."
+  },
+  {
+   "pmid": "10342360",
+   "titel": "Acute cardiovascular and hormonal effects of GH and hexarelin, a synthetic GH-releasing peptide, in humans",
+   "jahr": "1999",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Bisi G",
+   "doi": "10.1007/BF03343555",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Reduced cardiac mass and performances are present in GH deficiency and are counteracted by rhGH replacement. GH and IGF-I possess specific myocardial receptors and have been reported able to exert an acute inotropic effect. Synthetic GH secretagogues (GHS) possess specific pituitary and hypothalamic but even myocardial receptors. In 7 male volunteers, we studied cardiac performance by radionuclide angiocardiography after iv administration of rhGH or hexarelin (HEX), a peptidyl GHS. The administration of rhGH or HEX increased circulating GH levels to the same extent (AUC: 1594.6+/-88.1 vs 1739.3+/-262.2 microg/l/min for 90 min) while aldosterone and catecholamine levels did not change; HEX, but not rhGH, significantly increased cortisol levels. Left ventricular ejection fraction (LVEF), mean blood pressure (MBP) and heart rate (HR) were unaffected by rhGH (62.4+/-2.1 vs 62.1+/-2.3%, 90.6+/-3.4 vs 92.0+/-2.5 mm Hg, 62.3+/-1.8 vs 66.7+/-2.7 bpm). HEX increased LVEF (70.7+/-3.0 vs 64.0+/-1.5%, p<0.03) without significant changes in MBP and HR (92.8+/-4.7 vs 92.4+/-3.2 mm Hg, 63.1+/-2.1 vs 67.0+/-2.9 bpm). LVEF significantly raised at 15 min, peaked at 30 min and lasted up to 60 min after HEX. These findings suggest that in man, the acute administration of Hexarelin exerts a short-lasting, positive inotropic effect. This effect seems GH-independent and might be mediated by specific GHS myocardial receptors."
+  },
+  {
+   "pmid": "8719303",
+   "titel": "GH responsiveness to repeated GHRH or hexarelin administration in normal adults",
+   "jahr": "1995",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Sartorio A",
+   "doi": "10.1007/BF03349794",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "GH responses, calculated as the net incremental area under the curve (GH nAUC/h), to two consecutive 1 microgram/kg/bw iv GHRH boluses (administered at 0 and 120 min, test a), to one 1 microgram/kg/bw iv GHRH bolus followed by a 1 microgram/kg/bw iv hexarelin bolus (administered at 0 and 120 min respectively, test b) and to two consecutive 1 microgram/kg/bw iv hexarelin boluses (administered at 0 and 120 min, test c) were evaluated in 6 normal adults. The first GHRH injection caused a clear rise in serum GH levels in all subjects (mean GH nAUC/h, test a: 832.1 +/- 59.4 ng/ml/h, range: 723.7-1074.0 ng/ml/h; test b: 859.2 +/- 122.9 ng/ml/h, range 618.0-1422.7 ng/ml/h). Hexarelin administration elicited a marked GH release (test c: 1424 +/- 208.2 ng/ml/h, range: 810.0-2154.0 ng/ml/h), which was significantly higher than those observed after GHRH (vs test a: p < 0.02, vs test b: p < 0.05). After the first GHRH bolus, the second GHRH injection (test a) was unable to sustain GH elevated levels (mean GH nAUC: 74.5 +/- 26.5 ng/ml/h, range: 9.7-182.2 ng/ml/h), while hexarelin administration (test b) caused a clear GH rise in all subjects (GH nAUC: 1049.7 +/- 105.2 ng/ml/h, range: 786.0-1356.0 ng/ml/h). Repeated hexarelin administration (test c) was associated with a significant (p < 0.02) reduction of GH responses to the second bolus (286.6 +/- 43.1 ng/ml/h), which were however significantly higher than those observed after the second GHRH bolus (p < 0.05). In conclusion, these results demonstrate that repeated hexarelin administration causes a reduction of GH responsiveness, which is less marked than that induced by repeated GHRH administration, probably due to the more potent GH-releasing effect of hexarelin. Moreover, when administered after GHRH, hexarelin has a sustained GH-releasing effect in contrast to the poor efficacy of GHRH, thus suggesting that the acute effect of hexarelin is probably not mediated through hypothalamic GHRH pathways."
+  },
+  {
+   "pmid": "7957536",
+   "titel": "Growth hormone-releasing activity of hexarelin in humans. A dose-response study",
+   "jahr": "1994",
+   "journal": "Eur J Clin Pharmacol",
+   "erstautor": "Imbimbo BP",
+   "doi": "10.1007/BF00191904",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Hexarelin is a new hexapeptide (His-D-2-methyl-Trp-Ala-Trp-D-Phe-Lys-NH2) that stimulates the release of growth hormone both in vitro and in vivo. In this double-blind, placebo-controlled, rising-dose study we evaluated the growth hormone releasing activity of hexarelin in healthy human subjects. Twelve adult male volunteers received single intravenous boluses of 0.5, 1 and 2.micrograms.kg-1 hexarelin as well as placebo. For safety, drug doses were given in a rising-dose fashion with placebo randomly inserted into the sequence. Plasma growth hormone concentrations increased dose-dependently after the injection of the peptide, peaking at about 30 min and then decreasing to baseline values within 240 min with a half-life of about 55 min. The mean peak plasma growth hormone concentrations (Cmax) were 3.9, 26.9, 52.3, 55.0 ng.ml-1 after 0, 0.5, 1 and 2 micrograms.kg-1, respectively. The corresponding areas under the curve of growth hormone plasma levels from drug injection to 180 min (AUC0-180) were 0.135, 1.412, 2.918 and 3.695 micrograms.min.ml-1. The theoretical maximum response (Emax) and the dose that produces half of the maximum response (ED50) were estimated using logistic regression. The calculated ED50 values were 0.50 and 0.64 microgram.kg-1 for Cmax and AUC0-180, respectively. The corresponding Emaxs were 55.1 ng.ml-1 and 3936 ng.min.ml-1, thus indicating that the effect after the 2 micrograms.kg-1 dose is very close to the maximal response.(ABSTRACT TRUNCATED AT 250 WORDS)"
+  },
+  {
+   "pmid": "12809173",
+   "titel": "GHRP-6 is able to stimulate cortisol and ACTH release in patients with Cushing's disease: comparison with DDAVP",
+   "jahr": "2003",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Oliveira JH",
+   "doi": "10.1007/BF03345162",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "It has been shown that hexarelin stimulates ACTH and cortisol secretion in patients with Cushing's disease. The ACTH release induced by this peptide is 7-fold greater than that obtained by hCRH. The mechanism of action of hexarelin on the hypothalamic-pituitary-adrenal axis has not been fully elucidated. Although controversial, there is evidence that it might be mediated by arginine vasopressin (AVP). The aim of this study was to evaluate the ACTH and cortisol releasing effects of GHRP-6 in patients with Cushing's disease and to compare them with those obtained with DDAVP administration. We studied 10 patients with Cushing's disease (8 female, 2 male; age: 36.7 +/- 4.2 yr), 9 with microadenomas, who were submitted to both GHRP-6 (2 microg/kg iv) and DDAVP (10 micro g i.v.) in bolus administration on 2 separate occasions. ACTH was measured by immunochemiluminometric assay and cortisol by radioimmunoassay. The sensitivities of the assays are 0.2 pmol/l for ACTH, and 11 nmol/l for cortisol. GHRP-6 was able to increase significantly both ACTH (pmol/l, mean +/- SE; basal: 15.5 +/- 1.7 vs peak: 45.1 +/- 9.3) and cortisol values (nmol/l, basal: 583.0 +/- 90.8 vs peak: 1013.4 +/- 194.6). ACTH AUC (pmol/l min(-1)) and cortisol AUC (nmol/l min(-1)) values were 1235.4 and 20577.2, respectively. After DDAVP administration there was a significant increase in ACTH (basal: 13.0 +/- 1.4 vs peak: 50.5 +/- 16.2) and cortisol levels (basal: 572.5 +/- 112.7 vs peak: 860.5 +/- 102.8. AUC values for ACTH and cortisol were 1627.6 +/- 639.8 and 18364.7 +/- 5661.4, respectively. ACTH and cortisol responses to GHRP-6 and DDAVP did not differ significantly (peak: 45.1 +/- 9.3 vs 50.5 +/- 16.2; AUC: 1235.4 +/- 424.8 vs 1627.6 +/- 639.8). There was a significant positive correlation between peak cortisol values after GHRP-6 and DDAVP administration (r = 0.87, p = 0.001). Our results show that GHRP-6 is able to stimulate ACTH and cortisol release in patients with Cushing's disease. These responses are similar to those obtained after DDAVP injection. These findings could suggest the hypothesis that both peptides act by similar mechanisms, either at hypothalamic or pituitary level."
+  },
+  {
+   "pmid": "8762732",
+   "titel": "The effect of repeated administration of hexarelin, a growth hormone releasing peptide, and growth hormone releasing hormone on growth hormone responsivity",
+   "jahr": "1996",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Massoud AF",
+   "doi": "10.1046/j.1365-2265.1996.722543.x",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "OBJECTIVE: Hexarelin is a synthetic six-amino-acid compound capable of releasing GH in animals and in man. Its mechanism of action is not understood and little is known about the GH response after repeated administration. The aim of this study was to determine the GH response to the administration of two intravenous boluses of hexarelin, growth hormone releasing hormone (GHRH) or hexarelin with GHRH. DESIGN: Single boluses of hexarelin (1 microgram/kg), GHRH-(1-29)-NH2 (1 microgram/kg) or hexarelin with GHRH-(1-29)-NH2 were administered intravenously. Each study was performed on two further occasions, with a second bolus being administered 60 or 120 minutes after the first. A control study was performed giving saline intravenously. Studies were performed in a random order. SUBJECTS: Six healthy adult males (25.4-34.1 years) were studied. MEASUREMENTS: Serum GH was measured by radioimmunoassay. GH secretion rates were derived from the measured serum GH concentrations using the technique of deconvolution analysis. RESULTS: The peak GH secretion rate following the first intravenous bolus of hexarelin was greater than that following the first bolus of GHRH-(1-29)-NH2 (P < 0.001), and was greatest following the administration of hexarelin with GHRH-(1-29)-NH2 (P < 0.001). The coadministration of the two secretagogues resulted in peak GH secretion rates significantly greater than the arithmetic sum of those following their isolated administration (P = 0.001), demonstrating synergism. Compared to saline, the administration of a second bolus of hexarelin, GHRH-(1-29)-NH2 or both resulted in significant further GH secretion (P = 0.02, P = 0.002, P = 0.03, respectively). The administration of a second bolus of hexarelin or hexarelin with GHRH-(1-29)-NH2 120 minutes after the first bolus resulted in lower peak GH secretion rates (P = 0.03). The reductions in peak GH secretion rates following the 60-minute boluses were not statistically significant. The peak GH secretion rates following the first GHRH-(1-29)-NH2 boluses were similar to those following the 60 and 120-minute GHRH-(1-29)-NH2 boluses (P = NS). Irrespective of the interval between the boluses of hexarelin with GHRH-(1-29)-NH2, the peak GH secretion rates following the second boluses were not significantly different from the arithmetic sum of those following the administration of the second boluses of hexarelin or GHRH-(1-29)-NH2, indicating loss of synergism on repeated administration. CONCLUSION: This study shows that hexarelin is a potent GH secretagogue active after two successive doses; the magnitude of the GH response to the second dose was influenced by the dosing interval. Hexarelin and GHRH-(1-29)-NH2 are synergistic, a property which is lost after repeated administration. These findings may help our understanding of GHRPs and may have implications for the potential use of hexarelin and other GHRPs as therapeutic agents."
+  },
+  {
+   "pmid": "10404825",
+   "titel": "The growth hormone secretagogue hexarelin stimulates the hypothalamo-pituitary-adrenal axis via arginine vasopressin",
+   "jahr": "1999",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Korbonits M",
+   "doi": "10.1210/jcem.84.7.5811",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "GH secretagogues (GHSs) act via specific receptors in the hypothalamus and the pituitary gland to release GH. GHSs also stimulate the hypothalamo-pituitary-adrenal (HPA) axis via central mechanisms probably involving CRH or arginine vasopressin (AVP). We studied the effects of hexarelin, CRH, and desmopressin, an AVP analog, on the stimulation of the HPA axis in 15 healthy young male volunteers. Circulating ACTH, cortisol, GH and PRL concentrations were measured for 2 h after the injection of hexarelin, CRH, or desmopressin alone and the combination of hexarelin plus CRH or hexarelin plus desmopressin. Symptoms during the tests were assessed by visual analog scales. Hexarelin significantly increased ACTH and cortisol release (area under the curve, 3,444+/-696 ng/L x 125 min and 45,844+/-2,925 nmol/L x 125 min, respectively), and this effect was augmented by the addition of CRH in a dose that on its own produces maximal stimulation (6,580+/-1,572 ng/mL x 125 min and 63,170+/-2,616 nmol/L x 125 min; P = 0.01 and 0.001, respectively), but was not influenced by the addition of desmopressin (3,540+/-852 ng/mL x 125 min and 35,319+/-3,252 nmol/L x 125 min; not significant). CRH on its own caused similar or slightly higher ACTH and cortisol release than hexarelin alone. Desmopressin given alone elicited a rapid rise in circulating ACTH and cortisol, but its effects were less than those of any other treatment and were not augmented by hexarelin. Hexarelin also caused significant GH and PRL release, but these effects were not influenced by the coadministration of CRH or desmopressin. Visual analog scales showed an acute small increment in appetite with hexarelin. Our data suggest that the effect of GHSs on the HPA axis involve at least in part the stimulation of AVP release. In summary, we have shown that in healthy male volunteers, the effect of hexarelin on the HPA axis does not involve CRH, but may occur through the stimulation of AVP release."
+  },
+  {
+   "pmid": "15177700",
+   "titel": "Hexarelin decreases slow-wave sleep and stimulates the secretion of GH, ACTH, cortisol and prolactin during sleep in healthy volunteers",
+   "jahr": "2004",
+   "journal": "Psychoneuroendocrinology",
+   "erstautor": "Frieboes RM",
+   "doi": "10.1016/S0306-4530(03)00152-5",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Ghrelin, the endogenous ligand of the growth hormone (GH) secretagogue (GHS) receptor and some GHSs exert different effects on sleep electroencephalogram (EEG) and sleep-related hormone secretion in humans. Similar to GH-releasing hormone (GHRH) ghrelin promotes slow-wave sleep in humans, whereas GH-releasing peptide-6 (GHRP-6) enhances stage 2 nonrapid-eye movement sleep (NREMS). As GHRP-6, hexarelin is a synthetic GHS. Hexarelin is superior to GHRH and GHRP-6 in stimulating GH release. The influence of hexarelin on sleep-endocrine activity and the immune system is unknown. We investigated simultaneously the sleep EEG and nocturnal profiles of GH, ACTH, cortisol, prolactin, leptin, tumor necrosis factor (TNF)-alpha, and soluble TNF-alpha receptors in seven young normal volunteers after repetitive administration of 4 x 50 microg hexarelin or placebo at 22.00, 23.00, 24.00 and 01.00 h. Following hexarelin, stage 4 sleep during the first half of the night, and EEG delta power during the total night decreased significantly. Significant increases of the concentrations of GH and prolactin during the total night, and of ACTH and of cortisol during the first half of the night were found. Leptin levels, TNF-alpha and soluble TNF receptors remained unchanged. We hypothesize that sleep is impaired after hexarelin since the GHRH/corticotropin-releasing hormone (CRH) ratio is changed in favour of CRH. There are no hints for an interaction of hexarelin and the immune system."
+  },
+  {
+   "pmid": "11238504",
+   "titel": "Endocrine activities of ghrelin, a natural growth hormone secretagogue (GHS), in humans: comparison and interactions with hexarelin, a nonnatural peptidyl GHS, and GH-releasing hormone",
+   "jahr": "2001",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Arvat E",
+   "doi": "10.1210/jcem.86.3.7314",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "An endogenous ligand for the GH secretagogue-receptor (GHS-receptor) has recently been isolated, from both the rat and the human stomach, and named ghrelin. It is a 28-amino-acid peptide showing a unique structure with an n-octanoyl ester at its third serine residue, which is essential for its potent stimulatory activity on somatotroph secretion. In fact, it has been demonstrated that ghrelin specifically stimulates GH secretion from both rat pituitary cells in culture and rats in vivo. The aim of the present study was to test the GH-releasing activity of ghrelin in humans and to compare it with that of GHRH and hexarelin (HEX), a nonnatural peptidyl GHS, which possesses strong GH-releasing activity but also significantly stimulates PRL, ACTH, and cortisol secretion. To clarify the mechanisms of action underlying the GH-releasing activity of ghrelin in humans, its interaction with GHRH and HEX was also studied. Seven normal young volunteers (7 men; 24-32 yr old; body mass index, 20-24 kg/m(2)) were studied. All subjects underwent the administration of ghrelin, HEX, and GHRH-29 (1.0 microg/kg i.v. at 0 min) as well as placebo (2 mL isotonic saline i.v. at 0 min). Six subjects also underwent the combined administration of ghrelin and GHRH or HEX. Blood samples were taken every 15 min from -15 up to +180 min. GH levels were assayed at each time point in all sessions; PRL, ACTH, cortisol, and aldosterone levels were also assayed after administration of ghrelin and/or HEX. Ghrelin administration induced a prompt and marked increase in circulating GH levels (Cmax, mean +/- SEM, 92.1 +/- 16.7 microg/L; area under the curve, 1894.9 +/- 347.8 microg/L.h). The GH response to ghrelin was clearly higher (P < 0.01) than the one recorded after GHRH (26.7 +/- 8.7 microg/L; 619.6 +/- 174.4 microg/L.h) and even significantly higher (P < 0.05) than after HEX (68.4 +/- 14.7 microg/L; 1546.9 +/- 380.0 microg/L x h). Ghrelin administration also induced an increase in PRL, ACTH, and cortisol levels; these responses were higher (P < 0.05) than those elicited by HEX. A significant increase in aldosterone levels was recorded after ghrelin but not after HEX. The endocrine responses to ghrelin were not modified by the coadministration of HEX. On the other hand, the coadministration of ghrelin and GHRH had a real synergistical effect (P < 0.05) on GH secretion (133.6 +/- 22.5 microg/L; 3374.3 +/- 617.3 microg/L x h). In conclusion, ghrelin, a natural ligand of GHS-receptor, exerts a strong stimulatory effect on GH secretion in humans, releasing more GH than GHRH and even more than a nonnatural GHS such as HEX. Ghrelin, as well as HEX, also stimulates lactotroph and corticotroph secretion. Ghrelin shows no interaction with HEX, whereas it has a synergistical effect with GHRH on GH secretion. Thus, ghrelin is a new hormone playing a major role in the control of somatotroph secretion in humans, and its effects are imitated by nonnatural GHS."
+  },
+  {
+   "pmid": "7584696",
+   "titel": "Short term effect of intranasal administration of hexarelin--a synthetic growth hormone-releasing peptide. Preliminary communication",
+   "jahr": "1995",
+   "journal": "J Pediatr Endocrinol Metab",
+   "erstautor": "Frenkel J",
+   "doi": "10.1515/jpem.1995.8.1.43",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ],
+   "abstract": "Twice or three times daily intranasal administration of the hexapeptide hexarelin for 7 days to children with short stature and normal growth hormone (GH) secretion evoked a significant rise in serum levels of insulin-like growth factor-1 (IGF-1) and alkaline phosphatase. There was also a significant, within normal limits, rise of thyroid stimulating hormone (TSH) without evidence of thyroxine suppression."
+  },
+  {
+   "pmid": "11078983",
+   "titel": "Interaction between glucagon and hexarelin, a peptidyl GH secretagogue, on somatotroph and corticotroph secretion in humans",
+   "jahr": "2000",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Arvat E",
+   "doi": "10.1530/eje.0.1430601",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: Glucagon administration stimulates both somatotroph and corticotroph secretion in humans, although this happens only if glucagon is administered by the intramuscular route and not by the intravenous route. On the other hand, GH secretagogues (GHS) strongly stimulate GH and also possess ACTH-releasing activity. DESIGN AND METHODS: To clarify the mechanisms underlying the stimulatory effects of both glucagon and GHS on somatotroph and corticotroph secretion, we studied the GH, ACTH and cortisol responses to glucagon (GLU, 0.017 mg/kg i.m.) and Hexarelin, a peptidyl GHS (HEX, 2.0 microg/kg i.v.) given alone or in combination in 6 normal young volunteers (females, aged 26-32 years, body mass index 19.7-22.5 kg/m). RESULTS: GLU administration elicited a clear increase in GH (peak vs baseline, mean+/-S.E.M.: 11.6+/-3.4 vs 3. 3+/-0.7 microg/l, P<0.02), ACTH (11.6+/-3.3 vs 4.1+/-0.3 pmol/l, P<0. 02) and cortisol (613.5+/-65.6 vs 436.9+/-19.3 nmol/l, P<0.05) levels. HEX induced a marked increase in GH levels (55.7+/-19.8 vs 3. 7+/-1.9 microg/l, P<0.005) and also significant ACTH (5.7+/-1.1 vs 3. 4+/-0.6 pmol/l, P<0.01) and cortisol (400.2+/-31.4 vs 363.4+/-32.2 nmol/l, P<0.05) responses. The GH area under the curve (AUC) after HEX was clearly higher than after GLU (1637.3+/-494.0 vs 479.1+/-115. 7 microg/l/120 min, P<0.04) while HEX and GLU coadministration had a true synergistic effect on GH release (3243.8+/-687.5 microg/l/120 min, P<0.02). The ACTH and cortisol AUCs after HEX were lower (P<0. 02) than those after GLU (208.3+/-41.3 vs 426.3+/-80.9 pmol/l/120 min and 18 874.5+/-1626.1 vs 28 338.5+/-2430.7 nmol/l/120 min respectively). The combined administration of HEX and GLU had an effect which was less than additive on both ACTH (564.02+/-76.5 pmol/l/120 min) and cortisol (35 424.6+/-5548.1 nmol/l/120 min) secretion. CONCLUSIONS: These results show that the intramuscular administration of glucagon releases less GH but more ACTH and cortisol than Hexarelin. The combined administration of glucagon and Hexarelin has a true synergistic effect on somatotroph secretion but a less than additive effect on corticotroph secretion; these findings suggest that these stimuli act via different mechanisms to stimulate somatotrophs while they could have a common action on the hypothalamo-pituitary-adrenal axis."
+  },
+  {
+   "pmid": "8766941",
+   "titel": "Desensitization from long-term intranasal treatment with hexarelin does not interfere with the biological effects of this growth hormone-releasing peptide in short children",
+   "jahr": "1996",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Klinger B",
+   "doi": "10.1530/eje.0.1340716",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "A clinical, prospective experiment was carried out to determine whether long-term intranasal administration of the growth hormone-releasing peptide hexarelin (His-D-2-methyl-Trp-Ala-Trp-D-Phe -Lys-NH2) affects pituitary growth hormone secretion. Hexarelin (60 micrograms/kg t.i.d.) was administered to seven prepubertal constitutionally short children (mean age +/- SD = 7.6 +/- 2.4 years). Serum human growth hormone (hGH) response to an intranasal (20 micrograms/kg) and i.v. (1 mircogram/kg) bolus of hexarelin before, during and after 6-10 months of treatment was measured. The mean ( +/- SD) peak rise of hGH to the intranasal bolus before treatment was 70.6 +/- 28.2 mU/l. After 7 days of hexarelin treatment, mean peak values dropped to 34.1 +/- 15.7 mU/l (p < 0.002) and thereafter remained constant for 6 months of treatment at 37.5 +/- 10.3 mU/l (p < 0.03). The pretreatment peak to th i.v. hexarelin bolus was 84.8 +/- 52.5 mU/l, and at the end of the treatment period it was 19.8 +/- 10.9 mU/l (p < 0.05). Three months after stopping treatment the mean ( +/- SD) hGH response rose to 42.1 +/- 4.7 mU/l (p < 0.005). Growth velocity increased from 5.3 +/- 0.9 cm/year (before treatment) to 7.4 +/- 1.6 cm/year at 6-10 months of treatment (p < 0.005). In conclusion, teh partial suppression of pituitary hGH responsiveness to long-term intranasal hexarelin treatment, probably due to desensitization, does not affect the observed increase in growth velocity."
+  },
+  {
+   "pmid": "7586608",
+   "titel": "The effect of an opiate antagonist on the hormonal changes induced by hexarelin",
+   "jahr": "1995",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Korbonits M",
+   "doi": "10.1111/j.1365-2265.1995.tb02045.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "OBJECTIVE: Growth hormone-releasing peptides (GHRPs) stimulate growth hormone (GH) release in vitro and in vivo in animals and in humans. GHRPs were developed by modification of the structure of met-enkephalin but GHRP-6 does not activate opiod receptors in animal studies. These agents may well have diagnostic and/or long-term therapeutic potential in the future so their effects on opiod receptors need to be clarified in humans as well. Hexarelin is a recently developed six amino acid residue GHRP. DESIGN: We have investigated the effects of 100 micrograms/kg i.v. dose of the opiate antagonist naloxone and 2 micrograms/kg i.v. hexarelin or placebo on serum GH, prolactin, TSH, cortisol and plasma ACTH in 12 healthy volunteers in a double-blind, randomized trial. RESULTS: Hexarelin significantly stimulated the peak serum levels and area under the curve for circulating GH and this effect was not modulated by naloxone. Hexarelin also caused significant elevation of circulating prolactin, cortisol and ACTH but did not influence circulating TSH levels. The effect of naloxone on cortisol and ACTH was stimulatory, while it did not influence prolactin, GH and TSH levels. The effect of the two drugs together on cortisol and ACTH was less than additive. CONCLUSIONS: This study confirms that the activation of opiate receptors does not play a role in the GH-releasing effect of growth hormone-releasing peptides in humans."
+  },
+  {
+   "pmid": "7962341",
+   "titel": "Arginine and growth hormone-releasing hormone restore the blunted growth hormone-releasing activity of hexarelin in elderly subjects",
+   "jahr": "1994",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Arvat E",
+   "doi": "10.1210/jcem.79.5.7962341",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Although both spontaneous and stimulated GH secretion undergo an age-related decline, the secretory capacity of somatotrope cells is preserved in human aging. In the present study we compared the GH responses to hexarelin, GHRH, and the combined administration of hexarelin and GHRH or arginine in young and elderly subjects. Thirteen young (24- to 30-yr-old) and 16 elderly (65- to 84-yr-old) normal males were divided into 2 groups. The first group (7 young and 8 elderly subjects) received the following as single iv injections during 3 different treatment sessions: hexarelin (2 micrograms/kg), GHRH (2 micrograms/kg), or hexarelin (2 micrograms/kg) plus GHRH (2 micrograms/kg). The second group (6 young and 8 elderly subjects) was administered single iv injections of hexarelin (2 micrograms/kg) or hexarelin (2 micrograms/kg) plus arginine (0.5 g/kg) during 2 different treatment sessions. In both groups basal IGF-I levels in the elderly were lower than those in young subjects (114.5 +/- 18.7 vs. 211.5 +/- 19.1 micrograms/L; P < 0.001). In the first group the GH response to hexarelin was greater in young compared to elderly subjects (area under the curve from 0-120 = 4849 +/- 601 vs. 2112 +/- 683 micrograms.min/L; P < 0.001). GHRH elicited a lower GH response than that induced by hexarelin in both young (1455 +/- 102 micrograms/h.L; P < 0.02) and elderly subjects (563 +/- 87 micrograms/min.L; P < 0.02). GHRH potentiated the somatotrope response to hexarelin in both young (7725 +/- 503 micrograms/min.L; P < 0.02) and elderly subjects (3895 +/- 612 micrograms/min.L; P < 0.02), but to a lesser extent in the latter (P < 0.001). In the second group, the GH response induced by hexarelin was also higher in young subjects than in elderly subjects (4819 +/- 668 vs. 1649 +/- 459 micrograms/min.L; P < 0.001). The GH response to hexarelin was potentiated by arginine in elderly (4139 +/- 1057 micrograms/min. L; P < 0.001), but not in young subjects (4743 +/- 774 micrograms/min.L). This study shows that the maximal effective dose of hexarelin releases more GH than the maximal effective dose of GHRH in both normal young and elderly subjects. The effect of hexarelin on GH secretion is age dependent, and the GH response to the combined administration of hexarelin and GHRH was significantly higher in young subjects compared to elderly subjects. Arginine does not potentiate the GH response to hexarelin in young subjects, whereas it significantly enhances it in elderly subjects.(ABSTRACT TRUNCATED AT 400 WORDS)"
+  },
+  {
+   "pmid": "9430449",
+   "titel": "Hexarelin, a synthetic growth-hormone releasing peptide, shows no interaction with corticotropin-releasing hormone and vasopressin on adrenocorticotropin and cortisol secretion in humans",
+   "jahr": "1997",
+   "journal": "Neuroendocrinology",
+   "erstautor": "Arvat E",
+   "doi": "10.1159/000127269",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "Hexarelin (HEX) is a synthetic growth-hormone-releasing peptide (GHRP) which acts via specific receptors at both the pituitary and the hypothalamic level to stimulate GH release both in animals and in man. Like other GHRPs, HEX possesses also significant prolactin- and adrenocorticotropin (ACTH) cortisol-releasing activity, but the mechanisms underlying these effects are even less clear. To clarify the mechanisms by which HEX stimulates the pituitary-adrenal axis in man, in 7 healthy young volunteers we studied the effects of HEX (2.0 microg/kg i.v.) and/or human corticotropin-releasing hormone (hCRH; 2.0 microg/kg i.v.) and/or arginine vasopressin (AVP; 0.17 U/kg i.m.) on ACTH and cortisol secretion. The GH responses to HEX alone and combined with hCRH and/or AVP were also studied. HEX increased ACTH and cortisol secretion (peak, mean +/- SEM: 26.3 +/- 5.1 vs. 15.8 +/- 3.1 pg/ml and 145.0 +/- 11.4 vs. 131.7 +/- 11.7 microg/l, p < 0.01, respectively) to levels overlapping with those induced by AVP (27.9 +/- 6.1 vs. 13.1 +/- 3.5 pg/ml and 167.6 +/- 16.2 vs. 113.3 +/- 9.4 microg/l, p < 0.01, respectively) and similar to those elicited by hCRH (28.1 +/- 4.6 vs. 17.4 +/- 3.1 pg/ml and 182.7 +/- 22.8 vs. 114.8 +/- 12.3 microg/l, p < 0.02, respectively). The ACTH but not the cortisol response to hCRH was higher (p < 0.02) than those to HEX when evaluated as area under the curve. The co-administration of HEX and AVP had no significant interaction on ACTH and cortisol peak levels (40.7 micro 5.3 pg/ml and 168.8 +/- 13.5 microg/l, respectively). On the other hand, the co-administration of HEX and hCRH had a less than additive effect on ACTH and cortisol secretion (53.3 +/- 11.2 pg/ml and 204.0 +/- 13.7 microg/l, respectively). CRH and AVP had a true synergistic effect on ACTH (104.9 +/- 14.2 pg/ml, p < 0.01) and an additive effect on cortisol secretion (281.3 +/- 10.8 microg/l, p < 0.02). HEX did not modify the effect of CRH + AVP on both ACTH (135.5 +/- 22.0 pg/ml) and cortisol secretion (261.1 +/- 13.2 microg/l). The GH response to HEX (55.7 +/- 19.8 vs. 2.7 +/- 1.9 microg/l, p < 0.005) was unaffected by the administration of CRH alone (53.5 +/- 21.0 microg/l) and/or AVP co-administration (60.2 +/- 21.2 and 45.9 +/- 10.6 microg/l, respectively). In conclusion, the results of this study demonstrate that GHRPs, beside their well-known GH-releasing activity, possess a remarkable ACTH-releasing activity, overlapping with that of AVP and similar to that of hCRH, two neurohormones which are known to play the major role in the control of the pituitary-adrenal axis. It is noteworthy that HEX shows no synergistic effect with either AVP or hCRH which, on the other hand, truly synergize. This evidence suggests the hypothesis that the ACTH-releasing activity of GHRPs could be, at least partially, independent of both CRH- and AVP-mediated actions in humans."
+  },
+  {
+   "pmid": "9196598",
+   "titel": "Non-parametric deconvolution provides an objective assessment of GH responsiveness to GH-releasing stimuli in normal subjects",
+   "jahr": "1997",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Sartorio A",
+   "doi": "10.1046/j.1365-2265.1997.8770887.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: Deconvolution analysis has been proposed as an effective method for analysing the physiology of GH secretion. In the literature, it has been applied to spontaneous secretion data characterized by long and uniform sampling paradigms. In the present study we investigated the applicability of non-parametric deconvolution to the analysis of response-to-stimuli (RTS) data characterized by infrequent and non-uniform sampling. PATIENTS: Thirty-six healthy adult male volunteers (age range 24-37 years) were randomly subdivided into two groups (group I, n = 30; group II, n = 6). DESIGN: Subjects of group I were tested with a single 1 microgram/kg body weight GH-releasing hormone (GHRH) bolus, administered at 0 minutes. Subjects of group II were tested, in random order, with a 4- or 5-day interval, with (1) two consecutive 1 microgram/kg body weight GHRH boluses at 0 and 120 minutes and (2) two consecutive 1 microgram/kg body weight hexarelin boluses, administered at 0 and 120 minutes. MEASUREMENTS: GH levels were determined at 0, 15, 30, 45, 60, 90 and 120 minutes (group I) and -30, 0, 15, 30, 45, 60, 120, 135, 150, 165, 180 and 240 minutes (group II). A numerically efficient regularization-based non-parametric deconvolution algorithm incorporating non-negativity constraints was used to estimate the time profile of the instantaneous secretion rate (ISR). Confidence limits allowing for both measurement error and kinetic model uncertainty were computed using a Monte-Carlo procedure. In order to validate the deconvolution method, a simulated benchmark problem was set up. RESULTS: The analysis of the benchmark problem showed that the proposed method is capable of providing an accurate reconstruction of the ISR (as measured by the root mean square (RMS) error). Moreover, it appeared that reliable confidence limits cannot be obtained unless the kinetic model uncertainty is taken into account. The analysis of the data showed a clear rise in the ISR subsequent to the first bolus (either GHRH or hexarelin), with most of the response occurring within 60 minutes of the stimulus. In group I, it was also seen that discarding the samples collected at times 90 and 120 minutes only marginally affected the estimate of the cumulated ISR over 0-60 minutes (the variation was always less than 3%). The analysis of GH responsiveness to repeated stimuli (group II) showed that the amount of hormone secreted after the second bolus was clearly reduced in comparison with the elicited by the first stimulus, most of the response occurring within 60 minutes of the injection. The amount of GH secreted after the second stimulus ranged from 13 to 36% (GHRH 17-36%; hexarelin 13-36%) of the overall amount of hormone secreted after time 0 minutes. CONCLUSIONS: Even with relatively few samples, non-parametric deconvolution of response-to-stimulus data is capable of providing a reliable, smooth and non-negative estimate of the GH instantaneous secretion rate that offers a realistic representation of the GH secretory dynamics. The non-parametric approach compares favourably with respect to discrete deconvolution methods, that yield discontinuous instantaneous secretion rates profiles, and parametric methods that would require more stringent assumptions on the shape of the instantaneous secretion rate. When assessing confidence limits it is essential to take into account both measurement error and kinetic model uncertainty. Using deconvolution in normal subjects, the estimated instantaneous secretion rate between 0 and 60 minutes is scarcely affected by samples taken after time 60 minutes. Since most of the secretory response takes place during this time interval, there is motivation for investigating the use of shorter sampling protocols in conjunction with deconvolution analysis. Although pulse detection and the assessment of the shape of spontaneous pulses have not been investigated, it could be interesting to apply non-parametric deconvolution to spontaneous sec"
+  },
+  {
+   "pmid": "11263473",
+   "titel": "Recombinant human IGF-I does not modify the ACTH and cortisol responses to hCRH and hexarelin, a peptidyl GH secretagogue, in humans",
+   "jahr": "2001",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Gianotti L",
+   "doi": "10.1007/BF03343815",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "An inhibitory influence of insulin-like growth factor-I (IGF-I) on hypothalamus-pituitary-adrenal (HPA) axis has been hypothesized. In fact, it has been reported that the rhGH (recombinant human GH)-induced IGF-I increase inhibits both cortisol and GH response to MK-0677, a non-peptidyl GH secretagogue in animals. The aim of this study was to further clarify the inhibitory role, if any, of IGF-I on corticotroph function. We studied the effect of rhIGF-I (recombinant human IGF-I; 20 microg/kg s.c. at -180 min) or placebo on the ACTH and cortisol responses to hCRH (human CRH; 2.0 microg/kg i.v. at 0 min) or hexarelin (HEX; 2.0 microg/kg i.v. at 0 min), a peptidyl GHS, in normal young women. The effect of rhIGF-I on the GH response to HEX was also studied. The subjects were six normal young women [age: 26-35 yr; body mass index (BMI): 19-23 kg/m2] in their early follicular phase. The results showed that after s.c. rhIGF-I administration, circulating IGF-I levels increased approximately 77%, peaking at -60 min and persisting similar up to +120 min. The mean ACTH, cortisol and GH concentrations did not change from -180 to 0 min when evaluated after both placebo or rhIGF-I. CRH and HEX induced similar ACTH (peak vs baseline, mean+/-SE: 47.5+/-10.9 vs 21.3+/-3.0 pg/ml and 30.3+/-6.9 vs 19.2+/-3.8 pg/ml, respectively; p<0.04) and cortisol responses (177.5+/-5.4 vs 109.3+/-10.3 microg/l and 149.4+/-12.3 vs 119.8+/-16.4 microg/l, respectively, p<0.04). RhIGF-I pretreatment did not modify the ACTH and cortisol responses to hCRH (46.0+/-13.8 pg/ml and 181.1+/-16.9 microg/l, respectively) as well as those to HEX (28.8+/-5.0 pg/ml and 144.1+/-16.2 microg/l, respectively). On the other hand, the GH response to HEX was clearly reduced by rhIGF-I (23.9+/-4.7 vs 64.7+/-14.8 microg/l, p<0.05). Our findings show that rhIGF-I-induced increase of circulating IGF-I levels exerts negative feedback action on somatotroph secretion, while it does not modify the corticotroph and the adrenal responsiveness to CRH or hexarelin."
+  },
+  {
+   "pmid": "15505990",
+   "titel": "There are no acute cardiac effects of a single iv dose of human ghrelin in severe growth hormone deficient patients",
+   "jahr": "2004",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Janssen JA",
+   "doi": "10.1007/BF03347499",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "It has previously been suggested that ghrelin mediates GH-independent biologic activities on the heart. We investigated the acute effects on cardiac contraction of a single iv administration of human ghrelin (in a dose of 1 microg/kg) in severe untreated GH deficient subjects. Prior to the ghrelin infusion, an echocardiographic examination was performed at rest (baseline), after physiologic saline and during dobutamine stress echocardiography (DSE) to exclude a preexisting (subclinical) myocardial dysfunction. To evaluate the acute cardiac effect of infusion and during DSE the velocity of left ventricular (LV) wall contraction was measured continuously by echocardiography. Despite severe GH deficiency we observed in all subjects a normal cardiac function at rest after physiologic saline and during DSE. No acute changes in cardiac performance or cardiac parameters could be observed after a single iv dose of ghrelin. Also, no important increase in GH secretion was detected after ghrelin administration. Our study suggests that, in contrast to hexarelin, a single iv administration of ghrelin in a physiological dose has no acute effects on cardiac function in severe GH deficiency. This suggests that GH-independent effects of ghrelin play no important role in the acute regulation of cardiac function in man."
+  },
+  {
+   "pmid": "9920097",
+   "titel": "Effects of recombinant human insulin-like growth factor I administration on growth hormone (GH) secretion, both spontaneous and stimulated by GH-releasing hormone or hexarelin, a peptidyl GH secretagogue, in humans",
+   "jahr": "1999",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Ghigo E",
+   "doi": "10.1210/jcem.84.1.5386",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The negative feedback exerted by insulin-like growth factor I (IGF-I) on GH secretion occurs at the pituitary, as well as the hypothalamic level, via stimulation of SS and/or inhibition of GHRH release. In fact, recombinant human IGF-I (rhIGF-I) administration inhibits basal GH secretion, at least in fasted humans, though its effect on the GH response to GHRH is still controversial. GH secretagogues (GHS) are peptidyl and nonpeptidyl molecules that act on specific receptors at the pituitary and/or the hypothalamic level. Contrary to GHRH, the GH-releasing activity of GHS is strong, reproducible, and even partially refractory to inhibitory influences such as exogenous somatostatin. We studied the effects of rhIGF-I administration (20 microg/kg s.c. at 0 min) on GH secretion, either spontaneous or stimulated by GHRH (2 microg/kg i.v. at +180 min) or Hexarelin (HEX, 2.0 microg/kg i.v at +180 min), a GHS, in eight normal young women (age, mean +/- SEM, 28.3 +/- 1.2 yr; body mass index, 20.1 +/- 0.5 kg/m2). rhIGF-I administration increased IGF-I levels (peak vs. baseline: 420.3 +/- 30.5 vs. 274.4 +/- 25.3 microg/L, P < 0.05) within the physiological range from +120 to +300 min. No variation in glucose or insulin levels was recorded. rhIGF-I did not reduce spontaneous GH secretion [areas under curves (AUC)(0-300 min) 140.6 +/- 66.3 vs. 114.6 +/- 32.1 microg/L x h], whereas it inhibited the GH response to both GHRH (AUC(180-300 min) 447.7 +/- 159.4 vs. 715.9 +/- 104.3 microg/L x h, P < 0.05) and HEX (620.3 +/- 110.4 vs. 1705.9 +/- 328.9 microg/L x h, P < 0.03). The percent inhibitory effect of rhIGF-I on the GH response to GHRH (41.7 +/- 12.8%) was lower than that on the response to HEX (57.7 +/- 11.0%). In fact, the GH response to GHRH alone was clearly lower than that to HEX alone (P < 0.05), whereas the GH responses to GHRH and HEXwere similar after rhIGF-I. Our findings show that the sc administration of low rhIGF-I doses inhibits the GH response to GHRH and, even more, that to HEX; whereas, at least in this experimental design in fed conditions, it does not modify the spontaneous GH secretion. Because GHS generally show partial refractoriness to inhibitory inputs, including exogenous somatostatin, the present results point toward a peculiar sensitivity of GHS to the negative feedback action of IGF-I."
+  },
+  {
+   "pmid": "9156035",
+   "titel": "Acute administration of hexarelin stimulates GH secretion during day and night in normal men",
+   "jahr": "1997",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Loche S",
+   "doi": "10.1046/j.1365-2265.1997.1240940.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: Hexarelin is a synthetic hexapeptide with potent GH-releasing activity in both animals and men. The aim of this study was to investigate the effect of a bolus injection of hexarelin given in the morning during wakefulness and during nocturnal sleep in a group of normal adult men. DESIGN AND SUBJECTS: Eight normal men, aged 21-33 years, of normal height and within 10% of ideal body weight were studied. All subjects received in random order saline or hexarelin (2 micrograms/kg) in the morning between 0800 and 0900 h after they had fasted overnight. The same experiments were performed during nocturnal sleep in the same subjects. Saline or hexarelin were injected within 30 minutes after the onset of sleep between 2300 and 2400 h. Sleep was recorded by visual inspection. MEASUREMENTS: In all four test sessions blood samples were taken 30, 15 minutes and immediately before the injection of saline or hexarelin and then every 15 minutes for 2 hours. GH was measured by an immunoradiometric assay. All values are expressed as peak GH levels or as area under the curve (AUC) calculated by trapezoidal integration. RESULTS: Mean peak GH concentrations after hexarelin during the morning (58.2 +/- 4.7 micrograms/l) (GH micrograms/l l x 2 = mU/l) were not different from those observed during sleep (61.2 +/- 4.3 micrograms/l). The rate of disappearance of GH from plasma was slower during sleep (t1/2 = 64.9 +/- 14.8 min) than during morning hours (t1/2 = 24.9 +/- 1.4 min, P < 0.01). Mean AUC responses to hexarelin during sleep (1466 +/- 145 micrograms.min/l) were significantly higher than during morning hours (903 +/- 94 micrograms.min/l, P < 0.001). CONCLUSIONS: These results show that GH responsiveness to a growth hormone releasing peptide is preserved during the night. This could be exploited for diagnostic and/or therapeutic purposes."
+  },
+  {
+   "pmid": "9364340",
+   "titel": "Growth hormone release by the novel GH releasing peptide hexarelin in patients with homozygous beta-thalassemia",
+   "jahr": "1997",
+   "journal": "J Pediatr Endocrinol Metab",
+   "erstautor": "Tolis G",
+   "doi": "10.1515/jpem.1997.10.1.35",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article"
+   ],
+   "abstract": "Patients with beta-thalassemia often present with abnormalities in growth and other endocrine functions. Growth hormone (GH) secretion is controlled via somatostatin and growth hormone releasing hormone (GHRH). Recently, Hexarelin, a new potent GH secretagogue (His-D-2-Methyl-Trp-Ala-Trp-D-Phe-Lys-NH2), was synthesized. Our study was designed to assess and compare its efficacy as a GH secretagogue to GHRH 1-29 in beta-thalassemia. Eighteen patients, regularly transfused and chelated, were studied; 11 were short statured. None had diabetes mellitus, hypothyroidism, hypopara-thyroidism or major organ failure. We measured GH at 0, 30, 60, 90, 120 min after GHRH 1-29 or Hexarelin administration. Hexarelin p.o. or i.v. evoked a brisk rise of serum GH which was significantly higher (p < 0.01) than that induced by GHRH 1-29 i.v. In conclusion, Hexarelin has greater GH releasing capacity than GHRH 1-29 at 1 microgram/kg i.v. and can thus be viewed as a potential therapeutic agent in GH deficient states."
+  },
+  {
+   "pmid": "7561633",
+   "titel": "Comparison of the effects of growth hormone-releasing hormone and hexarelin, a novel growth hormone-releasing peptide-6 analog, on growth hormone secretion in humans with or without glucocorticoid excess",
+   "jahr": "1995",
+   "journal": "J Endocrinol",
+   "erstautor": "Giustina A",
+   "doi": "10.1677/joe.0.1460227",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The aim of our study was to investigate the effect of hexarelin, a novel GH-releasing peptide-6 analog, and GH-releasing hormone (GHRH) (alone or in combination) on GH secretion in adult patients with increased somatostatin tone due to chronic glucocorticoid excess. We studied seven adult patients undergoing long-term (no less than 6 months) immunosuppressive glucocorticoid treatment for non-endocrine diseases (six females and one male, age range 42-68 years) and one subject (female, age 31 years) with endogenous hypercortisolism due to adrenal adenoma. Six normal subjects (four females and two males) matched for sex and age with the patients and not undergoing any therapy served as controls. All the subjects underwent the following three tests in random order: (1) human GHRH (1-29)NH2 (100 micrograms in 1 ml saline) injected as an i.v. bolus at 0 min, (2) hexarelin (100 micrograms in 1 ml saline) injected as an i.v. bolus at 0 min and (3) hexarelin (100 micrograms in 1 ml of saline) plus GHRH (100 micrograms in 1 ml saline) injected as an i.v. bolus at 0 min. After GHRH alone the patients with glucocorticoid excess showed a blunted GH response as compared with normal subjects (median delta GH: 0.9, range 0-5.6 micrograms/l vs 7:1, range 0.3-14.9 micrograms/l). No significant differences were observed in the steroid-treated group with respect to normal subjects after hexarelin alone (median delta GH: 15.5, range 1.9-45.2 micrograms/l vs 17.9, range 5.5-53.9 micrograms/l).(ABSTRACT TRUNCATED AT 250 WORDS)"
+  },
+  {
+   "pmid": "8977750",
+   "titel": "The sequential administration of growth hormone-releasing hormone followed 120 minutes later by hexarelin, as an effective test to assess the pituitary GH reserve in man",
+   "jahr": "1996",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Micic D",
+   "doi": "10.1046/j.1365-2265.1996.00841.x",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: GH deficiency, either in children or in adults, is a clinically relevant problem. The diagnosis is based on dynamic tests of GH secretion, which are clear cut on a group basis but highly problematic for individual diagnosis. The controversy surrounding the diagnosis of GH deficiency reflects the absence of a gold standard dynamic test. The synthetic hexapeptide hexarelin and GHRH stimulate GH secretion using different mechanisms. A sequential test has been devised using the administration of GHRH as first stimulus followed 120 minutes later by hexarelin. The two aims of the study were (a) to evaluate the interaction of GHRH and hexarelin, and (b) to devise a sequential test of GH reserve. DESIGN: The GH stimuli used were GHRH (1 microgram/kg i.v.) as a pituitary stimulus, and hexarelin (1 microgram/kg i.v.) as a GH stimulus whose main action is hypothalamic. Each subject was tested twice in order to serve as his own control. Three different studies, each with two duplicate tests, were performed on separate groups of individuals: (a) GHRH followed 120 minutes later by hexarelin and on the second day hexarelin followed 120 minutes later by GHRH; (b) GHRH followed 120 minutes later by GHRH and on the other day hexarelin followed 120 minutes later by hexarelin; (c) GH 0.5 IU i.v. followed 120 minutes later by GHRH and on the other day, the same dose of GH followed 120 minutes later by hexarelin. PATIENTS: Eighteen normal volunteers (12 women, 6 men) after giving informed consent. MEASUREMENTS: Plasma GH levels were measured by time-resolved fluoroimmunoassay; each value shown is the mean +/- SEM of n = 6. RESULTS: GHRH followed 120 minutes later by hexarelin induced two episodes of GH secretion (expressed as mean GH peak, mU/l). The GHRH-mediated GH release showed a mean GH peak of 38.2 +/- 13.6 mU/l and after hexarelin 120 minutes later of 56.7 +/- 18.0 mU/l. The contrary sequence blocked the second stimulus, i.e. the hexarelin-stimulated GH mean peak was 54.7 +/- 18.4, and the GH release 120 minutes later after GHRH was 4.8 +/- 1.9 (P < 0.05 vs GHRH used as first stimulus). In the two sequential tests using the same stimulus, the second GH peak was reduced. In fact, GHRH induced a GH mean peak of 63.8 +/- 21.1 mU/l as first stimulus, greater (P < 0.05) than when GHRH was administered again 120 minutes later (22.0 +/- 5.9 mU/l). Similar results were obtained with hexarelin, with a first mean peak of 70.6 +/- 10.3 mU/l, and a second one 120 minutes later of 13.4 +/- 4.6 mU/l (P < 0.05). The blockade of the second stimulus was not due to the feed-back action of the GH released by the first stimulus. In fact, the i.v. administration of exogenous GH induced a mean GH peak of 168.0 +/- 89.7 and reduced the action of GHRH administered 120 minutes later (26.1 +/- 8.1). The previous administration of GH (mean peak 115.5 +/- 42.0) did not alter the action of hexarelin injected 120 minutes later, showing a mean peak of 71.9 +/- 11.2. The large variability in the stimulatory action of GHRH contrasted vividly with the reproducibility of hexarelin. Furthermore, individually analysed, only one of the 12 subjects tested first with hexarelin, compared to 4 out of 12 tested with GHRH as first stimulus, presented a blunted response (< 13 mU/l). After the sequential stimulus there were no false negatives. CONCLUSION: The sequential administration of GHRH in normal subjects and of hexarelin 120 minutes later provides separate information regarding pituitary GH reserve, of both secretagogues without mutual interference. There were not false negative results to the combined test. This sequentially delayed test may be of some value in the clinical setting for assessing pituitary GH reserve."
+  },
+  {
+   "pmid": "10803472",
+   "titel": "The negative GH auto-feedback in childhood: effects of rhGH and/or GHRH on the somatotroph response to GHRH or hexarelin, a peptidyl GH secretagogue, in children",
+   "jahr": "2000",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Bellone J",
+   "doi": "10.1007/BF03343699",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Aim of the present study was to further clarify the negative GH auto-feedback mechanisms in childhood. To this goal we studied the effects of rhGH and/or GHRH administration on the GH response to GHRH or hexarelin (HEX), a peptidyl GH secretagogue, in normal short children. In 34 prepubertal children (12 girls and 22 boys, age 8.2- 14.2 yr) with normal short stature (normal height velocity and IGF-I levels) the following tests were performed: group A (no.=11): GHRH (GHRH 1 - 29, Geref, Serono; 1 microg/kg iv at 150 min) preceded by saline or GHRH at 0 min; group B (no.=6): GHRH preceded by saline or rhGH (0.005 IU/kg iv at 0 min); group C (no.=6): GHRH preceded by rhGH alone or combined with GHRH; group D (no.=6): HEX (2 microg/kg iv at 150 min) alone or preceded by rhGH. In group A, the GH response to GHRH was not modified by pre-treatment with GHRH (GH peak, mean+/-SEM: 16.7+/-2.9 vs 15.1+/-2.3 microg/l, respectively). In group B, the GH response to GHRH was clearly inhibited by rhGH (8.7+/-2.3 vs 38.8+/-4.5 microg/l, p<0.001); the GH rise after rhGH in group B overlapped with that after GHRH in group A. In group C, the GH response to GHRH after pre-treatment with rhGH (13.2+/-4.0 microg/l) was similar to that in group B and was not significantly modified by pre-treatment with rhGH+ GHRH (6.9+/-2.7 microg/l); the GH rise after rhGH+GHRH was higher (p<0.05) than that after rhGH alone. In group D, the GH response to HEX was significantly blunted by pre-treatment with rhGH (34.1+/-11.7 vs 51.2+/-17.9 microg/l, p<0.05). Our results demonstrate that in childhood the somatotroph response to GHRH is preserved after GHRH while it is inhibited after rhGH administration, which is also able to blunt the GH response to HEX. Thus, the somatostatin-mediated negative GH auto-feedback is already operative in childhood; the reason why the GHRH- induced GH rise is not inhibited by GHRH pre-treatment is unexplained."
+  },
+  {
+   "pmid": "10195374",
+   "titel": "Tyr-Ala-Hexarelin, a synthetic octapeptide, possesses the same endocrine activities of Hexarelin and GHRP-2 in humans",
+   "jahr": "1999",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Arvat E",
+   "doi": "10.1007/BF03350886",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Hexarelin (HEX) and GHRP-2 are two synthetic hexapeptides, superanalogs of GHRP-6, belonging to GH secretagogue (GHS) family. GHS act via specific receptors at both the pituitary and the hypothalamic level to stimulate GH release both in animals and in humans. However, GHS also possess significant PRL- and ACTH/cortisol-releasing activity. Tyr-Ala-HEX as well as Tyr-Ala-GHRP-6 are, in turn, synthetic octapeptides generally used to perform binding studies because of their easy iodination. However, their endocrine activities have never been studied in humans. To clarify the endocrine activities of Tyr-Ala-HEX, in 7 young adult volunteers we compared the effects of the maximal effective dose of HEX (2.0 microg/kg i.v.) or GHRP-2 (2.0 microg/kg i.v.) with the same one of Tyr-Ala-HEX on GH, PRL, ACTH and cortisol levels. Basal GH, PRL, ACTH and cortisol levels in all testing sessions were similar. The administration of placebo did not modify hormonal levels. HEX and GHRP-2 administration induced the well known strong GH response (Cmax, mean+/-SE: 77.3+/-6.0 and 74.1+/-12.1 microg/l; AUC, mean+/-SE: 2596.7+/-251.1 and 2480.0+/-343.6 microg*min/l). These responses were similar to that induced by Tyr-Ala-HEX (63.7+/-18.5 microg/l; 1986.6+/-622.4 microg*min/l). Moreover, HEX, GHRP-2 and Tyr-Ala-HEX had the same significant stimulatory effect on PRL (14.9+/-2.5, 12.3+/-2.0 and 10.0+/-1.5 microg/l; 497.8+/-61.8, 480.4+/-66.9 and 415.8+/-58.5 microg*min/l), ACTH (48.0+/-10.1, 51.4+/-10.6 and 44.9+/-12.2 pg/ml; 1531.6+/-235.7, 1586.7+/-277.0 and 1338.1+/-164.5 pg*min/ml) and cortisol (179.9+/-10.0, 181.2+/-14.1 and 149.7+/-20.1 microg/l; 8465.0+/-406.6, 8689.2+/-788.1 and 6295.2+/-797.0 microg*min/l). Also the mean Tmax of the endocrine responses to HEX, GHRP-2 and Tyr-Ala-HEX were similar. In conclusion, the present results demonstrate that in humans Tyr-Ala-HEX is a GH secretagogue as potent as HEX and GHRP-2, two GHRP-6 superanalogs. Tyr-Ala-HEX also shares with HEX and GHRP-2 the same PRL- ACTH- and cortisol-releasing activity."
+  },
+  {
+   "pmid": "12153607",
+   "titel": "Effects of glucose, free fatty acids or arginine load on the GH-releasing activity of ghrelin in humans",
+   "jahr": "2002",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Broglio F",
+   "doi": "10.1046/j.1365-2265.2002.01595.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: Ghrelin, a 28 amino acid peptide purified from the stomach and showing a unique structure with an n-octanoyl ester in serine-3 residue, is a natural ligand of the GH secretagogue (GHS) receptor (GHS-R) and strongly stimulates GH secretion. In humans, ghrelin is more potent than growth hormone-releasing hormone (GHRH) and non-natural GHS such as hexarelin. Moreover, ghrelin shows a true synergism with GHRH, has no interaction with hexarelin and, similarly to non-natural GHS, is partially refractory to the inhibitory effect of exogenous somatostatin (SS). Despite this evidence, the mechanisms underlying the GH-releasing effect of ghrelin in humans have not been fully clarified. SUBJECTS: To this aim we enrolled six normal young volunteers [age (mean +/- SEM) 28.9 +/- 3.1 year; body mass index 22.3 +/- 1.0 kg/m2). DESIGN AND MEASUREMENTS: In all subjects we studied the effects of glucose (OGTT, 100 g oral glucose at -45 min) or free fatty acids (FFA) load [lipid-heparin emulsion, Li-He, Intralipid 10% 250 ml + heparin 2500 U i.v. from -30 to +120 min] as well as of arginine (ARG, 0.5 g/kg infused from 0 to +30 min) on the GH response to human ghrelin (1.0 micro g/kg i.v. at 0 min) administration. These results were compared with those obtained by studying the effects of OGTT, Li-He and ARG on the GH response to GHRH-29 (1.0 micro g/kg i.v. at 0 min). RESULTS: The GH response to ghrelin (auc 5452.4 +/- 991.3 micro g/l/h) was higher (P < 0.05) than that after GHRH (1519.4 +/- 93.3 micro g/l/h). The GH response to GHRH was inhibited by OGTT (450.7 +/- 81.1 micro g/l/h, P < 0.05) and almost abolished by Li-He (230.0 +/- 63.6 micro g/l/h, P < 0.05) while was markedly potentiated by ARG (2520.4 +/- 425.8 micro g/l/h, P < 0.05). The GH response to GHRH + ARG, however, was lower (P < 0.05) than that to ghrelin alone. The GH response to ghrelin was blunted by OGTT (2153.1 +/- 781.9 micro g/l/h, P < 0.05) as well as by Li-He (3158.8 +/- 426.7 micro g/l/h, P < 0.05) but these responses remained higher (P < 0.05) than that to GHRH alone. On the other hand, ARG did not modify the GH response to ghrelin (6324.3 +/- 1275.5 micro g/l/h). For GH 1 micro g/l = 2 mU/l. CONCLUSIONS: In humans, ghrelin exerts a strong stimulatory effect on GH secretion which is partially refractory to the inhibitory effect of both glucose and FFA load and is not enhanced by ARG. These factors almost abolish and potentiate, respectively, the GH response to GHRH, at least partially, via modulation of hypothalamic SS release. Thus, our findings agree with the hypothesis that ghrelin as well as non-natural GHS acts, at least partially, by antagonizing SS activity."
+  },
+  {
+   "pmid": "9005975",
+   "titel": "Mechanisms underlying the negative growth hormone (GH) autofeedback on the GH-releasing effect of hexarelin in man",
+   "jahr": "1997",
+   "journal": "Metabolism",
+   "erstautor": "Arvat E",
+   "doi": "10.1016/s0026-0495(97)90173-6",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The growth hormone (GH) response to GH-releasing hormone (GHRH) is strongly inhibited by previous administration of recombinant human GH (rhGH), likely as a consequence of a somatostatin-mediated GH negative autofeedback. Hexarelin (HEX), a synthetic hexapeptide belonging to the GH-releasing peptide (GHRP) family, possesses a GH-releasing activity greater than that of GHRH both in animals and in man. The mechanism of action of GHRPs is yet to be completely clarified, although concomitant actions at the pituitary and hypothalamic level have been hypothesized. To further clarify the mechanisms of action underlying the GH-releasing activity of HEX, in six normal young volunteers we studied the effects of rhGH (2 U intravenously [IV]) on the GH response either to GHRH (2 microg/kg IV) or to HEX (2 microg/kg IV) alone or combined with GHRH and/or pyridostigmine ([PD], 120 mg orally). The GH-releasing effect of HEX was higher than that of GHRH (area under the curve [AUC], 2,200.8 +/- 256.9 v 792.2 +/- 117.6 microg/L/h, P < .001), whereas combined administration of the two substances induced a true synergistic effect, with GH release after HEX plus GHRH (4,259.2 +/- 308.0 microg/L/h) being higher (P < .02) than the arithmetic sum of the GH increases induced by each compound separately administered. After rhGH administration, the GH-releasing effect of HEX was blunted (1,468.9 +/- 193.7 microg/L/h, P < .04; inhibition of 32.1%), whereas that of GHRH was nearly abolished (102.0 +/- 7.8 microg/L/h, P < .02; inhibition of 86.1%). The GH response to combined administration of HEX and GHRH was also blunted by the previous rhGH bolus (3,070.6 +/- 481.8 microg/L/h, P < .02; inhibition of 26.7%). PD did not modify the GH-releasing effect of HEX either alone (2,456.8 +/- 317.5 microg/L/h) or combined with GHRH (4,009.1 +/- 360.8 microg/L/h). rhGH was again able to blunt the GH response to HEX combined with PD (1,619.3 +/- 237.9 microg/L/h, P < .02), but failed to modify the GH response to HEX combined with GHRH and PD (4,548.4 +/- 698.0 microg/L/h). In conclusion, these results demonstrate that rhGH administration only blunts the GH-releasing activity of HEX, but abolishes that of GHRH. The blunting effect of rhGH on the GH response to HEX is probably mediated by a concomitant reduction in the activity of GHRH-secreting neurons and an increase of somatostatinergic tone."
+  },
+  {
+   "pmid": "8921821",
+   "titel": "Short-term administration of intranasal or oral Hexarelin, a synthetic hexapeptide, does not desensitize the growth hormone responsiveness in human aging",
+   "jahr": "1996",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Ghigo E",
+   "doi": "10.1530/eje.0.1350407",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The function of the growth hormone-insulin-like growth factor I (GH-IGF-I) axis is reduced in aging, although the secretory capacity of somatotrope cells is preserved. Previous studies have suggested that continuous administration of GH-releasing peptides (GHRPs) results in homologous desensitization to the GH-releasing effect of the peptides. In the present study we have studied whether healthy elderly subjects would remain responsive to short-term, intermittent treatment with Hexarelin (HEX), a GHRP, and whether this treatment would result in an increase in serum IGF-I. In study I, the effect of an 8-day treatment with intranasal administration of 1.25 mg (about 18 micrograms/kg) t.i.d. HEX on the acute GH response to the hexapeptide and on serum IGF-I, IGF binding protein 3 (IGFBP-3), prolactin and cortisol levels was studied in seven elderly subjects (four males and three females, aged 67-80 years). In study II, the same parameters were studied before and after a 15-day treatment with oral administration of 20 mg (about 300 micrograms/kg) t.i.d. HEX in seven elderly women (aged 63-80 years). The GH response to the intranasal HEX administration was not significantly higher than that induced by 1 microgram/kg iv GHRH (229.4 +/- 35.9 vs 145.8 +/- 26.9 micrograms.l-1.h-1) and was maintained with a trend towards increase after an 8-day treatment with the peptide (342.5 +/- 199.3 micrograms.l-1.h-1). On the other hand, HEX treatment did not significantly modify IGF-I (138.7 +/- 11.1 vs 122.4 +/- 14.1 micrograms/l) but increased IGFBP-3 levels (2.4 +/- 0.2 vs 1.6 +/- 0.2 mg/l, p < 0.02). The GH response to the oral HEX administration was also not significantly higher than that to iv GHRH (257.6 +/- 72.0 vs 179.0 +/- 42.8 micrograms.l-1.h-1) and did not change after a 15-day treatment with the peptide (237.8 +/- 42.8 micrograms.l-1.h-1). Both IGF-I and IGFBP-3 levels were slightly but significantly increased by oral HEX treatment (156.0 +/- 10.7 vs 141.6 +/- 13.6 micrograms/l, p < 0.03, 3.4 +/- 0.2 vs 3.1 +/- 0.2 mg/l, p < 0.03, respectively). Neither intranasal nor oral HEX treatment modified PRL or cortisol levels and did not induce any side effect. In conclusion, these results indicate that chronic but intermittent treatment with HEX, administered either by intranasal or oral route, does not desensitize the GH response to the peptide. Moreover, after HEX treatment a trend towards increase was shown for IGF-I and IGFBP-3 levels. Thus, our findings strengthen the hypothesis that prolonged treatment with HEX may restore the reduced GH release in aging."
+  },
+  {
+   "pmid": "9186268",
+   "titel": "Oestrogen replacement does not restore the reduced GH-releasing activity of Hexarelin, a synthetic hexapeptide, in post-menopausal women",
+   "jahr": "1997",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Arvat E",
+   "doi": "10.1530/eje.0.1360483",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Hexarelin (HEX), a synthetic hexapeptide, has a strong and reproducible GH-releasing activity in man after intravenous, subcutaneous, intranasal and oral administration. Its effect undergoes age-related variations, being reduced in elderly subjects. In spite of evidence in animals showing that the activity of GH-releasing peptides (GHRPs) is positively influenced by oestrogens, in young adults no sex-related difference has been found in the GH response to HEX or to other GHRPs. We aimed to clarify the influence of the menopause and oestrogens on the GH-releasing activity of HEX. We studied the GH response to the acute administration of the maximal effective dose of HEX (2 micrograms/kg i.v.) in 24 young women (YW, age: 27.3 +/- 0.5 years: body mass index (BMI): 20.7 +/- 0.3 kg/m2), 14 post-menopausal women (PW, age: 52.9 +/- 1.2 years: BMI: 23.2 +/- 0.9 kg/m2) and 14 aged women (AW, age: 68.9 +/- 1.5 years: BMI: 21.7 +/- 0.7 kg/m2). In 10 post-menopausal women the GH response to HEX was also studied after 3 months of transdermal oestradiol treatment (delivery 50 micrograms/die). Basal oestrogen and GH levels in PW were lower than those in YW (oestrogen: 4.8 +/- 3.6 vs 42.0 +/- 3.4 pg/ml (means +/- S.E.M.). P < 0.001: GH: 1.5 +/- 0.5 vs 2.9 +/- 0.6 micrograms/l, P < 0.02) and similar to those in AW (oestrogen: 1.3 +/- 0.4 pg/ml: GH: 0.9 +/- 0.2 microgram/l). IGF-l levels in PW were not different from those in YW (174.4 +/- 11.9 vs 195.5 +/- 14.9 micrograms/l) and higher than those in AW (109.8 +/- 15.8 micrograms/l, P < 0.01). The GH response to HEX in PW (areas under the curve +/- S.E.M.: 453.6 +/- 56.0 micrograms.min/l) was lower (P < 0.002) than that in YW (1630.4 +/- 259.7 micrograms.min/l) while it did not differ from that in AW (781.8 +/- 189.3 micrograms.min/l). In PW 3-month oestrogen administration increased oestradiol levels (38.3 +/- 5.9 vs 0.8 +/- 0.4 pg/ml, P < 0.001) making them similar to those recorded in YW, while it failed to modify both basal GH and IGF-l levels GH: 1.8 +/- 0.6 vs 1.5 +/- 0.7 micrograms/l: IGF-l: 164.6 +/- 14.3 vs 175.0 +/- 12.3 micrograms/l). Also the GH response to HEX was not modified by oestradiol treatment (518.4 +/- 125.6 vs 425.4 +/- 69.3 micrograms.min/l). In conclusion, present data confirm the strong GH-releasing effect of Hexarelin in humans and demonstrate that its activity is already reduced in post-menopausal women to an extent overlapping that in elderly women. Moreover, oestrogen treatment is not able to restore it. Thus, the lack of oestrogens does not seem to account for the reduced somatotraph responsiveness to GHRPs in the post-menopausal period."
+  },
+  {
+   "pmid": "11600590",
+   "titel": "Ghrelin, a natural GH secretagogue produced by the stomach, induces hyperglycemia and reduces insulin secretion in humans",
+   "jahr": "2001",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Broglio F",
+   "doi": "10.1210/jcem.86.10.8098",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Ghrelin, a 28 amino acid gastric hormone is a natural ligand of the GH Secretagogue (GHS) receptor (GHS-R) and strongly stimulates GH secretion though, like synthetic GHS, it shows other endocrine and non-endocrine activities. Aim of the present study was to clarify whether ghrelin administration influences insulin and glucose levels in humans. To this goal, we compared the effects of ghrelin, hexarelin, a synthetic GHS, or placebo on insulin and glucose as well as on GH levels in 11 normal young volunteers (age [mean +/- SEM]: 28.5 +/- 3.1 yr; BMI: 22.2 +/- 0.9 Kg/m(2)). Ghrelin induced very marked increase in GH secretion (DeltaAUC(0-180): 5777.1 +/- 812.6 microg/l/h; p < 0.01) which was not modified by placebo. Placebo administration did not modify insulin and glucose levels. On the other hand, ghrelin administration induced a prompt increase in glucose levels (DeltaAUC(0-180): 1343.1 +/- 443.5 mg/dl/h; p < 0.01 vs. saline). Absolute glucose levels at +15' were already higher than those at baseline (93.9 +/- 7.1 mg/dl; p < 0.01) and persisted elevated up to 165' (90.3 +/- 5.8 mg/dl; p < 0.01 vs. 0'). Ghrelin administration was also followed by a decrease in serum insulin levels (DeltaAUC(0-180): -207.1 +/- 70.5 mU/l/h; p < 0.05 vs. saline). Absolute insulin levels were significantly reduced from 30' (11.4 +/- 0.9 mU/l, p < 0.1 vs. 0'), showed the nadir at +45' (10.0 +/- 0.6 mU/l, p < 0.01 vs. 0') and then persisted lower (p < 0.01) than baseline up to +105'. Hexarelin administration did not modify glucose and insulin levels despite its marked GH-releasing effect (DeltaAUC(0-180): 4156.8 +/- 1180.3 microg/l/h; p < 0.01 vs. saline) that was slightly lower (p < 0.05) than that of ghrelin. In conclusion, these findings show that, besides stimulating GH secretion, ghrelin is a gastric hormone possessing metabolic actions such as hyperglycemic effect and lowering effect on insulin secretion in humans, at least after acute administration."
+  },
+  {
+   "pmid": "11322491",
+   "titel": "Growth hormone-independent cardiotropic activities of growth hormone-releasing peptides in normal subjects, in patients with growth hormone deficiency, and in patients with idiopathic or ischemic dilated cardiomyopathy",
+   "jahr": "2001",
+   "journal": "Endocrine",
+   "erstautor": "Broglio F",
+   "doi": "10.1385/ENDO:14:1:105",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Growth hormone releasing peptides (GHRPs) are synthetic molecules endowed with potent neuroendocrine activities mediated by specific receptors in the pituitary and in the central nervous system. GHRPs receptors have been reported even in perpheral tissues, particularly in the myocardium, where they probably mediate growth hormone (GH)-independent activities. We studied in humans the cardiac effects of hexarelin administration in 7 normal adults, in 7 severe GH-deficient patients, and in 12 patients with severe dilated cardiomyopathy. Left ventricular ejection fraction (LVEF), mean blood pressure (MBP), heart rate (HR), and GH levels were evaluated at baseline and every 15 min up to 60 min after acute 2.0 microg/kg iv hexarelin administration. Basal LVEF in dilated cardiomyopathy was impaired and lower (p < 0.001) than in GH deficiency, in turn lower (p< 0.001) than in normal subjects. Hexarelin signficantly (p < 0.05) increased LVEF in normal and in GH-deficient subjects, but not in dilated cardiomyopathy, without significant variations in MBP and HR. Hexeralin significantly (p < 0.05) increased GH levels in normal subjects and in dilated cardiomyopathy but not in GH deficiency. These findings suggest that, in humans, the acute administration of hexarelin exerts a GH-independent positive inotropic effect likely mediated by specific GHRPs myocardial receptors."
+  },
+  {
+   "pmid": "15305235",
+   "titel": "Age-related differences in growth hormone (GH) regulation during strenuous exercise",
+   "jahr": "2004",
+   "journal": "Horm Metab Res",
+   "erstautor": "de Vries WR",
+   "doi": "10.1055/s-2004-825722",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article"
+   ],
+   "abstract": "This study was designed to investigate the central neuroendocrine mechanisms by which exercise (EX) stimulates growth hormone (GH) release as a function of age. Twelve male subjects, six in their early-to-mid twenties and six in their late sixties or seventies, received a strong GH stimulus either as incremental EX until volitional exhaustion or by administration of GHRH alone or Hex alone two hours after a presumed maximal GH response to combined administration of GHRH plus hexarelin (Hex). Total GH availability was calculated as area under the curve (AUC) over time periods 0 - 120 and 120 - 240 min. The mean AUC in micro g/l x 120 min to GHRH+Hex in the younger group was approximately twice that in the older group (11,260, range 3,947 - 19,007 vs. 5,366, range 2,262 - 8,654). In younger males, the mean AUC to EX (509, range 0 - 1,151) was larger than to GHRH (119, range 0 - 543), but less than that to Hex (919, range 0 - 1,892). In the older group, GH responses to EX and GHRH were abolished (mean AUC: 112, range 0 - 285, and 156, range 30 - 493), respectively) in contrast to the response to Hex (1,077, range 189 - 1,780). These data indicate that maximal GH stimulation by GHRH+Hex results in greater desensitization of GHRH compared to Hex, irrespective of age. We postulate that the abolished responsiveness of GH to EX in older group is due to insufficient disinhibition of hypothalamic somatostatin activity and desensitization of GHRH, while the preserved activity of a central Hex-related pathway is not involved. The GH response to EX in younger males is due to complete inhibition of somatostatin activity and stimulation of a central Hex-related pathway in spite of GHRH desensitization. We conclude that a central Hex-related pathway is the primary factor for EX-induced GH release only in younger males."
+  }
+ ],
+ "metaanalysen": [],
+ "praeklinik": [],
+ "ctgov": [],
+ "gruppe": "C_wachstumshormon"
+}

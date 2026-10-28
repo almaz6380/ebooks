@@ -1,0 +1,440 @@
+{
+ "name": "Amycretin",
+ "status": "nicht_zugelassen",
+ "suchbegriff_pubmed": "amycretin[tiab]",
+ "suchbegriff_ctgov": "amycretin",
+ "humanstudien_alle": [
+  {
+   "pmid": "42532080",
+   "titel": "Efficacy and safety of once-weekly subcutaneous zenagamtide, a novel unimolecular GLP-1 and amylin receptor agonist, in type 2 diabetes: a multicentre, randomised, parallel, double-blind, placebo-controlled, dose-finding, phase 2 trial",
+   "jahr": "2026",
+   "journal": "Lancet",
+   "erstautor": "Mora P",
+   "doi": "10.1016/S0140-6736(26)01248-1",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Multicenter Study",
+    "Clinical Trial, Phase II",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "42532079",
+   "titel": "Efficacy and safety of once-daily oral zenagamtide, a novel unimolecular GLP-1 and amylin receptor agonist, in adults with type 2 diabetes: a multicentre, randomised, parallel, double-blind, placebo-controlled, dose-finding, phase 2 trial",
+   "jahr": "2026",
+   "journal": "Lancet",
+   "erstautor": "Mora P",
+   "doi": "10.1016/S0140-6736(26)01247-X",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Multicenter Study",
+    "Clinical Trial, Phase II",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "40550231",
+   "titel": "Amycretin, a novel, unimolecular GLP-1 and amylin receptor agonist administered subcutaneously: results from a phase 1b/2a randomised controlled study",
+   "jahr": "2025",
+   "journal": "Lancet",
+   "erstautor": "Dahl K",
+   "doi": "10.1016/S0140-6736(25)01185-7",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase I",
+    "Clinical Trial, Phase II",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "40550229",
+   "titel": "Safety, tolerability, pharmacokinetics, and pharmacodynamics of the first-in-class GLP-1 and amylin receptor agonist, amycretin: a first-in-human, phase 1, double-blind, randomised, placebo-controlled trial",
+   "jahr": "2025",
+   "journal": "Lancet",
+   "erstautor": "Gasiorek A",
+   "doi": "10.1016/S0140-6736(25)01176-6",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase I",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  }
+ ],
+ "humanstudien_detail": [
+  {
+   "pmid": "40550231",
+   "titel": "Amycretin, a novel, unimolecular GLP-1 and amylin receptor agonist administered subcutaneously: results from a phase 1b/2a randomised controlled study",
+   "jahr": "2025",
+   "journal": "Lancet",
+   "erstautor": "Dahl K",
+   "doi": "10.1016/S0140-6736(25)01185-7",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase I",
+    "Clinical Trial, Phase II",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Amycretin is a novel, unimolecular GLP-1 and amylin receptor agonist. The aim of this study was to investigate the safety, tolerability, pharmacokinetics, and effects on bodyweight of subcutaneous amycretin administered over a treatment period of up to 36 weeks in participants with overweight or obesity. METHODS: In this randomised, placebo-controlled, phase 1b/2a study, we investigated the safety, tolerability, pharmacokinetics, and effects on bodyweight of subcutaneous injection of amycretin in participants aged 18-55 years with overweight or obesity (BMI 27·0-39·9 kg/m2). The study took place at a single clinical research centre in San Antonio, TX, USA. Participants were randomly allocated to receive amycretin or placebo, with participants and investigators masked to trial product allocation. There were five parts: Part A (single ascending dose); Part B (multiple ascending dose [MAD]-dose escalation), once-weekly amycretin escalated from 0·3 mg to 60 mg for a total treatment duration of 36 weeks; and Parts C, D, and E (MAD-dose response), once-weekly amycretin escalated from 0·3 mg up to maintenance doses of 20 mg for a total treatment duration of 36 weeks, 5 mg for a total of 28 weeks, or 1·25 mg for a total of 20 weeks (maintenance dose sustained for the last 12 weeks). The primary endpoint was the number of treatment-emergent adverse events measured from baseline to end of study (Parts A-E). Secondary endpoints were area under the plasma concentration-time curve, maximum plasma concentration, and relative change in bodyweight from baseline. The safety analysis set comprised all participants exposed to treatment, and the full analysis set comprised all randomly allocated participants. This study is registered with ClinicalTrials.gov, NCT06064006. FINDINGS: Between Sept 15, 2023, and April 24, 2024, 125 participants were randomly allocated to amycretin (n=101) or placebo (n=24). Mean baseline bodyweight was 88·3-99·1 kg across Parts B-E. The most common treatment-emergent adverse events were gastrointestinal, and the majority were mild to moderate in severity and resolved by the end of the study. A large number of participants withdrew from the study, with a high proportion of discontinuations occurring due to reasons unrelated to treatment-emergent adverse events. Estimated mean bodyweight change from baseline was significantly (Parts A-D: p<0·0001; Part E: p=0·0003) higher with amycretin versus placebo in Part B (60 mg, -24·3% vs -1·1%; week 36), Part C (20 mg, -22·0% vs 1·9%; week 36), Part D (5 mg, -16·2% vs 2·3%; week 28), and Part E (1·25 mg, -9·7% vs 2·0%; week 20). INTERPRETATION: In people with overweight or obesity, once-weekly subcutaneous amycretin up to 60 mg had a safety and tolerability profile consistent with GLP-1 and amylin agonists. Although a high frequency of gastrointestinal events was reported, rates were similar to those seen in early-phase studies of these molecules. These results support further investigation into the weight loss properties of amycretin. FUNDING: Novo Nordisk."
+  },
+  {
+   "pmid": "40550229",
+   "titel": "Safety, tolerability, pharmacokinetics, and pharmacodynamics of the first-in-class GLP-1 and amylin receptor agonist, amycretin: a first-in-human, phase 1, double-blind, randomised, placebo-controlled trial",
+   "jahr": "2025",
+   "journal": "Lancet",
+   "erstautor": "Gasiorek A",
+   "doi": "10.1016/S0140-6736(25)01176-6",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase I",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: GLP-1 receptor agonists and amylin receptor agonists have shown clinically relevant weight loss and glucose-lowering effects in people with overweight, obesity, and type 2 diabetes. Amycretin is a novel, single-molecule GLP-1 receptor and amylin receptor agonist. We aimed to investigate the safety, tolerability, pharmacokinetic properties, and pharmacodynamic effects of single ascending doses (part A) and multiple ascending doses (parts B and C/D) of amycretin in adult participants with overweight or obesity. METHODS: In this phase 1, first-in-human, randomised, double-blind, placebo-controlled multipart study, participants were recruited at a single clinical research unit in San Antonio (TX, USA). Eligible individuals were men or women (including women of childbearing potential) aged 18-55 years at the time of signing informed consent with a BMI of 25·0-34·9 kg/m2 for parts A and B and a BMI of 27·0-39·9 kg/m2 for part C/D. For part A, participants were randomly assigned across six treatment groups (single ascending doses of oral amycretin [1 mg, 3 mg, 6 mg, 12 mg, 18 mg (12 + 6 mg per adaptive study design), or 25 mg]) or placebo (6:2 to amycretin groups vs placebo). Part A consisted of a 28-day screening period, a 1-day (single dose) intervention period, and a 21-day follow-up period. In part B, participants were randomly assigned across three treatment groups (multiple ascending doses of oral amycretin [3 mg, 6 mg, or 12 mg once daily]) or placebo (9:3 to amycretin groups vs placebo). Part B consisted of a 28-day screening period, a 10-day intervention period, and a 21-day follow-up period. In part C/D, 60 participants were randomly assigned to one of three dose-escalation treatment groups (multiple ascending doses of oral amycretin in a fixed titration regimen for all participants [part C1: from 3 mg to 50 mg once daily; part C2: from 6 mg to 2 × 50 mg (two tablets in a single daily dose); and part D: from 3 mg to 2 × 25 mg (two tablets in a single daily dose)]), or placebo (16:4 to amycretin groups vs placebo). Part C/D consisted of a 4-week screening period, a 12-week intervention period, and a 3-week follow-up period. The primary endpoint was the number of treatment-emergent adverse events reported from before dosing on day 1 (baseline) until the end-of-study visit on day 22 (part A), day 31 (part B), or day 105 (part C/D). Supportive secondary pharmacokinetic endpoints for parts A-D were area under the amycretin plasma concentration-time curve and maximum plasma concentration. Exploratory pharmacodynamic endpoints in part C/D were change in bodyweight (%) and fasting plasma glucose (mmol/L) from before dosing on day 1 until day 85. The safety analysis set, comprising all participants who were exposed to treatment, was used to analyse the endpoints and assessments related to safety. The full analysis set, comprising all randomly assigned participants, was used to analyse endpoints related to pharmacokinetic and exploratory pharmacodynamic endpoints. This study is registered with ClinicalTrials.gov, NCT05369390. FINDINGS: Between May 11, 2022, and Jan 9, 2024, 144 participants were enrolled in the study (48 participants in part A, 36 participants in part B, and 60 participants in part C/D). Across parts A-D, there were 364 treatment-emergent adverse events in 89 (62%) of 144 participants, all of which were mild or moderate in severity and increased in frequency in a dose-dependent manner. The most common treatment-emergent adverse events were gastrointestinal in nature (180 [49%] of 364 events), observed in 72 (81%) of 89 participants who reported a treatment-emergent adverse event. No deaths were reported. Amycretin plasma concentrations were consistent with dose proportionality across all treatment groups. INTERPRETATION: In people with overweight or obesity, amycretin appeared safe and tolerable. Results from this first-in-human, phase 1 study support further investigation of the weight loss properties of amycretin. FUNDING: Novo Nordisk A/S."
+  },
+  {
+   "pmid": "42532079",
+   "titel": "Efficacy and safety of once-daily oral zenagamtide, a novel unimolecular GLP-1 and amylin receptor agonist, in adults with type 2 diabetes: a multicentre, randomised, parallel, double-blind, placebo-controlled, dose-finding, phase 2 trial",
+   "jahr": "2026",
+   "journal": "Lancet",
+   "erstautor": "Mora P",
+   "doi": "10.1016/S0140-6736(26)01247-X",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Multicenter Study",
+    "Clinical Trial, Phase II",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Zenagamtide (formerly amycretin) is a unimolecular peptide agonist of GLP-1, amylin, and calcitonin receptors. We aimed to investigate the dose-response relationship with respect to the efficacy and safety of once-daily oral zenagamtide compared with placebo in adults with type 2 diabetes. METHODS: This 36-week, randomised, parallel, double-blind, placebo-controlled, dose-finding, phase 2 trial was conducted at 83 hospital and clinic sites across 11 countries. The trial consisted of a 3-week screening period, a 36-week intervention period, and a 4-week follow-up period. Adults (aged 18-75 years) with type 2 diabetes (glycated haemoglobin [HbA1c] 7·0-10·0% [53-86 mmol/mol]), treated with stable doses of metformin with or without a SGLT2 inhibitor, and with a BMI of 23·0 to <50·0 kg/m2 were randomly assigned (5:1) to oral zenagamtide or placebo using a randomisation and trial supplies management system, then further randomly assigned (1:1:1) to one of three dose groups (6, 25, or 50 mg). Participants assigned to placebo were similarly assigned to matched placebo regimens corresponding to each dosing schedule. Randomisation was stratified by HbA1c (<8·5% or ≥8·5%) at screening and country of residence (Japan or other countries). The starting dose of oral zenagamtide was 1·5 mg, with dose escalations every 4 weeks until the maintenance dose was reached (6, 25, or 50 mg). Participants and staff were masked within each dose level to placebo or zenagamtide. The primary outcome was change in HbA1c from baseline to week 36. The primary outcome was assessed in all randomly assigned participants using the efficacy estimand based on on-treatment data without rescue medication. Safety outcomes were assessed in all randomly assigned participants exposed to treatment. This trial is registered with ClinicalTrials.gov, NCT06542874, and is completed. FINDINGS: Between Aug 7 and Dec 27, 2024, 186 (20%) of 915 screened participants were randomly assigned to oral zenagamtide (54 participants to 6 mg, 51 participants to 25 mg, and 51 participants to 50 mg) or placebo (30 participants) and were included in the full analysis set. At week 36, from baseline (mean range 7·9-8·1%), estimated mean change in HbA1c was -0·9% with zenagamtide 6 mg (estimated treatment difference [ETD] vs placebo -0·5% [95% CI -1·04 to -0·04]; p=0·033), -1·3% with zenagamtide 25 mg (-0·99% [-1·49 to -0·49]; p=0·0001), and -1·4% with zenagamtide 50 mg (-1·09% [-1·59 to -0·59]; p<0·0001). The most common adverse events were gastrointestinal, occurring in 14 (26%) of 54 participants in the zenagamtide 6 mg group, 21 (41%) of 51 participants in the zenagamtide 25 mg group, 24 (47%) of 51 participants in the zenagamtide 50 mg group, and seven (23%) of 30 participants in the placebo group. Serious adverse events were reported in seven (4%) of 186 participants receiving zenagamtide: two in the 6 mg group, two in the 25 mg group, and three in 50 mg group. No serious adverse events were reported in the placebo group. No deaths occurred during the trial. INTERPRETATION: In people with type 2 diabetes, once-daily oral zenagamtide showed clinically meaningful and significant improvements in HbA1c from baseline to week 36 compared with placebo at all three dose levels (6, 25, and 50 mg). The safety and tolerability of oral zenagamtide was consistent with other GLP-1 and amylin receptor agonists. FUNDING: Novo Nordisk."
+  },
+  {
+   "pmid": "42532080",
+   "titel": "Efficacy and safety of once-weekly subcutaneous zenagamtide, a novel unimolecular GLP-1 and amylin receptor agonist, in type 2 diabetes: a multicentre, randomised, parallel, double-blind, placebo-controlled, dose-finding, phase 2 trial",
+   "jahr": "2026",
+   "journal": "Lancet",
+   "erstautor": "Mora P",
+   "doi": "10.1016/S0140-6736(26)01248-1",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Multicenter Study",
+    "Clinical Trial, Phase II",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Zenagamtide (formerly amycretin) is a unimolecular agonist of GLP-1, amylin, and calcitonin receptors. We aimed to investigate the dose-response relationship with respect to the efficacy and safety of once-weekly subcutaneous zenagamtide compared with placebo in adults with type 2 diabetes. METHODS: This 36-week, randomised, parallel, double-blind, placebo-controlled, dose-finding, phase 2 trial was conducted at 83 hospital and clinic sites across 11 countries. The trial consisted of a 3-week screening period, a 36-week intervention period, and a 4-week follow-up period. Adults (aged 18-75 years) with type 2 diabetes (glycated haemoglobin [HbA1c] 7·0-10·0% [53-86 mmol/mol]), treated with stable doses of metformin with or without a SGLT2 inhibitor, and with a BMI of 23·0 to <50·0 kg/m2 were randomly assigned (6:1) to once-weekly subcutaneous zenagamtide or placebo using a randomisation and trial supplies management system, before being further randomly assigned to one of six dose groups (1:1:1:1:1:1; 0·4, 1·5, 5, 10, 20, or 40 mg). Participants assigned to placebo were similarly allocated to matched placebo regimens corresponding to each dosing schedule. Randomisation was stratified by HbA1c (<8·5% or ≥8·5%) at screening and country of residence (Japan or other countries). The starting dose of subcutaneous zenagamtide was 0·2 mg, with dose escalations every 4 weeks until the maintenance dose was reached (0·4-40 mg). Participants and staff were masked within each dose level to placebo or zenagamtide. The primary outcome was change in HbA1c from baseline to week 36. The primary outcome was assessed in all randomly assigned participants using the efficacy estimand based on on-treatment data without rescue medication. Safety outcomes were assessed in all randomly assigned participants exposed to treatment. The trial is registered with ClinicalTrials.gov, NCT06542874, and is completed. FINDINGS: Between Aug 7 and Dec 27, 2024, 262 (29%) of 915 screened individuals were randomly assigned to subcutaneous zenagamtide (n=225) or placebo (n=37). Participants were further randomly assigned (1:1:1:1:1:1) to one of six doses (38 participants to 0·4 mg, 36 participants to 1·5 mg, 37 participants to 5 mg, 38 participants to 10 mg, 38 participants to 20 mg, and 38 participants to 40 mg) or placebo (37 participants). 261 participants were exposed to treatment. At week 36, estimated change in HbA1c (mean across all groups at baseline 7·8% [SD 0·8]) ranged from -0·9% with zenagamtide 0·4 mg (estimated treatment difference vs placebo: -0·77% [95% CI -1·26 to -0·28]; p=0·0021) to -1·7% with zenagamtide 40 mg (-1·56% [-2·05 to -1·07]; p<0·0001). Most adverse events were gastrointestinal and mild to moderate in severity. 21 (8%) of 261 participants reported serious adverse events (four with zenagamtide 0·4 mg, three with 1·5 mg, two with 5 mg, five with 10 mg, three with 20 mg, one with 40 mg, and three with placebo). No deaths occurred. INTERPRETATION: In people with type 2 diabetes, once-weekly subcutaneous zenagamtide 0·4-40 mg demonstrated clinically meaningful and significant improvements in change in HbA1c from baseline to week 36 compared with placebo, with a safety and tolerability profile consistent with that of other GLP-1-based and amylin-based therapies. FUNDING: Novo Nordisk."
+  }
+ ],
+ "metaanalysen": [
+  {
+   "pmid": "42673585",
+   "titel": "Efficacy and Safety of Glucagon-like Peptide-1 Receptor Agonists and Co-agonists for Weight Loss Among Adults Without Diabetes : An Updated Systematic Review",
+   "jahr": "2026",
+   "journal": "Ann Intern Med",
+   "erstautor": "Moiz A",
+   "doi": "10.7326/ANNALS-25-05519",
+   "typ": [
+    "Systematic Review",
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "BACKGROUND: Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are increasingly used for weight management. PURPOSE: To update our prior systematic review evaluating the efficacy and safety of GLP-1 RAs and co-agonists among adults with overweight or obesity without diabetes. DATA SOURCES: MEDLINE, Embase, and Cochrane Central Register of Controlled Trials from 5 October 2024 through 25 March 2026. STUDY SELECTION: Randomized controlled trials ([RCTs] treatment duration ≥16 weeks). DATA EXTRACTION: Two reviewers independently extracted data. DATA SYNTHESIS: Thirty-eight RCTs (n = 25 816) were included, adding 14 new trials (n = 11 000) to the prior review. Among commercially available therapies, placebo-subtracted weight loss reached up to -5.8% (95% CI, -8.0% to -3.6%) for liraglutide, -14.8% (CI, -16.2% to -13.4%) for subcutaneous semaglutide, -14.3% (CI, -17.2% to -11.4%) for oral semaglutide, -12.4% (CI, -15.1% to -9.7%) for orforglipron, and -19.0% (CI, -21.6% to -16.4%) for tirzepatide. Numerically greater placebo-subtracted reductions were seen with emerging multiagonists, including -23.9% (CI, -29.3% to -18.5%) with amycretin and -22.1% (CI, -24.9% to -19.3%) with retatrutide. Gastrointestinal adverse events (AEs) remained common (GLP-1 RA vs. placebo: 76.0% vs. 40.1%). Discontinuation due to AEs was generally low (10.7% vs. 3.4%) but numerically higher with some oral agents. Serious AEs (6.5% vs. 5.2%) and deaths (0.1% vs. 0.0%) were rare, with no new safety signals identified. Head-to-head data showed greater weight loss with semaglutide and JNJ-64565111 than liraglutide and greater weight loss with tirzepatide and cagrilintide-semaglutide (CagriSema; Novo Nordisk) than semaglutide. LIMITATIONS: Heterogeneity precluded quantitative synthesis. Safety outcomes were inconsistently reported. CONCLUSION: Glucagon-like peptide-1 receptor agonists demonstrate substantial weight loss in adults without diabetes, with an expanding range of therapeutic options, including oral and multiagonist therapies. PRIMARY FUNDING SOURCE: None. (PROSPERO: CRD42024505558)."
+  },
+  {
+   "pmid": "42175595",
+   "titel": "Novel Amylin-Based Therapies for Weight Management in Adults With Overweight or Obesity Without Diabetes: A Network Meta-Analysis",
+   "jahr": "2026",
+   "journal": "Endocrinol Diabetes Metab",
+   "erstautor": "Kamrul-Hasan ABM",
+   "doi": "10.1002/edm2.70247",
+   "typ": [
+    "Journal Article",
+    "Network Meta-Analysis",
+    "Review"
+   ],
+   "abstract": "BACKGROUND: Long-acting amylin-based therapies (ABTs) are emerging anti-obesity agents; we sought to compare their effects on weight and anthropometric outcomes in adults with overweight/obesity without diabetes, evaluate gastrointestinal (GI) safety, and rank agents and doses within a network meta-analysis (NMA) framework. METHODS: We conducted a frequentist random-effects NMA of randomized controlled trials comparing novel ABTs with placebo or active comparators in R. Primary outcome was the percent change in body weight from baseline. Secondary outcomes included absolute weight changes, anthropometric measures, and overall and specific GI adverse events (AEs). Treatments (including dose strata) were compared with placebo within a single network and ranked using P scores. RESULTS: Six trials (N = 4642; 12-68 weeks) were included. Compared with placebo, high dose (HiD) subcutaneous amycretin produced the largest reduction in percent body weight (mean difference -23.95%; P score 1.00), followed by HiD eloralintide (-18.01%; P score 0.89) and HiD CagriSema (-17.18%; P score 0.85), all exceeding semaglutide 2.4 mg (-11.45%) and liraglutide 3.0 mg (-6.4%). Almost similar patterns were observed for absolute weight, body mass index, waist circumference and categorical weight-loss thresholds. GI AEs, nausea, vomiting and constipation were more common with HiD ABTs, especially oral amycretin and CagriSema, while diarrhoea mainly increased with semaglutide 2.4 mg. Only HiD CagriSema increased AE-related discontinuation. CONCLUSIONS: Novel ABTs, such as HiD amycretin, CagriSema and eloralintide, may induce substantial short- to medium-term weight loss but may also increase GI AEs; given sparse, low-certainty data, these findings are preliminary and require confirmation in larger trials. TRIAL REGISTRATION: The meta-analysis was registered in PROSPERO (CRD420261340457). The review protocol summary can be accessed at the PROSPERO website (https://www.crd.york.ac.uk/PROSPERO/view/CRD420261340457)."
+  }
+ ],
+ "praeklinik": [
+  {
+   "pmid": "42208956",
+   "titel": "Beyond weight loss: multisystem benefits of obesity medications",
+   "jahr": "2026",
+   "journal": "Lancet Diabetes Endocrinol",
+   "erstautor": "Savas M",
+   "doi": "10.1016/S2213-8587(26)00100-2",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Obesity is increasingly managed with medications as disease-modifying therapies, reflecting its role as a gateway disease driving metabolic, cardiovascular, reproductive, neuropsychiatric, and mechanical conditions. This Review synthesises evidence from randomised controlled trials and high-quality meta-analyses on approved and late-stage investigational obesity medications, including phentermine-topiramate, naltrexone-bupropion, glucagon-like peptide-1 (GLP-1) receptor agonists (eg, liraglutide, semaglutide, subcutaneously and orally), and newer GLP-1 receptor agonist-based agents (eg, tirzepatide, survodutide, mazdutide, retatrutide, cagrilintide-semaglutide, and amycretin). We evaluated the effects of obesity medications across major obesity-related conditions, including type 2 diabetes, metabolic dysfunction-associated steatotic liver disease, chronic kidney disease, heart failure, cardiovascular disease, obstructive sleep apnoea syndrome, polycystic ovary syndrome (recently named polyendocrine metabolic ovarian syndrome), osteoarthritis, muscle mass, depression, quality of life, and food cravings, along with binge-eating disorders, substance use disorders, and neurodegenerative diseases. Overall, GLP-1-based and multiagonist therapies show beneficial effects across these comorbid conditions. While many benefits of obesity medications are mediated by weight loss, accumulating evidence indicates important weight loss-independent effects, particularly with GLP-1 receptor agonist-based therapies. A broader understanding of these pleiotropic effects is essential to inform personalised obesity management and optimise long-term clinical outcomes."
+  },
+  {
+   "pmid": "41054801",
+   "titel": "Novel GLP-1-based Medications for Type 2 Diabetes and Obesity",
+   "jahr": "2026",
+   "journal": "Endocr Rev",
+   "erstautor": "Son JW",
+   "doi": "10.1210/endrev/bnaf036",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "The approvals of semaglutide and tirzepatide have set new benchmarks in the treatment of type 2 diabetes and obesity. Building on their success, novel glucagon-like peptide-1 (GLP-1)-based therapeutics are rapidly advancing. These next-generation agents engage not only GLP-1 receptors but also those for other gastro-entero-pancreatic hormones such as glucose-dependent insulinotropic polypeptide (GIP), glucagon, amylin, and peptide YY to enhance energy uptake, storage, and expenditure through synergistic mechanisms. Both GIP receptor agonism and antagonism, particularly in combination with GLP-1 receptor agonism, have shown promise. Maridebart cafraglutide, combining GLP-1 receptor agonism with GIP receptor antagonism, exemplifies this innovative approach. Glucagon coagonists like survodutide and mazdutide have demonstrated significant weight loss and improved glycemic control. Amylin-based agents, including CagriSema (cagrilintide + semaglutide) and amycretin, enhance satiety and glycemic outcomes through complementary actions. Further innovation is seen in triple agonists such as retatrutide, which targets GIP, GLP-1, and glucagon receptors to amplify metabolic effects. Meanwhile, the emergence of orally active small-molecule GLP-1 receptor agonists like danuglipron and orforglipron, which are resistant to enzymatic degradation, marks a major advance in patient-friendly drug delivery. This review explores the mechanisms, clinical development, and therapeutic potential of these novel agents, excluding already approved drugs like liraglutide, semaglutide, and tirzepatide. We highlight how multireceptor agonists and oral GLP-1-based therapies may reshape the future landscape of obesity and type 2 diabetes treatment by offering more effective and better-tolerated options."
+  },
+  {
+   "pmid": "41850421",
+   "titel": "Amycretin in obesity: Mechanisms, clinical efficacy, and future perspectives",
+   "jahr": "2026",
+   "journal": "Metabolism",
+   "erstautor": "Fu L",
+   "doi": "10.1016/j.metabol.2026.156594",
+   "typ": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The global escalation of obesity necessitates therapeutic interventions that transcend the efficacy ceilings of current mono-target pharmacotherapies. Amycretin, a novel unimolecular co-agonist targeting glucagon-like peptide-1 (GLP-1) and amylin receptors, has emerged as a promising candidate for weight management. In this review, we examine the developmental rationale of amycretin, elucidating how its dual-agonist mechanism synergistically engages hindbrain-mediated satiety pathways and delays gastric emptying to overcome metabolic plateaus. We summarize pivotal findings from recent clinical trials, highlighting that amycretin elicits profound weight reduction-demonstrating up to 13.1% loss with oral administration (12 weeks) and 24.3% with subcutaneous delivery (36 weeks)-with a safety profile consistent with incretin-based classes. Furthermore, we explore the strategic potential of combining amycretin with insulin-independent agents, such as SGLT2 inhibitors, to optimize cardio-renal outcomes. These insights provide a theoretical framework for positioning amycretin in the future management of adiposity-based chronic diseases."
+  },
+  {
+   "pmid": "40206909",
+   "titel": "Comparative Effectiveness of Semaglutide, Liraglutide, Orlistat, and Phentermine for Weight Loss in Obese Individuals: A Systematic Review",
+   "jahr": "2025",
+   "journal": "Cureus",
+   "erstautor": "Patel JP",
+   "doi": "10.7759/cureus.80321",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Obesity, a multifaceted and chronic condition characterized by excessive fat accumulation, poses significant risks to overall health and is associated with various metabolic and cardiovascular complications. This literature review evaluates and compares the effectiveness of four pharmacological agents semaglutide, liraglutide, orlistat, phentermine, and emerging agents like setmelanotide, amycretin, retatrutide, cagrilintide, and cotadutide in managing weight loss among obese. A detailed analysis was conducted on their mechanisms of action, dosing regimens, efficacy in weight loss, safety profiles, and their impact on obesity-related comorbidities. Although all agents presented distinct benefits, side effects such as gastrointestinal discomfort with orlistat and GLP-1 receptor agonists, and potential dependency with phentermine, necessitate tailored treatment approaches. This review highlights the importance of integrating pharmacotherapy with lifestyle interventions to achieve sustainable weight management and identifies areas for future research to optimize therapeutic outcomes for individuals with obesity."
+  },
+  {
+   "pmid": "40706446",
+   "titel": "The effect of amycretin, a unimolecular glucagon-like peptide-1 and amylin receptor agonist, on body weight and metabolic dysfunction in mice and rats",
+   "jahr": "2025",
+   "journal": "EBioMedicine",
+   "erstautor": "Kuhre RE",
+   "doi": "10.1016/j.ebiom.2025.105862",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: Amycretin is a novel unimolecular glucagon-like peptide-1 (GLP-1) and amylin receptor agonist. This study aimed to determine its role in mitigating diet-induced metabolic disorders, such as obesity, insulin resistance, and fatty liver disease, in mice and rats. METHODS: Preclinical studies were conducted to characterise amycretin activation of GLP-1, amylin and calcitonin receptors, and determine the effects of amycretin administration on the metabolic health of mice and rats. Investigations included measurements of body weight and body composition, energy intake and energy expenditure, insulin sensitivity, metabolic dysfunction-associated steatotic liver disease (MASLD), and access in the mouse brain. FINDINGS: Amycretin activated human, mouse and rat GLP-1, amylin and calcitonin receptors in cell-based systems. In diet-induced obese (DIO) rats, amycretin administration for 21 days reduced total energy intake by 47% (95% CI (mean), kcal: vehicle: 2132-2493 vs. amycretin: 1044-1390) and lowered body weight by 18% (95% CI (mean), % change relative to pre-treatment: vehicle: 6.56-8.47 vs. amycretin: -10.48 to -12.74, p < 0.0001), while maintaining energy expenditure. Amycretin targeted key areas of the mouse brain that regulate food intake. Insulin sensitivity improved significantly with amycretin administration in DIO rats compared with vehicle controls, shown by higher glucose infusion rates during a hyperinsulinaemic euglycemic clamp. Additionally, amycretin improved histological hallmarks of MASLD, primarily by reducing steatosis. INTERPRETATION: Amycretin had various beneficial effects on metabolic health in mice and rats; effectively reducing body weight, enhancing insulin sensitivity, and improving MASLD activity scores. Thus, amycretin could be a promising therapeutic option for metabolic diseases including obesity and type 2 diabetes, warranting further clinical trials assessing its efficacy in humans. FUNDING: Novo Nordisk A/S."
+  },
+  {
+   "pmid": "40081498",
+   "titel": "Multifunctional incretin peptides in therapies for type 2 diabetes, obesity and associated co-morbidities",
+   "jahr": "2025",
+   "journal": "Peptides",
+   "erstautor": "Bailey CJ",
+   "doi": "10.1016/j.peptides.2025.171380",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Recent studies with peptide-based incretin therapies have focussed mainly on the glucagon-like peptide-1 (GLP-1) receptor agonist semaglutide and the dual agonist tirzepatide that engages receptors for GLP-1 and glucose-dependent insulinotropic polypeptide (GIP). Randomised clinical trials and 'real-world' studies have confirmed the marked glucose-lowering and weight-lowering efficacy of these agents across diverse populations. These include different ethnic groups, young and elderly individuals with and without diabetes and/or overweight or obesity. Recent studies have also confirmed protections against the development and progression of cardiovascular and renal diseases that are additive to the benefits conferred by improved control of blood glucose and body weight. Emerging evidence suggests that incretin therapies could additionally ameliorate fatty liver disease, chronic inflammation, sleep apnea and possibly degenerative bone disorders and cognitive decline. New incretin-based peptide therapies in development include a long-acting glucagon receptor agonist (LY3324954), dual GLP-1/glucagon receptor agonists (survodutide, pemvidutide, mazdutide, G49), triple GLP-1/GIP/glucagon receptor agonists (retatrutide, efocipegtrutide), a combination of semaglutide with the amylin analogue cagrilintide (CagriSema), a unimolecular GLP-1/amylin receptor dual agonist (amycretin), and a GIP receptor antibody with GLP-1 receptor agonism (MariTide). The creation of multi-targeting incretin-based synthetic peptides provides opportunities for improved management of type 2 diabetes and obesity as well as new therapeutic approaches to an expanding list of associated co-morbidities. The aim of the review is to acquaint the reader with developments in the field from 2023 to the present (February 2025)."
+  },
+  {
+   "pmid": "41747885",
+   "titel": "Long-acting amylin-related peptides as therapies for obesity and type 2 diabetes",
+   "jahr": "2026",
+   "journal": "Peptides",
+   "erstautor": "Bailey CJ",
+   "doi": "10.1016/j.peptides.2026.171480",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "The first therapeutically useful amylin receptor (AMYR) agonist, pramlintide was based upon the structure of non-aggregating rat amylin and found limited application as an adjunct to insulin therapy. It acts centrally to induce satiety, promote weight loss, suppress prandial glucagon release and reduce prandial hyperglycaemia. Recent understanding of the heterodimeric structure of amylin-calcitonin receptor complexes and of amylin structure-function properties has assisted the design of a second generation of non-aggregating, long-acting amylin analogues. These are now advancing in clinical development and promise to provide an effective additional resource for the management of obesity and type 2 diabetes. Amongst these agents is the dual AMYR/ calcitonin-receptor (CTR) agonist, cagrilintide that has also been co-formulated into a once weekly subcutaneous injection with the long-acting glucagon-like peptide-1receptor (GLP-1R) agonist, semaglutide (CagriSema). In clinical trials, CagriSema has achieved greater effects than either component alone. A unimolecular AMYR/CTR/GLP-1R multi-agonist peptide, amycretin has been developed for weekly injection and as a once-daily tablet. Several recently developed long-acting amylin analogues have shown strong efficacy as monotherapy in clinical trials: these include eloralintide, petrelintide, Met-233 and AZD6234. Other analogues with marked efficacy in preclinical studies, including non-peptide AMYR agonists are under development. Gastrointestinal side effects, especially nausea, similar to those reported for GLP-1R agonists are commonplace during initiation and up-titration of amylin analogues but mostly resolve during continued use. Evidence is emerging that long-acting AMYR agonists may show potential therapeutic benefits in treatment of patients with fatty liver disease, diabetes-associated kidney complications and resistant hypertension."
+  },
+  {
+   "pmid": "40550232",
+   "titel": "GLP-1 and amylin receptor multiagonism with amycretin for obesity management",
+   "jahr": "2025",
+   "journal": "Lancet",
+   "erstautor": "Khoo B",
+   "doi": "10.1016/S0140-6736(25)01250-4",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "40949933",
+   "titel": "Efficacy and safety of incretin co-agonists: Transformative advances in cardiometabolic healthcare",
+   "jahr": "2025",
+   "journal": "World J Cardiol",
+   "erstautor": "Bhat S",
+   "doi": "10.4330/wjc.v17.i8.107991",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "The ground-breaking development of the incretin agonists by manipulation of the incretin system, including the gut hormones glucagon-like peptide-1 (GLP-1) and glucose-dependent insulinotropic polypeptide (GIP), as well as the pancreatic hormone glucagon, has led to the emergence of promising pharmacotherapy for metabolic health. The GLP-1 receptor agonists (GLP-1RAs), namely liraglutide, dulaglutide, albiglutide, exenatide, and semaglutide, have been found to have beneficial effects on glycated hemoglobin, weight, lipid profile, and liver fat and thereby improving cardiometabolic health. Other drugs of the same group in development include Orforglipron, which has a high weight loss efficacy (-15% weight reduction). Long-acting GLP-1RAs in trials are Ecnoglutide, Efpeglenatide, TG103, and Visepegenatide. Many of these have cardiovascular benefits in terms of reduction in MACE (Non-fatal MI, Non-fatal stroke, and mortality). Tirzepatide is a dual GIP/GLP-1RA, the first drug of the group to be approved for diabetes and obesity with remarkably lower gastrointestinal side effects compared to GLP-1 monoagonists. The dual GLP-1/glucagon co-agonists cause tremendous weight loss due to the synergistic action. Most drugs in this class are long-acting and developed for once-weekly administration. The revolutionary triple agonists at the GLP-1, GIP, and Glucagon receptors have demonstrated the highest achievable weight loss with pharmacotherapy. Retatrutide and Efocipegtrutide belong to this novel group of drugs. The newer drugs in the broad category of incretin co-agonists include the GLP-1/amylin receptor agonist like CagriSema and Amycretin, oral GLP-1 agonists other than semaglutide, and the peptide YY/GLP-1 receptor dual agonists. The profound biochemical and weight loss outcomes associated with incretin co-/poly-agonists are expected to translate into outstanding cardiometabolic benefits, the theme of this evidence review."
+  },
+  {
+   "pmid": "42315994",
+   "titel": "Peptide Marriages: Modular Assembly of Multi-Agonist Therapeutics",
+   "jahr": "2026",
+   "journal": "Chemistry",
+   "erstautor": "Kostadinova KA",
+   "doi": "10.1002/chem.71280",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Multi-receptor peptide agonists represent an effective strategy for obesity treatment, extending the success of incretin-based therapies through simultaneous engagement of complementary targets. Their development, however, is synthetically demanding, as each receptor combination typically requires de novo preparation of large fusion peptides. We report a modular polyethylene glycol (PEG)-based scaffold that enables orthogonal attachment of up to three functional components, including therapeutic peptides, half-life-extending units, and other labels, via sequential strain-promoted azide-alkyne cycloaddition (SPAAC) and copper-catalysed azide-alkyne cycloaddition (CuAAC). The scaffold is assembled on solid phase without intermediate purification, providing a readily accessible and versatile linker. Using glucagon-like peptide-1 (GLP-1) and amylin receptor agonists as a proof-of-concept, dual-agonist constructs with tuneable valency and functionality were rapidly generated. Lead conjugates displayed balanced, low-picomolar potency at both receptors in cyclic adenosine monophosphate (cAMP) assays and showed selective receptor-mediated internalisation in GLP-1 receptor-expressing cells. This orthogonal click-based platform enables rapid and modular multi-agonist assembly, facilitating systematic exploration of receptor combinations, valency, and payload effects. Beyond incretin biology, it offers a general route to multifunctional peptide therapeutics and diagnostics."
+  },
+  {
+   "pmid": "42673585",
+   "titel": "Efficacy and Safety of Glucagon-like Peptide-1 Receptor Agonists and Co-agonists for Weight Loss Among Adults Without Diabetes : An Updated Systematic Review",
+   "jahr": "2026",
+   "journal": "Ann Intern Med",
+   "erstautor": "Moiz A",
+   "doi": "10.7326/ANNALS-25-05519",
+   "typ": [
+    "Systematic Review",
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "BACKGROUND: Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are increasingly used for weight management. PURPOSE: To update our prior systematic review evaluating the efficacy and safety of GLP-1 RAs and co-agonists among adults with overweight or obesity without diabetes. DATA SOURCES: MEDLINE, Embase, and Cochrane Central Register of Controlled Trials from 5 October 2024 through 25 March 2026. STUDY SELECTION: Randomized controlled trials ([RCTs] treatment duration ≥16 weeks). DATA EXTRACTION: Two reviewers independently extracted data. DATA SYNTHESIS: Thirty-eight RCTs (n = 25 816) were included, adding 14 new trials (n = 11 000) to the prior review. Among commercially available therapies, placebo-subtracted weight loss reached up to -5.8% (95% CI, -8.0% to -3.6%) for liraglutide, -14.8% (CI, -16.2% to -13.4%) for subcutaneous semaglutide, -14.3% (CI, -17.2% to -11.4%) for oral semaglutide, -12.4% (CI, -15.1% to -9.7%) for orforglipron, and -19.0% (CI, -21.6% to -16.4%) for tirzepatide. Numerically greater placebo-subtracted reductions were seen with emerging multiagonists, including -23.9% (CI, -29.3% to -18.5%) with amycretin and -22.1% (CI, -24.9% to -19.3%) with retatrutide. Gastrointestinal adverse events (AEs) remained common (GLP-1 RA vs. placebo: 76.0% vs. 40.1%). Discontinuation due to AEs was generally low (10.7% vs. 3.4%) but numerically higher with some oral agents. Serious AEs (6.5% vs. 5.2%) and deaths (0.1% vs. 0.0%) were rare, with no new safety signals identified. Head-to-head data showed greater weight loss with semaglutide and JNJ-64565111 than liraglutide and greater weight loss with tirzepatide and cagrilintide-semaglutide (CagriSema; Novo Nordisk) than semaglutide. LIMITATIONS: Heterogeneity precluded quantitative synthesis. Safety outcomes were inconsistently reported. CONCLUSION: Glucagon-like peptide-1 receptor agonists demonstrate substantial weight loss in adults without diabetes, with an expanding range of therapeutic options, including oral and multiagonist therapies. PRIMARY FUNDING SOURCE: None. (PROSPERO: CRD42024505558)."
+  },
+  {
+   "pmid": "41948476",
+   "titel": "Obesity pharmacotherapy reimagined: The era of multi-receptor agonists and next-generation metabolic modulators, perspectives and controversies",
+   "jahr": "2026",
+   "journal": "Metabol Open",
+   "erstautor": "Lempesis IG",
+   "doi": "10.1016/j.metop.2026.100463",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Obesity affects over 2 billion adults globally, with projections indicating that nearly two-thirds of adults will be affected by 2050. Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have transformed obesity treatment, achieving weight loss previously considered attainable only with bariatric surgery. However, GLP-1-based therapies have revealed important limitations, including weight loss plateaus, substantial inter-individual variability, and weight regain upon discontinuation, underscoring the need for next-generation approaches. Existing reviews have focused predominantly on approved GLP-1RAs, with limited synthesis of emerging multi-receptor agonists, oral formulations, and body composition-targeted agents, while guidance on treatment personalization and sequencing strategies remains limited. This review examines the evolving landscape of obesity pharmacotherapy beyond injectable GLP-1RAs. Oral GLP-1 agonists, including orforglipron, offer comparable efficacy to injectables while potentially improving global accessibility by eliminating cold-chain requirements and simplifying manufacturing. Multi-receptor agonists represent the most transformative developments: triple agonists such as retatrutide achieve weight reductions of 20-24%, while dual GLP-1/glucagon agonists like survodutide and mazdutide show strong efficacy with particular promise for metabolic-associated steatotic liver disease. Maridebart cafraglutide, combining GLP-1 agonism with glucose-dependent insulinotropic polypeptide (GIP) antagonism, enables once-monthly dosing. The amylin pathway has re-emerged through long-acting analogs (cagrilintide, eloralintide) and unimolecular co-agonists (amycretin), achieving weight reductions up to 24% via distinct neuroendocrine circuits. Body composition optimization through agents like bimagrumab addresses lean mass preservation during potent anorectic therapy. Personalized approaches, including setmelanotide for monogenic obesity, exemplify precision pharmacotherapy. Collectively, these advances signal a shift from appetite-centric weight loss toward integrated metabolic, neuroendocrine, and body-composition-focused disease modification. The next epoch of obesity pharmacotherapy will be defined by multi-receptor strategic combinations, targeted approaches to preserve lean mass, and personalized treatment algorithms. Critical priorities include phenotype-stratified trials, long-term safety surveillance, pediatric obesity research, and implementation science to ensure equitable global access. Balancing pharmacologic innovation with sustainable, equitable implementation remains the defining challenge ahead."
+  },
+  {
+   "pmid": "41255585",
+   "titel": "Synthetic target trial emulation and predictive modeling of amylin-pathway therapies for obesity and type 2 diabetes",
+   "jahr": "2025",
+   "journal": "Metabol Open",
+   "erstautor": "Al-Harbi FA",
+   "doi": "10.1016/j.metop.2025.100414",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "INTRODUCTION: Amylin-pathway therapies represent a novel therapeutic class for obesity and type 2 diabetes, however head-to-head comparative data and long-term outcome predictions remain limited. We conducted target trial emulation and computational predictive modeling aiming to predict future trial outcomes and comparative effectiveness across the amylin-pathway development program. METHODS: Following PRISMA 2020 and TARGET framework guidelines, we search in the current literature for eligible trials and extracted data from seven randomized controlled trials (N = 5,786 participants) of amylin-pathway therapies published up to September 2025. We reconstructed high-precision synthetic individual patient data (IPD) and developed computational models for virtual head-to-head comparisons, dose-response optimization, longitudinal trajectory prediction, and trial simulation. Network meta-analysis integrated evidence across CagriSema, cagrilintide, and amycretin formulations. RESULTS: Synthetic IPD reconstruction achieved >99 % fidelity to source trials, validated through leave-trial-out cross-validation (efficacy RMSE: 2.9 % points, calibration slope: 0.61; discontinuation RMSE: 0.18, slope: 1.08). Virtual head-to-head modeling confirmed CagriSema superiority over amycretin subcutaneous at matched timepoints (posterior probability >0.95). Dose-response modeling identified optimal amycretin exposures (ED80: 8.88 mg subcutaneous, 95 % CI: 7.12-11.08), with benefit-risk frontier analysis delineating a therapeutic window at 10-20 mg balancing efficacy plateau against tolerability thresholds (GI-AE <75 %, discontinuation <20 %). Longitudinal kinetics showed plateau timing at 52-68 weeks for obesity outcomes and 24-32 weeks for glycemic endpoints. Heterogeneity analysis revealed complete resolution for GI adverse events (I2_DL = 0 %, τ2 = 0) and moderate variation for discontinuation (I2_DL = 13 %, τ2 = 0.03) after logit-scale correction with proper within-arm variance weighting. Machine learning models predicted treatment response with 82-87 % accuracy using baseline characteristics. CONCLUSIONS: Synthetic target trial emulation with structured validation (leave-trial-out, posterior predictive checks, simulation-based calibration) demonstrated promising evidence for amylin-pathway development optimization. Benefit-risk frontier analysis identified an optimal 10-20 mg subcutaneous therapeutic window, and heterogeneity quantification through maximum a posteriori (MAP) predictive interval provides design-ready estimates for confirmatory trials requiring around 800-1,200 participants per arm for 90 % power."
+  },
+  {
+   "pmid": "42444567",
+   "titel": "Medical treatments for obesity: what does the future have in store?",
+   "jahr": "2026",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Bassatne A",
+   "doi": "10.1210/clinem/dgag274",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "CONTEXT: Obesity is a chronic relapsing disease associated with substantial morbidity, mortality, and health care costs. Contemporary obesity pharmacotherapies extend beyond weight reduction, with evidence for improvements across multiple obesity-related complications, supporting a shift toward phenotype-guided, complication-centric care. EVIDENCE ACQUISITION: A systematic literature search of the Medline database using MeSH terms and keywords related to new-generation obesity pharmacotherapy was conducted to identify articles published between 2021 and 2026. Reference lists of relevant reviews were screened to identify additional eligible studies. Phase 2 and 3 clinical trials evaluating emerging obesity pharmacotherapies in adults and reporting outcomes, including weight loss and obesity-related complications, were included. EVIDENCE SYNTHESIS: Entero-pancreatic hormone-based therapies targeting glucagon-Like peptide-1 (GLP-1), glucose-dependent insulinotropic polypeptide, amylin, and glucagon pathways demonstrate substantial efficacy beyond weight reduction. These hormones act through complementary mechanisms regulating appetite, energy balance, and metabolic homeostasis. GLP-1 based agents achieve approximately 10-15% weight loss, whereas agents targeting multiple pathways demonstrate greater efficacy. Tirzepatide, CagriSema, and amycretin achieved weight reductions exceeding 20% and the triple agonist retatrutide produced reductions exceeding 25%. Beyond weight loss, these agents improve glycemia, support diabetes prevention, and produce organ-specific benefits, including reduced cardiovascular events, improved heart failure symptoms, decreased obstructive sleep apnea severity, improvement of metabolic dysfunction-associated steatohepatitis, slowing chronic kidney disease progression, and reduced osteoarthritis-related pain. CONCLUSION: Next-generation obesity pharmacotherapies represent a major advance in obesity management and support a treat-to-target approach prioritizing improvement in obesity-related complications and metabolic health. Effective implementation will require individualized therapy and attention to long-term safety, access, and equitable delivery of care."
+  },
+  {
+   "pmid": "41344603",
+   "titel": "Amylin receptors as therapeutic targets in obesity: Emerging peptide-based strategies",
+   "jahr": "2026",
+   "journal": "Vascul Pharmacol",
+   "erstautor": "Rejili M",
+   "doi": "10.1016/j.vph.2025.107563",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Obesity is a chronic, relapsing metabolic disorder driven by complex genetic and environmental factors, leading to an imbalance in energy regulation. Despite the presence of GLP-1 receptor agonists with induced mild weight loss, there are significant unmet clinical needs with poor efficacy and tolerability problems. Amylin, a neuroendocrine hormone co-released with insulin, controls hunger, gastric motility, glucagon secretion, and energy metabolism via divergent amylin receptor (AMYR) subtypes (1-3), namely the calcitonin receptor (CTR) and the receptor activity-modifying proteins (RAMPs). Novel insight into the molecular make-up of AMYRs and central signaling reinforces its key function in modulating homeostatic and hedonic feeding mechanisms. The article is a review of the emerging preclinical and clinical data regarding the application of peptide-based amylin receptor agonists (AMYRAs), including pramlintide and cagrilintide, KBP-series DACRAs, and investigational drugs, including ZP8396 and amycretin. The agents show enhanced pharmacokinetics, synergy with GLP-1 receptor agonist, and favorable impact on weight regulation and metabolic plasticity. Genetic CALCR and RAMP mutations, new delivery approaches, and dual therapy by digital health technologies and bariatric surgery are also discussed in this review. Of particular interest, amylin-derived medications can have advantages over weight loss but definite disease-modifying action remains to be determined. Taken together, AMYRAs represent a potential category of therapeutics with promising disease-modifying effects that goes beyond weight loss, providing fresh perspectives for precision obesity management by 2030."
+  },
+  {
+   "pmid": "42175595",
+   "titel": "Novel Amylin-Based Therapies for Weight Management in Adults With Overweight or Obesity Without Diabetes: A Network Meta-Analysis",
+   "jahr": "2026",
+   "journal": "Endocrinol Diabetes Metab",
+   "erstautor": "Kamrul-Hasan ABM",
+   "doi": "10.1002/edm2.70247",
+   "typ": [
+    "Journal Article",
+    "Network Meta-Analysis",
+    "Review"
+   ],
+   "abstract": "BACKGROUND: Long-acting amylin-based therapies (ABTs) are emerging anti-obesity agents; we sought to compare their effects on weight and anthropometric outcomes in adults with overweight/obesity without diabetes, evaluate gastrointestinal (GI) safety, and rank agents and doses within a network meta-analysis (NMA) framework. METHODS: We conducted a frequentist random-effects NMA of randomized controlled trials comparing novel ABTs with placebo or active comparators in R. Primary outcome was the percent change in body weight from baseline. Secondary outcomes included absolute weight changes, anthropometric measures, and overall and specific GI adverse events (AEs). Treatments (including dose strata) were compared with placebo within a single network and ranked using P scores. RESULTS: Six trials (N = 4642; 12-68 weeks) were included. Compared with placebo, high dose (HiD) subcutaneous amycretin produced the largest reduction in percent body weight (mean difference -23.95%; P score 1.00), followed by HiD eloralintide (-18.01%; P score 0.89) and HiD CagriSema (-17.18%; P score 0.85), all exceeding semaglutide 2.4 mg (-11.45%) and liraglutide 3.0 mg (-6.4%). Almost similar patterns were observed for absolute weight, body mass index, waist circumference and categorical weight-loss thresholds. GI AEs, nausea, vomiting and constipation were more common with HiD ABTs, especially oral amycretin and CagriSema, while diarrhoea mainly increased with semaglutide 2.4 mg. Only HiD CagriSema increased AE-related discontinuation. CONCLUSIONS: Novel ABTs, such as HiD amycretin, CagriSema and eloralintide, may induce substantial short- to medium-term weight loss but may also increase GI AEs; given sparse, low-certainty data, these findings are preliminary and require confirmation in larger trials. TRIAL REGISTRATION: The meta-analysis was registered in PROSPERO (CRD420261340457). The review protocol summary can be accessed at the PROSPERO website (https://www.crd.york.ac.uk/PROSPERO/view/CRD420261340457)."
+  },
+  {
+   "pmid": "39204092",
+   "titel": "Managing Post-Transplant Diabetes Mellitus after Kidney Transplantation: Challenges and Advances in Treatment",
+   "jahr": "2024",
+   "journal": "Pharmaceuticals (Basel)",
+   "erstautor": "Rudzki G",
+   "doi": "10.3390/ph17080987",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Kidney transplantation is the most effective treatment for end-stage renal failure but is associated with complications, including post-transplant diabetes mellitus (PTDM). It affects the quality of life and survival of patients and the transplanted organ. It can cause complications, including infections and episodes of acute rejection, further threatening graft survival. The prevalence of PTDM, depending on the source, can range from 4 to 30% in transplant patients. This article aims to discuss issues related to diabetes in kidney transplant patients and the latest treatments. Knowledge of the mechanisms of action of immunosuppressive drugs used after transplantation and their effect on carbohydrate metabolism is key to the rapid and effective detection of PTDM. Patient therapy should not only include standard management such as lifestyle modification, insulin therapy or pharmacotherapy based on well-known oral and injection drugs. New opportunities are offered by hypoglycemic drugs still in clinical trials, including glucokinase activators, such as dorzagliatin, ADV-1002401, LY2608204, TMG-123, imeglimine, amycretin and pramlintide. Although many therapeutic options are currently available, PTDM often creates uncertainty about the most appropriate treatment strategy. Therefore, more research is needed to individualize therapeutic plans and monitor these patients."
+  },
+  {
+   "pmid": "42803913",
+   "titel": "New Amylin-Based Agonists for the Treatment of Obesity and Type 2 Diabetes Mellitus",
+   "jahr": "2026",
+   "journal": "Diabetes Ther",
+   "erstautor": "Panou T",
+   "doi": "10.1007/s13300-026-01921-0",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "INTRODUCTION: Type 2 diabetes mellitus (T2DM) and obesity represent two major global health challenges. Amylin-based agonists offer a promising perspective. Three frontrunner agents of this class are increasingly being investigated: zenagamtide, eloralintide and cagrilintide-semaglutide (CagriSema). METHODS: A search in PubMed/MEDLINE, Scopus and Google Scholar was conducted with the use of appropriate keywords until June 2026 for this narrative review. RESULTS: Zenagamtide (formerly known as amycretin), a unimolecular long-lasting amylin and glucagon-like peptide-1 receptor (GLP-1R) co-agonist, achieved weight loss up to 13.1% (phase 1 study, 85 days) in obesity trials as an oral formulation and up to 24.3% (phase 1b/2a study, 36 weeks) as a subcutaneous formulation. Moreover, eloralintide, a long-acting mostly amylin type 1 receptor (AMY1R) agonist, achieved weight loss up to 20.1% (phase 2 study, 48 weeks), and CagriSema resulted in weight loss up to 22.7% (phase 3a study, 68 weeks). All these agents reduced body mass index (BMI) and waist circumference (WC). In T2DM, CagriSema reduced glycated haemoglobin (HbA1c) by up to 2.0% (trial product estimand, phase 3a study, 68 weeks) and is currently the most well-studied agent in T2DM. In treatment-naïve people with T2DM, this agent has been successfully used, leading even to T2DM remission in approximately one out of two CagriSema users (phase 3a, 40 weeks). In individuals with T2DM receiving basal insulin, it reduced insulin dose by 20 units compared with the control arm (phase 3a, 40 weeks). The safety profile of amycretin and CagriSema is overall consistent with that of glucagon-like peptide 1 receptor agonists (GLP-1RAs). Preliminary evidence suggests that eloralintide, as an AMY1R monoagonist, was associated with a distinct adverse events profile, including fatigue, headache and appetite loss. CONCLUSIONS: These agents hold therapeutic potential in the management of both T2DM and obesity, as shown by preliminary clinical trial outcomes. Further trials are now needed to validate them in clinical practice."
+  },
+  {
+   "pmid": "42768195",
+   "titel": "Future GLP-1 receptor co-agonists and their cardiac effects",
+   "jahr": "2026",
+   "journal": "Naunyn Schmiedebergs Arch Pharmacol",
+   "erstautor": "Neumann J",
+   "doi": "10.1007/s00210-026-05908-3",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Agonists at glucagon-like-peptide-1 receptors (GLP-1R) are becoming approved drugs to treat not only type 2 diabetes and obesity but also cardiac diseases such as coronary heart disease, myocardial infarction and heart failure. Agonism at the GLP-1R can be combined with agonism at additional receptors (co-agonists) to obtain drugs which are more potent to induce weight loss. Therefore, new co-agonists were developed that not solely stimulate GLP-1R. We discuss here the known (for tirzepatide and retatrutide) or predicted contractile effects of such co-agonists on isolated cardiac preparations of experimental animals, mainly in mice and compare these results with data in isolated human cardiac preparations. We point out where preclinical studies in mice may be misleading in order to study cardiac effects of the drugs of interest in the human heart and as potential drugs for heart diseases. We address in some detail which additional receptors are or might be involved, the receptor expression of such additional receptors in the heart of various experimental animals. We will discuss not only receptor agonists but also a receptor antagonist (AMG133). We identify research needs and controversies in the literature. We make suggestions for further preclinical research and what improvements in drug design for treatment may lie ahead."
+  },
+  {
+   "pmid": "42889249",
+   "titel": "Modern Obesity Treatment: Efficacy, Safety, and Future Directions of GLP-1 (Glucagon-Like Peptide-1) and GIP (Glucose-Dependent Insulinotropic Polypeptide) Receptor Agonists",
+   "jahr": "2026",
+   "journal": "Cureus",
+   "erstautor": "Bartkowiak D",
+   "doi": "10.7759/cureus.116245",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Obesity is a chronic and heterogeneous disease associated with a substantial burden of metabolic, cardiovascular, hepatic, and renal complications. In recent years, incretin-based therapies have changed the pharmacological management of obesity by providing levels of weight reduction that were previously difficult to achieve with medical treatment alone. This narrative review summarizes current evidence on the efficacy, safety, and broader clinical effects of glucagon-like peptide-1 (GLP-1) receptor agonists and dual glucose-dependent insulinotropic polypeptide (GIP)/GLP-1 receptor agonists in adults with overweight or obesity. Relevant literature was identified through searches of major medical databases, with emphasis on randomized controlled trials, meta-analyses, systematic reviews, clinical guidelines, and pivotal phase 2 and phase 3 trials. Liraglutide established the role of GLP-1 receptor agonism in weight management, while semaglutide provided greater and more sustained weight reduction. Tirzepatide, a dual GIP/GLP-1 receptor agonist, produced greater weight loss than semaglutide in direct comparative studies. Beyond weight reduction, incretin-based therapies have demonstrated favorable effects on glycemic control, cardiovascular risk, kidney outcomes, metabolic dysfunction-associated steatotic liver disease, and quality of life. Gastrointestinal adverse effects, particularly nausea, vomiting, and diarrhea, remain the most common limitations and are most prominent during dose escalation. Emerging multi-receptor and combination therapies, including retatrutide, CagriSema, MariTide, and amycretin, may further expand treatment options, although long-term efficacy and safety data remain limited. Overall, incretin-based therapies support a shift from weight-centered obesity treatment toward individualized, complication-oriented long-term care."
+  }
+ ],
+ "ctgov": [
+  {
+   "nct": "NCT06049329",
+   "titel": "A Research Study of How a New Medicine Called Amycretin, Given as Tablets, Works in Japanese Men With Obesity",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 36,
+   "start": "2023-09-14",
+   "ende": "2023-12-15",
+   "erkrankungen": [
+    "Obesity"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  }
+ ],
+ "gruppe": "A_stoffwechsel"
+}

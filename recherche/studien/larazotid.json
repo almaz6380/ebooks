@@ -1,0 +1,1118 @@
+{
+ "name": "Larazotid",
+ "status": "nicht_zugelassen",
+ "suchbegriff_pubmed": "larazotide[tiab]",
+ "suchbegriff_ctgov": "larazotide",
+ "humanstudien_alle": [
+  {
+   "pmid": "40737433",
+   "titel": "Viral spike antigen clearance and augmented recovery in children with post-COVID multisystem inflammatory syndrome treated with larazotide",
+   "jahr": "2025",
+   "journal": "Sci Transl Med",
+   "erstautor": "Yonker LM",
+   "doi": "10.1126/scitranslmed.adu4284",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase II",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "25683116",
+   "titel": "Larazotide acetate for persistent symptoms of celiac disease despite a gluten-free diet: a randomized controlled trial",
+   "jahr": "2015",
+   "journal": "Gastroenterology",
+   "erstautor": "Leffler DA",
+   "doi": "10.1053/j.gastro.2015.02.008",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "23163616",
+   "titel": "Larazotide acetate in patients with coeliac disease undergoing a gluten challenge: a randomised placebo-controlled study",
+   "jahr": "2013",
+   "journal": "Aliment Pharmacol Ther",
+   "erstautor": "Kelly CP",
+   "doi": "10.1111/apt.12147",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "22825365",
+   "titel": "A randomized, double-blind study of larazotide acetate to prevent the activation of celiac disease during gluten challenge",
+   "jahr": "2012",
+   "journal": "Am J Gastroenterol",
+   "erstautor": "Leffler DA",
+   "doi": "10.1038/ajg.2012.211",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  }
+ ],
+ "humanstudien_detail": [
+  {
+   "pmid": "40737433",
+   "titel": "Viral spike antigen clearance and augmented recovery in children with post-COVID multisystem inflammatory syndrome treated with larazotide",
+   "jahr": "2025",
+   "journal": "Sci Transl Med",
+   "erstautor": "Yonker LM",
+   "doi": "10.1126/scitranslmed.adu4284",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase II",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "abstract": "Multisystem inflammatory syndrome (MIS) is a severe disease that occurs weeks to months after acute infection with SARS-CoV-2, often occurring in children (MISC). Symptoms include high fever, rash, nausea, diarrhea, and abdominal pain. Children with MISC can develop cardiovascular injury including ventricular failure, coronary artery aneurysms, or shock. Current treatment strategies for these postacute sequelae of COVID-19 primarily target the hyperinflammatory response. However, a potential role for viral spike protein translocated via zonulin-mediated trafficking from gastrointestinal reservoirs of SARS-CoV-2 into the circulation has been suggested. Here, we report results from a phase 2a randomized, double-blind, placebo-controlled clinical trial testing the zonulin antagonist larazotide in 12 children with MISC with a median age of 5.7 years. Children were enrolled during hospitalization for acute MISC and were treated with adjuvant larazotide therapy four times daily for 3 weeks. Patients were monitored for 24 weeks for safety follow-up. No larazotide-related adverse events were reported. The concentration of SARS-CoV-2 spike protein antigen in blood samples correlated with inflammatory markers, including interferon-γ (IFN-γ) (P = 0.004) and interleukin-6 (IL-6) (P < 0.0001), and with gastrointestinal symptoms as assessed by the PedsQL GI symptom score (P = 0.003). Children treated with larazotide displayed faster resolution of gastrointestinal symptoms, faster clearance of spike antigen, and a faster return to usual activities. Our findings suggest that larazotide treatment may be safe in children and may improve resolution of symptoms when used as an adjuvant therapy for MISC."
+  },
+  {
+   "pmid": "25683116",
+   "titel": "Larazotide acetate for persistent symptoms of celiac disease despite a gluten-free diet: a randomized controlled trial",
+   "jahr": "2015",
+   "journal": "Gastroenterology",
+   "erstautor": "Leffler DA",
+   "doi": "10.1053/j.gastro.2015.02.008",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND & AIMS: Celiac disease (CeD) is a prevalent autoimmune condition. Recurrent signs and symptoms are common despite treatment with a gluten-free diet (GFD), yet no approved or proven nondietary treatment is available. METHODS: In this multicenter, randomized, double-blind, placebo-controlled study, we assessed larazotide acetate 0.5, 1, or 2 mg 3 times daily to relieve ongoing symptoms in 342 adults with CeD who had been on a GFD for 12 months or longer and maintained their current GFD during the study. The study included a 4-week placebo run-in, 12 weeks of treatment, and a 4-week placebo run-out phase. The primary end point was the difference in average on-treatment Celiac Disease Gastrointestinal Symptom Rating Scale score. RESULTS: The primary end point was met with the 0.5-mg dose of larazotide acetate, with fewer symptoms compared with placebo by modified intention to treat (n = 340) (analysis of covariance, P = .022; mixed model for repeated measures, P = .005). The 0.5-mg dose showed an effect on exploratory end points including a 26% decrease in celiac disease patient-reported outcome symptomatic days (P = .017), a 31% increase in improved symptom days (P = .034), a 50% or more reduction from baseline of the weekly average abdominal pain score for 6 or more of 12 weeks of treatment (P = .022), and a decrease in the nongastrointestinal symptoms of headache and tiredness (P = .010). The 1- and 2-mg doses were no different than placebo for any end point. Safety was comparable with placebo. CONCLUSIONS: Larazotide acetate 0.5 mg reduced signs and symptoms in CeD patients on a GFD better than a GFD alone. Although results were mixed, this study was a successful trial of a novel therapeutic agent targeting tight junction regulation in patients with CeD who are symptomatic despite a GFD. Clinicaltrials.gov: NCT01396213."
+  },
+  {
+   "pmid": "23163616",
+   "titel": "Larazotide acetate in patients with coeliac disease undergoing a gluten challenge: a randomised placebo-controlled study",
+   "jahr": "2013",
+   "journal": "Aliment Pharmacol Ther",
+   "erstautor": "Kelly CP",
+   "doi": "10.1111/apt.12147",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Coeliac disease, an autoimmune disorder triggered by gluten ingestion, is managed by a gluten-free diet (GFD), which is difficult for many patients. Larazotide acetate is a first-in-class oral peptide that prevents tight junction opening, and may reduce gluten uptake and associated sequelae. AIM: To evaluate the efficacy and tolerability of larazotide acetate during gluten challenge. METHODS: This exploratory, double-blind, randomised, placebo-controlled study included 184 patients maintaining a GFD before and during the study. After a GFD run-in, patients were randomised to larazotide acetate (1, 4, or 8 mg three times daily) or placebo and received 2.7 grams of gluten daily for 6 weeks. Outcomes included an experimental biomarker of intestinal permeability, the lactulose-to-mannitol (LAMA) ratio and clinical symptoms assessed by Gastrointestinal Symptom Rating Scale (GSRS) and anti-transglutaminase antibody levels. RESULTS: No significant differences in LAMA ratios were observed between larazotide acetate and placebo groups. Larazotide acetate 1-mg limited gluten-induced symptoms measured by GSRS (P = 0.002 vs. placebo). Mean ratio of anti-tissue transglutaminase IgA levels over baseline was 19.0 in the placebo group compared with 5.78 (P = 0.010), 3.88 (P = 0.005) and 7.72 (P = 0.025) in the larazotide acetate 1-, 4-, and 8-mg groups, respectively. Adverse event rates were similar between larazotide acetate and placebo groups. CONCLUSIONS: Larazotide acetate reduced gluten-induced immune reactivity and symptoms in patients with coeliac disease undergoing gluten challenge and was generally well tolerated; however, no significant difference in LAMA ratios between larazotide acetate and placebo was observed. Results and design of this exploratory study can inform the design of future studies of pharmacological interventions in patients with coeliac disease."
+  },
+  {
+   "pmid": "22825365",
+   "titel": "A randomized, double-blind study of larazotide acetate to prevent the activation of celiac disease during gluten challenge",
+   "jahr": "2012",
+   "journal": "Am J Gastroenterol",
+   "erstautor": "Leffler DA",
+   "doi": "10.1038/ajg.2012.211",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVES: In patients with celiac disease, enteropathy is caused by the entry of gluten peptides into the lamina propria of the intestine, in which their immunogenicity is potentiated by tissue transglutaminase (tTG) and T-helper type 1-mediated immune responses are triggered. Tight junction disassembly and paracellular permeability are believed to have an important role in the transport of gluten peptides to the lamina propria. Larazotide acetate is a tight-junction regulator peptide that, in vitro, prevents the opening of intestinal epithelial tight junctions. The aim of this study was to evaluate the efficacy and tolerability of larazotide acetate in protecting against gluten-induced intestinal permeability and gastrointestinal symptom severity in patients with celiac disease. METHODS: In this dose-ranging, placebo-controlled study, 86 patients with celiac disease controlled through diet were randomly assigned to larazotide acetate (0.25, 1, 4, or 8 mg) or placebo three times per day with or without gluten challenge (2.4 g/day) for 14 days. The primary efficacy outcome was the urinary lactulose/mannitol (LAMA) fractional excretion ratio. Secondary endpoints included gastrointestinal symptom severity, quality-of-life measures, and antibodies to tTG. RESULTS: LAMA measurements were highly variable in the outpatient setting. The increase in LAMA ratio associated with the gluten challenge was not statistically significantly greater than the increase in the gluten-free control. Among patients receiving the gluten challenge, the difference in the LAMA ratios for the larazotide acetate and placebo groups was not statistically significant. However, larazotide acetate appeared to limit gluten-induced worsening of gastrointestinal symptom severity as measured by the Gastrointestinal Symptom Rating Scale at some lower doses but not at the higher dose. Symptoms worsened significantly in the gluten challenge-placebo arm compared with the placebo-placebo arm, suggesting that 2.4 g of gluten per day is sufficient to induce reproducible gluten toxicity. Larazotide acetate was generally well tolerated. No serious adverse events were observed. The most common adverse events were headache and urinary tract infection. CONCLUSIONS: LAMA variability in the outpatient setting precluded accurate assessment of the effect of larazotide acetate on intestinal permeability. However, some lower doses of larazotide acetate appeared to prevent the increase in gastrointestinal symptom severity induced by gluten challenge."
+  }
+ ],
+ "metaanalysen": [
+  {
+   "pmid": "34339872",
+   "titel": "Larazotide acetate for treatment of celiac disease: A systematic review and meta-analysis of randomized controlled trials",
+   "jahr": "2022",
+   "journal": "Clin Res Hepatol Gastroenterol",
+   "erstautor": "Hoilat GJ",
+   "doi": "10.1016/j.clinre.2021.101782",
+   "typ": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+   ],
+   "abstract": "PURPOSE: The standard of care for treatment of celiac disease (CD) is a stringent lifetime gluten-free diet (GFD). Larazotide acetate (AT-1001) is an anti-zonulin which functions as a gut permeability regulator for treatment of CD. We endeavored to conduct a systematic review and meta-analysis of all randomized controlled trials (RCTs) which studied the efficacy and safety of AT-1001 in patients with CD. METHODS: We examined four databases from inception to 20-August-2020. We pooled continuous outcomes as mean difference and dichotomous outcomes as risk ratio with 95% confidence interval under the fixed-effects meta-analysis model. RESULTS: Four RCTs met our eligibility criteria, comprising 626 patients (AT-1001, n=465, placebo, n=161). Three and two RCTs reported outcomes of patients undergoing gluten challenge (intake of 2.4-2.7 grams of gluten/day) and GFD, respectively. For change in lactulose-to-mannitol ratio, the endpoint did not significantly differ between AT-1001 and placebo groups, irrespective of the gluten status. Subgroup analysis of patients undergoing gluten challenge showed AT-1001 treatment (compared with placebo) significantly correlated with better symptomatic improvement in the two endpoints of change in total gastrointestinal symptom rating scale (total GSRS) and CD-specific GSRS (CD-GSRS). However, no significant difference was noted among patients undergoing GFD for the abovementioned two efficacy endpoints. Compared with placebo, AT-1001 favorably reduced the adverse event (AE) of gluten-related diarrhea in patients who underwent gluten challenge. Other AEs were comparable between both AT-1001 and placebo groups. CONCLUSIONS: AT-1001 is largely well-endured and seems somehow superior to placebo in alleviating gastrointestinal symptoms among CD patients undergoing gluten challenge. Nevertheless, additional RCTs are warranted to validate these findings."
+  },
+  {
+   "pmid": "38648685",
+   "titel": "Celiac disease: Hope for new treatments beyond a gluten-free diet",
+   "jahr": "2024",
+   "journal": "Clin Nutr",
+   "erstautor": "D'heedene M",
+   "doi": "10.1016/j.clnu.2024.04.014",
+   "typ": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "abstract": "BACKGROUND & AIMS: Celiac disease (CD) is a chronic inflammatory disease of the small intestine induced and maintained by gluten ingestion in susceptible individuals. Current treatment consists of strict adherence to a lifelong gluten-free diet (GFD) which is considered safe and effective in the large majority of patients. However, since adherence to a GFD is difficult and has a negative impact on quality of life, an increasing interest in other treatment options has emerged. Moreover, in some individuals a GFD is not sufficiently effective, necessitating alternative treatments. METHODS: By performing a systematic search, we constructed a detailed narrative review. Only treatment options considered relevant and conducted in a phase I, II or III clinical trial were included. RESULTS: Based on the pathophysiology of CD, four major therapeutic approaches can be distinguished: firstly, by focusing on intraluminal gluten detoxification before absorption occurs, secondly, by modulating intestinal permeability and preventing paracellular uptake, thirdly, by enhancing immunological tolerance to gluten and finally, by regulating gluten auto-immunity. CONCLUSIONS: Despite significant efforts, no treatment has yet completed a phase III clinical trial. Future studies will likely focus on the use of supplemental drugs in conjunction to a GFD, with ALV003 and ZED-1227 currently being the most promising therapeutic options."
+  }
+ ],
+ "praeklinik": [
+  {
+   "pmid": "36638776",
+   "titel": "Targeting endothelial tight junctions to predict and protect thoracic aortic aneurysm and dissection",
+   "jahr": "2023",
+   "journal": "Eur Heart J",
+   "erstautor": "Yang X",
+   "doi": "10.1093/eurheartj/ehac823",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "AIMS: Whether changes in endothelial tight junctions (TJs) lead to the formation of thoracic aortic aneurysm and dissection (TAAD) and serve as an early indicator and therapeutic target remains elusive. METHODS AND RESULTS: Single-cell RNA sequencing analysis showed aberrant endothelial TJ expressions in the thoracic aortas of patients with TAAD. In a β-aminopropionitrile (BAPN)-induced TAAD mouse model, endothelial TJ function was disrupted in the thoracic aortas at an early stage (5 and 10 days) as observed by a vascular permeability assay, while the intercellular distribution of crucial TJ components was significantly decreased by en face staining. For the non-invasive detection of endothelial TJ function, two dextrans of molecular weights 4 and 70 kDa were conjugated with the magnetic resonance imaging (MRI) contrast agent Gd-DOTA to synthesize FITC-dextran-DOTA-Gd and rhodamine B-dextran-DOTA-Gd. MRI images showed that both probes accumulated in the thoracic aortas of the BAPN-fed mice. Particularly, the mice with increased accumulated signals from 5 to 10 days developed TAAD at 14 days, whereas the mice with similar signals between the two time points did not. Furthermore, the protease-activated receptor 2 inhibitor AT-1001, which seals TJs, alleviated the BAPN-induced impairment of endothelial TJ function and expression and subsequently reduced TAAD incidence. Notably, endothelial-targeted ZO-1 conditional knockout increased TAAD incidence. Mechanistically, vascular inflammation and edema were observed in the thoracic aortas of the BAPN-fed mice, whereas these phenomena were attenuated by AT-1001. CONCLUSION: The disruption of endothelial TJ function is an early event prior to TAAD formation, herein serving as a potential indicator and a promising target for TAAD."
+  },
+  {
+   "pmid": "32332732",
+   "titel": "Targeting zonulin and intestinal epithelial barrier function to prevent onset of arthritis",
+   "jahr": "2020",
+   "journal": "Nat Commun",
+   "erstautor": "Tajik N",
+   "doi": "10.1038/s41467-020-15831-7",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Gut microbial dysbiosis is associated with the development of autoimmune disease, but the mechanisms by which microbial dysbiosis affects the transition from asymptomatic autoimmunity to inflammatory disease are incompletely characterized. Here, we identify intestinal barrier integrity as an important checkpoint in translating autoimmunity to inflammation. Zonulin family peptide (zonulin), a potent regulator for intestinal tight junctions, is highly expressed in autoimmune mice and humans and can be used to predict transition from autoimmunity to inflammatory arthritis. Increased serum zonulin levels are accompanied by a leaky intestinal barrier, dysbiosis and inflammation. Restoration of the intestinal barrier in the pre-phase of arthritis using butyrate or a cannabinoid type 1 receptor agonist inhibits the development of arthritis. Moreover, treatment with the zonulin antagonist larazotide acetate, which specifically increases intestinal barrier integrity, effectively reduces arthritis onset. These data identify a preventive approach for the onset of autoimmune disease by specifically targeting impaired intestinal barrier function."
+  },
+  {
+   "pmid": "22401910",
+   "titel": "Larazotide acetate promotes tight junction assembly in epithelial cells",
+   "jahr": "2012",
+   "journal": "Peptides",
+   "erstautor": "Gopalakrishnan S",
+   "doi": "10.1016/j.peptides.2012.02.016",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Tight junctions (TJ) control paracellular permeability and apical-basolateral polarity of epithelial cells. Dysregulated permeability is associated with pathological conditions, such as celiac disease and inflammatory bowel disease. TJ formation is dependent on E-cadherin-mediated cell-cell adhesion and actin rearrangement, and is regulated by the Rho family GTPase and aPKC signaling pathways. Larazotide acetate, an 8-mer peptide and TJ modulator, inhibits TJ disassembly and dysfunction caused by endogenous and exogenous stimuli in intestinal epithelial cells. Here, we examined the effect of larazotide acetate on de novo TJ assembly using 2 different model systems. In MDCK cells, larazotide acetate promoted TJ assembly in a calcium switch assay. Larazotide acetate also promoted actin rearrangement, and junctional distribution of zonula occludens-1 (ZO-1), occludin, claudins, and E-cadherin. Larazotide acetate promoted TJ maturation and decreased paracellular permeability in \"leaky\" Caco-2 cells. Taken together, our data indicate that larazotide acetate enhances TJ assembly and barrier function by promoting actin rearrangement and redistribution of TJ and AJ proteins."
+  },
+  {
+   "pmid": "22401908",
+   "titel": "Larazotide acetate regulates epithelial tight junctions in vitro and in vivo",
+   "jahr": "2012",
+   "journal": "Peptides",
+   "erstautor": "Gopalakrishnan S",
+   "doi": "10.1016/j.peptides.2012.02.015",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Tight junctions (TJs) control paracellular permeability and apical-basolateral polarity of epithelial cells, and can be regulated by exogenous and endogenous stimuli. Dysregulated permeability is associated with pathological conditions, such as celiac disease and inflammatory bowel disease. Herein we studied the mechanism by which larazotide acetate, an 8-mer peptide and TJ regulator, inhibits the cellular changes elicited by gliadin fragments, AT-1002, and cytokines. Previously, we demonstrated that AT-1002, a 6-mer peptide derived from the Vibrio cholerae zonula occludens toxin ZOT, caused several biochemical changes in IEC6 and Caco-2 cells resulting in decreased transepithelial electrical resistance (TEER) and increased TJ permeability. In this study, larazotide acetate inhibited the redistribution and rearrangement of zonula occludens-1 (ZO-1) and actin caused by AT-1002 and gliadin fragments in Caco-2 and IEC6 cells. Functionally, larazotide acetate inhibited the AT-1002-induced TEER reduction and TJ opening in Caco-2 cells. Additionally, larazotide acetate inhibited the translocation of a gliadin 13-mer peptide, which has been implicated in celiac disease, across Caco-2 cell monolayers. Further, apically applied larazotide acetate inhibited the increase in TJ permeability elicited by basolaterally applied cytokines. Finally, when tested in vivo in gliadin-sensitized HLA-HCD4/DQ8 double transgenic mice, larazotide acetate inhibited gliadin-induced macrophage accumulation in the intestine and preserved normal TJ structure. Taken together, our data suggest that larazotide acetate inhibits changes elicited by AT-1002, gliadin, and cytokines in epithelial cells and preserves TJ structure and function in vitro and in vivo."
+  },
+  {
+   "pmid": "34339872",
+   "titel": "Larazotide acetate for treatment of celiac disease: A systematic review and meta-analysis of randomized controlled trials",
+   "jahr": "2022",
+   "journal": "Clin Res Hepatol Gastroenterol",
+   "erstautor": "Hoilat GJ",
+   "doi": "10.1016/j.clinre.2021.101782",
+   "typ": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+   ],
+   "abstract": "PURPOSE: The standard of care for treatment of celiac disease (CD) is a stringent lifetime gluten-free diet (GFD). Larazotide acetate (AT-1001) is an anti-zonulin which functions as a gut permeability regulator for treatment of CD. We endeavored to conduct a systematic review and meta-analysis of all randomized controlled trials (RCTs) which studied the efficacy and safety of AT-1001 in patients with CD. METHODS: We examined four databases from inception to 20-August-2020. We pooled continuous outcomes as mean difference and dichotomous outcomes as risk ratio with 95% confidence interval under the fixed-effects meta-analysis model. RESULTS: Four RCTs met our eligibility criteria, comprising 626 patients (AT-1001, n=465, placebo, n=161). Three and two RCTs reported outcomes of patients undergoing gluten challenge (intake of 2.4-2.7 grams of gluten/day) and GFD, respectively. For change in lactulose-to-mannitol ratio, the endpoint did not significantly differ between AT-1001 and placebo groups, irrespective of the gluten status. Subgroup analysis of patients undergoing gluten challenge showed AT-1001 treatment (compared with placebo) significantly correlated with better symptomatic improvement in the two endpoints of change in total gastrointestinal symptom rating scale (total GSRS) and CD-specific GSRS (CD-GSRS). However, no significant difference was noted among patients undergoing GFD for the abovementioned two efficacy endpoints. Compared with placebo, AT-1001 favorably reduced the adverse event (AE) of gluten-related diarrhea in patients who underwent gluten challenge. Other AEs were comparable between both AT-1001 and placebo groups. CONCLUSIONS: AT-1001 is largely well-endured and seems somehow superior to placebo in alleviating gastrointestinal symptoms among CD patients undergoing gluten challenge. Nevertheless, additional RCTs are warranted to validate these findings."
+  },
+  {
+   "pmid": "31157194",
+   "titel": "Evolving Therapy for Celiac Disease",
+   "jahr": "2019",
+   "journal": "Front Pediatr",
+   "erstautor": "Yoosuf S",
+   "doi": "10.3389/fped.2019.00193",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Gluten is known to be the main triggering factor for celiac disease (CeD), an immune-mediated disorder. CeD is therefore managed using a strict and lifelong gluten-free diet (GFD), the only effective treatment available currently. However, the GFD is restrictive. Hence, efforts are being made to explore alternative therapies. Based on their mechanisms of action on various molecular targets involved in the pathogenesis of CeD, these therapies may be classified into one of the following five broad approaches. The first approach focuses on decreasing the immunogenic content of gluten, using strategies like genetically modified wheat, intra-intestinal gluten digestion using glutenases, microwave thermal treatment of hydrated wheat kernels, and gluten pretreatment with either bacterial/ fungal derived endopeptidases or microbial transglutaminase. The second approach involves sequestering gluten in the gut lumen before it is digested into immunogenic peptides and absorbed, using binder drugs like polymer p(HEMA-co-SS), single chain fragment variable (scFv), and anti- gluten antibody AGY. The third approach aims to prevent uptake of digested gluten through intestinal epithelial tight junctions, using a zonulin antagonist. The fourth approach involves tissue transglutaminase (tTG) inhibitors to prevent the enhancement of immunogenicity of digested gluten by the intestinal tTG enzyme. The fifth approach seeks to prevent downstream immune activation after uptake of gluten immunogenic peptides through the intestinal mucosal epithelial layer. Examples include HLA-DQ2 blockers that prevent presentation of gluten derived- antigens by dendritic cells to T cells, immune- tolerizing therapies like the vaccine Nexvax2 and TIMP-Glia, cathepsin inhibitors, immunosuppressants like corticosteroids, azathioprine etc., and anti-cytokine agents targeting TNF-α and interleukin-15. Apart from these approaches, research is being done to evaluate the effectiveness of probiotics/prebiotics, helminth therapy using Necator americanus, low FODMAP diet, and pancreatic enzyme supplementation in CeD symptom control; however, the mechanisms by which they play a beneficial role in CeD are yet to be clearly established. Overall, although many therapies being explored are still in the pre-clinical phase, some like the zonulin antagonist, immune tolerizing therapies and glutenases have reached phase II/III clinical trials. While these potential options appear exciting, currently they may at best be used to supplement rather than supplant the GFD."
+  },
+  {
+   "pmid": "41010485",
+   "titel": "Is There a Future Without Gluten Restrictions for Celiac Patients? Update on Current Treatments",
+   "jahr": "2025",
+   "journal": "Nutrients",
+   "erstautor": "Girbal-González M",
+   "doi": "10.3390/nu17182960",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Celiac disease (CeD) is a chronic autoimmune enteropathy triggered by dietary gluten in genetically predisposed individuals. Along with other disorders such as non-celiac gluten/wheat sensitivity and gluten allergy, adherence to a strict gluten-free diet (GFD) is required as the only effective treatment for CeD. To this end, and partially due to the burdensome nature and limited efficacy in some patients of a GFD, significant research into alternative therapies has been catalyzed. This review gives a perspective on current and emerging treatment strategies targeting different aspects of CeD pathogenesis. These include gluten-degrading enzymes (e.g., AN-PEP, Latiglutenase, Zamaglutenase), gluten-sequestering agents (e.g., AGY-010, BL-7010), modulators of intestinal permeability (e.g., Larazotide acetate, IMU-856), immune-modulating agents (e.g., ZED1227, AMG 714, EQ102), and strategies for immune tolerization (e.g., TAK-101, KAN-101, Nexvax2). Newer approaches are also targeting probiotics to modulate the gut microbiota (e.g., VSL#3, Lactobacillus plantarum HEAL9), nutraceuticals (e.g., polyphenols, vitamins), or food modifications to remove the gluten from naturally gluten-containing foodstuffs (e.g., gluten transamidation, Gluten Friendly™ technology). Despite encouraging results in preclinical and clinical trials, no treatment has yet been conclusively proven to serve as an effective alternative to the GFD. Continued research is essential to validate efficacy, optimize dosing, and ensure safety in broader patient populations. Here, we provide a comprehensive overview of the therapeutic landscape for CeD, analyze the main strengths and limitations of each treatment and highlight promising directions for future management of CeD, altogether evidencing the urgent need to develop effective alternatives for these patients."
+  },
+  {
+   "pmid": "40579122",
+   "titel": "Coeliac disease and the intestinal barrier: mechanisms of disruption and strategies for restoration",
+   "jahr": "2026",
+   "journal": "Gut",
+   "erstautor": "Damianos JA",
+   "doi": "10.1136/gutjnl-2025-335373",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Coeliac disease is characterised by immune-mediated damage to the small intestine in response to dietary gluten in genetically predisposed individuals. Increased intestinal permeability is a central component to its pathophysiology. This review explores the evidence for increased permeability in coeliac disease and the underlying mechanisms, including the roles of zonulin, inflammatory cytokines, microbial alterations and immune responses to gliadin peptides. We also review comprehensively the therapies targeting barrier integrity and normalising intestinal permeability, including particular diets and supplements, and experimental and improved medications including larazotide acetate and IMU-856. Finally, we highlight the need for reliable biomarkers for evaluating increased permeability in coeliac disease and advocate for further research on therapies which normalise barrier function, particularly as a strategy to maintain remission."
+  },
+  {
+   "pmid": "31146067",
+   "titel": "Novel Nondietary Therapies for Celiac Disease",
+   "jahr": "2019",
+   "journal": "Cell Mol Gastroenterol Hepatol",
+   "erstautor": "Alhassan E",
+   "doi": "10.1016/j.jcmgh.2019.04.017",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Celiac Disease (CeD) is defined as a chronic small intestinal immune-mediated enteropathy that is precipitated by exposure to dietary gluten in genetically predisposed individuals. CeD is one of the most common autoimmune disorders affecting around 1% of the population worldwide. Currently, the only acceptable treatment for CeD is strict, lifelong adherence to a gluten-free diet (GFD) which can often present a challenging task. A GFD alone is not sufficient to control symptoms and prevent mucosal damage that can result from unintentional gluten exposure. Moreover, long-term complications can occur in many patients. Consequently, there is an unmet need for non-dietary therapies for the management of CeD. Such therapies could serve as an adjunct to the GFD but eventually may replace it. This review will focus on and discuss non-dietary therapies currently in clinical development for the management of CeD. METHODOLOGY: We searched clinicaltrials.gov and PubMed to extract articles about celiac disease. We used keywords including, but not limited to, \"celiac disease,\" \"non-dietary,\" \"therapeutics,\" \"pathophysiology,\" \"Endopeptidases,\" \"tight junction modulators,\" \"vaccine,\" and \"Nexvax2\". We focused mainly on articles that conducted pathophysiologic and therapeutic research in human trials."
+  },
+  {
+   "pmid": "33886649",
+   "titel": "Larazotide acetate induces recovery of ischemia-injured porcine jejunum via repair of tight junctions",
+   "jahr": "2021",
+   "journal": "PLoS One",
+   "erstautor": "Slifer ZM",
+   "doi": "10.1371/journal.pone.0250165",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Intestinal ischemia results in mucosal injury, including paracellular barrier loss due to disruption of tight junctions. Larazotide acetate (LA), a small peptide studied in Phase III clinical trials for treatment of celiac disease, regulates tight junctions (TJs). We hypothesized that LA would dose-dependently hasten recovery of intestinal ischemic injury via modulation of TJs. Ischemia-injured tissue from 6-8-week-old pigs was recovered in Ussing chambers for 240-minutes in the presence of LA. LA (1 μM but not 0.1 μM or 10 μM) significantly enhanced transepithelial electrical resistance (TER) above ischemic injured controls and significantly reduced serosal-to-mucosal flux LPS (P<0.05). LA (1 μM) enhanced localization of the sealing tight junction protein claudin-4 in repairing epithelium. To assess for the possibility of fragmentation of LA, an in vitro enzyme degradation assay using the brush border enzyme aminopeptidase M, revealed generation of peptide fragments. Western blot analysis of total protein isolated from uninjured and ischemia-injured porcine intestine showed aminopeptidase M enzyme presence in both tissue types, and mass spectrometry analysis of samples collected during ex vivo analysis confirmed formation of LA fragments. Treatment of tissues with LA fragments had no effect alone, but treatment with a fragment missing both amino-terminus glycines inhibited barrier recovery stimulated by 1 μM LA. To reduce potential LA inhibition by fragments, a D-amino acid analog of larazotide Analog #6, resulted in a significant recovery response at a 10-fold lower dose (0.1 μM) similar in magnitude to that of 1 μM LA. We conclude that LA stimulates repair of ischemic-injured epithelium at the level of the tight junctions, at an optimal dose of 1 μM LA. Higher doses were less effective because of inhibition by LA fragments, which could be subverted by chirally-modifying the molecule, or microdosing LA."
+  },
+  {
+   "pmid": "34791921",
+   "titel": "Effects of larazotide acetate, a tight junction regulator, on the liver and intestinal damage in acute liver failure in rats",
+   "jahr": "2021",
+   "journal": "Hum Exp Toxicol",
+   "erstautor": "Caliskan AR",
+   "doi": "10.1177/09603271211058882",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND AND AIM: The epithelial cells are the strongest determinants of the physical intestinal barrier. Tight junctions (TJs) hold the epithelial cells together and allow for selective paracellular permeability. Larazotide acetate (LA) is a synthetic octapeptide that reduces TJ permeability by blocking zonulin receptors. In this study, we aimed to investigate the effects of LA, a TJ regulator, on the liver and intestinal histology in the model of acute liver failure (ALF) in rats. MATERIALS AND METHODS: The thioacetamide (TAA) group received intraperitoneal (ip) injections of 300 mg/kg TAA for 3 days. The TAA+LA(dw) (drinking water) group received prophylactic 0.01 mg/mL LA orally for 7 days before the first dose of TAA. The LA(dw) group received 0.01 mg/mL LA orally. The TAA + LA(g) (gavage) group received prophylactic 0.01 mg/mL LA via oral gavage for 7 days before the first dose of TAA. The LA(g) group received 0.01 mg/mL LA via oral gavage. While liver tissue was evaluated only with light microscopy, intestinal samples were examined with light and electron microscopy. RESULTS: Serum ammonia, AST, and ALT levels in the TAA group were significantly higher than in control groups (all p < 0.01). Serum ALT levels in the TAA + LA(dw) group were significantly lower than in the TAA group (p < 0.05). However, serum ammonia and ALT levels did not differ between the TAA and other groups. Serious liver damage in the TAA group was accompanied by marked intestinal damage. There was no significant difference between the TAA and TAA + LA(dw) groups and TAA and TAA + LA(g) groups for liver damage scores. However, intestinal damage scores significantly decreased in the TAA + LA(dw) group compared to the TAA group. In the TAA + LA(dw) group, fusion occurred between the surface epithelial cells of neighboring villi and connecting regions formed as epithelial bridges between the villi. CONCLUSION: Our findings suggest that LA reduced intestinal damage by acting on TJs in the TAA-induced ALF model in rats."
+  },
+  {
+   "pmid": "26414923",
+   "titel": "Pharmacological approaches in celiac disease",
+   "jahr": "2015",
+   "journal": "Curr Opin Pharmacol",
+   "erstautor": "McCarville JL",
+   "doi": "10.1016/j.coph.2015.09.002",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "Celiac disease is an autoimmune enteropathy triggered by the ingestion of gluten, characterized by immune responses toward gluten constituents and the autoantigen transglutaminase 2. The only current treatment available for celiac disease is a gluten-free diet, however there are a plethora of therapies in development for the treatment of celiac disease (e.g. vaccine), management of symptoms while consuming gluten (e.g. Necator americanus) or adjuvant therapies in conjunction with the gluten-free diet (e.g. larazotide acetate). Current approaches in development target barrier function, immune responses, detoxifying gluten or sequestering gluten. Developing therapies include those targeting environmental factors, such as the microbiota or proteases."
+  },
+  {
+   "pmid": "33707052",
+   "titel": "The tight junction and the epithelial barrier in coeliac disease",
+   "jahr": "2021",
+   "journal": "Int Rev Cell Mol Biol",
+   "erstautor": "Jauregi-Miguel A",
+   "doi": "10.1016/bs.ircmb.2020.09.010",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Epithelial barriers are essential to maintain multicellular organisms well compartmentalized and protected from external environment. In the intestine, the epithelial layer orchestrates a dynamic balance between nutrient absorption and prevention of microorganisms, and antigen intrusion. Intestinal barrier function has been shown to be altered in coeliac disease but whether it contributes to the pathogenesis development or if it is merely a phenomenon secondary to the aberrant immune response is still unknown. The tight junction complexes are multiprotein cell-cell adhesions that seal the epithelial intercellular space and regulate the paracellular permeability of ions and solutes. These structures have a fundamental role in epithelial barrier integrity as well as in signaling mechanisms that control epithelial-cell polarization, the formation of apical domains and cellular processes such as cell proliferation, migration, differentiation, and survival. In coeliac disease, the molecular structures and function of tight junctions appear disrupted and are not completely recovered after treatment with gluten-free diet. Moreover, zonulin, the only known physiological regulator of the tight junction permeability, appears augmented in autoimmune conditions associated with TJ dysfunction, including coeliac disease. This chapter will examine recent discoveries about the molecular architecture of tight junctions and their functions. We will discuss how different factors contribute to tight junction disruption and intestinal barrier impairment in coeliac disease. To conclude, new insights into zonulin-driven disruption of tight junction structures and barrier integrity in coeliac disease are presented together with the advancements in novel therapy to treat the barrier defect seen in pathogenesis."
+  },
+  {
+   "pmid": "40915363",
+   "titel": "Antibacterial hyaluronic acid hydrogel with sustained release of larazotide as effective colitis treatment",
+   "jahr": "2025",
+   "journal": "J Control Release",
+   "erstautor": "Yu F",
+   "doi": "10.1016/j.jconrel.2025.114205",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Gut barrier loss exacerbated gut microbiota dysbiosis by permitting pathogenic blooms, while gut microbiota dysbiosis caused the development of gut mucosal wounds by reducing mucus and breaking down epithelial tight junction. Current therapies combating colitis often fail to address both gut barrier dysfunction and microbial imbalance. Herein, inspired by natural gut mucus, a dual-crosslinked hydrogel (HSMP-LA) composed of thiol/maleimide-modified hyaluronic acid together with co-loading of antimicrobial ε-polylysine (ε-PL) and larazotide acetate (LA) had been developed as an injectable artificial gut mucus to simultaneously restore barrier integrity and modulate gut microbiota. HSMP-LA exhibited robust muco-adhesion, the prolonged retention, and sustained-release profile of LA, effectively shielding the epithelium from luminal pathogens and toxins. Besides, HSMP-LA showed the broad-spectrum antimicrobial activity, while its sustained-release LA selectively inhibited zonulin-mediated tight junction disruption via combating MLCK/p-MLC signals, restoring epithelial integrity in LPS-injured Caco-2 cells. In DSS-induced colitis mice, HSMP-LA significantly reduced disease activity, suppressed pro-inflammatory cytokines and upregulated anti-inflammatory IL-10. It repaired tight junctions (ZO-1, occluding and claudin-5), restored mucus production (MUC2), and rebalanced gut microbiota. HSMP-LA hydrogel might offer a synergistic strategy to combat colitis via halting the vicious dysbiosis-mucus-epithelial barrier disorders cycle."
+  },
+  {
+   "pmid": "33793152",
+   "titel": "Tight junction regulation in celiac disease: role of larazotide acetate",
+   "jahr": "2022",
+   "journal": "Minerva Gastroenterol (Torino)",
+   "erstautor": "Armandi A",
+   "doi": "10.23736/S2724-5985.21.02838-5",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "31831308",
+   "titel": "Therapeutic options for coeliac disease: What else beyond gluten-free diet?",
+   "jahr": "2020",
+   "journal": "Dig Liver Dis",
+   "erstautor": "Caio G",
+   "doi": "10.1016/j.dld.2019.11.010",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Coeliac disease is a chronic and systemic autoimmune condition triggered by gluten ingestion in genetically predisposed subjects. Currently, the only effective treatment available is a strict, lifelong gluten-free diet. However, patients perceive gluten withdrawal as an unsustainable burden in their life and some of them can exhibit persistent symptoms despite a strict diet. Thus, gluten-free diet represents a challenge, leading scientists to look for alternative or complementary treatments. This review will focus on non-dietary therapies for coeliac disease highlighting six therapeutic strategies: (1) decreasing gluten immunogenic content before it reaches the intestine; (2) sequestering gluten in the gut lumen before absorption; (3) blocking the passage of gluten through a leaky intestinal barrier; (4) preventing the enhancement of immune response against gliadin; (5) dampening the downstream immune activation; (6) inducing immune tolerance to gluten. Most developing therapies are only in the pre-clinical phase with only a few being tested in phase 2b or 3 trials. Although new approaches raise the hope for coeliacs giving them a chance to come back to gluten, for the time being a cautionary appraisal of new therapies suggests that they may have a complementary role to gluten withdrawal, mainly to prevent inadvertent gluten contamination."
+  },
+  {
+   "pmid": "35211683",
+   "titel": "Zonulin Antagonist, Larazotide (AT1001), As an Adjuvant Treatment for Multisystem Inflammatory Syndrome in Children: A Case Series",
+   "jahr": "2022",
+   "journal": "Crit Care Explor",
+   "erstautor": "Yonker LM",
+   "doi": "10.1097/CCE.0000000000000641",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "OBJECTIVES: A recent study suggests that Multisystem Inflammatory Syndrome in Children (MIS-C) is triggered by gastrointestinal breach of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) viral particles from the gut lumen into systemic circulation. The virus remains in the gut weeks to months after respiratory infection, causing zonulin release from the intestinal epithelial cells. Zonulin loosens tight junctions, permitting trafficking of highly inflammatory viral particles into circulation. Current MIS-C treatments target the subsequent immune hyperactivation, not the causative loss of mucosal barrier integrity. Larazotide, a zonulin inhibitor, prevents breakdown of tight junctions, limiting antigen trafficking. DESIGN: Children with MIS-C were treated with larazotide as an adjuvant to steroid/intravenous immunoglobulin therapy. Clinical outcomes, SARS-CoV-2 antigenemia, and cytokine profiles are reported. Outcomes were compared with children with MIS-C receiving steroids and/or IVIG therapy alone. PATIENTS: Four children with MIS-C, ages 3-17 years, were enrolled. INTERVENTIONS: Patients were treated with open label larazotide 10 mcg/kg (maximum 500 mcg/dose) orally four times daily for 21 days. MEASUREMENTS AND MAIN RESULTS: All four patients tolerated larazotide without adverse effects and displayed reduction in Spike antigenemia to undetectable levels. When compared with 22 children with MIS-C receiving steroids and/or intravenous immunoglobulin therapy alone, larazotide-treated patients reported significantly improved time to resolution of gastrointestinal symptoms (p = 0.03), and time to clearance of Spike antigenemia (p = 0.04), plus a trend towards shorter length of stay. CONCLUSIONS: Larazotide appears safe and well-tolerated and may offer potential benefit as an adjuvant to immune-targeted therapies. Expansion of clinical trials is urgently needed to ascertain the clinical impact of larazotide on MIS-C."
+  },
+  {
+   "pmid": "33844694",
+   "titel": "In vivo assessment of a delayed release formulation of larazotide acetate indicated for celiac disease using a porcine model",
+   "jahr": "2021",
+   "journal": "PLoS One",
+   "erstautor": "Enomoto H",
+   "doi": "10.1371/journal.pone.0249179",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "There is no FDA approved therapy for the treatment of celiac disease (CeD), aside from avoidance of dietary gluten. Larazotide acetate (LA) is a first in class oral peptide developed as a tight junction regulator, which is a lead candidate for management of CeD. A delayed release formulation was tested in vitro and predicted release in the mid duodenum and jejunum, the target site of CeD. The aim of this study was to follow the concentration versus time profile of orally administered LA in the small intestine using a porcine model. A sensitive liquid chromatography/tandem mass spectrometry method was developed to quantify LA concentrations in porcine intestinal fluid samples. Oral dosing of LA (1 mg total) in overnight fasted pigs resulted in time dependent appearance of LA in the distal duodenum and proximal jejunum. Peak LA concentrations (0.32-1.76 μM) occurred at 1 hour in the duodenum and in proximal jejunum following oral dosing, with the continued presence of LA (0.02-0.47 μM) in the distal duodenum and in proximal jejunum (0.00-0.43 μM) from 2 to 4 hours following oral dosing. The data shows that LA is available in detectable concentrations at the site of CeD."
+  },
+  {
+   "pmid": "27322016",
+   "titel": "Current and novel therapeutic strategies in celiac disease",
+   "jahr": "2016",
+   "journal": "Expert Rev Clin Pharmacol",
+   "erstautor": "Kurada S",
+   "doi": "10.1080/17512433.2016.1200463",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "INTRODUCTION: A gluten free diet (GFD) is the only available treatment for celiac disease (CD). However many patients fail to respond fully clinically or histologically. Several surveys highlight the psychosocial implications of adherence to a GFD. Hence, efforts are ongoing to develop therapeutic strategies beyond a GFD. AREAS COVERED: We conducted a search of PubMed and clinicaltrials.gov to extract articles on CD using keywords including 'celiac disease' and 'refractory celiac disease' (RCD) and focused on articles conducting pathophysiologic and therapeutic research in/ex-vivo models and human trials. We highlight novel therapeutics that manipulate these mechanisms including tight junction regulators, glutenases, gluten sequestrants and immunotherapy using vaccines, nanoparticles that may serve as adjuncts to a GFD or more ambitiously to allow for gluten consumption. We also highlight the role of anti-inflammatories, immunosuppressants and monoclonal antibodies in RCD. Expert commentary: Therapeutics including tight junction regulators, glutenases have the potential to be approved for non-responsive CD or as gluten adjuncts. We expect results of various phase 1/2 trials using AMG 714, BL 7010, IgY antibodies to be published. In the interim, off-label use of 5 amino-salicylates, budesonide, nucleoside analogues and newer biologics developed for other inflammatory diseases will be used in RCD."
+  },
+  {
+   "pmid": "29391007",
+   "titel": "Marked differences in tight junction composition and macromolecular permeability among different intestinal cell types",
+   "jahr": "2018",
+   "journal": "BMC Biol",
+   "erstautor": "Pearce SC",
+   "doi": "10.1186/s12915-018-0481-z",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ],
+   "abstract": "BACKGROUND: Mammalian small intestinal tight junctions (TJ) link epithelial cells to one another and function as a permselective barrier, strictly modulating the passage of ions and macromolecules through the pore and leak pathways, respectively, thereby preventing the absorption of harmful compounds and microbes while allowing regulated transport of nutrients and electrolytes. Small intestinal epithelial permeability is ascribed primarily to the properties of TJs between adjoining enterocytes (ENTs), because there is almost no information on TJ composition and the paracellular permeability of nonenterocyte cell types that constitute a small but significant fraction of the intestinal epithelia. RESULTS: Here we directed murine intestinal crypts to form specialized organoids highly enriched in intestinal stem cells (ISCs), absorptive ENTs, secretory goblet cells, or Paneth cells. The morphological and morphometric characteristics of these cells in organoids were similar to those in vivo. The expression of certain TJ proteins varied with cell type: occludin and tricellulin levels were high in both ISCs and Paneth cells, while claudin-1, -2, and -7 expression was greatest in Paneth cells, ISCs, and ENTs, respectively. In contrast, the distribution of claudin-15, zonula occludens 1 (ZO-1), and E-cadherin was relatively homogeneous. E-cadherin and claudin-7 marked mainly the basolateral membrane, while claudin-2, ZO-1, and occludin resided in the apical membrane. Remarkably, organoids enriched in ENTs or goblet cells were over threefold more permeable to 4 and 10 kDa dextran compared to those containing stem and Paneth cells. The TJ-regulator larazotide prevented the approximately tenfold increases in dextran flux induced by the TJ-disrupter AT1002 into organoids of different cell types, indicating that this ZO toxin nonselectively increases permeability. Forced dedifferentiation of mature ENTs results in the reacquisition of ISC-like characteristics in TJ composition and dextran permeability, suggesting that the post-differentiation properties of TJs are not hardwired. CONCLUSIONS: Differentiation of adult intestinal stem cells into mature secretory and absorptive cell types causes marked, but potentially reversible, changes in TJ composition, resulting in enhanced macromolecular permeability of the TJ leak pathway between ENTs and between goblet cells. This work advances our understanding of how cell differentiation affects the paracellular pathway of epithelia."
+  },
+  {
+   "pmid": "33881350",
+   "titel": "Larazotide acetate: a pharmacological peptide approach to tight junction regulation",
+   "jahr": "2021",
+   "journal": "Am J Physiol Gastrointest Liver Physiol",
+   "erstautor": "Slifer ZM",
+   "doi": "10.1152/ajpgi.00386.2020",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "Larazotide acetate (LA) is a single-chain peptide of eight amino acids that acts as a tight junction regulator to restore intestinal barrier function. LA is currently being studied in phase III clinical trials and is orally administered to adult patients with celiac disease as an adjunct therapeutic to enhance intestinal barrier function that has been disrupted by gliadin-induced immune reactivity. Mechanistically, LA is thought to act as a zonulin antagonist to reduce zonulin-induced increases in barrier permeability and has been associated with the redistribution and rearrangement of tight junction proteins and actin filaments to restore intestinal barrier function. More recently, LA has been linked to inhibition of myosin light chain kinase, which likely reduces tension on actin filaments, thereby facilitating tight junction closure. Small (rodent) and large (porcine) animal studies have been conducted that demonstrate the importance of LA as a tight junction regulatory peptide in conditions other than celiac disease, including collagen-induced arthritis in mice and intestinal ischemic injury in pigs."
+  },
+  {
+   "pmid": "38441784",
+   "titel": "Ameliorative Effects of Larazotide Acetate on Intestinal Permeability and Bacterial Translocation in Acute Pancreatitis Model in Rats",
+   "jahr": "2024",
+   "journal": "Dig Dis Sci",
+   "erstautor": "Karahan D",
+   "doi": "10.1007/s10620-024-08326-8",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: Intestinal barrier dysfunction in acute pancreatitis (AP) may progress to systemic inflammatory response syndrome (SIRS) and multi-organ failures by causing bacterial translocation. Larazotide acetate (LA) is a molecule that acts as a tight junction (TJ) regulator by blocking zonulin (Zo) receptors in the intestine. AIMS: In our study, we aimed to investigate the effects of LA on intestinal barrier dysfunction and bacterial translocation in the AP model in rats. METHODS: Thirty-two male Sprague-Dawley rats were divided into 4 groups; control, larazotide (LAR), AP, and AP + LAR. The AP model was created by administering 250 mg/100 g bm L-Arginine intraperitoneally 2 times with an hour interval. AP + LAR group received prophylactic 0.01 mg/mL LA orally for 7 days before the first dose of L-Arginine. For intestinal permeability analysis, fluorescein isothiocyanate-dextran (FITC-Dextran) was applied to rats by gavage. The positivity of any of the liver, small intestine mesentery, and spleen cultures were defined as bacterial translocation. Histopathologically damage and zonulin immunoreactivity in the intestine were investigated. RESULTS: Compared to the control group, the intestinal damage scores, anti-Zo-1 immunoreactivity H-Score, serum FITC-Dextran levels and bacterial translocation frequency (100% versus 0%) in the AP group were significantly higher (all p < 0.01). Intestinal damage scores, anti-Zo-1 immunoreactivity H-score, serum FITC-Dextran levels, and bacterial translocation frequency (50% versus 100%) were significantly lower in the AP + LAR group compared to the AP group (all p < 0.01). CONCLUSIONS: Our findings show that LA reduces the increased intestinal permeability and intestinal damage by its effect on Zo in the AP model in rats, and decreases the frequency of bacterial translocation as a result of these positive effects."
+  },
+  {
+   "pmid": "35887067",
+   "titel": "Celiac Disease and Targeting the Molecular Mechanisms of Autoimmunity in COVID Pandemic",
+   "jahr": "2022",
+   "journal": "Int J Mol Sci",
+   "erstautor": "Ailioaie LM",
+   "doi": "10.3390/ijms23147719",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Celiac disease (CD) comprises over 1% of the world's population and is a chronic multisystem immune-mediated condition manifested by digestive and/or extradigestive symptoms caused by food intake of gluten. This review looked at the risk of children diagnosed with CD developing SARS-CoV-2 infection and possible severe forms of COVID-19. A better understanding of the interaction and effects of SARS-CoV-2 infection in CD is very important, as is the role of environmental and genetic factors, but especially the molecular mechanisms involved in modulating intestinal permeability with impact on autoimmunity. CD inspired the testing of a zonulin antagonist for the fulminant form of multisystem inflammatory syndrome in children (MIS-C) and paved the way for the discovery of new molecules to regulate the small intestine barrier function and immune responses. Original published works on COVID-19 and CD, new data and points of view have been analyzed because this dangerous virus SARS-CoV-2 is still here and yet influencing our lives. Medical science continues to focus on all uncertainties triggered by SARS-CoV-2 infection and its consequences, including in CD. Although the COVID-19 pandemic seems to be gradually extinguishing, there is a wealth of information and knowledge gained over the last two years and important life lessons to analyze, as well as relevant conclusions to be drawn to deal with future pandemics. Zonulin is being studied extensively in immunoengineering as an adjuvant to improving the absorption of new drugs and oral vaccines."
+  },
+  {
+   "pmid": "34502335",
+   "titel": "Peptide Derivatives of the Zonulin Inhibitor Larazotide (AT1001) as Potential Anti SARS-CoV-2: Molecular Modelling, Synthesis and Bioactivity Evaluation",
+   "jahr": "2021",
+   "journal": "Int J Mol Sci",
+   "erstautor": "Di Micco S",
+   "doi": "10.3390/ijms22179427",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "A novel coronavirus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has been identified as the pathogen responsible for the outbreak of a severe, rapidly developing pneumonia (Coronavirus disease 2019, COVID-19). The virus enzyme, called 3CLpro or main protease (Mpro), is essential for viral replication, making it a most promising target for antiviral drug development. Recently, we adopted the drug repurposing as appropriate strategy to give fast response to global COVID-19 epidemic, by demonstrating that the zonulin octapeptide inhibitor AT1001 (Larazotide acetate) binds Mpro catalytic domain. Thus, in the present study we tried to investigate the antiviral activity of AT1001, along with five derivatives, by cell-based assays. Our results provide with the identification of AT1001 peptide molecular framework for lead optimization step to develop new generations of antiviral agents of SARS-CoV-2 with an improved biological activity, expanding the chance for success in clinical trials."
+  },
+  {
+   "pmid": "33397225",
+   "titel": "The Therapeutic use of the Zonulin Inhibitor AT-1001 (Larazotide) for a Variety of Acute and Chronic Inflammatory Diseases",
+   "jahr": "2021",
+   "journal": "Curr Med Chem",
+   "erstautor": "Troisi J",
+   "doi": "10.2174/0929867328666210104110053",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "BACKGROUND: The involvement of intercellular tight junctions and, in particular, the modulation of their competency by the zonulin pathway with a subsequent increase in epithelial and endothelial permeability, has been described in several chronic and acute inflammatory diseases. In this scenario, Larazotide, a zonulin antagonist, could be employed as a viable therapeutic strategy. OBJECTIVE: The present review aims to describe recent research and current observations about zonulin involvement in several diseases and the use of its inhibitor Larazotide for their treatment. METHODS: A systematic search was conducted on PubMed and Google Scholar, resulting in 209 publications obtained with the following search query: \"Larazotide,\" \"Larazotide acetate,\" \"AT-1001,\" \"FZI/0\" and \"INN-202.\" After careful examination, some publications were removed from consideration because they were either not in English or were not directly related to Larazotide. RESULTS: The obtained publications were subdivided according to Larazotide's mechanism of action and different diseases: celiac disease, type 1 diabetes, other autoimmune diseases, inflammatory bowel disease, Kawasaki disease, respiratory (infective and/or non-infective) diseases, and other. CONCLUSION: A substantial role of zonulin in many chronic and acute inflammatory diseases has been demonstrated in both in vivo and in vitro, indicating the possible efficacy of a Larazotide treatment. Moreover, new possible molecular targets for this molecule have also been demonstrated."
+  },
+  {
+   "pmid": "36032126",
+   "titel": "Sex-dependent Lupus Blautia (Ruminococcus) gnavus strain induction of zonulin-mediated intestinal permeability and autoimmunity",
+   "jahr": "2022",
+   "journal": "Front Immunol",
+   "erstautor": "Silverman GJ",
+   "doi": "10.3389/fimmu.2022.897971",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Imbalances in the gut microbiome are suspected contributors to the pathogenesis of Systemic Lupus Erythematosus, and our studies and others have documented that patients with active Lupus nephritis have expansions of the obligate anaerobe, Blautia (Ruminococcus) gnavus (RG). To investigate whether the RG strains in Lupus patients have in vivo pathogenic properties in a gnotobiotic system, we colonized C57BL/6 mice with individual RG strains from healthy adults or those from Lupus patients. These strains were similar in their capacity for murine intestinal colonization of antibiotic-preconditioned specific-pathogen-free, as well as of germ-free adults and of their neonatally colonized litters. Lupus-derived RG strains induced high levels of intestinal permeability that was significantly greater in female than male mice, whereas the RG species-type strain (ATCC29149/VPI C7-1) from a healthy donor had little or no effects. These Lupus RG strain-induced functional alterations were associated with RG translocation to mesenteric lymph nodes, and raised serum levels of zonulin, a regulator of tight junction formation between cells that form the gut barrier. Notably, the level of Lupus RG-induced intestinal permeability was significantly correlated with serum IgG anti RG cell-wall lipoglycan antibodies, and with anti-native DNA autoantibodies that are a biomarker for SLE. Strikingly, gut permeability was completely reversed by oral treatment with larazotide acetate, an octapeptide that is a specific molecular antagonist of zonulin. Taken together, these studies document a pathway by which RG strains from Lupus patients contribute to a leaky gut and features of autoimmunity implicated in the pathogenesis of flares of clinical Lupus disease."
+  },
+  {
+   "pmid": "40281872",
+   "titel": "New Therapeutic Challenges in Pediatric Gastroenterology: A Narrative Review",
+   "jahr": "2025",
+   "journal": "Healthcare (Basel)",
+   "erstautor": "Dipasquale V",
+   "doi": "10.3390/healthcare13080923",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Pediatric gastroenterology is entering a pivotal phase marked by significant challenges and emerging opportunities in treating conditions like celiac disease (CeD), eosinophilic esophagitis (EoE), inflammatory bowel disease (IBD), and autoimmune hepatitis (AIH) pose significant clinical hurdles, but new therapeutic avenues are emerging. Advances in precision medicine, particularly proteomics, are reshaping care by tailoring treatments to individual patient characteristics. For CeD, therapies like gluten-degrading enzymes (latiglutenase, Kuma030) and zonulin inhibitors (larazotide acetate) show promise, though clinical outcomes are inconsistent. Immunotherapy and microbiota modulation, including probiotics and fecal microbiota transplantation (FMT), are also under exploration, with potential benefits in symptom management. Transglutaminase 2 inhibitors like ZED-1227 could help prevent gluten-induced damage. Monoclonal antibodies targeting immune pathways, such as AMG 714 and larazotide acetate, require further validation in pediatric populations. In EoE, biologics like dupilumab, cendakimab, dectrekumab (IL-13 inhibitors), and mepolizumab, reslizumab, and benralizumab (IL-5/IL-5R inhibitors) show varying efficacy, while thymic stromal lymphopoietin (TSLP) inhibitors like tezepelumab are also being investigated. These therapies require more pediatric-specific research to optimize their use. For IBD, biologics like vedolizumab, ustekinumab, and risankizumab, as well as small molecules like tofacitinib, etrasimod, and upadacitinib, are emerging treatments. New medications for individuals with refractory or steroid-dependent AIH have been explored. Personalized therapy, integrating precision medicine, therapeutic drug monitoring, and lifestyle changes, is increasingly guiding pediatric IBD management. This narrative review explores recent breakthroughs in treating CeD, EoE, IBD, and AIH, with a focus on pediatric studies when available, and discusses the growing role of proteomics in advancing personalized gastroenterological care."
+  },
+  {
+   "pmid": "25494908",
+   "titel": "Emerging drugs for celiac disease",
+   "jahr": "2015",
+   "journal": "Expert Opin Emerg Drugs",
+   "erstautor": "Freeman HJ",
+   "doi": "10.1517/14728214.2015.985204",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "INTRODUCTION: Celiac disease is an immune-mediated gluten-dependent disorder, primarily affecting the small intestine in genetically predisposed individuals. The disorder has a very heterogeneous clinical and histopathological spectrum. Current treatment with a gluten-free diet is very effective, but the diet is difficult to maintain and remains costly. AREAS COVERED: Alternatives to the gluten-free diet have been proposed to either replace this current treatment, or at least, to supplement use of the gluten-free diet. Studies in the published English language literature relevant to this review were examined for this report. EXPERT OPINION: Most recent published double-blind, placebo-controlled clinical trials have focused on an orally administered recombinant glutenase (ALV003) showing significant but limited benefit to celiac disease patients already compliant with a gluten-free diet. Other studies have addressed other immune mechanisms that may play a role in its pathogenesis and have not been so positive. Added investigations, particularly over the long-term, in other larger and more heterogeneous populations are needed."
+  },
+  {
+   "pmid": "37803248",
+   "titel": "Bromelain and ficin proteolytic effects on gliadin cytotoxicity and expression of genes involved in cell-tight junctions in Caco-2 cells",
+   "jahr": "2023",
+   "journal": "Amino Acids",
+   "erstautor": "Mousavi Maleki MS",
+   "doi": "10.1007/s00726-023-03333-x",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Enzyme therapy for celiac disease (CeD), which digests gliadin into non-immunogenic and non-toxic peptides, can be an appropriate treatment option for CeD. Here, we have investigated the effectiveness of bromelain and ficin on gliadin digestion using in vitro, such as SDS-PAGE, HPLC, and circular dichroism (CD). Furthermore, the cytotoxicity of gliadin and 19-mer peptide before and after digestion with these enzymes was evaluated using the MTT assay in the Caco-2 cell line. Finally, we examined the effect of these treatments along with Larazotide Acetate on the expression of genes involved in cell-tight junctions, such as Occludin, Claudin 3, tight junction protein-1, and Zonulin in the Caco-2 cell line. Our study demonstrated bromelain and ficin digestion effects on the commercial and wheat-extracted gliadin by SDS-PAGE, HPLC, and CD. Also, the cytotoxicity results on Caco-2 showed that toxicity of the gliadin and synthetic 19-mer peptide was decreased by adding bromelain and ficin. Furthermore, the proteolytic effects of bromelain and ficin on gliadin indicated the expression of genes involved in cell-tight junctions was improved. This study confirms that bromelain and ficin mixture could be effective in improving the symptoms of CeD."
+  },
+  {
+   "pmid": "41153766",
+   "titel": "Larazotide Acetate Protects the Intestinal Mucosal Barrier from Anoxia/Reoxygenation Injury via Various Cellular Mechanisms",
+   "jahr": "2025",
+   "journal": "Biomedicines",
+   "erstautor": "Kim J",
+   "doi": "10.3390/biomedicines13102483",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Background/Objective: Larazotide acetate (LA) is a synthetic octapeptide under development as a therapeutic candidate for celiac disease, acting to reduce intestinal permeability and regulate tight junctions (TJs). Although several studies have shown barrier-protective effects, the cellular mechanisms underlying LA's actions in the intestinal epithelium remain unclear. This study aimed to elucidate the mechanistic roles of LA in maintaining intestinal epithelial integrity during cellular injury. Methods: C2BBe1 and leaky IPEC-J2 cell monolayers were pretreated with 10 mM LA and subjected to anoxia/reoxygenation (A/R) injury. Transepithelial electrical resistance (TEER), TJ protein localization, and phosphorylation of myosin light chain-2 (MLC-2) were analyzed. In addition, RNA sequencing was conducted to identify differentially expressed genes and signaling pathways affected by LA treatment. Results: LA pretreatment significantly increased TEER and preserved TJ protein organization during A/R injury. Transcriptomic analysis revealed enrichment of genes related to barrier regulation, small GTPase signaling, protein phosphorylation, proliferation, and migration. LA pretreatment markedly reduced MLC-2 phosphorylation, likely through modulation of the ROCK pathway, consistent with RNA-seq findings. Moreover, LA enhanced cellular proliferation, validating transcriptomic predictions. Conclusions: LA exerts a protective effect on intestinal epithelial integrity by stabilizing tight junctions, reducing MLC-2 phosphorylation, and promoting epithelial proliferation. These findings highlight a novel mechanism for LA and support its therapeutic potential in treating gastrointestinal disorders associated with \"leaky gut\" and mucosal injury."
+  },
+  {
+   "pmid": "37108711",
+   "titel": "Zonulin as a Potential Therapeutic Target in Microbiota-Gut-Brain Axis Disorders: Encouraging Results and Emerging Questions",
+   "jahr": "2023",
+   "journal": "Int J Mol Sci",
+   "erstautor": "Veres-Székely A",
+   "doi": "10.3390/ijms24087548",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "The relationship between dysbiosis and central nervous diseases has been proved in the last 10 years. Microbial alterations cause increased intestinal permeability, and the penetration of bacterial fragment and toxins induces local and systemic inflammatory processes, affecting distant organs, including the brain. Therefore, the integrity of the intestinal epithelial barrier plays a central role in the microbiota-gut-brain axis. In this review, we discuss recent findings on zonulin, an important tight junction regulator of intestinal epithelial cells, which is assumed to play a key role in maintaining of the blood-brain barrier function. In addition to focusing on the effect of microbiome on intestinal zonulin release, we also summarize potential pharmaceutical approaches to modulate zonulin-associated pathways with larazotide acetate and other zonulin receptor agonists or antagonists. The present review also addresses the emerging issues, including the use of misleading nomenclature or the unsolved questions about the exact protein sequence of zonulin."
+  },
+  {
+   "pmid": "34032635",
+   "titel": "Multisystem inflammatory syndrome in children is driven by zonulin-dependent loss of gut mucosal barrier",
+   "jahr": "2021",
+   "journal": "J Clin Invest",
+   "erstautor": "Yonker LM",
+   "doi": "10.1172/JCI149633",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUNDWeeks after SARS-CoV-2 infection or exposure, some children develop a severe, life-threatening illness called multisystem inflammatory syndrome in children (MIS-C). Gastrointestinal (GI) symptoms are common in patients with MIS-C, and a severe hyperinflammatory response ensues with potential for cardiac complications. The cause of MIS-C has not been identified to date.METHODSHere, we analyzed biospecimens from 100 children: 19 with MIS-C, 26 with acute COVID-19, and 55 controls. Stools were assessed for SARS-CoV-2 by reverse transcription PCR (RT-PCR), and plasma was examined for markers of breakdown of mucosal barrier integrity, including zonulin. Ultrasensitive antigen detection was used to probe for SARS-CoV-2 antigenemia in plasma, and immune responses were characterized. As a proof of concept, we treated a patient with MIS-C with larazotide, a zonulin antagonist, and monitored the effect on antigenemia and the patient's clinical response.RESULTSWe showed that in children with MIS-C, a prolonged presence of SARS-CoV-2 in the GI tract led to the release of zonulin, a biomarker of intestinal permeability, with subsequent trafficking of SARS-CoV-2 antigens into the bloodstream, leading to hyperinflammation. The patient with MIS-C treated with larazotide had a coinciding decrease in plasma SARS-CoV-2 spike antigen levels and inflammatory markers and a resultant clinical improvement above that achieved with currently available treatments.CONCLUSIONThese mechanistic data on MIS-C pathogenesis provide insight into targets for diagnosing, treating, and preventing MIS-C, which are urgently needed for this increasingly common severe COVID-19-related disease in children."
+  },
+  {
+   "pmid": "23336684",
+   "titel": "Commentary: larazotide acetate - an exciting new development for coeliac patients? Authors' reply",
+   "jahr": "2013",
+   "journal": "Aliment Pharmacol Ther",
+   "erstautor": "Kelly CP",
+   "doi": "10.1111/apt.12196",
+   "typ": [
+    "Journal Article",
+    "Comment"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "25864708",
+   "titel": "Celiac disease 2015 update: new therapies",
+   "jahr": "2015",
+   "journal": "Expert Rev Gastroenterol Hepatol",
+   "erstautor": "Veeraraghavan G",
+   "doi": "10.1586/17474124.2015.1033399",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "Celiac disease (CD) is a chronic, small intestinal, immune-mediated enteropathy triggered by exposure to dietary gluten in genetically susceptible individuals. Currently, lifelong adherence to a gluten-free diet (GFD) is the only available treatment. However, GFD alone is not sufficient to relieve symptoms, control small intestinal inflammation and prevent long-term complications in many patients. The GFD has its challenges including issues related to adherence, lifestyle restrictions and cost. As a result, there is growing interest in and a need for non-dietary therapies to manage this condition. In recent years, different targets in the immune-mediated cascade of CD have been identified in clinical and pre-clinical trials for potential therapies. This review will discuss the latest non-dietary therapies in CD, including endopeptidases, modulators of enterocyte tight junctions and agents involved in gluten tolerization and immunomodulation. We will also discuss the potential implications of approved therapeutics on CD clinical practice."
+  },
+  {
+   "pmid": "26983338",
+   "titel": "[Larazotide as an option in case of failure of a gluten-free diet]",
+   "jahr": "2016",
+   "journal": "Med Monatsschr Pharm",
+   "erstautor": "Storr M",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "26770266",
+   "titel": "The potential utility of tight junction regulation in celiac disease: focus on larazotide acetate",
+   "jahr": "2016",
+   "journal": "Ther Adv Gastroenterol",
+   "erstautor": "Khaleghi S",
+   "doi": "10.1177/1756283X15616576",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Celiac disease (CD) is a common chronic immune disease triggered by gluten. Gliadin peptides pass through the epithelial layers, either paracellularly or transcellularly, to launch a potent adaptive immune response in the lamina propria. This aberrant immune response leads to diverse gastrointestinal and extra-gastrointestinal symptoms. Currently, the only treatment for CD is a strict lifelong adherence to a gluten-free diet (GFD), which can be challenging. An early effect of gluten in CD is an increase in gut permeability. Larazotide acetate, also known as AT-1001, is a synthetic peptide developed as a permeability regulator primarily targeting CD. In vitro studies indicate that larazotide acetate is capable of inhibiting the actin rearrangement caused by gliadin and clinical studies have been conducted using this peptide as a therapy for CD."
+  },
+  {
+   "pmid": "23336683",
+   "titel": "Commentary: larazotide acetate - an exciting new development for coeliac patients?",
+   "jahr": "2013",
+   "journal": "Aliment Pharmacol Ther",
+   "erstautor": "Mooney PD",
+   "doi": "10.1111/apt.12183",
+   "typ": [
+    "Journal Article",
+    "Comment"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "41769533",
+   "titel": "Integrated Role of Microbial, Fungal, and Plant-Derived Interventions in the Management of Celiac Disease: A Narrative Review",
+   "jahr": "2026",
+   "journal": "Cureus",
+   "erstautor": "Kubala K",
+   "doi": "10.7759/cureus.102471",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Celiac disease (CeD) is a chronic autoimmune enteropathy triggered by gluten ingestion in genetically susceptible individuals carrying human leukocyte antigen (HLA)-DQ2 or HLA-DQ8 haplotypes. While a strict gluten-free diet (GFD) remains the primary treatment, many patients experience persistent symptoms and incomplete mucosal recovery, often due to accidental exposure. This narrative review evaluates complementary biological strategies that enhance gluten management beyond dietary avoidance. We discuss enzymatic approaches using bacterial and fungal prolyl endopeptidases (PEPs) and engineered enzyme combinations, such as latiglutenase, to degrade immunogenic peptides in the gastrointestinal tract. Furthermore, we examine the restoration of intestinal barrier integrity through zonulin antagonists such as larazotide acetate. The role of gut microbiota modulation with probiotics, such as Lactobacillus and Bifidobacterium strains, is analyzed for its potential to reduce inflammation and support gliadin degradation. Additionally, plant-derived cysteine proteases from sprouting cereals are presented as promising agents for gluten detoxification. Finally, the application of enzymatic degradation in food processing is considered to improve the safety and affordability of gluten-free products. Together, these strategies offer a multidimensional framework for enhancing clinical outcomes and quality of life for individuals with CeD."
+  },
+  {
+   "pmid": "31076989",
+   "titel": "Breaking Down Barriers: How Understanding Celiac Disease Pathogenesis Informed the Development of Novel Treatments",
+   "jahr": "2019",
+   "journal": "Dig Dis Sci",
+   "erstautor": "Valitutti F",
+   "doi": "10.1007/s10620-019-05646-y",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Review"
+   ],
+   "abstract": "For decades, the pathogenesis of a variety of human diseases has been attributed to increased intestinal paracellular permeability even though scientific evidence supporting this hypothesis has been tenuous. Nevertheless, during the past decade, there have been a growing number of publications focused on human genetics, the gut microbiome, and proteomics, suggesting that loss of mucosal barrier function, particularly in the gastrointestinal tract, may substantially affect antigen trafficking, ultimately causing chronic inflammation, including autoimmunity, in genetically predisposed individuals. The gut mucosa works as a semipermeable barrier in that it permits nutrient absorption and also regulates immune surveillance while retaining potentially harmful microbes and environmental antigens within the intestinal lumen. Celiac disease (CD), a systemic, immune-mediated disorder triggered by gluten in genetically susceptible individuals, is associated with altered gut permeability. Pre-clinical and clinical studies have shown that gliadin, a prolamine component of gluten that is implicated in CD pathogenesis, is capable to disassembling intercellular junctional proteins by upregulating the zonulin pathway, which can be inhibited by the zonulin antagonist larazotide acetate. In this review, we will focus on CD as a paradigm of chronic inflammatory diseases in order to outline the contribution of gut paracellular permeability toward disease pathogenesis; moreover, we will summarize current evidence derived from available clinical trials of larazotide acetate in CD."
+  },
+  {
+   "pmid": "38648685",
+   "titel": "Celiac disease: Hope for new treatments beyond a gluten-free diet",
+   "jahr": "2024",
+   "journal": "Clin Nutr",
+   "erstautor": "D'heedene M",
+   "doi": "10.1016/j.clnu.2024.04.014",
+   "typ": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "abstract": "BACKGROUND & AIMS: Celiac disease (CD) is a chronic inflammatory disease of the small intestine induced and maintained by gluten ingestion in susceptible individuals. Current treatment consists of strict adherence to a lifelong gluten-free diet (GFD) which is considered safe and effective in the large majority of patients. However, since adherence to a GFD is difficult and has a negative impact on quality of life, an increasing interest in other treatment options has emerged. Moreover, in some individuals a GFD is not sufficiently effective, necessitating alternative treatments. METHODS: By performing a systematic search, we constructed a detailed narrative review. Only treatment options considered relevant and conducted in a phase I, II or III clinical trial were included. RESULTS: Based on the pathophysiology of CD, four major therapeutic approaches can be distinguished: firstly, by focusing on intraluminal gluten detoxification before absorption occurs, secondly, by modulating intestinal permeability and preventing paracellular uptake, thirdly, by enhancing immunological tolerance to gluten and finally, by regulating gluten auto-immunity. CONCLUSIONS: Despite significant efforts, no treatment has yet completed a phase III clinical trial. Future studies will likely focus on the use of supplemental drugs in conjunction to a GFD, with ALV003 and ZED-1227 currently being the most promising therapeutic options."
+  }
+ ],
+ "ctgov": [
+  {
+   "nct": "NCT01730469",
+   "titel": "Safety and Pharmacokinetics of AT1001 (Migalastat HCl) in Healthy Subjects and Subjects With Impaired Renal Function",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 32,
+   "start": "2011-08",
+   "ende": "2012-04",
+   "erkrankungen": [
+    "Fabry Disease"
+   ],
+   "sponsor": "Amicus Therapeutics",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00283959",
+   "titel": "A 12-Week Safety and Pharmacodynamic Study of AT1001 (Migalastat Hydrochloride) in Participants With Fabry Disease",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 4,
+   "start": "2006-06-27",
+   "ende": "2008-05-08",
+   "erkrankungen": [
+    "Fabry Disease"
+   ],
+   "sponsor": "Amicus Therapeutics",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT01396213",
+   "titel": "A Double-blind Placebo-controlled Study to Evaluate Larazotide Acetate for the Treatment of Celiac Disease",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 342,
+   "start": "2011-11-07",
+   "ende": "2013-08-20",
+   "erkrankungen": [
+    "Celiac Disease"
+   ],
+   "sponsor": "9 Meters Biopharma, Inc.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06904261",
+   "titel": "A Study of Migalastat in Pediatric Subjects (2 to <12 Yrs) With Fabry Disease and Amenable GLA Variants",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 8,
+   "start": "2026-01-08",
+   "ende": "2028-12",
+   "erkrankungen": [
+    "Fabry Disease"
+   ],
+   "sponsor": "Amicus Therapeutics",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT02194985",
+   "titel": "Open-Label Extension Study of the Long-Term Effects of Migalastat HCL in Patients With Fabry Disease",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 84,
+   "start": "2015-03-14",
+   "ende": "2019-10-23",
+   "erkrankungen": [
+    "Fabry Disease"
+   ],
+   "sponsor": "Amicus Therapeutics",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT00620451",
+   "titel": "Randomized, Double-Blind, Placebo-Controlled Study of Larazotide Acetate in Subjects With Active Celiac Disease",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 105,
+   "start": "2008-02",
+   "ende": "2009-12",
+   "erkrankungen": [
+    "Celiac Disease"
+   ],
+   "sponsor": "9 Meters Biopharma, Inc.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT04049760",
+   "titel": "Safety, Pharmacodynamics, and Efficacy of Migalastat in Pediatric Subjects (Aged >12 Years) With Fabry Disease",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 16,
+   "start": "2019-10-11",
+   "ende": "2024-11-29",
+   "erkrankungen": [
+    "Fabry Disease"
+   ],
+   "sponsor": "Amicus Therapeutics",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT00214500",
+   "titel": "A Study of AT1001 (Migalastat Hydrochloride) in Participants With Fabry Disease",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 9,
+   "start": "2006-01-02",
+   "ende": "2008-01-29",
+   "erkrankungen": [
+    "Fabry Disease"
+   ],
+   "sponsor": "Amicus Therapeutics",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT05747534",
+   "titel": "AT1001 for the Treatment of Long COVID",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 107,
+   "start": "2023-05-31",
+   "ende": "2026-06-18",
+   "erkrankungen": [
+    "Long COVID",
+    "Long COVID-19",
+    "Post Acute COVID-19 Syndrome",
+    "Post Acute Sequelae of COVID-19"
+   ],
+   "sponsor": "Massachusetts General Hospital",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT01458119",
+   "titel": "Open-Label Phase 3 Long-Term Safety Study of Migalastat",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "TERMINATED",
+   "teilnehmende": 85,
+   "start": "2011-10-14",
+   "ende": "2016-02-17",
+   "erkrankungen": [
+    "Fabry Disease"
+   ],
+   "sponsor": "Amicus Therapeutics",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT00492960",
+   "titel": "Study to Assess the Efficacy of Larazotide Acetate for the Treatment of Celiac Disease",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 171,
+   "start": "2007-08",
+   "ende": "2009-03",
+   "erkrankungen": [
+    "Celiac Disease"
+   ],
+   "sponsor": "9 Meters Biopharma, Inc.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT01730482",
+   "titel": "A Study to Assess the Absorption, Metabolism and Excretion of Migalastat Hydrochloride (AT1001-014)",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 6,
+   "start": "2011-08",
+   "ende": "2011-09",
+   "erkrankungen": [
+    "Fabry Disease"
+   ],
+   "sponsor": "Amicus Therapeutics",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00925301",
+   "titel": "Study of the Effects of Oral AT1001 (Migalastat Hydrochloride) in Patients With Fabry Disease",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 67,
+   "start": "2009-10-23",
+   "ende": "2014-01-29",
+   "erkrankungen": [
+    "Fabry Disease"
+   ],
+   "sponsor": "Amicus Therapeutics",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT01476163",
+   "titel": "Physician Initiated Expanded Access Request for Migalastat in Individual Patients With Fabry Disease",
+   "phase": "",
+   "typ": "EXPANDED_ACCESS",
+   "status": "AVAILABLE",
+   "teilnehmende": null,
+   "start": null,
+   "ende": null,
+   "erkrankungen": [
+    "Fabry Disease"
+   ],
+   "sponsor": "Amicus Therapeutics",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT01196871",
+   "titel": "Drug-Drug Interaction Study Between AT1001 (Migalastat Hydrochloride) and Agalsidase in Participants With Fabry Disease",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 20,
+   "start": "2011-02-02",
+   "ende": "2012-10-09",
+   "erkrankungen": [
+    "Fabry Disease"
+   ],
+   "sponsor": "Amicus Therapeutics",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT01853852",
+   "titel": "A Phase I, Randomized, Single-Blind, Four-Period Cross-Over, Placebo-Controlled, Dose-Escalation Study to Evaluate the Safety and Pharmacokinetics of Single Oral Doses of GR181413A/AT1001 in Healthy Japanese Subjects",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 14,
+   "start": "2011-09",
+   "ende": "2011-12",
+   "erkrankungen": [
+    "Fabry Disease"
+   ],
+   "sponsor": "Amicus Therapeutics",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00386165",
+   "titel": "Safety Study of Larazotide Acetate to Treat Celiac Disease.",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 21,
+   "start": "2005-11-29",
+   "ende": "2006-01-26",
+   "erkrankungen": [
+    "Celiac Disease"
+   ],
+   "sponsor": "9 Meters Biopharma, Inc.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT04020055",
+   "titel": "A Study to Evaluate Migalastat in Fabry Subjects With Amenable GLA Variant and Renal Disease",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 14,
+   "start": "2022-10-31",
+   "ende": "2026-12-31",
+   "erkrankungen": [
+    "Fabry Disease"
+   ],
+   "sponsor": "Amicus Therapeutics",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00526071",
+   "titel": "Open-label Long-term Safety Study of AT1001 (Migalastat Hydrochloride) in Participants With Fabry Disease Who Have Completed a Previous AT1001 Study",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "TERMINATED",
+   "teilnehmende": 23,
+   "start": "2007-09-17",
+   "ende": "2012-09-08",
+   "erkrankungen": [
+    "Fabry Disease"
+   ],
+   "sponsor": "Amicus Therapeutics",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT00283933",
+   "titel": "A 24-Week Safety and Pharmacodynamic Study of AT1001 (Migalastat Hydrochloride) in Participants With Fabry Disease",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 5,
+   "start": "2006-05-09",
+   "ende": "2008-03-12",
+   "erkrankungen": [
+    "Fabry Disease"
+   ],
+   "sponsor": "Amicus Therapeutics",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT05022303",
+   "titel": "AT1001 for the Treatment of COVID-19 Related MIS-C",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "TERMINATED",
+   "teilnehmende": 12,
+   "start": "2021-10-01",
+   "ende": "2024-05-15",
+   "erkrankungen": [
+    "Covid19",
+    "Multisystem Inflammatory Syndrome in Children"
+   ],
+   "sponsor": "Massachusetts General Hospital",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT03500094",
+   "titel": "Safety, Pharmacokinetics, Pharmacodynamics, and Efficacy of Migalastat in Pediatric Subjects (Aged 12 to <18 Years)",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 22,
+   "start": "2018-09-27",
+   "ende": "2021-02-06",
+   "erkrankungen": [
+    "Fabry Disease"
+   ],
+   "sponsor": "Amicus Therapeutics",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT00386490",
+   "titel": "Safety of Larazotide Acetate in Healthy Volunteers",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 24,
+   "start": "2006-01-10",
+   "ende": "2006-02-27",
+   "erkrankungen": [
+    "Healthy"
+   ],
+   "sponsor": "9 Meters Biopharma, Inc.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00889473",
+   "titel": "Study of the Efficacy of Larazotide Acetate to Treat Celiac Disease",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 42,
+   "start": "2009-04",
+   "ende": "2010-04",
+   "erkrankungen": [
+    "Celiac Disease"
+   ],
+   "sponsor": "9 Meters Biopharma, Inc.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT01218659",
+   "titel": "Study to Compare the Efficacy and Safety of Oral AT1001 and Enzyme Replacement Therapy in Patients With Fabry Disease",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 68,
+   "start": "2011-09-08",
+   "ende": "2015-05-28",
+   "erkrankungen": [
+    "Fabry Disease"
+   ],
+   "sponsor": "Amicus Therapeutics",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT03569007",
+   "titel": "Study to Evaluate the Efficacy and Safety of Larazotide Acetate for the Relief of CeD Symptoms",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "TERMINATED",
+   "teilnehmende": 307,
+   "start": "2019-05-29",
+   "ende": "2022-07-21",
+   "erkrankungen": [
+    "Celiac Disease"
+   ],
+   "sponsor": "9 Meters Biopharma, Inc.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00362856",
+   "titel": "Safety and Tolerability Study of Larazotide Acetate in Celiac Disease Subjects",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 80,
+   "start": "2006-09-13",
+   "ende": "2007-03-06",
+   "erkrankungen": [
+    "Celiac Disease"
+   ],
+   "sponsor": "9 Meters Biopharma, Inc.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00304512",
+   "titel": "A 12-Week Safety and Pharmacodynamic Study of AT1001 (Migalastat Hydrochloride) in Female Participants With Fabry Disease",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 9,
+   "start": "2006-09-07",
+   "ende": "2008-05-09",
+   "erkrankungen": [
+    "Fabry Disease"
+   ],
+   "sponsor": "Amicus Therapeutics",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT02082327",
+   "titel": "A Phase 1 Study To Evaluate the Safety of Migalastat Hydrochloride Given Intravenously to Healthy Volunteers",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 31,
+   "start": "2014-03",
+   "ende": "2014-06",
+   "erkrankungen": [
+    "Fabry Disease"
+   ],
+   "sponsor": "Amicus Therapeutics",
+   "ergebnisse": false
+  }
+ ],
+ "gruppe": "B_regeneration"
+}

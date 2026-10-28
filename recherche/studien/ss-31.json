@@ -1,0 +1,1425 @@
+{
+ "name": "SS-31 (Elamipretid)",
+ "status": "teilweise",
+ "suchbegriff_pubmed": "elamipretide[tiab] OR SS-31[tiab]",
+ "suchbegriff_ctgov": "elamipretide",
+ "humanstudien_alle": [
+  {
+   "pmid": "40281531",
+   "titel": "Initial Psychometric Evaluation of the Barth Syndrome Symptom Assessment (BTHS-SA) for Adolescents and Adults in a Phase 2 Clinical Study",
+   "jahr": "2025",
+   "journal": "Orphanet J Rare Dis",
+   "erstautor": "Gwaltney C",
+   "doi": "10.1186/s13023-025-03693-5",
+   "typ": [
+    "Journal Article",
+    "Clinical Trial, Phase II",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "39574155",
+   "titel": "Genotype-specific effects of elamipretide in patients with primary mitochondrial myopathy: a post hoc analysis of the MMPOWER-3 trial",
+   "jahr": "2024",
+   "journal": "Orphanet J Rare Dis",
+   "erstautor": "Karaa A",
+   "doi": "10.1186/s13023-024-03421-5",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "39217569",
+   "titel": "Effect of Aficamten on Health Status Outcomes in Obstructive Hypertrophic Cardiomyopathy: Results From SEQUOIA-HCM",
+   "jahr": "2024",
+   "journal": "J Am Coll Cardiol",
+   "erstautor": "Sherrod CF 4th",
+   "doi": "10.1016/j.jacc.2024.08.014",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III",
+    "Multicenter Study"
+   ]
+  },
+  {
+   "pmid": "38602181",
+   "titel": "Long-term efficacy and safety of elamipretide in patients with Barth syndrome: 168-week open-label extension results of TAZPOWER",
+   "jahr": "2024",
+   "journal": "Genet Med",
+   "erstautor": "Thompson WR",
+   "doi": "10.1016/j.gim.2024.101138",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "37923251",
+   "titel": "Elamipretide Topical Ophthalmic Solution for the Treatment of Subjects with Leber Hereditary Optic Neuropathy: A Randomized Trial",
+   "jahr": "2024",
+   "journal": "Ophthalmology",
+   "erstautor": "Karanjia R",
+   "doi": "10.1016/j.ophtha.2023.10.033",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "37268435",
+   "titel": "Efficacy and Safety of Elamipretide in Individuals With Primary Mitochondrial Myopathy: The MMPOWER-3 Randomized Clinical Trial",
+   "jahr": "2023",
+   "journal": "Neurology",
+   "erstautor": "Karaa A",
+   "doi": "10.1212/WNL.0000000000207402",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "37041653",
+   "titel": "Identifying responders to elamipretide in Barth syndrome: Hierarchical clustering for time series data",
+   "jahr": "2023",
+   "journal": "Orphanet J Rare Dis",
+   "erstautor": "Van den Eynde J",
+   "doi": "10.1186/s13023-023-02676-8",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "36056411",
+   "titel": "Natural history comparison study to assess the efficacy of elamipretide in patients with Barth syndrome",
+   "jahr": "2022",
+   "journal": "Orphanet J Rare Dis",
+   "erstautor": "Hornby B",
+   "doi": "10.1186/s13023-022-02469-5",
+   "typ": [
+    "Clinical Trial, Phase III",
+    "Journal Article",
+    "Observational Study",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "34264994",
+   "titel": "In vivo mitochondrial ATP production is improved in older adult skeletal muscle after a single dose of elamipretide in a randomized trial",
+   "jahr": "2021",
+   "journal": "PLoS One",
+   "erstautor": "Roshanravan B",
+   "doi": "10.1371/journal.pone.0253849",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "33077895",
+   "titel": "A phase 2/3 randomized clinical trial followed by an open-label extension to evaluate the effectiveness of elamipretide in Barth syndrome, a genetic disorder of mitochondrial cardiolipin metabolism",
+   "jahr": "2021",
+   "journal": "Genet Med",
+   "erstautor": "Reid Thompson W",
+   "doi": "10.1038/s41436-020-01006-8",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Clinical Trial, Phase III",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "32096613",
+   "titel": "A randomized crossover trial of elamipretide in adults with primary mitochondrial myopathy",
+   "jahr": "2020",
+   "journal": "J Cachexia Sarcopenia Muscle",
+   "erstautor": "Karaa A",
+   "doi": "10.1002/jcsm.12559",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "32068002",
+   "titel": "Effects of Elamipretide on Left Ventricular Function in Patients With Heart Failure With Reduced Ejection Fraction: The PROGRESS-HF Phase 2 Trial",
+   "jahr": "2020",
+   "journal": "J Card Fail",
+   "erstautor": "Butler J",
+   "doi": "10.1016/j.cardfail.2020.02.001",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "28534645",
+   "titel": "The mitochondria-targeting peptide elamipretide diminishes circulating HtrA2 in ST-segment elevation myocardial infarction",
+   "jahr": "2019",
+   "journal": "Eur Heart J Acute Cardiovasc Care",
+   "erstautor": "Hortmann M",
+   "doi": "10.1177/2048872617710789",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Comparative Study",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "29500292",
+   "titel": "Randomized dose-escalation trial of elamipretide in adults with primary mitochondrial myopathy",
+   "jahr": "2018",
+   "journal": "Neurology",
+   "erstautor": "Karaa A",
+   "doi": "10.1212/WNL.0000000000005255",
+   "typ": [
+    "Clinical Trial, Phase I",
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "29217757",
+   "titel": "Novel Mitochondria-Targeting Peptide in Heart Failure Treatment: A Randomized, Placebo-Controlled Trial of Elamipretide",
+   "jahr": "2017",
+   "journal": "Circ Heart Fail",
+   "erstautor": "Daubert MA",
+   "doi": "10.1161/CIRCHEARTFAILURE.117.004389",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "28916603",
+   "titel": "Phase 2a Clinical Trial of Mitochondrial Protection (Elamipretide) During Stent Revascularization in Patients With Atherosclerotic Renal Artery Stenosis",
+   "jahr": "2017",
+   "journal": "Circ Cardiovasc Interv",
+   "erstautor": "Saad A",
+   "doi": "10.1161/CIRCINTERVENTIONS.117.005487",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "27286183",
+   "titel": "Effects of Single Vs. Multiple Sets during 10 Weeks of Water-based Resistance Training on Neuromuscular Adaptations in Young Women",
+   "jahr": "2016",
+   "journal": "Int J Sports Med",
+   "erstautor": "Schoenell MC",
+   "doi": "10.1055/s-0042-106299",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "22328192",
+   "titel": "Comparison of the pharmacokinetics of a new 30 mg modified-release tablet formulation of metoclopramide for once-a-day administration versus 10 mg immediate-release tablets: a single and multiple-dose, randomized, open-label, parallel study in healthy male subjects",
+   "jahr": "2012",
+   "journal": "Eur J Drug Metab Pharmacokinet",
+   "erstautor": "Bernardo-Escudero R",
+   "doi": "10.1007/s13318-012-0082-0",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "405283",
+   "titel": "Antibodies to pancreatic duct cells in Sjögren's syndrome and rheumatoid arthritis",
+   "jahr": "1977",
+   "journal": "Gut",
+   "erstautor": "Ludwig H",
+   "doi": "10.1136/gut.18.4.311",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ]
+  }
+ ],
+ "humanstudien_detail": [
+  {
+   "pmid": "32096613",
+   "titel": "A randomized crossover trial of elamipretide in adults with primary mitochondrial myopathy",
+   "jahr": "2020",
+   "journal": "J Cachexia Sarcopenia Muscle",
+   "erstautor": "Karaa A",
+   "doi": "10.1002/jcsm.12559",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: This study aims to evaluate the effect of subcutaneous (SC) elamipretide dosing on exercise performance using the 6 min walk test (6MWT), patient-reported outcomes measuring fatigue, functional assessments, and safety to guide the development of the Phase 3 trial. METHODS: MMPOWER-2 was a randomized, double-blind, placebo-controlled, crossover trial that enrolled participants (N = 30) with genetically confirmed primary mitochondrial myopathy. Participants were randomly assigned (1:1) to 40 mg/day SC elamipretide for 4 weeks followed by placebo SC for 4 weeks, separated by a 4-week washout period, or the opposite sequence. The primary endpoint was the distance walked on the 6MWT. RESULTS: The distance walked on the 6MWT by the elamipretide-treated participants was 398.3 (±134.16) meters compared with 378.5 (±125.10) meters in the placebo-treated group, a difference of 19.8 m (95% confidence interval, -2.8, 42.5; P = 0.0833). The results of the Primary Mitochondrial Myopathy Symptom Assessment Total Fatigue and Total Fatigue During Activities scores showed that participants treated with elamipretide reported less fatigue and muscle complaints compared with placebo (P = 0.0006 and P = 0.0018, respectively). Additionally, the Neuro-QoL Fatigue Short Form and Patient Global Assessment showed reductions in symptoms (P = 0.0115 and P = 0.0421, respectively). In this 4-week treatment period, no statistically significant change was observed in the Physician Global Assessment (P = 0.0636), the Triple Timed Up and Go (P = 0.8423) test, and wrist/hip accelerometry (P = 0.9345 and P = 0.7326, respectively). Injection site reactions were the most commonly reported adverse events with elamipretide (80%), the majority of which were mild. No serious adverse events or deaths were reported. CONCLUSIONS: Participants who received a short-course treatment of daily SC elamipretide for 4 weeks experienced a clinically meaningful change in the 6MWT, which did not achieve statistical significance as the primary endpoint of the study. Secondary endpoints were suggestive of an elamipretide treatment effect compared with placebo. Nominal statistically significant and clinically meaningful improvements were seen in patient-reported outcomes. The results of this trial provided an efficacy signal and data to support the initiation of MMPOWER-3, a 6-month long, Phase 3 treatment trial in patients with primary mitochondrial myopathy."
+  },
+  {
+   "pmid": "36056411",
+   "titel": "Natural history comparison study to assess the efficacy of elamipretide in patients with Barth syndrome",
+   "jahr": "2022",
+   "journal": "Orphanet J Rare Dis",
+   "erstautor": "Hornby B",
+   "doi": "10.1186/s13023-022-02469-5",
+   "typ": [
+    "Clinical Trial, Phase III",
+    "Journal Article",
+    "Observational Study",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Natural history studies are increasingly recognized as having an important role in drug development for rare diseases. A phase 3, observational, retrospective, and non-interventional study was designed to establish a natural history control (NHC) cohort of patients with Barth syndrome (BTHS) to provide further analysis of the efficacy of elamipretide observed in an open-label extension (OLE) phase of the TAZPOWER trial, a clinical trial that tested the efficacy of 40 mg daily of elamipretide in patients with BTHS. METHODS: This was a retrospective, non-interventional study. A propensity score model was used to compare elamipretide-treated patients and NHCs. The analysis included 8 patients from the TAZPOWER OLE and 19 untreated NHCs (including 12 with serial echocardiographic assessments). RESULTS: For the 6-min walk test (6MWT, primary endpoint), the least squares (LS) mean difference between groups was 79.7 m (P = 0.0004) at week 64 and 91.0 m (P = 0.0005) at week 76 in favor of elamipretide. Significant improvements in muscle strength (secondary endpoint), as assessed by handheld dynamometry (HHD) were also observed with elamipretide, with LS mean differences of 40.8 Newtons at 64 weeks (P = 0.0002) and 56.7 Newtons at 76 weeks (P = 0.0005). Patients continuously treated with elamipretide also experienced statistically significant improvements in other secondary endpoints (i.e., 5 times sit-to-stand [5XSST], multi-domain responder index [MDRI]). The functional improvements were robust to sensitivity analyses. Left ventricular stroke volume increased from baseline in patients with elamipretide but decreased in NHCs. CONCLUSIONS: Overall, the study established a NHC for use in assessing the efficacy of therapeutic interventions in patients with BTHS and the results suggest that elamipretide may improve natural history of BTHS at least in part by attenuating the natural decline in heart function and provide meaningful improvements in heart function and functional capacity in patients with BTHS compared to NHCs. HIGHLIGHTS: A matched Natural History Control (NHC) was used to evaluate elamipretide in BTHS Elamipretide may improve natural history of BTHS by attenuating natural decline in heart function Elamipretide was associated with meaningful clinical improvements in skeletal muscle and cardiovascular parameters that were not observed in NHCs The study established a NHC for use in assessing the efficacy of therapeutic interventions in BTHS."
+  },
+  {
+   "pmid": "38602181",
+   "titel": "Long-term efficacy and safety of elamipretide in patients with Barth syndrome: 168-week open-label extension results of TAZPOWER",
+   "jahr": "2024",
+   "journal": "Genet Med",
+   "erstautor": "Thompson WR",
+   "doi": "10.1016/j.gim.2024.101138",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "PURPOSE: Evaluate long-term efficacy and safety of elamipretide during the open-label extension (OLE) of the TAZPOWER trial in individuals with Barth syndrome (BTHS). METHODS: TAZPOWER was a 28-week randomized, double-blind, and placebo-controlled trial followed by a 168-week OLE. Patients entering the OLE continued elamipretide 40 mg subcutaneous daily. OLE primary endpoints were safety and tolerability; secondary endpoints included change from baseline in the 6-minute walk test (6MWT) and BarTH Syndrome Symptom Assessment (BTHS-SA) Total Fatigue score. Muscle strength, physician- and patient-assessed outcomes, echocardiographic parameters, and biomarkers, including cardiolipin (CL) and monolysocardiolipin (MLCL), were assessed. RESULTS: Ten patients entered the OLE; 8 reached the week 168 visit. Elamipretide was well tolerated, with injection-site reactions being the most common adverse events. Significant improvements from OLE baseline on 6MWT occurred at all OLE time points (cumulative 96.1 m of improvement [week 168, P = .003]). Mean BTHS-SA Total Fatigue scores were below baseline (improved) at all OLE time points. Three-dimensional (3D) left ventricular stroke, end-diastolic, and end-systolic volumes improved, showing significant trends for improvement from baseline to week 168. MLCL/CL values showed improvement, correlating to important clinical outcomes. CONCLUSION: Elamipretide was associated with sustained long-term tolerability and efficacy, with improvements in functional assessments and cardiac function in BTHS."
+  },
+  {
+   "pmid": "37268435",
+   "titel": "Efficacy and Safety of Elamipretide in Individuals With Primary Mitochondrial Myopathy: The MMPOWER-3 Randomized Clinical Trial",
+   "jahr": "2023",
+   "journal": "Neurology",
+   "erstautor": "Karaa A",
+   "doi": "10.1212/WNL.0000000000207402",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND AND OBJECTIVES: Primary mitochondrial myopathies (PMMs) encompass a group of genetic disorders that impair mitochondrial oxidative phosphorylation, adversely affecting physical function, exercise capacity, and quality of life (QoL). Current PMM standards of care address symptoms, with limited clinical impact, constituting a significant therapeutic unmet need. We present data from MMPOWER-3, a pivotal, phase-3, randomized, double-blind, placebo-controlled clinical trial that evaluated the efficacy and safety of elamipretide in participants with genetically confirmed PMM. METHODS: After screening, eligible participants were randomized 1:1 to receive either 24 weeks of elamipretide at a dose of 40 mg/d or placebo subcutaneously. Primary efficacy endpoints included change from baseline to week 24 on the distance walked on the 6-minute walk test (6MWT) and total fatigue on the Primary Mitochondrial Myopathy Symptom Assessment (PMMSA). Secondary endpoints included most bothersome symptom score on the PMMSA, NeuroQoL Fatigue Short-Form scores, and the patient global impression and clinician global impression of PMM symptoms. RESULTS: Participants (N = 218) were randomized (n = 109 elamipretide; n = 109 placebo). The m0ean age was 45.6 years (64% women; 94% White). Most of the participants (n = 162 [74%]) had mitochondrial DNA (mtDNA) alteration, with the remainder having nuclear DNA (nDNA) defects. At screening, the most frequent bothersome PMM symptom on the PMMSA was tiredness during activities (28.9%). At baseline, the mean distance walked on the 6MWT was 336.7 ± 81.2 meters, the mean score for total fatigue on the PMMSA was 10.6 ± 2.5, and the mean T score for the Neuro-QoL Fatigue Short-Form was 54.7 ± 7.5. The study did not meet its primary endpoints assessing changes in the 6MWT and PMMSA total fatigue score (TFS). Between the participants receiving elamipretide and those receiving placebo, the difference in the least squares mean (SE) from baseline to week 24 on distance walked on the 6MWT was -3.2 (95% CI -18.7 to 12.3; p = 0.69) meters, and on the PMMSA, the total fatigue score was -0.07 (95% CI -0.10 to 0.26; p = 0.37). Elamipretide treatment was well-tolerated with most adverse events being mild to moderate in severity. DISCUSSION: Subcutaneous elamipretide treatment did not improve outcomes in the 6MWT and PMMSA TFS in patients with PMM. However, this phase-3 study demonstrated that subcutaneous elamipretide is well-tolerated. TRIAL REGISTRATION INFORMATION: Trial registered with clinicaltrials.gov, Clinical Trials Identifier: NCT03323749; submitted on October 12, 2017; first patient enrolled October 9, 2017. CLINICALTRIALS: gov/ct2/show/NCT03323749?term = elamipretide&draw = 2&rank = 9. CLASSIFICATION OF EVIDENCE: This study provides Class I evidence that elamipretide does not improve the 6MWT or fatigue at 24 weeks compared with placebo in patients with primary mitochondrial myopathy."
+  },
+  {
+   "pmid": "39574155",
+   "titel": "Genotype-specific effects of elamipretide in patients with primary mitochondrial myopathy: a post hoc analysis of the MMPOWER-3 trial",
+   "jahr": "2024",
+   "journal": "Orphanet J Rare Dis",
+   "erstautor": "Karaa A",
+   "doi": "10.1186/s13023-024-03421-5",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: As previously published, the MMPOWER-3 clinical trial did not demonstrate a significant benefit of elamipretide treatment in a genotypically diverse population of adults with primary mitochondrial myopathy (PMM). However, the prespecified subgroup of subjects with disease-causing nuclear DNA (nDNA) pathogenic variants receiving elamipretide experienced an improvement in the six-minute walk test (6MWT), while the cohort of subjects with mitochondrial DNA (mtDNA) pathogenic variants showed no difference versus placebo. These published findings prompted additional genotype-specific post hoc analyses of the MMPOWER-3 trial. Here, we present these analyses to further investigate the findings and to seek trends and commonalities among those subjects who responded to treatment, to build a more precise Phase 3 trial design for further investigation in likely responders. RESULTS: Subjects with mtDNA pathogenic variants or single large-scale mtDNA deletions represented 74% of the MMPOWER-3 population, with 70% in the mtDNA cohort having either single large-scale mtDNA deletions or MT-TL1 pathogenic variants. Most subjects in the nDNA cohort had pathogenic variants in genes required for mtDNA maintenance (mtDNA replisome), the majority of which were in POLG and TWNK. The mtDNA replisome post-hoc cohort displayed an improvement on the 6MWT, trending towards significant, in the elamipretide group when compared with placebo (25.2 ± 8.7 m versus 2.0 ± 8.6 m for placebo group; p = 0.06). The 6MWT results at week 24 in subjects with replisome variants showed a significant change in the elamipretide group subjects who had chronic progressive external ophthalmoplegia (CPEO) (37.3 ± 9.5 m versus - 8.0 ± 10.7 m for the placebo group; p = 0.0024). Pharmacokinetic (exposure-response) analyses in the nDNA cohort showed a weak positive correlation between plasma elamipretide concentration and 6MWT improvement. CONCLUSIONS: Post hoc analyses indicated that elamipretide had a beneficial effect in PMM patients with mtDNA replisome disorders, underscoring the importance of considering specific genetic subtypes in PMM clinical trials. These data serve as the foundation for a follow-up Phase 3 clinical trial (NuPOWER) which has been designed as described in this paper to determine the efficacy of elamipretide in patients with mtDNA maintenance-related disorders. CLASSIFICATION OF EVIDENCE: Class I CLINICALTRIALS. GOV IDENTIFIER: NCT03323749."
+  },
+  {
+   "pmid": "29500292",
+   "titel": "Randomized dose-escalation trial of elamipretide in adults with primary mitochondrial myopathy",
+   "jahr": "2018",
+   "journal": "Neurology",
+   "erstautor": "Karaa A",
+   "doi": "10.1212/WNL.0000000000005255",
+   "typ": [
+    "Clinical Trial, Phase I",
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: To assess the safety and efficacy of elamipretide, an aromatic-cationic tetrapeptide that readily penetrates cell membranes and transiently localizes to the inner mitochondrial membrane where it associates with cardiolipin, in adults with primary mitochondrial myopathy (PMM). METHODS: A Study Investigating the Safety, Tolerability, and Efficacy of MTP-131 for the Treatment of Mitochondrial Myopathy (MMPOWER) was a phase I/II multicenter, randomized, double-blind, placebo-controlled trial of elamipretide in 36 participants with genetically confirmed PMM. Participants were randomized to intravenous elamipretide (0.01, 0.1, and 0.25 mg/kg/h or placebo for 2 hours in a dose-escalating sequence). The primary efficacy measure was the change in distance walked in the 6-minute walk test (6MWT) after 5 days of treatment. Other efficacy measures included changes in cardiopulmonary exercise testing parameters, in participant-reported symptoms, and in serum and urinary biomarkers. Safety, tolerability, and pharmacokinetics were also measured. RESULTS: Participants who received the highest dose of elamipretide walked a mean of 64.5 m farther at day 5 compared to a change of 20.4 m in the placebo group (p = 0.053). In addition, there was a dose-dependent increase in distance walked on the 6MWT with elamipretide treatment (p = 0.014). In a model that adjusted for additional covariates possibly affecting response, the adjusted change for the highest dose of elamipretide was 51.2 vs 3.0 m in the placebo group (p = 0.0297). No significant differences were observed in other efficacy and safety endpoints. CONCLUSIONS: Elamipretide increased exercise performance after 5 days of treatment in patients with PMM without increased safety concerns. These findings, as well as additional functional and patient-reported measures, remain to be tested in larger trials with longer treatment periods to detect other potential therapeutic benefits in individuals affected by this condition. CLASSIFICATION OF EVIDENCE: This trial provides Class I evidence that for patients with PMM, elamipretide improved the distance walked on the 6MWT."
+  },
+  {
+   "pmid": "39217569",
+   "titel": "Effect of Aficamten on Health Status Outcomes in Obstructive Hypertrophic Cardiomyopathy: Results From SEQUOIA-HCM",
+   "jahr": "2024",
+   "journal": "J Am Coll Cardiol",
+   "erstautor": "Sherrod CF 4th",
+   "doi": "10.1016/j.jacc.2024.08.014",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III",
+    "Multicenter Study"
+   ],
+   "abstract": "BACKGROUND: A primary goal in treating obstructive hypertrophic cardiomyopathy (oHCM) is to improve patients' health status: their symptoms, function, and quality of life. The health status benefits of aficamten, a novel cardiac myosin inhibitor, have not been comprehensively described. OBJECTIVES: This study sought to determine the effect of aficamten on patient-reported health status, including symptoms of fatigue, shortness of breath, chest pain, physical and social limitations, and quality of life. METHODS: SEQUOIA-HCM (Phase 3 Trial to Evaluate the Efficacy and Safety of Aficamten Compared to Placebo in Adults With Symptomatic oHCM) randomized symptomatic adults with oHCM to 24 weeks of aficamten (n = 142) or placebo (n = 140), followed by a 4-week washout. The Kansas City Cardiomyopathy Questionnaire (KCCQ) and Seattle Angina Questionnaire 7-item (SAQ7) were serially administered. Changes in mean KCCQ-Overall Summary Score (KCCQ-OSS) and SAQ7-Summary Score (SAQ7-SS) from baseline to 24 weeks and following treatment withdrawal were compared using linear regression adjusted for baseline scores and randomization strata. Proportions of patients with clinically important changes were compared. RESULTS: Among 282 participants, the mean age was 59 ± 13 years, 115 (41%) were female, and 223 (79%) were White. Baseline KCCQ-OSS (69.3 ± 20.1 vs 67.3 ± 18.8) and SAQ7-SS (72.0 ± 21.0 vs 72.4 ± 18.3) were similar between aficamten and placebo groups. Treatment with aficamten, compared with placebo, improved both the mean KCCQ-OSS (13.3 ± 16.3 vs 6.1 ± 12.6; mean difference: 7.9; 95% CI: 4.8-11.0; P < 0.001) and SAQ7-SS (11.6 ± 17.4 vs 3.8 ± 14.4; mean difference: 7.8; 95% CI: 4.7-11.0; P < 0.001) at 24 weeks, with benefits emerging within 4 weeks. No heterogeneity in treatment effect was found across subgroups. A much larger proportion of participants experienced a very large health status improvement (≥20 points) with aficamten vs placebo (KCCQ-OSS: 29.7% vs 12.4%, number needed to treat: 5.8; SAQ7-SS: 31.2% vs 13.9%, number needed to treat: 5.8). Participants' health status worsened significantly more after withdrawal from aficamten than placebo (KCCQ-OSS: -16.2 ± 19.0 vs -3.0 ± 9.6; P < 0.001; SAQ7-SS: -17.4 ± 21.4 vs -2.5 ± 13.3), further confirming a causal effect of aficamten. CONCLUSIONS: In patients with symptomatic oHCM, treatment with aficamten resulted in markedly improved health status, including significant improvement in chest pain-related health status, than placebo. (Phase 3 Trial to Evaluate the Efficacy and Safety of Aficamten Compared to Placebo in Adults With Symptomatic oHCM [SEQUOIA-HCM]; NCT05186818)."
+  },
+  {
+   "pmid": "33077895",
+   "titel": "A phase 2/3 randomized clinical trial followed by an open-label extension to evaluate the effectiveness of elamipretide in Barth syndrome, a genetic disorder of mitochondrial cardiolipin metabolism",
+   "jahr": "2021",
+   "journal": "Genet Med",
+   "erstautor": "Reid Thompson W",
+   "doi": "10.1038/s41436-020-01006-8",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Clinical Trial, Phase III",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "PURPOSE: To evaluate effectiveness of elamipretide in Barth syndrome (BTHS), a genetic condition of defects in TAZ, which causes abnormal cardiolipin on the inner mitochondrial membrane. METHODS: We performed a randomized, double-blind, placebo-controlled crossover trial followed by an open-label extension in BTHS to test the effect of elamipretide, a mitochondrial tetrapeptide that interacts with cardiolipin. In part 1, 12 subjects were randomized to 40 mg per day of elamipretide or placebo for 12 weeks, followed by a 4-week washout and then 12 weeks on the opposite arm. Ten subjects continued on the open-label extension (part 2) of 40 mg per day of elamipretide, with eight subjects reaching 36 weeks. Primary endpoints were improvement on the 6-minute walk test (6MWT) and improvement on a BTHS Symptom Assessment (BTHS-SA) scale. RESULTS: In part 1 neither primary endpoint was met. At 36 weeks in part 2, there were significant improvements in 6MWT (+95.9 m, p = 0.024) and BTHS-SA (-2.1 points, p = 0.031). There were also significant improvements in secondary endpoints including knee extensor strength, patient global impression of symptoms, and some cardiac parameters. CONCLUSION: In this interventional clinical trial in BTHS, daily administration of elamipretide led to improvement in BTHS symptoms."
+  },
+  {
+   "pmid": "40281531",
+   "titel": "Initial Psychometric Evaluation of the Barth Syndrome Symptom Assessment (BTHS-SA) for Adolescents and Adults in a Phase 2 Clinical Study",
+   "jahr": "2025",
+   "journal": "Orphanet J Rare Dis",
+   "erstautor": "Gwaltney C",
+   "doi": "10.1186/s13023-025-03693-5",
+   "typ": [
+    "Journal Article",
+    "Clinical Trial, Phase II",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Barth syndrome (BTHS) is a rare, X-linked disorder that stems from mutations in the TAFAZZIN (TAZ) gene with varying disease severity among patients. The Barth Syndrome Symptom Assessment (BTHS-SA) is a patient-reported outcome questionnaire developed to assess BTHS symptom severity. The current study reflects the first exploration of the assessment's psychometric performance. METHODS: The BTHS-SA was administered in TAZPOWER, a phase 2, randomized, double-blind, placebo-controlled crossover study to evaluate daily subcutaneous injections of elamipretide in subjects with genetically confirmed BTHS. Descriptive and correlational analyses were used to assess the score distributions, reliability, and construct-related validity of BTHS-SA items and domains including a two-item (2 FS), three-item (3 FS), and four-item (4 FS) fatigue score, and a five-item myopathy score (5MS). RESULTS: Among the N = 12 white males (M age = 19.5, SD = 7.7) participating in the TAZPOWER trial, overall symptoms were rated as mild (n = 5, 41.7%), moderate (n = 5, 41.7%), severe (n = 1, 8.3%), or very severe (n = 1, 8.3%). Descriptive statistics for the BTHS-SA scores indicate variability of symptom severity both within symptom cluster and across patients. Promising results were found for both internal consistency (α = 0.67, 0.72, and 0.66 for the 3 FS, 4 FS, and 5MS, respectively) and test-retest reliability (ICC values ranging from 0.79 to 0.94 across two test-retest intervals). Correlational analyses showing moderate to strong relationships to other patient reports of fatigue (e.g., r = 0.59, 0.76, 0.68, and 0.61 between the PROMIS Fatigue SF and the 2 FS, 3 FS, 4 FS, and 5MS, respectively) and symptom severity (e.g., r = 0.60, 0.62, 0.56, 0.53 between a patient global rating and the 2 FS, 3 FS, 4 FS, and 5MS, respectively) support the measure's convergent validity. A similar pattern of relationships was observed when correlating changes in BTHS-SA scores to reference measures, including moderate to strong relationships between the BTHS-SA and direct patient reports of change (r = 0.81, 0.79, 0.82, and 0.80 between a global impression of change score and the 2 FS, 3 FS, 4 FS, and 5MS, respectively). CONCLUSION: Though the small sample size limits strong conclusions, this analysis suggests the BTHS-SA can produce reliable scores upon which valid inferences may be drawn. The BTHS-SA may be a useful tool to evaluate treatment benefits in this underserved population. TRIAL REGISTRATION: ClinicalTrials.gov identifier, NCT03098797. Registered 05 May 2017, https://www. CLINICALTRIALS: gov/study/NCT03098797 ."
+  },
+  {
+   "pmid": "29217757",
+   "titel": "Novel Mitochondria-Targeting Peptide in Heart Failure Treatment: A Randomized, Placebo-Controlled Trial of Elamipretide",
+   "jahr": "2017",
+   "journal": "Circ Heart Fail",
+   "erstautor": "Daubert MA",
+   "doi": "10.1161/CIRCHEARTFAILURE.117.004389",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "BACKGROUND: Mitochondrial dysfunction and energy depletion in the failing heart are innovative therapeutic targets in heart failure management. Elamipretide is a novel tetrapeptide that increases mitochondrial energy; however, its safety, tolerability, and therapeutic effect on cardiac structure and function have not been studied in heart failure with reduced ejection fraction. METHODS AND RESULTS: In this double-blind, placebo-controlled, ascending-dose trial, patients with heart failure with reduced ejection fraction (ejection fraction, ≤35%) were randomized to either a single 4-hour infusion of elamipretide (cohort 1 [n=8], 0.005; cohort 2 [n=8], 0.05; and cohort 3 [n=8], 0.25 mg·kg-1·h-1) or placebo control (n=12). Safety and efficacy were assessed by clinical, laboratory, and echocardiographic assessments performed at pre-, mid- and end-infusion and 6-, 8-, 12- and 24-hours postinfusion start. Peak plasma concentrations of elamipretide occurred at end-infusion and were undetectable by 24 hours postinfusion. There were no serious adverse events. Blood pressure and heart rate remained stable in all cohorts. Compared with placebo, a significant decrease in left ventricular end-diastolic volume (-18 mL; P=0.009) and end-systolic volume (-14 mL; P=0.005) occurred at end infusion in the highest dose cohort. CONCLUSIONS: This is the first study to evaluate elamipretide in heart failure with reduced ejection fraction and demonstrates that a single infusion of elamipretide is safe and well tolerated. High-dose elamipretide resulted in favorable changes in left ventricular volumes that correlated with peak plasma concentrations, supporting a temporal association and dose-effect relationship. Further study of elamipretide is needed to determine long-term safety and efficacy. CLINICAL TRIAL REGISTRATION: URL: https://www.clinicaltrials.gov. Unique identifier: NCT02388464."
+  },
+  {
+   "pmid": "28916603",
+   "titel": "Phase 2a Clinical Trial of Mitochondrial Protection (Elamipretide) During Stent Revascularization in Patients With Atherosclerotic Renal Artery Stenosis",
+   "jahr": "2017",
+   "journal": "Circ Cardiovasc Interv",
+   "erstautor": "Saad A",
+   "doi": "10.1161/CIRCINTERVENTIONS.117.005487",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "BACKGROUND: Atherosclerotic renal artery stenosis reduces renal blood flow (RBF) and amplifies stenotic kidney hypoxia. Revascularization with percutaneous transluminal renal angioplasty (PTRA) and stenting often fails to recover renal function, possibly because of ischemia/reperfusion injury developing after PTRA. Elamipretide is a mitochondrial-targeted peptide that binds to cardiolipin and stabilizes mitochondrial function. We tested the hypothesis that elamipretide plus PTRA would improve renal function, oxygenation, and RBF in patients with atherosclerotic renal artery stenosis undergoing PTRA. METHODS AND RESULTS: Inpatient studies were performed in patients with severe atherosclerotic renal artery stenosis scheduled for PTRA. Patients were treated before and during PTRA with elamipretide (0.05 mg/kg per hour intravenous infusion, n=6) or placebo (n=8). Stenotic kidney cortical/medullary perfusion and RBF were measured using contrast-enhanced multidetector CT, and renal oxygenation by 3-T blood oxygen level-dependent magnetic resonance imaging before and 3 months after PTRA. Age and basal glomerular filtration rate did not differ between groups. Blood oxygen level-dependent imaging demonstrated increased fractional hypoxia 24 hours after angiography and stenting in placebo (+47%) versus elamipretide (-6%). These were reverted to baseline 3 months later. Stenotic kidney RBF rose (202±29-262±115 mL/min; P=0.04) 3 months after PTRA in the elamipretide-treated group only. Over 3 months, systolic blood pressure decreased, and estimated glomerular filtration rate increased (P=0.003) more in the elamipretide group than in the placebo group (P=0.11). CONCLUSIONS: Adjunctive elamipretide during PTRA was associated with attenuated postprocedural hypoxia, increased RBF, and improved kidney function in this pilot trial. These data support a role for targeted mitochondrial protection to minimize procedure-associated ischemic injury and to improve outcomes of revascularization for human atherosclerotic renal artery stenosis. CLINICAL TRIAL REGISTRATION: URL: https://www.clinicaltrials.gov. Unique identifier: NCT01755858."
+  },
+  {
+   "pmid": "37041653",
+   "titel": "Identifying responders to elamipretide in Barth syndrome: Hierarchical clustering for time series data",
+   "jahr": "2023",
+   "journal": "Orphanet J Rare Dis",
+   "erstautor": "Van den Eynde J",
+   "doi": "10.1186/s13023-023-02676-8",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Barth syndrome (BTHS) is a rare genetic disease that is characterized by cardiomyopathy, skeletal myopathy, neutropenia, and growth abnormalities and often leads to death in childhood. Recently, elamipretide has been tested as a potential first disease-modifying drug. This study aimed to identify patients with BTHS who may respond to elamipretide, based on continuous physiological measurements acquired through wearable devices. RESULTS: Data from a randomized, double-blind, placebo-controlled crossover trial of 12 patients with BTHS were used, including physiological time series data measured using a wearable device (heart rate, respiratory rate, activity, and posture) and functional scores. The latter included the 6-minute walk test (6MWT), Patient-Reported Outcomes Measurement Information System (PROMIS) fatigue score, SWAY Balance Mobile Application score (SWAY balance score), BTHS Symptom Assessment (BTHS-SA) Total Fatigue score, muscle strength by handheld dynamometry, 5 times sit-and-stand test (5XSST), and monolysocardiolipin to cardiolipin ratio (MLCL:CL). Groups were created through median split of the functional scores into \"highest score\" and \"lowest score\", and \"best response to elamipretide\" and \"worst response to elamipretide\". Agglomerative hierarchical clustering (AHC) models were implemented to assess whether physiological data could classify patients according to functional status and distinguish non-responders from responders to elamipretide. AHC models clustered patients according to their functional status with accuracies of 60-93%, with the greatest accuracies for 6MWT (93%), PROMIS (87%), and SWAY balance score (80%). Another set of AHC models clustered patients with respect to their response to treatment with elamipretide with perfect accuracy (all 100%). CONCLUSIONS: In this proof-of-concept study, we demonstrated that continuously acquired physiological measurements from wearable devices can be used to predict functional status and response to treatment among patients with BTHS."
+  },
+  {
+   "pmid": "37923251",
+   "titel": "Elamipretide Topical Ophthalmic Solution for the Treatment of Subjects with Leber Hereditary Optic Neuropathy: A Randomized Trial",
+   "jahr": "2024",
+   "journal": "Ophthalmology",
+   "erstautor": "Karanjia R",
+   "doi": "10.1016/j.ophtha.2023.10.033",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "PURPOSE: This study aimed to assess the safety, tolerability, and potential efficacy of topical elamipretide in patients affected with Leber hereditary optic neuropathy (LHON). DESIGN: This phase II, prospective, randomized, vehicle-controlled, single-center clinical trial involved administration of elamipretide 1% topical ophthalmic solution to patients with LHON over a 52-week double-masked treatment period, followed by an open-label extension (OLE) for up to 108 additional weeks of treatment. PARTICIPANTS: Twelve patients with LHON were included in this study. Patients aged 18 to 50 years with decreased vision for at least ≥ 1 year and ≤ 10 years, and a genetically confirmed diagnosis of m.11778G>A LHON were eligible for this trial. METHODS: For the first 52 weeks of the study, patients were randomized to 1 of 3 groups: elamipretide in both eyes or elamipretide in 1 eye (left eye and right eye were considered separate groups) and vehicle in the other eye, followed by an OLE in which both eyes were treated with elamipretide. MAIN OUTCOME MEASURES: The primary outcome measure was assessment of adverse events (AEs) from the administration of topical elamipretide, and the primary efficacy end point was change in best-corrected visual acuity (BCVA). Secondary outcome measures included changes in color vision, visual field mean deviation, and electrophysiological outcomes. RESULTS: Elamipretide was well tolerated with the majority of AEs being mild to moderate and resolving spontaneously. The change from baseline in BCVA in elamipretide-treated eyes was not significantly different from the vehicle eyes at any time point. Six of 12 subjects met the criteria for clinically relevant benefit (CRB). In the post hoc analysis, change from baseline in mean deviation in the central visual field was significantly greater in elamipretide-treated eyes versus the vehicle eyes. Compared with baseline, both treatment groups showed improvement in color discrimination and contrast sensitivity in the OLE. CONCLUSIONS: Elamipretide treatment was generally well tolerated, with no serious AEs reported. Although this study did not meet its primary BCVA efficacy end point, improvements across assessments on visual function during the OLE and the post hoc findings of the Humphrey automated visual field central region were encouraging and require further exploration. FINANCIAL DISCLOSURE(S): The author(s) have no proprietary or commercial interest in any materials discussed in this article."
+  },
+  {
+   "pmid": "28534645",
+   "titel": "The mitochondria-targeting peptide elamipretide diminishes circulating HtrA2 in ST-segment elevation myocardial infarction",
+   "jahr": "2019",
+   "journal": "Eur Heart J Acute Cardiovasc Care",
+   "erstautor": "Hortmann M",
+   "doi": "10.1177/2048872617710789",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Comparative Study",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "BACKGROUND: The extent of myocardial damage in patients with ST-segment elevation myocardial infarction (STEMI) depends on both the time to reperfusion as well as injury induced by ischaemia-reperfusion resulting in a cascade of cellular and humoral reactions. As a consequence of ischaemia-reperfusion in the heart, the high-temperature requirement serine peptidase 2 (HtrA2) is translocated from the mitochondria to the cytosol, whereupon it induces protease activity-dependent apoptosis mediated via caspases. Myocardial damage induced by reperfusion cannot be monitored due to a current lack in specific biomarkers. We examined the serum level of HtrA2 as a potentially novel biomarker for mitochondrial-induced cardiomyocyte apoptosis. METHODS: After informed consent, peripheral blood was obtained from patients (n=19) with first-time acute anterior STEMI after percutaneous coronary intervention. Within this group, 10 of the patients received the mitochondria-targeting peptide elamipretide (phase 2a clinical study EMBRACE (NCT01572909)). Blood was also obtained from a control group of healthy donors (n=16). The serum level of HtrA2 was measured by an enzyme-linked immunosorbent assay (ELISA). In a murine model of myocardial ischaemia-reperfusion injury, HtrA2 was determined in plasma by ELISA after left anterior descending artery occlusion. RESULTS: HtrA2 median was significantly increased in patients with STEMI compared to healthy controls 392.4 (240.7-502.8) pg/mL vs. 1805.5 (981.3-2220.1) pg/mL (P⩽0.05). Elamipretide significantly reduced the HtrA2 median serum level after myocardial infarction 1805.5 (981.3-2220.1) pg/mL vs. 496.5 (379.4-703.8) pg/mL (P⩽0.05). Left anterior descending artery occlusion in mice significantly increased HtrA2 mean in plasma (117.4 fg/ml±SEM 28.1 vs. 525.2 fg/ml±SEM 96; P⩽0.05). CONCLUSION: Compared to healthy controls, we found significantly increased serum levels of HtrA2 in patients with STEMI. The result was validated in a murine model of myocardial ischaemia-reperfusion injury. In humans the increased serum level was significantly reduced by the mitochondria-targeting peptide elamipretide. In conclusion, HtrA2 is detectable in serum of patients with STEMI and might present a novel biomarker for mitochondrial-induced cardiomyocyte apoptosis. Consequently, HtrA2 may also show promise as a biomarker for the identification of ischaemia-reperfusion injury. However, this must be validated in a lager clinical trial."
+  },
+  {
+   "pmid": "34264994",
+   "titel": "In vivo mitochondrial ATP production is improved in older adult skeletal muscle after a single dose of elamipretide in a randomized trial",
+   "jahr": "2021",
+   "journal": "PLoS One",
+   "erstautor": "Roshanravan B",
+   "doi": "10.1371/journal.pone.0253849",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "BACKGROUND: Loss of mitochondrial function contributes to fatigue, exercise intolerance and muscle weakness, and is a key factor in the disability that develops with age and a wide variety of chronic disorders. Here, we describe the impact of a first-in-class cardiolipin-binding compound that is targeted to mitochondria and improves oxidative phosphorylation capacity (Elamipretide, ELAM) in a randomized, double-blind, placebo-controlled clinical trial. METHODS: Non-invasive magnetic resonance and optical spectroscopy provided measures of mitochondrial capacity (ATPmax) with exercise and mitochondrial coupling (ATP supply per O2 uptake; P/O) at rest. The first dorsal interosseous (FDI) muscle was studied in 39 healthy older adult subjects (60 to 85 yrs of age; 46% female) who were enrolled based on the presence of poorly functioning mitochondria. We measured volitional fatigue resistance by force-time integral over repetitive muscle contractions. RESULTS: A single ELAM dose elevated mitochondrial energetic capacity in vivo relative to placebo (ΔATPmax; P = 0.055, %ΔATPmax; P = 0.045) immediately after a 2-hour infusion. No difference was found on day 7 after treatment, which is consistent with the half-life of ELAM in human blood. No significant changes were found in resting muscle mitochondrial coupling. Despite the increase in ATPmax there was no significant effect of treatment on fatigue resistance in the FDI. CONCLUSIONS: These results highlight that ELAM rapidly and reversibly elevates mitochondrial capacity after a single dose. This response represents the first demonstration of a pharmacological intervention that can reverse mitochondrial dysfunction in vivo immediately after treatment in aging human muscle."
+  },
+  {
+   "pmid": "32068002",
+   "titel": "Effects of Elamipretide on Left Ventricular Function in Patients With Heart Failure With Reduced Ejection Fraction: The PROGRESS-HF Phase 2 Trial",
+   "jahr": "2020",
+   "journal": "J Card Fail",
+   "erstautor": "Butler J",
+   "doi": "10.1016/j.cardfail.2020.02.001",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "BACKGROUND: Elamipretide, a novel mitochondrial modulating agent, improves myocardial energetics; however, it is unknown whether this mechanistic benefit translates into improved cardiac structure and function in heart failure (HF) with reduced ejection fraction (HFrEF). The objective of this study was to evaluate the effects of multiple subcutaneous doses of elamipretide on left ventricular end systolic volume (LVESV) as assessed by cardiac magnetic resonance imaging. METHODS: We randomized 71 patients with HFrEF (LVEF ≤ 40%) in a double-blind, placebo-controlled trial in a 1:1:1 ratio to receive placebo, 4 mg or 40 mg elamipretide once daily for 28 consecutive days. RESULTS: The mean age (standard deviation) of the study population was 65 ± 10 years, 24% were females, and the mean EF was 31% ± 7%. The change in LVESV from baseline to week 4 was not significantly different between elamipretide 4 mg (89.4 mL to 85 mL; difference, -4.4 mL) or 40 mg (77.9 mL to 76.6 mL; difference, -1.2 mL) compared with placebo (77.7 mL to 74.6 mL; difference, -3.8 mL) (4 mg vs placebo: difference of means, -0.3; 95% CI, -4.6 to 4.0; P  =  0.90; and 40 mg vs placebo: difference of means, 2.3; 95% CI, -1.9 to 6.5; P  =  0.28). Also, no significant differences in change in LVESV and LVEF were observed between placebo and either of the elamipretide groups. Rates of any study drug-related adverse events were similar in the 3 groups. CONCLUSIONS: Elamipretide was well tolerated but did not improve LVESV at 4 weeks in patients with stable HFrEF compared with placebo."
+  },
+  {
+   "pmid": "405283",
+   "titel": "Antibodies to pancreatic duct cells in Sjögren's syndrome and rheumatoid arthritis",
+   "jahr": "1977",
+   "journal": "Gut",
+   "erstautor": "Ludwig H",
+   "doi": "10.1136/gut.18.4.311",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ],
+   "abstract": "In the present investigation the occurrence of humoral immunity to pancreatic duct cells (PDC) was studied in 12 patients with Sjögren's syndrome (SS), 31 patients with rheumatoid arthritis (RA), and 64 controls. Four sera of patients with SS and eight of patients with RA produced diffuse cytoplasmic fluorescence of intro- as well as of interlobular PDC of human and rhesus monkey origin. All sera positive with PDC antigens gave also positive staining reaction with parotid, submandibular, and lacrimal duct cells. In absorption studies antibody activity to PDC and salivary duct cells could be absorbed equally well with human or monkey parotid gland or pancreas with almost identical antigen concentrations. These findings point to the presence of common antigenic determinants in the organs studied. Human thyroid microsomes and rat liver homogenate did not reduce antibody activity. The demonstration of antibodies to PDC in addition to the reported mononuclear cell infiltration of the pancreas point to the involvement of autoimmune mechanisms in pathogenesis of the commonly observed subclinical exocrine insufficiency in SS and in some cases of RA."
+  },
+  {
+   "pmid": "27286183",
+   "titel": "Effects of Single Vs. Multiple Sets during 10 Weeks of Water-based Resistance Training on Neuromuscular Adaptations in Young Women",
+   "jahr": "2016",
+   "journal": "Int J Sports Med",
+   "erstautor": "Schoenell MC",
+   "doi": "10.1055/s-0042-106299",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "This study aims to analyze the neuromuscular adaptations of sedentary young women between water-based resistance training performed with single and multiple sets. 66 women (24.72±4.33 years old) were randomly divided into 2 training groups: SS (single set of 30 s) and MS (3 sets of 30 s). Both groups performed 2 sessions per week for 10 weeks. One repetition maximal test (1RM), muscle endurance test (maximal repetitions at 60% 1RM) and muscle power test (squat and countermovement jump performance) were evaluated at pre- and post-training. To compare neuromuscular variables, a repeated measures ANOVA with a group factor (α=0.05) was used. Both groups showed significant increases in 1RM (SS: 14.59%; MS 14.86%), in 60% 1RM (SS: 31.23%; MS: 37.37%), in SJ (SS: 10.9%; MS: 8.3%) and CMJ (SS: 9.1%; MS: 6.8%), without difference between groups. There can be concluded that young and sedentary women presented improvements in different expressions of strength after 10 weeks of training, regardless the volume of training."
+  },
+  {
+   "pmid": "22328192",
+   "titel": "Comparison of the pharmacokinetics of a new 30 mg modified-release tablet formulation of metoclopramide for once-a-day administration versus 10 mg immediate-release tablets: a single and multiple-dose, randomized, open-label, parallel study in healthy male subjects",
+   "jahr": "2012",
+   "journal": "Eur J Drug Metab Pharmacokinet",
+   "erstautor": "Bernardo-Escudero R",
+   "doi": "10.1007/s13318-012-0082-0",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "The study aimed to assess the pharmacokinetics of a new, modified-release metoclopramide tablet, and compare it to an immediate-release tablet. A single and multiple-dose, randomized, open-label, parallel, pharmacokinetic study was conducted. Investigational products were administered to 26 healthy Hispanic Mexican male volunteers for two consecutive days: either one 30 mg modified-release tablet every 24 h, or one 10 mg immediate-release tablet every 8 h. Blood samples were collected after the first and last doses of metoclopramide. Plasma metoclopramide concentrations were determined by high-performance liquid chromatography. Safety and tolerability were assessed through vital signs measurements, clinical evaluations, and spontaneous reports from study subjects. All 26 subjects were included in the analyses [mean (SD) age: 27 (8) years, range 18-50; BMI: 23.65 (2.22) kg/m², range 18.01-27.47)]. Peak plasmatic concentrations were not statistically different with both formulations, but occurred significantly later (p < 0.05) with the modified-release form [tmax: 3.15 (1.28) vs. 0.85 (0.32) h and tmax-ss: 2.92 (1.19) vs. 1.04 (0.43) h]. There was no difference noted in the average plasma concentrations [Cavgτ: 23.90 (7.90) vs. 20.64 (7.43) ng/mL after the first dose; and Cavg-ss: 31.14 (9.64) vs. 35.59 (12.29) ng/mL after the last dose, (p > 0.05)]. One adverse event was reported in the test group (diarrhea), and one in the reference group (headache). This study suggests that the 30 mg modified-release metoclopramide tablets show features compatible with slow-release formulations when compared to immediate-release tablets, and is suitable for once-a-day administration."
+  }
+ ],
+ "metaanalysen": [
+  {
+   "pmid": "35165982",
+   "titel": "Effect of mitochondrial-targeted antioxidants on glycaemic control, cardiovascular health, and oxidative stress in humans: A systematic review and meta-analysis of randomized controlled trials",
+   "jahr": "2022",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Mason SA",
+   "doi": "10.1111/dom.14669",
+   "typ": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+   ],
+   "abstract": "AIM: To investigate the effects of mitochondrial-targeted antioxidants (mitoAOXs) on glycaemic control, cardiovascular health, and oxidative stress outcomes in humans. MATERIALS AND METHODS: Randomized controlled trials investigating mitoAOX interventions in humans were searched for in databases (MEDLINE-PubMed, Scopus, EMBASE and Cochrane Library) and clinical trial registries up to 10 June 2021. The Cochrane Collaboration's tool for assessing risk of bias and Grading of Recommendations, Assessment, Development and Evaluations were used to assess trial quality and evidence certainty, respectively. RESULTS: Nineteen studies (n = 884 participants) using mitoAOXs (including Elamipretide, MitoQ and MitoTEMPO) were included in the systematic review. There were limited studies investigating the effects of mitoAOXs on glycaemic control; and outcomes and population groups in studies focusing on cardiovascular health were diverse. MitoAOXs significantly improved brachial flow-mediated dilation (n = 3 trials; standardized mean difference: 1.19, 95% CI: 0.28, 2.16; I2 : 67%) with very low evidence certainty. No significant effects were found for any other glycaemic, cardiovascular or oxidative stress-related outcomes with mitoAOXs in quantitative analyses, with evidence certainty rated mostly as low. There was a lack of serious treatment-emergent adverse events with mitoAOXs, although subcutaneous injection of Elamipretide increased mild-moderate injection site-related events. CONCLUSION: While short-term studies indicate that mitoAOXs are generally well tolerated, there is currently limited evidence to support the use of mitoAOXs in the management of glycaemic control and cardiovascular health. Review findings suggest that future research should focus on the effects of mitoAOXs on glycaemic control and endothelial function in target clinical population groups."
+  },
+  {
+   "pmid": "42440741",
+   "titel": "Therapeutic targeting of mitochondrial dysfunction in heart failure: a systematic review & meta-analysis of clinical outcomes",
+   "jahr": "2026",
+   "journal": "Front Cardiovasc Med",
+   "erstautor": "Mohammed O",
+   "doi": "10.3389/fcvm.2026.1824101",
+   "typ": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "abstract": "INTRODUCTION: Mitochondrial dysfunction is recognised as a key driver of heart failure (HF) pathophysiology, contributing to oxidative stress, apoptosis, and impaired energy production in cardiomyocytes. Although therapeutic agents aimed at restoring mitochondrial function have demonstrated promise in animal models and early-phase clinical trials, their efficacy in clinical practice remains uncertain. This meta-analysis evaluated the impact of these agents on clinical outcomes in HF patients. METHODS: A systematic literature search was conducted across PubMed, Cochrane Library, ScienceDirect, Google Scholar, and ClinicalTrials.gov for studies published through May 2025. Thirty one studies (24 RCTs and 7 crossover trials) were included in meta-analysis. Standardized mean difference was pooled for changes in left ventricular ejection fraction (LVEF), NYHA class and six-minute walk test (6MWT) distance compared to baseline, and risk ratios (RR) were pooled for heart failure-related hospitalisations, and all-cause mortality. RESULTS: Interventions significantly improved LVEF compared with baseline (SMD: 0.53; 95% CI: 0.42-0.65; p < 0.00001) and control groups (SMD: 0.42; 95% CI: 0.31-0.53). Treatment reduced NYHA functional class (RR: 2.38; 95% CI: 1.48-3.84; p = 0.0004), all-cause mortality (RR: 0.62; 95% CI: 0.47-0.82; p = 0.0007), and HF-related hospitalizations (RR: 0.60; 95% CI: 0.42-0.85; p = 0.004). The certainty of evidence was rated as low across all outcomes owing to substantial heterogeneity and high risk of bias. DISCUSSION: These findings suggest a potential role for mitochondrial-targeted agents as adjunctive strategies in HF, although the evidence base requires further strengthening through high-quality, adequately powered trials before firm clinical recommendations can be made. SYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/view/CRD420251075951, PROSPERO CRD420251075951."
+  }
+ ],
+ "praeklinik": [
+  {
+   "pmid": "41335372",
+   "titel": "Elamipretide: First Approval",
+   "jahr": "2026",
+   "journal": "Drugs",
+   "erstautor": "Shirley M",
+   "doi": "10.1007/s40265-025-02269-8",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Elamipretide (Forzinity™) is a mitochondrial cardiolipin binder being developed by Stealth BioTherapeutics for the treatment of a range of disorders featuring mitochondrial dysfunction. In September 2025, elamipretide was granted accelerated approval in the USA for use to improve muscle strength in adult and pediatric patients with Barth syndrome weighing ≥ 30 kg. With this accelerated approval, elamipretide became the first disease-specific treatment approved for Barth syndrome, an ultra-rare X-linked recessive genetic disorder. Elamipretide is also under phase III clinical development for use in the treatment of dry age-related macular degeneration and mitochondrial myopathies. This article summarizes the milestones in the development of elamipretide leading to this first approval for Barth syndrome."
+  },
+  {
+   "pmid": "34572131",
+   "titel": "Potential Therapeutic Candidates for Age-Related Macular Degeneration (AMD)",
+   "jahr": "2021",
+   "journal": "Cells",
+   "erstautor": "Nashine S",
+   "doi": "10.3390/cells10092483",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Aging contributes to the risk of development of ocular diseases including, but not limited to, Age-related Macular Degeneration (AMD) that is a leading cause of blindness in the United States as well as worldwide. Retinal aging, that contributes to AMD pathogenesis, is characterized by accumulation of drusen deposits, alteration in the composition of Bruch's membrane and extracellular matrix, vascular inflammation and dysregulation, mitochondrial dysfunction, and accumulation of reactive oxygen species (ROS), and subsequent retinal pigment epithelium (RPE) cell senescence. Since there are limited options available for the prophylaxis and treatment of AMD, new therapeutic interventions are constantly being looked into to identify new therapeutic targets for AMD. This review article discusses the potential candidates for AMD therapy and their known mechanisms of cytoprotection in AMD. These target therapeutic candidates include APE/REF-1, MRZ-99030, Ciliary NeuroTrophic Factor (CNTF), RAP1 GTPase, Celecoxib, and SS-31/Elamipretide."
+  },
+  {
+   "pmid": "41206662",
+   "titel": "Elamipretide Hydrochloride",
+   "jahr": "2026",
+   "journal": "Am J Health Syst Pharm",
+   "erstautor": "",
+   "doi": "10.1093/ajhp/zxaf303",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "36322234",
+   "titel": "Elamipretide effects on the skeletal muscle phosphoproteome in aged female mice",
+   "jahr": "2022",
+   "journal": "Geroscience",
+   "erstautor": "Campbell MD",
+   "doi": "10.1007/s11357-022-00679-0",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "abstract": "The age-related decline in skeletal muscle mass and function is known as sarcopenia. Sarcopenia progresses based on complex processes involving protein dynamics, cell signaling, oxidative stress, and repair. We have previously found that 8-week treatment with elamipretide improves skeletal muscle function, reverses redox stress, and restores protein S-glutathionylation changes in aged female mice. This study tested whether 8-week treatment with elamipretide also affects global phosphorylation in skeletal muscle consistent with functional improvements and S-glutathionylation. Using female 6-7-month-old mice and 28-29-month-old mice, we found that phosphorylation changes did not relate to S-glutathionylation modifications, but that treatment with elamipretide did partially reverse age-related changes in protein phosphorylation in mouse skeletal muscle."
+  },
+  {
+   "pmid": "31408013",
+   "titel": "Advances in primary mitochondrial myopathies",
+   "jahr": "2019",
+   "journal": "Curr Opin Neurol",
+   "erstautor": "de Barcelos IP",
+   "doi": "10.1097/WCO.0000000000000743",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "PURPOSE OF REVIEW: Although mitochondrial diseases impose a significant functional limitation in the lives of patients, treatment of these conditions has been limited to dietary supplements, exercise, and physical therapy. In the past few years, however, translational medicine has identified potential therapies for these patients. RECENT FINDINGS: For patients with primary mitochondrial myopathies, preliminary phase I and II multicenter clinical trials of elamipretide indicate safety and suggest improvement in 6-min walk test (6MWT) performance and fatigue scales. In addition, for thymidine kinase 2-deficient (TK2d) myopathy, compassionate-use oral administration of pyrimidine deoxynucleosides have shown preliminary evidence of safety and efficacy in survival of early onset patients and motor functions relative to historical TK2d controls. SUMMARY: The prospects of effective therapies that improve the quality of life for patients with mitochondrial myopathy underscore the necessity for definitive diagnoses natural history studies for better understanding of the diseases."
+  },
+  {
+   "pmid": "41966639",
+   "titel": "Safety and Efficacy of Approved and Unapproved Peptide Therapies for Musculoskeletal Injuries and Athletic Performance",
+   "jahr": "2026",
+   "journal": "Sports Med",
+   "erstautor": "Mendias CL",
+   "doi": "10.1007/s40279-026-02437-0",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Peptides are short chains of amino acids with a unique pharmacological niche between small-molecule drugs and large proteins. Their use in sports medicine is rapidly expanding, driven by patient demand for accelerated injury recovery and performance enhancement. While numerous peptide drugs have undergone a rigorous approval process that evaluates both safety and efficacy, a parallel \"gray market\" of unapproved compounds has emerged, operating largely outside of regulatory oversight. Our objective is to present the pharmacological mechanisms, safety profiles, and regulatory status of prominent approved and unapproved peptides marketed direct to patients, including AOD-9604 (anti-obesity drug 9604), BPC-157 (body protection compound 157), CJC-1295, FS-344 (follistatin-344), GHK-Cu (glycyl-L-histidyl-L-lysine copper), ipamorelin, MOTS-C (mitochondrial ORF of the 12S rRNA type-c), sermorelin, SS-31 (elamipretide), tesamorelin (Egrifta), Tβ4 (thymosin beta-4), and TB-500 (thymosin beta-4 fragment). Many unapproved peptides demonstrate favorable tissue repair and metabolic outcomes in animal models, but rigorous human safety data are scarce, and there is potential for serious harm to patients. This narrative review focuses on the utilization of peptides in sports medicine, and alternative treatments that may be considered. We provide a framework to navigate patient discussions about peptides to better facilitate evidence-based practices for musculoskeletal healing and athletic performance. We also discuss the placebo effect as a mediator of peptide efficacy, and how social media amplifies this effect."
+  },
+  {
+   "pmid": "37081763",
+   "titel": "Elamipretide reduces pyroptosis and improves functional recovery after spinal cord injury",
+   "jahr": "2023",
+   "journal": "CNS Neurosci Ther",
+   "erstautor": "Jiang W",
+   "doi": "10.1111/cns.14221",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "AIMS: Elamipretide (EPT), a novel mitochondria-targeted peptide, has been shown to be protective in a range of diseases. However, the effect of EPT in spinal cord injury (SCI) has yet to be elucidated. We aimed to investigate whether EPT would inhibit pyroptosis and protect against SCI. METHODS: After establishing the SCI model, we determined the biochemical and morphological changes associated with pyroptosis, including neuronal cell death, proinflammatory cytokine expression, and signal pathway levels. Furthermore, mitochondrial function was assessed with flow cytometry, quantitative real-time polymerase chain reaction, and western blot. RESULTS: Here, we demonstrate that EPT improved locomotor functional recovery following SCI as well as reduced neuronal loss. Moreover, EPT inhibited nucleotide-binding oligomerization domain-like receptor 3 (NLRP3) inflammasome activation and pyroptosis occurrence and decreased pro-inflammatory cytokines levels following SCI. Furthermore, EPT alleviated mitochondrial dysfunction and reduced mitochondrial reactive oxygen species level. CONCLUSION: EPT treatment may protect against SCI via inhibition of pyroptosis."
+  },
+  {
+   "pmid": "39689981",
+   "titel": "Reprogramming of Treg cell-derived small extracellular vesicles effectively prevents intestinal inflammation from PANoptosis by blocking mitochondrial oxidative stress",
+   "jahr": "2025",
+   "journal": "Trends Biotechnol",
+   "erstautor": "Gong W",
+   "doi": "10.1016/j.tibtech.2024.11.017",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Inflammatory bowel disease (IBD) is a chronic relapsing immune-mediated inflammatory disorder of the alimentary tract without exact etiology. Mitochondrial reactive oxygen species (mtROS) derived from mitochondrial dysfunction impair intestinal barrier function, increase gut permeability, and facilitate immune cell invasion, and, therefore, are considered to have a pivotal role in the pathogenesis of IBD. Here, we reprogrammed regulatory T cell (Treg)-derived exosomes loaded with the antioxidant trace element selenium (Se) and decorated them with the synthetic mitochondria-targeting SS-31 tetrapeptide via a peptide linker. This linker can be cleaved by matrix metalloproteinases (MMPs) in inflammatory lesions. This actively targetable exosome-derived delivery system is protected from intestinal inflammation by scavenging excessive mtROS and preventing immunologically programmed cell death pyroptosis, necroptosis, and apoptosis, known as PANoptosis. Our results suggest that this engineered exosome delivery platform represents a promising targeted therapeutic strategy for the treatment of IBDs."
+  },
+  {
+   "pmid": "36840897",
+   "titel": "Intermittent treatment with elamipretide preserves exercise tolerance in aged female mice",
+   "jahr": "2023",
+   "journal": "Geroscience",
+   "erstautor": "Campbell MD",
+   "doi": "10.1007/s11357-023-00754-0",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The pathology of aging impacts multiple organ systems, including the kidney and skeletal and cardiac muscles. Long-term treatment with the mitochondrial-targeted peptide elamipretide has previously been shown to improve in vivo mitochondrial function in aged mice, which is associated with increased fatigue resistance and treadmill performance, improved cardiovascular diastolic function, and glomerular architecture of the kidney. However, elamipretide is a short tetrameric peptide that is not orally bioavailable, limiting its routes of administration. This study tested whether twice weekly intermittent injections of elamipretide could recapitulate the same functional improvements as continuous long-term infusion. We found that intermittent treatment with elamipretide for 8 months preserved exercise tolerance and left ventricular mass in mice with modest protection of diastolic function and skeletal muscle force production but did not affect kidney function as previously reported using continuous treatment."
+  },
+  {
+   "pmid": "31061917",
+   "titel": "Targeting Mitochondrial Function in Heart Failure: Makes Sense But Will it Work?",
+   "jahr": "2019",
+   "journal": "JACC Basic Transl Sci",
+   "erstautor": "Khan MS",
+   "doi": "10.1016/j.jacbts.2019.03.003",
+   "typ": [
+    "Editorial"
+   ],
+   "abstract": "[Figure: see text]"
+  },
+  {
+   "pmid": "42448476",
+   "titel": "Elamipretide: a mitochondria-targeting drug for Barth syndrome",
+   "jahr": "2026",
+   "journal": "Trends Pharmacol Sci",
+   "erstautor": "Villatore A",
+   "doi": "10.1016/j.tips.2026.06.011",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "32758490",
+   "titel": "Mitochondrial targeted therapy with elamipretide (MTP-131) as an adjunct to tumor necrosis factor inhibition for traumatic optic neuropathy in the acute setting",
+   "jahr": "2020",
+   "journal": "Exp Eye Res",
+   "erstautor": "Tse BC",
+   "doi": "10.1016/j.exer.2020.108178",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "Traumatic optic neuropathy (TON) can occur following blunt trauma to the orbit and can lead to permanent vision loss. In this study, we investigated the effectiveness of elamipretide (MTP-131), a small mitochondrially-targeted tetrapeptide, in conjunction with etanercept, a tumor necrosis factor (TNF) inhibitor, as neuroprotective agents of retinal ganglion cells (RGCs) after optic nerve trauma with sonication-induced TON (SI-TON) in mice. Treatment with intravitreal MTP-131 and subcutaneous etanercept and MTP-131 showed a 21% increase (p < 0.01) in RGC survival rate compared to PBS-treated control eyes. Subcutaneous etanercept and MTP-131 had an 11% increase (p < 0.05) in RGC survival compared to controls. Subcutaneous etanercept only group showed 20% increase (p < 0.01) in RGC survival compared to controls, while subcutaneous MTP-131 alone showed a 17% increase (p < 0.01). Surprisingly, we did not observe a synergistic effect between the two drugs in the group receiving both etanercept and MTP-131. One possible explanation for the absence of a synergistic effect is that MTP-131 and etanercept may be acting on different portions of the same pathway."
+  },
+  {
+   "pmid": "39159753",
+   "titel": "Nanozymes targeting mitochondrial repair in disease treatment",
+   "jahr": "2024",
+   "journal": "J Biotechnol",
+   "erstautor": "Zhang Y",
+   "doi": "10.1016/j.jbiotec.2024.08.008",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Mitochondria are crucial sites for biological oxidation and substance metabolism and plays a vital role in maintaining intracellular homeostasis. When mitochondria undergo oxidative damage or dysfunction, they can harm the organism, leading to various reactive oxygen species (ROS)-related diseases. Therefore, therapies targeting mitochondria are a strategy for treating multiple diseases. Many nanozymes can mimic antioxidant enzymes, which enables them to eliminate ROS to mitigate mitochondrial dysfunction. The therapeutic approaches and drugs targeting the mitochondrial electron transport chain (ETC) have emerged as effective treatments for oxidative stress-related diseases resulting from mitochondrial respiratory chain disorders. Therefore, nanozymes that can regulate homeostasis in the mitochondrial ETC have emerged as effective therapeutic agents for treating oxidative stress-related diseases. In addition, benefit from the controllability and modifiability of nanozymes, their modification with TPP, SS-31 peptide, and mitochondrial permeability membrane peptide to eliminate ROS and repair mitochondrial function. The nanozymes that specifically target mitochondria are powerful tools for the treatment of ROS-associated disorders. We discussed the design strategies pertaining to mitochondrion-targeted nanozymes to treat various diseases to develop more efficacious nanozyme tools for the treatment of ROS-related diseases in the future."
+  },
+  {
+   "pmid": "30688415",
+   "titel": "Effects of elamipretide on skeletal muscle in dogs with experimentally induced heart failure",
+   "jahr": "2019",
+   "journal": "ESC Heart Fail",
+   "erstautor": "Sabbah HN",
+   "doi": "10.1002/ehf2.12408",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "AIMS: Elamipretide (ELAM), an aromatic-cationic tetrapeptide, interacts with cardiolipin and normalizes dysfunctional mitochondria of cardiomyocytes. This study examined the effects of ELAM on skeletal muscle mitochondria function in dogs with chronic heart failure (HF). METHODS AND RESULTS: Studies were performed in skeletal muscle biopsy specimens obtained from normal dogs (n = 7) and dogs with chronic intracoronary microembolization-induced HF (n = 14) treated with subcutaneous ELAM 0.5 mg/kg (HF + ELAM, n = 7) or vehicle (normal saline control, HF-CON, n = 7). After 3 months of therapy, triceps skeletal muscle samples were obtained from all dogs, and the proportion of type 1 and type 2 fibres was assessed. Mitochondria isolated from myofibrils of the vastus lateralis skeletal muscle exposed in vitro to ELAM for 1 h were used to assess mitochondrial function. The proportion of skeletal muscle type 1 fibres was lower in HF-CON dogs compared with normal dogs (23 ± 4 vs. 32 ± 5%, P < 0.05). Treatment with ELAM restored a near-normal fibre-type composition (31 ± 7%, P < 0.05 vs. HF-CON). Skeletal muscle mitochondria showed significantly lower levels of adenosine diphosphate-dependent mitochondrial respiration (100 ± 9 vs. 164 ± 15 natom O/min/mg protein, P < 0.05), mitochondrial membrane potential (0.17 ± 0.03 vs. 0.53 ± 0.03 red/green fluorescence ratio, P < 0.05), mitochondrial permeability transition pore (38 ± 3 vs. 62 ± 2 relative light units, P < 0.05), maximum rate of adenosine triphosphate synthesis (3284 ± 418 vs. 8835 ± 423 RLU/μg protein, P < 0.05), and cytochrome c oxidase activity (1390 ± 108 vs. 2459 ± 210 natom O/min/mg protein, P < 0.05) compared with normal dogs. Exposure of skeletal muscle myofibrillar mitochondria from HF dogs to ELAM showed a dose-dependent improvement/normalization of all measures of mitochondrial function. In mitochondria from skeletal muscle of HF dogs exposed to 0.10 μM ELAM, adenosine diphosphate-dependent mitochondrial respiration increased to 183 ± 18 natom O/min/mg protein, membrane potential increased to 0.30 ± 0.03 red/green fluorescence ratio, mitochondrial permeability transition pore increased to 54 ± 4 RLU, maximum rate of adenosine triphosphate synthesis increased to 4423 ± 414, and cytochrome c oxidase activity increased to 2033 ± 191 natom O/min/mg protein. Exposure of skeletal muscle myofibrillar mitochondria from normal dogs to ELAM had no effect on mitochondrial function parameters. CONCLUSIONS: The results indicate that ELAM, previously shown to positively influence mitochondrial function of the failing heart, can also positively impact mitochondrial function of skeletal muscle and potentially help restore skeletal muscle function and improve exercise tolerance."
+  },
+  {
+   "pmid": "40963812",
+   "titel": "Role of the mitochondrial regulatory factor CHCHD2 in neurodegenerative diseases",
+   "jahr": "2025",
+   "journal": "Front Neurosci",
+   "erstautor": "Guo X",
+   "doi": "10.3389/fnins.2025.1639651",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Mitochondria are essential organelles within cells, and their dysfunction is associated with many neurodegenerative disorders. The protein CHCHD2, which is situated in the intermembrane space of mitochondria, plays a pivotal role in mitochondrial function. Its knockdown or mutation is linked to mitochondrial impairment. Although research suggests that CHCHD2 is involved in the mechanisms underlying various neurodegenerative diseases, there is a notable absence of comprehensive studies that integrate different mutation types, pathogenic mechanisms, and targeted treatment strategies. This paper provides a review of CHCHD2's structure and function, mutant varieties, biological models, and relevant therapies. We conclude that CHCHD2 is critical for maintaining mitochondrial homeostasis, facilitating cell migration, and regulating apoptosis. Mutations in CHCHD2 may influence the mechanisms of neurodegenerative diseases through both loss-of-function and gain-of-function effects, with overexpression possibly reversing pathological processes and mitochondrial dysfunction. Furthermore, elamipretide, a novel drug that targets mitochondria, has shown efficacy in partially alleviating mitochondrial defects resulting from CHCHD2 mutations. These insights could inform the identification of therapeutic targets in neurodegenerative diseases and shape future research on CHCHD2."
+  },
+  {
+   "pmid": "41058805",
+   "titel": "Reviving the Mitochondria: A Hopeful Horizon in Refractory Heart Failure",
+   "jahr": "2025",
+   "journal": "Cureus",
+   "erstautor": "Ahmed Z",
+   "doi": "10.7759/cureus.91710",
+   "typ": [
+    "Editorial"
+   ],
+   "abstract": "Refractory heart failure (HF) remains a pressing clinical challenge despite substantial progress in pharmacologic and device-based interventions. While current therapies target neurohormonal, hemodynamic, and metabolic derangements, a crucial element of cellular dysfunction often remains overlooked: mitochondrial health. Mitochondrial dysfunction plays a central role in the pathogenesis and progression of HF, contributing to bioenergetic failure, oxidative stress, and cardiomyocyte death. Recent advances in mitochondrial-targeted therapies have opened new possibilities for treating HF at its energetic roots. This editorial explores the pathophysiological role of mitochondria in HF, reviews emerging therapeutic strategies aimed at restoring mitochondrial function, and outlines key challenges that must be addressed to translate these innovations into clinical practice."
+  },
+  {
+   "pmid": "34273070",
+   "titel": "Current and emerging drug targets in heart failure treatment",
+   "jahr": "2022",
+   "journal": "Heart Fail Rev",
+   "erstautor": "Ghionzoli N",
+   "doi": "10.1007/s10741-021-10137-2",
+   "typ": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "After initial strategies targeting inotropism and congestion, the neurohormonal interpretative model of heart failure (HF) pathophysiology has set the basis for current pharmacological management of HF, as most of guideline recommended drug classes, including beta-blockers, angiotensin-converting enzyme inhibitors, angiotensin receptor blockers, and mineralocorticoid receptor antagonists, blunt the activation of detrimental neurohormonal axes, namely sympathetic and renin-angiotensin-aldosterone (RAAS) systems. More recently, sacubitril/valsartan, a first-in-class angiotensin receptor neprilysin inhibitor, combining inhibition of RAAS and potentiation of the counter-regulatory natriuretic peptide system, has been consistently demonstrated to reduce mortality and HF-related hospitalization. A number of novel pharmacological approaches have been tested during the latest years, leading to mixed results. Among them, drugs acting directly at a second messenger level, such as the soluble guanylate cyclase stimulator vericiguat, or other addressing myocardial energetics and mitochondrial function, such as elamipretide or omecamtiv-mecarbil, will likely change the therapeutic management of patients with HF. Sodium glucose cotransporter 2 inhibitors, initially designed for the management of type 2 diabetes mellitus, have been recently demonstrated to improve outcome in HF, although mechanisms of their action on cardiovascular system are yet to be elucidated. Most of these emerging approaches have shifted the therapeutic target from neurohormonal systems to the heart, by improving cardiac contractility, metabolism, fibrosis, inflammation, and remodeling. In the present paper, we review from a pathophysiological perspective current and novel therapeutic strategies in chronic HF."
+  },
+  {
+   "pmid": "40656216",
+   "titel": "Dry Eye Disease: Oxidative Stress on Ocular Surface and Cutting-Edge Antioxidants",
+   "jahr": "2025",
+   "journal": "Glob Chall",
+   "erstautor": "Hu R",
+   "doi": "10.1002/gch2.202500068",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Dry eye disease (DED), a multifactorial ocular surface disorder characterized by tear film instability, is pathologically linked to oxidative damage. The accumulation of reactive oxygen species (ROS) across ocular tissues not only directly damages nucleic acids, proteins, and lipids, but also functions as an upstream driver of inflammation and tear hyperosmolarity, collectively disrupting cellular homeostasis. This review comprehensively delineates the mechanistic interplay between oxidative stress (OS) and DED pathogenesis, synthesizing evidence on enzymatic/ nonenzymatic antioxidant alterations in samples of corneal, lacrimal, conjunctival, meibomian gland, and tear tissues, alongside quantitative profiling of OS biomarkers, such as 4-hydroxynonenal (4HNE), malondialdehyde (MDA), 8-hydroxy-2'-deoxyguanosine (8-OHdG), and 3-nitrotyrosine (3-NT). Furthermore, the therapeutic mechanisms of clinically approved and investigational antioxidants, including SKQ1, rebamipide, mitoquinone, elamipretide, lactoferrin, nanozymes, graphene quantum dots, tetrahedral frame of nucleic acids, and Chinese medicine monomers are critically evaluated. With the changes in the modern social environment and lifestyle, the influence of OS on DED is gradually expanding. Antioxidant-based interventions are poised to become cornerstone components of multimodal DED management strategies."
+  },
+  {
+   "pmid": "38391885",
+   "titel": "Biomaterials Functionalized with Inflammasome Inhibitors-Premises and Perspectives",
+   "jahr": "2024",
+   "journal": "J Funct Biomater",
+   "erstautor": "Vinţeler N",
+   "doi": "10.3390/jfb15020032",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "This review aimed at searching literature for data regarding the inflammasomes' involvement in the pathogenesis of oral diseases (mainly periodontitis) and general pathologies, including approaches to control inflammasome-related pathogenic mechanisms. The inflammasomes are part of the innate immune response that activates inflammatory caspases by canonical and noncanonical pathways, to control the activity of Gasdermin D. Once an inflammasome is activated, pro-inflammatory cytokines, such as interleukins, are released. Thus, inflammasomes are involved in inflammatory, autoimmune and autoinflammatory diseases. The review also investigated novel therapies based on the use of phytochemicals and pharmaceutical substances for inhibiting inflammasome activity. Pharmaceutical substances can control the inflammasomes by three mechanisms: inhibiting the intracellular signaling pathways (Allopurinol and SS-31), blocking inflammasome components (VX-765, Emricasan and VX-740), and inhibiting cytokines mediated by the inflammasomes (Canakinumab, Anakinra and Rilonacept). Moreover, phytochemicals inhibit the inflammasomes by neutralizing reactive oxygen species. Biomaterials functionalized by the adsorption of therapeutic agents onto different nanomaterials could represent future research directions to facilitate multimodal and sequential treatment in oral pathologies."
+  },
+  {
+   "pmid": "38569981",
+   "titel": "Mitofilin in cardiovascular diseases: Insights into the pathogenesis and potential pharmacological interventions",
+   "jahr": "2024",
+   "journal": "Pharmacol Res",
+   "erstautor": "Chaurembo AI",
+   "doi": "10.1016/j.phrs.2024.107164",
+   "typ": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The impact of mitochondrial dysfunction on the pathogenesis of cardiovascular disease is increasing. However, the precise underlying mechanism remains unclear. Mitochondria produce cellular energy through oxidative phosphorylation while regulating calcium homeostasis, cellular respiration, and the production of biosynthetic chemicals. Nevertheless, problems related to cardiac energy metabolism, defective mitochondrial proteins, mitophagy, and structural changes in mitochondrial membranes can cause cardiovascular diseases via mitochondrial dysfunction. Mitofilin is a critical inner mitochondrial membrane protein that maintains cristae structure and facilitates protein transport while linking the inner mitochondrial membrane, outer mitochondrial membrane, and mitochondrial DNA transcription. Researchers believe that mitofilin may be a therapeutic target for treating cardiovascular diseases, particularly cardiac mitochondrial dysfunctions. In this review, we highlight current findings regarding the role of mitofilin in the pathogenesis of cardiovascular diseases and potential therapeutic compounds targeting mitofilin."
+  },
+  {
+   "pmid": "34763019",
+   "titel": "Biomass-related PM2.5 induces mitochondrial fragmentation and dysfunction in human airway epithelial cells",
+   "jahr": "2022",
+   "journal": "Environ Pollut",
+   "erstautor": "Gao M",
+   "doi": "10.1016/j.envpol.2021.118464",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The use of biomass for cooking and heating is considered an important factor associated with chronic obstructive pulmonary disease (COPD), but few studies have previously addressed its underlying mechanisms. Therefore, this research aimed to evaluate the effects of biomass-related PM2.5 (BRPM2.5) exposure on 16HBE human airway epithelial cells and in mice with regard to mitochondrial dysfunction. Our study indicated that BRPM2.5 exposure of 16HBE cells resulted in mitochondrial dysfunction, including decreased mitochondrial membrane potential, increased expression of fission proteins-phospho-DRP1, increased mitochondrial ROS (mtROS), and decreased levels of ATP. BRPM2.5 altered the mitochondrial metabolism of 16HBE cells by decreasing mitochondrial oxygen consumption and glycolysis. However, Mitochondria targeted peptide SS-31 eliminated mitochondrial ROS and alleviated the ATP deficiency and proinflammatory cytokines release. BRPM2.5 exposure resulted in abnormal mitochondrial morphological alterations both in 16HBE and in lung tissue. Taken together, these results suggest that BRPM2.5 has detrimental effects on human airway epithelial cells, leading to mitochondrial dysfunction, abnormal mitochondrial metabolism and altered mitochondrial dynamics. The present study provides the first evidence that disruption of mitochondrial structure and mitochondrial metabolism may be one of the mechanisms of BRPM2.5-induced respiratory dysfunction."
+  },
+  {
+   "pmid": "38805970",
+   "titel": "Megalin-targeting and ROS-responsive elamipretide-conjugated polymeric prodrug for treatment of acute kidney injury",
+   "jahr": "2024",
+   "journal": "Biomed Pharmacother",
+   "erstautor": "Huang HL",
+   "doi": "10.1016/j.biopha.2024.116804",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Acute kidney injury (AKI) is associated with both kidney function loss and increased mortality. In the pathological progression of ischemia-reperfusion-induced AKI, the surge of reactive oxygen species (ROS) plays a crucial role. To combat this, mitochondrial-targeted antioxidant therapy shows great promise as mitochondria are the primary source of ROS in AKI. However, most strategies aiming to target mitochondria directly result in nanodrugs that are too large to pass through the glomerular system and reach the renal tubules, which are the main site of damage in AKI. This study focused on synthesizing a Megalin receptor-targeted polymeric prodrug, low molecular weight chitosan-thioketal-elamipretide (LMWC/TK/Ela), to mitigate excessive ROS in renal tubular epithelial cells for AKI. This soluble polymeric prodrug has the ability to successfully reach the tubular site by crossing the glomerular barrier. Once there, it can responsively release elamipretide, which possesses excellent antioxidative properties. Therefore, this research offers a novel approach to actively target renal tubular epithelial cells and intracellular mitochondria for the relief of AKI."
+  },
+  {
+   "pmid": "39056750",
+   "titel": "Cardiomyopathy in Duchenne Muscular Dystrophy and the Potential for Mitochondrial Therapeutics to Improve Treatment Response",
+   "jahr": "2024",
+   "journal": "Cells",
+   "erstautor": "Gandhi S",
+   "doi": "10.3390/cells13141168",
+   "typ": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Duchenne muscular dystrophy (DMD) is a progressive neuromuscular disease caused by mutations to the dystrophin gene, resulting in deficiency of dystrophin protein, loss of myofiber integrity in skeletal and cardiac muscle, and eventual cell death and replacement with fibrotic tissue. Pathologic cardiac manifestations occur in nearly every DMD patient, with the development of cardiomyopathy-the leading cause of death-inevitable by adulthood. As early cardiac abnormalities are difficult to detect, timely diagnosis and appropriate treatment modalities remain a challenge. There is no cure for DMD; treatment is aimed at delaying disease progression and alleviating symptoms. A comprehensive understanding of the pathophysiological mechanisms is crucial to the development of targeted treatments. While established hypotheses of underlying mechanisms include sarcolemmal weakening, upregulation of pro-inflammatory cytokines, and perturbed ion homeostasis, mitochondrial dysfunction is thought to be a potential key contributor. Several experimental compounds targeting the skeletal muscle pathology of DMD are in development, but the effects of such agents on cardiac function remain unclear. The synergistic integration of small molecule- and gene-target-based drugs with metabolic-, immune-, or ion balance-enhancing compounds into a combinatorial therapy offers potential for treating dystrophin deficiency-induced cardiomyopathy, making it crucial to understand the underlying mechanisms driving the disorder."
+  },
+  {
+   "pmid": "37454757",
+   "titel": "The emerging significance of mitochondrial targeted strategies in NAFLD treatment",
+   "jahr": "2023",
+   "journal": "Life Sci",
+   "erstautor": "Zhang T",
+   "doi": "10.1016/j.lfs.2023.121943",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Nonalcoholic fatty liver disease (NAFLD) is the most prevalent chronic liver disease worldwide, ranging from liver steatosis to nonalcoholic steatohepatitis, which ultimately progresses to fibrosis, cirrhosis, and hepatocellular carcinoma. Individuals with NAFLD have a higher risk of developing cardiovascular and extrahepatic cancers. Despite the great progress being made in understanding the pathogenesis and the introduction of new pharmacological targets for NAFLD, no drug or intervention has been accepted for its management. Recent evidence suggests that NAFLD may be a mitochondrial disease, as mitochondrial dysfunction is involved in the pathological processes that lead to NAFLD. In this review, we describe the recent advances in our understanding of the mechanisms associated with mitochondrial dysfunction in NAFLD progression. Moreover, we discuss recent advances in the efficacy of mitochondria-targeted compounds (e.g., Mito-Q, MitoVit-E, MitoTEMPO, SS-31, mitochondrial uncouplers, and mitochondrial pyruvate carrier inhibitors) for treating NAFLD. Furthermore, we present some medications currently being tested in clinical trials for NAFLD treatment, such as exercise, mesenchymal stem cells, bile acids and their analogs, and antidiabetic drugs, with a focus on their efficacy in improving mitochondrial function. Based on this evidence, further investigations into the development of mitochondria-based agents may provide new and promising alternatives for NAFLD management."
+  },
+  {
+   "pmid": "27188504",
+   "titel": "Defective postreperfusion metabolic recovery directly associates with incident delayed graft function",
+   "jahr": "2016",
+   "journal": "Kidney Int",
+   "erstautor": "Wijermars LG",
+   "doi": "10.1016/j.kint.2016.02.034",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Delayed graft function (DGF) following kidney transplantation affects long-term graft function and survival and is considered a manifestation of ischemia reperfusion injury. Preclinical studies characterize metabolic defects resulting from mitochondrial damage as primary driver of ischemia reperfusion injury. In a comprehensive approach that included sequential establishment of postreperfusion arteriovenous concentration differences over the human graft, metabolomic and genomic analysis in tissue biopsies taken before and after reperfusion, we tested whether the preclinical observations translate to the context of clinical DGF. This report is based on sequential studies of 66 eligible patients of which 22 experienced DGF. Grafts with no DGF immediately recovered aerobic respiration as indicated by prompt cessation of lactate release following reperfusion. In contrast, grafts with DGF failed to recover aerobic respiration and showed persistent adenosine triphosphate catabolism indicated by a significant persistently low post reperfusion tissue glucose-lactate ratio and continued significant post-reperfusion lactate and hypoxanthine release (net arteriovenous difference for lactate and hypoxanthine at 30 minutes). The metabolic data for the group with DGF point to a persistent post reperfusion mitochondrial defect, confirmed by functional (respirometry) and morphological analyses. The archetypical mitochondrial stabilizing peptide SS-31 significantly preserved mitochondrial function in human kidney biopsies following simulated ischemia reperfusion. Thus, development of DGF is preceded by a profound post-reperfusion metabolic deficit resulting from severe mitochondrial damage. Strategies aimed at preventing DGF should be focused on safeguarding a minimally required post-reperfusion metabolic competence."
+  },
+  {
+   "pmid": "40497970",
+   "titel": "Mitochondrial Dysfunction: The Silent Catalyst of Kidney Disease Progression",
+   "jahr": "2025",
+   "journal": "Cells",
+   "erstautor": "Pavlović N",
+   "doi": "10.3390/cells14110794",
+   "typ": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Mitochondrial dysfunction is a pivotal driver in the pathogenesis of acute kidney injury (AKI), chronic kidney disease (CKD), and congenital anomalies of the kidney and urinary tract (CAKUT). The kidneys, second only to the heart in mitochondrial density, rely on oxidative phosphorylation to meet the high ATP demands of solute reabsorption and filtration. Disrupted mitochondrial dynamics, such as excessive fission mediated by Drp1, exacerbate tubular apoptosis and inflammation in AKI models like ischemia-reperfusion injury. In CKD, persistent mitochondrial dysfunction drives oxidative stress, fibrosis, and metabolic reprogramming, with epigenetic mechanisms (DNA methylation, histone modifications, non-coding RNAs) regulating genes critical for mitochondrial homeostasis, such as PMPCB and TFAM. Epigenetic dysregulation also impacts mitochondrial-ER crosstalk, influencing calcium signaling and autophagy in renal pathology. Mitophagy, the selective clearance of damaged mitochondria, plays a dual role in kidney disease. While PINK1/Parkin-mediated mitophagy protects against cisplatin-induced AKI by preventing mitochondrial fragmentation and apoptosis, its dysregulation contributes to fibrosis and CKD progression. For instance, macrophage-specific loss of mitophagy regulators like MFN2 amplifies ROS production and fibrotic responses. Conversely, BNIP3/NIX-dependent mitophagy attenuates contrast-induced AKI by suppressing NLRP3 inflammasome activation. In diabetic nephropathy, impaired mitophagy correlates with declining eGFR and interstitial fibrosis, highlighting its diagnostic and therapeutic potential. Emerging therapeutic strategies target mitochondrial dysfunction through antioxidants (e.g., MitoQ, SS-31), mitophagy inducers (e.g., COPT nanoparticles), and mitochondrial transplantation, which mitigates AKI by restoring bioenergetics and modulating inflammatory pathways. Nanotechnology-enhanced drug delivery systems, such as curcumin-loaded nanoparticles, improve renal targeting and reduce oxidative stress. Epigenetic interventions, including PPAR-α agonists and KLF4 modulators, show promise in reversing metabolic reprogramming and fibrosis. These advances underscore mitochondria as central hubs in renal pathophysiology. Tailored interventions-ranging from Drp1 inhibition to mitochondrial transplantation-hold transformative potential to mitigate kidney injury and improve clinical outcomes. Additionally, dietary interventions and novel regulators such as adenogens are emerging as promising strategies to modulate mitochondrial function and attenuate kidney disease progression. Future research should address the gaps in understanding the role of mitophagy in CAKUT and optimize targeted delivery systems for precision therapies."
+  },
+  {
+   "pmid": "39940712",
+   "titel": "Elamipretide: A Review of Its Structure, Mechanism of Action, and Therapeutic Potential",
+   "jahr": "2025",
+   "journal": "Int J Mol Sci",
+   "erstautor": "Tung C",
+   "doi": "10.3390/ijms26030944",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Mitochondria serve an essential metabolic and energetic role in cellular activity, and their dysfunction has been implicated in a wide range of disorders, including cardiovascular conditions, neurodegenerative disorders, and metabolic syndromes. Mitochondria-targeted therapies, such as Elamipretide (SS-31, MTP-131, Bendavia), have consequently emerged as a topic of scientific and clinical interest. Elamipretide has a unique structure allowing for uptake in a variety of cell types and highly selective mitochondrial targeting. This mitochondria-targeting tetrapeptide selectively binds cardiolipin (CL), a lipid found in the inner mitochondrial membrane, thus stabilizing mitochondrial cristae structure, reducing oxidative stress, and enhancing adenosine triphosphate (ATP) production. Preclinical studies have demonstrated the protective and restorative efficacy of Elamipretide in models of heart failure, neurodegeneration, ischemia-reperfusion injury, metabolic syndromes, and muscle atrophy and weakness. Clinical trials such as PROGRESS-HF, TAZPOWER, MMPOWER-3, and ReCLAIM elaborate on preclinical findings and highlight the significant therapeutic potential of Elamipretide. Further research may expand its application to other diseases involving mitochondrial dysfunction as well as investigate long-term efficacy and safety of the drug. The following review synthesizes current knowledge of the structure, mechanisms of action, and the promising therapeutic role of Elamipretide in stabilizing mitochondrial fitness, improving mitochondrial bioenergetics, and minimizing oxidative stress."
+  },
+  {
+   "pmid": "34713454",
+   "titel": "Current and future treatment approaches for Barth syndrome",
+   "jahr": "2022",
+   "journal": "J Inherit Metab Dis",
+   "erstautor": "Thompson R",
+   "doi": "10.1002/jimd.12453",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Barth Syndrome is an X-linked disorder of mitochondrial cardiolipin metabolism caused by pathogenic variants in TAFAZZIN with pleiotropic effects including cardiomyopathy, neutropenia, growth delay, and skeletal myopathy. Management requires a multidisciplinary approach to the organ-specific manifestations including specialists from cardiology, hematology, nutrition, physical therapy, genetics, and metabolism. Currently, treatment is centered on management of specific clinical features, and is not targeted toward remediating the underlying biochemical defect. However, two clinical trials have been recently undertaken which target the mitochondrial pathology of this disease: a study to examine the effects of elamipretide, a cardiolipin targeted agent, and a study to examine the effects of bezafibrate, a peroxisome proliferator-activated receptor (PPAR) agonist. Treatments to directly target the defective TAFAZZIN pathway are under development, including enzyme and gene therapies."
+  },
+  {
+   "pmid": "41754785",
+   "titel": "2025 FDA TIDES (Peptides and Oligonucleotides) Harvest",
+   "jahr": "2026",
+   "journal": "Pharmaceuticals (Basel)",
+   "erstautor": "AlShaer D",
+   "doi": "10.3390/ph19020244",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "In 2025, the FDA approved 46 novel drugs, including four TIDEs (one peptide, three oligonucleotides, and one antibody drug conjugate containing peptide as a payload). The three approved oligonucleotide therapeutics-fitusiran, donidalorsen, and plozasiran-bring the total number of approved oligonucleotide drugs to 24 across 16 clinical indications since 1998. Fitusiran and donidalorsen are the first oligonucleotide therapies approved for antithrombin deficiency and hereditary angioedema, respectively, while plozasiran represents the second approved therapy for familial chylomicronemia syndrome. All three agents employ GalNAc-mediated hepatocyte targeting, highlighting the continued importance of liver-directed delivery platforms in oligonucleotide drug development and underscoring the growing clinical maturity of this therapeutic class. Peptide-based therapeutics continue to emerge as pioneering treatments for longstanding diseases. In 2025, elamipretide further expanded this paradigm by becoming the first disease-specific treatment approved for Barth syndrome. This review provides an overview of TIDES approved in 2025, with emphasis on their chemical structures, medical targets, modes of action, routes of administration, and associated adverse effects."
+  },
+  {
+   "pmid": "36778398",
+   "titel": "Elamipretide Improves ADP Sensitivity in Aged Mitochondria by Increasing Uptake through the Adenine Nucleotide Translocator (ANT)",
+   "jahr": "2023",
+   "journal": "bioRxiv",
+   "erstautor": "Pharaoh G",
+   "doi": "10.1101/2023.02.01.525989",
+   "typ": [
+    "Preprint",
+    "Journal Article"
+   ],
+   "abstract": "Aging muscle experiences functional decline in part mediated by impaired mitochondrial ADP sensitivity. Elamipretide (ELAM) rapidly improves physiological and mitochondrial function in aging and binds directly to the mitochondrial ADP transporter ANT. We hypothesized that ELAM improves ADP sensitivity in aging leading to rescued physiological function. We measured the response to ADP stimulation in young and old muscle mitochondria with ELAM treatment, in vivo heart and muscle function, and compared protein abundance, phosphorylation, and S-glutathionylation of ADP/ATP pathway proteins. ELAM treatment increased ADP sensitivity in old muscle mitochondria by increasing uptake of ADP through the ANT and rescued muscle force and heart systolic function. Protein abundance in the ADP/ATP transport and synthesis pathway was unchanged, but ELAM treatment decreased protein s-glutathionylation incuding of ANT. Mitochondrial ADP sensitivity is rapidly modifiable. This research supports the hypothesis that ELAM improves ANT function in aging and links mitochondrial ADP sensitivity to physiological function."
+  },
+  {
+   "pmid": "24860647",
+   "titel": "Mitochondrial oxidative stress in aging and healthspan",
+   "jahr": "2014",
+   "journal": "Longev Healthspan",
+   "erstautor": "Dai DF",
+   "doi": "10.1186/2046-2395-3-6",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "The free radical theory of aging proposes that reactive oxygen species (ROS)-induced accumulation of damage to cellular macromolecules is a primary driving force of aging and a major determinant of lifespan. Although this theory is one of the most popular explanations for the cause of aging, several experimental rodent models of antioxidant manipulation have failed to affect lifespan. Moreover, antioxidant supplementation clinical trials have been largely disappointing. The mitochondrial theory of aging specifies more particularly that mitochondria are both the primary sources of ROS and the primary targets of ROS damage. In addition to effects on lifespan and aging, mitochondrial ROS have been shown to play a central role in healthspan of many vital organ systems. In this article we review the evidence supporting the role of mitochondrial oxidative stress, mitochondrial damage and dysfunction in aging and healthspan, including cardiac aging, age-dependent cardiovascular diseases, skeletal muscle aging, neurodegenerative diseases, insulin resistance and diabetes as well as age-related cancers. The crosstalk of mitochondrial ROS, redox, and other cellular signaling is briefly presented. Potential therapeutic strategies to improve mitochondrial function in aging and healthspan are reviewed, with a focus on mitochondrial protective drugs, such as the mitochondrial antioxidants MitoQ, SkQ1, and the mitochondrial protective peptide SS-31."
+  },
+  {
+   "pmid": "40508218",
+   "titel": "Advances in Management of Mitochondrial Myopathies",
+   "jahr": "2025",
+   "journal": "Int J Mol Sci",
+   "erstautor": "Bangeas A",
+   "doi": "10.3390/ijms26115411",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Mitochondria, the energy factories of human organisms, can be the cause of a variety of genetic disorders called mitochondrial myopathies. Mitochondrial diseases arise from genetic alterations in either mitochondrial DNA (mtDNA) or nuclear DNA (nDNA) and can manifest with great heterogeneity, leading to multiorgan dysfunction. The purpose of this article is to concisely review the pathophysiology, genetics and main clinical features of mitochondrial myopathies, focusing mainly on the treatment and management of these disorders. Currently, a particular treatment for mitochondrial myopathies does not exist, while the available guidelines concerning management are based on experts' opinions. The therapeutic options currently applied largely aim at symptom relief and amelioration of patients' quality of life. The most commonly used regimens involve the administration of vitamins and cofactors, although hard evidence regarding their true benefit for patients is still lacking. Recent studies have demonstrated promising results for elamipretide; however, phase III clinical trials are still ongoing. Regarding patient management, a multidisciplinary approach with the collaboration of different specialties is required. Further clinical trials for the already applied treatment options, as well as on novel experimental therapies, are of utmost importance in order to improve patients' outcomes."
+  },
+  {
+   "pmid": "31747905",
+   "titel": "Elamipretide (SS-31) improves mitochondrial dysfunction, synaptic and memory impairment induced by lipopolysaccharide in mice",
+   "jahr": "2019",
+   "journal": "J Neuroinflammation",
+   "erstautor": "Zhao W",
+   "doi": "10.1186/s12974-019-1627-9",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: It is widely accepted that mitochondria have a direct impact on neuronal function and survival. Oxidative stress caused by mitochondrial abnormalities play an important role in the pathophysiology of lipopolysaccharide (LPS)-induced memory impairment. Elamipretide (SS-31) is a novel mitochondrion-targeted antioxidant. However, the impact of elamipretide on the cognitive sequelae of inflammatory and oxidative stress is unknown. METHODS: We utilized MWM and contextual fear conditioning test to assess hippocampus-related learning and memory performance. Molecular biology techniques and ELISA were used to examine mitochondrial function, oxidative stress, and the inflammatory response. TUNEL and Golgi-staining was used to detect neural cell apoptosis and the density of dendritic spines in the mouse hippocampus. RESULTS: Mice treated with LPS exhibited mitochondrial dysfunction, oxidative stress, an inflammatory response, neural cell apoptosis, and loss of dendritic spines in the hippocampus, leading to impaired hippocampus-related learning and memory performance in the MWM and contextual fear conditioning test. Treatment with elamipretide significantly ameliorated LPS-induced learning and memory impairment during behavioral tests. Notably, elamipretide not only provided protective effects against mitochondrial dysfunction and oxidative stress but also facilitated the regulation of brain-derived neurotrophic factor (BDNF) signaling, including the reversal of important synaptic-signaling proteins and increased synaptic structural complexity. CONCLUSION: These findings indicate that LPS-induced memory impairment can be attenuated by the mitochondrion-targeted antioxidant elamipretide. Consequently, elamipretide may have a therapeutic potential in preventing damage from the oxidative stress and neuroinflammation that contribute to perioperative neurocognitive disorders (PND), which makes mitochondria a potential target for treatment strategies for PND."
+  },
+  {
+   "pmid": "38736318",
+   "titel": "Silver nanoparticle-induced cell damage via impaired mtROS-JNK/MnSOD signaling pathway",
+   "jahr": "2024",
+   "journal": "Toxicol Mech Methods",
+   "erstautor": "Piao MJ",
+   "doi": "10.1080/15376516.2024.2350595",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "This study investigated the mechanism of silver nanoparticle (AgNP) cytotoxicity from a mitochondrial perspective. The effect of AgNP on manganese superoxide dismutase (MnSOD), a mitochondrial antioxidant enzyme, against oxidative stress has not been studied in detail. We demonstrated that AgNP decreased MnSOD mRNA level, protein expression, and activity in human Chang liver cells in a time-dependent manner. AgNP induced the production of mitochondrial reactive oxygen species (mtROS), particularly superoxide anion. AgNP was found to increase mitochondrial calcium level and disrupt mitochondrial function, leading to reduced ATP level, succinate dehydrogenase activity, and mitochondrial permeability. AgNP induced cytochrome c release from the mitochondria into the cytoplasm, attenuated the expression of the anti-apoptotic proteins phospho Bcl-2 and Mcl-1, and induced the expression of the pro-apoptotic proteins Bim and Bax. In addition, c-Jun N-terminal kinase (JNK) phosphorylation was significantly increased by AgNP. Treatment with elamipretide (a mitochondria-targeted antioxidant) and SP600125 (a JNK inhibitor) showed the involvement of MnSOD and JNK in these processes. These results indicated that AgNP damaged human Chang liver cells by destroying mitochondrial function through the accumulation of mtROS."
+  },
+  {
+   "pmid": "40087268",
+   "titel": "Telomere length in offspring is determined by mitochondrial-nuclear communication at fertilization",
+   "jahr": "2025",
+   "journal": "Nat Commun",
+   "erstautor": "Winstanley YE",
+   "doi": "10.1038/s41467-025-57794-7",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The initial setting of telomere length during early life in each individual has a major influence on lifetime risk of aging-associated diseases; however there is limited knowledge of biological signals that regulate inheritance of telomere length, and whether it is modifiable is not known. We now show that when mitochondrial activity is disrupted in mouse zygotes, via exposure to 20% O2 or rotenone, telomere elongation between the 8-cell and blastocyst stage is impaired, with shorter telomeres apparent in the pluripotent Inner Cell Mass (ICM) and persisting after organogenesis. Identical defects of elevated mtROS in zygotes followed by impaired telomere elongation, occurred with maternal obesity or advanced age. We further demonstrate that telomere elongation during ICM formation is controlled by mitochondrial-nuclear communication at fertilization. Using mitochondrially-targeted therapeutics (BGP-15, MitoQ, SS-31, metformin) we demonstrate that it is possible to modulate the preimplantation telomere resetting process and restore deficiencies in neonatal telomere length."
+  },
+  {
+   "pmid": "38425192",
+   "titel": "A free and user-friendly software protocol for the quantification of microfauna swimming behavior",
+   "jahr": "2024",
+   "journal": "Biotechniques",
+   "erstautor": "McMaken CM",
+   "doi": "10.2144/btn-2024-0001",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "abstract": "Characterizing swimming behavior can provide a holistic assessment of the health, physiology and ecology of microfaunal species when done in conjunction with measuring other biological parameters. However, tracking and quantifying microfauna swimming behavior using existing automated tools is often difficult due to the animals' small size or transparency, or because of the high cost, expertise, or labor needed for the analysis. To address these issues, we created a cost-effective, user-friendly protocol for behavior analysis that employs the free software packages HitFilm and ToxTrac along with the R package 'trajr' and used the method to quantify the behavior of rotifers. This protocol can be used for other microfaunal species for which investigators may face similar issues in obtaining measurements of swimming behavior."
+  },
+  {
+   "pmid": "32680996",
+   "titel": "The cardiolipin-binding peptide elamipretide mitigates fragmentation of cristae networks following cardiac ischemia reperfusion in rats",
+   "jahr": "2020",
+   "journal": "Commun Biol",
+   "erstautor": "Allen ME",
+   "doi": "10.1038/s42003-020-1101-3",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ],
+   "abstract": "Mitochondrial dysfunction contributes to cardiac pathologies. Barriers to new therapies include an incomplete understanding of underlying molecular culprits and a lack of effective mitochondria-targeted medicines. Here, we test the hypothesis that the cardiolipin-binding peptide elamipretide, a clinical-stage compound under investigation for diseases of mitochondrial dysfunction, mitigates impairments in mitochondrial structure-function observed after rat cardiac ischemia-reperfusion. Respirometry with permeabilized ventricular fibers indicates that ischemia-reperfusion induced decrements in the activity of complexes I, II, and IV are alleviated with elamipretide. Serial block face scanning electron microscopy used to create 3D reconstructions of cristae ultrastructure reveals that disease-induced fragmentation of cristae networks are improved with elamipretide. Mass spectrometry shows elamipretide did not protect against the reduction of cardiolipin concentration after ischemia-reperfusion. Finally, elamipretide improves biophysical properties of biomimetic membranes by aggregating cardiolipin. The data suggest mitochondrial structure-function are interdependent and demonstrate elamipretide targets mitochondrial membranes to sustain cristae networks and improve bioenergetic function."
+  },
+  {
+   "pmid": "40136430",
+   "titel": "The Application and Molecular Mechanisms of Mitochondria-Targeted Antioxidants in Chemotherapy-Induced Cardiac Injury",
+   "jahr": "2025",
+   "journal": "Curr Issues Mol Biol",
+   "erstautor": "Liu CJ",
+   "doi": "10.3390/cimb47030176",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Chemotherapeutic agents play a crucial role in cancer treatment. However, their use is often associated with significant adverse effects, particularly cardiotoxicity. Drugs such as anthracyclines (e.g., doxorubicin) and platinum-based agents (e.g., cisplatin) cause mitochondrial damage, which is one of the main mechanisms underlying cardiotoxicity. These drugs induce oxidative stress, leading to an increase in reactive oxygen species (ROS), which in turn damage the mitochondria in cardiomyocytes, resulting in impaired cardiac function and heart failure. Mitochondria-targeted antioxidants (MTAs) have emerged as a promising cardioprotective strategy, offering a potential solution. These agents efficiently scavenge ROS within the mitochondria, protecting cardiomyocytes from oxidative damage. Recent studies have shown that MTAs, such as elamipretide, SkQ1, CoQ10, and melatonin, significantly mitigate chemotherapy-induced cardiotoxicity. These antioxidants not only reduce oxidative damage but also help maintain mitochondrial structure and function, stabilize mitochondrial membrane potential, and prevent excessive opening of the mitochondrial permeability transition pore, thus preventing apoptosis and cardiac dysfunction. In this review, we integrate recent findings to elucidate the mechanisms of chemotherapy-induced cardiotoxicity and highlight the substantial therapeutic potential of MTAs in reducing chemotherapy-induced heart damage. These agents are expected to offer safer and more effective treatment options for cancer patients in clinical practice."
+  },
+  {
+   "pmid": "26256392",
+   "titel": "Reversal of Mitochondrial Transhydrogenase Causes Oxidative Stress in Heart Failure",
+   "jahr": "2015",
+   "journal": "Cell Metab",
+   "erstautor": "Nickel AG",
+   "doi": "10.1016/j.cmet.2015.07.008",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Mitochondrial reactive oxygen species (ROS) play a central role in most aging-related diseases. ROS are produced at the respiratory chain that demands NADH for electron transport and are eliminated by enzymes that require NADPH. The nicotinamide nucleotide transhydrogenase (Nnt) is considered a key antioxidative enzyme based on its ability to regenerate NADPH from NADH. Here, we show that pathological metabolic demand reverses the direction of the Nnt, consuming NADPH to support NADH and ATP production, but at the cost of NADPH-linked antioxidative capacity. In heart, reverse-mode Nnt is the dominant source for ROS during pressure overload. Due to a mutation of the Nnt gene, the inbred mouse strain C57BL/6J is protected from oxidative stress, heart failure, and death, making its use in cardiovascular research problematic. Targeting Nnt-mediated ROS with the tetrapeptide SS-31 rescued mortality in pressure overload-induced heart failure and could therefore have therapeutic potential in patients with this syndrome."
+  },
+  {
+   "pmid": "31061916",
+   "titel": "Elamipretide Improves Mitochondrial Function in the Failing Human Heart",
+   "jahr": "2019",
+   "journal": "JACC Basic Transl Sci",
+   "erstautor": "Chatfield KC",
+   "doi": "10.1016/j.jacbts.2018.12.005",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Negative alterations of mitochondria are known to occur in heart failure (HF). This study investigated the novel mitochondrial-targeted therapeutic agent elamipretide on mitochondrial and supercomplex function in failing human hearts ex vivo. Freshly explanted failing and nonfailing ventricular tissue from children and adults was treated with elamipretide. Mitochondrial oxygen flux, complex (C) I and CIV activities, and in-gel activity of supercomplex assembly were measured. Mitochondrial function was impaired in the failing human heart, and mitochondrial oxygen flux, CI and CIV activities, and supercomplex-associated CIV activity significantly improved in response to elamipretide treatment. Elamipretide significantly improved failing human mitochondrial function."
+  }
+ ],
+ "ctgov": [
+  {
+   "nct": "NCT03891875",
+   "titel": "ReCLAIM-2 Study to Evaluate Safety,Efficacy & Pharmacokinetics of Elamipretide in Subjects With AMD With Non-central GA",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 176,
+   "start": "2019-03-27",
+   "ende": "2022-04-14",
+   "erkrankungen": [
+    "Age-related Macular Degeneration"
+   ],
+   "sponsor": "Stealth BioTherapeutics Inc.",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT06373731",
+   "titel": "ReNEW:Phase 3 Study of Efficacy, Safety & Pharmacokinetics of Subcutaneous Injections of Elamipretide in Subjects With Dry Age-Related Macular Degeneration (Dry AMD)",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 313,
+   "start": "2024-05-30",
+   "ende": "2027-09",
+   "erkrankungen": [
+    "Age Related Macular Degeneration (ARMD)"
+   ],
+   "sponsor": "Stealth BioTherapeutics Inc.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT04689360",
+   "titel": "An Intermediate Size Expanded Access Protocol of Elamipretide",
+   "phase": "",
+   "typ": "EXPANDED_ACCESS",
+   "status": "AVAILABLE",
+   "teilnehmende": null,
+   "start": null,
+   "ende": null,
+   "erkrankungen": [
+    "Mitochondrial Diseases",
+    "Barth Syndrome"
+   ],
+   "sponsor": "Stealth BioTherapeutics Inc.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT03098797",
+   "titel": "A Trial to Evaluate Safety, Tolerability and Efficacy of Elamipretide in Subjects With Barth Syndrome",
+   "phase": "PHASE2,PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 12,
+   "start": "2017-07-05",
+   "ende": "2021-10-11",
+   "erkrankungen": [
+    "Barth Syndrome"
+   ],
+   "sponsor": "Stealth BioTherapeutics Inc.",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT01755858",
+   "titel": "Effects of Intravenous Bendavia™ on Reperfusion Injury in Patients Undergoing Angioplasty of the Renal Artery",
+   "phase": "PHASE1,PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "TERMINATED",
+   "teilnehmende": 16,
+   "start": "2012-12",
+   "ende": "2016-05",
+   "erkrankungen": [
+    "Renal Artery Obstruction",
+    "Hypertension, Renovascular",
+    "Ischemia Reperfusion Injury"
+   ],
+   "sponsor": "Stealth BioTherapeutics Inc.",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT02693119",
+   "titel": "A Study Investigating the Safety, Tolerability, and Efficacy of Elamipretide Topical Ophthalmic Solution for Treatment of Leber's Hereditary Optic Neuropathy",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 12,
+   "start": "2016-03",
+   "ende": "2019-12",
+   "erkrankungen": [
+    "Leber's Hereditary Optic Neuropathy"
+   ],
+   "sponsor": "Stealth BioTherapeutics Inc.",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT02245620",
+   "titel": "A Phase 2 Study to Evaluate the Impact of MTP-131 (Bendavia™) on Skeletal Muscle Function in Elderly",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 41,
+   "start": "2015-01-15",
+   "ende": "2016-07-06",
+   "erkrankungen": [
+    "Skeletal Muscle Mitochondrial Dysfunction in the Elderly"
+   ],
+   "sponsor": "Stealth BioTherapeutics Inc.",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT02788747",
+   "titel": "Effect of Elamipretide on Left Ventricular Function in Subjects With Stable Heart Failure With Reduced Ejection Fraction",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 71,
+   "start": "2016-06",
+   "ende": "2017-10",
+   "erkrankungen": [
+    "Heart Failure"
+   ],
+   "sponsor": "Stealth BioTherapeutics Inc.",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT02976038",
+   "titel": "Open-Label Extension Trial to Characterize the Long-term Safety and Tolerability of Elamipretide in Subjects With Genetically Confirmed Primary Mitochondrial Myopathy (PMM)",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "TERMINATED",
+   "teilnehmende": 28,
+   "start": "2016-12",
+   "ende": "2020-04-09",
+   "erkrankungen": [
+    "Primary Mitochondrial Disease"
+   ],
+   "sponsor": "Stealth BioTherapeutics Inc.",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT05168774",
+   "titel": "FRDA Investigator Initiated Study (IIS) With Elamipretide",
+   "phase": "PHASE1,PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 20,
+   "start": "2022-03-03",
+   "ende": "2024-07-25",
+   "erkrankungen": [
+    "Friedreich Ataxia"
+   ],
+   "sponsor": "Children's Hospital of Philadelphia",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT05162768",
+   "titel": "Study to Evaluate Efficacy and Safety of Elamipretide in Subjects With Primary Mitochondrial Disease From Nuclear DNA Mutations (nPMD)",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 102,
+   "start": "2022-04-29",
+   "ende": "2024-12-04",
+   "erkrankungen": [
+    "Mitochondrial Myopathies",
+    "Mitochondrial Pathology",
+    "Mitochondrial DNA Mutation",
+    "Mitochondrial Diseases",
+    "Mitochondrial DNA Deletion",
+    "Mitochondrial DNA Depletion",
+    "Mitochondrial Metabolism Defect",
+    "Mitochondrial Complex I Deficiency"
+   ],
+   "sponsor": "Stealth BioTherapeutics Inc.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT02848313",
+   "titel": "An Open-Label, Phase 1 Clinical Study to Evaluate the Safety and Tolerability of Subcutaneous Elamipretide in Subjects With Intermediate Age-Related Macular Degeneration",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 40,
+   "start": "2016-10-28",
+   "ende": "2018-04-10",
+   "erkrankungen": [
+    "Age-Related Macular Degeneration"
+   ],
+   "sponsor": "Stealth BioTherapeutics Inc.",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT01572909",
+   "titel": "Evaluation of Myocardial Effects of MTP-131 for Reducing Reperfusion Injury in Patients With Acute Coronary Events",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 300,
+   "start": "2012-04",
+   "ende": "2015-02",
+   "erkrankungen": [
+    "Reperfusion Injury",
+    "STEMI"
+   ],
+   "sponsor": "Stealth BioTherapeutics Inc.",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT02914665",
+   "titel": "A Phase 2 Study to Evaluate the Cardiac and Renal Effects of Short Term Treatment With Elamipretide in Patients Hospitalized With Congestion Due to Heart Failure",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 308,
+   "start": "2016-10-20",
+   "ende": "2017-11-27",
+   "erkrankungen": [
+    "Heart Failure"
+   ],
+   "sponsor": "Stealth BioTherapeutics Inc.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT02653391",
+   "titel": "A Study Investigating the Safety, Tolerability, and Efficacy of Elamipretide Topical Ophthalmic Solution for the Treatment of Fuchs' Corneal Endothelial Dystrophy (FCED)",
+   "phase": "PHASE1,PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 22,
+   "start": "2016-02",
+   "ende": "2018-12",
+   "erkrankungen": [
+    "Fuchs' Corneal Endothelial Dystrophy (FCED)"
+   ],
+   "sponsor": "Stealth BioTherapeutics Inc.",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT02367014",
+   "titel": "Safety, Tolerability, and Efficacy of MTP-131 for the Treatment of Mitochondrial Myopathy",
+   "phase": "PHASE1,PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 36,
+   "start": "2015-02",
+   "ende": "2016-04",
+   "erkrankungen": [
+    "Mitochondrial Myopathy"
+   ],
+   "sponsor": "Stealth BioTherapeutics Inc.",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT02814097",
+   "titel": "A Study to Evaluate the Effects of 4 Weeks Treatment With Subcutaneous Elamipretide on Left Ventricular Function in Subjects With Stable Heart Failure With Preserved Ejection Fraction",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 46,
+   "start": "2016-09-02",
+   "ende": "2017-06-02",
+   "erkrankungen": [
+    "Chronic Heart Failure"
+   ],
+   "sponsor": "Stealth BioTherapeutics Inc.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT02805790",
+   "titel": "Safety, Tolerability, Efficacy of MTP-131 for Treatment of Mitochondrial Disease in Subjects From the MMPOWER Study",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 30,
+   "start": "2016-08-22",
+   "ende": "2017-03-23",
+   "erkrankungen": [
+    "Primary Mitochondrial Disease"
+   ],
+   "sponsor": "Stealth BioTherapeutics Inc.",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT03323749",
+   "titel": "A Trial to Evaluate Safety and Efficacy of Elamipretide Primary Mitochondrial Myopathy Followed by Open-Label Extension",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "TERMINATED",
+   "teilnehmende": 218,
+   "start": "2017-10-09",
+   "ende": "2020-02-10",
+   "erkrankungen": [
+    "Primary Mitochondrial Myopathy"
+   ],
+   "sponsor": "Stealth BioTherapeutics Inc.",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT07275424",
+   "titel": "Study of Healthy Aging and Physical Function With Elamipretide",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 30,
+   "start": "2025-11-26",
+   "ende": "2026-04-15",
+   "erkrankungen": [
+    "Aging, Healthy"
+   ],
+   "sponsor": "David Marcinek",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07531251",
+   "titel": "Clinical Trial in Patients With Barth Syndrome- 4TAZPower",
+   "phase": "PHASE4",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 48,
+   "start": "2026-07-02",
+   "ende": "2029-11-30",
+   "erkrankungen": [
+    "Barth Syndrome"
+   ],
+   "sponsor": "Stealth BioTherapeutics Inc.",
+   "ergebnisse": false
+  }
+ ],
+ "gruppe": "D_gehirn_langlebigkeit"
+}

@@ -1,0 +1,1555 @@
+{
+ "name": "Retatrutid",
+ "status": "nicht_zugelassen",
+ "suchbegriff_pubmed": "retatrutide[tiab]",
+ "suchbegriff_ctgov": "retatrutide",
+ "humanstudien_alle": [
+  {
+   "pmid": "42608321",
+   "titel": "Retatrutide-Associated Improvements in Cardiovascular Risk Biomarkers in Adults With Obesity With or Without Type 2 Diabetes",
+   "jahr": "2026",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Ruotolo G",
+   "doi": "10.1111/dom.71200",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase II"
+   ]
+  },
+  {
+   "pmid": "42135195",
+   "titel": "Retatrutide and lipid and metabolite profiles in participants with obesity with or without type 2 diabetes",
+   "jahr": "2026",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Pearson MJ",
+   "doi": "10.1210/clinem/dgag201",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase II"
+   ]
+  },
+  {
+   "pmid": "42810372",
+   "titel": "Retatrutide in adults with obesity and type 2 diabetes (TRIUMPH-2): a double-blind, parallel-group, randomised, placebo-controlled, phase 3 trial",
+   "jahr": "2026",
+   "journal": "Lancet",
+   "erstautor": "Bellido V",
+   "doi": "10.1016/S0140-6736(26)01861-1",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III",
+    "Multicenter Study"
+   ]
+  },
+  {
+   "pmid": "42250575",
+   "titel": "Efficacy and safety of retatrutide, a GIP, GLP-1, and glucagon receptor agonist, in people with type 2 diabetes and inadequate glycaemic control with diet and exercise (TRANSCEND-T2D-1): a double-blind, randomised, phase 3 trial",
+   "jahr": "2026",
+   "journal": "Lancet",
+   "erstautor": "Bajaj HS",
+   "doi": "10.1016/S0140-6736(26)00967-0",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III",
+    "Multicenter Study",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "40916752",
+   "titel": "Appetite, eating attitudes, and eating behaviours during treatment with retatrutide in adults with type 2 diabetes: Results of a phase 2 study",
+   "jahr": "2025",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Kanu C",
+   "doi": "10.1111/dom.70097",
+   "typ": [
+    "Journal Article",
+    "Clinical Trial, Phase II",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "40726454",
+   "titel": "Decreases in circulating ANGPTL3/8 concentrations following retatrutide treatment parallel reductions in serum lipids",
+   "jahr": "2025",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Wen Y",
+   "doi": "10.1111/dom.16661",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "40609566",
+   "titel": "Effects of retatrutide on body composition in people with type 2 diabetes: a substudy of a phase 2, double-blind, parallel-group, placebo-controlled, randomised trial",
+   "jahr": "2025",
+   "journal": "Lancet Diabetes Endocrinol",
+   "erstautor": "Coskun T",
+   "doi": "10.1016/S2213-8587(25)00092-0",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase II",
+    "Multicenter Study"
+   ]
+  },
+  {
+   "pmid": "38858523",
+   "titel": "Triple hormone receptor agonist retatrutide for metabolic dysfunction-associated steatotic liver disease: a randomized phase 2a trial",
+   "jahr": "2024",
+   "journal": "Nat Med",
+   "erstautor": "Sanyal AJ",
+   "doi": "10.1038/s41591-024-03018-2",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase II"
+   ]
+  },
+  {
+   "pmid": "37385280",
+   "titel": "Retatrutide, a GIP, GLP-1 and glucagon receptor agonist, for people with type 2 diabetes: a randomised, double-blind, placebo and active-controlled, parallel-group, phase 2 trial conducted in the USA",
+   "jahr": "2023",
+   "journal": "Lancet",
+   "erstautor": "Rosenstock J",
+   "doi": "10.1016/S0140-6736(23)01053-X",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "37366315",
+   "titel": "Triple-Hormone-Receptor Agonist Retatrutide for Obesity - A Phase 2 Trial",
+   "jahr": "2023",
+   "journal": "N Engl J Med",
+   "erstautor": "Jastreboff AM",
+   "doi": "10.1056/NEJMoa2301972",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase II",
+    "Journal Article"
+   ]
+  }
+ ],
+ "humanstudien_detail": [
+  {
+   "pmid": "37366315",
+   "titel": "Triple-Hormone-Receptor Agonist Retatrutide for Obesity - A Phase 2 Trial",
+   "jahr": "2023",
+   "journal": "N Engl J Med",
+   "erstautor": "Jastreboff AM",
+   "doi": "10.1056/NEJMoa2301972",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase II",
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: Retatrutide (LY3437943) is an agonist of the glucose-dependent insulinotropic polypeptide, glucagon-like peptide 1, and glucagon receptors. Its dose-response relationships with respect to side effects, safety, and efficacy for the treatment of obesity are not known. METHODS: We conducted a phase 2, double-blind, randomized, placebo-controlled trial involving adults who had a body-mass index (BMI, the weight in kilograms divided by the square of the height in meters) of 30 or higher or who had a BMI of 27 to less than 30 plus at least one weight-related condition. Participants were randomly assigned in a 2:1:1:1:1:2:2 ratio to receive subcutaneous retatrutide (1 mg, 4 mg [initial dose, 2 mg], 4 mg [initial dose, 4 mg], 8 mg [initial dose, 2 mg], 8 mg [initial dose, 4 mg], or 12 mg [initial dose, 2 mg]) or placebo once weekly for 48 weeks. The primary end point was the percentage change in body weight from baseline to 24 weeks. Secondary end points included the percentage change in body weight from baseline to 48 weeks and a weight reduction of 5% or more, 10% or more, or 15% or more. Safety was also assessed. RESULTS: We enrolled 338 adults, 51.8% of whom were men. The least-squares mean percentage change in body weight at 24 weeks in the retatrutide groups was -7.2% in the 1-mg group, -12.9% in the combined 4-mg group, -17.3% in the combined 8-mg group, and -17.5% in the 12-mg group, as compared with -1.6% in the placebo group. At 48 weeks, the least-squares mean percentage change in the retatrutide groups was -8.7% in the 1-mg group, -17.1% in the combined 4-mg group, -22.8% in the combined 8-mg group, and -24.2% in the 12-mg group, as compared with -2.1% in the placebo group. At 48 weeks, a weight reduction of 5% or more, 10% or more, and 15% or more had occurred in 92%, 75%, and 60%, respectively, of the participants who received 4 mg of retatrutide; 100%, 91%, and 75% of those who received 8 mg; 100%, 93%, and 83% of those who received 12 mg; and 27%, 9%, and 2% of those who received placebo. The most common adverse events in the retatrutide groups were gastrointestinal; these events were dose-related, were mostly mild to moderate in severity, and were partially mitigated with a lower starting dose (2 mg vs. 4 mg). Dose-dependent increases in heart rate peaked at 24 weeks and declined thereafter. CONCLUSIONS: In adults with obesity, retatrutide treatment for 48 weeks resulted in substantial reductions in body weight. (Funded by Eli Lilly; ClinicalTrials.gov number, NCT04881760.)."
+  },
+  {
+   "pmid": "42250575",
+   "titel": "Efficacy and safety of retatrutide, a GIP, GLP-1, and glucagon receptor agonist, in people with type 2 diabetes and inadequate glycaemic control with diet and exercise (TRANSCEND-T2D-1): a double-blind, randomised, phase 3 trial",
+   "jahr": "2026",
+   "journal": "Lancet",
+   "erstautor": "Bajaj HS",
+   "doi": "10.1016/S0140-6736(26)00967-0",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III",
+    "Multicenter Study",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Retatrutide is a GIP, GLP-1, and glucagon triple hormone receptor agonist, under clinical development for type 2 diabetes, obesity, and related complications. We aimed to assess the efficacy and safety of retatrutide as a monotherapy in people with type 2 diabetes that is inadequately controlled by diet and exercise alone. METHODS: In this 40-week, phase 3, randomised, double-blind, placebo-controlled trial at 48 sites in the USA, Mexico, and India, we recruited adults (aged ≥18 years) with type 2 diabetes that is inadequately controlled by diet and exercise alone, glycated haemoglobin (HbA1c) between 7·0% and 9·5% (53-80 mmol/mol), and BMI of at least 23 kg/m2. Participants were randomly assigned (1:1:1:1) to receive retatrutide (4 mg, 9 mg, or 12 mg) or placebo by once-weekly subcutaneous injection. The primary endpoint was the change in HbA1c concentration from baseline to week 40. A key secondary endpoint was the percentage change in bodyweight from baseline to week 40. This trial is registered with ClinicalTrials.gov, NCT06354660, and is completed. FINDINGS: Between April 10, 2024, and April 21, 2025, 930 participants were screened and 537 (296 [55%] female and 241 [45%] male) were randomly assigned: 134 to retatrutide 4 mg, 133 to retatrutide 9 mg, 136 to retatrutide 12 mg, and 134 to placebo. Baseline mean age was 48·8 years (SD 12·1), mean HbA1c concentration was 7·9% (SD 1·1), mean duration of diabetes was 2·5 years (SD 4·4), and mean BMI was 35·8 kg/m2 (SD 7·0). 490 (91%) participants completed the treatment period on study drug and 504 (94%) completed the study. For the treatment regimen estimand, the mean change from baseline in HbA1c concentration was -1·69% (SE 0·11) with retatrutide 4 mg, -1·86% (0·10) with 9 mg, and -1·94% (0·08) with 12 mg, versus -0·81% (0·12) with placebo, resulting in estimated treatment differences versus placebo of -0·88% (95% CI -1·18 to -0·59) with retatrutide 4 mg, -1·04% (-1·32 to -0·76) with 9 mg, and -1·12% (-1·39 to -0·85) with 12 mg (all p<0·0001). The mean percentage change from baseline in bodyweight was -11·5% (SE 0·7) with retatrutide 4 mg, -13·9% (0·8) with 9 mg, and -15·3% (0·8) with 12 mg, versus -2·6% (0·5) with placebo. The most frequent adverse events with retatrutide were generally mild to moderate gastrointestinal events, which subsided over time. Study intervention discontinuations due to adverse events were 2-5% with retatrutide and 0% with placebo. No severe hypoglycaemia was reported. Two deaths occurred during the study, both in the retatrutide 4 mg group and unrelated to the study drug. INTERPRETATION: Retatrutide showed significant improvements in glycaemic control and bodyweight reduction as a monotherapy in adults with type 2 diabetes that is inadequately controlled with diet and exercise alone, with an adverse event profile consistent with molecules with GLP-1 agonist activity, supporting its potential as an effective treatment for type 2 diabetes. FUNDING: Eli Lilly and Company."
+  },
+  {
+   "pmid": "37385280",
+   "titel": "Retatrutide, a GIP, GLP-1 and glucagon receptor agonist, for people with type 2 diabetes: a randomised, double-blind, placebo and active-controlled, parallel-group, phase 2 trial conducted in the USA",
+   "jahr": "2023",
+   "journal": "Lancet",
+   "erstautor": "Rosenstock J",
+   "doi": "10.1016/S0140-6736(23)01053-X",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: According to current consensus guidelines for type 2 diabetes management, bodyweight management is as important as attaining glycaemic targets. Retatrutide, a single peptide with agonist activity at the glucose-dependent insulinotropic polypeptide (GIP), GLP-1, and glucagon receptors, showed clinically meaningful glucose-lowering and bodyweight-lowering efficacy in a phase 1 study. We aimed to examine the efficacy and safety of retatrutide in people with type 2 diabetes across a range of doses. METHODS: In this randomised, double-blind, double-dummy, placebo-controlled and active comparator-controlled, parallel-group, phase 2 trial, participants were recruited from 42 research and health-care centres in the USA. Adults aged 18-75 years with type 2 diabetes, glycated haemoglobin (HbA1c) of 7·0-10·5% (53·0-91·3 mmol/mol), and BMI of 25-50 kg/m2 were eligible for enrolment. Eligible participants were treated with diet and exercise alone or with a stable dose of metformin (≥1000 mg once daily) for at least 3 months before the screening visit. Participants were randomly assigned (2:2:2:1:1:1:1:2) using an interactive web-response system, with stratification for baseline HbA1c and BMI, to receive once-weekly injections of placebo, 1·5 mg dulaglutide, or retatrutide maintenance doses of 0·5 mg, 4 mg (starting dose 2 mg), 4 mg (no escalation), 8 mg (starting dose 2 mg), 8 mg (starting dose 4 mg), or 12 mg (starting dose 2 mg). Participants, study site personnel, and investigators were masked to treatment allocation until after study end. The primary endpoint was change in HbA1c from baseline to 24 weeks, and secondary endpoints included change in HbA1c and bodyweight at 36 weeks. Efficacy was analysed in all randomly assigned, except inadvertently enrolled, participants, and safety was assessed in all participants who received at least one dose of study treatment. The study is registered at ClinicalTrials.gov, NCT04867785. FINDINGS: Between May 13, 2021, and June 13, 2022, 281 participants (mean age 56·2 years [SD 9·7], mean duration of diabetes 8·1 years [7·0], 156 [56%] female, and 235 [84%] White) were randomly assigned and included in the safety analysis (45 in the placebo group, 46 in the 1·5 mg dulaglutide group, and 47 in the retatrutide 0·5 mg group, 23 in the 4 mg escalation group, 24 in the 4 mg group, 26 in the 8 mg slow escalation group, 24 in the 8 mg fast escalation group, and 46 in the 12 mg escalation group). 275 participants were included in the efficacy analyses (one each in the retatrutide 0·5 mg group, 4 mg escalation group, and 8 mg slow escalation group, and three in the 12 mg escalation group were inadvertently enrolled). 237 (84%) participants completed the study and 222 (79%) completed study treatment. At 24 weeks, least-squares mean changes from baseline in HbA1c with retatrutide were -0·43% (SE 0·20; -4·68 mmol/mol [2·15]) for the 0·5 mg group, -1·39% (0·14; -15·24 mmol/mol [1·56]) for the 4 mg escalation group, -1·30% (0·22; -14·20 mmol/mol [2·44]) for the 4 mg group, -1·99% (0·15; -21·78 mmol/mol [1·60]) for the 8 mg slow escalation group, -1·88% (0·21; -20·52 mmol/mol [2·34]) for the 8 mg fast escalation group, and -2·02% (0·11; -22·07 mmol/mol [1·21]) for the 12 mg escalation group, versus -0·01% (0·21; -0·12 mmol/mol [2·27]) for the placebo group and -1·41% (0·12; -15·40 mmol/mol [1·29]) for the 1·5 mg dulaglutide group. HbA1c reductions with retatrutide were significantly greater (p<0·0001) than placebo in all but the 0·5 mg group and greater than 1·5 mg dulaglutide in the 8 mg slow escalation group (p=0·0019) and 12 mg escalation group (p=0·0002). Findings were consistent at 36 weeks. Bodyweight decreased dose dependently with retatrutide at 36 weeks by 3·19% (SE 0·61) for the 0·5 mg group, 7·92% (1·28) for the 4 mg escalation group, 10·37% (1·56) for the 4 mg group, 16·81% (1·59) for the 8 mg slow escalation group, 16·34% (1·65) for the 8 mg fast escalation group, and 16·94% (1·30) for the 12 mg escalation group, versus 3·00% (0·86) with placebo and 2·02% (0·72) with 1·5 mg dulaglutide. For retatrutide doses of 4 mg and greater, decreases in weight were significantly greater than with placebo (p=0·0017 for the 4 mg escalation group and p<0·0001 for others) and 1·5 mg dulaglutide (all p<0·0001). Mild-to-moderate gastrointestinal adverse events, including nausea, diarrhoea, vomiting, and constipation, were reported in 67 (35%) of 190 participants in the retatrutide groups (from six [13%] of 47 in the 0·5 mg group to 12 [50%] of 24 in the 8 mg fast escalation group), six (13%) of 45 participants in the placebo group, and 16 (35%) of 46 participants in the 1·5 mg dulaglutide group. There were no reports of severe hypoglycaemia and no deaths during the study. INTERPRETATION: In people with type 2 diabetes, retatrutide showed clinically meaningful improvements in glycaemic control and robust reductions in bodyweight, with a safety profile consistent with GLP-1 receptor agonists and GIP and GLP-1 receptor agonists. These phase 2 data also informed dose selection for the phase 3 programme. FUNDING: Eli Lilly and Company."
+  },
+  {
+   "pmid": "38858523",
+   "titel": "Triple hormone receptor agonist retatrutide for metabolic dysfunction-associated steatotic liver disease: a randomized phase 2a trial",
+   "jahr": "2024",
+   "journal": "Nat Med",
+   "erstautor": "Sanyal AJ",
+   "doi": "10.1038/s41591-024-03018-2",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase II"
+   ],
+   "abstract": "Retatrutide is a novel triple agonist of the glucose-dependent insulinotropic polypeptide, glucagon-like peptide 1 and glucagon receptors. A 48-week phase 2 obesity study demonstrated weight reductions of 22.8% and 24.2% with retatrutide 8 and 12 mg, respectively. The primary objective of this substudy was to assess mean relative change from baseline in liver fat (LF) at 24 weeks in participants from that study with metabolic dysfunction-associated steatotic liver disease and ≥10% of LF. Here, in this randomized, double-blind, placebo-controlled trial, participants (n = 98) were randomly assigned to 48 weeks of once-weekly subcutaneous retatrutide (1, 4, 8 or 12 mg dose) or placebo. The mean relative change from baseline in LF at 24 weeks was -42.9% (1 mg), -57.0% (4 mg), -81.4% (8 mg), -82.4% (12 mg) and +0.3% (placebo) (all P < 0.001 versus placebo). At 24 weeks, normal LF (<5%) was achieved by 27% (1 mg), 52% (4 mg), 79% (8 mg), 86% (12 mg) and 0% (placebo) of participants. LF reductions were significantly related to changes in body weight, abdominal fat and metabolic measures associated with improved insulin sensitivity and lipid metabolism. The ClinicalTrials.gov registration is NCT04881760 ."
+  },
+  {
+   "pmid": "40609566",
+   "titel": "Effects of retatrutide on body composition in people with type 2 diabetes: a substudy of a phase 2, double-blind, parallel-group, placebo-controlled, randomised trial",
+   "jahr": "2025",
+   "journal": "Lancet Diabetes Endocrinol",
+   "erstautor": "Coskun T",
+   "doi": "10.1016/S2213-8587(25)00092-0",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase II",
+    "Multicenter Study"
+   ],
+   "abstract": "BACKGROUND: Retatrutide, a glucose-dependent insulinotropic polypeptide, glucagon-like peptide-1, and glucagon receptor agonist, has demonstrated robust glucose and bodyweight reductions in participants with type 2 diabetes. This substudy assessed percent change from baseline to week 36 in total body fat mass versus placebo and dulaglutide. METHODS: This phase 2, double-blind, parallel-group, placebo-controlled, randomised controlled trial was done in 42 medical centres in the USA. Eligible participants were adults aged 18-75 years with type 2 diabetes, HbA1c of 7·0-10·5%, stable bodyweight, and BMI of 25-50 kg/m2. Eligible participants were randomly assigned in a 2:2:2:1:1:1:1:2 ratio to once-weekly subcutaneous placebo, dulaglutide 1·5 mg, or retatrutide 0·5 mg, 4 mg (2 mg initial dose), 4 mg (4 mg initial dose), 8 mg (2 mg initial dose), 8 mg (4 mg initial dose), or 12 mg. The prespecified primary substudy endpoint was percent change from baseline to week 36 in total fat mass, as measured by dual-energy X-ray absorptiometry (DXA). Regression methods with on-treatment data before study drug discontinuation from all randomly assigned participants with non-missing DXA scans were included in efficacy analysis. All participants who received at least one dose of study drug were included in the safety analysis population. The completed trial is registered with ClinicalTrials.gov, NCT04867785. FINDINGS: Between May 13, 2021 and June 13, 2022, 534 participants were screened for inclusion into the main study. 253 were excluded and 281 participants were enrolled and randomly assigned to the main study. Of the main study participants, 189 participants were enrolled to the body composition substudy (29 in the placebo group, 32 in the retatrutide 0·5 mg group, 31 in the retatrutide 4 mg groups [pooled], 33 in the retatrutide 8 mg group [pooled], 30 in the retatrutide 12 mg group, and 34 in the dulaglutide 1·5 mg group). Of these, 155 had a baseline DXA scan and 103 completed treatment and both baseline and week 36 DXA scans. 105 (56%) of 189 participants were female and 84 (44%) were male. 160 (85%) of 189 participants were White, 24 (13%) were Black, and five (3%) were Asian. Percent reduction from baseline in total fat mass was 4·9% (SE 1·4%) with retatrutide 0·5 mg, 15·2% (3·2%) with retatrutide 4 mg (pooled), 26·1% (2·5%) with retatrutide 8 mg (pooled), 23·2% (3·0%) with retatrutide 12 mg, 2·6% (1·6%) with dulaglutide, and 4·5% (1·2%) with placebo. Least squares mean change from baseline in total fat mass compared to placebo was -0·4 (95% CI -4·0 to 3·2, p=0·83 with retatrutide 0·5 mg, -10·7 (-17·2 to -4·2, p=0·0013) with retatrutide 4 mg (pooled), -21·6 (-27·1 to -16·1, p<0·0001) with retatrutide 8 mg (pooled), and -18·7 (-25·1 to -12·3, p<0·0001) with retatrutide 12 mg. Adverse events were similar between groups. Serious adverse events occurred in two (7%) of 29 participants in the placebo group, two (6%) of 32 participants in the retatrutide 0·5 mg group, zero of 31 participants in the retatrutide 4 mg group, three (9%) of 33 participants in the retatrutide 8 mg group, one (3%) of 30 participants in the retatrutide 12 mg group, and zero of 34 participants in the dulaglutide group. Gastrointestinal events were the most frequently reported adverse events, and no deaths were reported. INTERPRETATION: In adults with type 2 diabetes, retatrutide significantly improved total body fat mass reduction compared with placebo and dulaglutide. The proportion of lean mass loss to weight loss was similar to other obesity treatments. These findings could provide reassurance that a greater proportion of lean mass is not lost with retatrutide despite the overall increased weight loss. FUNDING: The study was funded by Eli Lilly and Company."
+  },
+  {
+   "pmid": "42810372",
+   "titel": "Retatrutide in adults with obesity and type 2 diabetes (TRIUMPH-2): a double-blind, parallel-group, randomised, placebo-controlled, phase 3 trial",
+   "jahr": "2026",
+   "journal": "Lancet",
+   "erstautor": "Bellido V",
+   "doi": "10.1016/S0140-6736(26)01861-1",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III",
+    "Multicenter Study"
+   ],
+   "abstract": "BACKGROUND: Retatrutide is an agonist of GIP, GLP-1, and glucagon receptors, and is currently under investigation for the treatment of obesity, type 2 diabetes, and other comorbidities, including knee osteoarthritis and obstructive sleep apnoea. We aimed to assess the efficacy and safety of retatrutide in adults with obesity and type 2 diabetes. METHODS: TRIUMPH-2 was a double-blind, parallel-group, randomised, placebo-controlled, phase 3 trial conducted at 92 medical and research centres and hospitals across eight countries. We enrolled adults (aged ≥18 years) with a BMI of 27 kg/m2 or higher and type 2 diabetes (glycated haemoglobin [HbA1c] 6·5-10·5%) on stable treatment for type 2 diabetes for at least 90 days before screening (diet or exercise alone, or up to three oral glucose-lowering medications), and a history of at least one self-reported unsuccessful dietary effort to reduce bodyweight. Participants were randomly assigned (1:1:1:1), using an interactive web-response system, to receive once-weekly subcutaneous injections (self-administered) of placebo or retatrutide 4 mg, 9 mg, or 12 mg. The primary endpoint was the percentage change from baseline to week 80 in bodyweight for the retatrutide 9 mg and 12 mg doses versus placebo, with 4 mg versus placebo a key secondary endpoint. Efficacy analyses included all randomly assigned participants, with missing data imputed with a primary multiple imputation strategy for the treatment regimen estimand. Safety analyses included all randomly assigned participants who received at least one dose of study drug. This trial is registered with ClinicalTrials.gov, NCT05929079 (completed). FINDINGS: Between July 11, 2023, and Nov 1, 2024, 2047 participants were screened, and 1152 (mean age 55·1 years [SD 10·8], 554 [48%] females and 598 [52%] males, and 672 [58%] of White ethnicity) were randomly assigned to retatrutide 4 mg (n=292), 9 mg (n=284), or 12 mg (n=287), or placebo (n=289). At baseline, the mean BMI was 38·2 kg/m2 (SD 7·4), mean HbA1c was 7·71% (1·07), median duration of obesity was 21 years (IQR 11-31), and median duration of diabetes was 5·6 years (2·6-10·4). At baseline, 1055 (92%) of 1152 participants were on any oral glucose-lowering medication, including biguanides, SGLT2 inhibitors, sulfonylureas, and other oral glucose-lowering medications. Of 1152 participants, 965 (84%) completed the study drug. For the treatment regimen estimand, the mean percentage change from baseline in bodyweight at week 80 was -11·9% (SE 0·6) with retatrutide 4 mg, -16·8% (0·7) with retatrutide 9 mg, -18·8% (0·7) with retatrutide 12 mg, and -5·1% (0·7) with placebo. Estimated treatment differences compared with placebo for percentage change in bodyweight were -6·9% (95% CI -8·7 to -5·1) with retatrutide 4 mg, -11·8% (-13·7 to -9·8) with retatrutide 9 mg, and -13·8% (-15·8 to -11·8) with retatrutide 12 mg (p<0·0001 for all). The most frequently reported adverse events were gastrointestinal, which were more common in the retatrutide groups than in the placebo group (diarrhoea occurred in 80 [27%] of 292 participants in the 4 mg group, 95 [34%] of 284 in the 9 mg group, and 96 [34%] of 286 in the 12 mg group vs 38 [13%] of 287 in the placebo group, and nausea occurred in 40 [14%], 59 [21%], and 80 [28%] vs 23 [8%]). Hypotension and dysesthesia were more frequent with retatrutide than with placebo (four [1%] in the 4 mg group, 14 [5%] in the 9 mg group, and 18 (6%) in the 12 mg group vs one [<1%] in the placebo group with hypotension; 13 [4%], 16 [6%], and 21 [7%] vs two [1%] in the placebo group with dysesthesia). Permanent treatment discontinuation due to adverse events or death was more frequent in participants treated with retatrutide 9 mg (33 [12%]) and 12 mg (22 [8%]) compared with retatrutide 4 mg (11 [4%]) and placebo (14 [5%]). Two participants died in the retatrutide 4 mg group, three in the 9 mg group, one in the 12 mg group, and one in the placebo group; all deaths were deemed to be unrelated to the study intervention by the investigator. INTERPRETATION: Treatment with retatrutide resulted in substantial improvements in bodyweight and was associated with improvements in glycaemic control in participants with obesity and type 2 diabetes, with a safety profile generally consistent with other molecules with GLP-1 receptor agonism. These results show that retatrutide might be effective for the treatment of obesity in people with type 2 diabetes. FUNDING: Eli Lilly and Company."
+  },
+  {
+   "pmid": "40726454",
+   "titel": "Decreases in circulating ANGPTL3/8 concentrations following retatrutide treatment parallel reductions in serum lipids",
+   "jahr": "2025",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Wen Y",
+   "doi": "10.1111/dom.16661",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article"
+   ],
+   "abstract": "AIMS: The aim of this study was to determine if retatrutide, a triple agonist of glucose-dependent insulinotropic polypeptide (GIP) receptor, glucagon-like peptide 1 (GLP-1) receptor and glucagon (GCG) receptor, may lower serum triglyceride (TG) and low-density lipoprotein cholesterol (LDL-C) levels in part by decreasing circulating concentrations of the angiopoietin-like protein 3/8 complex (ANGPTL3/8). MATERIALS AND METHODS: In post-hoc analyses of two phase 2 retatrutide trials, concentrations of ANGPTL3/8, ANGPTL4/8 complex (ANGPTL4/8), ANGPTL3 and ANGPTL4 were measured using dedicated immunoassays to determine percent changes from baseline. Correlations of ANGPTL protein and complex levels with lipid and metabolic parameters at baseline were analysed. Correlations of the changes in ANGPTL protein and complex levels versus the changes in lipid and metabolic parameters at study endpoints were also analysed. Direct effects of retatrutide itself, GIP, GLP-1, GCG and a GCG receptor (GCGR) antagonist antibody on ANGPTL3/8 secretion were studied in vitro using primary human hepatocytes. RESULTS: ANGPTL3/8 reductions were observed with 8 and 12 mg retatrutide doses in participants with type 2 diabetes, and with 1, 4, 8 and 12 mg retatrutide doses in participants with obesity or overweight but without diabetes. In both cases, ANGPTL3/8 decreases paralleled retatrutide-induced reductions in TG and LDL-C. In primary human hepatocytes, both glucagon and retatrutide decreased ANGPTL3/8 secretion, and these reductions were blocked with the GCGR antagonist antibody. CONCLUSIONS: Together, these results suggest that the GCGR agonism of retatrutide could lead to reduced circulating ANGPTL3/8 concentrations, which may then contribute to decreases in TG and LDL-C levels."
+  },
+  {
+   "pmid": "42135195",
+   "titel": "Retatrutide and lipid and metabolite profiles in participants with obesity with or without type 2 diabetes",
+   "jahr": "2026",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Pearson MJ",
+   "doi": "10.1210/clinem/dgag201",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase II"
+   ],
+   "abstract": "CONTEXT: In phase 2 trials, retatrutide reduced body weight, hemoglobin A1c and improved the lipid profiles of participants living with obesity, with and without T2D. OBJECTIVE: Assess plasma metabolome and lipidome changes associated with retatrutide treatment. METHODS: Metabolomics and lipidomics were performed in fasting samples from 2 randomized, placebo-controlled phase 2 trials as a post hoc exploratory analysis. Participants living with obesity with and without T2D were treated for 36 and 48 weeks, respectively. There were 282 and 213 participants in the obesity and T2D trials, respectively and the intervention(s) received were: Obesity trial: retatrutide (1, 4, 8, and 12 mg) or placebo; T2D trial: retatrutide (0.5, 4, 8, and 12 mg) or placebo or dulaglutide (1.5 mg). The main outcome measure(s) were changes in metabolite and lipid levels with retatrutide treatment against baseline levels and placebo using multiplicity correction. RESULTS: At both primary and study endpoints for both populations, higher doses of retatrutide were associated with changes in a cluster of metabolites comprising 3-hydroxybutyrate, acetylcarnitine, free carnitine, and fatty acid-derived long-chain acylcarnitines. Mediation analyses suggested that changes in these biomarkers mediated 23.2% of the weight reduction response in participants without T2D and that this mediation was blunted to 12.7% in participants with T2D. Retatrutide treatment was also associated with changes in metabolites associated with insulin resistance, including branched-chain amino acids and their catabolic products, 2-aminoadipic acid, 2-hydroxybutyrate, urate, and triglycerides enriched in short-chain and saturated acyl side chains. These changes were found in both study populations and sustained across study endpoints. CONCLUSION: Retatrutide was associated with changes in 2 metabolic clusters related to fatty acid oxidation and insulin resistance in a direction associated with improved metabolic health and reduced cardiovascular risk."
+  },
+  {
+   "pmid": "40916752",
+   "titel": "Appetite, eating attitudes, and eating behaviours during treatment with retatrutide in adults with type 2 diabetes: Results of a phase 2 study",
+   "jahr": "2025",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Kanu C",
+   "doi": "10.1111/dom.70097",
+   "typ": [
+    "Journal Article",
+    "Clinical Trial, Phase II",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "AIMS: To determine whether adults with type 2 diabetes (T2D) treated with retatrutide report greater changes in self-reported appetite, dietary restraint, and disinhibition compared to placebo or dulaglutide and to examine associations with weight change. MATERIALS AND METHODS: These pre-specified exploratory analyses examined changes from baseline in Appetite Visual Analogue Scale (VAS) and Eating Inventory (EI) scores after 24 and 36 weeks of once-weekly treatment with placebo, dulaglutide 1.5 mg, or retatrutide 0.5, 4, 8, or 12 mg in 275 adults with T2D. Changes from baseline with retatrutide were compared to those with placebo and dulaglutide. Post-hoc correlations between changes in body weight and Appetite VAS/EI scores were also examined. RESULTS: Compared with placebo, participants who received retatrutide ≥4 mg reported greater reductions from baseline in overall appetite, hunger, and prospective food consumption (l at Week 24 (all p <0.05)). Differences versus dulaglutide were less consistent. Improvements from baseline versus placebo in EI Perceived Hunger and Disinhibition were greater in participants who received retatrutide 8 and 12 mg at Weeks 24 and 36. Dietary Restraint increased from baseline versus placebo only in participants who received retatrutide 12 mg at Week 36 (all p <0.05). Reductions in Perceived Hunger and Disinhibition, and increases in Dietary Restraint were significantly correlated with reductions in body weight at Week 36 (r = 0.28, r = 0.36, and r = 0.31, respectively). CONCLUSIONS: Perceived hunger and tendency to overeat (disinhibition) were reduced with higher doses of retatrutide, compared with placebo. Greater weight reduction was associated with decreased perceived hunger and disinhibition and increased dietary restraint. PLAIN LANGUAGE SUMMARY: WHAT IS THE CONTEXT AND PURPOSE OF THIS RESEARCH STUDY?: Retatrutide is a new treatment currently being developed for people with obesity and people with type 2 diabetes. This study compared the changes in appetite and eating behaviours of adults with T2D who were treated with retatrutide, dulaglutide (an alternative treatment), or placebo (i.e., no treatment). We examined changes in feelings of hunger, satisfaction and fullness, the desire to eat certain types of foods (e.g., sweet, salty or fatty foods), the tendency to overeat (e.g., when stressed), and conscious efforts to limit food intake. We also examined the potential link between changes in appetite or eating behaviours and changes in weight during retatrutide treatment. WHAT WAS DONE?: Adults with type 2 diabetes who participated in this trial completed two questionnaires that measured their eating habits at several time points during the 36-week period in which they received treatment. The questionnaire responses of people who received retatrutide each week (1-4 different doses) were compared with the responses of people who received no treatment (i.e., placebo) and of people who received dulaglutide treatment. Any potential links between the amount of weight reduction people experienced while receiving treatment during the study and their questionnaire responses were also examined. WHAT WERE THE MAIN RESULTS?: This study showed that adults with type 2 diabetes who received higher doses of retatrutide reported being less likely to feel hungry or overeat compared to those who received no treatment (i.e., placebo) or those who received dulaglutide. On average, people who experienced greater weight reduction also reported being less hungry and less likely to overeat. WHAT IS THE ORIGINALITY AND RELEVANCE OF THIS STUDY?: This is the first study to assess changes in appetite and eating behaviours of adults with type 2 diabetes who received retatrutide. Our results suggest that enhanced modification of eating behaviours with retatrutide may assist with weight reduction in adults with type 2 diabetes."
+  },
+  {
+   "pmid": "42608321",
+   "titel": "Retatrutide-Associated Improvements in Cardiovascular Risk Biomarkers in Adults With Obesity With or Without Type 2 Diabetes",
+   "jahr": "2026",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Ruotolo G",
+   "doi": "10.1111/dom.71200",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase II"
+   ],
+   "abstract": "AIMS: To further characterise the effects of retatrutide on cardiometabolic risk, lipoprotein and inflammatory biomarkers were assessed post hoc in phase 2 trials of adults with obesity/overweight with or without type 2 diabetes (T2D). MATERIALS AND METHODS: Data were analysed from two randomised, double-blind, placebo-controlled phase 2 trials. In Study 1, adults with obesity/overweight and T2D received once-weekly retatrutide (0.5/4/8/12 mg), dulaglutide (1.5 mg) or placebo for 36 weeks; in Study 2, adults with clinical obesity without T2D received retatrutide (1/4/8/12 mg) or placebo for 48 weeks. Fasting blood samples were collected at baseline and during treatment to assess lipids, apolipoproteins, lipoprotein particle subclasses and inflammatory biomarkers. Mixed models for repeated measures estimated placebo-adjusted change from baseline. Statistical significance was defined as a false discovery rate-adjusted p < 0.05. RESULTS: Mean body mass index was 35.4 kg/m2 (Study 1) and 37.4 kg/m2 (Study 2). In both studies, retatrutide was associated with significant reductions in non-high-density lipoprotein cholesterol (Study 1: up to -21.0%, Study 2: up to -26.9%), apolipoprotein B (-21.4%, -24.2%), total triglyceride-rich lipoprotein particles (-22.5%, -33.7%), large triglyceride-rich lipoprotein particles (-84.4%, -76.6%), triglyceride-rich lipoprotein cholesterol (-29.4%, -38.6%), total low-density lipoprotein particles (-19.7%, -23.5%) and small low-density lipoprotein particles (-32.6%, -32.3%). Retatrutide was associated with significant reductions in high-sensitivity C-reactive protein (-54.8%) and interleukin-6 (-29.6%) in Study 2 but not Study 1. CONCLUSIONS: In adults with obesity/overweight, with or without T2D, retatrutide treatment was associated with reductions in atherogenic lipoproteins and inflammatory biomarkers linked to cardiovascular disease risk. TRIAL REGISTRATION: ClinicalTrials.gov numbers NCT04881760 and NCT04867785."
+  }
+ ],
+ "metaanalysen": [
+  {
+   "pmid": "42419792",
+   "titel": "Comparative effects of drugs for adults with overweight or obesity: systematic review and network meta-analysis",
+   "jahr": "2026",
+   "journal": "BMJ",
+   "erstautor": "Nong K",
+   "doi": "10.1136/bmj-2026-372161",
+   "typ": [
+    "Systematic Review",
+    "Network Meta-Analysis",
+    "Journal Article",
+    "Comparative Study"
+   ],
+   "abstract": "OBJECTIVE: To provide an up-to-date evidence summary about the comparative benefits and harms of drugs for adults with overweight or obesity to inform decision making for policymakers, payers, clinicians, and patients. DESIGN: Systematic review and network meta-analysis of 24 outcomes using frequentist random effects models and bayesian dose-response models, the GRADE (Grading of Recommendations Assessment, Development, and Evaluation) approach, and the Cochrane Risk of Bias 2 tool. DATA SOURCES: Medline, Embase, and Cochrane Library, searched up to 12 November 2025. STUDY SELECTION: Randomised controlled trials of 12 weeks' duration or longer comparing one or more drugs with lifestyle modification, placebo, or another drug. RESULTS: This network meta-analysis comprised 262 trials (99 791 participants) evaluating 19 drugs with follow-up from 12 to 172 weeks. Compared with lifestyle modification alone, at one year, moderate to high certainty evidence shows substantial weight loss with tirzepatide (mean difference -14.9%, 95% confidence interval -16.0% to -13.9%), cagrilintide-semaglutide (CagriSema, -14.8%, -16.9% to -12.7%), oral semaglutide (-10.9%, -12.7% to -9.1%), orforglipron (-9.9%, -12.4% to -7.5%), subcutaneous semaglutide (-9.8%, -10.6% to -9.1%), and phentermine-topiramate (-8.1%, -9.7% to -6.5%). Emerging agents (ecnoglutide, mazdutide, retatrutide) may produce similar or greater reductions (13.1-14.6%; very low to low certainty). Moderate to high certainty evidence supports discontinuation because of adverse events to be highest with orforglipron, naltrexone-bupropion, liraglutide, phentermine-topiramate, CagriSema, and oral semaglutide (risk ratios from 1.9 to 4.2); gastrointestinal events were most increased with naltrexone-bupropion, oral semaglutide, orforglipron, and tirzepatide (risk ratios from 3.1 to 4.2). Fatigue risk increased, particularly with naltrexone-bupropion (risk ratio 8.9; absolute increase 331 per 1000 people over one year), orforglipron (3.4; 100 more per 1000), and CagriSema (3.2; 92 more per 1000). Tirzepatide reduced fat mass the most (by 25.7%) but also lean mass the most (by 8.3%). Subcutaneous semaglutide was the only drug associated with reduced all cause mortality (risk ratio 0.81, 95% confidence interval 0.72 to 0.93) and myocardial infarction (0.72, 0.61 to 0.85), with these estimates largely informed by cardiovascular outcome trials in high risk populations. Subcutaneous semaglutide (0.43, 0.21 to 0.84) and tirzepatide (0.49, 0.27 to 0.88) reduced heart failure risk. No drugs convincingly reduced kidney failure or improved quality of life (43 trials with 45 663 participants) beyond established minimally important differences (all mean differences <5 points; minimally important difference 10). Except for larger weight reductions in trials with longer duration (shown for subcutaneous semaglutide), subgroup analyses for drug dosages and key patient characteristics did not identify credible differences in relative effects of treatment. CONCLUSIONS: Obesity drugs produce variable weight loss at one year, with larger benefits generally accompanied by greater harms and discontinuation. Most agents do not improve quality of life meaningfully and few show cardiovascular benefits. Decisions in clinical practice should consider trade-offs between benefits and harms within the context of shared decision making. SYSTEMATIC REVIEW REGISTRATION: PROSPERO CRD42024507993."
+  },
+  {
+   "pmid": "39305981",
+   "titel": "Seven glucagon-like peptide-1 receptor agonists and polyagonists for weight loss in patients with obesity or overweight: an updated systematic review and network meta-analysis of randomized controlled trials",
+   "jahr": "2024",
+   "journal": "Metabolism",
+   "erstautor": "Xie Z",
+   "doi": "10.1016/j.metabol.2024.156038",
+   "typ": [
+    "Journal Article",
+    "Systematic Review",
+    "Network Meta-Analysis",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "PURPOSE: This study aimed to provide evidence-based support and a reference for the efficacy and safety of seven glucagon-like peptide-1 (GLP-1) receptor agonists and polyagonists for weight loss in patients with obesity or overweight through a network meta-analysis. METHODS: Relevant randomized controlled trials (RCTs) with an intervention duration of at least 16 weeks assessing seven GLP-1 receptor agonists and polyagonists (mazdutide, 6 or 4.5 mg; retatrutide, 12 or 8 mg; tirzepatide, 15 or 10 mg; liraglutide, 3.0 mg; semaglutide, 2.4 mg; orforglipron, 45 or 36 mg; and beinaglutide, 0.2 mg) in patient with obesity or overweight was searched using three databases (Cochrane Library, PubMed, and Embase) from creation to August 30, 2024. The primary outcome was the percentage change in body weight from baseline. Secondary outcomes included changes in waist circumference, hemoglobin A1c, and fasting plasma glucose level from baseline; adverse events, serious adverse events, adverse event withdrawal, and hypoglycemic events. We conducted a frequentist random-effects network meta-analysis to analyze the data extracted from the RCTs using Stata 16.1 software. RESULTS: Twenty-seven RCTs of seven GLP-1 receptor agonists and polyagonists and 15,584 patients were included in the network meta-analysis. In terms of efficacy, compared with placebo, retatrutide 12 mg (-22.10 % in body weight and - 17.00 cm in waist circumference), retatrutide 8 mg (-20.70 % and - 15.90 cm), and tirzepatide 15 mg (-16.53 % and - 13.23 cm) were the three most efficacious treatments for reducing body weight and waist circumference. However, these treatments were less effective in patients with type 2 diabetes mellitus (T2DM). In addition, patients with a high body mass index (BMI) or longer treatment cycles exhibited significantly greater weight loss than those with a low BMI or shorter treatment cycles. In terms of safety, patients without T2DM had a higher incidence of adverse events than those with T2DM. None of the interventions increased the incidence of serious adverse or hypoglycemic events (˂54 mg/dL). There was no significant difference in the incidence of adverse event withdrawal for all interventions in head-to-head comparisons. In addition, disparities in race, BMI, and treatment cycles did not significantly increase the incidence of adverse events. Finally, the sensitivity and publication bias analyses indicated that the basic analysis results were reliable. CONCLUSION: Retatrutide (both doses) and tirzepatide exhibited superior efficacy compared to other GLP-1 receptor agonists and polyagonists in reducing body weight and waist circumference. Patients without T2DM, those with a high BMI, and individuals undergoing longer treatment cycles demonstrated significantly greater weight loss and reductions in waist circumference. Dual or triple receptor agonists (GLP-1 plus glucose-dependent insulinotropic polypeptide and/or Glucagon receptor) are more effective for weight loss than GLP-1 receptor agonists."
+  },
+  {
+   "pmid": "39761578",
+   "titel": "Efficacy and Safety of Glucagon-Like Peptide-1 Receptor Agonists for Weight Loss Among Adults Without Diabetes : A Systematic Review of Randomized Controlled Trials",
+   "jahr": "2025",
+   "journal": "Ann Intern Med",
+   "erstautor": "Moiz A",
+   "doi": "10.7326/ANNALS-24-01590",
+   "typ": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "abstract": "BACKGROUND: Recent randomized controlled trials (RCTs) have investigated glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and dual or triple co-agonists for weight loss among adults with overweight or obesity and without diabetes. PURPOSE: To assess the efficacy and safety of GLP-1 RAs and co-agonists for the treatment of obesity among adults without diabetes. DATA SOURCES: MEDLINE, Embase, and Cochrane CENTRAL from inception to 4 October 2024. STUDY SELECTION: Placebo-controlled RCTs in otherwise healthy participants with overweight or obesity. DATA EXTRACTION: The primary outcome was change in relative or absolute body weight from baseline to maximum on-treatment follow-up. Safety outcomes included death, serious adverse events (SAEs), any adverse events (AEs), and gastrointestinal AEs. DATA SYNTHESIS: A total of 26 RCTs comprising 15 491 participants (72% female; mean body mass index, 30 to 41 kg/m2; mean age, 34 to 57 years) and 12 agents (3 commercially available agents [liraglutide, semaglutide, and tirzepatide] and 9 premarket agents for long-term weight management) were included. Treatment ranged from 16 to 104 weeks (median, 43 weeks). Compared with placebo, tirzepatide (15 mg once weekly) resulted in weight loss of up to 17.8% (95% CI, 16.3% to 19.3%) after 72 weeks of therapy; semaglutide (2.4 mg once weekly), up to 13.9% (CI, 11.0% to 16.7%) after 68 weeks; and liraglutide (3.0 mg once daily), up to 5.8% (CI, 3.6% to 8.0%) after 26 weeks. Retatrutide (12 mg once weekly) produced greater weight loss of up to 22.1% (CI, 19.3% to 24.9%) after 48 weeks; other novel single and combination GLP-1 agents were also efficacious to varying degrees. Although AEs were frequent (GLP-1 RA vs. placebo: 80% to 97% vs. 63% to 100%), the majority were gastrointestinal-related (47% to 84% vs. 13% to 63%, respectively), most commonly nausea, vomiting, diarrhea, and constipation. AEs requiring treatment discontinuation (0% to 26% vs. 0% to 9%, respectively) and SAEs (0% to 10% vs. 0% to 12%, respectively) were rare. LIMITATIONS: No head-to-head RCTs were available. Heterogeneity prevented meta-analysis. CONCLUSION: GLP-1 RAs and co-agonists are efficacious for weight loss, with reported safety concerns predominantly gastrointestinal in nature, when used among adults with overweight or obesity and without diabetes. PRIMARY FUNDING SOURCE: None. (PROSPERO: CRD42024505558)."
+  },
+  {
+   "pmid": "39952695",
+   "titel": "Emerging pharmacotherapies for obesity: A systematic review",
+   "jahr": "2025",
+   "journal": "Pharmacol Rev",
+   "erstautor": "Kokkorakis M",
+   "doi": "10.1124/pharmrev.123.001045",
+   "typ": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "abstract": "The history of antiobesity pharmacotherapies is marked by disappointments, often entangled with societal pressure promoting weight loss and the prevailing conviction that excess body weight signifies a lack of willpower. However, categories of emerging pharmacotherapies generate hope to reduce obesity rates. This systematic review of phase 2 and phase 3 trials in adults with overweight/obesity investigates the effect of novel weight loss pharmacotherapies, compared to placebo/control or US Food and Drug Administration-approved weight loss medication, through searching Medline, Embase, and ClinicalTrials.gov (2012-2024). We identified 53 phase 3 and phase 2 trials, with 36 emerging antiobesity drugs or combinations thereof and 4 withdrawn or terminated trials. Oral semaglutide 50 mg is the only medication that has completed a phase 3 trial. There are 14 ongoing phase 3 trials on glucagon-like peptide-1 (GLP-1) receptor agonists (RAs) (ecnoglutide, orforglipron, and TG103), GLP-1 RA/amylin agonist (CagriSema), GLP-1/glucagon RAs (mazdutide and survodutide), GLP-1/glucose-dependent insulinotropic polypeptide and glucagon RA (retatrutide), dapagliflozin, and the combination sibutramine/topiramate. Completed phase 2 trials on incretin-based therapies showed a mean percent weight loss of 7.4% to 24.2%. Almost half of the drugs undergoing phase 2 trials are incretin analogs. The obesity drug pipeline is expanding rapidly, with the most promising results reported with incretin analogs. Data on mortality and obesity-related complications, such as cardio-renal-metabolic events, are needed. Moreover, long-term follow-up data on the safety and efficacy of weight maintenance with novel obesity pharmacotherapies, along with studies focused on underrepresented populations, cost-effectiveness assessments, and drug availability, are needed to bridge the care gap for patients with obesity. SIGNIFICANCE STATEMENT: Obesity is the epidemic of the 21st century. Except for the newer injectable medications, drugs with suboptimal efficacy have been available in the clinician's armamentarium for weight management. However, emerging alternatives of novel agents and combinations populate the current obesity therapeutic pipeline. This systematic review identifies the state and mechanism of action of emerging pharmacotherapies undergoing or having completed phase 2 and phase 3 clinical trials. The information provided herein furthers the understanding of obesity management, implying direct clinical implications and stimulating research initiatives."
+  },
+  {
+   "pmid": "40489581",
+   "titel": "Efficacy of GLP-1-based Therapies on Metabolic Dysfunction-associated Steatotic Liver Disease and Metabolic Dysfunction-associated Steatohepatitis: A Systematic Review and Meta-analysis",
+   "jahr": "2025",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Wang Y",
+   "doi": "10.1210/clinem/dgaf336",
+   "typ": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: New therapies are urgently needed for the treatment of metabolic dysfunction-associated steatotic liver disease (MASLD) and metabolic dysfunction-associated steatohepatitis (MASH). We conducted this systematic review and meta-analysis to evaluate the therapeutic effects of glucagon-like peptide-1 receptor agonists (GLP-1RAs) on MASLD/MASH. METHODS: We searched PubMed, Embase, and Cochrane Library databases to identify randomized controlled trials (RCTs) that compared GLP-1RAs with placebo or active agents with respect to the efficacy in patients with MASLD/MASH. The effects of GLP-1RAs on liver fat content (LFC) by imaging, liver histology, serum liver enzymes, and noninvasive fibrosis indexes [Fibrosis-4, nonalcoholic fatty liver disease fibrosis score, cytokeratin 18, procollagen III, and liver stiffness) were evaluated. Mean differences and risk ratios with 95% confidence intervals were pooled using a random-effect model. RESULTS: Twenty-five RCTs involving 2600 patients who used GLP-1RAs including liraglutide, exenatide, dulaglutide, semaglutide, tirzepatide, efinopegdutide, survodutide, and retatrutide were included. Overall, GLP-1RAs treatment for a median of 24 weeks demonstrated a significant reduction in LFC by 5.21%, with retatrutide displaying the most obvious treatment effects. GLP-1RAs treatment induced significant histological improvements in steatosis, hepatocellular ballooning, and lobular inflammation but nonsignificantly improved fibrosis, with the evidence for tirzepatide more robust than that for semaglutide and liraglutide. GLP-1RAs treatment significantly decreased serum alanine aminotransferase, aspartate aminotransferase, and γ-glutamyl transferase compared with control. GLP-1RAs also significantly improved liver stiffness, with semaglutide displaying the most obvious treatment effect. No drug-related adverse effects involving the liver were observed. CONCLUSION: GLP-1RAs decreased liver fat deposition and improved histological steatosis, hepatocellular ballooning, and lobular inflammation, without worsening of fibrosis in MASLD and MASH."
+  },
+  {
+   "pmid": "40728138",
+   "titel": "Efficacy and safety of retatrutide for the treatment of obesity: a systematic review of clinical trials",
+   "jahr": "2025",
+   "journal": "J Basic Clin Physiol Pharmacol",
+   "erstautor": "Misra S",
+   "doi": "10.1515/jbcpp-2025-0113",
+   "typ": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "abstract": "INTRODUCTION: Obesity is a major public health issue linked to various health complications. Retatrutide, a triple agonist peptide targeting the glucagon receptor, GIP receptor, and GLP-1 receptor, shows promise in addressing this need. CONTENT: This systematic review assessed the safety and efficacy of retatrutide for obesity treatment using available clinical trial data. We conducted a comprehensive search of databases, including PubMed, Cochrane and ClinicalTrials.gov, from their inception until March 15, 2025 following PRISMA guidelines. SUMMARY: Three articles were included in this systematic review, screening a total of 1,082 patients, with 691 randomly assigned to groups. The average age of participants was 54.26 ± 9.9 years, consisting of 335 men (48 %) and 356 women (52 %). Retatrutide was administered to 510 participants, while 130 received a placebo. The 12 mg dosage of retatrutide showed the most significant reductions in body weight, body mass index, and waist circumference. It also led to a higher percentage of patients achieving weight losses of ≥5 , 10, 15, and 20 %. Gastrointestinal adverse effects were the most commonly reported. OUTLOOK: Weekly subcutaneous injections of retatrutide in obese patients resulted in significant weight loss and metabolic improvements compared to a placebo."
+  },
+  {
+   "pmid": "39968298",
+   "titel": "Comparative efficacy of incretin drugs on glycemic control, body weight, and blood pressure in adults with overweight or obesity and with/without type 2 diabetes: a systematic review and network meta-analysis",
+   "jahr": "2025",
+   "journal": "Front Endocrinol (Lausanne)",
+   "erstautor": "Liu S",
+   "doi": "10.3389/fendo.2025.1513641",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Network Meta-Analysis",
+    "Systematic Review"
+   ],
+   "abstract": "BACKGROUND: The rapid development of multi-receptor drugs targeting glucagon-like peptide-1 receptor (GLP-1R) is driving significant advancements in the treatment of individuals with type 2 diabetes and obesity. This systematic review and network meta-analysis aims to compare the efficacy and safety of multi-receptor drugs in adults with overweight or obesity, with or without type 2 diabetes. METHODS: A systematic search was conducted in PubMed, Cochrane, Web of Science, Embase, CNKI, and WanFang databases up to May 12, 2024. Randomized controlled trials (RCTs) with an intervention duration of at least 12 weeks were included. The population of interest consisted of individuals with overweight or obesity, with or without type 2 diabetes. Eligible studies compared multi-receptor drugs with placebo or other multi-receptor drugs. The primary outcomes were weight reduction, glycated hemoglobin (HbA1c), fasting plasma glucose (FPG), blood pressure changes, and adverse events. Risk of bias was assessed using the version 2 of the Cochrane risk-of-bias tool (ROB2), and a random-effects network meta-analysis was performed using the frequentist approach. Confidence in effect estimates was evaluated using the Confidence In Network Meta-Analysis (CINeMA) framework. RESULTS: A total of 24 trials, involving 9165 participants, were included. Retatrutide (mean difference (MD): -11.91 kg, 95% CI: -19.00 to -4.82, P-score: 0.80, p: 0.0003) and Tirzepatide (MD: -12.78 kg, 95% CI: -16.10 to -9.46, P-score: 0.89, p < 0.0001) exhibited superior efficacy in reducing body weight, with all other agents except Mazdutide (MD: -5.31 kg, 95% CI: -9.78 to -0.84, P-score: 0.37, p: 0.0189) achieving reductions of over 8 kg. In patients with type 2 diabetes, all agents reduced HbA1c by over 1%, with Tirzepatide (MD: -1.87%, 95% CI: -2.15 to -1.59, P-score: 0.87, p < 0.0001) and Mazdutide (MD: -1.89%, 95% CI: -2.43 to -1.35, P-score: 0.88, p < 0.0001) showing the greatest effects on glycemic control. For blood pressure management, Tirzepatide significantly reduced systolic blood pressure (MD: -6.69 mmHg, 95% CI: -7.62 to -5.75, P-score: 0.84, p < 0.0001) and diastolic blood pressure (MD: -3.73 mmHg, 95% CI: -4.75 to -2.71, P-score: 0.92, p < 0.0001), with nearly all agents lowering systolic blood pressure by more than 5 mmHg. Non-diabetic participants showed more pronounced improvements in both weight and blood pressure. Safety analysis revealed that Tirzepatide had a favorable safety profile and all agents showed no significant impact on serious adverse events compared to placebo. CONCLUSIONS: Multi-receptor drugs demonstrated substantial therapeutic potential in weight management, glycemic control, and blood pressure regulation in adults with overweight or obesity, with or without diabetes, with a generally favorable safety profile. SYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/prospero/, identifier CRD42024554005."
+  },
+  {
+   "pmid": "40988099",
+   "titel": "Evaluating the Rates of Pancreatitis and Pancreatic Cancer Among GLP-1 Receptor Agonists: A Systematic Review and Meta-Analysis of Randomised Controlled Trials",
+   "jahr": "2025",
+   "journal": "Endocrinol Diabetes Metab",
+   "erstautor": "Wen J",
+   "doi": "10.1002/edm2.70113",
+   "typ": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+   ],
+   "abstract": "AIMS: This meta-analysis evaluates the rates of pancreatitis/pancreatic cancer among glucagon-like peptide-1 receptor agonists (GLP-1 RAs) in randomised controlled trials (RCTs). METHODS: Following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA), a systematic search was performed in PubMed, Embase, and Cochrane Library for GLP-1 RA RCTs that evaluated pancreatitis/pancreatic cancer. A meta-analysis was conducted to evaluate this risk; subgroup analysis was performed with and without background medications. RESULTS: 62 studies utilising dulaglutide, exenatide, liraglutide, semaglutide, beinaglutide, retatrutide, or tirzepatide, with 66,232 patients, mean age of 58.3 years (14.4 to 68), and mean follow-up of 43.5 weeks (1 to 198) were included in this study. Meta-analysis showed a significantly increased risk of pancreatitis (RR: 1.44, 95% CI 1.09-1.89, p = 0.009), but not when stratified by background medications (RR: 1.28, 95% CI 0.87-1.87) and without background medications (RR: 1.37, 95% CI 0.91-2.05). Pancreatic cancer and GLP-1 RA use showed no significant association (RR: 1.30, 95% CI 0.86-1.97). However, a significant increase was found with background medications (RR: 1.85, 95% CI 1.05-3.26, p = 0.03), but not without (RR: 0.81, 95% CI 0.43-1.55). CONCLUSION: GLP-1 RAs carry a slightly increased risk of pancreatitis, which is not significant when stratified by background medication use. Overall risk for pancreatic cancer was not observed, but a slight association was found when stratified with background medications. However, this difference is likely minimal, given the numerous studies excluded from the meta-analysis where both treatment arms had zero events."
+  },
+  {
+   "pmid": "40040445",
+   "titel": "Sex Differences in the Efficacy of Glucagon-Like Peptide-1 Receptor Agonists for Weight Reduction: A Systematic Review and Meta-Analysis",
+   "jahr": "2025",
+   "journal": "J Diabetes",
+   "erstautor": "Yang Y",
+   "doi": "10.1111/1753-0407.70063",
+   "typ": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+   ],
+   "abstract": "AIM: To verify sex differences of GLP-1RAs for weight reduction. METHODS: We searched RCTs reporting weight change by sex from PubMed, Web of Science, Embase, Cochrane Library, and ClinicalTrials registries. Meta-regression was performed to evaluate the association between weight reduction and sex differences. Subgroup analyses were stratified by individual GLP-1RA medications, dose, treatment duration, indication, type of control, background treatment, and baseline weight. The study protocol was registered (CRD42023480167). RESULTS: Fourteen studies covering dulaglutide, exenatide, liraglutide, semaglutide, and retatrutide were included in this study. The meta-analysis showed that females lost more weight than males (MD 1.04 kg [95% CIs 0.70-1.38]; MD 1.69% [95% CI 0.78-2.61]). The pooled results of GLP-1RAs indicated similar results (MD 0.88 kg [95% CIs 0.67-1.09]). Meta-regression illustrated that substantial weight reduction was significantly relevant to greater gender differences (β = -0.19 [95% CIs -0.29 to -0.09]). Subgroup analysis demonstrated that indications for weight reduction increased the gender difference in weight reduction (MD 4.21 kg [95% CIs 1.75-6.67]). Background treatment, dose, duration of treatment, baseline weight, and type of control had no subgroup differences in the sex difference in weight reduction of GLP-1RAs. Dulaglutide (MD 0.88 kg [95% CIs 0.63-1.12]) and semaglutide (MD 1.04 kg [95% CIs 0.45-1.63]) showed statistically significant differences in weight reduction between males and females. No gender difference was observed in the exenatide subgroup analysis. CONCLUSIONS: Females lost more weight than males when treated with GLP-1RAs for weight reduction. The sex difference in weight reduction became more pronounced as the degree of weight reduction increased. Indications for obesity could magnify this sex difference."
+  },
+  {
+   "pmid": "42296503",
+   "titel": "Benefits and Harms of Pharmacologic Treatments in Adults With Overweight or Obesity: A Living Systematic Review and Network Meta-analysis for the American College of Physicians",
+   "jahr": "2026",
+   "journal": "Ann Intern Med",
+   "erstautor": "Damen JAA",
+   "doi": "10.7326/ANNALS-24-03764",
+   "typ": [
+    "Journal Article",
+    "Systematic Review",
+    "Network Meta-Analysis"
+   ],
+   "abstract": "BACKGROUND: Overweight and obesity are closely linked to diseases such as type 2 diabetes, coronary heart disease, and stroke and have been shown to increase mortality risk. PURPOSE: To conduct a living systematic review of pharmacologic treatments for weight management in overweight or obesity in adults. DATA SOURCES: MEDLINE and Cochrane Central Register of Controlled Trials until October 2025. STUDY SELECTION: Randomized controlled trials that compared pharmacologic treatments for weight management (dulaglutide, exenatide, liraglutide, lixisenatide, naltrexone-bupropion, orforglipron, phentermine, phentermine-topiramate, retatrutide, semaglutide, semaglutide-cagrilintide, tirzepatide, or any combination with or without lifestyle intervention [LI]) for overweight or obesity (body mass index ≥25 kg/m2) in adults for outcomes such as mortality, weight loss, and quality of life. DATA EXTRACTION: One reviewer extracted data and assessed risk of bias and certainty of the evidence; a second reviewer verified these data. DATA SYNTHESIS: The review included 69 studies with a total of 112 511 participants. Thirty-seven studies were at low risk of bias. In meta-analyses, nearly all studied interventions were more effective than placebo and/or LI in reducing weight, but more discontinuations due to adverse events were observed. Semaglutide probably reduced mortality and major adverse cardiovascular events (MACE), and both semaglutide and tirzepatide led to the greatest weight loss compared with placebo and/or LI in pairwise and network meta-analyses. Evidence for outcomes such as mortality, MACE, and serious adverse events was limited. LIMITATION: Direct head-to-head comparisons of different treatments were limited. CONCLUSION: Nearly all studied interventions were more effective than placebo and/or LI in reducing weight. Semaglutide and tirzepatide showed the most favorable results across outcomes. PRIMARY FUNDING SOURCE: American College of Physicians. (PROSPERO: CRD42023491646)."
+  },
+  {
+   "pmid": "40685589",
+   "titel": "Efficacy and Safety of GLP-1 Receptor Agonists, Dual Agonists, and Retatrutide for Weight Loss in Adults With Overweight or Obesity: A Bayesian NMA",
+   "jahr": "2025",
+   "journal": "Obesity (Silver Spring)",
+   "erstautor": "Sinha B",
+   "doi": "10.1002/oby.24360",
+   "typ": [
+    "Journal Article",
+    "Network Meta-Analysis",
+    "Systematic Review"
+   ],
+   "abstract": "OBJECTIVE: To compare the efficacy and safety of GLP-1 receptor agonists (GLP-1RAs), dual agonists (GLP-1RAs/GIP or GCGR), and retatrutide (GLP-1/GIP/glucagon) for weight loss in adults with overweight or obesity. METHODS: We conducted a systematic review and Bayesian network meta-analysis (NMA) of 19 randomized controlled trials (RCTs) including 29,506 adults (BMI ≥ 25 kg/m2), assessing liraglutide, semaglutide, survodutide, tirzepatide, retatrutide, and placebo. Outcomes included mean weight loss, achievement of ≥ 5%, ≥ 10%, and ≥ 15% weight loss, waist circumference (WC), BMI, and adverse events (AEs) at ≥ 36 weeks. Subgroup and meta-regression analyses evaluated the impact of diabetes status, sex, age, and BMI. RESULTS: Retatrutide and dual agonists achieved equivalent mean weight loss (-11.0 kg), surpassing GLP-1RAs (-9.0 kg), with retatrutide excelling at achieving ≥ 15% weight loss (OR 54.6). Dual agonists and GLP-1RAs followed (OR 16.4 and 9.0, respectively). Retatrutide had the highest AE risk. Meta-regression showed type 2 diabetes mellitus (T2DM) reduced weight loss by 4.338 kg for GLP-1RAs and 5.016 kg for dual agonists, with enhanced outcomes in female-dominant or high-BMI cohorts. CONCLUSIONS: Retatrutide offers superior weight loss efficacy but with a higher AE risk. Dual agonists provide a favorable efficacy-safety balance. Personalized treatment selection based on patient characteristics is recommended."
+  },
+  {
+   "pmid": "40207414",
+   "titel": "Efficacy of GLP-1 Receptor Agonist-Based Therapies on Cardiovascular Events and Cardiometabolic Parameters in Obese Individuals Without Diabetes: A Meta-Analysis of Randomized Controlled Trials",
+   "jahr": "2025",
+   "journal": "J Diabetes",
+   "erstautor": "Yin Y",
+   "doi": "10.1111/1753-0407.70082",
+   "typ": [
+    "Journal Article",
+    "Meta-Analysis"
+   ],
+   "abstract": "BACKGROUND: The cardioprotective effects of glucagon-like peptide-1 receptor agonist (GLP-1RA)-based therapies in nondiabetic individuals with overweight or obesity remain underexplored. This meta-analysis evaluates their impact on cardiovascular events and metabolic parameters in this population. METHODS: A meta-analysis was conducted using PubMed, Embase, Cochrane, and Web of Science databases from inception to June 18, 2024. Eligible studies were randomized controlled trials (RCTs) enrolling nondiabetic adults with overweight or obesity. These studies compared GLP-1RA-based therapies with placebo and reported cardiovascular events and metabolic parameters. RESULTS: A total of 29 RCTs involving 9 GLP-1RA-based drugs and 37 348 eligible participants were included. Compared to placebo, GLP-1RA-based therapies significantly reduced the risk of total cardiovascular events (relative risk: 0.81, 95% confidence interval [CI]: [0.76, 0.87]), major adverse cardiovascular events (0.80, [0.72, 0.89]), myocardial infarction (0.72, [0.61, 0.85]), and all-cause mortality (0.81, [0.71, 0.93]). No significant differences were observed in cardiovascular death or stroke. Additionally, GLP-1RA-based therapies were associated with significant reductions in some cardiometabolic parameters. Among GLP-1RA-based therapies, orfroglipron demonstrated strong benefits in reducing systolic blood pressure (mean difference: -7.10 mmHg, 95% CI: [-11.00, -2.70]). Tirzepatide induced the greatest reduction in body mass index (-6.50 kg/m2, [-7.90, -5.10]) and hemoglobin A1c concentrations (-0.39%, [-0.52, -0.26]). Retatrutide and semaglutide were most effective in improving lipid profiles and reducing C-reactive protein levels (-1.20 mg/dL, [-1.80, -0.63]), respectively. CONCLUSIONS: In nondiabetic individuals with overweight or obesity, GLP-1RA-based therapies significantly reduce cardiovascular events and improve cardiometabolic parameters. These findings underscore the potential for individualized GLP-1RA-based therapies targeting cardiovascular risk factors."
+  },
+  {
+   "pmid": "39817343",
+   "titel": "Efficacy and safety of triple hormone receptor agonist retatrutide for the management of obesity: a systematic review and meta-analysis",
+   "jahr": "2025",
+   "journal": "Expert Rev Clin Pharmacol",
+   "erstautor": "Tewari J",
+   "doi": "10.1080/17512433.2025.2450254",
+   "typ": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+   ],
+   "abstract": "INTRODUCTION: Retatrutide is a novel triple hormone receptor agonist which has shown great promise in tackling obesity in preliminary trials. We did this systematic review and meta-analysis to pool the results of all available trials and ascertain its safety and efficacy in the treatment of obesity. MATERIAL AND METHODS: A literature search was conducted in PubMed, Cochrane Central and Embase using appropriate search terms and randomized control trials (RCTs) were identified which reported the safety and efficacy of retatrutide. Data was pooled using mean differences for continuous variables and risk ratios for the safety profile in RStudio. RESULTS: After the initial search four RCTs were included in the analysis which compared the safety and efficacy of retatrutide versus placebo. Retatrutide showed a dose dependent relationship with the 12 mg dose causing the maximum reductions across all the outcomes considered. The safety profile of retatrutide was found to be comparable to the control group. CONCLUSION: In conclusion our analysis found retatrutide to be clinically and statistically better than placebo in the various studies outcomes. We eagerly await the conduction of further trials for more robust and substantial results. PROTOCOL REGISTRATION: www.crd.york.ac.uk/prospero identifier is CRD42024566153."
+  },
+  {
+   "pmid": "41303824",
+   "titel": "Gastrointestinal Adverse Effects of Anti-Obesity Medications in Non-Diabetic Adults: A Systematic Review",
+   "jahr": "2025",
+   "journal": "Medicina (Kaunas)",
+   "erstautor": "Takrori E",
+   "doi": "10.3390/medicina61111987",
+   "typ": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "abstract": "Background: With rising obesity rates, pharmacological interventions are increasingly used in non-diabetic adults. While being effective in managing weight, these agents frequently cause gastrointestinal (GI) side effects, affecting adherence and long-term outcomes. Objective: To systematically evaluate the frequency, severity, and types of GI adverse effects (AEs) associated with anti-obesity medications in obese adults without diabetes. Methods: Following PRISMA 2020 guidelines, PubMed, Google Scholar, BMJ, and Web of Science were searched (last search July 2025). Eligible studies included randomized controlled trials, non-randomized trials, cohort studies, cross-sectional, and case-control studies. Only reports of GI AEs in non-diabetic adults were included. Risk of bias was assessed using Cochrane RoB 2 and Newcastle-Ottawa scales. Results: Out of 733 articles screened, 12 studies met predefined inclusion criteria, including one large cohort of 18,386 participants, along with randomized and observational trials of smaller size. The most frequently reported GI symptoms were nausea, vomiting, diarrhea, and constipation, predominantly with GLP-1 receptor agonists such as semaglutide and tirzepatide, especially during dose escalation. Orlistat commonly linked to steatorrhea and flatulence, while phentermine was associated with reduced GI motility. Newer agents, including retatrutide and orforglipron, also demonstrated notable GI side effect profiles. Natural products and investigational agents reported fewer adverse events but lacked long-term data and standardized reporting. Limitations: Evidence was limited by heterogeneity in study design and inconsistent reporting of GI outcomes. Conclusion: GI side effects are common across anti-obesity medications, particularly GLP-1 receptor agonists. Although generally mild to moderate, these symptoms can impact adherence and lead to treatment discontinuation. Tailored titration schedules, proactive patient counseling, and standardized adverse event reporting may improve tolerability. Further research is warranted to evaluate long-term GI outcomes and compare safety across emerging pharmacologic agents."
+  },
+  {
+   "pmid": "38976545",
+   "titel": "Comparative Meta-Analysis of Retatrutide Versus Placebo and Dulaglutide for Weight Loss and Diabetes Management: Insights From Clinical Trials",
+   "jahr": "2024",
+   "journal": "Am J Ther",
+   "erstautor": "Ayesh H",
+   "doi": "10.1097/MJT.0000000000001743",
+   "typ": [
+    "Meta-Analysis",
+    "Letter",
+    "Comparative Study"
+   ],
+   "abstract": ""
+  }
+ ],
+ "praeklinik": [
+  {
+   "pmid": "42419792",
+   "titel": "Comparative effects of drugs for adults with overweight or obesity: systematic review and network meta-analysis",
+   "jahr": "2026",
+   "journal": "BMJ",
+   "erstautor": "Nong K",
+   "doi": "10.1136/bmj-2026-372161",
+   "typ": [
+    "Systematic Review",
+    "Network Meta-Analysis",
+    "Journal Article",
+    "Comparative Study"
+   ],
+   "abstract": "OBJECTIVE: To provide an up-to-date evidence summary about the comparative benefits and harms of drugs for adults with overweight or obesity to inform decision making for policymakers, payers, clinicians, and patients. DESIGN: Systematic review and network meta-analysis of 24 outcomes using frequentist random effects models and bayesian dose-response models, the GRADE (Grading of Recommendations Assessment, Development, and Evaluation) approach, and the Cochrane Risk of Bias 2 tool. DATA SOURCES: Medline, Embase, and Cochrane Library, searched up to 12 November 2025. STUDY SELECTION: Randomised controlled trials of 12 weeks' duration or longer comparing one or more drugs with lifestyle modification, placebo, or another drug. RESULTS: This network meta-analysis comprised 262 trials (99 791 participants) evaluating 19 drugs with follow-up from 12 to 172 weeks. Compared with lifestyle modification alone, at one year, moderate to high certainty evidence shows substantial weight loss with tirzepatide (mean difference -14.9%, 95% confidence interval -16.0% to -13.9%), cagrilintide-semaglutide (CagriSema, -14.8%, -16.9% to -12.7%), oral semaglutide (-10.9%, -12.7% to -9.1%), orforglipron (-9.9%, -12.4% to -7.5%), subcutaneous semaglutide (-9.8%, -10.6% to -9.1%), and phentermine-topiramate (-8.1%, -9.7% to -6.5%). Emerging agents (ecnoglutide, mazdutide, retatrutide) may produce similar or greater reductions (13.1-14.6%; very low to low certainty). Moderate to high certainty evidence supports discontinuation because of adverse events to be highest with orforglipron, naltrexone-bupropion, liraglutide, phentermine-topiramate, CagriSema, and oral semaglutide (risk ratios from 1.9 to 4.2); gastrointestinal events were most increased with naltrexone-bupropion, oral semaglutide, orforglipron, and tirzepatide (risk ratios from 3.1 to 4.2). Fatigue risk increased, particularly with naltrexone-bupropion (risk ratio 8.9; absolute increase 331 per 1000 people over one year), orforglipron (3.4; 100 more per 1000), and CagriSema (3.2; 92 more per 1000). Tirzepatide reduced fat mass the most (by 25.7%) but also lean mass the most (by 8.3%). Subcutaneous semaglutide was the only drug associated with reduced all cause mortality (risk ratio 0.81, 95% confidence interval 0.72 to 0.93) and myocardial infarction (0.72, 0.61 to 0.85), with these estimates largely informed by cardiovascular outcome trials in high risk populations. Subcutaneous semaglutide (0.43, 0.21 to 0.84) and tirzepatide (0.49, 0.27 to 0.88) reduced heart failure risk. No drugs convincingly reduced kidney failure or improved quality of life (43 trials with 45 663 participants) beyond established minimally important differences (all mean differences <5 points; minimally important difference 10). Except for larger weight reductions in trials with longer duration (shown for subcutaneous semaglutide), subgroup analyses for drug dosages and key patient characteristics did not identify credible differences in relative effects of treatment. CONCLUSIONS: Obesity drugs produce variable weight loss at one year, with larger benefits generally accompanied by greater harms and discontinuation. Most agents do not improve quality of life meaningfully and few show cardiovascular benefits. Decisions in clinical practice should consider trade-offs between benefits and harms within the context of shared decision making. SYSTEMATIC REVIEW REGISTRATION: PROSPERO CRD42024507993."
+  },
+  {
+   "pmid": "38843460",
+   "titel": "Efficacy and Safety of GLP-1 Medicines for Type 2 Diabetes and Obesity",
+   "jahr": "2024",
+   "journal": "Diabetes Care",
+   "erstautor": "Drucker DJ",
+   "doi": "10.2337/dci24-0003",
+   "typ": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The development of glucagon-like peptide 1 receptor agonists (GLP-1RA) for type 2 diabetes and obesity was followed by data establishing the cardiorenal benefits of GLP-1RA in select patient populations. In ongoing trials investigators are interrogating the efficacy of these agents for new indications, including metabolic liver disease, peripheral artery disease, Parkinson disease, and Alzheimer disease. The success of GLP-1-based medicines has spurred the development of new molecular entities and combinations with unique pharmacokinetic and pharmacodynamic profiles, exemplified by tirzepatide, a GIP-GLP-1 receptor coagonist. Simultaneously, investigational molecules such as maritide block the GIP and activate the GLP-1 receptor, whereas retatrutide and survodutide enable simultaneous activation of the glucagon and GLP-1 receptors. Here I highlight evidence establishing the efficacy of GLP-1-based medicines, while discussing data that inform safety, focusing on muscle strength, bone density and fractures, exercise capacity, gastrointestinal motility, retained gastric contents and anesthesia, pancreatic and biliary tract disorders, and the risk of cancer. Rapid progress in development of highly efficacious GLP-1 medicines, and anticipated differentiation of newer agents in subsets of metabolic disorders, will provide greater opportunities for use of personalized medicine approaches to improve the health of people living with cardiometabolic disorders."
+  },
+  {
+   "pmid": "40563436",
+   "titel": "Retatrutide-A Game Changer in Obesity Pharmacotherapy",
+   "jahr": "2025",
+   "journal": "Biomolecules",
+   "erstautor": "Katsi V",
+   "doi": "10.3390/biom15060796",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Obesity and type 2 diabetes mellitus (T2DM) are global health crises with significant morbidity and mortality. Retatrutide, a novel triple receptor agonist targeting glucagon-like peptide-1 (GLP-1), Glucose-Dependent Insulinotropic Polypeptide (GIP), and glucagon receptors, represents a groundbreaking advancement in obesity and T2DM pharmacotherapy. This review synthesizes findings from preclinical and clinical studies, highlighting retatrutide's mechanisms, efficacy, and safety profile. Retatrutide's unique molecular structure enables potent activation of GLP-1, GIP, and glucagon receptors, leading to significant weight reduction, improved glycemic control, and favorable metabolic outcomes. Animal studies demonstrate retatrutide's ability to delay gastric emptying, reduce food intake, and promote weight loss, with superior efficacy compared to other incretin-based therapies. Phase I and II clinical trials corroborate these findings, showing dose-dependent weight loss, reductions in Glycated Hemoglobin (HbA1c) levels, and improvements in liver steatosis and diabetic kidney disease. Common adverse effects are primarily gastrointestinal and dose-related. Ongoing Phase III trials, such as the TRIUMPH studies, aim to further evaluate retatrutide's long-term safety and efficacy in diverse patient populations. While retatrutide shows immense promise, considerations regarding cost and the quality of weight loss beyond BMI reduction warrant further investigation. Retatrutide heralds a new era in obesity and T2DM treatment, offering hope for improved patient outcomes."
+  },
+  {
+   "pmid": "39305981",
+   "titel": "Seven glucagon-like peptide-1 receptor agonists and polyagonists for weight loss in patients with obesity or overweight: an updated systematic review and network meta-analysis of randomized controlled trials",
+   "jahr": "2024",
+   "journal": "Metabolism",
+   "erstautor": "Xie Z",
+   "doi": "10.1016/j.metabol.2024.156038",
+   "typ": [
+    "Journal Article",
+    "Systematic Review",
+    "Network Meta-Analysis",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "PURPOSE: This study aimed to provide evidence-based support and a reference for the efficacy and safety of seven glucagon-like peptide-1 (GLP-1) receptor agonists and polyagonists for weight loss in patients with obesity or overweight through a network meta-analysis. METHODS: Relevant randomized controlled trials (RCTs) with an intervention duration of at least 16 weeks assessing seven GLP-1 receptor agonists and polyagonists (mazdutide, 6 or 4.5 mg; retatrutide, 12 or 8 mg; tirzepatide, 15 or 10 mg; liraglutide, 3.0 mg; semaglutide, 2.4 mg; orforglipron, 45 or 36 mg; and beinaglutide, 0.2 mg) in patient with obesity or overweight was searched using three databases (Cochrane Library, PubMed, and Embase) from creation to August 30, 2024. The primary outcome was the percentage change in body weight from baseline. Secondary outcomes included changes in waist circumference, hemoglobin A1c, and fasting plasma glucose level from baseline; adverse events, serious adverse events, adverse event withdrawal, and hypoglycemic events. We conducted a frequentist random-effects network meta-analysis to analyze the data extracted from the RCTs using Stata 16.1 software. RESULTS: Twenty-seven RCTs of seven GLP-1 receptor agonists and polyagonists and 15,584 patients were included in the network meta-analysis. In terms of efficacy, compared with placebo, retatrutide 12 mg (-22.10 % in body weight and - 17.00 cm in waist circumference), retatrutide 8 mg (-20.70 % and - 15.90 cm), and tirzepatide 15 mg (-16.53 % and - 13.23 cm) were the three most efficacious treatments for reducing body weight and waist circumference. However, these treatments were less effective in patients with type 2 diabetes mellitus (T2DM). In addition, patients with a high body mass index (BMI) or longer treatment cycles exhibited significantly greater weight loss than those with a low BMI or shorter treatment cycles. In terms of safety, patients without T2DM had a higher incidence of adverse events than those with T2DM. None of the interventions increased the incidence of serious adverse or hypoglycemic events (˂54 mg/dL). There was no significant difference in the incidence of adverse event withdrawal for all interventions in head-to-head comparisons. In addition, disparities in race, BMI, and treatment cycles did not significantly increase the incidence of adverse events. Finally, the sensitivity and publication bias analyses indicated that the basic analysis results were reliable. CONCLUSION: Retatrutide (both doses) and tirzepatide exhibited superior efficacy compared to other GLP-1 receptor agonists and polyagonists in reducing body weight and waist circumference. Patients without T2DM, those with a high BMI, and individuals undergoing longer treatment cycles demonstrated significantly greater weight loss and reductions in waist circumference. Dual or triple receptor agonists (GLP-1 plus glucose-dependent insulinotropic polypeptide and/or Glucagon receptor) are more effective for weight loss than GLP-1 receptor agonists."
+  },
+  {
+   "pmid": "41090431",
+   "titel": "Retatrutide for the treatment of obesity, obstructive sleep apnea and knee osteoarthritis: Rationale and design of the TRIUMPH registrational clinical trials",
+   "jahr": "2026",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Giblin K",
+   "doi": "10.1111/dom.70209",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "AIMS: Retatrutide, a novel synthetic molecule, is a triple agonist activating the glucose-dependent insulinotropic polypeptide, glucagon-like peptide-1 and glucagon receptors. The TRIUMPH clinical development program evaluates its safety and efficacy concurrently for the treatment of obesity and two related complications-obstructive sleep apnea (OSA) and knee osteoarthritis (OA). A novel basket trial design simultaneously evaluates retatrutide treatment across these multiple adiposity-related disease states. MATERIALS AND METHODS: TRIUMPH consists of four Phase 3, multicenter, randomized, double-blind studies assessing weekly subcutaneous retatrutide compared to placebo, in conjunction with healthy diet and physical activity in over 5800 participants. The four trials consist of two weight management basket trials (TRIUMPH-1 and TRIUMPH-2) with OSA and/or OA protocols nested within the weight management trial; one weight management trial in a population with CVD (TRIUMPH-3); and one stand-alone OA trial (TRIUMPH-4). The primary endpoint for weight management is percent change in body weight, for OSA is change in Apnea-Hypopnea Index and for knee OA includes change in the Western Ontario and McMaster Universities Osteoarthritis Index pain subscale score. The basket trial permits independent analysis of weight management, OSA and OA studies with type I error rate controlled at α = 0.05, split between the overarching weight management and each basket trial. CONCLUSIONS: By recruiting participants with shared disease exposures, the TRIUMPH program will assess the safety and efficacy of retatrutide for the treatment of adults with obesity and two of its common complications-OSA and OA."
+  },
+  {
+   "pmid": "38687506",
+   "titel": "Incretin-Based Weight Loss Pharmacotherapy: Can Resistance Exercise Optimize Changes in Body Composition?",
+   "jahr": "2024",
+   "journal": "Diabetes Care",
+   "erstautor": "Locatelli JC",
+   "doi": "10.2337/dci23-0100",
+   "typ": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "This narrative review highlights the degree to which new antiobesity medications based on gut-derived nutrient-stimulated hormones (incretins) cause loss of lean mass, and the importance of resistance exercise to preserve muscle. Glucagon-like peptide 1 receptor agonists (GLP-1RA) induce substantial weight loss in randomized trials, effects that may be enhanced in combination with glucose-dependent insulinotropic polypeptide (GIP) receptor agonists. Liraglutide and semaglutide (GLP-1RA), tirzepatide (GLP-1 and GIP receptor dual agonist), and retatrutide (GLP-1, GIP, and glucagon receptor triple agonist) are peptides with incretin agonist activity that induce ∼15-24% weight loss in adults with overweight and obesity, alongside beneficial impacts on blood pressure, cholesterol, blood glucose, and insulin. However, these agents also cause rapid and significant loss of lean mass (∼10% or ∼6 kg), comparable to a decade or more of aging. Maintaining muscle mass and function as humans age is crucial to avoiding sarcopenia and frailty, which are strongly linked to morbidity and mortality. Studies indicate that supervised resistance exercise training interventions with a duration >10 weeks can elicit large increases in lean mass (∼3 kg) and strength (∼25%) in men and women. After a low-calorie diet, combining aerobic exercise with liraglutide improved weight loss maintenance compared with either alone. Retaining lean mass during incretin therapy could blunt body weight (and fat) regain on cessation of weight loss pharmacotherapy. We propose that tailored resistance exercise training be recommended as an adjunct to incretin therapy to optimize changes in body composition by preserving lean mass while achieving fat loss."
+  },
+  {
+   "pmid": "39761578",
+   "titel": "Efficacy and Safety of Glucagon-Like Peptide-1 Receptor Agonists for Weight Loss Among Adults Without Diabetes : A Systematic Review of Randomized Controlled Trials",
+   "jahr": "2025",
+   "journal": "Ann Intern Med",
+   "erstautor": "Moiz A",
+   "doi": "10.7326/ANNALS-24-01590",
+   "typ": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "abstract": "BACKGROUND: Recent randomized controlled trials (RCTs) have investigated glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and dual or triple co-agonists for weight loss among adults with overweight or obesity and without diabetes. PURPOSE: To assess the efficacy and safety of GLP-1 RAs and co-agonists for the treatment of obesity among adults without diabetes. DATA SOURCES: MEDLINE, Embase, and Cochrane CENTRAL from inception to 4 October 2024. STUDY SELECTION: Placebo-controlled RCTs in otherwise healthy participants with overweight or obesity. DATA EXTRACTION: The primary outcome was change in relative or absolute body weight from baseline to maximum on-treatment follow-up. Safety outcomes included death, serious adverse events (SAEs), any adverse events (AEs), and gastrointestinal AEs. DATA SYNTHESIS: A total of 26 RCTs comprising 15 491 participants (72% female; mean body mass index, 30 to 41 kg/m2; mean age, 34 to 57 years) and 12 agents (3 commercially available agents [liraglutide, semaglutide, and tirzepatide] and 9 premarket agents for long-term weight management) were included. Treatment ranged from 16 to 104 weeks (median, 43 weeks). Compared with placebo, tirzepatide (15 mg once weekly) resulted in weight loss of up to 17.8% (95% CI, 16.3% to 19.3%) after 72 weeks of therapy; semaglutide (2.4 mg once weekly), up to 13.9% (CI, 11.0% to 16.7%) after 68 weeks; and liraglutide (3.0 mg once daily), up to 5.8% (CI, 3.6% to 8.0%) after 26 weeks. Retatrutide (12 mg once weekly) produced greater weight loss of up to 22.1% (CI, 19.3% to 24.9%) after 48 weeks; other novel single and combination GLP-1 agents were also efficacious to varying degrees. Although AEs were frequent (GLP-1 RA vs. placebo: 80% to 97% vs. 63% to 100%), the majority were gastrointestinal-related (47% to 84% vs. 13% to 63%, respectively), most commonly nausea, vomiting, diarrhea, and constipation. AEs requiring treatment discontinuation (0% to 26% vs. 0% to 9%, respectively) and SAEs (0% to 10% vs. 0% to 12%, respectively) were rare. LIMITATIONS: No head-to-head RCTs were available. Heterogeneity prevented meta-analysis. CONCLUSION: GLP-1 RAs and co-agonists are efficacious for weight loss, with reported safety concerns predominantly gastrointestinal in nature, when used among adults with overweight or obesity and without diabetes. PRIMARY FUNDING SOURCE: None. (PROSPERO: CRD42024505558)."
+  },
+  {
+   "pmid": "39952695",
+   "titel": "Emerging pharmacotherapies for obesity: A systematic review",
+   "jahr": "2025",
+   "journal": "Pharmacol Rev",
+   "erstautor": "Kokkorakis M",
+   "doi": "10.1124/pharmrev.123.001045",
+   "typ": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "abstract": "The history of antiobesity pharmacotherapies is marked by disappointments, often entangled with societal pressure promoting weight loss and the prevailing conviction that excess body weight signifies a lack of willpower. However, categories of emerging pharmacotherapies generate hope to reduce obesity rates. This systematic review of phase 2 and phase 3 trials in adults with overweight/obesity investigates the effect of novel weight loss pharmacotherapies, compared to placebo/control or US Food and Drug Administration-approved weight loss medication, through searching Medline, Embase, and ClinicalTrials.gov (2012-2024). We identified 53 phase 3 and phase 2 trials, with 36 emerging antiobesity drugs or combinations thereof and 4 withdrawn or terminated trials. Oral semaglutide 50 mg is the only medication that has completed a phase 3 trial. There are 14 ongoing phase 3 trials on glucagon-like peptide-1 (GLP-1) receptor agonists (RAs) (ecnoglutide, orforglipron, and TG103), GLP-1 RA/amylin agonist (CagriSema), GLP-1/glucagon RAs (mazdutide and survodutide), GLP-1/glucose-dependent insulinotropic polypeptide and glucagon RA (retatrutide), dapagliflozin, and the combination sibutramine/topiramate. Completed phase 2 trials on incretin-based therapies showed a mean percent weight loss of 7.4% to 24.2%. Almost half of the drugs undergoing phase 2 trials are incretin analogs. The obesity drug pipeline is expanding rapidly, with the most promising results reported with incretin analogs. Data on mortality and obesity-related complications, such as cardio-renal-metabolic events, are needed. Moreover, long-term follow-up data on the safety and efficacy of weight maintenance with novel obesity pharmacotherapies, along with studies focused on underrepresented populations, cost-effectiveness assessments, and drug availability, are needed to bridge the care gap for patients with obesity. SIGNIFICANCE STATEMENT: Obesity is the epidemic of the 21st century. Except for the newer injectable medications, drugs with suboptimal efficacy have been available in the clinician's armamentarium for weight management. However, emerging alternatives of novel agents and combinations populate the current obesity therapeutic pipeline. This systematic review identifies the state and mechanism of action of emerging pharmacotherapies undergoing or having completed phase 2 and phase 3 clinical trials. The information provided herein furthers the understanding of obesity management, implying direct clinical implications and stimulating research initiatives."
+  },
+  {
+   "pmid": "40489581",
+   "titel": "Efficacy of GLP-1-based Therapies on Metabolic Dysfunction-associated Steatotic Liver Disease and Metabolic Dysfunction-associated Steatohepatitis: A Systematic Review and Meta-analysis",
+   "jahr": "2025",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Wang Y",
+   "doi": "10.1210/clinem/dgaf336",
+   "typ": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: New therapies are urgently needed for the treatment of metabolic dysfunction-associated steatotic liver disease (MASLD) and metabolic dysfunction-associated steatohepatitis (MASH). We conducted this systematic review and meta-analysis to evaluate the therapeutic effects of glucagon-like peptide-1 receptor agonists (GLP-1RAs) on MASLD/MASH. METHODS: We searched PubMed, Embase, and Cochrane Library databases to identify randomized controlled trials (RCTs) that compared GLP-1RAs with placebo or active agents with respect to the efficacy in patients with MASLD/MASH. The effects of GLP-1RAs on liver fat content (LFC) by imaging, liver histology, serum liver enzymes, and noninvasive fibrosis indexes [Fibrosis-4, nonalcoholic fatty liver disease fibrosis score, cytokeratin 18, procollagen III, and liver stiffness) were evaluated. Mean differences and risk ratios with 95% confidence intervals were pooled using a random-effect model. RESULTS: Twenty-five RCTs involving 2600 patients who used GLP-1RAs including liraglutide, exenatide, dulaglutide, semaglutide, tirzepatide, efinopegdutide, survodutide, and retatrutide were included. Overall, GLP-1RAs treatment for a median of 24 weeks demonstrated a significant reduction in LFC by 5.21%, with retatrutide displaying the most obvious treatment effects. GLP-1RAs treatment induced significant histological improvements in steatosis, hepatocellular ballooning, and lobular inflammation but nonsignificantly improved fibrosis, with the evidence for tirzepatide more robust than that for semaglutide and liraglutide. GLP-1RAs treatment significantly decreased serum alanine aminotransferase, aspartate aminotransferase, and γ-glutamyl transferase compared with control. GLP-1RAs also significantly improved liver stiffness, with semaglutide displaying the most obvious treatment effect. No drug-related adverse effects involving the liver were observed. CONCLUSION: GLP-1RAs decreased liver fat deposition and improved histological steatosis, hepatocellular ballooning, and lobular inflammation, without worsening of fibrosis in MASLD and MASH."
+  },
+  {
+   "pmid": "38302593",
+   "titel": "What is the pipeline for future medications for obesity?",
+   "jahr": "2025",
+   "journal": "Int J Obes (Lond)",
+   "erstautor": "Melson E",
+   "doi": "10.1038/s41366-024-01473-y",
+   "typ": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Obesity is a chronic disease associated with increased risk of obesity-related complications and mortality. Our better understanding of the weight regulation mechanisms and the role of gut-brain axis on appetite has led to the development of safe and effective entero-pancreatic hormone-based treatments for obesity such as glucagon-like peptide-1 (GLP-1) receptor agonists (RA). Semaglutide 2.4 mg once weekly, a subcutaneously administered GLP-1 RA approved for obesity treatment in 2021, results in 15-17% mean weight loss (WL) with evidence of cardioprotection. Oral GLP-1 RA are also under development and early data shows similar WL efficacy to semaglutide 2.4 mg. Looking to the next generation of obesity treatments, combinations of GLP-1 with other entero-pancreatic hormones with complementary actions and/or synergistic potential (such as glucose-dependent insulinotropic polypeptide (GIP), glucagon, and amylin) are under investigation to enhance the WL and cardiometabolic benefits of GLP-1 RA. Tirzepatide, a dual GLP-1/GIP receptor agonist has been approved for glycaemic control in type 2 diabetes as well as for obesity management leading in up to 22.5% WL in phase 3 obesity trials. Other combinations of entero-pancreatic hormones including cagrisema (GLP-1/amylin RA) and the triple agonist retatrutide (GLP-1/GIP/glucagon RA) have also progressed to phase 3 trials as obesity treatments and early data suggests that may lead to even greater WL than tirzepatide. Additionally, agents with different mechanisms of action to entero-pancreatic hormones (e.g. bimagrumab) may improve the body composition during WL and are in early phase clinical trials. We are in a new era for obesity pharmacotherapy where combinations of entero-pancreatic hormones approach the WL achieved with bariatric surgery. In this review, we present the efficacy and safety data for the pipeline of obesity pharmacotherapies with a focus on entero-pancreatic hormone-based treatments and we consider the clinical implications and challenges that the new era in obesity management may bring."
+  },
+  {
+   "pmid": "38511400",
+   "titel": "Gut hormones and appetite regulation",
+   "jahr": "2024",
+   "journal": "Curr Opin Endocrinol Diabetes Obes",
+   "erstautor": "Hong SH",
+   "doi": "10.1097/MED.0000000000000859",
+   "typ": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "PURPOSE OF REVIEW: Various gut hormones interact with the brain through delicate communication, thereby influencing appetite and subsequent changes in body weight. This review summarizes the effects of gut hormones on appetite, with a focus on recent research. RECENT FINDINGS: Ghrelin is known as an orexigenic hormone, whereas glucagon-like peptide-1 (GLP-1), glucose-dependent insulinotropic polypeptide (GIP), cholecystokinin (CCK), postprandial peptide YY (PYY), and oxyntomodulin (OXM) are known as anorexigenic hormones. Recent human studies have revealed that gut hormones act differently in various systems, including adipose tissue, beyond appetite and energy intake, and even involve in high-order thinking. Environmental factors including meal schedule, food contents and quality, type of exercise, and sleep deprivation also play a role in the influence of gut hormone on appetite, weight change, and obesity. Recently published studies have shown that retatrutide, a triple-agonist of GLP-1, GIP, and glucagon receptor, and orforglipron, a GLP-1 receptor partial agonist, are effective in weight loss and improving various metabolic parameters associated with obesity. SUMMARY: Various gut hormones influence appetite, and several drugs targeting these receptors have been reported to exert positive effects on weight loss in humans. Given that diverse dietary and environmental factors affect the actions of gut hormones and appetite, there is a need for integrated and largescale long-term studies in this field."
+  },
+  {
+   "pmid": "40865172",
+   "titel": "Weight management treatment in obesity",
+   "jahr": "2025",
+   "journal": "Med Clin (Barc)",
+   "erstautor": "Rubio-Herrera MA",
+   "doi": "10.1016/j.medcli.2025.107152",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Obesity is a chronic and relapsing disease associated with medical complications and mortality. Our improved understanding of the relevance of the gut-brain axis in regulating appetite and body weight has encouraged research into nutrient-stimulated gastroenteropancreatic hormones as a new therapeutic arsenal for the treatment of people living with obesity. Beyond the necessary lifestyle changes, this new era with second-generation drugs has been able to achieve weight loss of 15-25%, close to that of bariatric surgery. Glucagon-like peptide-1 (GLP-1) receptor agonists (RA), used as weekly injectable monotherapy or daily oral (semaglutide), achieve weight loss of 15-17%, with a good safety profile. The synergistic combination with other hormones (such as glucose-dependent insulinotropic polypeptide (GIP), glucagon, or amylin) will allow to increase weight loss, as well as improve cardiometabolic variables. Tirzepatide (a dual GLP-1/GIP receptor agonist) achieves weight loss of up to 22.5% at the highest doses. In this same range of weight loss, it is expected that it can be achieved with the combination of Cagrisema (cagrilintide 2.4mg plus semaglutide 2.4mg), combinations of GLP-1 RAs - glucagon agonists or with the triple combination of GLP-1 RAs-GIP-Glucagon (Retatrutide). In this review, we will examine the efficacy and safety of the drugs marketed and others under ongoing clinical trials for the treatment of persons with obesity, as well as the main challenges faced by both healthcare professionals and patients in maintaining long-term treatment."
+  },
+  {
+   "pmid": "39429457",
+   "titel": "Retatrutide",
+   "jahr": "2024",
+   "journal": "Clin Diabetes",
+   "erstautor": "Ramsbacher N",
+   "doi": "10.2337/cd24-0062",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "41375628",
+   "titel": "Diabetes Mellitus and Chronic Kidney Disease: The Future Is Being Surpassed",
+   "jahr": "2025",
+   "journal": "J Clin Med",
+   "erstautor": "Martínez-Castelao A",
+   "doi": "10.3390/jcm14238326",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Diabetes mellitus (DM) continues to be a global world health problem. Despite medical advances, both DM and chronic kidney disease (CKD) remain global health issues with high mortality and limited options to prevent end-stage renal failure. Current therapies encompass five classes of drugs: (1) angiotensin-converting-enzyme inhibitors (ACEI) or angiotensin II receptor blockers (AIIRB); (2) sodium-glucose-transporter 2 (SGLT2) inhibitors; (3) glucagon-like peptide-1 receptor agonists (GLP-1 RA); and (4) an antagonist of type 1 endothelin receptor (ET1R) with proven efficacy to reduce albuminuria and proteinuria. (5) The mineralocorticoid receptor antagonist (MRA) finerenone has been tested in RCTs as a kidney protective agent. In our review, we summarize many of the principal trials that have generated evidence in this regard. Many novel agents-many of them proven not only for DM management but also for the treatment of obesity with or without DM or heart failure (HF)-are now in development and may be added to the five classical pillars: other non-steroidal MRA (balcinrenone); aldosterone synthase inhibitors (baxdrostat and vicadrostat); other GLP-1 RA (tirzepatide, survodutide, retatrutide, and cagrilintide); ET1 R antagonists, (zibotentan); and soluble guanylate cyclase activators (avenciguat). These new agents aim to slow disease progression further and reduce cardiovascular risk. Future strategies rely on integrated, patient-centered approaches and personalized therapy to curb renal disease and its related complications."
+  },
+  {
+   "pmid": "42814954",
+   "titel": "Retatrutide, a Triple Hormone Receptor Agonist, for Treatment of Obesity",
+   "jahr": "2026",
+   "journal": "N Engl J Med",
+   "erstautor": "Jastreboff AM",
+   "doi": "10.1056/NEJMoa2604169",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: Retatrutide is a triple-receptor agonist of glucose-dependent insulinotropic polypeptide, glucagon-like peptide-1, and glucagon receptors. METHODS: In this phase 3, randomized, double-blind trial, we assigned adults with obesity without diabetes to receive a once-weekly subcutaneous injection of retatrutide (at a dose of 4 mg, 9 mg, or 12 mg) or placebo for 80 weeks. Primary outcomes (evaluated in the 9-mg and 12-mg groups each vs. placebo) were the percent change in body weight and the change in the WOMAC pain score (ranging from 1 to 10, with higher scores indicating worse pain) in the subgroup of 574 participants with knee osteoarthritis and the change in the apnea-hypopnea index in the 243 participants with obstructive sleep apnea. For weight-related end points, intercurrent events were handled by a treatment-regimen estimand (intention-to-treat [ITT]). For end points in participants with knee osteoarthritis or obstructive sleep apnea, a hybrid-treatment estimand was applied, with a hypothetical strategy for intercurrent events suggesting treatment failure; ITT results are also reported. RESULTS: A total of 2339 participants underwent randomization. The mean percent change in body weight in the retatrutide groups was -17.6% (4-mg dose), -23.7% (9-mg dose), and -25.0% (12-mg dose) versus -3.9% in the placebo group (differences, -19.8 and -21.0 percentage points, respectively; P<0.001 for both comparisons). Among the participants with knee osteoarthritis, the corresponding changes in the pain score in the retatrutide groups for the hybrid estimand were -3.2, -3.5, and -3.6 versus -1.9 with placebo (differences, -1.6 and -1.8 points; both P<0.001); the corresponding changes for the ITT estimand were -3.4, -3.9, and -4.1 versus -2.5 with placebo (differences, -1.4 and -1.6 points; both P<0.001). Among the participants with obstructive sleep apnea, the corresponding changes in events per hour in the retatrutide groups for the hybrid-treatment estimand were -22.9, -34.3, and 31.7 versus -9.9 (differences, -24.4 and -21.9; both P<0.001); the corresponding changes for the ITT estimand were -22.8, -34.3, and -32.1 versus -9.6 (differences, -24.7 and -22.5; both P<0.001). The most common adverse events were gastrointestinal. CONCLUSIONS: In adults with obesity, retatrutide resulted in significant weight reduction, reduced pain in participants with knee osteoarthritis, and reduced apnea-hypopnea events in participants with obstructive sleep apnea. (Funded by Eli Lilly; TRIUMPH-1 ClinicalTrials.gov number, NCT05929066.)."
+  },
+  {
+   "pmid": "37888925",
+   "titel": "Triple-Hormone-Receptor Agonist Retatrutide for Obesity",
+   "jahr": "2023",
+   "journal": "N Engl J Med",
+   "erstautor": "Bisson A",
+   "doi": "10.1056/NEJMc2310645",
+   "typ": [
+    "Letter",
+    "Comment"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "42208956",
+   "titel": "Beyond weight loss: multisystem benefits of obesity medications",
+   "jahr": "2026",
+   "journal": "Lancet Diabetes Endocrinol",
+   "erstautor": "Savas M",
+   "doi": "10.1016/S2213-8587(26)00100-2",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Obesity is increasingly managed with medications as disease-modifying therapies, reflecting its role as a gateway disease driving metabolic, cardiovascular, reproductive, neuropsychiatric, and mechanical conditions. This Review synthesises evidence from randomised controlled trials and high-quality meta-analyses on approved and late-stage investigational obesity medications, including phentermine-topiramate, naltrexone-bupropion, glucagon-like peptide-1 (GLP-1) receptor agonists (eg, liraglutide, semaglutide, subcutaneously and orally), and newer GLP-1 receptor agonist-based agents (eg, tirzepatide, survodutide, mazdutide, retatrutide, cagrilintide-semaglutide, and amycretin). We evaluated the effects of obesity medications across major obesity-related conditions, including type 2 diabetes, metabolic dysfunction-associated steatotic liver disease, chronic kidney disease, heart failure, cardiovascular disease, obstructive sleep apnoea syndrome, polycystic ovary syndrome (recently named polyendocrine metabolic ovarian syndrome), osteoarthritis, muscle mass, depression, quality of life, and food cravings, along with binge-eating disorders, substance use disorders, and neurodegenerative diseases. Overall, GLP-1-based and multiagonist therapies show beneficial effects across these comorbid conditions. While many benefits of obesity medications are mediated by weight loss, accumulating evidence indicates important weight loss-independent effects, particularly with GLP-1 receptor agonist-based therapies. A broader understanding of these pleiotropic effects is essential to inform personalised obesity management and optimise long-term clinical outcomes."
+  },
+  {
+   "pmid": "40291085",
+   "titel": "Efficacy and safety of retatrutide, a novel GLP-1, GIP, and glucagon receptor agonist for obesity treatment: a systematic review and meta-analysis of randomized controlled trials",
+   "jahr": "2025",
+   "journal": "Proc (Bayl Univ Med Cent)",
+   "erstautor": "Abdrabou Abouelmagd A",
+   "doi": "10.1080/08998280.2025.2456441",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "BACKGROUND: Retatrutide is a novel triple agonist targeting the receptors of glucagon-like peptide 1 (GLP-1), gastric inhibitory polypeptide (GIP), and glucagon. We sought to assess the efficacy and safety of retatrutide in obese patients with or without diabetes. METHODS: PubMed, Scopus, Web of Science, and Cochrane databases were searched from inception until May 2024. Eligible studies comprised randomized controlled trials that compared retatrutide with placebo in obese patients. We excluded studies on healthy populations, non-English texts, single-arm studies, animal studies, and abstracts. RevMan software (version 5.4) was used for analysis, with subgroup evaluation by dose (4 mg, 8 mg, 12 mg). RESULTS: Three randomized controlled trials, encompassing 878 patients, satisfied our inclusion criteria. Retatrutide significantly reduced body weight (mean difference [MD]: -14.33%), body mass index (MD: -5.38), waist circumference (MD: -10.51 cm), fasting plasma glucose (MD: -23.51 mg/dL), hemoglobin A1c (MD: -0.91%), and systolic and diastolic blood pressure (MD: -9.88 mm Hg and -3.88 mm Hg, respectively), all with P values < 0.00001. No significant difference in adverse events was observed between the groups (relative risk: 1.11, P = 0.24). CONCLUSION: Retatrutide demonstrated significant improvements in body weight and metabolic outcomes among adults with obesity and had an appropriate safety profile. However, additional large and long-term trials are required to establish these results."
+  },
+  {
+   "pmid": "39481534",
+   "titel": "The impact of weight loss on fat-free mass, muscle, bone and hematopoiesis health: Implications for emerging pharmacotherapies aiming at fat reduction and lean mass preservation",
+   "jahr": "2024",
+   "journal": "Metabolism",
+   "erstautor": "Stefanakis K",
+   "doi": "10.1016/j.metabol.2024.156057",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Similar to bariatric surgery, incretin receptor agonists have revolutionized the treatment of obesity, achieving up to 15-25 % weight loss in many patients, i.e., at a rate approaching that achieved with bariatric surgery. However, over 25 % of total weight lost from both surgery and pharmacotherapy typically comes from fat-free mass, including skeletal muscle mass, which is often overlooked and can impair metabolic health and increase the risk of subsequent sarcopenic obesity. Loss of muscle and bone as well as anemia can compromise physical function, metabolic rate, and overall health, especially in older adults. The myostatin-activin-follistatin-inhibin system, originally implicated in reproductive function and subsequently muscle regulation, appears to be crucial for muscle and bone maintenance during weight loss. Activins and myostatin promote muscle degradation, while follistatins inhibit their activity in states of negative energy balance, thereby preserving lean mass. Novel compounds in the pipeline, such as Bimagrumab, Trevogrumab, and Garetosmab-which inhibit activin and myostatin signaling-have demonstrated promise in preventing muscle loss while promoting fat loss. Either alone or combined with incretin receptor agonists, these medications may enhance fat loss while preserving or even increasing muscle and bone mass, offering a potential solution for improving body composition and metabolic health during significant weight loss. Since this dual therapeutic approach could help address the challenges of muscle and bone loss during weight loss, well-designed studies are needed to optimize these strategies and assess long-term benefits. For the time being, considerations like advanced age and prefrailty may affect the choice of suitable candidates in clinical practice for current and emerging anti-obesity medications due to the associated risk of sarcopenia."
+  },
+  {
+   "pmid": "39968298",
+   "titel": "Comparative efficacy of incretin drugs on glycemic control, body weight, and blood pressure in adults with overweight or obesity and with/without type 2 diabetes: a systematic review and network meta-analysis",
+   "jahr": "2025",
+   "journal": "Front Endocrinol (Lausanne)",
+   "erstautor": "Liu S",
+   "doi": "10.3389/fendo.2025.1513641",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Network Meta-Analysis",
+    "Systematic Review"
+   ],
+   "abstract": "BACKGROUND: The rapid development of multi-receptor drugs targeting glucagon-like peptide-1 receptor (GLP-1R) is driving significant advancements in the treatment of individuals with type 2 diabetes and obesity. This systematic review and network meta-analysis aims to compare the efficacy and safety of multi-receptor drugs in adults with overweight or obesity, with or without type 2 diabetes. METHODS: A systematic search was conducted in PubMed, Cochrane, Web of Science, Embase, CNKI, and WanFang databases up to May 12, 2024. Randomized controlled trials (RCTs) with an intervention duration of at least 12 weeks were included. The population of interest consisted of individuals with overweight or obesity, with or without type 2 diabetes. Eligible studies compared multi-receptor drugs with placebo or other multi-receptor drugs. The primary outcomes were weight reduction, glycated hemoglobin (HbA1c), fasting plasma glucose (FPG), blood pressure changes, and adverse events. Risk of bias was assessed using the version 2 of the Cochrane risk-of-bias tool (ROB2), and a random-effects network meta-analysis was performed using the frequentist approach. Confidence in effect estimates was evaluated using the Confidence In Network Meta-Analysis (CINeMA) framework. RESULTS: A total of 24 trials, involving 9165 participants, were included. Retatrutide (mean difference (MD): -11.91 kg, 95% CI: -19.00 to -4.82, P-score: 0.80, p: 0.0003) and Tirzepatide (MD: -12.78 kg, 95% CI: -16.10 to -9.46, P-score: 0.89, p < 0.0001) exhibited superior efficacy in reducing body weight, with all other agents except Mazdutide (MD: -5.31 kg, 95% CI: -9.78 to -0.84, P-score: 0.37, p: 0.0189) achieving reductions of over 8 kg. In patients with type 2 diabetes, all agents reduced HbA1c by over 1%, with Tirzepatide (MD: -1.87%, 95% CI: -2.15 to -1.59, P-score: 0.87, p < 0.0001) and Mazdutide (MD: -1.89%, 95% CI: -2.43 to -1.35, P-score: 0.88, p < 0.0001) showing the greatest effects on glycemic control. For blood pressure management, Tirzepatide significantly reduced systolic blood pressure (MD: -6.69 mmHg, 95% CI: -7.62 to -5.75, P-score: 0.84, p < 0.0001) and diastolic blood pressure (MD: -3.73 mmHg, 95% CI: -4.75 to -2.71, P-score: 0.92, p < 0.0001), with nearly all agents lowering systolic blood pressure by more than 5 mmHg. Non-diabetic participants showed more pronounced improvements in both weight and blood pressure. Safety analysis revealed that Tirzepatide had a favorable safety profile and all agents showed no significant impact on serious adverse events compared to placebo. CONCLUSIONS: Multi-receptor drugs demonstrated substantial therapeutic potential in weight management, glycemic control, and blood pressure regulation in adults with overweight or obesity, with or without diabetes, with a generally favorable safety profile. SYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/prospero/, identifier CRD42024554005."
+  },
+  {
+   "pmid": "41054801",
+   "titel": "Novel GLP-1-based Medications for Type 2 Diabetes and Obesity",
+   "jahr": "2026",
+   "journal": "Endocr Rev",
+   "erstautor": "Son JW",
+   "doi": "10.1210/endrev/bnaf036",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "The approvals of semaglutide and tirzepatide have set new benchmarks in the treatment of type 2 diabetes and obesity. Building on their success, novel glucagon-like peptide-1 (GLP-1)-based therapeutics are rapidly advancing. These next-generation agents engage not only GLP-1 receptors but also those for other gastro-entero-pancreatic hormones such as glucose-dependent insulinotropic polypeptide (GIP), glucagon, amylin, and peptide YY to enhance energy uptake, storage, and expenditure through synergistic mechanisms. Both GIP receptor agonism and antagonism, particularly in combination with GLP-1 receptor agonism, have shown promise. Maridebart cafraglutide, combining GLP-1 receptor agonism with GIP receptor antagonism, exemplifies this innovative approach. Glucagon coagonists like survodutide and mazdutide have demonstrated significant weight loss and improved glycemic control. Amylin-based agents, including CagriSema (cagrilintide + semaglutide) and amycretin, enhance satiety and glycemic outcomes through complementary actions. Further innovation is seen in triple agonists such as retatrutide, which targets GIP, GLP-1, and glucagon receptors to amplify metabolic effects. Meanwhile, the emergence of orally active small-molecule GLP-1 receptor agonists like danuglipron and orforglipron, which are resistant to enzymatic degradation, marks a major advance in patient-friendly drug delivery. This review explores the mechanisms, clinical development, and therapeutic potential of these novel agents, excluding already approved drugs like liraglutide, semaglutide, and tirzepatide. We highlight how multireceptor agonists and oral GLP-1-based therapies may reshape the future landscape of obesity and type 2 diabetes treatment by offering more effective and better-tolerated options."
+  },
+  {
+   "pmid": "40988099",
+   "titel": "Evaluating the Rates of Pancreatitis and Pancreatic Cancer Among GLP-1 Receptor Agonists: A Systematic Review and Meta-Analysis of Randomised Controlled Trials",
+   "jahr": "2025",
+   "journal": "Endocrinol Diabetes Metab",
+   "erstautor": "Wen J",
+   "doi": "10.1002/edm2.70113",
+   "typ": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+   ],
+   "abstract": "AIMS: This meta-analysis evaluates the rates of pancreatitis/pancreatic cancer among glucagon-like peptide-1 receptor agonists (GLP-1 RAs) in randomised controlled trials (RCTs). METHODS: Following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA), a systematic search was performed in PubMed, Embase, and Cochrane Library for GLP-1 RA RCTs that evaluated pancreatitis/pancreatic cancer. A meta-analysis was conducted to evaluate this risk; subgroup analysis was performed with and without background medications. RESULTS: 62 studies utilising dulaglutide, exenatide, liraglutide, semaglutide, beinaglutide, retatrutide, or tirzepatide, with 66,232 patients, mean age of 58.3 years (14.4 to 68), and mean follow-up of 43.5 weeks (1 to 198) were included in this study. Meta-analysis showed a significantly increased risk of pancreatitis (RR: 1.44, 95% CI 1.09-1.89, p = 0.009), but not when stratified by background medications (RR: 1.28, 95% CI 0.87-1.87) and without background medications (RR: 1.37, 95% CI 0.91-2.05). Pancreatic cancer and GLP-1 RA use showed no significant association (RR: 1.30, 95% CI 0.86-1.97). However, a significant increase was found with background medications (RR: 1.85, 95% CI 1.05-3.26, p = 0.03), but not without (RR: 0.81, 95% CI 0.43-1.55). CONCLUSION: GLP-1 RAs carry a slightly increased risk of pancreatitis, which is not significant when stratified by background medication use. Overall risk for pancreatic cancer was not observed, but a slight association was found when stratified with background medications. However, this difference is likely minimal, given the numerous studies excluded from the meta-analysis where both treatment arms had zero events."
+  },
+  {
+   "pmid": "40741227",
+   "titel": "Triple Agonism Based Therapies for Obesity",
+   "jahr": "2025",
+   "journal": "Curr Cardiovasc Risk Rep",
+   "erstautor": "Goldney J",
+   "doi": "10.1007/s12170-025-00770-z",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "PURPOSE OF THE REVIEW: Glucagon-like peptide 1 (GLP-1) receptor agonists (RA) have transformed obesity and type 2 diabetes (T2D) management. Tirzepatide, the first dual GLP-1/glucose-dependent insulinotropic polypeptide (GIP) RA approved for both conditions, has paved the way for next-generation incretin-based therapies. Among these, triple agonists targeting GLP-1, GIP, and glucagon receptors represent a promising next step. This review outlines the rationale for their development and summarizes clinical trial data, focusing on retatrutide, the most advanced candidate. RECENT FINDINGS: Retatrutide is the first triple agonist (acting on GLP-1/GIP/glucagon receptors) with published phase 2 data in people with obesity as well as in people with T2D. Retatrutide achieved up to 24.2% mean weight loss after 48 weeks in individuals with obesity and 16.9% in those with T2D after 36 weeks. In the T2D study, HbA1c improved by 2.2%, with 82% of participants reaching HbA1c ≤ 6.5%. Retatrutide also improved multiple cardiometabolic parameters, including blood pressure, lipids, waist circumference, and liver fat (82% reduction in hepatic steatosis). Gastrointestinal symptoms were the most common side effects; no major safety concerns were observed. A comprehensive phase 3 program is ongoing to evaluate efficacy, safety, and cardiovascular/renal outcomes in people with obesity and/or T2D. Other unimolecular triple agonists and combination regimens involving tirzepatide with additional mono agonists are also in development. SUMMARY: Retatrutide, a triple agonist now in phase 3 trials, has the potential to become the most effective pharmacological treatment for obesity while also offering substantial benefits in T2D management and other cardiometabolic risk factors."
+  },
+  {
+   "pmid": "39096466",
+   "titel": "Pharmacological Treatment of Binge Eating Disorder and Frequent Comorbid Diseases",
+   "jahr": "2024",
+   "journal": "CNS Drugs",
+   "erstautor": "Himmerich H",
+   "doi": "10.1007/s40263-024-01111-1",
+   "typ": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Binge eating disorder (BED) is the most common specific eating disorder (ED). It is frequently associated with attention deficit hyperactivity disorder (ADHD), depression, bipolar disorder (BD), anxiety disorders, alcohol and nicotine use disorder, and obesity. The aim of this narrative review was to summarize the evidence for the pharmacological treatment of BED and its comorbid disorders. We recommend the ADHD medication lisdexamfetamine (LDX) and the antiepileptic and antimigraine drug topiramate for the pharmacological treatment of BED. However, only LDX is approved for the treatment of BED in some countries. Medications to treat diseases frequently comorbid with BED include atomoxetine and LDX for ADHD; citalopram, fluoxetine, sertraline, duloxetine, and venlafaxine for anxiety disorders and depression; aripiprazole for manic episodes of BD; lamotrigine, lirasidone and lumateperone for depressive episodes of BD; naltrexone for alcohol use disorder; bupropion for nicotine use disorder; and liraglutide, semaglutide, and the combination of bupropion and naltrexone for obesity. As obesity is a frequent health consequence of BED, weight gain-inducing medications, such as the atypical antipsychotics olanzapine or clozapine, the novel antidepressant mirtazapine and tricyclic antidepressants, and the mood stabilizer valproate should be avoided where possible. It is currently unclear whether the novel and promising glucagon, glucose-dependent insulinotropic polypeptide (GIP), and glucagon-like peptide 1 (GLP-1) receptor agonists like tirzepatide and retatrutide help with BED and its comorbidities. However, these compounds have been reported to reduce binge eating in individuals with obesity or overweight."
+  },
+  {
+   "pmid": "39515565",
+   "titel": "The power of three: Retatrutide's role in modern obesity and diabetes therapy",
+   "jahr": "2024",
+   "journal": "Eur J Pharmacol",
+   "erstautor": "Abdul-Rahman T",
+   "doi": "10.1016/j.ejphar.2024.177095",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "The increasing prevalence of obesity and type 2 diabetes mellitus has resulted in a significant challenge to public health throughout the globe. It required the development of novel therapeutic approaches. Retatrutide is a groundbreaking triple agonist that targets glucagon receptors, gastric inhibitory polypeptide, and glucagon-like peptide-1. Retatrutide's complex mechanism of action involves a synergistic interaction among these receptors, resulting in increased insulin secretion, improved glucose homeostasis, and refined appetite modulation. Clinical trials in phases 1 to 3 have demonstrated significant efficacy, highlighted by significant reductions in body weight and favorable glycemic control outcomes. Additionally, retatrutide shows promise in mitigating cardiovascular risk factors and addressing metabolic dysfunction-associated steatotic liver disease. However, careful attention is required to delineate its long-term safety profile, explore its potential in special populations, unravel its adjunctive therapeutic roles, and elucidate its mechanisms in pediatric cohorts. As a transformative therapeutic modality, retatrutide represents a beacon of hope, signifying transformative changes in the management landscape of obesity and type 2 diabetes mellitus (T2DM), and warranting continued exploration and refinement in clinical practice. This narrative review examines the therapeutic potential of retatrutide in the management of obesity and T2DM."
+  },
+  {
+   "pmid": "40040445",
+   "titel": "Sex Differences in the Efficacy of Glucagon-Like Peptide-1 Receptor Agonists for Weight Reduction: A Systematic Review and Meta-Analysis",
+   "jahr": "2025",
+   "journal": "J Diabetes",
+   "erstautor": "Yang Y",
+   "doi": "10.1111/1753-0407.70063",
+   "typ": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+   ],
+   "abstract": "AIM: To verify sex differences of GLP-1RAs for weight reduction. METHODS: We searched RCTs reporting weight change by sex from PubMed, Web of Science, Embase, Cochrane Library, and ClinicalTrials registries. Meta-regression was performed to evaluate the association between weight reduction and sex differences. Subgroup analyses were stratified by individual GLP-1RA medications, dose, treatment duration, indication, type of control, background treatment, and baseline weight. The study protocol was registered (CRD42023480167). RESULTS: Fourteen studies covering dulaglutide, exenatide, liraglutide, semaglutide, and retatrutide were included in this study. The meta-analysis showed that females lost more weight than males (MD 1.04 kg [95% CIs 0.70-1.38]; MD 1.69% [95% CI 0.78-2.61]). The pooled results of GLP-1RAs indicated similar results (MD 0.88 kg [95% CIs 0.67-1.09]). Meta-regression illustrated that substantial weight reduction was significantly relevant to greater gender differences (β = -0.19 [95% CIs -0.29 to -0.09]). Subgroup analysis demonstrated that indications for weight reduction increased the gender difference in weight reduction (MD 4.21 kg [95% CIs 1.75-6.67]). Background treatment, dose, duration of treatment, baseline weight, and type of control had no subgroup differences in the sex difference in weight reduction of GLP-1RAs. Dulaglutide (MD 0.88 kg [95% CIs 0.63-1.12]) and semaglutide (MD 1.04 kg [95% CIs 0.45-1.63]) showed statistically significant differences in weight reduction between males and females. No gender difference was observed in the exenatide subgroup analysis. CONCLUSIONS: Females lost more weight than males when treated with GLP-1RAs for weight reduction. The sex difference in weight reduction became more pronounced as the degree of weight reduction increased. Indications for obesity could magnify this sex difference."
+  },
+  {
+   "pmid": "40843857",
+   "titel": "Obesity: Clinical Impact, Pathophysiology, Complications, and Modern Innovations in Therapeutic Strategies",
+   "jahr": "2025",
+   "journal": "Medicines (Basel)",
+   "erstautor": "Ullah MI",
+   "doi": "10.3390/medicines12030019",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Obesity is a growing global health concern with widespread impacts on physical, psychological, and social well-being. Clinically, it is a major driver of type 2 diabetes (T2D), cardiovascular disease (CVD), non-alcoholic fatty liver disease (NAFLD), and cancer, reducing life expectancy by 5-20 years and imposing a staggering economic burden of USD 2 trillion annually (2.8% of global GDP). Despite its significant health and socioeconomic impact, earlier obesity medications, such as fenfluramine, sibutramine, and orlistat, fell short of expectations due to limited effectiveness, serious side effects including valvular heart disease and gastrointestinal issues, and high rates of treatment discontinuation. The advent of glucagon-like peptide-1 (GLP-1) receptor agonists (e.g., semaglutide, tirzepatide) has revolutionized obesity management. These agents demonstrate unprecedented efficacy, achieving 15-25% mean weight loss in clinical trials, alongside reducing major adverse cardiovascular events by 20% and T2D incidence by 72%. Emerging therapies, including oral GLP-1 agonists and triple-receptor agonists (e.g., retatrutide), promise enhanced tolerability and muscle preservation, potentially bridging the efficacy gap with bariatric surgery. However, challenges persist. High costs, supply shortages, and unequal access pose significant barriers to the widespread implementation of obesity treatment, particularly in low-resource settings. Gastrointestinal side effects and long-term safety concerns require close monitoring, while weight regain after medication discontinuation emphasizes the need for ongoing adherence and lifestyle support. This review highlights the transformative potential of incretin-based therapies while advocating for policy reforms to address cost barriers, equitable access, and preventive strategies. Future research must prioritize long-term cardiovascular outcome trials and mitigate emerging risks, such as sarcopenia and joint degeneration. A multidisciplinary approach combining pharmacotherapy, behavioral interventions, and systemic policy changes is critical to curbing the obesity epidemic and its downstream consequences."
+  },
+  {
+   "pmid": "38183334",
+   "titel": "Recent advances in the treatment of type 2 diabetes mellitus using new drug therapies",
+   "jahr": "2024",
+   "journal": "Kaohsiung J Med Sci",
+   "erstautor": "Chong K",
+   "doi": "10.1002/kjm2.12800",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Several recent advances provide multiple health benefits to individuals with type 2 diabetes mellitus (T2DM). Pharmacological therapy is governed by person-centered factors, including comorbidities and treatment goals. Adults with T2DM who have an established/high risk of atherosclerotic cardiovascular disease, heart failure, and/or chronic kidney disease, require a treatment regimen that includes agents that are proven to reduce cardiorenal risk. Weight management plays a key role in reducing glucose for patients with T2DM. A glucose-reduction treatment regimen must consider weight management. Sodium glucose co-transporter 2 (SGLT2) inhibitors reduce the risk of heart failure, cardiovascular and renal events. Glucagon-like peptide-1 (GLP-1) receptor agonists allow better control of glycemia, promote weight loss and reduce the risk of cardiovascular events. Newer Glucose-dependent insulinotropic polypeptide (GIP) and GLP-1 dual agonist, which activate GIP and GLP-1 receptors improve glycemic control and promote greater weight loss than GLP-1 receptor agonists. Several novel drugs are in the clinical development phase. This review pertains to recent advances in pharmacological management of type 2 diabetes."
+  },
+  {
+   "pmid": "42296503",
+   "titel": "Benefits and Harms of Pharmacologic Treatments in Adults With Overweight or Obesity: A Living Systematic Review and Network Meta-analysis for the American College of Physicians",
+   "jahr": "2026",
+   "journal": "Ann Intern Med",
+   "erstautor": "Damen JAA",
+   "doi": "10.7326/ANNALS-24-03764",
+   "typ": [
+    "Journal Article",
+    "Systematic Review",
+    "Network Meta-Analysis"
+   ],
+   "abstract": "BACKGROUND: Overweight and obesity are closely linked to diseases such as type 2 diabetes, coronary heart disease, and stroke and have been shown to increase mortality risk. PURPOSE: To conduct a living systematic review of pharmacologic treatments for weight management in overweight or obesity in adults. DATA SOURCES: MEDLINE and Cochrane Central Register of Controlled Trials until October 2025. STUDY SELECTION: Randomized controlled trials that compared pharmacologic treatments for weight management (dulaglutide, exenatide, liraglutide, lixisenatide, naltrexone-bupropion, orforglipron, phentermine, phentermine-topiramate, retatrutide, semaglutide, semaglutide-cagrilintide, tirzepatide, or any combination with or without lifestyle intervention [LI]) for overweight or obesity (body mass index ≥25 kg/m2) in adults for outcomes such as mortality, weight loss, and quality of life. DATA EXTRACTION: One reviewer extracted data and assessed risk of bias and certainty of the evidence; a second reviewer verified these data. DATA SYNTHESIS: The review included 69 studies with a total of 112 511 participants. Thirty-seven studies were at low risk of bias. In meta-analyses, nearly all studied interventions were more effective than placebo and/or LI in reducing weight, but more discontinuations due to adverse events were observed. Semaglutide probably reduced mortality and major adverse cardiovascular events (MACE), and both semaglutide and tirzepatide led to the greatest weight loss compared with placebo and/or LI in pairwise and network meta-analyses. Evidence for outcomes such as mortality, MACE, and serious adverse events was limited. LIMITATION: Direct head-to-head comparisons of different treatments were limited. CONCLUSION: Nearly all studied interventions were more effective than placebo and/or LI in reducing weight. Semaglutide and tirzepatide showed the most favorable results across outcomes. PRIMARY FUNDING SOURCE: American College of Physicians. (PROSPERO: CRD42023491646)."
+  },
+  {
+   "pmid": "39318607",
+   "titel": "Effects of once-weekly subcutaneous retatrutide on weight and metabolic markers: A systematic review and meta-analysis of randomized controlled trials",
+   "jahr": "2024",
+   "journal": "Metabol Open",
+   "erstautor": "Pasqualotto E",
+   "doi": "10.1016/j.metop.2024.100321",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "AIM: To assess the effects of once-weekly subcutaneous retatrutide on weight and metabolic markers and the occurrence of side effects in patients with overweight, obesity and/or type 2 diabetes (T2D). METHODS: PubMed, Embase, Cochrane Library, and ClinicalTrials.gov databases were systematically searched for placebo-controlled, randomized clinical trials (RCTs) published up until February 23, 2024. Weighted mean differences (WMDs) for continuous outcomes and risk ratios (RRs) for binary endpoints were computed, with 95 % confidence intervals (CIs). RESULTS: A total of three studies were included, comprising 640 patients, of whom 510 were prescribed retatrutide. Compared with placebo, retatrutide significantly reduced body weight (WMD -10.66 kg; 95 % CI -17.63, -3.69), body mass index (WMD -4.53 kg/m2; 95 % CI -7.51, -1.55), and waist circumference (WMD -6.61 cm; 95 % CI -13.17, -0.05). In addition, retatrutide significantly increased the proportion of patients who achieved a weight reduction of ≥5 % (RR 2.92; 95 % CI 2.17-3.93), ≥10 % (RR 9.32; 95 % CI 4.56-19.06), ≥15 % (RR 18.40; 95 % CI 6.00-56.42), and ≥20 % (RR 16.61; 95 % CI 4.17-66.12). CONCLUSIONS: In this meta-analysis, the use of once-weekly subcutaneous retatrutide was associated with a significant reduction in body weight and improvement of metabolic markers in patients with overweight, obesity and/or T2D, compared with placebo, with an increase in non-severe gastrointestinal and hypersensitivity adverse events. Phase 3 RCTs are expected to shed further light on the efficacy and safety of once-weekly subcutaneous retatrutide over the long term."
+  },
+  {
+   "pmid": "40685589",
+   "titel": "Efficacy and Safety of GLP-1 Receptor Agonists, Dual Agonists, and Retatrutide for Weight Loss in Adults With Overweight or Obesity: A Bayesian NMA",
+   "jahr": "2025",
+   "journal": "Obesity (Silver Spring)",
+   "erstautor": "Sinha B",
+   "doi": "10.1002/oby.24360",
+   "typ": [
+    "Journal Article",
+    "Network Meta-Analysis",
+    "Systematic Review"
+   ],
+   "abstract": "OBJECTIVE: To compare the efficacy and safety of GLP-1 receptor agonists (GLP-1RAs), dual agonists (GLP-1RAs/GIP or GCGR), and retatrutide (GLP-1/GIP/glucagon) for weight loss in adults with overweight or obesity. METHODS: We conducted a systematic review and Bayesian network meta-analysis (NMA) of 19 randomized controlled trials (RCTs) including 29,506 adults (BMI ≥ 25 kg/m2), assessing liraglutide, semaglutide, survodutide, tirzepatide, retatrutide, and placebo. Outcomes included mean weight loss, achievement of ≥ 5%, ≥ 10%, and ≥ 15% weight loss, waist circumference (WC), BMI, and adverse events (AEs) at ≥ 36 weeks. Subgroup and meta-regression analyses evaluated the impact of diabetes status, sex, age, and BMI. RESULTS: Retatrutide and dual agonists achieved equivalent mean weight loss (-11.0 kg), surpassing GLP-1RAs (-9.0 kg), with retatrutide excelling at achieving ≥ 15% weight loss (OR 54.6). Dual agonists and GLP-1RAs followed (OR 16.4 and 9.0, respectively). Retatrutide had the highest AE risk. Meta-regression showed type 2 diabetes mellitus (T2DM) reduced weight loss by 4.338 kg for GLP-1RAs and 5.016 kg for dual agonists, with enhanced outcomes in female-dominant or high-BMI cohorts. CONCLUSIONS: Retatrutide offers superior weight loss efficacy but with a higher AE risk. Dual agonists provide a favorable efficacy-safety balance. Personalized treatment selection based on patient characteristics is recommended."
+  },
+  {
+   "pmid": "38681750",
+   "titel": "Advancements in pharmacological treatment of NAFLD/MASLD: a focus on metabolic and liver-targeted interventions",
+   "jahr": "2024",
+   "journal": "Gastroenterol Rep (Oxf)",
+   "erstautor": "Ciardullo S",
+   "doi": "10.1093/gastro/goae029",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "In the present narrative review, we have summarized evidence on the pharmacological treatment of non-alcoholic fatty liver disease (NAFLD)/metabolic dysfunction-associated steatotic liver disease (MASLD). We start by reviewing the epidemiology of the condition and its close association with obesity and type 2 diabetes. We then discuss how randomized-controlled trials are performed following guidance from regulatory agencies, including differences and similarities between requirements of the US Food and Drug Administration and the European Medicine Agency. Difficulties and hurdles related to limitations of liver biopsy, a large number of screening failures in recruiting patients, as well as unpredictable response rates in the placebo group are evaluated. Finally, we recapitulate the strategies employed for potential drug treatments of this orphan condition. The first is to repurpose drugs that originally targeted T2DM and/or obesity, such as pioglitazone, glucagon-like peptide 1 receptor agonists (liraglutide and semaglutide), multi-agonists (tirzepatide and retatrutide), and sodium-glucose transporter 2 inhibitors. The second is to develop drugs specifically targeting NAFLD/MASLD. Among those, we focused on resmetirom, fibroblast growth factor 21 analogs, and lanifibranor, as they are currently in Phase 3 of their clinical trial development. While many failures have characterized the field of pharmacological treatment of NAFLD/MASLD in the past, it is likely that approval of the first treatments is near. As occurs in many chronic conditions, combination therapy might lead to better outcomes. In the case of non-alcoholic steatohepatitis, we speculate that drugs treating underlying metabolic co-morbidities might play a bigger role in the earlier stages of disease, while liver-targeting molecules will become vital in patients with more advanced disease in terms of inflammation and fibrosis."
+  },
+  {
+   "pmid": "40042613",
+   "titel": "[Glucagon-like peptide-1 receptor agonists: a new pharmacological treatment option for psychiatric illnesses?]",
+   "jahr": "2025",
+   "journal": "Nervenarzt",
+   "erstautor": "Himmerich H",
+   "doi": "10.1007/s00115-025-01813-x",
+   "typ": [
+    "English Abstract",
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Albiglutide, dulaglutide, exenatide, liraglutide, lixisenatide, orforglipron and semaglutide are glucagon-like peptide‑1 (GLP-1) receptor agonists. Tirzepatide targets not only GLP‑1 but also glucose-dependent insulinotropic peptide (GIP) receptors and retatrutide is a triple GLP‑1, GIP and glucagon receptor agonist. The GLP‑1 receptor agonists increase insulin release but suppress glucagon release. They slow down the emptying of the stomach and thus prevent blood sugar spikes. They reduce appetite and food intake. In the brain GLP‑1 receptor agonists lead to a better glycemic control and they appear to have anti-inflammatory and neuroprotective effects. It has been reported that GLP‑1 receptor agonists reduce oxidative stress and apoptosis, lower the risk of ischemia and promote neurogenesis. The GLP‑1 receptor agonists can also influence dopaminergic signal transduction in the nucleus accumbens. Therefore, they could modify the effect of cocaine, alcohol and nicotine. Preliminary investigations provide indications of the therapeutic benefits of GLP‑1 receptor agonists for people with dementia, eating disorders, psychopharmacologically induced weight gain, depression, anxiety and substance use disorders. Typical accompanying adverse reactions are gastrointestinal side effects, such as nausea, vomiting, diarrhea, eructation and gastroesophageal reflux. More severe side effects include pancreatitis, allergic reactions, renal function disorders and possibly an increased risk of thyroid cancer. Zu den Glucagon-like-peptide-1(GLP-1)-Rezeptoragonisten gehören Albiglutid, Dulaglutid, Exenatid, Liraglutid, Lixisenatid, Orforglipron und Semaglutid. Tirzepatid bindet nicht nur an GLP-1-, sondern auch an glukoseabhängige insulinotrope Peptidrezeptoren (GIP). Retratrutid ist ein dreifacher GLP-1-, GIP- und Glucagonrezeptoragonist. GLP-1-Rezeptoragonisten erhöhen die Insulin- und unterdrücken die Glucagonfreisetzung. Sie verlangsamen die Magenentleerung und verhindern so Blutzuckerspitzen. Sie reduzieren den Appetit und die Nahrungsaufnahme. Im Gehirn führen GLP-1-Rezeptoragonisten zu einer besseren Blutzuckerkontrolle, und sie scheinen entzündungshemmende und neuroprotektive Wirkungen zu haben. Es wurde berichtet, dass GLP-1-Rezeptoragonisten oxidativen Stress und apoptotische Prozesse reduzieren, das Risiko einer Ischämie senken und die Neurogenese fördern. GLP-1-Rezeptoragonisten können auch die dopaminerge Signaltransduktion im Nucleus accumbens beeinflussen. Somit könnten sie die Wirkung von Kokain, Alkohol und Nikotin verändern. Vorläufige Untersuchungen weisen auf einen therapeutischen Nutzen von GLP-1-Rezeptoragonisten für Patientinnen und Patienten mit Demenz, Essstörungen, psychopharmakologisch induzierter Gewichtszunahme, Depressionen, Angststörungen und Abhängigkeitserkrankungen hin. Typische unerwünschte Begleiterscheinungen sind gastrointestinale Nebenwirkungen wie Übelkeit, Erbrechen, Durchfall, Aufstoßen und gastroösophagealer Reflux. Zu den schwerwiegenderen Nebenwirkungen gehören Pankreatitis, allergische Reaktionen, Nierenfunktionsstörungen und möglicherweise ein erhöhtes Schilddrüsenkarzinomrisiko."
+  },
+  {
+   "pmid": "39726721",
+   "titel": "Why are we still in need for novel anti-obesity medications?",
+   "jahr": "2024",
+   "journal": "Lancet Reg Health Eur",
+   "erstautor": "Novikoff A",
+   "doi": "10.1016/j.lanepe.2024.101098",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "From the pioneering moment in 1987 when the insulinotropic effect of glucagon-like peptide 1 (GLP-1) was first demonstrated in humans, to today's pharmaceutical gold rush for GLP-1-based treatments of obesity, the journey of GLP-1 pharmacology has been nothing short of extraordinary. The sequential conceptual developments of long-acting GLP-1 receptor (GLP-1R) mono-agonists, GLP-1R/glucose-dependent insulinotropic polypeptide receptor (GIPR) dual-agonists, and GLP-1R/GIPR/glucagon receptor (GcgR) triple agonists, have led to profound body weight-lowering capacities, with benefits that extend past obesity and towards obesity-associated diseases. The GLP-1R/GIPR dual-agonist tirzepatide has demonstrated a remarkable 23% body weight reduction in individuals with obesity over 72 weeks, eclipsing the average result achieved by certain types of bariatric surgery. Meanwhile, the GLP-1R/GIPR/GcgR triple-agonist retatrutide achieves similar body weight loss (∼25%) in just two-thirds of the time, potentially surpassing the efficacy of Roux-en-Y gastric bypass. These remarkable achievements rightfully raise the question whether and why there is still need for novel anti-obesity medications (AOMs) in the future."
+  },
+  {
+   "pmid": "40728138",
+   "titel": "Efficacy and safety of retatrutide for the treatment of obesity: a systematic review of clinical trials",
+   "jahr": "2025",
+   "journal": "J Basic Clin Physiol Pharmacol",
+   "erstautor": "Misra S",
+   "doi": "10.1515/jbcpp-2025-0113",
+   "typ": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "abstract": "INTRODUCTION: Obesity is a major public health issue linked to various health complications. Retatrutide, a triple agonist peptide targeting the glucagon receptor, GIP receptor, and GLP-1 receptor, shows promise in addressing this need. CONTENT: This systematic review assessed the safety and efficacy of retatrutide for obesity treatment using available clinical trial data. We conducted a comprehensive search of databases, including PubMed, Cochrane and ClinicalTrials.gov, from their inception until March 15, 2025 following PRISMA guidelines. SUMMARY: Three articles were included in this systematic review, screening a total of 1,082 patients, with 691 randomly assigned to groups. The average age of participants was 54.26 ± 9.9 years, consisting of 335 men (48 %) and 356 women (52 %). Retatrutide was administered to 510 participants, while 130 received a placebo. The 12 mg dosage of retatrutide showed the most significant reductions in body weight, body mass index, and waist circumference. It also led to a higher percentage of patients achieving weight losses of ≥5 , 10, 15, and 20 %. Gastrointestinal adverse effects were the most commonly reported. OUTLOOK: Weekly subcutaneous injections of retatrutide in obese patients resulted in significant weight loss and metabolic improvements compared to a placebo."
+  },
+  {
+   "pmid": "40022548",
+   "titel": "The promise of glucagon-like peptide 1 receptor agonists (GLP-1RA) for the treatment of obesity: a look at phase 2 and 3 pipelines",
+   "jahr": "2025",
+   "journal": "Expert Opin Investig Drugs",
+   "erstautor": "Madsbad S",
+   "doi": "10.1080/13543784.2025.2472408",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "INTRODUCTION: GLP-1-based therapies have changed the treatment of overweight/obesity. Liraglutide 3.0 mg daily, the first GLP-1 RA approved for treatment of overweight, induced a weight loss of 6-8%, Semaglutide 2.4 mg once weekly improved weight loss to about 12-15%, while the dual GIP/GLP-1 receptor agonist tirzepatide once weekly has induced a weight loss of about 20% in obese people without diabetes. AREAS COVERED: This review describes results obtained with GLP-1 mono-agonists, GLP-1/GIP dual agonists, GLP-1/glucagon co-agonists, and the triple agonist retatrutide (GIP/GLP-1/glucagon), which have shown beneficial effect both on body weight and steatotic liver disease. A combination of semaglutide (a GLP-1 agonist) and cagrilintide (a long-acting amylin analogue) for weekly administration is currently in phase III development, and so is oral semaglutide and several non-peptide small molecule GLP-1 agonists for oral administration. The adverse events with the GLP-1-based therapies are primarily gastrointestinal and include nausea, vomiting, obstipation, or diarrhea, which often can be mitigated by slow up titration. EXPERT OPINION: The GLP-1-based therapies will change the treatment of obesity and its comorbidities including steatotic liver disease in the future. Outstanding question is maintenance of the weight loss, possibly pharmacological treatment needs to be life-long."
+  },
+  {
+   "pmid": "41025003",
+   "titel": "Efficacy and safety of anti-obesity drugs in metabolic dysfunction-associated steatotic liver disease: An updated review",
+   "jahr": "2025",
+   "journal": "World J Gastroenterol",
+   "erstautor": "Concepción-Zavaleta MJ",
+   "doi": "10.3748/wjg.v31.i37.111435",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Obesity is a major driver of metabolic dysfunction-associated steatotic liver disease (MASLD) and its progressive form, metabolic dysfunction-associated steatohepatitis (MASH). As the global prevalence of obesity continues to rise, the burden of MASLD/MASH is increasing, posing significant challenges to healthcare systems. The use of anti-obesity medications (AOMs) in this population is complex due to altered hepatic metabolism, safety concerns, and potential hepatotoxicity. Recent advances in pharmacologic agents, such as glucagon-like peptide-1 (GLP-1) receptor agonists (GLP-1 RAs), dual GLP-1/glucose-gastric inhibitory polypeptide (GIP) agonists, and triple GLP-1/GIP/glucagon agonists, have shown promising metabolic effects in the general population. Among these, GLP-1 RAs (e.g., liraglutide and semaglutide) consistently demonstrate hepatic benefits, including reductions in hepatic steatosis, improvements in liver enzyme profiles, and attenuation of fibrosis progression. Tirzepatide, a dual GLP-1/GIP agonist, has shown superior weight loss effects compared to GLP-1 receptor agonist monotherapy, with emerging but still limited data on hepatic outcomes in MASLD/MASH. Retatrutide, a triple agonist, has produced the most pronounced metabolic effects to date, although its impact on liver histology remains underexplored. Other AOMs, such as bupropion-naltrexone and phentermine-topiramate, require cautious use due to potential hepatotoxicity. Importantly, advanced MASLD may alter drug pharmacokinetics, underscoring the need for individualized therapy and close monitoring. This review provides an updated synthesis of the efficacy and safety of current and emerging AOMs in patients with MASLD/MASH and highlights the urgent need for further research to define optimal pharmacological strategies in this high-risk population."
+  },
+  {
+   "pmid": "40094000",
+   "titel": "Incretin triple agonist retatrutide (LY3437943) alleviates obesity-associated cancer progression",
+   "jahr": "2025",
+   "journal": "NPJ Metab Health Dis",
+   "erstautor": "Marathe SJ",
+   "doi": "10.1038/s44324-025-00054-5",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Medical therapeutics for weight loss are changing the landscape of obesity but impacts on obesity-associated cancer remain unclear. We report that in pre-clinical models with significant retatrutide (RETA, LY3437943)-induced weight loss, pancreatic cancer engraftment was reduced, tumor onset was delayed, and progression was attenuated resulting in a 14-fold reduction in tumor volume compared to only 4-fold reduction in single agonist semaglutide-treated mice. Despite weight re-gain after RETA withdrawal, the anti-tumor benefits of RETA persisted. Remarkably, RETA-induced protection extends to a lung cancer model with 50% reduced tumor engraftment, significantly delayed tumor onset, and mitigated tumor progression, with a 17-fold reduction in tumor volume compared to controls. RETA induced immune reprogramming systemically and in the tumor microenvironment with durable anti-tumor immunity evidenced by elevated circulating IL-6, increased antigen presenting cells, reduced immunosuppressive cells, and activation of pro-inflammatory pathways. In sum, our findings suggest that patients with RETA-mediated weight loss may also benefit from reduced cancer risk and improved outcomes."
+  },
+  {
+   "pmid": "40583149",
+   "titel": "Efficacy of Tirzepatide, Retatrutide, and Semaglutide for Weight Loss in Obese Individuals Without Diabetes",
+   "jahr": "2025",
+   "journal": "Acad Emerg Med",
+   "erstautor": "Olowo-Oribi BA",
+   "doi": "10.1111/acem.70088",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "40206909",
+   "titel": "Comparative Effectiveness of Semaglutide, Liraglutide, Orlistat, and Phentermine for Weight Loss in Obese Individuals: A Systematic Review",
+   "jahr": "2025",
+   "journal": "Cureus",
+   "erstautor": "Patel JP",
+   "doi": "10.7759/cureus.80321",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Obesity, a multifaceted and chronic condition characterized by excessive fat accumulation, poses significant risks to overall health and is associated with various metabolic and cardiovascular complications. This literature review evaluates and compares the effectiveness of four pharmacological agents semaglutide, liraglutide, orlistat, phentermine, and emerging agents like setmelanotide, amycretin, retatrutide, cagrilintide, and cotadutide in managing weight loss among obese. A detailed analysis was conducted on their mechanisms of action, dosing regimens, efficacy in weight loss, safety profiles, and their impact on obesity-related comorbidities. Although all agents presented distinct benefits, side effects such as gastrointestinal discomfort with orlistat and GLP-1 receptor agonists, and potential dependency with phentermine, necessitate tailored treatment approaches. This review highlights the importance of integrating pharmacotherapy with lifestyle interventions to achieve sustainable weight management and identifies areas for future research to optimize therapeutic outcomes for individuals with obesity."
+  }
+ ],
+ "ctgov": [
+  {
+   "nct": "NCT05929066",
+   "titel": "A Study of Retatrutide (LY3437943) in Participants Who Have Obesity or Overweight",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 2335,
+   "start": "2023-07-10",
+   "ende": "2026-04-30",
+   "erkrankungen": [
+    "Obesity",
+    "Overweight",
+    "Osteoarthritis, Knee",
+    "Obstructive Sleep Apnea"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07165028",
+   "titel": "A Master Protocol of Multiple Agents in Adults With Metabolic Dysfunction-Associated Steatotic Liver Disease (SYNERGY-Outcomes)",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 4500,
+   "start": "2025-10-15",
+   "ende": "2032-08",
+   "erkrankungen": [
+    "Metabolic Dysfunction-Associated Steatotic Liver Disease"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT04143802",
+   "titel": "A Study of LY3437943 in Participants With Type 2 Diabetes Mellitus (T2DM)",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 72,
+   "start": "2019-12-18",
+   "ende": "2020-12-28",
+   "erkrankungen": [
+    "Diabetes Mellitus, Type 2"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07467447",
+   "titel": "Effect of LY3437943 Versus Placebo in Participants Who Have Obesity or Are Overweight",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 300,
+   "start": "2026-02-15",
+   "ende": "2028-02-17",
+   "erkrankungen": [
+    "Obesity"
+   ],
+   "sponsor": "Hudson Biotech",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06859268",
+   "titel": "A Study of Retatrutide (LY3437943) in the Maintenance of Weight Reduction in Individuals With Obesity",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 643,
+   "start": "2025-03-05",
+   "ende": "2028-04",
+   "erkrankungen": [
+    "Obesity"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06260722",
+   "titel": "Effect of Retatrutide Compared With Semaglutide in Adult Participants With Type 2 Diabetes and Inadequate Glycemic Control With Metformin With or Without SGLT2 Inhibitor (TRANSCEND-T2D-2)",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 1250,
+   "start": "2024-02-21",
+   "ende": "2027-02",
+   "erkrankungen": [
+    "Diabetes Mellitus, Type 2"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT04823208",
+   "titel": "A Study of LY3437943 in Japanese Participants With Type 2 Diabetes Mellitus (T2DM)",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 64,
+   "start": "2021-05-24",
+   "ende": "2022-06-23",
+   "erkrankungen": [
+    "Diabetes Mellitus, Type 2"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07232719",
+   "titel": "A Study of Retatrutide (LY3437943) in Participants With Obesity or Overweight",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 250,
+   "start": "2025-11-17",
+   "ende": "2027-07",
+   "erkrankungen": [
+    "Obesity",
+    "Overweight"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05936151",
+   "titel": "A Study of Retatrutide (LY3437943) on Renal Function in Participants With Overweight or Obesity and Chronic Kidney Disease With or Without Type 2 Diabetes",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 146,
+   "start": "2023-07-20",
+   "ende": "2025-10-21",
+   "erkrankungen": [
+    "Overweight or Obesity",
+    "CKD",
+    "Type 2 Diabetes"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06354660",
+   "titel": "Effect of Retatrutide Compared With Placebo in Adult Participants With Type 2 Diabetes and Inadequate Glycemic Control With Diet and Exercise Alone (TRANSCEND-T2D-1)",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 537,
+   "start": "2024-04-10",
+   "ende": "2026-02-20",
+   "erkrankungen": [
+    "Diabetes Type 2"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05929079",
+   "titel": "A Study of Retatrutide (LY3437943) in Participants With Type 2 Diabetes Mellitus Who Have Obesity or Overweight",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 1152,
+   "start": "2023-07-11",
+   "ende": "2026-06-16",
+   "erkrankungen": [
+    "Type 2 Diabetes",
+    "Obesity",
+    "Overweight",
+    "Obstructive Sleep Apnea"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT03841630",
+   "titel": "A Safety Study of LY3437943 Given as a Single Injection in Healthy Participants",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 45,
+   "start": "2019-03-13",
+   "ende": "2019-07-25",
+   "erkrankungen": [
+    "Healthy"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT04881760",
+   "titel": "A Study of LY3437943 in Participants Who Have Obesity or Are Overweight",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 338,
+   "start": "2021-05-20",
+   "ende": "2022-11-22",
+   "erkrankungen": [
+    "Obesity",
+    "Overweight"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT05611957",
+   "titel": "A Study of LY3437943 in Healthy Participants and Participants With Impaired Renal Function",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 29,
+   "start": "2022-11-16",
+   "ende": "2023-09-05",
+   "erkrankungen": [
+    "Healthy",
+    "Renal Insufficiency"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05445232",
+   "titel": "A Drug-Drug Interaction (DDI) Study of LY3437943 in Obese Participants",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 32,
+   "start": "2022-07-08",
+   "ende": "2023-02-24",
+   "erkrankungen": [
+    "Obesity"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05916560",
+   "titel": "A Study of LY3437943 in Participants With Impaired and Normal Liver Function",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 43,
+   "start": "2023-07-13",
+   "ende": "2025-03-02",
+   "erkrankungen": [
+    "Healthy",
+    "Hepatic Insufficiency"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06982846",
+   "titel": "A Study to Investigate the Response of Participants With Type 2 Diabetes Mellitus on Once-Weekly Retatrutide to Hypoglycemia",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 80,
+   "start": "2025-06-06",
+   "ende": "2026-05-04",
+   "erkrankungen": [
+    "Type 2 Diabetes Mellitus"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06297603",
+   "titel": "Effect of Retatrutide Compared With Placebo in Participants With Type 2 Diabetes and Moderate or Severe Renal Impairment, With Inadequate Glycemic Control on Basal Insulin, With or Without Metformin and/or SGLT2 Inhibitor (TRANSCEND-T2D-3)",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 320,
+   "start": "2024-03-15",
+   "ende": "2026-11",
+   "erkrankungen": [
+    "Type 2 Diabetes"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05882045",
+   "titel": "A Study of Retatrutide (LY3437943) in Participants With Obesity and Cardiovascular Disease",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 1946,
+   "start": "2023-05-30",
+   "ende": "2026-05-14",
+   "erkrankungen": [
+    "Obesity",
+    "Cardiovascular Diseases"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT04867785",
+   "titel": "A Study of LY3437943 in Participants With Type 2 Diabetes",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 281,
+   "start": "2021-05-13",
+   "ende": "2022-10-27",
+   "erkrankungen": [
+    "Type 2 Diabetes"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT06003465",
+   "titel": "A Research Study Looking at Similarity Between LY3437943 Versions for Different Injection Devices",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 57,
+   "start": "2023-08-29",
+   "ende": "2024-02-08",
+   "erkrankungen": [
+    "Healthy"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07629401",
+   "titel": "Pre-approval Expanded Access of Retatrutide (LY3437943)",
+   "phase": "",
+   "typ": "EXPANDED_ACCESS",
+   "status": "AVAILABLE",
+   "teilnehmende": null,
+   "start": null,
+   "ende": null,
+   "erkrankungen": [
+    "Obesity",
+    "Obesity-related Complications"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06313528",
+   "titel": "A Study to Measure Calorie Consumption and Usage in Participants With Obesity Using LY3437943",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 85,
+   "start": "2024-03-20",
+   "ende": "2025-08-26",
+   "erkrankungen": [
+    "Obesity"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06982859",
+   "titel": "A Study to Evaluate the Effect of Retatrutide on Insulin Secretion and Insulin Sensitivity in Adult Participants With Type 2 Diabetes Mellitus",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 95,
+   "start": "2025-06-02",
+   "ende": "2027-01",
+   "erkrankungen": [
+    "Diabetes Mellitus",
+    "Insulin Sensitivity"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07035093",
+   "titel": "A Study of Retatrutide (LY3437943) in Participants Who Have Obesity or Overweight and Chronic Low Back Pain",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 586,
+   "start": "2025-05-29",
+   "ende": "2027-09",
+   "erkrankungen": [
+    "Obesity",
+    "Overweight",
+    "Chronic Low Back Pain (CLBP)"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05959096",
+   "titel": "A Study of LY3437943 in Healthy Participants With a High Body Mass Index",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 85,
+   "start": "2023-07-18",
+   "ende": "2024-07-25",
+   "erkrankungen": [
+    "Healthy"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07357415",
+   "titel": "A Study of Retatrutide (LY3437943) in Participants Without Type 2 Diabetes Who Have Obesity or Overweight",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 600,
+   "start": "2026-01-24",
+   "ende": "2028-11",
+   "erkrankungen": [
+    "Obesity",
+    "Overweight"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05548231",
+   "titel": "A Study of LY3437943 in Chinese Participants With Obesity Or Overweight",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 32,
+   "start": "2022-10-24",
+   "ende": "2023-07-27",
+   "erkrankungen": [
+    "Overweight",
+    "Obesity"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06039826",
+   "titel": "A Study of LY3437943 in Postmenopausal Female Participants Who Are Overweight or Obese",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 46,
+   "start": "2023-09-12",
+   "ende": "2024-07-11",
+   "erkrankungen": [
+    "Overweight"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06383390",
+   "titel": "The Effect of Retatrutide Once Weekly on Cardiovascular Outcomes and Kidney Outcomes in Adults Living With Obesity (TRIUMPH-Outcomes)",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 10000,
+   "start": "2024-04-30",
+   "ende": "2029-02",
+   "erkrankungen": [
+    "Atherosclerotic Cardiovascular Disease (ASCVD)",
+    "Chronic Kidney Disease (CKD)"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05931367",
+   "titel": "A Study of Retatrutide (LY3437943) Once Weekly in Participants Who Have Obesity or Overweight and Osteoarthritis of the Knee",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 445,
+   "start": "2023-08-01",
+   "ende": "2025-11-14",
+   "erkrankungen": [
+    "Obesity",
+    "Overweight",
+    "Osteo Arthritis Knee"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06808802",
+   "titel": "To Investigate the Effect of Retatrutide (LY3437943) on Metoprolol Pharmacokinetics in Healthy Participants",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 30,
+   "start": "2025-02-03",
+   "ende": "2025-04-15",
+   "erkrankungen": [
+    "Healthy"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06662383",
+   "titel": "A Study of Retatrutide (LY3437943) Compared to Tirzepatide (LY3298176) in Adults Who Have Obesity",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 800,
+   "start": "2024-11-01",
+   "ende": "2026-12",
+   "erkrankungen": [
+    "Obesity"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  }
+ ],
+ "gruppe": "A_stoffwechsel"
+}

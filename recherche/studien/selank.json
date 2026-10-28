@@ -1,0 +1,626 @@
+{
+ "name": "Selank",
+ "status": "teilweise",
+ "suchbegriff_pubmed": "selank[tiab]",
+ "suchbegriff_ctgov": "selank",
+ "humanstudien_alle": [
+  {
+   "pmid": "26356395",
+   "titel": "[Optimization of the treatment of anxiety disorders with selank]",
+   "jahr": "2015",
+   "journal": "Zh Nevrol Psikhiatr Im S S Korsakova",
+   "erstautor": "Medvedev VE",
+   "doi": "10.17116/jnevro20151156133-40",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "25176261",
+   "titel": "[A comparison of the anxiolytic effect and tolerability of selank and phenazepam in the treatment of anxiety disorders]",
+   "jahr": "2014",
+   "journal": "Zh Nevrol Psikhiatr Im S S Korsakova",
+   "erstautor": "Medvedev VE",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "18454096",
+   "titel": "[Efficacy and possible mechanisms of action of a new peptide anxiolytic selank in the therapy of generalized anxiety disorders and neurasthenia]",
+   "jahr": "2008",
+   "journal": "Zh Nevrol Psikhiatr Im S S Korsakova",
+   "erstautor": "Zozulia AA",
+   "doi": "",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  }
+ ],
+ "humanstudien_detail": [
+  {
+   "pmid": "18454096",
+   "titel": "[Efficacy and possible mechanisms of action of a new peptide anxiolytic selank in the therapy of generalized anxiety disorders and neurasthenia]",
+   "jahr": "2008",
+   "journal": "Zh Nevrol Psikhiatr Im S S Korsakova",
+   "erstautor": "Zozulia AA",
+   "doi": "",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "Sixty-two patients with generalized anxiety disorder (GAD) and neurasthenia were studied. The effect of selank (30 patients) was compared to that of medazepam (32 patients). Patient's state was assessed with psychometric scales (Hamilton, Zung, CGI). Enkephalin activity in the blood serum was measured as well. The anxiolytic effects of both drugs were similar but selank had also antiasthenic and psychostimulant effects. The clinical-biological study revealed that patients with GAD and neurasthenia had the decreased level of tau(1/2) leu-enkephalin which was correlated with disease duration, severity of symptoms related to anxiety and asthenia and autonomic disorders. The increase of this parameter and stronger positive correlations with anxiety level were observed during the treatment with selank mostly in patients with GAD."
+  },
+  {
+   "pmid": "26356395",
+   "titel": "[Optimization of the treatment of anxiety disorders with selank]",
+   "jahr": "2015",
+   "journal": "Zh Nevrol Psikhiatr Im S S Korsakova",
+   "erstautor": "Medvedev VE",
+   "doi": "10.17116/jnevro20151156133-40",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "AIM: To compare the efficacy and tolerability of monotherapy with phenazepam to complex treatment with the peptide preparation selank and phenazepam in patients with anxiety disorders. MATERIAL AND METHODS: Authors explored the anxiolytic effect and tolerability of monotherapy with phenazepam (30 patients) and complex treatment with selank and phenazepam (40 patients) in anxiety-phobic, hypochondriac and somatoform disorders (ICD-10 items F40.2-9, F41.1-9, F45.0-2). Therapeutic effect was assessed clinically and with HDRS, CGI and Spilberger scales. Tolerability was evaluated using the UKU scale. Stroop test and verbal fluency test were used. Quality of life was assessed with the SF-36. RESULTS: The positive effect of phenazepam was achieved earlier in the optimization of treatment with selank on HDRS. The combined treatment decreased the level of undesirable side-effects of phenazepam (attention and memory impairment, asthenia, sedation, increase in sleep duration, sexual disturbances, emotional indifference and orthostatism) during the course of treatment and after the tranquilizer withdrawal. Taken together, the therapeutic efficacy and reduction of side-effects had a positive impact on the quality-of-life of the patients treated with selank as add-on to phenazepam. CONCLUSION: The results extend therapeutic possibilities of treatment of anxietyspectrum disorders with the combination of benzodiazepine tranquilizers and selank. Цель исследования - сравнение эффективности и переносимости монотерапии феназепамом и комплексной терапии пептидным препаратом селанк и феназепамом при лечении тревожных расстройств. Материал и методы. Исследованы анксиолитическое действие и переносимость монотерапии феназепамом (30 больных) и комплексной терапии феназепамом и селанком (40) у пациентов с тревожно-фобическими, ипохондрическими и соматизированными расстройствами (F40.2-9, F41.1-9, F45.0-2 по МКБ-10). Терапевтическую эффективность лечения оценивали клинически и по Госпитальной шкале для оценки тревоги и депрессии (HDRS), шкале CGI и в тесте Спилбергера; для оценки переносимости терапии использовали шкалу UKU; использовали также когнитивные тесты Струпа и беглости речевых ответов. Качество жизни пациентов определяли по шкале SF-36. Результаты. Отмечено ускорение наступления терапевтического эффекта феназепама при оптимизации терапии селанком по шкале HDRS. При комбинированной терапии селанк уменьшает выраженность ряда нежелательных явлений, вызываемых феназепамом (нарушение концентрации внимания и памяти, астению, седацию, увеличение продолжительности сна, сексуальные дисфункции, эмоциональную индифферентность и ортостатизм) на всем протяжении совместного приема транквилизаторов и селанка, а также после отмены транквилизатора. Совокупность терапевтической эффективности сочетанного применения селанка и феназепама и уменьшения побочного действия транквилизатора пептидом достоверно повышает качество жизни пациентов. Заключение. Полученные данные расширяют терапевтические возможности для купирования расстройств тревожного спектра за счет комплексного использования бензодиазепиновых транквилизаторов и селанка."
+  },
+  {
+   "pmid": "25176261",
+   "titel": "[A comparison of the anxiolytic effect and tolerability of selank and phenazepam in the treatment of anxiety disorders]",
+   "jahr": "2014",
+   "journal": "Zh Nevrol Psikhiatr Im S S Korsakova",
+   "erstautor": "Medvedev VE",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article"
+   ],
+   "abstract": "Objective. To study the efficacy and tolerability of the new anxyolytic peptide selank in comparison with phenazepam. Material and methods. A comparative study of the anxiolytic effect and tolerability of selank and phenazepam was carried out in 60 patients with phobic-anxiety- and somatoform disorders (F40.2-9, F41.1-9, F45.0-1 by ICD-10) were examined. Results Pronounced anxiolytic and mild nootropic effects of selank were demonstrated. The anxiolytic effect lasted for a week after last receiving the peptide. Selank had a positive impact on the quality of life of the patients. Conclusion. The data obtained in the study extend therapeutic possibilities in the treatment of anxiety disorders."
+  }
+ ],
+ "metaanalysen": [],
+ "praeklinik": [
+  {
+   "pmid": "41490200",
+   "titel": "Therapeutic Peptides in Orthopaedics: Applications, Challenges, and Future Directions",
+   "jahr": "2026",
+   "journal": "J Am Acad Orthop Surg Glob Res Rev",
+   "erstautor": "Rahman OF",
+   "doi": "10.5435/JAAOSGlobal-D-25-00236",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Therapeutic peptides are emerging as promising adjuncts in the management of orthopaedic injuries, grounded in their ability to modulate molecular signaling networks central to cellular medicine. By acting on key pathways such as PI3K/Akt, mTOR, MAPK, TGF-β, and AMPK, peptides exert influence over tissue regeneration, inflammation resolution, and neuromuscular recovery. Wound-healing peptides such as BPC-157, TB-500, and GHK-Cu promote angiogenesis, integrin-mediated extracellular matrix remodeling, and fibroblast activation, whereas growth hormone secretagogues like ipamorelin, CJC-1295, tesamorelin, sermorelin, and AOD-9604 activate IGF-1 signaling and satellite cell repair. Recovery-enhancing agents such as epithalon, delta sleep-inducing peptide, and pinealon target circadian and mitochondrial regulators, and neuroactive peptides like selank, semax, and dihexa enhance brain-derived neurotrophic factor and HGF/c-Met pathways critical to neuroplasticity. Although preclinical studies are promising, there is a current lack of clinical trials. This review integrates current mechanistic insights with orthopaedic relevance, emphasizing safety, efficacy, and future directions for responsible integration into musculoskeletal care."
+  },
+  {
+   "pmid": "32342318",
+   "titel": "Functional Connectomic Approach to Studying Selank and Semax Effects",
+   "jahr": "2020",
+   "journal": "Dokl Biol Sci",
+   "erstautor": "Panikratova YR",
+   "doi": "10.1134/S001249662001007X",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The present study was aimed at the assessment of effects of anxiolytic Selank and nootropic Semax on the whole-brain resting-state functional connectivity (FC) of each of the predefined regions of interest (ROIs) in 52 healthy participants. The ROIs included amygdala (one of the key regions for the regulation of anxiety) and dorsolateral prefrontal cortex (DLPFC; the key region for executive functions, including working memory) in the right and left hemisphere. Resting-state fMRI was carried out three times, namely before, after 5 and 20 min of the injection of either Semax, or Selank, or placebo. Between-group alongwith between-condition differences were revealed in FC between the right amygdala and a region in fusiform, inferior and middle temporal as well as parahippocampal gyri in the right hemisphere. Post hoc analysis allowed us to define both general and specific effects of Selank and Semax on FC between the right amygdala and the right temporal cortex for the first time."
+  },
+  {
+   "pmid": "32621722",
+   "titel": "The Influence of Selank on the Level of Cytokines Under the Conditions of \"Social\" Stress",
+   "jahr": "2021",
+   "journal": "Curr Rev Clin Exp Pharmacol",
+   "erstautor": "Leonidovna YA",
+   "doi": "10.2174/1574884715666200704152810",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: It was previously thought that inflammation and an immune response were the only factors capable of causing IL-1β, IL-6 and other cytokine`s production. In recent years data have appeared that stressful effects can also occupy an important place, enhancing production of IL- 1β, IL-6 and other cytokines; the result will be a change in the functional activity of a particular cell element, for example immunocompetent cells with subsequent development of inflammation, or a change in the functional activity of neurons. This experiment is aimed at studying the effect of the Selank glyprolin neuropeptide drug on the level of cytokines in animals under conditions of \"social\" stress, the results of which indicate the presence of stress-protective activity. METHODS: White nonlinear rats were used as experimental animals. A model of confrontations between males was chosen to create a \"social\" stress. The animals were in pairs in a cage which were separated by a septum preventing physical contact but having openings that provide sensory contact. Each day, the septum was removed for 10 minutes leading in an overwhelming majority to agonistic collisions (confrontations). Laboratory animals were divided into 3 groups: a group of intact males, a group of animals that were subjected to stress (sensory contact) for 20 days and a group that received intraperitoneally Selank at a dose of 100 mcg/kg/day under conditions of 20-day stress. The level of cytokines under study was determined by enzyme-linked immunosorbent assay. RESULTS: As a result of the work performed to determine the concentration of pro-inflammatory and anti- inflammatory cytokines, it was found that in the serum of animals exposed to stress, there was a statistically significant increase in the level of IL-1β, IL-6 and TGF-β1 in individuals with both types of behavior. It should be noted that, under the conditions of this stressful impact, there was a tendency to decrease the concentration of IL-4 and increase the level of TNF-α but these indicators were not statistically significant. Evaluation of the effect of Semax on the level of the cytokines in a stress-induced state showed that this neuropeptide causes a decrease in the concentration of IL-1β and IL-6, restoration of the level of IL-4, as well as suppression of the production of TGF-β1 and TNF-α in these conditions. CONCLUSION: This peptide is able to reduce the concentration of IL-1β, IL-6 and TNF-α, as well as TGF-β1, practically reaching control values, when studying the effect of Selank on the level of cytokines under conditions of \" social\" stress. There is the need for a detailed study of the role of cytokines in the development of stress-induced changes in order to find optimal correction tools."
+  },
+  {
+   "pmid": "36322304",
+   "titel": "Selank, a Peptide Analog of Tuftsin, Attenuates Aversive Signs of Morphine Withdrawal in Rats",
+   "jahr": "2022",
+   "journal": "Bull Exp Biol Med",
+   "erstautor": "Konstantinopolsky MA",
+   "doi": "10.1007/s10517-022-05624-x",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Activity of a peptide tuftsin analogue Selank was studied in outbred rats using the naloxone-precipitated morphine withdrawal model. Single intraperitoneal injection of Selank in an anxiolytic dose of 0.3 mg/kg reduced the total index of morphine withdrawal syndrome by 39.6%, significantly (р<0.0001) attenuated convulsive reactions, ptosis, and posture disorders, and 9-fold increased the tactile sensitivity threshold in morphine-dependent rats in comparison with the group of active control; at the same time, Selank was slightly inferior to diazepam in a dose of 2 mg/kg by pharmacological activity (the decrease in total index of morphine withdrawal syndrome by 49.3% and 13-fold increase in sensitivity threshold). Thus, Selank, like diazepam, weakens the aversive signs of morphine withdrawal in rats with opiate dependence."
+  },
+  {
+   "pmid": "31243679",
+   "titel": "Effect of Selank on Morphological Parameters of Rat Liver in Chronic Foot-Shock Stress",
+   "jahr": "2019",
+   "journal": "Bull Exp Biol Med",
+   "erstautor": "Fomenko EV",
+   "doi": "10.1007/s10517-019-04512-1",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "We studied the effects of Selank on morphological parameters of the liver in Wistar male rats subjected to chronic foot-shock stress. Selank was injected intraperitoneally in doses of 100, 300 and 1000 μg/kg 15 min before each stress session. Morphological and morphometrical analysis showed that chronic foot-shock stress induced hydropic degeneration of hepatocytes, an increase of the nucleus/cytoplasm ratio due to an increase in the area of nuclei and reduction of the cytoplasm area, the appearance of focal necroses, and lymphohistiocyte infiltration. Injection of Selank in all doses reduced the intensity of stress-induced degenerative changes. Administration of Selank in doses of 300 and 1000 μg/kg restored the nucleus/cytoplasm ratio in hepatocytes. The maximum stress-limiting effect was attained after administration of 300 μg/kg Selank."
+  },
+  {
+   "pmid": "20919548",
+   "titel": "[Experimental optimization of learning and memory processes by selank]",
+   "jahr": "2010",
+   "journal": "Eksp Klin Farmakol",
+   "erstautor": "Semenova TP",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The effect of selank (Thr-Lys-Pro-Arg-Pro-Gly-Pro), which is a synthetic derivative of the endogenous tetrapeptide tuftsin (stable with respect to tissue peptidases), on the learning and memory processes and metabolism of serotonin (5-HT) have been experimentally studied on Wistar rats. The animals were trained with food reward in 30 trials per day. Selank (300 microg/kg) or saline were injected after the 10th trial. Elaboration of conditioned reflex with food reward was continued 30 min later. Retention was tested 24 h, 7 and 30 days after treatment. A single injection of selank activated the metabolism of 5-HT in the hypothalamus and caudal brain stem for 30 min to 2 h. It was established that selank induces an increase in memory trace stability during 30 days. These findings provide direct evidence that selank, when injected during consolidation phase, can enhance memory storage processes. Nootrope activity of the selank is probably caused by its obvious effect on the level of serotonin and its metabolite in the brain."
+  },
+  {
+   "pmid": "28853100",
+   "titel": "Effect of Selank on Functional State of Rat Hepatocytes under Conditions of Restraint Stress",
+   "jahr": "2017",
+   "journal": "Bull Exp Biol Med",
+   "erstautor": "Fomenko EV",
+   "doi": "10.1007/s10517-017-3817-8",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "We studied the effect of Selank administered intraperitoneally in doses of 100, 300, and 1000 μg/kg to male Wistar rats 15 min prior to restraint stress on the content of aminotransferases and total protein concentration in blood serum and intensity of free radical oxidation in the liver. Under conditions of acute restraint stress, Selank in doses of 100 and 300 μg/kg decreased catalase and superoxide dismutase activities and malondialdehyde concentration and increased total antioxidant activity in the liver homogenate. Administration of Selank in a dose of 1000 μg/kg reduced the content of aminotransferases in blood serum, decreased superoxide dismutase activity in the liver, and increased total antioxidant activity. Under conditions of chronic stress, Selank in all doses produced similar effects: reduced superoxide dismutase activity and malondialdehyde concentration in the liver tissue and AST activity in the serum. The other parameters remained unchanged."
+  },
+  {
+   "pmid": "32651826",
+   "titel": "Morphological Changes in the Large Intestine of Rats Subjected to Chronic Restraint Stress and Treated with Selank",
+   "jahr": "2020",
+   "journal": "Bull Exp Biol Med",
+   "erstautor": "Mukhina AY",
+   "doi": "10.1007/s10517-020-04868-9",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "We studied the effects of Selank on the condition of the colon wall in Wistar male rats subjected to restraint stress. Selank was injected intraperitoneally in doses of 80, 250, and 750 μg/kg 15 min before stress exposure. In rats subjected to stress, signs of atrophy, inflammatory reaction, and changes in the number and functional activity of mast cells were observed against the background of increased corticosterone level. Selank administration led to a decrease in corticosterone levels, reduced pathomorphological manifestations of stress exposure, and accelerated adaptation. These effects were presumably realized due to multifunctional biological effects of Selank."
+  },
+  {
+   "pmid": "28293190",
+   "titel": "GABA, Selank, and Olanzapine Affect the Expression of Genes Involved in GABAergic Neurotransmission in IMR-32 Cells",
+   "jahr": "2017",
+   "journal": "Front Pharmacol",
+   "erstautor": "Filatova E",
+   "doi": "10.3389/fphar.2017.00089",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Clinical studies have shown that Selank had an anxiolytic effect comparable to that of classical benzodiazepine drugs, which can enhance the inhibitory effect of GABA by allosteric modulation of GABAA receptors. These data suggest that the molecular mechanism of the effect of Selank may also be related to its ability to affect the performance of the GABAergic system. To test this hypothesis, we studied the changes in expression of 84 genes involved in the functioning of the GABAergic system and in the processes of neurotransmission in the culture of neuroblastoma IMR-32 cells using qPCR method. As test substances, in addition to Selank, we selected the major GABAA receptor ligand, GABA, the atypical antipsychotic, olanzapine, and combinations of these compounds (Selank and GABA; Selank and olanzapine). We found no changes in the mRNA levels of the genes studied under the effect of Selank. The combined effect of GABA and Selank led to nearly complete suppression of changes in expression of genes in which mRNA levels changed under the effect of GABA. When Selank was used in conjunction with olanzapine, the expression alterations of more genes were observed compared with olanzapine alone. The data obtained indicate that Selank has no direct effect on the mRNA levels of the GABAergic system genes in neuroblastoma IMR-32 cells. At the same time, our results partially confirm the hypothesis that the peptide may affect the interaction of GABA with GABAA receptors. Our data also suggest that Selank may enhance the effect of olanzapine on the expression of the genes studied."
+  },
+  {
+   "pmid": "28361410",
+   "titel": "Effect of Selank on Spontaneous Synaptic Activity of Rat Hippocampal CA1 Neurons",
+   "jahr": "2017",
+   "journal": "Bull Exp Biol Med",
+   "erstautor": "Povarov IS",
+   "doi": "10.1007/s10517-017-3676-3",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Application of anxiolytic drug Selank to hippocampal slices increased the amplitude and discharge rate of spontaneous inhibitory postsynaptic currents in rat hippocampal pyramidal CA1 neurons. In some neurons, Selank-induced up-regulation of spontaneous inhibitory postsynaptic currents was preceded by a transient decrease in this activity. In the examined concentration range (1-8 μM), Selank demonstrated no significant dose-dependence."
+  },
+  {
+   "pmid": "18727417",
+   "titel": "[Compensatory and antiamnestic effects of heptapeptide Selank in monkeys]",
+   "jahr": "2008",
+   "journal": "Zh Evol Biokhim Fiziol",
+   "erstautor": "",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The work presents results of study of role of heptapeptide Selank--an anxiolytic from group of biologically active peptides--in compensation of disturbed psychic and homeostatic functions in monkeys. New data have been obtained which indicate that an intranasal administration of Selank produces long-term changes of the monkeys' behavior disturbed during neurosis: elimination of fear and aggression and an increase of orientational-explorative activity as well as facilitation of handling reactions and communicational relations. It has been established that on the background of the Selank there occurs a long compensation of disturbed psychic functions (processes of memory) and of homeostatic parameters. It has been shown that unlike the earlier studied neurohormones (thyroliberin and ACTH4-10), the antistressor Selank effects do not depend on the type of neurotic disturbances and have long-term compensatory character. Comparison of the data obtained on monkeys with results of similar studies on the more low-organized mammals (rodents) allow suggesting that the new peptide preparation Selank is a promising agent for correction of various psychoemotional disturbances (alarm- and depression-like disorders)."
+  },
+  {
+   "pmid": "18577961",
+   "titel": "[Immunomodulatory effects of selank in patients with anxiety-asthenic disorders]",
+   "jahr": "2008",
+   "journal": "Zh Nevrol Psikhiatr Im S S Korsakova",
+   "erstautor": "Uchakina ON",
+   "doi": "",
+   "typ": [
+    "Comparative Study",
+    "Journal Article"
+   ],
+   "abstract": "The purpose of this article was to study the immunotropic effects of the new neurotrophic heptapeptide selank. The experiments in vitro revealed that the drug in concentration 10-7 M completely suppressed gene expression by peripheral blood IL-6 of patients with depression but not of the healthy controls. At the same time, the significant increase (p<0,05) of IL-6 concentration was observed in the cell culture of peripheral blood of patients in the presence of selank. The changes of the Th1/Th2 cytokine balance in vivo were found in the serum of patients with generalized anxiety disorder and neurasthenia who received Selank during 14 days. The dynamics of these changes had the significant inverse correlation dependence. The cytokine regulating effects revealed in the study suggest that selank can be used as a novel immunomodulator in patients with anxiety-asthenic disorders. Additionally, the adaptogenic properties of selank may be beneficial to its use in elderly people and people exposed to environmental stressors for the prevention of infectious diseases."
+  },
+  {
+   "pmid": "26924987",
+   "titel": "Selank Administration Affects the Expression of Some Genes Involved in GABAergic Neurotransmission",
+   "jahr": "2016",
+   "journal": "Front Pharmacol",
+   "erstautor": "Volkova A",
+   "doi": "10.3389/fphar.2016.00031",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Clinical studies have shown the similarity of the spectrum of physiological effects of Selank and classical benzodiazepines, such as diazepam and phenazepam. These data suggest that there is a similar basis of their mechanism of action. To test this hypothesis we studied the effect of Selank and GABA on the expression of genes involved in neurotransmission. We analyzed the expression of 84 genes involved in neurotransmission (e.g., major subunit of the GABA receptor, transporters, ion channels, dopamine, and serotonin receptors) in the frontal cortex of rats 1 and 3 h after the administration of Selank or GABA (300 μg/kg) using real-time PCR method. We found significant changes in the expression of 45 genes 1 h after the administration of the compounds. Three hours after Selank or GABA administration, 22 genes changed their expression. We found positive correlation between the changes in genes expression within 1 h after administration of Selank or GABA. Our results showed that Selank caused a number of alterations in the expression of genes involved in neurotransmission. The data obtained indicate that Selank is characterized by its complex effects on nerve cells, and one of its possible molecular mechanisms is associated with allosteric modulation of the GABAergic system."
+  },
+  {
+   "pmid": "28280289",
+   "titel": "Peptide Selank Enhances the Effect of Diazepam in Reducing Anxiety in Unpredictable Chronic Mild Stress Conditions in Rats",
+   "jahr": "2017",
+   "journal": "Behav Neurol",
+   "erstautor": "Kasian A",
+   "doi": "10.1155/2017/5091027",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "It was shown that the anxiolytic effect of Selank is comparable to that of classical benzodiazepine drugs and that the basis of their mechanism of action may be similar. These data suggest that the presence of Selank may change the action of classical benzodiazepine drugs. To test this hypothesis, we evaluated the anxiolytic activity of Selank and diazepam in rats both under conditions of unpredictable chronic mild stress and in its absence, after the individual and combined administration of these compounds using the elevated plus maze test. We found that, even in the absence of chronic stress, the administration of a course of test substances changed anxiety indicators toward their deterioration, but the changes after the administration of a course of Selank were less pronounced. In conditions of chronic stress, anxiety indicator values after the simultaneous use of diazepam and Selank did not differ from the respective values observed before chronic stress exposure. The data obtained indicate that the individual administration of Selank was the most effective in reducing elevated levels of anxiety, induced by the administration of a course of test substances, whereas the combination of diazepam with Selank was the most effective in reducing anxiety in unpredictable chronic mild stress conditions."
+  },
+  {
+   "pmid": "31625062",
+   "titel": "Selank, Peptide Analogue of Tuftsin, Protects Against Ethanol-Induced Memory Impairment by Regulating of BDNF Content in the Hippocampus and Prefrontal Cortex in Rats",
+   "jahr": "2019",
+   "journal": "Bull Exp Biol Med",
+   "erstautor": "Kolik LG",
+   "doi": "10.1007/s10517-019-04588-9",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The effects of a peptide anxiolytic Selank synthesized on the basis of the endogenous peptide tuftsin on memory impairment and content of brain-derived neurotrophic factor (BDNF) in brain structures were analyzed in outbred rats receiving 10% ethanol as the only source of fluid for 30 weeks. In the object recognition test, Selank (0.3 mg/kg a day, 7 days, intraperitoneally) produced a cognitive-stimulating effect in 9 months rats not exposed to ethanol (p<0.05) and prevented the formation of ethanol-induced memory and attention disturbances (p<0.01) developing during alcohol withdrawal. In ex vivo experiments, Selank prevented ethanol-induced increase in BDNF content in the hippocampus and frontal cortex (p<0.05). These results indicate positive effects of the tuftsin analogue on age-related memory disturbances associated with chronic alcohol intoxication and confirm the involvement of the neurotrophin mechanism related to BDNF production into the effect of Selank."
+  },
+  {
+   "pmid": "17415472",
+   "titel": "Naloxone-blocked depriming effect of anxiolytic selank on apomorphine-induced behavioral manifestations of hyperfunction of dopamine system",
+   "jahr": "2006",
+   "journal": "Bull Exp Biol Med",
+   "erstautor": "Meshavkin VK",
+   "doi": "10.1007/s10517-006-0428-1",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Peptide anxiolytic selank (Thr-Lys-Pro-Arg-Pro-Gly-Pro) applied intraperitoneally in doses of 0.01, 0.1, 1.0, and 10.0 mg/kg to mice reduces behavioral manifestations of dopaminergic system induced by apomorphine in the verticalization test. This effect was comparable to that of atypical antipsychotic olanzapine in near-therapeutic doses (0.1 and 1.0 mg/kg, intraperitoneally) and was blocked with nonselective opioid receptor antagonist naloxone (10 mg/kg, intraperitoneally). Radioreceptor assay showed that selank did not displace nonselective D2-dopamine receptor antagonist (3)H-spiperone (EC50>100 microM) and delta- and micro-opioid receptor ligand 3H-DADLE (EC50>40 microM) from specific binding sites on rat brain membranes. It is hypothesized that the revealed behavioral effect of selank is mediated by its modulating effect on the endogenous opioid system and specifically, by its effect on activity of enkephalin-degrading enzymes."
+  },
+  {
+   "pmid": "18197389",
+   "titel": "Use of Selank to correct measures of integrative brain activity and biogenic amine levels in adult rats resulting from antenatal hypoxia",
+   "jahr": "2008",
+   "journal": "Neurosci Behav Physiol",
+   "erstautor": "Semenova TP",
+   "doi": "10.1007/s11055-008-0030-2",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The effects of Selank, the active component of which is the heptapeptide Thr-Lys-Pro-Arg-Pro-Gly-Pro, which includes the tetrapeptide tuftsin and three natural levorotatory amino acids, on behavior and brain serotonin and noradrenaline levels were studied in adult rats subjected to antenatal hypoxia on days 14-16 of gestation. Administration of Selank (300 microg/kg, i.p.) improved sensory attention levels by factors of 2-3 (p < 0.01), facilitated the learning process by a factor of 1.5 (p < 0.01), normalized the level of investigative activity in the open field and hole board, and restored the balance of activity between the serotoninergic and noradrenergic systems of the brain. The data obtained here provide evidence that Selank can be used to compensate for the long-term negative effects of antenatal hypoxia on brain integrative activity and the activity of monoaminergic transmitter systems."
+  },
+  {
+   "pmid": "19093364",
+   "titel": "[Effects of heptapeptide selank on the content of monoamines and their metabolites in the brain of BALB/C and C57Bl/6 mice: a comparative study]",
+   "jahr": "2008",
+   "journal": "Eksp Klin Farmakol",
+   "erstautor": "Narkevich VB",
+   "doi": "",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The effect of heptapeptide selank on the content of neurotransmitter monoamines and its metabolites in the brain structures of BALB/C and C57Bl/6 line mice under conditions of the open-field test were studied. Significant interstrain differences in the content of norepinephrine (NE), dopamine (DA), serotonin (5-HT) as well as in the levels of their metabolites in hippocampus, hypothalamus, striatum and frontal cortex of C57Bl/6 and BALB/C mice were demonstrated. In particular, the content of 5-HT and its metabolite 5-oxyindolacetic acid (5-HIAA) in hippocampus of BALB/C mice (with passive stress response) was higher than in the same structure of C57Bl/6 (stress-susceptible) animals. The injection of selank (0.3 mg/kg) led to an increase in the NE level in the hypothalamus of both mice strains. At the same time, selank produced opposite effects on the content of DA metabolites: the concentrations of dioxyphenylacetic (DOPAC) and homovanillic (HVA) acids were found to increase in frontal cortex and hippocampus of C57Bl/6 mice, while the same parameters in BALB/C mice were demonstrated to decrease. Selank induced a decrease in 5-HT and 5-HIAA levels in the hippocampus of BALB/C mice, but did not affect these parameters in C57Bl/6 animals. The obtained results are indicative of selectivity of the anxiolytic effects of selank."
+  },
+  {
+   "pmid": "19882898",
+   "titel": "[Antiviral activity of immunomodulator Selank in experimental influenza infection]",
+   "jahr": "2009",
+   "journal": "Vopr Virusol",
+   "erstautor": "Ershov FI",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The main objective of this study was to evaluate the antiviral properties of the glyproline Selank in both in vitro and in vivo against the influenza virus strain A/Aichi 2/68 (H3N2). The pronounced antiviral effect of the agent was detected in both systems. Selank added to the cell culture 24 hours before inoculation (a preventive use scheme) showed the highest efficiency, by completely suppressing viral reproduction. The in vivo studies also demonstrated that the highest survival of laboratory animals was observed when the agent was administered by the prevention scheme. The use of Selank in vivo induced the gene expression of interferon-alpha (IFN-alpha), without affecting that of interleukin (IL)-4, IL-10, or tumor necrosis factor-alpha (TNF-alpha). The findings suggest that the mechanism of the antiviral action of Selank may be due to its ability to modulate Th1/Th2/Treg cytokine equilibrium both directly and indirectly via the central nervous system. This is particularly promising if that the agent is synthesized on the basis of an endogenous peptide and that it has no negative effects is kept in mind."
+  },
+  {
+   "pmid": "30255741",
+   "titel": "Peptide-based Anxiolytics: The Molecular Aspects of Heptapeptide Selank Biological Activity",
+   "jahr": "2018",
+   "journal": "Protein Pept Lett",
+   "erstautor": "Vyunova TV",
+   "doi": "10.2174/0929866525666180925144642",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: Anxiety and mood disorders are the most abundant mental health problems worldwide. The commonly used in clinical practice anxiolytics are focused on pharmacological modulation of brain GABA receptor system activity. As a rule, their use presents a wide spectrum of clinical issues such as dependence, memory impairment and etc. There is an increasing appreciation of the role of neuropeptides and bioactive lipids in the pathophysiology of mood and anxiety disorders as \"mild\" agents. Heptapeptide Selank (Thr-Lys-Pro-Arg-Pro-Gly-Pro) exhibits prolonged anti-anxiety and nootropic effects. OBJECTIVE: In this issue, we tried to find the molecular mechanisms which may underlie Selank antianxiety effects. METHODS: The main method we used was the radioligand - receptor method of analysis. We also used HPLC (to obtain and ensure reagents and Selank purity) and the methods of brain cells plasmatic membranes isolation and following detection of protein concentration in membrane samples. RESULTS: It was shown that Selank affect the [3H]GABA binding as a positive allosteric modulator. The joint action of Selank and some of benzodiazepines also regulates activity of [3H]GABA binding in specific manner, which is not cumulative and differs from either substance individually. Selank is able to block the modulatory activity of Diazepam and Olanzapine, the location of their and peptide binding sites apparently not the same, but potentially may partially overlaps. CONCLUSION: Thus, we hypothesized and showed that one of Selank anti-anxiety molecular mechanisms can be associated with subtype selective concentration - dependent allosteric modulation of GABA receptors."
+  },
+  {
+   "pmid": "24913576",
+   "titel": "Efficacy of peptide anxiolytic selank during modeling of withdrawal syndrome in rats with stable alcoholic motivation",
+   "jahr": "2014",
+   "journal": "Bull Exp Biol Med",
+   "erstautor": "Kolik LG",
+   "doi": "10.1007/s10517-014-2490-4",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "We studied the effects of selank on the development of symptoms of acute 48-h alcohol withdrawal in outbred rats drinking 10 % ethanol as the only source of fluid for 24 weeks. In alcohol-preferring animals (mean daily ethanol intake >5.0 g/kg) allowed free choice between 10 % ethanol and water, single intraperitoneal injection of selank in a dose of 0.3 mg/kg eliminated anxiety induced by ethanol withdrawal in tests elevated plus maze and social interaction tests and prevented the formation of mechanical allodynia without affecting ethanol consumption. The fi ndings suggest that selank is effective in eliminating of alcohol withdrawal symptoms in rats."
+  },
+  {
+   "pmid": "17385425",
+   "titel": "[Selank-induced normalizing effects on the integrative brain activity and biogenic amine level disorders due to antenatal hypoxia]",
+   "jahr": "2006",
+   "journal": "Ross Fiziol Zh Im I M Sechenova",
+   "erstautor": "Semenova TP",
+   "doi": "",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The effects of Selank synthetic analog of Tuftsin, representing the heptapeptide forming Thr-Lys-Pro-Arg-Pro-Gly-Pro, on behavior and serotonin/noradrenalin concentrations in brain were investigated in adult rats exposed to hypoxia during 14-16 days of gestation. It was revealed that injection of Selank (300 mkg/kg, i/p) increased 2--3-fold (p < 0.01) the sensory attention, facilitated 1.5-fold the learning capacity (p < 0.01), normalized exploratory activity in the open field and hole board, and recovered the balance of serotonergic and noradrenergic brain system activity. The data obtained demonstrate the possibility of Selank to compensate for long-lasting negative effects of antenatal hypoxia on integrative brain activity and brain monoamine level."
+  },
+  {
+   "pmid": "14552529",
+   "titel": "The optimizing action of the synthetic peptide Selank on a conditioned active avoidance reflex in rats",
+   "jahr": "2003",
+   "journal": "Neurosci Behav Physiol",
+   "erstautor": "Kozlovskii II",
+   "doi": "10.1023/a:1024444321191",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The actions of the synthetic heptapeptide preparation Selank on learning and memory processes in rats with initially low levels of learning ability were compared with those in normal rats, using a method based on acquisition of a conditioned active avoidance reflex, with repeated administration of peptide 15 min before the start of training sessions for four days. The effects of Selank (300 microg/kg) were compared with the effects of the nootrope piracetam (400 mg/kg). These experiments showed that Selank significantly activated the learning process in rats with initially poor learning ability, with effects apparent after first dose on training day 1. The effect progressively increased on repeated administration of Selank: the total number of correct solutions increased and the number of errors decreased (p < 0.05). The maximum optimizing activity of Selank on learning in normal rats was seen on day 3 of repeated administration and training, i.e., after formation of the initial consolidation phase. The dynamic features of the development of the activating action of Selank and piracetam were described. Comparison of the results obtained here with data on the anti-anxiety actions of Selank suggested potential for its use in optimizing mnestic functions in conditions of elevated emotional tension."
+  },
+  {
+   "pmid": "29787664",
+   "titel": "[COMPARISON OF PHARMACOLOGICAL EFFECTS OF HEPTAPEPTIDE SELANK AFTER INTRANASAL AND INTRAPERITONEAL ADMINISTRATION TO BALB/c AND C57BL/6 MICE.]",
+   "jahr": "2016",
+   "journal": "Eksp Klin Farmakol",
+   "erstautor": "Vasil'eva EV",
+   "doi": "",
+   "typ": [
+    "Comparative Study",
+    "Journal Article"
+   ],
+   "abstract": "Pharmacological effects of intraperitoneal (i.p.) and intranasal (i.n.) administration of heptapeptide selank (300 μg/kg/day for 5 days), known to possess anxiolytic and nootropic properties, were compared by studying the elevated-plus-maze behavior of inbred BALB/c and C57BL/6 mice and measuring the binding of markers to NMDA and GABA receptors of brain. The anxiolytic and nootropic efficiency of selank administered via both routes was observed only in BALB/c mice, which were characterized by initially reduced exploratory activity and higher levels of anxiety as compared to C57BL/6 mice. In BALB/c mice, i.p. selank increased the number of [G-(3)H]SR 95531 binding sites with GABA-receptors in the frontal cortex by 38%, without change in binding to NMDA receptors in the hippocampus. On the contrary, i.n. selank led to an increase in the density of [G-(3)H]MK-801 binding sites by 23% with no effect on GABA receptors. It is suggested that the differences in pharmacological spectra observed for the two routes of selank administration are determined by specific features of drug pharmacokinetics and biotransformation as well as by the dynamics of formation of the anxiolytic and nootropic effects of selank."
+  },
+  {
+   "pmid": "24291245",
+   "titel": "The temporary dynamics of inflammation-related genes expression under tuftsin analog Selank action",
+   "jahr": "2014",
+   "journal": "Mol Immunol",
+   "erstautor": "Kolomin T",
+   "doi": "10.1016/j.molimm.2013.11.002",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Previous studies have shown that synthetic tuftsin analogue Selank and its fragments cause a number of alterations in the expression of certain genes involved in inflammation in mouse spleen. In this work we studied the effect of Selank and its short fragment Gly-Pro on the temporary dynamics of C3, Casp1, Il2rg, and Xcr1 genes expression in mouse spleen after single intraperitoneal injection (100 μg/kg) of peptides using real-time PCR method. We found a significant 3-fold decrease in the C3 mRNA level just 30 min after Selank injection and similar alteration this gene mRNA level after Gly-Pro administration. A wave-like alteration in the Casp1 mRNA level was observed after Selank injection. We found a significant alteration in the mRNA level of the Il2rg gene at early time points after Selank and Gly-Pro administration and an almost equal reduction in the Xcr1 mRNA level 90 min after the administration of Selank and its fragment. Our results showed that, Selank and its short fragment Gly-Pro influence the expression of genes that mediate different types of immune responses, thereby maintaining the balance of the immune system. It should be noted that in most cases, there was a coincidence in the expression profiles of the studied genes after Selank and Gly-Pro administration. This might indicate an active contribution of the dipeptide to the final effect of Selank."
+  },
+  {
+   "pmid": "18661785",
+   "titel": "[Effects of heptapeptide selank on genetically-based and situation-provoked symptoms of depression in behavior in WAG/Rij and Wistar rats, and in BALB/c mice]",
+   "jahr": "2008",
+   "journal": "Zh Vyssh Nerv Deiat Im I P Pavlova",
+   "erstautor": "Sarkisova KIu",
+   "doi": "",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "A synthetic derivative of the endogenous peptide tuftsin heptapeptide selank (Thr-Lys-Pro-Arg-Pro-Gly-Pro) possesses an anxiolytic and psychostimulant effect, and represents a working element of a new peptide drug having completed the third phase of the clinical testing as a selective anxiolytic. The neurobiochemical spectrum of selank action combines mechanisms which are characteristics of antidepressants and psychostimulants: activation of the brain monoaminergic systems, dopamine synthesis and turnover, and modulation of the tyrosine hydroxylase activity. The aim of this study was to investigate the effect of selank in a new model of inherited (genetically-based) symptoms of depression in behavior of inbred WAG/Rij rats in comparison with its effect on situation-provoked symptoms of depression in behavior of BALB/c mice. Outbred Wistar rats constituted control group. Selank in high doses (1000-2000 microg/kg), after repeated injection counteracted symptoms of depression in behavior of WAG/Rij rats (increased immobilization in the forced swimming test and decreased sucrose intake or preference (anhedonia)). Selank in low doses (100 and 300 microg/kg) after single injection reduced the duration of immobility of BALB/c mice in the forced swimming test, but did not exert significant effect after repeated injection or after injection in high doses (600 and 900 microg/kg). Selank did not affect the level of general locomotor activity and anxiety in WAG/Rij rats, and did not exert substantial effect on the behavior of control Wistar rats. The results demonstrate the presence of antidepressant component in the spectrum of neuropsychotrophyc activity of selank and indicate the higher reliability of a new experimental model of depression (the WAG/Rij rats) as compared to the standard forced swimming test for the determination of antidepressant activity of a pharmacological drug."
+  },
+  {
+   "pmid": "20506839",
+   "titel": "Antiviral properties of structural fragments of the peptide Selank",
+   "jahr": "2010",
+   "journal": "Dokl Biol Sci",
+   "erstautor": "Andreeva LA",
+   "doi": "10.1134/s0012496610020031",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "21609736",
+   "titel": "Expression of inflammation-related genes in mouse spleen under tuftsin analog Selank",
+   "jahr": "2011",
+   "journal": "Regul Pept",
+   "erstautor": "Kolomin T",
+   "doi": "10.1016/j.regpep.2011.05.001",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Previous studies have shown that synthetic tuftsin analogue Selank causes a transcriptomic response in the rat hippocampus and in spleen cells and may participate in the regulation of inflammatory processes in the body. In this work we studied the effect of Selank and two of its fragments on the expression of genes involved in processes of inflammation. We analyzed the expression of 84 genes involved in processes of inflammation (e.g., chemokines, cytokines, and its receptors) in mouse spleen 6 and 24 h after Selank single intraperitoneal injection (100 μg/kg) using real-time PCR method. We found significant changes in the expression of 34 genes involved in inflammation processes. The detailed analysis of quantitative data showed that the Bcl6 gene, which plays a main role in the formation and development of the immune system, exhibited significant changes in its expression levels in response to injection of each of the peptides. Also, we observed expression changes for Bcl6 target and corepressor genes under the influence of Selank and its fragments. Our results showed that Selank and its fragments caused a number of alterations in the expression of genes involved in inflammation. The data obtained confirmed the participation of Selank in the processes of regulation of inflammation in the body. The complex biological effect of Selank may be partially determined by the systematic effect of this peptide on genomic expression."
+  },
+  {
+   "pmid": "12432865",
+   "titel": "Effects of Selank on behavioral reactions and activities of plasma enkephalin-degrading enzymes in mice with different phenotypes of emotional and stress reactions",
+   "jahr": "2002",
+   "journal": "Bull Exp Biol Med",
+   "erstautor": "Sokolov OY",
+   "doi": "10.1023/a:1015582302311",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Comparative study of plasma activities of enkephalin-degrading enzymes in mice with different phenotypes of emotional and stress reactions revealed significant differences between intact BALB/c and C57Bl/6 mice by the half-life of plasma leu-enkephalin. Selank in a dose of 100 micrograms/kg produced an anxiolytic effect in the open-field test and increased the half-life of plasma leu-enkephalin in BALB/c mice, but had no effect on behavioral reactions and enkephalinase activities in C57Bl/6 mice. Our results suggest that anxiolytic activity of Selank is associated with inhibition of enkephalin-degrading enzymes."
+  },
+  {
+   "pmid": "24605419",
+   "titel": "[Protective effect of selank on the model of mnestic function violation induced by pharmacological blockade of protein synthesis]",
+   "jahr": "2013",
+   "journal": "Eksp Klin Farmakol",
+   "erstautor": "Kozlovskiĭ II",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "We have studied the ability of peptide anxiolytic selank (Thr-Lyz-Pro-Arg-Pro-Gly-Pro) to compensate for mnestic dysfunction caused by the administration of actinomycin D, which inhibits protein synthesis by blocking DNA-dependent RNA polymerase. The experiments were performed on white rats with acquired adaptive ability of spatial visual orientation in a 16-door labyrinth. The learning was based on the avoidance of electric skin irritation at alternating sites of escape reaction (site reflex). Selank (0.5 mg/kg, i.p.) prevented or compensated for actinomycin D (250 mg/kg, i.p.) induced violation of the process of acquisition, improvement, and consolidation of memory trace during the development of a complex site reflex. The drug administration also reduced the time required for acquisition of the adaptive ability of spatial visual orientation in the labyrinth and restored the actinomycin D violated process of re-learning upon a change in the alternation of escape sites under free-choice conditions."
+  },
+  {
+   "pmid": "18841804",
+   "titel": "Intranasal administration of the peptide Selank regulates BDNF expression in the rat hippocampus in vivo",
+   "jahr": "2008",
+   "journal": "Dokl Biol Sci",
+   "erstautor": "Inozemtseva LS",
+   "doi": "10.1134/s0012496608040066",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "28745220",
+   "titel": "Tuftsin - Properties and Analogs",
+   "jahr": "2017",
+   "journal": "Curr Med Chem",
+   "erstautor": "Siebert A",
+   "doi": "10.2174/0929867324666170725140826",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "BACKGROUND: Immunomodulation is one of the significant therapeutic strategies. It includes both stimulation and suppression of the immune system by a variety of substances called immunomodulators, designed to regulate the immune response of the organism against infections of varying etiology. An example of such a substance is tuftsin (TKPA) 3 (Fig. (1)). In this paper were included tuftsin derivatives, which were described over the years, their together with biological activity and clinical potential. METHODS: We reviewed a bibliographic database to gather all the important information about the tuftsin peptide. We have delineated the significant information on the activity of the tetrapeptide itself and its derivatives. Analogs were divided because of their anti-tumor, anti-inflammatory, antimicrobial and anti-viral activity. RESULTS: This paper describes eighty-six documents. Thirty-two of them concern on activity of tuftsin in the human organism. The remaining fifty-four describe peptide analogues and their properties, including eleven papers about the tuftsin-based peptides contained in the vaccines, nine papers representing anticancer activity of the tuftsin derivatives, twenty-six about antiinflammatory compounds, and five papers describing the antitumor activity of the tuftsin analogs. CONCLUSION: The findings of this review confirm the importance of the tuftsin and their derivatives. Most of these substances showed anti-tumor, anti-inflammatory or antibacterial activities. A large amount of the compounds may find use in vaccines. Tuftsin can also be used to prepare fusion proteins in the treatment of cancer and as carriers of many biologically active substances."
+  },
+  {
+   "pmid": "28702721",
+   "titel": "Peptides semax and selank affect the behavior of rats with 6-OHDA induced PD-like parkinsonism",
+   "jahr": "2017",
+   "journal": "Dokl Biol Sci",
+   "erstautor": "Slominsky PA",
+   "doi": "10.1134/S0012496617030048",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Parkinson's disease (PD) is the second most common severe neurodegenerative disorder that is characterized by progressive degeneration of dopaminergic neurons (DA neurons) in the substantia nigra pars compacta (SNpc) region of the brain. In the present study, we investigated the effects of the synthetic regulatory peptides Semax (analog of an ACTH 4-10 fragment (ACTH4-10)) and Selank (analog of immunomodulatory taftsin) on behavior of rats with 6-hydroxidopamine (6-OHDA) induced PD-like parkinsonism. It was showed that both peptides did not affect motor activity of rats in elevated cross shaped maze and passive defensive behavior of the animals. At the same time, Selank decreased level of anxiety of rats with toxic damage of DA neurons in elevated cross shaped maze. Previously such effects of Selank were revealed in healthy rodents (rats and mice) with different models of psycho-emotional stress. Therefore, toxic damage of substantia nigra does not affect the response of the rat organism on this peptide."
+  },
+  {
+   "pmid": "22550852",
+   "titel": "[The role of opioid system in peculiarities of anti-anxiety effect of peptide anxiolytic selank]",
+   "jahr": "2012",
+   "journal": "Eksp Klin Farmakol",
+   "erstautor": "Kozlovskiĭ II",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Peculiarities of the anxiolytic effects of selank (heptapeptide analog of taftsin) under reduced activity of opioid system upon acute administration of naloxone have been studied in BALB/C and C57BL/6 inbred mice with high and low levels of anxiety, with passive and active emotional stress reaction phenotypes in the open field (OF) test. Selank (0.25 mg/kg, i.p.) per se exhibited anxiolytic effect in BALB/C mice by increasing the general locomotor activity, with no effects on the behavior of C57BL/6 mice in the OF test. Naloxone (1.0 mg/kg, i.p.) per se evoked swift runaway in OF peripheral areas in BALB/C mice while \"freezing\" the reaction in C57BL/6 mice with active response to stress under the same conditions. Pretreatment with naloxone attenuated the sensitivity to selank in BALB/C mice whereas the response to anxiolytic effects of peptide was increased in C57BL/6 mice. The data obtained reveal a new target for selank in CNS and indicate significance of the activity of enkephalin-opioid system in individual sensitivity to selank."
+  },
+  {
+   "pmid": "11550013",
+   "titel": "The inhibitory effect of Selank on enkephalin-degrading enzymes as a possible mechanism of its anxiolytic activity",
+   "jahr": "2001",
+   "journal": "Bull Exp Biol Med",
+   "erstautor": "Zozulya AA",
+   "doi": "10.1023/a:1017979514274",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Examination of patients with various forms of anxiety and phobic disorders (according to DSM-4 criteria) demonstrated a considerable shortening of enkephalin half-life and reduced total enkephalinase activity in the blood during generalized anxiety, but not during panic disorders and agoraphobia. This was probably related to low blood concentration of endogenous inhibitors of enkephalin-degrading enzymes in patients with generalized anxiety disorders. Heptapeptide Selank (Thr-Lys-Pro-Arg-Pro-Gly-Pro), which attenuates behavioral anxiety reactions and does not cause side effects typical of most anxiolytics, dose-dependently inhibited enzymatic hydrolysis of plasma enkephalin (IC50 15 microM). Selank was more potent than peptidase inhibitors bacitracin and puromycin in inhibiting enkephalinases. These results suggest that high efficiency of Selank in the therapy of anxiety and phobic disorders, including generalized anxiety, is due to its ability to inhibit enkephalin hydrolysis."
+  },
+  {
+   "pmid": "11443939",
+   "titel": "[Semax and selank inhibit the enkephalin-degrading enzymes from human serum]]",
+   "jahr": "2001",
+   "journal": "Bioorg Khim",
+   "erstautor": "Kost NV",
+   "doi": "10.1023/a:1011373002885",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "A dose-dependent effect of synthetic heptapeptides Semax (Met-Glu-His-Phe-Pro-Gly-Pro) and Selank (Thr-Lys-Pro-Arg-Pro-Gly-Pro) on the enkephalin-degrading enzymes of human serum was demonstrated. The inhibitory effects of Semax (IC50 10 microM) and Selank (IC50 20 microM) are more pronounced than those of puromycin (IC50 10 mM), bacitracin, and some other inhibitors of peptidases. Beside the heptapeptides, their pentapeptide fragments also possessed an inhibitory effect; tri-, tetra-, and hexapeptide fragments did not display such an effect. As the above enzymes take part in degradation of not only enkephalins but also other regulatory peptides, it can be assumed that one of the mechanisms of biological activity of Semax and Selank is related to this inhibitory activity of theirs."
+  },
+  {
+   "pmid": "14969422",
+   "titel": "Selank and short peptides of the tuftsin family in the regulation of adaptive behavior in stress",
+   "jahr": "2003",
+   "journal": "Neurosci Behav Physiol",
+   "erstautor": "Kozlovskaya MM",
+   "doi": "10.1023/a:1025988519919",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "White laboratory male rats, inbred male C57BL/6 and Balb/c mice, and male Wistar rats, all previously divided on the basis of the type of emotional reactivity, were used to compare the effects of ten peptide compounds of the tuftsin family and Selank on the behavioral manifestations of emotional stress created by a conflict situation. Peptides were shown to have positive emotional effects and antistress actions. Individual physiologically significant effects were seen, due to the molecular structures of the study peptides and/or their degradation fragments. The results demonstrate the potential for the synthesis of peptide compounds with predictable directions of pharmacological actions and safe for wide use."
+  },
+  {
+   "pmid": "31236882",
+   "titel": "State of Colon Microbiota in Rats during Chronic Restraint Stress and Selank Treatment",
+   "jahr": "2019",
+   "journal": "Bull Exp Biol Med",
+   "erstautor": "Mukhina AY",
+   "doi": "10.1007/s10517-019-04496-y",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "We studied the effects of Selank on intestinal microbiota in Wistar male rats subjected to chronic restraint stress. Selank was injected intraperitoneally in doses of 80, 250 and 750 μg/kg 15 min before stress exposure. Chronic restraint stress led to a decrease in the content of obligate microflora, while the content of opportunistic microorganisms increased. Selank restored intestinal microbiota presumably via central (neurotropic) and peripheral (immunotropic) mechanisms."
+  },
+  {
+   "pmid": "31667971",
+   "titel": "The occurrence of putative cognitive enhancing research peptides in seized pharmaceutical preparations: An incentive for controlling agencies to prepare for future encounters of the kind",
+   "jahr": "2020",
+   "journal": "Drug Test Anal",
+   "erstautor": "Vanhee C",
+   "doi": "10.1002/dta.2717",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "At the end of 2017 and 2018 two different unknown suspicious preparations were encountered and were subjected to a plethora of different analyses in order to identify, if present, any bioactive compound. It turned out that these samples contained the assumedly cognitive enhancing research peptides Selank and Semax, which, to our knowledge, have not completed any clinical trials. Moreover, an online search, excluding the dark web, demonstrated that these kinds of nootropic research peptides are freely available either as lyophilized powder for injection purposes or are present in nasal sprays. It stands to reason that controlling laboratories need to anticipate the uprising of these types of potentially dangerous molecules and must therefore be able to correctly identify these compounds. Therefore, these findings served as an incentive to develop a novel combined liquid chromatography tandem mass spectroscopy (LC-MS/MS) methodology, applicable to both hydrophilic or more hydrophobic peptides, which was utilized to analyze a total of 10 putative cognitive enhancing polypeptides, with variable biochemical characteristics, that are currently being sold online. The screening rationale, complying to the recommendation paper of the General European Official Medicines Control Laboratory (OMCL) network on the interpretation of screening results for unknown peptides by mass spectrometry, was also validated in different matrices as required by ISO 17025."
+  },
+  {
+   "pmid": "22827026",
+   "titel": "[Effect of selank on the main carboxypeptidases in the rat nervous tissue]",
+   "jahr": "2012",
+   "journal": "Zh Evol Biokhim Fiziol",
+   "erstautor": "Solov'ev VB",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Effect of single selank administration on activity of carboxypeptidase H and of phenylmethylsulfonylfluoride-inhibited carboxypeptidase - enzymes detaching arginine and lysine from C-terminus of molecules-precursors of biologically active peptides was studied. The preparation has been shown to cause long, preserved for 24 h changes of activities of these carboxypeptidases. It is suggested that the change in activity of the studied enzymes can be one of mechanisms of regulation of level of neuropeptides at action of selank."
+  }
+ ],
+ "ctgov": [
+  {
+   "nct": "NCT05832060",
+   "titel": "Comparing the Efficacy of tDCS and tRNS to Improve Reading Skills in Children and Adolescents With Dyslexia",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "UNKNOWN",
+   "teilnehmende": 24,
+   "start": "2023-05-01",
+   "ende": "2025-03-01",
+   "erkrankungen": [
+    "Developmental Dyslexia"
+   ],
+   "sponsor": "Bambino Gesù Hospital and Research Institute",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT01747200",
+   "titel": "Effects of Transcranial Magnetic Stimulation on Object Recognition",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 13,
+   "start": "2012-11-16",
+   "ende": "2017-01-26",
+   "erkrankungen": [
+    "Repetitive TMS (rTMS)",
+    "Sham rTMS",
+    "Bilateral rTMS",
+    "Unilateral rTMS"
+   ],
+   "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
+   "ergebnisse": false
+  }
+ ],
+ "gruppe": "D_gehirn_langlebigkeit"
+}

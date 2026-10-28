@@ -1,0 +1,752 @@
+{
+ "name": "Maridebart Cafraglutid (MariTide)",
+ "status": "nicht_zugelassen",
+ "suchbegriff_pubmed": "maridebart[tiab] OR AMG 133[tiab]",
+ "suchbegriff_ctgov": "maridebart cafraglutide",
+ "humanstudien_alle": [
+  {
+   "pmid": "40549887",
+   "titel": "Once-Monthly Maridebart Cafraglutide for the Treatment of Obesity - A Phase 2 Trial",
+   "jahr": "2025",
+   "journal": "N Engl J Med",
+   "erstautor": "Jastreboff AM",
+   "doi": "10.1056/NEJMoa2504214",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase II",
+    "Multicenter Study"
+   ]
+  },
+  {
+   "pmid": "38316982",
+   "titel": "A GIPR antagonist conjugated to GLP-1 analogues promotes weight loss with improved metabolic parameters in preclinical and phase 1 settings",
+   "jahr": "2024",
+   "journal": "Nat Metab",
+   "erstautor": "Véniant MM",
+   "doi": "10.1038/s42255-023-00966-w",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase I",
+    "Journal Article"
+   ]
+  }
+ ],
+ "humanstudien_detail": [
+  {
+   "pmid": "38316982",
+   "titel": "A GIPR antagonist conjugated to GLP-1 analogues promotes weight loss with improved metabolic parameters in preclinical and phase 1 settings",
+   "jahr": "2024",
+   "journal": "Nat Metab",
+   "erstautor": "Véniant MM",
+   "doi": "10.1038/s42255-023-00966-w",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase I",
+    "Journal Article"
+   ],
+   "abstract": "Obesity is a major public health crisis. Multi-specific peptides have emerged as promising therapeutic strategies for clinical weight loss. Glucagon-like peptide-1 (GLP-1) and glucose-dependent insulinotropic polypeptide (GIP) are endogenous incretins that regulate weight through their receptors (R). AMG 133 (maridebart cafraglutide) is a bispecific molecule engineered by conjugating a fully human monoclonal anti-human GIPR antagonist antibody to two GLP-1 analogue agonist peptides using amino acid linkers. Here, we confirm the GIPR antagonist and GLP-1R agonist activities in cell-based systems and report the ability of AMG 133 to reduce body weight and improve metabolic markers in male obese mice and cynomolgus monkeys. In a phase 1, randomized, double-blind, placebo-controlled clinical study in participants with obesity ( NCT04478708 ), AMG 133 had an acceptable safety and tolerability profile along with pronounced dose-dependent weight loss. In the multiple ascending dose cohorts, weight loss was maintained for up to 150 days after the last dose. These findings support continued clinical evaluation of AMG 133."
+  },
+  {
+   "pmid": "40549887",
+   "titel": "Once-Monthly Maridebart Cafraglutide for the Treatment of Obesity - A Phase 2 Trial",
+   "jahr": "2025",
+   "journal": "N Engl J Med",
+   "erstautor": "Jastreboff AM",
+   "doi": "10.1056/NEJMoa2504214",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase II",
+    "Multicenter Study"
+   ],
+   "abstract": "BACKGROUND: Maridebart cafraglutide (known as MariTide) is a long-acting peptide-antibody conjugate that combines glucagon-like peptide-1 receptor agonism and glucose-dependent insulinotropic polypeptide receptor antagonism and that is intended for the treatment of obesity. METHODS: We conducted a phase 2, double-blind, randomized, placebo-controlled, dose-ranging trial that included 11 groups as two cohorts. Participants with obesity (obesity cohort) were randomly assigned in a 3:3:3:2:2:2:3 ratio to receive maridebart cafraglutide subcutaneously at a dose of 140, 280, or 420 mg every 4 weeks without dose escalation; 420 mg every 8 weeks without dose escalation; 420 mg every 4 weeks with 4-week dose escalation; 420 mg every 4 weeks with 12-week dose escalation; or placebo. Participants with obesity with type 2 diabetes (obesity-diabetes cohort) were randomly assigned in a 1:1:1:1 ratio to receive maridebart cafraglutide at a dose of 140, 280, or 420 mg every 4 weeks (all without dose escalation) or placebo. The primary end point was the percent change in body weight from baseline to week 52. RESULTS: We enrolled 592 participants. In the obesity cohort (465 participants; female sex, 63%; mean age, 47.9 years; mean body-mass index [BMI, the weight in kilograms divided by the square of the height in meters], 37.9), the mean percent change in body weight from baseline to week 52 on the basis of the treatment policy estimand (intention-to-treat approach) ranged from -12.3% (95% confidence interval [CI], -15.0 to -9.7) to -16.2% (95% CI, -18.9 to -13.5) with maridebart cafraglutide, as compared with -2.5% (95% CI, -4.2 to -0.7) with placebo. In the obesity-diabetes cohort (127 participants; female sex, 42%; mean age, 55.1 years; mean BMI, 36.5), the mean percent change in body weight from baseline to week 52 on the basis of the treatment policy estimand ranged from -8.4% (95% CI, -11.0 to -5.7) to -12.3% (95% CI, -15.3 to -9.2) with maridebart cafraglutide, as compared with -1.7% (95% CI, -2.9 to -0.6) with placebo. The mean change in the glycated hemoglobin level on the basis of the treatment policy estimand in this cohort was -1.2 to -1.6 percentage points in the maridebart cafraglutide groups and 0.1 percentage points in the placebo group. Gastrointestinal adverse events were common with maridebart cafraglutide, although less frequent with dose escalation and a lower starting dose. No unexpected safety signals emerged. CONCLUSIONS: In this phase 2 trial, once-monthly maridebart cafraglutide resulted in substantial weight reduction in participants with obesity with or without type 2 diabetes. (Funded by Amgen; ClinicalTrials.gov number, NCT05669599.)."
+  }
+ ],
+ "metaanalysen": [],
+ "praeklinik": [
+  {
+   "pmid": "36509857",
+   "titel": "Beyond the pancreas: contrasting cardiometabolic actions of GIP and GLP1",
+   "jahr": "2023",
+   "journal": "Nat Rev Endocrinol",
+   "erstautor": "Hammoud R",
+   "doi": "10.1038/s41574-022-00783-3",
+   "typ": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide 1 (GLP1) exhibit incretin activity, meaning that they potentiate glucose-dependent insulin secretion. The emergence of GIP receptor (GIPR)-GLP1 receptor (GLP1R) co-agonists has fostered growing interest in the actions of GIP and GLP1 in metabolically relevant tissues. Here, we update concepts of how these hormones act beyond the pancreas. The actions of GIP and GLP1 on liver, muscle and adipose tissue, in the control of glucose and lipid homeostasis, are discussed in the context of plausible mechanisms of action. Both the GIPR and GLP1R are expressed in the central nervous system, wherein receptor activation produces anorectic effects enabling weight loss. In preclinical studies, GIP and GLP1 reduce atherosclerosis. Furthermore, GIPR and GLP1R are expressed within the heart and immune system, and GLP1R within the kidney, revealing putative mechanisms linking GIP and GLP1R agonism to cardiorenal protection. We interpret the clinical and mechanistic data obtained for different agents that enable weight loss and glucose control for the treatment of obesity and type 2 diabetes mellitus, respectively, by activating or blocking GIPR signalling, including the GIPR-GLP1R co-agonist tirzepatide, as well as the GIPR antagonist-GLP1R agonist AMG-133. Collectively, we update translational concepts of GIP and GLP1 action, while highlighting gaps, areas of uncertainty and controversies meriting ongoing investigation."
+  },
+  {
+   "pmid": "41054801",
+   "titel": "Novel GLP-1-based Medications for Type 2 Diabetes and Obesity",
+   "jahr": "2026",
+   "journal": "Endocr Rev",
+   "erstautor": "Son JW",
+   "doi": "10.1210/endrev/bnaf036",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "The approvals of semaglutide and tirzepatide have set new benchmarks in the treatment of type 2 diabetes and obesity. Building on their success, novel glucagon-like peptide-1 (GLP-1)-based therapeutics are rapidly advancing. These next-generation agents engage not only GLP-1 receptors but also those for other gastro-entero-pancreatic hormones such as glucose-dependent insulinotropic polypeptide (GIP), glucagon, amylin, and peptide YY to enhance energy uptake, storage, and expenditure through synergistic mechanisms. Both GIP receptor agonism and antagonism, particularly in combination with GLP-1 receptor agonism, have shown promise. Maridebart cafraglutide, combining GLP-1 receptor agonism with GIP receptor antagonism, exemplifies this innovative approach. Glucagon coagonists like survodutide and mazdutide have demonstrated significant weight loss and improved glycemic control. Amylin-based agents, including CagriSema (cagrilintide + semaglutide) and amycretin, enhance satiety and glycemic outcomes through complementary actions. Further innovation is seen in triple agonists such as retatrutide, which targets GIP, GLP-1, and glucagon receptors to amplify metabolic effects. Meanwhile, the emergence of orally active small-molecule GLP-1 receptor agonists like danuglipron and orforglipron, which are resistant to enzymatic degradation, marks a major advance in patient-friendly drug delivery. This review explores the mechanisms, clinical development, and therapeutic potential of these novel agents, excluding already approved drugs like liraglutide, semaglutide, and tirzepatide. We highlight how multireceptor agonists and oral GLP-1-based therapies may reshape the future landscape of obesity and type 2 diabetes treatment by offering more effective and better-tolerated options."
+  },
+  {
+   "pmid": "42592044",
+   "titel": "Design and therapeutic rationale of antibody-peptide conjugates: insights from maridebart cafraglutide (AMG133) and emerging applications",
+   "jahr": "2026",
+   "journal": "Antib Ther",
+   "erstautor": "Yie J",
+   "doi": "10.1093/abt/tbag029",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Therapeutic peptides have become an important class of pharmaceuticals, driven in part by the clinical success of long-acting incretin therapies. Despite their potency and specificity, peptides are intrinsically limited by rapid proteolytic degradation and renal clearance, resulting in short plasma half-lives and frequent dosing. Antibody-peptide conjugates represent an emerging class of biotherapeutics that combine the long half-life and target specificity of monoclonal antibodies (mAbs) with the chemical tunability and pharmacological activity of peptides. Unlike fusion proteins, antibody-peptide conjugates decouple peptide synthesis from antibody expression, enabling incorporation of non-proteinogenic amino acids, cyclic structures, and other chemical features that enhance peptide stability, potency, and half-life. This review examines the biological rationale, molecular design principles, and enabling technologies underlying antibody-peptide conjugates development, using the GIPR antagonist/GLP-1R agonist conjugate maridebart cafraglutide (AMG133) as a central case study. We illustrate how antibody-peptide conjugates can integrate complementary mechanisms of action into a single molecular entity and achieve sustained exposure profiles that are difficult to realize with fusion-based approaches. The discussion is extended to antibody-peptide conjugates programs across metabolic disease, oncology, neurology, pain, ocular, and infectious disease, highlighting recurring design themes such as half-life extension, targeted delivery, receptor-mediated internalization, and synergistic activity. Collectively, antibody-peptide conjugates represent a biology-driven and strategically important therapeutic modality that bridges antibody engineering and peptide medicinal chemistry. When guided by strong mechanistic rationale, antibody-peptide conjugates offer a powerful solution for therapeutic challenges that cannot be adequately addressed by peptides or antibodies alone."
+  },
+  {
+   "pmid": "38871982",
+   "titel": "Characterization of genetic variants of GIPR reveals a contribution of β-arrestin to metabolic phenotypes",
+   "jahr": "2024",
+   "journal": "Nat Metab",
+   "erstautor": "Kizilkaya HS",
+   "doi": "10.1038/s42255-024-01061-4",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Incretin-based therapies are highly successful in combatting obesity and type 2 diabetes1. Yet both activation and inhibition of the glucose-dependent insulinotropic polypeptide (GIP) receptor (GIPR) in combination with glucagon-like peptide-1 (GLP-1) receptor (GLP-1R) activation have resulted in similar clinical outcomes, as demonstrated by the GIPR-GLP-1R co-agonist tirzepatide2 and AMG-133 (ref. 3) combining GIPR antagonism with GLP-1R agonism. This underlines the importance of a better understanding of the GIP system. Here we show the necessity of β-arrestin recruitment for GIPR function, by combining in vitro pharmacological characterization of 47 GIPR variants with burden testing of clinical phenotypes and in vivo studies. Burden testing of variants with distinct ligand-binding capacity, Gs activation (cyclic adenosine monophosphate production) and β-arrestin 2 recruitment and internalization shows that unlike variants solely impaired in Gs signalling, variants impaired in both Gs and β-arrestin 2 recruitment contribute to lower adiposity-related traits. Endosomal Gs-mediated signalling of the variants shows a β-arrestin dependency and genetic ablation of β-arrestin 2 impairs cyclic adenosine monophosphate production and decreases GIP efficacy on glucose control in male mice. This study highlights a crucial impact of β-arrestins in regulating GIPR signalling and overall preservation of biological activity that may facilitate new developments in therapeutic targeting of the GIPR system."
+  },
+  {
+   "pmid": "41948476",
+   "titel": "Obesity pharmacotherapy reimagined: The era of multi-receptor agonists and next-generation metabolic modulators, perspectives and controversies",
+   "jahr": "2026",
+   "journal": "Metabol Open",
+   "erstautor": "Lempesis IG",
+   "doi": "10.1016/j.metop.2026.100463",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Obesity affects over 2 billion adults globally, with projections indicating that nearly two-thirds of adults will be affected by 2050. Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have transformed obesity treatment, achieving weight loss previously considered attainable only with bariatric surgery. However, GLP-1-based therapies have revealed important limitations, including weight loss plateaus, substantial inter-individual variability, and weight regain upon discontinuation, underscoring the need for next-generation approaches. Existing reviews have focused predominantly on approved GLP-1RAs, with limited synthesis of emerging multi-receptor agonists, oral formulations, and body composition-targeted agents, while guidance on treatment personalization and sequencing strategies remains limited. This review examines the evolving landscape of obesity pharmacotherapy beyond injectable GLP-1RAs. Oral GLP-1 agonists, including orforglipron, offer comparable efficacy to injectables while potentially improving global accessibility by eliminating cold-chain requirements and simplifying manufacturing. Multi-receptor agonists represent the most transformative developments: triple agonists such as retatrutide achieve weight reductions of 20-24%, while dual GLP-1/glucagon agonists like survodutide and mazdutide show strong efficacy with particular promise for metabolic-associated steatotic liver disease. Maridebart cafraglutide, combining GLP-1 agonism with glucose-dependent insulinotropic polypeptide (GIP) antagonism, enables once-monthly dosing. The amylin pathway has re-emerged through long-acting analogs (cagrilintide, eloralintide) and unimolecular co-agonists (amycretin), achieving weight reductions up to 24% via distinct neuroendocrine circuits. Body composition optimization through agents like bimagrumab addresses lean mass preservation during potent anorectic therapy. Personalized approaches, including setmelanotide for monogenic obesity, exemplify precision pharmacotherapy. Collectively, these advances signal a shift from appetite-centric weight loss toward integrated metabolic, neuroendocrine, and body-composition-focused disease modification. The next epoch of obesity pharmacotherapy will be defined by multi-receptor strategic combinations, targeted approaches to preserve lean mass, and personalized treatment algorithms. Critical priorities include phenotype-stratified trials, long-term safety surveillance, pediatric obesity research, and implementation science to ensure equitable global access. Balancing pharmacologic innovation with sustainable, equitable implementation remains the defining challenge ahead."
+  },
+  {
+   "pmid": "41337724",
+   "titel": "Once-Monthly Maridebart Cafraglutide in Obesity - A Phase 2 Trial. Reply",
+   "jahr": "2025",
+   "journal": "N Engl J Med",
+   "erstautor": "Jastreboff AM",
+   "doi": "10.1056/NEJMc2514331",
+   "typ": [
+    "Letter",
+    "Comment"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "40507574",
+   "titel": "The Premise of the Paradox: Examining the Evidence That Motivated GIPR Agonist and Antagonist Drug Development Programs",
+   "jahr": "2025",
+   "journal": "J Clin Med",
+   "erstautor": "Douros JD",
+   "doi": "10.3390/jcm14113812",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Emerging clinical data support the paradoxical notion that glucose-dependent insulinotropic polypeptide (GIP) receptor (GIPR) agonism and antagonism can provide additive weight loss when combined with a glucagon-like peptide 1 (GLP-1) receptor (GLP-1R) agonist. In this review, we examine data that motivated the initiation of these seemingly contradictory drug discovery programs. We focus on the physiologic role of GIP in humans, human genetics evidence, rodent genetic models, and preclinical rodent and non-human primate pharmacology studies. Furthermore, we highlight where early preclinical findings translated into relevant clinical efficacy in the development of tirzepatide and maridebart cafraglutide (MariTide)."
+  },
+  {
+   "pmid": "41287212",
+   "titel": "A metabolic comparison of GIPR agonism versus GIPR antagonism in male mice",
+   "jahr": "2026",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Davies I",
+   "doi": "10.1111/dom.70300",
+   "typ": [
+    "Journal Article",
+    "Comparative Study"
+   ],
+   "abstract": "AIMS: Targeting the glucose dependent insulinotropic polypeptide receptor (GIPR) is of growing interest for treating type 2 diabetes and obesity, though the optimal approach remains unclear. Both GIPR agonism and antagonism, respectively, incorporated into drugs like tirzepatide and maridebart cafraglutide, have paradoxically both shown significant weight loss effects in humans. MATERIALS AND METHODS: In this study, the metabolic impacts of a GIPR agonist (GIP108) and antagonist (NN-GIPR-Ant) were evaluated in lean and high-fat diet (HFD)-induced obese male mice. We assessed the impacts on food intake, body weight, glucose and insulin tolerance, liver triglyceride levels, bone markers and adipose tissue lipolytic gene expression. RESULTS: In lean mice, neither peptide affected food intake or body weight, but GIP108 improved glucose tolerance. In obese mice, both agents reduced food intake and body weight, with NN-GIPR-Ant producing more sustained appetite suppression. Energy expenditure remained unchanged, as weight loss matched that of pair-fed controls. GIP108 improved glucose tolerance independently of weight loss, whereas NN-GIPR-Ant reduced insulin sensitivity compared to pair-fed controls. Both treatments slightly increased liver triglyceride content compared to their pair-fed controls, and no treatment significantly affected plasma bone marker levels. Finally, NN-GIPR-Ant reduced the expression of adipose tissue lipolytic genes. CONCLUSIONS: Our data highlights the distinct metabolic effects of GIPR agonism and antagonism, offering insights for their future application in personalised metabolic disease treatments. Further human studies are needed to understand the long-term metabolic impacts of these therapies."
+  },
+  {
+   "pmid": "41337723",
+   "titel": "Once-Monthly Maridebart Cafraglutide in Obesity - A Phase 2 Trial",
+   "jahr": "2025",
+   "journal": "N Engl J Med",
+   "erstautor": "Muskiet MHA",
+   "doi": "10.1056/NEJMc2514331",
+   "typ": [
+    "Letter",
+    "Comment"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "38388678",
+   "titel": "Phase I results for AMG 133",
+   "jahr": "2024",
+   "journal": "Nat Rev Endocrinol",
+   "erstautor": "Greenhill C",
+   "doi": "10.1038/s41574-024-00967-z",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "41093047",
+   "titel": "Hypothalamic regulation of obesity: Revealing the therapeutic potential of a novel anti-obesity peptide",
+   "jahr": "2025",
+   "journal": "Vascul Pharmacol",
+   "erstautor": "Choo YN",
+   "doi": "10.1016/j.vph.2025.107553",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Obesity is a chronic, complex condition defined by excessive fat buildup due to an imbalance between caloric consumption and energy expenditure. The significant global rise in prevalence of obesity is associated with numerous comorbidities, such as cardiovascular disease, type 2 diabetes, and non-alcoholic fatty liver disease. Conventional management approaches, including diet, exercise, pharmacotherapy, and bariatric surgery, may demonstrate restricted long-term effectiveness owing to inadequate adherence and physiological adjustments. Recent advancements in neuroscience underscore the hypothalamus as a pivotal regulator of energy balance via essential nuclei, including the arcuate nucleus (ARC), paraventricular nucleus (PVN), lateral hypothalamic area (LHA), and ventromedial nucleus (VMN). This review examines the therapeutic potential of a new anti-obesity peptide that targets hypothalamic signalling pathways. Preclinical and clinical evidence endorses the utilization of glucagon-like peptide-1 receptor (GLP-1R) agonists and novel multi-receptor drugs such as AMG 133, which integrate GLP-1R activation with glucose-dependent insulinotropic polypeptide receptor (GIPR) antagonism. These therapies exhibit improved weight reduction and metabolic enhancement. Moreover, the integration of hypothalamic peptide therapy with lifestyle modifications or post-bariatric care provides synergistic advantages. Notwithstanding favorable results, peptide therapy encounters obstacles such as administration methods, sustained effectiveness, and expense. Overcoming these obstacles is crucial for the effective implementation of peptide-based treatments in sustained clinical obesity control."
+  },
+  {
+   "pmid": "42166683",
+   "titel": "The Paradox and Future of GLP-1/GIP Combination Therapies: Efficacy and Mechanisms",
+   "jahr": "2026",
+   "journal": "Annu Rev Nutr",
+   "erstautor": "Davies I",
+   "doi": "10.1146/annurev-nutr-061824-043740",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Glucagon-like peptide-1 (GLP-1)-based obesity pharmacotherapies have revolutionized obesity treatment. In this review, we discuss the discovery of GLP-1 and evaluate the efficacy of marketed and investigational GLP-1 receptor (GLP-1R) agonists (GLP-1RAs), most notably semaglutide, as well as their potential central mechanism of action. We highlight the GLP-1R/glucose-dependent insulinotropic polypeptide receptor (GIPR) dual agonist tirzepatide and the GLP-1RA/GIPR antagonist maridebart cafraglutide, discussing how both methods of GIPR targeting can produce beneficial metabolic effects. The lack of evidence for the anorectic effects of GIPR agonism or antagonism alone in humans is noted, and the review concludes with an evaluation of other reasons for the greater efficacy of GIPR/GLP-1R dual targeting compounds over semaglutide."
+  },
+  {
+   "pmid": "34176426",
+   "titel": "Emerging glucagon-like peptide 1 receptor agonists for the treatment of obesity",
+   "jahr": "2021",
+   "journal": "Expert Opin Emerg Drugs",
+   "erstautor": "Jepsen MM",
+   "doi": "10.1080/14728214.2021.1947240",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Introduction: Obesity is a growing threat to public health, increasing risks of numerous diseases and mortality, and impairing quality of life. If current trends continue, more than 1.1 billion individuals will have obesity in 2030, corresponding to almost 2.5 times the number of adults currently living with diabetes. There is a strong interest in developing obesity treatments based on glucagon-like peptide-1 (GLP-1) agonism, which have proved to limit morbidity and mortality in type 2 diabetes.Areas covered: This review provides an overview of current compounds containing GLP-1 receptor agonism in clinical development for obesity, with mono-activity at the GLP-1 receptor (PF-0688296, glutazumab, semaglutide) or engaging one or more other endogenous hormonal systems involved in energy balance and metabolism, including glucagon, oxyntomodulin, glucose-dependent inhibitory peptide and amylin (CT-868, CT-388, AMG 133, tirzepatide, NNC9204-1177, JNJ-54,728,518, SAR425899, pegapamodutide, MK8521, cotadutide, efinopegdutide, BI-456,906, cagrilintide + semaglutide 2,4 mg, HM15211, NNC9204-1706).Expert opinion: Many novel compounds employing GLP-1 receptor agonism are in clinical development. Semaglutide is farthest in clinical development and will presumably become a benchmark for this class of novel anti-obesity compounds."
+  },
+  {
+   "pmid": "42833423",
+   "titel": "Bidirectional pharmacology of GIP receptor targeting in obesity: Historical foundations, mechanistic divergence, and translational boundaries",
+   "jahr": "2026",
+   "journal": "Peptides",
+   "erstautor": "Liu C",
+   "doi": "10.1016/j.peptides.2026.171524",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "The glucose-dependent insulinotropic polypeptide receptor (GIPR) has emerged as a central target in next-generation anti-obesity drug development. Its pharmacology, however, presents an apparent paradox: sustained GIPR agonism and GIPR antagonism can both lower body weight, and both can augment weight loss produced by glucagon-like peptide-1 receptor (GLP-1R) agonism. For this structured narrative review, PubMed/MEDLINE and ClinicalTrials.gov were searched from database inception through 1 August 2026 using prespecified terms for receptors, interventions, obesity, and bariatric surgery to identify basic, translational, and clinical studies available. Retrieved records underwent staged title/abstract screening and full-text eligibility assessment. The evidence was integrated across three levels: selective GIPR modulation, combined GIPR and GLP-1R modulation, and applications after metabolic and bariatric surgery. Recent rodent studies support a working model in which long-acting GIPR agonism engages GABAergic and area-postrema-related circuits, whereas the added weight-lowering effect of GIPR antagonism in several GLP-1R-containing combination models depends on intact GLP-1R signaling and hypothalamic GIPR networks. These mechanisms remain incompletely validated in humans. Clinically, tirzepatide has demonstrated the efficacy of GIPR/GLP-1R co-agonism, whereas maridebart cafraglutide provides phase 2 evidence for GIPR antagonism combined with GLP-1R agonism; nevertheless, the efficacy of these multi-receptor agents cannot be attributed simply to a single GIPR component. Metabolic and bariatric surgery is discussed as a translational context in which altered incretin physiology limits direct extrapolation from nonsurgical obesity trials. Future studies should use stratified designs grounded in receptor pharmacology, brain-region specificity, type of bariatric procedure, and postoperative metabolic phenotype, while assessing fat mass, lean mass, hepatic fat, bone metabolism, gastrointestinal tolerability, hypoglycemia, and weight regain after treatment withdrawal."
+  },
+  {
+   "pmid": "41941715",
+   "titel": "Discovery of AMG 133, a Glucose-Dependent Insulinotropic Polypeptide Receptor Antagonist and Glucagon-Like Peptide 1 Receptor Agonist Antibody-Drug Conjugate for the Treatment of Obesity",
+   "jahr": "2026",
+   "journal": "J Med Chem",
+   "erstautor": "Wu B",
+   "doi": "10.1021/acs.jmedchem.6c00032",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Multispecific therapeutics represent an increasingly important approach for enhancing the efficacy in complex diseases. Here, we report the design and optimization of novel antibody-peptide conjugates that combine glucose-dependent insulinotropic polypeptide receptor (GIPR) antagonism with glucagon-like peptide 1 (GLP-1) receptor (GLP-1R) agonism for the treatment of obesity. A series of hybrid molecules was generated by conjugating synthetic GLP-1 peptides to IgG-based anti-GIPR antibodies, yielding markedly prolonged systemic exposure of the structurally intact GLP-1 peptide. In diet-induced obese mice and obese monkeys, once weekly administration of anti-GIPR-Ab/GLP-1 conjugates produced sustained body weight loss and improvements in metabolic parameters. This optimization effort culminated in the discovery of AMG 133, currently in phase III clinical trials with a profile that may support monthly dosing."
+  },
+  {
+   "pmid": "36608818",
+   "titel": "An update on peptide-based therapies for type 2 diabetes and obesity",
+   "jahr": "2023",
+   "journal": "Peptides",
+   "erstautor": "Bailey CJ",
+   "doi": "10.1016/j.peptides.2023.170939",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Long-acting analogues of the naturally occurring incretin, glucagon-like peptide-1 (GLP-1) and those modified to interact also with receptors for glucose-dependent insulinotropic polypeptide (GIP) have shown high glucose-lowering and weight-lowering efficacy when administered by once-weekly subcutaneous injection. These analogues herald an exciting new era in peptide-based therapy for type 2 diabetes (T2D) and obesity. Of note is the GLP-1R agonist semaglutide, available in oral and injectable formulations and in clinical trials combined with the long-acting amylin analogue, cagrilintide. Particularly high efficacy in both glucose- and weight lowering capacities has also been observed with the GLP-1R/GIP-R unimolecular dual agonist, tirzepatide. In addition, a number of long-acting unimolecular GLP-1R/GCGR dual agonist peptides and GLP-1R/GCGR/GIPR triagonist peptides have entered clinical trials. Other pharmacological approaches to chronic weight management include the human monoclonal antibody, bimagrumab which blocks activin type II receptors and is associated with growth of skeletal muscle, an antibody blocking activation of GIPR to which are conjugated GLP-1R peptide agonists (AMG-133), and the melanocortin-4 receptor agonist, setmelanotide for use in certain inherited obesity conditions. The high global demand for the GLP-1R agonists liraglutide and semaglutide as anti-obesity agents has led to shortage so that their use in T2D therapy is currently being prioritized."
+  },
+  {
+   "pmid": "42198313",
+   "titel": "Diabetes Mellitus and Stroke: Pathophysiological Connections and Therapeutic Potential of GLP-1 and GLP-1/GIP Receptor Agonists",
+   "jahr": "2026",
+   "journal": "Pharmaceutics",
+   "erstautor": "Paceana MA",
+   "doi": "10.3390/pharmaceutics18050620",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Both diabetes mellitus (DM) and stroke are major global health challenges with high morbidity and mortality. DM is a major risk factor for stroke, contributing to both increased incidence and worse clinical outcomes. Incretin-based therapies, including glucagon-like peptide-1 receptor agonists (GLP-1 RAs), as well as dual agonists like tirzepatide, have demonstrated significant cardiovascular benefits, raising interest in their potential cerebrovascular effects. This narrative review examines the pathophysiological links between DM and stroke and summarizes recent clinical evidence on the efficacy of GLP-1 RAs and dual GLP-1/GIP receptor agonists (GLP-1/GIP RAs) in stroke prevention and management. Current evidence from large cardiovascular outcome trials supports the role of GLP-1 RAs in reducing major adverse cardiovascular events, including stroke, primarily in the context of primary and secondary prevention. Findings suggest that semaglutide and liraglutide may reduce non-fatal stroke incidence, decrease hospitalizations, and improve neurological outcomes in patients with prior stroke. Comparative analyses of major trials suggest that, although stroke reduction may be a class effect of GLP-1 RAs, meaningful differences exist between individual agents, likely due to variations in pharmacokinetics, receptor affinity, and study populations. Additionally, much of the evidence in acute stroke derives from early-phase or ongoing trials, warranting cautious interpretation. Novel therapies, including orforglipron and retatrutide, as well as combinations like Maridebart cafraglutide and CagriSema, may expand future therapeutic options for individuals at high cerebrovascular risk. GLP-1-based therapies show promising neurovascular effects, but large-scale, long-term studies are needed to define their role in post-stroke management and cerebrovascular risk reduction. Overall, GLP-1 RAs should currently be regarded primarily as agents for long-term vascular risk reduction rather than established therapies for acute stroke. While potential neuroprotective effects are emerging, these require confirmation in adequately powered randomized trials. Future studies should aim to identify the patient subgroups most likely to benefit and to determine whether specific agents confer advantages in acute cerebrovascular contexts. A better understanding of the mechanisms underlying potential neuroprotection will be essential to determine whether these therapies can be effectively integrated into stroke management strategies."
+  },
+  {
+   "pmid": "38763780",
+   "titel": "Antagonizing GIPR adds fire to the GLP-1R flame",
+   "jahr": "2024",
+   "journal": "Trends Endocrinol Metab",
+   "erstautor": "Novikoff A",
+   "doi": "10.1016/j.tem.2024.04.016",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Unimolecular co-agonists at the GLP-1/GIP receptors have recently achieved remarkable anti-obesogenic feats; yet, in a recent Phase 1 clinical trial, Véniant and colleagues report astounding body-weight loss, and an appreciable safety profile, in participants with obesity using the GLP-1R agonist/GIPR antagonist AMG 133."
+  },
+  {
+   "pmid": "41337722",
+   "titel": "Once-Monthly Maridebart Cafraglutide in Obesity - A Phase 2 Trial",
+   "jahr": "2025",
+   "journal": "N Engl J Med",
+   "erstautor": "Liu QK",
+   "doi": "10.1056/NEJMc2514331",
+   "typ": [
+    "Letter",
+    "Comment"
+   ],
+   "abstract": ""
+  }
+ ],
+ "ctgov": [
+  {
+   "nct": "NCT07871409",
+   "titel": "Home Self-administration of Maridebart Cafraglutide With Autoinjector in Adults Living With Obesity or Overweight",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "NOT_YET_RECRUITING",
+   "teilnehmende": 230,
+   "start": "2026-10-28",
+   "ende": "2027-09-08",
+   "erkrankungen": [
+    "Obesity",
+    "Overweight"
+   ],
+   "sponsor": "Amgen",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07037459",
+   "titel": "Maridebart Cafraglutide in Heart Failure With Preserved or Mildly Reduced Ejection Fraction and Obesity",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 5056,
+   "start": "2025-06-25",
+   "ende": "2030-09-29",
+   "erkrankungen": [
+    "Heart Failure With Preserved Ejection Fraction",
+    "Heart Failure With Mildly Reduced Ejection Fraction",
+    "Obesity"
+   ],
+   "sponsor": "Amgen",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07313761",
+   "titel": "A Trial to Compare the Extent to Which Maridebart Cafraglutide (AMG 133) is Made Available in the Body When Administered Using Two Subcutaneous Presentations",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 349,
+   "start": "2025-12-15",
+   "ende": "2026-07-02",
+   "erkrankungen": [
+    "Overweight and Obesity"
+   ],
+   "sponsor": "Amgen",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07229157",
+   "titel": "Effect of Maridebart Cafraglutide on the Heart's Electrical Activity",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 81,
+   "start": "2025-10-22",
+   "ende": "2026-08-27",
+   "erkrankungen": [
+    "Overweight",
+    "Obesity"
+   ],
+   "sponsor": "Amgen",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07037433",
+   "titel": "Evaluating the Impact of Maridebart Cafraglutide on Cardiovascular Outcomes in Participants With Atherosclerotic Cardiovascular Disease and Overweight or Obesity",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 12800,
+   "start": "2025-07-25",
+   "ende": "2030-09-29",
+   "erkrankungen": [
+    "Atherosclerotic Cardiovascular Disease",
+    "Overweight",
+    "Obesity"
+   ],
+   "sponsor": "Amgen",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07226778",
+   "titel": "Comparing the Extent to Which Maridebart Cafraglutide (AMG 133) is Made Available in the Body When Administered Using Two Subcutaneous (SC) Presentations",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 348,
+   "start": "2025-10-10",
+   "ende": "2026-05-28",
+   "erkrankungen": [
+    "Overweight",
+    "Obesity"
+   ],
+   "sponsor": "Amgen",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07684235",
+   "titel": "Extension Trial to Evaluate the Long-term Efficacy, Safety, and Tolerability of Maridebart Cafraglutide (MARITIME-1-EXTENSION)",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 3200,
+   "start": "2026-07-23",
+   "ende": "2028-03-19",
+   "erkrankungen": [
+    "Obesity",
+    "Overweight"
+   ],
+   "sponsor": "Amgen",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07429045",
+   "titel": "A Trial to Assess the Effect of Kidney Impairment on How AMG 133 is Absorbed, Broken Down, and Eliminated by the Body",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 44,
+   "start": "2025-03-11",
+   "ende": "2025-11-21",
+   "erkrankungen": [
+    "Overweight and Obesity"
+   ],
+   "sponsor": "Amgen",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07575399",
+   "titel": "Efficacy, Safety and Tolerability of Switching From Glucagon-like Peptide-1 Receptor Agonists (GLP-1RA) to Maridebart Cafraglutide in Adults With Obesity or Overweight (MARITIME-SWITCH)",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 300,
+   "start": "2026-05-11",
+   "ende": "2028-02-28",
+   "erkrankungen": [
+    "Obesity or Overweight"
+   ],
+   "sponsor": "Amgen",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07684144",
+   "titel": "Extension Trial to Evaluate the Long-term Efficacy, Safety, and Tolerability of Maridebart Cafraglutide (MARITIME-2-EXTENSION)",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 950,
+   "start": "2026-07-29",
+   "ende": "2028-03-19",
+   "erkrankungen": [
+    "Obesity",
+    "Overweight",
+    "Diabetes Mellitus, Type 2"
+   ],
+   "sponsor": "Amgen",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06858839",
+   "titel": "Evaluation of Maridebart Cafraglutide in Adult Participants Without Type 2 Diabetes Mellitus Who Have Obesity or Are Overweight",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 3853,
+   "start": "2025-03-12",
+   "ende": "2027-04-16",
+   "erkrankungen": [
+    "Obesity"
+   ],
+   "sponsor": "Amgen",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05056246",
+   "titel": "Study of AMG 133 Administered Subcutaneously in Healthy Japanese and Caucasian Participants",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 34,
+   "start": "2021-09-10",
+   "ende": "2022-04-08",
+   "erkrankungen": [
+    "Healthy Participants"
+   ],
+   "sponsor": "Amgen",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT06987695",
+   "titel": "Efficacy and Safety of Maridebart Cafraglutide in Adult Participants in Japan Who Have Obesity Disease",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 279,
+   "start": "2025-06-13",
+   "ende": "2027-07-21",
+   "erkrankungen": [
+    "Obesity Disease"
+   ],
+   "sponsor": "Amgen",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07523711",
+   "titel": "Effect of Maridebart Cafraglutide on How Oral Contraceptives Are Absorbed and Processed in the Body in Postmenopausal Female Participants Living With Overweight or Obesity",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 49,
+   "start": "2026-04-09",
+   "ende": "2026-11-18",
+   "erkrankungen": [
+    "Overweight",
+    "Obesity"
+   ],
+   "sponsor": "Amgen",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07717814",
+   "titel": "A Trial to Assess Bioavailability of AMG 133 in Participants With Overweight or Obesity",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 154,
+   "start": "2024-11-26",
+   "ende": "2025-06-02",
+   "erkrankungen": [
+    "Overweight and Obesity"
+   ],
+   "sponsor": "Amgen",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06976372",
+   "titel": "A Study to Evaluate AMG 133 Administered Subcutaneously in Participants With Overweight or Obesity",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 120,
+   "start": "2024-08-20",
+   "ende": "2024-12-27",
+   "erkrankungen": [
+    "Overweight",
+    "Obesity"
+   ],
+   "sponsor": "Amgen",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT04478708",
+   "titel": "Single and Multiple Ascending Dose Study of AMG 133 in Participants With Obesity",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 110,
+   "start": "2020-08-07",
+   "ende": "2022-11-18",
+   "erkrankungen": [
+    "Obesity"
+   ],
+   "sponsor": "Amgen",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT05669599",
+   "titel": "Dose-ranging Study to Evaluate the Efficacy, Safety, and Tolerability of AMG 133 in Adult Subjects With Overweight or Obesity, With or Without Type 2 Diabetes Mellitus",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 592,
+   "start": "2023-01-18",
+   "ende": "2025-12-16",
+   "erkrankungen": [
+    "Obesity",
+    "Overweight",
+    "Type 2 Diabetes Mellitus"
+   ],
+   "sponsor": "Amgen",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06352892",
+   "titel": "A Study to Evaluate AMG 133 in Chinese Participants With Obesity or Overweight",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 20,
+   "start": "2024-04-25",
+   "ende": "2024-08-27",
+   "erkrankungen": [
+    "Obesity"
+   ],
+   "sponsor": "Amgen",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07832799",
+   "titel": "Comparing the Extent to Which Two Maridebart Cafraglutide Drug Products Are Made Available in the Body After a Single Subcutaneous Dose",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "NOT_YET_RECRUITING",
+   "teilnehmende": 340,
+   "start": "2026-10-12",
+   "ende": "2027-03-23",
+   "erkrankungen": [
+    "Overweight",
+    "Obesity"
+   ],
+   "sponsor": "Amgen",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07226765",
+   "titel": "Maridebart Cafraglutide Versus Placebo in Adult Participants With Obstructive Sleep Apnea Not on Positive Airway Pressure (PAP) Therapy",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 250,
+   "start": "2025-11-25",
+   "ende": "2028-09-13",
+   "erkrankungen": [
+    "Obstructive Sleep Apnea"
+   ],
+   "sponsor": "Amgen",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06660173",
+   "titel": "A Study of Maridebart Cafraglutide in Adult Participants With Type 2 Diabetes Mellitus (T2DM)",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 409,
+   "start": "2024-11-07",
+   "ende": "2026-11-10",
+   "erkrankungen": [
+    "Type 2 Diabetes Mellitus (T2DM)"
+   ],
+   "sponsor": "Amgen",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07429032",
+   "titel": "The Effect of AMG 133 on Gastric Emptying",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 57,
+   "start": "2025-04-17",
+   "ende": "2025-11-26",
+   "erkrankungen": [
+    "Overweight or Obesity"
+   ],
+   "sponsor": "Amgen",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07225686",
+   "titel": "Maridebart Cafraglutide Versus Placebo in Adult Participants With Obstructive Sleep Apnea on Positive Airway Pressure Therapy",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 250,
+   "start": "2025-12-19",
+   "ende": "2028-07-21",
+   "erkrankungen": [
+    "Obesity",
+    "Obstructive Sleep Apnea"
+   ],
+   "sponsor": "Amgen",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07160257",
+   "titel": "A Study to Evaluate the Effect of Maridebart Cafraglutide on Insulin Sensitivity and β-cell Function in Participants With Type 2 Diabetes Mellitus",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 56,
+   "start": "2025-08-05",
+   "ende": "2027-03-04",
+   "erkrankungen": [
+    "Type 2 Diabetes Mellitus"
+   ],
+   "sponsor": "Amgen",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07866066",
+   "titel": "Maridebart Cafraglutide Versus Semaglutide in Participants With Type 2 Diabetes",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "NOT_YET_RECRUITING",
+   "teilnehmende": 1300,
+   "start": "2026-11-02",
+   "ende": "2028-12-04",
+   "erkrankungen": [
+    "Diabetes Mellitus, Type 2"
+   ],
+   "sponsor": "Amgen",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06858878",
+   "titel": "Efficacy and Safety of Maridebart Cafraglutide in Adult Participants With Type 2 Diabetes Mellitus Who Have Obesity or Are Overweight",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 1105,
+   "start": "2025-03-17",
+   "ende": "2027-04-16",
+   "erkrankungen": [
+    "Type 2 Diabetes Mellitus (T2DM), Obesity, Overweight"
+   ],
+   "sponsor": "Amgen",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07441252",
+   "titel": "A Trial to Evaluate Efficacy and Safety of Maridebart Cafraglutide in Adults Living With Elevated Liver Fat and Obesity or Overweight",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 180,
+   "start": "2026-03-05",
+   "ende": "2027-11-17",
+   "erkrankungen": [
+    "Overweight or Obesity and Elevated Liver Fat"
+   ],
+   "sponsor": "Amgen",
+   "ergebnisse": false
+  }
+ ],
+ "gruppe": "A_stoffwechsel"
+}

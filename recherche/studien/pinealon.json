@@ -1,0 +1,220 @@
+{
+ "name": "Pinealon",
+ "status": "nicht_zugelassen",
+ "suchbegriff_pubmed": "pinealon[tiab]",
+ "suchbegriff_ctgov": "pinealon",
+ "humanstudien_alle": [
+  {
+   "pmid": "23734521",
+   "titel": "[The peptide correction of neurotic disorders among professional truck-drivers]",
+   "jahr": "2012",
+   "journal": "Adv Gerontol",
+   "erstautor": "Bashkireva AS",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "English Abstract",
+    "Journal Article"
+   ]
+  }
+ ],
+ "humanstudien_detail": [
+  {
+   "pmid": "23734521",
+   "titel": "[The peptide correction of neurotic disorders among professional truck-drivers]",
+   "jahr": "2012",
+   "journal": "Adv Gerontol",
+   "erstautor": "Bashkireva AS",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "This study was designed to estimate the neurobehavioral status and to compare the prevalence of psychoadaptive disorders among lorry-drivers (experimental group) and metal craftsmen (control group) in connection with their age, length of service, occupational hazards, work schedule and sociodemographic characteristics. 150 male lorry-drivers (mean age 43.3 +/- 0.9) and 150 male metal craftsmen (mean age 42.8 +/- 0.9) were examined using a clinical questionnaire to identify, estimate and compare neurotic states. The study comprised 3 groups: 1st--subjects with stable psychic adaptation, 2nd--subjects with unstable psychic adaptation, a risk group, 3rd--subjects with stable psychic disadaptation, i.e. with some borderline mental disorders (BMD). Significant differences in the prevalence of psychic adaptation and disadaptation among groups under study were found. The predominance of the 2nd and 3rd groups among lorry-drivers in comparison with control group was found. The results showed that social and demographic characteristics had no significant influence neither in experimental nor in control groups (p > 0.1). Variability of psychoemotional imbalance levels among lorry-drivers was found to be due to a combination of the following factors: occupational exposure and their work schedule, while in control group--to the age of metal craftsmen. Comparative analysis of neurobehavioral disorders revealed the predominance of the asthenic symptoms, anxious and depressive manifestations, hysterical reactions among lorry-drivers, and the vegetative disorders only in control group. The results thus obtained support the hypothesis of occupational hazards and long driving experience being the risk factors for the development of BMD. The application of bioregulating peptides was found to restore the organism adaptive potential, improved psychoemotional indices, intensified resistance to work stress and reduced occupational risk of borderline mental disorders (p < 0.001-0.05). The best effect was obtained in case of combined application of several cytogens (pinealon and vezugen), which were optimally selected regarding the effect of each adverse occupational factor on a target organ or system. The employed parameters of psychoemotional state were rather informative for assessing the peptidergic properties of cytogens in occupational medicine and geriatrics."
+  }
+ ],
+ "metaanalysen": [],
+ "praeklinik": [
+  {
+   "pmid": "41490200",
+   "titel": "Therapeutic Peptides in Orthopaedics: Applications, Challenges, and Future Directions",
+   "jahr": "2026",
+   "journal": "J Am Acad Orthop Surg Glob Res Rev",
+   "erstautor": "Rahman OF",
+   "doi": "10.5435/JAAOSGlobal-D-25-00236",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Therapeutic peptides are emerging as promising adjuncts in the management of orthopaedic injuries, grounded in their ability to modulate molecular signaling networks central to cellular medicine. By acting on key pathways such as PI3K/Akt, mTOR, MAPK, TGF-β, and AMPK, peptides exert influence over tissue regeneration, inflammation resolution, and neuromuscular recovery. Wound-healing peptides such as BPC-157, TB-500, and GHK-Cu promote angiogenesis, integrin-mediated extracellular matrix remodeling, and fibroblast activation, whereas growth hormone secretagogues like ipamorelin, CJC-1295, tesamorelin, sermorelin, and AOD-9604 activate IGF-1 signaling and satellite cell repair. Recovery-enhancing agents such as epithalon, delta sleep-inducing peptide, and pinealon target circadian and mitochondrial regulators, and neuroactive peptides like selank, semax, and dihexa enhance brain-derived neurotrophic factor and HGF/c-Met pathways critical to neuroplasticity. Although preclinical studies are promising, there is a current lack of clinical trials. This review integrates current mechanistic insights with orthopaedic relevance, emphasizing safety, efficacy, and future directions for responsible integration into musculoskeletal care."
+  },
+  {
+   "pmid": "22708445",
+   "titel": "[Analysis of some parameters of biological age and adaptation possibilities of workers of locomotive brigades]",
+   "jahr": "2012",
+   "journal": "Adv Gerontol",
+   "erstautor": "Nazimko VA",
+   "doi": "",
+   "typ": [
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "The unfavorable factors of professional work of workers of locomotive brigades influence on speed of aging and adaptation possibilities of an organism. Analysis of the data obtained confirms the positive use of the peptide bioregulator Pinealon in maintenance the professional reliability of workers of locomotive brigades. Workers of locomotive brigades used preparation during two weeks (1 capsule containing 100 mkg of Pinealon 2 times a day). Pinealon application has improved parameters of biological age and indicators determining the effectiveness of adaptive reactions."
+  },
+  {
+   "pmid": "22567179",
+   "titel": "Pinealon protects the rat offspring from prenatal hyperhomocysteinemia",
+   "jahr": "2012",
+   "journal": "Int J Clin Exp Med",
+   "erstautor": "Arutjunyan A",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The offspring of rats with experimental hyperhomocysteinemia caused by alimentary loading with dietary methionine within pregnancy has been studied. Using pinealon (Glu-Asp-Arg) under these conditions was found to result in the offspring cognitive function being improved significantly and their cerebellum neurons becoming more resistant to oxidative stress. This may be proved by the fact that the administration of pinealon to pregnant rats loaded with methionine improved their offspring spatial orientation and learning ability and decreased both reactive oxygen species accumulation and the number of necrotic cells in the population of the neurons isolated from the cerebellum of the offspring developed under the prenatal hyperhomocysteinemia. Our experiments allowed confirming the neuroprotective properties of pinealon, which is in agreement with the previous data obtained by us in vitro."
+  },
+  {
+   "pmid": "21978084",
+   "titel": "Pinealon increases cell viability by suppression of free radical levels and activating proliferative processes",
+   "jahr": "2011",
+   "journal": "Rejuvenation Res",
+   "erstautor": "Khavinson V",
+   "doi": "10.1089/rej.2011.1172",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The synthetic tripeptide pinealon (Glu-Asp-Arg) demonstrates dose-dependent restriction of reactive oxygen species (ROS) accumulation in cerebellar granule cells, neutrophils, and pheochromocytoma (PC12) cells, induced by oxidative stress stimulated by receptor-dependent or -independent processes. At the same time, pinealon decreases necrotic cell death measured by the propidium iodide test. The protective effect of pinealon is accompanied with a delayed time course of ERK 1/2 activation and modification of the cell cycle. Because restriction of ROS accumulation and cell mortality is saturated at lower concentrations, whereas cell cycle modulation continues at higher concentrations of pinealon, one can conclude that besides its known antioxidant activity, pinealon is able to interact directly with the cell genome."
+  },
+  {
+   "pmid": "18546825",
+   "titel": "[Investigation of antihypoxic properties of short peptides]",
+   "jahr": "2008",
+   "journal": "Adv Gerontol",
+   "erstautor": "Kozina LS",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The data presented suggest that short regulatory peptides (vilon, epitalon, vesugen and pinealon) have manifested the antihypoxic properties in the model of hypobaric hypoxia. Pinealon (Glu-Asp-Arg) has the most pronounced effect among them. The capability of pinealon to increase the neuronal resistance to hypoxic stress in experiments with prenatal hypoxia has a complex nature. It is based not so much on the inhibition of ROS increase in cells in response to stress as on stimulation of internal antioxidative enzyme system and possibly limiting the excitotoxic effect of N-methyl-D-aspartate."
+  },
+  {
+   "pmid": "28539017",
+   "titel": "[Comparative analysis of different methods of geroprotective]",
+   "jahr": "2016",
+   "journal": "Adv Gerontol",
+   "erstautor": "Myakotnykh VS",
+   "doi": "",
+   "typ": [
+    "Comparative Study",
+    "Journal Article"
+   ],
+   "abstract": "In the monitoring process 110 representatives of different age groups held a comparative analysis of the efficacy and safety of several geroprotective techniques, including the use of dry carbon dioxide baths, hyperbaric oxygen therapy, therapeutic massage and receiving Oligopeptide preparations containing complexes lysyl-glutamyl-asparagin and glutamyl-asparagin-arginine (Vezugen and Pinealon). The most pronounced positive impact on indicators of biological age were detected during the combined use of these two Oligopeptide complexes. The most safe from the point of view of influence on a number of biochemical, immunological parameters, clinical condition of the patients were therapeutic massage and Oligopeptide drugs. The use of dry carbon dioxide baths and hyperbaric oxygenation with an undoubtedly positive influence on the indices of biological age has a number of limitations and contraindications regarding its security. У 110 пациентов разного возраста проведен сравнительный анализ эффективности и безопасности нескольких геропротекторных методик, включавших использование сухих углекислых ванн, гипербарической оксигенации, лечебного массажа и приема олигопептидных препаратов, содержащих комплексы лизил-глутамил-аспарагин и глутамил-аспаригил-аргинин (Везуген и Пинеалон). Наиболее отчетливое позитивное влияние на показатели биологического возраста обнаружено при сочетанном применении двух названных олигопептидных комплексов. Наиболее безопасными с точки зрения воздействия на целый ряд биохимических, иммунных показателей и на клиническое состояние пациентов оказались лечебный массаж и олигопептидные препараты. Применение сухих углекислых ванн и гипербарической оксигенации, при несомненно позитивном влиянии на показатели биологического возраста, имеет ряд ограничений и противопоказаний."
+  },
+  {
+   "pmid": "22117547",
+   "titel": "Penetration of short fluorescence-labeled peptides into the nucleus in HeLa cells and in vitro specific interaction of the peptides with deoxyribooligonucleotides and DNA",
+   "jahr": "2011",
+   "journal": "Biochemistry (Mosc)",
+   "erstautor": "Fedoreyeva LI",
+   "doi": "10.1134/S0006297911110022",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Marked fluorescence in cytoplasm, nucleus, and nucleolus was observed in HeLa cells after incubation with each of several fluorescein isothiocyanate-labeled peptides (epithalon, Ala-Glu-Asp-Gly; pinealon, Glu-Asp-Arg; testagen, Lys-Glu-Asp-Gly). This means that short biologically active peptides are able to penetrate into an animal cell and its nucleus and, in principle they may interact with various components of cytoplasm and nucleus including DNA and RNA. It was established that various initial (intact) peptides differently affect the fluorescence of the 5,6-carboxyfluorescein-labeled deoxyribooligonucleotides and DNA-ethidium bromide complexes. The Stern-Volmer constants characterizing the degree of fluorescence quenching of various single- and double-stranded fluorescence-labeled deoxyribooligonucleotides with short peptides used were different depending on the peptide primary structures. This indicates the specific interaction between short biologically active peptides and nucleic acid structures. On binding to them, the peptides discriminate between different nucleotide sequences and recognize even their cytosine methylation status. Judging from corresponding constants of the fluorescence quenching, the epithalon, pinealon, and bronchogen (Ala-Glu-Asp-Leu) bind preferentially with deoxyribooligonucleotides containing CNG sequence (CNG sites are targets for cytosine DNA methylation in eukaryotes). Epithalon, testagen, and pinealon seem to preferentially bind with CAG- but bronchogen with CTG-containing sequences. The site-specific interactions of peptides with DNA can control epigenetically the cell genetic functions, and they seem to play an important role in regulation of gene activity even at the earliest stages of life origin and in evolution."
+  },
+  {
+   "pmid": "26390612",
+   "titel": "[EFFECT OF SYNTHETIC PEPTIDES ON AGING OF PATIENTS WITH CHRONIC POLYMORBIDITY AND ORGANIC BRAIN SYNDROME OF THE CENTRAL NERVOUS SYSTEM IN REMISSION]",
+   "jahr": "2015",
+   "journal": "Adv Gerontol",
+   "erstautor": "Meshchaninov VN",
+   "doi": "",
+   "typ": [
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "We've estimated the cellular and metabolic part of geroprophylactic effects of short synthetic tripeptides vesugen and pinealon for correction of the biological age. 32 people (18 men, 12 women) aged 41-83 years with polymorbidity and the organic brain syndrome in remission participated in the study. The preparations of \"Pinealon\" and \"Vesugen\" have had the significant anabolic effect. They have improved the activity of the Central nervous system and other vital organs, which slows the rate of aging by biological age indicators. Vesugen has demonstrated more visible geroprophylactic effect than Pinealon. At the same time we've found the prooxidant activity through chemiluminescence. Decrease of markers CD34+ positive hematopoietic polypotent cells in blood has shown significant inhibition of hemopoiesis. Apparently, the cells have not been involved in the adaptive reactions. Pinealon and Vesugen haven't affected the degree of chromatin condensation, so they are safe on nuclear genetic level. This property should be studied in future. In geriatric practice, we recommend to apply the peptides Pinealon and Vesugen as geroprotectors anabolic neuroprotective and no antioxidant type for reducing the rate of aging in patients with the organic brain syndrome vascular and/or traumatic genesis."
+  },
+  {
+   "pmid": "24738258",
+   "titel": "[Neuroprotective effects of peptides bioregulators in people of various age]",
+   "jahr": "2013",
+   "journal": "Adv Gerontol",
+   "erstautor": "Umnov RS",
+   "doi": "",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "The review presents comparative characteristics of 2 peptide neuroprotective groups: polypeptide complexes (cortexin, cerebrolizin) and short peptides (semax, kortagen, pinealon). The data of clinical applying of peptides in elderly and old age people and cellular and molecular mechanisms of their neuroprotective activity is described."
+  },
+  {
+   "pmid": "28509493",
+   "titel": "[Pinealon and Cortexin influence on behavior and neurochemical processes in 18-month aged rats within hypoxia and hypothermia]",
+   "jahr": "2015",
+   "journal": "Adv Gerontol",
+   "erstautor": "Mendzheritsky AM",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The research of Cortexin and Pinealon within two models of stress, acute hypobaric hypoxia and mild hypothermia, within 18-month aged rats has been held. The peculiarities of peptide preparations' influence on behavior and neurochemical indeces have been identified. Cortexin shows a more pronounced effect on free radical processes and caspase 3 activity in brain than Pinealon. Both preparations forward an accumulation of adrenergic mediator within rats' brains in the model of acute hypobaric hypoxia, as well as serotonin within cerebrum cortex in the model of mild hypothermia, which may underlie their geroprotective effects. Исследовано влияние Кортексина и Пинеалона в двух моделях стресса — острой гипобарической гипоксии и умеренной гипотермии у 18-месячных крыс. Выявлены особенности влияния пептидных препаратов на поведенческие и нейрохимические показатели. Кортексин оказывает более выраженное действие на свободнорадикальные процессы и активность каспазы 3 в мозгу, чем Пинеалон. Оба препарата способствуют накоплению адренергических медиаторов в мозгу крыс в модели острой гипобарической гипоксии, а также серотонина в коре больших полушарий при умеренной гипотермии, что может лежать в основе их геропротекторных эффектов."
+  },
+  {
+   "pmid": "21809624",
+   "titel": "[Effects of introduction of short peptides before carotid artery occlusion on behaviour and caspase-3 activity in the brain of old rats]",
+   "jahr": "2011",
+   "journal": "Adv Gerontol",
+   "erstautor": "Mendzheritskiĭ AM",
+   "doi": "",
+   "typ": [
+    "Comparative Study",
+    "Journal Article"
+   ],
+   "abstract": "The comparative research of effect of Pinealon and Cortexin on behavior and activity of caspase-3 in a brain of old rats in a model of carotid arteries occlusion was conducted. It is shown that introduction of short peptides promotes a survival rate of the animals that have modeled occlusion of carotid arteries. Under Pinealon before occlusion of carotid arteries, behavioral dream has been increased and a position-finding behavior, a motivational behavior and a motor performance have been reduced. The rats that were introduced Cortexin before carotid arteries occlusion demonstrated the raise of behavioral dream time. At introduction of Pinealon activity of caspase-3 moderately raises in false-operated animals and in a model of occlusion of carotid arteries."
+  },
+  {
+   "pmid": "25051764",
+   "titel": "[Regulation of content of cytokines in blood serum and of caspase-3 activity in brains of old rats in model of sharp hypoxic hypoxia with Cortexin and Pinealon]",
+   "jahr": "2014",
+   "journal": "Adv Gerontol",
+   "erstautor": "Mendzheritskiĭ AM",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "While studying the effects of Cortexin and Pinealon (Glu-Asp-Arg) on the caspase-3 activity in the brain, an interleykin-6 and a factor of tumor necrosis in blood serum of old rats under the sharp hypoxic hypoxia it was suggested that in hypoxia of brain conditions Pinealon forwards the increase of the neurogenesis and the decrease neuroinflammatory reactions to a reference level. With the sharp hypoxic hypoxia Cortexin reduces an ability of brain tissue of programmed cells death, but saves the content of interleykin-6 at high level."
+  },
+  {
+   "pmid": "28976148",
+   "titel": "[Effect of peptide geroprotectors on the navigation system learning and caspase-3 in brain structures in rats of different age]",
+   "jahr": "2013",
+   "journal": "Adv Gerontol",
+   "erstautor": "Mendzheritski AM",
+   "doi": "",
+   "typ": [
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "The study of the effects of peptide geroprotectors cortexin and pinealon on the system of caspase-3 in the brain structures and training of rats of different ages was held. Regional changes in activity and the content of caspase-3 in the cerebral cortex and brainstem of young and old rats under the influence of peptides were identified. It is suggested that the functional state of caspase-3 in the brain is one of the reasons that determines the animals' ability to learn. Pinealon has prevalent positive effect on learning of both young and old animals in the Morris labyrinth compared to cortexin. Проведено изучение эффектов пептидных геропротекторов кортексина и пинеалона на систему каспазы-3 в структурах мозга и обучение крыс разного возраста в экспериментальной модели острой гипоксической гипоксии*. Выявлены региональные изменения активности и содержания каспазы-3 в коре больших полушарий и стволовых структурах молодых и старых крыс под влиянием пептидных препаратов. Выдвинуто предположение о том, что функциональное состояние системы каспазы-3 в мозге является одной из причин, определяющих способность животных к обучению. Введение пинеалона в большей степени улучшает показатели обучаемости в лабиринте Морриса как молодых, так и старых животных по сравнению с кортексином."
+  },
+  {
+   "pmid": "18546826",
+   "titel": "[Biological activity of regulatory peptides in model experiments in vitro]",
+   "jahr": "2008",
+   "journal": "Adv Gerontol",
+   "erstautor": "Kozina LS",
+   "doi": "",
+   "typ": [
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "Biological effects of short regulatory peptides, pinealon, vesugen, vilon and epitalon were studied in model experiments in vitro. These peptides were found not to demonstrate direct antioxidant activity but be able to restrict lipid peroxidation of human lipoproteins by modification of their structure. The short peptides increase stability of red blood cell membranes toward osmotic hemolysis. They also elevate the stationary level of intracellular reactive oxygen species and at the same time decrease (all excepting epitalon) percent of dead cells in neuronal population. The suggestion was made that under in vivo conditions, short peptides may participate in apoptosis/necrosis regulation."
+  }
+ ],
+ "ctgov": [],
+ "gruppe": "D_gehirn_langlebigkeit"
+}

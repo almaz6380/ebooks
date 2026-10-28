@@ -1,0 +1,609 @@
+{
+ "name": "Macimorelin",
+ "status": "zugelassen",
+ "suchbegriff_pubmed": "macimorelin[tiab]",
+ "suchbegriff_ctgov": "macimorelin",
+ "humanstudien_alle": [
+  {
+   "pmid": "36860137",
+   "titel": "Pilot clinical trial of macimorelin to assess safety and efficacy in patients with cancer cachexia",
+   "jahr": "2023",
+   "journal": "J Cachexia Sarcopenia Muscle",
+   "erstautor": "Herodes M",
+   "doi": "10.1002/jcsm.13191",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Journal Article",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "32961034",
+   "titel": "Thorough QT/QTc Study Evaluating the Effect of Macimorelin on Cardiac Safety Parameters in Healthy Participants",
+   "jahr": "2021",
+   "journal": "Clin Pharmacol Drug Dev",
+   "erstautor": "Lissy M",
+   "doi": "10.1002/cpdd.872",
+   "typ": [
+    "Clinical Trial, Phase I",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "32325373",
+   "titel": "Safety, tolerability, pharmacokinetics, and pharmacodynamics of macimorelin in healthy adults: Results of a single-dose, randomized controlled study",
+   "jahr": "2020",
+   "journal": "Growth Horm IGF Res",
+   "erstautor": "Klaus B",
+   "doi": "10.1016/j.ghir.2020.101321",
+   "typ": [
+    "Clinical Trial, Phase I",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "29860473",
+   "titel": "Macimorelin as a Diagnostic Test for Adult GH Deficiency",
+   "jahr": "2018",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Garcia JM",
+   "doi": "10.1210/jc.2018-00665",
+   "typ": [
+    "Clinical Trial, Phase III",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  }
+ ],
+ "humanstudien_detail": [
+  {
+   "pmid": "29860473",
+   "titel": "Macimorelin as a Diagnostic Test for Adult GH Deficiency",
+   "jahr": "2018",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Garcia JM",
+   "doi": "10.1210/jc.2018-00665",
+   "typ": [
+    "Clinical Trial, Phase III",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "PURPOSE: The diagnosis of adult GH deficiency (AGHD) is challenging and often requires confirmation with a GH stimulation test (GHST). The insulin tolerance test (ITT) is considered the reference standard GHST but is labor intensive, can cause severe hypoglycemia, and is contraindicated for certain patients. Macimorelin, an orally active GH secretagogue, could be used to diagnose AGHD by measuring stimulated GH levels after an oral dose. MATERIALS AND METHODS: The present multicenter, open-label, randomized, two-way crossover trial was designed to validate the efficacy and safety of single-dose oral macimorelin for AGHD diagnosis compared with the ITT. Subjects with high (n = 38), intermediate (n = 37), and low (n = 39) likelihood for AGHD and healthy, matched controls (n = 25) were included in the efficacy analysis. RESULTS: After the first test, 99% of macimorelin tests and 82% of ITTs were evaluable. Using GH cutoff levels of 2.8 ng/mL for macimorelin and 5.1 ng/mL for ITTs, the negative agreement was 95.38% (95% CI, 87% to 99%), the positive agreement was 74.32% (95% CI, 63% to 84%), sensitivity was 87%, and specificity was 96%. On retesting, the reproducibility was 97% for macimorelin (n = 33). In post hoc analyses, a GH cutoff of 5.1 ng/mL for both tests resulted in 94% (95% CI, 85% to 98%) negative agreement, 82% (95% CI, 72% to 90%) positive agreement, 92% sensitivity, and 96% specificity. No serious adverse events were reported for macimorelin. CONCLUSIONS: Oral macimorelin is a simple, well-tolerated, reproducible, and safe diagnostic test for AGHD with accuracy comparable to that of the ITT. A GH cutoff of 5.1 ng/mL for the macimorelin test provides an excellent balance between sensitivity and specificity."
+  },
+  {
+   "pmid": "36860137",
+   "titel": "Pilot clinical trial of macimorelin to assess safety and efficacy in patients with cancer cachexia",
+   "jahr": "2023",
+   "journal": "J Cachexia Sarcopenia Muscle",
+   "erstautor": "Herodes M",
+   "doi": "10.1002/jcsm.13191",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Journal Article",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "abstract": "BACKGROUND: Cancer cachexia is associated with reduced body weight, appetite and quality of life (QOL) with no approved treatments. Growth hormone secretagogues like macimorelin have potential to mitigate these effects. METHODS: This pilot study assessed the safety and efficacy of macimorelin for 1 week. Efficacy was defined a priori as 1-week change in body weight (≥0.8 kg), plasma insulin-like growth factor (IGF)-1 (≥50 ng/mL) or QOL (≥15%). Secondary outcomes included food intake, appetite, functional performance, energy expenditure and safety laboratory parameters. Patients with cancer cachexia were randomized to 0.5 or 1.0 mg/kg macimorelin or placebo; outcomes were assessed non-parametrically. RESULTS: Participants receiving at least one of either macimorelin dose were combined (N = 10; 100% male; median age = 65.50 ± 2.12) and compared with placebo (N = 5; 80% male; median age = 68.00 ± 6.19). Efficacy criteria achieved: body weight (macimorelin N = 2; placebo N = 0; P = 0.92); IGF-1 (macimorelin N = 0; placebo N = 0); QOL by Anderson Symptom Assessment Scale (macimorelin N = 4; placebo N = 1; P = 1.00) or Functional Assessment of Chronic Illness Therapy-Fatigue (FACIT-F; macimorelin N = 3; placebo N = 0; P = 0.50). No related serious or non-serious adverse events were reported. In macimorelin recipients, change in FACIT-F was directly associated with change in body weight (r = 0.92, P = 0.001), IGF-1 (r = 0.80, P = 0.01), and caloric intake (r = 0.83, P = 0.005), and inversely associated with change in energy expenditure (r = -0.67, P = 0.05). CONCLUSIONS: Daily oral macimorelin for 1 week was safe and numerically improved body weight and QOL in patients with cancer cachexia compared with placebo. Longer term administration should be evaluated for mitigation of cancer-induced reductions in body weight, appetite and QOL in larger studies."
+  },
+  {
+   "pmid": "32325373",
+   "titel": "Safety, tolerability, pharmacokinetics, and pharmacodynamics of macimorelin in healthy adults: Results of a single-dose, randomized controlled study",
+   "jahr": "2020",
+   "journal": "Growth Horm IGF Res",
+   "erstautor": "Klaus B",
+   "doi": "10.1016/j.ghir.2020.101321",
+   "typ": [
+    "Clinical Trial, Phase I",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: Macimorelin is an orally active ghrelin receptor agonist indicated for the diagnosis of adult growth hormone (GH) deficiency in the United States. This phase 1 study evaluated the safety, tolerability, pharmacokinetics, and pharmacodynamics of single ascending doses of macimorelin (including a supratherapeutic dose to be used in a thorough QT trial) in healthy adults. DESIGN: Participants were randomized to receive macimorelin 0.5, 1.0, or 2.0 mg/kg or placebo in 1 of 3 sequential ascending-dose cohorts. Blood samples for pharmacokinetic and pharmacodynamic assays were collected pre-dose and at specified time points over a 24-h period. Pharmacokinetic parameters assessed included area under the concentration-time curve (AUC), maximum concentration (Cmax) of macimorelin in plasma, time to Cmax (tmax), and terminal elimination half-life (t1/2). Pharmacodynamic assessments evaluated levels of GH, adrenocorticotropic hormone, thyroid-stimulating hormone, cortisol, and prolactin. Safety was assessed based on treatment-emergent adverse events (TEAEs), vital signs, 12‑lead electrocardiograms, and laboratory parameters. RESULTS: A total of 28 healthy adults were enrolled and completed the study. Macimorelin AUC and Cmax showed less than dose-proportional increases following administration of 0.5 and 1.0 mg/kg. Mean t1/2 was 3.51 h for macimorelin 0.5 and 1.0 mg/kg and 8.29 h for macimorelin 2.0 mg/kg; median tmax occurred at 0.5 to 0.75 h. GH levels increased after dosing, with a tmax of 0.75 h to 1.0 h. Mean GH Cmax was similar with the macimorelin 0.5- and 1.0-mg/kg doses (31.9 and 37.8 ng/mL, respectively) and was ~50% lower with macimorelin 2.0 mg/kg (18.4 ng/mL). Transient increases were observed in adrenocorticotropic hormone, cortisol, and prolactin, which were not dose related. A total of 19 TEAEs were reported in 35.7% (10/28) of participants; all TEAEs were mild or moderate and resolved. A total of 12 drug-related TEAEs were reported in 8 participants. Headache was the most common drug-related TEAE. All doses of macimorelin prolonged mean QTcF by 10 to 11 ms. There were no clinically meaningful changes in vital signs or laboratory parameters. CONCLUSIONS: Single-dose administration of macimorelin 0.5 to 2.0 mg/kg was well tolerated. Macimorelin exposure was less than dose-proportional over the dose range studied. Administration of macimorelin stimulated GH production, with the greatest increases observed in the macimorelin 0.5- and 1.0-mg/kg groups."
+  },
+  {
+   "pmid": "32961034",
+   "titel": "Thorough QT/QTc Study Evaluating the Effect of Macimorelin on Cardiac Safety Parameters in Healthy Participants",
+   "jahr": "2021",
+   "journal": "Clin Pharmacol Drug Dev",
+   "erstautor": "Lissy M",
+   "doi": "10.1002/cpdd.872",
+   "typ": [
+    "Clinical Trial, Phase I",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Macimorelin is an orally active growth hormone secretagogue indicated for the diagnosis of adult growth hormone deficiency. The primary objective of this study was to evaluate the effect of macimorelin on the baseline and placebo-corrected mean QT interval using Fridericia's formula (ΔΔQTcF). Secondary objectives were to determine QTcF for moxifloxacin; evaluate the effects of macimorelin on other cardiac intervals (PR, QRS, RR), heart rate, and electrocardiogram morphology parameters; characterize pharmacokinetics; and assess safety of macimorelin. The phase 1 thorough QT/QTc study, designed according to the International Council for Harmonisation E14 guideline, was a randomized, placebo-controlled, double-blind, 3-way complete crossover study comparing the effect of macimorelin 2.0 mg/kg with placebo and moxifloxacin 400 mg (positive control). Data were collected over a 3-month span from male (n=36) and female participants (n=24) aged 18 to 55 years with body mass index between 18.5 and 30.0 kg/m2 . Fifty-six participants received all 3 treatments. The ΔΔQTcF for macimorelin showed a prolongation with a maximum mean value of 9.61 milliseconds (2-sided 90% confidence interval, 7.81 milliseconds and 11.41 milliseconds) at 4 hours after dosing. The 2-sided 90% confidence interval of this value also exceeded the 10 millisecond threshold at 3 hours after dosing. Assay sensitivity was confirmed with moxifloxacin. Other electrocardiogram parameters evaluated were not influenced by macimorelin. Macimorelin did not raise other safety concerns and was well tolerated. In summary, a single supratherapeutic dose of macimorelin prolonged cardiac repolarization according to the regulatory guideline."
+  }
+ ],
+ "metaanalysen": [],
+ "praeklinik": [
+  {
+   "pmid": "38087160",
+   "titel": "New insights on diagnosis and treatment of AVP deficiency",
+   "jahr": "2024",
+   "journal": "Rev Endocr Metab Disord",
+   "erstautor": "Refardt J",
+   "doi": "10.1007/s11154-023-09862-w",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Arginine vasopressin deficiency (AVP-D) is one of the main entities of the polyuria-polydipsia syndrome. Its correct diagnosis and differentiation from the other two causes - AVP resistance and primary polydipsia - is crucial as this determines the further management of these patients.Over the last years, several new diagnostic tests using copeptin, the stable surrogate marker of AVP, have been introduced. Among them, hypertonic saline stimulated copeptin was confirmed to reliably and safely improve the diagnostic accuracy to diagnose AVP-D. Due to its simplicity, arginine stimulated copeptin was put forward as alternative test procedure. Glucagon-stimulated copeptin also showed promising results, while the oral growth hormone secretagogue Macimorelin failed to provide a sufficient stimulus. Interestingly, an approach using machine learning techniques also showed promising results concerning diagnostic accuracy.Once AVP-D is diagnosed, further workup is needed to evaluate its etiology. This will partly define the further treatment and management. In general, treatment of AVP-D focuses on desmopressin substitution, with oral formulations currently showing the best tolerance and safety profile. However, in addition to desmopressin substitution, recent data also showed that psychopathological factors play an important role in managing AVP-D patients."
+  },
+  {
+   "pmid": "36694890",
+   "titel": "Macimorelin Acetate for the Diagnosis of Childhood-onset Growth Hormone Deficiency",
+   "jahr": "2022",
+   "journal": "touchREV Endocrinol",
+   "erstautor": "Henry RK",
+   "doi": "10.17925/EE.2022.18.2.84",
+   "typ": [
+    "Editorial"
+   ],
+   "abstract": "Growth hormone provocation testing forms the cornerstone of the diagnosis of childhood growth hormone deficiency in clinical practice. Despite the widespread use of these tests, various criticisms have been levelled against them, such as the labour-intensive nature of the tests, their potential for serious adverse effects and their questionable reproducibility. Macimorelin acetate, a ghrelin mimetic approved for the diagnosis of adult growth hormone deficiency, could serve an unmet need in the diagnosis of childhood-onset growth hormone deficiency based on its good tolerability and benign side effect profile."
+  },
+  {
+   "pmid": "37052176",
+   "titel": "Diagnosis and testing for growth hormone deficiency across the ages: a global view of the accuracy, caveats, and cut-offs for diagnosis",
+   "jahr": "2023",
+   "journal": "Endocr Connect",
+   "erstautor": "Yuen KCJ",
+   "doi": "10.1530/EC-22-0504",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Growth hormone deficiency (GHD) is a clinical syndrome that can manifest either as isolated or associated with additional pituitary hormone deficiencies. Although diminished height velocity and short stature are useful and important clinical markers to consider testing for GHD in children, the signs and symptoms of GHD are not always so apparent in adults. Quality of life and metabolic health are often impacted in patients with GHD; thus, making an accurate diagnosis is important so that appropriate growth hormone (GH) replacement therapy can be offered to these patients. Screening and testing for GHD require sound clinical judgment that follows after obtaining a complete medical history of patients with a hypothalamic-pituitary disorder and a thorough physical examination with specific features for each period of life, while targeted biochemical testing and imaging are required to confirm the diagnosis. Random measurements of serum GH levels are not recommended to screen for GHD (except in neonates) as endogenous GH secretion is episodic and pulsatile throughout the lifespan. One or more GH stimulation tests may be required, but existing methods of testing might be inaccurate, difficult to perform, and can be imprecise. Furthermore, there are multiple caveats when interpreting test results including individual patient factors, differences in peak GH cut-offs (by age and test), testing time points, and heterogeneity of GH and insulin-like growth factor 1 assays. In this article, we provide a global overview of the accuracy and cut-offs for diagnosis of GHD in children and adults and discuss the caveats in conducting and interpreting these tests."
+  },
+  {
+   "pmid": "40335774",
+   "titel": "Consensus and controversies about diagnosing GH deficiency: a Delphi survey by the GH research society",
+   "jahr": "2025",
+   "journal": "Pituitary",
+   "erstautor": "Arlien-Søborg MC",
+   "doi": "10.1007/s11102-025-01526-z",
+   "typ": [
+    "Journal Article",
+    "Review",
+    "Consensus Statement"
+   ],
+   "abstract": "PURPOSE: Biochemical tests are required for diagnosing GH-deficiency in children and adults, but controversies remain regarding diagnostic criteria and type of biochemical tests. The aim of the study is to map the clinical practices of GHD diagnosis in children and adults. METHODS: The Growth Hormone Research Society members initiated a Delphi survey of the diagnosis of GHD in children and adults. Pediatric (n = 18) and adult (n = 25) endocrinologists from 14 countries participated and rated their extent of agreement with 61 statements using a Likert-type-scale (1-7). Consensus was predefined as ≥ 80% of panelists rating their agreement unidirectionally as either ≥ 5 (agreement) or ≤ 3 (disagreement). RESULTS: The pediatric panel reached consensus on 17 of 29 (59%) statements on diagnosis in children, whereas the adult panel reached consensus on 28 of 32 (88%) statements on adult patients. There was general agreement to test for GHD in an appropriate clinical context and also on the timing of testing for GHD in both children and adults. A subnormal IGF-I level was considered diagnostic in both children and adults with panhypopituitarism. In children, there was consensus to recommend the arginine stimulation test and the glucagon test. The insulin tolerance test (ITT) was considered gold standard in adults and there was also consensus to recommend the macimorelin test. A stimulated GH cut-off < 5μg/l was consistent with severe GHD in children, whereas test-specific cut-offs were recommended in adults. CONCLUSION: Consensus on the GHD diagnosis was lower in pediatric practice, mainly with respect to choice and interpretation of GH stimulation tests."
+  },
+  {
+   "pmid": "38461479",
+   "titel": "Once upon a time: the glucagon stimulation test in diagnosing adult GH deficiency",
+   "jahr": "2024",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Cuboni D",
+   "doi": "10.1007/s40618-024-02322-5",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "PURPOSE: The clinical features of adult GH deficiency (GHD) are nonspecific, and its diagnosis is established through GH stimulation testing, which is often complex, expensive, time-consuming and may be associated with adverse side effects. Moreover, diagnosing adult GHD can be challenging due to the influence of age, gender, and body mass index on GH peak at each test. The insulin tolerance test (ITT), GHRH + arginine test, glucagon stimulation test (GST), and, more recently, testing with macimorelin are all recognized as useful in diagnosing adult GHD. To date GST is still little used, but due to the unavailability of the GHRH all over the world and the high cost of macimorelin, in the next future it will probably become the most widely used test when ITT is contraindicated. The aim of the present review is to describe the current knowledge on GST. METHODS: Narrative review. RESULTS: In the last years several studies have suggested some changes in the original GST protocol and have questioned its diagnostic accuracy when the classic GH cut-point of 3 μg/L is used, suggesting to use a lower GH cut-point to improve its sensitivity and specificity in overweight/obese patients and in those with lower pretest GHD probability. CONCLUSION: This document provides an update on the utility of GST, summarizes how to perform the test, shows which cut-points should be used in interpreting the results, and discusses its drawbacks and caveats referring to the most recent studies."
+  },
+  {
+   "pmid": "34181566",
+   "titel": "Oxytocin levels in response to pituitary provocation tests in healthy volunteers",
+   "jahr": "2021",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Sailer CO",
+   "doi": "10.1530/EJE-21-0346",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "OBJECTIVE: Oxytocin, secreted into circulation through the posterior pituitary, regulates lactation, weight, and socio-behavioral functioning. Oxytocin deficiency has been suggested in patients with hypopituitarism; however, diagnostic testing for oxytocin deficiency has not been developed. The aim of this study was to investigate known pituitary provocation tests to stimulate plasma oxytocin. DESIGN: Sixty-five healthy volunteers underwent either the hypertonic saline or arginine infusion test, known to stimulate copeptin, or the oral macimorelin test, known to stimulate growth hormone. Plasma oxytocin was measured before and once plasma sodium level ≥ 150 mmol/L for the hypertonic saline, after 60 min for the arginine infusion, and after 45 min for the oral macimorelin test (expected peak of copeptin and growth hormone levels, respectively). Primary outcome was a change from basal to stimulated oxytocin levels using paired t-tests. RESULTS: As expected, copeptin increased in response to hypertonic saline and arginine infusion (P < 0.001), and growth hormone increased to oral macimorelin (P < 0.001). Oxytocin increased in response to hypertonic saline infusion from 0.4 (0.2) to 0.6 pg/mL (0.3) (P = 0.003) but with a high variance. There was no change to arginine infusion (P = 0.4), and a trend to lower stimulated levels to oral macimorelin (P = 0.05). CONCLUSION: Neither the arginine infusion nor the oral macimorelin test stimulates plasma oxytocin levels, whereas there was an increase with high variance upon hypertonic saline infusion. As a predictable rise in most participants is required for a reliable pituitary provocation test, none of the investigated pituitary provocation tests can be recommended diagnostically to identify patients with an oxytocin deficiency."
+  },
+  {
+   "pmid": "32309600",
+   "titel": "An update on the diagnosis of growth hormone deficiency",
+   "jahr": "2018",
+   "journal": "Discoveries (Craiova)",
+   "erstautor": "Gabreanu GR",
+   "doi": "10.15190/d.2018.2",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Growth hormone deficiency (GHD) is an endocrine disorder, which may be either isolated or associated with other pituitary hormone deficiencies. In children, short stature is a useful clinical marker for GHD. In contrast, symptomatology is not always so obvious in adults, and the existing methods of testing might be inaccurate and imprecise, especially in the lack of a suggestive clinical profile. Since the quality of life of patients diagnosed with GHD could also be significantly affected, in both children and adults, a correct and accurate diagnosis is therefore tremendously important to select those patients that can benefit from the GH treatment. In general, the endocrine diseases are challenging in terms of diagnosis, the simple measurement of the basal level of hormones is not sufficient for distinguishing between the physiological and pathological conditions. Traditionally, several stimulation tests have been considered by professional clinical guidelines, such as insulin tolerance test (ITT), GHRH-arginine stimulation test and the glucagon stimulation test, and all of them have both advantages and limitations. More recently (December 2017), FDA approved a growth hormone secretagogue receptor agonist, macimorelin, for the diagnosis of adults with GHD. The obvious advantage for macimorelin is the simple oral administration and the high level of agreement with the insulin tolerance test for those patients with organic disease and low levels of insulin-like growth factor (IGF-I). However, the safety profile and the diagnostic value was not yet established for the pediatric population and for those adults with extreme or morbid obesity. In addition, administration of macimorelin with drugs that prolong QT interval and CYP3A4 inducers should be avoided. Genetic screening could obviously bring a great insight in the GHD pathology. However, it remains an open question if it would be also cost effective to include it in the routine evaluation of the patients with GHD. Although major progresses have been made in this area, genetic testing continues to be difficult to access, mostly because of its high costs, especially in the low-income and middle-income countries."
+  },
+  {
+   "pmid": "33320108",
+   "titel": "Sensitivity and specificity of the macimorelin test for diagnosis of AGHD",
+   "jahr": "2021",
+   "journal": "Endocr Connect",
+   "erstautor": "Garcia JM",
+   "doi": "10.1530/EC-20-0491",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "OBJECTIVE: The macimorelin test is approved for the diagnosis of adult growth hormone deficiency (AGHD) based on its efficacy vs the insulin tolerance test (ITT). Macimorelin has a significant advantage over ITT in avoiding hypoglycemia. Analyses were conducted to determine whether macimorelin performance is affected by age, BMI, or sex, and evaluate its performance vs ITT over a range of GH cutpoints. DESIGN: Post hoc analyses of data from a previous randomized phase 3 study included participants aged 18-66 years with BMI <37 kg/m2 and high (Group A), intermediate (Group B), or low (Group C) likelihood for AGHD based on pituitary history, and matched controls (Group D). METHODS: Probability of AGHD was estimated using unadjusted, age-adjusted, BMI-adjusted, and sex-adjusted logistic models. Area under the curve (AUC) of the estimated receiver operating characteristic (ROC) curve (range, 0-1; 1 = perfect) was compared for adjusted vs unadjusted models. Separate analyses evaluated agreement, sensitivity, and specificity for macimorelin and ITT using cutpoints of 2.8, 4.0, 5.1, and 6.5 ng/mL. RESULTS: For participants in Group A (n = 41) and Group D (n = 29), unadjusted, age-adjusted, BMI-adjusted, and sex-adjusted models had ROC AUCs (95% CIs) of 0.9924 (0.9807-1), 0.9924 (0.9807-1), 0.9916 (0.9786-1), and 0.9950 (0.9861-1), respectively. CONCLUSIONS: Macimorelin performance was not meaningfully affected by age, BMI, or sex, indicating robustness for AGHD diagnosis. Of the 4 GH cutpoints evaluated, the cutpoint of 5.1 ng/mL provided maximal specificity (96%) and high sensitivity (92%) and was in good overall agreement with the ITT at the same cutpoint (87%)."
+  },
+  {
+   "pmid": "35723775",
+   "titel": "The effect of glucose dynamics on plasma copeptin levels upon glucagon, arginine, and macimorelin stimulation in healthy adults : Data from: Glucacop, Macicop, and CARGO study",
+   "jahr": "2022",
+   "journal": "Pituitary",
+   "erstautor": "Atila C",
+   "doi": "10.1007/s11102-022-01240-0",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "PURPOSE: Non-osmotic stimulation tests using glucagon, arginine, or macimorelin were recently evaluated for their ability to assess posterior pituitary function. Glucagon and arginine, but not macimorelin, stimulated copeptin secretion (a surrogate marker of vasopressin) and, therefore, provide novel tests to assess the posterior pituitary. The exact underlying mechanism behind their stimulatory effect remains elusive. METHODS: This analysis combined data from three diagnostic studies conducted at the University Hospital Basel, Switzerland. In total, 80 healthy adults underwent the glucagon (n = 22), arginine (n = 30), or macimorelin (n = 28) stimulation tests. The primary objective was to investigate glucose course upon glucagon, arginine, and macimorelin stimulation tests and its effect on plasma copeptin release. RESULTS: Upon glucagon stimulation, the median [IQR] glucose level at baseline was 5.0 [4.6, 5.2] mmol/l, peaked at 8.1 [7.2, 9.4] mmol/l after 30 min and decreased to a minimum of 3.8 [3.5, 4.5] mmol/l after 120 min. The median copeptin increase upon glucagon stimulation was 7.7 [2.6, 28.0] pmol/l. Upon arginine, the glucose level at baseline was 4.9 [4.8, 5.5] mmol/l, peaked at 6.0 [5.2, 6.4] mmol/l after 30 min and decreased to a minimum of 4.3 [3.8, 4.8] mmol/l after 60 min. The median copeptin increase upon arginine stimulation was 4.5 [2.9, 7.5] pmol/l. Upon macimorelin, glucose levels showed no notable dynamics over the 120 min, and no major change in copeptin was observed. In the pooled dataset, a decrease in glucose levels was significantly correlated with copeptin increase (ρ = 0.53, p < 0.01). CONCLUSION: A similar course in plasma glucose was observed in the copeptin-stimulating test, i.e., after glucagon and arginine, while macimorelin had no effect on glucose and copeptin levels. We hypothesize that a drop in glucose levels observed upon glucagon and arginine might stimulate copeptin."
+  },
+  {
+   "pmid": "34157194",
+   "titel": "Translational potential of the ghrelin receptor agonist macimorelin for seizure suppression in pharmacoresistant epilepsy",
+   "jahr": "2021",
+   "journal": "Eur J Neurol",
+   "erstautor": "Buckinx A",
+   "doi": "10.1111/ene.14992",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Current drugs for epilepsy affect seizures, but no antiepileptogenic or disease-modifying drugs are available that prevent or slow down epileptogenesis, which is characterized by neuronal cell loss, inflammation and aberrant network formation. Ghrelin and ghrelin receptor (ghrelin-R) agonists were previously found to exert anticonvulsant, neuroprotective and anti-inflammatory effects in seizure models and immediately after status epilepticus (SE). Therefore, the aim of this study was to assess whether the ghrelin-R agonist macimorelin is antiepileptogenic in the pharmacoresistant intrahippocampal kainic acid (IHKA) mouse model. METHODS: SE was induced in C57BL/6 mice by unilateral IHKA injection. Starting 24 h after SE, mice were treated intraperitoneally with macimorelin (5 mg/kg) or saline twice daily for 2 weeks, followed by a 2-week wash-out. Mice were continuously electroencephalogram-monitored, and at the end of the experiment neuroprotection and gliosis were assessed. RESULTS: Macimorelin significantly decreased the number and duration of seizures during the treatment period, but had no antiepileptogenic or disease-modifying effect in this dose regimen. While macimorelin did not significantly affect food intake or body weight over a 2-week treatment period, its acute orexigenic effect was preserved in epileptic mice but not in sham mice. CONCLUSIONS: While the full ghrelin-R agonist macimorelin was not significantly antiepileptogenic nor disease-modifying, this is the first study to demonstrate its anticonvulsant effects in the IHKA model of drug-refractory temporal lobe epilepsy. These findings highlight the potential use of macimorelin as a novel treatment option for seizure suppression in pharmacoresistant epilepsy."
+  },
+  {
+   "pmid": "33615399",
+   "titel": "Effects of oral macimorelin on copeptin and anterior pituitary hormones in healthy volunteers",
+   "jahr": "2021",
+   "journal": "Pituitary",
+   "erstautor": "Urwyler SA",
+   "doi": "10.1007/s11102-021-01132-9",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "PURPOSE: The test with the highest diagnostic accuracy for diabetes insipidus is copeptin measurement after hypertonic saline infusion. However, the procedure is cumbersome and unpleasant due to rapid sodium increase. An oral stimulation test would be highly desirable. Macimorelin, an oral ghrelin agonist, is a newly approved diagnostic test for growth hormone (GH) deficiency, but its effects on copeptin/vasopressin are unknown and the effects on other pituitary hormones only scarcely investigated. METHODS: In this prospective, interventional, proof-of-concept study Copeptin and anterior pituitary hormones were measured in 28 healthy volunteers on two test days at baseline, 30, 45, 60, 90 and 120 min after a single dose of macimorelin (first visit: 0.5 mg/kg, second visit: 0.75 mg/kg). RESULTS: Baseline copeptin levels were 5.26 pmol/L [1.57, 6.81] and did not change after macimorelin intake (0.5 mg/kg: maximal median change 0.40 [- 0.49, 0.65] pmol/L, p = 0.442; 0.75 mg/kg: - 0.13 [- 0.45, 0.17] pmol/L, p = 0.442. Median GH levels increased from 3.67 mU/L with a maximal median change of 94.66 [IQR 56.5; 110.96] mU/L, p < 0.001. No effect was seen on cortisol, ACTH, LH and FSH levels. Prolactin (max. median change 100 [2.5; 146.5] mU/L, p = 0.004) and free thyroxine (fT4) (0.5 [0.2; 0.8] pmol/L, p < 0.001) increased, whereas TSH decreased (- 0.18 [- 0.22, - 0.09] mU/L, p < 0.001). CONCLUSION: We confirm an increase of GH upon macimorelin in healthy volunteers. However, macimorelin did not stimulate copeptin and therefore does not provide an oral test alternative for the diagnosis of diabetes insipidus. Additionally, a stimulatory effect was seen for prolactin and fT4, but not for ACTH and gonadotropic hormones. REGISTRATION: The trial was registered on ClinicalTrials.gov (NCT03844217) on February 18, 2019."
+  },
+  {
+   "pmid": "41912009",
+   "titel": "Facts and news about growth hormone replacement therapy in adults",
+   "jahr": "2026",
+   "journal": "Ann Endocrinol (Paris)",
+   "erstautor": "Brue T",
+   "doi": "10.1016/j.ando.2026.102547",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Adult growth hormone deficiency (GHD) is associated with increased adiposity, reduced lean mass, adverse lipid profile, decreased bone density and impaired quality of life. Growth hormone (GH) replacement therapy provides significant metabolic, cardiovascular, musculoskeletal and psychological benefit. Traditional stimulation tests, such as the insulin tolerance and glucagon tests, are gold standards for diagnosis, but the oral macimorelin test offers a safe, reliable and well-tolerated alternative. GH replacement should be titrated to achieve age-appropriate insulin-like growth factor 1 (IGF-1) levels. Monitoring should address potential side effects, including glucose intolerance and fluid retention. Long-acting growth hormone (LAGH) formulations, such as somapacitan, lonapegsomatropin and somatrogon, now enable weekly administration, improving adherence while maintaining efficacy and safety comparable to daily therapy. Early evidence suggests enhanced patient satisfaction and similar metabolic outcomes. Ongoing longitudinal studies are essential to clarify long-term safety."
+  },
+  {
+   "pmid": "23559086",
+   "titel": "Macimorelin (AEZS-130)-stimulated growth hormone (GH) test: validation of a novel oral stimulation test for the diagnosis of adult GH deficiency",
+   "jahr": "2013",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Garcia JM",
+   "doi": "10.1210/jc.2013-1157",
+   "typ": [
+    "Journal Article",
+    "Multicenter Study",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Validation Study"
+   ],
+   "abstract": "CONTEXT: In the absence of panhypopituitarism and low serum IGF-I levels, the diagnosis of adult GH deficiency (AGHD) requires confirmation with a GH stimulation test. Macimorelin is a novel, orally active ghrelin mimetic that stimulates GH secretion. OBJECTIVE: The objective of the study was to determine the diagnostic efficacy and safety of macimorelin in AGHD. DESIGN: This was a multicenter open-label study comparing the diagnostic accuracy of oral macimorelin with that of arginine+GHRH in AGHD patients and healthy, matched controls. After 43 AGHD patients and 10 controls were tested, the GHRH analog Geref Diagnostic [GHRH(1-29)NH2] became unavailable in the United States. The study was completed by testing 10 additional AGHD patients and 38 controls with macimorelin alone. MAIN OUTCOME MEASURE: Peak GH area under the receiver operating characteristic curve after macimorelin was measured. RESULTS: Fifty AGHD subjects and 48 controls were evaluated. Peak GH levels in AGHD patients and controls after macimorelin were 2.36 ± 5.69 and 17.71 ± 19.11 ng/mL, respectively (P < .0001). With macimorelin, the receiver operating characteristic analysis yielded an optimal GH cut point of 2.7 ng/mL, with 82% sensitivity, 92% specificity, and 13% misclassification rate. For subjects receiving both tests, macimorelin showed discrimination comparable with arginine+GHRH (area under the receiver operating characteristic curve 0.99 vs 0.94, respectively, P = .29). Obesity (body mass index > 30 kg/m(2)) was present in 58% of subjects, and peak GH levels were inversely associated with body mass index in controls (r = -0.37, P = .01). Using the separate cut points of 6.8 ng/mL for nonobese and 2.7 for obese subjects reduced the misclassification rate to 11%. Only 1 drug-related serious adverse event, an asymptomatic QT interval prolongation on the electrocardiogram, was reported. CONCLUSION: Oral macimorelin is safe, convenient, and effective in diagnosing AGHD with accuracy comparable with the arginine+GHRH test."
+  },
+  {
+   "pmid": "24834478",
+   "titel": "The macimorelin-stimulated growth hormone test for adult growth hormone deficiency diagnosis",
+   "jahr": "2014",
+   "journal": "Expert Rev Mol Diagn",
+   "erstautor": "Agrawal V",
+   "doi": "10.1586/14737159.2014.915746",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "Adult growth hormone deficiency (AGHD) causes a reduction in lean body mass, bone mineral density, exercise tolerance and overall quality of life and treatment with growth hormone (GH) improves some of these outcomes. Because symptoms are non-specific and random GH levels are not useful in establishing its diagnosis, provocative tests are often necessary. The insulin tolerance test is the 'gold standard' test for diagnosis of AGHD but it is often cumbersome to perform and is contraindicated in certain patients due to the risk of hypoglycemia. Administration of the orally available ghrelin mimetic and GH secretagogue macimorelin increases GH levels acutely via the ghrelin receptor GHSR1-a and it has been shown to have good sensitivity and specificity for diagnosing AGHD. Here we review the evidence of the potential use of macimorelin for this indication."
+  },
+  {
+   "pmid": "40542284",
+   "titel": "Molecular recognition of two approved drugs Macimorelin and Anamorelin by the growth hormone secretagogue receptor",
+   "jahr": "2025",
+   "journal": "Acta Pharmacol Sin",
+   "erstautor": "Wang RL",
+   "doi": "10.1038/s41401-025-01606-7",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The growth hormone secretagogue receptor (GHSR) plays a critical role in regulating growth hormone release and metabolic homeostasis. Understanding the molecular mechanisms of ligand-GHSR recognition is essential for developing therapeutic interventions. In this study, we investigated the molecular recognition mechanisms of two clinically approved drugs: Macimorelin (used for diagnosing adult growth hormone deficiency) and Anamorelin (approved in Japan for cancer cachexia). Using high-resolution cryo-electron microscopy, we determined the structures of GHSR bound to Macimorelin and Anamorelin in complex with Gq proteins at resolutions of 2.63 Å and 2.52 Å, respectively. We revealed that both drugs occupied a bifurcated binding pocket divided by a conserved salt bridge between E1243.33 and R2836.55. Through systematic mutagenesis and functional studies, we identified the key residues underlying the higher binding affinity of Anamorelin compared to Macimorelin. In addition, structural comparison of GHSR in complex with different G protein subtypes elucidated the mechanisms driving G protein selectivity. Our results provide crucial insights into GHSR-drug interactions and offer valuable guidance for designing more selective and potent GHSR agonists."
+  },
+  {
+   "pmid": "41604371",
+   "titel": "Computational repurposing of approved drugs targeting KRAS G12D and EGFR for colorectal cancer therapy",
+   "jahr": "2026",
+   "journal": "PLoS One",
+   "erstautor": "Ibraheem W",
+   "doi": "10.1371/journal.pone.0338123",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND/OBJECTIVES: Colorectal cancer is characterized by various oncogenic mutations, with the KRAS G12D mutation being the most prevalent. The development of MRTX1133 has revitalized the KRAS direct targeting. However, colorectal cancer demonstrated intrinsic resistance to MRTX1133, primarily due to the feedback activation of the EGFR pathway. Combining KRAS G12D and EGFR inhibition has demonstrated improved treatment efficacy, highlighting the potential of dual-targeting approaches in colorectal cancer therapy. This study employs CADD tools to identify approved drugs capable of dual targeting KRAS G12D and EGFR. METHODS: A library of 3,591 approved drugs was screened against KRAS G12D using high-throughput virtual screening (HTVs), standard precision (SP) and extra precision (XP) Glide docking modules. The top-ranking compounds were then docked into the EGFR binding pocket using XP mode, and docking scores were calculated. Further refinement of binding affinities was performed using Molecular Mechanics with Generalized Born and Surface Area Solvation (MM-GBSA) and Molecular Dynamics (MD) simulations. RESULTS: A total of 25 drugs showed better affinity to KRAS G12D than MRTX1133 (-9.18 kcal/mol). Among them, six drugs: Reproterol, Macimorelin, Nebivolol, Nadolol, Antrafenine, and Carteolol, displayed docking scores between -7.186 and -8.864 kcal/mol against EGFR, compared to the reference ligand Erlotinib (-9.669 kcal/mol). Subsequent MM-GBSA and MD identified Carteolol, an FDA-approved beta blocker, as the most promising candidate, showing stable and reliable binding with KRAS G12D and relatively stable interactions with EGFR. CONCLUSIONS: This in silico study predicts Carteolol as a potential dual-targeting therapeutic agent, requiring biochemical and cellular validation before clinical relevance can be established."
+  },
+  {
+   "pmid": "32202742",
+   "titel": "[Current aspects of diagnosis and treatment of adult GH-deficiency]",
+   "jahr": "2019",
+   "journal": "Probl Endokrinol (Mosk)",
+   "erstautor": "Lutsenko AS",
+   "doi": "10.14341/probl10322",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Adult growth hormone (GH) deficiency (AGHD) is a condition characterized by alterations in body composition, lipid and carbohydrate metabolism, bone mineral density and poor quality of life; however, clinical presentations of AGHD are mostly non-specific. Untreated AGHD is associated with increased cardiovascular morbidity and mortality. Stimulation tests are used for the diagnosis: insulin tolerance test, glucagon stimulation test, growth-hormone releasing hormone and arginine stimulation test. Moreover, in 2017 FDA approved the use of macimorelin (oral GH secretagogue) for the diagnosis of AGHD. In childhood GH-deficiency, apolipoprotein A-IV, CFHR4 (complement factor H-related protein 4) and PBP (platelet basic protein) were identified as potential biomarkers of the disease, however, this was not investigated in AGHD. GH treatment starts from the minimal dose, which allows minimizing the adverse effects. According to published meta-analyses, AGHD treatment generally does not lead to increased risk of malignancy and recurrence of sellar neoplasms in adult patients. Published data on GH receptor polymorphism associations with treatment efficacy remains controversial. Development of long-acting GH formulations is a currect perspective for the increase of treatment compliance. Дефицит соматотропного гормона (СТГ-дефицит) взрослых полиэтиологическое заболевание, характеризующееся изменениями состава тела, липидного и углеводного обменов, минеральной плотности костной ткани и ухудшением качества жизни при неспецифичных клинических проявлениях. Некомпенсированный СТГ-дефицит взрослых сопровождается повышенной заболеваемостью и смертностью от сердечно-сосудистых заболеваний. В качестве основных методов диагностики используют стимуляционные пробы: с инсулиновой гипогликемией, с глюкагоном, соматотропин-рилизинг гормоном и аргинином. Кроме того, в 2017 г. FDA (Food and Drug Administration, США) одобрило применение мациморелина, перорального секретагога СТГ, для диагностики СТГ-дефицита взрослых. Выявлены потенциальные протеомные биомаркеры СТГ-дефицита у детей: аполипопротеин A-IV, CFHR4 (complement factor H-related protein 4) и PBP (platelet basic protein), роль данных белков у взрослых пациентов остается неизученной. Лечение СТГ-дефицита начинают с минимальных дозировок, что позволяет минимизировать побочные эффекты. Согласно опубликованным мета-анализам, заместительная терапия СТГ-дефицита не сопровождается повышением онкологических рисков и рисков рецидива образований гипоталамо-гипофизарной области у взрослых пациентов. Данные по влиянию полиморфизма рецептора СТГ на эффективность лечения остаются противоречивыми. Перспективным направлением в лечении являются разработка и внедрение препаратов СТГ длительного действия, что позволит улучшить приверженность пациентов лечению."
+  },
+  {
+   "pmid": "31721610",
+   "titel": "Adult growth hormone deficiency: clinical advances and approaches to improve adherence",
+   "jahr": "2019",
+   "journal": "Expert Rev Endocrinol Metab",
+   "erstautor": "Yuen KCJ",
+   "doi": "10.1080/17446651.2019.1689119",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Introduction: There have been significant clinical advances in the understanding of the diagnosis and benefits of long-term recombinant human growth hormone (rhGH) replacement in adults with GH deficiency (GHD) since its approval in 1996 by the United States Food and Drug Administration.Areas covered: We searched PubMed, Medline, CINAHL, EMBASE and PsychInfo databases between January 2000 and June 2019 for published studies evaluating adults with GHD. We reviewed the data of the oral macimorelin test compared to the GHRH plus arginine and the insulin tolerance tests that led to its approval by the United States FDA and European Medicines Agency for adult diagnostic testing. We summarize the clinical advances of long-term benefits of rhGH therapy and the potential effects of GH receptor polymorphisms on individual treatment responsiveness. We identify that non-adherence and discontinuation rates are high and recommend strategies to support patients to improve adherence. We also provide an overview of several long-acting GH (LAGH) preparations currently under development and their potential role in improving treatment adherence.Expert opinion: This article summarizes recent clinical advances in rhGH replacement therapy, the biological and molecular aspects that may influence rhGH action, and offers practical strategies to enhance adherence in adults with GHD."
+  },
+  {
+   "pmid": "32959175",
+   "titel": "Current concepts of the diagnosis of adult growth hormone deficiency",
+   "jahr": "2021",
+   "journal": "Rev Endocr Metab Disord",
+   "erstautor": "Tritos NA",
+   "doi": "10.1007/s11154-020-09594-1",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "In adults, growth hormone (GH) deficiency is associated with increased visceral adiposity, decreased lean body mass, bone mineral density and exercise capacity, dyslipidemia, insulin resistance, increased cardiometabolic and fracture risk, and impaired quality of life. The aim of the present article is to review the diagnosis of GH deficiency in adults. To avoid overdiagnosis of GH deficiency, it is critical to evaluate only patients at risk for pituitary dysfunction, including those who have had sellar masses, pituitary surgery, radiation therapy, traumatic brain injury, subarachnoid hemorrhage or childhood onset GH deficiency. Evaluation for GH deficiency should be undertaken after testing and replacement of other pituitary hormone deficits. Since GH secretion is pulsatile, measuring serum GH levels randomly is not helpful in establishing the diagnosis of GH deficiency. Serum insulin-like growth factor I (IGF-I) levels lack substantial diurnal variation but also lack sufficient sensitivity and specificity in the diagnosis of GH deficiency in adults. However, adults with multiple (≥3) additional pituitary hormone deficiencies, risk factors for hypopituitarism and low serum IGF-I levels are very likely to be GH deficient. In most cases, the diagnosis of GH deficiency requires stimulation testing. These tests involve the administration of a pharmacologic agent that normally stimulates GH release from pituitary somatotrophs, including insulin, glucagon, growth hormone releasing hormone-arginine or macimorelin, followed by sampling of serum specimens at regular intervals for GH assay. Patients with a peak GH level that is below a predetermined cutpoint are classified as GH deficient. A systematic approach to the diagnosis of GH deficiency is essential in order to accurately identify adults who may benefit from GH replacement."
+  },
+  {
+   "pmid": "34438400",
+   "titel": "Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of Macimorelin in Children with Suspected Growth Hormone Deficiency: An Open-Label, Group Comparison, Dose-Escalation Trial",
+   "jahr": "2021",
+   "journal": "Horm Res Paediatr",
+   "erstautor": "Csákváry V",
+   "doi": "10.1159/000519232",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND/AIMS: Diagnosis of growth hormone deficiency (GHD) in children requires the use of provocative growth hormone (GH) stimulation tests, which can have limited reliability and are potentially contraindicated in some patients. This is the first paediatric study to test the safety, tolerability, and pharmacokinetics (PK)/pharmacodynamics (PD) of macimorelin, an oral GH secretagogue, approved for diagnosis of adult GHD. METHODS: In this open-label, group comparison, single-dose escalation trial (EudraCT 2018-001988-23), sequential cohorts of patients (C1-C3) received ascending single doses of macimorelin: 0.25 (C1), 0.5 (C2), and 1.0 (C3) mg/kg. Primary endpoints were safety and tolerability, and secondary endpoints were PK/PD. RESULTS: Twenty-four patients aged between 2 and <18 with suspected GHD participated in the study. No macimorelin-related adverse events were reported, and macimorelin was well tolerated. Plasma macimorelin concentrations increased with dose: mean areas under the curve were 6.69 (C1), 18.02 (C2), and 30.92 (C3) h × ng/mL; mean maximum concentrations were 3.46 (C1), 8.13 (C2), and 12.87 (C3) ng/mL. GH concentration increased following macimorelin administration: mean times of maximum measured concentration were 52.5 (C1), 37.5 (C2), and 37.5 (C3) min. CONCLUSION: All 3 doses of macimorelin had excellent safety and tolerability with PK/PD profiles in expected ranges. These results support the use of 1.0 mg/mL macimorelin in a Phase 3 test validation trial in children."
+  },
+  {
+   "pmid": "42041101",
+   "titel": "Neurophysin-I dynamics upon different pituitary provocation tests in healthy participants",
+   "jahr": "2026",
+   "journal": "Endocr Connect",
+   "erstautor": "Nikaj A",
+   "doi": "10.1530/EC-25-0929",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: Oxytocin (OXT) is known for its role in regulating social behavior, such as emotion recognition and bonding. The evidence for clinically relevant OXT deficiency is constantly increasing, but the measurement of OXT is challenging. In contrast, neurophysin-I (NP-I), the carrier protein of OXT and co-released equimolarly, is a stable surrogate biomarker for OXT. This study evaluated OXT and NP-I levels upon four different pituitary provocation tests. DESIGN: Secondary analysis of four interventional diagnostic trials at the University Hospital Basel, Switzerland. METHODS: Sixty-six participants underwent a pituitary provocation test, 11 the hypertonic saline test, 20 the arginine infusion test, 25 the oral macimorelin test, and 10 the glucagon injection test. Plasma NP-I and OXT were measured at baseline and once the plasma sodium level reached ≥150 mmol/L for the hypertonic saline, after 60 min for the arginine infusion, after 60, 120, and 180 min for the glucagon injection, and after 45 min for the oral macimorelin test. The primary outcome was change from baseline to maximally stimulated NP-I levels. RESULTS: Median (IQR) NP-I plasma levels increased minimally in response to hypertonic saline (baseline: 55 pM, stimulated: 59 pM, relative median change of -8% (-16, +9)) and significantly to glucagon injection (baseline: 82 pM, stimulated: 94 pM, relative median change of +18% (+7, +28)). Median OXT levels showed similar trends in response to hypertonic saline (baseline: 0.36 pg/mL (0.27, 0.45), stimulated: 0.48 pg/mL (0.43, 0.59), relative median change of +22% (-15, +96)) and to glucagon injection (baseline: 82.7 pg/mL (62.3, 94.3), stimulated: 93.4 pg/mL (87.2, 121), relative median change of +25% (+6, +59). Neither the NP-I plasma levels nor OXT levels increased upon arginine infusion and oral macimorelin. CONCLUSION: NP-I showed minimal responses to pituitary provocation tests, paralleling OXT dynamics. These findings highlight NP-I's potential as a reliable and technically robust surrogate biomarker for OXT activity, warranting further evaluation in clinical and experimental settings."
+  },
+  {
+   "pmid": "27809446",
+   "titel": "Growth Hormone Stimulation Tests in Assessing Adult Growth Hormone Deficiency",
+   "jahr": "2000",
+   "journal": "",
+   "erstautor": "Feingold KR",
+   "doi": "",
+   "typ": [
+    "Review"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "41793495",
+   "titel": "Real-world diagnostic performance of the macimorelin stimulation test in the diagnosis of adult growth hormone deficiency",
+   "jahr": "2026",
+   "journal": "Pituitary",
+   "erstautor": "Yadav P",
+   "doi": "10.1007/s11102-026-01654-0",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "PURPOSE: Macimorelin, a ghrelin receptor agonist, is used for diagnosing adult GH deficiency (AGHD). The FDA-approved GH cut-off is 2.8 ng/mL, whereas post-hoc analyses proposed a cut-off of 5.1 ng/mL. The real-world performance of these cut-offs, the influence of body mass index (BMI), and the need for 90-minute sampling remain unclear. METHODS: Retrospective single-center study of adults undergoing Macimorelin stimulation testing. Patients were categorized into high, intermediate, and low pre-test probability for AGHD. Diagnostic classification at the 2.8 and 5.1 ng/mL cut-offs were compared using exact McNemar test, with estimation of the absolute diagnostic yield differences and corresponding 95% confidence intervals. BMI was compared between discordant and concordant patients and agreement between 60- and 90-minute GH values was assessed. RESULTS: Among 37 patients, 15 (40.5%) met AGHD criteria using the 2.8 ng/mL cut-off, compared with 20 (54.0%) using the 5.1 ng/mL, corresponding to an absolute diagnostic yield difference of 13.5% (95% CI, 2.5%–24.5%; two-sided exact McNemar p = 0.0625). Of the five discordant patients, one was in the high and one in the intermediate, and three were in the low pre-test probability group (all three with BMI > 35 kg/m²). In the low pre-test probability group, BMI demonstrated a monotonic inverse association with peak GH (Spearman ρ = − 0.67, p = 0.006) and was on average higher in discordant vs. concordant patients (37.7 ± 2.7 vs. 28.2 ± 4.6 kg/m²), corresponding to a mean difference of 9.5 kg/m² (95% CI, 5–14 kg/m²). GH values at 60 and 90 min were highly correlated (r = 0.775, p < 0.0001) and excluding the 90-minute sample did not alter diagnostic outcomes. CONCLUSION: Applying the 5.1 ng/mL cut-off classified more AGHD cases than 2.8 ng/mL, with discordant classifications concentrated among patients with higher BMI in low pre-test probability group, suggesting obesity may contribute to diagnostic reclassification. Diagnostic classification was unchanged when the 90-minute sample was omitted in our cohort."
+  },
+  {
+   "pmid": "33458843",
+   "titel": "Comprehensive insights into the formation of metabolites of the ghrelin mimetics capromorelin, macimorelin and tabimorelin as potential markers for doping control purposes",
+   "jahr": "2021",
+   "journal": "Biomed Chromatogr",
+   "erstautor": "Lange T",
+   "doi": "10.1002/bmc.5075",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Analytical methods to determine the potential misuse of the ghrelin mimetics capromorelin (CP-424,391), macimorelin (macrilen, EP-01572) and tabimorelin (NN703) in sports were developed. Therefore, different extraction strategies, i.e. solid-phase extraction, protein precipitation, as well as a \"dilute-and-inject\" approach, from urine and EDTA-plasma were assessed and comprehensive in vitro/in vivo experiments were conducted, enabling the identification of reliable target analytes by means of high resolution mass spectrometry. The drugs' biotransformation led to the preliminary identification of 51 metabolites of capromorelin, 12 metabolites of macimorelin and 13 metabolites of tabimorelin. Seven major metabolites detected in rat urine samples collected post-administration of 0.5-1.0 mg of a single oral dose underwent in-depth characterization, facilitating their implementation into future confirmatory test methods. In particular, two macimorelin metabolites exhibiting considerable abundances in post-administration rat urine samples were detected, which might contribute to an improved sensitivity, specificity, and detection window in case of human sports drug testing programs. Further, the intact drugs were implemented into World Anti-Doping Agency-compliant initial testing (limits of detection 0.02-0.60 ng/ml) and confirmation procedures (limits of identification 0.18-0.89 ng/ml) for human urine and blood matrices. The obtained results allow extension of the test spectrum of doping agents in multitarget screening assays for growth hormone-releasing factors from human urine."
+  },
+  {
+   "pmid": "33272904",
+   "titel": "Growth hormone deficiency in adults with Cushing's disease",
+   "jahr": "2021",
+   "journal": "Best Pract Res Clin Endocrinol Metab",
+   "erstautor": "Tritos NA",
+   "doi": "10.1016/j.beem.2020.101474",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Growth hormone deficiency (GHD) generally occurs in patients with Cushing's disease (CD) as a consequence of cortisol excess. Mass effect may contribute to the development of GHD in the minority of patients with CD due to corticotroph macroadenomas. Patients with CD in remission are at considerable risk of GH deficiency as a consequence of pituitary surgery or radiation therapy. The purpose of the present review is to summarize data on GH deficiency in adults with CD. Untreated GH deficiency is associated with increased visceral adiposity, decreased lean mass, bone mass, and exercise capacity, impaired linear growth (in children), dyslipidemia, insulin resistance and impaired quality of life. Evaluation and treatment of GHD should be considered in patients with CD in remission. Serum insulin-like growth factor I (IGF-I) can be helpful in the diagnosis of GHD among patients with multiple additional pituitary hormone deficiencies. The diagnosis of GHD generally requires dynamic testing, including insulin, glucagon or macimorelin stimulation. Growth hormone replacement may improve body composition, bone density, linear growth (in children), exercise capacity, dyslipidemia and quality of life. While generally safe, GH replacement requires careful monitoring to assure effectiveness and tolerance in treated patients."
+  },
+  {
+   "pmid": "30556661",
+   "titel": "Meeting Report: 2018 Annual Meeting of the Pediatric Endocrine Society, Toronto, Canada, May 5-8, 2018, Selected Highlights",
+   "jahr": "2018",
+   "journal": "Pediatr Endocrinol Rev",
+   "erstautor": "Ryabets-Lienhard A",
+   "doi": "10.17458/per.vol16.2018.lama.mr.pestoronto",
+   "typ": [
+    "Conference Proceedings"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "38927114",
+   "titel": "Insights into the Effects of Ligand Binding on Leucyl-tRNA Synthetase Inhibitors for Tuberculosis: In Silico Analysis and Isothermal Titration Calorimetry Validation",
+   "jahr": "2024",
+   "journal": "Biomolecules",
+   "erstautor": "Rehman ZU",
+   "doi": "10.3390/biom14060711",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Incidences of drug-resistant tuberculosis have become common and are rising at an alarming rate. Aminoacyl t-RNA synthetase has been validated as a newer target against Mycobacterium tuberculosis. Leucyl t-RNA synthetase (LeuRS) is ubiquitously found in all organisms and regulates transcription, protein synthesis, mitochondrial RNA cleavage, and proofreading of matured t-RNA. Leucyl t-RNA synthetase promotes growth and development and is the key enzyme needed for biofilm formation in Mycobacterium. Inhibition of this enzyme could restrict the growth and development of the mycobacterial population. A database consisting of 2734 drug-like molecules was screened against leucyl t-RNA synthetase enzymes through virtual screening. Based on the docking scores and MMGBSA energy values, the top three compounds were selected for molecular dynamics simulation. The druggable nature of the top three hits was confirmed by predicting their pharmacokinetic parameters. The top three hits-compounds 1035 (ZINC000001543916), 1054 (ZINC000001554197), and 2077 (ZINC000008214483)-were evaluated for their binding affinity toward leucyl t-RNA synthetase by an isothermal titration calorimetry study. The inhibitory activity of these compounds was tested against antimycobacterial activity, biofilm formation, and LeuRS gene expression potential. Compound 1054 (Macimorelin) was found to be the most potent molecule, with better antimycobacterial activity, enzyme binding affinity, and significant inhibition of biofilm formation, as well as inhibition of the LeuRS gene expression. Compound 1054, the top hit compound, has the potential to be used as a lead to develop successful leucyl t-RNA synthetase inhibitors."
+  },
+  {
+   "pmid": "32686938",
+   "titel": "Generative Network Complex for the Automated Generation of Drug-like Molecules",
+   "jahr": "2020",
+   "journal": "J Chem Inf Model",
+   "erstautor": "Gao K",
+   "doi": "10.1021/acs.jcim.0c00599",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ],
+   "abstract": "Current drug discovery is expensive and time-consuming. It remains a challenging task to create a wide variety of novel compounds that not only have desirable pharmacological properties but also are cheaply available to low-income people. In this work, we develop a generative network complex (GNC) to generate new drug-like molecules based on the multiproperty optimization via the gradient descent in the latent space of an autoencoder. In our GNC, both multiple chemical properties and similarity scores are optimized to generate drug-like molecules with desired chemical properties. To further validate the reliability of the predictions, these molecules are reevaluated and screened by independent 2D fingerprint-based predictors to come up with a few hundreds of new drug candidates. As a demonstration, we apply our GNC to generate a large number of new BACE1 inhibitors, as well as thousands of novel alternative drug candidates for eight existing market drugs, including Ceritinib, Ribociclib, Acalabrutinib, Idelalisib, Dabrafenib, Macimorelin, Enzalutamide, and Panobinostat."
+  },
+  {
+   "pmid": "42767740",
+   "titel": "Diagnostic accuracy of growth hormone stimulation tests for growth hormone deficiency following radiotherapy involving the hypothalamic-pituitary axis: protocol for a systematic review and planned meta-analysis",
+   "jahr": "2026",
+   "journal": "BMJ Open",
+   "erstautor": "Chen LR",
+   "doi": "10.1136/bmjopen-2026-125247",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "INTRODUCTION: Radiotherapy is part of the treatment for many intracranial tumours, head and neck cancers and haematological malignancies. In these cases, the hypothalamic-pituitary (HP) axis is often included within the radiation field and can be damaged as an organ at risk. As survival improves, an increasing number of patients are living with late endocrine complications, particularly growth hormone deficiency (GHD). Diagnosing GHD in this context is challenging, as much of the evidence supporting growth hormone (GH) stimulation tests comes from populations with fundamentally different disease mechanisms. We aim to conduct a systematic review, and meta-analysis where feasible, to assess the diagnostic accuracy of GH stimulation tests for diagnosing GHD in children, teenagers, young adults and adults who have received radiotherapy involving the HP axis. METHODS AND ANALYSIS: Eligible studies will include patients exposed to radiotherapy involving the HP axis, who subsequently underwent GH stimulation testing for suspected GHD. Index tests will include commonly used stimulation tests such as the insulin tolerance test, glucagon stimulation test, arginine stimulation test, clonidine stimulation test, GH-releasing hormone-arginine stimulation test and macimorelin stimulation test. Reference standards will include clinical criteria (≥2 additional pituitary hormone deficiencies) or alternative GH stimulation tests. Searches will be conducted in MEDLINE, Embase, Cochrane Library and PubMed. Two independent reviewers will screen studies, collect data, evaluate risk of bias using Quality Assessment of Diagnostic Accuracy Studies-2 and assess reporting quality using the Standards for Reporting of Diagnostic Accuracy Studies criteria. Sensitivity and specificity will be extracted. Where studies are sufficiently comparable, results will be pooled using hierarchical bivariate and summary receiver operating characteristic models. Prespecified subgroup analyses will explore heterogeneity by age group, body mass index, ethnicity, radiotherapy dose and time since treatment. ETHICS AND DISSEMINATION: Ethical approval is not required as this systematic review summarises published data only. We will share our findings through peer-reviewed publications, conference presentations and engagement with relevant clinical teams to improve diagnostic decision-making in our population of interest. PROSPERO REGISTRATION NUMBER: CRD420261415689."
+  },
+  {
+   "pmid": "37443653",
+   "titel": "Contribution of Dynamic and Genetic Tests for Short Stature Diagnosing: A Case Report",
+   "jahr": "2023",
+   "journal": "Diagnostics (Basel)",
+   "erstautor": "Biagetti B",
+   "doi": "10.3390/diagnostics13132259",
+   "typ": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "abstract": "Genetic tests have led to the discovery of many novel genetic variants related to growth failure, but the clinical significance of some results is not always easy to establish. The aim of this report is to describe both clinical phenotype and genetic characteristics in an adult patient with short stature associated with a homozygous variant in disintegrin and metalloproteinase with thrombospondin motifs type 17 gene (ADAMTS17) combined with a homozygous variant in the GH secretagogue receptor (GHS-R). The index case had severe short stature (SS) (-3.0 SD), small hands and feet, associated with eye disturbances. Genetic tests revealed homozygous compounds for ADAMTS17 responsible for Weill-Marchesani-like syndrome but a homozygous variant in GHS-R was also detected. Dynamic stimulation with an insulin tolerance test showed a normal elevation of GH, while the GH response to macimorelin stimulus was totally flattened. We show the implication of the GHS-R variant and review the molecular mechanisms of both entities. These results allowed us to better interpret the phenotypic spectrum, associated co-morbidities, its implications in dynamic tests, genetic counselling and treatment options not only to the index case but also for her relatives."
+  }
+ ],
+ "ctgov": [
+  {
+   "nct": "NCT02558829",
+   "titel": "Validation of Macimorelin as a Test for Adult Growth Hormone Deficiency",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 157,
+   "start": "2015-12-03",
+   "ende": "2016-11-29",
+   "erkrankungen": [
+    "Growth Hormone Deficiency With Pituitary Anomalies"
+   ],
+   "sponsor": "AEterna Zentaris",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT04786873",
+   "titel": "A Research Study of How Well Macimorelin Works to Find Out if Children Have a Lack of Growth Hormone and How Safe it is",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 101,
+   "start": "2021-11-16",
+   "ende": "2024-06-13",
+   "erkrankungen": [
+    "Growth Hormone Deficiency"
+   ],
+   "sponsor": "AEterna Zentaris",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT03844217",
+   "titel": "Copeptin After an Oral Stimulation With Macimorelin in Healthy Volunteers",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 28,
+   "start": "2019-03-07",
+   "ende": "2019-07-16",
+   "erkrankungen": [
+    "Polyuria-polydipsia Syndrome"
+   ],
+   "sponsor": "University Hospital, Basel, Switzerland",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT01614990",
+   "titel": "Pilot Clinical Trial of Repeated Doses of Macimorelin to Assess Safety and Efficacy in Patients With Cancer Cachexia",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 15,
+   "start": "2012-05",
+   "ende": "2021-12",
+   "erkrankungen": [
+    "Cancer Cachexia"
+   ],
+   "sponsor": "Garcia, Jose M., MD, PhD",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT00448747",
+   "titel": "Investigation of a New, Oral Growth Hormone Secretagogue, AEZS-130 as a Growth Hormone Stimulation Test.",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 101,
+   "start": "2007-06",
+   "ende": "2011-07",
+   "erkrankungen": [
+    "Diagnosis of Adult Growth Hormone Deficiency (AGDH)"
+   ],
+   "sponsor": "AEterna Zentaris",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT00377377",
+   "titel": "Oral Ghrelin Agonist in Healthy Subjects",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 42,
+   "start": "2005-11",
+   "ende": "2006-07",
+   "erkrankungen": [
+    "Healthy Subjects"
+   ],
+   "sponsor": "University Hospital, Basel, Switzerland",
+   "ergebnisse": false
+  }
+ ],
+ "gruppe": "C_wachstumshormon"
+}

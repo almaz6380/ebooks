@@ -1,0 +1,1636 @@
+{
+ "name": "Mazdutid",
+ "status": "teilweise",
+ "suchbegriff_pubmed": "mazdutide[tiab]",
+ "suchbegriff_ctgov": "mazdutide",
+ "humanstudien_alle": [
+  {
+   "pmid": "42628555",
+   "titel": "Efficacy and safety of mazdutide in adults with obesity or overweight: a US-based, multicentre, phase 2, randomised, placebo-controlled clinical trial",
+   "jahr": "2026",
+   "journal": "Lancet Diabetes Endocrinol",
+   "erstautor": "Hsia SH",
+   "doi": "10.1016/S2213-8587(26)00160-9",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Multicenter Study",
+    "Clinical Trial, Phase II"
+   ]
+  },
+  {
+   "pmid": "42251595",
+   "titel": "Treatment With 9-mg Mazdutide for Weight Reduction in Chinese Adults With Obesity: The GLORY-2 Randomized Clinical Trial",
+   "jahr": "2026",
+   "journal": "JAMA",
+   "erstautor": "Gao L",
+   "doi": "10.1001/jama.2026.8142",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Multicenter Study",
+    "Clinical Trial, Phase III"
+   ]
+  },
+  {
+   "pmid": "41875890",
+   "titel": "Mazdutide 9 mg in Chinese adults with a body mass index ≥30 kg/m(2) but without diabetes: A phase 2 randomized controlled trial",
+   "jahr": "2026",
+   "journal": "Med",
+   "erstautor": "Ji L",
+   "doi": "10.1016/j.medj.2026.101063",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase II"
+   ]
+  },
+  {
+   "pmid": "41407860",
+   "titel": "Mazdutide versus dulaglutide in Chinese adults with type 2 diabetes",
+   "jahr": "2026",
+   "journal": "Nature",
+   "erstautor": "Guo L",
+   "doi": "10.1038/s41586-025-10031-z",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III",
+    "Comparative Study",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "41407859",
+   "titel": "Mazdutide versus placebo in Chinese adults with type 2 diabetes",
+   "jahr": "2026",
+   "journal": "Nature",
+   "erstautor": "Zhu D",
+   "doi": "10.1038/s41586-025-10026-w",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "40832785",
+   "titel": "Mazdutide reduces body weight in adults with overweight or obesity: A high-dose Phase 1 trial",
+   "jahr": "2025",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Bhattachar SN",
+   "doi": "10.1111/dom.70040",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase I"
+   ]
+  },
+  {
+   "pmid": "40421736",
+   "titel": "Once-Weekly Mazdutide in Chinese Adults with Obesity or Overweight",
+   "jahr": "2025",
+   "journal": "N Engl J Med",
+   "erstautor": "Ji L",
+   "doi": "10.1056/NEJMoa2411528",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III",
+    "Multicenter Study"
+   ]
+  },
+  {
+   "pmid": "37943529",
+   "titel": "Efficacy and Safety of Mazdutide in Chinese Patients With Type 2 Diabetes: A Randomized, Double-Blind, Placebo-Controlled Phase 2 Trial",
+   "jahr": "2024",
+   "journal": "Diabetes Care",
+   "erstautor": "Zhang B",
+   "doi": "10.2337/dc23-1287",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "38092790",
+   "titel": "A phase 2 randomised controlled trial of mazdutide in Chinese overweight adults or adults with obesity",
+   "jahr": "2023",
+   "journal": "Nat Commun",
+   "erstautor": "Ji L",
+   "doi": "10.1038/s41467-023-44067-4",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase II",
+    "Journal Article"
+   ]
+  }
+ ],
+ "humanstudien_detail": [
+  {
+   "pmid": "40421736",
+   "titel": "Once-Weekly Mazdutide in Chinese Adults with Obesity or Overweight",
+   "jahr": "2025",
+   "journal": "N Engl J Med",
+   "erstautor": "Ji L",
+   "doi": "10.1056/NEJMoa2411528",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III",
+    "Multicenter Study"
+   ],
+   "abstract": "BACKGROUND: Evidence suggests that incretin-based dual agonist pharmacotherapy is helpful in persons with obesity. Mazdutide, a glucagon-like peptide-1 and glucagon receptor dual agonist, may have efficacy in persons with overweight or obesity. METHODS: In a phase 3, double-blind, placebo-controlled trial in China, we randomly assigned, in a 1:1:1 ratio, adults 18 to 75 years of age who had a body-mass index (BMI; the weight in kilograms divided by the square of the height in meters) of at least 28 or had a BMI of 24 to less than 28 plus at least one weight-related coexisting condition to receive 4 mg of mazdutide, 6 mg of mazdutide, or placebo for 48 weeks. The two primary end points were the percentage change in body weight from baseline and a weight reduction of at least 5% at week 32, as assessed in a treatment-policy estimand analysis (which assessed effects regardless of early discontinuation of mazdutide or placebo and the initiation of new antiobesity therapies). RESULTS: Among 610 participants, the mean body weight was 87.2 kg and the mean BMI was 31.1 at baseline. At week 32, the mean percentage change in body weight from baseline was -10.09% (95% confidence interval [CI], -11.15 to -9.04) in the 4-mg mazdutide group, -12.55% (95% CI, -13.64 to -11.45) in the 6-mg mazdutide group, and 0.45% (95% CI, -0.61 to 1.52) in the placebo group, and 73.9%, 82.0%, and 10.5% of the participants, respectively, had a weight reduction of at least 5% (P<0.001 for all comparisons with placebo). At week 48, the mean percentage change in body weight from baseline was -11.00% (95% CI, -12.27 to -9.73) in the 4-mg mazdutide group, -14.01% (95% CI, -15.36 to -12.66) in the 6-mg mazdutide group, and 0.30% (95% CI, -0.98 to 1.58) in the placebo group, and 35.7%, 49.5%, and 2.0% of the participants, respectively, had a weight reduction of at least 15% (P<0.001 for all comparisons with placebo). Beneficial effects on all prespecified cardiometabolic measures were seen with mazdutide. The most frequently reported adverse events were gastrointestinal and mostly mild to moderate in severity. The incidence of adverse events leading to discontinuation of the trial regimen was 1.5% with the 4-mg mazdutide dose, 0.5% with the 6-mg mazdutide dose, and 1.0% with placebo. CONCLUSIONS: In Chinese adults with overweight or obesity, once-weekly mazdutide at a dose of 4 mg or 6 mg for 32 weeks led to clinically relevant reductions in body weight. (Funded by Innovent Biologics; GLORY-1 ClinicalTrials.gov number, NCT05607680.)."
+  },
+  {
+   "pmid": "41407859",
+   "titel": "Mazdutide versus placebo in Chinese adults with type 2 diabetes",
+   "jahr": "2026",
+   "journal": "Nature",
+   "erstautor": "Zhu D",
+   "doi": "10.1038/s41586-025-10026-w",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Despite advances in type 2 diabetes (T2D) management, unmet needs remain for therapies that effectively control hyperglycaemia while addressing comorbid metabolic disorders1,2. Here we assessed the efficacy and safety of the dual glucagon receptor (GCGR)/glucagon-like peptide-1 receptor (GLP-1R) agonist mazdutide monotherapy versus placebo in Chinese adults with T2D controlled inadequately with diet and exercise alone. In this phase 3 trial, 320 participants (mean glycated haemoglobin A1c (HbA1c) of 8.24%, body mass index of 28.2 kg m-2 and diabetes duration of 1.9 years) were randomized 1:1:1 to receive weekly subcutaneous injections of mazdutide (4 mg or 6 mg) or placebo for 24 weeks, followed by a 24-week extended mazdutide treatment. At week 24, mazdutide significantly reduced HbA1c versus placebo (primary endpoint): -1.57% with mazdutide 4 mg and -2.15% with mazdutide 6 mg, versus -0.14% with placebo, with treatment differences of -1.43% and -2.02% (both P < 0.0001). Weight loss from baseline at week 24 occurred with -5.61% (4 mg) and -7.81% (6 mg) versus -1.26% (placebo) (both P < 0.0001). Furthermore, more participants with mazdutide achieved HbA1c < 7.0%, weight loss ≥ 5% (all P < 0.0001) and composite endpoints (HbA1c < 7.0% and weight loss ≥ 5%) versus placebo (P = 0.0006 for 4 mg; P < 0.0001 for 6 mg) at week 24. The most common adverse events-diarrhoea, decreased appetite and nausea-were consistent with GLP-1R agonists. These results establish mazdutide monotherapy as an effective intervention providing clinically meaningful glycaemic control and weight reduction alongside a favourable safety profile in this population."
+  },
+  {
+   "pmid": "41407860",
+   "titel": "Mazdutide versus dulaglutide in Chinese adults with type 2 diabetes",
+   "jahr": "2026",
+   "journal": "Nature",
+   "erstautor": "Guo L",
+   "doi": "10.1038/s41586-025-10031-z",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III",
+    "Comparative Study",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Mazdutide is a once-weekly glucagon and glucagon-like peptide 1 receptor dual agonist developed for the treatment of type 2 diabetes (T2D)1. Here we report on a randomized phase III trial assessing the efficacy and safety of mazdutide, compared with dulaglutide, in participants with T2D who were also treated with background oral anti-diabetic drugs. In this study, 731 participants with T2D were randomized 1:1:1 to receive 4 mg mazdutide, 6 mg mazdutide or 1.5 mg dulaglutide for 28 weeks. Both doses of mazdutide showed non-inferiority and superiority to the 1.5-mg dose of dulaglutide in terms of the mean change in the diagnostic marker glycated haemoglobin A1c (HbA1c) from baseline to week 28, with a least-squares mean treatment difference of -0.24% (P = 0.0032) for 4 mg mazdutide and -0.30% (P = 0.0003) for 6 mg mazdutide, relative to 1.5 mg dulaglutide. Significantly greater reductions in body weight were achieved with mazdutide than with dulaglutide, with a least-squares mean treatment difference of -3.78% for 4 mg mazdutide and -5.76% for 6 mg mazdutide (both P < 0.0001), relative to dulaglutide. Moreover, significantly more participants who received mazdutide 4 mg or 6 mg reached the composite end point of HbA1c < 7.0% with a body-weight reduction of at least 5% at week 28 (both P < 0.0001), compared with those who received dulaglutide. The most common treatment-emergent adverse events were diarrhoea, nausea and vomiting. In summary, we found that in Chinese participants with T2D, 28 weeks of treatment with mazdutide (4 mg and 6 mg) provided reductions in HbA1c and body weight that were superior to those attained with 1.5 mg dulaglutide. Mazdutide was generally safe, although the incidence of gastrointestinal adverse events was higher for mazdutide than for dulaglutide."
+  },
+  {
+   "pmid": "37943529",
+   "titel": "Efficacy and Safety of Mazdutide in Chinese Patients With Type 2 Diabetes: A Randomized, Double-Blind, Placebo-Controlled Phase 2 Trial",
+   "jahr": "2024",
+   "journal": "Diabetes Care",
+   "erstautor": "Zhang B",
+   "doi": "10.2337/dc23-1287",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: We conducted a randomized, double-blind, placebo-controlled phase 2 trial to evaluate the efficacy and safety of mazdutide, a once-weekly glucagon-like peptide 1 and glucagon receptor dual agonist, in Chinese patients with type 2 diabetes. RESEARCH DESIGN AND METHODS: Adults with type 2 diabetes inadequately controlled with diet and exercise alone or with stable metformin (glycated hemoglobin A1c [HbA1c] 7.0-10.5% [53-91 mmol/mol]) were randomly assigned to receive 3 mg mazdutide (n = 51), 4.5 mg mazdutide (n = 49), 6 mg mazdutide (n = 49), 1.5 mg open-label dulaglutide (n = 50), or placebo (n = 51) subcutaneously for 20 weeks. The primary outcome was change in HbA1c from baseline to week 20. RESULTS: Mean changes in HbA1c from baseline to week 20 ranged from -1.41% to -1.67% with mazdutide (-1.35% with dulaglutide and 0.03% with placebo; all P < 0.0001 vs. placebo). Mean percent changes in body weight from baseline to week 20 were dose dependent and up to -7.1% with mazdutide (-2.7% with dulaglutide and -1.4% with placebo). At week 20, participants receiving mazdutide were more likely to achieve HbA1c targets of <7.0% (53 mmol/mol) and ≤6.5% (48 mmol/mol) and body weight loss from baseline of ≥5% and ≥10% compared with placebo-treated participants. The most common adverse events with mazdutide included diarrhea (36%), decreased appetite (29%), nausea (23%), vomiting (14%), and hypoglycemia (10% [8% with placebo]). CONCLUSIONS: In Chinese patients with type 2 diabetes, mazdutide dosed up to 6 mg was generally safe and demonstrated clinically meaningful HbA1c and body weight reductions."
+  },
+  {
+   "pmid": "38092790",
+   "titel": "A phase 2 randomised controlled trial of mazdutide in Chinese overweight adults or adults with obesity",
+   "jahr": "2023",
+   "journal": "Nat Commun",
+   "erstautor": "Ji L",
+   "doi": "10.1038/s41467-023-44067-4",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase II",
+    "Journal Article"
+   ],
+   "abstract": "Mazdutide is a once-weekly glucagon-like peptide-1 (GLP-1) and glucagon receptor dual agonist. We evaluated the efficacy and safety of 24-week treatment of mazdutide up to 6 mg in Chinese overweight adults or adults with obesity, as an interim analysis of a randomised, two-part (low doses up to 6 mg and high dose of 9 mg), double-blind, placebo-controlled phase 2 trial (ClinicalTrials.gov, NCT04904913). Overweight adults (body-mass index [BMI] ≥24 kg/m2) accompanied by hyperphagia and/or at least one obesity-related comorbidity or adults with obesity (BMI ≥ 28 kg/m2) were randomly assigned (3:1:3:1:3:1) to once-weekly mazdutide 3 mg, 4.5 mg, 6 mg or matching placebo at 20 hospitals in China. The primary endpoint was the percentage change from baseline to week 24 in body weight. A total of 248 participants were randomised to mazdutide 3 mg (n = 62), 4.5 mg (n = 63), 6 mg (n = 61) or placebo (n = 62). The mean percentage changes from baseline to week 24 in body weight were -6.7% (SE 0.7) with mazdutide 3 mg, -10.4% (0.7) with 4.5 mg, -11.3% (0.7) with 6 mg and 1.0% (0.7) with placebo, with treatment difference versus placebo ranging from -7.7% to -12.3% (all p < 0.0001). All mazdutide doses were well tolerated and the most common adverse events included diarrhoea, nausea and upper respiratory tract infection. In summary, in Chinese overweight adults or adults with obesity, 24-week treatment with mazdutide up to 6 mg was safe and led to robust and clinically meaningful body weight reduction."
+  },
+  {
+   "pmid": "40832785",
+   "titel": "Mazdutide reduces body weight in adults with overweight or obesity: A high-dose Phase 1 trial",
+   "jahr": "2025",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Bhattachar SN",
+   "doi": "10.1111/dom.70040",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase I"
+   ],
+   "abstract": "AIM: Mazdutide, an agonist of glucagon-like peptide-1 and glucagon receptors, significantly reduced weight in early phase trials at doses up to 10 mg. This randomized, double-blind, placebo-controlled Phase 1 trial evaluated the safety and efficacy of mazdutide up to 16 mg in adults with overweight or obesity. MATERIALS AND METHODS: Thirty-two adults with overweight/obesity without diabetes received once-weekly subcutaneous injections of mazdutide (n = 24) or placebo (n = 8) for 20 weeks. Two mazdutide dose escalation regimens (Cohorts 1 and 2, n = 12 each) were used to reach a 16-mg target dose. Data were analysed using descriptive statistics and mixed model repeated measures to estimate least square means with standard error (SE). RESULTS: At Week 20, mean percent change from baseline in body weight was -20.0% (SE: 1.9) for Cohort 1 and -21.0% (1.2) for Cohort 2 versus -0.1% (1.5) for placebo (p < 0.001). Weight loss of ≥15% was achieved by 66.7% of Cohort 1 and 75.0% of Cohort 2. No placebo participants achieved ≥5% weight loss. Mean percent change in waist circumference was -12.0% (SE: 1.7) in Cohort 1 and -17.0% (1.7) in Cohort 2 versus -0.8% (2.1) in placebo (p < 0.001). Improved fasting metabolic biomarker profiles and reduced appetite were associated with mazdutide treatment. No serious adverse events (AEs) were reported, and the most common AEs were mild or moderate gastrointestinal disorders. CONCLUSIONS: Mazdutide at 16 mg was well tolerated and associated with greater weight loss at higher doses than previously studied and improved metabolic regulation in adults with overweight or obesity. US Clinical Trials Registry: NCT05623839."
+  },
+  {
+   "pmid": "42251595",
+   "titel": "Treatment With 9-mg Mazdutide for Weight Reduction in Chinese Adults With Obesity: The GLORY-2 Randomized Clinical Trial",
+   "jahr": "2026",
+   "journal": "JAMA",
+   "erstautor": "Gao L",
+   "doi": "10.1001/jama.2026.8142",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Multicenter Study",
+    "Clinical Trial, Phase III"
+   ],
+   "abstract": "IMPORTANCE: Obesity is a worldwide problem and a major public health issue in China. OBJECTIVE: To evaluate the efficacy and safety of mazdutide (a once-weekly glucagon and glucagon-like peptide-1 receptor dual agonist) in Chinese adults with obesity (defined as a body mass index of ≥30). DESIGN, SETTING, AND PARTICIPANTS: A double-blind, placebo-controlled, phase 3, randomized clinical trial including Chinese adults with or without type 2 diabetes that was conducted at 27 hospitals from December 2023 to November 2025. INTERVENTIONS: Participants were randomized in a 2:1 ratio to receive a once weekly, 9-mg dose of mazdutide administered subcutaneously (n = 308) or placebo (n = 154) as an adjunct to a reduced calorie diet and increased physical activity for 60 weeks. MAIN OUTCOMES AND MEASURES: The coprimary outcomes were the percentage change in body weight from baseline and a weight reduction of at least 5% at week 60. The efficacy and safety analyses were performed in participants who received at least 1 dose of the study treatment. RESULTS: A total of 461 participants (295 [64.0%] female; 16.1% with type 2 diabetes; mean age, 33.9 [SD, 8.4] years; body weight, 94.0 [SD, 13.8] kg; BMI, 34.3 [SD, 3.2]) received the study treatment (307 in the mazdutide group and 154 in the placebo group) and were included in the analyses. At week 60, the mean percentage change in body weight from baseline was -16.65% (95% CI, -18.19% to -15.12%) in the mazdutide group compared with -1.50% (95% CI, -3.43% to 0.43%) in the placebo group (between-group difference, -15.15% [95% CI, -17.22% to -13.09%]; P < .001). At week 60, 84.3% of participants in the mazdutide group had a body weight reduction of 5% or greater compared with 33.1% in the placebo group (between-group difference, 51.6% [95% CI, 43.0% to 60.1%]; P < .001). Adverse events leading to study treatment discontinuation were reported in 2.9% of participants in the mazdutide group compared with 0% in the placebo group. The most common adverse events were vomiting (53.1% in the mazdutide group vs 1.3% in the placebo group), nausea (46.9% vs 3.2%, respectively), and diarrhea (39.4% vs 6.5%); most of the adverse events were mild to moderate in severity. CONCLUSIONS AND RELEVANCE: Mazdutide provided clinically meaningful weight reduction in Chinese adults with moderate to severe obesity compared with placebo, but participants receiving the drug experienced gastrointestinal adverse reactions compared with those receiving placebo. TRIAL REGISTRATION: ClinicalTrials.gov Identifier: NCT06164873."
+  },
+  {
+   "pmid": "42628555",
+   "titel": "Efficacy and safety of mazdutide in adults with obesity or overweight: a US-based, multicentre, phase 2, randomised, placebo-controlled clinical trial",
+   "jahr": "2026",
+   "journal": "Lancet Diabetes Endocrinol",
+   "erstautor": "Hsia SH",
+   "doi": "10.1016/S2213-8587(26)00160-9",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Multicenter Study",
+    "Clinical Trial, Phase II"
+   ],
+   "abstract": "BACKGROUND: Therapies targeting GLP-1 or glucose-dependent insulinotropic polypeptide (GIP) receptors have provided efficacious weight reduction in adults with obesity. Mazdutide, a glucagon and GLP-1 receptor dual agonist, presents a novel opportunity for differentiated weight reduction. We aimed to evaluate the efficacy, safety, and tolerability of once-weekly mazdutide across a dose range up to 16 mg in adults with obesity or overweight without type 2 diabetes in the USA. METHODS: In this randomised, double-blind, placebo-controlled phase 2 trial at 24 centres in the USA, adults aged 18-75 years without type 2 diabetes and with a BMI of 30 kg/m2 and higher-or of 27 kg/m2 to less than 30 kg/m2 with at least one weight-related comorbidity-were randomly allocated (3:2:3:3) to receive once-weekly subcutaneous injections of placebo or mazdutide (3-6 mg, 10 mg, or 16 mg) for 48 weeks. Participants assigned to 3-6 mg mazdutide maintained 3 mg from week 4 to week 32 before escalating to 6 mg at 32 weeks to assess 3 mg and 6 mg as potential maintenance doses. The primary endpoint was percentage change in bodyweight from baseline to 32 weeks, evaluated using the efficacy (hypothetical) estimand. Efficacy analyses included all randomly allocated participants, and safety analyses included all randomly allocated participants who received at least one treatment dose. This study is registered at ClinicalTrials.gov, NCT06124807, and is completed. FINDINGS: Between Nov 17, 2023, and July 9, 2025, 179 participants were randomly allocated to receive mazdutide (32 participants to 3-6 mg, 48 to 10 mg, and 51 to 16 mg) or placebo (48 participants). The mean age was 47·7 years (SD 12·3), and 118 (66%) participants were female and 61 (34%) were male. At 32 weeks, the least-squares mean percentage change from baseline in bodyweight was -7·3% (SE 0·9) with mazdutide 3-6 mg, -15·6% (0·7) with 10 mg, and -18·1% (1·0) with 16 mg, versus -0·9% (0·8) with placebo. Estimated treatment differences versus placebo ranged from -6·5% to -17·2% (p<0·0001, all comparisons). Additional bodyweight reductions were observed at 48 weeks. The most common adverse events with mazdutide were gastrointestinal-related and mostly mild to moderate in severity; discontinuation of study treatment due to adverse events occurred most frequently with 16 mg (20%), associated primarily with gastrointestinal disorders. INTERPRETATION: Once-weekly, subcutaneous mazdutide showed clinically meaningful bodyweight reduction in adults with obesity or overweight across all studied doses, with higher doses (10 mg and 16 mg) showing additional weight reduction. FUNDING: Eli Lilly and Company."
+  },
+  {
+   "pmid": "41875890",
+   "titel": "Mazdutide 9 mg in Chinese adults with a body mass index ≥30 kg/m(2) but without diabetes: A phase 2 randomized controlled trial",
+   "jahr": "2026",
+   "journal": "Med",
+   "erstautor": "Ji L",
+   "doi": "10.1016/j.medj.2026.101063",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase II"
+   ],
+   "abstract": "BACKGROUND: Once-weekly dual glucagon and glucagon-like peptide-1 receptor agonist mazdutide, administered at 4 and 6 mg, provides substantial weight loss in Chinese adults with overweight or obesity. This trial aimed to evaluate the efficacy and safety of mazdutide 9 mg in Chinese adults with obesity. METHODS: In this randomized, double-blind, placebo-controlled phase 2 trial (NCT01904913), participants with a body mass index (BMI) ≥30 kg/m2 and without diabetes were randomized 3:1 to receive mazdutide 9 mg or placebo for 24 weeks. The primary endpoint was the percentage change in body weight from baseline to week 24. FINDINGS: Eighty participants were randomized and received mazdutide 9 mg (n = 60) or placebo (n = 20). At week 24, the mean percentage change in weight from baseline was -12.78% with mazdutide 9 mg and 1.80% with placebo (treatment difference: -14.58% [95% confidence interval (CI) -18.00, -11.16], p < 0.0001). Weight reduction ≥5% was achieved by 81.7% of participants with mazdutide after 24-week treatment, while no participants with placebo achieved this threshold. Mazdutide treatment was associated with greater improvements in cardiometabolic risk factors vs. placebo. The most common adverse events included nausea (50.0% with mazdutide vs. 0% with placebo), diarrhea (38.3% vs. 10.0%), and vomiting (36.7% vs. 10.0%), predominantly mild to moderate in severity. CONCLUSIONS: Mazdutide 9 mg was safe and led to substantial weight reductions in Chinese adults with a BMI ≥ 30kg/m2 but without diabetes after 24-week treatment. These results support further clinical development of mazdutide 9 mg for the treatment of obesity. FUNDING: This study was sponsored by Innovent Biologics."
+  }
+ ],
+ "metaanalysen": [
+  {
+   "pmid": "42419792",
+   "titel": "Comparative effects of drugs for adults with overweight or obesity: systematic review and network meta-analysis",
+   "jahr": "2026",
+   "journal": "BMJ",
+   "erstautor": "Nong K",
+   "doi": "10.1136/bmj-2026-372161",
+   "typ": [
+    "Systematic Review",
+    "Network Meta-Analysis",
+    "Journal Article",
+    "Comparative Study"
+   ],
+   "abstract": "OBJECTIVE: To provide an up-to-date evidence summary about the comparative benefits and harms of drugs for adults with overweight or obesity to inform decision making for policymakers, payers, clinicians, and patients. DESIGN: Systematic review and network meta-analysis of 24 outcomes using frequentist random effects models and bayesian dose-response models, the GRADE (Grading of Recommendations Assessment, Development, and Evaluation) approach, and the Cochrane Risk of Bias 2 tool. DATA SOURCES: Medline, Embase, and Cochrane Library, searched up to 12 November 2025. STUDY SELECTION: Randomised controlled trials of 12 weeks' duration or longer comparing one or more drugs with lifestyle modification, placebo, or another drug. RESULTS: This network meta-analysis comprised 262 trials (99 791 participants) evaluating 19 drugs with follow-up from 12 to 172 weeks. Compared with lifestyle modification alone, at one year, moderate to high certainty evidence shows substantial weight loss with tirzepatide (mean difference -14.9%, 95% confidence interval -16.0% to -13.9%), cagrilintide-semaglutide (CagriSema, -14.8%, -16.9% to -12.7%), oral semaglutide (-10.9%, -12.7% to -9.1%), orforglipron (-9.9%, -12.4% to -7.5%), subcutaneous semaglutide (-9.8%, -10.6% to -9.1%), and phentermine-topiramate (-8.1%, -9.7% to -6.5%). Emerging agents (ecnoglutide, mazdutide, retatrutide) may produce similar or greater reductions (13.1-14.6%; very low to low certainty). Moderate to high certainty evidence supports discontinuation because of adverse events to be highest with orforglipron, naltrexone-bupropion, liraglutide, phentermine-topiramate, CagriSema, and oral semaglutide (risk ratios from 1.9 to 4.2); gastrointestinal events were most increased with naltrexone-bupropion, oral semaglutide, orforglipron, and tirzepatide (risk ratios from 3.1 to 4.2). Fatigue risk increased, particularly with naltrexone-bupropion (risk ratio 8.9; absolute increase 331 per 1000 people over one year), orforglipron (3.4; 100 more per 1000), and CagriSema (3.2; 92 more per 1000). Tirzepatide reduced fat mass the most (by 25.7%) but also lean mass the most (by 8.3%). Subcutaneous semaglutide was the only drug associated with reduced all cause mortality (risk ratio 0.81, 95% confidence interval 0.72 to 0.93) and myocardial infarction (0.72, 0.61 to 0.85), with these estimates largely informed by cardiovascular outcome trials in high risk populations. Subcutaneous semaglutide (0.43, 0.21 to 0.84) and tirzepatide (0.49, 0.27 to 0.88) reduced heart failure risk. No drugs convincingly reduced kidney failure or improved quality of life (43 trials with 45 663 participants) beyond established minimally important differences (all mean differences <5 points; minimally important difference 10). Except for larger weight reductions in trials with longer duration (shown for subcutaneous semaglutide), subgroup analyses for drug dosages and key patient characteristics did not identify credible differences in relative effects of treatment. CONCLUSIONS: Obesity drugs produce variable weight loss at one year, with larger benefits generally accompanied by greater harms and discontinuation. Most agents do not improve quality of life meaningfully and few show cardiovascular benefits. Decisions in clinical practice should consider trade-offs between benefits and harms within the context of shared decision making. SYSTEMATIC REVIEW REGISTRATION: PROSPERO CRD42024507993."
+  },
+  {
+   "pmid": "39305981",
+   "titel": "Seven glucagon-like peptide-1 receptor agonists and polyagonists for weight loss in patients with obesity or overweight: an updated systematic review and network meta-analysis of randomized controlled trials",
+   "jahr": "2024",
+   "journal": "Metabolism",
+   "erstautor": "Xie Z",
+   "doi": "10.1016/j.metabol.2024.156038",
+   "typ": [
+    "Journal Article",
+    "Systematic Review",
+    "Network Meta-Analysis",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "PURPOSE: This study aimed to provide evidence-based support and a reference for the efficacy and safety of seven glucagon-like peptide-1 (GLP-1) receptor agonists and polyagonists for weight loss in patients with obesity or overweight through a network meta-analysis. METHODS: Relevant randomized controlled trials (RCTs) with an intervention duration of at least 16 weeks assessing seven GLP-1 receptor agonists and polyagonists (mazdutide, 6 or 4.5 mg; retatrutide, 12 or 8 mg; tirzepatide, 15 or 10 mg; liraglutide, 3.0 mg; semaglutide, 2.4 mg; orforglipron, 45 or 36 mg; and beinaglutide, 0.2 mg) in patient with obesity or overweight was searched using three databases (Cochrane Library, PubMed, and Embase) from creation to August 30, 2024. The primary outcome was the percentage change in body weight from baseline. Secondary outcomes included changes in waist circumference, hemoglobin A1c, and fasting plasma glucose level from baseline; adverse events, serious adverse events, adverse event withdrawal, and hypoglycemic events. We conducted a frequentist random-effects network meta-analysis to analyze the data extracted from the RCTs using Stata 16.1 software. RESULTS: Twenty-seven RCTs of seven GLP-1 receptor agonists and polyagonists and 15,584 patients were included in the network meta-analysis. In terms of efficacy, compared with placebo, retatrutide 12 mg (-22.10 % in body weight and - 17.00 cm in waist circumference), retatrutide 8 mg (-20.70 % and - 15.90 cm), and tirzepatide 15 mg (-16.53 % and - 13.23 cm) were the three most efficacious treatments for reducing body weight and waist circumference. However, these treatments were less effective in patients with type 2 diabetes mellitus (T2DM). In addition, patients with a high body mass index (BMI) or longer treatment cycles exhibited significantly greater weight loss than those with a low BMI or shorter treatment cycles. In terms of safety, patients without T2DM had a higher incidence of adverse events than those with T2DM. None of the interventions increased the incidence of serious adverse or hypoglycemic events (˂54 mg/dL). There was no significant difference in the incidence of adverse event withdrawal for all interventions in head-to-head comparisons. In addition, disparities in race, BMI, and treatment cycles did not significantly increase the incidence of adverse events. Finally, the sensitivity and publication bias analyses indicated that the basic analysis results were reliable. CONCLUSION: Retatrutide (both doses) and tirzepatide exhibited superior efficacy compared to other GLP-1 receptor agonists and polyagonists in reducing body weight and waist circumference. Patients without T2DM, those with a high BMI, and individuals undergoing longer treatment cycles demonstrated significantly greater weight loss and reductions in waist circumference. Dual or triple receptor agonists (GLP-1 plus glucose-dependent insulinotropic polypeptide and/or Glucagon receptor) are more effective for weight loss than GLP-1 receptor agonists."
+  },
+  {
+   "pmid": "39952695",
+   "titel": "Emerging pharmacotherapies for obesity: A systematic review",
+   "jahr": "2025",
+   "journal": "Pharmacol Rev",
+   "erstautor": "Kokkorakis M",
+   "doi": "10.1124/pharmrev.123.001045",
+   "typ": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "abstract": "The history of antiobesity pharmacotherapies is marked by disappointments, often entangled with societal pressure promoting weight loss and the prevailing conviction that excess body weight signifies a lack of willpower. However, categories of emerging pharmacotherapies generate hope to reduce obesity rates. This systematic review of phase 2 and phase 3 trials in adults with overweight/obesity investigates the effect of novel weight loss pharmacotherapies, compared to placebo/control or US Food and Drug Administration-approved weight loss medication, through searching Medline, Embase, and ClinicalTrials.gov (2012-2024). We identified 53 phase 3 and phase 2 trials, with 36 emerging antiobesity drugs or combinations thereof and 4 withdrawn or terminated trials. Oral semaglutide 50 mg is the only medication that has completed a phase 3 trial. There are 14 ongoing phase 3 trials on glucagon-like peptide-1 (GLP-1) receptor agonists (RAs) (ecnoglutide, orforglipron, and TG103), GLP-1 RA/amylin agonist (CagriSema), GLP-1/glucagon RAs (mazdutide and survodutide), GLP-1/glucose-dependent insulinotropic polypeptide and glucagon RA (retatrutide), dapagliflozin, and the combination sibutramine/topiramate. Completed phase 2 trials on incretin-based therapies showed a mean percent weight loss of 7.4% to 24.2%. Almost half of the drugs undergoing phase 2 trials are incretin analogs. The obesity drug pipeline is expanding rapidly, with the most promising results reported with incretin analogs. Data on mortality and obesity-related complications, such as cardio-renal-metabolic events, are needed. Moreover, long-term follow-up data on the safety and efficacy of weight maintenance with novel obesity pharmacotherapies, along with studies focused on underrepresented populations, cost-effectiveness assessments, and drug availability, are needed to bridge the care gap for patients with obesity. SIGNIFICANCE STATEMENT: Obesity is the epidemic of the 21st century. Except for the newer injectable medications, drugs with suboptimal efficacy have been available in the clinician's armamentarium for weight management. However, emerging alternatives of novel agents and combinations populate the current obesity therapeutic pipeline. This systematic review identifies the state and mechanism of action of emerging pharmacotherapies undergoing or having completed phase 2 and phase 3 clinical trials. The information provided herein furthers the understanding of obesity management, implying direct clinical implications and stimulating research initiatives."
+  },
+  {
+   "pmid": "38440786",
+   "titel": "Efficacy and safety of Mazdutide on weight loss among diabetic and non-diabetic patients: a systematic review and meta-analysis of randomized controlled trials",
+   "jahr": "2024",
+   "journal": "Front Endocrinol (Lausanne)",
+   "erstautor": "Nalisa DL",
+   "doi": "10.3389/fendo.2024.1309118",
+   "typ": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+   ],
+   "abstract": "BACKGROUND: Overweight and obesity are increasing global public health problems. Mazdutide is a new dual agonist drug that can potentially reduce weight and blood glucose levels simultaneously. However, the synthesis of evidence on the efficacy and safety of this drug is scarce. Therefore, this study aimed to synthesize evidence on the efficacy and safety of Mazdutide compared to placebo on weight reduction among adults with and without diabetes. METHODS: We conducted a systematic review and meta-analysis of randomized controlled trials (RCTs). Data were retrieved from six electronic databases: PubMed, Web of Science, Scopus, Cochrane Library, ClinicalTrial.gov, and Google Scholar, and manually searched from the included references. The data were synthesized using a random effect model. This analysis was performed in the R programming language using the Meta package. RESULTS: A total of seven RCTs involving 680 participants were included in this study. Mazdutide was more effective in reducing body weight (mean difference [MD]= -6.22%, 95% confidence interval [CI]: -8.02% to -4.41%, I2 = 90.0%), systolic blood pressure (MD = -7.57 mmHg, 95% CI: -11.17 to -3.98 mmHg, I2 = 46%), diastolic blood pressure (MD = -2.98 mmHg, 95% CI: -5.74 to -0.22 mmHg, I2 = 56%), total cholesterol (MD = -16.82%, 95% CI: -24.52 to -9.13%, I2 = 61%), triglycerides (MD = -43.29%, 95% CI: -61.57 to -25.01%, I2 = 68%), low-density lipoprotein (MD= -17.07%, 95% CI: -25.54 to -8.60%, I2 = 53%), and high-density lipoprotein (MD = -7.54%, 95% CI: -11.26 to -3.83%, I2 = 0%) than placebo. Mazdutide was associated with reduced hemoglobin A1c (HbA1c) and fasting plasma glucose in participants with type 2 diabetes. In the subgroup and meta-regression analyses, weight reduction was more significant in non-diabetics compared to diabetics, and in those who received a longer treatment duration (24 weeks) than in those on shorter durations (12-20 weeks). Participants who received Mazdutide had a higher risk of transient mild or moderate gastrointestinal side effects. CONCLUSION: Mazdutite appears to be effective in weight reduction among patients with and without diabetes, and it has an advantage over other associated comorbidities. However, it was associated with mild or moderate gastrointestinal side effects. SYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=403859, identifier CRD42023403859."
+  },
+  {
+   "pmid": "39968298",
+   "titel": "Comparative efficacy of incretin drugs on glycemic control, body weight, and blood pressure in adults with overweight or obesity and with/without type 2 diabetes: a systematic review and network meta-analysis",
+   "jahr": "2025",
+   "journal": "Front Endocrinol (Lausanne)",
+   "erstautor": "Liu S",
+   "doi": "10.3389/fendo.2025.1513641",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Network Meta-Analysis",
+    "Systematic Review"
+   ],
+   "abstract": "BACKGROUND: The rapid development of multi-receptor drugs targeting glucagon-like peptide-1 receptor (GLP-1R) is driving significant advancements in the treatment of individuals with type 2 diabetes and obesity. This systematic review and network meta-analysis aims to compare the efficacy and safety of multi-receptor drugs in adults with overweight or obesity, with or without type 2 diabetes. METHODS: A systematic search was conducted in PubMed, Cochrane, Web of Science, Embase, CNKI, and WanFang databases up to May 12, 2024. Randomized controlled trials (RCTs) with an intervention duration of at least 12 weeks were included. The population of interest consisted of individuals with overweight or obesity, with or without type 2 diabetes. Eligible studies compared multi-receptor drugs with placebo or other multi-receptor drugs. The primary outcomes were weight reduction, glycated hemoglobin (HbA1c), fasting plasma glucose (FPG), blood pressure changes, and adverse events. Risk of bias was assessed using the version 2 of the Cochrane risk-of-bias tool (ROB2), and a random-effects network meta-analysis was performed using the frequentist approach. Confidence in effect estimates was evaluated using the Confidence In Network Meta-Analysis (CINeMA) framework. RESULTS: A total of 24 trials, involving 9165 participants, were included. Retatrutide (mean difference (MD): -11.91 kg, 95% CI: -19.00 to -4.82, P-score: 0.80, p: 0.0003) and Tirzepatide (MD: -12.78 kg, 95% CI: -16.10 to -9.46, P-score: 0.89, p < 0.0001) exhibited superior efficacy in reducing body weight, with all other agents except Mazdutide (MD: -5.31 kg, 95% CI: -9.78 to -0.84, P-score: 0.37, p: 0.0189) achieving reductions of over 8 kg. In patients with type 2 diabetes, all agents reduced HbA1c by over 1%, with Tirzepatide (MD: -1.87%, 95% CI: -2.15 to -1.59, P-score: 0.87, p < 0.0001) and Mazdutide (MD: -1.89%, 95% CI: -2.43 to -1.35, P-score: 0.88, p < 0.0001) showing the greatest effects on glycemic control. For blood pressure management, Tirzepatide significantly reduced systolic blood pressure (MD: -6.69 mmHg, 95% CI: -7.62 to -5.75, P-score: 0.84, p < 0.0001) and diastolic blood pressure (MD: -3.73 mmHg, 95% CI: -4.75 to -2.71, P-score: 0.92, p < 0.0001), with nearly all agents lowering systolic blood pressure by more than 5 mmHg. Non-diabetic participants showed more pronounced improvements in both weight and blood pressure. Safety analysis revealed that Tirzepatide had a favorable safety profile and all agents showed no significant impact on serious adverse events compared to placebo. CONCLUSIONS: Multi-receptor drugs demonstrated substantial therapeutic potential in weight management, glycemic control, and blood pressure regulation in adults with overweight or obesity, with or without diabetes, with a generally favorable safety profile. SYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/prospero/, identifier CRD42024554005."
+  },
+  {
+   "pmid": "42410325",
+   "titel": "Efficacy and Safety of the Dual Glucagon-Like Peptide-1 and Glucagon Receptor Agonist Mazdutide in Predominantly Chinese Adults With Obesity and/or Type 2 Diabetes: A Systematic Review and Meta-Analysis",
+   "jahr": "2026",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Kamrul-Hasan ABM",
+   "doi": "10.1111/dom.71058",
+   "typ": [
+    "Systematic Review",
+    "Journal Article",
+    "Meta-Analysis"
+   ],
+   "abstract": "AIM: To assess the effects of mazdutide on body weight, HbA1c, metabolic outcomes, and adverse events in adults with overweight/obesity and/or type 2 diabetes (T2D). METHODS: This systematic review and meta-analysis included randomized controlled trials (RCTs) comparing mazdutide with placebo or active comparators in adults with overweight/obesity and/or T2D, identified through PubMed, Scopus, Web of Science, and ClinicalTrials.gov to 20 February 2026. Co-primary outcomes were percent change in body weight and change in HbA1c. Secondary outcomes included other weight-related and metabolic outcomes, as well as safety. Random-effects models were used to generate pooled mean differences (MDs) or risk ratios with 95% confidence intervals, and the certainty of the evidence (COE) was assessed using GRADE. RESULTS: Nine RCTs (N = 2292; most with low risk of bias) were included. In overweight/obesity without diabetes, mazdutide 3, 4, and 6 mg reduced body weight more than placebo (MDs -6.56%, -9.92%, and -11.1%, respectively; very low COE due to substantial heterogeneity and few trials). In T2D, mazdutide 4 and 6 mg reduced body weight and HbA1c versus placebo (moderate COE) and also outperformed dulaglutide for both outcomes. Mazdutide also improved waist circumference, lipids, liver enzymes, and uric acid levels. Gastrointestinal adverse events were more frequent, but serious adverse events and treatment discontinuation rates were comparable with those of the comparators. CONCLUSIONS: Mazdutide was associated with dose-dependent reductions in body weight and HbA1c, with broader metabolic benefits in predominantly Chinese adults with obesity and/or T2D. Longer-term, multi-ethnic studies are needed to confirm durability, generalizability, and cardiovascular safety."
+  },
+  {
+   "pmid": "39292847",
+   "titel": "Mazdutide Versus Dulaglutide for Weight Loss and Diabetes Management: Meta-Analysis of Randomized Clinical Trials",
+   "jahr": "2024",
+   "journal": "Am J Ther",
+   "erstautor": "Ayesh H",
+   "doi": "10.1097/MJT.0000000000001756",
+   "typ": [
+    "Comparative Study",
+    "Letter",
+    "Meta-Analysis"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "38740695",
+   "titel": "Safety and efficacy of GLP-1 and glucagon receptor dual agonist for the treatment of type 2 diabetes and obesity: a systematic review and meta-analysis of randomized controlled trials",
+   "jahr": "2024",
+   "journal": "Endocrine",
+   "erstautor": "Deng B",
+   "doi": "10.1007/s12020-024-03857-6",
+   "typ": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+   ],
+   "abstract": "PURPOSE: This study aimed to investigate the effects of randomized, placebo-controlled trials involving the GLP-1 and glucagon receptor dual agonists, mazdutide, and cotadutide, on glycaemic control and body weight changes in individuals with type 2 diabetes mellitus (T2DM), obesity, or both. METHODS: We conducted searches in Medline, PubMed, Scopus, the Cochrane database, and Web of Science up to March 5, 2024. The primary outcomes assessed were changes in HbA1c level and percentage changes in body weight from baseline (CFB). RESULTS: Eleven studies and four unpublished trials were included. The pooled meta-analysis revealed a significant reduction in HbA1c (MD = -0.63%; 95% CI = [-0.82, -0.44]; P < 0.00001), fasting plasma glucose (MD = -1.71 mmol/L; 95% CI = [-2.31, -1.10]; P < 0.00001), and percentage change in body weight (MD = -4.16%; 95% CI = [-5.41, -2.92]; P < 0.00001). Safety analysis revealed no significant change in serious adverse events (OR = 1.03; 95% CI = [0.61, 1.75]; P = 0.91), but there were significantly higher odds of treatment-emergent adverse events (OR = 2.52; 95% CI = [1.92, 3.30]; P < 0.00001) and vomiting (OR = 6.05; 95% CI = [3.52, 10.40]; P < 0.00001). CONCLUSION: These results suggest that mazdutide and cotadutide are effective for glycaemic control and weight reduction in individuals with T2DM, obesity, or both."
+  },
+  {
+   "pmid": "41804840",
+   "titel": "Efficacy and Safety of Mazdutide in Managing Overweight and Obesity Among Non-Diabetic Adults: A Meta-Analysis of Randomised Controlled Trials",
+   "jahr": "2026",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Azam MH",
+   "doi": "10.1111/dom.70643",
+   "typ": [
+    "Meta-Analysis",
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "BACKGROUND: Mazdutide, a dual GLP-1 and glucagon receptor agonist, shows promise for weight loss and glycaemic control. This study evaluates its efficacy in non-diabetic patients with obesity. METHODOLOGY: A search of Cochrane Library, PubMed, Google Scholar and clinicaltrials.gov identified randomised controlled trials (RCTs) of mazdutide in adults (≥ 18 years) with obesity. Meta-analysis was performed using RevMan 5.4 with random-effect models. RESULTS: Five RCTs were included. Mazdutide significantly reduced percentage body weight (MD = -12.42%, 95% CI: -16.15% to -8.68%), absolute body weight (MD = -9.76 kg, 95% CI: -13.15 to -6.37 kg) and waist circumference (MD = -7.98 cm, 95% CI: -10.24 to -5.72 cm). Systolic blood pressure (MD = -7.68 mmHg), total cholesterol (MD = -0.57 mmol/L) and LDL (MD = -0.37 mmol/L) also decreased. Adverse events were slightly increased (RR = 1.12). Dose-wise meta-regression showed significant effects (β = -0.99, 95% CI: -1.81 to -0.16; p = 0.0187). CONCLUSION: Mazdutide effectively reduces weight, waist circumference and blood pressure but may cause mild to moderate adverse events. Findings are limited by the small number of RCTs."
+  },
+  {
+   "pmid": "41787737",
+   "titel": "Comparative Efficacy and Safety of Glucagon Receptor Agonists on Metabolic Outcomes: A Network Meta-Analysis of Randomised Controlled Trials",
+   "jahr": "2026",
+   "journal": "Endocrinol Diabetes Metab",
+   "erstautor": "Abulehia A",
+   "doi": "10.1002/edm2.70187",
+   "typ": [
+    "Journal Article",
+    "Network Meta-Analysis",
+    "Comparative Study",
+    "Review"
+   ],
+   "abstract": "INTRODUCTION: Glucagon receptor agonists (GRAs) are an emerging class of therapies for obesity and type 2 diabetes, demonstrating encouraging metabolic and weight-reducing effects. Several investigational GRA-based agents, including retatrutide, cotadutide, mazdutide, and survodutide, have reported promising results across early and mid-phase clinical trials. This comprehensive meta-analysis evaluates the efficacy and safety of these agents in individuals with type 2 diabetes, overweight, or obesity. METHODS: PubMed, Cochrane, Embase, and Scopus databases were systematically searched. Fourteen randomised controlled trials meeting the inclusion criteria were analysed using frequentist network meta-analysis. Random-effects models were applied to assess mean differences (MD) in weight change, both absolute and percent changes, HbA1c, adverse events, and discontinuation due to adverse events. Heterogeneity was quantified using the I2 statistic. RESULTS: Retatrutide demonstrated the greatest weight reduction versus placebo (MD -13.44 kg; 95% CI [-18.38, -8.51]), followed by survodutide (MD -10.74 kg; 95% CI [-15.68, -5.80]) and mazdutide (MD -6.47 kg; 95% CI [-10.71, -2.24]). Cotadutide showed the smallest and nonsignificant effect (MD -3.41 kg; 95% CI [-11.63, 4.81]). Regarding HbA1c reduction, retatrutide showed the largest effect, followed by survodutide, mazdutide, and cotadutide; however, only the effect of retatrutide reached statistical significance. In terms of safety, mazdutide demonstrated the most favourable tolerability profile, whereas retatrutide and cotadutide were associated with comparatively lower tolerability. CONCLUSIONS: Retatrutide and survodutide exhibit the most favourable efficacy profiles for obesity and T2DM, with acceptable safety. These findings support their potential clinical use and highlight the need for future head-to-head trials."
+  }
+ ],
+ "praeklinik": [
+  {
+   "pmid": "42419792",
+   "titel": "Comparative effects of drugs for adults with overweight or obesity: systematic review and network meta-analysis",
+   "jahr": "2026",
+   "journal": "BMJ",
+   "erstautor": "Nong K",
+   "doi": "10.1136/bmj-2026-372161",
+   "typ": [
+    "Systematic Review",
+    "Network Meta-Analysis",
+    "Journal Article",
+    "Comparative Study"
+   ],
+   "abstract": "OBJECTIVE: To provide an up-to-date evidence summary about the comparative benefits and harms of drugs for adults with overweight or obesity to inform decision making for policymakers, payers, clinicians, and patients. DESIGN: Systematic review and network meta-analysis of 24 outcomes using frequentist random effects models and bayesian dose-response models, the GRADE (Grading of Recommendations Assessment, Development, and Evaluation) approach, and the Cochrane Risk of Bias 2 tool. DATA SOURCES: Medline, Embase, and Cochrane Library, searched up to 12 November 2025. STUDY SELECTION: Randomised controlled trials of 12 weeks' duration or longer comparing one or more drugs with lifestyle modification, placebo, or another drug. RESULTS: This network meta-analysis comprised 262 trials (99 791 participants) evaluating 19 drugs with follow-up from 12 to 172 weeks. Compared with lifestyle modification alone, at one year, moderate to high certainty evidence shows substantial weight loss with tirzepatide (mean difference -14.9%, 95% confidence interval -16.0% to -13.9%), cagrilintide-semaglutide (CagriSema, -14.8%, -16.9% to -12.7%), oral semaglutide (-10.9%, -12.7% to -9.1%), orforglipron (-9.9%, -12.4% to -7.5%), subcutaneous semaglutide (-9.8%, -10.6% to -9.1%), and phentermine-topiramate (-8.1%, -9.7% to -6.5%). Emerging agents (ecnoglutide, mazdutide, retatrutide) may produce similar or greater reductions (13.1-14.6%; very low to low certainty). Moderate to high certainty evidence supports discontinuation because of adverse events to be highest with orforglipron, naltrexone-bupropion, liraglutide, phentermine-topiramate, CagriSema, and oral semaglutide (risk ratios from 1.9 to 4.2); gastrointestinal events were most increased with naltrexone-bupropion, oral semaglutide, orforglipron, and tirzepatide (risk ratios from 3.1 to 4.2). Fatigue risk increased, particularly with naltrexone-bupropion (risk ratio 8.9; absolute increase 331 per 1000 people over one year), orforglipron (3.4; 100 more per 1000), and CagriSema (3.2; 92 more per 1000). Tirzepatide reduced fat mass the most (by 25.7%) but also lean mass the most (by 8.3%). Subcutaneous semaglutide was the only drug associated with reduced all cause mortality (risk ratio 0.81, 95% confidence interval 0.72 to 0.93) and myocardial infarction (0.72, 0.61 to 0.85), with these estimates largely informed by cardiovascular outcome trials in high risk populations. Subcutaneous semaglutide (0.43, 0.21 to 0.84) and tirzepatide (0.49, 0.27 to 0.88) reduced heart failure risk. No drugs convincingly reduced kidney failure or improved quality of life (43 trials with 45 663 participants) beyond established minimally important differences (all mean differences <5 points; minimally important difference 10). Except for larger weight reductions in trials with longer duration (shown for subcutaneous semaglutide), subgroup analyses for drug dosages and key patient characteristics did not identify credible differences in relative effects of treatment. CONCLUSIONS: Obesity drugs produce variable weight loss at one year, with larger benefits generally accompanied by greater harms and discontinuation. Most agents do not improve quality of life meaningfully and few show cardiovascular benefits. Decisions in clinical practice should consider trade-offs between benefits and harms within the context of shared decision making. SYSTEMATIC REVIEW REGISTRATION: PROSPERO CRD42024507993."
+  },
+  {
+   "pmid": "39305981",
+   "titel": "Seven glucagon-like peptide-1 receptor agonists and polyagonists for weight loss in patients with obesity or overweight: an updated systematic review and network meta-analysis of randomized controlled trials",
+   "jahr": "2024",
+   "journal": "Metabolism",
+   "erstautor": "Xie Z",
+   "doi": "10.1016/j.metabol.2024.156038",
+   "typ": [
+    "Journal Article",
+    "Systematic Review",
+    "Network Meta-Analysis",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "PURPOSE: This study aimed to provide evidence-based support and a reference for the efficacy and safety of seven glucagon-like peptide-1 (GLP-1) receptor agonists and polyagonists for weight loss in patients with obesity or overweight through a network meta-analysis. METHODS: Relevant randomized controlled trials (RCTs) with an intervention duration of at least 16 weeks assessing seven GLP-1 receptor agonists and polyagonists (mazdutide, 6 or 4.5 mg; retatrutide, 12 or 8 mg; tirzepatide, 15 or 10 mg; liraglutide, 3.0 mg; semaglutide, 2.4 mg; orforglipron, 45 or 36 mg; and beinaglutide, 0.2 mg) in patient with obesity or overweight was searched using three databases (Cochrane Library, PubMed, and Embase) from creation to August 30, 2024. The primary outcome was the percentage change in body weight from baseline. Secondary outcomes included changes in waist circumference, hemoglobin A1c, and fasting plasma glucose level from baseline; adverse events, serious adverse events, adverse event withdrawal, and hypoglycemic events. We conducted a frequentist random-effects network meta-analysis to analyze the data extracted from the RCTs using Stata 16.1 software. RESULTS: Twenty-seven RCTs of seven GLP-1 receptor agonists and polyagonists and 15,584 patients were included in the network meta-analysis. In terms of efficacy, compared with placebo, retatrutide 12 mg (-22.10 % in body weight and - 17.00 cm in waist circumference), retatrutide 8 mg (-20.70 % and - 15.90 cm), and tirzepatide 15 mg (-16.53 % and - 13.23 cm) were the three most efficacious treatments for reducing body weight and waist circumference. However, these treatments were less effective in patients with type 2 diabetes mellitus (T2DM). In addition, patients with a high body mass index (BMI) or longer treatment cycles exhibited significantly greater weight loss than those with a low BMI or shorter treatment cycles. In terms of safety, patients without T2DM had a higher incidence of adverse events than those with T2DM. None of the interventions increased the incidence of serious adverse or hypoglycemic events (˂54 mg/dL). There was no significant difference in the incidence of adverse event withdrawal for all interventions in head-to-head comparisons. In addition, disparities in race, BMI, and treatment cycles did not significantly increase the incidence of adverse events. Finally, the sensitivity and publication bias analyses indicated that the basic analysis results were reliable. CONCLUSION: Retatrutide (both doses) and tirzepatide exhibited superior efficacy compared to other GLP-1 receptor agonists and polyagonists in reducing body weight and waist circumference. Patients without T2DM, those with a high BMI, and individuals undergoing longer treatment cycles demonstrated significantly greater weight loss and reductions in waist circumference. Dual or triple receptor agonists (GLP-1 plus glucose-dependent insulinotropic polypeptide and/or Glucagon receptor) are more effective for weight loss than GLP-1 receptor agonists."
+  },
+  {
+   "pmid": "39952695",
+   "titel": "Emerging pharmacotherapies for obesity: A systematic review",
+   "jahr": "2025",
+   "journal": "Pharmacol Rev",
+   "erstautor": "Kokkorakis M",
+   "doi": "10.1124/pharmrev.123.001045",
+   "typ": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "abstract": "The history of antiobesity pharmacotherapies is marked by disappointments, often entangled with societal pressure promoting weight loss and the prevailing conviction that excess body weight signifies a lack of willpower. However, categories of emerging pharmacotherapies generate hope to reduce obesity rates. This systematic review of phase 2 and phase 3 trials in adults with overweight/obesity investigates the effect of novel weight loss pharmacotherapies, compared to placebo/control or US Food and Drug Administration-approved weight loss medication, through searching Medline, Embase, and ClinicalTrials.gov (2012-2024). We identified 53 phase 3 and phase 2 trials, with 36 emerging antiobesity drugs or combinations thereof and 4 withdrawn or terminated trials. Oral semaglutide 50 mg is the only medication that has completed a phase 3 trial. There are 14 ongoing phase 3 trials on glucagon-like peptide-1 (GLP-1) receptor agonists (RAs) (ecnoglutide, orforglipron, and TG103), GLP-1 RA/amylin agonist (CagriSema), GLP-1/glucagon RAs (mazdutide and survodutide), GLP-1/glucose-dependent insulinotropic polypeptide and glucagon RA (retatrutide), dapagliflozin, and the combination sibutramine/topiramate. Completed phase 2 trials on incretin-based therapies showed a mean percent weight loss of 7.4% to 24.2%. Almost half of the drugs undergoing phase 2 trials are incretin analogs. The obesity drug pipeline is expanding rapidly, with the most promising results reported with incretin analogs. Data on mortality and obesity-related complications, such as cardio-renal-metabolic events, are needed. Moreover, long-term follow-up data on the safety and efficacy of weight maintenance with novel obesity pharmacotherapies, along with studies focused on underrepresented populations, cost-effectiveness assessments, and drug availability, are needed to bridge the care gap for patients with obesity. SIGNIFICANCE STATEMENT: Obesity is the epidemic of the 21st century. Except for the newer injectable medications, drugs with suboptimal efficacy have been available in the clinician's armamentarium for weight management. However, emerging alternatives of novel agents and combinations populate the current obesity therapeutic pipeline. This systematic review identifies the state and mechanism of action of emerging pharmacotherapies undergoing or having completed phase 2 and phase 3 clinical trials. The information provided herein furthers the understanding of obesity management, implying direct clinical implications and stimulating research initiatives."
+  },
+  {
+   "pmid": "41028652",
+   "titel": "Mazdutide: First Approval",
+   "jahr": "2025",
+   "journal": "Drugs",
+   "erstautor": "Shirley M",
+   "doi": "10.1007/s40265-025-02249-y",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Mazdutide (Xinermei®) is a dual glucagon receptor (GcgR) and glucagon-like peptide-1 receptor (GLP-1R) agonist being developed by Eli Lilly and Company along with Innovent Biologics for use in weight management in adults with obesity or overweight and for the treatment of type 2 diabetes (T2D). In June 2025, mazdutide received its first approval, in China, for use (in combination with diet control and increased physical activity) in long-term body weight management in adults with a body-mass index (BMI) of ≥ 28 kg/m2 or with a BMI ≥ 24 kg/m2 together with one or more weight-related comorbidity. Subsequently, in September 2025, mazdutide also received approval in China for use in glycaemic control in adults with T2D. Additionally, mazdutide is under clinical evaluation for use in the treatment of metabolic dysfunction-associated fatty liver disease, obstructive sleep apnoea and alcohol use disorder. This article summarises the milestones in the development of mazdutide leading to this first approval for long-term body weight management in adults with obesity or overweight."
+  },
+  {
+   "pmid": "42208956",
+   "titel": "Beyond weight loss: multisystem benefits of obesity medications",
+   "jahr": "2026",
+   "journal": "Lancet Diabetes Endocrinol",
+   "erstautor": "Savas M",
+   "doi": "10.1016/S2213-8587(26)00100-2",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Obesity is increasingly managed with medications as disease-modifying therapies, reflecting its role as a gateway disease driving metabolic, cardiovascular, reproductive, neuropsychiatric, and mechanical conditions. This Review synthesises evidence from randomised controlled trials and high-quality meta-analyses on approved and late-stage investigational obesity medications, including phentermine-topiramate, naltrexone-bupropion, glucagon-like peptide-1 (GLP-1) receptor agonists (eg, liraglutide, semaglutide, subcutaneously and orally), and newer GLP-1 receptor agonist-based agents (eg, tirzepatide, survodutide, mazdutide, retatrutide, cagrilintide-semaglutide, and amycretin). We evaluated the effects of obesity medications across major obesity-related conditions, including type 2 diabetes, metabolic dysfunction-associated steatotic liver disease, chronic kidney disease, heart failure, cardiovascular disease, obstructive sleep apnoea syndrome, polycystic ovary syndrome (recently named polyendocrine metabolic ovarian syndrome), osteoarthritis, muscle mass, depression, quality of life, and food cravings, along with binge-eating disorders, substance use disorders, and neurodegenerative diseases. Overall, GLP-1-based and multiagonist therapies show beneficial effects across these comorbid conditions. While many benefits of obesity medications are mediated by weight loss, accumulating evidence indicates important weight loss-independent effects, particularly with GLP-1 receptor agonist-based therapies. A broader understanding of these pleiotropic effects is essential to inform personalised obesity management and optimise long-term clinical outcomes."
+  },
+  {
+   "pmid": "38440786",
+   "titel": "Efficacy and safety of Mazdutide on weight loss among diabetic and non-diabetic patients: a systematic review and meta-analysis of randomized controlled trials",
+   "jahr": "2024",
+   "journal": "Front Endocrinol (Lausanne)",
+   "erstautor": "Nalisa DL",
+   "doi": "10.3389/fendo.2024.1309118",
+   "typ": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+   ],
+   "abstract": "BACKGROUND: Overweight and obesity are increasing global public health problems. Mazdutide is a new dual agonist drug that can potentially reduce weight and blood glucose levels simultaneously. However, the synthesis of evidence on the efficacy and safety of this drug is scarce. Therefore, this study aimed to synthesize evidence on the efficacy and safety of Mazdutide compared to placebo on weight reduction among adults with and without diabetes. METHODS: We conducted a systematic review and meta-analysis of randomized controlled trials (RCTs). Data were retrieved from six electronic databases: PubMed, Web of Science, Scopus, Cochrane Library, ClinicalTrial.gov, and Google Scholar, and manually searched from the included references. The data were synthesized using a random effect model. This analysis was performed in the R programming language using the Meta package. RESULTS: A total of seven RCTs involving 680 participants were included in this study. Mazdutide was more effective in reducing body weight (mean difference [MD]= -6.22%, 95% confidence interval [CI]: -8.02% to -4.41%, I2 = 90.0%), systolic blood pressure (MD = -7.57 mmHg, 95% CI: -11.17 to -3.98 mmHg, I2 = 46%), diastolic blood pressure (MD = -2.98 mmHg, 95% CI: -5.74 to -0.22 mmHg, I2 = 56%), total cholesterol (MD = -16.82%, 95% CI: -24.52 to -9.13%, I2 = 61%), triglycerides (MD = -43.29%, 95% CI: -61.57 to -25.01%, I2 = 68%), low-density lipoprotein (MD= -17.07%, 95% CI: -25.54 to -8.60%, I2 = 53%), and high-density lipoprotein (MD = -7.54%, 95% CI: -11.26 to -3.83%, I2 = 0%) than placebo. Mazdutide was associated with reduced hemoglobin A1c (HbA1c) and fasting plasma glucose in participants with type 2 diabetes. In the subgroup and meta-regression analyses, weight reduction was more significant in non-diabetics compared to diabetics, and in those who received a longer treatment duration (24 weeks) than in those on shorter durations (12-20 weeks). Participants who received Mazdutide had a higher risk of transient mild or moderate gastrointestinal side effects. CONCLUSION: Mazdutite appears to be effective in weight reduction among patients with and without diabetes, and it has an advantage over other associated comorbidities. However, it was associated with mild or moderate gastrointestinal side effects. SYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=403859, identifier CRD42023403859."
+  },
+  {
+   "pmid": "39968298",
+   "titel": "Comparative efficacy of incretin drugs on glycemic control, body weight, and blood pressure in adults with overweight or obesity and with/without type 2 diabetes: a systematic review and network meta-analysis",
+   "jahr": "2025",
+   "journal": "Front Endocrinol (Lausanne)",
+   "erstautor": "Liu S",
+   "doi": "10.3389/fendo.2025.1513641",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Network Meta-Analysis",
+    "Systematic Review"
+   ],
+   "abstract": "BACKGROUND: The rapid development of multi-receptor drugs targeting glucagon-like peptide-1 receptor (GLP-1R) is driving significant advancements in the treatment of individuals with type 2 diabetes and obesity. This systematic review and network meta-analysis aims to compare the efficacy and safety of multi-receptor drugs in adults with overweight or obesity, with or without type 2 diabetes. METHODS: A systematic search was conducted in PubMed, Cochrane, Web of Science, Embase, CNKI, and WanFang databases up to May 12, 2024. Randomized controlled trials (RCTs) with an intervention duration of at least 12 weeks were included. The population of interest consisted of individuals with overweight or obesity, with or without type 2 diabetes. Eligible studies compared multi-receptor drugs with placebo or other multi-receptor drugs. The primary outcomes were weight reduction, glycated hemoglobin (HbA1c), fasting plasma glucose (FPG), blood pressure changes, and adverse events. Risk of bias was assessed using the version 2 of the Cochrane risk-of-bias tool (ROB2), and a random-effects network meta-analysis was performed using the frequentist approach. Confidence in effect estimates was evaluated using the Confidence In Network Meta-Analysis (CINeMA) framework. RESULTS: A total of 24 trials, involving 9165 participants, were included. Retatrutide (mean difference (MD): -11.91 kg, 95% CI: -19.00 to -4.82, P-score: 0.80, p: 0.0003) and Tirzepatide (MD: -12.78 kg, 95% CI: -16.10 to -9.46, P-score: 0.89, p < 0.0001) exhibited superior efficacy in reducing body weight, with all other agents except Mazdutide (MD: -5.31 kg, 95% CI: -9.78 to -0.84, P-score: 0.37, p: 0.0189) achieving reductions of over 8 kg. In patients with type 2 diabetes, all agents reduced HbA1c by over 1%, with Tirzepatide (MD: -1.87%, 95% CI: -2.15 to -1.59, P-score: 0.87, p < 0.0001) and Mazdutide (MD: -1.89%, 95% CI: -2.43 to -1.35, P-score: 0.88, p < 0.0001) showing the greatest effects on glycemic control. For blood pressure management, Tirzepatide significantly reduced systolic blood pressure (MD: -6.69 mmHg, 95% CI: -7.62 to -5.75, P-score: 0.84, p < 0.0001) and diastolic blood pressure (MD: -3.73 mmHg, 95% CI: -4.75 to -2.71, P-score: 0.92, p < 0.0001), with nearly all agents lowering systolic blood pressure by more than 5 mmHg. Non-diabetic participants showed more pronounced improvements in both weight and blood pressure. Safety analysis revealed that Tirzepatide had a favorable safety profile and all agents showed no significant impact on serious adverse events compared to placebo. CONCLUSIONS: Multi-receptor drugs demonstrated substantial therapeutic potential in weight management, glycemic control, and blood pressure regulation in adults with overweight or obesity, with or without diabetes, with a generally favorable safety profile. SYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/prospero/, identifier CRD42024554005."
+  },
+  {
+   "pmid": "41054801",
+   "titel": "Novel GLP-1-based Medications for Type 2 Diabetes and Obesity",
+   "jahr": "2026",
+   "journal": "Endocr Rev",
+   "erstautor": "Son JW",
+   "doi": "10.1210/endrev/bnaf036",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "The approvals of semaglutide and tirzepatide have set new benchmarks in the treatment of type 2 diabetes and obesity. Building on their success, novel glucagon-like peptide-1 (GLP-1)-based therapeutics are rapidly advancing. These next-generation agents engage not only GLP-1 receptors but also those for other gastro-entero-pancreatic hormones such as glucose-dependent insulinotropic polypeptide (GIP), glucagon, amylin, and peptide YY to enhance energy uptake, storage, and expenditure through synergistic mechanisms. Both GIP receptor agonism and antagonism, particularly in combination with GLP-1 receptor agonism, have shown promise. Maridebart cafraglutide, combining GLP-1 receptor agonism with GIP receptor antagonism, exemplifies this innovative approach. Glucagon coagonists like survodutide and mazdutide have demonstrated significant weight loss and improved glycemic control. Amylin-based agents, including CagriSema (cagrilintide + semaglutide) and amycretin, enhance satiety and glycemic outcomes through complementary actions. Further innovation is seen in triple agonists such as retatrutide, which targets GIP, GLP-1, and glucagon receptors to amplify metabolic effects. Meanwhile, the emergence of orally active small-molecule GLP-1 receptor agonists like danuglipron and orforglipron, which are resistant to enzymatic degradation, marks a major advance in patient-friendly drug delivery. This review explores the mechanisms, clinical development, and therapeutic potential of these novel agents, excluding already approved drugs like liraglutide, semaglutide, and tirzepatide. We highlight how multireceptor agonists and oral GLP-1-based therapies may reshape the future landscape of obesity and type 2 diabetes treatment by offering more effective and better-tolerated options."
+  },
+  {
+   "pmid": "41389801",
+   "titel": "Obesity in China: current progress and future prospects",
+   "jahr": "2026",
+   "journal": "Lancet Diabetes Endocrinol",
+   "erstautor": "Pan XF",
+   "doi": "10.1016/S2213-8587(25)00357-2",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "The prevalence of overweight and obesity in China has continued to increase over the last decade, with mounting health and economic consequences. In this Personal View, we critically examine recent advances and identify current and emerging challenges in obesity across public health and policy, clinical research, and practice. National policy frameworks, technical health and nutrition guidelines, and multisectoral collaboration have elevated obesity on the public agenda. Evidence supporting lifestyle interventions and medications for obesity continues to accumulate. Since 2021, five additional GLP-1 receptor agonists (including liraglutide, beinaglutide, semaglutide, tirzepatide, and mazdutide) have been approved in China for weight management, broadening therapeutic choices and initiating a transformation in obesity care. Nevertheless, several key challenges remain which can undermine the sustained impact of the progress. These include limitations in existing diagnostic criteria for obesity which captures phenotypic and cardiometabolic heterogeneity; limited availability of quantifiable, actionable, and accountable national targets which weakens governance and evaluation; and a scarcity of evidence-based algorithms for obesity pharmacotherapy, which risks over-reliance on medication and diverts attention from socioeconomic, environmental, and behavioural determinants. We call for people-centred, integrated systems that embed whole-person obesity care within a planetary health framework and deliver a coherent continuum of prevention, treatment, and long-term support."
+  },
+  {
+   "pmid": "36247927",
+   "titel": "Safety and efficacy of a GLP-1 and glucagon receptor dual agonist mazdutide (IBI362) 9 mg and 10 mg in Chinese adults with overweight or obesity: A randomised, placebo-controlled, multiple-ascending-dose phase 1b trial",
+   "jahr": "2022",
+   "journal": "EClinicalMedicine",
+   "erstautor": "Ji L",
+   "doi": "10.1016/j.eclinm.2022.101691",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: Mazdutide (also known as IBI362 or LY3305677), a novel once-weekly glucagon-like peptide-1 (GLP-1) and glucagon receptor dual agonist, achieved 12-week body weight loss up to 6.4% at doses up to 6 mg in Chinese adults with overweight or obesity. We further explored the safety and efficacy of mazdutide dosed up to 9 mg and 10 mg. METHODS: In this randomised, placebo-controlled, multiple-ascending-dose phase 1b trial, we enrolled adults (aged 18-75 years, both inclusive) with overweight (body-mass index [BMI] ≥24 kg/m2) accompanied by hyperphagia and/or at least one obesity-related comorbidity or obesity (BMI ≥28 kg/m2) from five hospitals in China. Eligible participants were randomly assigned (2:1) within each cohort by using an interactive web-response system to receive once-weekly subcutaneous mazdutide or placebo for 12 weeks in the 9 mg cohort (3 mg weeks 1-4; 6 mg weeks 5-8; 9 mg weeks 9-12) and for 16 weeks in the 10 mg cohort (2.5 mg weeks 1-4; 5 mg weeks 5-8; 7.5 mg weeks 9-12; 10 mg weeks 13-16). The participants, investigators, study site personnel involved in treating and assessing participants in each cohort and sponsor personnel were masked to treatment allocation. The primary outcomes were safety and tolerability of mazdutide, assessed from baseline to end of follow-up in all participants who received at least one dose of the study treatment. The secondary outcomes included the change from baseline to week 12 or week 16 in body weight, waist circumference and BMI. This trial is registered with ClinicalTrials.gov, NCT04440345. FINDINGS: Between Mar. 1, 2021 and Mar. 26, 2021, a total of 24 participants were enrolled, with eight randomly assigned to mazdutide and four to placebo in each cohort. One participant receiving mazdutide and two receiving placebo in the 10 mg cohort withdrew consent and quitted the study. No serious adverse event was reported. All treatment-emergent adverse events (TEAEs) were mild or moderate in severity and most commonly-reported TEAEs were upper respiratory tract infection, diarrhoea, decreased appetite, nausea, urinary tract infection, abdominal distension and vomiting. The mean percent change from baseline to week 12 in body weight were -11.7% (SE 1.5) for participants receiving mazdutide in the 9 mg cohort and -1.8% (1.6) for participants receiving placebo (estimated treatment difference [ETD]: -9.8%; 95% confidence interval [CI]: -14.4, -5.3; P = 0.0002). The mean percent change from baseline to week 16 in body weight were -9.5% (SE 1.7) for participants receiving mazdutide in the 10 mg cohort and -3.3% (1.9) for participants receiving placebo (ETD: -6.2%; 95% CI: -11.5, -0.9; P = 0.024). In addition, compared with placebo, mazdutide achieved more profound reductions in waist circumference and BMI. INTERPRETATION: Mazdutide dosed up to 9 mg and 10 mg was both well tolerated and showed a favourable safety profile. High-dose mazdutide showed promising 12-week body weight loss, holding great potential for the treatment of moderate-to-severe obesity. A larger and longer phase 2 trial will further evaluate the efficacy and safety of high-dose mazdutide in Chinese adults with obesity. FUNDING: Innovent Biologics, Inc."
+  },
+  {
+   "pmid": "40479843",
+   "titel": "Mazdutide, a dual agonist targeting GLP-1R and GCGR, mitigates diabetes-associated cognitive dysfunction: mechanistic insights from multi-omics analysis",
+   "jahr": "2025",
+   "journal": "EBioMedicine",
+   "erstautor": "Dong W",
+   "doi": "10.1016/j.ebiom.2025.105791",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: Cognitive impairment and dementia are highly associated with obesity and type 2 diabetes mellitus (T2DM). Recent studies have demonstrated that GLP-1 receptor agonists can improve cognitive function through brain activation in patients with T2DM, compared to other oral glucose-lowering drugs. Mazdutide, a dual agonist of the glucagon-like peptide-1 receptor (GLP-1R) and the glucagon receptor (GCGR), has been shown to simultaneously reduce body weight, blood glucose levels, and other comorbidities associated with obesity in patients with T2DM. While its insulinotropic and glucose-lowering effects through the GLP-1 pathway are well-established, mazdutide may also enhance energy expenditure via activation of the GCGR pathway. However, its potential impact on cognitive function remains to be elucidated. METHODS: This study aimed to investigate the effects of mazdutide on cognitive behaviour and cerebral pathology in male db/db mice, a model of T2DM, in comparison to dulaglutide, a GLP-1 receptor agonist. All animal findings are applicable to male mice only. Behavioural tests were conducted to evaluate cognitive function, and pathological analyses were performed to assess neurodegenerative markers in the brain. Furthermore, transcriptomic, proteomic, and metabolomics analyses were employed to explore the underlying molecular mechanisms of mazdutide's effects. FINDINGS: Compared to dulaglutide, mazdutide significantly improved cognitive performance in db/db mice, as evidenced by comprehensive behavioural tests. Pathological assessments revealed improvements in neuronal structure and brain tissue integrity in the mazdutide-treated group. Multi-omics analyses further identified distinct molecular pathways involved in neuroprotection, energy metabolism, and synaptic plasticity, suggesting that dual GLP-1/GCGR activation contributes to enhanced cognitive resilience. INTERPRETATION: Our findings indicate that mazdutide, via its dual GLP-1/GCGR activation effects, exerts multifactorial improvements in cognitive function in the context of obesity and T2DM. These results suggest that mazdutide is a promising therapeutic option for mitigating cognitive deficits associated with metabolic disorders. FUNDING: Medical Science and Technology Research and Development Plan Major Project Jointly Constructed by the Henan Province and Ministerial Departments in China (No. SBGJ202301010)."
+  },
+  {
+   "pmid": "41030857",
+   "titel": "Case Report: Efficacy and safety of dose-escalated Mazdutide, a GLP-1/GCGR dual agonist, in an adolescent with obesity, type 2 diabetes, and hyperuricemia",
+   "jahr": "2025",
+   "journal": "Front Endocrinol (Lausanne)",
+   "erstautor": "Cheng W",
+   "doi": "10.3389/fendo.2025.1654506",
+   "typ": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "abstract": "OBJECTIVE: Mazdutide, a glucagon-like peptide-1/glucagon receptor (GLP - 1/GCGR) dual agonist, has shown marked efficacy in glycemic control, weight loss, and metabolic improvement in adults. However, data in adolescents remain limited. This report explores its therapeutic potential in an adolescent with obesity-related type 2 diabetes mellitus (T2DM) and hyperuricemia (HUA). STUDY DESIGN AND METHODS: We report the case of a 15-year-old male patient diagnosed with obesity (BMI: 30.64 kg/m²), type 2 diabetes mellitus (HbA1c: 9.60%), and hyperuricemia (serum uric acid: 511 μmol/L). The patient underwent a dose-escalation regimen of Mazdutide (2 mg → 4 mg → 6 mg, administered subcutaneously once weekly) in combination with metformin and insulin to evaluate therapeutic efficacy and safety outcomes. RESULTS: After 36 weeks, the patient showed significant improvement: weight decreased by 16.8 kg (18.89% BMI reduction), uric acid dropped by 37.00%, and HbA1c fell by 21.88%. No hypoglycemic episodes occurred. Lipid levels improved notably: triglycerides fell by 69.02%, total cholesterol by 13.65%, and LDL cholesterol by 17.27%. Hepatic steatosis resolved by week 14, as confirmed by ultrasound. No adverse events were reported, and benefits were sustained post-treatment. CONCLUSIONS: Mazdutide exhibited robust metabolic efficacy and good tolerability in an adolescent with obesity, T2DM, and HUA. It improved glycemic control, reduced weight and uric acid, reversed steatosis, and modulated lipid profiles. These findings support its potential as a comprehensive treatment for adolescent metabolic disorders."
+  },
+  {
+   "pmid": "40081498",
+   "titel": "Multifunctional incretin peptides in therapies for type 2 diabetes, obesity and associated co-morbidities",
+   "jahr": "2025",
+   "journal": "Peptides",
+   "erstautor": "Bailey CJ",
+   "doi": "10.1016/j.peptides.2025.171380",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Recent studies with peptide-based incretin therapies have focussed mainly on the glucagon-like peptide-1 (GLP-1) receptor agonist semaglutide and the dual agonist tirzepatide that engages receptors for GLP-1 and glucose-dependent insulinotropic polypeptide (GIP). Randomised clinical trials and 'real-world' studies have confirmed the marked glucose-lowering and weight-lowering efficacy of these agents across diverse populations. These include different ethnic groups, young and elderly individuals with and without diabetes and/or overweight or obesity. Recent studies have also confirmed protections against the development and progression of cardiovascular and renal diseases that are additive to the benefits conferred by improved control of blood glucose and body weight. Emerging evidence suggests that incretin therapies could additionally ameliorate fatty liver disease, chronic inflammation, sleep apnea and possibly degenerative bone disorders and cognitive decline. New incretin-based peptide therapies in development include a long-acting glucagon receptor agonist (LY3324954), dual GLP-1/glucagon receptor agonists (survodutide, pemvidutide, mazdutide, G49), triple GLP-1/GIP/glucagon receptor agonists (retatrutide, efocipegtrutide), a combination of semaglutide with the amylin analogue cagrilintide (CagriSema), a unimolecular GLP-1/amylin receptor dual agonist (amycretin), and a GIP receptor antibody with GLP-1 receptor agonism (MariTide). The creation of multi-targeting incretin-based synthetic peptides provides opportunities for improved management of type 2 diabetes and obesity as well as new therapeutic approaches to an expanding list of associated co-morbidities. The aim of the review is to acquaint the reader with developments in the field from 2023 to the present (February 2025)."
+  },
+  {
+   "pmid": "40929641",
+   "titel": "Once-Weekly Mazdutide in Obesity or Overweight",
+   "jahr": "2025",
+   "journal": "N Engl J Med",
+   "erstautor": "Zhang Y",
+   "doi": "10.1056/NEJMc2509841",
+   "typ": [
+    "Letter",
+    "Comment"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "38753454",
+   "titel": "Oral glucagon-like peptide-1 receptor agonists and combinations of entero-pancreatic hormones as treatments for adults with type 2 diabetes: where are we now?",
+   "jahr": "2024",
+   "journal": "Expert Opin Pharmacother",
+   "erstautor": "Gogineni P",
+   "doi": "10.1080/14656566.2024.2356254",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "INTRODUCTION: Glucagon-like peptide-1 (GLP-1) receptor agonists (RAs) have changed the landscape of type 2 diabetes (T2D) management due to their cardio-renal benefits, their glucose-lowering efficacy and weight loss (WL) maintenance. However, the response to GLP-1 RA monotherapy is heterogeneous. Additionally, the majority of GLP-1 RAs are injectable treatments. Oral GLP-1 RAs and injectable combinations of GLP-1 with other entero-pancreatic hormones (glucose-dependent insulinotropic polypeptide (GIP), glucagon and amylin) are under development for T2D and obesity management. AREAS COVERED: Herein, we review the data on (i) oral GLP-1 RAs (oral semaglutide 25/50 mg and orforglipron) and (ii) dual/triple agonists (tirzepatide, cagrilintide 2.4 mg/semaglutide 2.4 mg, survodutide, mazdutide, retatrutide) that have recently completed phase 3 trials for T2D or are currently in phase 3 clinical trials. Tirzepatide is the first approved dual agonist (GLP-1/GIP) for T2D and obesity management. EXPERT OPINION: We are in a new era in T2D management where entero-pancreatic hormone-based treatments can result in ≥15% WL and euglycemia for many people with T2D. Multiple molecules with different mechanisms of action are under development for T2D, obesity and other metabolic complications. Data on their cardio-renal benefits, long-term efficacy and safety as well as their cost-effectiveness will better inform their position in treatment algorithms."
+  },
+  {
+   "pmid": "41260459",
+   "titel": "Mazdutide versus Semaglutide for the treatment of type 2 diabetes and obesity: Rationale, design and baseline data of DREAMS-3 phase 3 trial",
+   "jahr": "2026",
+   "journal": "Contemp Clin Trials",
+   "erstautor": "Luo Y",
+   "doi": "10.1016/j.cct.2025.108150",
+   "typ": [
+    "Journal Article",
+    "Clinical Trial Protocol"
+   ],
+   "abstract": "BACKGROUND: Effective weight management and glycemic control are both important in people with type 2 diabetes (T2D) and obesity. Despite the proven benefits of GLP-1 receptor agonists, there is a persistent need for more effective weight management strategies in the treatment of T2D and obesity. Glucagon receptor-based co-agonists, such as mazdutide, represent a promising therapeutic class with the potential for enhanced weight loss compared to current standards of care. However, robust clinical evidence for these agents in populations with T2D and obesity is still lacking. The DREAMS-3 trial is designed to address this gap by directly comparing the efficacy and safety of mazdutide against semaglutide, a widely used GLP-1 receptor agonist, in Chinese adults with T2D and obesity. The results will provide crucial evidence to inform clinical decision-making for this large patient population. METHODS: DREAMS-3 is a randomized, open-label phase 3 trial. Obese Participants (BMI ≥ 28 kg/m2) diagnosed with T2D (≤ 10 years) who had inadequate glycemic control after diet and exercise alone with/without metformin were randomized in a 1:1 ratio to receive mazdutide 6 mg or semaglutide 1 mg once weekly in the 32-week active-controlled treatment period, followed with a 24-week extension period. The primary endpoint is the proportion of participants achieving glycated hemoglobin <7.0 % and weight reduction of ≥10 % at week 32. RESULTS: A total of 349 participants were enrolled and randomized, the overall mean age was 42.4 years, 44.7 % of participants were male. The mean baseline duration of T2D was 1.8 years, and 39.5 % of participants were on metformin. The mean glycated hemoglobin was 8.0 %, body weight was 90.5 kg, BMI was 33.0 kg/m2. Most participants had at least one comorbidity. The prevalence of some comorbidities (such as metabolic associated fatty liver disease, gout/hyperuricemia) showed strong association of BMI. CONCLUSION: DERAMS-3 is the first head-to-head trial to compare the efficacy and safety of mazdutide versus semaglutide in Chinese adults with T2D and obesity, with an expected completion date in early 2026."
+  },
+  {
+   "pmid": "41333115",
+   "titel": "Harnessing GLP-1 Receptor Agonists for Obesity Treatment: Prospects and Obstacles on the Horizon",
+   "jahr": "2025",
+   "journal": "J Obes",
+   "erstautor": "Abdelrahman RM",
+   "doi": "10.1155/jobe/9919810",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "BACKGROUND: Obesity has emerged as a pressing global health challenge, and therapies based on glucagon-like Peptide 1 receptor agonists (GLP-1RAs) have transformed its management. Currently, liraglutide, semaglutide, and tirzepatide are FDA-approved for obesity treatment, while other agents are used off-label. These drugs not only provide unprecedented efficacy and acceptable safety in weight reduction and glycemic control for patients with obesity and Type 2 diabetes but also hold promise in broader indications, including neurodegenerative disorders, fatty liver disease, dyslipidemia, atherosclerosis, and cardiovascular conditions. METHODS: This narrative review examined the therapeutic applications of GLP-1RAs for obesity, emphasizing their efficacy, safety profile, challenges with patient adherence, and limitations. The review also explored emerging innovations such as ultralong-acting formulations, combination therapies, and the integration of digital health and artificial intelligence in advancing antiobesity drug development. RESULTS: GLP-1RAs represent a paradigm shift in the treatment of obesity and metabolic diseases, with rapidly expanding indications and global uptake. Recent evidence highlights improvements in tolerability, global accessibility, and the potential of novel technologies to optimize patient outcomes. By 2025, GLP-1RAs are anticipated to receive FDA approval for new indications, such as chronic kidney disease, heart failure with preserved ejection fraction, and metabolic dysfunction-associated steatohepatitis. Novel agents including CagriSema and higher dose oral semaglutide are advancing through clinical trials, while pivotal trial results for orforglipron, mazdutide, retatrutide, and survodutide are anticipated to further expand the therapeutic landscape. At the same time, the arrival of generic liraglutide and evolving insurance coverage are reshaping access and affordability. CONCLUSION: The convergence of pharmacological innovation, digital health strategies, and equitable care initiatives is expected to revolutionize obesity therapeutics in the coming decade. Priorities for future research include sustaining long-term weight loss, establishing disease-modifying potential in nonmetabolic disorders, and addressing health equity concerns to ensure broader global benefit."
+  },
+  {
+   "pmid": "41804840",
+   "titel": "Efficacy and Safety of Mazdutide in Managing Overweight and Obesity Among Non-Diabetic Adults: A Meta-Analysis of Randomised Controlled Trials",
+   "jahr": "2026",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Azam MH",
+   "doi": "10.1111/dom.70643",
+   "typ": [
+    "Meta-Analysis",
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "BACKGROUND: Mazdutide, a dual GLP-1 and glucagon receptor agonist, shows promise for weight loss and glycaemic control. This study evaluates its efficacy in non-diabetic patients with obesity. METHODOLOGY: A search of Cochrane Library, PubMed, Google Scholar and clinicaltrials.gov identified randomised controlled trials (RCTs) of mazdutide in adults (≥ 18 years) with obesity. Meta-analysis was performed using RevMan 5.4 with random-effect models. RESULTS: Five RCTs were included. Mazdutide significantly reduced percentage body weight (MD = -12.42%, 95% CI: -16.15% to -8.68%), absolute body weight (MD = -9.76 kg, 95% CI: -13.15 to -6.37 kg) and waist circumference (MD = -7.98 cm, 95% CI: -10.24 to -5.72 cm). Systolic blood pressure (MD = -7.68 mmHg), total cholesterol (MD = -0.57 mmol/L) and LDL (MD = -0.37 mmol/L) also decreased. Adverse events were slightly increased (RR = 1.12). Dose-wise meta-regression showed significant effects (β = -0.99, 95% CI: -1.81 to -0.16; p = 0.0187). CONCLUSION: Mazdutide effectively reduces weight, waist circumference and blood pressure but may cause mild to moderate adverse events. Findings are limited by the small number of RCTs."
+  },
+  {
+   "pmid": "42251596",
+   "titel": "Treatment With 9-mg Mazdutide for Weight Reduction in Chinese Adults With Obesity: Research Summary",
+   "jahr": "2026",
+   "journal": "JAMA",
+   "erstautor": "",
+   "doi": "10.1001/jama.2026.8427",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "41025406",
+   "titel": "Shared mechanistic pathways of glucagon signalling: Unlocking its potential for treating obesity, metabolic dysfunction-associated steatotic liver disease, and other cardio-kidney-metabolic conditions",
+   "jahr": "2025",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Neff GW",
+   "doi": "10.1111/dom.70148",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Glucagon is a pancreatic peptide hormone whose receptor (GCGR) is expressed in the liver, kidney, and, to a lesser extent, various other tissues. Glucagon is well known as the counterpart to insulin in glucose homeostasis. However, recent evidence has revealed other potential roles of glucagon, which include the regulation of amino acid metabolism via a liver-pancreatic alpha cell axis, stimulation of lipolysis and mitochondrial fat oxidation in the liver (and possibly in other tissues), reduction of caloric intake, and an increase in energy expenditure (at least in animal models). These advances in basic science-together with clinical trials that found GCGR antagonists increased body weight, hepatic fat, and serum lipids in people with type 2 diabetes-are driving the development of GCGR-based agonists for the treatment of obesity, metabolic dysfunction-associated steatotic liver disease (MASLD), and other cardio-kidney-metabolic diseases. Due to the hyperglycaemic effects of glucagon, these unimolecular compounds also incorporate moieties that activate the glucagon-like peptide-1 (GLP-1) receptor, which stimulates insulin secretion to lower blood glucose levels. In early clinical trials, several GCGR-based multi-agonists (mazdutide, survodutide [being developed by the sponsor of this review], retatrutide) demonstrated substantial efficacy for eliciting weight loss in people with obesity while improving liver health in those with MASLD. However, the physiological and molecular pathways modulated by chronic pharmacological activation of the GCGR in humans remain to be delineated, as do its potential risks. Thus, there is great interest in the ongoing phase 3 clinical trials of these compounds. As data for their safety and efficacy emerge, glucagon's role in energy regulation and lipid metabolism will become clearer, along with warranting a potential new therapeutic option for obesity and MASLD."
+  },
+  {
+   "pmid": "42251768",
+   "titel": "Mazdutide and Orforglipron-New Evidence in Obesity and Diabetes",
+   "jahr": "2026",
+   "journal": "JAMA",
+   "erstautor": "Gadde KM",
+   "doi": "10.1001/jama.2026.10443",
+   "typ": [
+    "Journal Article",
+    "Comment"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "40828048",
+   "titel": "Multiparametric MRI Evaluation of Liver Fat and Iron after Glucagon-like Peptide-1 Receptor and Glucagon Receptor Dual-Agonist Treatment in a High-Fat Diet-induced Mouse Model",
+   "jahr": "2025",
+   "journal": "Radiology",
+   "erstautor": "Xia H",
+   "doi": "10.1148/radiol.243780",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Background Glucagon-like peptide-1 receptor (GLP-1R) and glucagon receptor (GCGR) dual agonist, along with GLP-1R monoagonist, show promise in treating metabolic dysfunction-associated steatotic liver disease (MASLD). Liver fat and iron content are important surrogate markers for disease assessment. However, it remains unclear whether dual agonists provide superior therapeutic benefit over monoagonists for hepatic fat and iron regulation. Purpose To evaluate whether a GLP-1R/GCGR dual agonist offers greater therapeutic efficacy in reducing hepatic fat and iron content compared with a GLP-1R monoagonist in a high-fat diet mouse model using quantitative 9.4-T MRI. Materials and Methods Forty-two male mice were fed a high-fat diet for 13 weeks and then were treated subcutaneously with GLP-1R/GCGR dual agonist (mazdutide), GLP-1R monoagonist (semaglutide), or phosphate-buffered saline (control) every 3 days for 4 weeks. The control group included 14 age-matched male mice that received a standard chow diet and phosphate-buffered saline treatment. MRI scans and tissue samples were obtained at baseline and at 1 and 4 weeks after treatment. MRI-derived proton density fat fraction (PDFF), quantifying hepatic fat content, and R2*, quantifying hepatic iron content, were derived with a 9.4-T MRI scanner. Reductions in PDFF and R2* were compared among the groups using analysis of covariance and Student t tests. Correlations between imaging parameters and histologic analyses were evaluated using Pearson or Spearman correlation coefficients. Results After 4 weeks of treatment, mice treated with the dual agonist showed a greater reduction in PDFF from baseline values compared with mice treated with the monoagonist (median change, -5.59% [IQR, -6.80, -3.84] vs -3.30% [IQR, -3.80, -2.82]; P = .02). At 1 week after treatment, there was no evidence of a difference in PDFF reduction from baseline between the two groups (median change, -2.15% [IQR, -5.10, -1.69] vs -1.24% [IQR, -2.95, -0.78]; P = .19). Decreases in R2* values from baseline were also not significantly different between the groups at 1 week (median change, -53.86 Hz [IQR, -76.79, -43.19] vs -46.17 Hz [IQR, -68.01, -35.04]; P = .50) and 4 weeks (median change, -67.00 Hz [IQR, -79.33, -44.66] vs -57.18 Hz [IQR -78.51, -12.85]; P = .41) after treatment. Liver PDFF was positively correlated with hepatic triglyceride levels (r = 0.82; P < .001) and histologic steatosis scores (r = 0.81; P < .001), as well as R2* values (r = 0.69; P < .001). Conclusion Ultrahigh-field-strength MRI combined with histologic analyses demonstrated that the GLP-1R/GCGR dual agonist more effectively reduced hepatic fat accumulation compared with the GLP-1R monoagonist in a high-fat diet mouse model. MRI-derived liver PDFF and R2* values were correlated with histologic findings. Published under a CC BY 4.0 license. Supplemental material is available for this article. See also the editorial by Yin in this issue."
+  },
+  {
+   "pmid": "42688617",
+   "titel": "Comparative efficacy and safety of glucagon-like peptide 1 based drugs for weight loss in adults with overweight or obesity without diabetes: network meta-analysis of randomised controlled trials",
+   "jahr": "2026",
+   "journal": "BMJ Med",
+   "erstautor": "Chen D",
+   "doi": "10.1136/bmjmed-2026-003026",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "OBJECTIVE: To compare the efficacy and safety of glucagon-like peptide 1 (GLP-1) based drug treatments for weight loss in adults with overweight or obesity without diabetes. DESIGN: Network meta-analysis of randomised controlled trials. DATA SOURCES: Embase, PubMed (Medline), and Web of Science, 1 January 2000 to 6 March 2026. ELIGIBILITY CRITERIA FOR SELECTING STUDIES: Randomised controlled trials that enrolled adults with overweight or obesity, comparing GLP-1 receptor agonists or related co-agonists with placebo or active comparators, with a minimum intervention duration of 12 weeks. Excluded were trials that enrolled participants with diabetes, or where diabetes status could not be clearly determined. RESULTS: 58 trials of 24 214 participants were analysed. Compared with placebo, weight loss was greatest with retatrutide (-22.10%, 95% confidence interval -25.60% to -18.60%), followed by tirzepatide (-19.28%, -20.39% to -18.16%), and CagriSema (a combination of cagrilintide and semaglutide, -17.32%, -19.32% to -15.32%). Conventional GLP-1 receptor agonists showed more modest effects. Similar patterns were seen for waist circumference and lipid outcomes. Treatment rankings suggested a probabilistic hierarchy favouring next generation incretin based treatments, although confidence intervals overlapped for several comparisons. Low certainty evidence suggested higher rates for discontinuing treatment with danuglipron and retatrutide, whereas mazdutide showed better tolerability. CONCLUSIONS: In adults with overweight or obesity without diabetes, next generation incretin based treatments achieved greater weight loss than conventional GLP-1 receptor agonists. Differences in tolerability, limited head-to-head evidence, and residual uncertainty, however, should be considered when interpreting comparative treatment effects. STUDY REGISTRATION: PROSPERO CRD420261279841."
+  },
+  {
+   "pmid": "40929642",
+   "titel": "Once-Weekly Mazdutide in Obesity or Overweight. Reply",
+   "jahr": "2025",
+   "journal": "N Engl J Med",
+   "erstautor": "Ji L",
+   "doi": "10.1056/NEJMc2509841",
+   "typ": [
+    "Letter",
+    "Comment"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "39676791",
+   "titel": "Approved and Emerging Hormone-Based Anti-Obesity Medications: A Review Article",
+   "jahr": "2024",
+   "journal": "Indian J Endocrinol Metab",
+   "erstautor": "Sidrak WR",
+   "doi": "10.4103/ijem.ijem_442_23",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Obesity is a heterogeneous, complex, and chronic disease that has a detrimental impact on disability-adjusted life years across the globe. Recent advancements in our understanding of gut-brain communication at the molecular level have driven the development of next-generation anti-obesity medications (AOMs). Glucagon-like peptide-1 receptor agonists (GLP1RAs) remain the front-runners in this rapidly evolving landscape of hormone-based AOMs. Two GLP1RAs, namely Liraglutide and Semaglutide, have been approved by the Food and Drug Administration (FDA) and European Medicine Agency (EMA) for use in clinical practice for weight loss. Three oral GLP1RAs, namely Semaglutide, Danuglipron, and Orforglipron, are undergoing advanced clinical trials in individuals with obesity. Amylin receptor agonist (AMYRA) Cagrilintide, when used alone or in combination with Semaglutide, has demonstrated substantial weight reduction in clinical trials. Tirzepatide, a dual agonist for the glucose-dependent insulinotropic polypeptide (GIP) and GLP-1 receptors, has been observed to be associated with a significant placebo-subtracted weight reduction of 17.8% in a 72-week randomized controlled trial. Novel approaches targeting glucagon signalling have also yielded promising preliminary results. Three long-acting GLP1R/glucagon receptor (GCGR) dual agonists, namely Survodutide, Mazdutide, and Pemvidutide, exhibited significant weight loss in clinical trials. Retatrutide, a GLP1R/GCGR/GIPR tri-agonist, has been associated with a placebo-subtracted weight reduction of -22.1% in a 48-week phase-II trial. As a note of caution, long-term data on such medications' safety and cardiovascular benefits is yet to be ascertained. Our review provides a comprehensive overview of the approved and emerging hormone-based AOMs, highlighting the diversity of options that might become available in the near future."
+  },
+  {
+   "pmid": "40734920",
+   "titel": "Review: Special Issue: Real-world evidence on the use of GLP1 receptor agonists: Emerging concepts in obesity management: focus on glucagon receptor agonist combinations",
+   "jahr": "2025",
+   "journal": "Drugs Context",
+   "erstautor": "Anderson SL",
+   "doi": "10.7573/dic.2025-4-8",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "The global rise in obesity and its associated health risks has driven the need for more effective pharmacological treatments. Glucagon receptor (GCGR)-based multi-agonist drugs are emerging as promising treatments for obesity, with several in advanced stages of clinical development. Agents like mazdutide, pemvidutide, survodutide and retatrutide have demonstrated the ability to trigger significant weight loss in earlier phase trials, often surpassing the amount of weight loss obtained with existing therapies. Their potential to address obesity-related comorbidities, including type 2 diabetes mellitus and cardiovascular disease, positions them as important additions to future obesity treatment guidelines. As these GCGR-based multi-agonists advance through clinical trials, their impact on obesity management may be substantial, particularly for patients who have not achieved success with current medications or lifestyle interventions. Some are also being evaluated for cardiovascular outcomes, highlighting their relevance in populations at high risk with overweight and obesity. Key considerations as these drugs move forward in development to eventual approval include cost, access and long-term safety. This article is part of the Real-world evidence on the use of GLP1 receptor agonists Special Issue: https://www.drugsincontext.com/special_issues/real-world-evidence-on-the-use-of-glp1-receptor-agonists."
+  },
+  {
+   "pmid": "39292847",
+   "titel": "Mazdutide Versus Dulaglutide for Weight Loss and Diabetes Management: Meta-Analysis of Randomized Clinical Trials",
+   "jahr": "2024",
+   "journal": "Am J Ther",
+   "erstautor": "Ayesh H",
+   "doi": "10.1097/MJT.0000000000001756",
+   "typ": [
+    "Comparative Study",
+    "Letter",
+    "Meta-Analysis"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "41820018",
+   "titel": "Patent landscape and therapeutic evolution of mazdutide: a dual GLP-1/Glucagon receptor agonist for obesity and type 2 diabetes",
+   "jahr": "2026",
+   "journal": "Expert Opin Ther Pat",
+   "erstautor": "Abdul Fasi M",
+   "doi": "10.1080/13543776.2026.2645812",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "INTRODUCTION: Mazdutide is a dual glucagon-like peptide-1 receptor (GLP-1 R) and glucagon receptor (GCGR) agonist representing a new generation of incretin-based therapeutics for obesity and type 2 diabetes. While its clinical efficacy is increasingly recognized, the intellectual property framework that underpins its development and long-term positioning has not been systematically examined. AREAS COVERED: This review presents a comprehensive patent landscape analysis of mazdutide and related oxyntomodulin analogs. Patent documents were identified using the Patentscope database, covering filings between 2015 and 2025. Twelve patent families were analyzed, encompassing composition-of-matter, process chemistry, formulation technologies, dosing regimens, and therapeutic applications. The analysis traces the evolution of innovation from early peptide design by Eli Lilly to later formulation, clinical, and indication-expansion strategies led by Innovent Biologics, including obesity, type 2 diabetes, hyperuricemia, and adolescent obesity. EXPERT OPINION: Mazdutide illustrates how layered patent strategies integrating molecular design, manufacturability, formulation stability, and clinical use claims can secure durable exclusivity. This approach provides a strategic model for future dual and multi-receptor peptide therapeutics."
+  },
+  {
+   "pmid": "41948476",
+   "titel": "Obesity pharmacotherapy reimagined: The era of multi-receptor agonists and next-generation metabolic modulators, perspectives and controversies",
+   "jahr": "2026",
+   "journal": "Metabol Open",
+   "erstautor": "Lempesis IG",
+   "doi": "10.1016/j.metop.2026.100463",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Obesity affects over 2 billion adults globally, with projections indicating that nearly two-thirds of adults will be affected by 2050. Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have transformed obesity treatment, achieving weight loss previously considered attainable only with bariatric surgery. However, GLP-1-based therapies have revealed important limitations, including weight loss plateaus, substantial inter-individual variability, and weight regain upon discontinuation, underscoring the need for next-generation approaches. Existing reviews have focused predominantly on approved GLP-1RAs, with limited synthesis of emerging multi-receptor agonists, oral formulations, and body composition-targeted agents, while guidance on treatment personalization and sequencing strategies remains limited. This review examines the evolving landscape of obesity pharmacotherapy beyond injectable GLP-1RAs. Oral GLP-1 agonists, including orforglipron, offer comparable efficacy to injectables while potentially improving global accessibility by eliminating cold-chain requirements and simplifying manufacturing. Multi-receptor agonists represent the most transformative developments: triple agonists such as retatrutide achieve weight reductions of 20-24%, while dual GLP-1/glucagon agonists like survodutide and mazdutide show strong efficacy with particular promise for metabolic-associated steatotic liver disease. Maridebart cafraglutide, combining GLP-1 agonism with glucose-dependent insulinotropic polypeptide (GIP) antagonism, enables once-monthly dosing. The amylin pathway has re-emerged through long-acting analogs (cagrilintide, eloralintide) and unimolecular co-agonists (amycretin), achieving weight reductions up to 24% via distinct neuroendocrine circuits. Body composition optimization through agents like bimagrumab addresses lean mass preservation during potent anorectic therapy. Personalized approaches, including setmelanotide for monogenic obesity, exemplify precision pharmacotherapy. Collectively, these advances signal a shift from appetite-centric weight loss toward integrated metabolic, neuroendocrine, and body-composition-focused disease modification. The next epoch of obesity pharmacotherapy will be defined by multi-receptor strategic combinations, targeted approaches to preserve lean mass, and personalized treatment algorithms. Critical priorities include phenotype-stratified trials, long-term safety surveillance, pediatric obesity research, and implementation science to ensure equitable global access. Balancing pharmacologic innovation with sustainable, equitable implementation remains the defining challenge ahead."
+  },
+  {
+   "pmid": "38740695",
+   "titel": "Safety and efficacy of GLP-1 and glucagon receptor dual agonist for the treatment of type 2 diabetes and obesity: a systematic review and meta-analysis of randomized controlled trials",
+   "jahr": "2024",
+   "journal": "Endocrine",
+   "erstautor": "Deng B",
+   "doi": "10.1007/s12020-024-03857-6",
+   "typ": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+   ],
+   "abstract": "PURPOSE: This study aimed to investigate the effects of randomized, placebo-controlled trials involving the GLP-1 and glucagon receptor dual agonists, mazdutide, and cotadutide, on glycaemic control and body weight changes in individuals with type 2 diabetes mellitus (T2DM), obesity, or both. METHODS: We conducted searches in Medline, PubMed, Scopus, the Cochrane database, and Web of Science up to March 5, 2024. The primary outcomes assessed were changes in HbA1c level and percentage changes in body weight from baseline (CFB). RESULTS: Eleven studies and four unpublished trials were included. The pooled meta-analysis revealed a significant reduction in HbA1c (MD = -0.63%; 95% CI = [-0.82, -0.44]; P < 0.00001), fasting plasma glucose (MD = -1.71 mmol/L; 95% CI = [-2.31, -1.10]; P < 0.00001), and percentage change in body weight (MD = -4.16%; 95% CI = [-5.41, -2.92]; P < 0.00001). Safety analysis revealed no significant change in serious adverse events (OR = 1.03; 95% CI = [0.61, 1.75]; P = 0.91), but there were significantly higher odds of treatment-emergent adverse events (OR = 2.52; 95% CI = [1.92, 3.30]; P < 0.00001) and vomiting (OR = 6.05; 95% CI = [3.52, 10.40]; P < 0.00001). CONCLUSION: These results suggest that mazdutide and cotadutide are effective for glycaemic control and weight reduction in individuals with T2DM, obesity, or both."
+  },
+  {
+   "pmid": "41711462",
+   "titel": "Incretin-Based Dual and Triple Agonists in Overweight or Obese Individuals: A Systematic Review and Meta-Analysis",
+   "jahr": "2026",
+   "journal": "Cardiol Rev",
+   "erstautor": "Chan ZH",
+   "doi": "10.1097/CRD.0000000000001209",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Incretin-based dual and triple agonists have emerged as effective options for obesity management, offering enhanced weight loss through multi-receptor agonism. However, data on their efficacy and safety remain limited. We conducted a systematic review and meta-analysis to evaluate the efficacy and safety of these emerging agents. A comprehensive literature search was conducted using PubMed, the Cochrane Library, and Google Scholar from inception to June 2025 to identify randomized controlled trials evaluating tirzepatide, retatrutide, or mazdutide in obese adults. Clinical outcomes were assessed using the random-effects model and pooled as mean differences (MDs) or risk ratios (RRs) with 95% confidence intervals (CIs). A total of 10 randomized controlled trials, including 3236 participants, were analyzed. Incretin polyagonists significantly reduced body weight compared to placebo (MD -11.47; 95% CI: -14.00 to -8.95). Significant reductions were also observed in waist circumference (MD -9.40; 95% CI: -11.91 to -6.89), glycated hemoglobin (MD -0.96; 95% CI: -1.16 to -0.75), and fasting plasma glucose (MD -26.89 mg/dL; 95% CI: -33.48 to -20.30). However, the use of dual and triple agonists was associated with a higher risk of any adverse events (AEs) (RR 1.13; 95% CI: 1.08-1.19), including gastrointestinal AEs (nausea, vomiting, diarrhea, constipation), AEs leading to withdrawal (RR 1.96; 95% CI: 1.17-3.30), and hypoglycemic episodes (RR 3.08; 95% CI: 1.61-5.89). No significant difference was found in serious AEs (RR 0.87; 95% CI: 0.65-1.14). In conclusion, incretin-based polyagonists were associated with significant weight reduction and improved metabolic outcomes compared to placebo."
+  },
+  {
+   "pmid": "41901218",
+   "titel": "Mazdutide Ameliorates Metabolic Dysfunction-Associated Steatotic Liver Disease by Modulating Endoplasmic Reticulum Stress, Improving Lipid Metabolism and Alleviating Inflammation",
+   "jahr": "2026",
+   "journal": "Pharmaceuticals (Basel)",
+   "erstautor": "Gan L",
+   "doi": "10.3390/ph19030371",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Background: Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) is the most prevalent chronic liver disorder globally. Mazdutide has shown clinical benefits in weight management and metabolic regulation, indicating its potential as a therapeutic agent for MASLD. This study aimed to investigate the efficacy and mechanism of action of Mazdutide against early-stage MASLD. Methods: A MASLD mouse model was induced by a 12-week high-fat diet, followed by a 4-week treatment with subcutaneous Mazdutide (100, 200, or 400 μg/kg). In vitro, a cellular MASLD model was established by treating hepatocytes with 1 mM free fatty acids for 24 h, followed by co-treatment with Mazdutide (10, 20, or 50 nM) or the endoplasmic reticulum (ER) stress inhibitor 4-phenylbutyric acid (4-PBA). Serum and hepatic lipid profiles, liver injury markers, and pro-inflammatory cytokines were quantified. Liver histopathology was assessed by hematoxylin and eosin and Oil Red O staining. Protein expression related to ER stress, inflammation, and lipid metabolism was analyzed by immunohistochemistry and Western blot. Results: Compared with the MASLD model group, Mazdutide treatment significantly ameliorated systemic and hepatic lipid metabolism disorders, reduced liver injury markers and hepatic steatosis, and mitigated inflammation and oxidative stress in MASLD mice and hepatocytes (p < 0.05). Mechanistically, Mazdutide alleviated ER stress by modulating the protein kinase R-like endoplasmic reticulum kinase (PERK) pathway, suppressed the nuclear Factor kappa B (NF-κB)-mediated inflammatory response, and downregulated the expression of key lipogenic regulators including sterol regulatory element-binding protein 1 (SREBP-1), CCAAT/enhancer-binding protein beta (C/EBPβ), and peroxisome proliferator-activated receptor gamma (PPARγ) in both models (p < 0.05). Conclusions: Our findings demonstrate that Mazdutide alleviates hepatic ER stress in MASLD, suppresses inflammatory responses and improved lipid metabolism, which ultimately attenuates disease progression."
+  },
+  {
+   "pmid": "41478576",
+   "titel": "IUPHAR review: From foe to friend: Repurposing glucagon to treat obesity and type 2 diabetes",
+   "jahr": "2026",
+   "journal": "Pharmacol Res",
+   "erstautor": "Elmendorf AJ",
+   "doi": "10.1016/j.phrs.2025.108077",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "The epidemics of metabolic disease, in the form of obesity and type 2 diabetes, are a growing public health concern. However, incretin-based therapeutics have transformed our ability to address these diseases. While this current generation of incretin analogues show weight regain upon cessation of treatment, the amount of which can depend on the treatment and patient, iterative advancements may improve weight loss durability in the long term. In this review, we discuss the development of glucagon like peptide-1 receptor (GLP-1R) agonists and GLP-1R/ glucose-dependent insulinotropic polypeptide receptor (GIPR) co-agonists, and how future generations will leverage this strategy. We focus our review on glucagon receptor (GCGR) agonism, which has recently been combined with both GLP-1R and GLP-1R/GIPR agonism to generate dual (e.g. survodutide, cotatutide, mazdutide, etc) and triple agonists (e.g. retatrutide, etc) for improved body weight loss via energy expenditure stimulation. We rely on largely pre-clinical evidence for action because clinical data is extremely limited for GCGR agonism. Herein, we review mechanisms by which glucagon receptor agonists act to increase energy expenditure. Finally, we discuss future improvements to incretin-based therapeutics, and how they can include strategies that target the GCGR. The purpose of this review is to discuss mechanisms by which GCGR agonism can reduce body weight and put them in the context of the combination with incretin receptor agonists. Mechanistic data has only currently been evaluated in preclinical rodent models and evidence for similar processes in humans is limited. We also provide perspectives about how treatments can improve for future advancement of obesity treatment."
+  },
+  {
+   "pmid": "42756349",
+   "titel": "Assessing the quality and reliability of health information on GLP-1 receptor agonists on TikTok and Bilibili: a cross-sectional analysis of the public health infodemic",
+   "jahr": "2026",
+   "journal": "Ther Adv Endocrinol Metab",
+   "erstautor": "Peng G",
+   "doi": "10.1177/20420188261467887",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: Glucagon-like peptide-1 (GLP-1) receptor agonists have transitioned from clinical tools for diabetes to a global cultural phenomenon for weight loss, triggering an \"infodemic.\" While previous studies have characterized this landscape on Western platforms, the digital health ecosystem in China remains distinct. China is currently navigating a unique market shift driven by the June 2025 approval of the domestic dual agonist mazdutide, an impending 2026 patent cliff for semaglutide, and a specific market for counterfeit products. OBJECTIVES: To assess and compare the quality, reliability, and content completeness of health information regarding GLP-1 agonists on China's two dominant video platforms, Douyin (the Chinese version of TikTok) and Bilibili; to examine how platform architecture and regulatory context influence content reliability; and to contrast these findings with recent benchmarks from Western social media studies. DESIGN: Cross-sectional observational study. METHODS: A systematic search for \"GLP1\" was conducted on Douyin and Bilibili. Due to divergent algorithms, an asymmetric sampling strategy was used: all 106 videos returned by Douyin were screened, while the top 200 videos from Bilibili's default ranking were assessed. After applying exclusion criteria, 128 videos (56 Douyin, 72 Bilibili) were analyzed. Quality was evaluated using the modified DISCERN tool, Global Quality Score, and JAMA benchmarks. No human subjects were involved; therefore, ethical approval was not required. RESULTS: Bilibili videos were significantly longer and demonstrated superior quality, scoring significantly higher than Douyin videos on both the DISCERN (p < 0.001) and JAMA benchmark (p = 0.003). Unlike findings on TikTok and Instagram, where quality was uniformly low, Bilibili hosted high-quality, in-depth content comparable to patient education materials. However, a safety analysis revealed videos promoting fraudulent products that co-opt the drug's brand name, posing a severe risk unique to the unregulated domestic supply chain. CONCLUSION: The Chinese digital landscape exhibits a quality tier on Bilibili that is absent in Western short-video counterparts. While Bilibili serves as a reliable \"digital library,\" Douyin remains a high-risk environment for misinformation and counterfeit sales. As China approaches the 2026 patent cliff, regulatory bodies must address the specific threat of fraudulent \"GLP-1\" branding on illicit products. TRIAL REGISTRATION: Not applicable. Are social media videos about weight-loss drugs reliable? A comparison of information quality on TikTok and Bilibili in China Weight-loss medications, such as semaglutide (Ozempic/Wegovy), tirzepatide (Mounjaro) and the newly approved Chinese drug mazdutide, have exploded in popularity. As demand grows, many people turn to social media video platforms like TikTok (Douyin) and Bilibili for medical advice. However, the accuracy of this information can vary greatly. This study analyzed 128 videos from these two major Chinese platforms to determine if they provide safe and reliable health information. The researchers found a significant difference between the two platforms. Bilibili, which hosts longer videos, acted like a “digital library,” offering detailed and accurate explanations of how these drugs work and their potential side effects. In contrast, TikTok videos were much shorter and often oversimplified complex medical details, making them less reliable for patients seeking deep understanding. Although many doctors use TikTok, the short video format limited the depth of their advice. Most concerningly, the study found that a small number of videos on TikTok were promoting the sale of counterfeit or fake “GLP-1” products, such as “slimming teas” or unbranded injections. This poses a serious safety risk to consumers. The study suggests that while Bilibili is a better source for educational content, users on all platforms must be cautious of misinformation and illegal drug sales, especially as new drugs enter the Chinese market."
+  },
+  {
+   "pmid": "42871568",
+   "titel": "The pharmacotherapy for pediatric obesity: insights and challenges from adult weight-loss medications",
+   "jahr": "2026",
+   "journal": "J Diabetes Metab Disord",
+   "erstautor": "Chen Z",
+   "doi": "10.1007/s40200-026-02110-3",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Obesity significantly increases the risk of developing other chronic diseases and shortens the life expectancy by 5 to 8 years. Childhood obesity is particularly prominent as 80% of teenagers with obesity have shown it to persist into adulthood. With reference to the development of adult medication, the present review summarises the recent research progress in the development of pediatric anti-obesity drugs. The current management guidelines support the use of medication for adolescents aged 12 and above when lifestyle measures are ineffective. Early weight-loss drugs like the serotonergic agonist fenfluramine and the norepinephrine reuptake inhibitor sibutramine were withdrawn due to severe safety issues. Rainbow pills and the CB1 inhibitor rimonabant also failed over neuropsychiatric toxicity. These highlighted inadequate safety profiling in initial development, and there were almost no studies on children. Recently, GLP-1 receptor agonists, such as semaglutide, and the dual-target agonist tirzepatide have gained popularity among adults and adolescents with obesity. However, it still faces significant limitations, including the long-term neurodevelopmental safety of adolescents, high costs and limited insurance coverage, and widespread gastrointestinal side effects. It is foreseeable that the focus of adult weight loss medication research may gradually shift to multi-target new drugs, including the dual agonist mazdutide and the triple receptor agonist retatrutide. Therefore, the development of pediatric weight loss drugs should also focus on the GLP-1 receptor agonists and multi-target new drugs. In addition, there is an urgent need to verify the safety and efficacy of approved weight loss medications through pediatric clinical trials."
+  },
+  {
+   "pmid": "42410325",
+   "titel": "Efficacy and Safety of the Dual Glucagon-Like Peptide-1 and Glucagon Receptor Agonist Mazdutide in Predominantly Chinese Adults With Obesity and/or Type 2 Diabetes: A Systematic Review and Meta-Analysis",
+   "jahr": "2026",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Kamrul-Hasan ABM",
+   "doi": "10.1111/dom.71058",
+   "typ": [
+    "Systematic Review",
+    "Journal Article",
+    "Meta-Analysis"
+   ],
+   "abstract": "AIM: To assess the effects of mazdutide on body weight, HbA1c, metabolic outcomes, and adverse events in adults with overweight/obesity and/or type 2 diabetes (T2D). METHODS: This systematic review and meta-analysis included randomized controlled trials (RCTs) comparing mazdutide with placebo or active comparators in adults with overweight/obesity and/or T2D, identified through PubMed, Scopus, Web of Science, and ClinicalTrials.gov to 20 February 2026. Co-primary outcomes were percent change in body weight and change in HbA1c. Secondary outcomes included other weight-related and metabolic outcomes, as well as safety. Random-effects models were used to generate pooled mean differences (MDs) or risk ratios with 95% confidence intervals, and the certainty of the evidence (COE) was assessed using GRADE. RESULTS: Nine RCTs (N = 2292; most with low risk of bias) were included. In overweight/obesity without diabetes, mazdutide 3, 4, and 6 mg reduced body weight more than placebo (MDs -6.56%, -9.92%, and -11.1%, respectively; very low COE due to substantial heterogeneity and few trials). In T2D, mazdutide 4 and 6 mg reduced body weight and HbA1c versus placebo (moderate COE) and also outperformed dulaglutide for both outcomes. Mazdutide also improved waist circumference, lipids, liver enzymes, and uric acid levels. Gastrointestinal adverse events were more frequent, but serious adverse events and treatment discontinuation rates were comparable with those of the comparators. CONCLUSIONS: Mazdutide was associated with dose-dependent reductions in body weight and HbA1c, with broader metabolic benefits in predominantly Chinese adults with obesity and/or T2D. Longer-term, multi-ethnic studies are needed to confirm durability, generalizability, and cardiovascular safety."
+  },
+  {
+   "pmid": "42897592",
+   "titel": "Efficacy and safety of mazdutide vs. dulaglutide in adults with type 2 diabetes: a systematic review and meta-analysis of randomized controlled trials",
+   "jahr": "2026",
+   "journal": "Diabetol Metab Syndr",
+   "erstautor": "Hassan M",
+   "doi": "10.1186/s13098-026-02248-3",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: Type 2 diabetes mellitus (T2DM) is closely linked to obesity and carries a high risk of metabolic complications. While GLP-1 receptor agonists like dulaglutide improve blood sugar and support modest weight loss, many patients do not reach their treatment goals. Mazdutide, a dual GLP-1 and glucagon receptor agonist, may offer stronger metabolic benefits. OBJECTIVE: To compare the efficacy and safety of mazdutide versus dulaglutide in adults with T2DM. METHODS: We systematically reviewed randomized controlled trials comparing mazdutide and dulaglutide. Primary outcomes included changes in HbA1c, body weight, and achievement of glycemic and weight-loss targets. Safety outcomes included treatment-emergent adverse events. Data were pooled using random-effects models, and evidence certainty was assessed using GRADE. RESULTS: Three trials met inclusion criteria. Mazdutide led to greater reductions in HbA1c (- 0.25%) and body weight (- 2.97 kg) compared with dulaglutide. Patients were more likely to achieve HbA1c < 7.0%, ≥ 5% weight loss, and the combined target of ≥ 5% weight loss with HbA1c < 7.0%. Fasting plasma glucose was numerically but not significantly improved. Mazdutide was associated with higher rates of gastrointestinal side effects and decreased appetite, with a non-significant numerical increase in hypoglycemia, while serious adverse events and discontinuations were similar between treatments. Glycemic and major weight outcomes were supported by high-certainty evidence; most safety outcomes were moderate-certainty. CONCLUSIONS: Mazdutide, based on evidence from three RCTs, provides preliminary evidence of meaningful improvements in blood sugar control and weight loss compared with dulaglutide, though with an increased risk of mostly manageable gastrointestinal effects; given the limited number of trials, these findings should be considered preliminary and supporting its potential role as a promising dual-action therapy for T2DM management, pending confirmation in larger, longer-term trials."
+  },
+  {
+   "pmid": "41710707",
+   "titel": "A Clinical Comprehensive Evaluation of Long-Acting GLP-1 Receptor Agonists in Type 2 Diabetes Management",
+   "jahr": "2026",
+   "journal": "Diabetes Metab Syndr Obes",
+   "erstautor": "Chen Q",
+   "doi": "10.2147/DMSO.S585436",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "OBJECTIVE: To conduct a systematic, multi-dimensional clinical evaluation of five long-acting glucagon-like peptide-1 receptor agonists (GLP-1RAs) available in China, providing evidence-based guidance for clinical preference and institutional formulary selection. METHODS: This study was structured according to the \"A Quick Guideline for Drug Evaluation and Selection in Chinese Medical Institutions. (Second Edition)\" and the \"Guidelines for the Workflow of Clinical Comprehensive Evaluation of Drugs\" We constructed a quantitative evaluation system encompassing six core dimensions: efficacy, safety, economy, innovation, suitability, and accessibility. Indicator weights were determined via a Delphi expert consultation process. Dulaglutide, semaglutide, polyethylene glycol loxenatide, tirzepatide, and mazdutide were evaluated using a 100-point scoring system based on drug labels, systematic literature review, and real-world data. RESULTS: The comprehensive scores were as follows: semaglutide (76.6), dulaglutide (72.6), polyethylene glycol loxenatide (64.8), tirzepatide (62.9), and mazdutide (55.1). Semaglutide and dulaglutide, classified as Strong Recommendations, demonstrated superior efficacy (particularly in cardio-renal protection) and overall value. Tirzepatide and polyethylene glycol loxenatide were Conditionally Recommended; the former shows outstanding potential for glycaemic control and weight loss but is limited by cost, while the latter offers advantages in accessibility and economy but lacks high-level cardiovascular outcome evidence. Mazdutide is Not Recommended currently due to insufficient evidence, absence from the national reimbursement drug list, and high cost. CONCLUSION: This evaluation identifies semaglutide and dulaglutide as the preferred long-acting GLP-1RAs in China's current therapeutic landscape. The standardized, transparent six-dimensional framework provides a replicable methodology for the comprehensive assessment of chronic disease therapies, supporting rational drug selection and resource allocation."
+  },
+  {
+   "pmid": "41488145",
+   "titel": "Research progress on multidimensional intervention strategies for hyperuricemia: Western medicine, Traditional Chinese Medicine, and emerging therapies",
+   "jahr": "2025",
+   "journal": "Front Endocrinol (Lausanne)",
+   "erstautor": "Li X",
+   "doi": "10.3389/fendo.2025.1722245",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Hyperuricemia is a metabolic disease caused by purine metabolism disorders. In recent years, its incidence has been increasing year by year and showing a trend of rejuvenation. It is closely associated with various health issues such as gout, kidney damage, and cardiovascular diseases. Therefore, standardizing and updating its treatment strategies holds significant clinical importance. This article systematically reviews the current various intervention methods and research status for the treatment of hyperuricemia: In the field of Western medicine, it deeply analyzes the efficacy, mechanism of action, and clinical limitations of drugs that promote uric acid excretion (such as benzbromarone and dotinurad), drugs that inhibit uric acid synthesis (such as allopurinol, febuxostat, and topiroxostat), and drugs that promote uric acid hydrolysis (such as pegloticase and rasburicase). It focuses on elaborating the research breakthroughs of URAT1 inhibitor derivatives and the new drug SHR4640. In the field of Traditional Chinese Medicine (TCM), from three aspects of single-herb monomers, compound prescriptions, and external treatment methods, it reveals their advantages in reducing uric acid through multiple mechanisms, including inhibiting xanthine oxidase (XOD), regulating uric acid transporters such as URAT1, GLUT9, and OATs, and improving intestinal homeostasis, with particular emphasis on the structure-activity relationship of flavonoids. At the same time, it details the action pathways and clinical evidence of emerging therapies such as SGLT2 inhibitors, the GLP-1/GCG dual-receptor agonist Mazdutide, probiotics, and washed microbiota transplantation (WMT). By summarizing mechanistic insights, clinical progress, and translational prospects, this review aims to inform the development of individualized and integrative therapeutic strategies for hyperuricemia."
+  },
+  {
+   "pmid": "42603384",
+   "titel": "Development and validation of a multiplexed LC-HRMS method for nine GLP-1 receptor agonists and its pharmaceutical application",
+   "jahr": "2026",
+   "journal": "J Chromatogr A",
+   "erstautor": "Tong LH",
+   "doi": "10.1016/j.chroma.2026.467288",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "A rapid, sensitive, and selective multiplexed liquid chromatography-high-resolution mass spectrometry (LC-HRMS) method was developed and validated for the identification and quantitation of nine structurally diverse peptide-based glucagon-like peptide-1 receptor agonists (GLP-1 RAs): bofanglutide, ecnoglutide, exenatide, liraglutide, mazdutide, retatrutide, semaglutide, survodutide, and tirzepatide. These peptides represent single, dual, and triple receptor agonists, including four globally approved medications, two recently approved by China's National Medical Products Administration (NMPA), and three investigational drugs in Phase III clinical trials. Chromatographic separation was achieved on an ACQUITY Premier BEH C18 column (2.1 × 150 mm, 1.7 µm) at 50 °C using a multistep linear gradient with water and acetonitrile containing 0.1% difluoroacetic acid (DFA) and 0.5% dimethyl sulfoxide (DMSO) as mobile phases (flow rate 0.3 mL/min). The optimised method provided excellent resolution with baseline separation for most peptides within a 20-minute runtime. A key advantage of this work is the implementation of a dual strategy that combines high-resolution full-scan MS (HRMS) for accurate mass measurement with data-dependent HRMS/MS fragmentation for structural confirmation. Peptide identification adopted a top-down approach, achieving mass accuracy of 0.0-0.5 ppm and fragment ion coverage of 76-100%. The method showed good linearity (r² ≥ 0.995) over 4-235 ng/mL, with LODs of 0.44-2.06 ng/mL and LOQs of 8.29-11.74 ng/mL. It was successfully applied to marketed formulations of liraglutide, semaglutide, and tirzepatide using a simple dilute-and-shoot procedure, yielding mean recoveries of 113.7-118.4%. This LC-HRMS method offers superior selectivity and flexibility for analysing current and next-generation GLP-1 RAs."
+  }
+ ],
+ "ctgov": [
+  {
+   "nct": "NCT06817356",
+   "titel": "A Study to Evaluate Mazdutide Compared With Placebo in Participants With Alcohol Use Disorder",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 308,
+   "start": "2025-02-06",
+   "ende": "2026-05-19",
+   "erkrankungen": [
+    "Alcohol Use Disorder"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07417306",
+   "titel": "A Study of HDM1005 in Participants With T2DM Not Controlled With Metformin Alone or in Combination With a Sodium-Glucose Cotransporter 2 (SGLT2) Inhibitor",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "NOT_YET_RECRUITING",
+   "teilnehmende": 912,
+   "start": "2026-03-27",
+   "ende": "2027-12-31",
+   "erkrankungen": [
+    "Type 2 Diabetes"
+   ],
+   "sponsor": "Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06931028",
+   "titel": "A Study of IBI362 in Chinese Subjects With Obstructive Sleep Apnea and BMI≥28 kg/m2",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 260,
+   "start": "2025-06-12",
+   "ende": "2027-06-11",
+   "erkrankungen": [
+    "Sleep Apnea",
+    "Obstructive",
+    "Obesity"
+   ],
+   "sponsor": "Innovent Biologics (Suzhou) Co. Ltd.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT03325387",
+   "titel": "A Study of Multiple Doses of LY3305677 in Healthy Participants",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 56,
+   "start": "2017-10-27",
+   "ende": "2018-08-03",
+   "erkrankungen": [
+    "Healthy"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07843862",
+   "titel": "A Study of HRS-4729 Injection in Participants With Type 2 Diabetes",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "NOT_YET_RECRUITING",
+   "teilnehmende": 240,
+   "start": "2026-10",
+   "ende": "2027-07",
+   "erkrankungen": [
+    "Type 2 Diabetes"
+   ],
+   "sponsor": "Fujian Shengdi Pharmaceutical Co., Ltd.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT03928379",
+   "titel": "A Study of LY3305677 in Participants With Type 2 Diabetes",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 24,
+   "start": "2019-10-27",
+   "ende": "2021-07-08",
+   "erkrankungen": [
+    "Diabetes Mellitus, Type 2"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05606913",
+   "titel": "A Study of IBI362 in Participants With Type 2 Diabetes",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 731,
+   "start": "2023-01-06",
+   "ende": "2024-04-09",
+   "erkrankungen": [
+    "Type 2 Diabetes"
+   ],
+   "sponsor": "Innovent Biologics (Suzhou) Co. Ltd.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT04440345",
+   "titel": "Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of IBI362 in Overweight or Obesity Subjects",
+   "phase": "PHASE1,PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 60,
+   "start": "2020-06-16",
+   "ende": "2021-08-06",
+   "erkrankungen": [
+    "Overweight or Obesity"
+   ],
+   "sponsor": "Innovent Biologics (Suzhou) Co. Ltd.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06164873",
+   "titel": "A Study of IBI362 9 mg in Chinese Adults With Obesity",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "UNKNOWN",
+   "teilnehmende": 462,
+   "start": "2023-12-27",
+   "ende": "2025-09-19",
+   "erkrankungen": [
+    "Obesity"
+   ],
+   "sponsor": "Innovent Biologics (Suzhou) Co. Ltd.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06519656",
+   "titel": "Efficacy of Mazdutide for Treating PCOS",
+   "phase": "PHASE1,PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 43,
+   "start": "2024-10-21",
+   "ende": "2026-09-18",
+   "erkrankungen": [
+    "Polycystic Ovary Syndrome"
+   ],
+   "sponsor": "Shanghai Zhongshan Hospital",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07255209",
+   "titel": "A Study of IBI362 in Chinese Adolescents With Obesity or Overweight",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 180,
+   "start": "2025-12-29",
+   "ende": "2028-10-31",
+   "erkrankungen": [
+    "Adolescents With Obesity or Overweight With Weight-Related Comorbidities"
+   ],
+   "sponsor": "Innovent Biologics (Suzhou) Co. Ltd.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07000955",
+   "titel": "Tolerance and Pharmacokinetic/Pharmacokinetic Study of IBI362 15mg in Patients With Moderate to Severe Obesity",
+   "phase": "PHASE1,PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 98,
+   "start": "2025-06-17",
+   "ende": "2027-05-14",
+   "erkrankungen": [
+    "Obesity"
+   ],
+   "sponsor": "Innovent Biologics (Suzhou) Co. Ltd.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05607680",
+   "titel": "A Study of IBI362 in Participants With Obesity or Overweight",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 610,
+   "start": "2022-11-14",
+   "ende": "2024-04-16",
+   "erkrankungen": [
+    "Obesity Or Overweight"
+   ],
+   "sponsor": "Innovent Biologics (Suzhou) Co. Ltd.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07517042",
+   "titel": "ASCEND-1: Lifestyle Intervention Plus Mazdutide for Weight Management",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 420,
+   "start": "2026-06-10",
+   "ende": "2028-12",
+   "erkrankungen": [
+    "Obesity",
+    "Weight Control"
+   ],
+   "sponsor": "Shanghai Zhongshan Hospital",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06143956",
+   "titel": "A Master Protocol Study (LY900038) of Multiple Intervention-Specific-Appendices (ISAs) in Adult Participants With Obesity or Overweight",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 1481,
+   "start": "2023-11-17",
+   "ende": "2028-02",
+   "erkrankungen": [
+    "Obesity",
+    "Overweight"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07135141",
+   "titel": "Mazdutide as Adjuvant Therapy Following Sleeve Gastrectomy in Severe Obesity",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "NOT_YET_RECRUITING",
+   "teilnehmende": 256,
+   "start": "2025-09-30",
+   "ende": "2029-09-30",
+   "erkrankungen": [
+    "Severe Obesity"
+   ],
+   "sponsor": "Beijing Friendship Hospital",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06536023",
+   "titel": "This is a Study to Evaluate the Pharmacokinetics and Safety of IBI362 in Chinese Adolescents With Obesity",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 36,
+   "start": "2024-08-30",
+   "ende": "2025-08-01",
+   "erkrankungen": [
+    "Adolescents With Obesity"
+   ],
+   "sponsor": "Innovent Biologics (Suzhou) Co. Ltd.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07797101",
+   "titel": "Body-weight Reduction Effect on Portal Hypertension in Compensated Cirrhosis",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "NOT_YET_RECRUITING",
+   "teilnehmende": 50,
+   "start": "2026-09-01",
+   "ende": "2029-05-31",
+   "erkrankungen": [
+    "Cirrhosis",
+    "Portal Hypertension",
+    "Fatty Liver Disease",
+    "GLP-1"
+   ],
+   "sponsor": "The Second Affiliated Hospital of Chongqing Medical University",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07469800",
+   "titel": "Efficacy and Safety of IBI362 in Hypertensive Patients With Overweight/Obesity",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 336,
+   "start": "2026-04-23",
+   "ende": "2027-04-15",
+   "erkrankungen": [
+    "Overweight",
+    "Obesity",
+    "Hypertensive"
+   ],
+   "sponsor": "Innovent Biologics (Suzhou) Co. Ltd.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07713992",
+   "titel": "Efficacy and Safety of Mazdutide in Patients With Type 2 Diabetes Mellitus and Moderate to Severe Nonalcoholic Fatty Liver Disease Previously Treated With Semaglutide",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "NOT_YET_RECRUITING",
+   "teilnehmende": 72,
+   "start": "2026-09-15",
+   "ende": "2028-02-01",
+   "erkrankungen": [
+    "Type 2 Diabetes Mellitus (T2DM)",
+    "Nonalcoholic Fatty Liver Disease (NAFLD) With History of Diabetes Melitus"
+   ],
+   "sponsor": "Tianjin Medical University",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07083154",
+   "titel": "Mazdutide in Type 2 Diabetes With Early-Stage Cognitive Impairment (LIGHT-COG Study)",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 420,
+   "start": "2025-09-27",
+   "ende": "2029-08-01",
+   "erkrankungen": [
+    "Dementia, Mild",
+    "Mild Cognitive Impairment",
+    "Type 2 Diabetes"
+   ],
+   "sponsor": "The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07775846",
+   "titel": "QUARTET-DKD: Quadruple Therapy for Type 2 Diabetic Nephropathy",
+   "phase": "PHASE4",
+   "typ": "INTERVENTIONAL",
+   "status": "NOT_YET_RECRUITING",
+   "teilnehmende": 820,
+   "start": "2026-09-01",
+   "ende": "2029-06-30",
+   "erkrankungen": [
+    "Type 2 Diabetic Kidney Disease"
+   ],
+   "sponsor": "Huijie Zhang",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07803705",
+   "titel": "Efficacy of Mazdutide on Fatty Pancreas",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "NOT_YET_RECRUITING",
+   "teilnehmende": 194,
+   "start": "2026-11-15",
+   "ende": "2028-12-30",
+   "erkrankungen": [
+    "Fatty Pancreas",
+    "Overweight",
+    "Obesity"
+   ],
+   "sponsor": "Tongji Hospital",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05815680",
+   "titel": "A Study to Evaluate the Drug-drug Interactions (DDIs) of IBI362 With Metformin, Warfarin, Atorvastatin, Digoxin in Overweight or Obese Subjects",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 48,
+   "start": "2023-04-06",
+   "ende": "2023-10-30",
+   "erkrankungen": [
+    "Overweight Subjects",
+    "Obese Subjects"
+   ],
+   "sponsor": "Innovent Biologics (Suzhou) Co. Ltd.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT04466904",
+   "titel": "Multiple-dose Tolerability and Pharmacokinetic of IBI362 in Chinese Patients With T2DM",
+   "phase": "PHASE1,PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 42,
+   "start": "2020-09-12",
+   "ende": "2021-05-28",
+   "erkrankungen": [
+    "Type 2 Diabetes"
+   ],
+   "sponsor": "Innovent Biologics (Suzhou) Co. Ltd.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07718126",
+   "titel": "Pre-hepatectomy Rehabilitation in Obese MASLD-Complicated Living Liver Donors With Mazdutide (PRIME)",
+   "phase": "PHASE4",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 60,
+   "start": "2026-09-01",
+   "ende": "2029-08-31",
+   "erkrankungen": [
+    "Metabolic Dysfunction-Associated Steatohepatitis",
+    "Hepatic Steatosis",
+    "Living Liver Donors"
+   ],
+   "sponsor": "West China Hospital",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06862908",
+   "titel": "A Study of IBI362 in Subjects With HFpEF or HFmrEF Combined With Obesity",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 141,
+   "start": "2025-03-26",
+   "ende": "2027-02-11",
+   "erkrankungen": [
+    "Obesity",
+    "Heart Failure With Preserved Ejection Fraction (HFPEF)",
+    "Heart Failure With Mildly Reduced Ejection Fraction"
+   ],
+   "sponsor": "Innovent Biologics (Suzhou) Co. Ltd.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT04965506",
+   "titel": "A Study of IBI362 in Chinese Patients With Type 2 Diabetes",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 252,
+   "start": "2021-09-06",
+   "ende": "2022-06-11",
+   "erkrankungen": [
+    "Type 2 Diabetes"
+   ],
+   "sponsor": "Innovent Biologics (Suzhou) Co. Ltd.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06937749",
+   "titel": "A Study of IBI362 in Participants With Metabolic Dysfunction-Associated Steatohepatitis (MASH)",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 181,
+   "start": "2025-06-20",
+   "ende": "2027-07-22",
+   "erkrankungen": [
+    "Metabolic Dysfunction-associated Steatohepatitis (MASH)"
+   ],
+   "sponsor": "Innovent Biologics (Suzhou) Co. Ltd.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07781150",
+   "titel": "Mazdutide Plus LNG-IUS for Fertility-Sparing Treatment of AEH or Early Endometrial Cancer",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "NOT_YET_RECRUITING",
+   "teilnehmende": 128,
+   "start": "2026-11-01",
+   "ende": "2031-06-30",
+   "erkrankungen": [
+    "Obesity",
+    "Overweight",
+    "Atypical Endometrial Hyperplasia",
+    "Endometrial Carcinoma Stage I",
+    "Endometrioid Endometrial Cancer"
+   ],
+   "sponsor": "Tongji Hospital",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07897305",
+   "titel": "Mazdutide for Reducing Atrial Fibrillation Recurrence After Catheter Ablation in Obese Patients",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "NOT_YET_RECRUITING",
+   "teilnehmende": 700,
+   "start": "2026-10-25",
+   "ende": "2028-12-30",
+   "erkrankungen": [
+    "Atrial Fibrillation (AF)",
+    "Ablation Treatment",
+    "Obesity & Overweight",
+    "Mazdutide"
+   ],
+   "sponsor": "Beijing Anzhen Hospital",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07654062",
+   "titel": "Mazdutide for Adults With Prediabetes: A Randomized, Double-Blind, Placebo-Controlled Trial (DREAM-PRE)",
+   "phase": "PHASE4",
+   "typ": "INTERVENTIONAL",
+   "status": "NOT_YET_RECRUITING",
+   "teilnehmende": 150,
+   "start": "2026-07",
+   "ende": "2029-07",
+   "erkrankungen": [
+    "Prediabetes",
+    "Impaired Fasting Glucose",
+    "Impaired Glucose Tolerance (Prediabetes)"
+   ],
+   "sponsor": "Shandong Provincial Hospital",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05628311",
+   "titel": "A Study of IBI362 in Poorly Controlled Type 2 Diabetes Patients Only Through Diet and Exercise",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 319,
+   "start": "2023-01-06",
+   "ende": "2024-05-09",
+   "erkrankungen": [
+    "Type 2 Diabetes"
+   ],
+   "sponsor": "Innovent Biologics (Suzhou) Co. Ltd.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07767552",
+   "titel": "Mazdutide for Remission of Type 2 Diabetes: Multicentre, Double Blind, Randomised, Placebo Controlled Trial",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "NOT_YET_RECRUITING",
+   "teilnehmende": 249,
+   "start": "2026-09-30",
+   "ende": "2029-06-30",
+   "erkrankungen": [
+    "Diabetes Mellitus, Type 2"
+   ],
+   "sponsor": "Yanbing Li",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07824895",
+   "titel": "Mazdutide for Weight Management and Gout in Adults With Obesity",
+   "phase": "PHASE4",
+   "typ": "INTERVENTIONAL",
+   "status": "NOT_YET_RECRUITING",
+   "teilnehmende": 30,
+   "start": "2026-09-15",
+   "ende": "2028-03-31",
+   "erkrankungen": [
+    "Gout",
+    "Obesity (BMI>30)",
+    "Hyperuricemia",
+    "Metabolic Syndrome"
+   ],
+   "sponsor": "Hongwei Jiang",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07633639",
+   "titel": "GLP-1 Therapy After Bariatric Surgery in Chinese Patients With Obesity",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 200,
+   "start": "2026-05-01",
+   "ende": "2028-05-01",
+   "erkrankungen": [
+    "Obesity"
+   ],
+   "sponsor": "China-Japan Friendship Hospital",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07657676",
+   "titel": "Effect of Mazdutide on Coronary Plaque in Patients With Coronary Atherosclerosis and Overweight or Obesity",
+   "phase": "PHASE4",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 116,
+   "start": "2026-09-14",
+   "ende": "2027-12-31",
+   "erkrankungen": [
+    "Obesity & Overweight",
+    "Coronary Heart Disease"
+   ],
+   "sponsor": "China National Center for Cardiovascular Diseases",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05623839",
+   "titel": "A Study of LY3305677 in Participants With Obesity Or Overweight",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 32,
+   "start": "2022-11-16",
+   "ende": "2023-06-27",
+   "erkrankungen": [
+    "Overweight",
+    "Obesity"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05793450",
+   "titel": "Pharmacokinetics of IBI362 in Subjects With and Without Renal Impairment",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 20,
+   "start": "2023-05-05",
+   "ende": "2023-11-17",
+   "erkrankungen": [
+    "Renal Impairment"
+   ],
+   "sponsor": "Innovent Biologics (Suzhou) Co. Ltd.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06124807",
+   "titel": "A Study of LY3305677 Compared With Placebo in Adult Participants With Obesity or Overweight",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 179,
+   "start": "2023-11-17",
+   "ende": "2025-07-09",
+   "erkrankungen": [
+    "Obesity",
+    "Overweight and Obesity"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT06184568",
+   "titel": "A Study Comparing IBI362 vs Semaglutide in Chinese Adults With Early Type 2 Diabetes and Obesity",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 349,
+   "start": "2024-02-29",
+   "ende": "2026-02-09",
+   "erkrankungen": [
+    "Type 2 Diabetes",
+    "Obesity"
+   ],
+   "sponsor": "Innovent Biologics (Suzhou) Co. Ltd.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06884293",
+   "titel": "A Study Comparing IBI362 vs Semaglutide in Chinese Overweight or Obese Adults With Metabolic Dysfunction-associated Fatty Liver Disease （MAFLD）",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 479,
+   "start": "2025-05-09",
+   "ende": "2027-06-30",
+   "erkrankungen": [
+    "Overweight",
+    "Metabolic Dysfunction-associated Fatty Liver Disease (MAFLD)"
+   ],
+   "sponsor": "Innovent Biologics (Suzhou) Co. Ltd.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT04904913",
+   "titel": "A Study of IBI362 Evaluating Weight Loss in Obese and Overweight Chinese Subjects",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 328,
+   "start": "2021-06-08",
+   "ende": "2023-12-06",
+   "erkrankungen": [
+    "Overweight/ Obesity"
+   ],
+   "sponsor": "Innovent Biologics (Suzhou) Co. Ltd.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT02972645",
+   "titel": "A Study of LY3305677 in Healthy Participants",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 66,
+   "start": "2016-12-05",
+   "ende": "2017-07-14",
+   "erkrankungen": [
+    "Healthy"
+   ],
+   "sponsor": "Eli Lilly and Company",
+   "ergebnisse": false
+  }
+ ],
+ "gruppe": "A_stoffwechsel"
+}

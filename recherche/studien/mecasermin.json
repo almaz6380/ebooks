@@ -1,0 +1,1781 @@
+{
+ "name": "Mecasermin (IGF-1)",
+ "status": "zugelassen",
+ "suchbegriff_pubmed": "mecasermin[tiab] OR rhIGF-1[tiab]",
+ "suchbegriff_ctgov": "mecasermin",
+ "humanstudien_alle": [
+  {
+   "pmid": "34355814",
+   "titel": "Sequential Therapy With Recombinant Human IGF-1 Followed by Risedronate Increases Spine Bone Mineral Density in Women With Anorexia Nervosa: A Randomized, Placebo-Controlled Trial",
+   "jahr": "2021",
+   "journal": "J Bone Miner Res",
+   "erstautor": "Haines MS",
+   "doi": "10.1002/jbmr.4420",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "33693703",
+   "titel": "Effect of Transdermal Estradiol and Insulin-like Growth Factor-1 on Bone Endpoints of Young Women With Anorexia Nervosa",
+   "jahr": "2021",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Singhal V",
+   "doi": "10.1210/clinem/dgab145",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "33249593",
+   "titel": "The effects of recombinant human insulin-like growth factor-1/insulin-like growth factor binding protein-3 administration on lipid and carbohydrate metabolism in recreational athletes",
+   "jahr": "2021",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Guha N",
+   "doi": "10.1111/cen.14370",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "32108355",
+   "titel": "Recombinant human insulin-like growth factor-1 therapy for 6 months improves growth but not motor function in boys with Duchenne muscular dystrophy",
+   "jahr": "2020",
+   "journal": "Muscle Nerve",
+   "erstautor": "Rutter MM",
+   "doi": "10.1002/mus.26846",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "30471715",
+   "titel": "rhIGF-1/rhIGFBP-3 in Preterm Infants: A Phase 2 Randomized Controlled Trial",
+   "jahr": "2019",
+   "journal": "J Pediatr",
+   "erstautor": "Ley D",
+   "doi": "10.1016/j.jpeds.2018.10.033",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "29029190",
+   "titel": "Pharmacokinetics of IGF-1 in PAPP-A2-Deficient Patients, Growth Response, and Effects on Glucose and Bone Density",
+   "jahr": "2017",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Cabrera-Salcedo C",
+   "doi": "10.1210/jc.2017-01411",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "28934640",
+   "titel": "Continuous longitudinal infusion of rhIGF-1/rhIGFBP-3 in extremely preterm infants: Evaluation of feasibility in a phase II study",
+   "jahr": "2017",
+   "journal": "Growth Horm IGF Res",
+   "erstautor": "Hansen-Pupp I",
+   "doi": "10.1016/j.ghir.2017.08.004",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "28838622",
+   "titel": "Defining Hand Stereotypies in Rett Syndrome: A Movement Disorders Perspective",
+   "jahr": "2017",
+   "journal": "Pediatr Neurol",
+   "erstautor": "Dy ME",
+   "doi": "10.1016/j.pediatrneurol.2017.05.025",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "27870826",
+   "titel": "Development and verification of a pharmacokinetic model to optimize physiologic replacement of rhIGF-1/rhIGFBP-3 in preterm infants",
+   "jahr": "2017",
+   "journal": "Pediatr Res",
+   "erstautor": "Chung JK",
+   "doi": "10.1038/pr.2016.255",
+   "typ": [
+    "Clinical Trial, Phase I",
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "25765099",
+   "titel": "Recombinant human growth hormone plus recombinant human insulin-like growth factor-1 coadministration therapy in short children with low insulin-like growth factor-1 and growth hormone sufficiency: results from a randomized, multicenter, open-label, parallel-group, active treatment-controlled trial",
+   "jahr": "2015",
+   "journal": "Horm Res Paediatr",
+   "erstautor": "Backeljauw PF",
+   "doi": "10.1159/000371799",
+   "typ": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "20837825",
+   "titel": "Open-label trial of recombinant human insulin-like growth factor 1/recombinant human insulin-like growth factor binding protein 3 in myotonic dystrophy type 1",
+   "jahr": "2011",
+   "journal": "Arch Neurol",
+   "erstautor": "Heatwole CR",
+   "doi": "10.1001/archneurol.2010.227",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "12846755",
+   "titel": "A randomized, placebo-controlled trial of IGF-1 for delayed graft function: a human model to study postischemic ARF",
+   "jahr": "2003",
+   "journal": "Kidney Int",
+   "erstautor": "Hladunewich MA",
+   "doi": "10.1046/j.1523-1755.2003.00100.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "11936485",
+   "titel": "A pilot study of recombinant insulin-like growth factor-1 in seven multiple sderosis patients",
+   "jahr": "2002",
+   "journal": "Mult Scler",
+   "erstautor": "Frank JA",
+   "doi": "10.1191/1352458502ms768oa",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "10652043",
+   "titel": "Recombinant human insulin-like growth factor-1 induces an anabolic response in malnourished CAPD patients",
+   "jahr": "2000",
+   "journal": "Kidney Int",
+   "erstautor": "Fouque D",
+   "doi": "10.1046/j.1523-1755.2000.00886.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "10600092",
+   "titel": "Effect of recombinant human growth hormone and insulin-like growth factor-1 administration on IGF-1 and IGF-binding protein-3 levels in brain injury",
+   "jahr": "1999",
+   "journal": "Pharmacotherapy",
+   "erstautor": "Rockich KT",
+   "doi": "10.1592/phco.19.18.1432.30891",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "9734619",
+   "titel": "Acute leptin regulation in end-stage renal failure: the role of growth hormone and IGF-1",
+   "jahr": "1998",
+   "journal": "Kidney Int",
+   "erstautor": "Fouque D",
+   "doi": "10.1046/j.1523-1755.1998.00041.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "9631143",
+   "titel": "Pilot study of the immunologic effects of recombinant human growth hormone and recombinant insulin-like growth factor in HIV-infected patients",
+   "jahr": "1998",
+   "journal": "AIDS",
+   "erstautor": "Nguyen BY",
+   "doi": "10.1097/00002030-199808000-00012",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "9554567",
+   "titel": "Effects of recombinant growth factors on energy expenditure in maintenance hemodialysis patients",
+   "jahr": "1998",
+   "journal": "Miner Electrolyte Metab",
+   "erstautor": "Tabakian A",
+   "doi": "10.1159/000057381",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "8967666",
+   "titel": "Recombinant human growth hormone, insulin-like growth factor 1, and combination therapy in AIDS-associated wasting. A randomized, double-blind, placebo-controlled trial",
+   "jahr": "1996",
+   "journal": "Ann Intern Med",
+   "erstautor": "Waters D",
+   "doi": "10.7326/0003-4819-125-11-199612010-00001",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "7752587",
+   "titel": "Impaired metabolic response to recombinant insulin-like growth factor-1 in dialysis patients",
+   "jahr": "1995",
+   "journal": "Kidney Int",
+   "erstautor": "Fouque D",
+   "doi": "10.1038/ki.1995.131",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "7752586",
+   "titel": "Pharmacokinetics of recombinant human insulin-like growth factor-1 in dialysis patients",
+   "jahr": "1995",
+   "journal": "Kidney Int",
+   "erstautor": "Fouque D",
+   "doi": "10.1038/ki.1995.130",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  }
+ ],
+ "humanstudien_detail": [
+  {
+   "pmid": "30471715",
+   "titel": "rhIGF-1/rhIGFBP-3 in Preterm Infants: A Phase 2 Randomized Controlled Trial",
+   "jahr": "2019",
+   "journal": "J Pediatr",
+   "erstautor": "Ley D",
+   "doi": "10.1016/j.jpeds.2018.10.033",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: To investigate recombinant human insulin-like growth factor 1 complexed with its binding protein (rhIGF-1/rhIGFBP-3) for the prevention of retinopathy of prematurity (ROP) and other complications of prematurity among extremely preterm infants. STUDY DESIGN: This phase 2 trial was conducted from September 2014 to March 2016. Infants born at a gestational age of 230/7 weeks to 276/7 weeks were randomly allocated to rhIGF-1/rhIGFBP-3 (250 µg/kg/ 24 hours, continuous intravenous infusion from <24 hours of birth to postmenstrual age 296/7 weeks) or standard neonatal care, with follow-up to a postmenstrual age of 404/7 weeks. Target exposure was ≥70% IGF-1 measurements within 28-109 µg/L and ≥70% intended therapy duration. The primary endpoint was maximum severity of ROP. Secondary endpoints included time to discharge from neonatal care, bronchopulmonary dysplasia, intraventricular hemorrhage, and growth measures. RESULTS: Overall, 61 infants were allocated to rhIGF-1/rhIGFBP-3, 60 to standard care (full analysis set); 24 of 61 treated infants achieved target exposure (evaluable set). rhIGF-1/rhIGFBP-3 did not decrease ROP severity or ROP occurrence. There was, however, a 53% decrease in severe bronchopulmonary dysplasia in the full analysis set (21.3% treated vs 44.9% standard care), and an 89% decrease in the evaluable set (4.8% vs 44.9%; P = .04 and P = .02, respectively) for severity distribution between groups. There was also a nonsignificant trend toward decrease in grades 3-4 intraventricular hemorrhage in the full analysis set (13.1% vs 23.3%) and in the evaluable set (8.3% vs 23.3%). Fatal serious adverse events were reported in 19.7% of treated infants (12/61) and 11.7% of control infants (7/60). No effect was observed on time to discharge from neonatal care/growth measures. CONCLUSIONS: rhIGF-1/rhIGFBP-3 did not affect development of ROP, but decreased the occurrence of severe bronchopulmonary dysplasia, with a nonsignificant decrease in grades 3-4 intraventricular hemorrhage. TRIAL REGISTRATION: ClinicalTrials.gov: NCT01096784."
+  },
+  {
+   "pmid": "27870826",
+   "titel": "Development and verification of a pharmacokinetic model to optimize physiologic replacement of rhIGF-1/rhIGFBP-3 in preterm infants",
+   "jahr": "2017",
+   "journal": "Pediatr Res",
+   "erstautor": "Chung JK",
+   "doi": "10.1038/pr.2016.255",
+   "typ": [
+    "Clinical Trial, Phase I",
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: rhIGF-1/rhIGFBP-3 is being investigated for prevention of retinopathy of prematurity in extremely preterm infants. METHODS: A population pharmacokinetic model was developed using data from phase I/II (Sections A-C) trials of rhIGF-1/rhIGFBP-3 and additional studies in preterm infants to predict optimal dosing to establish/maintain serum IGF-1 within physiological intrauterine levels. In Section D of the phase II study, infants (gestational age (GA) (wk+d) 23+0 to 27+6) were randomized to rhIGF-1/rhIGFBP-3, administered at the model-predicted dose of 250 µg/kg/d continuous i.v. infusion up to postmenstrual age (PMA) 29 wk+6 d or standard of care. An interim pharmacokinetic analysis was performed for the first 10 treated infants to verify dosing. RESULTS: Serum IGF-1 data were reviewed for 10 treated/9 control infants. Duration of therapy in treated infants ranged 1-34.5 d. At baseline (before infusion and <24 h from birth), mean (SD) IGF-1 was 19.2 (8.0) μg/l (treated) and 15.4 (4.7) μg/l (controls). Mean (SD) IGF-1 increased to 45.9 (19.6) μg/l at 12 h in treated infants, and remained within target levels for all subsequent timepoints. For treated infants, 88.8% of the IGF-1 measurements were within target levels (controls, 11.1%). CONCLUSION: Through the reported work, we determined appropriate rhIGF-1/rhIGFBP-3 dosing to achieve physiological intrauterine serum IGF-1 levels in extremely preterm infants."
+  },
+  {
+   "pmid": "28934640",
+   "titel": "Continuous longitudinal infusion of rhIGF-1/rhIGFBP-3 in extremely preterm infants: Evaluation of feasibility in a phase II study",
+   "jahr": "2017",
+   "journal": "Growth Horm IGF Res",
+   "erstautor": "Hansen-Pupp I",
+   "doi": "10.1016/j.ghir.2017.08.004",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: To evaluate the feasibility of continuous longitudinal intravenous infusion of recombinant human insulin-like growth factor-1/recombinant human insulin-like growth factor binding protein-3 (rhIGF-1/rhIGFBP-3) for prevention of retinopathy of prematurity and other complications in extremely preterm infants (<28weeks' gestational age), based on initial sections of a phase II randomized controlled trial. DESIGN: The phase II trial was designed in four sections (A-D); we report pharmacokinetic and adverse events (AEs) data pooled for Sections B and C. Infants in these study sections received rhIGF-1/rhIGFBP-3 or standard neonatal care up to postmenstrual age (weeks+days) 28+6 (Section B) or 29+6 (Section C). Dosing was variable/individualized and intended to establish serum IGF-1 within physiological intrauterine levels. RESULTS: Nineteen infants were enrolled across Sections B/C: nine received rhIGF-1/rhIGFBP-3 and 10 standard neonatal care. Among the nine infants treated with study drug, mean (SD) dose was 95.1 (10.6)μg/kg/day and mean (SD) duration of infusion was 14.2 (6.1)days. Eight of nine (88.9%) treated infants had two or more dose changes during treatment. Mean serum IGF-1 levels during treatment were 23μg/L among treated infants compared with 14μg/L in control infants. Overall, 66.3% of IGF-1 measurements for treated infants were within target levels (20-60μg/L) versus 17.3% for control infants. Overall incidence of adverse events (AEs) was similar for treated versus control infants; AEs were generally as expected in this population, and no AEs were considered related to study treatment. There was no observed increase in infection rates (considered a possible risk with continuous intravenous infusion) between treated and control infants. Rates of hypoglycemia (considered a possible risk with IGF-1 treatment) were also similar between groups. There was one fatal serious AE of cardiac tamponade in the treated group (not considered treatment related). CONCLUSION: Infusion of rhIGF-1/rhIGFBP-3 increased serum concentrations of IGF-1 and attainment of target levels relative to standard neonatal care. rhIGF-1/rhIGFBP-3 infusion was well tolerated with no safety signals. Although further work is required to optimize the dose regimen for attainment of physiological intrauterine levels, we believe the results reported support the feasibility of rhIGF-1/rhIGFBP-3 continuous longitudinal infusion in extremely preterm infants. The trial is registered at ClinicalTrials.gov (NCT01096784)."
+  },
+  {
+   "pmid": "29029190",
+   "titel": "Pharmacokinetics of IGF-1 in PAPP-A2-Deficient Patients, Growth Response, and Effects on Glucose and Bone Density",
+   "jahr": "2017",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Cabrera-Salcedo C",
+   "doi": "10.1210/jc.2017-01411",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "CONTEXT: The pregnancy-associated plasma protein A2 (PAPP-A2) cleaves insulinlike growth factor binding proteins 3 and 5, releasing free insulinlike growth factor 1 (IGF-1). Homozygous mutations in PAPP-A2 result in growth failure with elevated total but low free IGF-1. OBJECTIVE: To determine the 24-hour pharmacokinetic (PK) profile of free and total IGF-1 after a dose of recombinant human insulinlike growth factor 1 (rhIGF-1). We describe the growth response and effects on glucose metabolism and bone mineral density (BMD) after 1 year of rhIGF-1 therapy. DESIGN AND PATIENTS: Three affected siblings, their heterozygous parents, and two healthy controls participated. The subjects received a dose of rhIGF-1, followed by serial blood samples collected over 24 hours. The two younger siblings were started on rhIGF-1 treatment. An oral glucose tolerance test and dual-energy X-ray absorptiometry scans were obtained at baseline and after 1 year of treatment. RESULTS: Subcutaneous administration of rhIGF-1 increased the concentration of free and total IGF-1 in patients with PAPP-A2 deficiency. The PK profile was comparable in all participants. At baseline, all three subjects demonstrated insulin resistance and below-average BMD. Treatment with rhIGF-1 is ongoing in the youngest patient but was discontinued in his brother because of the development of pseudotumor cerebri. The treated patient had an increase in height velocity from 3.0 to 6.2 cm/y, resolution of insulin resistance, and an increase in total body BMD. CONCLUSIONS: rhIGF-1 at standard dosages resulted in similar PK characteristics in patients with PAPP-A2 deficiency, heterozygous relatives, and healthy controls. The youngest affected patient experienced a modest growth response to therapy with rhIGF-1, as well as beneficial effects on glucose metabolism and bone mass."
+  },
+  {
+   "pmid": "12846755",
+   "titel": "A randomized, placebo-controlled trial of IGF-1 for delayed graft function: a human model to study postischemic ARF",
+   "jahr": "2003",
+   "journal": "Kidney Int",
+   "erstautor": "Hladunewich MA",
+   "doi": "10.1046/j.1523-1755.2003.00100.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "BACKGROUND: Insulin-like growth factor (IGF-1) has been shown in animal models to accelerate recovery from acute renal failure (ARF). However, a therapeutic trial of recombinant human (rh) IGF-1 in patients with ARF in the intensive care unit (ICU) failed to demonstrate efficacy [1]. Such patients often had multiple organ failure, recurrent renal injury, and a delay of several days before commencing treatment. METHODS: To circumvent these confounding factors, we randomized recipients of cadaveric renal allografts to immediate (<5 hours) rhIGF-1 versus placebo therapy (100 mg/kg subcutaneously twice a day for 6 days). Preliminary observations 3 hours posttransplantation in an additional 44 patients revealed a creatinine clearance < or = 20 mL/min to predict protracted ARF. Thus, this value was used to determine study eligibility. RESULTS: Creatinine clearance prior to commencing treatment was not significantly different between the two groups (8 +/- 5 mL/min for IGF-1 and 7 +/- 6 mL/min for placebo; P = 0.39). Inulin clearance on day 7, the primary outcome measure, was 21 +/- 22 mL/min and 19 +/- 19 mL/min in the IGF-1 (N = 19) and placebo (N = 24) groups, respectively (P = 0.67). Secondary outcome measures, including nadir serum creatinines after 6 weeks and need for dialysis, also did not differ between the two groups. We performed an analysis of statistical power using the placebo arm of the trial. Defining a twofold increase above placebo in day 7 glomerular filtration rate (GFR) as of meaningful biologic significance, we determined that the modest sample size used in the present study is adequate. CONCLUSION: We, thus, conclude that (1) IGF-1 treatment is unlikely to benefit ARF and (2) the transplanted kidney is a good model to screen new agents for ARF that have demonstrated promise in animal trials."
+  },
+  {
+   "pmid": "34355814",
+   "titel": "Sequential Therapy With Recombinant Human IGF-1 Followed by Risedronate Increases Spine Bone Mineral Density in Women With Anorexia Nervosa: A Randomized, Placebo-Controlled Trial",
+   "jahr": "2021",
+   "journal": "J Bone Miner Res",
+   "erstautor": "Haines MS",
+   "doi": "10.1002/jbmr.4420",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Anorexia nervosa is complicated by low bone mineral density (BMD) and increased fracture risk associated with low bone formation and high bone resorption. The lumbar spine is most severely affected. Low bone formation is associated with relative insulin-like growth factor 1 (IGF-1) deficiency. Our objective was to determine whether bone anabolic therapy with recombinant human (rh) IGF-1 used off-label followed by antiresorptive therapy with risedronate would increase BMD more than risedronate or placebo in women with anorexia nervosa. We conducted a 12-month, randomized, placebo-controlled study of 90 ambulatory women with anorexia nervosa and low areal BMD (aBMD). Participants were randomized to three groups: 6 months of rhIGF-1 followed by 6 months of risedronate (\"rhIGF-1/Risedronate\") (n = 33), 12 months of risedronate (\"Risedronate\") (n = 33), or double placebo (\"Placebo\") (n = 16). Outcome measures were lumbar spine (1° endpoint: postero-anterior [PA] spine), hip, and radius aBMD by dual-energy X-ray absorptiometry (DXA), and vertebral, tibial, and radial volumetric BMD (vBMD) and estimated strength by high-resolution peripheral quantitative computed tomography (HR-pCT) (for extremity measurements) and multi-detector computed tomography (for vertebral measurements). At baseline, mean age, body mass index (BMI), aBMD, and vBMD were similar among groups. At 12 months, mean PA lumbar spine aBMD was higher in the rhIGF-1/Risedronate (p = 0.03) group and trended toward being higher in the Risedronate group than Placebo. Mean lateral lumbar spine aBMD was higher, in the rhIGF-1/Risedronate than the Risedronate or Placebo groups (p < 0.05). Vertebral vBMD was higher, and estimated strength trended toward being higher, in the rhIGF-1/Risedronate than Placebo group (p < 0.05). Neither hip or radial aBMD or vBMD, nor radial or tibial estimated strength, differed among groups. rhIGF-1 was well tolerated. Therefore, sequential therapy with rhIGF-1 followed by risedronate increased lateral lumbar spine aBMD more than risedronate or placebo. Strategies that are anabolic and antiresorptive to bone may be effective at increasing BMD in women with anorexia nervosa. © 2021 American Society for Bone and Mineral Research (ASBMR)."
+  },
+  {
+   "pmid": "33693703",
+   "titel": "Effect of Transdermal Estradiol and Insulin-like Growth Factor-1 on Bone Endpoints of Young Women With Anorexia Nervosa",
+   "jahr": "2021",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Singhal V",
+   "doi": "10.1210/clinem/dgab145",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "CONTEXT: Anorexia nervosa (AN) is prevalent in adolescent girls and is associated with bone impairment driven by hormonal alterations in nutritional deficiency. OBJECTIVE: To assess the impact of estrogen replacement with and without recombinant human insulin-like growth factor-1 (rhIGF-1) administration on bone outcomes. DESIGN: Double-blind, randomized, placebo-controlled 12-month longitudinal study. PARTICIPANTS: Seventy-five adolescent and young adult women with AN age 14 to 22 years. Thirty-three participants completed the study. INTERVENTION: Transdermal 17-beta estradiol 0.1 mg/day with (i) 30 mcg/kg/dose of rhIGF-1 administered subcutaneously twice daily (AN-IGF-1+) or (ii) placebo (AN-IGF-1-). The dose of rhIGF-1 was adjusted to maintain levels in the upper half of the normal pubertal range. MAIN OUTCOME MEASURES: Bone turnover markers and bone density, geometry, microarchitecture, and strength estimates. RESULTS: Over 12 months, lumbar areal bone mineral density increased in AN-IGF-1- compared to AN-IGF-1+ (P = 0.004). AN-IGF-1+ demonstrated no improvement in areal BMD in the setting of variable compliance to estrogen treatment. Groups did not differ for 12-month changes in bone geometry, microarchitecture, volumetric bone mineral density (vBMD), or strength (and results did not change after controlling for weight changes over 12 months). Both groups had increases in radial cortical area and vBMD, and tibia cortical vBMD over 12 months. Levels of a bone resorption marker decreased in AN-IGF-1- (P = 0.042), while parathyroid hormone increased in AN-IGF-1+ (P = 0.019). AN-IGF-1- experienced irregular menses more frequently than did AN-IGF-1+, but incidence of all other adverse events did not differ between groups. CONCLUSIONS: We found no additive benefit of rhIGF-1 administration for 12 months over transdermal estrogen replacement alone in this cohort of young women with AN."
+  },
+  {
+   "pmid": "25765099",
+   "titel": "Recombinant human growth hormone plus recombinant human insulin-like growth factor-1 coadministration therapy in short children with low insulin-like growth factor-1 and growth hormone sufficiency: results from a randomized, multicenter, open-label, parallel-group, active treatment-controlled trial",
+   "jahr": "2015",
+   "journal": "Horm Res Paediatr",
+   "erstautor": "Backeljauw PF",
+   "doi": "10.1159/000371799",
+   "typ": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND/AIMS: Growth hormone (GH) and insulin-like growth factor-1 (IGF-1) both contribute to growth. To determine if recombinant human (rh)GH + rhIGF-1 therapy is more effective than rhGH alone to treat short stature, we assessed the efficacy and safety of coadministered rhGH + rhIGF-1 in short children with GH sufficiency and low IGF-1. METHODS: In a 3-year, randomized, multicenter, open-label trial, patients with height SD score ≤-2.0 and IGF-1 SD score ≤-1.0 for age and sex, and with stimulated GH ≥10 ng/ml for age and sex, were randomized to receive (all doses in µg/kg/day): 45 rhGH alone (group A), 45 rhGH + 50 rhIGF-1 (group B), 45 rhGH + 100 rhIGF-1 (group C) or 45 rhGH + 150 rhIGF-1 (group D). Height velocity (HV) and Δ height SD score were measured. RESULTS: The first-year HV (modified intention-to-treat population) was 9.3 ± 1.7 cm/year (group A), 10.1 ± 1.3 cm/year (group B), 9.7 ± 2.5 cm/year (group C) and 11.2 ± 2.1 cm/year (group D) (p = 0.001 for groups A vs. D). This effect was sustained, resulting in a height SD score improvement during the second and third years. Most treatment-emergent adverse events were mild and transient. CONCLUSION: In children with short stature, GH sufficiency and low IGF-1, coadministration of rhGH/rhIGF-1 (45/150 µg/kg) significantly accelerated linear growth compared with rhGH alone, with a safety profile similar to the individual monotherapies."
+  },
+  {
+   "pmid": "7752586",
+   "titel": "Pharmacokinetics of recombinant human insulin-like growth factor-1 in dialysis patients",
+   "jahr": "1995",
+   "journal": "Kidney Int",
+   "erstautor": "Fouque D",
+   "doi": "10.1038/ki.1995.130",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "Six maintenance hemodialysis (MHD), six continuous ambulatory peritoneal dialysis (CAPD) and six normal adults underwent pharmacokinetic studies of insulin-like growth factor-1 (IGF-1). Each subject received two separate subcutaneous injections of recombinant human IGF-1 (rhIGF-1) (50 or 100 micrograms/kg) in random order separated by 7 to 21 days. Two different responses were observed. With the 50 micrograms/kg dose, serum IGF-1 levels and the pharmacokinetic parameters were not different between the three groups. With the 100 micrograms/kg dose, peak serum IGF-1 concentrations were significantly greater in the MHD and CAPD patients than in normals. However, by 12 to 14 hours after injection, serum IGF-1 was not different in the three groups. Although the Tmax, area under the curve and serum clearance of IGF-1 were similar in the three groups, the half-life and volume of distribution of rhIGF-1 was significantly decreased in both MHD and CAPD patients. These data indicate that IGF-1 pharmacokinetics are abnormal in maintenance dialysis patients."
+  },
+  {
+   "pmid": "32108355",
+   "titel": "Recombinant human insulin-like growth factor-1 therapy for 6 months improves growth but not motor function in boys with Duchenne muscular dystrophy",
+   "jahr": "2020",
+   "journal": "Muscle Nerve",
+   "erstautor": "Rutter MM",
+   "doi": "10.1002/mus.26846",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "INTRODUCTION: Recombinant human insulin-like growth factor-1 (rhIGF-1) is a growth factor and has anabolic effects on muscle. We investigated whether rhIGF-1 therapy: 1) improves or preserves muscle function; and 2) improves growth in boys with Duchenne muscular dystrophy (DMD). METHODS: In this study we compared prepubescent, ambulatory, glucocorticoid-treated boys with DMD (n = 17) vs controls (glucocorticoid therapy only, n = 21) in a 6-month-long, prospective, randomized, controlled trial of subcutaneous rhIGF-1 therapy. The primary outcome was 6-minute walk distance (6MWD). Secondary outcomes included height velocity (HV), change in height standard deviation score (ΔHtSDS), motor function, cardiopulmonary function, body composition, insulin sensitivity, quality of life, and safety. RESULTS: Change in 6MWD was similar between groups (rhIGF-1 vs controls [mean ± SD]: 3.4 ± 32.4 vs -5.1 ± 50.2 meters, P = .53). Treated subjects grew more than controls (HV: 6.5 ± 1.7 vs 3.3 ± 1.3 cm/year, P < .0001; 6-month ΔHtSDS: 0.25, P < .0001). Lean mass and insulin sensitivity increased in treated subjects. DISCUSSION: In boys with DMD, 6 months of rhIGF-1 therapy did not change motor function, but it improved linear growth."
+  },
+  {
+   "pmid": "28838622",
+   "titel": "Defining Hand Stereotypies in Rett Syndrome: A Movement Disorders Perspective",
+   "jahr": "2017",
+   "journal": "Pediatr Neurol",
+   "erstautor": "Dy ME",
+   "doi": "10.1016/j.pediatrneurol.2017.05.025",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "INTRODUCTION: Hand stereotypies (HS) are a primary diagnostic criterion for Rett syndrome (RTT) but are difficult to characterize and quantify systematically. METHODS: We collected video on 27 girls (2-12 years of age) with classic RTT who participated in a mecasermin trial. The present study focused exclusively on video analyses, by reviewing two five-minute windows per subject to identify the two most common HS. Three raters with expertise in movement disorders independently rated the five-minute windows using standardized terminology to determine the level of agreement. We iteratively refined the protocol in three stages to improve descriptive accuracy, categorizing HS as \"central\" or \"peripheral,\" \"simple\" or \"complex,\" scoring each hand separately. Inter-rater agreement was analyzed using Kappa statistics. RESULTS: In the initial protocol evaluating HS by video, inter-rater agreement was 20.7%. In the final protocol, inter-rater agreement for the two most frequent HS was higher than the initial protocol at 50%. CONCLUSION: Phenotypic variability makes standardized evaluation of HS in RTT a challenge; we achieved only 50% level of agreement and only for the most frequent HS. Therefore, objective measures are needed to evaluate HS."
+  },
+  {
+   "pmid": "33249593",
+   "titel": "The effects of recombinant human insulin-like growth factor-1/insulin-like growth factor binding protein-3 administration on lipid and carbohydrate metabolism in recreational athletes",
+   "jahr": "2021",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Guha N",
+   "doi": "10.1111/cen.14370",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: Previous studies suggested that recombinant human IGF-1 (rhIGF-1) administration affects carbohydrate and lipid metabolism in healthy people and in people with diabetes. This study aimed to determine the effects of rhIGF-1/rhIGF binding protein-3 (rhIGFBP-3) administration on glucose homeostasis and lipid metabolism in healthy recreational athletes. DESIGN AND SETTING: Randomized, double-blind, placebo-controlled rhIGF-1/rhIGFBP-3 administration study at Southampton General Hospital, UK. PARTICIPANTS: 56 recreational athletes (30 men, 26 women). METHODS: Participants were randomly assigned to receive placebo, low-dose rhIGF-1/rhIGFBP-3 (30 mg/day) or high-dose rhIGF-1/rhIGFBP-3 (60 mg/day) for 28 days. The following variables were measured before and immediately after the treatment period: fasting lipids, glucose, insulin, C-peptide and glycated haemoglobin. The homeostatic model assessment (HOMA-IR) was used to estimate insulin sensitivity and indirect calorimetry to assess substrate oxidation rates. The general linear model approach was used to compare treatment group changes with the placebo group. RESULTS: Compared with the placebo group, there was a significant reduction in fasting triglycerides in participants treated with high-dose rhIGF-1/rhIGFBP-3 (p = .030), but not in the low-dose group (p = .390). In women, but not in men, there were significant increases in total cholesterol (p = .003), HDL cholesterol (p = .001) and LDL cholesterol (p = .008). These lipid changes were associated with reduced fasting insulin (p = .010), C-peptide (p = .001) and HOMA-IR (p = .018) in women and reduced C-peptide (p = .046) in men. CONCLUSIONS: rhIGF-1/rhIGFBP-3 administration for 28 days reduced insulin concentration, improved insulin sensitivity and had significant effects on lipid profile including decreased fasting triglycerides."
+  },
+  {
+   "pmid": "20837825",
+   "titel": "Open-label trial of recombinant human insulin-like growth factor 1/recombinant human insulin-like growth factor binding protein 3 in myotonic dystrophy type 1",
+   "jahr": "2011",
+   "journal": "Arch Neurol",
+   "erstautor": "Heatwole CR",
+   "doi": "10.1001/archneurol.2010.227",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: To evaluate the safety and tolerability of recombinant human insulin-like growth factor 1 (rhIGF-1) complexed with IGF binding protein 3 (rhIGF-1/rhIGFBP-3) in patients with myotonic dystrophy type 1 (DM1). DESIGN: Open-label dose-escalation clinical trial. SETTING: University medical center. PARTICIPANTS: Fifteen moderately affected ambulatory participants with genetically proven myotonic dystrophy type 1. INTERVENTION: Participants received escalating dosages of subcutaneous rhIGF-1/rhIGFBP-3 for 24 weeks followed by a 16-week washout period. MAIN OUTCOME MEASURES: Serial assessments of safety, muscle mass, muscle function, and metabolic state were performed. The primary outcome variable was the ability of participants to complete 24 weeks receiving rhIGF-1/ rhIGFBP-3 treatment. RESULTS: All participants tolerated rhIGF-1/rhIGFBP-3. There were no significant changes in muscle strength or functional outcomes measures. Lean body muscle mass measured by dual-energy x-ray absorptiometry increased by 1.95 kg (P < .001) after treatment. Participants also experienced a mean reduction in triglyceride levels of 47 mg/dL (P = .002), a mean increase in HDL levels of 5.0 mg/dL (P = .03), a mean reduction in hemoglobin A(1c) levels of 0.15% (P = .03), and a mean increase in testosterone level (in men) of 203 ng/dL (P = .002) while taking rhIGF-1/rhIGFBP-3. Mild reactions at the injection site occurred (9 participants), as did mild transient hypoglycemia (3), lightheadedness (2), and transient papilledema (1). CONCLUSIONS: Treatment with rhIGF-1/rhIGFBP-3 was generally well tolerated in patients with myotonic dystrophy type 1. Treatment with rhIGF-1/rhIGFBP-3 was associated with increased lean body mass and improvement in metabolism but not increased muscle strength or function. Larger randomized controlled trials would be needed to further evaluate the efficacy and safety of this medication in patients with neuromuscular disease. TRIAL REGISTRATION: clinicaltrials.gov Identifier: NCT00233519."
+  },
+  {
+   "pmid": "10600092",
+   "titel": "Effect of recombinant human growth hormone and insulin-like growth factor-1 administration on IGF-1 and IGF-binding protein-3 levels in brain injury",
+   "jahr": "1999",
+   "journal": "Pharmacotherapy",
+   "erstautor": "Rockich KT",
+   "doi": "10.1592/phco.19.18.1432.30891",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "STUDY OBJECTIVE: To assess the effect of recombinant human growth hormone (rhGH) on the insulin-like growth factor-1 (IGF-1) plasma concentration versus time profile during continuous infusion of recombinant human (rh)IGF-1 to patients with traumatic brain injury (TBI). SETTING: University of Kentucky Chandler Medical Center. PATIENTS: Twenty-three patients with TBI (aged 18-59 yrs) with Glascow Coma Scale scores of 4-10. INTERVENTION: Patients were randomized to receive rhIGF-1 0.01 mg/kg/hour and daily subcutaneous doses of rhGH 0.05 mg/kg/day or saline for 14 days. MEASUREMENTS AND MAIN RESULTS: Plasma concentrations of IGF-1 and IGF-binding protein (BP)-3 were quantified by radioimmunoassay. Patients receiving rhIGF-1/rhGH reached a peak IGF-1 concentration (1199.3+/-84.0 microg/L) at 72 hours and maintained it throughout the study. Levels of IGF-1 in the control group did not change significantly above baseline throughout the study. Concentrations of IGFBP-3 were significantly higher after 48 hours in the treated group (5.1+/-0.4 mg/L) than in controls (2.9+/-0.5 mg/L) and continued until the end of the study (p<0.05). CONCLUSION: Infusion of rhIGF-1 in conjunction with rhGH effectively achieved and maintained supraphysiologic IGF-1 plasma concentrations throughout the dosing period in patients with TBI. It appears that rhGH alters the IGF-1 plasma concentration versus time profile during continuous administration. Although speculative, changes in protein binding of IGF-1 are the most likely mechanism."
+  },
+  {
+   "pmid": "10652043",
+   "titel": "Recombinant human insulin-like growth factor-1 induces an anabolic response in malnourished CAPD patients",
+   "jahr": "2000",
+   "journal": "Kidney Int",
+   "erstautor": "Fouque D",
+   "doi": "10.1046/j.1523-1755.2000.00886.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "BACKGROUND: Insulin-like growth factor-1 (IGF-1) is an anabolic hormone that mediates most of the growth effects of growth hormone. This study tested the hypothesis that recombinant human IGF-1 (rhIGF-1) will induce an anabolic response in malnourished patients undergoing continuous ambulatory peritoneal dialysis (CAPD). METHODS: Six CAPD patients with protein-energy malnutrition underwent nitrogen balance studies in a clinical research center for 35 days each. Throughout the study, patients were maintained on their same CAPD regimen prior to hospitalization, and were fed a constant protein and energy intake that was similar to their diet prior to hospitalization. The first 15 hospital days were a baseline period; during the subsequent 20-day period, patients were given subcutaneous injections of rhIGF-1 (100 microg/kg/12 h), except for one patient who received 50 microg/kg/12 h for the first five days, followed by 100 microg/kg/12 h for the following 15 days. RESULTS: During the treatment with rhIGF-1, serum IGF-1 increased by about 100% (P = 0.03), and nitrogen balance became strongly positive (+2.0 g/day, P = 0.015 vs. baseline). This anabolic effect was observed within hours after commencing the rhIGF-1 treatment and was largely caused by a 20% decrease in peritoneal dialysate effluent nitrogen. There was a proportionate reduction in urine nitrogen and serum urea nitrogen. This decrease in nitrogen output was sustained during the entire 20 day of treatment with rhIGF-1. Serum phosphorus decreased significantly during the first several days of rhIGF-1 treatment, whereas serum calcium increased significantly during the rhIGF-1 treatment. Serum potassium and albumin did not change during the rhIGF-1 injections. There was no change in body weight and body composition, as assessed by anthropometry during the baseline or treatment phases of the study. Some patients exhibited minor possible adverse events that included a reduction in blood pressure and transient tachycardia. CONCLUSION: Injections of rhIGF-1 induce a strong and sustained anabolic effect, as indicated by a positive nitrogen balance in CAPD patients with protein-energy malnutrition. rhIGF-1 administration may be an effective method for treating malnutrition in maintenance dialysis patients."
+  },
+  {
+   "pmid": "8967666",
+   "titel": "Recombinant human growth hormone, insulin-like growth factor 1, and combination therapy in AIDS-associated wasting. A randomized, double-blind, placebo-controlled trial",
+   "jahr": "1996",
+   "journal": "Ann Intern Med",
+   "erstautor": "Waters D",
+   "doi": "10.7326/0003-4819-125-11-199612010-00001",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "OBJECTIVE: To increase lean body mass and improve health status in patients with wasting associated with the acquired immunodeficiency syndrome (AIDS) by treatment with recombinant human growth hormone (rhGH), recombinant human insulin-like growth factor 1 (rhIGF-1), or both. DESIGN: Randomized, double-blind, placebo-controlled clinical trial. SETTING: University of New Mexico Clinical Research Center and University of Texas Southwestern Medical Center. PATIENTS: 60 patients with AIDS and wasting as defined by the Centers for Disease Control and Prevention. Patients were divided into four groups of 15 patients each. INTERVENTION: Group 1 received 1.4 mg of rhGH once daily plus placebo twice daily; group 2 received 5 mg of rhIGF-1 twice daily plus placebo once daily; group 3 received 5 mg of rhIGF-1 twice daily plus 1.4 mg of rhGH once daily; and group 4 received placebo three times daily. MEASUREMENTS: Body weight, body composition, muscle strength, protein catabolism, quality of life, and immune status were assessed at baseline, and changes in these variables were measured at 6 and 12 weeks. RESULTS: At 6 weeks, lean body mass had increased and total fat mass had decreased in the groups receiving rhGH, rhIGF-1, or both. Group 3 had the greatest changes in lean body mass (mean +/- SE, 3.2 +/- 0.59 kg; P < 0.001); only in this group were changes in body mass maintained at 12 weeks. Only patients in group 1 had improvement in muscular strength of the knees and upper body (P = 0.04) and quality of life (P = 0.01). Immunologic function did not improve in any group. CONCLUSIONS: Growth factor therapy had significantly increased lean body mass and decreased fat mass by 6 weeks, but these improvements persisted for 12 weeks only in group 3. Growth factor therapy at the dosages used in this study is not recommended because the magnitude of weight gain was modest and improvements in quality-of-life measures varied."
+  },
+  {
+   "pmid": "11936485",
+   "titel": "A pilot study of recombinant insulin-like growth factor-1 in seven multiple sderosis patients",
+   "jahr": "2002",
+   "journal": "Mult Scler",
+   "erstautor": "Frank JA",
+   "doi": "10.1191/1352458502ms768oa",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ],
+   "abstract": "The purpose of this open-label, crossover study was to determine the safety and efficacy of recombinant insulin-like growth factor-1 (rhIGF-1) using magnetic resonance imaging (MRI) and clinical measures of disease activity in seven multiple sderosis (MS) patients. Monthly clinical and MPI examinations were performed during a 24-week baseline and a 24-week treatment period with rhIGF-1. The primary outcome measure was contrast enhancing lesion (CEL) frequency on treatment compared to baseline. Secondary outcome measures included dinical and MRI measures of disease activity including: white matter lesion load (WMLL), magnetization transfer ratio (MTR), T1-Hypointensity volume, cervical spine cross-sectional area and proton magnetic resonance spectroscopic (MRS) imaging for determining regional metabolite ratios. rhIGF-1 (Cephalon) was administered at a dose of 50 mg subcutaneously twice a day for 6 months. rhIGF-1 was safe and well tolerated with no severe adverse reactions. There was no significant difference between baseline and treatment periods for any MRI or clinical measures of disease activity. Although rhIGF-1 did not alter the course of disease in this small cohort of MS patients, the drug was well tolerated. Further studies using rhIGF-1 alone or in combination with other therapies may be of value because of the proposed mechanism of action of this growth factor on the oligodendrocyte and remyelination."
+  },
+  {
+   "pmid": "7752587",
+   "titel": "Impaired metabolic response to recombinant insulin-like growth factor-1 in dialysis patients",
+   "jahr": "1995",
+   "journal": "Kidney Int",
+   "erstautor": "Fouque D",
+   "doi": "10.1038/ki.1995.131",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "The acute metabolic effects of recombinant human insulin-like growth factor-1 (rhIGF-1) were studied after an overnight fast in six maintenance hemodialysis (MHD) patients, six chronic peritoneal dialysis (PD) patients and six normal subjects. Each subject received a subcutaneous injection of rhIGF-1, 50 or 100 micrograms/kg body wt, given in random order on two occasions separated by 7 to 21 days. After the rhIGF-1 injection, plasma insulin, C-peptide, cortisol, amino acids and glucose decreased. The magnitude of the decrease was greater with the larger rhIGF-1 dose. The fall in plasma insulin, C-peptide and many amino acid concentrations was less and the decrease in glucose was similar in the MHD and CAPD patients as compared to normals. With 50 micrograms rhIGF-1/kg, plasma insulin and C-peptide decreased more quickly and often to a greater magnitude in normal individuals. With 100 micrograms rhIGF-1/kg, the decrease in plasma insulin, C-peptide and amino acids in the MHD and CAPD patients was almost as frequent as in the normal subjects, but the magnitude of the fall was often significantly less. This impaired response occurred in both MHD and CAPD patients even though, with the 100 micrograms rhIGF-1/kg dose, their plasma IGF-1 was significantly higher than in normals during most of the first four hours after injection. These results provide the first in vivo evidence for resistance to the metabolic effects of rhIGF-1 in patients with advanced renal failure."
+  },
+  {
+   "pmid": "9554567",
+   "titel": "Effects of recombinant growth factors on energy expenditure in maintenance hemodialysis patients",
+   "jahr": "1998",
+   "journal": "Miner Electrolyte Metab",
+   "erstautor": "Tabakian A",
+   "doi": "10.1159/000057381",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "We compared the metabolic effects of recombinant human (rh) insulin-like growth factor (IGF)-1 or a combination of rhIGF-1 + rh growth hormone (GH) on resting energy expenditure (REE) in 8 maintenance hemodialysis (MHD) patients. Seven males and 1 female (aged 41.6 +/- (SD) 12.4) with no evidence of malnutrition (BMI 21.6 +/- 2.2 kg/m2, serum albumin 45 +/- 2 g/l, serum IGF-1 359 +/- 165 microg/l) received either rhIGF-1 (80 microg/kg/day) or rhIGF-1 (80 microg/kg/day) + rhGH (50 microg/kg/day) for 3 days in a random crossover design. REE and the respiratory quotient (RQ) were measured at rest before and after the 3-day treatment. The results confirmed that MHD patients have a REE not different from normal individuals. REE was strongly correlated with lean body mass but not with fat mass. rhIGF-1 treatment did not modify REE despite doubling serum IGF-1 values, whereas a combined rhIGF1 + rhGH treatment significantly increased REE by 11% (p < 0.001). There was no change in RQ under both treatments, in response to a proportionate increase in VCO2 and VO2. These results show that energy expenditure is mainly dependent upon lean body mass in well-nourished MHD patients. The metabolic effects of rhIGF-1 and rhGH on energy expenditure may differ in response to their opposite effects on lipid oxidation and insulin regulation."
+  },
+  {
+   "pmid": "9734619",
+   "titel": "Acute leptin regulation in end-stage renal failure: the role of growth hormone and IGF-1",
+   "jahr": "1998",
+   "journal": "Kidney Int",
+   "erstautor": "Fouque D",
+   "doi": "10.1046/j.1523-1755.1998.00041.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Leptin, a recently discovered peptide involved in nutrient intake and energy expenditure, has been shown to be abnormally regulated in certain conditions such as obesity. In chronic renal failure, leptin appears to be increased. However, little is known about leptin regulation during chronic renal failure (CRF). METHODS: We measured serum leptin in eight well nourished, chronic hemodialysis patients (seven males, one female) receiving anabolic factors for three days as either recombinant insulin-like growth factor-1 (rhIGF-1) or a combination of recombinant growth hormone (rhGH) plus recombinant IGF-1, in a random cross-over trial. RESULTS: Serum leptin values were in the range of normal volunteers matched for body mass index. As reported in other conditions, serum leptin was strongly correlated with patients dry body wt (P = 0.01) and body fat (P = 0.0001). Both treatments affected serum leptin in a rapid and opposite manner. RhIGF-1 decreased serum leptin from 11.2+/-20.8 (SD) to 4.3+/-3.8 microg/liter (P = 0.011), whereas the combination of rhGH + rhIGF-1 increased serum leptin from 7.4+/-9.4 to 21.0+/-32.9 microg/liter (P = 0.011). Regression analyses indicated a linear regression between serum leptin and insulin variations after treatment. CONCLUSIONS: This study shows for the first time that both rhIGF-1 and rhGH acutely regulate serum leptin in dialysis patients. Whether leptin changes are explained by the concomitant insulin variation should be further studied under renal failure conditions."
+  },
+  {
+   "pmid": "9631143",
+   "titel": "Pilot study of the immunologic effects of recombinant human growth hormone and recombinant insulin-like growth factor in HIV-infected patients",
+   "jahr": "1998",
+   "journal": "AIDS",
+   "erstautor": "Nguyen BY",
+   "doi": "10.1097/00002030-199808000-00012",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "OBJECTIVE: To study the immunologic effects of recombinant human growth hormone (rhGH), recombinant human insulin-like growth factor type 1 (rhIGF-1), or the combination, in patients with moderately advanced HIV infection. DESIGN: Randomized but not blinded trial. SETTING: Government medical research center. PATIENTS: Twenty-four HIV-infected patients with CD4 cell counts of 100-400 x 10(6)/l who were receiving nucleoside antiretroviral therapy. INTERVENTIONS: Either rhGH, rhIGF-1, or the combination was administered subcutaneously for 12 weeks. MAIN OUTCOME MEASURES: Immunologic parameters, including T-cell subsets and assays of in vitro interleukin (IL)-2 production in response to antigens and mitogens, and safety profile. RESULTS: Plasma IGF-1 levels were low or low-normal prior to treatment and increased with all three therapies. There were no significant changes in CD4 cell counts, RA/RO CD4 cell subsets, natural killer cell function, immunoglobulin levels, or in vitro IL-2 production in response to mitogen or alloantigens. However, there was an upward trend (and for p18IIIB a statistically significant increase) in the in vitro IL-2 production in response to each of five HIV envelope peptides. Potential toxic effects included fatigue, arthralgia, edema, myalgia, and headache. Patients also were noted to have weight gain averaging 4 kg early in the course of treatment. CONCLUSIONS: These results suggest that treatment with rhGH/rhIGF-1 was reasonably well tolerated and that modest improvement in HIV-specific immune function was attained. Further studies will help clarify the therapeutic potential of rhGH/rhIGF-1 as an immunostimulator in the setting of HIV infection."
+  }
+ ],
+ "metaanalysen": [
+  {
+   "pmid": "41174329",
+   "titel": "Mecasermin for the treatment of Rett Syndrome: a systematic review",
+   "jahr": "2025",
+   "journal": "Neurogenetics",
+   "erstautor": "Ribeiro FCP",
+   "doi": "10.1007/s10048-025-00860-5",
+   "typ": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "abstract": "Mecasermin, a recombinant analogue of insulin‑like growth factor 1 (IGF‑1), is under investigation as a potential therapy for Rett syndrome (RTT), a neurodevelopmental disorder resulting from mutations in the MECP2 gene. In this systematic review, we assessed the impact of mecasermin on the full spectrum of RTT severity by screening relevant clinical studies identified through MeSH‑based database queries. Evidence indicates that IGF‑1 administration may help preserve social engagement and cognitive function in RTT, although autonomic control and behavioral outcomes have been inconsistent, and electroencephalographic alterations display considerable heterogeneity. Moreover, transcriptomic analyses have uncovered discrete gene‑expression signatures in molecularly defined patient subgroups, suggesting that genetic background modulates therapeutic response. These findings highlight the promise of mecasermin for ameliorating specific RTT features while underscoring the necessity of larger, rigorously designed trials to refine treatment regimens and implement stratified, patient‑specific approaches."
+  },
+  {
+   "pmid": "41983451",
+   "titel": "Insulin-like growth factor-1 for the prevention or treatment of retinopathy of prematurity",
+   "jahr": "2026",
+   "journal": "Cochrane Database Syst Rev",
+   "erstautor": "Trzaski JM",
+   "doi": "10.1002/14651858.CD013216.pub2",
+   "typ": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+   ],
+   "abstract": "RATIONALE: Retinopathy of prematurity (ROP) is a disorder of the developing retina in which abnormal proliferation of retinal blood vessels may lead to severe visual compromise or retinal detachment in infants born preterm. Insulin-like growth factor-1 (IGF-1) promotes normal retinal vessel growth in utero; however, IGF-1 levels fall substantially following preterm birth. By returning IGF-1 to in utero levels, postnatal treatment with IGF-1 may interrupt ROP pathogenesis, preventing disease or reducing its severity. OBJECTIVES: To compare treatment with IGF-1 to standard care or placebo for the prevention of retinopathy of prematurity or treatment of early retinopathy of prematurity. SEARCH METHODS: We used CENTRAL, MEDLINE, Embase, Cochrane Database of Systematic Reviews, Issue 3, 2025, in the Cochrane Library, CINAHL Plus with Full Text (EBSCOhost), Epistemonikos, clinical trials registries (US National Library of Medicine Clinicaltrials.gov, World Health Organization's International Trials Registry Platform, and ISRCTN Registry), together with reference checking and citation searching to identify studies that are included in this review. The latest search date was 10 March 2025. ELIGIBILITY CRITERIA: We considered all randomized controlled trials (RCTs), cluster-RCTs, and quasi-RCTs comparing IGF-1 with standard care or placebo for the prevention of ROP or treatment of early ROP in preterm infants. We planned to exclude cross-over randomized trials. OUTCOMES: Our outcomes of interest were: • Development of Type 1 ROP, defined as ROP requiring treatment at any time during the birth hospitalization or outpatient follow-up • Development of ROP ≥ stage 3 at any time during the birth hospitalization or outpatient follow-up • Development of ROP of any severity at any time during the birth hospitalization or outpatient follow-up • Occurrence of one or more serious adverse events (SAEs) at any time during the birth hospitalization • Mortality during the birth hospitalization • Hypoglycemia during the birth hospitalization RISK OF BIAS: We used the original Cochrane Risk of Bias 1 tool (RoB 1) to assess possible bias in the included studies. SYNTHESIS METHODS: Dichotomous data were reported using risk ratio (RR) and risk difference (RD) with 95% confidence intervals (CIs). Where possible, we synthesized results for each outcome using meta-analysis with fixed-effect models. We used GRADE to assess the certainty of evidence for each outcome. INCLUDED STUDIES: We included two studies totaling 140 participants. Both included studies were parallel-group RCTs performed between 2011 and 2016 enrolling extremely preterm infants in well-resourced settings in Europe and North America. The two published primary study references describe a two-center RCT (n = 19) and a 20-center RCT (n = 121) comparing treatment starting on the first day of life with intravenous IGF-1 (as mecasermin rinfabate) to standard care for prevention of ROP in newborn infants at 23 weeks' to 27 weeks plus six days' gestational age with follow-up through 40 weeks' postmenstrual age. SYNTHESIS OF RESULTS: Type 1 ROP/ROP requiring treatment Evidence is very uncertain regarding the effect of treatment with IGF-1 as compared to standard care/placebo for preventing development of Type 1 ROP/ROP requiring treatment (RR 0.94, 95% CI 0.38 to 2.35; P = 0.90; I2 = 0%; 2 RCTs, 116 infants; very low-certainty evidence). ROP ≥ stage 3 Evidence is very uncertain regarding the effect of treatment with IGF-1 as compared to standard care/placebo for preventing development of severe ROP (RR 1.27, 95% CI 0.61 to 2.65; P = 0.52; I2 = 0%; 2 RCTs, 116 infants; very low-certainty evidence). ROP of any severity Evidence is very uncertain regarding the effect of treatment with IGF-1 as compared to standard care/placebo for preventing development of ROP of any severity (RR 1.30, 95% CI 0.94 to 1.80; P = 0.12; I2 = 0%; 2 RCTs, 116 infants; very low-certainty evidence). SAEs during the birth hospitalization Evidence is very uncertain regarding the safety of treatment with IGF-1 as compared to standard care/placebo as reflected by the occurrence of one or more SAEs during the birth hospitalization in preterm infants (RR 1.18, 95% CI 0.94 to 1.47; P = 0.15; I2 = 65%; 2 studies, 140 infants; very low-certainty evidence). Post-hoc sensitivity analysis including only the larger RCT demonstrated an increased risk of experiencing one or more SAEs with IGF-1 compared to controls (RR 1.28, 95% CI 1.01 to 1.62, P = 0.05; RD 0.17, 95% CI 0.01 to 0.33, P = 0.04; number needed to treat for an additional harmful outcome (NNTH) 5.9; I2 = not applicable; 1 RCT, 121 infants; very low-certainty evidence). All-cause mortality during the birth hospitalization Evidence is very uncertain regarding the effect of treatment with IGF-1 as compared to standard care/placebo on all-cause mortality during the birth hospitalization in preterm infants (RR 1.69, 95% CI 0.71 to 3.99; P = 0.23; I2 = not applicable; 1 RCT, 121 infants; very low-certainty evidence). Hypoglycemia during the birth hospitalization Evidence is very uncertain regarding the safety of treatment with IGF-1 as compared to standard care/placebo as reflected by the incidence of hypoglycemia in preterm infants during the birth hospitalization (RR 1.00, 95% CI 0.62 to 1.63; P = 0.99; I2 = 0%; 2 RCTs, 140 infants; very low-certainty evidence). We assessed all results to be of very low certainty due to small total enrollment and substantial risk of bias. Both included studies had a high risk of bias in two domains. In addition, both were funded by industry. AUTHORS' CONCLUSIONS: The available data are of very low certainty, and so we are not able to draw conclusions about the effects of treatment with IGF-1 in preterm infants for preventing or treating ROP, or about its effects on risk of serious adverse events, mortality, or hypoglycemia in this population. FUNDING: This Cochrane review had no dedicated funding. REGISTRATION: Protocol available via DOI: 10.1002/14651858.CD013216."
+  },
+  {
+   "pmid": "42050034",
+   "titel": "Placental hormones, IGF-1, and early-life growth: endocrine links between birth size and infant metabolic programming-a systematic review",
+   "jahr": "2026",
+   "journal": "Eur J Pediatr",
+   "erstautor": "Soliman AT",
+   "doi": "10.1007/s00431-026-06985-5",
+   "typ": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "abstract": "UNLABELLED: The purpose of this study is to systematically review human evidence linking placental hormones and IGF-1 with fetal growth, birth size, and early-life metabolic programming, and to identify disease-specific translational signals relevant to fetal growth restriction, metabolically complicated pregnancy, and extreme prematurity. A systematic review of PubMed and Scopus was performed for human studies published from January 2000 to March 2025. Eligible studies examined placental growth hormone, human placental lactogen, placental IGF-axis markers, or related stress-hormone pathways in relation to birth size, fetal or infant growth, or early metabolic outcomes. Reporting was aligned with PRISMA 2020. Risk of bias was assessed using RoB 2 for randomized trials and ROBINS-I principles for observational studies. Because of substantial clinical and methodological heterogeneity, findings were synthesized narratively. Thirty-seven included studies showed that mid-gestation placental growth hormone had the most consistent positive associations with fetal growth and birth size, whereas early placental growth hormone was less informative. Cord blood IGF-1 was the most reproducible endocrine correlate of birth length and weight. Reduced maternal or placental lactogen signals and lower placental 11β-HSD2 activity clustered with placental insufficiency and fetal growth restriction, while diabetic pregnancies showed a shift toward adiposity-related outcomes. In extreme prematurity, abrupt loss of placental endocrine support created a translational window in which rhIGF-1/rhIGFBP-3 replacement emerged as the clearest mechanism-based intervention, although current clinical evidence remains preliminary. CONCLUSION: Placental endocrine markers should not be used as standalone screening tools. Their main value at present is mechanistic and translational: combined hormone patterns may refine biological understanding and risk stratification within defined maternal and neonatal disease frameworks, while IGF-1 replacement in extreme prematurity represents the most credible current therapeutic lead. WHAT IS KNOWN: • Placental hormones and IGF-1 are linked with fetal growth, birth size, and neonatal metabolic adaptation, but 45 published evidence is heterogeneous and clinically fragmented. WHAT IS NEW: • This systematic review organizes the human data within fetal growth restriction, diabetic/LGA pregnancy, and extreme prematurity frameworks and identifies translational signals-especially early IGF-1 replacement in extreme prematurity-rather than standalone diagnostic biomarkers."
+  }
+ ],
+ "praeklinik": [
+  {
+   "pmid": "32109132",
+   "titel": "rhIGF-1 Therapy: A Silver Bullet for Bronchopulmonary Dysplasia Prevention?",
+   "jahr": "2020",
+   "journal": "Am J Respir Crit Care Med",
+   "erstautor": "Plosa EJ",
+   "doi": "10.1164/rccm.202002-0287ED",
+   "typ": [
+    "Editorial",
+    "Research Support, N.I.H., Extramural",
+    "Comment"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "36577365",
+   "titel": "IGF1 deficiency integrates stunted growth and neurodegeneration in Down syndrome",
+   "jahr": "2022",
+   "journal": "Cell Rep",
+   "erstautor": "Araya P",
+   "doi": "10.1016/j.celrep.2022.111883",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "abstract": "Down syndrome (DS), the genetic condition caused by trisomy 21 (T21), is characterized by stunted growth, cognitive impairment, and increased risk of diverse neurological conditions. Although signs of lifelong neurodegeneration are well documented in DS, the mechanisms underlying this phenotype await elucidation. Here we report a multi-omics analysis of neurodegeneration and neuroinflammation biomarkers, plasma proteomics, and immune profiling in a diverse cohort of more than 400 research participants. We identified depletion of insulin growth factor 1 (IGF1), a master regulator of growth and brain development, as the top biosignature associated with neurodegeneration in DS. Individuals with T21 display chronic IGF1 deficiency downstream of growth hormone production, associated with a specific inflammatory profile involving elevated tumor necrosis factor alpha (TNF-α). Shorter children with DS show stronger IGF1 deficiency, elevated biomarkers of neurodegeneration, and increased prevalence of autism and other conditions. These results point to disruption of IGF1 signaling as a potential contributor to stunted growth and neurodegeneration in DS."
+  },
+  {
+   "pmid": "21225019",
+   "titel": "Gateways to clinical trials",
+   "jahr": "2010",
+   "journal": "Methods Find Exp Clin Pharmacol",
+   "erstautor": "Tomillero A",
+   "doi": "10.1358/mf.2010.32.9.1563109",
+   "typ": [
+    "Bibliography",
+    "Journal Article"
+   ],
+   "abstract": "Gateways to Clinical Trials is a guide to the most recent clinical trials in current literature and congresses. The data in the following tables has been retrieved from the Clinical Trials Knowledge Area of Thomson Reuters Integrity(SM), the drug discovery and development portal, http://www.thomsonreutersintegrity.com. This issue focuses on the following selection of drugs: Abatacept, Adalimumab, AdCD40L, Adefovir, Aleglitazar, Aliskiren fumarate, AM-103, Aminolevulinic acid methyl ester, Amlodipine, Anakinra, Aprepitant, Aripiprazole, Atazanavir sulfate, Axitinib; Belimumab, Bevacizumab, Bimatoprost, Bortezomib, Bupropion/naltrexone; Calcipotriol/betamethasone dipropionate, Certolizumab pegol, Ciclesonide, CYT-997; Darbepoetin alfa, Darunavir, Dasatinib, Desvenlafaxine succinate, Dexmethylphenidate hydrochloride cogramostim; Eltrombopag olamine, Emtricitabine, Escitalopram oxalate, Eslicarbazepine acetate, Eszopiclone, Etravirine, Everolimus-eluting coronary stent, Exenatide, Ezetimibe; Fenretinide, Filibuvir, Fludarabine; Golimumab; Hepatitis B hyperimmunoglobulin, HEV-239, HP-802-247, HPV-16/18 AS04, HPV-6/11/16/18, Human albumin, Human gammaglobulin; Imatinib mesylate, Inotuzumab ozogamicin, Invaplex 50 vaccine; Lapatinib ditosylate, Lenalidomide, Liposomal doxorubicin, Lopinavir, Lumiliximab, LY-686017; Maraviroc, Mecasermin rinfabate; Narlaprevir; Ocrelizumab, Oral insulin, Oritavancin, Oxycodone hydrochloride/naloxone; Paclitaxel-eluting stent, Palonosetron hydrochloride, PAN-811, Paroxetine, Pazopanib hydrochloride, Peginterferon alfa-2a, Peginterferon alfa-2b, Pemetrexed disodium, Pertuzumab, Pitavastatin calcium, Posaconazole, Pregabalin, Prucalopride succinate; Raltegravir potassium, Ranibizumab, RHAMM R3 peptide, Rosuvastatin calcium; Salclobuzic acid sodium salt, SCY-635, Selenate sodium, Semapimod hydrochloride, Silodosin, Siltuximab, Silybin, Sirolimus-eluting stent, SIR-Spheres, Sunitinib malate; Tapentadol hydrochloride, Tenofovir disoproxil fumarate, Tocilizumab, Tositumomab/iodine (I131) tositumomab, Trabectedin, TransVax™ hepatitis C vaccine; Ustekinumab; V-260, Valspodar, Varenicline tartrate, VCL-IPT1, Vildagliptin, VRC-HIVADV014-00-VP, VRC-HIVDNA009-00-VP, VRC-HIVDNA016-00-VP; Yttrium 90 (90Y) ibritumomab tiuxetan, Yttrium Y90 Epratuzumab; Zibotentan, Zotarolimus-eluting stent."
+  },
+  {
+   "pmid": "21225012",
+   "titel": "Gateways to clinical trials",
+   "jahr": "2010",
+   "journal": "Methods Find Exp Clin Pharmacol",
+   "erstautor": "Tomillero A",
+   "doi": "10.1358/mf.2010.32.10.1573763",
+   "typ": [
+    "Bibliography",
+    "Journal Article"
+   ],
+   "abstract": "Gateways to Clinical Trials is a guide to the most recent clinical trials in current literature and congresses. The data in the following tables has been retrieved from the Clinical Trials Knowledge Area of Thomson Reuters Integrity(SM), the drug discovery and development portal, http://www.thomsonreutersintegrity.com. This issue focuses on the following selection of drugs: 17-Hydroxyprogesterone caproate; Abacavir sulfate/lamivudine, Aclidinium bromide, Adalimumab, Adefovir, Alemtuzumab, Alkaline phosphatase, Amlodipine, Apilimod mesylate, Aripiprazole, Axitinib, Azacitidine; Belotecan hydrochloride, Berberine iodide, Bevacizumab, Bortezomib, Bosentan, Bryostatin 1; Calcipotriol/hydrocortisone, Carglumic acid, Certolizumab pegol, Cetuximab, Cinacalcet hydrochloride, Cixutumumab, Coumarin, Custirsen sodium; Darbepoetin alfa, Darifenacin hydrobromide, Darunavir, Dasatinib, Denibulin hydrochloride, Denosumab, Diacetylmorphine, Dulanermin, Duloxetine hydrochloride; Ecogramostim, Enfuvirtide, Entecavir, Enzastaurin hydrochloride, Eplerenone, Escitalopram oxalate, Esomeprazole sodium, Etravirine, Everolimus, Ezetimibe; Fenofibrate/pravastatin sodium, Ferric carboxymaltose, Flavangenol, Fondaparinux sodium; Glutamine, GSK-1024850A; Hepatitis B hyperimmunoglobulin, Hib-MenC, HIV-LIPO-5; Immunoglobulin intravenous (human), Indacaterol maleate, Indibulin, Indium 111 (¹¹¹In) ibritumomab tiuxetan, Influenza A (H1N1) 2009 Monovalent vaccine, Inhalable human insulin, Insulin glulisine; Lapatinib ditosylate, Leucovorin/UFT; Maraviroc, Mecasermin, MMR-V, Morphine hydrochloride, Morphine sulfate/naltrexone hydrochloride, Mycophenolic acid sodium salt; Naproxen/esomeprazole magnesium, Natalizumab; Oncolytic HSV; Paliperidone, PAN-811, Paroxetine, Pegfilgrastim, Peginterferon alfa-2a, Peginterferon alfa-2b/ribavirin, Pegvisomant, Pemetrexed disodium, Pimecrolimus, Posaconazole, Pregabalin; Raltegravir potassium, Ranelic acid distrontium salt, Rasburicase, Rilpivirine hydrochloride; Sertindole, Sivelestat sodium hydrate, Sorafenib, Sumatriptan succinate/naproxen sodium, Sunitinib malate; Tafluprost, Telithromycin, Temsirolimus, Tenofovir disoproxil fumavate, Tenofovir disoproxil fumarate/emtricitabine, Teriparatide, Ticagrelor, Tigecycline, Tipranavir, Tirapazamine, Trimetrexate; Ulipristal acetate; Valganciclovir hydrochloride, Vicriviroc, Vorinostat; Yttrium 90 (90Y) ibritumomab tiuxetan."
+  },
+  {
+   "pmid": "16625824",
+   "titel": "Mecasermin Tercica",
+   "jahr": "2006",
+   "journal": "Curr Opin Investig Drugs",
+   "erstautor": "Norman P",
+   "doi": "",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Tercica, under license from Genentech, has developed and launched mecasermin, recombinant human insulin-like growth factor-1 (rhIGF-1), for the treatment of growth failure in children with primary IGF deficiency or with growth hormone (GH) gene deletion who have developed neutralizing antibodies to GH."
+  },
+  {
+   "pmid": "32156173",
+   "titel": "IGF-1 regulate the expression of uncoupling protein 2 via FOXO1",
+   "jahr": "2019",
+   "journal": "Growth Factors",
+   "erstautor": "Watamoto Y",
+   "doi": "10.1080/08977194.2020.1739032",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Mitochondria uncoupling protein2 (UCP2) expressed ubiquitously is a key molecule of energy metabolism. Insulin-like growth factor-1 (IGF-1) is a hormone, a target molecule of growth hormone (GH) signal pathway, which is also known as the drug \"mecasermin\" for clinical usages. IGF-1 is seemed to be closely related to metabolic diseases, such as adult GH deficiency. However, there has not been reports depicted possible relationship with each other. So, we sought to elucidate the mechanisms by which expression of UCP2 is regulated by IGF-1 via FOXO1. The findings suggested that three sequences in the consensus UCP2 promoter play complementary functional roles in the functional expression of FOXO1. So, we found that FOXO1 is involved in IGF-1-mediated energy metabolism greater than that of direct action of GH via STAT5. Our findings suggested that IGF-1 was involved in energy metabolism by regulating the expression of UCP2 via the PI3K/Akt/FOXO1 pathway."
+  },
+  {
+   "pmid": "17380212",
+   "titel": "Mecasermin rinfabate",
+   "jahr": "2007",
+   "journal": "Drugs Today (Barc)",
+   "erstautor": "Kemp SF",
+   "doi": "10.1358/dot.2007.43.3.1079876",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Mecasermin rinfabate, a complex of equimolar amounts of insulin-like growth factor (IGF)-I and its binding protein IGFBP-3, has been approved by the U.S. Food and Drug Administration for treatment of severe primary IGF deficiency or for patients with growth hormone gene deletion who have developed neutralizing antibodies to growth hormone. It has been shown to increase growth velocity in children with either condition. In the past there have been adverse events, particularly hypoglycemia, reported with administration of unbound recombinant human IGF-I (rhIGF-I). In addition, the serum half-life of unbound rhIGF-I is shorter when administered to patients with growth hormone insensitivity syndrome, who have low serum concentrations of its binding proteins IGFBP-3 and acid-labile subunit, than when administered to healthy volunteers or to patients with an IGF-I gene deletion who have normal levels of IGFBP-3. Mecasermin rinfabate prolongs the half-life of rhIGF and should counteract acute adverse events, particularly hypoglycemia, associated with the administration of IGF-I."
+  },
+  {
+   "pmid": "19557204",
+   "titel": "Gateways to clinical trials",
+   "jahr": "2009",
+   "journal": "Methods Find Exp Clin Pharmacol",
+   "erstautor": "Tomillero A",
+   "doi": "10.1358/mf.2009.31.4.1373959",
+   "typ": [
+    "Bibliography",
+    "Journal Article"
+   ],
+   "abstract": "(-)-Gossypol; Abacavir sulfate/lamivudine, ACAM-1000, ACE-011, Agomelatine, AGS-004, Alemtuzumab, Alvocidib hydrochloride, AMG-317, Amlodipine, Aripiprazole, Atazanavir sulfate, Azacitidine; Becatecarin, Belinostat, Bevacizumab, BMS-387032, BMS-690514, Bortezomib; Casopitant mesylate, Cetuximab, Choline fenofibrate, CK-1827452, Clofarabine, Conivaptan hydrochloride; Dabigatran etexilate, DADMe-Immucillin-H, Darbepoetin alfa, Darunavir, Dasatinib, DC-WT1, Decitabine, Deferasirox, Degarelix acetate, Denenicokin, Denosumab, Dienogest, Duloxetine hydrochloride; Ecogramostim, Eculizumab, Edoxaban tosilate, Elacytarabine, Elesclomol, Eltrombopag olamine, Enfuvirtide, Enzastaurin hydrochloride, Eribulin mesilate, Erlotinib hydrochloride, Escitalopram oxalate, Eszopiclone, Etravirine; Flibanserin, Fludarabine, Fondaparinux sodium, Fosamprenavir calcium; Gefitinib, Genistein; I-131-L19-SIP, Idrabiotaparinux sodium, Imatinib mesylate, IMGN-901, Ipilimumab; Laromustine, Lenalidomide, Liposomal cisplatin, Liraglutide, Lisdexamfetamine mesilate, Lopinavir, Lopinavir/ritonavir; Maraviroc, MDV-3100, Mecasermin rinfabate, MP-470, Mycophenolic acid sodium salt; Naproxcinod, NB-002, Nesiritide, Nilotinib hydrochloride monohydrate, NK-012; Palonosetron hydrochloride, Panobinostat, Pegfilgrastim, Peginterferon alfa-2a, Pitavastatin calcium, PL-3994, Plerixafor hydrochloride, Plitidepsin, PM-10450; Raltegravir potassium, Recombinant human soluble thrombomodulin, ReoT3D, RHAMM R3 peptide, Rivaroxaban, Romiplostim, Rosuvastatin calcium, Rozrolimupab; Sabarubicin hydrochloride, Salinosporamide A, Sirolimus-eluting stent, Smallpox (Vaccinia) Vaccine, Live, Sorafenib; Tenofovir disoproxil fumarate, Tenofovir disoproxil fumarate/emtricitabine, Teriparatide, Tipifarnib, Tipranavir, Trabectedin, Trifluridine/TPI; Vardenafil hydrochloride hydrate, Vinflunine, Volociximab, Vorinostat; Ximelagatran; Yttrium 90 (90Y) ibritumomab tiuxetan; Ziprasidone hydrochloride, Zoledronic acid monohydrate."
+  },
+  {
+   "pmid": "26365932",
+   "titel": "Insulin-like Growth Factors in a clinical setting: Review of IGF-I",
+   "jahr": "2015",
+   "journal": "Biomed Pap Med Fac Univ Palacky Olomouc Czech Repub",
+   "erstautor": "Frysak Z",
+   "doi": "10.5507/bp.2015.041",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "Interest in growth hormone (GH) is inextricably linked to the need for in depth understanding of the somatomedins (insulin-like growth factors) which are polypeptides structurally similar to insulin and with broad physiological activity. To date, the most commonly known is Insulin-Like Growth Factor I (IGF-I). Despite considerable current knowledge of IGF-I, however, its bioactivity is incompletely understood. Measurement of IGF-I is of the utmost importance in the diagnosis and treatment of, for example acromegaly and growth hormone deficiency. The development of recombinant IGF-I, has allowed its use in such cases. Clinical practice, however, shows that few young/adult patients will benefit from treatment with the rIGF-I, mecasermin, given the number of adverse effects found. This review focuses on current knowledge mainly related to IGF-I and the use of its recombinant form (rIGF-I) in clinical practice. Several functions of IGI-II have been elucidated but their clinical significance is unclear."
+  },
+  {
+   "pmid": "18481900",
+   "titel": "Mecasermin",
+   "jahr": "2008",
+   "journal": "BioDrugs",
+   "erstautor": "Keating GM",
+   "doi": "10.2165/00063030-200822030-00004",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Mecasermin (recombinant human insulin-like growth factor-I [IGF-I]) is approved in the US for the long-term treatment of growth failure in children with severe primary IGF-I deficiency or with growth hormone (GH) gene deletion who have developed neutralizing antibodies to GH, and in the EU for the long-term treatment of growth failure in children and adolescents with severe primary IGF-I deficiency. Subcutaneous mecasermin 0.12 mg/kg twice daily stimulated linear growth in children with growth failure and severe IGF-I deficiency associated with GH insensitivity, according to the results of a noncomparative, multicenter trial (n = 76) [mean duration of therapy 4.4 years; range 0.04-12.5 years]. During the first year of treatment, height velocity significantly increased from a mean 2.8 cm/year at baseline to a mean 8.0 cm/year; mean growth velocities remained above baseline for up to 8 years. Mecasermin also promoted statural growth in a small noncomparative trial in children with growth failure and GH insensitivity syndrome (n = 8). After 6.5-7.5 years of mecasermin therapy, the mean increase in the height standard deviation score was +1.4. Mecasermin was also shown to have beneficial effects in various other conditions including diabetes mellitus and anorexia nervosa. Subcutaneous mecasermin was generally well tolerated in children with severe IGF-I deficiency associated with GH insensitivity."
+  },
+  {
+   "pmid": "11096733",
+   "titel": "Amyotrophic Lateral Sclerosis",
+   "jahr": "2000",
+   "journal": "Curr Treat Options Neurol",
+   "erstautor": "Demaerschalk BM",
+   "doi": "10.1007/s11940-000-0020-3",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "More than a century after its initial clinicopathologic description, amyotrophic lateral sclerosis (ALS) remains a largely fatal, progressive neurodegenerative disorder for which few efficacious pharmacotherapies with an impact directly on the natural course of the illness exist. The only currently approved therapy, the antiglutamatergic agent riluzole, has been shown to have only a marginal survival benefit in the absence of changes in functional assessments during the disease course. The efficacy of recombinant human insulin-like growth factor (rhIGF-1) remains controversial. In light of this, the primary focus of treatment for individuals with ALS remains symptomatic, through a multidisciplinary team approach including physicians, nurses, speech/language pathologists, physical therapists, occupational therapists, dietitians, social workers, and respiratory therapists."
+  },
+  {
+   "pmid": "15319815",
+   "titel": "Gateways to clinical trials",
+   "jahr": "2004",
+   "journal": "Methods Find Exp Clin Pharmacol",
+   "erstautor": "Bayes M",
+   "doi": "",
+   "typ": [
+    "Bibliography",
+    "Journal Article"
+   ],
+   "abstract": "Gateways to Clinical Trials is a guide to the most recent clinical trials in current literature and congresses. The data in the following tables has been retrieved from the Clinical Studies Knowledge Area of Prous Science Integrity, the drug discovery and development portal, http://integrity.prous.com. This issue focuses on the following selection of drugs: 101M; Adalimumab, adefovir dipivoxil, adenosine triphosphate, albumin interferon alfa, alefacept, alemtuzumab, aminolevulinic acid hexyl ester, autologous renal tumor vaccine, azimilide hydrochloride; Bortezomib, bosentan, BR-1; C340, cantuzumab mertansine, caspofungin acetate, CGP-36742, CHAMPION everolimus-eluting coronary stent, cypher; Dalbavancin, darbepoetin alfa, desloratadine, duloxetine hydrochloride, dutasteride; Efalizumab, emtricitabine, enfuvirtide, erlosamide, ertapenem sodium, everolimus, ezetimibe; Flesinoxan hydrochloride, fosamprenavir calcium, FR-901228, frovatriptan; Gadofosveset sodium, gadomer-17, galiximab, gamma-hydroxybutyrate sodium, gefitinib; HuOKT3gamma1(Ala234-Ala235); IDN-6556, imatinib mesylate, iodine (I131) tositumomab, iseganan hydrochloride, ixabepilone; Keratinocyte growth factor; LB-80380, levocetirizine, liposomal doxorubicin, LMB-9, lopinavir, lopinavir/ritonavir, lumiracoxib, lurtotecan; Mecasermin, midostaurin, morphine hydrochloride; Natalizumab, nelfinavir, nesiritide, niacin/lovastatin; Olcegepant, omalizumab, oregovomab; Parecoxib sodium, PEG-filgrastim, peginterferon alfa-2a, peginterferon alfa-2b, peginterferon alfa-2b/ ribavirin, perospirone hydrochloride, pexelizumab, pimecrolimus, prinomastat; Resiquimod, rhIGFBP-3, rhIGF-I/rhIGFBP-3, ritanserin, ro-31-7453, rosuvastatin calcium; SCIO-469, SDZ-SID-791, SU-11248, suberanilohydroxamic acid; Tadalafil, taxus, telithromycin, tenofovir disoproxil fumarate, TER-286, tezosentan disodium, TH-9507, tipifarnib, tipranavir, tolvaptan, tramadol hydrochloride/acetaminophen, travoprost, treprostinil sodium, tucaresol; Valganciclovir hydrochloride, val-mCyd, vardenafil hydrochloride hydrate, vinflunine, voriconazole; Ximelagatran, XTL-002; Yttrium 90 (90Y) ibritumomab tiuxetan."
+  },
+  {
+   "pmid": "16801985",
+   "titel": "Gateways to clinical trials",
+   "jahr": "2006",
+   "journal": "Methods Find Exp Clin Pharmacol",
+   "erstautor": "Bayés M",
+   "doi": "",
+   "typ": [
+    "Bibliography",
+    "Journal Article"
+   ],
+   "abstract": "Gateways to Clinical Trials are a guide to the most recent clinical trials in current literature and congresses. The data in the following tables have been retrieved from the Clinical Trials Knowledge Area of Prous Science Integrity, the drug discovery and development portal, http://integrity.prous.com/. This issue focuses on the following selection of drugs: Adalimumab, adenosine triphosphate, alemtuzumab, alendronate sodium/cholecalciferol, aliskiren fumarate, AMGN-0007, aminolevulinic acid methyl ester, anakinra, anidulafungin, aripiprazole, atomoxetine hydrochloride; Bevacizumab, bosentan; Calcipotriol/beta methasone dipropionate, caldaret hydrate, caspofungin acetate, cetuximab, cinacalcet hydrochloride, clopidogrel, cocaine-BSA conjugate, conivaptan hydrochloride, Cypher; Darbepoetin alfa, delmitide, desloratadine, desmoteplase, desoxyepothilone B, disufenton sodium, DU-176b, duloxetine hydrochloride, dutasteride; EBV-specific CTLs, ecogramostim, edodekin alfa, efalizumab, eletriptan, emtricitabine, entecavir, erlotinib hydrochloride, ertapenem sodium, escitalopram oxalate, etoricoxib, everolimus, ezetimibe; Fanapanel, fondaparinux sodium; Gefitinib, GTI-2040, GW-501516; Her2 E75-peptide vaccine, human insulin; Ibogaine, icatibant acetate, Id-KLH vaccine, imatinib mesylate, immune globulin subcutaneous [human], indacaterol, inolimomab, ipilimumab, i.v. gamma-globulin, ivabradine hydrochloride, ixabepilone; Lacosamide, lanthanum carbonate, lenalidomide, levocetirizine, levodopa methyl ester hydrochloride/carbidopa, levodopa/carbidopa/entacapone, lidocaine/prilocaine; Maraviroc, mecasermin, melevodopa hydrochloride, mepolizumab, mitumomab; Nesiritide; Omalizumab, oral insulin; Parathyroid hormone (human recombinant), patupilone, pegaptanib sodium, PEG-filgrastim, pemetrexed disodium, photochlor, pimecrolimus, posaconazole, prasterone, prasugrel, pregabalin, prilocaine, PRX-00023; QS-21; Ranibizumab, ranirestat, rhodamine 123, rotigaptide; Sarcosine, sirolimus-eluting stent, sitaxsentan sodium, solifenacin succinate, Staphylococcus aureus vaccine; Tadalafil, talactoferrin alfa, talaporfin sodium, Taxus, tecadenoson, tegaserod maleate, telithromycin, temsirolimus, tenofovir disoproxil fumarate, teriparatide, terutroban sodium, tesaglitazar, tesmilifene hydrochloride, TG-100115, tigecycline, torcetrapib; Ularitide; Valproic acid, sodium, voriconazole; Zotarolimus, zotarolimus-eluting stent."
+  },
+  {
+   "pmid": "19663134",
+   "titel": "Allergic reaction to mecasermin",
+   "jahr": "2009",
+   "journal": "Ann Allergy Asthma Immunol",
+   "erstautor": "Metz KA",
+   "doi": "10.1016/S1081-1206(10)60150-0",
+   "typ": [
+    "Case Reports",
+    "Letter"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "29695048",
+   "titel": "Mecasermin in Insulin Receptor-Related Severe Insulin Resistance Syndromes: Case Report and Review of the Literature",
+   "jahr": "2018",
+   "journal": "Int J Mol Sci",
+   "erstautor": "Plamper M",
+   "doi": "10.3390/ijms19051268",
+   "typ": [
+    "Case Reports",
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Mutations in the insulin receptor (INSR) gene underlie rare severe INSR-related insulin resistance syndromes (SIR), including insulin resistance type A, Rabson⁻Mendenhall syndrome and Donohue syndrome (DS), with DS representing the most severe form of insulin resistance. Treatment of these cases is challenging, with the majority of DS patients dying within the first two years of life. rhIGF-I (mecasermin) has been reported to improve metabolic control and increase lifespan in DS patients. A case report and literature review were completed. We present a case involving a male patient with DS, harbouring a homozygous mutation in the INSR gene (c.591delC). Initial rhIGF-I application via BID (twice daily) injection was unsatisfactory, but continuous subcutaneous rhIGF-I infusion via an insulin pump improved weight development and diabetes control (HbA1c decreased from 10 to 7.6%). However, our patient died at 22 months of age during the course of a respiratory infection in in Libya. Currently available data in the literature comprising more than 30 treated patients worldwide seem to support a trial of rhIGF-I in SIR. rhIGF-I represents a treatment option for challenging SIR cases, but careful consideration of the therapeutic benefits and the burden of the disease is warranted. Continuous application via pump might be advantageous compared to single injections."
+  },
+  {
+   "pmid": "36479333",
+   "titel": "Mecasermin for primary insulin-like growth factor-1 deficiency",
+   "jahr": "2022",
+   "journal": "Aust Prescr",
+   "erstautor": "",
+   "doi": "10.18773/austprescr.2022.077",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "15538546",
+   "titel": "Gateways to clinical trials",
+   "jahr": "2004",
+   "journal": "Methods Find Exp Clin Pharmacol",
+   "erstautor": "Bayes M",
+   "doi": "",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Gateways to Clinical Trials is a guide to the most recent clinical trials in current literature and congresses. The data in the following tables has been retrieved from the Clinical Trials Knowledge Area of Prous Science Integrity, the drug discovery and development portal, http://integrity.prous.com. This issue focuses on the following selection of drugs: 101M, 166Ho-DOTMP, 3-AP; Abatacept, abetimus sodium, ACR-16, adefovir dipivoxil, alefacept, AMD-070, aminolevulinic acid hexyl ester, anatumomab mafenatox, anti-CTLA-4 MAb, antigastrin therapeutic vaccine, AP-12009, AP-23573, APC-8024, aripiprazole, ATL-962, atomoxetine hydrochloride; Bevacizumab, bimatoprost, bortezomib, bosentan, BR-1; Calcipotriol/betamethasone dipropionate, cinacalcet hydrochloride, clofazimine, colchicine, cold-adapted influenza vaccine trivalent, CRM197; Desloratadine, desoxyepothilone B, diethylhomospermine; Edodekin alfa, efalizumab, elcometrine, eletriptan, enfuvirtide, entecavir, EP-2101, eplerenone, erlotinib hydrochloride, etoricoxib, everolimus, exherin, ezetimibe; Febuxostat, fluorescein lisicol, fosamprenavir calcium, frovatriptan; Hemoglobin raffimer, HSPPC-96, human insulin; Imatinib mesylate, insulin detemir, insulin glargine, IRX-2, istradefylline, IV gamma-globulin, ixabepilone; Kahalalide F; L-759274, levodopa/carbidopa/entacapone, licofelone, lonafarnib, lopinavir, lurtotecan, LY-156735; MAb G250, mecasermin, melatonin, midostaurin, muraglitazar; Nesiritide, nitronaproxen; O6-Benzylguanine, olmesartan medoxomil, olmesartan medoxomil/hydrochlorothiazide, omapatrilat, oral insulin; Parecoxib sodium, PCK-3145, peginterferon alfa-2a, peginterferon alfa-2b, peginterferon alfa-2b/ ribavirin, pemetrexed disodium, peptide YY3-36, PG-CPT, phenoxodiol, pimecrolimus, posaconazole; Rasagiline mesilate, rDNA insulin, RG228, rimonabant hydrochloride, rosuvastatin calcium, rotigotine hydrochloride; S-3304, safinamide mesilate, salcaprozic acid sodium salt, SDZ-SID-791, SGN-30, soblidotin, squalamine; Telmisartan/hydrochlorothiazide, testosterone gel, TF(c)-KLH conjugate vaccine, TH-9507, theraloc, tipifarnib, tocilizumab, travoprost; ValboroPro, valdecoxib, veglin, voriconazole; Ximelagatran."
+  },
+  {
+   "pmid": "17136234",
+   "titel": "Gateways to clinical trials",
+   "jahr": "2006",
+   "journal": "Methods Find Exp Clin Pharmacol",
+   "erstautor": "Bayés M",
+   "doi": "",
+   "typ": [
+    "Bibliography",
+    "Journal Article"
+   ],
+   "abstract": "Gateways to Clinical Trials are a guide to the most recent clinical trials in current literature and congresses. The data the following tables have been retrieved from the Clinical Trials Knowledge Area of Prous Science Integrity, the drug discovery and development portal, http://integrity.prous.com. This issues focuses on the following selection of drugs: (-)-Epigallocatechin gallate, (-)-gossypol, 2-deoxyglucose, 3,4-DAP, 7-monohydroxyethylrutoside; Ad5CMV-p53, adalimumab, adefovir dipivoxil, ADH-1, alemtuzumab, aliskiren fumarate, alvocidib hydrochloride, aminolevulinic acid hydrochloride, aminolevulinic acid methyl ester, amrubicin hydrochloride, AN-152, anakinra, anecortave acetate, antiasthma herbal medicine intervention, AP-12009, AP-23573, apaziquone, aprinocarsen sodium, AR-C126532, AR-H065522, aripiprazole, armodafinil, arzoxifene hydrochloride, atazanavir sulfate, atilmotin, atomoxetine hydrochloride, atorvastatin, avanafil, azimilide hydrochloride; Bevacizumab, biphasic insulin aspart, BMS-214662, BN-83495, bortezomib, bosentan, botulinum toxin type B; Caspofungin acetate, cetuximab, chrysin, ciclesonide, clevudine, clofarabine, clopidogrel, CNF-1010, CNTO-328, CP-751871, CX-717, Cypher; Dapoxetine hydrochloride, darifenacin hydrobromide, dasatinib, deferasirox, dextofisopam, dextromethorphan/quinidine sulfate, diclofenac, dronedarone hydrochloride, drotrecogin alfa (activated), duloxetine hydrochloride, dutasteride; Edaravone, efaproxiral sodium, emtricitabine, entecavir, eplerenone, epratuzumab, erlotinib hydrochloride, escitalopram oxalate, etoricoxib, ezetimibe, ezetimibe/simvastatin; Finrozole, fipamezole hydrochloride, fondaparinux sodium, fulvestrant; Gabapentin enacarbil, gaboxadol, gefitinib, gestodene, ghrelin (human); Human insulin, human papillomavirus vaccine; Imatinib mesylate, immunoglobulin intravenous (human), indiplon, insulin detemir, insulin glargine, insulin glulisine, intranasal insulin, istradefylline, i.v. gamma-globulin, ivabradine hydrochloride, ixabepilone; LA-419, lacosamide, landiolol, lanthanum carbonate, lidocaine/prilocaine, liposomal cisplatin, lutropin alfa; Matuzumab, MBP(82-98), mecasermin, MGCD-0103, MMR-V, morphine hydrochloride, mycophenolic acid sodium salt; Natalizumab, NCX-4016, neridronic acid, nesiritide, nilotinib, NSC-330507; O6-benzylguanine, olanzapine/fluoxetine hydrochloride, omalizumab; Panitumumab, parathyroid hormone (human recombinant), parecoxib sodium, PEG-filgrastim, peginterferon alfa-2a, peginterferon alfa-2b, pegvisomant, pemetrexed disodium, perospirone hydrochloride, pexelizumab, phorbol 12-myristate 13-acetate, pneumococcal 7-valent conjugate vaccine, posaconazole, pramiconazole, prasugrel, pregabalin, prilocaine; rAAV-GAD65, raclopride, rasagiline mesilate, retapamulin, rosuvastatin calcium, rotigotine, rufinamide; SarCNU, SB-743921, SHL-749, sirolimus-eluting stent, sitaxsentan sodium, sorafenib; TachoSil, tadalafil, talampanel, Taxus, tegaserod maleate, telithromycin, telmisartan/hydrochlorothiazide, temsirolimus, tenatoprazole, teriflunomide, tetrathiomolybdate, ticilimumab, timcodar dimesilate, tipifarnib, tirapazamine, TPI, tramiprosate, trifluridine/TPI, trimethoprim; Ularitide, Urocortin 2; Valdecoxib, valganciclovir hydrochloride, valproate magnesium, valspodar, vardenafil hydrochloride hydrate, vitespen, vofopitant hydrochloride, volociximab, vorinostat; Yttrium 90 (90Y) ibritumomab tiuxetan; Ziprasidone hydrochloride, zotarolimus, zotarolimus-eluting stent."
+  },
+  {
+   "pmid": "20094643",
+   "titel": "Gateways to clinical trials",
+   "jahr": "2009",
+   "journal": "Methods Find Exp Clin Pharmacol",
+   "erstautor": "Tomillero A",
+   "doi": "",
+   "typ": [
+    "Bibliography",
+    "Journal Article"
+   ],
+   "abstract": "Abacavir sulfate/lamivudine, Adalimumab, AdCD40L, Adefovir, Adefovir dipivoxil, Ambrisentan, Amlodipine, Amlodipine besylate/olmesartan medoxomil, AN-2728, Apixaban, Aripiprazole, Armodafinil, Atazanavir sulfate, Atomoxetine hydrochloride, Atrasentan, Azacitidine, Bevacizumab, Blinatumomab, Bortezomib, Bosentan, Carfilzomib, Caspofungin acetate, Cediranib, Cetuximab, Choriogonadotropin alfa, Clevudine, Clindamycin phosphate/benzoyl peroxide, Clofarabine, Daidzeol, Darunavir, Dasatinib, Decitabine, Deferasirox, Deforolimus, Degarelix acetate, Denenicokin, Dexlansoprazole, Duloxetine hydrochloride, Elacytarabine, Enfuvirtide, Enoxaparin, Entecavir, Eribulin mesilate, Erlotinib hydrochloride, Escitalopram oxalate, Eslicarbazepine acetate, Eszopiclone, Etravirine, Ezetimibe/simvastatin, Forodesine hydrochloride, Fosamprenavir calcium, Gefitinib, Gemtuzumab ozogamicin, Golimumab, Imatinib mesylate, Imetelstat, Insulin gl'argine, Insulin glulisine, Interferon alfa-2b XL, Ivabradine hydrochloride, Lacosamide, Lenalidomide, Lintuzumab, Liposomal adriamycin, Liposomal belotecan, Liposome-encapsulated fentanyl, Lopinavir/ritonavir, Lutropin alfa, LY-207320, Maraviroc, Mecasermin, MKC-253, MP-470, NGR-TNF, Nilotinib hydrochloride monohydrate, Ofatumumab, Olmesartan medoxomil, Omacetaxine mepesuccinate, PAN-811, Panobinostat, Pegfilgrastim, Peginterferon alfa-2a, Peginterferon alfa-2b, Peginterferon alfa-2b/ribavirin, Pemetrexed disodium, Perospirone hydrochloride, PF-734200, Phentermine/topiramate, Pimecrolimus, Pitavastatin calcium, Plerixafor hydrochloride, Pregabalin, Raltegravir potassium, Ramelteon, Ranibizumab, Recombinant Bet V1, Recombinant human insulin, Regadenoson, rhITF, Romidepsin, Rosuvastatin calcium, Ruboxistaurin hydrochloride, Rufinamide, Sapropterin dihydrochloride Saracatinib, SB-73, SC-599, Seliciclib, Sirolimus-eluting stent, Sorafenib, Sunitinib malate, Tadalafil, Tanespimycin, Tapentadol hydrochloride, Tegaserod maleate, Telbivudine, Tenofovir disoproxil fumarate, Tenofovir disoproxil fumarate/emtricitabine, Tenofovir disoproxil fumarate/emtricitabine/efavirenz, Ticlopidine hydrochloride, Tigecycline, TST-10088, Tularemia vaccine, Valsartan/amlodipine besylate, Vandetanib, Vardenafil hydrochloride hydrate, Vincristine, Vorinostat, Yttrium 90 (90Y) ibritumomab tiuxetan."
+  },
+  {
+   "pmid": "41174329",
+   "titel": "Mecasermin for the treatment of Rett Syndrome: a systematic review",
+   "jahr": "2025",
+   "journal": "Neurogenetics",
+   "erstautor": "Ribeiro FCP",
+   "doi": "10.1007/s10048-025-00860-5",
+   "typ": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "abstract": "Mecasermin, a recombinant analogue of insulin‑like growth factor 1 (IGF‑1), is under investigation as a potential therapy for Rett syndrome (RTT), a neurodevelopmental disorder resulting from mutations in the MECP2 gene. In this systematic review, we assessed the impact of mecasermin on the full spectrum of RTT severity by screening relevant clinical studies identified through MeSH‑based database queries. Evidence indicates that IGF‑1 administration may help preserve social engagement and cognitive function in RTT, although autonomic control and behavioral outcomes have been inconsistent, and electroencephalographic alterations display considerable heterogeneity. Moreover, transcriptomic analyses have uncovered discrete gene‑expression signatures in molecularly defined patient subgroups, suggesting that genetic background modulates therapeutic response. These findings highlight the promise of mecasermin for ameliorating specific RTT features while underscoring the necessity of larger, rigorously designed trials to refine treatment regimens and implement stratified, patient‑specific approaches."
+  },
+  {
+   "pmid": "20448862",
+   "titel": "Gateways to clinical trials",
+   "jahr": "2010",
+   "journal": "Methods Find Exp Clin Pharmacol",
+   "erstautor": "Tomillero A",
+   "doi": "10.1358/mf.2010.32.3.1492017",
+   "typ": [
+    "Bibliography",
+    "Journal Article"
+   ],
+   "abstract": "Adefovir dipivoxil, Alemtuzumab, Aliskiren fumarate, AMA1-C1/alhydrogel, Amlodipine besylate/atorvastatin calcium, Aripiprazole, Artesunate/amodiaquine, Asenapine maleate; Bosentan, Brivaracetam; Carisbamate, Clevudine, Clofarabine, Corticorelin acetate; Dasatinib; Elinogrel potassium, Entecavir, Erlotinib hydrochloride, Eslicarbazepine acetate, Etazolate; Fampridine, Fluarix, Fondaparinux sodium, Fulvestrant; Gabapentin enacarbil, GDC-0941, GI-5005, Golimumab; Imatinib mesylate, Lacosamide, Lapatinib ditosylate, Levetiracetam, Liraglutide, LOLA; Mecasermin, Morphine hydrochloride; Natalizumab, Nilotinib hydrochloride monohydrate; Olmesartan medoxomil, Omacetaxine mepesuccinate; Paclitaxel-eluting stent, Peginterferon alfa-2a, Peginterferon alfa-2b, Pemetrexed disodium, Poly I:CLC, Pralatrexate, Pregabalin; Ranolazine, Rasagiline mesilate, Retigabine hydrochloride, Rhenium Re-186 etidronate, Rosuvastatin calcium, Rotigotine, RTL-1000, Rufinamide; Sirolimus-eluting coronary stent, Sirolimus-eluting stent, Sorafenib, Stiripentol; Tiotropium bromide; Valsartan/amlodipine besylate, Varenicline tartrate; XL-184; Zoledronic acid monohydrate."
+  },
+  {
+   "pmid": "23087870",
+   "titel": "Too short and too poor: A tale of two siblings",
+   "jahr": "2012",
+   "journal": "Indian J Endocrinol Metab",
+   "erstautor": "Balaji L",
+   "doi": "10.4103/2230-8210.100633",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Two short siblings who were brought for evaluation of short stature are described with emphasis on availability of resources in the diagnosis and management of the cause of short stature in them."
+  },
+  {
+   "pmid": "26339260",
+   "titel": "Recombinant production of mecasermin in E. coli expression system",
+   "jahr": "2014",
+   "journal": "Res Pharm Sci",
+   "erstautor": "Jafari S",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Human Insulin-like growth factor 1 (hIGF-1) consists of 70 amino acids in a single chain with three intermolecular disulfide bridges possessing valuable therapeutic effects. To date, numerous variants of specifically engineered hIGF-1 have been produced so as to improve hIGF-1 biological activity, stability and stronger binding to IGF-1 receptor. Mecasermin is one of the modified variants with one amino acid substitution near the N-terminal (T4I) approved for the treatment of growth failure diabetes, wound healing, amyotrophic lateral sclerosis and severe primary IGF-1 deficiency. No scientific report for recombinant production of mecasermin in Escherichia coli (E. coli) expression system has been sofar reported. In the present study, we therefore investigated the overexpression of mecasermin in two different E. coli strains in order to obtain higher yield of recombinant protein. To achieve this goal, mecasermin DNA encoding sequence was designed based on polypeptide sequence, optimized according to E. coli codon preference, and cloned in pET15b. Recombinant vector, pET15-mecasermin, transferred into two E. coli strains rigami B (DE3) and BL21 (DE3) and induced for expression in a small scale. Results revealed the E. coli Origami B (DE3) expression system was a preferable host for mecasermin production due to its high expression level being around twice as much as BL21 (DE3). Large scale mecasermin production was performed in batch culture and produced recombinant protein specifically confirmed by western blotting and mass spectroscopy. Since major part of recombinant mecasermin was expressed as inclusion body, isolation and refolding was accomplished through developed purification procedure, and finally recombinant protein was successfully purified by gel filtration chromatography."
+  },
+  {
+   "pmid": "10576957",
+   "titel": "USAN Council. List No. 419. New names. Mecasermin",
+   "jahr": "1999",
+   "journal": "Clin Pharmacol Ther",
+   "erstautor": "",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "16610982",
+   "titel": "Efficacy and safety of mecasermin rinfabate",
+   "jahr": "2006",
+   "journal": "Expert Opin Biol Ther",
+   "erstautor": "Kemp SF",
+   "doi": "10.1517/14712598.6.5.533",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "There has been interest in using recombinant human (rh) insulin-like growth factor (IGF)-I (rhIGF-I) to treat short stature, either alone or in combination with its binding protein (insulin-like growth factor binding protein [IGFBP]-3). IGF-I has been shown to increase growth velocity in children with IGF deficiency, either as a result of growth hormone insensitivity syndrome (GHIS) or IGF gene deletion. However, there have been adverse events, particularly hypoglycaemia, reported with administration of unbound rhIGF-I. In addition, the serum half-life of unbound rhIGF-I is shorter when administered to patients with GHIS, who have low serum concentrations of its binding proteins IGFBP-3 and acid-labile subunit (ALS), than when administered to normal volunteers or to the patient with an IGF-I gene deletion (who had normal levels of IGFBP-3). iPlex (mecasermin rinfabate), an equimolar mixture of IGF-I and its binding protein IGFBP-3, was developed to prolong the half-life and to counteract acute adverse events (particularly hypoglycaemia) associated with administration of IGF-I. Although there are no published data on the efficacy of mecasermin rinfabate in treating growth disorders, it does appear that mecasermin rinfabate has a longer half-life in patients with GHIS than unbound IGF-I, and fewer reports of adverse events (including hypoglycaemia) when administered to patients with diabetes."
+  },
+  {
+   "pmid": "23392102",
+   "titel": "Phenotypes, investigation and treatment of primary IGF-1 deficiency",
+   "jahr": "2013",
+   "journal": "Endocr Dev",
+   "erstautor": "Savage MO",
+   "doi": "10.1159/000342578",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "GH insensitivity, also known as primary IGF-1 deficiency (PIGFD), presents as growth failure, and in its severe form is associated with dysmorphic and metabolic abnormalities. PIGFD is caused by genetic defects in the GH-IGF-1 axis. The field of PIGFD due to mutations affecting GH action has evolved since the original description of the extreme phenotype related to homozygous GH receptor mutations over 40 years ago. A continuum of genetic, phenotypic, and biochemical abnormalities can be defined associated with clinically relevant defects in linear growth. A systematic protocol of investigation assessing Gh secretion and the IGF system will lead to a diagnosis of PIGFD. PIGFD can be effectively treated with rhIGF-1, the optimal recommended maintenance dose being 120 µg/kg twice daily by SC injection. Most therapeutic experience is in severely affected patients with the Laron syndrome phenotype, who show growth acceleration and may reach normal adult height. Further controlled studies are needed in more mildly affected subjects."
+  },
+  {
+   "pmid": "19198769",
+   "titel": "Mecasermin (recombinant human insulin-like growth factor I)",
+   "jahr": "2009",
+   "journal": "Adv Ther",
+   "erstautor": "Rosenbloom AL",
+   "doi": "10.1007/s12325-008-0136-5",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Growth hormone (GH) exercises its growth effects by stimulating insulin-like growth factor I (IGF-I) synthesis in the liver (endocrine IGF-I) and by inducing chondrocyte differentiation/replication and local production of IGF-I (paracrine/autocrine IGF-I). Injectable recombinant human (rh)IGF-I (mecasermin) has been available for nearly 20 years for treatment of the rare instances of GH insensitivity caused by GH receptor defects or GH-inhibiting antibodies. Full restoration of normal growth, as occurs with rhGH replacement of GH deficiency, is not seen, presumably because only the endocrine deficiency is addressed. RhIGF-I has also been effective as an insulin-sensitizing agent in severe insulin-resistant conditions. Although the insulin-sensitizing effect may benefit both type 1 and type 2 diabetes, there are no ongoing clinical trials because of concern about risk of retinopathy and other complications. Promotion of rhIGF-I for treatment of idiopathic short stature has been intensive, with neither data nor rationale suggesting that there might be a better response than has been documented with rhGH. Other applications that have either been considered or are undergoing clinical trial are based on the ubiquitous tissue-building properties of IGF-I and include chronic liver disease, cystic fibrosis, wound healing, AIDS muscle wasting, burns, osteoporosis, Crohn's disease, anorexia nervosa, Werner syndrome, X-linked severe combined immunodeficiency, Alzheimer's disease, muscular dystrophy, amyotrophic lateral sclerosis, hearing loss prevention, spinal cord injury, cardiovascular protection, and prevention of retinopathy of prematurity. The most frequent side effect is hypoglycemia, which is readily controlled by administration with meals. Other common adverse effects involve hyperplasia of lymphoid tissue, which may require tonsillectomy/adenoidectomy, accumulation of body fat, and coarsening of facies. The anti-apoptotic properties of IGF-I are implicated in cancer pathogenesis-a concern for long-term therapy. It is unlikely that mecasermin will be useful beyond the orphan indications of severe insulin resistance and GH insensitivity."
+  },
+  {
+   "pmid": "22986916",
+   "titel": "Postprandial hyperglycemia corrected by IGF-I (Increlex®) in Laron syndrome",
+   "jahr": "2012",
+   "journal": "Horm Res Paediatr",
+   "erstautor": "Latrech H",
+   "doi": "10.1159/000339158",
+   "typ": [
+    "Case Reports",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Laron syndrome is caused by a mutation in the growth hormone (GH) receptor and manifests as insulin-like growth factor-I (IGF-I) deficiency, severe short stature, and early hypoglycemia. We report a case with postprandial hyperglycemia, an abnormality not reported previously. Postprandial hyperglycemia was due to chronic IGF-I deficiency, and was reversed by IGF-I replacement therapy. METHODS: A Moroccan girl referred for short stature at 7 years and 8 months of age had dwarfism [height, 78 cm (-9 SDs); weight, 10 kg (-4 SDs)], hypoglycemia, and truncal obesity. Her serum IGF-I level was very low, and her baseline serum GH level was elevated to 47 mIU/l. Molecular analysis showed a homozygous mutation in the GH receptor gene. RESULTS: Continuous glucose monitoring before treatment showed asymptomatic hypoglycemia with postprandial hyperglycemia (2.5 g/l, 13.75 mmol/l). Treatment with recombinant human IGF-I (mecasermin, Increlex®) was started. The blood glucose profile improved with 0.04 µg/kg/day and returned to normal with 0.12 µg/kg/day. CONCLUSION: Postprandial hyperglycemia is a metabolic consequence of chronic IGF-I deficiency. The beneficial effect of IGF-I replacement therapy may be ascribable to improved postprandial transfer of glucose."
+  },
+  {
+   "pmid": "31982729",
+   "titel": "Therapy with recombinant human IGF-1 for children with primary insulin-like growth factor-I deficiency",
+   "jahr": "2020",
+   "journal": "Growth Horm IGF Res",
+   "erstautor": "Backeljauw P",
+   "doi": "10.1016/j.ghir.2020.01.001",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The efficacy and safety of IGF-1 therapy in patients with severe primary IGF-I deficiency has been evaluated for more than two decades. Most of the therapeutic experience comes from treating the more severe IGF-I deficient patients, who usually present with a phenotype characteristic of growth hormone receptor deficiency or Laron syndrome. Although most of these patients do not experience enough catchup growth to bring their height into normal range, many individuals achieve an adult height significantly greater than what would have been predicted in the absence of IGF-1 therapy. In the last couple of years a few reports on the benefit of IGF-1 therapy for patients with milder types of IGF-I deficiency have also been published, with variable height outcomes. More short children with prior diagnosis of idiopathic short stature are now being diagnosed with specific molecular defects of the growth hormone/IGF-I axis. Because of this, the clinical spectrum of primary IGF-I deficiency is widening to include many patients with such a milder phenotype, creating a need for well-designed long-term clinical studies evaluating the growth response to growth promoting agents such as rhIGF-1 in these individuals."
+  },
+  {
+   "pmid": "18363546",
+   "titel": "Mecasermin rinfabate: rhIGF-I/rhIGFBP-3 complex: iPLEX",
+   "jahr": "2008",
+   "journal": "Expert Opin Drug Metab Toxicol",
+   "erstautor": "Williams RM",
+   "doi": "10.1517/17425255.4.3.311",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "BACKGROUND: Mecasermin rinfabate (iPLEX), comprising rhIGF-I complexed to rhIGFBP-3, was developed in an attempt to prolong the half-life of IGF-I and potentially reduce side effects. It is administered as a once-daily subcutaneous injection. Treatment with rhIGF-I has been explored in a number of growth and endocrine disorders. OBJECTIVE: To review the published literature regarding the pharmacokinetics, safety profile and clinical efficacy of Mecasermin rinfabate. METHODS: A comprehensive search via the NCBI PubMed portal was performed using the search terms rhIGF-I/rhIGFBP-3 complex, iPLEX and Somatokine. RESULTS: The effects of Mecasermin rinfabate have been explored in a number of clinical situations including diabetes, severe insulin resistance, osteopaenia, burns and growth hormone insensitivity syndrome, with outcomes similar to those of rhIGF-I alone. CONCLUSIONS: The biological effects of Mecasermin rinfabate are largely similar to those previously reported with rhIGF-I. There are little published data pertaining to pharmacokinetic properties in human subjects, and the side effect profile appears similar to that of rhIGF-I alone."
+  },
+  {
+   "pmid": "26779275",
+   "titel": "The effect of cell disruption techniques and chaotropic agents on the downstream purification process of mecasermin produced as inclusion body in E. coli",
+   "jahr": "2015",
+   "journal": "Res Pharm Sci",
+   "erstautor": "Haddad L",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The isolation of the target protein from inclusion bodies (IBs) is a preliminary step to increase protein titer and to maintain its biological activity. In the present study, the effects of various cell lysis methods and the expression temperature was investigated on the improvement of the subsequent purification steps of mecasermin produced in IB. We also investigated the solubilization profile of the top-notch IB in 6 M guanidine hydrochloride (Gdn-HCl) and 8 M urea at different pH ranges. Mecasermin was expressed at various temperatures (25, 28, 30, and 37 °C) and the Escherichia coli cells were lysed by different cell lysis methods. The purity and quality of harvested IBs was evaluated with sodium dodecyl sulfate polyacrylamide gel electrophoresis (SDS-PAGE). Finally, mecasermin was refolded and purified using gel filtration chromatography. The profile of SDS-PAGE analysis showed higher quality and purity after application of sonication coupled with lysozyme pretreatment for expressed mecasermin at 37 °C. Besides, from dithiothreitol application in washing step, we achieved a manifold enriched secondary IB for further purification of mecasermin. Mecasermin exhibited optimized solubility in 6 M Gdn-HCl at pH of 5.4. The findings of this study indicate an important role for cell disruption techniques to efficient purification of mecasermin. The study presents the most efficient techniques for improvement of downstream purification of mecasermin."
+  },
+  {
+   "pmid": "22269647",
+   "titel": "Triple A syndrome in a patient with genetic growth hormone insensitivity: phenotypic effects of two genetic disorders",
+   "jahr": "2012",
+   "journal": "Horm Res Paediatr",
+   "erstautor": "Marín S",
+   "doi": "10.1159/000335235",
+   "typ": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: Primary growth hormone insensitivity (GHI) and triple A syndrome are rare autosomal recessive disorders. CASE REPORT: The patient, a 12-year-old boy from consanguineous parents, was referred for short stature at the age of 7 years (height: -5.4 SD score). He had low serum insulin-like growth factor I (IGF-I) and IGF binding protein 3 and a blunted IGF-I response to recombinant human GH; molecular analysis of the GH receptor disclosed a homozygous A(-1)→G(-1) at the 5' pseudoexon 6Ψ splice site. Recombinant IGF-I therapy (mecasermin, Increlex®, twice daily) initiated at the age of 9 years resulted in an increase of height velocity (HV) from 4.0 to 9.5 cm/year. At the age of 10.5 years, he presented with asthenia, anorexia, weight loss, a decrease in HV and very low cortisol levels; adrenal insufficiency was confirmed and glucocorticoid therapy was initiated. Subsequent peripheral motor neuropathy, achalasia and alacrima raised the suspicion of triple A syndrome, which was confirmed by the presence of a homozygous R194X mutation in the AAAS gene. CONCLUSION: This unusual combination of diseases, to our knowledge, has not been reported to date. Although the patient responded to recombinant IGF-I therapy for GHI, we hypothesize that the treatment could have had an inhibitory effect on 11β-hydroxysteroid dehydrogenase type 1 activity, thereby reducing the availability of cortisol and precipitating adrenal insufficiency."
+  },
+  {
+   "pmid": "33434161",
+   "titel": "Effectiveness and safety of rhIGF1 therapy in patients with or without Laron syndrome",
+   "jahr": "2021",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Bang P",
+   "doi": "10.1530/EJE-20-0325",
+   "typ": [
+    "Journal Article",
+    "Observational Study"
+   ],
+   "abstract": "OBJECTIVE: The European Increlex® Growth Forum Database Registry monitors the effectiveness and safety of recombinant human insulin-like growth factor-1 (rhIGF1; mecasermin, Increlex®) therapy in patients with severe primary IGF1 deficiency (SPIGFD). We present data from patients with and without a reported genetic diagnosis of Laron syndrome (LS). DESIGN: Ongoing, open-label, observational registry (NCT00903110). METHODS: Children and adolescents receiving rhIGF1 therapy from 10 European countries were enrolled in 2008-2017 (n = 242). The treatment-naïve/prepubertal (NPP) cohort (n = 138) was divided into subgroups based on reported genetic diagnosis of LS (n = 21) or non-LS (n = 117). Multivariate analysis of the NPP-non-LS subgroup was conducted to identify factors predictive of growth response (first-year-height standard deviation score (SDS) gain ≥ 0.3). Assessments included change in height and weight over 5 years and adverse events (AEs). RESULTS: Height SDS gain from baseline was greater in the NPP-LS than the NPP-non-LS subgroup after 1 years' treatment (P < 0.05). In the NPP-non-LS subgroup, 56% were responders; young age at baseline was a positive independent predictive factor (P < 0.001). NPP-non-LS-responders and the NPP-LS subgroup had a similar mean age (6.07 years vs 7.00 years) at baseline and height SDS gain in year 1 (0.64 vs 0.70), although NPP-non-LS-responders were taller (P < 0.001) at baseline. BMI SDS changes did not differ across subgroups. Treatment-emergent AEs were experienced by 65.3% of patients; hypoglycaemia was most common. CONCLUSIONS: In most NPP children with SPIGFD, with or without LS, rhIGF1 therapy promotes linear growth. The safety profile was consistent with previous studies."
+  },
+  {
+   "pmid": "37906659",
+   "titel": "",
+   "jahr": "2022",
+   "journal": "",
+   "erstautor": "",
+   "doi": "",
+   "typ": [
+    "Review"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "35259048",
+   "titel": "An experimental approach to comprehend the influence of platelet rich growth factors on spermatogenesis",
+   "jahr": "2022",
+   "journal": "Int J Radiat Biol",
+   "erstautor": "Demyashkin GA",
+   "doi": "10.1080/09553002.2022.2047820",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "MATERIALS AND METHODS: Experimental animals (n = 135) were divided into 5 groups: I - control (n = 10); II - 2IR (n = 35; 2 Gy); III - 2IR + LP-PRP + IGF-1 (n = 30); IV - 2IR + LP-PRP (n = 30); V - LP-PRP (n = 30). RESULTS: Electron irradiation reduces the number of germ cells in comparison with the control group. After injection of LP-PRP + rhIGF-1 significantly increased the number of germ cells, Sertoli and Leydig cells, the height of germinal epithelium, area and diameter of seminiferous tubules. CONCLUSION: LP-PRP + rhIGF-1 has a normalizing effect on structural and functional disorders of the testis caused by electron irradiation."
+  },
+  {
+   "pmid": "18556970",
+   "titel": "Anaphylactic reaction to recombinant insulin-like growth factor-I",
+   "jahr": "2008",
+   "journal": "J Pediatr Endocrinol Metab",
+   "erstautor": "Torjusen E",
+   "doi": "10.1515/jpem.2008.21.4.381",
+   "typ": [
+    "Case Reports",
+    "Letter"
+   ],
+   "abstract": "Mecasermin [rDNA] (Increlex; Tercica, Inc.) is recombinant insulin-like growth factor-I (IGF-I) that has been approved to treat growth failure in children with severe primary IGF-I deficiency. Serious allergic reactions related to Increlex therapy have not been reported. We report a 13 year-old male who developed life-threatening anaphylaxis early in the course of Increlex therapy."
+  },
+  {
+   "pmid": "34791112",
+   "titel": "Region-Specific KCC2 Rescue by rhIGF-1 and Oxytocin in a Mouse Model of Rett Syndrome",
+   "jahr": "2022",
+   "journal": "Cereb Cortex",
+   "erstautor": "Gigliucci V",
+   "doi": "10.1093/cercor/bhab388",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Rett syndrome (RTT) is characterized by dysfunction in neuronal excitation/inhibition (E/I) balance, potentially impacting seizure susceptibility via deficits in K+/Cl- cotransporter 2 (KCC2) function. Mice lacking the Methyl-CpG binding protein 2 (MeCP2) recapitulate many symptoms of RTT, and recombinant human insulin-like growth factor-1 (rhIGF-1) restores KCC2 expression and E/I balance in MeCP2 KO mice. However, clinical trial outcomes of rhIGF-1 in RTT have been variable, and increasing its therapeutic efficacy is highly desirable. To this end, the neuropeptide oxytocin (OXT) is promising, as it also critically modulates KCC2 function during early postnatal development. We measured basal KCC2 expression levels in MeCP2 KO mice and identified 3 key frontal brain regions showing KCC2 alterations in young adult mice, but not in postnatal P10 animals. We hypothesized that deficits in an IGF-1/OXT signaling crosstalk modulating KCC2 may occur in RTT during postnatal development. Consistently, we detected alterations of IGF-1 receptor and OXT receptor levels in those brain areas. rhIGF-1 and OXT treatments in KO mice rescued KCC2 expression in a region-specific and complementary manner. These results suggest that region-selective combinatorial pharmacotherapeutic strategies could be most effective at normalizing E/I balance in key brain regions subtending the RTT pathophysiology."
+  },
+  {
+   "pmid": "32101461",
+   "titel": "rhIGF-1/BP3 Preserves Lung Growth and Prevents Pulmonary Hypertension in Experimental Bronchopulmonary Dysplasia",
+   "jahr": "2020",
+   "journal": "Am J Respir Crit Care Med",
+   "erstautor": "Seedorf G",
+   "doi": "10.1164/rccm.201910-1975OC",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Rationale: Antenatal factors, such as chorioamnionitis, preeclampsia, and postnatal injury, are associated with an increased risk for bronchopulmonary dysplasia (BPD) and pulmonary hypertension (PH) after preterm birth. IGF-1 (insulin-like growth factor-1) is markedly decreased in normal preterm infants, but whether IGF-1 treatment can prevent BPD or PH is unknown.Objectives: To evaluate whether postnatal treatment with rhIGF-1 (recombinant human IGF-1)/BP3 (binding peptide 3) improves lung growth and prevents PH in two antenatal models of BPD induced by intraamniotic exposure to endotoxin (ETX) or sFlt-1 (soluble fms-like tyrosine kinase 1), and in a postnatal model due to prolonged hyperoxia.Methods: ETX or sFlt-1 were administered into the amniotic sac of pregnant rats at Embryonic Day 20 to simulate antenatal models of chorioamnionitis and preeclampsia, respectively. Pups were delivered by cesarean section at Embryonic Day 22 and treated with rhIGF-1/BP3 (0.02-20 mg/kg/d intraperitoneal) or buffer for 2 weeks. Study endpoints included radial alveolar counts (RACs), vessel density, and right ventricular hypertrophy (RVH). Direct effects of rhIGF-1/BP3 (250 ng/ml) on fetal lung endothelial cell proliferation and tube formation and alveolar type 2 cell proliferation were studied by standard methods in vitro.Measurements and Main Results: Antenatal ETX and antenatal sFlt-1 reduced RAC and decreased RVH in infant rats. In both models, postnatal rhIGF-1/BP3 treatment restored RAC and RVH to normal values when compared with placebo injections. rhIGF-1/BP3 treatment also preserved lung structure and prevented RVH after postnatal hyperoxia. In vitro studies showed that rhIGF-1/BP3 treatment increased lung endothelial cell and alveolar type 2 cell proliferation.Conclusions: Postnatal rhIGF-1/BP3 treatment preserved lung structure and prevented RVH in antenatal and postnatal BPD models. rhIGF-1/BP3 treatment may provide a novel strategy for the prevention of BPD in preterm infants."
+  },
+  {
+   "pmid": "36337021",
+   "titel": "[Donohue syndrome and use of continuous subcutaneous IGF1 pump therapy]",
+   "jahr": "2022",
+   "journal": "Probl Endokrinol (Mosk)",
+   "erstautor": "Melikyan MA",
+   "doi": "10.14341/probl13121",
+   "typ": [
+    "Case Reports",
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "Donohue syndrome (DS), also called Leprechaunism, is the most severe form of insulin resistance associated with biallelic mutations in INSR gene (OMIM: 147670). The approximate incidence of this syndrome is 1 per 1000000 births. Patients are present with typical clinical features such as intrauterine growth retardation, facial dysmorphism, severe metabolic disturbances, hepatomegaly and hypertrophic cardiomyopathy. Most DS patients die within the first two years of life due to respiratory infections, severe hypoglycemia or progressive cardiomyopathy. Treatment options are limited and no specific therapy exist for DS. Given the similarities between insulin and insulin-like growth factor 1 (IGF-1) receptors, recombinant human IGF-1 (rhIGF-1) has been used to treat severe insulin resistance including DS.We report the case of a male patient with genetically confirmed Donohue syndrome, successfully treated with continuous subcutaneous IGF1 infusion via insulin pump. We observed improvement of glycemic control, liver function and cardiac hypertrophy regression following 15-month IGF1 therapy. Синдром Донохью (лепречаунизм) — это наиболее тяжелая форма инсулинорезистентности, возникающая вследствие мутаций в гене рецептора инсулина INSR (OMIM: 147670). Данное заболевание встречается с частотой 1:1 000 000 живых новорожденных. У пациентов отмечается типичная клиническая картина: выраженная задержка внутриутробного развития, дизморфизм, грубые метаболические нарушения, гепатомегалия, гипертрофия миокарда. Большинство пациентов погибают в течение первых двух лет жизни вследствие интеркуррентных инфекций верхних дыхательных путей, эпизодов тяжелых гипогликемий или кардиомиопатии. В настоящее время не существует специфической терапии для лечения синдрома Донохью, однако в мировой литературе имеется ряд описаний успешного применения рекомбинантного инсулиноподобного фактора роста 1 (ИФР1) для лечения тяжелой инсулинорезистентности, в том числе и лепречаунизма. В статье представлены клиническое описание пациента с синдромом Донохью и первый опыт применения непрерывной подкожной инфузии рекомбинантного ИФР1 при данном заболевании в России. По нашим наблюдениям, применение данной терапии оказалось эффективным. На фоне лечения в течение 15 мес отмечаются выраженная положительная динамика в отношении гликемического контроля, печеночной функции, а также регресс гипертрофической кардиомиопатии."
+  },
+  {
+   "pmid": "17805439",
+   "titel": "Gateways to clinical trials",
+   "jahr": "2007",
+   "journal": "Methods Find Exp Clin Pharmacol",
+   "erstautor": "Bayés M",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "101M, 12B75; ABT-869, Agomelatine, Alvocidib hydrochloride, Amb a 1 ISS-1018, AMG-386, Andolast, AP-23573, Arsenic trioxide, ATI-7505; BAY-68-4986, Berberine chloride, BNP-1350, BrachySil, Brostallicin hydrochloride; Caldaret hydrate, Cancer vaccine, Cediranib, CHAMPION everolimus-eluting coronary stent, CP-751871; D-4F, Degarelix acetate, Dofequidar fumarate; Ecogramostim, Enzastaurin hydrochloride, Etaracizumab, Everolimus; Fluticasone furoate; Glucarpidase; Hochuekki-to, Human papillomavirus vaccine; Icatibant acetate, INO-1001, Interleukin-21, Irofulven, ISIS-301012, Ixabepilone; KRN-951; Lacosamide; Mecasermin, Mecasermin rinfabate, Mepolizumab, Mesna disulfide, m-NO-ASA; Nematode anticoagulant protein c2, Nilotinib, Nolatrexed dihydrochloride; O6-Benzylguanine; Pemetrexed disodium, Perifosine, Pertuzumab, Plitidepsin, Prasterone, PRO-2000/5, PX-12, Pyridoxal phosphate; Recombinant human soluble thrombomodulin, Retapamulin, Rinfabate, Rubitecan; Seliciclib, SR-271425, STA-4783; T- 2000, Telatinib, Temsirolimus, Terameprocol, Teverelix, Ticagrelor, Tipelukast, Tirapazamine; Uracil; Valspodar, Vatalanib succinate, Velimogene aliplasmid, Vitespen, Volociximab; XL-184."
+  }
+ ],
+ "ctgov": [
+  {
+   "nct": "NCT02636270",
+   "titel": "IGF-1 Treatment for Individuals With Short Stature Due to PAPP-A2 Deficiency",
+   "phase": "PHASE1,PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 7,
+   "start": "2015-12-21",
+   "ende": "2022-12-01",
+   "erkrankungen": [
+    "Short Stature"
+   ],
+   "sponsor": "Children's Hospital Medical Center, Cincinnati",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT00125190",
+   "titel": "Recombinant Human Insulin-Like Growth Factor (rhIGF-1) Treatment of Short Stature Associated With IGF-1 Deficiency",
+   "phase": "PHASE2,PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 45,
+   "start": "2005-07",
+   "ende": "2009-01",
+   "erkrankungen": [
+    "Insulin-Like Growth Factor-1 Deficiency",
+    "Growth Disorders"
+   ],
+   "sponsor": "Ipsen",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT00125164",
+   "titel": "Prepubertal Children With Growth Failure Associated With Primary Insulin-Like Growth Factor-1 (IGF-1) Deficiency",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 137,
+   "start": "2004-03",
+   "ende": "2008-07",
+   "erkrankungen": [
+    "Growth Disorders",
+    "Insulin-Like Growth Factor-1 Deficiency"
+   ],
+   "sponsor": "Ipsen",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT06602869",
+   "titel": "Cellular Markers in Treated or Untreated Non-tuberculous Mycobacterial Respiratory Infection in Patients With Cystic Fibrosis",
+   "phase": "",
+   "typ": "OBSERVATIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 76,
+   "start": "2024-09-17",
+   "ende": "2026-09-17",
+   "erkrankungen": [
+    "Non-Tuberculous Mycobacterial Pneumonia"
+   ],
+   "sponsor": "University Hospital, Montpellier",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06526637",
+   "titel": "User Testing of an End of Life Medication Support Intervention for Lay Carers (Palliate).",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 30,
+   "start": "2024-09-26",
+   "ende": "2025-11-01",
+   "erkrankungen": [
+    "End of Life",
+    "Support, Family"
+   ],
+   "sponsor": "Imperial College London",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00330668",
+   "titel": "Treatment of Children and Adolescents With Growth Failure Associated With Primary IGF-1 Deficiency",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "TERMINATED",
+   "teilnehmende": 114,
+   "start": "2005-11",
+   "ende": "2010-03",
+   "erkrankungen": [
+    "Growth Disorders"
+   ],
+   "sponsor": "Ipsen",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT01253317",
+   "titel": "Treatment of Rett Syndrome With rhIGF-1 (Mecasermin [rDNA]Injection)",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 12,
+   "start": "2010-12",
+   "ende": "2013-01",
+   "erkrankungen": [
+    "Rett Syndrome"
+   ],
+   "sponsor": "Boston Children's Hospital",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT01588093",
+   "titel": "IGF-I Induced Muscle Glucose Uptake and Interstitial IGF-I Concentrations",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 8,
+   "start": "2011-04",
+   "ende": "2011-09",
+   "erkrankungen": [
+    "Type 1 Diabetes Mellitus"
+   ],
+   "sponsor": "Peter Bang",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00035815",
+   "titel": "Insulin-like Growth Factor-1 in Amyotrophic Lateral Sclerosis (ALS) Trial",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 330,
+   "start": "2003-06",
+   "ende": "2007-12",
+   "erkrankungen": [
+    "Amyotrophic Lateral Sclerosis"
+   ],
+   "sponsor": "Mayo Clinic",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT01525901",
+   "titel": "Clinical Trial in 22q13 Deletion Syndrome(Phelan-McDermid Syndrome)",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 19,
+   "start": "2012-02",
+   "ende": "2016-08-23",
+   "erkrankungen": [
+    "22q13 Deletion Syndrome",
+    "Phelan-McDermid Syndrome"
+   ],
+   "sponsor": "Icahn School of Medicine at Mount Sinai",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT00903110",
+   "titel": "Global Patient Registry to Monitor Long-term Safety and Effectiveness of Increlex® in Children and Adolescents With Severe Primary Insulin-like Growth Factor-1 Deficiency (SPIGFD).",
+   "phase": "",
+   "typ": "OBSERVATIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 500,
+   "start": "2008-12-09",
+   "ende": "2027-12-31",
+   "erkrankungen": [
+    "IGF1 Deficiency"
+   ],
+   "sponsor": "Esteve Pharmaceuticals, S.A.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07399327",
+   "titel": "Biomarkers of Response to SEEG Thermocoagulation",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 45,
+   "start": "2026-06-19",
+   "ende": "2029-06-30",
+   "erkrankungen": [
+    "Drug Resistant Epilepsy"
+   ],
+   "sponsor": "Assistance Publique Hopitaux De Marseille",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT03253263",
+   "titel": "A Clinical Efficacy and Safety Study of OHB-607 in Preventing Bronchopulmonary Dysplasia in Extremely Premature Infants",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 295,
+   "start": "2019-05-09",
+   "ende": "2028-01-21",
+   "erkrankungen": [
+    "Bronchopulmonary Dysplasia",
+    "Chronic Lung Disease of Prematurity",
+    "Intraventricular Hemorrhage",
+    "Retinopathy of Prematurity (ROP)"
+   ],
+   "sponsor": "OHB Neonatology Ltd.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT01301183",
+   "titel": "Effects of Anorexia Nervosa on Peak Bone Mass",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 75,
+   "start": "2011-02",
+   "ende": "2020-03",
+   "erkrankungen": [
+    "Anorexia Nervosa"
+   ],
+   "sponsor": "Massachusetts General Hospital",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT00572156",
+   "titel": "rhGH and rhIGF-1 Combination Therapy in Children With Short Stature Associated With IGF-1 Deficiency",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "TERMINATED",
+   "teilnehmende": 106,
+   "start": "2007-12",
+   "ende": "2012-03",
+   "erkrankungen": [
+    "Insulin-like Growth Factor-1 Deficiency"
+   ],
+   "sponsor": "Ipsen",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT01096784",
+   "titel": "IGF-1/IGFBP3 Prevention of Retinopathy of Prematurity",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 121,
+   "start": "2010-06-18",
+   "ende": "2016-03-30",
+   "erkrankungen": [
+    "Retinopathy of Prematurity (ROP)"
+   ],
+   "sponsor": "Shire",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT00490100",
+   "titel": "Treatment for Growth Failure in Patients With X-Linked Severe Combined Immunodeficiency: Phase 2 Study of Insulin-Like Growth Factor-1",
+   "phase": "PHASE1,PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "TERMINATED",
+   "teilnehmende": 6,
+   "start": "2007-06",
+   "ende": "2012-12",
+   "erkrankungen": [
+    "Growth Failure",
+    "X-linked Severe Combined Immunodeficiency (XSCID)",
+    "Growth Hormone Resistence"
+   ],
+   "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT00915954",
+   "titel": "Growth Hormone Feedback to Insulin-like Growth Factor-I (IGF-1) and Oral Glucose Tolerance Test (OGTT)",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 28,
+   "start": "2008-12",
+   "ende": "2014-06",
+   "erkrankungen": [
+    "Acromegaly",
+    "Type 2 Diabetes Mellitus"
+   ],
+   "sponsor": "Cedars-Sinai Medical Center",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT00764699",
+   "titel": "Effect of Increlex® on Children With Crohn Disease",
+   "phase": "PHASE2,PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "TERMINATED",
+   "teilnehmende": 3,
+   "start": "2008-10",
+   "ende": "2010-05",
+   "erkrankungen": [
+    "Crohn Disease"
+   ],
+   "sponsor": "Nationwide Children's Hospital",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT00516386",
+   "titel": "Safety Profile of Insulin Like Growth Factor-1 (IGF-I) Administration in Adolescents",
+   "phase": "PHASE1,PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 16,
+   "start": "2007-03",
+   "ende": "2008-12",
+   "erkrankungen": [
+    "Anorexia Nervosa"
+   ],
+   "sponsor": "Massachusetts General Hospital",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT00747604",
+   "titel": "IGFD Registry: A Patient Registry for Monitoring Long-term Safety and Efficacy of Increlex",
+   "phase": "",
+   "typ": "OBSERVATIONAL",
+   "status": "TERMINATED",
+   "teilnehmende": 1378,
+   "start": "2006-06",
+   "ende": "2014-05",
+   "erkrankungen": [
+    "Primary Insulin-like Growth Factor-1 Deficiency"
+   ],
+   "sponsor": "Ipsen",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00001669",
+   "titel": "A 48-Week (24-Week Baseline Followed by a 24-Week Treatment) Phase II Pilot Study of the Tolerability and Effect/Efficacy of Subcutaneously Administered Insulin-Like Growth Factor-1 (rhIGF) (CEP-151) in Multiple Sclerosis (MS) Patients",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 15,
+   "start": "1997-07",
+   "ende": "2000-04",
+   "erkrankungen": [
+    "Multiple Sclerosis"
+   ],
+   "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT04085094",
+   "titel": "Gender Differences in Renal Functioning and Disease",
+   "phase": "",
+   "typ": "OBSERVATIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 98,
+   "start": "2017-05-30",
+   "ende": "2019-12-02",
+   "erkrankungen": [
+    "Chronic Renal Failure",
+    "Healthy Controls"
+   ],
+   "sponsor": "Centre Hospitalier Universitaire Vaudois",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00566241",
+   "titel": "IGF-1 Therapy in Patients With Cystic Fibrosis",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "TERMINATED",
+   "teilnehmende": 15,
+   "start": "2008-06",
+   "ende": "2012-06",
+   "erkrankungen": [
+    "Cystic Fibrosis"
+   ],
+   "sponsor": "Stony Brook University",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT01446783",
+   "titel": "IGF-I Stimulation of Collagen Synthesis in Ehlers-Danlos Patients",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 15,
+   "start": "2011-09",
+   "ende": "2012-11",
+   "erkrankungen": [
+    "Ehlers-Danlos Syndrome, Classic"
+   ],
+   "sponsor": "Bispebjerg Hospital",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT01777542",
+   "titel": "Treatment of Rett Syndrome With Recombinant Human IGF-1",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 30,
+   "start": "2013-01",
+   "ende": "2016-11",
+   "erkrankungen": [
+    "Rett Syndrome"
+   ],
+   "sponsor": "Boston Children's Hospital",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT01970345",
+   "titel": "A Pilot Treatment Study of Insulin-Like Growth Factor-1 (IGF-1) in Autism Spectrum Disorder",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "TERMINATED",
+   "teilnehmende": 3,
+   "start": "2014-05",
+   "ende": "2017-09-13",
+   "erkrankungen": [
+    "Autism Spectrum Disorder"
+   ],
+   "sponsor": "Icahn School of Medicine at Mount Sinai",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT01207908",
+   "titel": "Safety and Efficacy Study of IGF-1 in Duchenne Muscular Dystrophy",
+   "phase": "PHASE1,PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 44,
+   "start": "2010-11",
+   "ende": "2013-06",
+   "erkrankungen": [
+    "Duchenne Muscular Dystrophy"
+   ],
+   "sponsor": "Children's Hospital Medical Center, Cincinnati",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT01406444",
+   "titel": "IGF-1 and Bone Loss in Women With Anorexia Nervosa",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 148,
+   "start": "2011-10",
+   "ende": "2019-05",
+   "erkrankungen": [
+    "Anorexia Nervosa",
+    "Osteopenia",
+    "Osteoporosis"
+   ],
+   "sponsor": "Massachusetts General Hospital",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT06915428",
+   "titel": "Personalized Care for Prenatal Stress Reduction & Prevention of Preterm Birth (PTB) Disparities",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "NOT_YET_RECRUITING",
+   "teilnehmende": 1228,
+   "start": "2026-10-01",
+   "ende": "2029-01",
+   "erkrankungen": [
+    "Preterm Birth Complication",
+    "Preterm Birth",
+    "Preterm Birth Recurrence",
+    "Preeclampsia",
+    "Preeclampsia (PE)",
+    "Hypertensive Disorders of Pregnancy",
+    "Support Program",
+    "Stress",
+    "Resilience, Psychological",
+    "Empowerment, Patient",
+    "Emotional Stress",
+    "Pregnancy",
+    "Pregnancy Complications",
+    "Pregnancy Induced Hypertension",
+    "Neonates and Preterm Infants",
+    "Cervical Insufficiency",
+    "Social Determinants of Health (SDOH)",
+    "Cervical Shortening",
+    "Disparities in Pregnancy Complications",
+    "Disparities",
+    "Prenatal Care",
+    "Care Coordination"
+   ],
+   "sponsor": "University of North Carolina, Chapel Hill",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00571727",
+   "titel": "Long-Term Treatment With rhIGF-1 in GHIS",
+   "phase": "PHASE2,PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 92,
+   "start": "1991-05-20",
+   "ende": "2011-12-15",
+   "erkrankungen": [
+    "Growth Hormone Insensitivity Syndrome"
+   ],
+   "sponsor": "Ipsen",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT01314508",
+   "titel": "Increlex Treatment of Children With Chronic Liver Disease and Short Stature",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "WITHDRAWN",
+   "teilnehmende": 0,
+   "start": "2011-06",
+   "ende": null,
+   "erkrankungen": [
+    "Growth Failure",
+    "Chronic Liver Disease"
+   ],
+   "sponsor": "University of California, Los Angeles",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT01329744",
+   "titel": "Effects of IGF-I in HIV Metabolic Disease",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "TERMINATED",
+   "teilnehmende": 16,
+   "start": "2011-06",
+   "ende": "2013-06",
+   "erkrankungen": [
+    "HIV Lipodystrophy"
+   ],
+   "sponsor": "University of Texas Southwestern Medical Center",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT02847481",
+   "titel": "A Study to Evaluate Fecal Microbiota Transplantation Engraftment in IBS",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 80,
+   "start": "2016-05",
+   "ende": "2018-08-05",
+   "erkrankungen": [
+    "Irritable Bowel Syndrome"
+   ],
+   "sponsor": "Beth Israel Deaconess Medical Center",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT01438086",
+   "titel": "Evaluation of the Safety and Efficacy of Using Insulin-like Growth Factor-1 in Patients With a Heart Attack",
+   "phase": "PHASE1,PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 47,
+   "start": "2011-10",
+   "ende": "2016-12",
+   "erkrankungen": [
+    "Heart Failure",
+    "Myocardial Infarction"
+   ],
+   "sponsor": "University College Cork",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT01020955",
+   "titel": "Metabolic Effects of GH and IGF-I in Growth Hormone Deficient(GHD) and Diabetes and Impaired Glucose Tolerance(IGT)",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 14,
+   "start": "2009-10",
+   "ende": "2011-11",
+   "erkrankungen": [
+    "Diabetes"
+   ],
+   "sponsor": "Karolinska University Hospital",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT02386839",
+   "titel": "Long-term Safety and Efficacy Outcome Study Comparing Children Previously Enrolled in Study ROPP-2008-01 for the Prevention of Retinopathy of Prematurity (ROP)",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 76,
+   "start": "2015-03-26",
+   "ende": "2021-09-28",
+   "erkrankungen": [
+    "Retinopathy of Prematurity (ROP)"
+   ],
+   "sponsor": "Shire",
+   "ergebnisse": true
+  }
+ ],
+ "gruppe": "C_wachstumshormon"
+}

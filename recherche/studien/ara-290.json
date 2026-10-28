@@ -1,0 +1,761 @@
+{
+ "name": "ARA-290 (Cibinetid)",
+ "status": "nicht_zugelassen",
+ "suchbegriff_pubmed": "ARA 290[tiab] OR ARA290[tiab] OR cibinetide[tiab]",
+ "suchbegriff_ctgov": "ARA 290 OR cibinetide",
+ "humanstudien_alle": [
+  {
+   "pmid": "28475703",
+   "titel": "Cibinetide Improves Corneal Nerve Fiber Abundance in Patients With Sarcoidosis-Associated Small Nerve Fiber Loss and Neuropathic Pain",
+   "jahr": "2017",
+   "journal": "Invest Ophthalmol Vis Sci",
+   "erstautor": "Culver DA",
+   "doi": "10.1167/iovs.16-21291",
+   "typ": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "26431906",
+   "titel": "Testing the antidepressant properties of the peptide ARA290 in a human neuropsychological model of drug action",
+   "jahr": "2015",
+   "journal": "Eur Neuropsychopharmacol",
+   "erstautor": "Cerit H",
+   "doi": "10.1016/j.euroneuro.2015.09.005",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "25387363",
+   "titel": "ARA 290, a nonerythropoietic peptide engineered from erythropoietin, improves metabolic control and neuropathic symptoms in patients with type 2 diabetes",
+   "jahr": "2015",
+   "journal": "Mol Med",
+   "erstautor": "Brines M",
+   "doi": "10.2119/molmed.2014.00215",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "24136731",
+   "titel": "ARA 290 improves symptoms in patients with sarcoidosis-associated small nerve fiber loss and increases corneal nerve fiber density",
+   "jahr": "2013",
+   "journal": "Mol Med",
+   "erstautor": "Dahan A",
+   "doi": "10.2119/molmed.2013.00122",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "23168581",
+   "titel": "Safety and efficacy of ARA 290 in sarcoidosis patients with symptoms of small fiber neuropathy: a randomized, double-blind pilot study",
+   "jahr": "2012",
+   "journal": "Mol Med",
+   "erstautor": "Heij L",
+   "doi": "10.2119/molmed.2012.00332",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  }
+ ],
+ "humanstudien_detail": [
+  {
+   "pmid": "26431906",
+   "titel": "Testing the antidepressant properties of the peptide ARA290 in a human neuropsychological model of drug action",
+   "jahr": "2015",
+   "journal": "Eur Neuropsychopharmacol",
+   "erstautor": "Cerit H",
+   "doi": "10.1016/j.euroneuro.2015.09.005",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Studies on the neural effects of Erythropoietin (EPO) indicate that EPO may have antidepressant effects. Due to its hematopoietic effects, EPO may cause serious side-effects with repeated administration if patients are not monitored extensively. ARA290 is an EPO-analog peptide without such hematopoietic side-effects but may have neurotrophic and antidepressant effects. The aim of this study was to investigate the possible antidepressant effects of ARA290 in a neuropsychological model of drug action. Healthy participants (N=36) received ARA290 (2mg) or placebo in a double-blind, randomized, parallel-group design. Neural and cognitive effects were assessed one week after administration. Primary outcome measures were the neural processing of fearful vs happy faces and the behavioral recognition of emotional facial expressions. ARA290-treated individuals displayed lower neural responses to happy faces in the fusiform gyrus. ARA290 tended to lower the recognition of happy and disgust facial expressions. Although ARA290 was not associated with a better memory for positive words, it was associated with faster categorization of positive vs negative words. Finally, ARA290 increased attention towards positive emotional pictures. No effects were observed on mood and affective symptoms. ARA290 may modulate some aspects of emotional processing, however, the direction and the strength of its effects do not unequivocally support an antidepressant-like profile for ARA290. Future studies may investigate the effects of different timing and dose."
+  },
+  {
+   "pmid": "28475703",
+   "titel": "Cibinetide Improves Corneal Nerve Fiber Abundance in Patients With Sarcoidosis-Associated Small Nerve Fiber Loss and Neuropathic Pain",
+   "jahr": "2017",
+   "journal": "Invest Ophthalmol Vis Sci",
+   "erstautor": "Culver DA",
+   "doi": "10.1167/iovs.16-21291",
+   "typ": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "PURPOSE: Sarcoidosis frequently is complicated by small nerve fiber loss (SNFL), which can be quantified using corneal confocal microscopy (CCM). Prior studies suggest that the innate repair receptor agonist cibinetide reverses corneal nerve loss. This phase 2b, 28-day, randomized trial of 64 subjects with sarcoid-associated SNFL and neuropathic pain assessed the effect of cibinetide on corneal nerve fiber area (CNFA) and regenerating intraepidermal fibers (GAP-43+) as surrogate endpoints for disease modification, pain severity, and functional capacity (6-minute walk test [6MWT]). METHODS: Cibinetide (1, 4, or 8 mg/day) was compared to placebo. The primary study endpoint was a change in CNFA at 28 days. RESULTS: The placebo-corrected mean change from baseline CNFA (μm2) at day 28 was 109 (95% confidence interval [CI], -429, 647), 697 (159, 1236; P = 0.012), and 431 (-130, 992) in the 1, 4, and 8 mg groups, respectively. Intraepidermal GAP-43+ fibers increased in the 4 mg group (P = 0.035). Further, changes in CNFA correlated with changes in GAP-43+ (ρ = 0.575; P = 0.025) and 6MWT (ρ = 0.645; P = 0.009). Pain improved significantly in all groups, with subjects having moderate-severe pain reporting a clinically meaningful placebo-corrected decrease in pain intensity in the 4 mg group (P = 0.157). CONCLUSIONS: Cibinetide significantly increased small nerve fiber abundance in the cornea and skin, consistent with a disease modifying effect. The relationships between CNFA and other clinical measures of disease support its use as a surrogate endpoint to assess potential disease modifying therapies for neuropathy."
+  },
+  {
+   "pmid": "25387363",
+   "titel": "ARA 290, a nonerythropoietic peptide engineered from erythropoietin, improves metabolic control and neuropathic symptoms in patients with type 2 diabetes",
+   "jahr": "2015",
+   "journal": "Mol Med",
+   "erstautor": "Brines M",
+   "doi": "10.2119/molmed.2014.00215",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Although erythropoietin ameliorates experimental type 2 diabetes with neuropathy, serious side effects limit its potential clinical use. ARA 290, a nonhematopoietic peptide designed from the structure of erythropoietin, interacts selectively with the innate repair receptor that mediates tissue protection. ARA 290 has shown efficacy in preclinical and clinical studies of metabolic control and neuropathy. To evaluate the potential activity of ARA 290 in type 2 diabetes and painful neuropathy, subjects were enrolled in this phase 2 study. ARA 290 (4 mg) or placebo were self-administered subcutaneously daily for 28 d and the subjects followed for an additional month without further treatment. No potential safety issues were identified. Subjects receiving ARA 290 exhibited an improvement in hemoglobin A(1c) (Hb A(1c)) and lipid profiles throughout the 56 d observation period. Neuropathic symptoms as assessed by the PainDetect questionnaire improved significantly in the ARA 290 group. Mean corneal nerve fiber density (CNFD) was reduced significantly compared with normal controls and subjects with a mean CNFD >1 standard deviation from normal showed a significant increase in CNFD compared with no change in the placebo group. These observations suggest that ARA 290 may benefit both metabolic control and neuropathy in subjects with type 2 diabetes and deserves continued clinical evaluation."
+  },
+  {
+   "pmid": "24136731",
+   "titel": "ARA 290 improves symptoms in patients with sarcoidosis-associated small nerve fiber loss and increases corneal nerve fiber density",
+   "jahr": "2013",
+   "journal": "Mol Med",
+   "erstautor": "Dahan A",
+   "doi": "10.2119/molmed.2013.00122",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Small nerve fiber loss and damage (SNFLD) is a frequent complication of sarcoidosis that is associated with autonomic dysfunction and sensory abnormalities, including pain syndromes that severely degrade the quality of life. SNFLD is hypothesized to arise from the effects of immune dysregulation, an essential feature of sarcoidosis, on the peripheral and central nervous systems. Current therapy of sarcoidosis-associated SNFLD consists primarily of immune suppression and symptomatic treatment; however, this treatment is typically unsatisfactory. ARA 290 is a small peptide engineered to activate the innate repair receptor that antagonizes inflammatory processes and stimulates tissue repair. Here we show in a blinded, placebo-controlled trial that 28 d of daily subcutaneous administration of ARA 290 in a group of patients with documented SNFLD significantly improves neuropathic symptoms. In addition to improved patient-reported symptom-based outcomes, ARA 290 administration was also associated with a significant increase in corneal small nerve fiber density, changes in cutaneous temperature sensitivity, and an increased exercise capacity as assessed by the 6-minute walk test. On the basis of these results and of prior studies, ARA 290 is a potential disease-modifying agent for treatment of sarcoidosis-associated SNFLD."
+  },
+  {
+   "pmid": "23168581",
+   "titel": "Safety and efficacy of ARA 290 in sarcoidosis patients with symptoms of small fiber neuropathy: a randomized, double-blind pilot study",
+   "jahr": "2012",
+   "journal": "Mol Med",
+   "erstautor": "Heij L",
+   "doi": "10.2119/molmed.2012.00332",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "ARA 290 (a peptide designed to activate the innate repair receptor that arrests injury and initiates cytoprotection, antiinflammation and healing) reduces allodynia in preclinical neuropathy models. We studied the safety and efficacy of ARA 290 to reduce symptoms of small fiber neuropathy (SFN) in patients with sarcoidosis. A total of 22 patients diagnosed with sarcoidosis and symptoms of SFN were enrolled in a double-blind, placebo-controlled exploratory trial consisting of three times weekly intravenous dosing of ARA 290 (2 mg; n = 12) or placebo (n = 10) for 4 wks. Inclusion criteria were a diagnosis of neuropathy and a spontaneous pain score of ≥5 (Brief Pain Inventory [BPI]). Endpoints assessed were changes in pain intensity and the small fiber neuropathy screening list (SFNSL) score, quality of life (SF-36), depressive symptoms (Inventory of Depressive Symptomatology [IDS]) and fatigue (Fatigue Assessment Scale [FAS]). No safety concerns were raised by clinical or laboratory assessments. The ARA 290 group showed significant (p < 0.05) improvement at wk 4 in SFNSL score compared with placebo (Δ -11.5 ± 3.04 versus Δ -2.9 ± 3.34 [standard error of the mean]). Additionally, the ARA 290 group showed a significant change from baseline in the pain and physical functioning dimensions of the SF-36 (Δ -23.4 ± 5.5 and Δ -14.6 ± 3.9, respectively). The mean BPI and FAS scores improved significantly but equivalently in both patient groups. No change was observed in the IDS. ARA 290 appears to be safe in patients with sarcoidosis and can reduce neuropathic symptoms."
+  }
+ ],
+ "metaanalysen": [
+  {
+   "pmid": "33423557",
+   "titel": "The time to develop treatments for diabetic neuropathy",
+   "jahr": "2021",
+   "journal": "Expert Opin Investig Drugs",
+   "erstautor": "Rendell MS",
+   "doi": "10.1080/13543784.2021.1868433",
+   "typ": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "abstract": "BACKGROUND: Diabetic neuropathy is a multifaceted condition affecting up to 50% of individuals with long standing diabetes. The most common presentation is peripheral diabetic sensory neuropathy (DPN). METHODS: We carried out a systematic review of papers dealing with diabetic neuropathy on Pubmed in addition to a targeted Google search.Search terms included small fiber neuropathy,diffuse peripheral neuropathy, quantitative sensory testing, nerve conduction testing, intra-epidermal nerve fiber density, corneal confocal reflectance microscopy, aldose reductase inhbitors, nerve growth factor, alpha-lipoic acid, ruboxistaurin, nerve growth factor antibody, and cibinetide. RESULTS: Over the past half century, there have been a number of agents undergoing unsuccessful trials for treatment of DPN.There are several approved agents for relief of pain caused by diabetic neuropathy, but these do not affect the pathologic process. EXPERT OPINION: The failure to find treatments for diabetic neuropathy can be ascribed to (1) the complexity of design of studies and (2) the slow progression of the condition, necessitating long duration trials to prove efficacy.We propose a modification of the regulatory process to permit early introduction of agents with demonstrated safety and suggestion of benefit as well as prolongation of marketing exclusivity while long term trials are in progress to prove efficacy."
+  },
+  {
+   "pmid": "27507833",
+   "titel": "Managing fatigue in sarcoidosis - A systematic review of the evidence",
+   "jahr": "2017",
+   "journal": "Chron Respir Dis",
+   "erstautor": "Atkins C",
+   "doi": "10.1177/1479972316661926",
+   "typ": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "abstract": "Fatigue is a common manifestation of sarcoidosis, often persisting without evidence of disease activity. First-line therapies for sarcoidosis have limited effect on fatigue. This review aimed to assess the treatment options targeting sarcoidosis-associated fatigue. Medline and Web of Science were searched in November 2015; the bibliographies of these papers, and relevant review papers, were also searched. Studies were included if they reported on the efficacy of interventions (both pharmacological and non-pharmacological) on fatigue scores in sarcoidosis patients. Eight studies were identified that fulfilled the inclusion criteria. These studies evaluated six different interventions (infliximab, adalimumab, ARA 290, methylphenidate, armodafinil and exercise programmes). There is evidence to support a treatment effect of anti-tumour necrosis factor (TNF)-αtherapies (adalimumab and infliximab) and neurostimulants (methylphenidate and armodafinil), but within five of the studies, the risk of bias was high within most domains and the remaining three studies included only small numbers of participants and were short in duration. Trial evidence for treating fatigue as a manifestation of sarcoidosis is limited and requires further investigation. Anti-TNF-α therapies may be beneficial in patients with organ-threatening disease. Neurostimulants have some trial evidence supporting improvements in fatigue but further investigation is needed before they can be recommended."
+  }
+ ],
+ "praeklinik": [
+  {
+   "pmid": "28652140",
+   "titel": "Erythropoietin in diabetic retinopathy",
+   "jahr": "2017",
+   "journal": "Vision Res",
+   "erstautor": "Reid G",
+   "doi": "10.1016/j.visres.2017.05.010",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Over the past years, knowledge has expanded with regards to the multiple roles played by erythropoietin (EPO) in the body. Once believed to be a hormone synthesised in the kidney and involved only in the modulation of erythrocyte production, it is recognised now that EPO can be produced in many tissues, including the retina, and by many cells. In these tissues EPO is released in response to \"tissue injury\" and appears to have protective functions. Despite the extensive research conducted to date, the cues leading to release of EPO and its effects in the normal and diseased retina have not been fully elucidated. In vitro and in vivo experimental studies as well as small interventional clinical studies suggest a potential beneficial effect of externally administered EPO in early diabetic retinopathy and diabetic macular oedema. In contrast, controversy exists with regards to the possible use of EPO in proliferative diabetic retinopathy. Non-erythropoietic EPO-derived peptides, produced with the aim of increasing effectiveness and reducing side effects of EPO, are currently under investigation in early phase clinical trials."
+  },
+  {
+   "pmid": "39996752",
+   "titel": "The Role of Erythropoietin in Metabolic Regulation",
+   "jahr": "2025",
+   "journal": "Cells",
+   "erstautor": "Yin W",
+   "doi": "10.3390/cells14040280",
+   "typ": [
+    "Journal Article",
+    "Review",
+    "Research Support, N.I.H., Intramural"
+   ],
+   "abstract": "Erythropoietin (EPO) is a key regulator of erythrocyte production, promoting erythroid progenitor cell survival, division, and differentiation in the fetal liver and adult bone marrow. Mice lacking EPO or its receptor (EPOR) die in utero due to severe anemia. Beyond hematopoiesis, EPO influences non-hematopoietic tissues, including glucose and fat metabolism in adipose tissue, skeletal muscle, and the liver. EPO is used to treat anemia associated with chronic kidney disease clinically and plays a role in maintaining metabolic homeostasis and regulating fat mass. EPO enhances lipolysis while inhibiting lipogenic gene expression in white adipose tissue, brown adipose tissue, skeletal muscle, and the liver, acting through the EPO-EPOR-RUNX1 axis. The non-erythroid EPOR agonist ARA290 also improves diet-induced obesity and glucose tolerance providing evidence for EPO regulation of fat metabolism independent of EPO stimulated erythropoiesis. Therefore, in addition to the primary role of EPO to stimulate erythropoiesis, EPO contributes significantly to EPOR-dependent whole-body metabolic response."
+  },
+  {
+   "pmid": "38612664",
+   "titel": "The Role of Macrophage Efferocytosis in the Pathogenesis of Apical Periodontitis",
+   "jahr": "2024",
+   "journal": "Int J Mol Sci",
+   "erstautor": "Guan X",
+   "doi": "10.3390/ijms25073854",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Macrophages (Mφs) play a crucial role in the homeostasis of the periapical immune micro-environment caused by bacterial infection. Mφ efferocytosis has been demonstrated to promote the resolution of multiple infected diseases via accelerating Mφ polarization into M2 type. However, the Mφ efferocytosis-apical periodontitis (AP) relationship has not been elucidated yet. This study aimed to explore the role of Mφ efferocytosis in the pathogenesis of AP. Clinical specimens were collected to determine the involvement of Mφ efferocytosis in the periapical region via immunohistochemical and immunofluorescence staining. For a further understanding of the moderator effect of Mφ efferocytosis in the pathogenesis of AP, both an in vitro AP model and in vivo AP model were treated with ARA290, a Mφ efferocytosis agonist. Histological staining, micro-ct, flow cytometry, RT-PCR and Western blot analysis were performed to detect the inflammatory status, alveolar bone loss and related markers in AP models. The data showed that Mφ efferocytosis is observed in the periapical tissues and enhancing the Mφ efferocytosis ability could effectively promote AP resolution via facilitating M2 Mφ polarization. Collectively, our study demonstrates the functional importance of Mφ efferocytosis in AP pathology and highlights that accelerating Mφ efferocytosis via ARA290 could serve as an adjuvant therapeutic strategy for AP."
+  },
+  {
+   "pmid": "34478930",
+   "titel": "Multifaceted roles of a bioengineered nanoreactor in repressing radiation-induced lung injury",
+   "jahr": "2021",
+   "journal": "Biomaterials",
+   "erstautor": "Liu T",
+   "doi": "10.1016/j.biomaterials.2021.121103",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Radiation-induced lung injury (RILI) is a potentially fatal and dose-limiting complication of thoracic cancer radiotherapy. However, effective therapeutic agents for this condition are limited. Here, we describe a novel strategy to exert additive effects of a non-erythropoietic EPO derivative (ARA290), along with a free radical scavenger, superoxide dismutase (SOD), using a bioengineered nanoreactor (SOD@ARA290-HBc). ARA290-chimeric nanoreactor makes SOD present in a confined reaction space by encapsulation into its interior to heighten stability against denaturing stimuli. In a RILI mouse model, intratracheal administration of SOD@ARA290-HBc was shown to significantly ameliorate acute radiation pneumonitis and pulmonary fibrosis. Our investigations revealed that SOD@ARA290-HBc performs its radioprotective effects by protecting against radiation induced alveolar epithelial cell apoptosis and ferroptosis, suppressing oxidative stress, inhibiting inflammation and by modulating the infiltrated macrophage phenotype, or through a combination of these mechanisms. In conclusion, SOD@ARA29-HBc is a potential therapeutic agent for RILI, and given its multifaceted roles, it may be further developed as a translational nanomedicine for other related disorders."
+  },
+  {
+   "pmid": "24518674",
+   "titel": "Therapeutic effects of nonerythropoietic erythropoietin analog ARA290 in experimental autoimmune encephalomyelitis rat",
+   "jahr": "2014",
+   "journal": "J Neuroimmunol",
+   "erstautor": "Chen H",
+   "doi": "10.1016/j.jneuroim.2014.01.006",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "ARA290 is a nonerythropoietic analog of erythropoietin (EPO) containing 11 amino acids which provides the anti-inflammatory and neuroprotective effects of EPO without stimulating hematopoiesis. Here we studied the therapeutic effects of ARA290 in experimental autoimmune encephalomyelitis (EAE) Lewis rats. Therapeutic (from Day 7 to Day 18 or from Day 9 to Day 19) administration of ARA290 (35, 70 μg/kg, intra-peritoneal) to EAE rats once daily significantly reduced the severity and shortened the duration of clinical score, reduced the accumulation of inflammatory cells in EAE spinal cords and suppressed mRNA levels of interleukin-1β (IL-1β), IL-17, tumor necrosis factor-α (TNF-α), interferon-γ (IFN-γ), inducible nitric oxide synthase (iNOS), matrix metalloproteinase 9 (MMP9) and transcription factor T-bet in spinal cords of EAE rats. Furthermore, ARA290 treatment reduced the helper T cell number in lymph nodes and circulation in EAE. In vitro study showed that ARA290 dose-dependently inhibited antigen specific- and antigen non-specific-lymphocyte proliferation as well. In addition, ARA290 altered the cytokine milieu to favor the polarization of Th2 and regulatory T (Treg) cells but suppressed the polarization of Th1 and Th17 cells in EAE lymph nodes. In summary, our study here showed that ARA290 could alter T cell function to suppress inflammation to ameliorate EAE, suggesting that ARA290 may be a new therapeutic candidate for multiple sclerosis."
+  },
+  {
+   "pmid": "38907076",
+   "titel": "Microglial EPOR Contribute to Sevoflurane-induced Developmental Fine Motor Deficits Through Synaptic Pruning in Mice",
+   "jahr": "2024",
+   "journal": "Neurosci Bull",
+   "erstautor": "He D",
+   "doi": "10.1007/s12264-024-01248-5",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Clinical researches including the Mayo Anesthesia Safety in Kids (MASK) study have found that children undergoing multiple anesthesia may have a higher risk of fine motor control difficulties. However, the underlying mechanisms remain elusive. Here, we report that erythropoietin receptor (EPOR), a microglial receptor associated with phagocytic activity, was significantly downregulated in the medial prefrontal cortex of young mice after multiple sevoflurane anesthesia exposure. Importantly, we found that the inhibited erythropoietin (EPO)/EPOR signaling axis led to microglial polarization, excessive excitatory synaptic pruning, and abnormal fine motor control skills in mice with multiple anesthesia exposure, and those above-mentioned situations were fully reversed by supplementing EPO-derived peptide ARA290 by intraperitoneal injection. Together, the microglial EPOR was identified as a key mediator regulating early synaptic development in this study, which impacted sevoflurane-induced fine motor dysfunction. Moreover, ARA290 might serve as a new treatment against neurotoxicity induced by general anesthesia in clinical practice by targeting the EPO/EPOR signaling pathway."
+  },
+  {
+   "pmid": "25740187",
+   "titel": "[Neurosarcoidosis and paraneurosarcoidosis: new online registration of patients]",
+   "jahr": "2015",
+   "journal": "Ned Tijdschr Geneeskd",
+   "erstautor": "Datema M",
+   "doi": "",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "The clinical spectrum of neurosarcoidosis is highly diverse; virtually any neurological syndrome can present, depending upon granuloma localization. There are indications that neurosarcoidosis is insufficiently recognized as a separate clinical entity. In the absence of major prospective clinical trials, we launched a large national online registry of neurosarcoidosis patients in the Netherlands in June 2014 at www.neurosarcoidose.nl. When a patient with sarcoidosis presents with neurological symptoms that may compatible with sarcoidosis, it is important to locate sites of disease activity accessible for biopsy outside the nervous system. Small nerve fibre neuropathy is a common neurological complication of sarcoidosis. It is considered an epiphenomenon, and therefore classified as 'para-neurosarcoidosis'. Neurological symptoms causing disability are an indication for immunosuppressive therapy. There is increasing evidence for the effective treatment of refractory neurosarcoidosis using biologicals. Whether the intravenous administration of immunoglobulins or ARA290, an erythropoietin derivative with TNF-α-antagonistic and tissue-protective characteristics, is effective for small nerve fibre neuropathy in sarcoidosis is subject for study."
+  },
+  {
+   "pmid": "40680515",
+   "titel": "ARA290 Attenuates Apical Periodontitis via SIRT1/NF-κB/IL-1β Pathway Modulation",
+   "jahr": "2025",
+   "journal": "Int Dent J",
+   "erstautor": "Wang Y",
+   "doi": "10.1016/j.identj.2025.100863",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "INTRODUCTION AND AIMS: Existing research suggests that ARA290 may possess therapeutic potential for apical periodontitis (AP), although the mechanisms involved remain unclear. This study aims to investigate the protective effects and underlying mechanisms of ARA290 in mitigating pro-inflammatory responses of macrophages in the context of AP. METHODS: Initially, in vivo models of AP were used to assess the aberrant activation of the SIRT1/NF-κB/IL-1β signalling pathway within periapical lesions. Furthermore, the expression levels of the SIRT1/NF-κB/IL-1β signalling pathway in ARA290-treated AP models, both in vivo and in vitro, were evaluated using immunohistochemistry (IHC), Western blotting, and immunofluorescence (IF) techniques to elucidate the role of ARA290 in modulating this signalling pathway during AP pathogenesis. Subsequently, the SIRT1/NF-κB/IL-1β signalling pathway was inhibited using selisistat, and the resultant changes in inflammatory levels and bone resorption in periapical lesions were assessed through haematoxylin and eosin staining, tartrate-resistant acid phosphatase staining, IHC and micro-computed tomography (Micro CT). RESULTS: The in vivo AP model demonstrated a 50% reduction in SIRT1 expression within periapical lesions, accompanied by a 5-fold increase in the expression of acetylated NF-κB (p65) and IL-1β. Additionally, the administration of ARA290 in the AP mouse model significantly reduced inflammatory infiltration, the number of osteoclasts and the extent of bone loss in the periapical region. Notably, ARA290 treatment enhanced SIRT1 expression by approximately 40% while concurrently decreasing the levels of acetylated NF-κB (p65) by around 75% and IL-1β by approximately 62.5% in both in vivo and in vitro AP models. Importantly, inhibition of the SIRT1/NF-κB/IL-1β signalling pathway negated the beneficial effects of ARA290 in attenuating the progression of AP. CONCLUSIONS: ARA290 plays a protective role by modulating the SIRT1/NF-κB/IL-1β signalling pathway in apical periodontitis, which may provide a new direction for the adjuvant treatment of apical periodontitis."
+  },
+  {
+   "pmid": "26736179",
+   "titel": "ARA290 Improves Insulin Release and Glucose Tolerance in Type 2 Diabetic Goto-Kakizaki Rats",
+   "jahr": "2016",
+   "journal": "Mol Med",
+   "erstautor": "Muller C",
+   "doi": "10.2119/molmed.2015.00267",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Effects of ARA290 on glucose homeostasis were studied in type 2 diabetic Goto-Kakizaki (GK) rats. In GK rats receiving ARA290 daily for up to 4 wks, plasma glucose concentrations were lower after 3 and 4 wks, and hemoglobin A1c (Hb A1c) was reduced by ~20% without changes in whole body and hepatic insulin sensitivity. Glucose-stimulated insulin secretion was increased in islets from ARA290-treated rats. Additionally, in response to glucose, carbachol and KCl, islet cytoplasmic free Ca2+ concentrations, [Ca2+]i, were higher and the frequency of [Ca2+]i oscillations enhanced compared with placebo. ARA290 also improved stimulus-secretion coupling for glucose in GK rat islets, as shown by an improved glucose oxidation rate, ATP production and acutely enhanced glucose-stimulated insulin secretion. ARA290 also exerted an effect distal to the ATP-sensitive potassium (KATP) channel on the insulin exocytotic pathway, since the insulin response was improved following islet depolarization by KCl when KATP channels were kept open by diazoxide. Finally, inhibition of protein kinase A completely abolished effects of ARA290 on insulin secretion. In conclusion, ARA290 improved glucose tolerance without affecting hematocrit in diabetic GK rats. This effect appears to be due to improved γ-cell glucose metabolism and [Ca2+]i handling, and thereby enhanced glucose-induced insulin release."
+  },
+  {
+   "pmid": "23304492",
+   "titel": "Sarcoidosis and pain caused by small-fiber neuropathy",
+   "jahr": "2012",
+   "journal": "Pain Res Treat",
+   "erstautor": "Heij L",
+   "doi": "10.1155/2012/256024",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Sarcoidosis is a chronic inflammatory illness and small-fiber neuropathy (SFN) is one of the disabling and often chronic manifestations of the disease. SFN presents with peripheral pain and symptoms of autonomic dysfunction. The character of the pain can be burning or shooting. Besides, allodynia and hyperesthesia can exist. Diagnosis is usually made on the basis of clinical features, in combination with abnormal specialized tests. The aim of treatment is often to reduce pain; however, total pain relieve is seldom achieved. The role of TNF-α in the pathogenesis of SFN in sarcoidosis appears interesting to explore. Novel therapeutic agents such as ARA 290, a nonhematopoietic erythropoietin analogue with potent anti-inflammatory and tissue protective properties, are interesting to explore in the treatment of SFN in sarcoidosis."
+  },
+  {
+   "pmid": "25549226",
+   "titel": "Discovery of a master regulator of injury and healing: tipping the outcome from damage toward repair",
+   "jahr": "2014",
+   "journal": "Mol Med",
+   "erstautor": "Brines M",
+   "doi": "10.2119/molmed.2014.00167",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Disease processes provoke a balancing act between tissue damage and repair. In the 1980s, the discovery that tumor necrosis factor (TNF)-α is a general mediator of disease-related injury led to the development of novel therapeutics to neutralize its activity. In contrast, identification of potential mediator(s) of tissue repair remained elusive. Studies performed over the last 15 years have documented that the type 1 cytokine erythropoietin (EPO), produced by cells within surrounding regions subjected to injury, acts as a master regulator, controlling both damage and repair. The transducer of these activities is the previously unrecognized innate repair receptor (IRR), which is comprised of the EPO receptor and β common receptor subunits. Notably, although proinflammatory cytokines upregulate the IRR, EPO and proinflammatory cytokines inhibit each other's production, resulting in a relative underproduction of EPO. Although exogenous EPO attenuates disease activity in many preclinical models, its clinical utility is limited by serious hematopoietic and thrombotic adverse effects. To circumvent this problem, novel compounds engineered from the structure of EPO have been developed as selective ligands of the IRR. These compounds possess no hematopoietic activity, yet are fully tissue-protective and reparative. The lead molecule of this development effort (the 11-amino acid peptide ARA290) tips the balance toward healing in diverse preclinical models of disease and is currently under evaluation in advanced clinical trials as a disease-modifying agent in painful neuropathy and diabetes."
+  },
+  {
+   "pmid": "27172159",
+   "titel": "ARA290, a Specific Agonist of Erythropoietin/CD131 Heteroreceptor, Improves Circulating Endothelial Progenitors' Angiogenic Potential and Homing Ability",
+   "jahr": "2016",
+   "journal": "Shock",
+   "erstautor": "Hache G",
+   "doi": "10.1097/SHK.0000000000000606",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: Alternate erythropoietin (EPO)-mediated signaling via the EPOR/CD131 heteromeric receptor exerts the tissue-protective actions of EPO in a wide spectrum of injuries, especially ischemic diseases. Circulating endothelial progenitor cells contribute to endothelial repair and post-natal angiogenesis after chronic ischemic injury. This work aims to investigate the effects of ARA290, a specific agonist of EPOR/CD131 complex, on a subpopulation of endothelial progenitor cells named endothelial colony-forming cells (ECFCs) and to characterize its contribution to ECFCs-induced angiogenesis after peripheral ischemia. METHODS: ARA290 effects on ECFCs properties were studied using cell cultures in vitro. We injected ARA290 to mice undergoing chronic hindlimb ischemia (CLI) in combination with ECFC transplantation. The homing of transplanted ECFC to ischemic tissue in vivo was assessed by SPECT/CT imaging. RESULTS: In vitro, ARA290 enhanced the proliferation, migration, and resistance to H2O2-induced apoptosis of ECFCs. After ECFC transplantation to mice with CLI, a single ARA290 injection enhanced the ischemic/non-ischemic ratio of hindlimb blood flow and capillary density after 28 days and the homing of radiolabeled transplanted cells to the ischemic leg 4 h after transplantation. Prior neutralization of platelet-endothelial cell adhesion molecule-1 (CD31) expressed by the transplanted cells inhibited ARA290-induced improvement of homing. DISCUSSION: ARA290 induces specific improvement of the biological activity of ECFCs. ARA290 administration in combination with ECFCs has a synergistic effect on post-ischemic angiogenesis in vivo. This potentiation appears to rely, at least in part, on a CD31-dependent increase in homing of the transplanted cells to the ischemic tissue."
+  },
+  {
+   "pmid": "23401545",
+   "titel": "Alternative erythropoietin-mediated signaling prevents secondary microvascular thrombosis and inflammation within cutaneous burns",
+   "jahr": "2013",
+   "journal": "Proc Natl Acad Sci U S A",
+   "erstautor": "Bohr S",
+   "doi": "10.1073/pnas.1214099110",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Alternate erythropoietin (EPO)-mediated signaling via the heteromeric receptor composed of the EPO receptor and the β-common receptor (CD131) exerts the tissue-protective actions of EPO in various types of injuries. Herein we investigated the effects of the EPO derivative helix beta surface peptide (synonym: ARA290), which specifically triggers alternate EPO-mediated signaling, but does not bind the erythropoietic EPO receptor homodimer, on the progression of secondary tissue damage following cutaneous burns. For this purpose, a deep partial thickness cutaneous burn injury was applied on the back of mice, followed by systemic administration of vehicle or ARA290 at 1, 12, and 24 h postburn. With vehicle-only treatment, wounds exhibited secondary microvascular thrombosis within 24 h postburn, and subsequent necrosis of the surrounding tissue, thus converting to a full-thickness injury within 48 h. On the other hand, when ARA290 was systemically administered, patency of the microvasculature was maintained. Furthermore, ARA290 mitigated the innate inflammatory response, most notably tumor necrosis factor-alpha-mediated signaling. These findings correlated with long-term recovery of initially injured yet viable tissue components. In conclusion, ARA290 may be a promising therapeutic approach to prevent the conversion of partial- to full-thickness burn injuries. In a clinical setting, the decrease in burn depth and area would likely reduce the necessity for extensive surgical debridement as well as secondary wound closure by means of skin grafting. This use of ARA290 is consistent with its tissue-protective properties previously reported in other models of injury, such as myocardial infarction and hemorrhagic shock."
+  },
+  {
+   "pmid": "29570934",
+   "titel": "Non-erythropoietic erythropoietin-derived peptide protects mice from systemic lupus erythematosus",
+   "jahr": "2018",
+   "journal": "J Cell Mol Med",
+   "erstautor": "Huang B",
+   "doi": "10.1111/jcmm.13608",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Systemic lupus erythematosus (SLE) is an autoimmune disease, which results in various organ pathologies. However, current treatment towards SLE is suboptimal. Erythropoietin (EPO) has been shown to promote SLE recovery, but clinical application can be limited by its haematopoiesis-stimulating effects. EPO-derived helix-B peptide (ARA290) is non-erythrogenic but has been reported to retain the anti-inflammatory and tissue-protective functions of EPO. Therefore, here we investigated the effects and potential mechanisms of ARA290 on SLE. The administration of ARA290 to pristane-induced SLE and MRL/lpr mice significantly suppressed the level of serum antinuclear autoantibodies (ANAs) and anti-dsDNA autoantibodies, reduced the deposition of IgG and C3, and ameliorated the nephritis symptoms. Moreover, the serum concentrations of inflammatory cytokine IL-6, MCP-1 and TNF-α in SLE mice were reduced by ARA290. Further, ARA290 decreased the number of apoptotic cells in kidney. In vitro experiment revealed that ARA290 inhibited the inflammatory activation of macrophages and promoted the phagocytotic function of macrophages to apoptotic cells. Finally, ARA290 did not induce haematopoiesis during treatment. In conclusion, ARA290 ameliorated SLE, which at least could be partly due to its anti-inflammatory and apoptotic cell clearance promoting effects, without stimulating haematopoiesis, suggesting that ARA290 could be a hopeful candidate for SLE treatment."
+  },
+  {
+   "pmid": "31580542",
+   "titel": "[Non erythropoietic effects of Erythropoietin]",
+   "jahr": "2019",
+   "journal": "G Ital Nefrol",
+   "erstautor": "Guglielmo C",
+   "doi": "",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Over the past two decades it has emerged that, in addition to erythropoietic activity, erythropoietin (EPO) has numerous other functions, including neuro-protective, anti-apoptotic, antioxidant, angiogenetic and immunomodulatory ones. EPO interacts with two different forms of its receptor (EPOR): a homodimer receptor, responsible for the erythropoietic effects, and a heterodimer receptor, responsible for the non-erythropoietic effects. The effects on the heterodimer receptor are responsible for EPO-induced prolongation of organ transplant survival in mice and humans. The development of new molecules that selectively target the heterodimer EPOR is allowing to test the effect of long-term treatments, without the possible complications related to the increased hematocrit."
+  },
+  {
+   "pmid": "34134477",
+   "titel": "ARA290 inhibits high glucose-induced apoptosis of NRK-52E cells",
+   "jahr": "2021",
+   "journal": "J Biol Regul Homeost Agents",
+   "erstautor": "Zhao LJ",
+   "doi": "10.23812/21-39-L",
+   "typ": [
+    "Letter"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "29223734",
+   "titel": "Activation of the EPOR-β common receptor complex by cibinetide ameliorates impaired wound healing in mice with genetic diabetes",
+   "jahr": "2018",
+   "journal": "Biochim Biophys Acta Mol Basis Dis",
+   "erstautor": "Bitto A",
+   "doi": "10.1016/j.bbadis.2017.12.006",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Diabetes is characterized by poor wound healing which currently lacks an efficacious treatment. The innate repair receptor (IRR) is a master regulator of tissue protection and repair which is expressed as a response injury or metabolic stress, including in diabetes. Activation of the IRR might provide benefit for diabetic wound healing. A specific IRR agonist cibinetide was administered in an incisional wound healing model performed mice with genetic diabetes (db+/db+) and compared to the normal wild-type. Animals were treated daily with cibinetide (30μg/kg/s.c.) or vehicle and euthanized 3, 7, and 14days after the injury to quantitate vascular endothelial growth factor (VEGF), malondialdehyde (MAL), phospho-Akt (pAkt), phospho e-NOS (p-eNOS), and nitrite/nitrate content within the wound. Additional evaluations included quantification of skin histological change, angiogenesis, scar strength, and time to complete wound closure. Throughout the wound healing process diabetic animals treated with vehicle exhibited increased wound MAL with reduced VEGF, pAkt, peNOS and nitrite/nitrate, all associated with poor re-epitheliziation, angiogenesis, and wound breaking strength. Cibenitide administration significantly improved these abnormalities. The results suggest that cibinetide-mediated IRR activation may represent an interesting strategy to treat diabetes-associated wound healing."
+  },
+  {
+   "pmid": "23456872",
+   "titel": "ARA290 in a rat model of inflammatory pain",
+   "jahr": "2013",
+   "journal": "Methods Mol Biol",
+   "erstautor": "Dilley A",
+   "doi": "10.1007/978-1-62703-308-4_14",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Chronic pain affects as many as one in five people. A proportion of patients with symptoms of neuropathic -pain do not have clinical signs of any obvious tissue or nerve injury. Such patients include those with diffuse limb pain, back pain, and complex regional pain syndrome type 1. These patients remain a clinical enigma. However, through the development of the neuritis model, it has become apparent that local nerve inflammation in the absence of gross pathology (i.e., axonal degeneration and demyelination) may underlie part of the mechanisms of pain. In this chapter, we describe a method to induce the neuritis model. We also describe in detail a reliable method to test for mechanical allodynia and heat hyperalgesia. Data that demonstrates the potential benefits of the neuroprotective agent ARA290 in reducing pain behavior in the neuritis model are presented."
+  },
+  {
+   "pmid": "36046815",
+   "titel": "Nonerythropoietic Erythropoietin Mimetic Peptide ARA290 Ameliorates Chronic Stress-Induced Depression-Like Behavior and Inflammation in Mice",
+   "jahr": "2022",
+   "journal": "Front Pharmacol",
+   "erstautor": "Xu G",
+   "doi": "10.3389/fphar.2022.896601",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Major depressive disorder (MDD) is a highly prevalent psychiatric disorder. But the treatment of depression remains challenging. Anti-inflammatory treatments frequently produce antidepressant effects. EPO-derived helix-B peptide ARA290 has been reported to retain the anti-inflammatory and tissue-protective functions of EPO without erythropoiesis-stimulating effects. The effects of ARA290 on MDD remain elusive. This study established chronic unpredictable mild stress and chronic social defeat stress mouse models. Daily administration of ARA290 during chronic stress induction in two mouse models ameliorated depression-like behavior, similar to fluoxetine. With marginal effects on peripheral blood hemoglobin and red cells, ARA290 and fluoxetine reversed chronic stress-induced increased frequencies and/or numbers of CD11b+Ly6Ghi neutrophils and CD11b+Ly6Chi monocytes in the bone marrow and meninges. Furthermore, both drugs reversed chronic stress-induced microglia activation. Thus, ARA290 ameliorated chronic stress-induced depression-like behavior in mice through, at least partially, its anti-inflammatory effects."
+  },
+  {
+   "pmid": "39968520",
+   "titel": "Mechanisms of ARA290 in counteracting cadmium-triggered neurotoxicity in PC12 cells",
+   "jahr": "2025",
+   "journal": "Toxicol Res (Camb)",
+   "erstautor": "Motafeghi F",
+   "doi": "10.1093/toxres/tfaf023",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "UNLABELLED: Erythropoietin (EPO) is known for its role in hematopoiesis and also exhibits anti-inflammatory, anti-apoptotic, antioxidant, and cytoprotective properties. However, its clinical application is limited by hematopoietic side effects. ARA290, a non-hematopoietic derivative of EPO, selectively activates the innate repair receptor (IRR) and replicates these protective effects without the associated hematopoietic complications. Cadmium (Cd), a prevalent environmental toxin, causes neurotoxic damage through mechanisms such as oxidative stress, genotoxicity, apoptosis, and inflammation. This study explored ARA290's neuroprotective effects against cadmium-induced toxicity in PC12 cells, an in vitro model for neuronal health. PC12 cells pretreated with ARA290 showed significantly improved cell viability in the MTT assay, indicating reduced cytotoxicity. The comet assay revealed decreased DNA damage, suggesting reduced genotoxicity. ARA290 also alleviated oxidative stress, as evidenced by reduced levels of reactive oxygen species (ROS) and malondialdehyde (MDA), alongside increased glutathione (GSH), total antioxidant capacity (TAC), and superoxide dismutase (SOD) activities. A marker of apoptosis, TUNEL-positive cells, was significantly reduced. Additionally, ARA290 decreased inflammatory markers such as TNF alpha, IL1ß and IL 6. These findings demonstrate that ARA290, via IRR activation, provides robust neuroprotection against cadmium-induced toxicity, suggesting a multi-faceted protective mechanism. This highlights ARA290's potential therapeutic role in managing heavy metal-induced neurotoxicity and supports further research into its long-term effects and applications in other neurodegenerative diseases or conditions involving environmental toxins. HIGHLIGHTS: ARA290 as a Neuroprotective Agent: ARA290, a modified form of erythropoietin that doesn't affect blood production, shows promising neuroprotective effects. It helps counteract the harmful effects of cadmium exposure on nerve cells by reducing oxidative stress, inflammation, cell death, and DNA damage.Reducing Oxidative Stress: ARA290 plays a key role in lowering oxidative stress by cutting down on harmful molecules like reactive oxygen species (ROS) and malondialdehyde (MDA). At the same time, it boosts the body's natural antioxidant defenses, including glutathione (GSH), superoxide dismutase (SOD), and overall antioxidant capacity.Protecting DNA Integrity: By reducing DNA damage caused by cadmium, ARA290 helps preserve the genetic stability of nerve cells. This protective effect is evident in laboratory tests, where it lowers the extent of DNA damage seen in the comet assay.Fighting Inflammation and Cell Death: ARA290 also has strong anti-inflammatory and anti-apoptotic effects. It reduces levels of inflammation markers like TNF-α, IL-1β, and IL-6, and significantly cuts down on nerve cell death, as seen in fewer TUNEL-positive cells in experiments.A Therapeutic Promise: Overall, these findings underscore ARA290's ability to protect the nervous system through multiple pathways. This makes it a promising candidate for treating cadmium-induced nerve damage and potentially other neurodegenerative conditions."
+  },
+  {
+   "pmid": "29549285",
+   "titel": "Corneal nerve fiber size adds utility to the diagnosis and assessment of therapeutic response in patients with small fiber neuropathy",
+   "jahr": "2018",
+   "journal": "Sci Rep",
+   "erstautor": "Brines M",
+   "doi": "10.1038/s41598-018-23107-w",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Small fiber neuropathy (SFN) is a common feature of many inflammatory diseases, often presenting with pain and disability. SFN is diagnosed using symptoms, thermal threshold testing, and intra-epidermal nerve fiber quantification. Corneal confocal microscopy (CCM) is an ophthalmic imaging technique which non-invasively quantifies corneal nerve fiber (CNF) density, branch density and length, and has comparable diagnostic and superior ability to identify nerve regeneration compared to skin biopsy. CNF size (width and area) depends upon the number of fibers within each nerve, as well as pathology (e.g., swelling), and may provide additional sensitivity to diagnose SFN and identify nerve repair. We have compared the utility of the standard CCM variables employed to CNF size in patients with diabetic sensorimotor polyneuropathy or sarcoidosis-associated SFN, and in patients with SFN following cibinetide administration, an agent which promotes nerve repair. The results show that: 1) CNF width distribution and area depend upon neuropathy severity; 2) CNF area, density, branch density and length possess comparable discriminatory power for diagnosing neuropathy; 3) CNF area is related to length by a quadratic function which is predictive for both healthy subjects and those with SFN; 4) CNF area is a useful variable for quantifying change in CNF morphology."
+  },
+  {
+   "pmid": "29392190",
+   "titel": "Targeting the innate repair receptor to treat neuropathy",
+   "jahr": "2016",
+   "journal": "Pain Rep",
+   "erstautor": "Dahan A",
+   "doi": "10.1097/PR9.0000000000000566",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The innate repair receptor (IRR) is a heteromer of the erythropoietin receptor and the β-common (CD131) receptor, which simultaneously activates anti-inflammatory and tissue repair pathways. Experimental data suggest that after peripheral nerve injury, the IRR is upregulated in the spinal cord and modulates the neurogenic inflammatory response. The recently introduced selective IRR agonist ARA290 is an 11-amino acid peptide initially tested in animal models of neuropathy. After sciatic nerve injury, ARA290 produced a rapid and long-term relief of mechanical and cold allodynia in normal mice, but not in animals with a β-common receptor knockout phenotype. In humans, ARA290 has been evaluated in patients with small fiber neuropathy associated with sarcoidosis or type 2 diabetes (T2D) mellitus. In patients with sarcoidosis, ARA290 significantly improved neuropathic and autonomic symptoms, as well as quality of life as assessed by the small fiber neuropathy screening list questionnaire. In addition, ARA290 treatment for 28 days initiated a regrowth of small nerve fibers in the cornea, but not in the epidermis. In patients with T2D, the results were similar to those observed in patients with sarcoidosis along with an improved metabolic profile. In both populations, ARA290 lacked significant adverse effects. These experimental and clinical studies show that ARA290 effectively reprograms a proinflammatory, tissue-damaging milieu into one of healing and tissue repair. Further clinical trials with long-term treatment and follow-up are needed to assess the full potential of IRR activation by ARA290 as a disease-modifying therapy in neuropathy of various etiologies."
+  },
+  {
+   "pmid": "41092772",
+   "titel": "Pegmolesatide ameliorates indoxyl sulfate-induced cardiomyocyte hypertrophy through modulating the EPOR-CD131-dependent JAK2/STAT3 signaling pathway",
+   "jahr": "2025",
+   "journal": "Int Immunopharmacol",
+   "erstautor": "Zhang X",
+   "doi": "10.1016/j.intimp.2025.115643",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: Cardiovascular events remain the leading cause of mortality in chronic kidney disease (CKD). Pegmolesatide(P), a novel long-acting EPO receptor modulator, shows cardiovascular benefits in clinical studies. This study aims to demonstrate Pegmolesatide suppressed the formation of EPOR-CD131 heterodimer and to explore its cardioprotective mechanisms against indoxyl sulfate (IS)-induced cardiomyocyte hypertrophy. METHODS: H9c2 cardiomyocytes were assigned to different treatment groups (vehicle, IS, IS+P, P) and RNA sequencing was performed to identify dysregulated signaling pathways. Mechanistic exploration groups supplemented with CD131 agonist ARA290, STAT3 activator Colivelin, or STAT3 inhibitor Stattic for rescue experiments. Analyses included real-time qPCR/Western blot for cardiac hypertrophy markers and EPOR-CD131/JAK2/STAT3 axis components, phalloidin staining for cell size and co-immunoprecipitation (Co-IP) for EPOR-CD131 heterodimerization. RESULTS: Pegmolesatide significantly attenuated IS-induced cardiomyocyte hypertrophy, as evidenced by suppressed expression of cardiac hypertrophy markers (ANP, BNP, and β-MHC), reduced cell surface area, and improved cytoskeletal organization(P < 0.05). Mechanistically, Pegmolesatide upregulated EPOR expression while suppressing CD131 expression and activation of the JAK2/STAT3 signaling. Co-IP analysis demonstrated that Pegmolesatide suppressed the formation of EPOR-CD131 heterodimer. Functional rescue experiments showed that the cardioprotective effects of Pegmolesatide were reversed by CD131 agonist ARA290 or STAT3 activator Colivelin. Notably, combined treatment with ARA290 and STAT3 inhibitor Stattic partially restored its anti-hypertrophic activity. CONCLUSION: Pegmolesatide exerts protective effects against IS-induced cardiomyocyte hypertrophy by inhibiting the EPOR-CD131/JAK2/STAT3 signaling axis. It may be a promising strategy for CKD-related cardiovascular complications."
+  },
+  {
+   "pmid": "24225194",
+   "titel": "Renoprotective capacities of non-erythropoietic EPO derivative, ARA290, following renal ischemia/reperfusion injury",
+   "jahr": "2013",
+   "journal": "J Transl Med",
+   "erstautor": "van Rijt WG",
+   "doi": "10.1186/1479-5876-11-286",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: ARA290 is a non-erythropoietic EPO derivative which only binds to the cytoprotective receptor complex (EPOR2-βcR2) consisting of two EPO-receptors (EPOR) and two β common receptors (βcR). ARA290 is renoprotective in renal ischemia/reperfusion (I/R). In a renal I/R model we focussed on timing of post-reperfusional administration of ARA290. Furthermore, we investigated the anti-inflammatory properties of ARA290. METHODS: Twenty-six male Lewis/HanHsd rats were exposed to unilateral ischemia for 30 minutes, with subsequent removal of the contralateral kidney. Post-reperfusion, ARA290 was administered early (one hour), late (four hours) or repetitive (one and four hours). Saline was used as vehicle treatment. Rats were sacrificed after three days. RESULTS: Early ARA290 treatment improved renal function. Late- or repetitive treatment tended to improve clinical markers. Furthermore, early ARA290 treatment reduced renal inflammation and acute kidney injury at three days post-reperfusion. Late- or repetitive treatment did not affect inflammation or acute kidney injury. CONCLUSIONS: ARA290 attenuated renal ischemia/reperfusion injury. This study showed the anti-inflammatory effect of ARA290 and suggests early administration in the post-reperfusional phase is most effective. ARA290 is a candidate drug for protection against ischemic injury following renal transplantation."
+  },
+  {
+   "pmid": "24676641",
+   "titel": "Immunosuppressive effects of erythropoietin on human alloreactive T cells",
+   "jahr": "2014",
+   "journal": "J Am Soc Nephrol",
+   "erstautor": "Cravedi P",
+   "doi": "10.1681/ASN.2013090945",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Correction of anemia with erythropoietin (EPO) is associated with improved kidney transplant outcomes. Emerging evidence, predominantly from animal models, indicates that these observations may be erythropoiesis-independent and that EPO exhibits immunosuppressive properties. We examined the effects of EPO on human T-cell alloimmunity by first documenting that CD4(+) and CD8(+) T cells express EPO receptor (EPO-R) on their surfaces. In mixed lymphocyte reactions, EPO induced a dose-dependent decrease in allogeneic CD4(+) T-cell proliferation (EPO 1000 U/ml: 44.6%±22.9% of vehicle, P<0.05; 2000 U/ml: 11.1%±4% of vehicle, P<0.001) without inducing cell death. The effects required signals transmitted directly through the EPO-R expressed on T cells, resulting in diminished Th1 differentiation without effects on regulatory T-cell induction. Mechanistic studies revealed that EPO prevented IL-2-induced proliferation by uncoupling IL-2 receptor signaling, inhibiting phosphorylation of the intracellular intermediaries AKT and extracellular signal-regulated kinase that are known to mediate T-cell expansion. EPO treatment reduced expansion of human naïve CD4(+) T cells after adoptive transfer into NOD scid γc(null) mouse recipients, verifying the effects in vivo. Although activated T cells expressed CD131, an alternative EPO receptor, addition of a specific CD131 agonist peptide, ARA290, did not alter T-cell proliferation or cytokine production. Our findings link EPO-R signaling on T cells to inhibition of T-cell immunity, providing one mechanism that could explain the observed protective effects of EPO in kidney transplant recipients."
+  },
+  {
+   "pmid": "27028159",
+   "titel": "Mesoporous Silica Particles as a Multifunctional Delivery System for Pain Relief in Experimental Neuropathy",
+   "jahr": "2016",
+   "journal": "Adv Healthc Mater",
+   "erstautor": "Xie J",
+   "doi": "10.1002/adhm.201500996",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The long-term use of potent analgesics is often needed to treat chronic pain. However, it has been greatly hindered by their side effects such as addiction and withdrawal reactions. The study seeks to circumvent these drawbacks by taking advantage of a multifunctional delivery system based on nanoparticles to target on pathological neuroinflammation. A drug delivery system is designed and generated using mesoporous silica nanoparticles (MSNs) that are loaded with Δ9-THC (Δ9-tetrahydrocannabinol, a cannabinoid) and ARA290 (an erythropoietin-derived polypeptide), both of which possess analgesic and anti-inflammatory functions. The actions of such THC-MSN-ARA290 nanocomplexes depend on the enhanced permeability and retention of THC through nanosized carriers, and a redox-sensitive release of conjugated ARA290 peptide into the local inflammatory milieu. The biosafety and anti-inflammatory effects of the nanocomplexes are first evaluated in primary microglia in vitro, and further in a mouse model of chronic constriction injury. It is found that the nanocomplexes attenuate in vitro and in vivo inflammation, and achieve a sustained relief of neuropathic pain in injured animals induced by both thermal hyperalgesia and mechanical allodynia. Thus, a nanoparticle-based carrier system can be useful for the amelioration of chronic neuropathic pain through combinatorial drug delivery."
+  },
+  {
+   "pmid": "35008482",
+   "titel": "The Non-Erythropoietic EPO Analogue Cibinetide Inhibits Osteoclastogenesis In Vitro and Increases Bone Mineral Density in Mice",
+   "jahr": "2021",
+   "journal": "Int J Mol Sci",
+   "erstautor": "Awida Z",
+   "doi": "10.3390/ijms23010055",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The two erythropoietin (EPO) receptor forms mediate different cellular responses to erythropoietin. While hematopoiesis is mediated via the homodimeric EPO receptor (EPOR), tissue protection is conferred via a heteromer composed of EPOR and CD131. In the skeletal system, EPO stimulates osteoclast precursors and induces bone loss. However, the underlying molecular mechanisms are still elusive. Here, we evaluated the role of the heteromeric complex in bone metabolism in vivo and in vitro by using Cibinetide (CIB), a non-erythropoietic EPO analogue that exclusively binds the heteromeric receptor. CIB is administered either alone or in combination with EPO. One month of CIB treatment significantly increased the cortical (~5.8%) and trabecular (~5.2%) bone mineral density in C57BL/6J WT female mice. Similarly, administration of CIB for five consecutive days to female mice that concurrently received EPO on days one and four, reduced the number of osteoclast progenitors, defined by flow cytometry as Lin-CD11b-Ly6Chi CD115+, by 42.8% compared to treatment with EPO alone. In addition, CIB alone or in combination with EPO inhibited osteoclastogenesis in vitro. Our findings introduce CIB either as a stand-alone treatment, or in combination with EPO, as an appealing candidate for the treatment of the bone loss that accompanies EPO treatment."
+  },
+  {
+   "pmid": "25373867",
+   "titel": "Modulation of cellular stress response via the erythropoietin/CD131 heteroreceptor complex in mouse mesenchymal-derived cells",
+   "jahr": "2015",
+   "journal": "J Mol Med (Berl)",
+   "erstautor": "Bohr S",
+   "doi": "10.1007/s00109-014-1218-2",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Tissue-protective properties of erythropoietin (EPO) have let to the discovery of an alternative EPO signaling via an EPO-R/CD131 receptor complex which can now be specifically targeted through pharmaceutically designed short sequence peptides such as ARA290. However, little is still known about specific functions of alternative EPO signaling in defined cell populations. In this study, we investigated effects of signaling through EPO-R/CD131 complex on cellular stress responses and pro-inflammatory activation in different mesenchymal-derived phenotypes. We show that anti-apoptotic, anti-inflammatory effects of ARA290 and EPO coincide with the externalization of CD131 receptor component as an immediate response to cellular stress. In addition, alternative EPO signaling strongly modulated transcriptional, translational, or metabolic responses after stressor removal. Specifically, we saw that ARA290 was able to overcome a TNFα-mediated inhibition of transcription factor activation related to cell stress responses, most notably of serum response factor (SRF), heat shock transcription factor protein 1 (HSF1), and activator protein 1 (AP1). We conclude that alternative EPO signaling acts as a modulator of pro-inflammatory signaling pathways and likely plays a role in restoring tissue homeostasis. Key message: Erythropoietin (EPO) triggers an alternative pathway via heteroreceptor EPO/CD131. ARA290 peptide specifically binds EPO/CD131 but not the canonical EPO/EPO receptor. Oxidative stress and inflammation promote cell surface expression of CD131. ARA290 prevents tumor necrosis factor-mediated inhibition of stress-related genes. Alternative EPO signaling modulates inflammation and promotes tissue homeostasis."
+  },
+  {
+   "pmid": "28941172",
+   "titel": "Characterization of in vitro generated metabolites of selected peptides <2 kDa prohibited in sports",
+   "jahr": "2017",
+   "journal": "Drug Test Anal",
+   "erstautor": "Thomas A",
+   "doi": "10.1002/dta.2306",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "With an increasing number of prohibited substances in doping controls, knowledge about their metabolism is crucial for efficient analysis. While for low molecular mass molecules, standard protocols for in vitro metabolism experiments are well established, the situation with peptidic drugs has been shown to be substantially more heterogeneous and complex. Two principle strategies aiming at simulating the metabolism of lower molecular mass peptides in vitro are presented within this study. The prohibited peptides ARA-290, GHRP-3, and Peforelin, with a to-date unknown metabolism, were chosen as model compounds for these experiments and metabolism after incubation with different blood specimens (EDTA-, heparin-, citrate-plasma, and serum) and exposure to recombinant amidase were investigated. The characterization of in vitro generated drug-derived peptidic analytes was accomplished by means of liquid chromatography coupled to high resolution mass spectrometry. Identification of the generated metabolites was ensured by dedicated high resolution product ion experiments after liquid chromatographic separation. While extensive exopeptidase-driven metabolism was observed for ARA-290 (with one main metabolite PyrEQLERALN), GHRP-3 and Peforelin were found to exhibit a considerable metabolic stability with a low tendency for deamidation only. Copyright © 2017 John Wiley & Sons, Ltd."
+  },
+  {
+   "pmid": "27507833",
+   "titel": "Managing fatigue in sarcoidosis - A systematic review of the evidence",
+   "jahr": "2017",
+   "journal": "Chron Respir Dis",
+   "erstautor": "Atkins C",
+   "doi": "10.1177/1479972316661926",
+   "typ": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "abstract": "Fatigue is a common manifestation of sarcoidosis, often persisting without evidence of disease activity. First-line therapies for sarcoidosis have limited effect on fatigue. This review aimed to assess the treatment options targeting sarcoidosis-associated fatigue. Medline and Web of Science were searched in November 2015; the bibliographies of these papers, and relevant review papers, were also searched. Studies were included if they reported on the efficacy of interventions (both pharmacological and non-pharmacological) on fatigue scores in sarcoidosis patients. Eight studies were identified that fulfilled the inclusion criteria. These studies evaluated six different interventions (infliximab, adalimumab, ARA 290, methylphenidate, armodafinil and exercise programmes). There is evidence to support a treatment effect of anti-tumour necrosis factor (TNF)-αtherapies (adalimumab and infliximab) and neurostimulants (methylphenidate and armodafinil), but within five of the studies, the risk of bias was high within most domains and the remaining three studies included only small numbers of participants and were short in duration. Trial evidence for treating fatigue as a manifestation of sarcoidosis is limited and requires further investigation. Anti-TNF-α therapies may be beneficial in patients with organ-threatening disease. Neurostimulants have some trial evidence supporting improvements in fatigue but further investigation is needed before they can be recommended."
+  },
+  {
+   "pmid": "24529189",
+   "titel": "ARA 290, a peptide derived from the tertiary structure of erythropoietin, produces long-term relief of neuropathic pain coupled with suppression of the spinal microglia response",
+   "jahr": "2014",
+   "journal": "Mol Pain",
+   "erstautor": "Swartjes M",
+   "doi": "10.1186/1744-8069-10-13",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ],
+   "abstract": "BACKGROUND: Neuropathic pain is a difficult to treat disorder arising from central or peripheral nervous system lesions. The etiology of neuropathic pain consists of several overlapping pathways converging into an exaggerated pain state with symptoms such as allodynia and hyperalgesia. One of these pathways involves activation of spinal cord microglia and astrocytes, which drive and maintain the inflammatory response following the lesion. These cells are a potential target for drugs for neuropathic pain relief. In this current study, we investigated the dose-effect relationship of the tissue protective peptide ARA 290, derived from the tertiary structure of erythropoietin, on allodynia and concurrent spinal cord microglia and astrocytes. RESULTS: Following a spared nerve injury in rats, vehicle or ARA290 (administered in either one of 4 doses: 3, 10, 30 and 60 μg/kg) was administered on days 1, 3, 6, 8 and 10. ARA290 exerted a dose-response effect by significantly reducing mechanical allodynia up to 20 weeks when compared to vehicle. The reduction of cold allodynia was significant up to 20 weeks for the doses 3, 10, 30 and 60 μg/kg when compared to vehicle. The effect 10 and 30 μg/kg ARA290 and vehicle on the microglia response (iba-1-immunoreactivity, iba-1-IR) and astrocyte reaction (GFAP-immunoreactivity, GFAP-IR) was investigated in animals surviving 2 (group 1) or 20 (group 2) weeks following lesion or sham surgery. In group 1, significant microglia reactivity was observed in the L5 segment of the spinal cord of animals treated with vehicle when compared to sham operated, while animals treated with 10 or 30 μg/kg did not show a increase. In group 2, a more widespread and increased microglia reactivity was observed for animals treated with 0 and 10 μg/kg when compared to sham operated animals, indicated by involvement of more spinal cord segments and higher iba-1-IR. Animals treated with 30 μg/kg did not show increased microglia reactivity. No difference in astrocyte reaction was observed. CONCLUSIONS: The erythropoietin-analogue ARA290 dose-dependently reduced allodynia coupled to suppression of the spinal microglia response, suggestive of a mechanistic link between ARA290-induced suppression of central inflammation and relief of neuropathic pain symptoms."
+  },
+  {
+   "pmid": "23262243",
+   "titel": "The erythropoietin-derived peptide ARA290 reverses mechanical allodynia in the neuritis model",
+   "jahr": "2013",
+   "journal": "Neuroscience",
+   "erstautor": "Pulman KG",
+   "doi": "10.1016/j.neuroscience.2012.12.022",
+   "typ": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ],
+   "abstract": "Studies on the neuritis model suggest that in many patients with neuropathic pain, symptoms may be due to nerve inflammation rather than frank nerve injury. Treatments for these patients are often ineffective. The neuroprotective and hematopoietic agent erythropoietin (EPO) has been shown to reverse pain behaviors in nerve injury models and therefore may be of therapeutic benefit. However, EPO can cause thrombosis. ARA290 is an analog of EPO that has the neuroprotective activities of EPO without stimulating hematopoiesis. The present study has examined the effects of ARA290 on pain behavior in the neuritis model. Following neuritis induction, 30 or 120 μg/kg ARA290 or saline vehicle was injected intraperitoneally into rats daily from day 1 post surgery. Animals were assessed for mechanical allodynia and heat hyperalgesia. Levels of the cytokine tumor necrosis factor-α (TNF-α) and chemokine (CC motif) ligand 2 (CCL2) mRNA were also assessed using polymerase chain reaction. Vehicle-treated neuritis animals (n=20) developed signs of mechanical allodynia and heat hyperalgesia that reached a maximum on day 4 and 3 of testing, respectively. Treatment with either 30 (n=11) or 120 μg/kg ARA290 (n=9) prevented the development of mechanical allodynia. However, ARA290 did not significantly affect heat hyperalgesia. There was no significant difference between the effects of each drug dose (p<0.05, unpaired t test comparing area under the curve for mechanical allodynia). The levels of CCL2 and TNF-α mRNA in the nerve and Gelfoam were not significantly different following 120 μg/kg ARA290 treatment (n=3-7) compared to vehicle-treated animals (n=3-7; p=0.24; unpaired t tests). In summary, ARA290 may be beneficial in the treatment of neuropathic pain symptoms where signs of nerve injury are absent on clinical assessment. The mechanisms of action do not appear to involve the inhibition of TNF-α or CCL2 production."
+  },
+  {
+   "pmid": "38943972",
+   "titel": "The protective effect of erythropoietin and its novel derived peptides in peripheral nerve injury",
+   "jahr": "2024",
+   "journal": "Int Immunopharmacol",
+   "erstautor": "Liu G",
+   "doi": "10.1016/j.intimp.2024.112452",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Peripheral nerve injury seriously endangers human life and health, but there is no clinical drug for the treatment of peripheral nerve injury, so it is imperative to develop drugs to promote the repair of peripheral nerve injury. Erythropoietin (EPO) not only has the traditional role of promoting erythropoiesis, but also has a tissue-protective effect. Over the past few decades, researchers have confirmed that EPO has neuroprotective effects. However, side effects caused by long-term use of EPO limited its clinical application. Therefore, EPO derivatives with low side effects have been explored. Among them, ARA290 has shown significant protective effects on the nervous system, but the biggest disadvantage of ARA290, its short half-life, limits its application. To address the short half-life issue, the researchers modified ARA290 with thioether cyclization to generate a thioether cyclized helical B peptide (CHBP). ARA290 and CHBP have promising applications as peptide drugs. The neuroprotective effects they exhibit have attracted continuous exploration of their mechanisms of action. This article will review the research on the role of EPO, ARA290 and CHBP in the nervous system around this developmental process, and provide a certain reference for the subsequent research."
+  },
+  {
+   "pmid": "32674280",
+   "titel": "A Phase 2 Clinical Trial on the Use of Cibinetide for the Treatment of Diabetic Macular Edema",
+   "jahr": "2020",
+   "journal": "J Clin Med",
+   "erstautor": "Lois N",
+   "doi": "10.3390/jcm9072225",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "PURPOSE: Evaluating the effects of cibinetide in diabetic macular edema (DME). METHODS: Phase 2 trial. Naïve patients with >400 µm central retinal thickness (CRT) DME in one/both eyes were recruited (May 2016-April 2017) at the Belfast Health and Social Care Trust. The study eye was that with best vision and lowest CRT. Patients self-administered cibinetide 4 mg/day subcutaneously for 12 weeks. Primary and secondary outcomes: mean change from baseline to week 12 in best corrected visual acuity (BCVA), CRT, central retinal sensitivity, tear production, patient-reported outcomes, adverse events and antibodies to cibinetide. Descriptive statistics were used; exploratory analyses focused on non-study eyes, diabetic control, serum cytokines and albuminuria. RESULTS: Nine patients were recruited; eight completed the study. There was no improvement in mean change baseline-week 12 in BCVA (-2.9 + 5.0), CRT (10 + 94.6 microns), central retinal sensitivity (-0.53 + 1.9 dB) or tear production (-0.13 + 7.7 mm), but there was an improvement in National Eye Institute Visual Function Questionnaire (NEI VFQ-25) composite scores (2.7 + 3.1). Some participants experienced improvements in CRT, tear production, diabetic control and albuminuria. No serious adverse events/reactions or anti-cibinetide antibodies were seen. CONCLUSIONS: The cibinetide 12-week course was safe. Improvements in NEI VFQ-25 scores, CRT, tear production, diabetic control and albuminuria, observed in some participants, warrant further investigation. TRIAL REGISTRATION: EudraCT number: 2015-001940-12. ISRCTN16962255-registration date 25.06.15."
+  },
+  {
+   "pmid": "28688286",
+   "titel": "Co-delivery of a growth factor and a tissue-protective molecule using elastin biopolymers accelerates wound healing in diabetic mice",
+   "jahr": "2017",
+   "journal": "Biomaterials",
+   "erstautor": "Devalliere J",
+   "doi": "10.1016/j.biomaterials.2017.06.043",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Growth factor therapy is a promising approach for chronic diabetic wounds, but strategies to efficiently and cost-effectively deliver active molecules to the highly proteolytic wound environment remain as major obstacles. Here, we re-engineered keratinocyte growth factor (KGF) and the cellular protective peptide ARA290 into a protein polymer suspension with the purpose of increasing their proteolytic resistance, thus their activity in vivo. KGF and ARA290 were fused with elastin-like peptide (ELP), a protein polymer derived from tropoelastin, that confers the ability to separate into a colloidal suspension of liquid-like coacervates. ELP fusion did not diminish peptides activities as demonstrated by ability of KGF-ELP to accelerate keratinocyte proliferation and migration, and ARA290-ELP to protect cells from apoptosis. We examined the healing effect of ARA290-ELP and KGF-ELP alone or in combination, in a full-thickness diabetic wound model. In this model, ARA290-ELP was found to accelerate healing, notably by increasing angiogenesis in the wound bed. We further showed that co-delivery of ARA290 and KGF, with the 1:4 KGF-ELP to ARA290-ELP ratio, was the most effective wound treatment with the fastest healing rate, the thicker granulation tissue and regenerated epidermis after 28 days. Overall, this study shows that ARA290-ELP and KGF-ELP constitute promising new therapeutics for treatment of chronic wounds."
+  },
+  {
+   "pmid": "33423557",
+   "titel": "The time to develop treatments for diabetic neuropathy",
+   "jahr": "2021",
+   "journal": "Expert Opin Investig Drugs",
+   "erstautor": "Rendell MS",
+   "doi": "10.1080/13543784.2021.1868433",
+   "typ": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "abstract": "BACKGROUND: Diabetic neuropathy is a multifaceted condition affecting up to 50% of individuals with long standing diabetes. The most common presentation is peripheral diabetic sensory neuropathy (DPN). METHODS: We carried out a systematic review of papers dealing with diabetic neuropathy on Pubmed in addition to a targeted Google search.Search terms included small fiber neuropathy,diffuse peripheral neuropathy, quantitative sensory testing, nerve conduction testing, intra-epidermal nerve fiber density, corneal confocal reflectance microscopy, aldose reductase inhbitors, nerve growth factor, alpha-lipoic acid, ruboxistaurin, nerve growth factor antibody, and cibinetide. RESULTS: Over the past half century, there have been a number of agents undergoing unsuccessful trials for treatment of DPN.There are several approved agents for relief of pain caused by diabetic neuropathy, but these do not affect the pathologic process. EXPERT OPINION: The failure to find treatments for diabetic neuropathy can be ascribed to (1) the complexity of design of studies and (2) the slow progression of the condition, necessitating long duration trials to prove efficacy.We propose a modification of the regulatory process to permit early introduction of agents with demonstrated safety and suggestion of benefit as well as prolongation of marketing exclusivity while long term trials are in progress to prove efficacy."
+  },
+  {
+   "pmid": "32335150",
+   "titel": "An engineered non-erythropoietic erythropoietin-derived peptide, ARA290, attenuates doxorubicin induced genotoxicity and oxidative stress",
+   "jahr": "2020",
+   "journal": "Toxicol In Vitro",
+   "erstautor": "Shokrzadeh M",
+   "doi": "10.1016/j.tiv.2020.104864",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Erythropoietin (EPO) applies anti-inflammatory, anti-apoptotic, anti-oxidant and cytoprotective effects besides its hematopoietic action. A nonhematopoietic peptide engineered from EPO, ARA 290, interacts selectively with the innate repair receptor and has similar possessions. ARA290 mediates tissue protection without hematopoietic side-effects of EPO which limit its clinical application. Doxorubicin (DOX) is the broad-spectrum chemotherapeutic agent, but its use is limited by the development of nonspecific toxicity on noncancerous tissues especially in cardiac cells. Mechanisms behind the DOX-induced toxicities are enhanced level of oxidative damage, inflammation and apoptosis. In the present study, we have investigated whether ARA290 acts as a chemoprotective agent modulating the cytotoxicity, genotoxicity and oxidative stress induced in vitro by DOX. The genoprotective effect of ARA290 on DOX-induced toxicity in three cell line (HepG2, HGF & Stem cell) were assessed. Cells were treated with ARA290 (50-400 nM) and DOX (1 μM) in pretreatment condition. Cytotoxicity was evaluated using the MTT assay, genoprotective effect of ARA290 were evaluated using the micronucleus test and comet assay. AR290 significantly reduced the percentage of DNA in tail and the frequency of micronuclei induced by DOX. Besides, DOX impaired anti-oxidant defense enzyme activities and induced inflammation and apoptotic cell death. ARA290 markedly attenuated DOX induced oxidative stress and protected against DOX induced inflammation and apoptotic cell death. This result proposes that ARA290 can act as a protective agent, reducing DOX-induced DNA damage and oxidative stress, and it is possible that this protection could also extend to cardiac cells."
+  },
+  {
+   "pmid": "25382550",
+   "titel": "Detecting peptidic drugs, drug candidates and analogs in sports doping: current status and future directions",
+   "jahr": "2014",
+   "journal": "Expert Rev Proteomics",
+   "erstautor": "Thevis M",
+   "doi": "10.1586/14789450.2014.965159",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "With the growing availability of mature systems and strategies in biotechnology and the continuously expanding knowledge of cellular processes and involved biomolecules, human sports drug testing has become a considerably complex field in the arena of analytical chemistry. Proving the exogenous origin of peptidic drugs and respective analogs at lowest concentration levels in biological specimens (commonly blood, serum and urine) of rather limited volume is required to pursue an action against cheating athletes. Therefore, approaches employing chromatographic-mass spectrometric, electrophoretic, immunological and combined test methods have been required and developed. These allow detecting the misuse of peptidic compounds of lower (such as growth hormone-releasing peptides, ARA-290, TB-500, AOD-9604, CJC-1295, desmopressin, luteinizing hormone-releasing hormones, synacthen, etc.), intermediate (e.g., insulins, IGF-1 and analogs, 'full-length' mechano growth factor, growth hormone, chorionic gonadotropin, erythropoietin, etc.) and higher (e.g., stamulumab) molecular mass with desired specificity and sensitivity. A gap between the technically possible detection and the day-to-day analytical practice, however, still needs to be closed."
+  },
+  {
+   "pmid": "38488446",
+   "titel": "Erythropoietin-derived peptide ARA290 mediates brain tissue protection through the β-common receptor in mice with cerebral ischemic stroke",
+   "jahr": "2024",
+   "journal": "CNS Neurosci Ther",
+   "erstautor": "Wang RL",
+   "doi": "10.1111/cns.14676",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "AIM: To explore the neuroprotective effects of ARA290 and the role of β-common receptor (βCR) in a mouse model of middle cerebral artery occlusion (MCAO). METHODS: This study included male C57BL/6J mice that underwent MCAO and reperfusion. The neuroprotective effect of ARA290 on MCAO-induced brain injury was investigated using neurological function tests (Longa and modified neurological severity score). Cerebral infarction was examined by 2, 3, 5-triphenyl tetrazolium chloride staining, neuronal apoptosis was assessed by immunofluorescence staining, blood parameters were measured using a flow cytometry-based automated hematology analyzer, liquid chromatography with tandem mass spectrometry was used to identify the serum metabolomics signature, inflammatory cytokines and liver index were detected by commercially available kits, and the protein levels of the erythropoietin (EPO) receptor and βCR were measured by western blot. RESULTS: ARA290 exerted a qualitatively similar neuroprotective effect after MCAO as EPO. ARA290 significantly reduced neuronal apoptosis and the level of inflammatory cytokines in the brain tissue. However, ARA290's neuroprotective effect was significantly suppressed following the injection of siRNA against βCR. CONCLUSION: ARA290 provided a neuroprotective effect via βCR in cerebral ischemic mice without causing erythropoiesis. This study provides novel insights into the role of ARA290 in ischemic stroke intervention."
+  },
+  {
+   "pmid": "29880388",
+   "titel": "EPO Derivative ARA290 Attenuates Early Renal Allograft Injury in Rats by Targeting NF-κB Pathway",
+   "jahr": "2018",
+   "journal": "Transplant Proc",
+   "erstautor": "Yan L",
+   "doi": "10.1016/j.transproceed.2018.03.015",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: The goal of this study was to analyze the protective role of ARA290 in early renal allograft injury by using a rat model of renal allograft. METHODS: Lewis rats were divided into 3 groups: sham, University of Wisconsin solution (UW), and ARA290. A rat model of renal allograft was established by anastomosis using a titanium ring pin stapler. The kidneys were removed 24 hours after transplantation to accomplish the following: (1) examine the protective effect of ARA290 on renal morphology and function; (2) investigate the underlying mechanism by determining the binding affinity of nuclear factor-κB (NF-κB) to DNA by using an electrophoretic mobility shift assay; (3) observe the effect of ARA290 on macrophage infiltration using immunohistochemistry; and (4) detect messenger RNA (mRNA) expression of inflammatory mediators by using reverse transcriptase polymerase chain reaction. RESULTS: Serum creatinine and blood urea nitrogen levels in the ARA290 group were significantly lower than those in the UW group. Kidney tissue samples from the UW group exhibited morphologic abnormalities and marked macrophage infiltration compared with those in the sham group. In the ARA290 group, renal morphology was greatly improved with decreased macrophage infiltration. The binding affinity of NF-κB to DNA in the ARA290 group was markedly lower than that in the UW and sham groups. The mRNA expression of NF-κB downstream effectors (monocyte chemotactic protein-1; regulated on activation, normal T cell expressed and secreted; intercellular adhesion molecule-1; and vascular cell adhesion molecular-1) was significantly downregulated in the ARA290 group compared with that in the UW group. CONCLUSIONS: ARA290 protects against early renal allograft injury in rats by reducing macrophage infiltration, improving renal morphology, inhibiting mRNA expression of inflammatory mediators, and weakening the binding affinity of NF-κB to DNA."
+  }
+ ],
+ "ctgov": [
+  {
+   "nct": "NCT02070783",
+   "titel": "Cognitive and Neural Effects of ARA290",
+   "phase": "PHASE1,PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 36,
+   "start": "2012-02",
+   "ende": "2014-02",
+   "erkrankungen": [
+    "Depression"
+   ],
+   "sponsor": "Leiden University Medical Center",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT02039687",
+   "titel": "Study of Efficacy of ARA 290 on Corneal Nerve Fiber Density and Neuropathic Symptoms of Subjects With Sarcoidosis",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 64,
+   "start": "2014-01",
+   "ende": "2015-02",
+   "erkrankungen": [
+    "Neuropathy of Sarcoidosis"
+   ],
+   "sponsor": "Araim Pharmaceuticals, Inc.",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT01933529",
+   "titel": "ARA290 in T2D (Effects of ARA 290, an Erythropoietin Analogue) in Prediabetes and Type 2 Diabetes)",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "UNKNOWN",
+   "teilnehmende": 24,
+   "start": "2013-10",
+   "ende": "2015-12",
+   "erkrankungen": [
+    "Diabetes Type 2",
+    "Impaired Glucose Tolerance",
+    "Impaired Fasting Glucose"
+   ],
+   "sponsor": "Claes-Göran Östenson",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06483620",
+   "titel": "Cross-cultural Adaptation and Validity of the Arabic-translated NEUROPATHY-SPECIFIC QUALITY OF LIFE Questionnaire",
+   "phase": "",
+   "typ": "OBSERVATIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 290,
+   "start": "2025-02-13",
+   "ende": "2026-01-25",
+   "erkrankungen": [
+    "Diabetic Neuropathies",
+    "Diabetic Peripheral Neuropathy"
+   ],
+   "sponsor": "Cairo University",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06626971",
+   "titel": "The Use of ARA290 for the Treatment of Diabetic Macular Oedema",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "TERMINATED",
+   "teilnehmende": 9,
+   "start": "2016-04",
+   "ende": "2017-08",
+   "erkrankungen": [
+    "Diabetic Macular Oedema"
+   ],
+   "sponsor": "Belfast Health and Social Care Trust",
+   "ergebnisse": false
+  }
+ ],
+ "gruppe": "B_regeneration"
+}

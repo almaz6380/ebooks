@@ -1,0 +1,523 @@
+{
+ "name": "KPV",
+ "status": "nicht_zugelassen",
+ "suchbegriff_pubmed": "KPV[tiab] AND (peptide[tiab] OR tripeptide[tiab])",
+ "suchbegriff_ctgov": "KPV peptide",
+ "humanstudien_alle": [],
+ "humanstudien_detail": [],
+ "metaanalysen": [],
+ "praeklinik": [
+  {
+   "pmid": "11268347",
+   "titel": "The neuroimmunomodulatory peptide alpha-MSH",
+   "jahr": "2000",
+   "journal": "Ann N Y Acad Sci",
+   "erstautor": "Ichiyama T",
+   "doi": "10.1111/j.1749-6632.2000.tb05386.x",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S.",
+    "Review"
+   ],
+   "abstract": "Alpha-melanocyte-stimulating hormone (alpha-MSH), a neuroimmunomodulatory peptide of ancient origin, is known to be involved in the control of host responses. In inflammatory cells, in the periphery and within the central nervous system, alpha-MSH modulates the production and action of proinflammatory cytokines. This broad influence occurs via endogenous alpha-MSH (melanocortin) receptors. The key to this anti-inflammatory influence is inhibition of NF-kappa B. Indeed alpha-MSH inhibits activation of this nuclear factor through preservation of I kappa B alpha, which binds to NF-kappa B and prevents its migration to the nucleus. Cells transfected with alpha-MSH plasmid vector are resistant to challenge with bacterial lipopolysaccharide. The peptide also act on central melanocortin receptors to modulate inflammation in the periphery. In brief, alpha-MSH and certain of its fragments such as alpha-MSH [11-13] KPV modulate inflammation via three general actions: direct actions on peripheral host cells; actions on inflammatory cells within the brain to modulate local reactions; and descending neural anti-inflammatory pathways that control inflammation in peripheral tissues."
+  },
+  {
+   "pmid": "11268348",
+   "titel": "The neuropeptide alpha-MSH in host defense",
+   "jahr": "2000",
+   "journal": "Ann N Y Acad Sci",
+   "erstautor": "Catania A",
+   "doi": "10.1111/j.1749-6632.2000.tb05387.x",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S.",
+    "Review"
+   ],
+   "abstract": "The presence of the ancient peptide alpha-melanocyte-stimulating hormone (alpha-MSH) in barrier organs such as gut and skin suggests that this potent anti-inflammatory molecule may be a component of the innate host defense. In tests of antimicrobial activities, alpha-MSH and its fragment KPV showed inhibitory influences against the gram-positive bacterium Staphylococcus aureus and the yeast Candida albicans. Anti-tumor necrosis factor and antimicrobial effects of alpha-MSH suggest that the peptide might likewise reduce replication of human immunodeficiency virus (HIV). Treatment with alpha-MSH reduced HIV replication in chronically and acutely infected human monocytes. At the molecular level, alpha-MSH inhibited activation of the transcription factor NF-kappa B known to enhance HIV expression. alpha-MSH that combines antipyretic, anti-inflammatory, and antimicrobial effects could be useful in the treatment of disorders in which infection and inflammation coexist."
+  },
+  {
+   "pmid": "34846053",
+   "titel": "In situ mucoadhesive hydrogel capturing tripeptide KPV: the anti-inflammatory, antibacterial and repairing effect on chemotherapy-induced oral mucositis",
+   "jahr": "2021",
+   "journal": "Biomater Sci",
+   "erstautor": "Shao W",
+   "doi": "10.1039/d1bm01466h",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The self-healing of chemotherapy-induced oral mucositis is difficult in practice because of both local bacterial infection and severe inflammation. Herein, in situ mucoadhesive hydrogels (PPP_E) were successfully prepared by using temperature-sensitive PLGA-PEG-PLGA (PPP) as a matrix and epigallocatechin-3-gallate (EGCG) with inherent antibacterial activity as an adhesion enhancer. A series of PPP_E precursor solutions with various EGCG concentrations (1%, 2% and 5%) were prepared by fixing the PPP concentration at 25%. EGCG slightly decreased the sol-gel transition temperature and shortened the sol-gel transition time of the PPP hydrogel. Moreover, the incorporation of EGCG could significantly increase the tissue adhesion properties of the PPP hydrogel at 37 °C. PPP_2%E displayed a suitable gelation temperature (36.2 °C), gelation time (100 s) and storage modulus (48 Pa). Tripeptide KPV as a model drug was easily dissolved in cold PPP_2%E precursor solution to prepare KPV@PPP_2%E hydrogel. The anti-inflammatory activity and promotion of cell migration potential by KPV in PPP-2% E hydrogel were well maintained. Moreover, KPV@PPP_2%E exhibited strong antibacterial efficacy against S. aureus. PPP_2%E precursor solution rapidly transformed to a hydrogel and adhered to the wound surface for 7 hours when administrated to the gingival mucosa of rats. Treatment with KPV@PPP_2%E hydrogel greatly improved the food intake and body weight recovery of rats with chemotherapy-induced oral mucositis. Moreover, the tissue morphology of the ulcerated gingiva after application of KPV@PPP_E hydrogel was also well repaired by promoting CK10 and PCNA expression. In addition, the inflammatory cytokines including IL-1β and TNF-α were significantly inhibited by KPV@PPP_2%E hydrogel while IL-10 was up-regulated. KPV@PPP_2%E hydrogel also had an anti-bacterial effect on MRSA-infected gingival ulcer wounds, which resulted in the obvious inhibition of infiltration by inflammatory cells into submucosal tissues. Conclusively, KPV@PPP_E may be a promising practical application for cancer patients with chemotherapy-induced oral mucositis."
+  },
+  {
+   "pmid": "40073467",
+   "titel": "Lysine-Proline-Valine peptide mitigates fine dust-induced keratinocyte apoptosis and inflammation by regulating oxidative stress and modulating the MAPK/NF-κB pathway",
+   "jahr": "2025",
+   "journal": "Tissue Cell",
+   "erstautor": "Sung J",
+   "doi": "10.1016/j.tice.2025.102837",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Airborne particulate matter (PM) poses a major environmental risk that impairs skin health by triggering oxidative stress, inflammation, and cell death. In this study, we investigated the protective effects of Lysine-Proline-Valine (KPV)-an endogenous peptide derived from α-melanocyte-stimulating hormone-against oxidative damage and inflammation induced by fine PM (PM10) in human HaCaT keratinocytes. Our results show that PM10 markedly suppresses HaCaT cell proliferation via cytotoxic effects and induces a pro-inflammatory response by increasing IL-1β secretion. Notably, treatment with 50 μg/mL of KPV restored cell viability and reduced IL-1β secretion disrupted by PM10 exposure. To counteract PM10-induced cell death, KPV inhibited reactive oxygen species (ROS) production, which is responsible for activating extracellular signal-regulated kinase and p38 mitogen-activated protein kinase. Additionally, KPV decreased the expression of apoptosis-related proteins (Bax, Bcl-2, and cleaved caspase-3) and IL-1β through suppression of the redox-sensitive transcription factor nuclear, factor-kappa B in PM10-treated HaCaT cells. Against PM10-induced inflammation, KPV effectively blocked ROS-mediated caspase-1 activation, reducing IL-1β secretion. In a three-dimensional (3D) skin model, KPV treatment effectively attenuated the inflammatory cell death induced by PM10. Collectively, these findings suggest that KPV protects keratinocytes by mitigating PM10-induced pyroptosis and holds potential as a therapeutic agent for preventing environmental pollutant-related skin damage, with promising applications in functional cosmetics and skin-protective treatments."
+  },
+  {
+   "pmid": "31408067",
+   "titel": "A PepT1 mediated medicinal nano-system for targeted delivery of cyclosporine A to alleviate acute severe ulcerative colitis",
+   "jahr": "2019",
+   "journal": "Biomater Sci",
+   "erstautor": "Wu Y",
+   "doi": "10.1039/c9bm00925f",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "To effectively alleviate acute severe ulcerative colitis (ASUC), we developed a colon-specific delivery system-PLGA-KPV/MMT/CS multifunctional medicinal nanoparticles loaded with cyclosporine A (CyA). The lysine-proline-valine (KPV) tripeptide, which possesses anti-inflammatory properties and high affinity to peptide transporter 1 (PepT1), can target therapy-related cells (colonic epithelial cells and macrophages) via overexpression of PepT1. Montmorillonite (MMT)/chitosan (CS) coating can reduce CyA leakage in the upper gastrointestinal tract (GIT) and enhance nanoparticle adhesion to the inflamed colon. The bio-distribution demonstrated that nanoparticles can specifically accumulate in the inflamed tissues and can be retained for up to 36 h. After being treated with the CyA-PLGA-KPV/MMT/CS nanoparticles (PKMCN), the mice with DSS-induced ulcerative colitis exhibited significant improvements in body weight, colon length, and disease activity index. Moreover, biochemistry and immunohistochemical analysis showed that the PKMCN treatment group performed as well as the healthy group. Intriguingly, PKMCN without CyA also presented marked therapeutic effects. Our results suggested that PKMCN could be a promising drug delivery system for ASUC therapy by targeting inflamed cells, prolonging curative time, and mitigating colitis."
+  },
+  {
+   "pmid": "10670585",
+   "titel": "Antimicrobial effects of alpha-MSH peptides",
+   "jahr": "2000",
+   "journal": "J Leukoc Biol",
+   "erstautor": "Cutuli M",
+   "doi": "10.1002/jlb.67.2.233",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "The presence of the ancient anti-inflammatory peptide alpha-melanocyte-stimulating hormone [alpha-MSH (1-13), SYSMEHFRWGKPV] in barrier organs such as gut and skin suggests a role in the nonspecific (innate) host defense. alpha-MSH and and its carboxy-terminal tripeptide (11-13, KPV) were determined to have antimicrobial influences against two major and representative pathogens: Staphylococcus aureus and Candida albicans. alpha-MSH peptides significantly inhibited S. aureus colony formation and reversed the enhancing effect of urokinase on colony formation. Antimicrobial effects occurred over a broad range of concentrations including the physiological (picomolar) range. Small concentrations of alpha-MSH peptides likewise reduced viability and germ tube formation of the yeast C. albicans. Antimicrobial influences of alpha-MSH peptides could be mediated by their capacity to increase cellular cAMP. Indeed, this messenger was significantly augmented in peptide-treated yeast and the potent adenylyl cyclase inhibitor dideoxyadenosine (ddAdo) partly reversed the killing activity of alpha-MSH peptides. Reduced killing of pathogens is a detrimental consequence of therapy with anti-inflammatory drugs. Because alpha-MSH has potent anti-inflammatory effects we determined influences of alpha-MSH on C. albicans and S. aureus killing by human neutrophils. alpha-MSH peptides did not reduce killing but rather enhanced it, likely as a consequence of the direct antimicrobial activity. alpha-MSH peptides that combine antipyretic, anti-inflammatory, and antimicrobial effects could be useful in treatment of disorders in which infection and inflammation coexist."
+  },
+  {
+   "pmid": "41533788",
+   "titel": "Inflammation-triggered self-immolative conjugates enable oral peptide delivery by overcoming gastrointestinal barriers",
+   "jahr": "2026",
+   "journal": "Sci Adv",
+   "erstautor": "Cheng J",
+   "doi": "10.1126/sciadv.aea2989",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Oral delivery of peptide therapeutics remains challenging due to gastrointestinal (GI) degradation and poor intestinal absorption. Here, we propose a self-immolative peptide prodrug conjugate (SIPPC) platform for inflammation-targeted oral delivery, integrating a hydrophilic polyethylene glycol segment, a reactive oxygen species (ROS)-responsive hydrophobic self-immolative module, and a hydrolyzable scaffold, which collectively enable spontaneous assembly into micelle-like nanoparticles. Using three anti-inflammatory peptides (KPV, Ac-QAW, and IRW), we demonstrated that the engineered conjugates exhibit remarkable GI stability, efficient mucus penetration, and ROS-responsive release at inflamed sites. In colitis mice, the KPV-based conjugate (proKPV) achieved a 3.8-fold greater colonic accumulation than free KPV, with enhanced efficacy even at a 20-fold lower dose. Beyond therapeutic effects in the colitis model, oral proKPV substantially accumulated in inflamed lungs and exhibited potent anti-inflammatory efficacy in mice with acute lung injury. Ac-QAW and IRW-based conjugates exhibited comparable benefits, underscoring SIPPC as a transformative paradigm for oral peptide therapeutics, offering substantial promise for clinical translation in inflammatory disorders."
+  },
+  {
+   "pmid": "41880199",
+   "titel": "A new era of doping? Use of peptide and peptide-analog drugs in recreational and professional sport and bodybuilding: a critical review",
+   "jahr": "2026",
+   "journal": "J Sports Med Phys Fitness",
+   "erstautor": "Coutinho LFD",
+   "doi": "10.23736/S0022-4707.26.17773-1",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "The pursuit of pharmacological enhancement in sport has evolved from the widespread use of anabolic-androgenic steroids (AAS) to novel agents such as peptides and peptide analogues. Marketed as more selective and ostensibly safer alternatives, peptides-including growth hormone secretagogues (e.g., Ipamorelin), growth hormone-releasing hormone analogues (e.g., CJC-1295, Sermorelin), and synthetic fragments (e.g., Frag 176-191, KPV)-are promoted for muscle growth, fat metabolism, recovery, and anti-inflammatory effects. Their pharmacological profiles, including enhanced stability and receptor selectivity, have made them attractive in both medical research and bodybuilding communities. Despite their growing popularity, the clinical evidence supporting peptide use in sport is limited. Most published studies examine therapeutic applications under controlled dosing regimens, not the supraphysiological or combined protocols common in bodybuilding. Emerging data highlight potential risks: cardiovascular strain, insulin resistance, dyslipidemia, and psychiatric instability. The largely unregulated supply chain exacerbates these dangers, as products are often mislabeled or contaminated. Regulatory bodies such as the World Anti-Doping Agency (WADA) have responded by expanding detection technologies, yet analytical challenges remain due to peptides' structural similarity to endogenous hormones and short half-lives. Beyond elite sport, the extent of peptide use in the general population is unknown. Anecdotal reports and widespread promotion on social media suggest growing uptake among recreational gym-goers, including younger individuals, but prevalence studies are lacking. This represents a critical gap in current knowledge. In conclusion, peptides represent a new phase in performance enhancement but remain experimental substances with poorly defined long-term risks. Until longitudinal data clarify their safety and prevalence, peptide use in both competitive and recreational settings should be considered high-risk and ethically problematic."
+  },
+  {
+   "pmid": "42064835",
+   "titel": "Lysine-proline-valine peptide attenuates hepatic lipid accumulation through ROS-dependent regulation of the PPARγ pathway in HepG2 cells",
+   "jahr": "2026",
+   "journal": "Cytotechnology",
+   "erstautor": "Lee JY",
+   "doi": "10.1007/s10616-026-00967-z",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "UNLABELLED: Hepatocellular steatosis, an early stage within the non-alcoholic fatty liver disease (NAFLD) spectrum, is characterized by excessive lipid accumulation and oxidative stress in hepatocytes. This study examined the protective role of Lysine-Proline-Valine (KPV), an endogenous tripeptide derived from α-melanocyte-stimulating hormone, against oleic acid (OA)-induced oxidative damage and lipid accumulation in hepatic epithelial HepG2 cells. OA treatment markedly enhanced hepatic lipid deposition by upregulation of fatty acid synthase (FAS) expression. Treatment with KPV (100 µg/mL) significantly attenuated OA-induced lipid accumulation and suppressed FAS expression without inducing cytotoxicity. Mechanistic analysis revealed that KPV reduced reactive oxygen species generation, thereby preventing activation of extracellular signal-regulated kinase. KPV also downregulated AKT phosphorylation, leading to inhibition of mTORC1 phosphorylation under hepatic steatosis conditions. Furthermore, KPV regulated the phosphorylation of peroxisome proliferator-activated receptor gamma, a key transcription factor in de novo lipogenesis, thereby normalizing FAS expression. These findings suggest that KPV acts as an effective antioxidant regulator of lipogenic signaling and may hold potential as a therapeutic candidate for attenuating hepatocellular steatosis. SUPPLEMENTARY INFORMATION: The online version contains supplementary material available at 10.1007/s10616-026-00967-z."
+  },
+  {
+   "pmid": "28349696",
+   "titel": "Peptide Receptor-Targeted Fluorescent Probe: Visualization and Discrimination between Chronic and Acute Ulcerative Colitis",
+   "jahr": "2017",
+   "journal": "ACS Appl Mater Interfaces",
+   "erstautor": "Zeng M",
+   "doi": "10.1021/acsami.7b00936",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The inflammatory activity of ulcerative colitis plays an important role in the medical treatment. However, accurate and real-time monitoring of the colitis activity with noninvasive bioimaging method is still challenging, especially in distinguishing between chronic and acute colitis. As a good receptor, the oligopeptide transporter (PepT1) is overexpressed in the colonic epithelial cells of chronic ulcerative colitis, which can deliver tripeptide KPV (Lys-Pro-Val, the C-terminal sequence of α-MSH) into cytosol in the intestine. Herein, we report a PepT1 peptide receptor-targeted fluorescent probe, dicyanomethylene-4H-pyran (DCM)-KPV, with the strategy of conjugating the KPV into the DCM chromophore. The diagnostic fluorescent probe bestows a specific receptor-targeted interaction with PepT1 through the KPV moiety, possessing several beneficial characteristics, such as efficient long emission, low photobleaching, negligible cytotoxicity, and high cytocompatibility in living cells. We build the overexpressed PepT1 on the cytomembrane of ulcerative colitis model Caco-2 cell as the efficient receptor to accumulate the targeted tripeptide KPV in the cytoplasm and nucleus. With the co-localization of DCM-KPV and the DNA-specific fluorophore, DAPI, the specifically long emission from chromophore DCM and efficient receptor-targeted peptide KPV, the fluorescent probe of DCM-KPV makes a breakthrough to the direct noninvasive observation of the accumulation in colon inflammation regions via intestinal mucosa, even successfully distinguishing the chronic, acute ulcerative colitis and normal groups. Compared with the traditional unenhanced magnetic resonance imaging and hematoxylin and eosin (H&E) staining, we make full use of exploiting the specific target-receptor interaction between the tripeptide unit, KPV, and the oligopeptide transporter, PepT1, for sensing selectivity. The desirable diagnostic ability of DCM-KPV can guarantee the real-time tracking and visualization of the role of intracellular KPV on ulcerative colitis, which provides an alternative to replace the time-consuming and tissue sampling-invasive H&E staining diagnosis."
+  },
+  {
+   "pmid": "37859689",
+   "titel": "A nanoparticle platform for combined mucosal healing and immunomodulation in inflammatory bowel disease treatment",
+   "jahr": "2024",
+   "journal": "Bioact Mater",
+   "erstautor": "Marotti V",
+   "doi": "10.1016/j.bioactmat.2023.09.014",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Current treatments for inflammatory bowel disease (IBD) treatment consist of anti-inflammatory products. In this study, we sought to induce the physiological secretion of glucagon-like peptide 2, a peptide with intestinal growth-promoting activity, via nanoparticles while simultaneously providing with immunomodulation by tailoring the nanoparticle surface. To this end, we developed hybrid lipid hyaluronate-KPV conjugated nanoparticles loaded with teduglutide for combination therapy in IBD. The nanocarriers induced (or did not induce) immunosuppression depending on the presence (or absence) of a hyaluronan-KPV functionalization. This strategy holds promise as a nanoparticle platform for combined mucosal healing and immunomodulation in IBD treatment."
+  },
+  {
+   "pmid": "28143741",
+   "titel": "Orally Targeted Delivery of Tripeptide KPV via Hyaluronic Acid-Functionalized Nanoparticles Efficiently Alleviates Ulcerative Colitis",
+   "jahr": "2017",
+   "journal": "Mol Ther",
+   "erstautor": "Xiao B",
+   "doi": "10.1016/j.ymthe.2016.11.020",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Overcoming adverse effects and selectively delivering drug to target cells are two major challenges in the treatment of ulcerative colitis (UC). Lysine-proline-valine (KPV), a naturally occurring tripeptide, has been shown to attenuate the inflammatory responses of colonic cells. Here, we loaded KPV into hyaluronic acid (HA)-functionalized polymeric nanoparticles (NPs). The resultant HA-KPV-NPs had a desirable particle size (∼272.3 nm) and a slightly negative zeta potential (∼-5.3 mV). These NPs successfully mediated the targeted delivery of KPV to key UC therapy-related cells (colonic epithelial cells and macrophages). In addition, these KPV-loaded NPs appear to be nontoxic and biocompatible with intestinal cells. Intriguingly, we found that HA-KPV-NPs exert combined effects against UC by both accelerating mucosal healing and alleviating inflammation. Oral administration of HA-KPV-NPs encapsulated in a hydrogel (chitosan/alginate) exhibited a much stronger capacity to prevent mucosa damage and downregulate TNF-α, thus they showed a much better therapeutic efficacy against UC in a mouse model, compared with a KPV-NP/hydrogel system. These results collectively demonstrate that our HA-KPV-NP/hydrogel system has the capacity to release HA-KPV-NPs in the colonic lumen and that these NPs subsequently penetrate into colitis tissues and enable KPV to be internalized into target cells, thereby alleviating UC."
+  },
+  {
+   "pmid": "18061177",
+   "titel": "PepT1-mediated tripeptide KPV uptake reduces intestinal inflammation",
+   "jahr": "2008",
+   "journal": "Gastroenterology",
+   "erstautor": "Dalmasso G",
+   "doi": "10.1053/j.gastro.2007.10.026",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "abstract": "BACKGROUND & AIMS: KPV is a tripeptide (Lys-Pro-Val), which possesses anti-inflammatory properties; however, its mechanisms of action still remain unknown. PepT1 is a di/tripeptide transporter normally expressed in the small intestine and induced in colon during inflammatory bowel disease (IBD). The aim of this study was to 1) investigate whether the KPV anti-inflammatory effect is PepT1-mediated in intestinal epithelian and immune cells, and 2) examine the anti-inflammatory effects in two models of mice colitis. METHODS: Human intestinal epithelial cells Caco2-BBE, HT29-Cl.19A, and human T cells (Jurkat) were stimulated with pro-inflammatory cytokines in the present or absence of KPV. KPV anti-inflammatory effect was assessed using a NF-kappaB luciferase gene reporter, Western blot, real-time RT-PCR and ELISA. Uptake experiments were performed using cold KPV as a competitor for PepT1 radiolabelled substrate or using [(3)H]KPV to determine kinetic characteristics of KPV uptake. Anti-inflammatory effect of KPV was also investigated in DSS- and TNBS-induced colitis in mice. KPV was added to drinking water and inflammation was assessed at the histologic level and by proinflammatory cytokine mRNA expression. RESULTS: Nanomolar concentrations of KPV inhibit the activation of NF-kappaB and MAP kinase inflammatory signaling pathways, and reduce pro-inflammatory cytokine secretion. We found that KPV acts via PepT1 expressed in immune and intestinal epithelial cells. Furthermore, oral administration of KPV reduces the incidence of DSS- and TNBS-induced colitis indicated by a decrease in pro-inflammatory cytokine expression. CONCLUSIONS: This study indicates tht KPV is transported into cells by PepT1 and might be a new therapeutic agent for IBD."
+  },
+  {
+   "pmid": "18092346",
+   "titel": "Melanocortin-derived tripeptide KPV has anti-inflammatory potential in murine models of inflammatory bowel disease",
+   "jahr": "2008",
+   "journal": "Inflamm Bowel Dis",
+   "erstautor": "Kannengiesser K",
+   "doi": "10.1002/ibd.20334",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Despite some progress in recent years, the options for treating inflammatory bowel disease (IBD) are still dissatisfying, and surgery rates are still high. The anti-inflammatory effects of melanocortin peptides such as alpha-melanocyte-stimulating hormone (alpha-MSH) have been described recently in, for example, dextran sodium sulfate (DSS) colitis in mice. The aim of this study was to investigate the therapeutic potential of the melanocortin-derived tripeptide alpha-MSH(11-13) (KPV) and its mode of action in 2 models of intestinal inflammation. METHODS: The anti-inflammatory activity of KPV was analyzed in 2 well-described models of IBD: DSS colitis, and CD45RB(hi) transfer colitis. Furthermore, animals expressing a nonfunctional melanocortin-1 receptor (MC1Re/e) received DSS for induction of colitis and were treated with KPV. The course of inflammation was monitored by weight loss and histological changes in the colon as well as by myeloperoxidase (MPO) activity. RESULTS: In the DSS-colitis model, treatment with KPV led to earlier recovery and significantly stronger regain of body weight. Histologically, inflammatory infiltrates were significantly reduced in KPV-treated mice, which was confirmed by the significant reduction of MPO activity in colonic tissue after KPV treatment. Supporting these findings, KPV treatment of transfer colitis led to recovery, regain of body weight, and reduced inflammatory changes histologically. In MC1Re/e mice, KPV treatment rescued all animals in the treatment group from death during DSS colitis. CONCLUSIONS: The melanocortin-derived tripeptide KPV showed significant anti-inflammatory effects in 2 murine models of colitis. These effects seem to be at least partially independent of MC1R signaling. In conclusion, our data suggest KPV as an interesting therapeutic option for the treatment of IBD."
+  },
+  {
+   "pmid": "34547895",
+   "titel": "Self-Cross-Linked Hydrogel of Cysteamine-Grafted γ-Polyglutamic Acid Stabilized Tripeptide KPV for Alleviating TNBS-Induced Ulcerative Colitis in Rats",
+   "jahr": "2021",
+   "journal": "ACS Biomater Sci Eng",
+   "erstautor": "Sun J",
+   "doi": "10.1021/acsbiomaterials.1c00792",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "KPV (Lys-Pro-Val), which is a tripeptide derived from α-MSH (α-melanocyte-stimulating hormone), has an anti-inflammatory effect on colitis. However, KPV solution is very unstable when rectally administered, compromising its therapeutic efficacy. Herein, cysteamine-grafted γ-polyglutamic acid (SH-PGA) was synthesized by conjugating cysteamine with the carboxyl groups of γ-PGA. The synthesized SH-PGA has the thiol grafting amount of 4.5 ± 0.3 mmol/g. Without the use of the cross-linker, the SH-PGA hydrogel with 4% of the polymer was formed by self-cross-linking of thiol groups. Moreover, the formation of the SH-PGA hydrogel was not affected by KPV. The KPV/SH-PGA hydrogel presented higher elastic modulus (G') than the corresponding viscous modulus (G″) at 0.01-10 Hz, exhibiting good mechanical stability. The KPV/SH-PGA hydrogel presented a shear-thinning behavior, which was helpful for rectal administration. Only 30% of KPV was released from the KPV/SH-PGA hydrogel within 20 min, followed by a sustained-release behavior. Importantly, the stability of KPV in the SH-PGA hydrogel was obviously enhanced, which was presented by detecting its anti-inflammatory activity and promoting cell migration potential after 2 h of exposure to 37 °C. The enhanced therapeutic effect of the KPV/SH-PGA hydrogel on colitis was confirmed on 2,4,6-trinitrobenzene sulfonic acid (TNBS)-induced ulcerative colitis rats. The colitis symptoms including body weight loss and the disease activity index score were obviously attenuated by rectally administering the KPV/SH-PGA hydrogel. Besides, the KPV/SH-PGA hydrogel treatment prevented the colon shortening of TNBS-infused rats and decreased the colonic myeloperoxidase level. The morphology of the colon including the epithelial barrier, crypt, and intact goblet cells was recovered after KPV/SH-PGA hydrogel treatment. Besides, the KPV/SH-PGA hydrogel decreased the expression of proinflammatory cytokines such as tumor necrosis factor α and interleukin 6. Collectively, the KPV/SH-PGA hydrogel may provide a promising strategy for the treatment of ulcerative colitis."
+  },
+  {
+   "pmid": "19909746",
+   "titel": "Drug-loaded nanoparticles targeted to the colon with polysaccharide hydrogel reduce colitis in a mouse model",
+   "jahr": "2010",
+   "journal": "Gastroenterology",
+   "erstautor": "Laroui H",
+   "doi": "10.1053/j.gastro.2009.11.003",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND & AIMS: One of the challenges to treating inflammatory bowel disease (IBD) is to target the site of inflammation. We engineered nanoparticles (NPs) to deliver an anti-inflammatory tripeptide Lys-Pro-Val (KPV) to the colon and assessed its therapeutic efficacy in a mouse model of colitis. METHODS: NPs were synthesized by double-emulsion/solvent evaporation. KPV was loaded into the NPs during the first emulsion of the synthesis process. To target KPV to the colon, loaded NPs (NP-KPV) were encapsulated into a polysaccharide gel containing 2 polymers: alginate and chitosan. The effect of KPV-loaded NPs on inflammatory parameters was determined in vitro as well as in the dextran sodium sulfate-induced colitis mouse model. RESULTS: NPs (400 nm) did not affect cell viability or barrier functions. A swelling degree study showed that alginate-chitosan hydrogel containing dextran-fluorescein isothiocyanate-labeled NPs collapsed in the colon. Once delivered, NPs quickly released KPV on or within the closed area of colonocytes. The inflammatory responses to lipopolysaccharide were reduced in Caco2-BBE (brush border enterocyte) cells exposed to NP-KPV compared with those exposed to NPs alone, in a dose-dependent fashion. Mice given dextran sodium sulfate (DSS) followed by NP-KPV were protected against inflammatory and histologic parameters, compared with mice given only DSS. CONCLUSIONS: Nanoparticles are a versatile drug delivery system that can overcome physiologic barriers and target anti-inflammatory agents such as the peptide KPV to inflamed areas. By using NPs, KPV can be delivered at a concentration that is 12,000-fold lower than that of KPV in free solution, but with similar therapeutic efficacy. Administration of encapsulated drug-loaded NPs is a novel therapeutic approach for IBD."
+  },
+  {
+   "pmid": "39252648",
+   "titel": "KPV and RAPA Self-Assembled into Carrier-Free Nanodrugs for Vascular Calcification Therapy",
+   "jahr": "2024",
+   "journal": "Adv Healthc Mater",
+   "erstautor": "Zhang L",
+   "doi": "10.1002/adhm.202402320",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Cardiovascular disease (CVD) is a leading cause of death globally, and vascular calcification (VC) is an important independent risk factor for predicting CVD. Currently, there are no established therapeutic strategies for the treatment of VC. Although recognized combination therapies of nanomedicines can provide effective strategies for disease treatment, the clinical application of nanomedicines is limited because of their complex preparation processes, low drug loading rates, and unpredictable safety risks. Thus, developing a simple, efficient, and safe nanodrug to simultaneously regulate inflammation and autophagy may be a promising strategy for treating VC. Herein, an anti-inflammatory peptide (lysine-proline-valine peptides, KPV) and the autophagy activator rapamycin (RAPA) are self-assembled to form new carrier-free spherical nanoparticles (NPs), which shows good stability and biosafety. In vivo and in vitro, KPV-RAPA NPs significantly inhibit VC in mice compared to the other treatment groups. Mechanistically, KPV-RAPA NPs inhibit inflammatory responses and activated autophagy. Therefore, this study indicates that the new carrier-free KPV-RAPA NPs have great potential as therapeutic agents for VC combination therapy, which can promote the development of nanodrugs for VC."
+  },
+  {
+   "pmid": "12851308",
+   "titel": "New insights into the functions of alpha-MSH and related peptides in the immune system",
+   "jahr": "2003",
+   "journal": "Ann N Y Acad Sci",
+   "erstautor": "Luger TA",
+   "doi": "10.1111/j.1749-6632.2003.tb03172.x",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "There is a substantial body of evidence that the tridecapeptide alpha-melanocyte-stimulating hormone (alpha-MSH) functions as a mediator of immunity and inflammation. The immunomodulating capacity of alpha-MSH is primarily because of its effects on melanocortin receptor (MC-1R)-expressing monocytes, macrophages, and dendritic cells (DCs). alpha-MSH down-regulates the production of proinflammatory and immunomodulating cytokines (IL-1, IL-6, TNF-alpha, IL-2, IFN-gamma, IL-4, IL-13) as well as the expression of costimulatory molecules (CD86, CD40, ICAM-1) on antigen-presenting DCs. In contrast, the production of the cytokine synthesis inhibitor IL-10 is up-regulated by alpha-MSH. At the molecular level, these effects of alpha-MSH are mediated via the inhibition of the activation of transcription factors such as NFkappaB. Not only alpha-MSH but also its C-terminal tripeptide (alpha-MSH 11-13, KPV) was able to bind to MC-1R and to modulate the function of APCs. In vivo, using a mouse model of contact hypersensitivity (CHS) systemic and topical application of alpha-MSH or KPV inhibited the sensitization and the elicitation phase of CHS and was able to induce hapten-specific tolerance. To investigate the underlying mechanisms of tolerance induction, we have performed in vivo transfer experiments. Treatment of naive mice with bone marrow-derived immature haptenized and alpha-MSH-pulsed DCs resulted in a significant inhibition of CHS. Furthermore, tolerance induction was found to be mediated by the generation of CTLA4(+) and IL-10-producing T lymphocytes. The potent capacity of alpha-MSH to modulate the function of antigen-presenting cells (APCs) has been further supported in another experimental approach. In vitro, by activating APCs, alpha-MSH has been shown to modulate IgE production by IL-4 and anti-CD40 stimulated B lymphocytes. Moreover, in a murine model of allergic airway inflammation, systemic treatment with alpha-MSH resulted in a significant reduction of allergen-specific IgE production, eosinophil influx, and IL-4 production. These effects were mediated via IL-10 production, because IL-10 knockout mice were resistant to alpha-MSH treatment. Therefore, therapeutic application of alpha-MSH or related peptides (KPVs) as well as alpha-MSH/KPV-pulsed DCs may be a useful approach for the treatment of inflammatory, autoimmune, and allergic diseases in the future."
+  },
+  {
+   "pmid": "22178636",
+   "titel": "Modulation of basophil activity: a novel function of the neuropeptide α-melanocyte-stimulating hormone",
+   "jahr": "2012",
+   "journal": "J Allergy Clin Immunol",
+   "erstautor": "Böhm M",
+   "doi": "10.1016/j.jaci.2011.11.012",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Little is known about the effect of neuropeptides on basophils, which are important effector cells in immune and allergic responses. OBJECTIVE: This study aimed at revealing the role of α-melanocyte-stimulating hormone (α-MSH) on basophil function. METHODS: Expression of melanocortin receptors and proopiomelanocortin (POMC) was analyzed by means of RT-PCR, Western immunoblotting, fluorescence-activated cell sorting, and double-immunofluorescence analysis. Signal transduction studies included cyclic AMP and Ca(2+) mobilization assays. Basophil activity was assessed based on CD63 surface expression and cytokine release. RESULTS: MC-1R expression was detectable in basophils isolated from human peripheral blood, as well as in basophils within nasal tissue. In isolated basophils from human blood, truncated POMC transcripts were present, but there was no POMC protein. Treatment of basophils with α-MSH increased intracellular Ca(2+) but not cyclic AMP levels. α-MSH at physiologic doses potently suppressed basophil activation induced by N-formyl-methionyl-leucyl-phenylalanine, phorbol 12-myristate 13-acetate, or grass pollen allergen in whole blood of healthy or allergic subjects, respectively. The effect of α-MSH on basophil activation was MC-1R mediated (as shown by blockade with a peptide analogue of agouti-signaling protein) and imitated by adrenocorticotropic hormone but not elicited by the tripeptides KPV and KdPT, both of which lack the central pharmacophore of α-MSH. Moreover, α-MSH at physiologic doses significantly suppressed secretion of 3 proallergic cytokines, IL-4, IL-6, and IL-13, in basophils stimulated with anti-IgE, N-formyl-methionyl-leucyl-phenylalanine, or phorbol 12-myristate 13-acetate. CONCLUSION: Our findings highlight a novel functional activity of α-MSH, which acts as a natural antiallergic basophil-response modifier. These findings might point to novel therapeutic strategies in treating allergic diseases."
+  },
+  {
+   "pmid": "16965771",
+   "titel": "Effects of the COOH-terminal tripeptide alpha-MSH(11-13) on corneal epithelial wound healing: role of nitric oxide",
+   "jahr": "2006",
+   "journal": "Exp Eye Res",
+   "erstautor": "Bonfiglio V",
+   "doi": "10.1016/j.exer.2006.07.014",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "It is known that alpha-melanocyte stimulating hormone (alpha-MSH) may exert anti-inflammatory effects and facilitate reparative processes in different tissues. The effective message sequence of alpha-MSH resides in the COOH-terminal tripeptide alpha-MSH(11-13). This study was undertaken to investigate the effects of topical administration of the COOH-terminal tripeptide sequence of alpha-MSH (alpha-MSH(11-13), KPV) on corneal epithelial wound healing in rabbits and the possible role of nitric oxide (NO) in these effects. The whole corneal epithelium was denuded in both eyes by mechanical abrasion. The area of the corneal epithelial defect was stained with fluorescein, photographed, and then measured before the treatment and every 12 h by a computerized software. The mean epithelial wound area and the mean percent of epithelial defect remaining at each follow-up control were compared between experimental groups. Rabbits were topically treated with KPV 1, 5 or 10 mg/ml (30 microl), two drops four times in a day, for 4 days, starting immediately after corneal abrasion, while control animals received topical phosphate-buffered saline as vehicle. In order to study the role of NO in corneal repair processes, the NO donor, sodium nitroprusside (SP, 10 mg/ml, 30 microl) was administered in both eyes, two drops four times in a day, for 4 days. The effects of KPV or SP were challenged by pre-treatment with the nitric oxide synthase inhibitor, N omega-nitro-L-arginine methyl ester (L-NAME, 10 mg/ml, 30 microl) 30 min prior to KPV or SP instillation. The mean percent epithelial defect remaining each time was significantly smaller in animals treated with KPV or SP in comparison to controls. Sixty hours later, eight out of eight (100%) corneas treated with KPV or SP were completely re-epithelized (P<0.05) while none of the corneas treated with placebo were re-epithelized. Pre-treatment with L-NAME inhibited the facilitating effect of KPV on corneal epithelial wound healing process and totally prevented the effect of SP. Rabbit corneal epithelial cells (RCE) in culture were exposed for 1, 6 and 24 h to different KPV concentrations (0.1, 1 and 10 microM) in medium containing 15% foetal bovine serum (FBS). Cell viability was stimulated by 1 and 10 microM concentrations of the substance. Thus, KPV may facilitate corneal epithelial wound healing in rabbits with a mechanism that may involve NO disposition in corneal tissue. However, it is not known whether this mechanism is likely to depend on a direct stimulating repairing activity shared by the entire molecule of alpha-MSH."
+  },
+  {
+   "pmid": "28343991",
+   "titel": "Transdermal Iontophoretic Delivery of Lysine-Proline-Valine (KPV) Peptide Across Microporated Human Skin",
+   "jahr": "2017",
+   "journal": "J Pharm Sci",
+   "erstautor": "Pawar K",
+   "doi": "10.1016/j.xphs.2017.03.017",
+   "typ": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ],
+   "abstract": "Lysine-proline-valine (KPV) is a C-terminal peptide fragment of α-melanocyte stimulating hormone with potent anti-inflammatory properties. Present study investigates various transdermal enhancement strategies such as iontophoresis (ITP), microneedles (MN), and their combination (ITP + MN) on KPV delivery across dermatomed human skin. KPV attains a positive charge at pH less than 7.0, thus anodal ITP was used. The influence of current strength, KPV concentration, and duration of current application on the KPV delivery was investigated. At defined ITP parameters, the influence of MN on KPV delivery (ITP + MN) across skin was also determined. KPV permeation was less than detectable levels (limit of detection, 0.01 μg/mL) by simple passive diffusion. However, KPV permeation was increased to 4.4 μg/cm2/h by MN treatment. Furthermore, ITP and ITP + MN increased the permeation rate by 8 and 35 fold, respectively, as compared to MN alone. The skin retention levels of KPV by MN, ITP, and ITP + MN were increased by 5, 10, and 10 fold, respectively, as compared to passive diffusion. Confocal studies indicate that fluorescein isothiocyanate-labeled KPV migrated through the stratum corneum, along the microchannels and into the lower epidermal tissue because the fluorescence was observed beyond the depth of 100 μm."
+  },
+  {
+   "pmid": "38289234",
+   "titel": "Growth Factors-Loaded Temperature-Sensitive Hydrogel as Biomimetic Mucus Attenuated Murine Ulcerative Colitis via Repairing the Mucosal Barriers",
+   "jahr": "2024",
+   "journal": "ACS Appl Mater Interfaces",
+   "erstautor": "Li D",
+   "doi": "10.1021/acsami.3c15684",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The pathogenesis of ulcerative colitis (UC) is associated with the shedding of the gut mucus. Herein, inspired by the biological functions of mucus, growth factors-loaded in situ hydrogel (PHE-EK) was designed for UC treatment by integrating dihydrocaffeic acid-modified poloxamer as a thermosensitive material with hyaluronic acid (colitis-specific adhesive), epigallocatechin-3-gallate (antibacterial agent), and bioactive factors (KPV tripeptide and epidermal growth factor). PHE-EK presented good thermosensitive properties, as a flowable liquid at room temperature and gelled within 10 s when exposed to body temperature. PHE-EK hydrogel presented good mechanical strength with a strain of 77.8%. Moreover, PHE-EK hydrogel displayed antibacterial activity against Escherichia coli. Importantly, in vitro and in vivo adhesive tests showed that the PHE-EK hydrogel could specifically adhere to the inflamed colon via electrostatic interaction. When PHE-EK as a biomimetic mucus was rectally administrated to colitis rats, it effectively hindered the body weight loss, reduced the disease activity index and improved the colonic shorting. Moreover, the expression of pro-inflammatory cytokines (e.g., IL-1β, IL-6, and TNF-α) at the laminae propria or epitheliums of the colon for colitis rats was substantially inhibited by PHE-EK. Besides, the colonic epitheliums were well rearranged, and the tight junction proteins (Zonula-1 and Claudin-5) between them were greatly upregulated after PHE-EK treatment. Collectively, PHE-EK might be a promising therapy for UC."
+  },
+  {
+   "pmid": "16274845",
+   "titel": "Immobilized alpha-melanocyte stimulating hormone 10-13 (GKPV) inhibits tumor necrosis factor-alpha stimulated NF-kappaB activity",
+   "jahr": "2006",
+   "journal": "Peptides",
+   "erstautor": "Kelly JM",
+   "doi": "10.1016/j.peptides.2005.03.062",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "alpha-MSH is an anti-inflammatory peptide which signals by binding to the melanocortin-1 receptor (MC1R) and elevating cyclic AMP in several different cells and tissues. The carboxyl terminal peptides of alpha-MSH (KPV/GKPV) are the smallest minimal sequences that prevent inflammation, but it is not known if they operate via MC1R or cyclic AMP. The aim of this study was to examine the intracellular signaling potential of the GKPV peptide sequence when immobilized to polystyrene beads via a polyethylene glycol moiety. Beads containing an immobilized GKPV peptide were investigated for their ability to inhibit proinflammatory tumor necrosis factor-alpha (TNF-alpha) stimulated activation of NF-kappaB in HBL cells stably transfected with an NF-kappaB-luciferase reporter construct. Peptide functionalized beads were compared with the ability of soluble peptide alone (alpha-MSH or GKPV) or non-functionalized beads to inhibit TNF-alpha stimulated activation of NF-kappaB. GKPV peptide functionalized beads significantly inhibited NF-kappaB-luciferase activity in comparison to beads containing no peptide moiety in one of two growths conditions investigated. Soluble alpha-MSH and GKPV peptides were also confirmed to inhibit NF-kappaB-luciferase. The present study suggests that the carboxyl terminal MSH peptide acts via a cell receptor-based mechanism and furthermore may support the potential use of such immobilized ligands for anti-inflammatory therapeutic use."
+  },
+  {
+   "pmid": "29953505",
+   "titel": "Structural modification of the tripeptide KPV by reductive \"glycoalkylation\" of the lysine residue",
+   "jahr": "2018",
+   "journal": "PLoS One",
+   "erstautor": "Songok AC",
+   "doi": "10.1371/journal.pone.0199686",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Peptides that exhibit enzymatic or hormonal activities are regulatory factors and desirable therapeutic drugs because of their high target specificity and minimal side effects. Unfortunately, these drugs are susceptible to enzymatic degradation, leading to their rapid elimination and thereby demanding frequent dosage. Structurally modified forms of some peptide drugs have shown enhanced pharmacokinetics, improving their oral bioavailability. Here, we discuss a novel glycomimetic approach to modify lysine residues in peptides. In a model system, the ε-amine of Ts-Lys-OMe was reductively alkylated with a glucose derivative to afford a dihydroxylated piperidine in place of the amine. A similar modification was applied to H-KPV-NH2, a tripeptide derived from the α-melanocyte stimulating hormone (α-MSH) reported to have antimicrobial and anti-inflammatory properties. Antimicrobial assays, under a variety of conditions, showed no activity for Ac-KPV-NH2 or the α- or ε-glycoalkylated analogs. Glycoalkylated peptides did, however, show stability toward proteolytic enzymes."
+  },
+  {
+   "pmid": "15102092",
+   "titel": "alpha-Melanocyte-stimulating hormone, MSH 11-13 KPV and adrenocorticotropic hormone signalling in human keratinocyte cells",
+   "jahr": "2004",
+   "journal": "J Invest Dermatol",
+   "erstautor": "Elliott RJ",
+   "doi": "10.1111/j.0022-202X.2004.22404.x",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "alpha-MSH signals by binding to the melanocortin-1 receptor (MC-1R) and elevating cyclic AMP in several different cells. The anti-inflammatory properties of this peptide are also believed to be cyclic AMP dependent. The carboxyl terminal tripeptides of alpha-MSH (KPV / KP-D-V) are the smallest minimal sequences reported to prevent inflammation but it is not known if they operate via MC-1R or cyclic AMP. The aim of this study was to examine the intracellular signalling of key MSH and ACTH peptides in human keratinotocytes. No elevation in cyclic AMP was detected in either HaCaT or normal human keratinocytes in response to alpha-MSH, KPV or ACTH peptides. Rapid and acute intracellular calcium, however, were observed in HaCaT keratinocytes in response to alpha-MSH (10(-15)-10(-7) M), KPV (10(-15)-10(-7) M), KP-D-V (10(-15)-10(-7) M) and ACTH (10(-15)-10(-7) M), but only in the presence of PIA, an adenosine agonist that inhibits the cyclic AMP pathway. Normal keratinocytes responded to all the above peptides but in addition responded to ACTH 1-17 (10(-13)-10(-7) M) in contrast to the HaCaT keratinocytes. Stable transfection of Chinese hamster ovary cells with the MC-1 receptor showed that alpha-MSH and the KPV peptides elevated intracellular calcium."
+  },
+  {
+   "pmid": "36240893",
+   "titel": "Skin-adaptive film dressing with smart-release of growth factors accelerated diabetic wound healing",
+   "jahr": "2022",
+   "journal": "Int J Biol Macromol",
+   "erstautor": "Zhao Y",
+   "doi": "10.1016/j.ijbiomac.2022.10.054",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The general treatment of diabetic wound was use of wound dressings to absorb excess exudate. However, traditional wound dressings neither mimic the skin-like properties nor easily be withdrawn from the wound. Herein, the skin-adaptive three-layered films (AGB) dressing has been designed by alternatively depositing phenylboronic acid-grafted γ-PGA (PBA-PGA) and polyvinyl alcohol (PVA). The thickness of AGB film was only 479 μm and its flexibility was obviously strengthen by the boronic ester cross-linking. Besides, the dry AGB film was conveniently adhered to the fresh wound, where its adhesive force reached to 1267 ± 330 mN. Moreover, the adhered AGB film was easily peeled without any second damage after hydration. An anti-inflammatory tripeptide (KPV) and epidermal growth factor (EGF) as biologic factors were respectively encapsulated in the bottom layer and the middle-top two layers of AGB film. KPV was firstly released within 3 day and EGF was subsequently released in a glucose-responsive manner. AGB film containing KPV and EGF (K-E-AGB) could significantly improve the repair rate of full-thickness skin wound on diabetic mice. The mechanism of wound healing was associated with inflammatory inhibition, angiogenesis and collagen deposition. Collectively, skin-adaptive film may be a promising dressing as delivery of biologic factors for the chronic wound."
+  },
+  {
+   "pmid": "27458604",
+   "titel": "Critical role of PepT1 in promoting colitis-associated cancer and therapeutic benefits of the anti-inflammatory PepT1-mediated tripeptide KPV in a murine model",
+   "jahr": "2016",
+   "journal": "Cell Mol Gastroenterol Hepatol",
+   "erstautor": "Viennois E",
+   "doi": "10.1016/j.jcmgh.2016.01.006",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND AND AIMS: The human intestinal peptide transporter 1, hPepT1, is expressed in the small intestine at low levels in the healthy colon and upregulated during inflammatory bowel disease. hPepT1 plays a role in mouse colitis and human studies have demonstrated that chronic intestinal inflammation leads to colorectal cancer (colitis-associated cancer; CAC). Hence, we assessed here the role of PepT1 in CAC. METHODS: Mice with hPepT1 overexpression in intestinal epithelial cells (TG) or PepT1 (PepT1-KO) deletion were used and CAC was induced by AOM/DSS. RESULTS: TG mice had larger tumor sizes, increased tumor burdens, and increased intestinal inflammation compared to WT mice. Conversely, tumor number and size and intestinal inflammation were significantly decreased in PepT1-KO mice. Proliferating crypt cells were increased in TG mice and decreased in PepT1-KO mice. Analysis of human colonic biopsies revealed an increased expression of PepT1 in patients with colorectal cancer, suggesting that PepT1 might be targeted for the treatment of CAC. The use of an anti-inflammatory tripeptide KPV (Lys-Pro-Val) transported by PepT1 was able to prevent carcinogenesis in WT mice. When administered to PepT1-KO mice, KPV did not trigger any of the inhibitory effect on tumorigenesis observed in WT mice. CONCLUSIONS: The observations that pepT1 was highly expressed in human colorectal tumor and that its overexpression and deletion in mice increased and decreased colitis associated tumorigenesis, respectively, suggest that PepT1 is a potential therapeutic target for the treatment of colitis associated tumorigenesis."
+  },
+  {
+   "pmid": "17934097",
+   "titel": "alpha-MSH related peptides: a new class of anti-inflammatory and immunomodulating drugs",
+   "jahr": "2007",
+   "journal": "Ann Rheum Dis",
+   "erstautor": "Luger TA",
+   "doi": "10.1136/ard.2007.079780",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "alpha-Melanocyte-stimulating hormone (alpha-MSH) is a tridecapeptide derived from the proopiomelanocortin by post-translational processing. In addition to its effects on melanocytes, alpha-MSH has potent anti-inflammatory effects when administered systemically or locally. The anti-inflammatory effects of alpha-MSH are mediated by direct effects on cells of the immune system as well as indirectly by affecting the function of resident non-immune cells. alpha-MSH affects several pathways implicated in regulation of inflammatory responses such as NF-kappaB activation, expression of adhesion molecules and chemokine receptors, production of pro-inflammatory cytokines and other mediators. Thus alpha-MSH may modulate inflammatory cell proliferation, activity and migration. The anti-inflammatory effects of alpha-MSH have been confirmed by means of animal models of inflammation such as irritant and allergic contact dermatitis, cutaneous vasculitis, asthma, inflammatory bowel disease, rheumatoid arthritis, ocular and brain inflammation. Most of the anti-inflammatory activities of alpha-MSH can be attributed to its C-terminal tripeptide KPV. K(D)PT, a derivative of KPV corresponding to the amino acid 193-195 of IL-1beta, is currently emerging as another tripeptide with potent anti-inflammatory effects. The anti-inflammatory potential together with the favourable physiochemical properties most likely will allow these agents to be developed for the treatment of inflammatory skin, eye and bowel diseases, allergic asthma and arthritis."
+  },
+  {
+   "pmid": "18612139",
+   "titel": "Alpha-melanocyte-stimulating hormone and related tripeptides: biochemistry, antiinflammatory and protective effects in vitro and in vivo, and future perspectives for the treatment of immune-mediated inflammatory diseases",
+   "jahr": "2008",
+   "journal": "Endocr Rev",
+   "erstautor": "Brzoska T",
+   "doi": "10.1210/er.2007-0027",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "Alpha-MSH is a tridecapeptide derived from proopiomelanocortin. Many studies over the last few years have provided evidence that alpha-MSH has potent protective and antiinflammatory effects. These effects can be elicited via centrally expressed melanocortin receptors that orchestrate descending neurogenic antiinflammatory pathways. alpha-MSH can also exert antiinflammatory and protective effects on cells of the immune system and on peripheral nonimmune cell types expressing melanocortin receptors. At the molecular level, alpha-MSH affects various pathways implicated in regulation of inflammation and protection, i.e., nuclear factor-kappaB activation, expression of adhesion molecules and chemokine receptors, production of proinflammatory cytokines and mediators, IL-10 synthesis, T cell proliferation and activity, inflammatory cell migration, expression of antioxidative enzymes, and apoptosis. The antiinflammatory effects of alpha-MSH have been validated in animal models of experimentally induced fever; irritant and allergic contact dermatitis, vasculitis, and fibrosis; ocular, gastrointestinal, brain, and allergic airway inflammation; and arthritis, but also in models of organ injury. One obstacle limiting the use of alpha-MSH in inflammatory disorders is its pigmentary effect. Due to its preserved antiinflammatory effect but lack of pigmentary action, the C-terminal tripeptide of alpha-MSH, KPV, has been delineated as an alternative for antiinflammatory therapy. KdPT, a derivative of KPV corresponding to amino acids 193-195 of IL-1beta, is also emerging as a tripeptide with antiinflammatory effects. The physiochemical properties and expected low costs of production render both agents suitable for the future treatment of immune-mediated inflammatory skin and bowel disease, fibrosis, allergic and inflammatory lung disease, ocular inflammation, and arthritis."
+  },
+  {
+   "pmid": "15946192",
+   "titel": "Three-dimensional structure of the alpha-MSH-derived candidacidal peptide [Ac-CKPV]2",
+   "jahr": "2005",
+   "journal": "J Pept Res",
+   "erstautor": "Catania A",
+   "doi": "10.1111/j.1399-3011.2005.00265.x",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Previous research has shown that the immunomodulatory peptide alpha-melanocyte-stimulating hormone (alpha-MSH) and its carboxy-terminal tripeptide KPV (Lys-Pro-Val alpha-MSH11-13) have antimicrobial influences. By inserting a Cys-Cys linker between two units of KPV, we designed the dimer [Ac-CKPV]2 that showed excellent candidacidal effects in pilot tests and was the subject of further investigations. [Ac-CKPV]2 was active against azole-resistant Candida spp. Therefore, the molecule appeared a promising candidate for therapy of fungal infections and was the subject of a structural study. 1H-NMR and restrained mechanic and dynamic calculations suggest that the peptide adopts an extended backbone structure with a beta-turn-like structure. These results open a pathway to development of additional novel compounds that have candidacidal effects potentially useful against clinical infections."
+  },
+  {
+   "pmid": "42854645",
+   "titel": "Lysine-Proline-Valine attenuates oxidized low-density lipoprotein-induced foam cell formation and inflammatory responses in RAW264.7 macrophages",
+   "jahr": "2026",
+   "journal": "Tissue Cell",
+   "erstautor": "Bai JS",
+   "doi": "10.1016/j.tice.2026.104036",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Atherosclerosis develops through oxidative stress and inflammatory responses induced by oxidized low-density lipoprotein (oxLDL), and excessive lipid accumulation in macrophages accelerates disease progression by facilitating foam cell formation. In this study, we investigated the protective effects of the α-melanocyte-stimulating hormone-derived endogenous tripeptide Lysine-Proline-Valine (KPV) against oxLDL-induced cellular injury in RAW264.7 macrophages. Exposure to oxLDL markedly increased lipid accumulation in RAW264.7 macrophages, concomitantly enhancing inflammatory signaling and promoting foam cell formation. Treatment with KPV significantly attenuated oxLDL-induced lipid accumulation, thereby suppressing foam cell formation, while also suppressing inflammatory responses without inducing cytotoxicity. Mechanistic analyses revealed that KPV reduced intracellular reactive oxygen species (ROS) levels, thereby suppressing the activation of p38 mitogen-activated protein kinase (MAPK) and nuclear factor-kappa B (NF-κB), which serve as key regulators of Interleukin-1β (IL-1β) expression. In addition, KPV suppressed the assembly of the NLR family pyrin domain-containing 3 (NLRP3) inflammasome, leading to a reduction in apoptosis-associated speck-like protein containing a CARD (ASC) speck formation, caspase-1 cleavage, and IL-1β maturation. These findings suggest that KPV functions as an effective modulator of oxidative stress and inflammatory signaling and may hold substantial therapeutic potential for suppressing foam cell formation and attenuating disease progression in atherosclerosis."
+  },
+  {
+   "pmid": "12052369",
+   "titel": "Downregulation of glucocorticoid receptors of liver cytosols and the role of the inflammatory cytokines in pathological stress in scalded rats",
+   "jahr": "2002",
+   "journal": "Burns",
+   "erstautor": "Liu DH",
+   "doi": "10.1016/s0305-4179(02)00011-6",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Preliminary experiments indicated that target cells were resistant to glucocorticoid (GC) after pathological stress. This study was designed to investigate the alterations in plasma corticosterone level and GC receptor (GR) of liver cytosols, to assess the relative inflammatory cytokines contribution to GC resistant, and to observe the action of alpha-melanocyte-stimulating hormone (alpha-MSH) on the potential implications of glucocorticord regulatory effects in burned rats. Male Wistar rats (weight range, 180-200g) received a 35% total body surface area immersion scald and were randomly divided to receive either tumor necrosis factor alpha (TNFalpha), interleukin-1beta (IL-1beta), polyclonal antibody (pAb), alpha-MSH, Ac-D-Lys-L-Pro-D-Val (KPV peptide), or saline (control). The binding capacity (Rt) of the steroid-binding sites was measured by radioligand binding assay, using [3H]dexamethasone as the ligand. We examined plasma levels of IL-1beta, TNFalpha, IL-10, and corticosterone following scald challenge in rats. The Rt of GR (208.45+/-30.78fmol/mg of protein) in hepatic cytosol in rats, 12h later the scald was significantly lower than that (306.71+/-27.96fmol/mg of protein) of the control group (P<0.01). The injections of anti-rat TNFalpha (257.80+/-12.82fmol/mg of protein), IL-1beta antibody (254.46+/-21.21fmol/mg of protein), alpha-melanocyte-stimulating hormone (278.32+/-7.76fmol/mg of protein) and KPV peptide (263.46+/-17.46fmol/mg of protein) might prevent the Rt of GR from decreasing in hepatic cytosols of rats with scald, respectively (all of P<0.05) in vivo. Scald-induced robust increases in plasma IL-1beta (214.08+/-27.25pg/ml), TNFalpha (111.18+/-23.97pg/ml), IL-10 (177.50+/-15.79pg/ml) and corticosterone (2680+/-443.23ng/ml) levels after 12h. The administration of TNFalpha, IL-1beta pAb, alpha-MSH and KPV might attenuate these increases. These studies suggest that pro-inflammatory cytokines are involved in downregulation of GRs and thus alpha-MSH and KPV might increase the level of GR in rats with immersion scald."
+  },
+  {
+   "pmid": "32004526",
+   "titel": "Novel anti-inflammatory and chondroprotective effects of the human melanocortin MC1 receptor agonist BMS-470539 dihydrochloride and human melanocortin MC3 receptor agonist PG-990 on lipopolysaccharide activated chondrocytes",
+   "jahr": "2020",
+   "journal": "Eur J Pharmacol",
+   "erstautor": "Can VC",
+   "doi": "10.1016/j.ejphar.2020.172971",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Human melanocortin MC1 and MC3 receptors expressed on C-20/A4 chondrocytes exhibit chondroprotective and anti-inflammatory effects when activated by melanocortin peptides. Nearly 9 million people in the UK suffer from osteoarthritis, and bacterial infections play a role in its development. Here, we evaluate the effect of a panel of melanocortin peptides with different selectivity for human melanocortin MC1 (α-MSH, BMS-470539 dihydrochloride) and MC3 ([DTrp8]-γ-MSH, PG-990) receptors and C-terminal peptide α-MSH11-13(KPV), on inhibiting LPS-induced chondrocyte death, pro-inflammatory mediators and induction of anti-inflammatory proteins. C-20/A4 chondrocytes were treated with a panel of melanocortin peptides prophylactically and therapeutically in presence of LPS (0.1 μg/ml). The chondroprotective properties of these peptides determined by cell viability assay, RT-PCR, ELISA for detection of changes in inflammatory markers (IL-6, IL-8 and MMP-1, -3 and -13) and western blotting for expression of the anti-inflammatory protein heme-oxygenase-1. C-20/A4 expressed human melanocortin MC1 and MC3 receptors and melanocortin peptides elevated cAMP. LPS stimulation caused a reduction in C-20/A4 viability, attenuated by the human melanocortin MC1 receptor agonist BMS-470539 dihydrochloride, and MC3 receptor agonists PG-990 and [DTrp8]-γ-MSH. Prophylactic and therapeutic regimes of [DTrp8]-γ-MSH significantly inhibited LPS-induced modulation of cartilage-damaging IL-6, IL-8, MMPs -1,-3 and -13 mediators both prophylactically and therapeutically, whilst human melanocortin MC1 and MC3 receptor agonists promoted an increase in HO-1 production. In the presence of LPS, activation of human melanocortin MC1 and MC3 receptors provided potent chondroprotection, upregulation of anti-inflammatory proteins and downregulation of inflammatory and proteolytic mediators involved in cartilage degradation, suggesting a new avenue for osteoarthritis treatment."
+  },
+  {
+   "pmid": "12750433",
+   "titel": "Dissection of the anti-inflammatory effect of the core and C-terminal (KPV) alpha-melanocyte-stimulating hormone peptides",
+   "jahr": "2003",
+   "journal": "J Pharmacol Exp Ther",
+   "erstautor": "Getting SJ",
+   "doi": "10.1124/jpet.103.051623",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "In this study, we analyzed the anti-inflammatory effects of alpha-melanocyte stimulating hormone (MSH)11-13 (KPV) in comparison with other MSH peptides in a model of crystal-induced peritonitis. Systemic treatment of mice with KPV, alpha-MSH, the core melanocortin peptide His-Phe-Arg-Trp, and the melanocontin receptor 3/4 agonist Ac-Nle4-c[Asp5,d-Phe7,Lys10]NH2 ACTH4-10 (MTII) but not the selective MC1-R agonist H-Ser-Ser-Ile-Ile-Ser-His-Phe-Arg-Trp-Gly-Lys-Pro-Val-NH2 (MS05) resulted in a significant reduction in accumulation of polymorphonuclear leukocyte in the peritoneal cavity. The antimigratory effect of KPV was not blocked by the MC3/4-R antagonist Ac-Nle4-c[Asp5,d-2Nal7,Lys10]NH2 ACTH4-10 (SHU9119). In vitro, macrophage activation, determined as release of KC and interleukin (IL)-1beta was inhibited by alpha-MSH and MTII but not by KPV. Furthermore, macrophage activation by MTII led to an increase in cAMP accumulation, which was attenuated by SHU9119, whereas KPV failed to increase cAMP. The anti-inflammatory properties of KPV were also evident in IL-1beta-induced peritonitis inflammation and in mice with a nonfunctional MC1-R (recessive yellow e/e mice). In conclusion, these data highlight that the C-terminal MSH peptide KPV exhibits an anti-inflammatory effect that is clearly different from that of the core MSH peptides. KPV is unlikely to mediate its effects through melanocortin receptors but is more likely to act through inhibition of IL-1beta functions."
+  },
+  {
+   "pmid": "22837805",
+   "titel": "Inhibition of cellular and systemic inflammation cues in human bronchial epithelial cells by melanocortin-related peptides: mechanism of KPV action and a role for MC3R agonists",
+   "jahr": "2012",
+   "journal": "Int J Physiol Pathophysiol Pharmacol",
+   "erstautor": "Land SC",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND/AIMS: Chemokine signaling from airway epithelium regulates macrophage recruitment to the lung in inflammatory diseases such as asthma. This study investigates the mechanism by which the α-melanocyte stimulating hormone-derived tripeptide, KPV, and the agonist of the dominant melanocortin receptor in airway epithelium (MC3R), γ-melanocyte stimulating hormone (γ-MSH), suppress inflammation in immortalised human bronchial airway epithelium. METHODS: TNFα and rhino syncitial virus (RSV)-evoked nuclear factor-κB (NFκB) signaling was measured in immortalised human bronchial epithelial cells (16HBE14o-) in response to KPV and γMSH. Cellular and systemic inflammatory signaling was measured by NFκB reporter gene and chemokine (IL8, eotaxin) secretion, respectively. RESULTS: KPV and γMSH evoked a dose-dependent inhibition of NFκB, matrix metalloproteinase-9 activity, IL8 and eotaxin secretion. The KPV effect was associated with its nuclear import, IκBα stabilisation and suppressed nuclear translocation of YFP-tagged p65RelA. Competition assays revealed an interaction between KPV and the Imp-α3 binding site on p65RelA which may involve blockade of the importin-α armadillo domain 7 and 8. In contrast, the γMSH anti-inflammatory effect required MC3R whose apical expression occurred in epithelium distributed along the length of the respiratory tree in vivo. CONCLUSION: KPV and γMSH respectively suppress NFκB signalling in airway epithelium by: i) inhibition of p65RelA nuclear import and, ii) epithelial MC3R activation. Melanocortin peptides therefore provide a robust mechanism for targeting airway inflammation in lung disease."
+  },
+  {
+   "pmid": "42585803",
+   "titel": "KPV attenuates adipogenesis and lipid metabolism through modulation of ROS-mediated AKT/mTORC1/PPARγ signaling",
+   "jahr": "2026",
+   "journal": "Tissue Cell",
+   "erstautor": "An SH",
+   "doi": "10.1016/j.tice.2026.103837",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Lysine-Proline-Valine (KPV), an endogenous tripeptide derived from α-melanocyte-stimulating hormone, has been recognized for its anti-inflammatory and antioxidant activities. However, its role in adipocyte differentiation has not been investigated. In this study, we investigated the regulatory effects of KPV on MDI-induced adipocyte differentiation in 3T3-L1 preadipocytes. KPV treatment dose-dependently suppressed adipocyte differentiation. Specifically, treatment with 100 μg/mL KPV reduced Oil Red O staining intensity by approximately 55% and intracellular triglyceride content by approximately 38% compared with the MDI-treated group. In addition, KPV decreased the expression of key adipogenic markers, including peroxisome proliferator-activated receptor gamma (PPARγ) and fatty acid synthase (FAS). Mechanistically, KPV attenuated reactive oxygen species (ROS) production and was associated with reduced AKT-dependent mTOR signaling and altered PPARγ phosphorylation during adipocyte differentiation. This regulatory effect was accompanied by suppression of FAS expression. In addition, in a high-fat diet-induced obesity mouse model, oral administration of KPV alleviated body weight gain, white adipose tissue expansion, liver mass increase, and obesity-associated dyslipidemia, including elevated plasma total cholesterol levels. Collectively, these findings suggest that KPV suppresses adipocyte differentiation, at least in part, in association with the modulation of ROS-related AKT/mTOR/PPARγ signaling in vitro, while its in vivo administration mitigates diet-induced obesity-related metabolic alterations. These results highlight the potential of KPV as an endogenous peptide-based candidate for the prevention and management of obesity."
+  },
+  {
+   "pmid": "25298219",
+   "titel": "Stability-indicating HPLC assay for lysine-proline-valine (KPV) in aqueous solutions and skin homogenates",
+   "jahr": "2015",
+   "journal": "Biomed Chromatogr",
+   "erstautor": "Pawar KR",
+   "doi": "10.1002/bmc.3347",
+   "typ": [
+    "Evaluation Study",
+    "Journal Article",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ],
+   "abstract": "A simple, sensitive and stability-indicating high-performance liquid chromatographic (HPLC) assay method was developed and validated for a bioactive peptide, lysine-proline-valine (KPV) in aqueous solutions and skin homogenates. Chromatographic separation was achieved on a reversed phase Phenomenex C18 column (4.6 × 250 mm, packed with 5 µm silica particles) with a gradient mobile phase consisting of 0.1% trifluoroacetic acid (TFA) in water (A) and 0.1% TFA in acetonitrile (B). The proposed HPLC method was validated with respect to accuracy, precision, linearity, repeatability, limit of detection (LOD) and limit of quantitation (LOQ). The calibration curve was linear with a correlation coefficient (r) of 0.9999. Relative standard deviation values of accuracy and precision experiments were <2. The LOD and LOQ of KPV were 0.01 and 0.25 µg/mL, respectively. Under stress conditions (acid, alkali and hydrogen peroxide) KPV yielded lys-pro-diketopiperazine as major degradation product, which was identified by flow injection MS analysis. The developed HPLC method was found to be efficient in separating the active peptide from its degradation products generated under various stress conditions. Also, the validated method was able to separate KPV from other peaks arising from endogenous components of the skin homogenate."
+  },
+  {
+   "pmid": "16413580",
+   "titel": "Inhibitory effects of the peptide (CKPV)2 on endotoxin-induced host reactions",
+   "jahr": "2006",
+   "journal": "J Surg Res",
+   "erstautor": "Gatti S",
+   "doi": "10.1016/j.jss.2005.08.009",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: alpha-Melanocyte stimulating hormone (alpha-MSH) is an endogenous peptide that has remarkable anti-inflammatory and antimicrobial effects. These activities have been traced to the C-terminal tripeptide Lys-Pro-Val (KPV). A dimer composed of two KPV sequences connected with a Cys-Cys linker, (CKPV)2, is currently under clinical investigation for antimicrobial use. The present research was designed to evaluate effects of (CKPV)(2) on endotoxin-induced host reactions in vitro and in vivo. MATERIALS AND METHODS: Effects of (CKPV)2, KPV, and [Nle4-dPhe7]-alpha-MSH (NDP-alpha-MSH) on tumor necrosis factor alpha (TNF-alpha) production were determined: 1) in human peripheral blood mononuclear cells (PBMC) stimulated with lipopolysaccharide (LPS) in vitro, and 2) in rats injected with LPS i.v. and sacrificed at 1 h. In additional experiments, dialysis peritonitis was induced in rats by adding LPS to dialysis fluid. Net ultrafiltrate was calculated and concentrations of nitrite (NO2-) and TNF-alpha were measured in blood and peritoneal fluid at 7 h. RESULTS: (CKPV)2 inhibited TNF-alpha production by LPS-stimulated human PBMC. This small peptide was as effective as NDP-alpha-MSH and more potent than KPV. Similar effectiveness was observed in vivo: 1 h after LPS injection, the large increase in circulating TNF-alpha was markedly reduced by (CKPV)2 treatment. In LPS-induced peritonitis, (CKPV)2 restored net ultrafiltrate to control values and significantly inhibited concentrations of TNF-alpha and NO2- both in plasma and in dialysate. CONCLUSIONS: The remarkable capacity of (CKPV)2 to inhibit endotoxin-induced host reactions suggests that it may be useful in treatment of inflammatory disorders."
+  },
+  {
+   "pmid": "21222263",
+   "titel": "Terminal signal: anti-inflammatory effects of α-melanocyte-stimulating hormone related peptides beyond the pharmacophore",
+   "jahr": "2010",
+   "journal": "Adv Exp Med Biol",
+   "erstautor": "Brzoska T",
+   "doi": "10.1007/978-1-4419-6354-3_8",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "During the last two decades a significant number of investigations has established the fact that α-Melanocyte-stimulating hormone (α-MSH) is a potent anti-inflammatory mediator. The anti-inflammatory effects of α-MSH can be elicited via melanocortin receptors (MC-Rs) broadly expressed in a number of tissues ranging from the central nervous system to cells of the immune system and on resident somatic cells of peripheral tissues. α-MSH affects various pathways regulating inflammatory responses such as NF-κB activation, expression of adhesion molecules, inflammatory cytokines, chemokine receptors, T-cell proliferation and activity and inflammatory cell migration. In vivo α-MSH has been shown to be anti-inflammatory as well in animal models of fever, irritant and allergic contact dermatitis, cutaneous vasculitis, fibrosis, in ocular, gastrointestinal, brain and allergic airway inflammation and arthritis. A broad range of effects of α-MSH exerted beyond the field of inflammation, its pigmentory capacity being only the most visible aspect, has been one of the major impediments limiting the use of α-MSH in human inflammatory disorders. Interestingly KPV, C-terminal tripeptide of α-MSH, which lacks the entire sequence motif required for binding to any of the known MC-Rs, retains almost all of the anti-inflammatory capacity of the full hormone, but in its activities display a lack of any pigmentory action. While the exact signaling mechanism utilized by KPV and related peptides currently is unknown it has been demonstrated already that significant similarities between anti-inflammatory signaling of α-MSH and those short peptides exist. These α-MSH related tripeptides thus may be useful alternatives for anti-inflammatory peptide therapy. KdPT, a derivative of KPV corresponding to IL-1β(193-195), currently is emerging as another tripeptide with potent anti-inflammatory effects. A more limited spectrum of biologic activities, potentially advantageous physicochemical, pharmacokinetic and pharmacodynamic properties as well as the expectation of low costs for pharmaceutical production make these agents interesting candidates for the treatment of immune-mediated inflammatory skin and bowel diseases, allergic asthma and arthritis."
+  },
+  {
+   "pmid": "11990926",
+   "titel": "Changes in glucocorticoid and mineralocorticoid receptors of liver and kidney cytosols after pathologic stress and its regulation in rats",
+   "jahr": "2002",
+   "journal": "Crit Care Med",
+   "erstautor": "Liu DH",
+   "doi": "10.1097/00003246-200203000-00022",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "OBJECTIVE: As effectors, glucocorticoid and mineralocorticoid receptors play an important role in pathologic stress. This study was designed to observe the changes in glucocorticoid receptor of liver cytosols and mineralocorticoid receptor of kidney cytosols after pathologic stress in rats. DESIGN: Controlled laboratory study. SETTING: Medical university. SUBJECTS: Male Wistar rats (weight range, 180-200 g). INTERVENTIONS: Rats received a low-degree or heavy-degree immersion scald that covered 10% or 35% total body surface area and were randomly divided to receive either tumor necrosis factor-alpha, interleukin-1beta polyclonal neutralizing antibody, alpha-melanocyte-stimulating hormone, KPV peptide (Ac-D-Lys-L-Pro-D-Val), or saline (control). The binding capacity and the apparent dissociation constant of the steroid-binding sites of normal, low-degree, and heavy-degree scalded rats were measured by radioligand-binding assay, with [3H]dexamethasone and aldosterone as the ligand, respectively. MEASUREMENTS AND MAIN RESULTS: The binding capacity of glucocorticoid receptor in hepatic cytosols in rats 12 hrs after heavy-degree scald (208.45 +/- 30.78 fmol/mg of protein) was lower than that of the control group (306.71 +/- 27.96 fmol/mg of protein; p < .01). The binding capacity of glucocorticoid receptor in hepatic cytosols in rats 12 hrs after low-degree scald (296.64 +/- 16.06 fmol/mg of protein) was not significantly different compared with the control group (p > .05). There were two types of mineralocorticoid receptor in kidney cytosols in rats, and their binding capacity and apparent dissociation constant were not identical. The binding capacity of mineralocorticoid receptor in rats 12 hrs after heavy-degree scald (binding capacity 1, 22.40 +/- 5.40 fmol/mg of protein; binding capacity 2, 196.30 +/- 32.50 fmol/mg of protein) was lower than that of the control group (binding capacity 1, 41.60 +/- 7.20 fmol/mg of protein; binding capacity 2, 317.60 +/- 70.00 fmol/mg of protein; p < .01). The binding capacity of mineralocorticoid receptor in kidney cytosols in rats 12 hrs after low-degree scald (binding capacity 1, 41.40 +/- 5.00 fmol/mg of protein; binding capacity 2, 314.80 +/- 45.70 fmol/mg of protein) was not significantly different compared with the control group (p > .05). The injections of anti-rat tumor necrosis factor-alpha, interleukin-1beta polyclonal neutralizing antibody, alpha-melanocyte-stimulating hormone, and KPV peptide (Ac-D-Lys-L-Pro-D-Val) might prevent a reduction in the binding capacity of glucocorticoid receptor in hepatic cytosols and mineralocorticoid receptor in kidney cytosols in rats with heavy-degree scald in vivo. CONCLUSIONS: These studies suggest that the glucocorticoid receptor of hepatic cytosols and the mineralocorticoid receptor of renal cytosols decreased in rats with heavy-degree immersion scald and that the injections of anti-rat tumor necrosis factor-alpha, interleukin-1beta polyclonal neutralizing antibody, alpha-melanocyte-stimulating hormone, and KPV peptide might increase the level of glucocorticoid receptor and mineralocorticoid receptor in vivo."
+  }
+ ],
+ "ctgov": [],
+ "gruppe": "B_regeneration"
+}

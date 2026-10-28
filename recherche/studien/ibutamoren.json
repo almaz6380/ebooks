@@ -1,0 +1,1219 @@
+{
+ "name": "Ibutamoren (MK-677)",
+ "status": "nicht_zugelassen",
+ "suchbegriff_pubmed": "ibutamoren[tiab] OR MK-677[tiab] OR MK-0677[tiab]",
+ "suchbegriff_ctgov": "ibutamoren OR MK-677",
+ "humanstudien_alle": [
+  {
+   "pmid": "28340044",
+   "titel": "Oral ghrelin receptor agonist MK-0677 increases serum insulin-like growth factor 1 in hemodialysis patients: a randomized blinded study",
+   "jahr": "2018",
+   "journal": "Nephrol Dial Transplant",
+   "erstautor": "Campbell GA",
+   "doi": "10.1093/ndt/gfw474",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "21067829",
+   "titel": "MK-0677 (ibutamoren mesylate) for the treatment of patients recovering from hip fracture: a multicenter, randomized, placebo-controlled phase IIb study",
+   "jahr": "2011",
+   "journal": "Arch Gerontol Geriatr",
+   "erstautor": "Adunsky A",
+   "doi": "10.1016/j.archger.2010.10.004",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Comparative Study",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "19015485",
+   "titel": "Growth hormone secretagogue MK-677: no clinical effect on AD progression in a randomized trial",
+   "jahr": "2008",
+   "journal": "Neurology",
+   "erstautor": "Sevigny JJ",
+   "doi": "10.1212/01.wnl.0000335163.88054.e7",
+   "typ": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "18981485",
+   "titel": "Effects of an oral ghrelin mimetic on body composition and clinical outcomes in healthy older adults: a randomized trial",
+   "jahr": "2008",
+   "journal": "Ann Intern Med",
+   "erstautor": "Nass R",
+   "doi": "10.7326/0003-4819-149-9-200811040-00003",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "15066065",
+   "titel": "The effects of MK-0677, an oral growth hormone secretagogue, in patients with hip fracture",
+   "jahr": "2004",
+   "journal": "J Am Geriatr Soc",
+   "erstautor": "Bach MA",
+   "doi": "10.1111/j.1532-5415.2004.52156.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "12550076",
+   "titel": "The effect of treatment with the oral growth hormone (GH) secretagogue MK-677 on GH isoforms",
+   "jahr": "2003",
+   "journal": "Growth Horm IGF Res",
+   "erstautor": "Svensson J",
+   "doi": "10.1016/s1096-6374(02)00138-7",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "11452249",
+   "titel": "Effects of oral administration of ibutamoren mesylate, a nonpeptide growth hormone secretagogue, on the growth hormone-insulin-like growth factor I axis in growth hormone-deficient children",
+   "jahr": "2001",
+   "journal": "Clin Pharmacol Ther",
+   "erstautor": "Codner E",
+   "doi": "10.1067/mcp.2001.116514",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "11238495",
+   "titel": "Effect of alendronate and MK-677 (a growth hormone secretagogue), individually and in combination, on markers of bone turnover and bone mineral density in postmenopausal osteoporotic women",
+   "jahr": "2001",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Murphy MG",
+   "doi": "10.1210/jcem.86.3.7294",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "11263473",
+   "titel": "Recombinant human IGF-I does not modify the ACTH and cortisol responses to hCRH and hexarelin, a peptidyl GH secretagogue, in humans",
+   "jahr": "2001",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Gianotti L",
+   "doi": "10.1007/BF03343815",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "10404019",
+   "titel": "Oral administration of the growth hormone secretagogue MK-677 increases markers of bone turnover in healthy and functionally impaired elderly adults. The MK-677 Study Group",
+   "jahr": "1999",
+   "journal": "J Bone Miner Res",
+   "erstautor": "Murphy MG",
+   "doi": "10.1359/jbmr.1999.14.7.1182",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "10372705",
+   "titel": "Treatment of obese subjects with the oral growth hormone secretagogue MK-677 affects serum concentrations of several lipoproteins, but not lipoprotein(a)",
+   "jahr": "1999",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Svensson J",
+   "doi": "10.1210/jcem.84.6.5799",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "10468903",
+   "titel": "Discrepancy between serum leptin values and total body fat in response to the oral growth hormone secretagogue MK-677",
+   "jahr": "1999",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Svensson J",
+   "doi": "10.1046/j.1365-2265.1999.00667.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "9661080",
+   "titel": "Treatment with the oral growth hormone secretagogue MK-677 increases markers of bone formation and bone resorption in obese young males",
+   "jahr": "1998",
+   "journal": "J Bone Miner Res",
+   "erstautor": "Svensson J",
+   "doi": "10.1359/jbmr.1998.13.7.1158",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "9467542",
+   "titel": "Two-month treatment of obese subjects with the oral growth hormone (GH) secretagogue MK-677 increases GH secretion, fat-free mass, and energy expenditure",
+   "jahr": "1998",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Svensson J",
+   "doi": "10.1210/jcem.83.2.4539",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "9467534",
+   "titel": "MK-677, an orally active growth hormone secretagogue, reverses diet-induced catabolism",
+   "jahr": "1998",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Murphy MG",
+   "doi": "10.1210/jcem.83.2.4551",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "9349662",
+   "titel": "Prolonged oral treatment with MK-677, a novel growth hormone secretagogue, improves sleep quality in man",
+   "jahr": "1997",
+   "journal": "Neuroendocrinology",
+   "erstautor": "Copinschi G",
+   "doi": "10.1159/000127249",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "9329386",
+   "titel": "Oral administration of growth hormone (GH) releasing peptide-mimetic MK-677 stimulates the GH/insulin-like growth factor-I axis in selected GH-deficient adults",
+   "jahr": "1997",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Chapman IM",
+   "doi": "10.1210/jcem.82.10.4297",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "8954023",
+   "titel": "Stimulation of the growth hormone (GH)-insulin-like growth factor I axis by daily oral administration of a GH secretogogue (MK-677) in healthy elderly subjects",
+   "jahr": "1996",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Chapman IM",
+   "doi": "10.1210/jcem.81.12.8954023",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "8768828",
+   "titel": "Effects of a 7-day treatment with a novel, orally active, growth hormone (GH) secretagogue, MK-677, on 24-hour GH profiles, insulin-like growth factor I, and adrenocortical function in normal young men",
+   "jahr": "1996",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Copinschi G",
+   "doi": "10.1210/jcem.81.8.8768828",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  }
+ ],
+ "humanstudien_detail": [
+  {
+   "pmid": "9467534",
+   "titel": "MK-677, an orally active growth hormone secretagogue, reverses diet-induced catabolism",
+   "jahr": "1998",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Murphy MG",
+   "doi": "10.1210/jcem.83.2.4551",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The reversal of diet-induced negative nitrogen balance by GH suggests a possible therapeutic role for GH treatment in catabolic patients. A double-blind, randomized, placebo-controlled, two-period cross-over study was designed to investigate whether MK-677, an orally active nonpeptide mimic of GH-releasing peptide, can reverse diet-induced protein catabolism. Eight healthy volunteers (ages 24-39 yr) were calorically restricted (18 kcal/kg.day) for two 14-day periods. During the last 7 days of each diet period, subjects received either oral MK-677 25 mg or placebo once daily. There was a 14- to 21-day washout interval between periods. During the first week of caloric restriction (i.e. diet alone), daily nitrogen losses were similar for both treatment groups (mean +/- SE; MK-677 group -2.67 +/- 0.40 g/day vs. placebo group -2.83 +/- 0.26 g/day). During the second week (diet and study drug), mean daily nitrogen balance was 0.31 +/- 0.21 g/day in the MK-677 treatment group compared with -1.48 +/- 0.21 g/day in the placebo group (P < 0.01). MK-677 improved nitrogen balance integrated over the 7 days of treatment; area under the curve day 8-14 nitrogen balance response was +2.69 +/- 5.0 (SE) for MK-677 and -8.97 +/- 5.26 g.day for placebo (P < 0.001). MK-677 produced a peak GH response of 55.9 +/- 31.7 micrograms/L after single dose (day 1 of treatment) and 22.6 +/- 9.3 micrograms/L after a week of dosing compared with placebo treatment peak GH values of approximately 9 (treatment day 1) and approximately 7 micrograms/L (treatment day 7). Following the initial 7-day caloric restriction, insulin-like growth factor-I (IGF-I) declined from 232 +/- 25 to 186 +/- 19 ng/mL in the MK-677 group and from 236 +/- 19 to 174 +/- 23 ng/mL in the placebo group. Mean IGF-I concentration increased significantly during MK-677 to 264 +/- 31 ng/mL (mean for the last 5 days of treatment) compared with 188 +/- 19 ng/mL with placebo (P < 0.01). No significant difference in IGF binding protein-2 was found between the MK-677 and placebo treatments. However, the mean in IGF binding protein-3 for the last 5 days of MK-677 treatment was also significantly increased to 3273 +/- 330 ng/mL (mean +/- SE) compared with placebo 2604 +/- 253 ng/mL (P < 0.01). Neither the serum cortisol nor the PRL response was significantly greater after 7 days of MK-677 dosing compared with 7 days of placebo. MK-677 (25 mg) was generally well tolerated and without clinically significant adverse experiences. In conclusion, MK-677 reverses diet-induced nitrogen wasting, suggesting that if these short-term anabolic effects are maintained in patients who are catabolic because of certain acute or chronic disease states, it may be useful in treating catabolic conditions."
+  },
+  {
+   "pmid": "28340044",
+   "titel": "Oral ghrelin receptor agonist MK-0677 increases serum insulin-like growth factor 1 in hemodialysis patients: a randomized blinded study",
+   "jahr": "2018",
+   "journal": "Nephrol Dial Transplant",
+   "erstautor": "Campbell GA",
+   "doi": "10.1093/ndt/gfw474",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "abstract": "BACKGROUND: Protein-energy wasting (PEW) in end-stage renal disease (ESRD) patients is associated with increased morbidity and mortality, but options for treatment are limited. Growth hormone (GH) increases insulin-like growth factor 1 (IGF-1), with improved nutritional parameters, but must be given subcutaneously and does not provide normal GH secretion patterns. MK-0677, an oral ghrelin receptor agonist (GRA), maintains normal GH secretion and increases lean body mass in normal subjects; it has not been studied in dialysis patients, an essential step in assessing efficacy and safety prior to clinical trials. METHODS: We performed a randomized crossover double-blind study in assessing the effect of MK-0677 versus placebo on IGF-1 levels, the primary outcome, in hemodialysis patients. In total, 26 subjects enrolled and 22 completed the 3-month crossover study. RESULTS: The geometric mean IGF-1 was 1.07-fold greater [95% confidence interval (CI) 0.89-1.27; P = 0.718] after placebo. In patients receiving MK-0677, the geometric mean IGF-1 were 1.76-fold greater (95% CI 1.48-2.10; P < 0.001) following MK-0677. When the data were adjusted for preintervention IGF-1 concentration, the ratio of geometric means (MK-0677 relative to placebo) for the pre- versus postintervention change in the IGF-1 was 1.65 (95% CI 1.33-2.04; P < 0.001). These data demonstrate a 65% greater increase (95% CI 33-104%) in IGF-1 in MK-0677-dosed subjects compared with placebo. There were no serious adverse effects attributable to MK-0677. CONCLUSIONS: MK-0677 increased serum IGF-1 levels with minimal adverse effects in hemodialysis subjects. Studies are needed to evaluate whether long-term therapy with MK-0677 improves PEW, lean body mass, physical strength, quality of life and survival in CKD/ESRD patients."
+  },
+  {
+   "pmid": "15066065",
+   "titel": "The effects of MK-0677, an oral growth hormone secretagogue, in patients with hip fracture",
+   "jahr": "2004",
+   "journal": "J Am Geriatr Soc",
+   "erstautor": "Bach MA",
+   "doi": "10.1111/j.1532-5415.2004.52156.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVES: To evaluate the effects of MK-0677, an orally active growth hormone (GH) secretagogue, on functional recovery from hip fracture in previously mobile older individuals. DESIGN: Placebo-controlled, randomized, double-blind trial. SETTING: Thirteen medical centers in England, Sweden, Denmark, Belgium, Switzerland, Canada, and the United States. Patients were recruited between 3 and 14 days postoperatively, or no more than 18 days postfracture, at acute care hospitals and rehabilitation centers. PARTICIPANTS: One hundred sixty-one hip-fracture patients were enrolled. Entry criteria included consenting hip-fracture patients who were aged 65 and older and who were ambulatory before their fracture, medically stable postoperatively, and mentally competent. Patients were excluded if they had multiple fractures or severe trauma, diabetes mellitus, cancer, uncontrolled hypertension, congestive heart failure, or total hip replacement in the involved extremity. INTERVENTION: Random assignment to 6 months of daily treatment with MK-0677 or placebo. Patients were followed for an additional 6 months after completion of therapy. MEASUREMENTS: Change from Week 6 to Week 26 in a panel of functional performance measures. Additional outcome measures included change in the Sickness Impact Profile for Nursing Homes (SIP-NH), the ability to live independently, and insulin-like growth factor I (IGF-I) levels. RESULTS: MK-0677 treatment increased serum IGF-I levels by 84% (95% confidence interval (CI)=63-107), compared with an increase of 17% (95% CI=8-28) on placebo. There were no significant differences between MK-0677 and placebo in improvement in functional performance measures or in the overall SIP-NH score. Although MK-0677 patients showed greater improvement relative to placebo in three of four lower extremity functional performance measures, in the physical domain of the SIP, and in the ability to live independently, these differences were not statistically significant. CONCLUSION: Although MK-0677 treatment increased serum IGF-I, it is uncertain whether clinically significant effects on physical function were achieved. Measuring function in clinical trials in hip-fracture patients is difficult because of the lack of validated outcome measures, high variability, and the lack of a baseline assessment. Present functional performance measures may not be sufficiently responsive for use as the primary endpoint of small intervention studies; alternatively, stimulation of GH may not result in significant functional improvement."
+  },
+  {
+   "pmid": "11452249",
+   "titel": "Effects of oral administration of ibutamoren mesylate, a nonpeptide growth hormone secretagogue, on the growth hormone-insulin-like growth factor I axis in growth hormone-deficient children",
+   "jahr": "2001",
+   "journal": "Clin Pharmacol Ther",
+   "erstautor": "Codner E",
+   "doi": "10.1067/mcp.2001.116514",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Ibutamoren mesylate (MK-0677), an orally active nonpeptide growth hormone (GH) secretagogue, stimulates GH release through a pituitary and hypothalamic receptor that is different from the GH-releasing hormone receptor. We evaluated the safety and tolerability and the GH-insulin-like growth factor (IGF) responses to two dosages of oral ibutamoren mesylate given to children with GH deficiency for 7 to 8 days. The patients, 18 prepubertal children (15 male, 3 female) with idiopathic GH deficiency, had a chronologic age of 10.6 +/- 0.8 years (mean +/- SD), bone age of 7.4 +/- 0.7 years, growth velocity < 10th percentile for age, height < 10th percentile for age, and a maximum GH response of < or = 10 microg/L to two different GH stimulation tests. The children were assigned as follows to one of three treatment groups with ibutamoren mesylate: 0.2 mg/kg per day for 7 days (days 1-7 or 8-14) and matching placebo for the alternate 7 days (groups I and II, respectively) or 0.8 mg/kg per day for 7 days (days 8-14, group III). On day 15 all patients received an 0.8-mg/kg dose of ibutamoren mesylate. Patients in groups I and II were studied first to assess safety at the low dose before advancement to the high dose. Hormonal profiles were evaluated on day -1 (baseline) and day 15, and the results were expressed as the change from baseline within each group. After administration of ibutamoren mesylate 0.8 mg/kg for 8 days (group III), the median increases (on day 15) from baseline were as follows: 3.8 microg/L (range, 0 to 34.3) for serum GH peak concentration (P = .001), 4.3 microg x h/L (range, 1.3 to 35.6) for the GH area under the concentration-time curve from time zero to 8 hours (AUC(0-8)) (P < .001), 12 microg/L (range, -4 to 116) for serum IGF-I (P = .01), and 0.4 microg/L (range, -0.9 to 1.5) for serum IGF-binding protein 3 (IGFBP-3) (P = .01). There was no change in serum prolactin, glucose, triiodothyronine, thyroxine, thyrotropin, peak serum cortisol, and insulin concentrations or 24-hour urinary free cortisol after administration of 0.8 mg/kg per day of ibutamoren mesylate for 8 days. We conclude that short-term administration of ibutamoren mesylate can increase GH, IGF-I, and IGFBP-3 levels in some children with GH deficiency. Thus this compound is applicable for testing its effect on growth velocity."
+  },
+  {
+   "pmid": "21067829",
+   "titel": "MK-0677 (ibutamoren mesylate) for the treatment of patients recovering from hip fracture: a multicenter, randomized, placebo-controlled phase IIb study",
+   "jahr": "2011",
+   "journal": "Arch Gerontol Geriatr",
+   "erstautor": "Adunsky A",
+   "doi": "10.1016/j.archger.2010.10.004",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Comparative Study",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "Most elderly patients admitted for hip fracture suffer functional decline. Previous studies with MK-0677 in hip fracture patients suggested possible benefits to functional recovery. This is a randomized, double-blind study of 123 elderly hip fracture patients assigned to receive 25mg/day of MK-0677 (n = 62) or placebo (n = 61). Primary outcomes were a rank analysis of change during the study in objective functional performance measurements and insulin-like growth factor-1 (IGF-1) levels in blood. At 24-weeks, the mean stair climbing power increased by 12.5 W in the MK-0677 group (95% confidence interval (CI) = -10.95-35.88; p = 0.292) compared with placebo. Gait speed increased by a 0.7-score difference in the means (95% CI = 0.17-1.28; p = 0.011). There was no improvement in MK-0677 treated patients in several other functional performance measures. The MK-0677 group experienced fewer falls during the study compared to placebo and smaller number of patients who had any falls (p = 0.096). Levels of IGF-1 in treated patients increased by 51.4 ng/ml (95% CI = 34.42-68.44; p < 0.001) compared to placebo. Trial was terminated early due to a safety signal of congestive heart failure in a limited number of patients. In hip fracture patients treated with 25mg/day MK-0677, the increase in plasma IGF-1 levels was not paralleled by improvement in most functional performance measures. MK-0677 has an unfavorable safety profile in this patient population."
+  },
+  {
+   "pmid": "19015485",
+   "titel": "Growth hormone secretagogue MK-677: no clinical effect on AD progression in a randomized trial",
+   "jahr": "2008",
+   "journal": "Neurology",
+   "erstautor": "Sevigny JJ",
+   "doi": "10.1212/01.wnl.0000335163.88054.e7",
+   "typ": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: In animals, insulin-like growth factor-1 (IGF-1) increases clearance of beta-amyloid, a pathologic hallmark of Alzheimer disease (AD), from the CNS. Serum IGF-1 level decreases with age, and shows a further decrease in AD. We examined whether the growth hormone secretagogue MK-677 (ibutamoren mesylate), a potent inducer of IGF-1 secretion, slows the rate of progression of symptoms in patients with AD. METHODS: A double-blind, multicenter study was conducted in which 563 patients with mild to moderate AD were randomized to receive MK-677 25 mg or placebo daily for 12 months. Efficacy measures were mean change from baseline at month 12 on the Clinician's Interview Based Impression of Change with caregiver input (CIBIC-plus), the cognitive subscale of the Alzheimer's Disease Assessment Scale (ADAS-Cog), Alzheimer's Disease Cooperative Study-Activities of Daily Living (ADCS-ADL), and the Clinical Dementia Rating-sum of boxes (CDR-sob). RESULTS: A total of 416 patients completed treatment and assessments at 12 months. Administration of MK-677 25 mg resulted in a 60.1% increase in serum IGF-1 levels at 6 weeks and a 72.9% increase at 12 months. In mixed-effects models that included treatment, time (month), randomization strata (baseline MMSE score < or =20 vs >20), and interaction of treatment-by-time, there were no significant differences between the treatment groups on the CIBIC-plus or the mean change from baseline scores on the ADAS-Cog, ADCS-ADL, or CDR-sob scores over 12 months. CONCLUSION: Despite evidence of target engagement as indicated by an increase in serum insulin-like growth factor-1, the human growth hormone secretagogue MK-677 25 mg was ineffective at slowing the rate of progression of Alzheimer disease."
+  },
+  {
+   "pmid": "10404019",
+   "titel": "Oral administration of the growth hormone secretagogue MK-677 increases markers of bone turnover in healthy and functionally impaired elderly adults. The MK-677 Study Group",
+   "jahr": "1999",
+   "journal": "J Bone Miner Res",
+   "erstautor": "Murphy MG",
+   "doi": "10.1359/jbmr.1999.14.7.1182",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Growth hormone (GH) stimulates osteoblasts in vitro and increases bone turnover and stimulates osteoblast activity when given to elderly subjects. Probably a major effect of GH on bone is mediated through stimulation of either circulating or locally produced insulin-like growth factor I (IGF-I). We determined the effect of chronic administration of the GH secretagogue, MK-677, on serum IGF-I and markers of bone turnover in 187 elderly adults (65 years or older) enrolled in three randomized, double-blind, placebo-controlled clinical studies lasting 2-9 weeks. Urine was collected for determination of N-telopeptide cross-links (NTXs), a marker of bone resorption, and blood was collected for determination of serum osteocalcin and bone-specific alkaline phosphatase (BSAP), as bone formation markers, and serum IGF-I levels pre- and post-treatment. Dose response data were initially obtained in healthy elderly subjects who received oral doses of 10 mg or 25 mg of MK-677 or placebo for 2 weeks (n = 10-12/group). Treatment with 10 mg and 25 mg of MK-677 for 2 weeks increased mean urine NTXs 10% and 17%, respectively (p < 0.05 vs. placebo). Additionally, 50 healthy elderly subjects received either placebo (n = 20) for 4 weeks or 25 mg of MK-677 (n = 30) daily for 2 weeks followed by 50 mg daily for 2 weeks. MK-677 increased mean serum osteocalcin by 8% (p < 0.05 vs. placebo). In both studies, MK-677 increased serum IGF-I levels significantly (55-94%). Subsequently, the biological effects of MK-677 were studied in 105 elderly subjects who met objective criteria for functional impairment. Subjects were randomized to receive oral doses of placebo for 9 weeks or either 5, 10, or 25 mg of MK-677 daily for an initial 2 weeks followed by 25 mg of MK-677 daily for the next 7 weeks(n = 63 on MK-677 and n = 28 on placebo completed 9 weeks of therapy). Treatment with MK-677 (all MK-677 groups combined) for 9 weeks increased mean serum osteocalcin by 29.4% and BSAP by 10.4% (p < 0.001 vs. placebo) and mean urinary NTX excretion by 22.6% (p < 0.05 vs. placebo). The change from baseline serum osteocalcin correlated with the change from baseline serum IGF-I in the MK-677 group (r = 0.37; p < 0.01). In conclusion, once daily dosing with MK-677, an orally active GH secretagogue, stimulates bone turnover in elderly subjects based on elevations in biochemical markers of bone resorption and formation."
+  },
+  {
+   "pmid": "9349662",
+   "titel": "Prolonged oral treatment with MK-677, a novel growth hormone secretagogue, improves sleep quality in man",
+   "jahr": "1997",
+   "journal": "Neuroendocrinology",
+   "erstautor": "Copinschi G",
+   "doi": "10.1159/000127249",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "Previous studies have indicated the existence of common mechanisms regulating sleep and somatotropic activity. In the present study, we investigated the effects of prolonged treatment with a novel, orally active, growth hormone secretagogue (MK-677) on sleep quality in healthy young and older adults. Eight young subjects (18-30 years) followed a double-blind, placebo-controlled, three-period crossover design. Each subject participated in three 7-day treatment periods (with bedtime drug administration), presented in random (Latin square) order, and separated by at least 14 days. Doses were 5 and 25 mg MK-677 and matching placebo. Six older subjects, ages 65-71 years, each participated in two 14-day treatment periods (with bedtime drug administration) separated by a 14-day washout. Doses were 2 and 25 mg MK-677 during the first and second periods, respectively. Baseline sleep and hormonal data were obtained on the 2 days preceding the beginning of the first 14-day treatment period. In young subjects, high-dose MK-677 treatment resulted in an approximately 50% increase in the duration of stage IV and in a more than 20% increase in REM sleep as compared to placebo (p < 0.05). The frequency of deviations from normal sleep decreased from 42% under placebo to 8% under high-dose MK-677 (p < 0.03). In older adults, treatment with MK-677 was associated with a nearly 50% increase in REM sleep (p < 0.05) and a decrease in REM latency (p < 0.02). The frequency of deviations from normal sleep also decreased (p < 0.02). The present findings suggest that MK-677 may simultaneously improve sleep quality and correct the relative hyposomatotropism of senescence."
+  },
+  {
+   "pmid": "11238495",
+   "titel": "Effect of alendronate and MK-677 (a growth hormone secretagogue), individually and in combination, on markers of bone turnover and bone mineral density in postmenopausal osteoporotic women",
+   "jahr": "2001",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Murphy MG",
+   "doi": "10.1210/jcem.86.3.7294",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "GH increases bone turnover and stimulates osteoblast activity. We hypothesized that administration of MK-677, an orally active GH secretagogue, together with alendronate, a potent inhibitor of bone resorption, would maintain a higher bone formation rate relative to that seen with alendronate alone, thereby generating greater enhancement of bone mineral density (BMD) in women with postmenopausal osteoporosis. We determined the individual and combined effects of MK-677 and alendronate administration on insulin-like growth factor I levels and biochemical markers of bone formation (osteocalcin and bone-specific alkaline phosphatase) and resorption [urinary N-telopeptide cross-links (NTx)] for 12 months and BMD for 18 months. In a multicenter, randomized, double blind, placebo-controlled, 18-month study, 292 women (64-85 yr old) with low femoral neck BMD were randomly assigned in a 3:3:1:1 ratio to 1 of 4 daily treatment groups for 12 months: MK-677 (25 mg) plus alendronate (10 mg); alendronate (10 mg); MK-677 (25 mg); or a double dummy placebo. Patients who received MK-677 alone or placebo through month 12 received MK-677 (25 mg) plus alendronate (10 mg) from months 12-18. All other patients remained on their assigned therapy. All patients received 500 mg/day calcium. The primary results, except for BMD, are provided for month 12. MK-677, with or without alendronate, increased insulin-like growth factor I levels from baseline (39% and 45%; P < 0.05 vs. placebo). MK-677 increased osteocalcin and urinary NTx by 22% and 41%, on the average, respectively (P < 0.05 vs. placebo). MK-677 and alendronate mitigated the reduction in bone formation compared with alendronate alone based on mean relative changes in serum osteocalcin (-40% vs. -54%; P < 0.05, combination vs. alendronate) and reduced the effect of alendronate on resorption (NTx) as well (-52% vs. -61%; P < 0.05, combination vs. alendronate). MK-677 plus alendronate increased BMD at the femoral neck (4.2% vs. 2.5% for alendronate; P < 0.05). However, similar enhancement was not seen with MK-677 plus alendronate in BMD of the lumbar spine, total hip, or total body compared with alendronate alone. GH-mediated side effects were noted in the groups receiving MK-677, although adverse events resulting in discontinuation from the study were relatively infrequent. In conclusion, the anabolic effect of GH, as produced through the GH secretagogue MK-677, attenuated the indirect suppressive effect of alendronate on bone formation, but did not translate into significant increases in BMD at sites other than the femoral neck. Although the femoral neck is an important site for fracture prevention, the lack of enhancement in bone mass at other sites compared with that seen with alendronate alone is a concern when weighed against the potential side effects of enhanced GH secretion."
+  },
+  {
+   "pmid": "9661080",
+   "titel": "Treatment with the oral growth hormone secretagogue MK-677 increases markers of bone formation and bone resorption in obese young males",
+   "jahr": "1998",
+   "journal": "J Bone Miner Res",
+   "erstautor": "Svensson J",
+   "doi": "10.1359/jbmr.1998.13.7.1158",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The effect of 2 months of treatment with the oral growth hormone (GH) secretagogue MK-677 on markers of bone metabolism was determined in healthy obese male subjects. This was a randomized, double-blind, parallel, placebo-controlled study. Twenty-four healthy obese males, 19-49 years of age, with body mass index > 30 kg/m2 were treated with MK-677 (25 mg/day; n = 12) or placebo (n = 12) for 8 weeks. MK-677 increased markers of bone formation; a 23% increase in the carboxy-terminal propeptide of type I procollagen levels and a 28% increase in procollagen III peptide levels were seen with as little as 2 weeks of MK-677 treatment (p < 0.01 and p = 0.001 vs. placebo, respectively) while a 15% increase in serum levels of osteocalcin was not detected until 8 weeks of treatment (p < 0.01 vs. placebo). Markers of bone resorption were induced within 2 weeks of treatment with MK-677; serum levels of the carboxy-terminal cross-linked telopeptide of type I collagen were increased 26% at 8 weeks (p = 0.001 vs. placebo), and urine hydroxyproline/creatinine and calcium/creatinine ratios at 8 weeks were increased by 23% (p < 0.05 vs. placebo) and 46% (p < 0.05 vs placebo), respectively, MK-677 increased serum insulin-like growth factor binding protein-5 (IGFBP-5) by 43-44% after 2-8 weeks of treatment (p < 0.01 vs. placebo). Serum IGFBP-4 was increased by 25% after 2 weeks of treatment (p < 0.001 vs. placebo) but no significant change from baseline was observed after 8 weeks of treatment. Plasma interleukin-6 was not significantly changed by active treatment. In conclusion, short-term treatment of healthy obese male volunteers with the GH secretagogue MK-677 increases markers of both bone resorption and formation. Large increases in serum levels of IGF-1 and IGFBP-5 and a transient increase in serum IGFBP-4 were found. Future long-term studies are needed to investigate if prolonged treatment with MK-677 increases bone mass."
+  },
+  {
+   "pmid": "10468903",
+   "titel": "Discrepancy between serum leptin values and total body fat in response to the oral growth hormone secretagogue MK-677",
+   "jahr": "1999",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Svensson J",
+   "doi": "10.1046/j.1365-2265.1999.00667.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: Growth hormone (GH) treatment decreases total body fat while this effect has not yet been documented for the oral GH secretagogue MK-677. In the present study, the effects of MK-677 treatment on serum levels of leptin, thyroid hormones and testosterone were determined. DESIGN: This was a randomized, double-blind, and parallel study. Twenty-four healthy obese males, 19-49 years of age, with body mass index (BMI) > 30 kg/m2 and a waist:hip ratio > 0.95, were treated with MK-677 (25 mg/day; n = 12) or placebo (n = 12) for 8 weeks. RESULTS: MK-677 treatment increased serum leptin levels and leptin/body fat ratio at 2 weeks of treatment (P < 0.05 vs. placebo) but no significant change was observed at 8 weeks. An increase in serum free 3, 5, 3'-triiodothyronine (free T3) was not detected until 8 weeks of MK-677 treatment (P < 0.05 vs. placebo). Peak serum thyroid stimulating hormone (TSH) concentration after MK-677 administration was similar to that after placebo administration at initiation of treatment and at 2 weeks. At 8 weeks of MK-677 treatment, mean peak serum TSH concentration was increased (P < 0.05 vs. placebo) although it remained within the normal range. Serum peak values of luteinizing hormone (LH) and follicle stimulating hormone (FSH) were similar after MK-677 and placebo administration. MK-677 treatment reduced serum total testosterone (P < 0.05 vs. placebo) although total testosterone/sex hormone-binding globulin (SHBG) ratio (an index of free testosterone) was not changed. CONCLUSION: Treatment with the oral GH secretagogue MK-677 transiently increased serum leptin levels and leptin/body fat ratio at 2 weeks of treatment, and increased serum free T3 after 8 weeks. These results indicate that MK-677 treatment is able to affect circulating factors of importance for adipose tissue mass and fuel metabolism."
+  },
+  {
+   "pmid": "9467542",
+   "titel": "Two-month treatment of obese subjects with the oral growth hormone (GH) secretagogue MK-677 increases GH secretion, fat-free mass, and energy expenditure",
+   "jahr": "1998",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Svensson J",
+   "doi": "10.1210/jcem.83.2.4539",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Obesity is associated with blunted GH secretion, unfavorable body composition, and increased cardiovascular mortality. The objective of this study was to investigate the effects of oral treatment with the GH secretagogue MK-677 on GH secretion and body composition in otherwise healthy obese males. The study was randomized, double blind, parallel, and placebo controlled. Twenty-four obese males, aged 18-50 yr, with body mass indexes greater than 30 kg/m2 and waist/hip ratios greater than 0.95, were treated with MK-677 25 mg (n = 12) or placebo (n = 12) daily for 8 weeks. Serum insulin-like growth factor I (IGF-I) increased approximately 40% with MK-677 treatment (P < 0.001 vs. placebo). Serum IGF-binding protein-3 was also significantly increased (P < or = 0.001 vs. placebo). GH and PRL (peak and area under the curve values) were significantly increased after the initial dose of MK-677. Significant increases, with the exception of peak PRL, persisted at 2 and 8 weeks of treatment. The increases in GH and PRL after the initial dose were significantly greater than the increase seen after multiple doses. Serum and urinary concentrations of cortisol were not increased at 2 and 8 weeks (P = NS, vs. placebo). Fat-free mass increased significantly in the MK-677 treatment group when determined with dual energy x-ray absorptiometry (P < 0.01) or using a four-compartment model (P < 0.05). Total and visceral fat were not significantly changed with active therapy. The basal metabolic rate was significantly increased at 2 weeks of MK-677 treatment (P = 0.01) but not at 8 weeks (P = 0.1). Fasting concentrations of glucose and insulin were unchanged, whereas an oral glucose tolerance test showed impairment of glucose homeostasis at 2 and 8 weeks. We conclude that 2-month treatment with MK-677 in healthy obese males caused a sustained increase in serum levels of GH, IGF-I, and IGF-binding protein-3. The effects on cortisol secretion were transient. Changes in body composition and energy expenditure were of an anabolic nature, with a sustained increase in fat-free mass and a transient increase in basal metabolic rate. Further studies are needed to evaluate whether a higher dose of MK-677 or a more prolonged treatment period can promote a reduction in body fat."
+  },
+  {
+   "pmid": "8768828",
+   "titel": "Effects of a 7-day treatment with a novel, orally active, growth hormone (GH) secretagogue, MK-677, on 24-hour GH profiles, insulin-like growth factor I, and adrenocortical function in normal young men",
+   "jahr": "1996",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Copinschi G",
+   "doi": "10.1210/jcem.81.8.8768828",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "To assess the effects of prolonged administration of a novel analog of GH-releasing peptide (MK-677), nine healthy young men participated in a randomized, double blind, three-period cross-over comparison of orally administered placebo and 5- and 25-mg doses of MK-677. Each period involved bedtime administration of the drug for 7 consecutive days. At the end of each period, plasma levels of insulin-like growth factor I (IGF-I) and IGF-binding protein-3 (IGFBP-3) were measured at 0745 h, and 24-h profiles of plasma GH and cortisol were obtained at 15-min intervals together with the 24-h urinary excretion of free cortisol. Profiles of plasma free cortisol were calculated at hourly intervals. The amounts of GH secreted were similar in all three conditions, but GH pulse frequency was increased with both dosages of the drug, primarily because of an increase in the number of low amplitude pulses. Plasma IGF-I levels were increased in a dose-dependent manner, whereas IGFBP-3 levels were increased only with the highest dosage. There was a positive relationship between GH pulse frequency and IGF-I increase. Except for an advance in the nocturnal nadir and in the morning elevation, MK-677 had no effect on cortisol profiles. In particular, 24-h mean levels of plasma total and free cortisol and urinary excretion of free cortisol were similar under all conditions. The present data suggest that the use of MK-677 for the treatment of relative somatotropic deficiency, particularly in older adults compromised by such deficiency, deserves further investigation."
+  },
+  {
+   "pmid": "12550076",
+   "titel": "The effect of treatment with the oral growth hormone (GH) secretagogue MK-677 on GH isoforms",
+   "jahr": "2003",
+   "journal": "Growth Horm IGF Res",
+   "erstautor": "Svensson J",
+   "doi": "10.1016/s1096-6374(02)00138-7",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Growth hormone (GH) consists of several isoforms. We have studied the proportion, expressed as percentage of total GH concentration, of non-22kDa (non-22K) GH isoforms and 20K GH during 8-week oral treatment with MK-677 25mg daily in 12 obese males. The proportion of non-22K GH isoforms in peak total GH samples after the initial MK-677 administration was higher than that after 2 and 8 weeks (p<0.01 and p<0.05, respectively). In selected non-peak total GH samples after the initial MK-677 administration, however, the proportion of non-22K GH isoforms was similar to that in the peak total GH samples after 2 and 8 weeks. The proportion of 20K GH in 2-h samples after the initial MK-677 administration was lower than that after 2 and 8 weeks (p<0.01 and p<0.05, respectively). We concluded that the proportion of non-22K GH isoforms was higher in peak, but not in non-peak, total GH samples after the initial MK-677 administration than that observed after multiple doses. The proportion of 20K GH in 2-h samples after the initial MK-677 administration was lower than that after 2 and 8 weeks. These moderate changes in the proportion non-22K GH isoforms are likely of small importance for the clinical response to MK-677 treatment."
+  },
+  {
+   "pmid": "9329386",
+   "titel": "Oral administration of growth hormone (GH) releasing peptide-mimetic MK-677 stimulates the GH/insulin-like growth factor-I axis in selected GH-deficient adults",
+   "jahr": "1997",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Chapman IM",
+   "doi": "10.1210/jcem.82.10.4297",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "To determine the effect of the GH releasing peptide (GHRP)-mimetic, MK-677, on the GH/insulin-like growth factor-I (IGF-I) axis in selected GH-deficient adults, we studied nine severely GH-deficient men [peak serum GH concentration in response to insulin-induced hypoglycemia of 1.2 +/- 1.5 micrograms/L, mean +/- SD (range 0.02-4.79)], age 17-34 yr, height 168 +/- 1.5 cm, body mass index 22.6 +/- 3.3 kg/m2, who had been treated for GH deficiency with GH during childhood. In a double-blind rising-dose design, subjects received once daily oral doses of 10 or 50 mg MK-677 or placebo for 4 days over two treatment periods separated by at least 28 days. Four subjects received placebo and 10 mg/day MK-677 in a cross-over fashion in periods 1 and 2. Five subjects received 10 mg and then 50 mg/day MK-677 in a sequential, rising-dose fashion in periods 1 and 2, respectively. Blood was collected every 20 min for 24 h before treatment and at the end of each period for GH measurement using an ultrasensitive assay. The drug was generally well tolerated, with no significant changes from baseline in circulating concentrations of cortisol, PRL, and thyroid hormones. Serum IGF-i and 24-H mean GH concentrations increased in all subjects after treatment with both 10 and 50 mg/day MK-677 vs. baseline. After treatment with 10 mg MK-677, IGF-I concentrations increased 52 +/- 20% (65 +/- 6 to 99 +/- 9 micrograms/L, geometric mean +/- intrasubject SE, P < or = 0.05 vs. baseline), and 24 h mean GH concentrations increased 79 +/- 19% (0.14 +/- 0.01 to 0.26 +/- 0.02 microgram/L, P < or = 0.05 vs. baseline). Following treatment with 50 mg MK-677, IGF-I concentrations increased 79 +/- 9% (84 +/- 3 to 150 +/- 6 micrograms/L, P < or = 0.05 vs. baseline) and 24-h mean GH concentrations increased 82 +/- 29% (0.21 +/- 0.02 to 0.39 +/- 0.04 microgram/L, P < or = 0.05 vs. baseline), respectively. Serum IGF binding protein-3 concentrations increased with both 10 mg (1.2 +/- 0.1 to 1.7 +/- 0.1 micrograms/L, P < or = 0.05) and 50 mg MK-677 (1.7 +/- 0.1 to 2.2 +/- 0.2 micrograms/L, P < or = 0.05). The GH response to MK-677 was greater in subjects who were the least GH/IGF-I deficient at baseline; by linear regression analysis the increase in 24-h mean GH concentration was positively related to both baseline 24-h mean GH concentration (r = 0.81, P = 0.009) and baseline IGF-I (r = 0.79, P = 0.01) for 10 mg MK-677. IGF-I responses were not significantly related to any baseline measurement. Fasting and postprandial insulin and postprandial glucose increased significantly after MK-677 treatment, and the clinical significance of these changes will need to be assessed in longer term studies. Oral administration of such GHRP-mimetic compounds may have a role in the treatment of GH deficiency of childhood onset."
+  },
+  {
+   "pmid": "11263473",
+   "titel": "Recombinant human IGF-I does not modify the ACTH and cortisol responses to hCRH and hexarelin, a peptidyl GH secretagogue, in humans",
+   "jahr": "2001",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Gianotti L",
+   "doi": "10.1007/BF03343815",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "An inhibitory influence of insulin-like growth factor-I (IGF-I) on hypothalamus-pituitary-adrenal (HPA) axis has been hypothesized. In fact, it has been reported that the rhGH (recombinant human GH)-induced IGF-I increase inhibits both cortisol and GH response to MK-0677, a non-peptidyl GH secretagogue in animals. The aim of this study was to further clarify the inhibitory role, if any, of IGF-I on corticotroph function. We studied the effect of rhIGF-I (recombinant human IGF-I; 20 microg/kg s.c. at -180 min) or placebo on the ACTH and cortisol responses to hCRH (human CRH; 2.0 microg/kg i.v. at 0 min) or hexarelin (HEX; 2.0 microg/kg i.v. at 0 min), a peptidyl GHS, in normal young women. The effect of rhIGF-I on the GH response to HEX was also studied. The subjects were six normal young women [age: 26-35 yr; body mass index (BMI): 19-23 kg/m2] in their early follicular phase. The results showed that after s.c. rhIGF-I administration, circulating IGF-I levels increased approximately 77%, peaking at -60 min and persisting similar up to +120 min. The mean ACTH, cortisol and GH concentrations did not change from -180 to 0 min when evaluated after both placebo or rhIGF-I. CRH and HEX induced similar ACTH (peak vs baseline, mean+/-SE: 47.5+/-10.9 vs 21.3+/-3.0 pg/ml and 30.3+/-6.9 vs 19.2+/-3.8 pg/ml, respectively; p<0.04) and cortisol responses (177.5+/-5.4 vs 109.3+/-10.3 microg/l and 149.4+/-12.3 vs 119.8+/-16.4 microg/l, respectively, p<0.04). RhIGF-I pretreatment did not modify the ACTH and cortisol responses to hCRH (46.0+/-13.8 pg/ml and 181.1+/-16.9 microg/l, respectively) as well as those to HEX (28.8+/-5.0 pg/ml and 144.1+/-16.2 microg/l, respectively). On the other hand, the GH response to HEX was clearly reduced by rhIGF-I (23.9+/-4.7 vs 64.7+/-14.8 microg/l, p<0.05). Our findings show that rhIGF-I-induced increase of circulating IGF-I levels exerts negative feedback action on somatotroph secretion, while it does not modify the corticotroph and the adrenal responsiveness to CRH or hexarelin."
+  },
+  {
+   "pmid": "8954023",
+   "titel": "Stimulation of the growth hormone (GH)-insulin-like growth factor I axis by daily oral administration of a GH secretogogue (MK-677) in healthy elderly subjects",
+   "jahr": "1996",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Chapman IM",
+   "doi": "10.1210/jcem.81.12.8954023",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "Aging is associated with declining activity of the GH axis, possibly contributing to adverse body composition changes and increased incidence of cardiovascular disease. The stimulatory effects on the GH-insulin-like growth factor I (IGF-I) axis of orally administered MK-677, a GH-releasing peptide mimetic, were investigated. Thirty-two healthy subjects (15 women and 17 men, aged 64-81 yr) were enrolled in a randomized, double blind, placebo-controlled trial. They received placebo or 2, 10, or 25 mg MK-677, orally, once daily for 2 separate study periods of 14 and 28 days. At baseline and on day 14 of each study period, blood was collected every 20 min for 24 h to measure GH, PRL, and cortisol. Attributes of pulsatile GH release were assessed by 3 independent algorithms. MK-677 administration for 2 weeks increased GH concentrations in a dose-dependent manner, with 25 mg/day increasing mean 24-h GH concentration 97 +/- 23% (mean +/- SE; P < 0.05 vs. baseline). This increase was due to an enhancement of preexisting pulsatile GH secretion. GH pulse height and interpulse nadir concentrations increased significantly without significant changes in the number of pulses. With 25 mg/day MK-677 treatment, mean serum IGF-I concentrations increased into the normal range for young adults (141 +/- 21 microgram/L at baseline, 219 +/- 21 micrograms/L at 2 weeks, and 265 +/- 29 micrograms/L at 4 weeks; P < 0.05). MK-677 produced significant increases in fasting glucose (5.4 +/- 0.3 to 6.8 +/- 0.4 mmol/L at 4 weeks; P < 0.01 vs. baseline) and IGF-binding protein-3. Circulating cortisol concentrations did not change, and PRL concentrations increased 23%, but remained within the normal range. Once daily treatment of older people with oral MK-677 for up to 4 weeks enhanced pulsatile GH release, significantly increased serum GH and IGF-I concentrations, and, at a dose of 25 mg/day, restored serum IGF-I concentrations to those of young adults."
+  },
+  {
+   "pmid": "10372705",
+   "titel": "Treatment of obese subjects with the oral growth hormone secretagogue MK-677 affects serum concentrations of several lipoproteins, but not lipoprotein(a)",
+   "jahr": "1999",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Svensson J",
+   "doi": "10.1210/jcem.84.6.5799",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Obesity is associated with blunted GH secretion and an unfavorable lipoprotein pattern. The objective of this study was to investigate the effects of treatment with the oral GH secretagogue MK-677 on lipoproteins in otherwise healthy obese males. The study was randomized, double blind, and parallel. Twenty-four obese males, aged 18-50 yr, with body mass index greater than 30 kg/m2 and waist/hip ratio above 0.95 were treated with 25 mg MK-677 (n = 12) or placebo (n = 12) daily for 8 weeks. MK-677 treatment did not significantly change serum lipoprotein(a) [Lp(a)] levels. Serum apolipoprotein A-I and E (apoA-I and apoE) were increased at 2 weeks (P < 0.001 and P < 0.01 vs. placebo, respectively), but were not changed at study end. Serum total cholesterol and low density lipoprotein (LDL) cholesterol (LDL-C) levels were not significantly changed by MK-677 treatment. Serum high density lipoprotein (HDL) cholesterol (HDL-C) was increased at 2 weeks of MK-677 treatment (P < 0.01 vs. placebo), but not at 8 weeks. The LDL-C/HDL-C ratio was reduced after 8 weeks of MK-677 treatment (P < 0.05 vs. placebo). Mean LDL particle diameter was decreased at 2 weeks (P < 0.05 vs. placebo), but was unchanged compared with baseline values at 8 weeks (P = NS vs. placebo). The level of serum triglycerides was increased at 2 (P < 0.05 vs. placebo), but not at 8, weeks. Lipoprotein lipase activity in abdominal and gluteal sc adipose tissue was not affected by active treatment. In conclusion, treatment with the oral GH secretagogue MK-677 affected circulating lipoproteins. The effects on serum apoA-1, apoE, triglycerides, and mean LDL particle diameter were transient. At study end, the LDL-C/HDL-C ratio was decreased. MK-677 treatment did not significantly affect serum Lp(a) concentrations at the present dose and administration protocol."
+  },
+  {
+   "pmid": "18981485",
+   "titel": "Effects of an oral ghrelin mimetic on body composition and clinical outcomes in healthy older adults: a randomized trial",
+   "jahr": "2008",
+   "journal": "Ann Intern Med",
+   "erstautor": "Nass R",
+   "doi": "10.7326/0003-4819-149-9-200811040-00003",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Growth hormone secretion and muscle mass decline from midpuberty throughout life, culminating in sarcopenia, frailty, decreased function, and loss of independence. The decline of growth hormone in the development of sarcopenia is one of many factors, and its etiologic role needs to be demonstrated. OBJECTIVE: To determine whether MK-677, an oral ghrelin mimetic, increases growth hormone secretion into the young-adult range without serious adverse effects, prevents the decline of fat-free mass, and decreases abdominal visceral fat in healthy older adults. DESIGN: 2-year, double-blind, randomized, placebo-controlled, modified-crossover clinical trial. SETTING: General clinical research center study performed at a university hospital. PARTICIPANTS: 65 healthy adults (men, women receiving hormone replacement therapy, and women not receiving hormone replacement therapy) ranging from 60 to 81 years of age. INTERVENTION: Oral administration of MK-677, 25 mg, or placebo once daily. MEASUREMENTS: Growth hormone and insulin-like growth factor I levels. Fat-free mass and abdominal visceral fat were the primary end points after 1 year of treatment. Other end points were body weight, fat mass, insulin sensitivity, lipid and cortisol levels, bone mineral density, limb lean and fat mass, isokinetic strength, function, and quality of life. All end points were assessed at baseline and every 6 months. RESULTS: Daily administration of MK-677 significantly increased growth hormone and insulin-like growth factor I levels to those of healthy young adults without serious adverse effects. Mean fat-free mass decreased in the placebo group but increased in the MK-677 group (change, -0.5 kg [95% CI, -1.1 to 0.2 kg] vs. 1.1 kg [CI, 0.7 to 1.5 kg], respectively; P < 0.001), as did body cell mass, as reflected by intracellular water (change, -1.0 kg [CI, -2.1 to 0.2 kg] vs. 0.8 kg [CI, -0.1 to 1.6 kg], respectively; P = 0.021). No significant differences were observed in abdominal visceral fat or total fat mass; however, the average increase in limb fat was greater in the MK-677 group than the placebo group (1.1 kg vs. 0.24 kg; P = 0.001). Body weight increased 0.8 kg (CI, -0.3 to 1.8 kg) in the placebo group and 2.7 kg (CI, 2.0 to 3.5 kg) in the MK-677 group (P = 0.003). Fasting blood glucose level increased an average of 0.3 mmol/L (5 mg/dL) in the MK-677 group (P = 0.015), and insulin sensitivity decreased. The most frequent side effects were an increase in appetite that subsided in a few months and transient, mild lower-extremity edema and muscle pain. Low-density lipoprotein cholesterol levels decreased in the MK-677 group relative to baseline values (change, -0.14 mmol/L [CI, -0.27 to -0.01 mmol/L]; -5.4 mg/dL [CI, -10.4 to -0.4 mg/dL]; P = 0.026); no differences between groups were observed in total or high-density lipoprotein cholesterol levels. Cortisol levels increased 47 nmol/L (CI, 28 to 71 nmol/L (1.7 microg/dL [CI, 1.0 to 2.6 microg/dL]) in MK-677 recipients (P = 0.020). Changes in bone mineral density consistent with increased bone remodeling occurred in MK-677 recipients. Increased fat-free mass did not result in changes in strength or function. Two-year exploratory analyses confirmed the 1-year results. LIMITATION: Study power (duration and participant number) was insufficient to evaluate functional end points in healthy elderly persons. CONCLUSION: Over 12 months, the ghrelin mimetic MK-677 enhanced pulsatile growth hormone secretion, significantly increased fat-free mass, and was generally well tolerated. Long-term functional and, ultimately, pharmacoeconomic, studies in elderly persons are indicated."
+  }
+ ],
+ "metaanalysen": [],
+ "praeklinik": [
+  {
+   "pmid": "40675653",
+   "titel": "Hepatotoxicity induced by MK-677",
+   "jahr": "2025",
+   "journal": "BMJ Case Rep",
+   "erstautor": "Cobani E",
+   "doi": "10.1136/bcr-2025-265728",
+   "typ": [
+    "Journal Article",
+    "Case Reports"
+   ],
+   "abstract": "MK-677, a growth hormone secretagogue, is gaining popularity among performance-enhancing supplements. While its side effects include oedema, increased appetite and muscle pain, reports of hepatotoxicity are scarce. Here we present the case of an otherwise healthy man in his early 30s, who developed transaminitis after consuming MK-677 for 2 months before presentation. Liver function tests eventually returned to normal limits after stopping the supplement."
+  },
+  {
+   "pmid": "34141995",
+   "titel": "Treatment of Pediatric Growth Hormone Deficiency With Oral Secretagogues Revisited",
+   "jahr": "2021",
+   "journal": "J Endocr Soc",
+   "erstautor": "Yau M",
+   "doi": "10.1210/jendso/bvab096",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "23317782",
+   "titel": "Ghrelin receptor in energy homeostasis and obesity pathogenesis",
+   "jahr": "2013",
+   "journal": "Prog Mol Biol Transl Sci",
+   "erstautor": "Li Z",
+   "doi": "10.1016/B978-0-12-386933-3.00002-9",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "The ghrelin receptor, also known as growth hormone secretagogue receptor (GHS-R), was identified in porcine and rat anterior pituitary membranes, where the synthetic secretagogue MK-0677 causes amplified pulsatile growth hormone (GH) release. In addition to its function in the stimulation of GH secretion, ghrelin, the natural ligand of ghrelin receptor is now recognized as a peptide hormone with fundamental influence on energy homeostasis. Despite the potential existence of multiple subtypes of ghrelin receptor, the effects of ghrelin on energy metabolism, obesity, and diabetes are mediated by its classical receptor GHS-R1a, whose activation requires the n-octanoylation of ghrelin. Here we review the current understanding of the role of the ghrelin receptor in the regulation of energy homeostasis. An overview of the ghrelin receptor is presented first, followed by the discussion on its effects on food intake, glucose homeostasis, and lipid metabolism. Finally, potential strategies for treating obesity and diabetes via manipulation of the ghrelin/ghrelin receptor axis are explored."
+  },
+  {
+   "pmid": "42396509",
+   "titel": "Striosomal ghrelin receptor activity controls reward-cost integration",
+   "jahr": "2026",
+   "journal": "Res Sq",
+   "erstautor": "Salcido AA",
+   "doi": "10.21203/rs.3.rs-10122988/v1",
+   "typ": [
+    "Journal Article",
+    "Preprint"
+   ],
+   "abstract": "Growth hormone secretagogue receptors (GHSRs) modulate reward and cost processing separately, but their role in conflict-based decision-making is unclear. We observed dose-dependent effects of the GHSR agonist ibutamoren (IBU) on rat decision-making performance. Moderate, but not low or high doses, increased cost sensitivity selectively in conflict paradigms. We observed dense GHSR expression in dorsomedial striosomes, a region critical for conflict decision-making. Moderate GHSR activation increased neuronal activity in dorsomedial striosomes that project to lateral habenula (LHb) and enhanced inactivation of dopaminergic neurons in the substantia nigra pars compacta (daSNc). Chemogenetic manipulation of dorsomedial striosomes activity confirmed their causal influence on both GHSR-mediated increases in cost-sensitivity and circuit activity in LHb and daSNc. Our results identify a novel circuit mechanism linking endocrine activity with conflict decision-making."
+  },
+  {
+   "pmid": "39145153",
+   "titel": "Reversible Gynecomastia and Hypogonadism Due to Usage of Commercial Performance-Enhancing Supplement Use",
+   "jahr": "2024",
+   "journal": "JCEM Case Rep",
+   "erstautor": "Chong S",
+   "doi": "10.1210/jcemcr/luae148",
+   "typ": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "abstract": "Commercially available performance-enhancing supplements can contain banned performance-enhancing drugs (PEDs) and undisclosed steroid hormones that can induce hormonal abnormalities with associated clinical signs. We present a case of a 40-year-old male who developed bilateral gynecomastia and biochemical hypogonadotropic hypogonadism with a corresponding 6-month history of consuming commercially available performance-enhancing supplements for gym workouts. These performance-enhancing supplements were found to contain amounts of RAD-140, a selective androgen receptor modulator, MK-677, a GH secretagogue and cardarine, all of which are banned PEDs. In vitro analysis also detected undisclosed hormones testosterone, estradiol, and GH in all 3 supplements, with further steroid analysis using liquid chromatography mass spectrometry identifying an unidentified compound coeluting close to the testosterone peak. Cessation of these supplements led to full resolution of symptoms including normalization of hypogonadotropic hypogonadism. This case highlights the need for clinicians to consider commercially available performance-enhancing supplements as potential sources of PEDs and exogenous steroid hormones that can have adverse clinical consequences."
+  },
+  {
+   "pmid": "17142001",
+   "titel": "Impurity profile tracking for active pharmaceutical ingredients: case reports",
+   "jahr": "2007",
+   "journal": "J Pharm Biomed Anal",
+   "erstautor": "Zhou L",
+   "doi": "10.1016/j.jpba.2006.11.004",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Tracking the impurity profile of an active pharmaceutical ingredient (API) is a very important task for all stages of drug development. A systematic approach for tracking impurity profile of API is described. Various real pharmaceutical applications are presented through successful examples of impurity profile tracking for three different novel APIs. These include MK-0969, an M3 antagonist; MK-0677, an oral-active growth hormone secretagogue and API-A, a cathepsin K inhibitor. A general strategy including selection of a reversed phase high performance liquid chromatographic (RP-HPLC) impurity profile method based on screening various stationary phases and changing the pH of the mobile phase and elucidation of impurity structures through the utilization of LC-MS, preparative-LC and NMR is demonstrated. A series of studies were conducted on the peak purity check by using the LC-UV diode-array and LC-MS detections. The advantages and disadvantages of each technique in the evaluation of peak purity are discussed."
+  },
+  {
+   "pmid": "42578445",
+   "titel": "Peptide Supplements and Their Therapeutic Applications in Sports Medicine",
+   "jahr": "2026",
+   "journal": "Am J Sports Med",
+   "erstautor": "Tewari K",
+   "doi": "10.1177/03635465261464420",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: The peptide supplement market has experienced rapid growth due to marketing claims of enhanced performance and accelerated recovery from musculoskeletal injury. These peptides are increasingly popular with patients and athletes and are often perceived as low risk, despite the absence of efficacy or safety data for many emerging peptides. PURPOSE: To summarize existing peer-reviewed data on 6 emerging peptides (BPC-157, thymosin beta-4 or TB-500, CJC-1295, MK-677, ipamorelin, and GHK-Cu [copper peptide]) for musculoskeletal recovery and enhancement in animal and human models. STUDY DESIGN: Scoping review. METHODS: Three independent reviewers searched the PubMed database using permutations of peptide search terms (BPC-157, TB-500, CJC-1295, MK-677 [ibutamoren], ipamorelin, and GHK-Cu) combined with musculoskeletal tissue search terms (bone, fracture, muscle, tendon, ligament, meniscus, and cartilage) following PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines. Papers were independently screened by 2 reviewers, with a third serving as a tiebreaker. Papers examining these peptides for musculoskeletal treatment, tissue recovery, or performance in animal or human models were included. RESULTS: Overall, 67% of identified publications utilized preclinical animal models. In animal models, most commonly rats, each compound demonstrated unique mechanisms with promising but variable effects on tendon, muscle, bone, and ligament healing. Human clinical studies were limited to a handful of investigations, most lacking robust controls or rigorous study designs. Human data were heterogeneous and revealed modest improvements at best for metabolic bone health and degenerative knee pain. Some peptides such as MK-677 were associated with significant risks including congestive heart failure, and significant heterogeneity existed in dosing and route of administration. CONCLUSION: Despite promising findings in animal studies, the claimed benefits of emerging peptide supplements for musculoskeletal recovery and performance remain unsubstantiated by current human trials. Documented risks include cardiovascular complications and metabolic dysfunction such as insulin resistance. Because of the lack of robust efficacy and safety data, peptide supplements should not currently be recommended as a replacement or adjunct for existing orthopaedic standard of care."
+  },
+  {
+   "pmid": "32257855",
+   "titel": "Beyond the androgen receptor: the role of growth hormone secretagogues in the modern management of body composition in hypogonadal males",
+   "jahr": "2020",
+   "journal": "Transl Androl Urol",
+   "erstautor": "Sinha DK",
+   "doi": "10.21037/tau.2019.11.30",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Male hypogonadism is an increasingly prevalent clinical condition that affects patients' quality of life and overall health. Obesity and metabolic syndrome can both cause and result from hypogonadism. Although testosterone remains the gold standard for hypogonadism management, its benefits are not always conserved across different populations, especially with regards to changes in body composition. Partially in response to this, growth hormone secretagogues (GHS) have emerged as a potential novel adjunctive therapy for some of the symptoms of hypogonadism, although current data on their clinical efficacy largely remain lacking. The present review examines the existing literature on the use of GHS and explores their potential complementary role in the management of hypogonadal and eugonadal males with metabolic syndrome or subclinical hypogonadism (SH). The GHS that will be discussed include sermorelin, growth hormone-releasing peptides (GHRP)-2, GHRP-6, ibutamoren, and ipamorelin. All are potent GH and IGF-1 stimulators that can significantly improve body composition while ameliorating specific hypogonadal symptoms including fat gain and muscular atrophy. However, a paucity of data examining the clinical effects of these compounds currently limits our understanding of GHS' role in the treatment of men with hypogonadism, but does open opportunities for future investigation."
+  },
+  {
+   "pmid": "28400207",
+   "titel": "The Safety and Efficacy of Growth Hormone Secretagogues",
+   "jahr": "2018",
+   "journal": "Sex Med Rev",
+   "erstautor": "Sigalos JT",
+   "doi": "10.1016/j.sxmr.2017.02.004",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Review"
+   ],
+   "abstract": "INTRODUCTION: Growth hormone (GH) increases lean body mass, decreases fat mass, increases exercise tolerance and maximum oxygen uptake, enhances muscle strength, and improves linear growth. Long-term studies of GH administration offer conflicting results on its safety, which has led to strict Food and Drug Administration criteria for GH use. The potential drawbacks of exogenous GH use are believed to be due in part to impaired regulatory feedback. AIM: To review the literature on GH secretagogues (GHSs), which include GH-releasing peptides and the orally available small-molecule drug ibutamoren mesylate. METHODS: Review of clinical studies on the safety and efficacy of GHSs in human subjects. MAIN OUTCOME MEASURE: Report on the physiologic changes from GHS use in human subjects including its safety profile. RESULTS: GHSs promote pulsatile release of GH that is subject to negative feedback and can prevent supra-therapeutic levels of GH and their sequelae. To date, few long-term, rigorously controlled studies have examined the efficacy and safety of GHSs, although GHSs might improve growth velocity in children, stimulate appetite, improve lean mass in wasting states and in obese individuals, decrease bone turnover, increase fat-free mass, and improve sleep. Available studies indicate that GHSs are well tolerated, with some concern for increases in blood glucose because of decreases in insulin sensitivity. CONCLUSION: Further work is needed to better understand the long-term impact of GHSs on human anatomy and physiology and more specifically in the context of a diversity of clinical scenarios. Furthermore, the safety of these compounds with long-term use, including evaluation of cancer incidence and mortality, is needed. Sigalos JT, Pastuszak AW. The Safety and Efficacy of Growth Hormone Secretagogues. Sex Med Rev 2018;6:45-53."
+  },
+  {
+   "pmid": "10091157",
+   "titel": "New GH secretagogues and potential usefulness in thalassemia",
+   "jahr": "1998",
+   "journal": "J Pediatr Endocrinol Metab",
+   "erstautor": "Karydis I",
+   "doi": "",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Thalassemic patients today undergo intensive transfusion and chelation regimes that offer them prolonged survival and improved quality of life. Nevertheless, they face the consequences of chronic illness and therapies which affect multiple bodily functions. Endocrine derangements involve, among others, the GH-IGF-I axis with consequent impairment of growth. In such cases, GH release, as assessed with stimulation tests, may be normal whereas ultradian GH secretion seems to be subnormal. New GH secretagogues (GHRs) are agents that stimulate pituitary GH release by acting upon different receptors than the endogenous hypothalamic secretagogue, growth hormone-releasing hormone (GHRH). Examples are the growth hormone releasing peptides (GHRPs) GHRP-6, GHRP-1, GHRP-2, Hexarelin and the nonpeptidyl MK-0677. These can be administered by multiple routes, even per os or intranasally, thus obviating the need for injections. Their GH releasing capacity is more pronounced and prolonged than that of GHRH and their use is devoid of serious side effects. The most recently developed GHRs seem to be capable of producing sustained GH release in many cases and can thus be viewed as therapeutic candidates in cases of reduced GH secretion with intact pituitary, as seems to be the case in a group of thalassemic patients."
+  },
+  {
+   "pmid": "40091212",
+   "titel": "Design, Biological Characterization, and Discovery of Capromorelin Derivatives as Oral Growth Hormone Secretagogue Receptor Type 1a Agonist for the Treatment of Growth Hormone Deficiency",
+   "jahr": "2025",
+   "journal": "J Med Chem",
+   "erstautor": "Xu H",
+   "doi": "10.1021/acs.jmedchem.5c00217",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Recombinant human growth hormone (rhGH) is a well-established treatment for children with growth deficiencies worldwide. However, its requirement for subcutaneous administration limits convenience compared to that of oral therapies. Starting from capromorelin, we designed, synthesized, and characterized a novel orally active GHSR-1a agonist, compound 4b (hGHSR-1a EC50 = 0.49 nM), which effectively stimulates endogenous GH release in rats at oral doses as low as 0.1 mg/kg─100-fold more potent than ibutamoren (10 mg/kg). Notably, 10 day oral administration of 4b increased body weight and length in 4-week-old rats. To date, comprehensive preclinical studies on oral agents for short stature remain limited, and existing GHSR-1a agonists lack approval for this indication. Compound 4b exhibited superior pharmacokinetic exposure in dogs (oral bioavailability: 43.6%; half-life: 1.2 h) relative to other species. This study details the optimization of 4b, which demonstrates a promising pharmacological profile for clinical translation as a growth hormone replacement therapy."
+  },
+  {
+   "pmid": "19455266",
+   "titel": "Gateways to clinical trials",
+   "jahr": "2009",
+   "journal": "Methods Find Exp Clin Pharmacol",
+   "erstautor": "Tomillero A",
+   "doi": "",
+   "typ": [
+    "Bibliography",
+    "Journal Article"
+   ],
+   "abstract": "ABT-869, Acadesine, Acetylsalicylic acid/omeprazole, Adefovir, Adefovir dipivoxil, AEG-35156, Agatolimod sodium, Albiglutide, Alemtuzumab, Alipogene tiparvovec, Alogliptin benzoate, AMG-386, Amrubicin hydrochloride, Apremilast, Aripiprazole, Asoprisnil, Atorvastatin/fenofibrate, AVN-944, Axitinib; Belinostat, Bevacizumab, BHT-3021, BI-2536, Biapenem, Bilastine, Biphasic insulin aspart, Blinatumomab, Bortezomib, Bosentan; Catumaxomab, CD-NP, Cediranib, Certolizumab pegol, Cetuximab, Choline fenofibrate, Ciclesonide, CK-1827452,Clevudine, Clofarabine, CSL-360, CYT-997; Dapagliflozin, Darinaparsin, Denosumab, Densiron 68, Desloratadine, Dulanermin; Edoxaban tosilate, Emtricitabine, Entecavir, Erlotinib hydrochloride, Everolimus, Exenatide, Ezetimibe, Ezetimibe/simvastatin; Fidaxomicintiacumiv, Fulvestrant; G-207, GCR-8015, Gefitinib, Ghrelin (human), Glufosfamide; HPV16L1E7CVLP; Ibutamoren mesilate, Imatinib mesylate, Insulin detemir, Insulin glargine, Iodine (I131) tositumomab, Istaroxime, ITMN-191, Ixabepilone; JZP-4, Lenalidomide; Levetiracetam, Linaclotide acetate, Liposomal cytarabine/daunorubicin, Liposomal doxorubicin, Liraglutide, LY-518674; Milatuzumab, MMR-V, Motesanib diphosphate, Mycophenolic acid sodium salt; Niacin/simvastatin; Obatoclax mesylate, Odanacatib; Paclitaxel nanoparticles, Paclitaxel-eluting stent, Pazufloxacin, PBT-2, Pegfilgrastim, Peginterferon alfa-2a, Peginterferon alfa-2b, Peginterferon alfa-2b/ribavirin, Pemetrexed disodium, Perampanel, PfCP2.9, Pitavastatin calcium, Poly I:CLC, Pomalidomide, Pralatrexate, Pramlintide acetate, Prucalopride; rhGAD65, Roflumilast; RTS,S/AS02D; SCH-530348, Semagacestat, Sirolimus-eluting coronary stent, Sirolimus-Eluting Stent, SIR-Spheres, Sivelestat sodium hydrate, Sorafenib, Sunitinib malate; Tadalafil, Tafluprost, Tanespimycin, Teduglutide, Telaprevir, Telbivudine, Tenofovir disoproxil fumarate, Tiotropium bromide, TMC-435350, Tositumomab/iodine (I131) tositumomab, Travoprost/timolol, Triciribine phosphate; Vandetanib, VIA-2291, Vinflunine, Vorinostat; XL-019; Yttrium 90 (90Y) ibritumomab tiuxetan."
+  },
+  {
+   "pmid": "7624358",
+   "titel": "Design and biological activities of L-163,191 (MK-0677): a potent, orally active growth hormone secretagogue",
+   "jahr": "1995",
+   "journal": "Proc Natl Acad Sci U S A",
+   "erstautor": "Patchett AA",
+   "doi": "10.1073/pnas.92.15.7001",
+   "typ": [
+    "Comparative Study",
+    "Journal Article"
+   ],
+   "abstract": "A potent, orally active growth hormone (GH) secretagogue L-163,191 belonging to a recently synthesized structural class has been characterized. L-163,191 releases GH from rat pituitary cells in culture with EC50 = 1.3 +/- 0.09 nM and is mechanistically indistinguishable from the GH-releasing peptide GHRP-6 and the prototypical nonpeptide GH secretagogue L-692,429 but clearly distinguishable from the natural GH secretagogue, GH-releasing hormone. L-163,191 elevates GH in dogs after oral doses as low as 0.125 mg/kg and was shown to be specific in its release of GH without significant effect on plasma levels of aldosterone, luteinizing hormone, thyroxine, and prolactin after oral administration of 1 mg/kg. Only modest increases in cortisol were observed. Based on these properties, L-163,191 has been selected for clinical studies."
+  },
+  {
+   "pmid": "17936372",
+   "titel": "Hypothalamic gene expression following ghrelin therapy to gastrectomized rodents",
+   "jahr": "2008",
+   "journal": "Regul Pept",
+   "erstautor": "Egecioglu E",
+   "doi": "10.1016/j.regpep.2007.09.006",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "We investigated whether ghrelin depletion (by gastrectomy surgery) and/or treatment/replacement with the gastric hormone ghrelin alters the expression of key hypothalamic genes involved in energy balance, in a manner consistent with ghrelin's pro-obesity effects. At 2 weeks after surgery mice were treated with ghrelin (12 nmol/mouse/day, sc) or vehicle for 8 weeks. Gastrectomy had little effect on the expression of these genes, with the exception of NPY mRNA in the arcuate nucleus that was increased. Ghrelin treatment (to gastrectomized and sham mice) increased the mRNA expression of orexigenic peptides NPY and AgRP while decreasing mRNA expression of the anorexigenic peptide POMC. Two weeks gavage treatment with the ghrelin mimetic, MK-0677, to rats increased NPY and POMC mRNA in the arcuate nucleus and MCH mRNA in the lateral hypothalamus. Thus, while predicted pro-obesity ghrelin signalling pathways were activated by ghrelin and ghrelin mimetics, these were largely unaffected by gastrectomy."
+  },
+  {
+   "pmid": "9186261",
+   "titel": "Growth hormone-releasing peptides",
+   "jahr": "1997",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Ghigo E",
+   "doi": "10.1530/eje.0.1360445",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "Growth hormone-releasing peptides (GHRPs) are synthetic, non-natural peptides endowed with potent stimulatory effects on somatotrope secretion in animals and humans. They have no structural homology with GHRH and act via specific receptors present either at the pituitary or the hypothalamic level both in animals and in humans. The GHRP receptor has recently been cloned and, interestingly, it does not show sequence homology with other G-protein-coupled receptors known so far. This evidence strongly suggests the existence of a natural GHRP-like ligand which, however, has not yet been found. The mechanisms underlying the GHRP effect are still unclear. At present, several data favor the hypothesis that GHRPs could act by counteracting somatostatinergic activity both at the pituitary and the hypothalamic level and/or, at least partially, via a GHRH-mediated mechanism. However, the possibility that GHRPs act via an unknown hypothalamic factor (U factor) is still open. GHRP-6 was the first hexapeptide to be extensively studied in humans. More recently, a heptapeptide, GHRP-1, and two other hexapeptides, GHRP-2 and Hexarelin, have been synthesized and are now available for human studies. Moreover, non-peptidyl GHRP mimetics have been developed which act via GHRP receptors and their effects have been clearly demonstrated in animals and in humans in vivo. Among non-peptidyl GHRPs, MK-0677 seems the most interesting molecule. The GH-releasing activity of GHRPs is marked and dose-related after intravenous, subcutaneous, intranasal and even oral administration. The effect of GHRPs is reproducible and undergoes partial desensitization, more during continuous infusion, less during intermittent administration: in fact, prolonged administration of GHRPs increases IGF-1 levels both in animals and in humans. The GH-releasing effect of GHRPs does not depend on sex but undergoes age-related variations. It increases from birth to puberty, persists at a similar level in adulthood and decreases thereafter. By the sixth decade of life, the activity of GHRPs is reduced but it is still marked and higher than that of GHRH. The GH-releasing activity of GHRPs is synergistic with that of GHRH, is not affected by opioid receptor antagonists, such as naloxone, and is only blunted by inhibitory influences, including neurotransmitters, glucose, free fatty acids, gluco corticoids, recombinant human GH and even exogenous somatostatin, which are known to almost abolish the effect of GHRH. GHRPs maintain their GH-releasing effect in somatotrope hypersecretory states such as in acromegaly, anorexia nervosa and hyperthyroidism. On the other hand, their good GH-releasing activity has been shown in some but not in other somatotrope hyposecretory states. In fact, reduced GH responses after GHRP administration have been reported in idiopathic GH deficiency as well as in idiopathic short stature, in obesity and in hypothyroidism, while in patients with pituitary stalk disconnection or Cushing's syndrome the somatotrope responsiveness to GHRPs is almost absent. In short children an increase in height velocity has also been reported during chronic GHRP treatment. Thus, based on their marked GH-releasing effect even after oral administration, GHRPs offer their own clinical usefulness for treatment of some GH hyposecretory states."
+  },
+  {
+   "pmid": "14556085",
+   "titel": "Effect of ghrelin and synthetic growth hormone secretagogues in normal and ischemic rat heart",
+   "jahr": "2003",
+   "journal": "Basic Res Cardiol",
+   "erstautor": "Frascarelli S",
+   "doi": "10.1007/s00395-003-0434-7",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Receptors for growth hormone secretagogues have been identified in cardiac tissue, but their functional role is unknown. We have investigated the effect of different growth hormone secretagogues on contractile performance and on the susceptibility to ischemic injury, in isolated working rat hearts. In particular, we tested the endogenous secretagogue ghrelin and the synthetic secretagogues hexarelin and MK-0677. Under aerobic conditions, none of these substances produced any significant hemodynamic effects. In hearts subjected to 30 minutes of ischemia followed by 120 minutes of reperfusion, the synthetic peptidyl secretagogue hexarelin (1 microM) significantly reduced infarct size, as estimated on the basis of triphenyltetrazolium chloride staining, while the non-peptidyl secretagogue MK-0677 was ineffective. The endogenous peptidyl secretagogue ghrelin (20 nM) was also protective, while desacylated ghrelin, which is devoid of biological effects, did not modify ischemic injury. The protection provided by hexarelin was partly abolished by the protein kinase C inhibitor chelerythrine. We conclude that ghrelin and hexarelin have a specific cardioprotective effect, which is independent of growth hormone secretion, and might be related to protein kinase C activation."
+  },
+  {
+   "pmid": "8838145",
+   "titel": "Identification of a new G-protein-linked receptor for growth hormone secretagogues",
+   "jahr": "1996",
+   "journal": "Mol Endocrinol",
+   "erstautor": "Pong SS",
+   "doi": "10.1210/mend.10.1.8838145",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The potential application of small molecules in GH therapy has recently become a topic of increasing interest. The spiroindoline MK-0677, the benzolactam L-692,429, and the peptides, GHRP-6 and hexarelin, have been shown to possess potent and selective GH-secretory activity in several species including human. Moreover, these synthetic GH secretagogues act on a signal transduction pathway distinct from that of GHRH. A specific high affinity binding site in porcine and rat anterior pituitary membranes that mediates the activity of these secretagogues has now been identified. The binding affinity of these structurally diverse secretagogues is tightly correlated with GH-secretory activity. The binding is Mg(2+)-dependent, is inhibited by GTP-gamma-S, and is not displaced by GHRH and somatostatin. The receptor is distinct from that for GHRH and has the properties of a new G-protein-coupled receptor. It is speculated that these GH secretagogues mimic an unidentified natural hormone that regulates GH secretion in concert with GHRH and somatostatin."
+  },
+  {
+   "pmid": "14610293",
+   "titel": "Regulation of ghrelin secretion and action",
+   "jahr": "2003",
+   "journal": "Endocrine",
+   "erstautor": "Camiña JP",
+   "doi": "10.1385/ENDO:22:1:5",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "The pulsatile release of growth hormone (GH) from anterior pituitary gland is regulated by the interplay of at least two hypothalamic hormones, GH-releasing hormone (GHRH) and somatostatin, via their engagement with specific cell surface receptors on the anterior pituitary somatotroph. Furthermore, release of GH in vivo may also be controlled by a third type of receptor, the growth hormone secretagogue receptor, a G-protein-coupled receptor, called GHS receptor type 1a (GHSR1a), which was identified in the pituitary and the hypothalamus in humans using a nonpeptidyl growth hormone secretagogue (MK-0677). Ghrelin, the endogenous ligand for the GHS-R1a, is a 28-amino-acid peptide isolated from human stomach that is modified by a straight chain octanoyl group covalently linked to Ser3, which is essential for its endocrine activity. This hormone, predominantly expressed and secreted by the stomach, has a dual action on GH secretion and food intake, showing interdependency between these actions. The finding that fasting and food intake, respectively, increase and decrease the secretion of ghrelin suggests that this hormone may be the bridge connecting somatic growth and body composition with energy metabolism, and appears to play a role in the alteration of energy homeostasis and body weight in pathophysiological states such as hypothyroidism and hyperthyroidism. Despite this, little is known about the intracellular signaling through which ghrelin exerts its regulatory actions. Activation of intracellular calcium mobilization is one of the earliest known cellular signals elicited by ghrelin. In HEK- 293 cells expressing the GHS-R1a, ghrelin induces a biphasic cytosolic calcium elevation characterized by a spike phase of the response, which reflects Ins(1,4,5)P3- dependent calcium mobilization of intracellular stores, and a sustained phase of the response, which is due to calcium influx across the plasma membrane triggered by aperture of capacitative calcium channels (store-operated calcium channels). Upon repeated administration, ghrelin showed a marked suppression of ghrelin-mediated elevations of intracellular calcium. This homologous desensitization represents an important physiological mechanism that modulates receptor responsiveness and acts as an information filter for intracellular signaling system. The discovery of ghrelin adds a new component to the complex machinery responsible for regulation of GH secretion in connection with the regulation of appetite and energy homeostasis."
+  },
+  {
+   "pmid": "11739014",
+   "titel": "Pharmacological profile of a new orally active growth hormone secretagogue, SM-130686",
+   "jahr": "2001",
+   "journal": "J Endocrinol",
+   "erstautor": "Nagamine J",
+   "doi": "10.1677/joe.0.1710481",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "SM-130686, an oxindole derivative, is a novel orally active GH secretagogue (GHS) which is structurally distinct from previously reported GHSs such as MK-677, NN703 and hexarelin. SM-130686 stimulates GH release from cultured rat pituitary cells in a dose-dependent manner. Half-maximum stimulation was observed at a concentration of 6.3+/-3.4 nM. SM-130686-induced GH release was inhibited by a GHS antagonist, but not by a GH-releasing hormone antagonist. SM-130686 dose-dependently inhibited the binding of radiolabeled ligand, (35)S-MK-677, to human GHS receptor 1a (IC(50)=1.2 nM). This indicates that SM-130686 stimulates GH release through the GHS receptor. The effect of a single oral administration of SM-130686 on GH release in pentobarbital-anesthetized rats was studied. After treatment with 10 mg/kg SM-130686, plasma GH concentrations measured by radioimmunoassay significantly increased, reaching a peak at 20-45 min, and remained above baseline during the experimental period (60 min). The anabolic effect of repetitive SM-130686 administration was studied in rats. Rats received 10 mg/kg SM-130686 orally twice a day and were weighed every day for 9 days. At day 9 there was a significant increase in both the body weight and the fat free mass (19.5+/-2.1 and 18.1+/-7.5 g respectively). Serum IGF-I concentration was also significantly elevated 6 h after the last dose of SM-130686. An endogenous GHS ligand for the GHS receptor has recently been identified from stomach extract and designated as ghrelin. The GH-releasing activity in vitro relative to ghrelin (100%) was about 52% for SM-130686. It is likely that SM-130686 is a partial agonist for the GHS receptor. In summary, we describe here an orally active GHS, SM-130686, which acts through the GHS receptor. Repetitive administration of SM-130686 to rats, similar to repetitive administration of GH, significantly increased the fat free mass by an amount almost equal to the gain in body weight."
+  },
+  {
+   "pmid": "9260661",
+   "titel": "Two methods for the measurement of the dissociation pressure of a crystalline hydrate",
+   "jahr": "1997",
+   "journal": "J Pharm Biomed Anal",
+   "erstautor": "Crocker LS",
+   "doi": "10.1016/s0731-7085(96)01941-3",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Two methods for the measurement of the characteristic dissociation pressures of a system containing water vapor and two different crystalline hydrates of the pharmaceutical compound MK-0677 are described. One method involves the spectroscopic determination of water in gases equilibrated with the solids at controlled temperatures, using an infrared spectrometer. The second method utilized the extrapolated onset temperature of the transition from one hydrate to the other at controlled humidities, as observed by differential scanning calorimetry. The methods give similar results for the system of interest."
+  },
+  {
+   "pmid": "17200730",
+   "titel": "Gateways to clinical trials",
+   "jahr": "2006",
+   "journal": "Methods Find Exp Clin Pharmacol",
+   "erstautor": "Bayes M",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "5-Methyltetrahydrofolate, (R)-flurbiprofen; Ad5CMV-p53, adalimumab, alefacept, alemtuzumab, Alequel, alicaforsen sodium, almotriptan, anakinra, aprepitant, aripiprazole, armodafinil; Bevacizumab, bortezomib, bosentan; Canfosfamide hydrochloride, ciclesonide, clofarabine, Cypher; Darbepoetin alfa, diclofenac potassium, drotrecogin alfa (activated), duloxetine hydrochloride; Eel calcitonin, eletriptan, eplerenone, everolimus, ezetimibe; Frovatriptan; Gefitinib, gamma-hydroxybutyrate sodium; HKI-272, HYB-165; Ibutamoren mesylate, imatinib mesylate, interleukin-21, ixabepilone; KRN-951; L-Arginine hydrochloride, levodopa/carbidopa/entacapone; Micafungin sodium, motexafin gadolinium, mycophenolic acid sodium salt; Nesiritide; Peginterferon alfa-2a, pitavastatin calcium, pralatrexate, pregabalin, pVAX/L523S-Ad.L523S; Rasagiline mesylate, recombinant human nerve growth factor, regadenoson, rF-PSA, rimonabant, rizatriptan, rofecoxib, rosuvastatin calcium, rV-B7.1, rV-PSA; Sipuleucel-T, sirolimus-eluting stent, solifenacin succinate, sorafenib, sunitinib malate; Talactoferrin alfa, Taxus, tegaserod maleate, teriparatide, tipifarnib; Valdecoxib, vandetanib, vatalanib succinate; WT1-peptide vaccine; Xaliproden hydrochloride. (c) 2006 Prous Science. All rights reserved."
+  },
+  {
+   "pmid": "19357798",
+   "titel": "Gateways to clinical trials",
+   "jahr": "2009",
+   "journal": "Methods Find Exp Clin Pharmacol",
+   "erstautor": "Tomillero A",
+   "doi": "",
+   "typ": [
+    "Bibliography",
+    "Journal Article"
+   ],
+   "abstract": "(-)-Gossypol; Alemtuzumab, Amlodipine, Anakinra, Azacitidine; Bazedoxifene acetate, Belinostat, Bevacizumab, BI-201335, BI-2536, Biphasic insulin aspart, Bortezomib; Cetuximab, CNTO-328, Custirsen sodium; Dacetuzumab; Elacytarabine, Erlotinib hydrochloride, Everolimus, Exenatide; Forodesine hydrochloride, Fostamatinib disodium, Frovatriptan; Ibutamoren mesilate, Imatinib mesylate, IMC-18F1, INCB-18424, Indacaterol, Insulin detemir, Insulin glargine, Insulin glulisine; KW-0761, KW-2449; Lapatinib ditosylate, Liraglutide; MK-2461, Mycophenolic acid sodium salt; Peginterferon alfa-2a, Pemetrexed disodium, Pioglitazone hydrochloride/metformin hydrochloride, Pregabalin; rBCG-30; Satraplatin, SB-743921, Short ragweed pollen allergenic extract, SNS-314, Sorafenib, Sugammadex sodium, Sunitinib malate; Teriparatide; Valsartan/amlodipine besylate, Vinflunine, Vorinostat."
+  },
+  {
+   "pmid": "34814052",
+   "titel": "Development and validation of SARMs and metabolic modulators screening in hair using UHPLC-MS/MS: Application to a doping case and first identification of S23 in authentic human hair",
+   "jahr": "2021",
+   "journal": "J Chromatogr B Analyt Technol Biomed Life Sci",
+   "erstautor": "Gheddar L",
+   "doi": "10.1016/j.jchromb.2021.123048",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Selective Androgen Receptors Modulators (SARMs) are a new class of doping drugs that emerged in sport since 2008. Easy access on the Internet also leads to their misuse by amateurs. It seems important for a laboratory of toxicology to develop a targeted screening of SARMs, given their health risks. A method has been developed and validated for the analysis in hair of 9 SARMs (AC262536, ACP-105, andarine, LGD-4033, MK-0773, MK 677, ostarine, RAD 410 and S23) and 2 other metabolic modulators (GW501516, SR9009), using liquid chromatography coupled to tandem mass spectrometry. After addition of bicalutamide-D4 used as internal standard and incubation in phosphate buffer pH = 9.5, 20 mg of hair samples were extracted with liquid/liquid extraction. Linearity was verified for all compounds between 0.5 and 50 and 2000 pg/mg. LOD and LOQ were determined between 0.1-20 and 0.5-50 pg/mg respectively, according to the various analytes. Intra- and inter-day precision (CV < 20%), matrix effects and recovery were evaluated for all compounds with CVs < 20%. The application and the interest of SARMs screening was demonstrated in a doping case. Three SARMs were detected namely andarine (120-1644 pg/mg), ostarine (1-9 pg/mg) and S23 (0.6-16 pg/mg) in 6x1 cm segments of the subject."
+  },
+  {
+   "pmid": "15261841",
+   "titel": "Growth hormone secretagogues: prospects and potential pitfalls",
+   "jahr": "2004",
+   "journal": "Best Pract Res Clin Endocrinol Metab",
+   "erstautor": "Smith RG",
+   "doi": "10.1016/j.beem.2004.04.001",
+   "typ": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, P.H.S.",
+    "Review"
+   ],
+   "abstract": "The growth hormone secretagogues (GHSs) are the first well-characterised agents that rejuvenate the growth hormone (GH)/insulin-like growth factor (IGF-1) axis. This property was discovered during investigations of the underlying causative mechanisms of age-related endocrine changes. Chronic administration of the long acting GHS, MK-0677, reverses the age-related decline in pulse-amplitude of GH secretion and restores IGF-1 levels producing profiles typical of young adults. This restoration is accompanied by improvements in body composition in frail elderly subjects. When given acutely, the GHSs also increase appetite. Following cloning and characterisation of the GHS-receptor (GHS-R) an endogenous ligand, ghrelin, was isolated and identified. Ghrelin shares the GH releasing and orexigenic properties of the GHSs. Studies using Ghsr-null mice confirmed that the GHS-R was the ghrelin-receptor; hence, the GHSs should be considered to be 'ghrelin mimetics.' Ghrelin levels are reported to decline during ageing, therefore long-acting GHSs are ideal candidates for ghrelin replacement therapy."
+  },
+  {
+   "pmid": "10718914",
+   "titel": "Growth hormone secretagogue activation of the arcuate nucleus and brainstem occurs via a non-noradrenergic pathway",
+   "jahr": "2000",
+   "journal": "J Neuroendocrinol",
+   "erstautor": "Bailey AR",
+   "doi": "10.1046/j.1365-2826.2000.00398.x",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Noradrenergic systems are integrally involved in the release of growth hormone (GH) from the anterior pituitary gland and in regulating the activity of hypothalamic growth hormone-releasing hormone (GHRH) neurones. GH secretagogues act at both the pituitary and the hypothalamus to facilitate the release of GH. In male rats, using the induction of Fos protein as an indicator of neuronal activation, we examined whether neurones in the brainstem, the main noradrenergic input to the hypothalamus, were activated by systemic administration of peptide and non-peptide GH secretagogues. In addition, we examined the effects of chronic central noradrenaline depletion upon GH secretagogue-induced activation of the arcuate nucleus. Systemic injection of the GH secretagogues, GHRP-6 and MK-0677 induced Fos protein expression in a population of area postrema cells, but less than 10% of these cells were noradrenergic. Depletion of hypothalamic noradrenaline by the specific neurotoxin, 5-ADMP, did not alter GH secretagogue-induced activation of Fos protein in the arcuate nucleus compared to vehicle-treated controls. We conclude that the central actions of GH secretagogues involve the activation of non-noradrenergic cells in the area postrema and that GH secretagogue-induced activation of the arcuate nucleus occurs independently of noradrenergic tone."
+  },
+  {
+   "pmid": "11322493",
+   "titel": "Hexarelin protects H9c2 cardiomyocytes from doxorubicin-induced cell death",
+   "jahr": "2001",
+   "journal": "Endocrine",
+   "erstautor": "Filigheddu N",
+   "doi": "10.1385/ENDO:14:1:113",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Growth hormone secretagogues (GHSs) are synthetic peptidyl and nonpeptidyl molecules that possess strong growth hormone-releasing activity acting on specific pituitary and hypothalamic receptor subtypes. Differently from nonpeptidyl GHSs, peptidyl molecules such as hexarelin, a hexapeptide, possess specific high-affinity binding sites in animal and human heart and, after prolonged treatment, protect rats in vivo from ischemia-induced myocardial damage. To verify the hypothesis that peptidyl GHSs protect heart cells from cell death, we have investigated the cellular effects of hexarelin on H9c2 cardiomyocytes, a fetal cardiomyocyte-derived cell line, and on Hend, an endothelial cell line derived from transformed murine heart endothelium. We show that (i)H9c2 cardiomyocytes show specific binding for 125I-Tyr-Ala-hexarelin, which is inhibited by peptidyl GHSs such as Tyr-Ala-hexarelin and hexarelin but not by the nonpeptidyl GHS MK-0677, (ii) hexarelin promotes survival of H9c2 cardiomyocytes induced to die by doxorubicin, and (iii) that hexarelin inhibits apoptosis, as measured by DNA fragmentation, induced in both H9c2 myocytes and endothelial cells. In conclusion, our findings show that peptidyl GHSs such as hexarelin act as survival factors for cardiomyocytes and endothelium-derived cells in culture. These findings suggest that the inhibitory activity of hexarelin on cardiomyocytes and endothelial cell death could explain, at least partially, its cardioprotective effect against ischemia recorded in rats in vivo."
+  },
+  {
+   "pmid": "10965912",
+   "titel": "Adenosine is an agonist of the growth hormone secretagogue receptor",
+   "jahr": "2000",
+   "journal": "Endocrinology",
+   "erstautor": "Tullin S",
+   "doi": "10.1210/endo.141.9.7631",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Growth hormone secretagogues (GHSs) are synthetic compounds that induce GH release in several species, including man. The aim of the current study was to identify hypothalamic GHS receptor (GHS-R) agonists. This led to the discovery of adenosine as a GHS-R agonist. We demonstrate that adenosine as well as the A1 adenosine receptor agonist N6-R-phenylisopropyladenosine (R-PIA) induce calcium responses, with EC50 values of 50 nM and 0.5 nM, respectively, in cells which express recombinant human GHS-R. However, neither compound induces a calcium response in nontransfected cells. Binding experiments show that adenosine and the GHS compound MK-0677 bind to membranes from GHS-R expressing cells with nearly identical Bmax values (2.6 +/- 0.1 x 10(-10) mol/mg protein for adenosine and 2.0 +/- 0.3 x 10(-10) mol/mg protein for MK-0677). However, no binding to membranes from nontransfected cells could be detected. Furthermore, we show that the IC50 values for inhibition of the adenosine, R-PIA, and GHS induced calcium responses by the GHS-R antagonist [D-Arg1, D-Phe5, D-Trp7,9, D-Leu11]-substance P are similar. These findings strongly suggest that adenosine and R-PIA are agonists of the GHS-R. Interestingly, neither adenosine nor R-PIA were able to induce GH release from rat pituitary cells in vitro. The implications of the latter finding is discussed."
+  },
+  {
+   "pmid": "9200526",
+   "titel": "Determination of a novel growth hormone secretagogue (MK-677) in human plasma at picogram levels by liquid chromatography with atmospheric pressure chemical ionization tandem mass spectrometry",
+   "jahr": "1997",
+   "journal": "J Chromatogr B Biomed Sci Appl",
+   "erstautor": "Constanzer ML",
+   "doi": "10.1016/s0378-4347(97)00035-2",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "A sensitive and specific method for the determination of N-[1(R)¿[1,2-dihydro-1-methylsulfonylspiro(3H-indole-3,4'-piper idin)-1'-yl]carbonyl¿-2-(phenylmethoxy)ethyl]-2-amino-2-meth ylpropanamide (MK-677, I), a growth hormone secretagogue, has been developed. The method is based on high-performance liquid chromatography (HPLC) with tandem mass spectrometric (MS-MS) detection. The analyte and internal standard (II) were isolated from the basified plasma using a liquid-liquid extraction with methyl-tert.-butyl ether (MTBE). The organic extract was evaporated to dryness, the residue was reconstituted in mobile phase and injected into the HPLC system. The MS-MS detection was performed on a PE Sciex API III Plus tandem mass spectrometer using a heated nebulizer interface. Multiple reaction monitoring of parent-->product ion combinations at m/z 529-->267 and 527-->267 was used to quantify I and II, respectively. The assay was validated in human plasma in the concentration range of 0.1 to 100 ng/ml, and the limit of quantification (LOQ) was 0.1 ng/ml. The precision of the assay, as expressed as coefficients of variation (C.V.,%) was less than 7% at all concentrations within the standard curve range, with adequate assay specificity and accuracy. The HPLC-MS-MS method provided sufficient sensitivity to completely map the pharmacokinetic time-course following a single 5-mg oral dose of I."
+  },
+  {
+   "pmid": "18553971",
+   "titel": "Electrophile-induced dearomatizing spirocyclization of N-arylisonicotinamides: a route to spirocyclic piperidines",
+   "jahr": "2008",
+   "journal": "Org Lett",
+   "erstautor": "Arnott G",
+   "doi": "10.1021/ol801092s",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Treatment of N-arylisonicotinamides with trifluoromethanesulfonic anhydride triggers intramolecular nucleophilic attack of the aryl ring on the 4-position of the pyridinium intermediate. The products are spirocyclic dihydropyridines which can be converted to valuable spirocyclic piperidines related to biologically active molecules such as MK-677."
+  },
+  {
+   "pmid": "29912176",
+   "titel": "MK-0677, a Ghrelin Agonist, Alleviates Amyloid Beta-Related Pathology in 5XFAD Mice, an Animal Model of Alzheimer's Disease",
+   "jahr": "2018",
+   "journal": "Int J Mol Sci",
+   "erstautor": "Jeong YO",
+   "doi": "10.3390/ijms19061800",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Alzheimer’s disease (AD) is a progressive neurodegenerative disorder characterized by cognitive deficits, neuroinflammation, and neuronal death. The primary pathogenic cause is believed to be the accumulation of pathogenic amyloid beta (Aβ) assemblies in the brain. Ghrelin, which is a peptide hormone predominantly secreted from the stomach, is an endogenous ligand for the growth hormone secretagogue-receptor type 1a (GHS-R1a). MK-0677 is a ghrelin agonist that potently stimulates the GHS-R1a ghrelin receptor. Interestingly, previous studies have shown that ghrelin improves cognitive impairments and attenuates neuronal death and neuroinflammation in several neurological disorders. However, it is unknown whether MK-0677 can affect Aβ accumulation or Aβ-mediated pathology in the brains of patients with AD. Therefore, we examined the effects of MK-0677 administration on AD-related pathology in 5XFAD mice, an Aβ-overexpressing transgenic mouse model of AD. MK-0677 was intraperitoneally administered to three-month-old 5XFAD mice. To visualize Aβ accumulation, neuroinflammation, and neurodegeneration, thioflavin-S staining and immunostaining with antibodies against Aβ (4G8), ionized calcium-binding adaptor molecule 1 (Iba-1), glial fibrillary acidic protein (GFAP), neuronal nuclear antigen (NeuN), and synaptophysin were conducted in the neocortex of 5XFAD and wild-type mice, and to evaluate changes of phosphorylated cyclic adenosine monophosphate (cAMP) response element binding protein (pCREB) levels, immunostaining with antibody against pCREB was performed in dentate gyrus of the hippocampus of 5XFAD and wild-type mice. The histological analyses indicated that MK-0677-treated 5XFAD mice showed reduced Aβ deposition, gliosis, and neuronal and synaptic loss in the deep cortical layers, and inhibited the decrement of pCREB levels in dentate gyrus of the hippocampus compared to vehicle-treated 5XFAD mice. Our results showed that activation of the ghrelin receptor with MK-0677 inhibited the Aβ burden, neuroinflammation, and neurodegeneration, which suggested that MK-0677 might have potential as a treatment of the early phase of AD."
+  },
+  {
+   "pmid": "8780714",
+   "titel": "Solubilization and characterization of a growth hormone secretagogue receptor from porcine anterior pituitary membranes",
+   "jahr": "1996",
+   "journal": "Biochem Biophys Res Commun",
+   "erstautor": "Pomés A",
+   "doi": "10.1006/bbrc.1996.1275",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The discovery of a potential new GH therapy by small molecules that induce GH secretion (GHRP-6, L-692,429, MK-0677), has increased the interest in these GH secretagogues and their receptor and mechanism of action, which is different from the one of GHRH. We report the solubilization of the GH-secretagogue-receptor-ligand-G-protein complex (apparent molecular mass of approximately 255 kDa) from porcine anterior pituitary membranes using digitonin, after labelling the receptor with [35S]MK-0677. The solubilized receptor showed high affinity (KD = 122.2 +/- 14.4 pM) and low capacity (Bmax = 3.8 +/- 0.9 fmol/mg protein). These values and the inhibition constants (Ki) for a series of GH secretagogues were similar to the values determined in membranes isolated from porcine anterior pituitary gland. The solubilization of the GH secretagogue receptor opens up the possibility for further molecular characterization and sequencing of the receptor protein, necessary step prior to the identification of the natural ligand that would act as a GHRH amplifying hormone, and that the GH secretagogues would mimic."
+  },
+  {
+   "pmid": "9871779",
+   "titel": "Synthesis and biological activities of phenyl piperazine-based peptidomimetic growth hormone secretagogues",
+   "jahr": "1998",
+   "journal": "Bioorg Med Chem Lett",
+   "erstautor": "Barakat KJ",
+   "doi": "10.1016/s0960-894x(98)00238-8",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "A new class of potent, orally active phenyl piperazine-based GH secretagogues have been discovered from attempts to mimic the arrangement of the phenyl substituent in the spiroindanyl piperidine and spiroindoline sulfonamide privileged structures of 4 and 1, respectively. The best of these compounds, 18 (EC50 = 2.8 nM) is nearly as potent as MK-0677 for releasing GH from rat pituitary cells."
+  },
+  {
+   "pmid": "11459669",
+   "titel": "Spiro(indoline-3,4'-piperidine) growth hormone secretagogues as ghrelin mimetics",
+   "jahr": "2001",
+   "journal": "Bioorg Med Chem Lett",
+   "erstautor": "Palucki BL",
+   "doi": "10.1016/s0960-894x(01)00324-9",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "A series of small molecules derived from MK-0677, a potent synthetic GHS, mimicking the N-terminal Gly-Ser-O-(n-octanoyl)-L-Ser-Phe segment of ghrelin was synthesized and tested in a binding and in a functional assay measuring intracellular calcium elevation in HEK-293 cells expressing hGHSR1a. Replacement of Phe in this tetrapeptide with a spiro(indoline-3,4'-piperidine) group, Gly-Ser with 2-aminoisobutyric acid, and O-(n-octanoyl)-L-Ser with O-benzyl-D-Ser provided synthetic GHS agonists with similar functional potency as ghrelin."
+  },
+  {
+   "pmid": "36354265",
+   "titel": "Detection of the growth hormone secretagogue MK-0677 in equine hair following oral administration",
+   "jahr": "2023",
+   "journal": "Drug Test Anal",
+   "erstautor": "Viljanto M",
+   "doi": "10.1002/dta.3406",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "MK-0677 (ibutamoren) is an orally active non-peptide growth hormone secretagogue that binds to the ghrelin receptor stimulating the secretion of endogenous growth hormone. It is one of the most prevalent performance-enhancing compounds currently available online and is potentially subject to abuse both in human and equine sports. The aim of the current study was to investigate whether it could be detected in equine hair following oral administration of MK-0677 mesylate to a Thoroughbred racehorse. MK-0677 and its O-dealkylated metabolite were extracted using an existing method for prohibited substances in equine hair and analysed by liquid chromatography tandem mass spectrometry. This enabled the detection of MK-0677 in all hair samples collected, up to 209 days in mane and 358 days in tail. A follow-up methodology with an extensive wash procedure was carried out for selected hair samples, which unambiguously verified the presence of MK-0677. Wash criteria to differentiate between internal incorporation (via bloodstream) and external deposition (via sweat and sebum) was also assessed and indicated internal incorporation for the samples collected at later time points (≥52 days) and a combination of internal incorporation and external deposition for hair samples collected at the earlier time point (2 days)."
+  },
+  {
+   "pmid": "39668330",
+   "titel": "Investigating the P53-dependent anti-cancer effect of ibutamoren in human cancer cell lines",
+   "jahr": "2025",
+   "journal": "Basic Clin Pharmacol Toxicol",
+   "erstautor": "Abdul Ghafoor N",
+   "doi": "10.1111/bcpt.14111",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The MDM2-p53 pathway plays a pivotal role in regulating cell cycle and apoptosis, with its dysfunction contributing to approximately 50% of human malignancies. MDM2, an E3 ubiquitin ligase, targets the tumour suppressor p53 for degradation, thereby promoting uncontrolled cell growth in cancers. Inhibiting the MDM2-p53 interaction represents a promising therapeutic strategy for reactivating p53's tumour-suppressive functions. This study explored the potential of ibutamoren (IBU) as a novel inhibitor of MDM2. In silico analyses utilizing molecular modelling revealed that IBU has a low IC50 for MDM2 inhibition and favourably binds to the p53-binding pocket of MDM2. In vitro experiments demonstrated that IBU treatment reduced the viability of immortalized cancer cell lines with a functional MDM2-p53 pathway but not in cell lines where this pathway harboured damaging mutations. This trend was further supported by RT-qPCR analysis, which showed differential expression of two p53 target genes upon IBU treatment in cell lines with wild MDM2-p53 pathways but not in those harbouring damaging mutations. These findings provide preliminary evidence supporting IBU's anticancer activity, plausibly through the MDM2-p53 pathway, and suggest that further studies are warranted to explore its mechanism of action and potential development as a lead compound in oncology research."
+  },
+  {
+   "pmid": "9071975",
+   "titel": "Repeat administration of the GH secretagogue MK-0677 increases and maintains elevated IGF-I levels in beagles",
+   "jahr": "1997",
+   "journal": "J Endocrinol",
+   "erstautor": "Hickey GJ",
+   "doi": "10.1677/joe.0.1520183",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "We have reported that MK-0677 is a novel, orally active GH secretagogue that stimulates an immediate and long-lasting increase in serum GH levels in dogs. Significant elevations in IGF-I levels were associated with the increased GH secretion. Cortisol secretion was also increased following MK-0677 administration. In the current study, we determined the effect of repeat oral administration of MK-0677 on GH, IGF-I and cortisol levels; we also investigated if the GH and cortisol responses to MK-0677 are influenced by circulating IGF-I concentrations. Following the initial oral administration of MK-0677, GH secretion (area under the time-response curve (AUC) ng/ml per h) was increased 7.9- to 9.8-fold (1.0 mg/kg), 5.6-fold (0.5 mg/kg) or 3.9-fold (0.25 mg/kg). With repeat MK-0677 administration, the GH response was decreased by 41-77%; GH concentrations remained significantly above control in the 0.5 mg/kg and 1.0 mg/kg groups. Individual beagle GH profiles indicated that the increased GH concentration was associated with an amplified GH pulsatile profile. Serum IGF-I levels were significantly increased over control levels at all dosage levels by 480 min on the first day of MK-0677 administration. With repeated administration, IGF-I levels were increased up to 126% and remained elevated through 14 days, the longest treatment period evaluated. While daily MK-0677 administration appeared to increase IGF-I levels over 24 h, as evidenced by significant increases in the pretreatment IGF-I levels on days 4-14, no such increase was noted with alternate day MK-0677 administration; thus the dosage regimen modulated circulating IGF-I levels. MK-0677 stimulated increases in cortisol secretion (AUC microgram/dl per h) on the first day of treatment. A decreased cortisol response was observed following repeated daily treatment with MK-0677; in contrast, with alternate day treatment, no decrease in cortisol response to MK-0677 occurred. A marked increase in circulating IGF-I concentrations following administration of exogenous GH resulted in a significant decrease in both the GH and cortisol response to MK-0677 compared with control animals. Our findings suggested, therefore, that circulating IGF-I concentrations regulate GH and cortisol response to MK-0677. In summary, chronic oral administration of MK-0677 was associated with significant increases in GH and IGF-I levels that were maintained for the duration of the treatment. The GH profile following MK-0677 administration consisted of episodic increases above control. Compared with day 1, repeated daily treatment with MK-0677 resulted in an attenuated GH response that was associated with an increase in circulating IGF-I levels. The cortisol response was similarly reduced during chronic MK-0677 treatment, suggesting that IGF-I mediated negative feedback on both the GH and cortisol axes. The fact that similar attenuation of the GH and cortisol responses to MK-0677 on day 1 was observed if IGF-I levels were increased by treating animals with exogenous GH suggested that the attenuated response to MK-0677 that occurred during chronic treatment was mediated by increases in IGF-I rather than desensitization to MK-0677. Thus, a regulatory feedback loop apparently prevents hyperstimulation of the GH axis by MK-0677. We conclude that MK-0677 offers the potential of an orally active GH secretagogue that can maintain elevated IGF-I levels when administered chronically."
+  },
+  {
+   "pmid": "35716382",
+   "titel": "Characterization of growth hormone secretagogue small molecule ibutamoren (MK-0677) and its possible metabolites in thoroughbred horses for doping control",
+   "jahr": "2022",
+   "journal": "Rapid Commun Mass Spectrom",
+   "erstautor": "Philip M",
+   "doi": "10.1002/rcm.9337",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "RATIONALE: It is important to remember that performance-enhancing agents such as non-peptide growth hormone secretagogues present a significant risk of abuse. Ibutamoren (MK-0677) is a potent, long-acting, selective non-peptide growth hormone secretagogue that can be taken orally. METHODS: This study examines ibutamoren and its metabolites in thoroughbred horses after oral administration. Liquid chromatography/high-resolution mass spectrometry was used to determine the probable structures of the detected metabolites. RESULTS: In this study, 22 metabolites of ibutamoren were identified (17 phase I and 5 phase II). Oxidation of ibutamoren leads to hydroxylated metabolites (mono and di). The study also detected dissociated side chains (benzyl group and 2-amino-2-methylpropanamide) and hydrogenated metabolites. The glucuronic acid conjugated analogs of ibutamoren were detected during phase II of the study, but no sulfonic acid conjugated analogs were observed. The major metabolites can be detected up to 96 hours after a single dose, and ibutamoren can persist for up to 72 hours. CONCLUSIONS: These findings will aid in the detection of ibutamoren and the detection of its illegal use in competitive sports."
+  },
+  {
+   "pmid": "12379504",
+   "titel": "Natural (ghrelin) and synthetic (hexarelin) GH secretagogues stimulate H9c2 cardiomyocyte cell proliferation",
+   "jahr": "2002",
+   "journal": "J Endocrinol",
+   "erstautor": "Pettersson I",
+   "doi": "10.1677/joe.0.1750201",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Recent experimental data demonstrate cardiovascular effects of the GH secretagogues (GHSs) hexarelin and ghrelin, the proposed natural ligand for the GHS receptor. Moreover, specific cardiac binding sites for GHSs have been suggested. The aim of the present study was to investigate if the natural ligand ghrelin and synthetic GHS peptide hexarelin and analogues have direct effects on the cardiomyocyte cell line, H9c2. Hexarelin stimulated thymidine incorporation in a dose-dependent manner with significant responses at 3 micro M (147+/-3% of control, P<0.01) and elicited maximal effects at concentrations around 30 micro M. This activity was seen already after 12 h of incubation with a maximal effect after 18 h (176+/-9% of control, P<0.01). Ghrelin also had a significant stimulatory effect on thymidine incorporation (129+/-2% of control at 3 micro M and 18 h, P<0.05). The stimulatory effect on thymidine incorporation of hexarelin, Tyr-Ala-hexarelin, EP80317 and ghrelin was specific and no stimulatory effect was observed with the truncated GH-releasing peptide EP51389 or the non-peptidyl GHS MK-0677. In competitive binding studies, (125)I-labeled Tyr-Ala-hexarelin was used as radioligand and competition curves showed displacement with hexarelin, Tyr-Ala-hexarelin, EP80317 and ghrelin, whereas MK-0677 and EP51389 produced very little displacement at 1 micro M concentration, adding further support for an alternative subtype binding site in the heart compared with the pituitary. In conclusion, we have demonstrated a dose-dependent and specific stimulation of cardiomyocyte thymidine incorporation by natural and synthetic GHS analogues, suggesting increased cell proliferation and binding of GHS to H9c2 cardiomyocyte cell membranes. These findings support potential peripheral effects of GHS on the cardiovascular system independent of an increased GH secretion."
+  },
+  {
+   "pmid": "9380276",
+   "titel": "Attenuation of the growth hormone secretagogue induction of Fos protein in the rat arcuate nucleus by central somatostatin action",
+   "jahr": "1997",
+   "journal": "Neuroendocrinology",
+   "erstautor": "Dickson SL",
+   "doi": "10.1159/000127237",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "We set out to determine whether the central action of growth hormone (GH) secretagogues to induce Fos protein expression in the arcuate nucleus is influenced by central somatostatin action. Conscious male rats were injected i.v. with 100 micrograms sandostatin (octreotide, a long-acting somatostatin analogue) or saline, 10 min before an i.v. injection of either 50 micrograms GH-releasing peptide (GHRP-6), 50 micrograms MK-0677 (a non-peptide GH secretagogue) or saline. In a separate study, conscious male rats were injected i.c.v. with either 2 micrograms sandostatin or artificial cerebrospinal fluid (aCSF) vehicle 20 min before an i.v. injection of 50 micrograms GHRP-6. In all studies, rats were anaesthetized 90 min following GH secretagogue injection, perfused with fixative and the brains processed for the immunocytochemical detection of Fos protein. The number of Fos-positive nuclei detected in the arcuate nucleus of the i.v. sandostatin/i.v. GHRP-6 treated rats (28 +/- 5 nuclei/section) and the i.v. sandostatin/i.v. MK-0677-injected rats (8 +/- 2 nuclei/section) was significantly less than the i.v. saline/i.v. GHRP-6-treated group (56 +/- 5 nuclei/section) and the i.v. saline/ i.v. MK-0677-treated group (20 +/- 2 nuclei/section) respectively. Intracerebroventricular sandostatin injection attenuated the GHRP-6-induced Fos response, from 53 +/- 6 nuclei/section in the i.c.v. aCSF/i.v. GHRP-6 group, to 39 +/- 5 nuclei/section in the i.c.v. sandostatin/i.v. GHRP-6 group. Thus, the central action of GH secretagogues to induce Fos protein expression in the arcuate nucleus appears to be subject to central inhibitory control by somatostatin."
+  },
+  {
+   "pmid": "12486113",
+   "titel": "Ghrelin and des-acyl ghrelin inhibit cell death in cardiomyocytes and endothelial cells through ERK1/2 and PI 3-kinase/AKT",
+   "jahr": "2002",
+   "journal": "J Cell Biol",
+   "erstautor": "Baldanzi G",
+   "doi": "10.1083/jcb.200207165",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Ghrelin is an acyl-peptide gastric hormone acting on the pituitary and hypothalamus to stimulate growth hormone (GH) release, adiposity, and appetite. Ghrelin endocrine activities are entirely dependent on its acylation and are mediated by GH secretagogue (GHS) receptor (GHSR)-1a, a G protein-coupled receptor mostly expressed in the pituitary and hypothalamus, previously identified as the receptor for a group of synthetic molecules featuring GH secretagogue (GHS) activity. Des-acyl ghrelin, which is far more abundant than ghrelin, does not bind GHSR-1a, is devoid of any endocrine activity, and its function is currently unknown. Ghrelin, which is expressed in heart, albeit at a much lower level than in the stomach, also exerts a cardio protective effect through an unknown mechanism, independent of GH release. Here we show that both ghrelin and des-acyl ghrelin inhibit apoptosis of primary adult and H9c2 cardiomyocytes and endothelial cells in vitro through activation of extracellular signal-regulated kinase-1/2 and Akt serine kinases. In addition, ghrelin and des-acyl ghrelin recognize common high affinity binding sites on H9c2 cardiomyocytes, which do not express GHSR-1a. Finally, both MK-0677 and hexarelin, a nonpeptidyl and a peptidyl synthetic GHS, respectively, recognize the common ghrelin and des-acyl ghrelin binding sites, inhibit cell death, and activate MAPK and Akt.These findings provide the first evidence that, independent of its acylation, ghrelin gene product may act as a survival factor directly on the cardiovascular system through binding to a novel, yet to be identified receptor, which is distinct from GHSR-1a."
+  }
+ ],
+ "ctgov": [
+  {
+   "nct": "NCT00074529",
+   "titel": "Study of MK0677 for the Treatment of Alzheimer's Disease (0677-030)(COMPLETED)",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 512,
+   "start": "2003-10",
+   "ende": "2006-01",
+   "erkrankungen": [
+    "Alzheimer's Disease"
+   ],
+   "sponsor": "Merck Sharp & Dohme LLC",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00395291",
+   "titel": "Growth Hormone Secretagogue MK-0677 Effect on IGF-1 Levels in ESRD Patients",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 49,
+   "start": "2006-08",
+   "ende": "2010-05",
+   "erkrankungen": [
+    "Chronic Kidney Disease",
+    "End Stage Renal Disease"
+   ],
+   "sponsor": "University of Virginia",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT00474279",
+   "titel": "Effects of an Oral GH Secretagogue (MK-677) on Body Composition and Functional Ability of Older Adults",
+   "phase": "PHASE1,PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 72,
+   "start": "1998-07",
+   "ende": "2004-06",
+   "erkrankungen": [
+    "Aging"
+   ],
+   "sponsor": "University of Virginia",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT01343641",
+   "titel": "Growth Hormone Secretagogue MK-0677's Effect on Lean Body Mass in Chronic Kidney Disease Stage 4/5 Subjects",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "WITHDRAWN",
+   "teilnehmende": 0,
+   "start": "2009-03",
+   "ende": "2010-04",
+   "erkrankungen": [
+    "Chronic Kidney Disease",
+    "Kidney Disease"
+   ],
+   "sponsor": "University of Virginia",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00116129",
+   "titel": "Efficacy and Safety of an Oral Growth Hormone Drug in the Treatment of Fibromyalgia",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 64,
+   "start": "2005-07",
+   "ende": "2008-04",
+   "erkrankungen": [
+    "Fibromyalgia"
+   ],
+   "sponsor": "Bennett, Robert, M.D.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06948214",
+   "titel": "Phase 3 Study of LUM-201 in Children With Growth Hormone Deficiency",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 150,
+   "start": "2026-05-20",
+   "ende": "2028-01",
+   "erkrankungen": [
+    "Growth Hormone Deficiency (GHD)"
+   ],
+   "sponsor": "Lumos Pharma",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05364684",
+   "titel": "The Impact of Ibutamoren on Nonalcoholic Fatty Liver Disease",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 12,
+   "start": "2022-08-10",
+   "ende": "2024-12-23",
+   "erkrankungen": [
+    "NAFLD",
+    "Nonalcoholic Fatty Liver",
+    "NASH - Nonalcoholic Steatohepatitis"
+   ],
+   "sponsor": "Massachusetts General Hospital",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT00128115",
+   "titel": "Treatment of Sarcopenia in Post-Hip Fracture Patients (0677-032)",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "TERMINATED",
+   "teilnehmende": 83,
+   "start": "2005-09",
+   "ende": "2007-08",
+   "erkrankungen": [
+    "Hip Fracture"
+   ],
+   "sponsor": "Merck Sharp & Dohme LLC",
+   "ergebnisse": false
+  }
+ ],
+ "gruppe": "C_wachstumshormon"
+}

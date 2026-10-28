@@ -1,0 +1,1441 @@
+{
+ "name": "Setmelanotid",
+ "status": "zugelassen",
+ "suchbegriff_pubmed": "setmelanotide[tiab]",
+ "suchbegriff_ctgov": "setmelanotide",
+ "humanstudien_alle": [
+  {
+   "pmid": "42418774",
+   "titel": "Setmelanotide for the Treatment of Acquired Hypothalamic Obesity",
+   "jahr": "2026",
+   "journal": "N Engl J Med",
+   "erstautor": "Miller JL",
+   "doi": "10.1056/NEJMoa2512275",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Multicenter Study",
+    "Clinical Trial, Phase III"
+   ]
+  },
+  {
+   "pmid": "41703984",
+   "titel": "Setmelanotide in Bardet-Biedl Syndrome: A 52-Week Comparison of Phase 3 Trial Participants With a Matched Registry Cohort",
+   "jahr": "2026",
+   "journal": "Obesity (Silver Spring)",
+   "erstautor": "Argente J",
+   "doi": "10.1002/oby.70125",
+   "typ": [
+    "Journal Article",
+    "Clinical Trial, Phase III",
+    "Comparative Study",
+    "Multicenter Study"
+   ]
+  },
+  {
+   "pmid": "39919037",
+   "titel": "Impact of Setmelanotide on Metabolic Syndrome Risk in Patients With Bardet-Biedl Syndrome",
+   "jahr": "2025",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Haqq AM",
+   "doi": "10.1210/clinem/dgaf079",
+   "typ": [
+    "Journal Article",
+    "Clinical Trial, Phase III",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "39549719",
+   "titel": "Setmelanotide in patients aged 2-5 years with rare MC4R pathway-associated obesity (VENTURE): a 1 year, open-label, multicenter, phase 3 trial",
+   "jahr": "2025",
+   "journal": "Lancet Diabetes Endocrinol",
+   "erstautor": "Argente J",
+   "doi": "10.1016/S2213-8587(24)00273-0",
+   "typ": [
+    "Journal Article",
+    "Clinical Trial, Phase III",
+    "Multicenter Study",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "39561769",
+   "titel": "Monoallelic pathogenic variants in LEPR do not cause obesity",
+   "jahr": "2024",
+   "journal": "Am J Hum Genet",
+   "erstautor": "Delplanque J",
+   "doi": "10.1016/j.ajhg.2024.10.014",
+   "typ": [
+    "Clinical Trial, Phase III",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "38697184",
+   "titel": "Setmelanotide for the treatment of acquired hypothalamic obesity: a phase 2, open-label, multicentre trial",
+   "jahr": "2024",
+   "journal": "Lancet Diabetes Endocrinol",
+   "erstautor": "Roth CL",
+   "doi": "10.1016/S2213-8587(24)00087-1",
+   "typ": [
+    "Journal Article",
+    "Clinical Trial, Phase II",
+    "Multicenter Study",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "38239988",
+   "titel": "Could setmelanotide be the game-changer for acquired hypothalamic obesity?",
+   "jahr": "2023",
+   "journal": "Front Endocrinol (Lausanne)",
+   "erstautor": "van Santen HM",
+   "doi": "10.3389/fendo.2023.1307889",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "36647077",
+   "titel": "Quality of life improvements following one year of setmelanotide in children and adult patients with Bardet-Biedl syndrome: phase 3 trial results",
+   "jahr": "2023",
+   "journal": "Orphanet J Rare Dis",
+   "erstautor": "Forsythe E",
+   "doi": "10.1186/s13023-022-02602-4",
+   "typ": [
+    "Clinical Trial, Phase III",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "36356613",
+   "titel": "Efficacy and safety of setmelanotide, a melanocortin-4 receptor agonist, in patients with Bardet-Biedl syndrome and Alström syndrome: a multicentre, randomised, double-blind, placebo-controlled, phase 3 trial with an open-label period",
+   "jahr": "2022",
+   "journal": "Lancet Diabetes Endocrinol",
+   "erstautor": "Haqq AM",
+   "doi": "10.1016/S2213-8587(22)00277-7",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Multicenter Study",
+    "Clinical Trial, Phase III",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "35123544",
+   "titel": "Quality of life outcomes in two phase 3 trials of setmelanotide in patients with obesity due to LEPR or POMC deficiency",
+   "jahr": "2022",
+   "journal": "Orphanet J Rare Dis",
+   "erstautor": "Kühnen P",
+   "doi": "10.1186/s13023-022-02186-z",
+   "typ": [
+    "Clinical Trial, Phase III",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "34058738",
+   "titel": "A Melanocortin-4 Receptor Agonist Induces Skin and Hair Pigmentation in Patients with Monogenic Mutations in the Leptin-Melanocortin Pathway",
+   "jahr": "2021",
+   "journal": "Skin Pharmacol Physiol",
+   "erstautor": "Kanti V",
+   "doi": "10.1159/000516282",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "33137293",
+   "titel": "Efficacy and safety of setmelanotide, an MC4R agonist, in individuals with severe obesity due to LEPR or POMC deficiency: single-arm, open-label, multicentre, phase 3 trials",
+   "jahr": "2020",
+   "journal": "Lancet Diabetes Endocrinol",
+   "erstautor": "Clément K",
+   "doi": "10.1016/S2213-8587(20)30364-8",
+   "typ": [
+    "Clinical Trial, Phase III",
+    "Journal Article",
+    "Multicenter Study",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "29736023",
+   "titel": "MC4R agonism promotes durable weight loss in patients with leptin receptor deficiency",
+   "jahr": "2018",
+   "journal": "Nat Med",
+   "erstautor": "Clément K",
+   "doi": "10.1038/s41591-018-0015-9",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "29031731",
+   "titel": "Evaluation of a melanocortin-4 receptor (MC4R) agonist (Setmelanotide) in MC4R deficiency",
+   "jahr": "2017",
+   "journal": "Mol Metab",
+   "erstautor": "Collet TH",
+   "doi": "10.1016/j.molmet.2017.06.015",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "27468060",
+   "titel": "Proopiomelanocortin Deficiency Treated with a Melanocortin-4 Receptor Agonist",
+   "jahr": "2016",
+   "journal": "N Engl J Med",
+   "erstautor": "Kühnen P",
+   "doi": "10.1056/NEJMoa1512693",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article"
+   ]
+  }
+ ],
+ "humanstudien_detail": [
+  {
+   "pmid": "42418774",
+   "titel": "Setmelanotide for the Treatment of Acquired Hypothalamic Obesity",
+   "jahr": "2026",
+   "journal": "N Engl J Med",
+   "erstautor": "Miller JL",
+   "doi": "10.1056/NEJMoa2512275",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Multicenter Study",
+    "Clinical Trial, Phase III"
+   ],
+   "abstract": "BACKGROUND: A phase 2 trial of setmelanotide, a melanocortin-4 receptor agonist, showed substantial weight loss in patients with acquired hypothalamic obesity, but additional data are needed. METHODS: We conducted a phase 3 trial in which participants were randomly assigned in a 2:1 ratio to receive setmelanotide (at a dose of 1.5 to 3.0 mg) or placebo administered subcutaneously once daily for 52 weeks after a dose-escalation period. Persons at least 4 years of age were potentially eligible for the trial if they had acquired hypothalamic obesity, which was defined by a body-mass index (BMI; the weight in kilograms divided by the square of the height in meters) that was at or above the 95th percentile for age and sex (for participants <18 years of age) or at least 30 (for participants ≥18 years of age) and a history of a hypothalamic tumor, lesion, or injury. The primary end point was the mean percent change in BMI from baseline to 52 weeks after the end of the dose-escalation period. Secondary end points included the mean change in the weekly average of the maximal daily hunger score (range, 0 to 10, with higher scores indicating more severe hunger), assessed in participants at least 12 years of age. RESULTS: From April 26, 2023, to March 18, 2025, a total of 120 participants were assigned to receive setmelanotide (81 participants) or placebo (39 participants). The mean (±SD) age was 19.9±13.8 years (range, 4 to 66). Among participants 18 years of age or older, the mean BMI was 41.2±9.7; the mean BMI z score among those younger than 18 years of age was 3.61±1.66. The least-squares mean (LSM) change in BMI at 52 weeks was -16.5% (95% confidence interval [CI], -19.3 to -13.8) with setmelanotide and 3.3% (95% CI, -0.6 to 7.2) with placebo (P<0.001), and the LSM change in the weekly average of maximal daily hunger scores was -2.73 (95% CI, -3.28 to -2.18) in the setmelanotide group and -1.45 (95% CI, -2.23 to -0.67) in the placebo group (P = 0.009). Adverse events were reported in 100% of the participants in the setmelanotide group and in 90% of those in the placebo group, and serious adverse events were reported in 28% and 8%, respectively. The most common adverse events with setmelanotide were skin hyperpigmentation, nausea, vomiting, and headache. CONCLUSIONS: Setmelanotide led to significantly greater reductions in BMI and hunger than placebo at 52 weeks among participants 4 to 66 years of age with acquired hypothalamic obesity. (Funded by Rhythm Pharmaceuticals; TRANSCEND ClincialTrials.gov number, NCT05774756.)."
+  },
+  {
+   "pmid": "33137293",
+   "titel": "Efficacy and safety of setmelanotide, an MC4R agonist, in individuals with severe obesity due to LEPR or POMC deficiency: single-arm, open-label, multicentre, phase 3 trials",
+   "jahr": "2020",
+   "journal": "Lancet Diabetes Endocrinol",
+   "erstautor": "Clément K",
+   "doi": "10.1016/S2213-8587(20)30364-8",
+   "typ": [
+    "Clinical Trial, Phase III",
+    "Journal Article",
+    "Multicenter Study",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: The melanocortin 4 receptor (MC4R), a component of the leptin-melanocortin pathway, plays a part in bodyweight regulation. Severe early-onset obesity can be caused by biallelic variants in genes that affect the MC4R pathway. We report the results from trials of the MC4R agonist setmelanotide in individuals with severe obesity due to either pro-opiomelanocortin (POMC) deficiency obesity or leptin receptor (LEPR) deficiency obesity. METHODS: These single-arm, open-label, multicentre, phase 3 trials were done in ten hospitals across Canada, the USA, Belgium, France, Germany, the Netherlands, and the UK. Participants aged 6 years or older with POMC or LEPR deficiency obesity received open-label setmelanotide for 12 weeks. Participants with at least 5 kg weight loss (or ≥5% if weighing <100 kg at baseline) entered an 8-week placebo-controlled withdrawal sequence (including 4 weeks each of blinded setmelanotide and placebo treatment) followed by 32 additional weeks of open-label treatment. The primary endpoint, which was assessed in participants who received at least one dose of study medication and had a baseline assessment (full analysis set), was the proportion of participants with at least 10% weight loss compared with baseline at approximately 1 year. A key secondary endpoint was mean percentage change in the most hunger score of the 11-point Likert-type scale at approximately 1 year on the therapeutic dose, which was assessed in a subset of participants aged 12 years or older in the full analysis set who demonstrated at least 5 kg weight loss (or ≥5% in paediatric participants if baseline bodyweight was <100 kg) over the 12-week open-label treatment phase and subsequently proceeded into the placebo-controlled withdrawal sequence, regardless of later disposition. These studies are registered with ClinicalTrials.gov, NCT02896192 and NCT03287960. FINDINGS: Between Feb 14, 2017, and Sept 7, 2018, ten participants were enrolled in the POMC trial and 11 participants were enrolled in the LEPR trial, and included in the full analysis and safety sets. Eight (80%) participants in the POMC trial and five (45%) participants in the LEPR trial achieved at least 10% weight loss at approximately 1 year. The mean percentage change in the most hunger score was -27·1% (n=7; 90% CI -40·6 to -15·0; p=0·0005) in the POMC trial and -43·7% (n=7; -54·8 to -29·1; p<0·0001) in the LEPR trial. The most common adverse events were injection site reaction and hyperpigmentation, which were reported in all ten participants in the POMC trial; nausea was reported in five participants and vomiting in three participants. In the LEPR trial, the most commonly reported treatment-related adverse events were injection site reaction in all 11 participants, skin disorders in five participants, and nausea in four participants. No serious treatment-related adverse events occurred in both trials. INTERPRETATION: Our results support setmelanotide for the treatment of obesity and hyperphagia caused by POMC or LEPR deficiency. FUNDING: Rhythm Pharmaceuticals."
+  },
+  {
+   "pmid": "36356613",
+   "titel": "Efficacy and safety of setmelanotide, a melanocortin-4 receptor agonist, in patients with Bardet-Biedl syndrome and Alström syndrome: a multicentre, randomised, double-blind, placebo-controlled, phase 3 trial with an open-label period",
+   "jahr": "2022",
+   "journal": "Lancet Diabetes Endocrinol",
+   "erstautor": "Haqq AM",
+   "doi": "10.1016/S2213-8587(22)00277-7",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Multicenter Study",
+    "Clinical Trial, Phase III",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Impaired cilial signalling in the melanocortin-4 receptor (MC4R) pathway might contribute to obesity in patients with Bardet-Biedl syndrome and Alström syndrome, rare genetic diseases associated with hyperphagia and early-onset severe obesity. We aimed to evaluate the effect of setmelanotide on bodyweight in these patients. METHODS: This multicentre, randomised, 14-week double-blind, placebo-controlled, phase 3 trial followed by a 52-week open-label period, was performed at 12 sites (hospitals, clinics, and universities) in the USA, Canada, the UK, France, and Spain. Patients aged 6 years or older were included if they had a clinical diagnosis of Bardet-Biedl syndrome or Alström syndrome and obesity (defined as BMI >97th percentile for age and sex for those aged 6-15 years and ≥30 kg/m2 for those aged ≥16 years). Patients were randomly assigned (1:1) using a numerical randomisation code to receive up to 3·0 mg of subcutaneous setmelanotide or placebo once per day during the 14-week double-blind period, followed by open-label setmelanotide for 52 weeks. The primary endpoint, measured in the full analysis set, was the proportion of patients aged 12 years or older who reached at least a 10% reduction in bodyweight from baseline after 52 weeks of setmelanotide treatment. This study is registered with ClinicalTrials.gov, NCT03746522. FINDINGS: Between Dec 10, 2018, and Nov 25, 2019, 38 patients were enrolled and randomly assigned to receive setmelanotide (n=19) or placebo (n=19; 16 with Bardet-Biedl syndrome and three with Alström syndrome in each group). In terms of the primary endpoint, 32·3% (95% CI 16·7 to 51·4; p=0·0006) of patients aged 12 years or older with Bardet-Biedl syndrome reached at least a 10% reduction in bodyweight after 52 weeks of setmelanotide. The most commonly reported treatment-emergent adverse events were skin hyperpigmentation (23 [61%] of 38) and injection site erythema (18 [48%]). Two patients had four serious adverse events (blindness, anaphylactic reaction, and suicidal ideation); none were considered related to setmelanotide treatment. INTERPRETATION: Setmelanotide resulted in significant bodyweight reductions in patients with Bardet-Biedl syndrome; however, these results were inconclusive in patients with Alström syndrome. These results support the use of setmelanotide and provided the necessary evidence for approval of this drug as the first treatment for obesity in patients with Bardet-Biedl syndrome. FUNDING: Rhythm Pharmaceuticals."
+  },
+  {
+   "pmid": "38697184",
+   "titel": "Setmelanotide for the treatment of acquired hypothalamic obesity: a phase 2, open-label, multicentre trial",
+   "jahr": "2024",
+   "journal": "Lancet Diabetes Endocrinol",
+   "erstautor": "Roth CL",
+   "doi": "10.1016/S2213-8587(24)00087-1",
+   "typ": [
+    "Journal Article",
+    "Clinical Trial, Phase II",
+    "Multicenter Study",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Hypothalamic obesity resulting from hypothalamic damage might affect melanocortin signalling. We investigated the melanocortin-4 receptor agonist setmelanotide for treatment of hypothalamic obesity. METHODS: This phase 2, open-label, multicentre trial was done in five centres in the USA. Eligible patients were aged between 6 and 40 years with obesity and history of hypothalamic injury or diagnosis of a non-malignant tumour affecting the hypothalamus that was treated with surgery, chemotherapy, or radiation. Setmelanotide was titrated up to a dose of 3·0 mg and administered subcutaneously once a day for a total duration of 16 weeks. The primary endpoint was the proportion of patients with a reduction in BMI of at least 5% from baseline after 16 weeks, compared with a historic control rate of less than 5% in this population. The primary endpoint was analysed using the full analysis set, which includes all patients with baseline data who received at least one dose of setmelanotide. Safety was assessed in all patients who received at least one dose of study drug. This trial is registered with ClinicalTrials.gov (NCT04725240) and is complete. FINDINGS: Between June 6, 2021, and Jan 13, 2022, 19 patients were screened for inclusion. One patient was excluded, and 18 were enrolled and received at least one dose of setmelanotide. Patients were primarily White (n=14 [78%]) and male (n=11 [61%]). Enrolled patients had a mean age of 15·0 years (SD 5·3) and a mean BMI of 38·0 kg/m2 (SD 6·5). Of 18 patients enrolled, 16 (89%) of 18 patients completed the study and met the primary endpoint of reduction in BMI of at least 5% from baseline after 16 weeks (p<0·0001). The mean reduction in BMI across all patients was 15% (SD 10). A composite proportion of patients had a clinically meaningful change (89%, 90% CI 69-98%; p<0·0001), comprising a reduction in BMI Z score of at least 0·2 points for patients younger than 18 years (92%, 68-100%; p<0·0001) and reduction in bodyweight of at least 5% for patients aged 18 years or older (80%, 34-99%; p<0·0001). Patients aged 12 years or older had a mean reduction in hunger score of 45%. Frequent adverse events included nausea (61%), vomiting (33%), skin hyperpigmentation (33%), and diarrhoea (22%). Of 14 patients who continued treatment in a long-term extension study (NCT03651765), 12 completed at least 12 months of treatment at the time of publication and had a mean change in BMI of -26% (SD 12) from index trial baseline. INTERPRETATION: These findings support setmelanotide as a novel effective treatment of hypothalamic obesity. FUNDING: Rhythm Pharmaceuticals."
+  },
+  {
+   "pmid": "29031731",
+   "titel": "Evaluation of a melanocortin-4 receptor (MC4R) agonist (Setmelanotide) in MC4R deficiency",
+   "jahr": "2017",
+   "journal": "Mol Metab",
+   "erstautor": "Collet TH",
+   "doi": "10.1016/j.molmet.2017.06.015",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: Pro-opiomelanocortin (POMC)-derived peptides act on neurons expressing the Melanocortin 4 receptor (MC4R) to reduce body weight. Setmelanotide is a highly potent MC4R agonist that leads to weight loss in diet-induced obese animals and in obese individuals with complete POMC deficiency. While POMC deficiency is very rare, 1-5% of severely obese individuals harbor heterozygous mutations in MC4R. We sought to assess the efficacy of Setmelanotide in human MC4R deficiency. METHODS: We studied the effects of Setmelanotide on mutant MC4Rs in cells and the weight loss response to Setmelanotide administration in rodent studies and a human clinical trial. We annotated the functional status of 369 published MC4R variants. RESULTS: In cells, we showed that Setmelanotide is significantly more potent at MC4R than the endogenous ligand alpha-melanocyte stimulating hormone and can disproportionally rescue signaling by a subset of severely impaired MC4R mutants. Wild-type rodents appear more sensitive to Setmelanotide when compared to MC4R heterozygous deficient mice, while MC4R knockout mice fail to respond. In a 28-day Phase 1b clinical trial, Setmelanotide led to weight loss in obese MC4R variant carriers. Patients with POMC defects upstream of MC4R show significantly more weight loss with Setmelanotide than MC4R deficient patients or obese controls. CONCLUSIONS: Setmelanotide led to weight loss in obese people with MC4R deficiency; however, further studies are justified to establish whether Setmelanotide can elicit clinically meaningful weight loss in a subset of the MC4R deficient obese population."
+  },
+  {
+   "pmid": "41703984",
+   "titel": "Setmelanotide in Bardet-Biedl Syndrome: A 52-Week Comparison of Phase 3 Trial Participants With a Matched Registry Cohort",
+   "jahr": "2026",
+   "journal": "Obesity (Silver Spring)",
+   "erstautor": "Argente J",
+   "doi": "10.1002/oby.70125",
+   "typ": [
+    "Journal Article",
+    "Clinical Trial, Phase III",
+    "Comparative Study",
+    "Multicenter Study"
+   ],
+   "abstract": "OBJECTIVE: This analysis aimed to assess the efficacy of setmelanotide over 52 weeks in patients with Bardet-Biedl syndrome (BBS) compared with an external natural history cohort from the international Clinical Registry Investigating BBS (CRIBBS). METHODS: Patients with BBS ≥ 6 years of age (n = 29) treated with setmelanotide for 52 weeks in a phase 3 trial (NCT03746522) and a propensity-score matched external control cohort (n = 58) from CRIBBS were included. Responder rate at week 52 was defined as ≥ 0.3-point decrease in BMI z-score (patients ≤ 18 years) or ≥ 10% body weight reduction (adults). Secondary outcomes included changes in BMI, BMI z-score, and body weight. RESULTS: A significantly greater proportion of patients treated with setmelanotide met the primary endpoint compared with control patients (58.6% vs. 6.9%; p < 0.001). In pediatric patients, 71.4% achieved the primary endpoint vs. 10.7% of controls (p < 0.001); in adults, corresponding numbers were 46.7% vs. 3.3% (p = 0.001). Secondary outcomes demonstrated consistent benefits of setmelanotide treatment. Sensitivity analysis using inverse probability of treatment weighting confirmed these findings. CONCLUSIONS: This indirect comparison provides additional strong evidence that setmelanotide significantly improves weight outcomes in patients with BBS. These findings further support its clinical benefit over 52 weeks in managing obesity associated with BBS. TRIAL REGISTRATION: ClinicalTrials.gov identifier: NCT03746522."
+  },
+  {
+   "pmid": "38239988",
+   "titel": "Could setmelanotide be the game-changer for acquired hypothalamic obesity?",
+   "jahr": "2023",
+   "journal": "Front Endocrinol (Lausanne)",
+   "erstautor": "van Santen HM",
+   "doi": "10.3389/fendo.2023.1307889",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Journal Article"
+   ],
+   "abstract": "Children with acquired hypothalamic obesity, e.g. following treatment for pediatric craniopharyngioma are at great risk for metabolic syndrome, cardiovascular health problems and premature mortality. Treatment for acquired hypothalamic obesity has thus far been disappointing. Several interventions were reported to be partially successful, including dextro-amphetamine and GLP-1R agonists, although results in acquired hypothalamic obesity are conflicting. Disruption of signaling through the melanocortin-4 receptor (MC4R) pathway results in hyperphagia and severe early-onset hypothalamic obesity. Recently, the MC4R agonist setmelanotide has shown promising results in children with genetic forms of hypothalamic obesity; POMC, PCSK1 and LEPR. Patient quotes such as \"we have our family life back\" illustrate the magnitude of the effect. Targeted hormone replacement therapy with a MC4R agonist for acquired hypothalamic obesity could be a game-changer. Preliminary results of setmelanotide treatment in 14, mostly pediatric, patients with acquired hypothalamic obesity are promising. The FDA has recommended that a prospective, randomized, blinded trial be conducted over a 12 months treatment period, comparable to pivotal trials for other obesity drugs. It may be discussed whether setmelanotide should be regarded as an obesity drug or whether it may be envisioned as an agent for hypothalamic substitution therapy. In this commentary we discuss the trial that is currently recruiting patients with acquired hypothalamic obesity."
+  },
+  {
+   "pmid": "39549719",
+   "titel": "Setmelanotide in patients aged 2-5 years with rare MC4R pathway-associated obesity (VENTURE): a 1 year, open-label, multicenter, phase 3 trial",
+   "jahr": "2025",
+   "journal": "Lancet Diabetes Endocrinol",
+   "erstautor": "Argente J",
+   "doi": "10.1016/S2213-8587(24)00273-0",
+   "typ": [
+    "Journal Article",
+    "Clinical Trial, Phase III",
+    "Multicenter Study",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Setmelanotide, a melanocortin-4 receptor (MC4R) agonist, has been shown to reduce hunger and weight in patients aged 6 years and older with proopiomelanocortin (POMC) deficiency (including biallelic variants in proprotein convertase subtilisin/kexin type 1 [PCSK1]), leptin receptor (LEPR) deficiency, or Bardet-Biedl syndrome (BBS). No approved therapies for patients younger than 6 years old currently exist. The phase 3, open-label VENTURE trial aimed to evaluate the efficacy and safety of setmelanotide in patients aged 2-5 years with POMC or LEPR deficiency or BBS. METHODS: This phase 3, open-label, multicentre trial, conducted across six sites in the USA, the UK, Spain, and Australia, enrolled eligible patients aged 2-5 years who had hyperphagia and obesity due to biallelic POMC (including PCSK1) or LEPR variants or genetically confirmed BBS. Open-label subcutaneous setmelanotide was administered once daily for 52 weeks, starting at 0·5 mg with doses increasing every 2 weeks in 0·5 mg increments until reaching the maximum dose based on weight. The co-primary endpoints at week 52 were the percentage of patients reaching a 0·2-point decrease or greater in BMI Z score (a statistical measure used to assess BMI in paediatric patients considering a patient's BMI and comparing it to reference values for the same age and sex) and mean percent change in BMI. Additional endpoints measured safety, hunger, weight-related outcomes, and caregiver burden. The study is registered at ClinicalTrials.gov (NCT04966741) and is complete. FINDINGS: Between March 8, 2022, and Sept 18, 2023, 13 patients were screened at the six sites, and 12 patients were enrolled in the study (seven with POMC or LEPR and five with BBS); one patient with BBS was excluded as their BMI was not at the 97th percentile or above. Of the 12 patients enrolled, most were male (seven [58%] vs five [42%] for female) and the mean age was 3·6 years (SD 0·9). 11 patients completed the trial. Ten (83%) of the 12 overall participants reached a 0·2-point reduction or more in BMI Z score per WHO methodology at week 52 (95% CI 58·7-99·8). The mean percent change in BMI from baseline at week 52 was -18% (SD 13) in the overall safety population. Mean percent change in BMI at week 52 was -26% (SD 11) in patients with POMC or LEPR deficiency and -10% (9) in patients with BBS. Mean reductions in secondary endpoints of BMI Z score (3·4 [2·5]) and percent of the BMI 95th percentile (32·5 [22·9]) were seen at Week 52. 91% of caregivers reported that patients were less hungry than at baseline. All adverse events were mild or moderate; skin hyperpigmentation, vomiting, nasopharyngitis, upper respiratory tract infection, and injection site reactions were most common. No serious adverse events or adverse events leading to study discontinuation or death were reported. INTERPRETATION: To our knowledge this is the first trial of setmelanotide in patients younger than 6 years old. These results support the benefit of the drug as an early intervention to manage obesity in this population. FUNDING: Rhythm Pharmaceuticals."
+  },
+  {
+   "pmid": "35123544",
+   "titel": "Quality of life outcomes in two phase 3 trials of setmelanotide in patients with obesity due to LEPR or POMC deficiency",
+   "jahr": "2022",
+   "journal": "Orphanet J Rare Dis",
+   "erstautor": "Kühnen P",
+   "doi": "10.1186/s13023-022-02186-z",
+   "typ": [
+    "Clinical Trial, Phase III",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "INTRODUCTION: Individuals with proopiomelanocortin (POMC) or leptin receptor (LEPR) deficiency are young and experience severe obesity, hyperphagia, and comorbidities, which can impair quality of life (QOL). METHODS: Two pivotal Phase 3 trials explored the effect of setmelanotide on body weight and hunger in individuals with obesity due to POMC (NCT02896192) or LEPR (NCT03287960) deficiency. QOL and depression were investigated in parallel using the disease-specific, age-appropriate Impact of Weight on Quality of Life-Lite (IWQOL-Lite), Pediatric Quality of Life Inventory (PedsQL), and Patient Health Questionnaire-9 (PHQ-9). RESULTS: In total, the POMC and LEPR trials enrolled 21 patients. Adults (≥ 18 years old; n = 7) had moderate-to-severe impairment in QOL at baseline, with mean (standard deviation [SD]) IWQOL-Lite total score 60.3 (13.2; maximum IWQOL-Lite total score = 100). The effect of setmelanotide on IWQOL-Lite total score was observed as soon as Week 5. Among those with scores at Week 52, 5 of 6 adults experienced a clinically meaningful improvement, with mean (SD) total scores increased from baseline by 24.2 (12.1) points. Children (6-12 years old; n = 2) and adolescents (13-17 years old; n = 4) had impaired QOL at baseline, with mean (SD) self-reported PedsQL total scores 53.3 (6.2) and 63.3 (29.1), respectively (maximum PedsQL total score = 100). Three of 5 patients experienced clinically meaningful improvement in PedsQL, with 2 children whose PedsQL total score increased by 28.3 and 3.3 points and 3 adolescents whose mean (SD) total score increased from baseline by 5.8 (18.3) points. Baseline mean (SD) PHQ-9 score (in those ≥ 12 years old) was 5.3 (3.8) and was generally maintained through Week 52. CONCLUSIONS: Patients with POMC or LEPR deficiency had impaired, and in some cases severely impaired, QOL before setmelanotide treatment. Setmelanotide improved QOL in patients as early as Week 5, with some patients no longer experiencing impaired QOL at Week 52. Improvements in QOL may be related to a reduction in hunger and body weight associated with setmelanotide. Because of the highly complex psychological consequences of rare genetic diseases of obesity, some patients may require a long period of treatment to improve QOL and benefit from interdisciplinary care."
+  },
+  {
+   "pmid": "39919037",
+   "titel": "Impact of Setmelanotide on Metabolic Syndrome Risk in Patients With Bardet-Biedl Syndrome",
+   "jahr": "2025",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Haqq AM",
+   "doi": "10.1210/clinem/dgaf079",
+   "typ": [
+    "Journal Article",
+    "Clinical Trial, Phase III",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "CONTEXT: Bardet-Biedl syndrome (BBS) is a rare genetic disease associated with disruptions in melanocortin-4 receptor pathway signaling that can contribute to increased risk for metabolic syndrome and obesity-related comorbidities. OBJECTIVE: Here, MetS-Z-BMI scores, a continuous measure based on body mass index (BMI), were calculated to determine metabolic syndrome severity and response to treatment with the melanocortin-4 receptor agonist setmelanotide in BBS. METHODS: All patients from a phase 3 study (NCT03746522) of setmelanotide with data required for the calculation of MetS-Z-BMI scores were included. Mean MetS-Z-BMI score was determined at baseline and Week 52; subgroup analyses were conducted by sex, age, genotype, and response to setmelanotide. RESULTS: MetS-Z-BMI scores were evaluable for 22 of 32 patients enrolled. Baseline mean (SD) MetS-Z-BMI score across patients was 1.1 (0.5); baseline mean (SD) odds ratios of future cardiovascular disease or type 2 diabetes were 3.1 (1.5) and 3.7 (1.7), respectively, for adults and 10.2 (4.7) and 2.8 (1.3), respectively, for pediatric patients. Overall, mean (SD) MetS-Z-BMI score at Week 52 was reduced by 0.34 (0.62). Mean (SD) MetS-Z-BMI scores significantly differed depending on achievement of predetermined weight-based thresholds of ≥10% weight loss (patients aged ≥18 years) or ≥0.3-point reduction in BMI Z score (patients aged <18 years) at Week 52 (achievers, -0.64 [0.54]; nonachievers, 0.08 [0.47]; P = .0043). No significant difference was observed with other subgroup comparisons. CONCLUSION: MetS-Z-BMI score reductions were observed after 52 weeks of treatment, suggesting that setmelanotide may decrease metabolic syndrome severity and risk of future obesity-related comorbidities in those with BBS."
+  },
+  {
+   "pmid": "27468060",
+   "titel": "Proopiomelanocortin Deficiency Treated with a Melanocortin-4 Receptor Agonist",
+   "jahr": "2016",
+   "journal": "N Engl J Med",
+   "erstautor": "Kühnen P",
+   "doi": "10.1056/NEJMoa1512693",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article"
+   ],
+   "abstract": "Patients with rare defects in the gene encoding proopiomelanocortin (POMC) have extreme early-onset obesity, hyperphagia, hypopigmentation, and hypocortisolism, resulting from the lack of the proopiomelanocortin-derived peptides melanocyte-stimulating hormone and corticotropin. In such patients, adrenal insufficiency must be treated with hydrocortisone early in life. No effective pharmacologic treatments have been available for the hyperphagia and obesity that characterize the condition. In this investigator-initiated, open-label study, two patients with proopiomelanocortin deficiency were treated with setmelanotide, a new melanocortin-4 receptor agonist. The patients had a sustainable reduction in hunger and substantial weight loss (51.0 kg after 42 weeks in Patient 1 and 20.5 kg after 12 weeks in Patient 2)."
+  },
+  {
+   "pmid": "34058738",
+   "titel": "A Melanocortin-4 Receptor Agonist Induces Skin and Hair Pigmentation in Patients with Monogenic Mutations in the Leptin-Melanocortin Pathway",
+   "jahr": "2021",
+   "journal": "Skin Pharmacol Physiol",
+   "erstautor": "Kanti V",
+   "doi": "10.1159/000516282",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND AND OBJECTIVES: Gene mutations within the leptin-melanocortin signaling pathway lead to severe early-onset obesity. Recently, a phase 2 trial evaluated new pharmacological treatment options with the MC4R agonist setmelanotide in patients with mutations in the genes encoding proopiomelanocortin (POMC) and leptin receptor (LEPR). During treatment with setmelanotide, changes in skin pigmentation were observed, probably due to off-target effects on the closely related melanocortin 1 receptor (MC1R). Here, we describe in detail the findings of dermatological examinations and measurements of skin pigmentation during this treatment over time and discuss the impact of these changes on patient safety. METHODS: In an investigator-initiated, phase 2, open-label pilot study, 2 patients with loss-of-function POMC gene mutations and 3 patients with loss-of-function variants in LEPR were treated with the MC4R agonist setmelanotide. Dermatological examination, dermoscopy, whole body photographic documentation, and spectrophotometric measurements were performed at screening visit and approximately every 3 months during the course of the study. RESULTS: We report the results of a maximum treatment duration of 46 months. Skin pigmentation increased in all treated patients, as confirmed by spectrophotometry. During continuous treatment, the current results indicate that elevated tanning intensity levels may stabilize over time. Lips and nevi also darkened. In red-haired study participants, hair color changed to brown after initiation of setmelanotide treatment. DISCUSSION: Setmelanotide treatment leads to skin tanning and occasionally hair color darkening in both POMC- and LEPR-deficient patients. No malignant skin changes were observed in the patients of this study. However, the results highlight the importance of regular skin examinations before and during MC4R agonist treatment."
+  },
+  {
+   "pmid": "39561769",
+   "titel": "Monoallelic pathogenic variants in LEPR do not cause obesity",
+   "jahr": "2024",
+   "journal": "Am J Hum Genet",
+   "erstautor": "Delplanque J",
+   "doi": "10.1016/j.ajhg.2024.10.014",
+   "typ": [
+    "Clinical Trial, Phase III",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Individuals with obesity caused by biallelic pathogenic LEPR (leptin receptor) variants can benefit from setmelanotide, the novel MC4R agonist. An ongoing phase 3 clinical trial (NCT05093634) includes individuals with obesity who carry a heterozygous LEPR variant, although the obesogenic impact of these variants remains incompletely evaluated. The aim of this study was to functionally assess heterozygous variants in LEPR and to evaluate their effect on obesity. We sequenced LEPR in ∼10,000 participants from the French RaDiO study. We found 86 rare heterozygous variants. Each identified variant was then investigated in vitro using luciferase and western blot assays. Using the criteria of the American College of Medical Genetics and Genomics (ACMG), including the strong criterion related to functional assays, we found 12 pathogenic LEPR variants. Most heterozygotes did not present with obesity, and we found no association between these pathogenic variants and body mass index (BMI). This lack of association between pathogenic LEPR variants and obesity risk or BMI was confirmed using exome data from 200,000 individuals in the UK Biobank. In the literature, among 55 reported heterozygotes for of a rare pathogenic LEPR variant, only 27% had obesity. In conclusion, monoallelic pathogenic LEPR variants were functionally tested, and they do not elevate the risk of obesity or BMI levels. This raises questions about the use of setmelanotide, a costly drug with potential side effects, based solely on the presence of a heterozygous LEPR variant."
+  },
+  {
+   "pmid": "36647077",
+   "titel": "Quality of life improvements following one year of setmelanotide in children and adult patients with Bardet-Biedl syndrome: phase 3 trial results",
+   "jahr": "2023",
+   "journal": "Orphanet J Rare Dis",
+   "erstautor": "Forsythe E",
+   "doi": "10.1186/s13023-022-02602-4",
+   "typ": [
+    "Clinical Trial, Phase III",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Bardet-Biedl syndrome is a rare genetic disease associated with hyperphagia and early-onset, severe obesity. There is limited evidence on how hyperphagia and obesity affect health-related quality of life in patients with Bardet-Biedl syndrome, and on how management of these symptoms may influence disease burden. This analysis evaluated changes in health-related quality of life in adults and children with Bardet-Biedl syndrome in a Phase 3 trial following 1 year of setmelanotide treatment (ClinicalTrials.gov identifier: NCT03746522). METHODS: Patients with Bardet-Biedl syndrome and obesity received 52 weeks of treatment with setmelanotide and completed various self-reported health-related quality of life measures. Patients aged < 18 years or their caregiver completed the Pediatric Quality of Life Inventory (PedsQL; meaningful improvement, 4.4-point change); adults aged ≥ 18 years completed the Impact of Weight on Quality of Life Questionnaire-Lite (IWQOL-Lite; meaningful improvement range, 7.7-12-point change). Descriptive outcomes were reported in patients with data both at active treatment baseline and after 52 weeks of treatment. RESULTS: Twenty patients (< 18 years, n = 9; ≥ 18 years, n = 11) reported health-related quality of life at baseline and 52 weeks. For children and adolescents, PedsQL score mean change from baseline after 52 weeks was + 11.2; all patients with PedsQL impairment at baseline (n = 4) experienced clinically meaningful improvement. In adults, IWQOL-Lite score mean change from baseline was + 12.0. Of adults with IWQOL-Lite impairment at baseline (n = 8), 62.5% experienced clinically meaningful improvement. In adults, IWQOL-Lite score was significantly correlated with changes in percent body weight (P = 0.0037) and body mass index (P = 0.0098). CONCLUSIONS: After 1 year of setmelanotide, patients reported clinically meaningful improvements across multiple health-related quality of life measures. This study highlights the need to address the impaired health-related quality of life in Bardet-Biedl syndrome, and supports utility of setmelanotide for reducing this burden. Trial Registration NCT03746522. Registered November 19, 2018, https://clinicaltrials.gov/ct2/show/NCT03746522 ."
+  },
+  {
+   "pmid": "29736023",
+   "titel": "MC4R agonism promotes durable weight loss in patients with leptin receptor deficiency",
+   "jahr": "2018",
+   "journal": "Nat Med",
+   "erstautor": "Clément K",
+   "doi": "10.1038/s41591-018-0015-9",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Genetic defects underlying the melanocortin-4 receptor (MC4R) signaling pathway lead to severe obesity. Three severely obese LEPR-deficient individuals were administered the MC4R agonist setmelanotide, resulting in substantial and durable reductions in hyperphagia and body weight over an observation period of 45-61 weeks. Compared to formerly developed and tested MC4R agonists, setmelanotide has the unique capability of activating nuclear factor of activated T cell (NFAT) signaling and restoring function of this signaling pathway for selected MC4R variants. Our data demonstrate the potency of setmelanotide in treatment of individuals with diverse MC4R-related pathway deficiencies."
+  }
+ ],
+ "metaanalysen": [
+  {
+   "pmid": "42008191",
+   "titel": "A systematic literature review of economic evaluations of setmelanotide",
+   "jahr": "2026",
+   "journal": "Eur J Clin Pharmacol",
+   "erstautor": "Belančić A",
+   "doi": "10.1007/s00228-026-04058-y",
+   "typ": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "abstract": "PURPOSE: This systematic literature review (SLR) aimed to assess the economic value of setmelanotide, a selective melanocortin-4 receptor agonist, in the treatment of rare genetic diseases of obesity (RGDOs), specifically Bardet-Biedl syndrome (BBS), pro-opiomelanocortin (POMC) deficiency, and leptin receptor (LEPR) deficiency. METHODS: The SLR was conducted according to PRISMA guidelines and registered on PROSPERO. Systematic searches were performed in Embase, MEDLINE/PubMed, and Global Health, supplemented by manual searches and reference screening. Inclusion criteria included full economic evaluations (cost-effectiveness and cost-utility analyses) published in English since 2019. Data extraction and quality assessment followed established checklists (BMJ, CHEERS 2022), with findings synthesised descriptively due to heterogeneity in study designs and settings. RESULTS: Four studies (one CEA, three CUAs) met inclusion criteria, all employing model-based frameworks from a healthcare payer perspective with a lifetime horizon. Incremental cost-effectiveness ratios (ICERs) varied: NICE appraisals in the UK suggested potentially favorable or even negative ICERs, while the Canadian CADTH review reported ICERs exceeding CAD $2 million/QALY, far above conventional willingness-to-pay thresholds. Key drivers included drug acquisition cost, severity of hyperphagia, and caregiver burden. All studies noted significant uncertainty due to limited long-term data and small patient populations. CONCLUSIONS: While setmelanotide demonstrates clinical benefit in RGDOs, its high cost poses substantial challenges to conventional pharmacoeconomic evaluations. Adoption may require significant price reductions or alternative value assessment frameworks, particularly for rare diseases. Further research is needed to address long-term effectiveness and ethical considerations in economic evaluations."
+  },
+  {
+   "pmid": "40513101",
+   "titel": "Biallelic pathogenic variants in POMC can cause combined pituitary hormonal deficiency associated with severe obesity",
+   "jahr": "2025",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Vitellius G",
+   "doi": "10.1093/ejendo/lvaf127",
+   "typ": [
+    "Journal Article",
+    "Case Reports",
+    "Systematic Review"
+   ],
+   "abstract": "OBJECTIVE: Biallelic variants in the pro-opiomelanocortin gene (POMC) can cause hypocortisolism, hypopigmentation, and early-onset obesity. Following the identification of 2 patients of combined pituitary hormone deficiency (CPHD), we investigated the prevalence of this association among carriers of rare pathogenic or likely pathogenic (P/LP) POMC variants. DESIGN: This study is a case report and systematic literature review. METHODS: Genetic analysis was conducted in a family with 2 cousins with childhood-onset obesity and CPHD. We assessed CPHD in carriers for biallelic pathogenic POMC variants using data from the literature and Human Gene Mutation Database. Clinical and biological data were collected, including pituitary axis involvement, obesity onset age, and pituitary imaging results. RESULTS: The 2 cousins, compound heterozygous for POMC variants, developed CPHD following initial hypocortisolism, with subsequent hypothyroidism, growth hormone deficiency, and hypogonadism. Among 41 patients with biallelic POMC variants identified in the literature, 20 had rare homozygous/compound heterozygous P/LP POMC variants and detailed endocrine evaluations. Of these, 40% presented with CPHD, always associated with early-onset severe obesity and hypocortisolism. Growth hormone deficiency was the most frequent (75%), followed by thyrotropic and gonadotropic deficiencies (62.5%). No anomalies were revealed in pituitary imaging. Two patients recovered the gonadotropic axis after treatment with the MC4R agonist. CONCLUSION: These findings underscore the potential for CPHD to occur in carriers of biallelic pathogenic POMC variants. Sequencing the full POMC, including coding and regulatory regions, is crucial in CPHD cases, alongside evaluating all pituitary axes in neonatal hypocortisolism. Beyond weight regulation, setmelanotide may modulate hypothalamic-pituitary function, with implications for fertility."
+  },
+  {
+   "pmid": "39924461",
+   "titel": "Adverse event profile of setmelanotide in obesity: an integrated assessment and systematic review using disproportionality analysis, case reports and meta-analysis",
+   "jahr": "2026",
+   "journal": "Expert Opin Drug Saf",
+   "erstautor": "Sridharan K",
+   "doi": "10.1080/14740338.2025.2465880",
+   "typ": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+   ],
+   "abstract": "BACKGROUND: Setmelanotide is approved for genetically determined obesity. While clinical trials and clinical evidence and practice provide some insights, a comprehensive assessment of its adverse event profile is needed that led to carrying out an assessment of reported adverse events in the USFDA Adverse Event Reporting System database, case reports and clinical trials. RESEARCH DESIGN AND METHODS: Multi-faceted analyses were carried out as follows: disproportionality measures employing frequentist and Bayesian methods; systematic review and meta-analysis (Medline, Cochrane CENTRAL and Google Scholar) generated-pooled estimates [proportion with 95% confidence intervals (CI)]; and published reports with adverse events to setmelanotide. RESULTS: The disproportionality analysis (n = 228) identified skin hyperpigmentation, injection-site reactions, nausea, melanocytic nevus and ephelides as key safety signals. Meta-analysis (seven trials; n = 185) confirmed high rates of injection-site reactions (96%; 95% CI: 89, 100), skin hyperpigmentation (62%; 95% CI: 43, 78), nausea (36%; 95% CI: 24, 49), vomiting (26%; 95% CI: 18, 34), and diarrhea (21%; 95% CI: 14, 29). Individual case reports corroborated these findings. CONCLUSION: This study provides a detailed overview of setmelanotide's adverse event profile, highlighting the need for careful patient monitoring, emphasizing the importance of ongoing safety surveillance for at least 1.5 years, and further research to refine patient management strategies."
+  },
+  {
+   "pmid": "35863294",
+   "titel": "A systematic review of licensed weight-loss medications in treating antipsychotic-induced weight gain and obesity in schizophrenia and psychosis",
+   "jahr": "2022",
+   "journal": "Gen Hosp Psychiatry",
+   "erstautor": "Lee K",
+   "doi": "10.1016/j.genhosppsych.2022.07.006",
+   "typ": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "abstract": "BACKGROUND: Schizophrenia and antipsychotic use are associated with clinically significant weight gain and subsequent increased mortality. Despite weight loss medications (WLMs) licensed by regulatory bodies (FDA, EMA, and MHRA) being available, current psychiatric guidelines recommend off-label alternatives, which differ from non-psychiatric guidelines for obesity. OBJECTIVE: Evaluate the efficacy of licensed WLMs on treating antipsychotic-induced weight gain (AIWG) and obesity in schizophrenia and psychosis (OSP). METHOD: A literature search was conducted using Medline, EMBASE, PsycINFO and Cochrane Library online databases for human studies using licensed WLMs to treat AIWG and OSP. RESULTS: Three RCTs (two liraglutide, one naltrexone-bupropion), one unpublished open-label trial (naltrexone-bupropion), and seven observational studies (five liraglutide, one semaglutide, one multiple WLMs) were identified. Results for liraglutide showed statistically significant improvement in weight, BMI, waist circumference, HbA1c, cholesterol, and LDL readings on meta-analysis. Evidence was mixed for naltrexone-bupropion with no detailed studies conducted for setmelanotide, or stimulants. CONCLUSION: Evidence is strongest for liraglutide compared to other licensed WLMs. The findings, particularly the inclusion of human trial data, provide evidence for liraglutide use in treating AIWG and OSP, which would better align psychiatric practice with non-psychiatric practices around obesity. The findings also identify continued literature gaps regarding other licensed WLMs."
+  },
+  {
+   "pmid": "34177811",
+   "titel": "Two Cases With an Early Presented Proopiomelanocortin Deficiency-A Long-Term Follow-Up and Systematic Literature Review",
+   "jahr": "2021",
+   "journal": "Front Endocrinol (Lausanne)",
+   "erstautor": "Gregoric N",
+   "doi": "10.3389/fendo.2021.689387",
+   "typ": [
+    "Case Reports",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+   ],
+   "abstract": "Proopiomelanocortin (POMC) deficiency is an extremely rare inherited autosomal recessive disorder characterized by severe obesity, adrenal insufficiency, skin hypopigmentation, and red hair. It is caused by pathogenic variants in the POMC gene that codes the proopiomelanocortin polypeptide which is cleaved to several peptides; the most notable ones are adrenocorticotropic hormone (ACTH), alpha- and beta-melanocyte-stimulating hormones (α-MSH and β-MSH); the latter two are crucial in melanogenesis and the energy balance by regulating feeding behavior and energy homeostasis through melanocortin receptor 4 (MC4R). The lack of its regulation leads to polyphagia and early onset severe obesity. A novel MC4R agonist, setmelanotide, has shown promising results regarding weight loss in patients with POMC deficiency. A systematic review on previously published clinical and genetic characteristics of patients with POMC deficiency and additional data obtained from two unrelated patients in our care was performed. A 25-year-old male patient, partly previously reported, was remarkable for childhood developed type 1 diabetes (T1D), transient growth hormone deficiency, and delayed puberty. The second case is a girl with an unusual presentation with central hypothyroidism and normal pigmentation of skin and hair. Of all evaluated cases, only 50% of patients had characteristic red hair, fair skin, and eye phenotype. Central hypothyroidism was reported in 36% of patients; furthermore, scarce adolescent data indicate possible growth axis dysbalance and central hypogonadism. T1D was unexpectedly prevalent in POMC deficiency, reported in 14% of patients, which could be an underestimation. POMC deficiency reveals to be a syndrome with several endocrinological abnormalities, some of which may become apparent with time. Apart from timely diagnosis, careful clinical follow-up of patients through childhood and adolescence for possible additional disease manifestations is warranted."
+  }
+ ],
+ "praeklinik": [
+  {
+   "pmid": "37191347",
+   "titel": "Current Treatments for Patients with Genetic Obesity",
+   "jahr": "2023",
+   "journal": "J Clin Res Pediatr Endocrinol",
+   "erstautor": "Faccioli N",
+   "doi": "10.4274/jcrpe.galenos.2023.2023-3-2",
+   "typ": [
+    "Review",
+    "Journal Article"
+   ],
+   "abstract": "Obesity derives from impaired central control of body weight, implying interaction between environment and an individual genetic predisposition. Genetic obesities, including monogenic and syndromic obesities, are rare and complex neuro-endocrine pathologies where the genetic contribution is predominant. Severe and early-onset obesity with eating disorders associated with frequent comorbidities make these diseases challenging. Their current estimated prevalence of 5-10% in severely obese children is probably underestimated due to the limited access to genetic diagnosis. A central alteration of hypothalamic regulation of weight implies that the leptin-melanocortin pathway is responsible for the symptoms. The management of genetic obesity has so far been only based, above all, on lifestyle intervention, especially regarding nutrition and physical activity. New therapeutic options have emerged in the last years for these patients, raising great hope to manage their complex situation and improve quality of life. Implementation of genetic diagnosis in clinical practice is thus of paramount importance to allow individualized care. This review describes the current clinical management of genetic obesity and the evidence on which it is based. Some insights will also be provided into new therapies under evaluation."
+  },
+  {
+   "pmid": "39083631",
+   "titel": "Setmelanotide",
+   "jahr": "2012",
+   "journal": "",
+   "erstautor": "",
+   "doi": "",
+   "typ": [
+    "Review"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "36943959",
+   "titel": "Setmelanotide",
+   "jahr": "2023",
+   "journal": "",
+   "erstautor": "Hussain A",
+   "doi": "",
+   "typ": [
+    "Study Guide"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "33638809",
+   "titel": "Setmelanotide: First Approval",
+   "jahr": "2021",
+   "journal": "Drugs",
+   "erstautor": "Markham A",
+   "doi": "10.1007/s40265-021-01470-9",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Setmelanotide (IMCIVREE™, Rhythm Pharmaceuticals) is a melanocortin-4 (MC4) receptor agonist developed for the treatment of obesity arising from proopiomelanocortin (POMC), proprotein convertase subtilisin/kexin type 1 (PCSK1), or leptin receptor (LEPR) deficiency. The drug has received its first approval in the USA for chronic weight management in patients 6 years and older with obesity caused by POMC, PCSK1 and LEPR deficiency and has been granted PRIority MEdicines (PRIME) designation by the European Medicines Agency for the treatment of obesity and the control of hunger associated with deficiency disorders of the MC4 receptor pathway. Setmelanotide is also being developed in other rare genetic disorders associated with obesity including Bardet-Biedl Syndrome, Alström Syndrome, POMC and other MC4R pathway heterozygous deficiency obesities, and POMC epigenetic disorders. This article summarizes the milestones in the development of setmelanotide leading to this first approval for obesity caused by POMC, PCSK1 and LEPR deficiency."
+  },
+  {
+   "pmid": "42672527",
+   "titel": "Setmelanotide",
+   "jahr": "2006",
+   "journal": "",
+   "erstautor": "",
+   "doi": "",
+   "typ": [
+    "Review"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "40995421",
+   "titel": "Pharmacotherapy for Obesity: Recent Updates",
+   "jahr": "2025",
+   "journal": "Clin Pharmacol",
+   "erstautor": "Fredrick TW",
+   "doi": "10.2147/CPAA.S497904",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "In this narrative review we describe the recent updates regarding anti-obesity medications as of February 2025. We describe the physiologic mechanisms underpinning the development of hunger, satiation, and maintenance of satiety to address targets for anti-obesity medications. The efficacy, mechanism, and additional beneficial effects of anti-obesity medications are then further detailed. For this review, we focus on FDA-approved medications for obesity and on select medications currently under development and undergoing Phase 2 and 3 trials. We start by focusing on the non-incretin anti-obesity medications orlistat, phentermine, phentermine-topiramate, and naltrexone-bupropion. We also highlight setmelanotide for heritable obesity. The mechanism of action and comparative efficacy of the GLP-1 receptor agonists liraglutide and semaglutide are reviewed. Tirzepatide, the GLP-1 and GIP-receptor dual agonist is described, and weight loss is compared to alternative anti-obesity medications. Additional incretin targets in the pipeline include dual co-agonists to glucagon and GLP-1 receptors, triple agonists targeting glucagon, GLP-1 and GIP, novel GLP-1 agonists, oral formulations of GLP-1 agonists, and amylin agonists. Finally, we provide best practices for adjuncts to pharmacologic treatments of obesity, monitoring efficacy of obesity treatments, and adjusting medication regimens for providers."
+  },
+  {
+   "pmid": "40932169",
+   "titel": "Leptin and leptin resistance in obesity: current evidence, mechanisms and future directions",
+   "jahr": "2025",
+   "journal": "Endocr Connect",
+   "erstautor": "Hu W",
+   "doi": "10.1530/EC-25-0521",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Leptin, a key adipokine regulating energy homeostasis, has been extensively studied for its potential in the management of obesity. However, its therapeutic efficacy is often limited due to leptin resistance. This review synthesizes animal and clinical evidence on leptin's role in obesity, focusing on models such as genetically deficient mice (e.g., ob/ob, db/db), diet-induced obesity mice, and clinical conditions such as congenital leptin deficiency (CLD), leptin receptor deficiency (LRD), lipodystrophy, and common obesity. The mechanisms underlying leptin resistance are summarized, including hyperleptinemia, impaired JAK2-STAT3 signaling, reduced blood-brain barrier permeability, defective autophagy, endoplasmic reticulum stress, inflammation, decreased leptin receptor expression, leptin signaling pathway dysfunction, increased mTOR activity, and peripheral leptin resistance. Due to these leptin receptor and/or post-receptor signaling pathway defects, leptin or its analogs usually fail to produce the expected weight-loss effect in individuals with overweight or obesity, although they remain highly effective in individuals with CLD and lipodystrophy, as well as in ob/ob mice. Alternative strategies, such as melanocortin-4 receptor (MC4R) agonists (e.g., setmelanotide) for LRD treatment, are very promising. Future directions include enhancing leptin sensitization, combining leptin with other drugs, and exploring partial leptin reduction to mitigate compensatory responses during weight loss. The review emphasizes the complexity of leptin resistance and the necessity of targeted approaches in obesity therapy."
+  },
+  {
+   "pmid": "36768472",
+   "titel": "Clinical Trials in Prader-Willi Syndrome: A Review",
+   "jahr": "2023",
+   "journal": "Int J Mol Sci",
+   "erstautor": "Mahmoud R",
+   "doi": "10.3390/ijms24032150",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Prader-Willi syndrome (PWS) is a complex, genetic, neurodevelopmental disorder. PWS has three molecular genetic classes. The most common defect is due to a paternal 15q11-q13 deletion observed in about 60% of individuals. This is followed by maternal disomy 15 (both 15 s from the mother), found in approximately 35% of cases. the remaining individuals have a defect of the imprinting center that controls the activity of imprinted genes on chromosome 15. Mild cognitive impairment and behavior problems in PWS include self-injury, anxiety, compulsions, and outbursts in childhood, impacted by genetic subtypes. Food seeking and hyperphagia can lead to morbid obesity and contribute to diabetes and cardiovascular or orthopedic problems. The control of hyperphagia and improving food-related behaviors are the most important unmet needs in PWS and could be addressed with the development of a new therapeutic agent, as currently no approved therapeutics exist for PWS treatment. The status of clinical trials with existing results for the management of obesity and hyperphagia in PWS will be discussed in this review, including treatments such as beloranib, setmelanotide, a diazoxide choline controlled-release tablet (DCCR), an unacylated ghrelin analogue, oxytocin and related compounds, glucagon-like peptide 1 receptor agonists, surgical intervention, and transcranial direct-current stimulation."
+  },
+  {
+   "pmid": "39526054",
+   "titel": "Setmelanotide: A Melanocortin-4 Receptor Agonist for the Treatment of Severe Obesity Due to Hypothalamic Dysfunction",
+   "jahr": "2024",
+   "journal": "touchREV Endocrinol",
+   "erstautor": "Qamar S",
+   "doi": "10.17925/EE.2024.20.2.9",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Obesity is a silent global pandemic. It is a condition associated with multiple risk factors and adverse outcomes that arise from the intertwined relationship between environmental factors and genetics. The genetic factors that cause phenotypic expression are variable. Monogenic obesity is a severe early-onset and rarer form of obesity, which presents with co-morbidities such as abnormal feeding behaviour. Monogenic obesity causes impaired weight regulation in the hypothalamus due to defects in the leptin-melanocortin signalling pathway. The emergence of a new therapeutic treatment, the melanocortin-4 receptor agonist setmelanotide (originally RM-493), has represented a breakthrough in the management of monogenic obesity and has raised hope in managing complex obesity. This review provides an overview of the setmelanotide trials that have taken place, as well as its mechanism of action, side effects and weight loss outcomes that led to its approval in the treatment of pro-opiomelanocortin (POMC) deficiency and proprotein convertase subtilisin/kexin type 1 (PCSK1) deficiency. It also explores setmelanotide's role in other genetic forms of obesity, such as hypothalamic obesity, Prader-Willi syndrome, Alström syndrome and other rare genetic conditions that are being investigated. This review aims to help to understand the pathophysiology of genetic obesity and aid in future treatment options for people with severe, complex genetic obesity."
+  },
+  {
+   "pmid": "33787829",
+   "titel": "Setmelanotide Acetate",
+   "jahr": "2021",
+   "journal": "Am J Health Syst Pharm",
+   "erstautor": "",
+   "doi": "10.1093/ajhp/zxab093",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "34783910",
+   "titel": "Drugs for Treating Obesity",
+   "jahr": "2022",
+   "journal": "Handb Exp Pharmacol",
+   "erstautor": "Ryan DH",
+   "doi": "10.1007/164_2021_560",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Older medications approved for chronic weight management (orlistat, naltrexone/bupropion, liraglutide 3 mg and, in the USA, phentermine/topiramate) have not been widely adopted by health care providers. Those medications produce only modest additional weight loss when used to augment lifestyle intervention. However, semaglutide 2.4 mg weekly has recently emerged and produces much more weight loss - on average 15% weight loss at 1 year. Semaglutide's enhanced efficacy and that its class (GLP-1 receptor analogs) is well-known may result in more clinicians adopting pharmacotherapy. Furthermore, the first dedicated cardiovascular outcome trial powered for superiority testing an anti-obesity medication (SELECT) is underway with semaglutide 2.4 mg. A positive outcome will further promote the concept that weight management should be a primary target for cardiometabolic disease control. In phase 3, tirzepatide and cagrilintide/semaglutide combination are showing promise for even greater weight loss efficacy. Another recently approved medication takes a personalized medicine approach; setmelanotide is approved as a therapy for those with some of the ultra-rare genetic diseases characterized by severe, early onset obesity. This chapter reviews the currently available and anticipated medications for chronic weight management as well as those approved for the genetic and syndromic obesities."
+  },
+  {
+   "pmid": "38383825",
+   "titel": "Bardet-Biedl syndrome: A clinical overview focusing on diagnosis, outcomes and best-practice management",
+   "jahr": "2024",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Shoemaker A",
+   "doi": "10.1111/dom.15494",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Bardet-Biedl syndrome (BBS) is a genetic disorder characterized by early-onset obesity, polydactyly, genital and kidney anomalies, developmental delay and vision loss due to rod-cone dystrophy. BBS is an autosomal recessive disorder with >20 implicated genes. The genotype-phenotype relationship in BBS is not clear, and there may be additional modifying factors. The underlying mechanism is dysfunction of primary cilia. In BBS, receptor trafficking in and out of the cilia is compromised, affecting multiple organ systems. Along with early-onset obesity, hyperphagia is a prominent symptom and contributes significantly to clinical morbidity and caregiver burden. While there is no cure for BBS, setmelanotide is a new pharmacotherapy approved for treatment of obesity in BBS. The differential diagnosis for BBS includes other ciliopathies, such as Alstrom syndrome, and other genetic obesity syndromes, such as Prader-Willi syndrome. Careful clinical history and genetic testing can help determine the diagnosis and a multidisciplinary team is necessary to guide clinical management."
+  },
+  {
+   "pmid": "38321079",
+   "titel": "Current and future state of pharmacological management of pediatric obesity",
+   "jahr": "2025",
+   "journal": "Int J Obes (Lond)",
+   "erstautor": "Fox CK",
+   "doi": "10.1038/s41366-024-01465-y",
+   "typ": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Pediatric obesity is a highly prevalent chronic disease, which has traditionally been treated with lifestyle therapy alone. Yet for many youth, lifestyle intervention as a monotherapy is often insufficient for achieving clinically significant and durable BMI reduction. While metabolic/bariatric surgery achieves robust and long-lasting outcomes, it is neither widely accessible nor wanted by most pediatric patients and families. In the past 3 years, this treatment gap between lifestyle therapy and metabolic/bariatric surgery has been filled with a number of landmark clinical trials examining the safety and efficacy of anti-obesity medication (AOM) for use in children and adolescents. These trials include studies of liraglutide, phentermine/topiramate ER, semaglutide, and setmelanotide, all of which have led to FDA and/or EMA approval. Concurrent with this developing evidence base, in 2023, the American Academy of Pediatrics published their first Clinical Practice Guideline on the assessment and management of childhood obesity. The Guideline includes the recommendation that pediatric health care providers should offer AOM to youth ages ≥12 years with obesity. Recognizing that AOM use in the pediatric population will likely become the standard of care and to provide perspective on the recently generated data regarding new AOM, this narrative review summarizes the published randomized controlled trials (RCTs) from the past 10 years that examine AOM for the pediatric population. This report additionally includes RCTs examining AOM for special populations of pediatric obesity including monogenic obesity, Bardet Biedl syndrome, Prader Willi syndrome, and hypothalamic obesity. Finally, the clinical application of AOM for children and adolescents, as well as future directions and challenges are discussed."
+  },
+  {
+   "pmid": "38450938",
+   "titel": "Acquired hypothalamic obesity: A clinical overview and update",
+   "jahr": "2024",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Roth CL",
+   "doi": "10.1111/dom.15530",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Hypothalamic obesity (HO) is a rare and complex disorder that confers substantial morbidity and excess mortality. HO is a unique subtype of obesity characterized by impairment in the key brain pathways that regulate energy intake and expenditure, autonomic nervous system function, and peripheral hormonal signalling. HO often occurs in the context of hypothalamic syndrome, a constellation of symptoms that follow from disruption of hypothalamic functions, for example, temperature regulation, sleep-wake circadian control, and energy balance. Genetic forms of HO, including the monogenic obesity syndromes, often impact central leptin-melanocortin pathways. Acquired forms of HO occur as a result of tumours impacting the hypothalamus, such as craniopharyngioma, surgery or radiation to treat those tumours, or other forms of hypothalamic damage, such as brain injury impacting the region. Risk for severe obesity following hypothalamic injury is increased with larger extent of hypothalamic damage or lesions that contain the medial and posterior hypothalamic nuclei that support melanocortin signalling pathways. Structural damage in these hypothalamic nuclei often leads to hyperphagia, central insulin and leptin resistance, decreased sympathetic activity, low energy expenditure, and increased energy storage in adipose tissue, the collective effect of which is rapid weight gain. Individuals with hyperphagia are perpetually hungry. They do not experience fullness at the end of a meal, nor do they feel satiated after meals, leading them to consume larger and more frequent meals. To date, most efforts to treat HO have been disappointing and met with limited, if any, long-term success. However, new treatments based on the distinct pathophysiology of disturbed energy homeostasis in acquired HO may hold promise for the future."
+  },
+  {
+   "pmid": "42475468",
+   "titel": "Bardet-Biedl Syndrome",
+   "jahr": "2026",
+   "journal": "",
+   "erstautor": "Patri JR",
+   "doi": "",
+   "typ": [
+    "Study Guide"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "40555693",
+   "titel": "The effects of anti-obesity medications on bone metabolism: A critical appraisal",
+   "jahr": "2025",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Anastasilakis AD",
+   "doi": "10.1111/dom.16541",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "The development of novel sophisticated medications that induce weight loss has revolutionized the management of people living with obesity (PwO). However, when body weight is reduced, muscle and bone are lost along with fat. In the present review, we quote and discuss existing evidence on the effects of the major anti-obesity medications on bone metabolism. Glucagon-like peptide-1 receptor (GLP-1R) agonists have shown a positive impact in preclinical studies but a neutral or negative, albeit not clinically significant, effect on bone turnover markers and bone mineral density in clinical studies. Nevertheless, fracture risk does not seem to increase with GLP-1R agonists use, at least in clinically relevant doses. Limited, mostly preclinical, data suggest that other incretin analogues, including dual GLP-1R and glucose-dependent insulinotropic polypeptide (GIP) receptor (GIPR) agonists, dual GLP-1R and glucagon receptor (GCGR) agonists, and triple GLP-1R, GIPR and GCGR agonists, may have a positive effect on bone. Preclinical data with amylin analogues imply the same. Activin type II receptor (ActRII) antagonists may combine anti-obesity effects with simultaneous muscle and bone mass preservation and could be used either as monotherapy or in combination with incretin analogues. The bone effects of opioid receptor antagonists and setmelanotide are largely unknown, while the impact of the combination of phentermine with topiramate is assumed to be negative. Finally, very limited clinical evidence suggests that orlistat may have a neutral effect on bone metabolism."
+  },
+  {
+   "pmid": "41205018",
+   "titel": "Craniopharyngioma - What's next",
+   "jahr": "2025",
+   "journal": "Pituitary",
+   "erstautor": "Müller HL",
+   "doi": "10.1007/s11102-025-01602-4",
+   "typ": [
+    "Editorial"
+   ],
+   "abstract": "Following the diagnosis of craniopharyngioma, patients frequently experience rapid and excessive weight gain resulting in morbid hypothalamic obesity. This condition is commonly attributed to damage to hypothalamic structures caused either by the tumor itself or its treatment. Hypothalamic obesity should be understood and managed within the broader clinical framework of hypothalamic syndrome, a complex condition characterized by multiple neuroendocrine deficiencies, disruption of circadian rhythms, dysregulation of hunger, satiety and thirst, altered thermoregulation, as well as cognitive, sleep-related, and psychosocial impairments. The long-term outlook for affected individuals is often poor, primarily due to an elevated risk of developing metabolic syndrome, cardiovascular disease, significant reductions in health-related quality of life, and increased risk of early mortality. Management of hypothalamic syndrome remains highly challenging. Recently, a risk-adapted, personalized treatment algorithm has been proposed to guide clinical care. Therapeutic interventions such as dextroamphetamine and other centrally acting stimulants, along with glucagon-like peptide-1 receptor (GLP-1R) agonists, and setmelanotide have shown potential in promoting weight reduction. Bariatric surgery has also demonstrated efficacy; however, the use of irreversible surgical techniques in pediatric populations remains ethically and legally contentious. This report summarizes perspectives of future research and clinical progress in diagnostics, treatment, and follow-up of patients with craniopharyngioma."
+  },
+  {
+   "pmid": "36992862",
+   "titel": "Pharmacotherapy of obesity: an update on the available medications and drugs under investigation",
+   "jahr": "2023",
+   "journal": "EClinicalMedicine",
+   "erstautor": "Chakhtoura M",
+   "doi": "10.1016/j.eclinm.2023.101882",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "UNLABELLED: Obesity is an epidemic and a public health threat. Medical weight management remains one of the options for the treatment of excess weight and recent advances have revolutionized how we treat, and more importantly how we will be treating obesity in the near future. Metreleptin and Setmelanotide are currently indicated for rare obesity syndromes, and 5 other medications (orlistat, phentermine/topiramate, naltrexone/bupropion, liraglutide, semaglutide) are approved for non-syndromic obesity. Tirzepatide is about to be approved, and other drugs, with exciting novel mechanisms of action primarily based on incretins, are currently being investigated in different phases of clinical trials. The majority of these compounds act centrally, to reduce appetite and increase satiety, and secondarily, in the gastrointestinal tract to slow gastric emptying. All anti-obesity medications improve weight and metabolic parameters, with variable potency and effects depending on the specific drug. The currently available data do not support a reduction in hard cardiovascular outcomes, but it is almost certain that such data are forthcoming in the very near future. The choice of the anti-obesity medication needs to take into consideration the patient's clinical and biochemical profile, co-morbidities, and drug contra-indications, as well as expected degree of weight loss and improvements in cardio-renal and metabolic risk. It also remains to be seen whether precision medicine may offer personalized solutions to individuals with obesity, and whether it may represent the future of medical weight management along with the development of novel, very potent, anti-obesity medications currently in the pipeline. FUNDING: None."
+  },
+  {
+   "pmid": "40514321",
+   "titel": "The management of hypothalamic obesity in craniopharyngioma",
+   "jahr": "2025",
+   "journal": "Best Pract Res Clin Endocrinol Metab",
+   "erstautor": "Dimitri P",
+   "doi": "10.1016/j.beem.2025.102018",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Hypothalamic obesity (HO) is a severe, treatment-refractory metabolic disorder resulting from hypothalamic injury secondary to craniopharyngioma directly or from its surgical resection. Characterised by dysregulated energy balance from disruption of complex hypothalamic neuroregulatory circuits, hyperphagia, and reduced sympathetic tone, HO arises due to impaired leptin-melanocortin signalling and autonomic dysfunction. Conventional lifestyle modifications remain largely ineffective, necessitating pharmacotherapeutic approaches targeting neuroendocrine and metabolic pathways. Amelioration of sleep disturbances and pituitary dysfunction serve as an important foundation for management of HO. The use of dextroamphetamine in some HO patients has proved effective. Emerging therapies include melanocortin-4 receptor (MC4R) agonists such as setmelanotide, which restore anorexigenic signalling, glucagon-like peptide-1 (GLP-1) receptor agonists that enhance satiety and energy expenditure, and combination strategies integrating adrenergic modulation (Tesomet). Despite promising preliminary data, long-term efficacy and safety profiles require further validation. Optimizing precision medicine approaches incorporating polypharmacotherapy and neuroendocrine modulation may redefine therapeutic paradigms for HO management."
+  },
+  {
+   "pmid": "39649687",
+   "titel": "Using Second-Generation Anti-Obesity Medications",
+   "jahr": "2024",
+   "journal": "Diabetes Spectr",
+   "erstautor": "Schmitz SH",
+   "doi": "10.2337/dsi24-0002",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Second-generation anti-obesity medications are more effective than their first-generation predecessors, resulting in an average weight loss of 15% when combined with lifestyle modifications. This article examines the efficacy and therapeutic implications of the three currently approved second-generation medications: setmelanotide for individuals with monogenic forms of obesity, semaglutide 2.4 mg, and tirzepatide. Particular emphasis is placed on the concurrent treatment of obesity and type 2 diabetes with semaglutide 2.4 mg and tirzepatide."
+  },
+  {
+   "pmid": "36156581",
+   "titel": "Person-centered choice of anti-obesity pharmacotherapy",
+   "jahr": "2022",
+   "journal": "J Pak Med Assoc",
+   "erstautor": "Kalra S",
+   "doi": "10.47391/JPMA.22-80",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Several novel drugs are being developed for the management of obesity. While this offers newer opportunities for weight management, it also creates challenges for the treating physician to choose the appropriate drug for a given patient in clinical practice. This communication provides a clinically oriented classification of anti-obesity medications, which will help in person-centered choice of therapy. It lists drugs as calorie restrictors (appetite suppressants), calorie restriction mimetics (absorption inhibitors), calorie substitutes (medical nutrition therapy), and calorie utilizers (energy expenditure enhancers). This novel classification will help provide a patient centered pharmacotherapy in the management of obesity."
+  },
+  {
+   "pmid": "39713072",
+   "titel": "Melanocortin 4 receptor mutation in obesity",
+   "jahr": "2024",
+   "journal": "World J Exp Med",
+   "erstautor": "Sridhar GR",
+   "doi": "10.5493/wjem.v14.i4.99239",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Obesity is increasingly prevalent worldwide, with genetic factors contributing to its development. The hypothalamic leptin-melanocortin pathway is central to the regulation of appetite and weight; leptin activates the proopiomelanocortin neurons, leading to the production of melanocortin peptides; these in turn act on melanocortin 4 receptors (MC4R) which suppress appetite and increase energy expenditure. MC4R mutations are responsible for syndromic and non-syndromic obesity. These mutations are classified based on their impact on the receptor's life cycle: i.e. null mutations, intracellular retention, binding defects, signaling defects, and variants of unknown function. Clinical manifestations of MC4R mutations include early-onset obesity, hyperphagia, and metabolic abnormalities such as hyperinsulinemia and dyslipidemia. Management strategies for obesity due to MC4R mutations have evolved with the development of targeted therapies such as Setmelanotide, an MC4R agonist which can reduce weight and manage symptoms without adverse cardiovascular effects. Future research directions must include expansion of population studies to better understand the epidemiology of MC4R mutations, exploration of the molecular mechanisms underlying MC4R signaling, and development of new therapeutic agents. Understanding the interaction between MC4R and other genetic and environmental factors will be key to advancing both the prevention and treatment of obesity."
+  },
+  {
+   "pmid": "42008191",
+   "titel": "A systematic literature review of economic evaluations of setmelanotide",
+   "jahr": "2026",
+   "journal": "Eur J Clin Pharmacol",
+   "erstautor": "Belančić A",
+   "doi": "10.1007/s00228-026-04058-y",
+   "typ": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "abstract": "PURPOSE: This systematic literature review (SLR) aimed to assess the economic value of setmelanotide, a selective melanocortin-4 receptor agonist, in the treatment of rare genetic diseases of obesity (RGDOs), specifically Bardet-Biedl syndrome (BBS), pro-opiomelanocortin (POMC) deficiency, and leptin receptor (LEPR) deficiency. METHODS: The SLR was conducted according to PRISMA guidelines and registered on PROSPERO. Systematic searches were performed in Embase, MEDLINE/PubMed, and Global Health, supplemented by manual searches and reference screening. Inclusion criteria included full economic evaluations (cost-effectiveness and cost-utility analyses) published in English since 2019. Data extraction and quality assessment followed established checklists (BMJ, CHEERS 2022), with findings synthesised descriptively due to heterogeneity in study designs and settings. RESULTS: Four studies (one CEA, three CUAs) met inclusion criteria, all employing model-based frameworks from a healthcare payer perspective with a lifetime horizon. Incremental cost-effectiveness ratios (ICERs) varied: NICE appraisals in the UK suggested potentially favorable or even negative ICERs, while the Canadian CADTH review reported ICERs exceeding CAD $2 million/QALY, far above conventional willingness-to-pay thresholds. Key drivers included drug acquisition cost, severity of hyperphagia, and caregiver burden. All studies noted significant uncertainty due to limited long-term data and small patient populations. CONCLUSIONS: While setmelanotide demonstrates clinical benefit in RGDOs, its high cost poses substantial challenges to conventional pharmacoeconomic evaluations. Adoption may require significant price reductions or alternative value assessment frameworks, particularly for rare diseases. Further research is needed to address long-term effectiveness and ethical considerations in economic evaluations."
+  },
+  {
+   "pmid": "33795520",
+   "titel": "Network dynamics of hypothalamic feeding neurons",
+   "jahr": "2021",
+   "journal": "Proc Natl Acad Sci U S A",
+   "erstautor": "Sweeney P",
+   "doi": "10.1073/pnas.2011140118",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ],
+   "abstract": "Mutations in the melanocortin 4 receptor (MC4R) result in hyperphagia and obesity and are the most common cause of monogenic obesity in humans. Preclinical rodent studies have determined that the critical role of the MC4R in controlling feeding can be mapped in part to its expression in the paraventricular nucleus of the hypothalamus (paraventricular nucleus [PVN]), where it regulates the activity of anorexic neural circuits. Despite the critical role of PVN MC4R neurons in regulating feeding, the in vivo neuronal activity of these cells remains largely unstudied, and the network activity of PVN MC4R neurons has not been determined. Here, we utilize in vivo single-cell endomicroscopic and mathematical approaches to determine the activity and network dynamics of PVN MC4R neurons in response to changes in energy state and pharmacological manipulation of central melanocortin receptors. We determine that PVN MC4R neurons exhibit both quantitative and qualitative changes in response to fasting and refeeding. Pharmacological stimulation of MC4R with the therapeutic MC4R agonist setmelanotide rapidly increases basal PVN MC4R activity, while stimulation of melanocortin 3 receptor (MC3R) inhibits PVN MC4R activity. Finally, we find that distinct PVN MC4R neuronal ensembles encode energy deficit and energy surfeit and that energy surfeit is associated with enhanced network connections within PVN MC4R neurons. These findings provide valuable insight into the neural dynamics underlying hunger and energy surfeit."
+  },
+  {
+   "pmid": "41129133",
+   "titel": "Glucagon-Like Peptide-1 Receptor Agonists and Age-Related Macular Degeneration",
+   "jahr": "2025",
+   "journal": "JAMA Ophthalmol",
+   "erstautor": "Ahuja AS",
+   "doi": "10.1001/jamaophthalmol.2025.3821",
+   "typ": [
+    "Journal Article",
+    "Multicenter Study",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "IMPORTANCE: Glucagon-like peptide-1 receptor agonists (GLP-1RAs) are increasingly used for weight loss, but their ocular effects in nondiabetic individuals remain unclear. Prior studies suggest GLP-1RA use reduced age-related macular degeneration (AMD) risk in patients with diabetes, but applicability to nondiabetic populations is unknown. OBJECTIVE: To evaluate the risk of developing nonexudative AMD and its progression to exudative AMD among patients with obesity but not diabetes prescribed GLP-1RAs compared with those prescribed other weight-loss drugs (OWLDs). DESIGN, SETTING, AND PARTICIPANTS: This retrospective cohort study used electronic health record data obtained from the multicenter TriNetX Global Collaborative Network on patients aged 55 years or older diagnosed with overweight or obesity but not diabetes from January 2004 to July 2025. For the primary analysis, patients with preexisting nonexudative AMD were excluded. For the secondary analysis, patients with preexisting nonexudative AMD were included, while those with preexisting exudative AMD were excluded. Propensity score matching balanced baseline demographics and comorbidities. Data were analyzed on March 21, 2025, and August 2, 2025. EXPOSURES: Patients were prescribed either the GLP-1RAs liraglutide or semaglutide or OWLDs including lorcaserin, sibutramine, setmelanotide, fenfluramine, mazindol, orlistat, phentermine, and diethylpropion. MAIN OUTCOMES AND MEASURES: The primary outcome was development of nonexudative AMD at 5, 7, and 10 years. The secondary outcome was progression to exudative AMD at 10 years. Risk ratios (RRs) with 95% CIs were calculated. Standardized mean differences were used to assess covariate balance after matching. RESULTS: A total of 91 408 patients were included. After propensity score matching for the primary analysis, 45 704 patients remained in each of the GLP-1RA and OWLD cohorts. The GLP-1RA cohort included 35 753 (78.2%) females and 7852 (17.2%) males with a mean (SD) age of 61.1 (5.76) years, while the OWLD cohort included 35 732 (78.2%) females and 7815 (17.1%) males with a mean [SD] age of 61.0 (5.86) years. Covariate balance was achieved across all variables for the GLP-1RA and OWLD cohorts in the primary analysis. GLP-1RA use was associated with reduced risk of nonexudative AMD compared with OWLDs at 5 years (RR, 0.16; 95% CI, 0.10-0.28; P < .001), 7 years (RR, 0.13; 95% CI, 0.08-0.22; P < .001), and 10 years (RR, 0.09; 95% CI, 0.05-0.16; P < .001). No differences were observed in progression to exudative AMD. CONCLUSIONS AND RELEVANCE: In this cohort study, GLP-1RA use was associated with reduced risk of developing nonexudative AMD but was not associated with progression to exudative AMD among individuals with nonexudative AMD. These findings may inform future randomized trials evaluating the ocular effects of GLP-1RAs in nondiabetic populations."
+  },
+  {
+   "pmid": "36722447",
+   "titel": "Setmelanotide: a promising advancement for pediatric patients with rare forms of genetic obesity",
+   "jahr": "2023",
+   "journal": "Curr Opin Endocrinol Diabetes Obes",
+   "erstautor": "Trapp CM",
+   "doi": "10.1097/MED.0000000000000798",
+   "typ": [
+    "Review",
+    "Journal Article"
+   ],
+   "abstract": "PURPOSE OF REVIEW: Examine Setmelanotide use in patients with rare genetic variants that disrupt the melanocortin pathway. RECENT FINDINGS: Between February 2017 and September 2018, 10 participants with pro-opiomelanocortin (POMC)/ proprotein convertase subtilisin/kexin type 1 (PCSK1) deficiency and 11 participants with leptin receptor (LEPR) deficiency were enrolled in open-label, phase 3 trials at 10 centers in the United States and internationally to assess the efficacy and safety of the melanocortin-4 receptor (MC4R) agonist Setmelanotide. 80% of POMC participants and 45% of LEPR participants achieved at least 10% weight loss at 1 year. Significant changes in hunger scores were seen for both cohorts as well. Setmelanotide was well tolerated with injection site reactions and hyperpigmentation being the most common adverse events reported. As a result, Setmelanotide was approved by the U.S. FDA in 2020 for chronic weight management in adult and pediatric patients ≥6 years of age with POMC, LEPR, or PCSK1 deficiency. In 2022, its approval was extended to include patients with Bardet-Biedel syndrome (BBS) after phase 3 trial data showed that, on average, Setmelanotide treatment resulted in a BMI loss of 7.9% for the 44 BBS participants. SUMMARY: Rare genetic variants such as POMC, LEPR, and PCSK1 deficiency disrupt MC4R pathway signaling, resulting in severe early-onset obesity, hyperphagia, and increased risk for metabolic co-morbidities. Patients with BBS also demonstrate severe early-onset obesity and hyperphagia, due in part to defective MC4R signaling. Setmelanotide has shown promising benefits in improving satiety scores and weight-related outcomes in patients with these early-life genetic obesity conditions, although longer-term studies are needed."
+  },
+  {
+   "pmid": "41927456",
+   "titel": "A new era in childhood obesity",
+   "jahr": "2026",
+   "journal": "Trends Endocrinol Metab",
+   "erstautor": "Martos-Moreno GÁ",
+   "doi": "10.1016/j.tem.2026.03.006",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Advances in our understanding of hypothalamic control of energy homeostasis have resulted in the identification of genetic forms of obesity, both syndromic and nonsyndromic, with some precision treatments now being employed. In this review article, we examine the progress being made in identifying new genes involved in the hypothalamic leptin-melanocortin system and their possible implications in obesity, as well as other potential clinical features. We include an update on clinical trials in genetic obesity with specific pharmacological treatments, such as agonists for the melanocortin 4 receptor, and for glucagon-like peptide-1 receptor. The possibility of employing new precision drug targets in specific forms of obesity is modifying the approach to disease treatment in the pediatric clinic."
+  },
+  {
+   "pmid": "34544109",
+   "titel": "Setmelanotide (Imcivree) for rare genetic forms of obesity",
+   "jahr": "2021",
+   "journal": "Med Lett Drugs Ther",
+   "erstautor": "",
+   "doi": "",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "37511966",
+   "titel": "Pediatric Obesity: Complications and Current Day Management",
+   "jahr": "2023",
+   "journal": "Life (Basel)",
+   "erstautor": "Vajravelu ME",
+   "doi": "10.3390/life13071591",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Obesity affects approximately 1 in 5 youth globally and increases the risk of complications during adolescence and young adulthood, including type 2 diabetes, dyslipidemia, hypertension, non-alcoholic fatty liver disease, obstructive sleep apnea, and polycystic ovary syndrome. Children and adolescents with obesity frequently experience weight stigma and have an impaired quality of life, which may exacerbate weight gain. Pediatric obesity is typically defined using sex-, age-, and population-specific body mass index percentiles. Once identified, pediatric obesity should always be managed with lifestyle modification. However, adolescents with obesity may also benefit from anti-obesity medications (AOM), several of which have been approved for use in adolescents by the US Food and Drug Administration, including liraglutide, phentermine/topiramate, and semaglutide. For children with specific, rare monogenic obesity disorders, setmelanotide is available and may lead to significant weight loss. Metabolic and bariatric surgery may be used for the management of severe obesity in youth; though highly effective, it is limited to specialized centers and has had relatively low pediatric uptake. In this narrative review using pediatric-focused data from original research, reviews, clinical practice guidelines, governmental agencies, and pharmaceutical companies, we review obesity-related metabolic complications in youth and management strategies, including AOM and bariatric surgery."
+  },
+  {
+   "pmid": "38301066",
+   "titel": "",
+   "jahr": "2023",
+   "journal": "",
+   "erstautor": "",
+   "doi": "",
+   "typ": [
+    "Review"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "40278869",
+   "titel": "[Pharmacotherapy of obesity in Germany]",
+   "jahr": "2025",
+   "journal": "Inn Med (Heidelb)",
+   "erstautor": "Blüher M",
+   "doi": "10.1007/s00108-025-01897-2",
+   "typ": [
+    "English Abstract",
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Pharmacotherapy is part of a comprehensive guideline-conform treatment concept for people with obesity. The foundation of obesity treatment is initially a conservative multimodal basic treatment and consists of a low-energy diet, increased physical activity and behavioral changes. If the individual treatment goals are not achieved with this approach, medications can support the basic treatment. The concept is that drugs should not only achieve weight reduction and stabilization of the reduced body weight but also provide better long-term treatment for the chronic multisystem disease obesity. The incretin-based pharmacotherapy with liraglutide, semaglutide and tirzepatide, which have been introduced in recent years, have not only pronounced weight-reducing but also beneficial cardiometabolic effects. These include improvements in obesity-related comorbidities, such as type 2 diabetes, hypertension, fatty liver disease, obstructive sleep apnea, cardiovascular risk factors, chronic kidney disease and others. In contrast, incretin-based pharmacotherapy is typically associated with mild to moderate gastrointestinal side effects. With the marketing launch of setmelanotide, a medication became available for the treatment of rare monogenic forms of obesity. In addition, numerous incretin-based active agents and new substance classes are in advanced phases of clinical development. Due to their favorable efficacy and side effect profiles and also with respect to the positive cardiometabolic effects, the new drugs have the potential to significantly increase the importance of pharmacotherapy of obesity in Germany. Die medikamentöse Therapie ist Bestandteil eines umfassenden, leitliniengerechten Behandlungskonzepts für Menschen mit Adipositas. Grundlage der Adipositastherapie ist zunächst eine konservative multimodale Basistherapie, bestehend aus energiereduzierter Ernährung, Erhöhung der körperlichen Aktivität und Verhaltensänderungen. Wenn mit diesen Maßnahmen individuelle Therapieziele nicht erreicht werden, können Medikamente die Basistherapie unterstützen. Konzeptionell soll mit Medikamenten nicht nur eine Gewichtsreduktion und -stabilisierung des reduzierten Gewichts erreicht, sondern die chronische Multisystemerkrankung Adipositas langfristig besser behandelt werden. Die in den letzten Jahren eingeführten inkretinbasierten Pharmakotherapien Liraglutid, Semaglutid und Tirzepatid haben neben ausgeprägten gewichtsreduzierenden auch günstige kardiometabolische Effekte. Dazu zählen Verbesserungen in Adipositasbegleiterkrankungen wie Typ-2-Diabetes, Hypertonie, Fettlebererkrankungen, dem obstruktiven Schlafapnoesyndrom, kardiovaskulären Risikofaktoren, der chronischen Nierenerkrankung und anderen. Demgegenüber stehen meist milde bis moderate gastrointestinale Nebenwirkungen dieser Substanzen. Mit der Markteinführung von Setmelanotid steht erstmals eine Substanz zur Behandlung von seltenen, monogenetischen Adipositasformen zur Verfügung. Zusätzlich befinden sich zahlreiche inkretinbasierte Wirkstoffe und neue Substanzklassen in fortgeschrittenen Phasen der klinischen Entwicklung. Aufgrund ihres günstigen Wirkungs- und Nebenwirkungsprofils, aber auch im Hinblick auf die positiven kardiometabolischen Effekte haben die neuen Medikamente das Potenzial, den Stellenwert der Adipositaspharmakotherapie in Deutschland deutlich zu erhöhen."
+  },
+  {
+   "pmid": "39919873",
+   "titel": "Management of Obesity-Related Genetic Disorders",
+   "jahr": "2025",
+   "journal": "Endocrinol Metab Clin North Am",
+   "erstautor": "Esbati R",
+   "doi": "10.1016/j.ecl.2024.11.001",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Obesity-related genetic disorders are marked by severe, early-onset obesity caused by mutations that disrupt key biological mechanisms regulating hunger, energy balance, and fat storage. These disorders commonly impact systems such as the hypothalamic leptin-melanocortin signaling network, which plays a crucial role in controlling appetite and body weight, mainly through the melanocortin-4 receptor (MC4R) pathway. This review explores current management strategies and emerging therapies for genetic obesity disorders, highlighting the importance of treatment approaches and expanded genetic diagnostics to improve outcomes for affected individuals."
+  },
+  {
+   "pmid": "40426846",
+   "titel": "Management of Acquired Hypothalamic Obesity After Childhood-Onset Craniopharyngioma-A Narrative Review",
+   "jahr": "2025",
+   "journal": "Biomedicines",
+   "erstautor": "Müller HL",
+   "doi": "10.3390/biomedicines13051016",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Introduction: Craniopharyngiomas are rare sellar embryonic malformational tumors of low-grade histological malignancy. Despite high overall survival rates (92%), quality of life is frequently reduced due to adverse late effects caused by hypothalamic obesity. It is well known that morbid hypothalamic obesity is associated with the grade of hypothalamic damage. Accordingly, craniopharyngioma should be considered a paradigmatic disease, reflecting challenges in the diagnosis and treatment of acquired hypothalamic obesity. Methods: A narrative review was performed after searching the MEDLINE/PubMed, Embase, and Web of Science databases for initial identifying articles. The search terms childhood-onset craniopharyngioma and hypothalamic obesity were used. Results: Despite the availability of promising therapeutic approaches, such as medication with central stimulating agents, antidiabetic drugs, glucagon-like peptide 1 (GLP1) receptor agonists, and Setmelanotide, it must be emphasized that there is currently no pharmaceutical treatment for hypothalamic obesity in craniopharyngioma proven to be effective in randomized controlled trials. For Setmelanotide, a prospective blinded randomized trial over a 12-month treatment period is ongoing. Bariatric interventions are effective, but non-reversible procedures such as bypass operations are controversial in the pediatric age group due to legal and ethical concerns. Recently, a treatment algorithm was introduced to improve the management of hypothalamic syndrome/obesity by offering more personalized treatment. Decisions on treatment strategies focusing on the preservation of visual, neuroendocrine, and hypothalamic integrity should be made by experienced multidisciplinary teams. Conclusions: Treatment approaches for hypothalamic obesity are limited. Further research on novel treatment approaches for hypothalamic obesity is warranted to improve the quality of life after childhood-onset craniopharyngioma."
+  },
+  {
+   "pmid": "34518444",
+   "titel": "Next Generation Antiobesity Medications: Setmelanotide, Semaglutide, Tirzepatide and Bimagrumab: What do They Mean for Clinical Practice?",
+   "jahr": "2021",
+   "journal": "J Obes Metab Syndr",
+   "erstautor": "Ryan DH",
+   "doi": "10.7570/jomes21033",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "There is a new generation of antiobesity drugs in development or just arriving on the scene. First, setmelanotide has been approved for three of the ultrarare genetic conditions that cause obesity-pro-opiomelanocortin deficiency, proprotein convertase subtilisin and kexin type 1 (an important enzyme in the melanocortin pathway) and leptin receptor deficiency. Setmelanotide marks the first in a personalized medicine approach to obesity. Second, semaglutide 2.4 mg once weekly has been submitted to regulators in the United States and the European Union for approval for patients with obesity (body mass index [BMI] ≥30 kg/m2) or overweight (BMI ≥27 kg/m2) and at least one weight related comorbidity. This drug has been studied in five phase 3 clinical trials, four discussed herein: semaglutide produces roughly twice as much weight loss as we have seen in older antiobesity medications. Semaglutide is already in use for treatment of diabetes and, as a glucagon-like peptide 1 (GLP-1) receptor analog, is part of a class of drugs used widely in diabetes. Tirzepatide, a glucose-insulin peptide and GLP-1 dual agonist is in phase 3 study for obesity management, and bimagrumab is a new agent in phase 2 with a unique mechanism of action; they are generating much interest. The purpose of this narrative review is lay the groundwork for a discussion of the clinical impact of these new medications on the clinical practice of obesity. Further, these developments shall be used to launch a speculation of what is likely to be their impact on the future of obesity pharmacotherapy."
+  },
+  {
+   "pmid": "36009013",
+   "titel": "A Setmelanotide-like Effect at MC4R Is Achieved by MC4R Dimer Separation",
+   "jahr": "2022",
+   "journal": "Biomolecules",
+   "erstautor": "Reininghaus N",
+   "doi": "10.3390/biom12081119",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Melanocortin 4 receptor (MC4R) is part of the leptin-melanocortin pathway and plays an essential role in mediating energy homeostasis. Mutations in the MC4R are the most frequent monogenic cause for obesity. Due to increasing numbers of people with excess body weight, the MC4R has become a target of interest in the search of treatment options. We have previously reported that the MC4R forms homodimers, affecting receptor Gs signaling properties. Recent studies introducing setmelanotide, a novel synthetic MC4R agonist, suggest a predominant role of the Gq/11 pathway regarding weight regulation. In this study, we analyzed effects of inhibiting homodimerization on Gq/11 signaling using previously reported MC4R/CB1R chimeras. NanoBRETTM studies to determine protein-protein interaction were conducted, confirming decreased homodimerization capacities of chimeric receptors in HEK293 cells. Gq/11 signaling of chimeric receptors was analyzed using luciferase-based reporter gene (NFAT) assays. Results demonstrate an improvement of alpha-MSH-induced NFAT signaling of chimeras, reaching the level of setmelanotide signaling at wild-type MC4R (MC4R-WT). In summary, our study shows that inhibiting homodimerization has a setmelanotide-like effect on Gq/11 signaling, with chimeric receptors presenting increased potency compared to MC4R-WT. These findings indicate the potential of inhibiting MC4R homodimerization as a therapeutic target to treat obesity."
+  },
+  {
+   "pmid": "36063022",
+   "titel": "From a Cone Snail Toxin to a Competitive MC4R Antagonist",
+   "jahr": "2022",
+   "journal": "J Med Chem",
+   "erstautor": "Reynaud S",
+   "doi": "10.1021/acs.jmedchem.2c00786",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The melanocortin 4 receptor (MC4R) plays a role in energy homeostasis and represents a target for treating energy balance disorders. For decades, synthetic ligands have been derived from MC4R endogenous agonists and antagonists, such as setmelanotide used to treat rare forms of genetic obesity. Recently, animal venoms have demonstrated their capacity to provide melanocortin ligands with toxins from a scorpion and a spider. Here, we described a cone snail toxin, N-CTX-Ltg1a, with a nanomolar affinity for hMC4R but unrelated to any known toxins or melanocortin ligands. We then derived from the conotoxin the linear peptide HT1-0, a competitive antagonist of Gs, G15, and β-arrestin2 pathways with a low nanomolar affinity for hMC4R. Similar to endogenous ligands, HT1-0 needs hydrophobic and basic residues to bind hMC4R. Altogether, it represents the first venom-derived peptide of high affinity on MC4R and paves the way for the development of new MC4R antagonists."
+  },
+  {
+   "pmid": "40206909",
+   "titel": "Comparative Effectiveness of Semaglutide, Liraglutide, Orlistat, and Phentermine for Weight Loss in Obese Individuals: A Systematic Review",
+   "jahr": "2025",
+   "journal": "Cureus",
+   "erstautor": "Patel JP",
+   "doi": "10.7759/cureus.80321",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Obesity, a multifaceted and chronic condition characterized by excessive fat accumulation, poses significant risks to overall health and is associated with various metabolic and cardiovascular complications. This literature review evaluates and compares the effectiveness of four pharmacological agents semaglutide, liraglutide, orlistat, phentermine, and emerging agents like setmelanotide, amycretin, retatrutide, cagrilintide, and cotadutide in managing weight loss among obese. A detailed analysis was conducted on their mechanisms of action, dosing regimens, efficacy in weight loss, safety profiles, and their impact on obesity-related comorbidities. Although all agents presented distinct benefits, side effects such as gastrointestinal discomfort with orlistat and GLP-1 receptor agonists, and potential dependency with phentermine, necessitate tailored treatment approaches. This review highlights the importance of integrating pharmacotherapy with lifestyle interventions to achieve sustainable weight management and identifies areas for future research to optimize therapeutic outcomes for individuals with obesity."
+  },
+  {
+   "pmid": "40186386",
+   "titel": "Hyperphagia in Bardet-Biedl syndrome: Pathophysiology, burden, and management",
+   "jahr": "2025",
+   "journal": "Obes Rev",
+   "erstautor": "Beales PL",
+   "doi": "10.1111/obr.13915",
+   "typ": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Bardet-Biedl syndrome (BBS) is a rare, genetically heterogeneous, and highly pleiotropic autosomal recessive ciliopathy. Patients typically present with early loss of vision, hyperphagia, severe obesity, learning difficulties, and renal dysfunction. In patients with BBS, dysfunction of the immotile primary cilia in the hypothalamic melanocortin-4 receptor (MC4R) pathway responsible for controlling energy balance, hunger, and satiety results in severe hyperphagia manifesting in food-seeking behaviors that drive the development of obesity early in childhood. These behaviors have negative impacts on many areas of the lives of patients with BBS and their families/caregivers, including sleep, mood, school/work, and social/family relationships. Additionally, many patients feel stigmatized due to their hyperphagia-associated food-seeking behaviors and the resulting obesity, which exacerbates the impacts of hyperphagia on quality of life. Early identification and management of hyperphagia in patients with BBS is key: mitigating food-seeking and weight gain can improve quality of life and reduce the risk of metabolic and cardiovascular diseases that is increased in patients with BBS. Until recently, the only treatment strategies available were lifestyle and diet modifications. However, targeted treatment with the novel MC4R agonist setmelanotide now offers an effective management option to reduce hyperphagia and weight in patients with BBS, improving overall health and quality of life."
+  },
+  {
+   "pmid": "42538728",
+   "titel": "Melanocortin-4 Receptor Regulation of Endocrine Axes and Clinical Effects of Setmelanotide",
+   "jahr": "2026",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Hühne T",
+   "doi": "10.1210/clinem/dgag293",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: Bardet-Biedl syndrome (BBS) is a rare ciliopathy characterized by early-onset obesity and multisystem endocrine dysfunction. The melanocortin-4 receptor (MC4R) agonist setmelanotide is approved for hyperphagia-related obesity in BBS, but its endocrine effects remain incompletely understood. METHODS: In this prospective single-centre observational cohort study, 58 genetically confirmed BBS patients initiating setmelanotide therapy were followed longitudinally. Linear mixed-effects models adjusted for age, sex, and BMI z-score were used to evaluate changes over time. FINDINGS: After 6 months, significant reductions in BMI and HbA1c were observed. Treatment was associated with increases in gonadotropins and testosterone and estradiol age-dependently. IGF-1 levels increased independently of weight change, while TSH decreased without corresponding changes in peripheral thyroid hormones. These effects were established within the first 6 months and remained stable thereafter. INTERPRETATION: Setmelanotide exerts pleiotropic effects beyond weight reduction, modulating multiple endocrine axes in BBS. The observed changes highlight MC4R signaling pathway as a key integrator of metabolic and endocrine function and suggest partially weight-independent therapeutic effects. FUNDING: German Federal Ministry of Research and Education and Rhythm Pharmaceuticals."
+  },
+  {
+   "pmid": "41401696",
+   "titel": "SAR investigation and synergistic optimization of setmelanotide yields a potent, selective, and soluble MC4R agonist",
+   "jahr": "2026",
+   "journal": "Bioorg Chem",
+   "erstautor": "Guo C",
+   "doi": "10.1016/j.bioorg.2025.109370",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The bioactive peptide setmelanotide is a validated MC4R agonist, yet its clinical utility is constrained by poor aqueous solubility and dose-limiting, off-target hyperpigmentation. To overcome these dual liabilities, we executed a synergistic optimization strategy guided by detailed SAR investigation. This approach unveiled two critical design principles: a C-terminal \"cationic imperative\", where lysine uniquely conferred a > 20-fold solubility enhancement while retaining potency, and rational manipulation of the core pharmacophore, which imparted >100-fold selectivity over MC1R/MC3R. This synergy yielded the lead compound SC19, which integrates these features into a balanced profile of sub-nanomolar potency (EC₅₀ = 0.12 nM; pEC₅₀ = 9.93), exceptional selectivity, and high aqueous solubility. In a diet-induced obesity model, SC19 demonstrated robust efficacy comparable to setmelanotide in reducing weight gain and improving lipid profiles, affirming its therapeutic potential. This work not only presents a promising lead compound but also validates a synergistic optimization blueprint for concurrently enhancing the pharmacological and drug-like properties of therapeutic peptides."
+  }
+ ],
+ "ctgov": [
+  {
+   "nct": "NCT03746522",
+   "titel": "Setmelanotide (RM-493), Melanocortin-4 Receptor (MC4R) Agonist, in Bardet-Biedl Syndrome (BBS) and Alström Syndrome (AS) Participants With Moderate to Severe Obesity",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 52,
+   "start": "2018-11-23",
+   "ende": "2021-03-08",
+   "erkrankungen": [
+    "Bardet Biedl Syndrome (BBS)",
+    "Alström Syndrome (AS)"
+   ],
+   "sponsor": "Rhythm Pharmaceuticals, Inc.",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT01749137",
+   "titel": "Phase 2 Study to Evaluate Safety and Efficacy of RM-493 in Obese Participants",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 74,
+   "start": "2013-01-14",
+   "ende": "2013-09-28",
+   "erkrankungen": [
+    "Overweight"
+   ],
+   "sponsor": "Rhythm Pharmaceuticals, Inc.",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT05774756",
+   "titel": "A Trial of Setmelanotide in Acquired Hypothalamic Obesity",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 143,
+   "start": "2023-04-26",
+   "ende": "2027-04-16",
+   "erkrankungen": [
+    "Hypothalamic Obesity"
+   ],
+   "sponsor": "Rhythm Pharmaceuticals, Inc.",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT02311673",
+   "titel": "Phase 2 Trial to Evaluate Safety and Efficacy of Setmelanotide (RM-493) in Obese Participants With Prader-Willi Syndrome",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 40,
+   "start": "2015-03-19",
+   "ende": "2016-10-26",
+   "erkrankungen": [
+    "Prader-Willi Syndrome"
+   ],
+   "sponsor": "Rhythm Pharmaceuticals, Inc.",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT05183802",
+   "titel": "An Expanded Access Protocol for Setmelanotide for Treatment of Bardet-Biedl Syndrome (BBS)",
+   "phase": "",
+   "typ": "EXPANDED_ACCESS",
+   "status": "APPROVED_FOR_MARKETING",
+   "teilnehmende": null,
+   "start": null,
+   "ende": null,
+   "erkrankungen": [
+    "Bardet-Biedl Syndrome (BBS)",
+    "Obesity"
+   ],
+   "sponsor": "Rhythm Pharmaceuticals, Inc.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT02896192",
+   "titel": "Setmelanotide for the Treatment of Early-Onset Pro-Opiomelanocortin (POMC) Deficiency Obesity",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 15,
+   "start": "2017-02-14",
+   "ende": "2020-05-25",
+   "erkrankungen": [
+    "Pro-opiomelanocortin (POMC) Deficiency Obesity"
+   ],
+   "sponsor": "Rhythm Pharmaceuticals, Inc.",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT06772597",
+   "titel": "A Study of Setmelanotide in Patients With Prader-Willi Syndrome",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 18,
+   "start": "2025-03-04",
+   "ende": "2027-10-31",
+   "erkrankungen": [
+    "Prader-Willi Syndrome",
+    "Obesity",
+    "Hyperphagia"
+   ],
+   "sponsor": "Rhythm Pharmaceuticals, Inc.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06760546",
+   "titel": "A Trial of Setmelanotide in Patients With Congenital Hypothalamic Obesity (Sub-study of NCT05774756)",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 39,
+   "start": "2025-09-23",
+   "ende": "2028-03-13",
+   "erkrankungen": [
+    "Hypothalamic Obesity",
+    "Multiple Pituitary Hormone Deficiency Genetic Form",
+    "Septo-Optic Dysplasia",
+    "Optic Nerve Hypoplasia",
+    "Childhood-onset Combined Pituitary Hormone Deficiency",
+    "Pituitary Stalk Interruption Syndrome"
+   ],
+   "sponsor": "Rhythm Pharmaceuticals, Inc.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT02041195",
+   "titel": "Phase 1b/2a Study to Evaluate Safety and Efficacy of Setmelanotide in Obese Patients",
+   "phase": "PHASE1,PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 99,
+   "start": "2014-01",
+   "ende": "2014-12",
+   "erkrankungen": [
+    "Overweight and Obesity"
+   ],
+   "sponsor": "Rhythm Pharmaceuticals, Inc.",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT05093634",
+   "titel": "EMANATE: A Study of Setmelanotide in Patients With Specific Gene Variants in the MC4R Pathway",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 296,
+   "start": "2021-12-10",
+   "ende": "2026-06-30",
+   "erkrankungen": [
+    "Obesity",
+    "Genetic Obesity"
+   ],
+   "sponsor": "Rhythm Pharmaceuticals, Inc.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT03287960",
+   "titel": "Setmelanotide for the Treatment of Leptin Receptor (LEPR) Deficiency Obesity",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 15,
+   "start": "2018-01-30",
+   "ende": "2020-09-25",
+   "erkrankungen": [
+    "Leptin Receptor Deficiency Obesity"
+   ],
+   "sponsor": "Rhythm Pharmaceuticals, Inc.",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT05812183",
+   "titel": "Gastric Sleeve-Induced Weight Loss on Shortness of Breath in Obesity",
+   "phase": "PHASE4",
+   "typ": "INTERVENTIONAL",
+   "status": "WITHDRAWN",
+   "teilnehmende": 0,
+   "start": "2023-07-09",
+   "ende": "2025-02-12",
+   "erkrankungen": [
+    "Dyspnea",
+    "Quality of Life"
+   ],
+   "sponsor": "University of California, Los Angeles",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07496463",
+   "titel": "Setmelanotide to Treat Obesity in a Patient With Pseudohypoparathyroidism Type 1a (PHP1a)",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "ENROLLING_BY_INVITATION",
+   "teilnehmende": 1,
+   "start": "2026-07-21",
+   "ende": "2027-04-30",
+   "erkrankungen": [
+    "Pseudohypoparathyroidism Type 1a",
+    "Obesity"
+   ],
+   "sponsor": "Massachusetts General Hospital",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT02431442",
+   "titel": "Study to Evaluate Safety, Tolerability, Pharmacokinetics and Pharmacodynamics of RM-493 Administered to Healthy, Obese, Non-diabetic Volunteers",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 57,
+   "start": "2012-01",
+   "ende": "2014-01",
+   "erkrankungen": [
+    "Overweight",
+    "Obese"
+   ],
+   "sponsor": "Rhythm Pharmaceuticals, Inc.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05194124",
+   "titel": "Phase 3 Crossover Trial of Two Formulations of Setmelanotide in Participants With Specific Gene Defects in the MC4R Pathway",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 19,
+   "start": "2021-12-21",
+   "ende": "2023-10-19",
+   "erkrankungen": [
+    "Bardet-Biedl Syndrome",
+    "POMC Deficiency"
+   ],
+   "sponsor": "Rhythm Pharmaceuticals, Inc.",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT04348175",
+   "titel": "A Phase 1 Study to Evaluate the Pharmacokinetics of Setmelanotide in Subjects With Varying Degrees of Renal Impairment",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 32,
+   "start": "2020-07-09",
+   "ende": "2021-04-17",
+   "erkrankungen": [
+    "Renal Insufficiency"
+   ],
+   "sponsor": "Rhythm Pharmaceuticals, Inc.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT04725240",
+   "titel": "Open-Label Study of Setmelanotide in Hypothalamic Obesity",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 18,
+   "start": "2021-06-07",
+   "ende": "2022-06-28",
+   "erkrankungen": [
+    "Hypothalamic Obesity"
+   ],
+   "sponsor": "Rhythm Pharmaceuticals, Inc.",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT07674290",
+   "titel": "Real-World Effects of MC4R Agonist Therapy in BBS and Severe Genetic Obesity",
+   "phase": "PHASE4",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 200,
+   "start": "2023-01-01",
+   "ende": "2030-12-31",
+   "erkrankungen": [
+    "Bardet Biedl Syndrome (BBS)",
+    "Bardet Biedl Syndrome",
+    "Bardet-Biedl Syndrome (BBS)",
+    "Alstrom Syndrome"
+   ],
+   "sponsor": "Tom Hühne",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT03013543",
+   "titel": "Setmelanotide Phase 2 Treatment Trial in Participants With Rare Genetic Disorders of Obesity",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 213,
+   "start": "2017-02-10",
+   "ende": "2022-03-01",
+   "erkrankungen": [
+    "Genetic Obesity",
+    "Obesity",
+    "Obesity Due to Melanocortin 4 Receptor Deficiency"
+   ],
+   "sponsor": "Rhythm Pharmaceuticals, Inc.",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT03262610",
+   "titel": "Setmelanotide in a Single Patient With Partial Lipodystrophy",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 1,
+   "start": "2017-08-15",
+   "ende": "2018-01-31",
+   "erkrankungen": [
+    "Hypertriglyceridemia",
+    "Obesity"
+   ],
+   "sponsor": "Rhythm Pharmaceuticals, Inc.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT04963231",
+   "titel": "DAYBREAK: A Study of Setmelanotide in Participants With Specific Gene Variants in the Melanocortin-4 Receptor (MC4R) Pathway",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 164,
+   "start": "2021-11-30",
+   "ende": "2024-09-30",
+   "erkrankungen": [
+    "Genetic Obesity"
+   ],
+   "sponsor": "Rhythm Pharmaceuticals, Inc.",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT03651765",
+   "titel": "Long Term Extension Trial of Setmelanotide",
+   "phase": "PHASE2,PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 205,
+   "start": "2018-07-15",
+   "ende": "2025-01-09",
+   "erkrankungen": [
+    "Obesity Associated With Defects in Leptin-melanocortin Pathway"
+   ],
+   "sponsor": "Rhythm Pharmaceuticals, Inc.",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT02507492",
+   "titel": "RM-493 Treatment Trial in Proopiomelanocortin (POMC) Deficient Patients",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "UNKNOWN",
+   "teilnehmende": 10,
+   "start": "2015-01",
+   "ende": "2018-07",
+   "erkrankungen": [
+    "Homozygous or Compound Heterozygous POMC, LEPR or PCSK1 Gene Mutation"
+   ],
+   "sponsor": "Charite University, Berlin, Germany",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT01867437",
+   "titel": "Effects of RM-493 on Energy Expenditure in Obese Individuals",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 15,
+   "start": "2013-05",
+   "ende": "2014-03",
+   "erkrankungen": [
+    "Obesity",
+    "Morbid Obesity"
+   ],
+   "sponsor": "Rhythm Pharmaceuticals, Inc.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT04966741",
+   "titel": "Setmelanotide in Pediatric Participants With Rare Genetic Diseases of Obesity",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 12,
+   "start": "2022-03-08",
+   "ende": "2024-11-08",
+   "erkrankungen": [
+    "Bardet-Biedl Syndrome",
+    "POMC Deficiency Obesity",
+    "PCSK1 Deficiency Obesity",
+    "LEPR Deficiency Obesity"
+   ],
+   "sponsor": "Rhythm Pharmaceuticals, Inc.",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT05046132",
+   "titel": "Study of Setmelanotide Effects on QTc (Corrected QT) Interval in Healthy Participants",
+   "phase": "PHASE4",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 77,
+   "start": "2021-08-05",
+   "ende": "2022-04-07",
+   "erkrankungen": [
+    "Healthy"
+   ],
+   "sponsor": "Rhythm Pharmaceuticals, Inc.",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT06596135",
+   "titel": "Open-Label Extension Study of Setmelanotide",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 28,
+   "start": "2024-10-21",
+   "ende": "2026-06-24",
+   "erkrankungen": [
+    "Obesity Associated With Defects in Leptin-melanocortin Pathway"
+   ],
+   "sponsor": "Rhythm Pharmaceuticals, Inc.",
+   "ergebnisse": false
+  }
+ ],
+ "gruppe": "A_stoffwechsel"
+}

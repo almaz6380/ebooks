@@ -1,0 +1,1617 @@
+{
+ "name": "GHRP-2 (Pralmorelin)",
+ "status": "teilweise",
+ "suchbegriff_pubmed": "GHRP-2[tiab] OR pralmorelin[tiab]",
+ "suchbegriff_ctgov": "pralmorelin OR GHRP-2",
+ "humanstudien_alle": [
+  {
+   "pmid": "27020037",
+   "titel": "Investigation of the clinical significance of the growth hormone-releasing peptide-2 test for the diagnosis of secondary adrenal failure",
+   "jahr": "2016",
+   "journal": "Endocr J",
+   "erstautor": "Arimura H",
+   "doi": "10.1507/endocrj.EJ15-0587",
+   "typ": [
+    "Controlled Clinical Trial",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "23485864",
+   "titel": "Differential pulsatile secretagogue control of GH secretion in healthy men",
+   "jahr": "2013",
+   "journal": "Am J Physiol Regul Integr Comp Physiol",
+   "erstautor": "Norman C",
+   "doi": "10.1152/ajpregu.00069.2013",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "21795635",
+   "titel": "Regulated recovery of pulsatile growth hormone secretion from negative feedback: a preclinical investigation",
+   "jahr": "2011",
+   "journal": "Am J Physiol Regul Integr Comp Physiol",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1152/ajpregu.00293.2011",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "21613353",
+   "titel": "Gender, sex-steroid, and secretagogue-selective recovery from growth hormone-induced feedback in older women and men",
+   "jahr": "2011",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1210/jc.2011-0298",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "21467302",
+   "titel": "Complex regulation of GH autofeedback under dual-peptide drive: studies under a pharmacological GH and sex steroid clamp",
+   "jahr": "2011",
+   "journal": "Am J Physiol Endocrinol Metab",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1152/ajpendo.00054.2011",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "20299490",
+   "titel": "Secretagogue type, sex-steroid milieu, and abdominal visceral adiposity individually determine secretagogue-stimulated cortisol secretion",
+   "jahr": "2010",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Iranmanesh A",
+   "doi": "10.1530/EJE-10-0149",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "19858315",
+   "titel": "Pre- versus postmenopausal age, estradiol, and peptide-secretagogue type determine pulsatile growth hormone secretion in healthy women: studies using submaximal agonist drive and an estrogen clamp",
+   "jahr": "2010",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Hudson SB",
+   "doi": "10.1210/jc.2009-1769",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "19470834",
+   "titel": "Relative effects of estrogen, age, and visceral fat on pulsatile growth hormone secretion in healthy women",
+   "jahr": "2009",
+   "journal": "Am J Physiol Endocrinol Metab",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1152/ajpendo.00230.2009",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "19458139",
+   "titel": "Preservation of GHRH and GH-releasing peptide-2 efficacy in young men with experimentally induced hypogonadism",
+   "jahr": "2009",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1530/EJE-09-0270",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "19351731",
+   "titel": "Factors other than sex steroids modulate GHRH and GHRP-2 efficacies in men: evaluation using a GnRH agonist/testosterone clamp",
+   "jahr": "2009",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1210/jc.2008-2767",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "19351723",
+   "titel": "Novel relationships of age, visceral adiposity, insulin-like growth factor (IGF)-I and IGF binding protein concentrations to growth hormone (GH) releasing-hormone and GH releasing-peptide efficacies in men during experimental hypogonadal clamp",
+   "jahr": "2009",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1210/jc.2009-0136",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "19240251",
+   "titel": "Determinants of GH-releasing hormone and GH-releasing peptide synergy in men",
+   "jahr": "2009",
+   "journal": "Am J Physiol Endocrinol Metab",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1152/ajpendo.91001.2008",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "19088159",
+   "titel": "Aromatase and 5alpha-reductase inhibition during an exogenous testosterone clamp unveils selective sex steroid modulation of somatostatin and growth hormone secretagogue actions in healthy older men",
+   "jahr": "2009",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1210/jc.2008-2108",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "18703567",
+   "titel": "Secretagogues govern GH secretory-burst waveform and mass in healthy eugonadal and short-term hypogonadal men",
+   "jahr": "2008",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1530/EJE-08-0414",
+   "typ": [
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "18073313",
+   "titel": "Gonadal status and body mass index jointly determine growth hormone (GH)-releasing hormone/GH-releasing peptide synergy in healthy men",
+   "jahr": "2008",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Paulo RC",
+   "doi": "10.1210/jc.2007-1388",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "17686882",
+   "titel": "Peripheral estrogen receptor-alpha selectively modulates the waveform of GH secretory bursts in healthy women",
+   "jahr": "2007",
+   "journal": "Am J Physiol Regul Integr Comp Physiol",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1152/ajpregu.00438.2007",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "17537842",
+   "titel": "Estimation of the size and shape of GH secretory bursts in healthy women using a physiological estradiol clamp and variable-waveform deconvolution model",
+   "jahr": "2007",
+   "journal": "Am J Physiol Regul Integr Comp Physiol",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1152/ajpregu.00159.2007",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "17609397",
+   "titel": "A simple diagnostic test using GH-releasing peptide-2 in adult GH deficiency",
+   "jahr": "2007",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Chihara K",
+   "doi": "10.1530/EJE-07-0066",
+   "typ": [
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Validation Study"
+   ]
+  },
+  {
+   "pmid": "17405836",
+   "titel": "Tripartite control of growth hormone secretion in women during controlled estradiol repletion",
+   "jahr": "2007",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1210/jc.2007-0043",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "17114911",
+   "titel": "GH response to hypoglycemia and clonidine in the GH-releasing hormone resistance syndrome",
+   "jahr": "2006",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Salvatori R",
+   "doi": "10.1007/BF03347374",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+   ]
+  },
+  {
+   "pmid": "16861611",
+   "titel": "Obese subjects respond to the stimulatory effect of the ghrelin agonist growth hormone-releasing peptide-2 on food intake",
+   "jahr": "2006",
+   "journal": "Obesity (Silver Spring)",
+   "erstautor": "Laferrère B",
+   "doi": "10.1038/oby.2006.121",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "16189179",
+   "titel": "Testosterone supplementation in healthy older men drives GH and IGF-I secretion without potentiating peptidyl secretagogue efficacy",
+   "jahr": "2005",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1530/eje.1.02001",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "15963058",
+   "titel": "Short-term testosterone supplementation does not activate GH and IGF-I production in postmenopausal women",
+   "jahr": "2005",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Soares-Welch C",
+   "doi": "10.1111/j.1365-2265.2005.02294.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "15811926",
+   "titel": "Joint mechanisms of impaired growth-hormone pulse renewal in aging men",
+   "jahr": "2005",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1210/jc.2005-0336",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "15613434",
+   "titel": "Determinants of dual secretagogue drive of burst-like growth hormone secretion in premenopausal women studied under a selective estradiol clamp",
+   "jahr": "2005",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Erickson D",
+   "doi": "10.1210/jc.2004-1621",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "15579792",
+   "titel": "Contributions of gender and systemic estradiol and testosterone concentrations to maximal secretagogue drive of burst-like growth hormone secretion in healthy middle-aged and older adults",
+   "jahr": "2004",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1210/jc.2004-0644",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "15356066",
+   "titel": "Activation of somatostatin-receptor subtype-2/-5 suppresses the mass, frequency, and irregularity of growth hormone (GH)-releasing peptide-2-stimulated GH secretion in men",
+   "jahr": "2004",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Iranmanesh A",
+   "doi": "10.1210/jc.2004-0205",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "15001624",
+   "titel": "Short-term testosterone supplementation relieves growth hormone autonegative feedback in men",
+   "jahr": "2004",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1210/jc.2003-031017",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "14513874",
+   "titel": "Changes in appetite and body weight in response to long-term oral administration of the ghrelin agonist GHRP-2 in growth hormone deficient children",
+   "jahr": "2003",
+   "journal": "J Pediatr Endocrinol Metab",
+   "erstautor": "Mericq V",
+   "doi": "10.1515/jpem.2003.16.7.981",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "12030918",
+   "titel": "The combined administration of GH-releasing peptide-2 (GHRP-2), TRH and GnRH to men with prolonged critical illness evokes superior endocrine and metabolic effects compared to treatment with GHRP-2 alone",
+   "jahr": "2002",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Van den Berghe G",
+   "doi": "10.1046/j.1365-2265.2002.01255.x",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "11836333",
+   "titel": "Impact of estradiol supplementation on dual peptidyl drive of GH secretion in postmenopausal women",
+   "jahr": "2002",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1210/jcem.87.2.8251",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "11739462",
+   "titel": "E2 supplementation selectively relieves GH's autonegative feedback on GH-releasing peptide-2-stimulated GH secretion",
+   "jahr": "2001",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Anderson SM",
+   "doi": "10.1210/jcem.86.12.8076",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "11322505",
+   "titel": "Growth hormone/insulin-like growth factor-1 response to acute and chronic growth hormone-releasing peptide-2, growth hormone-releasing hormone 1-44NH2 and in combination in older men and women with decreased growth hormone secretion",
+   "jahr": "2001",
+   "journal": "Endocrine",
+   "erstautor": "Bowers CY",
+   "doi": "10.1385/ENDO:14:1:079",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "11134132",
+   "titel": "Reduction of free fatty acids by acipimox enhances the growth hormone (GH) responses to GH-releasing peptide 2 in elderly men",
+   "jahr": "2000",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Van Dam PS",
+   "doi": "10.1210/jcem.85.12.7087",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "11004017",
+   "titel": "Synergy of L-arginine and GHRP-2 stimulation of growth hormone in men and women: modulation by exercise",
+   "jahr": "2000",
+   "journal": "Am J Physiol Regul Integr Comp Physiol",
+   "erstautor": "Wideman L",
+   "doi": "10.1152/ajpregu.2000.279.4.R1467",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "10946861",
+   "titel": "Oral estradiol administration modulates continuous intravenous growth hormone (GH)-releasing peptide-2-driven GH secretion in postmenopausal women",
+   "jahr": "2000",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Shah N",
+   "doi": "10.1210/jcem.85.8.6729",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "10634385",
+   "titel": "A paradoxical gender dissociation within the growth hormone/insulin-like growth factor I axis during protracted critical illness",
+   "jahr": "2000",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Van den Berghe G",
+   "doi": "10.1210/jcem.85.1.6316",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "10372723",
+   "titel": "Tripartite neuroendocrine activation of the human growth hormone (GH) axis in women by continuous 24-hour GH-releasing peptide infusion: pulsatile, entropic, and nyctohemeral mechanisms",
+   "jahr": "1999",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Shah N",
+   "doi": "10.1210/jcem.84.6.5687",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "10337858",
+   "titel": "Preservation of growth hormone secretion in response to growth hormone-releasing peptide-2 during prednisone therapy",
+   "jahr": "1999",
+   "journal": "Metabolism",
+   "erstautor": "Meacham LR",
+   "doi": "10.1016/s0026-0495(99)90055-0",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "10199772",
+   "titel": "Reactivation of pituitary hormone release and metabolic improvement by infusion of growth hormone-releasing peptide and thyrotropin-releasing hormone in patients with protracted critical illness",
+   "jahr": "1999",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Van den Berghe G",
+   "doi": "10.1210/jcem.84.4.5636",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "10195374",
+   "titel": "Tyr-Ala-Hexarelin, a synthetic octapeptide, possesses the same endocrine activities of Hexarelin and GHRP-2 in humans",
+   "jahr": "1999",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Arvat E",
+   "doi": "10.1007/BF03350886",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "10037246",
+   "titel": "Growth hormone-releasing peptide-2 infusion synchronizes growth hormone, thyrotrophin and prolactin release in prolonged critical illness",
+   "jahr": "1999",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Van den Berghe G",
+   "doi": "10.1530/eje.0.1400017",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "9745404",
+   "titel": "Leptin levels in protracted critical illness: effects of growth hormone-secretagogues and thyrotropin-releasing hormone",
+   "jahr": "1998",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Van den Berghe G",
+   "doi": "10.1210/jcem.83.9.5120",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "9661608",
+   "titel": "Effects of eight months treatment with graded doses of a growth hormone (GH)-releasing peptide in GH-deficient children",
+   "jahr": "1998",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Mericq V",
+   "doi": "10.1210/jcem.83.7.4969",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ]
+  },
+  {
+   "pmid": "9612233",
+   "titel": "Evidence against a role for the growth hormone-releasing peptide axis in human slow-wave sleep regulation",
+   "jahr": "1998",
+   "journal": "Am J Physiol",
+   "erstautor": "Moreno-Reyes R",
+   "doi": "10.1152/ajpendo.1998.274.5.E779",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "9543135",
+   "titel": "Pharmacokinetics and pharmacodynamics of growth hormone-releasing peptide-2: a phase I study in children",
+   "jahr": "1998",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Pihoker C",
+   "doi": "10.1210/jcem.83.4.4744",
+   "typ": [
+    "Clinical Trial",
+    "Clinical Trial, Phase I",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "9467533",
+   "titel": "Neuroendocrinology of prolonged critical illness: effects of exogenous thyrotropin-releasing hormone and its combination with growth hormone secretagogues",
+   "jahr": "1998",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Van den Berghe G",
+   "doi": "10.1210/jcem.83.2.4575",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ]
+  },
+  {
+   "pmid": "9425400",
+   "titel": "Thyrotrophin and prolactin release in prolonged critical illness: dynamics of spontaneous secretion and effects of growth hormone-secretagogues",
+   "jahr": "1997",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Van den Berghe G",
+   "doi": "10.1046/j.1365-2265.1997.3371118.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ]
+  },
+  {
+   "pmid": "9390009",
+   "titel": "Treatment effects of intranasal growth hormone releasing peptide-2 in children with short stature",
+   "jahr": "1997",
+   "journal": "J Endocrinol",
+   "erstautor": "Pihoker C",
+   "doi": "10.1677/joe.0.1550079",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "9024260",
+   "titel": "The somatotropic axis in critical illness: effect of continuous growth hormone (GH)-releasing hormone and GH-releasing peptide-2 infusion",
+   "jahr": "1997",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Van den Berghe G",
+   "doi": "10.1210/jcem.82.2.3736",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "8949573",
+   "titel": "Pituitary responsiveness to GH-releasing hormone, GH-releasing peptide-2 and thyrotrophin-releasing hormone in critical illness",
+   "jahr": "1996",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Van den Berghe G",
+   "doi": "10.1046/j.1365-2265.1996.00805.x",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "8887169",
+   "titel": "GHRP-2, GHRH and SRIF interrelationships during chronic administration of GHRP-2 to humans",
+   "jahr": "1996",
+   "journal": "J Pediatr Endocrinol Metab",
+   "erstautor": "Bowers CY",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "7559885",
+   "titel": "Diagnostic studies with intravenous and intranasal growth hormone-releasing peptide-2 in children of short stature",
+   "jahr": "1995",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Pihoker C",
+   "doi": "10.1210/jcem.80.10.7559885",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "7666796",
+   "titel": "Growth hormone (GH)-releasing effects of synthetic peptide GH-releasing peptide-2 and GH-releasing hormone (1-29NH2) in children with GH insufficiency and idiopathic short stature",
+   "jahr": "1995",
+   "journal": "Metabolism",
+   "erstautor": "Tuilpakov AN",
+   "doi": "10.1016/0026-0495(95)90016-0",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "7586605",
+   "titel": "GH responses to intravenous bolus infusions of GH releasing hormone and GH releasing peptide 2 separately and in combination in adult volunteers",
+   "jahr": "1995",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Tiulpakov AN",
+   "doi": "10.1111/j.1365-2265.1995.tb02042.x",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  }
+ ],
+ "humanstudien_detail": [
+  {
+   "pmid": "11004017",
+   "titel": "Synergy of L-arginine and GHRP-2 stimulation of growth hormone in men and women: modulation by exercise",
+   "jahr": "2000",
+   "journal": "Am J Physiol Regul Integr Comp Physiol",
+   "erstautor": "Wideman L",
+   "doi": "10.1152/ajpregu.2000.279.4.R1467",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "We investigated the ability of exercise, a multipathway, potent, physiological stimulus for GH release, to alter the synergistic interaction of L-arginine (A) and GH-related peptide (GHRP)-2 (G) observed at rest and the ability of gender to further modulate this putative interaction. Subjects (9 men and 9 early follicular phase women) completed 30 min of constant load aerobic exercise in combination with intravenous infusions of saline (S), A (30 g over 30 min), G (1 microg/kg bolus), or both (AG) in separate study sessions in randomly assigned order. Measures of GH release were logarithmically transformed for statistical analysis. Similar to rest, exercise maintained the rank order (AG > G > A > S) of effective stimulation of GH release for the key response measures in men or women, a gender disparity in the time to reach the maximal serum GH concentration, the calculated endogenous GH half-life, and the observed effect of preinfusion (basal) serum GH concentrations on determining secretagogue responsiveness. Exercise potentiated the individual stimulatory actions of A and G, while blunting the relative magnitude of the synergistic (supra-additive) interaction observed at rest. We infer from the present data that 1) exercise is likely to induce release of both GHRH and somatostatin, 2) L-arginine may facilitate the effect of exercise by limiting somatostatin release, 3) GHRP-2 could further enhance the stimulatory impact of exercise by opposing central actions of somatostatin and/or heightening endogenous GHRH release, and 4) gender strongly controls the relative but not absolute magnitude of A/G synergy both at rest and after exercise."
+  },
+  {
+   "pmid": "8887169",
+   "titel": "GHRP-2, GHRH and SRIF interrelationships during chronic administration of GHRP-2 to humans",
+   "jahr": "1996",
+   "journal": "J Pediatr Endocrinol Metab",
+   "erstautor": "Bowers CY",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article"
+   ],
+   "abstract": "Studies with chronic GHRP-2 or GHRH administration were performed to demonstrate and better understand the interrelationships between GHRP-2, GHRH and SRIF. Normal younger and older men and women received chronic GHRP-2, GHRH or GHRP-2 + GHRH for 7-30 days. It was demonstrated that chronic administration of either GHRP-2 or GHRH could convert an additive GHRP-2 + GHRH GH response to a synergistic one. In addition, the type of synergistic response induced by chronic GHRP-2 versus GHRH was different. Whether the GH response becomes desensitized during chronic administration depends in part on the dosage and frequency of administration. The potential to learn more about the in vivo actions of GHRP relative to the regulation of GH secretion is underscored by studying the GH responses to GHRP-2, GHRH and GHRP-2 + GHRH."
+  },
+  {
+   "pmid": "19351731",
+   "titel": "Factors other than sex steroids modulate GHRH and GHRP-2 efficacies in men: evaluation using a GnRH agonist/testosterone clamp",
+   "jahr": "2009",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1210/jc.2008-2767",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "abstract": "BACKGROUND: Sex steroids are prominent regulators of pulsatile GH secretion. HYPOTHESIS: An experimentally controlled sex-steroid milieu will permit detection of nonsteroidal factors that determine GH secretion. SUBJECTS: Eleven young (age, 24 +/- 0.99 yr) and 11 older (64 +/- 2.4 yr) men participated in the study. LOCATION: The study was conducted at a tertiary medical center. METHODS: The study consisted of GnRH-agonist down-regulation of the gonadal axis followed by fixed-dose testosterone (T) replacement (leuprolide/T clamp) and consecutive infusion of l-arginine and GHRH or GH-releasing peptide-2 (GHRP-2) to quantify peptide-secretagogue efficacies. OUTCOMES: The experimental leuprolide/T clamp yielded statistically age-comparable total, bioavailable, and free T and estradiol (E(2)) concentrations. In this controlled milieu, sequential l-arginine/GHRH infusion stimulated 1.4-fold more (P = 0.021) and l-arginine/GHRP-2 1.3-fold more (P = 0.045) GH release in young than older men. Abdominal visceral fat (AVF) correlated negatively with both GHRH (P = 0.0006; R(2) = 0.39) and GHRP-2 (R(2) = 0.29) efficacy, whereas IGF-I positively predicted the same endpoints (R(2) = 0.25 to 0.30). In multivariate analysis, AVF emerged as a dominant negative determinant of GHRH efficacy (P = 0.002; R(2) = 0.41) and IGF-I as a primary positive determinant of GHRP-2 efficacy (P = 0.007; R(2) = 0.31). CONCLUSION: During fixed T/E(2) availability, AVF contributes 41% of the GH-response variability to maximal GHRH drive, whereas IGF-I accounts for 31% of that for GHRP-2. Accordingly, a statistically equalized sex-steroid milieu permits dissection of age-independent and T/E(2)-independent modulators of GHRH and GHRP efficacy in men."
+  },
+  {
+   "pmid": "12030918",
+   "titel": "The combined administration of GH-releasing peptide-2 (GHRP-2), TRH and GnRH to men with prolonged critical illness evokes superior endocrine and metabolic effects compared to treatment with GHRP-2 alone",
+   "jahr": "2002",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Van den Berghe G",
+   "doi": "10.1046/j.1365-2265.2002.01255.x",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "OBJECTIVE: Central hyposomatotrophism, hypothyroidism and hypogonadism are present concomitantly in men with prolonged critical illness. This study evaluated the impact of combined treatment with GH-releasing peptide-2 (GHRP-2), TRH and GnRH for 5 days compared with GHRP-2 + TRH and with GHRP-2 alone. PATIENTS AND DESIGN: Thirty-three men with prolonged critical illness participated at baseline compared to 50 age- and body mass index (BMI)-matched controls. Patients were randomly assigned to 5 days of placebo (n = 7), GHRP-2 (1 microg/kg/h; n = 9), GHRP-2 + TRH infusion (1 + 1 microg/kg/h; n = 9) or pulsatile GnRH (0.1 microg/kg every 90 min) together with GHRP-2 + TRH infusion (n = 8). MEASUREMENTS: GH, TSH and LH secretion were quantified by deconvolution analysis of serum concentration time series obtained by sampling every 20 min from 2100 to 0600 h at baseline and on nights 1 and 5 of treatment. Serum concentrations of IGF-I, IGFBPs, thyroid hormones, gonadal and adrenal steroids, proinflammatory cytokines and selected metabolic and inflammation markers were measured daily. RESULTS: Patients revealed suppressed pulsatile GH, TSH and LH secretion in the face of low serum concentrations of IGF-I, IGFBP-3 and the acid-labile subunit (ALS) (P < 0.0001 each), thyroid hormones (P < 0.0001) and total and estimated free testosterone (P < 0.0001) levels, whereas free oestradiol (E2) estimates were normal. Serum dehydroepiandrosterone sulphate (DHEAS) levels were also suppressed whereas morning cortisol was normal. Serum levels of type I procollagen (PICP) and bone alkaline phosphatase (sALP) were elevated whereas osteocalcin (OC) was low (P = 0.03). Ureagenesis (P < 0.0001) and breakdown of bone tissue (P < 0.0001) were increased. Baseline serum TNF-alpha, IL-6 and C-reactive protein level and white blood cell (WBC) count were elevated; serum lactate was normal. Only low T4 and high IGFBP-1 levels independently predicted mortality. GHRP-2 infusion reactivated GH secretion and normalized serum IGF-I, IGFBP-3 and ALS. GHRP-2 + TRH infusion reactivated both the GH axis and the thyroid axis, with normal levels of T4 and T3 reached within 1 day. Only GHRP-2 + TRH infusion combined with GnRH pulses reactivated the GH and TSH axis and at the same time increased pulsatile LH secretion compared to placebo. Only GnRH pulses together with GHRP-2 + TRH infusion increased testosterone significantly from day 2 (peak increase of + 312%) through day 5 and serum E2 with > 80% from day 1 through day 3 (all P = 0.05). Ureagenesis was reduced by GHRP-2 + TRH + GnRH (P = 0.01) and by GHRP-2 + TRH (P = 0.009) but not by GHRP-2 alone. Serum OC levels were increased only by GHRP-2 + TRH + GnRH (P = 0.03), with a trend for GHRP-2 + TRH (P = 0.09), but not by GHRP-2 alone. On day 5, serum lactate levels and WBC count were increased by GHRP-2 infused alone and in combination with TRH but not by GHRP-2 + TRH + GnRH. CONCLUSIONS: Coadministration of GHRP-2, TRH and GnRH reactivated the GH, TSH and LH axes in prolonged critically ill men and evoked beneficial metabolic effects which were absent with GHRP-2 infusion alone and only partially present with GHRP-2 + TRH. These data underline the importance of correcting the multiple hormonal deficits in patients with prolonged critical illness to counteract the hypercatabolic state."
+  },
+  {
+   "pmid": "14513874",
+   "titel": "Changes in appetite and body weight in response to long-term oral administration of the ghrelin agonist GHRP-2 in growth hormone deficient children",
+   "jahr": "2003",
+   "journal": "J Pediatr Endocrinol Metab",
+   "erstautor": "Mericq V",
+   "doi": "10.1515/jpem.2003.16.7.981",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "GHRP-2 (GPA-748, Wyeth-Ayerst) is an orally active peptide growth hormone (GH) secretagogue which acts through a G-protein coupled receptor for which the natural ligand--an acylated 28 amino acid peptide, ghrelin--was recently isolated. Ghrelin and its analogs have potent GH-releasing activities, but in animal studies ghrelin also causes weight gain. As part of a study examining the effect of GHRP-2 on GH secretory dynamics and growth, we evaluated its effects on appetite and body weight. Ten prepubertal children with GH deficiency (growth velocity < or = 4 cm/year in association with a GH response to two provocative stimuli < 10 ng/ml) were included in the study. At the beginning of the study their age was 10.4 +/- 2 years (mean +/- SD), with a height of -3.8 +/- 0.1 SDS. Body mass index (BMI) was 17.9 +/- 3.6 kg/m2, and the BMI Z score 0.21 +/- 1.51 SDS. GHRP-2 was administered orally at a dose of 900 microg/kg b.i.d. for 12 months. Seven out of ten patients reported a significant increase in appetite during the first 6 months of the study. There was a tendency for the BMI SDS to increase during the study, but this increase did not reach statistical significance (0.21 +/- 1.5 vs 0.25 +/- 1.5 SDS). These results suggest that at a dose of 900 microg/kg b.i.d., GHRP-2 appears to have a transient stimulatory effect on appetite, but does not have a chronic clinically significant effect on BMI in children with GH deficiency."
+  },
+  {
+   "pmid": "19240251",
+   "titel": "Determinants of GH-releasing hormone and GH-releasing peptide synergy in men",
+   "jahr": "2009",
+   "journal": "Am J Physiol Endocrinol Metab",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1152/ajpendo.91001.2008",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "abstract": "Age, sex steroids, and abdominal-visceral fat (AVF) jointly affect pulsatile growth hormone (GH) secretion. Pulsatile GH secretion in turn is controlled by GH-releasing hormone (GHRH), GH-releasing peptide (GHRP), and somatostatin. Marked stimulation of pulsatile GH secretion is achieved via GHRH-GHRP synergy. Nonetheless, how key modulators of GH secretion, such as age, sex steroids, and body mass index, modify GHRH-GHRP synergy is not known. The present strategy was to 1) infuse GHRH and GHRP-2 simultaneously to evoke synergy and 2) downregulate the gonadal axis with leuprolide and then restore placebo (Pl) or testosterone (T) to clamp the sex steroid milieu. Forty-seven men [18-74 yr of age, T = 7-1,950 ng/dl, estradiol (E(2)) = 5-79 pg/ml, insulin-like growth factor (IGF)-I = 115-817 microg/l, AVF = 11-349 cm(2)] were studied. GHRH-GHRP synergy correlated negatively with age and AVF (both P < 0.001) and positively with IGF-I (P < 0.001) and IGF-binding protein (IGFBP)-3 (P = 0.031). Unstimulated basal (nonpulsatile) GH secretion correlated positively with T (P = 0.015) and E(2) (P = 0.004) concentrations. Fasting pulsatile GH secretion varied negatively with age (P = 0.017) and positively with IGF-I (P = 0.002) and IGFBP-3 (P = 0.001). By stepwise forward-selection multivariate analyses, AVF, IGF-I, and IGFBP-3 together explained 60% of the variability in GHRH-GHRP synergy (P < 0.001), E(2) accounted for 17% of the variability in basal GH secretion (P = 0.007), and IGF-I explained 20% of the variability in fasting pulsatile GH secretion (P = 0.002). In conclusion, a paradigm examining GHRH-GHRP synergy under a sex steroid clamp reveals highly selective control of basal, pulsatile, and synergistic peptide-driven GH secretion by AVF, E(2), and IGF-I in healthy men."
+  },
+  {
+   "pmid": "15001624",
+   "titel": "Short-term testosterone supplementation relieves growth hormone autonegative feedback in men",
+   "jahr": "2004",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1210/jc.2003-031017",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "The present study tests the postulate that testosterone (Te) stimulates GH secretion, in part, by attenuating autonegative feedback. To this end, 13 healthy men (ages 43-71 yr) received three consecutive weekly im injections of placebo (Pl) (n = 7) or Te (200 mg) (n = 6) in a prospectively randomized, double-blind, parallel-cohort design. An iv pulse of saline or recombinant human (rh)GH (3 micro g/kg.6 min) was infused 2 h before bolus saline or GH-releasing peptide (GHRP)-2 (1 micro g/kg) in the fasting state. Blood was withdrawn every 10 min, GH concentrations were quantitated by chemiluminometry, secretion was determined by deconvolution analysis, and outcomes were compared by ANOVA. After Pl, rhGH suppressed basal, pulsatile, and GHRP-2-stimulated GH secretion by 2.6-, 2.4-, and 2.1-fold, respectively (each P < 0.03), and truncated GHRP-2-stimulated GH secretory bursts (P < 0.005). Compared with Pl, Te: 1) stimulated basal and pulsatile GH secretion by 1.9 and 2.4-fold (P < 0.01 and P < 0.02), respectively; 2) reduced feedback on basal GH secretion (P < 0.01); 3) blunted GHRP-2-stimulation by 1.9-fold (P < 0.01); and 4) facilitated initial recovery of rhGH-suppressed GH concentrations (P < 0.005). The foregoing actions were selective, inasmuch as Te did not relieve autoinhibition of pulsatile GH secretion. In summary, short-term Te supplementation decreases rhGH-imposed negative feedback on basal GH secretion and enhances early escape of GH from autoinhibition. In principle, such actions could potentiate the renewal of high-amplitude pulses of GH in androgen-replete individuals."
+  },
+  {
+   "pmid": "9543135",
+   "titel": "Pharmacokinetics and pharmacodynamics of growth hormone-releasing peptide-2: a phase I study in children",
+   "jahr": "1998",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Pihoker C",
+   "doi": "10.1210/jcem.83.4.4744",
+   "typ": [
+    "Clinical Trial",
+    "Clinical Trial, Phase I",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "Administration of GH-releasing peptide-2 (GHRP-2) represents a potential mode of therapy for children of short stature with inadequate secretion of GH. Requisite information to determine the dosing route and frequency for GHRP-2 consists of the pharmacokinetics (PK) and pharmacodynamics (PD) for this compound, neither of which have been previously evaluated in children. The purpose of this study was to characterize the PK and PD of GHRP-2 in children with short stature. Ten prepubertal children (nine boys and one girl; 7.7 +/- 2.4 yr old) received a single 1 microg/kg i.v. dose of GHRP-2 over 1 min, followed by repeated (n = 9) blood sampling over 2 h. GHRP-2 and GH were quantitated by specific RIA methods. PK parameters were calculated from curve fitting of GHRP-2 and GH vs. time data. Posttreatment plasma GH concentrations (normalized for pretreatment values) were used as the effect measurement. PD parameters were generated using the sigmoid Emax model. Disposition of GHRP-2 best fit a biexponential function. GHRP-2 PK parameters (mean +/- SD) were: alpha = 13.4 +/- 9.7 h(-1), beta = 1.3 +/- 0.3 h(-1), t(1/2beta) = 0.55 +/- 0.14 h, AUC(0-infinity) = 2.02 +/- 1.37 ng/mL x h, Cmax = 7.4 +/- 3.8 ng/mL, plasma clearance = 0.66 +/- 0.32 L/h x kg, and apparent volume of distribution = 0.32 +/- 0.14 L/kg. PK parameters for GH were: appearance rate constant = 5.9 +/- 3.1 h(-1), elimination t(1/2) = 0.37 +/- 0.15 h, lag time = 0.05 +/- 0.01 h, Cmax = 50.7 +/- 17.2 ng/mL, Tmax = 0.42 +/- 0.16 h, and AUC(0-infinity) = 47.9 +/- 26.1 ng/mL x h. PD parameters for GHRP-2 were: Ke0 = 1.13 +/- 0.94 h(-1), gamma = 13.15 +/- 9.44, E0 = 6.63 +/- 4.86 ng/mL (GH), Emax = 67.5 +/- 23.5 ng/mL (GH), and EC50 = 1.09 +/- 0.59 ng/mL. We concluded that 1) GHRP-2 produced a predictable and significant (i.e. compared to pretreatment values) increase in plasma GH concentrations; 2) the PK-PD link model enabled quantitative assessment of GHRP-2 modulation of serum GH levels; and 3) definition of the EC50 for GHRP-2 will enable PD and PK evaluations of extravascular dosing regimens for children."
+  },
+  {
+   "pmid": "23485864",
+   "titel": "Differential pulsatile secretagogue control of GH secretion in healthy men",
+   "jahr": "2013",
+   "journal": "Am J Physiol Regul Integr Comp Physiol",
+   "erstautor": "Norman C",
+   "doi": "10.1152/ajpregu.00069.2013",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "abstract": "Pulsatile growth hormone (GH) secretion putatively reflects integrated regulation by GH-releasing hormone (GHRH), somatostatin (SST), and GH-releasing peptide (GHRP). GHRH and SST secretion is itself pulsatile. However, how GHRH and SST pulses act along with GHRP to jointly determine pulsatile GH secretion is unclear. Moreover, how testosterone (T) modulates such interactions is unknown. These queries were assessed in a prospectively randomized, placebo-controlled double-blind cohort comprising 26 healthy older men randomized to testosterone (T) vs. placebo supplementation. Pulses of GHRH, SST, or saline were infused intravenously at 90-min intervals for 13 h, along with either continuous saline or ghrelin analog (GHRP-2). The train of pulses was followed by a triple stimulus (combined l-arginine, GHRH, and GHRP-2) to estimate near-maximal GH secretion over a final 3 h. Testosterone vs. placebo supplementation doubled pulsatile GH secretion during GHRH pulses combined with continuous saline (GHRH/saline) (P < 0.01). Pulsatile GH secretion correlated positively with T concentrations (270-1,170 ng/dl) in the 26 men during saline pulses/saline (P = 0.015, R(2) = 0.24), GHRH pulses/saline (P = 0.020, R(2) = 0.22), and combined GHRH pulses/GHRP-2 (P = 0.016, R(2) = 0.25) infusions. Basal nonpulsatile GH secretion correlated with T during saline pulses/GHRP-2 drive (P = 0.020, R(2) = 0.16). By regression analysis, pulsatile GH secretion varied negatively with body mass index (BMI) during saline/GHRP-2 infusion (P = 0.001, R(2) = 0.36), as well as after the triple stimulus preceded by GHRH/GHRP-2 (P = 0.013, R(2) = 0.23). Mean (10-h) GH concentrations under GHRP-2 were predicted jointly by estradiol (positively) and BMI (negatively) (P < 0.001, R(2) = 0.520). These data indicate that estradiol, T, and BMI control pulsatile secretagogue-specific GH-regulatory mechanisms in older men."
+  },
+  {
+   "pmid": "15811926",
+   "titel": "Joint mechanisms of impaired growth-hormone pulse renewal in aging men",
+   "jahr": "2005",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1210/jc.2005-0336",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "CONTEXT: Aging reduces the size (mass) of GH secretory bursts and thereby reduces total GH secretion. Experimental data indicate that high-amplitude GH pulses are evoked by reversible cycles of GH-induced negative feedback. Whether aging impairs autofeedback is unknown. OBJECTIVE: The objective of this study is to assess whether age attenuates and IGF-I potentiates negative feedback by a near-physiological pulse of GH. DESIGN/SETTING/SUBJECTS: In a university setting, 17 healthy men ages 19-71 yr each underwent four randomly ordered infusion studies on separate mornings fasting. INTERVENTION: Intravenous injection of a pulse of: 1) saline or 2) recombinant human (rh) GH to impose controlled negative feedback, followed in 2 h by a bolus of 3) saline or (iv) the ghrelin analog GHRP-2 to overcome feedback inhibition. OUTCOME MEASURES: The impact of age and IGF-I concentrations on GH autofeedback was assessed by regression analysis. RESULTS: Percentage feedback inhibition correlated negatively with: 1) age after consecutive rh GH/saline infusion (R(2) = 0.42, P = 0.005) at any IGF-I concentration; and 2) total IGF-I concentrations after rh GH/GHRP-2 infusion (R(2) = 0.40, P = 0.009) at any age. In contrast, sex-steroid concentrations and body mass index were unrelated to degree of autoinhibition. CONCLUSIONS: Increased age in healthy men predicts impaired GH autofeedback, which may contribute to attenuated renewal of high-amplitude GH pulses. Conversely, higher IGF-I concentrations in young men forecast accentuated GH autoinhibition, which may drive prominent GH pulses."
+  },
+  {
+   "pmid": "17609397",
+   "titel": "A simple diagnostic test using GH-releasing peptide-2 in adult GH deficiency",
+   "jahr": "2007",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Chihara K",
+   "doi": "10.1530/EJE-07-0066",
+   "typ": [
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Validation Study"
+   ],
+   "abstract": "OBJECTIVE: The international, first-line diagnostic test for adult GH deficiency is the insulin tolerance test (ITT), which is contraindicated in some patients due to severe adverse events. Alternatives such as GH-releasing hormone combined with arginine or GH-releasing peptides (GHRP) have been proposed. We validated the use of GHRP-2 for diagnosing adult GH deficiency (GHD). METHODS: Seventy-seven healthy subjects and 58 patients with peak GH<3 microg/l by ITT were enrolled. After overnight fasting, a 100 microg dose of GHRP-2 was administered intravenously; blood samples were taken during the subsequent 2 h and GH measured by immunoradiometric assay. RESULTS: Serum GH peak occurred within 60 min after GHRP-2 administration in all subjects. GH responses to GHRP-2 were not affected by gender, but were slightly lower in elderly subjects and those with adiposity, although these did not influence diagnosis of GHD. Repeated tests showed favourable reproducibility. Peak GH concentrations after GHRP-2 were significantly (P<0.001) lower in patients (1.36+/-2.60 microg/l) than the healthy group (84.6+/-60.9 microg/l) with no difference between hypothalamic and pituitary diseases. Serum GH concentration at the point where sensitivity of response crossed with specificity ranged from 15 to 20 microg/l. A cut-off value of 15 microg/l for diagnosing GHD with GHRP-2 corresponded to the diagnostic value of 3 microg/l in the ITT. CONCLUSIONS: The GHRP-2 provocative test showed favourable reproducibility and was mildly influenced by age and adiposity. Severe GH deficiency could be diagnosed with high reliability using a 15 microg/l (9 microg/l when GH calibrated with recombinant World Health Organization 98/574 standard) cut-off for peak GH concentration."
+  },
+  {
+   "pmid": "10195374",
+   "titel": "Tyr-Ala-Hexarelin, a synthetic octapeptide, possesses the same endocrine activities of Hexarelin and GHRP-2 in humans",
+   "jahr": "1999",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Arvat E",
+   "doi": "10.1007/BF03350886",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Hexarelin (HEX) and GHRP-2 are two synthetic hexapeptides, superanalogs of GHRP-6, belonging to GH secretagogue (GHS) family. GHS act via specific receptors at both the pituitary and the hypothalamic level to stimulate GH release both in animals and in humans. However, GHS also possess significant PRL- and ACTH/cortisol-releasing activity. Tyr-Ala-HEX as well as Tyr-Ala-GHRP-6 are, in turn, synthetic octapeptides generally used to perform binding studies because of their easy iodination. However, their endocrine activities have never been studied in humans. To clarify the endocrine activities of Tyr-Ala-HEX, in 7 young adult volunteers we compared the effects of the maximal effective dose of HEX (2.0 microg/kg i.v.) or GHRP-2 (2.0 microg/kg i.v.) with the same one of Tyr-Ala-HEX on GH, PRL, ACTH and cortisol levels. Basal GH, PRL, ACTH and cortisol levels in all testing sessions were similar. The administration of placebo did not modify hormonal levels. HEX and GHRP-2 administration induced the well known strong GH response (Cmax, mean+/-SE: 77.3+/-6.0 and 74.1+/-12.1 microg/l; AUC, mean+/-SE: 2596.7+/-251.1 and 2480.0+/-343.6 microg*min/l). These responses were similar to that induced by Tyr-Ala-HEX (63.7+/-18.5 microg/l; 1986.6+/-622.4 microg*min/l). Moreover, HEX, GHRP-2 and Tyr-Ala-HEX had the same significant stimulatory effect on PRL (14.9+/-2.5, 12.3+/-2.0 and 10.0+/-1.5 microg/l; 497.8+/-61.8, 480.4+/-66.9 and 415.8+/-58.5 microg*min/l), ACTH (48.0+/-10.1, 51.4+/-10.6 and 44.9+/-12.2 pg/ml; 1531.6+/-235.7, 1586.7+/-277.0 and 1338.1+/-164.5 pg*min/ml) and cortisol (179.9+/-10.0, 181.2+/-14.1 and 149.7+/-20.1 microg/l; 8465.0+/-406.6, 8689.2+/-788.1 and 6295.2+/-797.0 microg*min/l). Also the mean Tmax of the endocrine responses to HEX, GHRP-2 and Tyr-Ala-HEX were similar. In conclusion, the present results demonstrate that in humans Tyr-Ala-HEX is a GH secretagogue as potent as HEX and GHRP-2, two GHRP-6 superanalogs. Tyr-Ala-HEX also shares with HEX and GHRP-2 the same PRL- ACTH- and cortisol-releasing activity."
+  },
+  {
+   "pmid": "17686882",
+   "titel": "Peripheral estrogen receptor-alpha selectively modulates the waveform of GH secretory bursts in healthy women",
+   "jahr": "2007",
+   "journal": "Am J Physiol Regul Integr Comp Physiol",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1152/ajpregu.00438.2007",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "abstract": "Estradiol (E(2)) drives growth hormone (GH) secretion via estrogen receptors (ER) located in the hypothalamus and pituitary gland. ERalpha is expressed in GH releasing hormone (GHRH) neurons and GH-secreting cells (somatotropes). Moreover, estrogen regulates receptors for somatostatin, GHR peptide (GHRP, ghrelin), and GH itself, while potentiating signaling by IGF-I. Given this complex network, one cannot a priori predict the selective roles of hypothalamic compared with pituitary ER pathways. To make such a distinction, we introduce an investigative model comprising 1) specific ERalpha blockade with a pure antiestrogen, fulvestrant, that does not penetrate the blood-brain barrier; 2) graded transdermal E(2) administration, which doubles GH concentrations in postmenopausal women; 3) stimulation of fasting GH secretion by pairs of GHRH, GHRP-2 (a ghrelin analog), and l-arginine (to putatively limit somatostatin outflow); and 4) implementation of a flexible waveform deconvolution model to estimate the shape of secretory bursts independently of their size. The combined strategy unveiled that 1) E(2) prolongs GH secretory bursts via fulvestrant-antagonizable mechanisms; 2) fulvestrant extends GHRH/GHRP-2-stimulated secretory bursts; 3) l-arginine/GHRP-2 stimulation lengthens GH secretory bursts whether or not E(2) is present; 4) E(2) limits the capability of l-arginine/GHRP-2 to expand GH secretory bursts, and fulvestrant does not inhibit this effect; and 5) E(2) and/or fulvestrant do not alter the time evolution of l-arginine/GHRH-induced GH secretory bursts. The collective data indicate that peripheral ERalpha-dependent mechanisms determine the shape (waveform) of in vivo GH secretory bursts and that such mechanisms operate with secretagogue selectivity."
+  },
+  {
+   "pmid": "20299490",
+   "titel": "Secretagogue type, sex-steroid milieu, and abdominal visceral adiposity individually determine secretagogue-stimulated cortisol secretion",
+   "jahr": "2010",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Iranmanesh A",
+   "doi": "10.1530/EJE-10-0149",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "abstract": "DESIGN: While androgens and estrogens control glucocorticoid secretion in animal models, how the sex-steroid milieu determines cortisol secretion in humans is less clear. To address this issue, cortisol was measured in archival sera obtained at 10-min intervals for 5 h in 42 healthy men administered double placebo, placebo and testosterone, testosterone and dutasteride (to block 5alpha-reductases type I and type II), or testosterone and anastrozole (to block aromatase) in a double-blind, placebo-controlled, prospectively randomized design. METHODS: Subjects received i.v. injection of saline, GHRH, GH-releasing peptide-2 (GHRP-2), somatostatin (SS), and GHRP-2/GHRH/l-arginine (triple stimulus) each on separate mornings fasting. Outcomes comprised cortisol concentrations, pulsatile cortisol secretion, and relationships with age or abdominal visceral fat (AVF). RESULTS: By ANCOVA, baseline (saline-infused) cortisol concentrations (nmol/l) did not differ among the sex-steroid milieus (overall mean 364+/-14). In contrast, stimulated peak cortisol concentrations were strongly determined by secretagogue type (P<0.001) as follows: triple stimulus (868+/-27)>GHRP-2 (616+/-42)>saline=SS=GHRH (grand mean 420+/-21). After GHRP-2 injection, pulsatile cortisol secretion increased with age (R(2)=0.16, P=0.012). After the triple stimulus, pulsatile cortisol secretion correlated i) inversely with serum 5alpha-dihydrotestosterone (DHT) concentrations (R(2)=0.53, P=0.026) and ii) directly with computerized tomography-estimated AVF (R(2)=0.11, P=0.038). CONCLUSION: Age, DHT concentrations, AVF, and secretagogue type influence pulsatile cortisol secretion at least in men. Further studies should be performed to assess ACTH secretion and native ghrelin action in defined sex-steroid milieus."
+  },
+  {
+   "pmid": "21795635",
+   "titel": "Regulated recovery of pulsatile growth hormone secretion from negative feedback: a preclinical investigation",
+   "jahr": "2011",
+   "journal": "Am J Physiol Regul Integr Comp Physiol",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1152/ajpregu.00293.2011",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "abstract": "Although stimulatory (feedforward) and inhibitory (feedback) dynamics jointly control neurohormone secretion, the factors that supervise feedback restraint are poorly understood. To parse the regulation of growth hormone (GH) escape from negative feedback, 25 healthy men and women were studied eight times each during an experimental GH feedback clamp. The clamp comprised combined bolus infusion of GH or saline and continuous stimulation by saline GH-releasing hormone (GHRH), GHRP-2, or both peptides after randomly ordered supplementation with placebo (both sexes) vs. E(2) (estrogen; women) and T (testosterone; men). Endpoints were GH pulsatility and entropy (a model-free measure of feedback quenching). Gender determined recovery of pulsatile GH secretion from negative feedback in all four secretagog regimens (0.003 ≤ P ≤ 0.017 for women>men). Peptidyl secretagog controlled the mass, number, and duration of feedback-inhibited GH secretory bursts (each, P < 0.001). E(2)/T administration potentiated both pulsatile (P = 0.006) and entropic (P < 0.001) modes of GH recovery. IGF-I positively predicted the escape of GH secretory burst number and mode (P = 0.022), whereas body mass index negatively forecast GH secretory burst number and mass (P = 0.005). The composite of gender, body mass index, E(2), IGF-I, and peptidyl secretagog strongly regulates the escape of pulsatile and entropic GH secretion from autonegative feedback. The ensemble factors identified in this preclinical investigation enlarge the dynamic model of GH control in humans."
+  },
+  {
+   "pmid": "15579792",
+   "titel": "Contributions of gender and systemic estradiol and testosterone concentrations to maximal secretagogue drive of burst-like growth hormone secretion in healthy middle-aged and older adults",
+   "jahr": "2004",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1210/jc.2004-0644",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "To test whether concentrations of estradiol and testosterone predict GH responses to mechanistically distinct secretagogues in healthy older adults, we studied 16 volunteers (n = 10 men, n = 6 women, age 49-72 yr) in each of six randomly ordered sessions as follows: 1) saline; 2) l-arginine; 3) aerobic exercise; 4) GHRH; 5) GH-releasing peptide (GHRP)-2; and 6) somatostatin-induced rebound. Statistical comparisons disclosed that stimulus type (P < 0.001) and the interaction between gender and stimulus type (P = 0.023) determine GH secretion. In women, each secretagogue, except exercise and somatostatin-induced rebound, stimulated GH secretion by 2.6- to 6.4-fold over saline/rest (P < 0.023). In men, somatostatin-induced rebound drove GH secretion by 4.6-fold (P = 0.004), exercise by 16-fold (P < 0.001), and other secretagogues by 18- to 109-fold over saline/rest (each P < 0.001). Gender comparisons disclosed greater GH secretion in men than women after somatostatin-induced rebound (P = 0.008) and GHRP-2 injection (P < 0.001) and conversely greater GH secretion in women than men after saline (P = 0.013). Regression analysis showed that individual concentrations of estradiol (r = 0.80, P = 0.002) and testosterone (r = 0.63, P = 0.008) and their combination (r = 0.86, P < 0.001) strongly predict responses to GHRP-2 only. We conclude that among healthy middle-aged and older adults, the action of GHRP is uniquely determined by gender and physiological concentrations of testosterone and estradiol."
+  },
+  {
+   "pmid": "9612233",
+   "titel": "Evidence against a role for the growth hormone-releasing peptide axis in human slow-wave sleep regulation",
+   "jahr": "1998",
+   "journal": "Am J Physiol",
+   "erstautor": "Moreno-Reyes R",
+   "doi": "10.1152/ajpendo.1998.274.5.E779",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "A complex interrelationship exists between sleep and somatotropic activity. In humans, intravenous injections of growth hormone-releasing hormone (GHRH) given during sleep consistently stimulate slow-wave (SW) sleep, particularly when given in the latter part of the night. In the present study, the possible somnogenic effects induced under similar conditions by GH-releasing peptide (GHRP) were investigated in seven young healthy men. Bolus intravenous injections of GHRP-2 (1 microgram/kg body wt) or saline, in randomized order, were given after 60 s of the third rapid-eye-movement period. All GHRP injections were immediately followed by transient prolactin elevations and by GH pulses of a magnitude within or around the upper limit of the physiological range. Except for a nonsignificant tendency to increased amounts of wakefulness during the 1st h after the injection, no effects of GHRP-2 administration on sleep were detected. There was in particular no enhancement of SW sleep. Thus, in contrast to GHRH, late-night single injections of GHRP-2 at a dosage resulting in similar GH elevations have no stimulatory effects on SW sleep. The present data provide evidence against the involvement of the GHRP axis in human SW sleep regulation."
+  },
+  {
+   "pmid": "10037246",
+   "titel": "Growth hormone-releasing peptide-2 infusion synchronizes growth hormone, thyrotrophin and prolactin release in prolonged critical illness",
+   "jahr": "1999",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Van den Berghe G",
+   "doi": "10.1530/eje.0.1400017",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "OBJECTIVE: During prolonged critical illness, nocturnal pulsatile secretion of GH, TSH and prolactin (PRL) is uniformly reduced but remains responsive to the continuous infusion of GH secretagogues and TRH. Whether such (pertinent) secretagogues would synchronize pituitary secretion of GH, TSH and/or PRL is not known. DESIGN AND METHODS: We explored temporal coupling among GH, TSH and PRL release by calculating cross-correlation among GH, TSH and PRL serum concentration profiles in 86 time series obtained from prolonged critically ill patients by nocturnal blood sampling every 20 min for 9 h during 21-h infusions of either placebo (n=22), GHRH (1 microg/kg/h; n=10), GH-releasing peptide-2 (GHRP-2; 1 microg/kg/h; n=28), TRH (1 microg/kg/h; n=8) or combinations of these agonists (n=8). RESULTS: The normal synchrony among GH, TSH and PRL was absent during placebo delivery. Infusion of GHRP-2, but not GHRH or TRH, markedly synchronized serum profiles of GH, TSH and PRL (all P< or =0.007). After addition of GHRH and TRH to the infusion of GHRP-2, only the synchrony between GH and PRL was maintained (P=0.003 for GHRH + GHRP-2 and P=0.006 for TRH + GHRH + GHRP-2), and was more marked than with GHRP-2 infusion alone (P=0.0006 by ANOVA). CONCLUSIONS: The nocturnal GH, TSH and PRL secretory patterns during prolonged critical illness are herewith further characterized to include loss of synchrony among GH, TSH and PRL release. The synchronizing effect of an exogenous GHRP-2 drive, but not of GHRH or TRH, suggests that the presumed endogenous GHRP-like ligand may participate in the orchestration of coordinated anterior pituitary hormone release."
+  },
+  {
+   "pmid": "18703567",
+   "titel": "Secretagogues govern GH secretory-burst waveform and mass in healthy eugonadal and short-term hypogonadal men",
+   "jahr": "2008",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1530/EJE-08-0414",
+   "typ": [
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "abstract": "BACKGROUND: GH pulses are putatively initiated by hypothalamic GH-releasing hormone (GHRH), amplified by GH-releasing peptide (GHRP), and inhibited by somatostatin (SS). OBJECTIVE: To ascertain how secretagogues control the waveform (time evolution of release rates) as well as the mass of secretory bursts. DESIGN: We quantified the shape of GH secretory bursts evoked by continuous combined i.v. infusion of maximally effective doses of GHRH and GHRP-2, and by bolus injection of each peptide after delivering L-arginine to restrain hypothalamic SS release in 12 healthy young men. METHODS: A mathematically verified and experimentally validated variable-waveform deconvolution model was applied to intensively sampled GH time series. RESULTS: The secretory-burst mode (time from burst onset to maximal secretion) was 19+/-0.69 min during saline infusion, and fell to a) 10.4+/-3.0 min during constant dual stimulation with GHRH/GHRP-2 (P<0.01), b) 14.6+/-1.8 min after l-arginine/GHRH (P<0.025), and c) 15.0+/-1.0 min after l-arginine/GHRH (P<0.01). Secretagogues augmented the mass of GH secreted in pulses by 44-, 42-, and 16-fold respectively, over saline (2.2+/-0.81 microg/l per h; P<0.001 for each). Pulse number and variability were unaffected. Applying the same methodology to ten other young men with acute leuprolide-induced hypogonadism yielded comparable waveform and mass estimates. CONCLUSION: The present analyses in men demonstrate that peptidyl secretagogues modulate not only the magnitude but also the time course of the GH-release process in vivo independently of the short-term sex-steroid milieu."
+  },
+  {
+   "pmid": "8949573",
+   "titel": "Pituitary responsiveness to GH-releasing hormone, GH-releasing peptide-2 and thyrotrophin-releasing hormone in critical illness",
+   "jahr": "1996",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Van den Berghe G",
+   "doi": "10.1046/j.1365-2265.1996.00805.x",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: Protein hypercatabolism and preservation of fat depots are hallmarks of critical illness, which is associated with blunted pulsatile GH secretion and low circulating IGF-I, TSH, T4 and T3. Repetitive TRH administration is known to reactivate the pituitary-thyroid axis and to evoke paradoxical GH release in critical illness. We further explored the hypothalamic-pituitary function in critical illness by examining the effects of GH-releasing hormone (GHRH) and/or GH-releasing peptide-2 (GHRP-2) and TRH administration. PATIENTS AND DESIGN: Critically ill adults (n = 40; mean age 55 years) received two i.v. boluses with a 6-hour interval (0900 and 1500 h) within a cross-over design. Patients were randomized to receive consecutively placebo and GHRP-2 (n = 10), GHRH and GHRP-2 (n = 10), GHRP-2 and GHRH+GHRP-2 (n = 10), GHRH+GHRP-2 and GHRH+GHRP-2 + TRH (n = 10). The GHRH and GHRP-2 doses were 1 microgram/kg and the TRH dose was 200 micrograms. Blood samples were obtained before and 20, 40, 60 and 120 minutes after each injection. MEASUREMENTS: Serum concentrations of GH, T4, T3, rT3, thyroid hormone binding globulin (TBG), IGF-I, insulin and cortisol were measured by RIA; PRL and TSH concentrations were determined by IRMA. RESULTS: Critically ill patients presented a striking GH response to GHRP-2 (mean +/- SEM peak GH 51 +/- 9 micrograms/l in older patients and 102 +/- 26 micrograms/l in younger patients; P = 0.005 vs placebo). The mean GH response to GHRP-2 was more than fourfold higher than to GHRH (P = 0.007). In turn, the mean GH response to GHRH+GHRP-2 was 2.5-fold higher than to GHRP-2 alone (P = 0.01), indicating synergism. Adding TRH to the GHRH+GHRP-2 combination slightly blunted this mean response by 18% (P = 0.01). GHRP-2 had no effect on serum TSH concentrations whereas both GHRH and GHRH+GHRP-2 evoked an increase in peak TSH levels of 53 and 32% respectively. The addition of TRH further increased this TSH response > ninefold (P = 0.005), elicited a 60% rise in serum T3 (P = 0.01) and an 18% increase in T4 (P = 0.005) levels, without altering rT3 or TBG levels. GHRH and/or GHRP-2 induced a small increase in serum PRL levels. The addition of TRH magnified the PRL response 2.4-fold (P = 0.007). GHRP-2 increased basal serum cortisol levels (531 +/- 29 nmol/l) by 35% (P = 0.02); GHRH provoked no additional response, but adding TRH further increased the cortisol response by 20% (P = 0.05). CONCLUSIONS: The specific character of hypothalamic-pituitary function in critical illness is herewith extended to the responsiveness to GHRH and/or GHRP-2 and TRH. The observation of striking bursts of GH secretion elicited by GHRP-2 and particularly by GHRH+GHRP-2 in patients with low spontaneous GH peaks opens the possibility of therapeutic perspectives for GH secretagogues in critical care medicine."
+  },
+  {
+   "pmid": "9390009",
+   "titel": "Treatment effects of intranasal growth hormone releasing peptide-2 in children with short stature",
+   "jahr": "1997",
+   "journal": "J Endocrinol",
+   "erstautor": "Pihoker C",
+   "doi": "10.1677/joe.0.1550079",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Growth hormone-releasing peptide (GHRP)-2 is a synthetic six amino acid peptide that is a potent GH secretagogue. Although it shares no structural homology with GH-releasing hormone, in clinical studies its actions on the pituitary release of GH are similar. It is effective when administered orally and intranasally. For children with GH deficiency, such noninvasive treatments are most desirable and in need of development. Fifteen children with short stature participated in this study. All of the children had a height < 2 S.D. below mean for age, poor height velocity, delayed bone age, and low serum concentrations of IGF-1. These children had been tested with standard GH secretagogues, e.g. arginine, insulin, and L-dopa. Fifty percent of the children were GH deficient, the remainder had idiopathic short stature. The children received testing with GHRH and GHRP-2 as an acute i.v. bolus of 1 microgram/kg; all children in this study demonstrated a GH response > 20 micrograms/l. Each child in this study also demonstrated a GH response > 10 micrograms/l in response to intranasal GHRP-2, in the dose range of 5-20 micrograms/kg. The children were administered intranasal GHRP-2, 5-15 micrograms/kg, twice a day for 3 months, then three times a day. Fifteen children participated in the study for 6 months; six of the children have participated for 18-24 months. Height velocity, serum IGF-1, IGF-binding protein 3 (IGFBP-3) and GH-binding protein (GHBP) concentrations, and GH responses to GHRP-2 by i.v. bolus and intranasal spray were examined during treatment. Height velocity increased from 3.7 +/- 0.2 cm/year to 6.1 +/- 0.3 cm/year at 6 months, 6.0 +/- 0.4 cm/year at 18-24 months. There were no significant changes in IGF-1 or IGF-PB3 concentrations, or in acute GH responses to i.v. or intranasal GHRP-2. GHBP concentrations rose significantly, from 439 +/- 63 pmol/l to 688 +/- 48 pmol/l. In this study, intranasal GHRP-2 administration was well tolerated, and produced a modest but significant increase in growth velocity."
+  },
+  {
+   "pmid": "15963058",
+   "titel": "Short-term testosterone supplementation does not activate GH and IGF-I production in postmenopausal women",
+   "jahr": "2005",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Soares-Welch C",
+   "doi": "10.1111/j.1365-2265.2005.02294.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "BACKGROUND: Testosterone (Te), oestradiol, GH and IGF-I concentrations fall in postmenopausal women. OBJECTIVE: To test the effect of increased Te availability on impoverished GH/IGF-I secretion in this context. DESIGN/PATIENTS: Placebo (Pl) and a low vs. high dose of Te were administered transdermally for 7 days to each of 15 healthy older women (ages 48-81 years) in a randomized, double-blind crossover design. MEASUREMENTS: Frequent blood sampling, GHRP-2 (Growth hormone releasing peptide-2) infusion, and deconvolution analysis were used to assess GH secretion. RESULTS: Graded Te supplementation increased serum Te concentrations (nmol/l) from 0.87 +/- 0.06 [Pl] to 5 +/- 1 [low] and 7.3 +/- 1.6 [high] (P < 0.001), but did not affect: (i) pulsatile GH secretion (microg/l/12 h; conversion factor: 1 microg/l = 0.33 mU/l), 29 +/- 7.2, 32 +/- 5.6 and 27 +/- 4.9; (ii) GH regularity (approximate entropy), 0.52 +/- 0.05, 0.57 +/- 0.05 and 0.56 +/- 0.05; (iii) IGF-I concentrations (microg/l; conversion factor: 1 microg/l = 0.131 nmol/l), 126 +/- 13, 135 +/- 15 and 141 +/- 13; (iv) IGFBP-3 (mg/l), 3.7 +/- 0.2, 3.6 +/- 0.1 and 3.7 +/- 0.2; (v) IGFBP-1 (microg/l), 41 +/- 2.3, 44 +/- 3.8 and 44 +/- 3.2; and (vi) the mass of GH secreted (microg/l/3 h) after GHRP-2 injection, 123 +/- 27, 146 +/- 32 and 147 +/- 38. CONCLUSION: Up to 8-fold elevation of Te concentrations for 1 week in postmenopausal women does not detectably amplify GH secretion or action, thus indicating that low androgen availability is not a proximate acute mediator of hyposomatotropism in postmenopausal individuals."
+  },
+  {
+   "pmid": "17405836",
+   "titel": "Tripartite control of growth hormone secretion in women during controlled estradiol repletion",
+   "jahr": "2007",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1210/jc.2007-0043",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "abstract": "CONTEXT: Studies of how aging attenuates GH secretion are confounded by differences in sex-steroid milieus, abdominal visceral fat mass (AVF), and IGF-I concentrations and limited in interpretability by the use of pharmacological doses of secretagogues. HYPOTHESIS: In a controlled estrogenic milieu, near-physiological secretagogue drive will unmask distinct influences of age, AVF, and IGF-I on GH secretion. LOCATION: The study was conducted at an academic medical center. SUBJECTS: Subjects included 10 healthy pre- (PRE) and 10 postmenopausal (POST) women. PROCEDURE: In a defined estradiol (E(2)) milieu, we compared GH secretion after submaximal stimulation with GH-releasing peptide (GHRP)-2 (ghrelin analog), GHRH, and l-arginine (an inhibitor of somatostatin outflow). ANALYSIS: We related GH responses to age stratum (dichotomous variable) and AVF and IGF-I concentrations (continuous variables). RESULTS: In the face of comparable concentrations of E(2), testosterone, and SHBG: 1) age (P < 0.001) and secretagogue type (P < 0.001) independently determined GH secretion; 2) GH responses in POST subjects were only 26-33% of those in PRE (P < or = 0.002) across all secretagogues; 3) POST women lost the PRE order of secretagogue potency (GHRP-2 > GHRH = l-arginine); and 4) in the combined cohorts, higher AVF predicted reduced l-arginine-stimulated GH secretion (R(2) = 0.46, P = 0.0013), whereas higher IGF-I concentrations forecast increased GHRP-2 and GHRH drive (R(2) > or = 0.52, P < or = 0.013). CONCLUSION: A paradigm of near-physiological secretagogue drive in an E(2)-clamped milieu unmasks tripartite deficits in peptide-signaling pathways in healthy POST, compared with PRE, women. Post hoc analyses indicate that both greater visceral adiposity and lower IGF-I concentrations mark this triple regulatory defect."
+  },
+  {
+   "pmid": "21613353",
+   "titel": "Gender, sex-steroid, and secretagogue-selective recovery from growth hormone-induced feedback in older women and men",
+   "jahr": "2011",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1210/jc.2011-0298",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "abstract": "CONTEXT: GH negatively regulates its own secretion. How gender, sex steroids, and secretagogues modulate GH autofeedback is not known. HYPOTHESIS/OBJECTIVE: Supplementation with sex steroids and/or a peptidyl secretagogue will enhance the escape of GH from autoinhibition, thus framing a mechanism for amplifying pulsatile GH secretion. SUBJECTS AND SETTING: Ten healthy postmenopausal women and 10 comparably aged men participated at the Clinical-Translational Science Unit. DESIGN/INTERVENTIONS: Randomly ordered, double-blind, prospective crossover treatment with placebo vs. testosterone (men) or placebo vs. estradiol (women). Autofeedback was imposed by an iv pulse of GH. Recovery of feedback inhibition was quantified during constant infusion of saline, GHRH, or GH-releasing peptide-2 (three peptide categories). OUTCOMES/RESULTS: During negative feedback, total (integrated) GH recovery depended upon gender (P = 0.017), sex hormone (P < 0.001), and peptide category (P < 0.001). Mechanistic analysis revealed that feedback-suppressed nadir GH concentrations were determined by sex-steroid treatment (P = 0.018) but not by gender (P = 0.444). Peak GH escape was controlled by both treatment (P = 0.004) and gender (P = 0.003). Nadir GH and peak GH during feedback were enhanced by GHRH or GHRP-2 (P < 0.001 for both). Gender × peptide (P = 0.012 for nadir GH), treatment × peptide (P < 0.001 total and peak GH), and gender × treatment (P = 0.017 nadir GH) regulated GH recovery interactively. CONCLUSION: Gender, sex-steroid supplementation, and secretagogue type confer distinct feedback-rescuing effects, introducing a new level of complexity in the control of pulsatile GH regulation."
+  },
+  {
+   "pmid": "17114911",
+   "titel": "GH response to hypoglycemia and clonidine in the GH-releasing hormone resistance syndrome",
+   "jahr": "2006",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Salvatori R",
+   "doi": "10.1007/BF03347374",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "abstract": "GH secretion by the pituitary is the result of the balance between the stimulatory effect of GHRH and the inhibitory effect of SS. Patients with mutations in GHRH receptor (GHRH-R) gene (GHRH-R) offer a unique model to study the mechanism of action of different GH secretion stimuli. In the past, we have demonstrated a small but significant GH response to a GH secretagogue (GHRP-2) in a homogenous cohort of patients with severe GH deficiency (GHD) due to a homozygous null mutation in GHRH-R (IVS1+1G-->A). Now, we sought to determine if we could detect a GH response to hypoglycemia (ITT: insulin tolerance test) or clonidine (CL) in these patients. Nine young GHD subjects underwent both ITT and CL tests, and 2 additional subjects underwent only CL test. There was a small but significant GH increase during ITT, but not during CL test. These results indicate that a minimal albeit significant GH response to ITT can occur despite complete lack of GHRH-R function."
+  },
+  {
+   "pmid": "9745404",
+   "titel": "Leptin levels in protracted critical illness: effects of growth hormone-secretagogues and thyrotropin-releasing hormone",
+   "jahr": "1998",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Van den Berghe G",
+   "doi": "10.1210/jcem.83.9.5120",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Prolonged critical illness is characterized by feeding-resistant wasting of protein, whereas reesterification, instead of oxidation of fatty acids, allows fat stores to accrue and associate with a low-activity status of the somatotropic and thyrotropic axis, which seems to be partly of hypothalamic origin. To further unravel this paradoxical metabolic condition, and in search of potential therapeutic strategies, we measured serum concentrations of leptin; studied the relationship with body mass index, insulin, cortisol, thyroid hormones, and somatomedins; and documented the effects of hypothalamic releasing factors, in particular, GH-secretagogues and TRH. Twenty adults, critically ill for several weeks and supported with normocaloric, continuously administered parenteral and/or enteral feeding, were studied for 45 h. They had been randomized to receive one of three combinations of peptide infusions, in random order: TRH (one day) and placebo (other day); TRH + GH-releasing peptide (GHRP)-2 and GHRP-2; TRH + GHRH + GHRP-2 and GHRH + GHRP-2. Peptide infusions were started after a 1-microgram/kg bolus at 0900 h and infused (1 microgram/kg.h) until 0600 h the next morning. Serum concentrations of leptin, insulin, cortisol, T4, T3, insulin-like growth factor (IGF)-I, IGF-binding protein-3 and the acid-labile subunit (ALS) were measured at 0900 h, 2100 h, and 0600 h on each of the 2 study days. Baseline leptin levels (mean +/- SEM: 12.4 +/- 2.1 micrograms/L) were independent of body mass index (25 +/- 1 kg/m2), insulin (18.6 +/- 2.9 microIU/mL), cortisol (504 +/- 43 mmol/L), and thyroid hormones (T4: 63 +/- 5 nmol/L, T3: 0.72 +/- 0.08 nmol/L) but correlated positively with circulating levels of IGF-I [86 +/- 6 micrograms/L, determination coefficient (R2) = 0.25] and ALS (7.2 +/- 0.6 mg/L, R2 = 0.32). Infusion of placebo or TRH had no effect on leptin. In contrast, GH-secretagogues elevated leptin levels within 12 h. Infusion of GHRP-2 alone induced a maximal leptin increase of +87% after 24 h, whereas GHRH + GHRP-2 elevated leptin by up to +157% after 24 h. The increase in leptin within 12 h was related (R2 = 0.58) to the substantial rise in insulin. After 45 h, and having reached a plateau, leptin was related to the increased IGF-I (R2 = 0.37). In conclusion, circulating leptin levels during protracted critical illness were linked to the activity state of the GH/IGF-I axis. Stimulating the GH/IGF-I axis with GH-secretagogues increased leptin levels within 12 h. Because leptin may stimulate oxidation of fatty acids, and because GH, IGF-I, and insulin have a protein-sparing effect, GH-secretagogue administration may be expected to result in increased utilization of fat as preferential substrate and to restore protein content in vital tissues and, consequently, has potential as a strategy to reverse the paradoxical metabolic condition of protracted critical illness."
+  },
+  {
+   "pmid": "27020037",
+   "titel": "Investigation of the clinical significance of the growth hormone-releasing peptide-2 test for the diagnosis of secondary adrenal failure",
+   "jahr": "2016",
+   "journal": "Endocr J",
+   "erstautor": "Arimura H",
+   "doi": "10.1507/endocrj.EJ15-0587",
+   "typ": [
+    "Controlled Clinical Trial",
+    "Journal Article"
+   ],
+   "abstract": "The aim of this study was to evaluate the ability of the growth hormone-releasing peptide-2 (GHRP-2) test to clinically diagnose hypothalamo-pituitary-adrenal (HPA) axis failure. We performed an insulin tolerance test (ITT), CRH stimulation test, and GHRP-2 test on 47 patients suspected of having a hypothalamo-pituitary disorder. Patients with pituitary disorders had significantly lower ACTH responses to the GHRP-2 test compared to patients with hypothalamic disorders and the control group. In contrast, peak cortisol levels in response to the GHRP-2 test were significantly lower in both hypothalamic and pituitary disorder cases compared with the control group. Assignment of a cut-off value of 11.6 μg/dL for the peak serum cortisol level demonstrated that the GHRP-2 test was able to predict secondary hypoadrenalism with 88.9% specificity and 89.7% sensitivity. The responses of ACTH and cortisol to the GHRP-2 test had no correlation to the CRH test, suggesting the involvement of a different mechanism of ACTH secretion. These results indicate that the GHRP-2 test may induce ACTH secretion from the pituitary gland through direct stimulation. Although the GHRP-2 test does not have the same predictive value as the insulin tolerance test (ITT), it has similar diagnostic potential as the CRH stimulation test for evaluating HPA axis failure."
+  },
+  {
+   "pmid": "19458139",
+   "titel": "Preservation of GHRH and GH-releasing peptide-2 efficacy in young men with experimentally induced hypogonadism",
+   "jahr": "2009",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1530/EJE-09-0270",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "abstract": "BACKGROUND: Somatostatin (SS), GHRH, GH-releasing peptide (GHRP), and the sex-steroid milieu regulate GH secretion. OBJECTIVE: To test whether GHRH and GHRP remain effective secretagogs in the face of short-term hypogonadism. DESIGN: Prospective, randomized double-blind. METHODS: Healthy young men (n=24) received a GnRH agonist twice 3 weeks apart followed by placebo (n=13, Pl) or testosterone (n=11, testosterone) addback. SUBJECTS: were then given consecutive i.v. infusions of l-arginine (to restrain SS outflow) and a maximally effective dose of GHRH or GHRP-2 (to test corresponding secretagog pathways). RESULTS: GH secretion stimulated by l-arginine/GHRH and by l-arginine/GHRP-2 was unaffected by combined testosterone/estradiol (E(2)) depletion. The low testosterone/E(2) milieu decreased basal (nonpulsatile) GH secretion (P=0.038), without altering fasting pulsatile GH secretion or IGF1 or IGF-binding protein (IGFBP)-3 concentrations. IGFBP-1 (P<0.0001) and abdominal visceral fat (AVF, P=0.017) correlated negatively with fasting basal GH secretion. By contrast, IGF1 (P=0.0012) and IGFBP-3 (P=0.015) correlated positively with fasting pulsatile GH secretion. AVF (P=0.0024) was a negative determinant, and IGF1 a positive determinant (P=0.018), of GHRH-driven GH pulses. Responses to GHRP-2 were unrelated to any of these factors. CONCLUSION: l-arginine/GHRP-2 appears to be an especially robust stimulus of GH secretion, since efficacy is unmodified by profound short-term hypogonadism, a range of AVF estimates, and a spectrum of IGF1, IGFBP-1, and IGFBP-3 concentrations. Whether robustness also applies to chronic hypogonadism is not known."
+  },
+  {
+   "pmid": "15356066",
+   "titel": "Activation of somatostatin-receptor subtype-2/-5 suppresses the mass, frequency, and irregularity of growth hormone (GH)-releasing peptide-2-stimulated GH secretion in men",
+   "jahr": "2004",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Iranmanesh A",
+   "doi": "10.1210/jc.2004-0205",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "Somatostatin antagonizes the stimulatory actions of GHRH and GH-releasing peptides (GHRPs). However, precisely how the inhibitory susceptibilities of the two secretagogues differ is not clear. One interpretative difficulty is that native somatostatin activates six different receptor subtypes. The present study adopts the complementary strategy of enforcing feedback inhibition via the preferential somatostatin receptor subtype 2 and 5 (SSTR-2/-5) agonist, octreotide. We postulated that putative SSTR-2/-5 agonism would unmask secretagogue-selective interactions in the control of GH secretory burst mass, frequency, and/or regularity. To this end, 10 healthy men each underwent eight randomly ordered, separate-day, fasting morning infusion sessions. Interventions comprised sc administration of octreotide (1 microg/kg), followed by bolus iv injection of saline, GHRH (1 microg/kg), GHRP-2 (1 microg/kg), or both peptides. Compared with placebo, the SSTR-2/-5 agonist reduced fasting GH concentrations from 0.27 +/- 0.07 to 0.12 +/- 0.02 microg/liter (P = 0.020), GH secretory burst mass from 2.7 +/- 0.65 to 0.55 +/- 0.11 microg/liter (P = 0.013), and basal GH secretion from 0.24 +/- 0.043 to 0.11 +/- 0.015 microg/liter.100 min (P = 0.0063). The foregoing outcomes were selective, because octreotide did not alter GH secretory burst frequency (3.1 +/- 0.5 vs. 3.3 +/- 0.21 events/3 h) or the regularity of the GH release process (approximate entropy, 0.58 +/- 0.048 vs. 0.68 +/- 0.064). In the GHRP-2-stimulated setting, presumptive SSTR-2/-5 agonism suppressed all three GH secretory burst masses, from 28 +/- 3.2 to 18 +/- 2.0 (P = 0.045); GH pulse frequency, from 3.3 +/- 0.30 to 2.0 +/- 0.18 (P = 0.0025); and the irregularity (approximate entropy) of GH release, from 0.648 +/- 0.049 to 0.433 +/- 0.047 (P < 0.01). In contrast, in the GHRH and combined GHRH/GHRP-2-stimulated contexts, octreotide decreased only GH secretory burst mass (P = 0.047). In summary, the present data indicate that GH secretory burst mass, frequency, and orderliness are subject to interactive control by at least SSTR-2/-5-dependent feedback and GHRP-dependent feedforward signals."
+  },
+  {
+   "pmid": "11322505",
+   "titel": "Growth hormone/insulin-like growth factor-1 response to acute and chronic growth hormone-releasing peptide-2, growth hormone-releasing hormone 1-44NH2 and in combination in older men and women with decreased growth hormone secretion",
+   "jahr": "2001",
+   "journal": "Endocrine",
+   "erstautor": "Bowers CY",
+   "doi": "10.1385/ENDO:14:1:079",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "To better appreciate the interactions of GHRP-2 and GHRH 1-44NH2 on the release of GH in normal adult men and women with decreased GH secretion and low serum IGF-1 levels, a series of acute and chronic studies have been performed (n = 5 men, 5 women). The acute iv bolus GH responses of these subjects to the two peptides alone and together suggest that the decreased GH secretion may be primarily due to a deficiency of the natural endogenous GHRP, ghrelin, rather than a decreased secretion of endogenous GHRH or excess secretion of SRIF. To determine whether the low GH response to GHRH was due to a limited capacity of pituitary to release GH, higher dosages of GHRP-2 alone were administered. At a dose of 1 microg/kg GHRP-2 the GH response was essentially the same as that elicited by 1 microg/kg GHRH + 0.1 microg/kg GHRP-2 while the GH response to 10 microg/kg GHRP-2 sc was about twice as high in both men and women. Although these subjects have a limited pituitary capacity to release GH, which is also an indication of decreased GH secretion in the presence of low serum IGF-1 levels, this alone would not explain the low GH response to GHRH. Furthermore, the finding that a low dose of 0.1 microg/kg GHRP-2 augments the GH response to 1 microg/kg GHRH is strongly against an excess secretion of SRIF. Twenty-four hour profiles of GH secretion during placebo, GHRP-2, and various doses of GHRH alone and together with GHRP-2 were studied. In addition, 1 microg/kg/h GHRP-2 was infused continuously sc to these subjects for 30 d. The normal pulsatile secretion of GH as well as the serum IGF-1 level was increased after 24 h and remained elevated for 30 d. With a deficiency of endogenous GHRH, the GH response of GHRP-2 would be little to none, while in subjects with a deficiency of the natural GHRP, the GH response to GHRH would be more attenuated. Thus, in chronic deficiency the GH response would be expected to depend on the degree of the capacity of the pituitary to release GH as well as the type(s) of hormonal deficiency."
+  },
+  {
+   "pmid": "15613434",
+   "titel": "Determinants of dual secretagogue drive of burst-like growth hormone secretion in premenopausal women studied under a selective estradiol clamp",
+   "jahr": "2005",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Erickson D",
+   "doi": "10.1210/jc.2004-1621",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "The present study tests the hypothesis that estradiol (E(2)), compared with placebo (Pl), amplifies combined-secretagogue stimulation of GH secretion in premenopausal women studied at comparable IGF-I and testosterone concentrations. To this end, 13 women underwent GnRH agonist-induced gonadal down-regulation followed by graded transdermal addback of E(2) or Pl and randomly ordered iv infusions of saline or paired secretagogues on separate morning fasting. GH secretion was assessed by frequent blood sampling, immunochemiluminometry, and variable-waveform deconvolution analysis. Two-way ANOVA revealed that specific secretagogue combination (P < 0.001), E(2) status (P = 0.012), and their interaction (P = 0.038) jointly determined GH secretory-burst mass. Compared with Pl, the E(2)-clamped milieu elevated mean fasting GH concentrations (P = 0.032), the mass of GH secreted in bursts (P = 0.037), and maximal stimulation by paired l-arginine/GH-releasing peptide (GHRP)-2 (P = 0.028). E(2) also markedly accelerated the initial release of GH induced by GHRH/GHRP-2 (P < 0.001) and l-arginine/GHRH (P < 0.01). By linear regression analysis, E(2) concentrations positively forecast 41% of intersubject variability in GH secretion stimulated by combined l-arginine/GHRP-2 (P = 0.018), whereas abdominal visceral-fat mass negatively predicted 49% of that due to l-arginine/GHRH (P = 0.012). These data indicate that pulsatile GH secretion in young women studied at constant IGF-I and testosterone concentrations is dictated 3-fold jointly by secretagogue pair, E(2) availability, and intraabdominal adiposity. Moreover, the rapidity of GH release is controlled 2-fold jointly by E(2) and GHRH."
+  },
+  {
+   "pmid": "7586605",
+   "titel": "GH responses to intravenous bolus infusions of GH releasing hormone and GH releasing peptide 2 separately and in combination in adult volunteers",
+   "jahr": "1995",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Tiulpakov AN",
+   "doi": "10.1111/j.1365-2265.1995.tb02042.x",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "OBJECTIVE: Synthetic growth hormone releasing peptides (GHRP) have potent GH-releasing activity in vivo and in vitro. The nature of the interaction of GHRP and naturally occurring GH releasing hormone (GHRH) is still far from clear. We investigated GH release in response to individual peptide doses or combined doses of GHRH1-29NH2 and GHRP-2, a novel GH-releasing peptide, in normal adults. DESIGN: Subjects underwent three tests in a randomized order: (1) i.v. bolus of GHRH1-29NH2 (1 microgram/kg BW), (2) i.v. bolus of GHRP-2 (1 microgram/kg BW), (3) i.v. bolus of GHRH1-29NH2 combined with GHRP-2 (same dosages). SUBJECTS: Eight healthy non-obese male volunteers, aged 25-34 years. MEASUREMENTS: Serum GH concentrations were measured by IRMA at -15, 0, +10, 20, 30, 45, 60, 75, 90 and 120 minutes after the boluses. RESULTS: Peak GH levels in response to GHRH1-29NH2, GHRP-2 and the combined GHRH1-29NH2 and GHRP-2 administrations were observed between 20 and 45 minutes. Peak GH levels at 30 minutes were 32.8 +/- 27.3 (mean +/- SD), 109.7 +/- 56.1 and 140.9 +/- 80.6 mU/l, respectively. The area under the curve for GH levels (GH AUC) calculated for the first 90 minutes after the GHRH1-29NH2 test (2061.2 +/- 1601.9 mU/lmin) was significantly lower than those after GHRP-2 (6205.1 +/- 3216.9 mU/lmin) and the combined GHRH1-29NH2 and GHRP-2 challenge (9788.3 +/- 5530.4 mU/lmin) (P = 0.0003 and P = 0.00005, respectively; paired Student's t-test for log transformed data). Although the GH AUC of the GHRP-2 test and the combined GHRH1-29NH2 and GHRP-2 test differed significantly (P = 0.016, t-test), the latter was not significantly different from the sum of the GH AUCs of each subject after the separate tests. CONCLUSION: Although the GH releasing potency of GHRP-2 significantly exceeded that of GHRH1-29NH2, we were not able to demonstrate synergy between the two substances. It is possible that GHRP-2 given in our study GHRP-2 significantly exceeded that of GHRH1-29NH2, we were not able to demonstrate synergy between the two substances. It is possible that GHRP-2 given in our study in higher molar quantities than GHRH1-29NH2 masked the effect of the latter."
+  },
+  {
+   "pmid": "7666796",
+   "titel": "Growth hormone (GH)-releasing effects of synthetic peptide GH-releasing peptide-2 and GH-releasing hormone (1-29NH2) in children with GH insufficiency and idiopathic short stature",
+   "jahr": "1995",
+   "journal": "Metabolism",
+   "erstautor": "Tuilpakov AN",
+   "doi": "10.1016/0026-0495(95)90016-0",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "To investigate how growth hormone (GH)-releasing peptide (GHRP) and GH-releasing hormone (GHRH) interact in patients with short stature, we examined the acute effects of GHRH1-29NH2, GHRP-2, and the combination of GHRH1-29NH2 and GHRP-2 on GH release in children with GH insufficiency ([GHI] group A) and idiopathic short stature ([ISS] group B). Ten children with GHI (aged 11.8 +/- 1.1 years; height, -4.2 +/- 0.5 SDS) and five children with ISS (aged 11.1 +/- 1.2 years; height, -3.2 +/- 0.1 SDS) were studied. Intravenous bolus infusions of GHRH1-29NH2 (1 micrograms/kg), GHRP-2(1 microgram/kg), and GHRH plus GHRP-2 (each 1 micrograms/kg), were administered in a randomized order. Because of the variability of GH responses, results were analyzed by a nonparametric statistical method. Patients in group A showed low GH responses to both GHRH1-29NH2 and GHRP-2 stimulation: in only three of 10 and one of nine cases, respectively, were the peak GH levels above 5.0 micrograms/L. GH area under the curve (AUC) 90 minutes after GHRP-2 administration was slightly less than for GHRH1-29NH2 (179 +/- 150 v 214 +/- 68 micrograms/L.min, P = .06). In group B, GH responses to GHRH1-29NH2 and GHRP-2 were approximately of the same magnitude (1,943 +/- 819 v 1,981 +/- 887 micrograms/L.min, P = .9).(ABSTRACT TRUNCATED AT 250 WORDS)"
+  },
+  {
+   "pmid": "10634385",
+   "titel": "A paradoxical gender dissociation within the growth hormone/insulin-like growth factor I axis during protracted critical illness",
+   "jahr": "2000",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Van den Berghe G",
+   "doi": "10.1210/jcem.85.1.6316",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "Female gender appears to protect against adverse outcome from prolonged critical illness, a condition characterized by blunted and disorderly GH secretion and impaired anabolism. As a sexual dimorphism in the GH secretory pattern of healthy humans and rodents determines gender differences in metabolism, we here compared GH secretion and responsiveness to GH secretagogues in male and female protracted critically ill patients. GH secretion was quantified by deconvolution analysis and approximate entropy estimates of 9-h nocturnal time series in 9 male and 9 female patients matched for age (mean +/- SD, 67+/-11 and 67+/-15 yr), body mass index, severity and duration of illness, feeding, and medication. Serum concentrations of PRL, TSH, cortisol, and sex steroids were measured concomitantly. Serum levels of GH-binding protein, insulin-like growth factor I (IGF-I), IGF-binding proteins (IGFBPs), and PRL were compared with those of 50 male and 50 female community-living control subjects matched for age and body mass index. In a second study, GH responses to GHRH (1 microg/kg), GH-releasing peptide-2 (GHRP-2; 1 microg/ kg) and GHRH plus GHRP-2 (1 and 1 microg/kg) were examined in comparable, carefully matched male (n = 15) and female (n = 15) patients. Despite identical mean serum GH concentrations, total GH output, GH half-life, and number of GH pulses, critically ill men paradoxically presented with less pulsatile (mean +/- SD pulsatile GH fraction, 39+/-14% vs. 67+/-20%; P = 0.002) and more disorderly (approximate entropy, 0.946+/-0.113 vs. 0.805+/-0.147; P = 0.02) GH secretion than women. Serum IGF-I, IGFBP-3, and acid-labile subunit (ALS) levels were low in patients compared with controls, with male patients revealing lower IGF-I (P = 0.01) and ALS (P = 0.005) concentrations than female patients. Correspondingly, circulating IGF-I and ALS levels correlated positively with pulsatile (but not with nonpulsatile) GH secretion. Circulating levels of GH-binding protein and IGFBP-1, -2, and -6 were higher in patients than controls, without a detectable gender difference. In female patients, PRL levels were 3-fold higher, and TSH and cortisol tended to be higher than levels in males. In both genders, estrogen levels were more than 3-fold higher than normal, and testosterone (2.25+/-1.94 vs. 0.97+/-0.39 nmol/L; P = 0.03) and dehydroepiandrosterone sulfate concentrations were low. In male patients, low testosterone levels were related to reduced GH pulse amplitude (r = 0.91; P = 0.0008). GH responses to GHRH were relatively low and equal in critically ill men and women (7.3+/-9.4 vs. 7.8+/-4.1 microg/L; P = 0.99). GH responses to GHRP-2 in women (93+/-38 microg/L) were supranormal and higher (P<0.0001) than those in men (28+/-16 microg/L). Combining GHRH with GHRP-2 nullified this gender difference (77+/-58 in men vs. 120+/-69 microg/L in women; P = 0.4). In conclusion, a paradoxical gender dissociation within the GH/ IGF-I axis is evident in protracted critical illness, with men showing greater loss of pulsatility and regularity within the GH secretory pattern than women (despite indistinguishable total GH output) and concomitantly lower IGF-I and ALS levels. Less endogenous GHRH action in severely ill men compared with women, possibly due to profound hypoandrogenism, accompanying loss of the putative endogenous GHRP-like ligand action with prolonged stress in both genders may explain these novel findings."
+  },
+  {
+   "pmid": "9024260",
+   "titel": "The somatotropic axis in critical illness: effect of continuous growth hormone (GH)-releasing hormone and GH-releasing peptide-2 infusion",
+   "jahr": "1997",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Van den Berghe G",
+   "doi": "10.1210/jcem.82.2.3736",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Prolonged critical illness is characterized by protein hypercatabolism and preservation of fat depots, associated with blunted GH secretion, elevated serum cortisol levels, and low insulin-like growth factor I (IGF-I) concentrations. In this condition, GH is readily released in response to a bolus of GHRH and GH-releasing peptide-2 (GHRP-2) and, paradoxically, to TRH. We further explored the altered somatotropic axis and cortisol secretion in critical illness by examining the effects of continuous GHRH and/or GHRP-2 infusion. Twenty-six critically ill adults (mean age +/- SEM, 63 +/- 2 yr) were studied during 2 consecutive nights (2100-0600 h). According to a weighed randomization, they received one of four combinations of infusions within a randomized cross-over design for each combination: placebo (one night) and GHRP-2 (the other night; n = 10), placebo and GHRH (n = 4), GHRH and GHRP-2 (n = 6), and GHRP-2 and GHRH plus GHRP-2 (n = 6). The peptide infusions (duration, 21 h) were started after a bolus of 1 microgram/kg at 0900 h and infused (1 microgram/kg/h) until 0600 h. Serum concentrations of GH were determined every 20 min, cortisol every hour, and IGF-I at 2100 and 0600 h on each study night. The placebo profiles showed pulsatile GH secretion with low secretory burst amplitude [0.062 +/- 0.008 microgram/L distribution volume (Lv)/min], high burst frequency (6.6 +/- 0.4 events/9 h), and detectable basal secretion (0.041 +/- 0.009 microgram/L/min) in the face of low serum IGF-I (106 +/- 11 micrograms/L). IGF-I correlated positively and significantly with the basal component, the pulsatile component, and the total amount of nightly GH secretion. GHRH elicited a 2- to 3-fold increase in the mean GH concentration (P = 0.006), the GH secretory burst amplitude (P = 0.007), and basal GH secretion (P = 0.03). GHRP-2 provoked a 4- to 6-fold increase in the mean GH concentration (P < 0.0001), the GH secretory burst amplitude (P = 0.002), and basal GH secretion (P = 0.0007), which were associated with a 61 +/- 13% increase in serum IGF-I within 24 h (P = 0.02). Compared to GHRP-2 alone, GHRH plus GHRP-2 elicited a further 2-fold increase in the mean GH concentration (P = 0.04) and GH basal secretion (P = 0.02), and an additional 40 +/- 6% rise in serum IGF-I (P = 0.04). GHRH and GHRP-2 infusion did not alter elevated cortisol levels. In critically ill adults, low serum IGF-I levels were positively correlated with diminished pulsatile and increased basal GH secretion. Both basal and pulsatile GH secretion were moderately increased by continuous infusion of GHRH, substantially increased by GHRP-2, and strikingly increased by GHRH plus GHRP-2. GHRP-2 alone or combined with GHRH elicited a robust rise in circulating IGF-I levels within 24 h without altering serum cortisol levels. These findings open perspectives for GH secretagogues as potential antagonists of the catabolic state in critical care medicine."
+  },
+  {
+   "pmid": "7559885",
+   "titel": "Diagnostic studies with intravenous and intranasal growth hormone-releasing peptide-2 in children of short stature",
+   "jahr": "1995",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Pihoker C",
+   "doi": "10.1210/jcem.80.10.7559885",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "GH secretion is primarily regulated by the hypothalamic-releasing hormones GHRH and somatostatin. Additionally, several neurotransmitters act at the hypothalamus and pituitary to modulate GH release. The agents commonly used in clinical practice to diagnose GH deficiency, such as arginine, insulin and L-dopa, act through the neural GH network. Many children with a poor GH response to conventional agents have a significant serum GH response to iv GHRH. GH-releasing peptides (GHRPs) are synthetic peptides that like GHRH act directly on pituitary somatotrophs to stimulate GH release. GHRP-2, an investigational drug, is one of the most potent members of the GHRP family. It has been shown to be effective in adults via the oral and intranasal as well as the iv route of administration. In this study, GH responses to GHRP-2 were compared with GH responses to other provocative agents in children of short stature. GHRP-2 was administered iv or intranasally to children with short stature. In the same subjects, GHRP-2 was administered iv in combination with GHRH. Twenty-four children undergoing evaluation for GH deficiency received at least one conventional agent (arginine, L-dopa/exercise, insulin) in addition to iv GHRH and GHRP-2. The GH responses to GHRH or GHRP-2 were similar in each child, and both were equally reliable predictors of pituitary reserve. The conventional agents used in GH testing were less likely to predict the capacity of the pituitary to release GH than were either GHRH or GHRP-2. There was no correlation between maximal GH response to standard tests with GH responses to GHRH or GHRP-2. A subset of the group of 21 children who had a robust response to iv GHRP-2 were later administered GHRH+GHRP-2 simultaneously. The GH response to GHRH+GHRP-2 was synergistic in this group of 12 children, similar to previously reported observations in adults of normal stature. Fifteen of the 21 children who had a robust response to the iv GH-releasing factors also received intranasal GHRP-2. All 15 of these children had a significant GH response to intranasal GHRP-2 over a dose range of 5-20 micrograms/kg per dose. The mean peak GH response to 15 micrograms/kg was 31.3 micrograms/L. The intranasal preparation was well tolerated.(ABSTRACT TRUNCATED AT 400 WORDS)"
+  },
+  {
+   "pmid": "16189179",
+   "titel": "Testosterone supplementation in healthy older men drives GH and IGF-I secretion without potentiating peptidyl secretagogue efficacy",
+   "jahr": "2005",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1530/eje.1.02001",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "OBJECTIVE: Testosterone supplementation increases GH and IGF-I concentrations in healthy older men via unknown mechanisms. We examine the hypotheses that (i) testosterone amplifies stimulation of GH secretion by GH-releasing peptide (GHRP)-2 or GH-releasing hormone (GHRH) infused with l-arginine to limit somatostatin outflow (i.e. upregulates each agonistic pathway), (ii) testosterone augments the effect of both peptidyl secretagogues infused together (i.e. reduces opposition by hypothalamic somatostatin) and (iii) abdominal visceral fat (AVF) mass is a negative determinant of specific secretagogue-stimulated GH secretion. DESIGN: Randomized double-blind crossover design of placebo versus testosterone administration in healthy older men. METHODS: Deconvolution analysis was used to estimate basal GH secretion and the mass (integral) and waveform (time-shape) of GH secretory bursts. RESULTS: Statistical contrasts revealed that administration of testosterone compared with placebo in seven men aged 60-77 years increased fasting concentrations of GH (P < 0.01) and IGF-I (P = 0.003), and basal (P < 0.005) and pulsatile (P < 0.01) GH secretion. Testosterone did not alter the absolute value or rank order of secretagogue efficacy: l-arginine/GHRP-2 (23-fold effect over saline) = GHRH/GHRP-2 (20-fold) > l-arginine/GHRH (7.5-fold). Waveform reconstruction indicated that each stimulus pair accelerated initial GH secretion within a burst (P < 0.01). Regression analysis disclosed a significant inverse association between GH secretory-burst mass and computer tomography-estimated AVF following stimulation with l-arginine/GHRH after testosterone supplementation (R(2) = 0.54, P = 0.015). CONCLUSION: Supraphysiological testosterone concentrations augment GH and IGF-I production in the elderly male without altering maximal somatotrope responses to single and combined GHRH and GHRP-2 drive, thus predicting multifactorial mechanisms of testosterone upregulation."
+  },
+  {
+   "pmid": "9467533",
+   "titel": "Neuroendocrinology of prolonged critical illness: effects of exogenous thyrotropin-releasing hormone and its combination with growth hormone secretagogues",
+   "jahr": "1998",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Van den Berghe G",
+   "doi": "10.1210/jcem.83.2.4575",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ],
+   "abstract": "The catabolic state of prolonged critical illness is associated with a low activity of the thyrotropic and the somatotropic axes. The neuroendocrine component in the pathogenesis of these low activity states was assessed by investigating the effects of continuous intravenous infusions of TRH, GH-releasing peptide-2 (GHRP-2), and GHRH. Twenty adult patients, critically ill for several weeks, were studied during two consecutive nights. They had been randomly allocated to one of three combinations of peptide infusions, each administered in random order: TRH (one night) and placebo (other night), TRH + GHRP-2 (one night) and GHRP-2 (other night), or TRH + GHRH + GHRP-2 (one night) and GHRH + GHRP-2 (other night). The peptide infusions were started after a 1-microgram/kg bolus and infused (1 microgram/kg per h) until 0600 h. Blood sampling was performed every 20 min, and pituitary hormone secretion was quantified by deconvolution analysis. Reduced pulsatile fraction of TSH, GH, and PRL secretion and low serum concentrations of T4, T3, insulin growth factor-I (IGF-I), IGF-binding protein-3 (IGFBP-3), and the acid-labile subunit (ALS) were documented in the untreated state. Infusion of TRH alone or in combination with GH secretagogues augmented nonpulsatile TSH release 2- to 5-fold; only TRH + GHRP-2 increased pulsatile TSH secretion (4-fold). Average rises in T4 (40-54%) and in T3 (52-116%) were obtained with all three combinations, whereas reverse T3 levels did not increase, except when TRH was infused alone. Pulsatile GH secretion was amplified > 6- and > 10-fold, respectively, by GHRP-2 and GHRH + GHRP-2 infusions, generating mean increases of serum IGF-I (66% and 106%), IGFBP-3 (50% and 56%), and ALS (65% and 97%) within 45 h. The addition of TRH did not alter the GH secretory patterns. TRH infusion increased PRL release only when combined with GH secretagogues. No effects on serum cortisol were detected. In conclusion, the pathogenesis of the low activity state of the thyrotropic and somatotropic axes in prolonged critical illness appears to have a neuroendocrine component, because these axes are both readily activated by coinfusion of TRH and GH secretagogues."
+  },
+  {
+   "pmid": "19858315",
+   "titel": "Pre- versus postmenopausal age, estradiol, and peptide-secretagogue type determine pulsatile growth hormone secretion in healthy women: studies using submaximal agonist drive and an estrogen clamp",
+   "jahr": "2010",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Hudson SB",
+   "doi": "10.1210/jc.2009-1769",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "abstract": "CONTEXT: GH-releasing peptide (GHRP), GHRH, and somatostatin are physiological regulators of pulsatile GH secretion. HYPOTHESIS: Age, independently of abdominal visceral fat (AVF) and basal (nonpulsatile) GH secretion, damps pulsatile GH secretion driven by physiological (rather than pharmacological) amounts of GHRP and GHRH in an experimentally controlled estradiol (E(2)) milieu. DESIGN AND SETTING: A prospectively randomized, double-blind parallel-cohort study was conducted at an academic medical center. PARTICIPANTS: Community-dwelling healthy premenopausal (PRE, age 24 +/- 0.8 yr, n = 20) and postmenopausal (POST, age 63 +/- 1.8 yr, n = 22) women participated in the study. INTERVENTIONS: Gonadal-axis down-regulation with leuprolide was followed by randomized addback of placebo or transdermal E(2) and separate-day iv bolus injections of a half-maximally stimulatory dose of GHRP-2 or GHRH (each 0.33 mug/kg). ANALYSIS: Three-way analysis of covariance included main factors age, E(2) status, and secretagogue type and covariates AVF and basal GH secretion. RESULTS: Submaximally stimulated pulsatile GH secretion was positively determined by PRE vs. POST age (P < 0.001), E(2) repletion vs. depletion (P = 0.001) and GHRP-2 vs. GHRH stimulation (P < 0.001), after adjustment for AVF and basal secretion. E(2) vs. placebo elevated fasting mean GH concentrations in both PRE and POST women (P = 0.006) but increased basal (nonpulsatile) GH secretion in PRE only (P = 0.002). PRE vs. POST age prolonged GHRH-driven GH secretory bursts by 36% (P = 0.006). CONCLUSION: PRE vs. POST age, E(2) availability, and physiological peptide drive are triple determinants of pulsatile GH secretion independently of abdominal visceral fat and nonpulsatile GH secretion in healthy women."
+  },
+  {
+   "pmid": "21467302",
+   "titel": "Complex regulation of GH autofeedback under dual-peptide drive: studies under a pharmacological GH and sex steroid clamp",
+   "jahr": "2011",
+   "journal": "Am J Physiol Endocrinol Metab",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1152/ajpendo.00054.2011",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "abstract": "To test the postulate that sex difference, sex steroids, and peptidyl secretagogues control GH autofeedback, 11 healthy postmenopausal women and 14 older men were each given 1) a single iv pulse of GH to enforce negative feedback and 2) continuous iv infusion of saline vs. combined GHRH/GHRP-2 to drive feedback escape during pharmacological estradiol (E(2); women) or testosterone (T; men) supplementation vs. placebo in a double-blind, prospectively randomized crossover design. By three-way ANCOVA, sex difference, sex hormone treatment, peptide stimulation, and placebo/saline responses (covariate) controlled total (integrated) GH recovery during feedback (each P < 0.001). Both sex steroid milieu (P = 0.019) and dual-peptide stimulation (P < 0.001) determined nadir (maximally feedback-suppressed) GH concentrations. E(2)/T exposure elevated nadir GH concentrations during saline infusion (P = 0.003), whereas dual-peptide infusion did so independently of T/E(2) and sex difference (P = 0.001). All three of sex difference (P = 0.001), sex steroid treatment (P = 0.005), and double-peptide stimulation (P < 0.001) augmented recovery of peak (maximally feedback-escaped) GH concentrations. Peak GH responses to dual-peptidyl agonists were greater in women than in men (P = 0.016). E(2)/T augmented peak GH recovery during saline infusion (P < 0.001). Approximate entropy analysis corroborated independent effects of sex steroid treatment (P = 0.012) and peptide infusion (P < 0.001) on GH regularity. In summary, sex difference, sex steroid supplementation, and combined peptide drive influence nadir, peak, and entropic measurements of GH release under controlled negative feedback. To the degree that the pharmacological sex steroid, GH, and dual-peptide clamps provide prephysiological regulatory insights, these outcomes suggest major determinants of pulsatile GH secretion in the feedback domain."
+  },
+  {
+   "pmid": "11739462",
+   "titel": "E2 supplementation selectively relieves GH's autonegative feedback on GH-releasing peptide-2-stimulated GH secretion",
+   "jahr": "2001",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Anderson SM",
+   "doi": "10.1210/jcem.86.12.8076",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "Female gender confers resistance to GH autonegative feedback in the adult rat, thereby suggesting gonadal or estrogenic modulation of autoregulation of the somatotropic axis. Here we test the clinical hypothesis that short-term E2 replacement in ovariprival women reduces GH's repression of spontaneous, GHRH-, and GH-releasing peptide (GHRP)-stimulated GH secretion. To this end, we appraised GH autoinhibition in nine healthy postmenopausal volunteers during a prospective, randomly ordered supplementation with placebo vs. E [1 mg micronized 17 beta-E2 orally twice daily for 6-23 d]. The GH autofeedback paradigm consisted of a 6-min pulsed i.v. infusion of recombinant human GH (10 microg/kg square-wave injection) or saline (control) followed by i.v. bolus GHRH (1 microg/kg), GHRP-2 (1 microg/kg), or saline 2 h later. Blood was sampled every 10 min and serum GH concentrations were measured by chemiluminescence. Poststimulus GH release was quantitated by multiparameter deconvolution analysis using published biexponential kinetics and by the incremental peak serum GH concentration response (maximal poststimulus value minus prepeak nadir). Outcomes were analyzed on the logarithmic scale by mixed-effects ANOVA at a multiple-comparison type I error rate of 0.05. E2 supplementation increased the (mean +/- SEM) serum E2 concentration from 43 +/- 1.8 (control) to 121 +/- 4 pg/ml (E2) (158 +/- 6.6 to 440 +/- 15 pmol/liter; P < 0.001), lowered the 0800 h (preinfusion) serum IGF-I concentration from 127 +/- 7.7 to 73 +/- 3.6 microg/liter (P < 0.01), and amplified spontaneous pulsatile GH production from 7.5 +/- 1.1 to 13 +/- 2.3 microg/liter per 6 h (P = 0.020). In the absence of exogenously imposed GH autofeedback, E2 replacement enhanced the stimulatory effect of GHRP-2 on incremental peak GH release by 1.58-fold [95% confidence interval, 1.2- to 2.1-fold] (P = 0.0034) but did not alter the action of GHRH (0.83-fold [0.62- to 1.1-fold]). In the E2-deficient state, bolus GH infusion significantly inhibited subsequent spontaneous, GHRH-, and GHRP-induced incremental peak GH responses by, respectively, 33% (1-55%; P = 0.044 vs. saline), 79% (68-86%; P < 0.0001), and 54% (32-69%; P = 0.0002). E2 repletion failed to influence GH autofeedback on either spontaneous or GHRH-stimulated incremental peak GH output. In contrast, E2 replenishment augmented the GHRP-2-stimulated incremental peak GH response in the face of GH autoinhibition by 1.7-fold (1.2- to 2.5-fold; P = 0.009). Mechanistically, the latter effect of E2 mirrored its enhancement of GH-repressed/GHRP-2-stimulated GH secretory pulse mass, which rose by 1.5-fold (0.95- to 2.5-fold over placebo; P = 0.078). In summary, the present clinical investigation documents the ability of short-term oral E2 supplementation in postmenopausal women to selectively rescue GHRP-2 (but not spontaneous or GHRH)-stimulated GH secretion from autonegative feedback. The secretagogue specificity of E's relief of GH autoinhibition suggests that this sex steroid may enhance activity of the hypothalamopituitary GHRP-receptor/effector pathway."
+  },
+  {
+   "pmid": "19470834",
+   "titel": "Relative effects of estrogen, age, and visceral fat on pulsatile growth hormone secretion in healthy women",
+   "jahr": "2009",
+   "journal": "Am J Physiol Endocrinol Metab",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1152/ajpendo.00230.2009",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "abstract": "Growth hormone (GH) secretion is subject to complex regulation. How pre- and postmenopausal age (PRE, POST), estradiol (E(2)) availability, and abdominal visceral fat (AVF) jointly affect peptidyl-secretagogue drive of GH secretion is not known. To this end, healthy PRE (n = 20) and POST (n = 22) women underwent a low- vs. high-E(2) clamp before receiving a continuous intravenous infusion of GH-releasing hormone (GHRH) or GH-releasing peptide (GHRP-2). According to analysis of covariance, PRE and POST women achieved age-independent hypo- and euestrogenemia under respective low- and high-E(2) clamps. All four of age (P < 0.001), E(2) status (P = 0.006), secretagogue type (P < 0.001), and an age x peptide interaction (P = 0.014) controlled pulsatile GH secretion. Independently of E(2) status, POST women had lower GH responses to both GHRH (P = 0.028) and GHRP-2 (P < 0.001) than PRE women. Independently of age, GHRP-2 was more stimulatory than GHRH during low E(2) (P = 0.011) and high E(2) (P < 0.001). Stepwise forward-selection multivariate analysis revealed that computerized tomographic estimates of AVF explained 22% of the variability in GHRH action (P = 0.002), whereas age and E(2) together explained 60% of the variability in GHRP-2 drive (P < 0.001). These data establish that age, estrogen status, and AVF are triple covariates of continuous peptide-secretagogue drive of pulsatile GH secretion in women. Each factor must be controlled for to allow valid comparisons of GH-axis activity."
+  },
+  {
+   "pmid": "9661608",
+   "titel": "Effects of eight months treatment with graded doses of a growth hormone (GH)-releasing peptide in GH-deficient children",
+   "jahr": "1998",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Mericq V",
+   "doi": "10.1210/jcem.83.7.4969",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ],
+   "abstract": "Stimulation of pituitary GH secretion with administered GHRH can be effective therapy for those GH deficient (GHD) patients whose disorder results from insufficient endogenous GHRH secretion. We have previously shown that most such patients also respond acutely to the GH-releasing peptides (GHRP's), which have a different mechanism of action from GHRH, with release of GH. In this study we tested whether the GH response to a newer GHRP, GHRP-2, would be sustained over time. Six prepubertal children with GHD and growth failure received stepwise increasing s.c. doses of GHRP-2, at 0.3, 1.0, and 3.0 micrograms/kg/day, in successive 2-month treatment periods, with monitoring of overnight 12 h episodic GH secretion and toxicity measures at the end of each period. During a fourth 2-month period, they received 3 micrograms/kg GHRP-2 together with 3 micrograms/kg s.c. GHRH. Serum levels of IGF-I and IGFBP-3 were also measured, and stadiometer height measurements were recorded. GHRP-2 administration produced a dosewise increase in overnight GH secretion. GH profiles showed that the effect of GHRP-2 injections was relatively brief, with little effect upon GH secretion later in the night. Serum levels of IGF-I and of IGFBP-3 did not increase. Growth velocity was higher during GHRP-2 treatment than during pretreatment and post-treatment evaluations. There were no side effects or toxicities observed. Thus GHRP-2 is well tolerated and is able to stimulate GH secretion. Formulations or routes of administration that allow for a longer duration of action will likely be needed to use GHRP-2 in therapy."
+  },
+  {
+   "pmid": "9425400",
+   "titel": "Thyrotrophin and prolactin release in prolonged critical illness: dynamics of spontaneous secretion and effects of growth hormone-secretagogues",
+   "jahr": "1997",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Van den Berghe G",
+   "doi": "10.1046/j.1365-2265.1997.3371118.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ],
+   "abstract": "OBJECTIVE: Infusion of GH secretagogues appears to be a novel endocrine approach to reverse the catabolic state of critical illness, through amplification of the endogenously blunted GH secretion associated with a substantial IGF-I rise. Here we report the dynamic characteristics of spontaneous nightly TSH and PRL secretion during prolonged critical illness, together with the concomitant effects exerted by the administration of GH-secretagogues, GH-releasing hormone (GHRH) and GH-releasing peptide-2 (GHRP-2) in particular, on night-time TSH and PRL secretion. PATIENTS AND DESIGN: Twenty-six critically ill adults (mean +/- SEM age: 63 +/- 2 years) were studied during two consecutive nights (2100-0600 h). According to a weighed randomization, they received 1 of 4 combinations of infusions, within a randomized, cross-over design for each combination: placebo (one night) and GHRH (the next night) (n = 4); placebo and GHRP-2 (n = 10); GHRH and GHRP-2 (n = 6); GHRP-2 and GHRH + GHRP-2 (n = 6). Peptide infusions (duration 21 hours) were started after a bolus of 1 microgram/kg at 0900 h and infused (1 microgram/kg/h) until 0600 h. MEASUREMENTS: Serum concentrations of TSH and PRL were determined by IRMA every 20 minutes and T4, T3 and rT3 by RIA at 2100 h and 0600 h in each study night. Hormone secretion was quantified using deconvolution analysis. RESULTS: During prolonged critical illness, mean night-time serum concentrations of TSH (1.25 +/- 0.42 mlU/l) and PRL (9.4 +/- 0.9 micrograms/l) were low-normal. However, the proportion of TSH and PRL that was released in a pulsatile fashion was low (32 +/- 6% and 16 +/- 2.6%) and no nocturnal TSH or PRL surges were observed. The serum levels of T3 (0.64 +/- 0.06 nmol/l) were low and were positively related to the number of TSH bursts (R2 = 0.32; P = 0.03) and to the log of pulsatile TSH production (R2 = 0.34; P = 0.03). GHRP-2 infusion further reduced the proportion of TSH released in a pulsatile fashion to half that during placebo infusion (P = 0.02), without altering mean TSH levels. GHRH infusion increased mean TSH levels and pulsatile TSH production, 2-fold compared to placebo (P = 0.03) and 3-fold compared to GHRP-2 (P = 0.008). The addition of GHRP-2 to GHRH infusion abolished the stimulatory effect of GHRH on pulsatile TSH secretion. GHRP-2 infusion induced a small increase in mean PRL levels (21%; P = 0.02) and basal PRL secretion rate (49%; P = 0.02) compared to placebo, as did GHRH and GHRH + GHRP-2. CONCLUSIONS: The characterization of the specific pattern of anterior pituitary function during prolonged critical illness is herewith extended to the dynamics of TSH and PRL secretion: mean serum levels are low-normal, no noctumal surge is observed and the pulsatile fractions of TSH and PRL release are reduced, as was shown previously for GH. Low circulating thyroid hormone levels appear positively correlated with the reduced pulsatile TSH secretion, suggesting that they have, at least in part, a neuroendocrine origin. Finally, the opposite effects of different GH-secretagogues on TSH secretion further delineate particular linkages between the somatotrophic and thyrotrophic axes during critical illness."
+  },
+  {
+   "pmid": "10337858",
+   "titel": "Preservation of growth hormone secretion in response to growth hormone-releasing peptide-2 during prednisone therapy",
+   "jahr": "1999",
+   "journal": "Metabolism",
+   "erstautor": "Meacham LR",
+   "doi": "10.1016/s0026-0495(99)90055-0",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Children who require long-term glucocorticoid treatment often demonstrate poor growth. Growth hormone (GH) secretion is decreased during glucocorticoid treatment, and this decrease may be due to a relative excess of the hypothalamic hormone somatostatin (SRIF). GH-releasing peptide-2 (GHRP-2) is a GH secretagogue that acts via multiple mechanisms at multiple sites. One of its proposed mechanisms is the ability to bypass SRIF blockade of GH secretion. We measured the ability of GHRP-2 to release GH before and during prednisone therapy (20 mg orally three times daily for 4 days). The degree of preservation of GH secretion and the pattern of GH release in response to GHRP-2 were compared with those observed in response to arginine, a known SRIF inhibitor. GH release in response to GHRP-2 and arginine was measured in the same eight subjects before and during prednisone therapy. Before prednisone, peak GH levels in response to arginine and GHRP-2 were 8.8 +/- 2.8 and 80.8 +/- 21.2 microg/L. During prednisone therapy, the peak GH level in response to arginine and to GHRP-2 was 20.1 +/- 8.3 and 71.3 +/- 18.4 microg/L, respectively. The difference in peak values before and after prednisone was not significant. The time to the peak GH level during prednisone therapy occurred sooner for both arginine and GHRP-2. The pattern of GH release to arginine and to GHRP-2 was not identical, and the mean area under the curve for GH release to GHRP-2 decreased significantly with steroid treatment (P = .04), suggesting that GHRP-2 acts by mechanisms additional to the removal of SRIF inhibition. GHRP-2 elicited a 10-fold greater GH response than arginine at baseline, and the GH response was threefold greater versus arginine even in the face of prednisone therapy. GH release occurred earlier for both arginine and GHRP-2 during steroid treatment. We propose that this may suggest an increased storage phenomenon due to the blockade of GH secretion by glucocorticoids and then a sudden release with SRIF inhibition. If GHRP-2 can indeed counteract the inhibitory effect of glucocorticoids on GH secretion, then a new form of therapy may be available to support growth in children who must receive long-term steroid treatment."
+  },
+  {
+   "pmid": "18073313",
+   "titel": "Gonadal status and body mass index jointly determine growth hormone (GH)-releasing hormone/GH-releasing peptide synergy in healthy men",
+   "jahr": "2008",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Paulo RC",
+   "doi": "10.1210/jc.2007-1388",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "abstract": "CONTEXT: Sex steroid hormones potentiate whereas increased body mass index (BMI) represses GH secretion. Whether sex steroids modify the negative effect of BMI on secretagogue-induced GH secretion in men is not known. The issue is important in designing GH-stimulation regimens that are relatively insensitive to both gonadal status and adiposity. OBJECTIVE: Our objective was to compare the relationships between BMI and peptide-stimulated GH secretion in men with normal and reduced testosterone and estradiol availability. SETTING: The study was performed at an academic medical center. SUBJECTS: Healthy young men were included in the study. INTERVENTIONS: Randomized separate-day iv infusion of saline and/or maximally effective doses of L-arginine/GHRH, L-arginine/GH-releasing peptide (GHRP)-2, and GHRH/GHRP-2 in eugonadal (n=12) and experimentally hypogonadal (n=10) men was performed. OUTCOMES: Regression of paired secretagogue-induced GH responses on BMI was determined. RESULTS: In eugonadal men, peak GH concentrations correlated negatively with BMI. In particular, BMI accounted for only 38% of the response variability after L-arginine/GHRH (P=0.0165), but 62% after GHRH/GHRP-2 (P=0.0012) and 65% after L-arginine/GHRP-2 (P=0.00075). In contrast, in hypogonadal men, GH responses were uncorrelated with BMI. The negative effects of BMI on peak GH responses in eugonadal and hypogonadal states differed most markedly after stimulation with GHRH/GHRP-2 (P=0.0019). This contrast was corroborated using integrated GH responses (P=0.0007). CONCLUSIONS: Short-term experimental gonadal sex hormone depletion attenuates dual secretagogue-stimulated GH secretion in lean young men. The inhibitory effect of relative adiposity on GH secretion appears to predominate over that of acute sex steroid withdrawal."
+  },
+  {
+   "pmid": "10946861",
+   "titel": "Oral estradiol administration modulates continuous intravenous growth hormone (GH)-releasing peptide-2-driven GH secretion in postmenopausal women",
+   "jahr": "2000",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Shah N",
+   "doi": "10.1210/jcem.85.8.6729",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "Exactly how estradiol (E2) regulates the human GH-insulin-like growth factor I axis is not known. Here, we explore the impact of oral E2 supplementation on the stimulatory actions of a potent and specific synthetic GH-releasing peptide (GHRP), GHRP-2. To this end, we studied 10 healthy postmenopausal women following the administration of placebo or 17beta-estradiol (1 mg twice daily orally) for 7-12 days in a prospectively randomized, double-blind, within-subject crossover design. To drive GH secretion via the GHRP-receptor/ effector pathway, we infused GHRP-2 (1 microg/kg x h) or saline continuously iv for 24 h. Deconvolution analysis was used to quantitate the separate basal and pulsatile modes of GH secretion based on 24-h serum GH concentrations profiles collected at 10-min intervals and assayed by chemiluminescence. As complementary (nonpulsatile) measures, we used the approximate entropy (ApEn) statistic and cosine regression to define feedback-dependent and circadian-related changes, respectively. E2 administration amplified the mass of GH secreted per burst by 1.9-fold over placebo, 24-h GHRP-2 infusion by 7.0-fold, and, the two agonists together by 8.8-fold (P < 10(-14)). Intravenous GHRP-2 infusion augmented the basal (nonpulsatile) rate of GH secretion by 4.4-fold (P < 10(-4)). E2 treatment had no effect alone, but doubled the stimulatory effect of GHRP-2, on basal GH secretion. Neither E2 nor GHRP-2 influenced 24-h GH pulse frequency, interburst interval, half-life or pulse duration. Combined E2 and GHRP-2 elevated the ApEn of GH secretory profiles significantly above control, thereby indicating a marked alteration of within-axis feedback control (P = 0.00033). Dual stimulation with E2 and GHRP-2 also synergistically increased the amplitude (by 11-fold, P < 10(-11)) and the mesor (by 10-fold, P < 10(-10)) of the 24-h GH rhythm. Infusion of GHRP-2 advanced the GH acrophase (time of daily maximum of GH release) by 8.75 h, whereas combined treatment with E2 and GHRP-2 normalized the acrophase. Cross-correlation analysis showed that GHRP-2 infusion (but not E2 administration) significantly synchronized paired 24-h serum GH concentration profiles (P < 10(-3)). In summary, short-term oral E2 replacement in post-menopausal women strongly modulates the actions of a synthetic hexapeptide GH secretagogue on three quantifiable modes of GH secretion [i.e. 1) basal (nonpulsatile) GH release; 2) feedback-dependent ApEn; and 3) the mesor, amplitude and timing of the 24-h GH rhythm]. Moreover, a continuous GHRP-2 stimulus also synchronizes inter diem GH secretory patterns. The present pharmacological study, thus, offers a further framework for exploring the nature of the interactions of E2 with the GHRP-receptor/effector pathway in the aging and/or gonadoprival human."
+  },
+  {
+   "pmid": "11134132",
+   "titel": "Reduction of free fatty acids by acipimox enhances the growth hormone (GH) responses to GH-releasing peptide 2 in elderly men",
+   "jahr": "2000",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Van Dam PS",
+   "doi": "10.1210/jcem.85.12.7087",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "GH release is increased by reducing circulating free fatty acids (FFAs). Aging is associated with decreased plasma GH concentrations. We evaluated GH releasing capacity in nine healthy elderly men after administration of GH-releasing peptide 2 (GHRP-2), with or without pretreatment with the antilipolytic drug acipimox, and compared the GHRP-2-induced GH release with the response to GHRH. The area under the curve (AUC) of the GH response after GHRP-2 alone was 4.8 times higher compared with GHRH alone (1834 +/- 255 vs. 382 +/- 78 microg/L.60 min, P: < 0.001). Acipimox, which reduced FFAs from 607 micromol/L to 180 micromol/L, increased the GH AUC to 1087 after GHRH and to 2956 microg/L.60 min after GHRP-2 (P: < 0.01). The AUC after acipimox/GHRP-2 were positively correlated with the AUC after GHRP-2 alone (r = 0.93, P: < 0.01); this was also observed between acipimox/GHRH and GHRH alone (r = 0.73, P: = 0.03). Significant negative correlations were observed between basal FFAs and AUC after GHRH or GHRP-2 after combining the data with and without acipimox (r = 0.58, P: = 0.01 and r = 0.48, P: = 0.04, respectively), and between basal FFAs and GH at t = 0 (r = -0.44, P: = 0.001). Interestingly, GHRP-2 administration was followed by a significant early rise in plasma FFAs by 60% (P = 0.01), indicating an acute lipolytic effect. In conclusion, reduction of circulating FFAs strongly enhances GHRP-2-stimulated GH release in elderly men. The data indicate that the decreased GH release associated with aging can be reversed by acipimox and that the pituitary GH secretory capacity in elderly men is still sufficient."
+  },
+  {
+   "pmid": "11836333",
+   "titel": "Impact of estradiol supplementation on dual peptidyl drive of GH secretion in postmenopausal women",
+   "jahr": "2002",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1210/jcem.87.2.8251",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "As an indirect probe of estrogen-regulated hypothalamic somatostatin restraint, the present study monitors the ability of short-term oral E2 supplementation to modulate GH secretion during combined continuous stimulation by recombinant human GHRH [GHRH-(1-44)-amide] and the potent and selective synthetic GH-releasing peptide, GHRP-2. According to a simplified tripeptidyl model of GH neuroregulation, the effects of estrogen in this dual secretagogue paradigm should mirror alterations in endogenous somatostatinergic signaling. To this end, seven healthy postmenopausal women underwent frequent (10-min) blood sampling for 24 h during simultaneous i.v. infusion of GHRH and GHRP-2 each at a rate of 1 microg/kg x h on d 10 of randomly ordered placebo or 17beta-estradiol (E2) (1 mg orally twice daily) replacement. Serum GH concentrations (n = 280/subject) were assayed by chemiluminescence. The resultant GH time series was evaluated by deconvolution analysis, the approximate entropy statistic, and cosine regression to quantitate pulsatile, entropic (feedback-sensitive), and 24-h rhythmic GH release, respectively. Statistical comparisons revealed that E2 repletion increased the mean (+/- SEM) serum E2 concentration to 222 +/- 26 pg/ml from 16 +/- 1.7 pg/ml during placebo (P < 0.001) and suppressed the serum LH by 48% (P = 0.0033), serum FSH by 64% (P < 0.001), and serum IGF-I by 44% (P = 0.021). Double peptidyl secretagogue stimulation elevated mean 24-h serum GH concentrations to 8.1 +/- 1.0 microg/liter (placebo) and 7.7 +/- 0.89 microg/liter (E2; P = NS) and evoked prominently pulsatile patterns of GH secretion. No primary measure of pulsatile or basal GH release was altered by the disparate sex steroid milieu, i.e. GH secretory burst amplitudes of 0.62 +/- 0.93 (placebo) and 0.72 +/- 0.16 (E2) microg/liter x min, GH pulse frequencies of 27 +/- 1.8 (placebo) and 23 +/- 1.9 (E2) events/24 h, GH half-lives of 12 +/- 0.74 (placebo) and 15 +/- 4.5 (E2) min, and basal (nonpulsatile) GH secretion 70 +/- 22 (placebo) and 57 +/- 18 (E2) ng/liter x min. The approximate entropy (ApEn) of serial GH release [1.297 +/- 0.061 (placebo) and 1.323 +/- 0.06 (E2)] and the mesor (cosine mean), amplitude, and acrophase (time of the maximum) of 24-h rhythmic GH secretion were likewise invariant of estrogen supplementation. Estimated statistical power exceeded 90% for detecting significant (P < 0.05) within-subject changes exceeding 30-50% in the mean serum GH concentration, GH ApEn, or GH mesor. In contrast, ApEn analysis of the evolution of successive GH secretory burst-mass values over 24 h disclosed that E2 replacement disrupts the serial regularity of pulsatile GH output (elevates the ApEn ratio) during combined GHRH/GHRP-2 stimulation (P = 0.004). In summary, short-term elevation of serum E2 concentrations in postmenopausal individuals into the midfollicular phase range observed in young women does not significantly alter 24-h basal, pulsatile, entropic, or nyctohemeral GH secretion monitored under continuous combined drive by GHRH and GHRP-2. As E2 repletion without enforced GHRH/GHRP-2 stimulation augments each of the foregoing regulated facets of GH release, we infer that one or both of the infused peptidyl secretagogues may itself participate in E2's short-term amplification of GH secretion in postmenopausal individuals. Estrogen's disruption of the orderliness of sequential GH pulse-mass values during fixed GHRH/GHRP-2 feedforward would be consistent with a subtle reduction in the release and/or actions of hypothalamic somatostatin or an (unexpected) direct pituitary action of the sex steroid. Whether comparable dynamics mediate the effects of endogenous estrogen on the GH axis in premenopausal women or pubertal girls is not known."
+  },
+  {
+   "pmid": "19088159",
+   "titel": "Aromatase and 5alpha-reductase inhibition during an exogenous testosterone clamp unveils selective sex steroid modulation of somatostatin and growth hormone secretagogue actions in healthy older men",
+   "jahr": "2009",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1210/jc.2008-2108",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: How endogenous testosterone (Te), 5alpha-dihydrotestosterone (DHT), and estradiol (E(2)) regulate pulsatile GH secretion is not understood. HYPOTHESIS: Conversion of Te to androgenic (Te-->DHT) or estrogenic (Te-->E(2)) products directs GH secretion. SUBJECTS AND LOCATION: Healthy older men (N = 42, ages 50-79 yr) participated at an academic medical center. METHODS: We inhibited 5alpha-reduction with dutasteride and aromatization with anastrozole during a pharmacological Te clamp and infused somatostatin (SS), GHRH, GH-releasing peptide-2 (GHRP-2), and L-arginine/GHRH/GHRP-2 (triple stimulus) to modulate GH secretion. ENDPOINTS: Deconvolution-estimated basal and pulsatile GH secretion was assessed. RESULTS: Administration of Te/placebo elevated Te by 2.8-fold, DHT by 2.6-fold, and E(2) concentrations by 1.9-fold above placebo/placebo. Te/dutasteride and Te/anastrozole reduced stimulated DHT and E(2) by 89 and 86%, respectively. Stepwise forward-selection regression analysis revealed that 1) Te positively determines mean (P = 0.017) and peak (P < 0.001) GH concentrations, basal GH secretion (P = 0.015), and pulsatile GH secretion stimulated by GHRP-2 (P < 0.001); 2) Te and E(2) jointly predict GH responses to the triple stimulus (positively for Te, P = 0.006, and negatively for E(2), P = 0.031); and 3) DHT correlates positively with pulsatile GH secretion during SS infusion (P = 0.011). These effects persisted when abdominal visceral fat was included in the regression. CONCLUSION: The present outcomes suggest a tetrapartite model of GH regulation in men, in which systemic concentrations of Te, DHT, and E(2) along with abdominal visceral fat determine the selective actions of GH secretagogues and SS."
+  },
+  {
+   "pmid": "10372723",
+   "titel": "Tripartite neuroendocrine activation of the human growth hormone (GH) axis in women by continuous 24-hour GH-releasing peptide infusion: pulsatile, entropic, and nyctohemeral mechanisms",
+   "jahr": "1999",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Shah N",
+   "doi": "10.1210/jcem.84.6.5687",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "Despite the discovery of potent GH-releasing peptides (GHRPs) more than 15 yr ago and the recent cloning of human, rat, and pig GHRP receptors in the hypothalamus and pituitary gland, the neuroregulatory mechanisms of action of GHRP agonists on the human hypothalamo-somatotroph unit are not well delineated. To gain such clinical insights, we evaluated the ultradian (pulsatile), entropic (pattern orderliness), and nyctohemeral GH secretory responses during continuous 24-h i.v. infusion of saline vs. the most potent clinically available hexapeptide, GHRP-2 (1 microg/kg x h) in estrogen-unreplaced (mean serum estradiol, 12 +/- 2.4 pg/mL) postmenopausal women (n = 7) in a paired, randomized design. Blood was sampled every 10 min for 24 h during infusions and was assayed by ultrasensitive GH chemiluminescence assay. Pulsatile GH secretion was quantitated by deconvolution analysis, orderliness of GH release patterns by the approximate entropy statistic, and 24-h GH rhythmicity by cosinor analysis. Statistical analysis revealed that GHRP-2 elicited a 7.7-fold increase in (24-h) mean serum (+/-SEM) GH concentrations, viz. from 0.32 +/- 0.042 (saline) to 2.4 +/- 0.34 microg/L (GHRP-2; P = 0.0006). This occurred via markedly stimulated pulsatile GH release, namely a 7.1-fold augmentation of GH secretory burst mass: 0.87 +/- 0.18 (control) vs. 6.3 +/- 1.3 microg/L (GHRP-2; P = 0.0038). Enhanced GH pulse mass reflected a commensurate 10-fold (P = 0.023) rise in GH secretory burst amplitude [maximal GH secretory rate (micrograms per L/min) attained within a secretory pulse] with no prolongation in event duration. GH burst frequency, interpulse interval, and calculated GH half-life were all invariant of GHRP-2 treatment. Concurrently, as detected in the ultrasensitive GH assay, GHRP-2 augmented deconvolution-estimated interpulse (basal) GH secretion by 4.5-fold (P = 0.025). The approximate entropy of 24-h serum GH concentration profiles rose significantly during GHRP-2 infusion; i.e. from 0.592 +/- 0.073 (saline) to 0.824 +/- 0.074 (GHRP-2; P = 0.0011), signifying more irregular or disorderly GH release patterns during secretagogue stimulation. Cosinor analysis of 24-h GH rhythms disclosed a significantly earlier (daytime) acrophase at 2138 h (+/- 140 min) during GHRP-2 stimulation vs. 0457 h (+/-42 min) during saline infusion (P = 0.013). Concomitantly, the cosinor amplitude rose 6-fold (P = 0.018), and the mesor (cosine mean) rose 5-fold (P = 0.003). Fasting (0800 h) plasma insulin-like growth factor (IGF-I) concentrations rose by -11 +/- 12 microg/L during saline infusion and by 102 +/- 18 microg/L during GHRP-2 infusion (P = 0.0036). GHRP-2 infusion did not modify (24-h pooled) serum LH, FSH, or TSH concentrations and minimally increased serum (pooled) daily PRL (6.8 +/- 0.83 vs. 12 +/- 1.2 microg/L; P < 0.05) and cortisol (5.3 +/- 0.59 to 7.0 +/- 0.74; P < 0.05) concentrations. In summary, 24-h constant iv GHRP-2 infusion in the gonadoprival female neurophysiologically activates the GH-IGF-I axis by potentiating GH secretory burst mass and amplitude by 7- to 10-fold and augmenting the basal (nonpulsatile) GH secretion by 4.5-fold. GHRP-2 action is highly selective, as it does not alter GH secretory burst frequency, interpulse interval, event duration, or GH half-life. GHRP-2 effectively elevates IGF-I concentrations, unleashes greater disorderliness of GH release patterns, and heightens the 24-h rhythmicity of GH secretion. These tripartite features of GHRP-2's action in estrogen-withdrawn (postmenopausal) women also characterize normal human puberty and/or sex steroid regulation of the GH-IGF-I axis. However, how or whether GHRP-2 interacts further with sex hormone modulation of GH neurosecretory control in older women and men is not yet known."
+  },
+  {
+   "pmid": "10199772",
+   "titel": "Reactivation of pituitary hormone release and metabolic improvement by infusion of growth hormone-releasing peptide and thyrotropin-releasing hormone in patients with protracted critical illness",
+   "jahr": "1999",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Van den Berghe G",
+   "doi": "10.1210/jcem.84.4.5636",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "Protracted critical illness is marked by protein wasting resistant to feeding, by accumulation of fat stores, and by suppressed pulsatile release of GH and TSH. We previously showed that the latter can be reactivated by brief infusion of GH-releasing peptide (GHRP-2) and TRH. Here, we studied combined GHRP-2 and TRH infusion for 5 days, which allowed a limited evaluation of the metabolic effectiveness of this novel trophic endocrine strategy. Fourteen patients (mean +/- SD age, 68 +/- 11 yr), critically ill for 40 +/- 28 days, were compared to a matched group of community-living control subjects at baseline and subsequently received 5 days of placebo and 5 days of GHRP-2 plus TRH (1 + 1 microg/kg x h) infusion in random order. At baseline, impaired anabolism, as indicated by biochemical markers (osteocalcin and leptin), was linked to hyposomatotropism [reduced pulsatile GH secretion, as determined by deconvolution analysis, and low GH-dependent insulin-like growth factor and binding protein (IGFBP) levels]. Biochemical markers of accelerated catabolism (increased protein degradation and bone resorption) were related to tertiary hypothyroidism and the serum concentration of IGFBP-1, but not to hyposomatotropism. Metabolic markers were independent of elevated serum cortisol. After 5 days of GHRP-2 plus TRH infusion, osteocalcin concentrations increased 19% vs. -6% with placebo, and leptin had rose 32% vs. -15% with placebo. These anabolic effects were linked to increased IGF-I and GH-dependent IGFBP, which reached near-normal levels from day 2 onward. In addition, protein degradation was reduced, as indicated by a drop in the urea/creatinine ratio, an effect that was related to the correction of tertiary hypothyroidism, with near-normal thyroid hormone levels reached and maintained from day 2 onward. Concomitantly, a spontaneous tendency of IGFBP-1 to rise and of insulin to decrease was reversed. Cortisol concentrations were not detectably altered. In conclusion, 5-day infusion of GHRP-2 plus TRH in protracted critical illness reactivates blunted GH and TSH secretion, with preserved pulsatility, peripheral responsiveness, and feedback inhibition and without affecting serum cortisol, and induces a shift toward anabolic metabolism. This provides the first evidence of the metabolic effectiveness of short term GHRP-2 plus TRH agonism in this particular wasting condition."
+  },
+  {
+   "pmid": "17537842",
+   "titel": "Estimation of the size and shape of GH secretory bursts in healthy women using a physiological estradiol clamp and variable-waveform deconvolution model",
+   "jahr": "2007",
+   "journal": "Am J Physiol Regul Integr Comp Physiol",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1152/ajpregu.00159.2007",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "abstract": "Because estrogen production and age are strong covariates, distinguishing their individual impact on hypothalamo-pituitary regulation of growth hormone (GH) output is difficult. In addition, at fixed elimination kinetics, systemic GH concentration patterns are controlled by three major signal types [GH-releasing hormone (GHRH), GH-releasing peptide (GHRP, ghrelin), and somatostatin (SS)] and by four dynamic mechanisms [the number, mass (size), and shape (waveform) of secretory bursts and basal (time invariant) GH secretion]. The present study introduces an investigative strategy comprising 1) imposition of an experimental estradiol clamp in pre- (PRE) and postmenopausal (POST) women; 2) stimulation of fasting GH secretion by each of GHRH, GHRP-2 (a ghrelin analog), and l-arginine (to putatively limit SSergic restraint); and 3) implementation of a flexible-waveform deconvolution model to estimate basal GH secretion simultaneously with the size and shape of secretory bursts, conditional on pulse number. The combined approach unveiled the following salient percent POST/PRE contrasts: 1) only 27% as much GH secreted in bursts during fasting (P < 0.001); 2) markedly attenuated burstlike GH secretion in response to bolus GHRP-2 (29%), bolus GHRH (30%), l-arginine (37%), constant GHRP-2 (38%), and constant GHRH (42%) (age contrasts, 0.0016 </= P </= 0.027); and 3) a 160% prolongation and 32% abbreviation of the time required to achieve maximal GH secretion after injection of l-arginine and bolus GHRP-2, respectively (both, P < 0.001). Accordingly, age selectively determines both the size (amount) and shape (waveform) of GH secretory bursts in healthy women independently of the short-term estrogen milieu."
+  },
+  {
+   "pmid": "19351723",
+   "titel": "Novel relationships of age, visceral adiposity, insulin-like growth factor (IGF)-I and IGF binding protein concentrations to growth hormone (GH) releasing-hormone and GH releasing-peptide efficacies in men during experimental hypogonadal clamp",
+   "jahr": "2009",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Veldhuis JD",
+   "doi": "10.1210/jc.2009-0136",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Sex steroids influence GH secretion in complex ways. HYPOTHESIS: Analyses in a low sex-steroid milieu will help unveil the effects of age and other nonsteroidal regulators on GH secretion. CONTEXT: The study was conducted in a tertiary medical center. SUBJECTS: The study group included 13 healthy young men and 12 healthy older men. METHODS: We used GnRH agonist-induced down-regulation of testosterone and estradiol secretion, followed by consecutive infusion of l-arginine and GHRH or GHRP-2, to test secretagogue efficacies. OUTCOMES: We measured basal and pulsatile GH secretion. RESULTS: During experimental testosterone/estradiol deprivation, older (57 +/- 1.7 yr) men maintained: 1) 6.8-fold less pulsatile GH secretion (P < 0.001); and 2) 2-fold lower maximal GH responses to GHRH (P = 0.0065) and GHRP-2 (P = 0.022) than young (23 +/- 1.1 yr old) individuals. Stepwise forward-selection regression analyses identified: 1) abdominal visceral fat as a dominant negative predictor of both GHRH (R(2) = 0.49; P = 0.001) and GHRP-2 (R(2) = 0.38; P = 0.005) efficacies; and 2) fasting IGF-I concentration as a major positive correlate of GHRH (R(2) = 0.52; P < 0.001) and GHRP-2 (R(2) = 0.31; P = 0.018) efficacies. Unstimulated pulsatile GH secretion was jointly correlated with IGF-I and IGFBP-3 (P = 0.039). CONCLUSION: Measures of body composition (abdominal visceral fat) and pulsatile GH action (IGF-I) explain up to one half of interindividual variability in the efficacies of GHRH and GHRP-2 in sex steroid-depleted men. Accordingly, normative ranges for maximal single peptide-stimulated GH secretion in short-term hypogonadal states should incorporate the influence of these determinants as well as age."
+  },
+  {
+   "pmid": "16861611",
+   "titel": "Obese subjects respond to the stimulatory effect of the ghrelin agonist growth hormone-releasing peptide-2 on food intake",
+   "jahr": "2006",
+   "journal": "Obesity (Silver Spring)",
+   "erstautor": "Laferrère B",
+   "doi": "10.1038/oby.2006.121",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: The administration of the growth hormone (GH) secretagogue GH-releasing peptide (GHRP)-2, like ghrelin, increases food intake (FI) in lean healthy men. The aim of this study was to investigate whether this effect occurs in obese subjects and whether it is dose-dependent. RESEARCH METHODS AND PROCEDURES: Nineteen subjects (10 lean and nine obese), all healthy and weight stable, received a double-blind randomized subcutaneous infusion of GHRP-2 at high dose (HD; 1 mug/kg per hour), low dose (0.1 microg/kg per hour), or placebo for 270 minutes over three study visits. Blood for hormone assays was collected through an intravenous forearm catheter. Hunger and fullness were rated on visual analog scales before and after a fixed breakfast (320 kcal at 120 minutes) and a buffet lunch at 240 minutes. Before lunch, subjects received taped instructions to eat as much as they wanted. RESULTS: GHRP-2 infusion significantly increased ad libitum FI in a dose-dependent manner by 10.2 +/- 3.9% at low dose (p = 0.011) and by 33.5 +/- 5.8% at HD (p = 0.000) compared with placebo. Obesity status did not influence the effect of GHRP-2 on FI. All subjects had greater ratings of appetite before but similar levels of fullness after the meal with the HD GHRP-2. Serum GH levels increased dose dependently in all subjects. DISCUSSION: The dual stimulatory effect of GHRP-2 on FI and human GH is dose dependent. Obese individuals retain their ability to respond to GHRP-2 both in terms of FI and human GH."
+  }
+ ],
+ "metaanalysen": [],
+ "praeklinik": [],
+ "ctgov": [],
+ "gruppe": "C_wachstumshormon"
+}

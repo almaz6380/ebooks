@@ -1,0 +1,1817 @@
+{
+ "name": "Cagrilintid / CagriSema",
+ "status": "nicht_zugelassen",
+ "suchbegriff_pubmed": "cagrilintide[tiab]",
+ "suchbegriff_ctgov": "cagrilintide",
+ "humanstudien_alle": [
+  {
+   "pmid": "42503495",
+   "titel": "Efficacy of CagriSema for Reaching Anthropometric Treatment Targets and Cardiometabolic Outcomes: A Secondary, Post hoc Analysis of REDEFINE 1",
+   "jahr": "2026",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Busetto L",
+   "doi": "10.1111/dom.71134",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "42456707",
+   "titel": "Efficacy and safety of zalfermin co-administered with semaglutide in participants with fibrosis and cirrhosis due to metabolic dysfunction-associated steatohepatitis: a phase 2, dose-ranging, double-blind, randomised controlled trial",
+   "jahr": "2026",
+   "journal": "Lancet Gastroenterol Hepatol",
+   "erstautor": "Loomba R",
+   "doi": "10.1016/S2468-1253(26)00123-8",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase II",
+    "Multicenter Study",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "42251860",
+   "titel": "Efficacy and safety of once-weekly cagrilintide-semaglutide (CagriSema) in adults with type 2 diabetes inadequately controlled on diet and exercise (REIMAGINE 1): a randomised, double-blind, placebo-controlled, phase 3a study",
+   "jahr": "2026",
+   "journal": "Lancet Diabetes Endocrinol",
+   "erstautor": "Aroda VR",
+   "doi": "10.1016/S2213-8587(26)00126-9",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III",
+    "Multicenter Study",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "42251859",
+   "titel": "Cagrilintide-semaglutide (CagriSema) versus semaglutide or cagrilintide in people with type 2 diabetes (REIMAGINE 2): a double-blind, randomised, controlled, phase 3 study",
+   "jahr": "2026",
+   "journal": "Lancet Diabetes Endocrinol",
+   "erstautor": "Buse JB",
+   "doi": "10.1016/S2213-8587(26)00125-7",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III",
+    "Multicenter Study",
+    "Comparative Study",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "42251856",
+   "titel": "Cagrilintide-semaglutide (CagriSema) as an add-on to basal insulin in adults with type 2 diabetes (REIMAGINE 3): a randomised, double-blind, placebo-controlled, multicentre, phase 3 study",
+   "jahr": "2026",
+   "journal": "Lancet",
+   "erstautor": "Rosenstock J",
+   "doi": "10.1016/S0140-6736(26)01022-6",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Multicenter Study",
+    "Clinical Trial, Phase III",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "42228334",
+   "titel": "Renal or Hepatic Impairment Does Not Affect Pharmacokinetics, Safety, or Tolerability of Subcutaneous Cagrilintide",
+   "jahr": "2026",
+   "journal": "Clin Pharmacokinet",
+   "erstautor": "Nielsen MJF",
+   "doi": "10.1007/s40262-026-01654-0",
+   "typ": [
+    "Clinical Trial, Phase I",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "42009015",
+   "titel": "Efficacy and safety of co-administered cagrilintide and semaglutide versus semaglutide alone in adults with overweight or obesity with or without type 2 diabetes in Japan and Taiwan (REDEFINE 5): a multicentre, randomised, active-controlled, phase 3a trial",
+   "jahr": "2026",
+   "journal": "Lancet Diabetes Endocrinol",
+   "erstautor": "Yamauchi T",
+   "doi": "10.1016/S2213-8587(25)00402-4",
+   "typ": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "41328546",
+   "titel": "CagriSema Reduces Blood Pressure in Adults With Overweight or Obesity: REDEFINE 1",
+   "jahr": "2026",
+   "journal": "Hypertension",
+   "erstautor": "Verma S",
+   "doi": "10.1161/HYPERTENSIONAHA.125.26055",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III",
+    "Multicenter Study"
+   ]
+  },
+  {
+   "pmid": "41109426",
+   "titel": "Eloralintide (LY3841136), a novel amylin receptor agonist for the treatment of obesity: From discovery to clinical proof of concept",
+   "jahr": "2025",
+   "journal": "Mol Metab",
+   "erstautor": "Briere DA",
+   "doi": "10.1016/j.molmet.2025.102271",
+   "typ": [
+    "Journal Article",
+    "Clinical Trial, Phase I",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "40544433",
+   "titel": "Coadministered Cagrilintide and Semaglutide in Adults with Overweight or Obesity",
+   "jahr": "2025",
+   "journal": "N Engl J Med",
+   "erstautor": "Garvey WT",
+   "doi": "10.1056/NEJMoa2502081",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Multicenter Study",
+    "Clinical Trial, Phase III"
+   ]
+  },
+  {
+   "pmid": "40544432",
+   "titel": "Cagrilintide-Semaglutide in Adults with Overweight or Obesity and Type 2 Diabetes",
+   "jahr": "2025",
+   "journal": "N Engl J Med",
+   "erstautor": "Davies MJ",
+   "doi": "10.1056/NEJMoa2502082",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III",
+    "Multicenter Study"
+   ]
+  },
+  {
+   "pmid": "39279639",
+   "titel": "Cagrilintide is not associated with clinically relevant QTc prolongation: A thorough QT study in healthy participants",
+   "jahr": "2024",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Gabe MBN",
+   "doi": "10.1111/dom.15951",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "37364590",
+   "titel": "Efficacy and safety of co-administered once-weekly cagrilintide 2·4 mg with once-weekly semaglutide 2·4 mg in type 2 diabetes: a multicentre, randomised, double-blind, active-controlled, phase 2 trial",
+   "jahr": "2023",
+   "journal": "Lancet",
+   "erstautor": "Frias JP",
+   "doi": "10.1016/S0140-6736(23)01163-7",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Multicenter Study",
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "34798060",
+   "titel": "Once-weekly cagrilintide for weight management in people with overweight and obesity: a multicentre, randomised, double-blind, placebo-controlled and active-controlled, dose-finding phase 2 trial",
+   "jahr": "2021",
+   "journal": "Lancet",
+   "erstautor": "Lau DCW",
+   "doi": "10.1016/S0140-6736(21)01751-7",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "33894838",
+   "titel": "Safety, tolerability, pharmacokinetics, and pharmacodynamics of concomitant administration of multiple doses of cagrilintide with semaglutide 2·4 mg for weight management: a randomised, controlled, phase 1b trial",
+   "jahr": "2021",
+   "journal": "Lancet",
+   "erstautor": "Enebo LB",
+   "doi": "10.1016/S0140-6736(21)00845-X",
+   "typ": [
+    "Clinical Trial, Phase I",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  }
+ ],
+ "humanstudien_detail": [
+  {
+   "pmid": "40544433",
+   "titel": "Coadministered Cagrilintide and Semaglutide in Adults with Overweight or Obesity",
+   "jahr": "2025",
+   "journal": "N Engl J Med",
+   "erstautor": "Garvey WT",
+   "doi": "10.1056/NEJMoa2502081",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Multicenter Study",
+    "Clinical Trial, Phase III"
+   ],
+   "abstract": "BACKGROUND: Semaglutide at a dose of 2.4 mg has established weight-loss and cardiovascular benefits, and cagrilintide at a dose of 2.4 mg has shown promising results in early-phase trials; the efficacy of the combination (known as CagriSema) on weight loss in persons with either overweight and coexisting conditions or obesity is unknown. METHODS: In a phase 3a, 68-week, multicenter, double-blind, placebo-controlled and active-controlled trial, we enrolled adults without diabetes who had a body-mass index (BMI; the weight in kilograms divided by the square of the height in meters) of 30 or higher or a BMI of 27 or higher with at least one obesity-related complication. Participants were randomly assigned in a ratio of 21:3:3:7 to receive the combination of semaglutide at a dose of 2.4 mg and cagrilintide at a dose of 2.4 mg, semaglutide alone at a dose of 2.4 mg, cagrilintide alone at a dose of 2.4 mg, or placebo, plus lifestyle interventions for all groups. The coprimary end points were the relative change in body weight and a reduction of 5% or more in body weight from baseline to week 68 with cagrilintide-semaglutide as compared with placebo. Body-weight reductions of 20% or more, 25% or more, and 30% or more were assessed as confirmatory secondary end points. Effect estimates were assessed with the treatment-policy estimand (consistent with the intention-to-treat principle). Safety was assessed. RESULTS: A total of 3417 participants underwent randomization, with 2108 assigned to receive cagrilintide-semaglutide, 302 to receive semaglutide, 302 to receive cagrilintide, and 705 to receive placebo. The estimated mean percent change in body weight from baseline to week 68 was -20.4% with cagrilintide-semaglutide as compared with -3.0% with placebo (estimated difference, -17.3 percentage points; 95% confidence interval, -18.1 to -16.6; P<0.001). Participants receiving cagrilintide-semaglutide were more likely than those receiving placebo to reach weight-loss targets of 5% or more, 20% or more, 25% or more, and 30% or more (P<0.001 for all comparisons). Gastrointestinal adverse events (affecting 79.6% in the cagrilintide-semaglutide group and 39.9% in the placebo group), including nausea, vomiting, diarrhea, constipation, or abdominal pain, were mainly transient and mild-to-moderate in severity. CONCLUSIONS: Cagrilintide-semaglutide provided significant and clinically relevant body-weight reductions in adults with overweight or obesity, as compared with placebo. (Funded by Novo Nordisk; REDEFINE 1 ClinicalTrials.gov number, NCT05567796.)."
+  },
+  {
+   "pmid": "40544432",
+   "titel": "Cagrilintide-Semaglutide in Adults with Overweight or Obesity and Type 2 Diabetes",
+   "jahr": "2025",
+   "journal": "N Engl J Med",
+   "erstautor": "Davies MJ",
+   "doi": "10.1056/NEJMoa2502082",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III",
+    "Multicenter Study"
+   ],
+   "abstract": "BACKGROUND: Cagrilintide and semaglutide have each been shown to induce weight loss as monotherapies. Data are needed on the coadministration of cagrilintide and semaglutide (called CagriSema) for weight management in adults with type 2 diabetes, including those in a subgroup who are undergoing continuous glucose monitoring. METHODS: In this phase 3a, double-blind, randomized, placebo-controlled trial conducted in 12 countries, we assigned adults with a body-mass index of 27 or more, a glycated hemoglobin level of 7 to 10%, and type 2 diabetes in a 3:1 ratio to receive once-weekly cagrilintide-semaglutide (2.4 mg each) or placebo, along with lifestyle intervention, for 68 weeks. The two primary end points were the percent change in body weight and the percentage of patients with a weight reduction of at least 5%. Additional end points were changes in glycemic measures and safety assessments. Effect estimates were calculated with the use of the treatment-policy estimand (consistent with the intention-to-treat principle). RESULTS: A total of 1206 patients underwent randomization to either the cagrilintide-semaglutide group (904 patients) or the placebo group (302 patients). The estimated mean change in body weight from baseline to week 68 was -13.7% in the cagrilintide-semaglutide group and -3.4% in the placebo group (estimated difference, -10.4 percentage points; 95% confidence interval, -11.2 to -9.5; P<0.001). More patients in the cagrilintide-semaglutide group than in the placebo group had a weight reduction of 5% or more (P<0.001); the same was true of reductions of at least 10%, 15%, and 20% (P<0.001 for the last comparison). The percentage of patients who had a glycated hemoglobin level of 6.5% or less was 73.5% in the cagrilintide-semaglutide group and 15.9% in the placebo group. Gastrointestinal adverse events were reported by 72.5% of the patients in the cagrilintide-semaglutide group and 34.4% in the placebo group, most of which were transient and mild or moderate in severity. CONCLUSIONS: Once-weekly cagrilintide-semaglutide (at a dose of 2.4 mg each) resulted in a significantly lower body weight than placebo in adults with obesity and type 2 diabetes. (Funded by Novo Nordisk; REDEFINE 2 ClinicalTrials.gov number, NCT05394519.)."
+  },
+  {
+   "pmid": "37364590",
+   "titel": "Efficacy and safety of co-administered once-weekly cagrilintide 2·4 mg with once-weekly semaglutide 2·4 mg in type 2 diabetes: a multicentre, randomised, double-blind, active-controlled, phase 2 trial",
+   "jahr": "2023",
+   "journal": "Lancet",
+   "erstautor": "Frias JP",
+   "doi": "10.1016/S0140-6736(23)01163-7",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Multicenter Study",
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Combining the GLP-1 receptor agonist semaglutide with the long-acting amylin analogue cagrilintide has weight-loss benefits; the impact on glycated haemoglobin (HbA1c) is unknown. This trial assessed the efficacy and safety of co-administered semaglutide with cagrilintide (CagriSema) in participants with type 2 diabetes. METHODS: This 32-week, multicentre, double-blind, phase 2 trial was conducted across 17 sites in the USA. Adults with type 2 diabetes and a BMI of 27 kg/m2 or higher on metformin with or without an SGLT2 inhibitor were randomly assigned (1:1:1) to once-weekly subcutaneous CagriSema, semaglutide, or cagrilintide (all escalated to 2·4 mg). Randomisation was done centrally using an interactive web response system and was stratified according to use of SGLT2 inhibitor treatment (yes vs no). The trial participants, investigators, and trial sponsor staff were masked to treatment assignment throughout the trial. The primary endpoint was change from baseline in HbA1c; secondary endpoints were bodyweight, fasting plasma glucose, continuous glucose monitoring (CGM) parameters, and safety. Efficacy analyses were performed in all participants who had undergone randomisation, and safety analyses in all participants who had undergone randomisation and received at least one dose of the trial medication. This trial is registered on ClinicalTrials.gov (NCT04982575) and is complete. FINDINGS: Between Aug 2 and Oct 18, 2021, 92 participants were randomly assigned to CagriSema (n=31), semaglutide (n=31), or cagrilintide (n=30). 59 (64%) participants were male; the mean age of participants was 58 years (SD 9). The mean change in HbA1c from baseline to week 32 (CagriSema: -2·2 percentage points [SE 0·15]; semaglutide: -1·8 percentage points [0·16]; cagrilintide: -0·9 percentage points [0·15]) was greater with CagriSema versus cagrilintide (estimated treatment difference -1·3 percentage points [95% CI -1·7 to -0·8]; p<0·0001), but not versus semaglutide (-0·4 percentage points [-0·8 to 0·0]; p=0·075). The mean change in bodyweight from baseline to week 32 (CagriSema: -15·6% [SE 1·26]; semaglutide: -5·1% [1·26]; cagrilintide: -8·1% [1·23]) was greater with CagriSema versus both semaglutide (p<0·0001) and cagrilintide (p<0·0001). The mean change in fasting plasma glucose from baseline to week 32 (CagriSema: -3·3 mmol/L [SE 0·3]; semaglutide: -2·5 mmol/L [0·4]; cagrilintide: -1·7 mmol/L [0·3]) was greater with CagriSema versus cagrilintide (p=0·0010) but not versus semaglutide (p=0·10). Time in range (3·9-10·0 mmol/L) was 45·9%, 32·6%, and 56·9% at baseline and 88·9%, 76·2%, and 71·7% at week 32 with CagriSema, semaglutide, and cagrilintide, respectively. Adverse events were reported by 21 (68%) participants in the CagriSema group, 22 (71%) in the semaglutide group, and 24 (80%) in the cagrilintide group. Mild or moderate gastrointestinal adverse events were most common; no level 2 or 3 hypoglycaemia was reported. No fatal adverse events were reported. INTERPRETATION: In people with type 2 diabetes, treatment with CagriSema resulted in clinically relevant improvements in glycaemic control (including CGM parameters). The mean change in HbA1c with CagriSema was greater versus cagrilintide, but not versus semaglutide. Treatment with CagriSema resulted in significantly greater weight loss versus semaglutide and cagrilintide and was well tolerated. These data support further investigation of CagriSema in this population in longer and larger phase 3 studies. FUNDING: Novo Nordisk."
+  },
+  {
+   "pmid": "34798060",
+   "titel": "Once-weekly cagrilintide for weight management in people with overweight and obesity: a multicentre, randomised, double-blind, placebo-controlled and active-controlled, dose-finding phase 2 trial",
+   "jahr": "2021",
+   "journal": "Lancet",
+   "erstautor": "Lau DCW",
+   "doi": "10.1016/S0140-6736(21)01751-7",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "BACKGROUND: Natural amylin is a pancreatic hormone that induces satiety. Cagrilintide is a long-acting amylin analogue under investigation for weight management. We assessed the dose-response relationship of cagrilintide regarding the effects on bodyweight, safety, and tolerability. METHODS: We conducted a multicentre, randomised, double-blind, placebo-controlled and active-controlled, dose-finding phase 2 trial at 57 sites including hospitals, specialist clinics, and primary care centres in ten countries (Canada, Denmark, Finland, Ireland, Japan, Poland, Serbia, South Africa, the UK, and the USA). Eligible participants were adults aged at least 18 years without diabetes, with a body-mass index of at least 30 kg/m2 or at least 27 kg/m2 with hypertension or dyslipidaemia. Participants were randomly assigned (6:1) to subcutaneous self-injections of once-weekly cagrilintide (0·3, 0·6, 1·2, 2·4, or 4·5 mg), once-daily liraglutide 3·0 mg, or volume-matched placebo (for six placebo groups). The trial had a 26-week treatment period, including a dose-escalation period of up to 6 weeks, and a 6-week follow-up period without treatment. Participants and investigators were masked to the assigned study treatment with respect to active versus pooled placebo treatment, but not to different active treatments. The primary endpoint was the percentage change in bodyweight from baseline to week 26, assessed in all randomly assigned participants according to the trial product estimand (assuming all participants were adherent to treatment) and to the treatment policy estimand (regardless of adherence to treatment). Safety was assessed in all participants who received at least one dose of randomised treatment. This trial is registered with ClinicalTrials.gov, NCT03856047, and is closed to new participants. FINDINGS: Between March 1 and Aug 19, 2019, we randomly assigned 706 participants to cagrilintide 0·3-4·5 mg (100-102 per dose group), 99 to liraglutide 3·0 mg, and 101 to placebo. Permanent treatment discontinuation (n=73 [10%]) occurred similarly across treatment groups, mostly due to adverse events (n=30 [4%]). In total, 29 participants (4%) withdrew from the trial. According to the trial product estimand, mean percentage weight reductions from baseline were greater with all doses of cagrilintide (0·3-4·5 mg, 6·0%-10·8% [6·4-11·5 kg]) versus placebo (3·0% [3·3 kg]; estimated treatment difference range 3·0%-7·8%; p<0·001). Weight reductions were also greater with cagrilintide 4·5 mg versus liraglutide 3·0 mg (10·8% [11·5 kg] vs 9·0% [9·6 kg]; estimated treatment difference 1·8%, p=0·03). Similar weight loss reductions were observed with the treatment policy estimand. The most frequent adverse events were gastrointestinal disorders (eg, nausea, constipation, and diarrhoea) and administration-site reactions. More participants receiving cagrilintide 0·3-4·5 mg had gastrointestinal adverse events compared with placebo (41%-63% vs 32%), primarily nausea (20%-47% vs 18%). INTERPRETATION: Treatment with cagrilintide in people with overweight and obesity led to significant reductions in bodyweight and was well tolerated. The findings support the development of molecules with novel mechanisms of action for weight management. FUNDING: Novo Nordisk A/S."
+  },
+  {
+   "pmid": "41109426",
+   "titel": "Eloralintide (LY3841136), a novel amylin receptor agonist for the treatment of obesity: From discovery to clinical proof of concept",
+   "jahr": "2025",
+   "journal": "Mol Metab",
+   "erstautor": "Briere DA",
+   "doi": "10.1016/j.molmet.2025.102271",
+   "typ": [
+    "Journal Article",
+    "Clinical Trial, Phase I",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVES: Eloralintide (LY3841136), a novel amylin analog, was evaluated in translational studies to characterize its therapeutic potential for treating obesity. METHODS: In vitro assays were performed in cell lines selectively expressing rat or human amylin 1 receptor (AMY1R), amylin 3 receptor (AMY3R), or calcitonin receptor (CTR). In vivo studies were conducted in rats and monkeys. A phase 1, randomized, placebo-controlled, participant/investigator-blinded trial evaluated the safety and tolerability of single-ascending eloralintide doses (0.04-12 mg) in healthy participants (NCT05295940). RESULTS: In vitro, eloralintide preferentially activated human AMY1R (12-fold > CTR, 11-fold > AMY3R), while in rats, both AMY1R and AMY3R were activated more potently than CTR. Eloralintide induced significantly less conditioned taste avoidance in lean rats than cagrilintide, a non-selective amylin receptor agonist (p < 0.05). Eloralintide dose dependently reduced food intake and lowered body weight, primarily through fat mass loss, in diet-induced obese rats. Eloralintide demonstrated favorable pharmacokinetics in both rats and monkeys. In the phase 1 trial, 48 healthy participants had a mean body mass index of 27.5 kg/m2. Nine participants in the eloralintide cohorts reported 16 adverse events, with most being mild (n = 15/16). Two participants reported 4 gastrointestinal events, including one moderate vomiting event. The pharmacokinetic profile of eloralintide supports once-weekly dosing. In eloralintide cohorts receiving single doses of 4 or 12 mg, week-4 mean percent change from baseline in body weight was -2.5% (p < 0.01) and -4.4% (p < 0.001), respectively, vs placebo (+0.6%). CONCLUSIONS: Once-weekly dosing with eloralintide, an AMY1R-selective agonist, may offer a promising new therapeutic with favorable gastrointestinal tolerability for the treatment of obesity."
+  },
+  {
+   "pmid": "33894838",
+   "titel": "Safety, tolerability, pharmacokinetics, and pharmacodynamics of concomitant administration of multiple doses of cagrilintide with semaglutide 2·4 mg for weight management: a randomised, controlled, phase 1b trial",
+   "jahr": "2021",
+   "journal": "Lancet",
+   "erstautor": "Enebo LB",
+   "doi": "10.1016/S0140-6736(21)00845-X",
+   "typ": [
+    "Clinical Trial, Phase I",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Cagrilintide, a long-acting amylin analogue, and semaglutide 2·4 mg, a glucagon-like peptide-1 analogue, are both being investigated as options for weight management. We aimed to determine the safety, tolerability, pharmacokinetics, and pharmacodynamics of this drug combination. METHODS: In this randomised, placebo-controlled, multiple-ascending dose, phase 1b trial, individuals aged 18-55 years with a body-mass index 27·0-39·9 kg/m2 and who were otherwise healthy were recruited from a single centre in the USA. The trial included six sequential overlapping cohorts, and in each cohort eligible participants were randomly assigned (3:1) to once-weekly subcutaneous cagrilintide (0·16, 0·30, 0·60, 1·2, 2·4, or 4·5 mg) or matched placebo, in combination with once-weekly subcutaneous semaglutide 2·4 mg, without lifestyle interventions. In each cohort, the doses of cagrilintide and semaglutide were co-escalated in 4-week intervals to the desired dose over 16 weeks, participants were treated at the target dose for 4 weeks, and then followed up for 5 weeks. Participants, investigators, and the sponsor were masked to treatment assignment. The primary endpoint was number of treatment-emergent adverse events from baseline to end of follow-up. Secondary pharmacokinetic endpoints assessed from day of last dose (week 19) to end of treatment (week 20) were area under the plasma concentration-time curve from 0 to 168 h (AUC0-168 h) and maximum concentration [Cmax] of cagrilintide and semaglutide; exploratory pharmacokinetic endpoints were half-life, time to Cmax [tmax], plasma clearance, and volume of distribution of cagrilintide and semaglutide; and exploratory pharmacodynamic endpoints were changes in bodyweight, glycaemic parameters, and hormones. Safety, pharmacokinetic, and pharmacodynamic endpoints were assessed in all participants who were exposed to at least one dose of study drug. This study is registered with ClinicalTrials.gov, NCT03600480, and is now complete. FINDINGS: Between July 25, 2018, and Dec 17, 2019, 285 individuals were screened and 96 were randomly assigned to cagrilintide (0·16-2·4 mg group n=12; 4·5 mg group n=11) or placebo (n=24), in combination with semaglutide 2·4 mg, of whom 95 were exposed to treatment (one patient in 0·60 mg cagrilintide group was not exposed) and included in the safety and full analysis datasets. The mean age was 40·6 years (SD 9·2), 56 (59%) of 95 participants were men and 51 (54%) were Black or African American. Of 566 adverse events reported in 92 participants (69 [97%] of 71 participants assigned to 0·16-4·5 mg cagrilintide and 23 [96%] of 24 assigned to placebo), 207 (37%) were gastrointestinal disorders. Most adverse events were mild to moderate in severity and the proportion of participants with one or more adverse event was similar across treatment groups. Exposure was proportional to cagrilintide dose and did not affect semaglutide exposure or elimination. AUC0-168 h ranged from 926 nmol × h/L to 24 271 nmol × h/L, and Cmax ranged from 6·14 nmol/L to 170 nmol/L with cagrilintide 0·16-4·5 mg. AUC0-168 h ranged from 12 757 nmol × h/L to 15 305 nmol × h/L, and Cmax ranged from 96·4 nmol/L to 120 nmol/L with semaglutide 2·4 mg. Cagrilintide 0·16-4·5 mg had a half-life of 159-195 h, with a median tmax of 24-72 h. Semaglutide 2·4 mg had a half-life of 145-165 h, with a median tmax of 12-24 h. Plasma clearance and volume of distribution for both cagrilintide and semaglutide were similar across treatment groups. At week 20, mean percentage bodyweight reductions were greater with cagrilintide 1·2 and 2·4 mg than with placebo (15·7% [SE 1·6] for cagrilintide 1·2 mg and 17·1% [1·5] for cagrilintide 2·4 mg vs 9·8% [1·2] for pooled placebo cohorts 1-5; estimated treatment difference of -6·0% [95% CI -9·9 to -2·0] for cagrilintide 1·2 mg and -7·4% [-11·2 to -3·5] for cagrilintide 2·4 mg vs pooled placebo), and with cagrilintide 4·5 mg than with matched placebo (15·4% [1·3] vs 8·0% [2·2]; estimated treatment difference -7·4% [-12·8 to -2·1]), all in combination with semaglutide 2·4 mg. Glycaemic parameters improved in all treatment groups, independently of cagrilintide dose. Changes in hormones were similar across treatment groups. INTERPRETATION: Concomitant treatment with cagrilintide and semaglutide 2·4 mg was well tolerated with an acceptable safety profile. Future larger and longer trials are needed to fully assess the efficacy and safety of this treatment combination. FUNDING: Novo Nordisk A/S."
+  },
+  {
+   "pmid": "42251859",
+   "titel": "Cagrilintide-semaglutide (CagriSema) versus semaglutide or cagrilintide in people with type 2 diabetes (REIMAGINE 2): a double-blind, randomised, controlled, phase 3 study",
+   "jahr": "2026",
+   "journal": "Lancet Diabetes Endocrinol",
+   "erstautor": "Buse JB",
+   "doi": "10.1016/S2213-8587(26)00125-7",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III",
+    "Multicenter Study",
+    "Comparative Study",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: The amylin receptor agonist cagrilintide and the GLP-1 receptor agonist semaglutide have complementary effects on glycaemic control and bodyweight. We aimed to investigate the efficacy and safety of a fixed-dose combination of cagrilintide and semaglutide (cagrilintide-semaglutide; known as CagriSema) versus semaglutide or cagrilintide for glycaemic control in people with type 2 diabetes and overweight or obesity. METHODS: REIMAGINE 2 was a randomised, double-blind, placebo-controlled and active-controlled, parallel-group study conducted in 30 countries (trial sites included university hospitals, health-care centres, research centres, and other centres). Participants aged 18 years or older with inadequately controlled type 2 diabetes (HbA1c 7·0-10·5% [53-91 mmol/mol]) receiving metformin with or without an SGLT2 inhibitor, and a BMI of 25 kg/m2 or more, were randomly assigned (8:8:2:8:8:1:1) to receive once-weekly subcutaneous cagrilintide 2·4 mg plus semaglutide 2·4 mg (hereafter cagrilintide-semaglutide [2·4 mg each]), semaglutide 2·4 mg, cagrilintide 2·4 mg, cagrilintide 1·0 mg plus semaglutide 1·0 mg (hereafter cagrilintide-semaglutide [1·0 mg each]), semaglutide 1·0 mg, or corresponding placebo for 68 weeks. Randomisation was done using a web-based system with blocked randomisation (block size 36) and stratification according to inclusion in the continuous glucose monitoring subgroup, HbA1c less than 8·5% at screening (yes or no), and country of participation (Japan; yes or no). The study participants, investigators, and study sponsor staff were masked to treatment allocation within dose level throughout the study. The primary endpoint was change in HbA1c from baseline to week 68 with cagrilintide-semaglutide (2·4 mg each) versus semaglutide 2·4 mg in the full analysis set; safety was assessed in all participants who received at least one dose of study product. This study is registered with ClinicalTrials.gov (NCT06065540) and is complete. FINDINGS: From Oct 10, 2023, to July 29, 2024, 3593 people were screened for eligibility, 2713 of whom were randomly assigned to cagrilintide-semaglutide (2·4 mg each; n=603), semaglutide 2·4 mg (n=605), cagrilintide 2·4 mg (n=152), cagrilintide-semaglutide (1·0 mg each; n=595), semaglutide 1·0 mg (n=609), or placebo (pooled 2·4 mg and 1·0 mg; n=149). 1164 (42·9%) of 2713 were female, 1549 (57·1%) were male, and 2207 (81·3%) were White. Of the randomly assigned participants, 2595 (95·7%) completed the study and 2376 (87·6%) were on treatment at week 68. Mean baseline HbA1c was 8·2% (SD 0·9). For the primary endpoint using the efficacy estimand, mean HbA1c change was significantly greater with cagrilintide-semaglutide (2·4 mg each) versus semaglutide 2·4 mg (-1·91 percentage points [SE 0·04] vs -1·75 percentage points [0·04]; estimated treatment difference -0·16 percentage points [95% CI -0·27 to -0·05]; p=0·0035). Adverse events were reported in 524 (86·9%) of 603 participants in the cagrilintide-semaglutide (2·4 mg each) group, 491 (81·2%) of 605 in the semaglutide 2·4 mg group, 125 (82·2%) of 152 in the cagrilintide 2·4 mg group, 485 (81·6%) of 594 in the cagrilintide-semaglutide (1·0 mg each) group, 477 (78·5%) of 608 in the semaglutide 1·0 mg group, and 105 (70·5%) of 149 in the placebo group. The most common adverse events in the active treatment groups were gastrointestinal disorders. INTERPRETATION: Cagrilintide-semaglutide (2·4 mg each) was superior to semaglutide 2·4 mg in reducing HbA1c in participants with type 2 diabetes receiving metformin with or without an SGLT2 inhibitor. The safety profile of cagrilintide-semaglutide was consistent with the GLP-1 receptor agonist class and previous safety data for cagrilintide. These findings support the added benefit of cagrilintide-semaglutide (2·4 mg each) versus semaglutide 2·4 mg for glycaemic control. FUNDING: Novo Nordisk."
+  },
+  {
+   "pmid": "41328546",
+   "titel": "CagriSema Reduces Blood Pressure in Adults With Overweight or Obesity: REDEFINE 1",
+   "jahr": "2026",
+   "journal": "Hypertension",
+   "erstautor": "Verma S",
+   "doi": "10.1161/HYPERTENSIONAHA.125.26055",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III",
+    "Multicenter Study"
+   ],
+   "abstract": "BACKGROUND: Fixed-dose combination of semaglutide/cagrilintide (CagriSema 2.4 mg/2.4 mg) has demonstrated significant and clinically relevant body weight reductions in adults with overweight or obesity compared with placebo. METHODS: The phase 3a, 68-week REDEFINE 1 trial randomized adults without diabetes with body mass index ≥30 kg/m2, or ≥27 kg/m2 with ≥1 obesity-related complication, to once-weekly CagriSema 2.4 mg/2.4 mg, semaglutide 2.4 mg, cagrilintide 2.4 mg, or placebo, plus lifestyle intervention. Secondary and post hoc analyses evaluated the antihypertensive effect from REDEFINE 1, focusing on CagriSema and placebo groups, by subgroup/category, including baseline body mass index, the presence of hypertension or resistant hypertension at baseline, and concomitant changes in the use of antihypertensive medications. RESULTS: Overall, 3417 participants underwent randomization; CagriSema: n=2108, semaglutide: n=302, cagrilintide: n=302, and placebo: n=705. Changes from baseline to week 68 in blood pressure (BP) were greater with CagriSema versus placebo (systolic BP: -10.9 versus -2.8 mm Hg; diastolic BP: -5.4 versus -1.7 mm Hg, respectively). The proportion of participants reaching BP targets at week 68 was 63.0% and 32.0% for CagriSema and placebo, respectively. The proportion of participants with resistant hypertension at baseline (n=167) that reached BP targets at week 68 was 42.0% and 29.3% for CagriSema and placebo, respectively (odds ratio, 1.7 [95% CI, 0.7-4.4]). Among participants who used antihypertensive medication during the study, 39.6% in the CagriSema group decreased or stopped treatment from week 0 to week 68 versus 18.8% with placebo. CONCLUSIONS: CagriSema presents clinically relevant reductions in BP across a wide range of participant subgroups, including those with resistant hypertension. REGISTRATION: URL: https://www.clinicaltrials.gov; Unique identifier: NCT05567796."
+  },
+  {
+   "pmid": "42009015",
+   "titel": "Efficacy and safety of co-administered cagrilintide and semaglutide versus semaglutide alone in adults with overweight or obesity with or without type 2 diabetes in Japan and Taiwan (REDEFINE 5): a multicentre, randomised, active-controlled, phase 3a trial",
+   "jahr": "2026",
+   "journal": "Lancet Diabetes Endocrinol",
+   "erstautor": "Yamauchi T",
+   "doi": "10.1016/S2213-8587(25)00402-4",
+   "typ": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: The combination of cagrilintide and semaglutide has been shown in global studies to induce reductions in bodyweight. We assessed the efficacy and safety of a fixed-dose combination of cagrilintide 2·4 mg and semaglutide 2·4 mg versus semaglutide 2·4 mg for weight management in an east Asian population. METHODS: This double-blind, parallel-group, phase 3a trial (REDEFINE 5) was conducted across 21 sites (community, hospital) in Japan and one site in Taiwan. We included participants aged at least 18 years with a BMI of at least 27 kg/m2 and at least two obesity-related complications, or with a BMI of at least 35 kg/m2 and at least one obesity-related complication (per the Japan Society for the Study of Obesity guidelines), with or without type 2 diabetes. Participants were randomly assigned (1:1) to once-weekly subcutaneous injections of cagrilintide-semaglutide or semaglutide (both escalated to 2·4 mg), plus lifestyle intervention, for 68 weeks. Randomisation was done centrally using an interactive web response system and stratified according to planned CT scan, BMI of at least 35 kg/m2, and type 2 diabetes status. Participants, site staff, investigators, and study funder were all masked to active study treatments. The primary endpoint was relative change in bodyweight from baseline to week 68. Efficacy analyses were done in all participants who underwent randomisation, using the trial product estimand (ie, assuming the treatment was taken as intended, regardless of dose) as the primary estimand. Missing data at week 68 were imputed. Safety analyses were done in all participants who underwent randomisation and received at least one dose of trial product. This trial is registered with ClinicalTrials.gov (NCT05813925) and is complete. FINDINGS: Between April 3, 2023, and Sept 15, 2023, we screened 355 individuals; 331 were randomly assigned to cagrilintide-semaglutide (n=164) or semaglutide (n=167). 226 (68%) participants were male and 105 (32%) were female; 80 (24%) had type 2 diabetes. 17 (10%) participants discontinued cagrilintide-semaglutide and ten (6%) discontinued semaglutide. The estimated mean change in bodyweight from baseline to week 68 was -18·4% (SE 0·7) in the cagrilintide-semaglutide group versus -11·9% (0·7) in the semaglutide group (estimated treatment difference [ETD] -6·5 percentage points [95% CI -8·4 to -4·6]; p<0·0001). Adverse events were reported by 143 (87%) of 164 participants in the cagrilintide-semaglutide group and 141 (84%) of 167 in the semaglutide group, the most common of which were gastrointestinal disorders (87 [53%] of 164 participants in the cagrilintide-semaglutide group vs 85 [51%] of 167 in the semaglutide group). One death was reported in the semaglutide 2·4 mg group, which was not judged to be treatment related by the investigator. INTERPRETATION: These findings support the efficacy and safety of cagrilintide-semaglutide for weight management in individuals from east Asia with overweight or obesity, with or without type 2 diabetes. FUNDING: Novo Nordisk. TRANSLATIONS: For the Japanese and Mandarin translations of the abstract see Supplementary Materials section."
+  },
+  {
+   "pmid": "42228334",
+   "titel": "Renal or Hepatic Impairment Does Not Affect Pharmacokinetics, Safety, or Tolerability of Subcutaneous Cagrilintide",
+   "jahr": "2026",
+   "journal": "Clin Pharmacokinet",
+   "erstautor": "Nielsen MJF",
+   "doi": "10.1007/s40262-026-01654-0",
+   "typ": [
+    "Clinical Trial, Phase I",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "BACKGROUND AND OBJECTIVES: Cagrilintide is a long-acting amylin agonist under development as monotherapy for weight management and as a fixed-dose combination with the glucagon-like peptide-1 receptor agonist semaglutide (CagriSema) for weight management and treatment of type 2 diabetes. Two studies were conducted to assess the effects of renal or hepatic impairment on pharmacokinetics, safety and tolerability following single doses of cagrilintide. METHODS: In both studies, adult participants were categorised into four groups on the basis of renal or hepatic function (normal function and mild, moderate or severe impairment) and received a single dose of cagrilintide 0.6 or 0.9 mg, respectively. The primary endpoint was area under the cagrilintide plasma concentration curve from time zero extrapolated to infinity (AUC0-∞) from baseline (day 1) to day 36 (renal impairment study) or day 39 (hepatic impairment study). Other pharmacokinetic parameters included maximum observed cagrilintide plasma concentration (Cmax), time to Cmax (tmax) and safety. RESULTS: The renal impairment study included 33 participants (normal function, n = 14; mild impairment, n = 7; moderate impairment, n = 7; severe impairment, n = 5) and the hepatic impairment study included 32 participants (normal function, n = 14; mild impairment, n = 7; moderate impairment, n = 7; severe impairment, n = 4). In both studies, total cagrilintide exposure (AUC0-∞), Cmax and other pharmacokinetic parameters were similar across groups with no consistent patterns observed with renal or hepatic impairment. Compared with normal renal function, the estimated ratio of the mean AUC0-∞ was 1.23 (90% confidence interval [CI], 0.91-1.66) in mild impairment, 1.18 (0.87-1.59) in moderate impairment and 1.21 (0.87-1.68) in severe impairment. Compared with normal hepatic function, the estimated ratio of the mean AUC0-∞ was 0.99 (0.89-1.11) in mild impairment, 1.01 (0.91-1.12) in moderate impairment and 1.11 (0.96-1.30) in severe impairment. Overall, 21 and 16 treatment-emergent adverse events (TEAEs) were reported in 11 and 9 participants in the renal and hepatic studies, respectively. In both studies, no serious TEAEs, TEAEs leading to study withdrawal or deaths were reported. No increase in number of adverse events with increasing renal or hepatic impairment was observed, and no new safety or tolerability findings with cagrilintide were identified with renal or hepatic impairment. CONCLUSIONS: In these studies, within the limitations of small sample sizes, no clinically relevant differences in cagrilintide pharmacokinetics were observed in participants with renal or hepatic impairment compared with those with normal function, suggesting that dose adjustment is not warranted for these populations. Cagrilintide was well-tolerated and there were no unexpected safety issues. TRIAL REGISTRATION: Studies are registered at ClinicalTrials.gov (NCT04209049 registered 23 December 2019 and NCT05564104 registered 3 October 2022)."
+  },
+  {
+   "pmid": "42251860",
+   "titel": "Efficacy and safety of once-weekly cagrilintide-semaglutide (CagriSema) in adults with type 2 diabetes inadequately controlled on diet and exercise (REIMAGINE 1): a randomised, double-blind, placebo-controlled, phase 3a study",
+   "jahr": "2026",
+   "journal": "Lancet Diabetes Endocrinol",
+   "erstautor": "Aroda VR",
+   "doi": "10.1016/S2213-8587(26)00126-9",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III",
+    "Multicenter Study",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Cagrilintide-semaglutide (CagriSema) is a novel, once-weekly combination of the amylin receptor agonist cagrilintide and the GLP-1 receptor agonist semaglutide. We aimed to assess the efficacy and safety of cagrilintide-semaglutide for people with type 2 diabetes inadequately controlled with diet and exercise. METHODS: REIMAGINE 1 was a randomised, double-blind, parallel-group, phase 3a study carried out at 42 sites (study sites included university hospitals, health-care centres, research centres, and other centres) in six countries. Adults aged 18 years or older with type 2 diabetes inadequately controlled with diet and exercise were randomly assigned (2:1:2:1) to receive once-weekly subcutaneous cagrilintide 2·4 mg plus semaglutide 2·4 mg (cagrilintide-semaglutide [2·4 mg each]), placebo 2·4 mg plus 2·4 mg, cagrilintide 1·0 mg plus semaglutide 1·0 mg (cagrilintide-semaglutide [1·0 mg each]), or placebo 1·0 mg plus 1·0 mg for 40 weeks. Randomisation was done using a web-based system with a block size of six and stratified according to HbA1c less than 8·5% at screening and participation in the MRI substudy. Participants, care providers, investigators, and outcome assessors were masked within dose level and all participants received visually identical injections to maintain masking throughout the study. The primary endpoint was change in HbA1c from baseline to week 40 in the full analysis set; safety was assessed in all participants who received at least one dose of the trial product. Change in bodyweight from baseline to week 40 was a prespecified secondary endpoint. This study is registered with ClinicalTrials.gov, NCT06323174, and is complete. FINDINGS: Between March 19 and Dec 5, 2024, 294 people were screened for eligibility, 189 of whom were enrolled and randomly assigned to cagrilintide-semaglutide (2·4 mg each; n=62), cagrilintide-semaglutide (1·0 mg each; n=63), or placebo (n=64). 103 (54%) of 189 were male, 86 (46%) were female, 147 (78%) were White, and 26 (14%) were Asian. Baseline mean HbA1c was 7·8% (SD 0·7) and BMI was 35·2 kg/m2 (7·4). Using the efficacy estimand, the estimated mean change in HbA1c after 40 weeks was -1·8 percentage points (SE 0·1) with cagrilintide-semaglutide (2·4 mg each), -1·5 percentage points (0·1) with cagrilintide-semaglutide (1·0 mg each), and -0·1 percentage points (0·2) with placebo. This corresponded to an estimated treatment difference of -1·7 percentage points (95% CI -2·0 to -1·3; p<0·0001) for cagrilintide-semaglutide (2·4 mg each) versus placebo and -1·3 percentage points (-1·8 to -0·9; p<0·0001) for cagrilintide-semaglutide (1·0 mg each) versus placebo. Cagrilintide-semaglutide was superior to placebo with respect to estimated mean relative change in bodyweight from baseline to week 40 for cagrilintide-semaglutide (2·4 mg each; -13·8% [SE 1·0]) versus placebo (-1·4% [0·7]; estimated treatment difference -12·4 percentage points [95% CI -14·7 to -10·1]; p<0·0001) and cagrilintide-semaglutide (1·0 mg each; -11·8% [1·0]) versus placebo (-1·4% [0·7]; estimated treatment difference -10·4 percentage points [-12·9 to -8·0]; p<0·0001). Adverse events were reported by 49 (79%) of 62 participants in the cagrilintide-semaglutide (2·4 mg each) group, 47 (75%) of 63 in the cagrilintide-semaglutide (1·0 mg each) group, and 42 (66%) of 64 in the placebo group. Most adverse events were mild or moderate and gastrointestinal related. INTERPRETATION: In a population of people with early-stage type 2 diabetes inadequately controlled with diet and exercise, cagrilintide-semaglutide (2·4 mg each and 1·0 mg each) was superior to placebo in reducing HbA1c. The safety profile was consistent with the GLP-1 receptor agonist class and previous safety data for cagrilintide. These findings support cagrilintide-semaglutide as a potential novel and effective therapeutic intervention for people with early-stage type 2 diabetes. FUNDING: Novo Nordisk."
+  },
+  {
+   "pmid": "42251856",
+   "titel": "Cagrilintide-semaglutide (CagriSema) as an add-on to basal insulin in adults with type 2 diabetes (REIMAGINE 3): a randomised, double-blind, placebo-controlled, multicentre, phase 3 study",
+   "jahr": "2026",
+   "journal": "Lancet",
+   "erstautor": "Rosenstock J",
+   "doi": "10.1016/S0140-6736(26)01022-6",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Multicenter Study",
+    "Clinical Trial, Phase III",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Basal insulin treatment for type 2 diabetes often results in inadequate glycaemic control and is associated with weight gain and increased risk of hypoglycaemia. We aimed to compare the efficacy and safety of a once per week combination of cagrilintide with semaglutide (CagriSema) versus placebo as an add-on to basal insulin in individuals with type 2 diabetes. METHODS: This double-blind, parallel-group, randomised, controlled, phase 3a study (REIMAGINE 3) was done at 46 centres (university hospitals, health-care centres, research centres, and other clinical trial sites) in six countries (the USA, China, Japan, Serbia, Slovakia, and South Africa). Adults with type 2 diabetes (glycated haemoglobin [HbA1c] 7·0-10·5%) receiving stable once per day basal insulin with or without metformin were randomly assigned (2:2:1:1) to once per week subcutaneous cagrilintide 2·4 mg plus semaglutide 2·4 mg (hereafter cagrilintide-semaglutide [2·4 mg each]) or cagrilintide 1·0 mg plus semaglutide 1·0 mg (hereafter cagrilintide-semaglutide [1·0 mg each]) or dose-matched placebo (2·4 mg plus 2·4 mg or 1·0 mg plus 1·0 mg) for 40 weeks. Randomisation was stratified by HbA1c of less than 8·5% at screening (yes or no) and country (Japan; yes or no). Participants, care providers, investigators, and outcome assessors were masked within each dose level to treatment allocation, with active treatments visually identical to placebo. The primary endpoint was mean HbA1c change (percentage points) from baseline to week 40 in all participants randomly assigned to treatment; secondary endpoints included change in bodyweight and safety, including hypoglycaemia. This trial was registered with ClinicalTrials.gov (NCT06323161) and is complete. FINDINGS: Between March 26 and Nov 29, 2024, we screened 340 individuals and 274 were included and randomly assigned to cagrilintide-semaglutide (2·4 mg each; n=90), cagrilintide-semaglutide (1·0 mg each; n=93), or placebo (pooled; n=91). Mean baseline HbA1c was 8·8% (SD 1·0), 159 (58%) participants were male, and 115 (42%) were female. Mean HbA1c reductions were significantly greater with cagrilintide-semaglutide (2·4 mg each -2·33% [SE 0·08] and 1·0 mg each -2·10% [0·08]) versus placebo (-0·66% [0·11]) at week 40, using the efficacy estimand (estimated treatment difference for cagrilintide-semaglutide [2·4 mg each] vs placebo -1·68 percentage points [95% CI -1·95 to -1·41], p<0·0001; for cagrilintide-semaglutide [1·0 mg each] vs placebo -1·44 percentage points [95% CI -1·71 to -1·17], p<0·0001). Cagrilintide-semaglutide provided bodyweight reductions of 10-12%. Adverse events were reported by 72 (80%) of 90 participants receiving cagrilintide-semaglutide (2·4 mg each), 66 (71%) of 93 receiving cagrilintide-semaglutide (1·0 mg each), and 65 (71%) of 91 receiving placebo, and were mostly mild or moderate gastrointestinal disorders. No severe hypoglycaemia was reported. There was one death in the cagrilintide-semaglutide (1·0 mg each) group not related to treatment (due to malignancy). INTERPRETATION: Cagrilintide-semaglutide at doses of 2·4 mg each and 1·0 mg each met the primary endpoint, with statistically significant and clinically relevant HbA1c reductions versus placebo when added to basal insulin-treated type 2 diabetes. These reductions were accompanied by robust bodyweight reduction and no additional risk of hypoglycaemia. The safety profile was consistent with that of the GLP-1 receptor agonist class and previous safety data for cagrilintide. Findings support the use of cagrilintide-semaglutide as an add-on to once per day basal insulin to significantly improve glycaemic control. FUNDING: Novo Nordisk."
+  },
+  {
+   "pmid": "42456707",
+   "titel": "Efficacy and safety of zalfermin co-administered with semaglutide in participants with fibrosis and cirrhosis due to metabolic dysfunction-associated steatohepatitis: a phase 2, dose-ranging, double-blind, randomised controlled trial",
+   "jahr": "2026",
+   "journal": "Lancet Gastroenterol Hepatol",
+   "erstautor": "Loomba R",
+   "doi": "10.1016/S2468-1253(26)00123-8",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase II",
+    "Multicenter Study",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: This phase 2 study evaluated once-weekly zalfermin and semaglutide for efficacy and safety in patients with metabolic dysfunction-associated steatohepatitis and clinically significant fibrosis, including patients with compensated cirrhosis (F4c). METHODS: This proof-of-concept, phase 2, dose-ranging, double-blind, randomised controlled trial was done in 187 clinical trial sites in Australia, Belgium, Bulgaria, Canada, Czech Republic, Denmark, France, Germany, Greece, India, Italy, Japan, Malaysia, Poland, Portugal, Russia, Singapore, South Korea, Spain, Taiwan, Türkiye, and the USA. Eligible participants were aged 18 years or older with histological confirmation of steatohepatitis on liver biopsy (baseline or historical within 180 days). Eligible participants had clinically significant fibrosis (stage F2-F4c) in the absence of decompensation. Eligible participants were randomly assigned to receive subcutaneous zalfermin 7·5 mg plus subcutaneous semaglutide 2·4 mg, zalfermin 15 mg plus semaglutide 2·4 mg, zalfermin 30 mg plus semaglutide 2·4 mg, zalfermin 30 mg, semaglutide 2·4 mg, cagrilintide 2·4 mg plus semaglutide 2·4 mg, or placebo only once a week for 52 weeks. The primary endpoint was improvement in liver fibrosis on the NASH CRN fibrosis scale of at least one stage and no worsening of metabolic dysfunction-associated steatohepatitis at week 52. Efficacy was assessed in the full analysis set (all randomly assigned participants) and safety was analysed in all participants who were randomly assigned and received at least one dose of trial product or placebo. The trial is registered with ClinicalTrials.gov, NCT05016882, and is completed. FINDINGS: Between Aug 31, 2021, and March 14, 2025, 2420 people were screened for inclusion. 178 withdrew before random assignment and 1544 were disqualified. 698 participants were enrolled and randomly assigned to zalfermin 7·5 mg plus semaglutide 2·4 mg (n=99), zalfermin 15 mg plus semaglutide 2·4 mg (n=100), zalfermin 30 mg plus semaglutide 2·4 mg (n=99), zalfermin 30 mg (n=101), semaglutide 2·4 mg (n=100), cagrilintide 2·4 mg plus semaglutide 2·4 mg (n=99), or placebo (n=100). 441 (63%) of 698 participants were female and 257 (37%) were male. 484 (69%) of 698 participants were White and 172 (25%) were Asian. At week 52, the proportion of participants who had an improvement in liver fibrosis and no worsening of metabolic dysfunction-associated steatohepatitis with zalfermin 30 mg plus semaglutide 2·4 mg was not significantly greater than with placebo (24 [24%] of 99 participants in the combination group vs 16 [16%] of 100 participants in the placebo group; estimated difference in responder proportions [EDP] 7·98, 95% CI -3·82 to 19·79; p=0·19). A nominally significantly greater proportion of participants in the semaglutide 2·4 mg group achieved this endpoint than in the placebo group (30 [30%] of 100 participants in the semaglutide group; EDP 14·05, 95% CI 1·88 to 26·23; p=0·024), but not in the zalfermin 30 mg group versus placebo (22 [22%] of 101 participants in the zalfermin group; 4·99, -6·51 to 16·49; p=0·39). Similarly, the proportions of participants achieving this endpoint in the two groups that combined lower doses of zalfermin with semaglutide 2·4 mg and in the exploratory group combining cagrilintide 2·4 mg with semaglutide 2·4 mg were not substantially different than with placebo. Adverse events were mostly non-serious and mild to moderate in severity. The most frequent adverse events were gastrointestinal, reported in 79 (80%) of 99 participants in the zalfermin 30 mg plus semaglutide 2·4 mg group, 61 (60%) of 101 participants in the zalfermin 30 mg group, 73 (73%) of 100 participants in the semaglutide 2·4 mg group, and 51 (51%) of 100 participants in the placebo group. Serious adverse events were reported in seven (7%) participants in the zalfermin 30 mg plus semaglutide 2·4 mg group, 13 (13%) participants in the zalfermin 30 mg group, ten (10%) participants in the semaglutide 2·4 mg group, and five (5%) participants in the placebo group. Five deaths were reported in the trial, one of which was assessed as possibly related to study drug (heart failure, zalfermin 30 mg group). INTERPRETATION: In participants with metabolic dysfunction-associated steatohepatitis and clinically significant fibrosis, the combination of zalfermin 30 mg plus semaglutide 2·4 mg did not significantly increase the proportion of participants who had an improvement in liver fibrosis and no worsening of metabolic dysfunction-associated steatohepatitis compared with placebo by week 52. However, a nominally significant treatment effect was observed for semaglutide 2·4 mg versus placebo. Semaglutide might be considered for further clinical assessment as a potential disease-modifying therapy in the F4c population. FUNDING: Novo Nordisk."
+  },
+  {
+   "pmid": "42503495",
+   "titel": "Efficacy of CagriSema for Reaching Anthropometric Treatment Targets and Cardiometabolic Outcomes: A Secondary, Post hoc Analysis of REDEFINE 1",
+   "jahr": "2026",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Busetto L",
+   "doi": "10.1111/dom.71134",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "AIMS: To assess the added value of absolute anthropometric targets alongside percentage weight loss in the clinical management of obesity. MATERIALS AND METHODS: The phase 3a, 68-week REDEFINE 1 trial randomised adults without diabetes with BMI ≥ 30 kg/m2, or ≥ 27 kg/m2 with ≥ 1 obesity-related complication, to once-weekly CagriSema 2.4 mg/2.4 mg, semaglutide 2.4 mg, cagrilintide 2.4 mg, or placebo, plus lifestyle intervention. This secondary, post hoc analysis assessed the proportions of participants achieving BMI < 27 kg/m2 and/or WHtR < 0.53 targets, and percentage weight loss by anthropometric target. The association between the proportion of participants maintaining or achieving normalisation of four cardiometabolic outcomes: normoglycemia (glycated haemoglobin < 5.7% and fasting plasma glucose < 5.6 mmol/L); blood pressure (< 130/80 mmHg); triglycerides (< 1.7 mmol/L); lipids (high-density lipoprotein cholesterol ≥ 1.3 mmol/L [female] or ≥ 1.0 mmol/L [male]) and reaching anthropometric targets or change in body weight (%) was also assessed. RESULTS: The proportion of participants achieving both BMI < 27 kg/m2 and WHtR < 0.53 targets at week 68 was 30.3%, 19.1%, 9.0%, and 3.3% in participants who received CagriSema, semaglutide, cagrilintide, or placebo respectively. Both BMI and WHtR performed similarly as indicators for all four cardiometabolic outcomes. At more stringent cut-off values, anthropometric targets were better measures than percentage weight loss. CONCLUSIONS: The proportion of participants achieving anthropometric targets was greater with CagriSema Versus other treatments. These findings support further validation of BMI and WHtR anthropometric treatment targets and indicate a potential for indicating amelioration of clinical outcomes in obesity and a greater emphasis on target-based treatment strategies."
+  },
+  {
+   "pmid": "39279639",
+   "titel": "Cagrilintide is not associated with clinically relevant QTc prolongation: A thorough QT study in healthy participants",
+   "jahr": "2024",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Gabe MBN",
+   "doi": "10.1111/dom.15951",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "AIMS: The combination of cagrilintide and semaglutide (CagriSema) is being developed for the treatment of obesity and type 2 diabetes. The objective of this thorough QT study was to confirm that cagrilintide does not result in a clinically relevant prolongation in cardiac repolarization compared with placebo. MATERIALS AND METHODS: This was a double-blind study (NCT05804162) in which healthy participants were randomized to cagrilintide, administered as a once-weekly subcutaneous injection dose escalated to 4.5 mg, or a placebo. The primary end point was the time-matched change from baseline in Fridericia heart rate-corrected QT interval (QTcF) at 12-, 24-, 48- and 72 h after the last cagrilintide 4.5-mg dose. To conclude that cagrilintide does not induce a clinically relevant prolongation, the upper limit of the two-sided 90% confidence interval (CI) for the treatment difference at each of the four time points must fall below 10 ms. To establish QT assay sensitivity, participants in the placebo arms received a single 400-mg oral moxifloxacin dose as a positive control and moxifloxacin placebo in a nested cross-over fashion. RESULTS: A total of 105 participants received cagrilintide (n = 53) or placebo (n = 52). No clinically relevant QTcF prolongation occurred after the last cagrilintide 4.5-mg dose; the upper limits of the two-sided 90% CIs of the placebo-adjusted QTcF changes from baseline were below 10 ms at all time points. QT assay sensitivity was demonstrated with moxifloxacin as a positive control. CONCLUSIONS: Cagrilintide did not result in clinically relevant QTcF prolongation, indicating no increased risk of ventricular tachyarrhythmias."
+  }
+ ],
+ "metaanalysen": [
+  {
+   "pmid": "38286487",
+   "titel": "Comparative effectiveness of GLP-1 receptor agonists on glycaemic control, body weight, and lipid profile for type 2 diabetes: systematic review and network meta-analysis",
+   "jahr": "2024",
+   "journal": "BMJ",
+   "erstautor": "Yao H",
+   "doi": "10.1136/bmj-2023-076410",
+   "typ": [
+    "Systematic Review",
+    "Journal Article",
+    "Network Meta-Analysis"
+   ],
+   "abstract": "OBJECTIVE: To evaluate the comparative efficacy and safety of glucagon-like peptide-1 receptor agonists (GLP-1RAs) on glycaemic control, body weight, and lipid profile in adults with type 2 diabetes. DESIGN: Systematic review and network meta-analysis. DATA SOURCES: PubMed, Web of Science, Cochrane Central Register of Controlled Trials (CENTRAL), and Embase from database inception to 19 August 2023. ELIGIBILITY CRITERIA FOR SELECTING STUDIES: Eligible randomised controlled trials enrolled adults with type 2 diabetes who received GLP-1RA treatments and compared effects with placebo or any GLP-1RA drug, with a follow-up duration of at least 12 weeks. Trials with a crossover design, non-inferiority studies comparing GLP-1RA and other drug classes without a placebo group, using withdrawn drugs, and non-English studies were deemed ineligible. RESULTS: 76 eligible trials involving 15 GLP-1RA drugs and 39 246 participants were included in this network meta-analysis; all subsequent estimates refer to the comparison with placebo. All 15 GLP-1RAs effectively lowered haemoglobin A1c and fasting plasma glucose concentrations. Tirzepatide induced the largest reduction of haemoglobin A1c concentrations (mean difference -2.10% (95% confidence interval -2.47% to -1.74%), surface under the cumulative ranking curve 94.2%; high confidence of evidence), and fasting plasma glucose concentrations (-3.12 mmol/L (-3.59 to -2.66), 97.2%; high confidence), and proved the most effective GLP-1RA drug for glycaemic control. Furthermore, GLP-1RAs were shown to have strong benefits to weight management for patients with type 2 diabetes. CagriSema (semaglutide with cagrilintide) resulted in the highest weight loss (mean difference -14.03 kg (95% confidence interval -17.05 to -11.00); high confidence of evidence), followed by tirzepatide (-8.47 kg (-9.68 to -7.26); high confidence). Semaglutide was effective in lowering the concentration of low density lipoprotein (-0.16 mmol/L (-0.30 to -0.02)) and total cholesterol (-0.48 mmol/L (-0.84 to -0.11)). Moreover, this study also raises awareness of gastrointestinal adverse events induced by GLP-1RAs, and concerns about safety are especially warranted for high dose administration. CONCLUSIONS: GLP-1RAs are efficacious in treating adults with type 2 diabetes. Compared with the placebo, tirzepatide was the most effective GLP-1RA drug for glycaemic control by reducing haemoglobin A1c and fasting plasma glucose concentrations. GLP-1RAs also significantly improved weight management for type 2 diabetes, with CagriSema performing the best for weight loss. The results prompt safety concerns for GLP-1RAs, especially with high dose administration, regarding gastrointestinal adverse events. SYSTEMATIC REVIEW REGISTRATION: PROSPERO CRD42022342845."
+  },
+  {
+   "pmid": "42419792",
+   "titel": "Comparative effects of drugs for adults with overweight or obesity: systematic review and network meta-analysis",
+   "jahr": "2026",
+   "journal": "BMJ",
+   "erstautor": "Nong K",
+   "doi": "10.1136/bmj-2026-372161",
+   "typ": [
+    "Systematic Review",
+    "Network Meta-Analysis",
+    "Journal Article",
+    "Comparative Study"
+   ],
+   "abstract": "OBJECTIVE: To provide an up-to-date evidence summary about the comparative benefits and harms of drugs for adults with overweight or obesity to inform decision making for policymakers, payers, clinicians, and patients. DESIGN: Systematic review and network meta-analysis of 24 outcomes using frequentist random effects models and bayesian dose-response models, the GRADE (Grading of Recommendations Assessment, Development, and Evaluation) approach, and the Cochrane Risk of Bias 2 tool. DATA SOURCES: Medline, Embase, and Cochrane Library, searched up to 12 November 2025. STUDY SELECTION: Randomised controlled trials of 12 weeks' duration or longer comparing one or more drugs with lifestyle modification, placebo, or another drug. RESULTS: This network meta-analysis comprised 262 trials (99 791 participants) evaluating 19 drugs with follow-up from 12 to 172 weeks. Compared with lifestyle modification alone, at one year, moderate to high certainty evidence shows substantial weight loss with tirzepatide (mean difference -14.9%, 95% confidence interval -16.0% to -13.9%), cagrilintide-semaglutide (CagriSema, -14.8%, -16.9% to -12.7%), oral semaglutide (-10.9%, -12.7% to -9.1%), orforglipron (-9.9%, -12.4% to -7.5%), subcutaneous semaglutide (-9.8%, -10.6% to -9.1%), and phentermine-topiramate (-8.1%, -9.7% to -6.5%). Emerging agents (ecnoglutide, mazdutide, retatrutide) may produce similar or greater reductions (13.1-14.6%; very low to low certainty). Moderate to high certainty evidence supports discontinuation because of adverse events to be highest with orforglipron, naltrexone-bupropion, liraglutide, phentermine-topiramate, CagriSema, and oral semaglutide (risk ratios from 1.9 to 4.2); gastrointestinal events were most increased with naltrexone-bupropion, oral semaglutide, orforglipron, and tirzepatide (risk ratios from 3.1 to 4.2). Fatigue risk increased, particularly with naltrexone-bupropion (risk ratio 8.9; absolute increase 331 per 1000 people over one year), orforglipron (3.4; 100 more per 1000), and CagriSema (3.2; 92 more per 1000). Tirzepatide reduced fat mass the most (by 25.7%) but also lean mass the most (by 8.3%). Subcutaneous semaglutide was the only drug associated with reduced all cause mortality (risk ratio 0.81, 95% confidence interval 0.72 to 0.93) and myocardial infarction (0.72, 0.61 to 0.85), with these estimates largely informed by cardiovascular outcome trials in high risk populations. Subcutaneous semaglutide (0.43, 0.21 to 0.84) and tirzepatide (0.49, 0.27 to 0.88) reduced heart failure risk. No drugs convincingly reduced kidney failure or improved quality of life (43 trials with 45 663 participants) beyond established minimally important differences (all mean differences <5 points; minimally important difference 10). Except for larger weight reductions in trials with longer duration (shown for subcutaneous semaglutide), subgroup analyses for drug dosages and key patient characteristics did not identify credible differences in relative effects of treatment. CONCLUSIONS: Obesity drugs produce variable weight loss at one year, with larger benefits generally accompanied by greater harms and discontinuation. Most agents do not improve quality of life meaningfully and few show cardiovascular benefits. Decisions in clinical practice should consider trade-offs between benefits and harms within the context of shared decision making. SYSTEMATIC REVIEW REGISTRATION: PROSPERO CRD42024507993."
+  },
+  {
+   "pmid": "42296503",
+   "titel": "Benefits and Harms of Pharmacologic Treatments in Adults With Overweight or Obesity: A Living Systematic Review and Network Meta-analysis for the American College of Physicians",
+   "jahr": "2026",
+   "journal": "Ann Intern Med",
+   "erstautor": "Damen JAA",
+   "doi": "10.7326/ANNALS-24-03764",
+   "typ": [
+    "Journal Article",
+    "Systematic Review",
+    "Network Meta-Analysis"
+   ],
+   "abstract": "BACKGROUND: Overweight and obesity are closely linked to diseases such as type 2 diabetes, coronary heart disease, and stroke and have been shown to increase mortality risk. PURPOSE: To conduct a living systematic review of pharmacologic treatments for weight management in overweight or obesity in adults. DATA SOURCES: MEDLINE and Cochrane Central Register of Controlled Trials until October 2025. STUDY SELECTION: Randomized controlled trials that compared pharmacologic treatments for weight management (dulaglutide, exenatide, liraglutide, lixisenatide, naltrexone-bupropion, orforglipron, phentermine, phentermine-topiramate, retatrutide, semaglutide, semaglutide-cagrilintide, tirzepatide, or any combination with or without lifestyle intervention [LI]) for overweight or obesity (body mass index ≥25 kg/m2) in adults for outcomes such as mortality, weight loss, and quality of life. DATA EXTRACTION: One reviewer extracted data and assessed risk of bias and certainty of the evidence; a second reviewer verified these data. DATA SYNTHESIS: The review included 69 studies with a total of 112 511 participants. Thirty-seven studies were at low risk of bias. In meta-analyses, nearly all studied interventions were more effective than placebo and/or LI in reducing weight, but more discontinuations due to adverse events were observed. Semaglutide probably reduced mortality and major adverse cardiovascular events (MACE), and both semaglutide and tirzepatide led to the greatest weight loss compared with placebo and/or LI in pairwise and network meta-analyses. Evidence for outcomes such as mortality, MACE, and serious adverse events was limited. LIMITATION: Direct head-to-head comparisons of different treatments were limited. CONCLUSION: Nearly all studied interventions were more effective than placebo and/or LI in reducing weight. Semaglutide and tirzepatide showed the most favorable results across outcomes. PRIMARY FUNDING SOURCE: American College of Physicians. (PROSPERO: CRD42023491646)."
+  },
+  {
+   "pmid": "41834765",
+   "titel": "Efficacy and Safety of Cagrilintide and Cagrisema Versus Semaglutide as Anti-Obesity Medications: A Systematic Review, Meta-Analysis and Meta-Regression",
+   "jahr": "2026",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Ahmed M",
+   "doi": "10.1111/dom.70667",
+   "typ": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis",
+    "Comparative Study"
+   ],
+   "abstract": "BACKGROUND: Obesity is a complex chronic disease requiring effective long-term management. We performed a systematic review and meta-analysis to evaluate the efficacy and safety of cagrisema and cagrilintide monotherapy compared with semaglutide in individuals with obesity. METHODS: We searched MEDLINE, Embase, Scopus, Cochrane, and ClinicalTrials.gov for randomized controlled trials accessing cagrisema or cagrilintide versus semaglutide for weight loss. Efficacy outcomes were percentage change in body weight, absolute change in body weight, fasting plasma glucose, HbA1c, and BMI. Lipid parameters included total cholesterol, LDL-C, HDL-C, VLDL-C, and triglycerides. A random-effects model was used to estimate mean differences (MD) or risk ratios (RR) with 95% CIs. RESULTS: Three RCTs (n = 3545) were included. Cagrisema produced significantly greater percentage [MD -7.47% (95% CI: -10.58, -4.36); p < 0.001] and absolute [MD -7.60 kg (95% CI: -10.33, -4.86); p < 0.001] weight loss than semaglutide. Cagrilintide monotherapy weight loss was comparable to semaglutide. Lipids parameters were mostly similar between groups, though LDL-C was modestly higher with combination therapy versus semaglutide [MD 0.29 mmol/L (95% CI: 0.02, 0.55); p = 0.03]. Overall and serious adverse events were comparable between cagrisema and semaglutide, but combination therapy increased administration-site conditions [RR 3.27 (95% CI: 1.27, 8.46)] and nausea [RR 1.64 (95% CI: 1.01, 2.66)]. Cagrilintide monotherapy had a higher risk of serious adverse events [RR 1.83 (95% CI: 1.03, 3.24)] compared to semaglutide. CONCLUSION: Cagrisema is more effective than semaglutide in reducing weight and increasing glycemic control. Cagrisema is safe and has a comparable side effect profile to currently accepted treatments. This regimen has enormous potential in dual-agonist therapy for obese patients."
+  },
+  {
+   "pmid": "42673585",
+   "titel": "Efficacy and Safety of Glucagon-like Peptide-1 Receptor Agonists and Co-agonists for Weight Loss Among Adults Without Diabetes : An Updated Systematic Review",
+   "jahr": "2026",
+   "journal": "Ann Intern Med",
+   "erstautor": "Moiz A",
+   "doi": "10.7326/ANNALS-25-05519",
+   "typ": [
+    "Systematic Review",
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "BACKGROUND: Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are increasingly used for weight management. PURPOSE: To update our prior systematic review evaluating the efficacy and safety of GLP-1 RAs and co-agonists among adults with overweight or obesity without diabetes. DATA SOURCES: MEDLINE, Embase, and Cochrane Central Register of Controlled Trials from 5 October 2024 through 25 March 2026. STUDY SELECTION: Randomized controlled trials ([RCTs] treatment duration ≥16 weeks). DATA EXTRACTION: Two reviewers independently extracted data. DATA SYNTHESIS: Thirty-eight RCTs (n = 25 816) were included, adding 14 new trials (n = 11 000) to the prior review. Among commercially available therapies, placebo-subtracted weight loss reached up to -5.8% (95% CI, -8.0% to -3.6%) for liraglutide, -14.8% (CI, -16.2% to -13.4%) for subcutaneous semaglutide, -14.3% (CI, -17.2% to -11.4%) for oral semaglutide, -12.4% (CI, -15.1% to -9.7%) for orforglipron, and -19.0% (CI, -21.6% to -16.4%) for tirzepatide. Numerically greater placebo-subtracted reductions were seen with emerging multiagonists, including -23.9% (CI, -29.3% to -18.5%) with amycretin and -22.1% (CI, -24.9% to -19.3%) with retatrutide. Gastrointestinal adverse events (AEs) remained common (GLP-1 RA vs. placebo: 76.0% vs. 40.1%). Discontinuation due to AEs was generally low (10.7% vs. 3.4%) but numerically higher with some oral agents. Serious AEs (6.5% vs. 5.2%) and deaths (0.1% vs. 0.0%) were rare, with no new safety signals identified. Head-to-head data showed greater weight loss with semaglutide and JNJ-64565111 than liraglutide and greater weight loss with tirzepatide and cagrilintide-semaglutide (CagriSema; Novo Nordisk) than semaglutide. LIMITATIONS: Heterogeneity precluded quantitative synthesis. Safety outcomes were inconsistently reported. CONCLUSION: Glucagon-like peptide-1 receptor agonists demonstrate substantial weight loss in adults without diabetes, with an expanding range of therapeutic options, including oral and multiagonist therapies. PRIMARY FUNDING SOURCE: None. (PROSPERO: CRD42024505558)."
+  },
+  {
+   "pmid": "42207966",
+   "titel": "Comparative Effectiveness of CagriSegma, Semaglutide, Cagrilintide and Tirzepatide in the Management of Overweight and Obesity: A Network Meta-Analysis of Randomized Clinical Trials",
+   "jahr": "2026",
+   "journal": "Endocrinol Diabetes Metab",
+   "erstautor": "Hamarsheh S",
+   "doi": "10.1002/edm2.70248",
+   "typ": [
+    "Journal Article",
+    "Network Meta-Analysis",
+    "Comparative Study"
+   ],
+   "abstract": "BACKGROUND: Obesity is a chronic, progressive disease affecting over 1 billion adults worldwide, linked to serious comorbidities, including diabetes, hypertension, and cardiovascular disease and associated with increased mortality. Achieving clinically meaningful weight loss is critical to reducing cardiometabolic risk. Tirzepatide, semaglutide, cagrilintide and their combination (CagriSema) have demonstrated efficacy in clinical trials; however, no direct head-to-head studies have compared all advanced anti-obesity medications. This network meta-analysis examines their comparative efficacy and safety. METHODS: We systematically searched PubMed, Scopus and Cochrane Central for randomized controlled trials comparing these medications with placebo in adults with overweight or obesity. Outcomes included changes in percent body weight, absolute weight, waist circumference, BMI, patients achieving ≥ 5% to ≥ 20% weight loss, HDL-C and safety outcomes (AEs, serious AEs, gastrointestinal AEs and treatment discontinuation). Random-effects model and network meta-analysis methods were employed. RESULTS: Twenty-five trials involving 12 interventions met the inclusion criteria. Tirzepatide 15 mg resulted in the greatest percent weight reduction (MD -17.97%), followed by CagriSema (MD -17.84%) and semaglutide 7.2 mg (MD -14.66%). At the ≥ 20% weight-loss threshold, CagriSema demonstrated marked superiority (RR 27.82), followed by tirzepatide 15 mg (RR 23.70). Gastrointestinal adverse events increased with all treatments (RR 1.33-1.91), and treatment discontinuation was highest with semaglutide 7.2 mg (RR 3.09). Serious adverse events remained comparable to placebo across all regimens. CONCLUSION: Tirzepatide 15 mg and CagriSema achieve the greatest weight reduction, including ≥ 20% body weight loss. Gastrointestinal adverse events rise with treatment intensity, while serious adverse events remain comparable to placebo. These findings support dual-pathway and combination incretin therapies as preferred options for patients requiring substantial weight loss. Treatment selection should be individualized based on comorbidity burden, tolerability and weight loss goals, recognizing that ≥ 5% weight loss improves metabolic parameters while ≥ 10% is needed for meaningful comorbidity reduction. Future head-to-head trials are needed."
+  },
+  {
+   "pmid": "38242040",
+   "titel": "Efficacy and safety of GLP-1RAs for people with obesity: A systematic review based on RCT and Bayesian network meta-analysis",
+   "jahr": "2024",
+   "journal": "Biomed Pharmacother",
+   "erstautor": "Li H",
+   "doi": "10.1016/j.biopha.2024.116150",
+   "typ": [
+    "Journal Article",
+    "Systematic Review",
+    "Network Meta-Analysis"
+   ],
+   "abstract": "BACKGROUND: GLP-1 receptor agonists (GLP-1RAs) reduce glucagon and glycogen secretion, inhibit appetite and slow gastric empties and have recently been approved to treat obesity. OBJECTIVE: To explore the safety and efficacy of GLP-1RAs in the treatment of obesity and clarify the optimal GLP-1RAs treatment regimen. METHODS: PubMed, Embase, Web of Science, and Cochrane Library databases were searched for English randomized controlled trials (RCTs) on GLP-1RAs in the treatment and management of obesity published before July 18, 2023. Literature screening and data extraction were performed independently by three researchers. Bayesian random effect model was used to compare the effects of interventions. Continuous variables were expressed as mean difference with 95% CI, and dichotomous variables were reported as RR with 95% CI. RESULTS: A total of 29 studies with 10,333 participants were included in the present study. The combination of cagrilintide and semaglutide (short for cagrANDsema) was an optimal strategy for weight loss and glycosylated hemoglobin (HbA1c) reduction. Compared to placebo, cagrANDsema reduced weight by - 14.13 kg (95% CI: -16.49, -11.73) and HbA1c by - 0.33% (95% CI: -0.41, -0.25). Moreover, this study indicated that orforglipron and semaglutide also had relatively good effects on weight loss. Meta-regression results indicated that higher dose levels might have better effects on weight loss. CONCLUSIONS: CagrANDsema exerts the best effect for weight loss. In terms of current dose levels, a higher dose gets better weight-loss effects without increasing the risk of adverse events."
+  },
+  {
+   "pmid": "41759565",
+   "titel": "CagriSema Versus Semaglutide Monotherapy or Placebo for Obesity: A Systematic Review and Meta-Analysis of Randomized Controlled Trials with GRADE Assessment",
+   "jahr": "2026",
+   "journal": "Am J Cardiol",
+   "erstautor": "Gadelmawla AF",
+   "doi": "10.1016/j.amjcard.2026.02.030",
+   "typ": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+   ],
+   "abstract": "The obesity epidemic is a major health burden that enhances susceptibility to a broad spectrum of metabolic-associated comorbidities, ranging from fatty liver disease and endocrine dysfunction to traditional risks like type 2 diabetes mellitus and cardiovascular disease. Glucagon-like peptide-1 receptor agonists, including semaglutide, facilitate weight loss alongside glucose metabolism. The dual therapy CagriSema, which combines semaglutide with cagrilintide was developed. We systematically searched MEDLINE (via PubMed), Web of Science, Scopus, and Cochrane Library, from inception to July 2025, for randomized controlled trials (RCTs) comparing CagriSema with semaglutide monotherapy or placebo in patients with obesity. Four RCTs (n = 4,419) were included (CagriSema: 3,055; control: 1,364). Pooled analysis showed that CagriSema significantly reduced percent weight loss (Cohen's d: -1.38; 95% CI: -1.84 to -0.91; I² = 94.8%). CagriSema also resulted in greater absolute weight loss (MD: -11 kg), waist circumference (MD: -9.41 cm), and systolic blood pressure (MD: -7.06 mmHg). Gastrointestinal adverse events were more frequent (RR: 1.32). CagriSema therapy was associated with superior weight reduction compared with semaglutide or placebo. In conclusion, CagriSema achieves greater weight loss than semaglutide or placebo but increases gastrointestinal adverse events, warranting careful tolerability monitoring and longer-term data."
+  },
+  {
+   "pmid": "42890523",
+   "titel": "CagriSema versus Semaglutide 2.4 mg monotherapy for weight management in adults with overweight or obesity, with or without type 2 diabetes: a systematic review, meta-analysis, and trial sequential analysis",
+   "jahr": "2026",
+   "journal": "Front Endocrinol (Lausanne)",
+   "erstautor": "Rasool ZK",
+   "doi": "10.3389/fendo.2026.1903335",
+   "typ": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+   ],
+   "abstract": "INTRODUCTION: Semaglutide 2.4 mg is the reference pharmacotherapy for weight management, yet many patients do not reach ambitious weight-loss targets. CagriSema, a fixed-dose combination of cagrilintide and semaglutide, may offer additional benefit through complementary mechanisms. We quantified its incremental efficacy and safety against semaglutide 2.4 mg monotherapy in adults with overweight or obesity, with and without type 2 diabetes. METHODS: This PRISMA 2020-compliant review (PROSPERO CRD420261380458) searched PubMed, Embase, Cochrane CENTRAL, ScienceDirect, ClinicalTrials.gov and WHO ICTRP to 30 June 2026 for randomised controlled trials comparing CagriSema with semaglutide 2.4 mg or placebo. Effects were pooled within two prespecified comparator strata using random-effects models with restricted maximum likelihood estimation of τ² and a Hartung-Knapp-Sidik-Jonkman small-sample adjustment, with prediction intervals, leave-one-out and phase-3a-restricted sensitivity analyses, trial sequential analysis. RESULTS: Five trials (4,746 unique participants) were included. Versus semaglutide 2.4 mg, CagriSema produced greater weight loss (mean difference -6.89 percentage points, 95% CI -8.70 to -5.06; I² = 33%; prediction interval -8.91 to -4.86), a greater absolute reduction in body weight (-7.16 kg, 95% CI -9.15 to -5.17) and in body-mass index (-2.41 kg/m², 95% CI -2.83 to -1.99), and roughly twice the likelihood of reaching a 20% reduction (RR 2.10, 95% CI 1.78 to 2.47). Waist circumference fell further (-4.07 cm, 95% CI -5.10 to -3.04). No incremental glycaemic benefit was detected, with intervals for glycated haemoglobin (-0.07, 95% CI -0.14 to 0.01) and fasting plasma glucose lying entirely within prespecified minimal important differences. Injection-site reactions were more frequent (RR 3.14, 95% CI 1.42 to 6.96); gastrointestinal adverse events were not significantly increased under the primary model (RR 1.09, 95% CI 0.97 to 1.21). CONCLUSION: CagriSema produces clinically meaningful additional weight loss and modest improvements in surrogate cardiometabolic measures compared with semaglutide 2.4 mg alone, at the cost of more frequent injection-site reactions and, at most, modestly more frequent gastrointestinal events. The evidence is insufficient to determine whether serious adverse events or neoplasms differ between treatments, and long-term durability, cardiovascular outcomes and body composition remain undetermined. SYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/prospero/, identifier CRD420261380458."
+  },
+  {
+   "pmid": "41189318",
+   "titel": "Weight Loss, Obesity Medication, and Risk of Obesity-Associated Cancer: A Meta-Analysis of Randomized Controlled Trials",
+   "jahr": "2026",
+   "journal": "Obesity (Silver Spring)",
+   "erstautor": "Li C",
+   "doi": "10.1002/oby.70054",
+   "typ": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+   ],
+   "abstract": "OBJECTIVE: This study aimed to determine whether weight reduction mediated by antiobesity medications (AOMs) contributes to the risk reduction in obesity-associated cancer. METHODS: PubMed, Embase, the Cochrane Central Register of Controlled Trials, Web of Science, and the ClinicalTrials.gov website were systematically searched for randomized controlled trials of AOMs from inception to December 2024. Relative risks were calculated using a random-effects model. RESULTS: The analysis included 25 randomized controlled trials with 40,731 participants. Compared with placebo, AOMs showed no association with the risk of overall obesity-related cancer (RR = 1.03, 95% CI: 0.78 to 1.37) or site-specific cancer. Consistently, every 5 kg weight reduction mediated by AOMs was not associated with the risk of overall obesity-related cancer (RR = 0.97, 95% CI: 0.84 to 1.12) or site-specific cancer. However, subgroup analysis revealed that coagonists (tirzepatide, cotadutide, and cagrilintide) significantly reduced overall obesity-associated cancer risk (RR = 0.43, 95% CI: 0.19 to 0.97), and every 5 kg weight reduction mediated by coagonists was marginally associated with a reduced overall obesity-associated cancer risk (RR = 0.79, 95% CI: 0.62 to 1.00). CONCLUSIONS: Weight reduction mediated by current AOMs was not associated with a reduced risk of overall or site-specific obesity-associated cancer in patients with overweight or obesity, while a decreased risk of overall obesity-associated cancer was observed in coagonist users."
+  },
+  {
+   "pmid": "42175595",
+   "titel": "Novel Amylin-Based Therapies for Weight Management in Adults With Overweight or Obesity Without Diabetes: A Network Meta-Analysis",
+   "jahr": "2026",
+   "journal": "Endocrinol Diabetes Metab",
+   "erstautor": "Kamrul-Hasan ABM",
+   "doi": "10.1002/edm2.70247",
+   "typ": [
+    "Journal Article",
+    "Network Meta-Analysis",
+    "Review"
+   ],
+   "abstract": "BACKGROUND: Long-acting amylin-based therapies (ABTs) are emerging anti-obesity agents; we sought to compare their effects on weight and anthropometric outcomes in adults with overweight/obesity without diabetes, evaluate gastrointestinal (GI) safety, and rank agents and doses within a network meta-analysis (NMA) framework. METHODS: We conducted a frequentist random-effects NMA of randomized controlled trials comparing novel ABTs with placebo or active comparators in R. Primary outcome was the percent change in body weight from baseline. Secondary outcomes included absolute weight changes, anthropometric measures, and overall and specific GI adverse events (AEs). Treatments (including dose strata) were compared with placebo within a single network and ranked using P scores. RESULTS: Six trials (N = 4642; 12-68 weeks) were included. Compared with placebo, high dose (HiD) subcutaneous amycretin produced the largest reduction in percent body weight (mean difference -23.95%; P score 1.00), followed by HiD eloralintide (-18.01%; P score 0.89) and HiD CagriSema (-17.18%; P score 0.85), all exceeding semaglutide 2.4 mg (-11.45%) and liraglutide 3.0 mg (-6.4%). Almost similar patterns were observed for absolute weight, body mass index, waist circumference and categorical weight-loss thresholds. GI AEs, nausea, vomiting and constipation were more common with HiD ABTs, especially oral amycretin and CagriSema, while diarrhoea mainly increased with semaglutide 2.4 mg. Only HiD CagriSema increased AE-related discontinuation. CONCLUSIONS: Novel ABTs, such as HiD amycretin, CagriSema and eloralintide, may induce substantial short- to medium-term weight loss but may also increase GI AEs; given sparse, low-certainty data, these findings are preliminary and require confirmation in larger trials. TRIAL REGISTRATION: The meta-analysis was registered in PROSPERO (CRD420261340457). The review protocol summary can be accessed at the PROSPERO website (https://www.crd.york.ac.uk/PROSPERO/view/CRD420261340457)."
+  }
+ ],
+ "praeklinik": [
+  {
+   "pmid": "38286487",
+   "titel": "Comparative effectiveness of GLP-1 receptor agonists on glycaemic control, body weight, and lipid profile for type 2 diabetes: systematic review and network meta-analysis",
+   "jahr": "2024",
+   "journal": "BMJ",
+   "erstautor": "Yao H",
+   "doi": "10.1136/bmj-2023-076410",
+   "typ": [
+    "Systematic Review",
+    "Journal Article",
+    "Network Meta-Analysis"
+   ],
+   "abstract": "OBJECTIVE: To evaluate the comparative efficacy and safety of glucagon-like peptide-1 receptor agonists (GLP-1RAs) on glycaemic control, body weight, and lipid profile in adults with type 2 diabetes. DESIGN: Systematic review and network meta-analysis. DATA SOURCES: PubMed, Web of Science, Cochrane Central Register of Controlled Trials (CENTRAL), and Embase from database inception to 19 August 2023. ELIGIBILITY CRITERIA FOR SELECTING STUDIES: Eligible randomised controlled trials enrolled adults with type 2 diabetes who received GLP-1RA treatments and compared effects with placebo or any GLP-1RA drug, with a follow-up duration of at least 12 weeks. Trials with a crossover design, non-inferiority studies comparing GLP-1RA and other drug classes without a placebo group, using withdrawn drugs, and non-English studies were deemed ineligible. RESULTS: 76 eligible trials involving 15 GLP-1RA drugs and 39 246 participants were included in this network meta-analysis; all subsequent estimates refer to the comparison with placebo. All 15 GLP-1RAs effectively lowered haemoglobin A1c and fasting plasma glucose concentrations. Tirzepatide induced the largest reduction of haemoglobin A1c concentrations (mean difference -2.10% (95% confidence interval -2.47% to -1.74%), surface under the cumulative ranking curve 94.2%; high confidence of evidence), and fasting plasma glucose concentrations (-3.12 mmol/L (-3.59 to -2.66), 97.2%; high confidence), and proved the most effective GLP-1RA drug for glycaemic control. Furthermore, GLP-1RAs were shown to have strong benefits to weight management for patients with type 2 diabetes. CagriSema (semaglutide with cagrilintide) resulted in the highest weight loss (mean difference -14.03 kg (95% confidence interval -17.05 to -11.00); high confidence of evidence), followed by tirzepatide (-8.47 kg (-9.68 to -7.26); high confidence). Semaglutide was effective in lowering the concentration of low density lipoprotein (-0.16 mmol/L (-0.30 to -0.02)) and total cholesterol (-0.48 mmol/L (-0.84 to -0.11)). Moreover, this study also raises awareness of gastrointestinal adverse events induced by GLP-1RAs, and concerns about safety are especially warranted for high dose administration. CONCLUSIONS: GLP-1RAs are efficacious in treating adults with type 2 diabetes. Compared with the placebo, tirzepatide was the most effective GLP-1RA drug for glycaemic control by reducing haemoglobin A1c and fasting plasma glucose concentrations. GLP-1RAs also significantly improved weight management for type 2 diabetes, with CagriSema performing the best for weight loss. The results prompt safety concerns for GLP-1RAs, especially with high dose administration, regarding gastrointestinal adverse events. SYSTEMATIC REVIEW REGISTRATION: PROSPERO CRD42022342845."
+  },
+  {
+   "pmid": "42419792",
+   "titel": "Comparative effects of drugs for adults with overweight or obesity: systematic review and network meta-analysis",
+   "jahr": "2026",
+   "journal": "BMJ",
+   "erstautor": "Nong K",
+   "doi": "10.1136/bmj-2026-372161",
+   "typ": [
+    "Systematic Review",
+    "Network Meta-Analysis",
+    "Journal Article",
+    "Comparative Study"
+   ],
+   "abstract": "OBJECTIVE: To provide an up-to-date evidence summary about the comparative benefits and harms of drugs for adults with overweight or obesity to inform decision making for policymakers, payers, clinicians, and patients. DESIGN: Systematic review and network meta-analysis of 24 outcomes using frequentist random effects models and bayesian dose-response models, the GRADE (Grading of Recommendations Assessment, Development, and Evaluation) approach, and the Cochrane Risk of Bias 2 tool. DATA SOURCES: Medline, Embase, and Cochrane Library, searched up to 12 November 2025. STUDY SELECTION: Randomised controlled trials of 12 weeks' duration or longer comparing one or more drugs with lifestyle modification, placebo, or another drug. RESULTS: This network meta-analysis comprised 262 trials (99 791 participants) evaluating 19 drugs with follow-up from 12 to 172 weeks. Compared with lifestyle modification alone, at one year, moderate to high certainty evidence shows substantial weight loss with tirzepatide (mean difference -14.9%, 95% confidence interval -16.0% to -13.9%), cagrilintide-semaglutide (CagriSema, -14.8%, -16.9% to -12.7%), oral semaglutide (-10.9%, -12.7% to -9.1%), orforglipron (-9.9%, -12.4% to -7.5%), subcutaneous semaglutide (-9.8%, -10.6% to -9.1%), and phentermine-topiramate (-8.1%, -9.7% to -6.5%). Emerging agents (ecnoglutide, mazdutide, retatrutide) may produce similar or greater reductions (13.1-14.6%; very low to low certainty). Moderate to high certainty evidence supports discontinuation because of adverse events to be highest with orforglipron, naltrexone-bupropion, liraglutide, phentermine-topiramate, CagriSema, and oral semaglutide (risk ratios from 1.9 to 4.2); gastrointestinal events were most increased with naltrexone-bupropion, oral semaglutide, orforglipron, and tirzepatide (risk ratios from 3.1 to 4.2). Fatigue risk increased, particularly with naltrexone-bupropion (risk ratio 8.9; absolute increase 331 per 1000 people over one year), orforglipron (3.4; 100 more per 1000), and CagriSema (3.2; 92 more per 1000). Tirzepatide reduced fat mass the most (by 25.7%) but also lean mass the most (by 8.3%). Subcutaneous semaglutide was the only drug associated with reduced all cause mortality (risk ratio 0.81, 95% confidence interval 0.72 to 0.93) and myocardial infarction (0.72, 0.61 to 0.85), with these estimates largely informed by cardiovascular outcome trials in high risk populations. Subcutaneous semaglutide (0.43, 0.21 to 0.84) and tirzepatide (0.49, 0.27 to 0.88) reduced heart failure risk. No drugs convincingly reduced kidney failure or improved quality of life (43 trials with 45 663 participants) beyond established minimally important differences (all mean differences <5 points; minimally important difference 10). Except for larger weight reductions in trials with longer duration (shown for subcutaneous semaglutide), subgroup analyses for drug dosages and key patient characteristics did not identify credible differences in relative effects of treatment. CONCLUSIONS: Obesity drugs produce variable weight loss at one year, with larger benefits generally accompanied by greater harms and discontinuation. Most agents do not improve quality of life meaningfully and few show cardiovascular benefits. Decisions in clinical practice should consider trade-offs between benefits and harms within the context of shared decision making. SYSTEMATIC REVIEW REGISTRATION: PROSPERO CRD42024507993."
+  },
+  {
+   "pmid": "40865172",
+   "titel": "Weight management treatment in obesity",
+   "jahr": "2025",
+   "journal": "Med Clin (Barc)",
+   "erstautor": "Rubio-Herrera MA",
+   "doi": "10.1016/j.medcli.2025.107152",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Obesity is a chronic and relapsing disease associated with medical complications and mortality. Our improved understanding of the relevance of the gut-brain axis in regulating appetite and body weight has encouraged research into nutrient-stimulated gastroenteropancreatic hormones as a new therapeutic arsenal for the treatment of people living with obesity. Beyond the necessary lifestyle changes, this new era with second-generation drugs has been able to achieve weight loss of 15-25%, close to that of bariatric surgery. Glucagon-like peptide-1 (GLP-1) receptor agonists (RA), used as weekly injectable monotherapy or daily oral (semaglutide), achieve weight loss of 15-17%, with a good safety profile. The synergistic combination with other hormones (such as glucose-dependent insulinotropic polypeptide (GIP), glucagon, or amylin) will allow to increase weight loss, as well as improve cardiometabolic variables. Tirzepatide (a dual GLP-1/GIP receptor agonist) achieves weight loss of up to 22.5% at the highest doses. In this same range of weight loss, it is expected that it can be achieved with the combination of Cagrisema (cagrilintide 2.4mg plus semaglutide 2.4mg), combinations of GLP-1 RAs - glucagon agonists or with the triple combination of GLP-1 RAs-GIP-Glucagon (Retatrutide). In this review, we will examine the efficacy and safety of the drugs marketed and others under ongoing clinical trials for the treatment of persons with obesity, as well as the main challenges faced by both healthcare professionals and patients in maintaining long-term treatment."
+  },
+  {
+   "pmid": "41375628",
+   "titel": "Diabetes Mellitus and Chronic Kidney Disease: The Future Is Being Surpassed",
+   "jahr": "2025",
+   "journal": "J Clin Med",
+   "erstautor": "Martínez-Castelao A",
+   "doi": "10.3390/jcm14238326",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Diabetes mellitus (DM) continues to be a global world health problem. Despite medical advances, both DM and chronic kidney disease (CKD) remain global health issues with high mortality and limited options to prevent end-stage renal failure. Current therapies encompass five classes of drugs: (1) angiotensin-converting-enzyme inhibitors (ACEI) or angiotensin II receptor blockers (AIIRB); (2) sodium-glucose-transporter 2 (SGLT2) inhibitors; (3) glucagon-like peptide-1 receptor agonists (GLP-1 RA); and (4) an antagonist of type 1 endothelin receptor (ET1R) with proven efficacy to reduce albuminuria and proteinuria. (5) The mineralocorticoid receptor antagonist (MRA) finerenone has been tested in RCTs as a kidney protective agent. In our review, we summarize many of the principal trials that have generated evidence in this regard. Many novel agents-many of them proven not only for DM management but also for the treatment of obesity with or without DM or heart failure (HF)-are now in development and may be added to the five classical pillars: other non-steroidal MRA (balcinrenone); aldosterone synthase inhibitors (baxdrostat and vicadrostat); other GLP-1 RA (tirzepatide, survodutide, retatrutide, and cagrilintide); ET1 R antagonists, (zibotentan); and soluble guanylate cyclase activators (avenciguat). These new agents aim to slow disease progression further and reduce cardiovascular risk. Future strategies rely on integrated, patient-centered approaches and personalized therapy to curb renal disease and its related complications."
+  },
+  {
+   "pmid": "36883831",
+   "titel": "Cagrilintide: A Long-Acting Amylin Analog for the Treatment of Obesity",
+   "jahr": "2024",
+   "journal": "Cardiol Rev",
+   "erstautor": "D'Ascanio AM",
+   "doi": "10.1097/CRD.0000000000000513",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Despite the worldwide epidemic of obesity, there remain few approved pharmacological treatment options to bridge the gap between lifestyle therapy and bariatric surgery. Cagrilintide is an amylin-analog, now being developed in combination with the GLP-1 agonist semaglutide to achieve sustained weight loss in persons with overweight and obesity. Amylin, released with insulin from beta cells in the pancreas, induces its satiating effect via both the homoeostatic and hedonic regions of the brain. Semaglutide, a GLP-1 receptor agonist, reduces appetite via GLP-1 receptors in the hypothalamus and increases the production of insulin, and reduces glucagon secretion, delaying gastric emptying. These separate, but related mechanisms of action of an amylin-analog and a GLP-1 receptor agonist appear to have an additive effect on appetite reduction. Given the heterogeneity and complex pathogenesis of obesity, combination therapy with multiple pathophysiological targets is a logical approach to increasing weight loss response with pharmacotherapy. Cagrilintide alone, as well as cagrilintide in combination with semaglutide have shown promising weight loss in clinical trials that supports the further development of this therapy for sustained weight management."
+  },
+  {
+   "pmid": "38338796",
+   "titel": "Amylin, Another Important Neuroendocrine Hormone for the Treatment of Diabesity",
+   "jahr": "2024",
+   "journal": "Int J Mol Sci",
+   "erstautor": "Eržen S",
+   "doi": "10.3390/ijms25031517",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Diabetes mellitus is a devastating chronic metabolic disease. Since the majority of type 2 diabetes mellitus patients are overweight or obese, a novel term-diabesity-has emerged. The gut-brain axis plays a critical function in maintaining glucose and energy homeostasis and involves a variety of peptides. Amylin is a neuroendocrine anorexigenic polypeptide hormone, which is co-secreted with insulin from β-cells of the pancreas in response to food consumption. Aside from its effect on glucose homeostasis, amylin inhibits homeostatic and hedonic feeding, induces satiety, and decreases body weight. In this narrative review, we summarized the current evidence and ongoing studies on the mechanism of action, clinical pharmacology, and applications of amylin and its analogs, pramlintide and cagrilintide, in the field of diabetology, endocrinology, and metabolism disorders, such as obesity."
+  },
+  {
+   "pmid": "42208956",
+   "titel": "Beyond weight loss: multisystem benefits of obesity medications",
+   "jahr": "2026",
+   "journal": "Lancet Diabetes Endocrinol",
+   "erstautor": "Savas M",
+   "doi": "10.1016/S2213-8587(26)00100-2",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Obesity is increasingly managed with medications as disease-modifying therapies, reflecting its role as a gateway disease driving metabolic, cardiovascular, reproductive, neuropsychiatric, and mechanical conditions. This Review synthesises evidence from randomised controlled trials and high-quality meta-analyses on approved and late-stage investigational obesity medications, including phentermine-topiramate, naltrexone-bupropion, glucagon-like peptide-1 (GLP-1) receptor agonists (eg, liraglutide, semaglutide, subcutaneously and orally), and newer GLP-1 receptor agonist-based agents (eg, tirzepatide, survodutide, mazdutide, retatrutide, cagrilintide-semaglutide, and amycretin). We evaluated the effects of obesity medications across major obesity-related conditions, including type 2 diabetes, metabolic dysfunction-associated steatotic liver disease, chronic kidney disease, heart failure, cardiovascular disease, obstructive sleep apnoea syndrome, polycystic ovary syndrome (recently named polyendocrine metabolic ovarian syndrome), osteoarthritis, muscle mass, depression, quality of life, and food cravings, along with binge-eating disorders, substance use disorders, and neurodegenerative diseases. Overall, GLP-1-based and multiagonist therapies show beneficial effects across these comorbid conditions. While many benefits of obesity medications are mediated by weight loss, accumulating evidence indicates important weight loss-independent effects, particularly with GLP-1 receptor agonist-based therapies. A broader understanding of these pleiotropic effects is essential to inform personalised obesity management and optimise long-term clinical outcomes."
+  },
+  {
+   "pmid": "41054801",
+   "titel": "Novel GLP-1-based Medications for Type 2 Diabetes and Obesity",
+   "jahr": "2026",
+   "journal": "Endocr Rev",
+   "erstautor": "Son JW",
+   "doi": "10.1210/endrev/bnaf036",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "The approvals of semaglutide and tirzepatide have set new benchmarks in the treatment of type 2 diabetes and obesity. Building on their success, novel glucagon-like peptide-1 (GLP-1)-based therapeutics are rapidly advancing. These next-generation agents engage not only GLP-1 receptors but also those for other gastro-entero-pancreatic hormones such as glucose-dependent insulinotropic polypeptide (GIP), glucagon, amylin, and peptide YY to enhance energy uptake, storage, and expenditure through synergistic mechanisms. Both GIP receptor agonism and antagonism, particularly in combination with GLP-1 receptor agonism, have shown promise. Maridebart cafraglutide, combining GLP-1 receptor agonism with GIP receptor antagonism, exemplifies this innovative approach. Glucagon coagonists like survodutide and mazdutide have demonstrated significant weight loss and improved glycemic control. Amylin-based agents, including CagriSema (cagrilintide + semaglutide) and amycretin, enhance satiety and glycemic outcomes through complementary actions. Further innovation is seen in triple agonists such as retatrutide, which targets GIP, GLP-1, and glucagon receptors to amplify metabolic effects. Meanwhile, the emergence of orally active small-molecule GLP-1 receptor agonists like danuglipron and orforglipron, which are resistant to enzymatic degradation, marks a major advance in patient-friendly drug delivery. This review explores the mechanisms, clinical development, and therapeutic potential of these novel agents, excluding already approved drugs like liraglutide, semaglutide, and tirzepatide. We highlight how multireceptor agonists and oral GLP-1-based therapies may reshape the future landscape of obesity and type 2 diabetes treatment by offering more effective and better-tolerated options."
+  },
+  {
+   "pmid": "39317404",
+   "titel": "Amylin analogs for the treatment of obesity without diabetes: present and future",
+   "jahr": "2024",
+   "journal": "Expert Rev Clin Pharmacol",
+   "erstautor": "Panou T",
+   "doi": "10.1080/17512433.2024.2409403",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "INTRODUCTION: Obesity is a pandemic, linked with increased morbidity including diabetes mellitus (DM) and certain cancer types. Amylin is a major regulatory hormone for satiation and food intake perception in humans. Amylin analogs (pramlintide and cagrilintide) are emerging as promising anti-obesity agents in non-DM subjects. AREAS COVERED: Pramlintide, the first amylin analog, initially used for the treatment of both type 1 and type 2 DM, has demonstrated weight-lowering action. Clinical trials confirmed a weight loss exceeding 3% in the study period without major untoward effects, which was maintained beyond the follow-up period. Recently, cagrilintide, a long-lasting synthetic amylin analog has been introduced. Cagrilintide has achieved adequate weight loss, reaching even more than 10% of the total weight in early clinical trials. However, adverse gastrointestinal effects, particularly nausea, were more frequent compared with pramlintide. Clinical trials have also confirmed the effectiveness of cagrilintide in comparison with glucagon-like peptide 1 receptor agonists. EXPERT OPINION: Amylin analogs will certainly enrich the growing therapeutic armamentarium aimed at tackling obesity. The most exciting future research venue could be the development of their combinations with other weight-lowering drugs, especially dual and triple incretin-based co-agonists, thus potentially providing massive weight-loss effects."
+  },
+  {
+   "pmid": "40022548",
+   "titel": "The promise of glucagon-like peptide 1 receptor agonists (GLP-1RA) for the treatment of obesity: a look at phase 2 and 3 pipelines",
+   "jahr": "2025",
+   "journal": "Expert Opin Investig Drugs",
+   "erstautor": "Madsbad S",
+   "doi": "10.1080/13543784.2025.2472408",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "INTRODUCTION: GLP-1-based therapies have changed the treatment of overweight/obesity. Liraglutide 3.0 mg daily, the first GLP-1 RA approved for treatment of overweight, induced a weight loss of 6-8%, Semaglutide 2.4 mg once weekly improved weight loss to about 12-15%, while the dual GIP/GLP-1 receptor agonist tirzepatide once weekly has induced a weight loss of about 20% in obese people without diabetes. AREAS COVERED: This review describes results obtained with GLP-1 mono-agonists, GLP-1/GIP dual agonists, GLP-1/glucagon co-agonists, and the triple agonist retatrutide (GIP/GLP-1/glucagon), which have shown beneficial effect both on body weight and steatotic liver disease. A combination of semaglutide (a GLP-1 agonist) and cagrilintide (a long-acting amylin analogue) for weekly administration is currently in phase III development, and so is oral semaglutide and several non-peptide small molecule GLP-1 agonists for oral administration. The adverse events with the GLP-1-based therapies are primarily gastrointestinal and include nausea, vomiting, obstipation, or diarrhea, which often can be mitigated by slow up titration. EXPERT OPINION: The GLP-1-based therapies will change the treatment of obesity and its comorbidities including steatotic liver disease in the future. Outstanding question is maintenance of the weight loss, possibly pharmacological treatment needs to be life-long."
+  },
+  {
+   "pmid": "35183619",
+   "titel": "Creating the amylin story",
+   "jahr": "2022",
+   "journal": "Appetite",
+   "erstautor": "Lutz TA",
+   "doi": "10.1016/j.appet.2022.105965",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "This paper is based on a presentation given at the Annual Meeting of the Society for the Study of Ingestive Behavior in July 2021 and provides a personal view on some of the milestones in the discovery of amylin as a constituent of pancreatic islet amyloid deposits, as a pancreatic beta-cell hormone, and on its role in physiology and pathophysiology. Only selected effects of amylin are discussed here because we recently published extensive reviews on the physiology and pathophysiology of amylin. Amylin was discovered as the main constituent of islet amyloid that is predominantly found in pancreatic islets in type 2 diabetics. These deposits, and in particular small oligomer aggregates of amylin seem to contribute to the progressive beta-cell damage seen in type 2 diabetics. Amylin is also a physiologically relevant circulating hormone with diverse metabolic functions, e.g. inhibition of eating, of pancreatic glucagon secretion and of gastric emptying. Knowledge of these types of functions and amylin's mechanisms of action lead to the development of amylin analogues that are now among the most promising anti-obesity targets in clinical testing. With this review, I want to give a short overview of 35 exciting years of amylin research."
+  },
+  {
+   "pmid": "34288673",
+   "titel": "Development of Cagrilintide, a Long-Acting Amylin Analogue",
+   "jahr": "2021",
+   "journal": "J Med Chem",
+   "erstautor": "Kruse T",
+   "doi": "10.1021/acs.jmedchem.1c00565",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "A hallmark of the pancreatic hormone amylin is its high propensity toward the formation of amyloid fibrils, which makes it a challenging drug design effort. The amylin analogue pramlintide is commercially available for diabetes treatment as an adjunct to insulin therapy but requires three daily injections due to its short half-life. We report here the development of the stable, lipidated long-acting amylin analogue cagrilintide (23) and some of the structure-activity efforts that led to the selection of this analogue for clinical development with obesity as an indication. Cagrilintide is currently in clinical trial and has induced significant weight loss when dosed alone or in combination with the GLP-1 analogue semaglutide."
+  },
+  {
+   "pmid": "39676787",
+   "titel": "Efficacy and Safety of Cagrilintide Alone and in Combination with Semaglutide (Cagrisema) as Anti-Obesity Medications: A Systematic Review and Meta-Analysis",
+   "jahr": "2024",
+   "journal": "Indian J Endocrinol Metab",
+   "erstautor": "Dutta D",
+   "doi": "10.4103/ijem.ijem_45_24",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "No meta-analysis has analysed role of cagrilintide as weight-loss medication in obese individuals. Electronic databases were searched for RCTs involving obese individuals receiving cagrilintide or cagrilintide-2.4 mg with semaglutide-2.4 mg combination (Cagrisema) compared to placebo/active comparator. Primary outcomes were changes in body weight; secondary outcomes were alterations in glycemia, lipids, and adverse events. From 678 articles, data from 3 RCTs involving 430 individuals were analysed. At 20-32 weeks, patients receiving Cagrisema weekly had significantly greater percentage [mean difference (MD)-9.07% (95%CI: -11.91, -6.23); P < 0.00001;I 2 = 96%] and absolute [MD-9.11 kg (95%CI: -12.84, -5.39); P < 0.00001; I 2 = 98%] weight-loss, compared to semaglutide 2.4 mg weekly. At 26-32 weeks, cagrilintide 2.4 mg had a similar percentage [MD - 1.83% (95%CI: -4.08, -0.42); P = 0.11; I 2 = 98%] and absolute [MD - 1.88 kg (95%CI: -4.23,0.47); P = 0.12; I 2 = 98%] weight-loss, compared to semaglutide/liraglutide. Treatment-emergent and serious adverse events were comparable between groups. Gastrointestinal adverse events and vomiting were significantly higher with Cagrisema compared to semaglutide. Vomiting was significantly lower with cagrilintide compared to semaglutide/liraglutide. Cagrisema outperforms semaglutide regarding weight loss. Cagrilintide shows comparable weight loss to semaglutide/liraglutide with significantly lower vomiting."
+  },
+  {
+   "pmid": "42296503",
+   "titel": "Benefits and Harms of Pharmacologic Treatments in Adults With Overweight or Obesity: A Living Systematic Review and Network Meta-analysis for the American College of Physicians",
+   "jahr": "2026",
+   "journal": "Ann Intern Med",
+   "erstautor": "Damen JAA",
+   "doi": "10.7326/ANNALS-24-03764",
+   "typ": [
+    "Journal Article",
+    "Systematic Review",
+    "Network Meta-Analysis"
+   ],
+   "abstract": "BACKGROUND: Overweight and obesity are closely linked to diseases such as type 2 diabetes, coronary heart disease, and stroke and have been shown to increase mortality risk. PURPOSE: To conduct a living systematic review of pharmacologic treatments for weight management in overweight or obesity in adults. DATA SOURCES: MEDLINE and Cochrane Central Register of Controlled Trials until October 2025. STUDY SELECTION: Randomized controlled trials that compared pharmacologic treatments for weight management (dulaglutide, exenatide, liraglutide, lixisenatide, naltrexone-bupropion, orforglipron, phentermine, phentermine-topiramate, retatrutide, semaglutide, semaglutide-cagrilintide, tirzepatide, or any combination with or without lifestyle intervention [LI]) for overweight or obesity (body mass index ≥25 kg/m2) in adults for outcomes such as mortality, weight loss, and quality of life. DATA EXTRACTION: One reviewer extracted data and assessed risk of bias and certainty of the evidence; a second reviewer verified these data. DATA SYNTHESIS: The review included 69 studies with a total of 112 511 participants. Thirty-seven studies were at low risk of bias. In meta-analyses, nearly all studied interventions were more effective than placebo and/or LI in reducing weight, but more discontinuations due to adverse events were observed. Semaglutide probably reduced mortality and major adverse cardiovascular events (MACE), and both semaglutide and tirzepatide led to the greatest weight loss compared with placebo and/or LI in pairwise and network meta-analyses. Evidence for outcomes such as mortality, MACE, and serious adverse events was limited. LIMITATION: Direct head-to-head comparisons of different treatments were limited. CONCLUSION: Nearly all studied interventions were more effective than placebo and/or LI in reducing weight. Semaglutide and tirzepatide showed the most favorable results across outcomes. PRIMARY FUNDING SOURCE: American College of Physicians. (PROSPERO: CRD42023491646)."
+  },
+  {
+   "pmid": "40609154",
+   "titel": "Cagrilintide lowers bodyweight through brain amylin receptors 1 and 3",
+   "jahr": "2025",
+   "journal": "EBioMedicine",
+   "erstautor": "Carvas AO",
+   "doi": "10.1016/j.ebiom.2025.105836",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: Amylin (AmyR) and calcitonin (CTR) receptor co-agonists are currently in Phase II/III clinical trials for obesity treatment. Amylin binds to a heterodimeric receptor composed of CTR and the receptor activity modifying proteins 1, 2 or 3 (RAMP1-3). METHODS: We investigated the role of amylin 1 and 3 (AMY1R, AMY3R) receptors in modulating the pharmacological effects of the dual amylin-calcitonin receptor agonists, cagrilintide and salmon calcitonin (sCT), in RAMP1/3 knockout (KO) mice. Male wild-type (WT) and KO littermate mice were fed high-fat diet for 23 weeks prior to the 3-week treatment period with vehicle, 150 nmol/kg sCT or 3 nmol/kg cagrilintide (subcutaneously, SID). FINDINGS: Body weight loss was observed in WT cagrilintide-treated mice (-3.4 ± 0.51 g, P < 0.005; n = 8/group), whereas sCT rather increased it (0.60 ± 0.38 g, P < 0.01; n = 8/group). The absence of RAMP1 and RAMP3 impeded cagrilintide's potency but improved sCT's efficacy on weight loss. Cagrilintide and sCT both decreased food intake during the first few days of treatment in WT mice only (Day 1: vehicle 2.7 ± 0.2 g; cagrilintide 1.2 ± 0.1 g, P < 0.0001; sCT 1.5 ± 0.2 g, P < 0.0021; n = 7-8/group). Both peptides activated cFos signal in neurons of the dorsal vagal complex (DVC) and lateral parabrachial nucleus (LPBN) of WT mice while AP cFos signal was decreased in cagrilintide-treated RAMP1/3 KO mice by 57% compared to WT cagrilintide-injected mice (P < 0.001, n = 5-6/group). Differential gene expression was analysed in the DVC, LPBN and mediobasal hypothalamic area of WT and RAMP1/3 KO mice. After 3 weeks of treatment, neither sCT nor cagrilintide significantly altered gene expression in the DVC or LPBN in WT mice. However, mRNA bulk sequencing points to a role of RAMP1/3 in synaptic function and receptor trafficking. INTERPRETATION: Altogether, these results demonstrate the dependency of cagrilintide on AMY1R and AMY3R to lower body weight. FUNDING: This work was supported by an investigator led Novo Nordisk Consortium grant, Swiss National Foundation and the University of Zurich."
+  },
+  {
+   "pmid": "42260119",
+   "titel": "A cross-species atlas of the dorsal vagal complex reveals neural mediators of the effects of cagrilintide on energy balance",
+   "jahr": "2026",
+   "journal": "Nat Metab",
+   "erstautor": "Ludwig MQ",
+   "doi": "10.1038/s42255-026-01539-3",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Amylin receptor agonists such as cagrilintide represent emerging obesity therapies. To understand mediators of cagrilintide action, we generated a transcriptomics atlas of over 530,000 cells comprising 80 neuronal cell populations across rat, mouse and macaque caudal brainstem, with spatial profiling to map distribution in the rat dorsal vagal complex (DVC). Here we show that cagrilintide regulates two conserved Calcr-expressing DVC neuronal populations. While acute cagrilintide treatment alters gene expression in area postrema Calcr/Ramp3 neurons, chemogenetic activation in rats fails to affect long-term food intake and body weight. In contrast, long-term cagrilintide treatment in rats upregulates prolactin-releasing hormone (Prlh) expression in nucleus of the solitary tract Calcr/Prlh cells that are conserved across rodents, macaques and humans. Knocking down DVC Prlh abrogates the effects of cagrilintide but not semaglutide in rats. Our study provides a cross-species spatially resolved atlas of DVC cell populations and defines Calcr/Prlh neurons as mediators of amylin receptor agonist action."
+  },
+  {
+   "pmid": "40847076",
+   "titel": "Structural and mechanistic insights into dual activation of cagrilintide in amylin and calcitonin receptors",
+   "jahr": "2026",
+   "journal": "Acta Pharmacol Sin",
+   "erstautor": "Gu YM",
+   "doi": "10.1038/s41401-025-01635-2",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The global obesity epidemic and its associated metabolic disorders urgently require more effective therapeutic interventions, particularly multi-pathway targeting therapies. Cagrilintide (Cagri), functioning as a dual amylin receptor (AMYRs) and calcitonin receptor (CTR) agonist (DACRA), demonstrates significant efficacy in obesity treatment, although its structural activation mechanism remains unclear. This study elucidates the non-selective activation mechanism by determining cryo-EM structures of Cagri bound to AMY1R-Gs and CTR-Gs complexes. Cagri adopts similar \"bypass\" binding modes in both receptors, which is distinct from other existing DACRAs that primarily achieve extended half-life through N-terminal lipid modification. Key molecular features include the F23Cagri residue anchoring the peptide at the receptor transmembrane (TM) bundle level and the micelle, an E14-R17 intramolecular salt bridge enhancing helical stability, and C-terminal P37Cagri interaction with the receptor ECD. These features collectively enable non-specific binding and activation across different receptors. Both structural and functional analyses revealed Cagri's non-selective activation of Gs signaling pathways through CTR and AMY1R. These findings provide a comprehensive structural framework for developing next-generation anti-obesity drugs based on dual receptor activation mechanisms."
+  },
+  {
+   "pmid": "34929674",
+   "titel": "Amylin as a Future Obesity Treatment",
+   "jahr": "2021",
+   "journal": "J Obes Metab Syndr",
+   "erstautor": "Dehestani B",
+   "doi": "10.7570/jomes21071",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Obesity is defined as abnormal or excessive fat accumulation that contributes to detrimental health impacts. One-third of the population suffers from obesity, and it is important to consider obesity as a chronic disease requiring chronic treatment. Amylin is co-secreted with insulin from β pancreatic cells upon nutrient delivery to the small intestine as a satiety signal, acts upon sub-cortical homeostatic and hedonic brain regions, slows gastric emptying, and suppresses post-prandial glucagon responses to meals. Therefore, new pharmacological amylin analogues can be used as potential anti-obesity medications in individuals who are overweight or obese. In this narrative review, we analyse the efficacy, potency, and safety of amylin analogues. The synthetic amylin analogue pramlintide is an approved treatment for diabetes mellitus which promotes better glycaemic control and small but significant weight loss. AM833 (cagrilintide), an investigational novel long-acting acylated amylin analogue, acts as a non-selective amylin receptor. This calcitonin G protein-coupled receptor agonist can serve as an attractive novel treatment for obesity, resulting in reduction of food intake and significant weight loss in a dose-dependent manner."
+  },
+  {
+   "pmid": "33894837",
+   "titel": "Cagrilintide plus semaglutide for obesity management",
+   "jahr": "2021",
+   "journal": "Lancet",
+   "erstautor": "Becerril S",
+   "doi": "10.1016/S0140-6736(21)00944-2",
+   "typ": [
+    "Journal Article",
+    "Comment"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "34783910",
+   "titel": "Drugs for Treating Obesity",
+   "jahr": "2022",
+   "journal": "Handb Exp Pharmacol",
+   "erstautor": "Ryan DH",
+   "doi": "10.1007/164_2021_560",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Older medications approved for chronic weight management (orlistat, naltrexone/bupropion, liraglutide 3 mg and, in the USA, phentermine/topiramate) have not been widely adopted by health care providers. Those medications produce only modest additional weight loss when used to augment lifestyle intervention. However, semaglutide 2.4 mg weekly has recently emerged and produces much more weight loss - on average 15% weight loss at 1 year. Semaglutide's enhanced efficacy and that its class (GLP-1 receptor analogs) is well-known may result in more clinicians adopting pharmacotherapy. Furthermore, the first dedicated cardiovascular outcome trial powered for superiority testing an anti-obesity medication (SELECT) is underway with semaglutide 2.4 mg. A positive outcome will further promote the concept that weight management should be a primary target for cardiometabolic disease control. In phase 3, tirzepatide and cagrilintide/semaglutide combination are showing promise for even greater weight loss efficacy. Another recently approved medication takes a personalized medicine approach; setmelanotide is approved as a therapy for those with some of the ultra-rare genetic diseases characterized by severe, early onset obesity. This chapter reviews the currently available and anticipated medications for chronic weight management as well as those approved for the genetic and syndromic obesities."
+  },
+  {
+   "pmid": "40081498",
+   "titel": "Multifunctional incretin peptides in therapies for type 2 diabetes, obesity and associated co-morbidities",
+   "jahr": "2025",
+   "journal": "Peptides",
+   "erstautor": "Bailey CJ",
+   "doi": "10.1016/j.peptides.2025.171380",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Recent studies with peptide-based incretin therapies have focussed mainly on the glucagon-like peptide-1 (GLP-1) receptor agonist semaglutide and the dual agonist tirzepatide that engages receptors for GLP-1 and glucose-dependent insulinotropic polypeptide (GIP). Randomised clinical trials and 'real-world' studies have confirmed the marked glucose-lowering and weight-lowering efficacy of these agents across diverse populations. These include different ethnic groups, young and elderly individuals with and without diabetes and/or overweight or obesity. Recent studies have also confirmed protections against the development and progression of cardiovascular and renal diseases that are additive to the benefits conferred by improved control of blood glucose and body weight. Emerging evidence suggests that incretin therapies could additionally ameliorate fatty liver disease, chronic inflammation, sleep apnea and possibly degenerative bone disorders and cognitive decline. New incretin-based peptide therapies in development include a long-acting glucagon receptor agonist (LY3324954), dual GLP-1/glucagon receptor agonists (survodutide, pemvidutide, mazdutide, G49), triple GLP-1/GIP/glucagon receptor agonists (retatrutide, efocipegtrutide), a combination of semaglutide with the amylin analogue cagrilintide (CagriSema), a unimolecular GLP-1/amylin receptor dual agonist (amycretin), and a GIP receptor antibody with GLP-1 receptor agonism (MariTide). The creation of multi-targeting incretin-based synthetic peptides provides opportunities for improved management of type 2 diabetes and obesity as well as new therapeutic approaches to an expanding list of associated co-morbidities. The aim of the review is to acquaint the reader with developments in the field from 2023 to the present (February 2025)."
+  },
+  {
+   "pmid": "40206909",
+   "titel": "Comparative Effectiveness of Semaglutide, Liraglutide, Orlistat, and Phentermine for Weight Loss in Obese Individuals: A Systematic Review",
+   "jahr": "2025",
+   "journal": "Cureus",
+   "erstautor": "Patel JP",
+   "doi": "10.7759/cureus.80321",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Obesity, a multifaceted and chronic condition characterized by excessive fat accumulation, poses significant risks to overall health and is associated with various metabolic and cardiovascular complications. This literature review evaluates and compares the effectiveness of four pharmacological agents semaglutide, liraglutide, orlistat, phentermine, and emerging agents like setmelanotide, amycretin, retatrutide, cagrilintide, and cotadutide in managing weight loss among obese. A detailed analysis was conducted on their mechanisms of action, dosing regimens, efficacy in weight loss, safety profiles, and their impact on obesity-related comorbidities. Although all agents presented distinct benefits, side effects such as gastrointestinal discomfort with orlistat and GLP-1 receptor agonists, and potential dependency with phentermine, necessitate tailored treatment approaches. This review highlights the importance of integrating pharmacotherapy with lifestyle interventions to achieve sustainable weight management and identifies areas for future research to optimize therapeutic outcomes for individuals with obesity."
+  },
+  {
+   "pmid": "38753454",
+   "titel": "Oral glucagon-like peptide-1 receptor agonists and combinations of entero-pancreatic hormones as treatments for adults with type 2 diabetes: where are we now?",
+   "jahr": "2024",
+   "journal": "Expert Opin Pharmacother",
+   "erstautor": "Gogineni P",
+   "doi": "10.1080/14656566.2024.2356254",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "INTRODUCTION: Glucagon-like peptide-1 (GLP-1) receptor agonists (RAs) have changed the landscape of type 2 diabetes (T2D) management due to their cardio-renal benefits, their glucose-lowering efficacy and weight loss (WL) maintenance. However, the response to GLP-1 RA monotherapy is heterogeneous. Additionally, the majority of GLP-1 RAs are injectable treatments. Oral GLP-1 RAs and injectable combinations of GLP-1 with other entero-pancreatic hormones (glucose-dependent insulinotropic polypeptide (GIP), glucagon and amylin) are under development for T2D and obesity management. AREAS COVERED: Herein, we review the data on (i) oral GLP-1 RAs (oral semaglutide 25/50 mg and orforglipron) and (ii) dual/triple agonists (tirzepatide, cagrilintide 2.4 mg/semaglutide 2.4 mg, survodutide, mazdutide, retatrutide) that have recently completed phase 3 trials for T2D or are currently in phase 3 clinical trials. Tirzepatide is the first approved dual agonist (GLP-1/GIP) for T2D and obesity management. EXPERT OPINION: We are in a new era in T2D management where entero-pancreatic hormone-based treatments can result in ≥15% WL and euglycemia for many people with T2D. Multiple molecules with different mechanisms of action are under development for T2D, obesity and other metabolic complications. Data on their cardio-renal benefits, long-term efficacy and safety as well as their cost-effectiveness will better inform their position in treatment algorithms."
+  },
+  {
+   "pmid": "40204768",
+   "titel": "Structural and dynamic features of cagrilintide binding to calcitonin and amylin receptors",
+   "jahr": "2025",
+   "journal": "Nat Commun",
+   "erstautor": "Cao J",
+   "doi": "10.1038/s41467-025-58680-y",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Obesity is a major and increasingly prevalent chronic metabolic disease with numerous comorbidities. While recent incretin-based therapies have provided pharmaceutical inroads into treatment of obesity, there remains an ongoing need for additional medicines with distinct modes of action as independent or complementary therapeutics. Among the most promising candidates, supported by phase 1 and 2 clinical trials, is cagrilintide, a long-acting amylin and calcitonin receptor agonist. As such, understanding how cagrilintide functionally engages target receptors is critical for future development of this target class. Here, we determine structures of cagrilintide bound to Gs-coupled, active, amylin receptors (AMY1R, AMY2R, AMY3R) and calcitonin receptor (CTR) and compare cagrilintide interactions and the dynamics of receptor complexes with previously reported structures of receptors bound to rat amylin, salmon calcitonin or recently developed amylin-based peptides. These data reveal that cagrilintide has an amylin-like binding mode but, compared to other peptides, induces distinct conformational dynamics at calcitonin-family receptors that could contribute to its clinical efficacy."
+  },
+  {
+   "pmid": "33727283",
+   "titel": "AM833 Is a Novel Agonist of Calcitonin Family G Protein-Coupled Receptors: Pharmacological Comparison with Six Selective and Nonselective Agonists",
+   "jahr": "2021",
+   "journal": "J Pharmacol Exp Ther",
+   "erstautor": "Fletcher MM",
+   "doi": "10.1124/jpet.121.000567",
+   "typ": [
+    "Journal Article",
+    "Comparative Study"
+   ],
+   "abstract": "Obesity and associated comorbidities are a major health burden, and novel therapeutics to help treat obesity are urgently needed. There is increasing evidence that targeting the amylin receptors (AMYRs), heterodimers of the calcitonin G protein-coupled receptor (CTR) and receptor activity-modifying proteins, improves weight control and has the potential to act additively with other treatments such as glucagon-like peptide-1 receptor agonists. Recent data indicate that AMYR agonists, which can also independently activate the CTR, may have improved efficacy for treating obesity, even though selective activation of CTRs is not efficacious. AM833 (cagrilintide) is a novel lipidated amylin analog that is undergoing clinical trials as a nonselective AMYR and CTR agonist. In the current study, we have investigated the pharmacology of AM833 across 25 endpoints and compared this peptide with AMYR selective and nonselective lipidated analogs (AM1213 and AM1784), and the clinically used peptide agonists pramlintide (AMYR selective) and salmon CT (nonselective). We also profiled human CT and rat amylin as prototypical selective agonists of CTR and AMYRs, respectively. Our results demonstrate that AM833 has a unique pharmacological profile across diverse measures of receptor binding, activation, and regulation. SIGNIFICANCE STATEMENT: AM833 is a novel nonselective agonist of calcitonin family receptors that has demonstrated efficacy for the treatment of obesity in phase 2 clinical trials. This study demonstrates that AM833 has a unique pharmacological profile across diverse measures of receptor binding, activation, and regulation when compared with other selective and nonselective calcitonin receptor and amylin receptor agonists. The present data provide mechanistic insight into the actions of AM833."
+  },
+  {
+   "pmid": "41747885",
+   "titel": "Long-acting amylin-related peptides as therapies for obesity and type 2 diabetes",
+   "jahr": "2026",
+   "journal": "Peptides",
+   "erstautor": "Bailey CJ",
+   "doi": "10.1016/j.peptides.2026.171480",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "The first therapeutically useful amylin receptor (AMYR) agonist, pramlintide was based upon the structure of non-aggregating rat amylin and found limited application as an adjunct to insulin therapy. It acts centrally to induce satiety, promote weight loss, suppress prandial glucagon release and reduce prandial hyperglycaemia. Recent understanding of the heterodimeric structure of amylin-calcitonin receptor complexes and of amylin structure-function properties has assisted the design of a second generation of non-aggregating, long-acting amylin analogues. These are now advancing in clinical development and promise to provide an effective additional resource for the management of obesity and type 2 diabetes. Amongst these agents is the dual AMYR/ calcitonin-receptor (CTR) agonist, cagrilintide that has also been co-formulated into a once weekly subcutaneous injection with the long-acting glucagon-like peptide-1receptor (GLP-1R) agonist, semaglutide (CagriSema). In clinical trials, CagriSema has achieved greater effects than either component alone. A unimolecular AMYR/CTR/GLP-1R multi-agonist peptide, amycretin has been developed for weekly injection and as a once-daily tablet. Several recently developed long-acting amylin analogues have shown strong efficacy as monotherapy in clinical trials: these include eloralintide, petrelintide, Met-233 and AZD6234. Other analogues with marked efficacy in preclinical studies, including non-peptide AMYR agonists are under development. Gastrointestinal side effects, especially nausea, similar to those reported for GLP-1R agonists are commonplace during initiation and up-titration of amylin analogues but mostly resolve during continued use. Evidence is emerging that long-acting AMYR agonists may show potential therapeutic benefits in treatment of patients with fatty liver disease, diabetes-associated kidney complications and resistant hypertension."
+  },
+  {
+   "pmid": "42498824",
+   "titel": "Distinct brain regions mediate regulation of food intake in response to GIPR agonism or antagonism",
+   "jahr": "2026",
+   "journal": "Nat Metab",
+   "erstautor": "Lewis JE",
+   "doi": "10.1038/s42255-026-01575-z",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The development of dual agonists for the glucagon-like peptide-1 receptor (GLP-1R) and glucose-dependent insulinotropic polypeptide receptor (GIPR) has been a landmark moment in the treatment of type 2 diabetes and obesity. However, for reasons that are incompletely understood, in preclinical and clinical studies, adding either a GIPR agonist or GIPR antagonist to GLP-1R agonism causes additional weight loss1. Here we show that distinct brain regions mediate the appetite-suppressing effects of GIPR agonists and the synergistic weight loss effects conferred by GIPR antagonists. We knock out Gipr in either the area postrema (AP) or hypothalamus of mice (GiprAP-KO and Giprhypo-KO, respectively) and compare body weight and food intake responses to GIPR agonists and antagonists, alone and in combination with the GLP-1R agonist liraglutide. GiprAP-KO mice exhibit partial protection against diet-induced obesity, reduced responsiveness to the appetite-suppressing effects of acyl-GIP and a reduced ability of acyl-GIP to prevent avoidance triggered by peptide YY. Weight loss effects of liraglutide are comparable in GiprAP-KO and control mice, and the co-administration of a GIPR antagonist peptide causes similar additional weight loss in both groups. Giprhypo-KO mice, by contrast, exhibit normal appetite suppression by acyl-GIP but enhanced weight loss on liraglutide compared with control mice. Giprhypo-KO also abolishes the synergistic effect of a GIPR antagonist when combined with liraglutide-an effect that is not mediated by nucleus tractus solitarius preproglucagon neurons. GIPR antagonism and Giprhypo-KO also sensitise to cagrilintide-induced weight loss. Overall, our results suggest that the AP is responsible for the appetite-suppressing effects of GIPR agonism but that GIP receptors in the hypothalamus underlie the ability of GIPR antagonism to enhance the weight loss effects of GLP-1R and amylin receptor agonists."
+  },
+  {
+   "pmid": "40628316",
+   "titel": "Characterization of 0839 - A tool compound for pre-clinical mode-of-action studies of amylin analogues such as cagrilintide",
+   "jahr": "2025",
+   "journal": "Life Sci",
+   "erstautor": "Gabery S",
+   "doi": "10.1016/j.lfs.2025.123845",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Cagrilintide (also known as 0833) is an amylin and calcitonin receptor agonist in clinical development for weight management and type-2-diabetes in a fixed-dose combination with semaglutide. Here, we introduce 0174-0839 (0839) as a tool compound for mouse and rat in vivo and in vitro studies of amylin analogues such as cagrilintide. Structurally, 0839 shares 95 % sequence homology with 0833 and contains an identical acylation sidechain. Acute administration of 0839 and 0833 to normal weight rats' dose-dependently reduced food intake to a similar degree. Sub-chronically, 0839 and 0833 had comparable small and transient reducing effects on food intake and body weight in DIO mice, with similar additional add-on effects on top of semaglutide. In DIO rats, sub-chronic administration of 0833 and 0839 profoundly reduced food intake and body weight, and both potentiated semaglutide's effects on food intake and body weight to an equal extended. Both compounds mainly reduced body weight by fat mass reduction and equally improved metabolic parameters. Notably, 0839 is available through Novo Nordisk Compound Sharing, enabling advancement of mode-of-action studies in mice and rats whilst usage of cagrilintide and other amylin analogues in clinical development are restricted due to pharmacovigilance rules."
+  },
+  {
+   "pmid": "41834765",
+   "titel": "Efficacy and Safety of Cagrilintide and Cagrisema Versus Semaglutide as Anti-Obesity Medications: A Systematic Review, Meta-Analysis and Meta-Regression",
+   "jahr": "2026",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Ahmed M",
+   "doi": "10.1111/dom.70667",
+   "typ": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis",
+    "Comparative Study"
+   ],
+   "abstract": "BACKGROUND: Obesity is a complex chronic disease requiring effective long-term management. We performed a systematic review and meta-analysis to evaluate the efficacy and safety of cagrisema and cagrilintide monotherapy compared with semaglutide in individuals with obesity. METHODS: We searched MEDLINE, Embase, Scopus, Cochrane, and ClinicalTrials.gov for randomized controlled trials accessing cagrisema or cagrilintide versus semaglutide for weight loss. Efficacy outcomes were percentage change in body weight, absolute change in body weight, fasting plasma glucose, HbA1c, and BMI. Lipid parameters included total cholesterol, LDL-C, HDL-C, VLDL-C, and triglycerides. A random-effects model was used to estimate mean differences (MD) or risk ratios (RR) with 95% CIs. RESULTS: Three RCTs (n = 3545) were included. Cagrisema produced significantly greater percentage [MD -7.47% (95% CI: -10.58, -4.36); p < 0.001] and absolute [MD -7.60 kg (95% CI: -10.33, -4.86); p < 0.001] weight loss than semaglutide. Cagrilintide monotherapy weight loss was comparable to semaglutide. Lipids parameters were mostly similar between groups, though LDL-C was modestly higher with combination therapy versus semaglutide [MD 0.29 mmol/L (95% CI: 0.02, 0.55); p = 0.03]. Overall and serious adverse events were comparable between cagrisema and semaglutide, but combination therapy increased administration-site conditions [RR 3.27 (95% CI: 1.27, 8.46)] and nausea [RR 1.64 (95% CI: 1.01, 2.66)]. Cagrilintide monotherapy had a higher risk of serious adverse events [RR 1.83 (95% CI: 1.03, 3.24)] compared to semaglutide. CONCLUSION: Cagrisema is more effective than semaglutide in reducing weight and increasing glycemic control. Cagrisema is safe and has a comparable side effect profile to currently accepted treatments. This regimen has enormous potential in dual-agonist therapy for obese patients."
+  },
+  {
+   "pmid": "42452898",
+   "titel": "Amylin Analogs: The Next Major Class of Weight Loss Therapy: A Review of Experimental Data and Early-Phase Clinical Trials",
+   "jahr": "2026",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Alhazmi A",
+   "doi": "10.1111/dom.71074",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "AIMS: The management of the disease of obesity has been transformed by incretin-based therapies; however, additional and alternative therapeutic strategies are needed to address its biological complexity. This narrative review examines the physiology of amylin and the emerging role of amylin-based therapies in obesity management. MATERIALS AND METHODS: We conducted a narrative review of amylin-based therapies that were approved or remained in human clinical development for obesity as of 30 April 2026. PubMed/MEDLINE, ClinicalTrials.gov, Google Scholar, company press releases, investor reports, and major congress abstracts were searched for relevant preclinical and clinical evidence. RESULTS: Amylin, co-secreted with insulin from pancreatic β-cells, slows gastric emptying, suppresses glucagon secretion, and promotes meal termination through central mechanisms. Pramlintide, the first approved amylin analogue, established proof of concept but was limited by modest efficacy and frequent dosing. More recently, long-acting amylin-based therapies, including cagrilintide, eloralintide, petrelintide, MET-233i, ABBV-295, and AZD6234, as well as combination approaches such as cagrilintide with semaglutide and zenagamtide, have demonstrated clinically meaningful weight loss with generally favorable tolerability profiles. CONCLUSIONS: Amylin-based therapies represent a promising addition to the evolving treatment landscape of obesity. Their emerging efficacy as both standalone and combination therapies supports a multi pathway approach to addressing the biological complexity and heterogeneity of the disease. Obesity is a chronic disease driven by complex biological mechanisms, meaning that no single treatment is likely to work for everyone. Amylin based therapies are an emerging group of medications that target appetite regulation through pathways different from those used by current glucagon‐like peptide‐1 (GLP‐1) based treatments. Amylin is a natural hormone released by the pancreas after meals that helps people feel full, slows stomach emptying, and reduces food intake. The first amylin medicine, pramlintide, demonstrated that this pathway could promote weight loss, but its clinical use was limited by the need for multiple daily injections and relatively modest efficacy. Newer long acting amylin analogues have overcome many of these limitations. Early clinical trials show that agents such as cagrilintide, eloralintide, petrelintide, MET‐233i, ABBV‐295, and AZD6234 can produce clinically meaningful weight loss with very good tolerability profiles. Combining amylin with GLP‐1 based therapy has produced even greater weight loss, with reductions exceeding 20% in clinical studies. Although most of these medicines are still under clinical development, the available evidence suggests that amylin based therapies could become an important addition to obesity treatment. By targeting complementary biological pathways, they may expand treatment options, improve long term management, and allow a more personalised approach to caring for people with the disease of obesity."
+  },
+  {
+   "pmid": "41207308",
+   "titel": "Amylin and the renin-angiotensin system: risk or opportunity in amylin-based therapy?",
+   "jahr": "2026",
+   "journal": "Lancet",
+   "erstautor": "Muskiet MHA",
+   "doi": "10.1016/S0140-6736(25)01776-3",
+   "typ": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "We hypothesise that amylin receptor agonists (eg, pramlintide) and dual amylin and calcitonin-receptor agonists (eg, cagrilintide), which are emerging treatments for obesity and type 2 diabetes, can activate the renin-angiotensin system (RAS) and potentially undermine the cardiorenal benefits of these therapies. Paradoxically, new-generation amylin-based therapies, such as CagriSema, showed substantial blood pressure reductions in phase 3 trials. Beyond amylin's weight loss-mediated effects, we hypothesise that concurrent use of RAS inhibitors (angiotensin-converting enzyme [ACE] inhibitors or angiotensin-receptor blockers) redirects amylin-induced RAS activation towards the protective alternative RAS pathway, which is characterised by vasodilatory, anti-inflammatory, and antiproliferative effects via Mas receptors, potentially explaining part of their therapeutic benefit and cardioprotective and renoprotective potential. To test this, we propose: (1) preclinical studies investigating amylin-RAS interactions with or without RAS blockade; (2) post-hoc analyses of phase 2/3 trials stratified by RAS inhibitor use; (3) biomarker studies monitoring renin, aldosterone, angiotensin-(1-7), and ACE2; and (4) mechanistic human studies prospectively assessing cardiovascular-kidney metabolic effects by RAS inhibitor status. These suggestions aim to determine whether RAS inhibition enhances the overall efficacy of amylin-based therapies, and whether RAS blockers should be strongly recommended in patients receiving them."
+  },
+  {
+   "pmid": "42673585",
+   "titel": "Efficacy and Safety of Glucagon-like Peptide-1 Receptor Agonists and Co-agonists for Weight Loss Among Adults Without Diabetes : An Updated Systematic Review",
+   "jahr": "2026",
+   "journal": "Ann Intern Med",
+   "erstautor": "Moiz A",
+   "doi": "10.7326/ANNALS-25-05519",
+   "typ": [
+    "Systematic Review",
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "BACKGROUND: Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are increasingly used for weight management. PURPOSE: To update our prior systematic review evaluating the efficacy and safety of GLP-1 RAs and co-agonists among adults with overweight or obesity without diabetes. DATA SOURCES: MEDLINE, Embase, and Cochrane Central Register of Controlled Trials from 5 October 2024 through 25 March 2026. STUDY SELECTION: Randomized controlled trials ([RCTs] treatment duration ≥16 weeks). DATA EXTRACTION: Two reviewers independently extracted data. DATA SYNTHESIS: Thirty-eight RCTs (n = 25 816) were included, adding 14 new trials (n = 11 000) to the prior review. Among commercially available therapies, placebo-subtracted weight loss reached up to -5.8% (95% CI, -8.0% to -3.6%) for liraglutide, -14.8% (CI, -16.2% to -13.4%) for subcutaneous semaglutide, -14.3% (CI, -17.2% to -11.4%) for oral semaglutide, -12.4% (CI, -15.1% to -9.7%) for orforglipron, and -19.0% (CI, -21.6% to -16.4%) for tirzepatide. Numerically greater placebo-subtracted reductions were seen with emerging multiagonists, including -23.9% (CI, -29.3% to -18.5%) with amycretin and -22.1% (CI, -24.9% to -19.3%) with retatrutide. Gastrointestinal adverse events (AEs) remained common (GLP-1 RA vs. placebo: 76.0% vs. 40.1%). Discontinuation due to AEs was generally low (10.7% vs. 3.4%) but numerically higher with some oral agents. Serious AEs (6.5% vs. 5.2%) and deaths (0.1% vs. 0.0%) were rare, with no new safety signals identified. Head-to-head data showed greater weight loss with semaglutide and JNJ-64565111 than liraglutide and greater weight loss with tirzepatide and cagrilintide-semaglutide (CagriSema; Novo Nordisk) than semaglutide. LIMITATIONS: Heterogeneity precluded quantitative synthesis. Safety outcomes were inconsistently reported. CONCLUSION: Glucagon-like peptide-1 receptor agonists demonstrate substantial weight loss in adults without diabetes, with an expanding range of therapeutic options, including oral and multiagonist therapies. PRIMARY FUNDING SOURCE: None. (PROSPERO: CRD42024505558)."
+  },
+  {
+   "pmid": "40629149",
+   "titel": "CagriSema drives weight loss in rats by reducing energy intake and preserving energy expenditure",
+   "jahr": "2025",
+   "journal": "Nat Metab",
+   "erstautor": "Jacobsen JM",
+   "doi": "10.1038/s42255-025-01324-8",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "CagriSema is a combination of amylin (cagrilintide) and glucagon-like peptide-1 (semaglutide) analogues being developed for weight management. Here, we show that CagriSema blunts metabolic adaptation in rats. Quantifying CagriSema's action on energy intake and expenditure in rats we observe 12% weight loss with a 39% reduction in food intake. By contrast, pair-feeding causes less-pronounced weight loss, while weight matching requires a 51% decrease in food intake. Therefore, approximately one-third of CagriSema's weight loss efficacy arises from an effect on energy expenditure, the blunting of metabolic adaptation, which contributes to the successful treatment of obesity."
+  },
+  {
+   "pmid": "36608818",
+   "titel": "An update on peptide-based therapies for type 2 diabetes and obesity",
+   "jahr": "2023",
+   "journal": "Peptides",
+   "erstautor": "Bailey CJ",
+   "doi": "10.1016/j.peptides.2023.170939",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Long-acting analogues of the naturally occurring incretin, glucagon-like peptide-1 (GLP-1) and those modified to interact also with receptors for glucose-dependent insulinotropic polypeptide (GIP) have shown high glucose-lowering and weight-lowering efficacy when administered by once-weekly subcutaneous injection. These analogues herald an exciting new era in peptide-based therapy for type 2 diabetes (T2D) and obesity. Of note is the GLP-1R agonist semaglutide, available in oral and injectable formulations and in clinical trials combined with the long-acting amylin analogue, cagrilintide. Particularly high efficacy in both glucose- and weight lowering capacities has also been observed with the GLP-1R/GIP-R unimolecular dual agonist, tirzepatide. In addition, a number of long-acting unimolecular GLP-1R/GCGR dual agonist peptides and GLP-1R/GCGR/GIPR triagonist peptides have entered clinical trials. Other pharmacological approaches to chronic weight management include the human monoclonal antibody, bimagrumab which blocks activin type II receptors and is associated with growth of skeletal muscle, an antibody blocking activation of GIPR to which are conjugated GLP-1R peptide agonists (AMG-133), and the melanocortin-4 receptor agonist, setmelanotide for use in certain inherited obesity conditions. The high global demand for the GLP-1R agonists liraglutide and semaglutide as anti-obesity agents has led to shortage so that their use in T2D therapy is currently being prioritized."
+  },
+  {
+   "pmid": "34176426",
+   "titel": "Emerging glucagon-like peptide 1 receptor agonists for the treatment of obesity",
+   "jahr": "2021",
+   "journal": "Expert Opin Emerg Drugs",
+   "erstautor": "Jepsen MM",
+   "doi": "10.1080/14728214.2021.1947240",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Introduction: Obesity is a growing threat to public health, increasing risks of numerous diseases and mortality, and impairing quality of life. If current trends continue, more than 1.1 billion individuals will have obesity in 2030, corresponding to almost 2.5 times the number of adults currently living with diabetes. There is a strong interest in developing obesity treatments based on glucagon-like peptide-1 (GLP-1) agonism, which have proved to limit morbidity and mortality in type 2 diabetes.Areas covered: This review provides an overview of current compounds containing GLP-1 receptor agonism in clinical development for obesity, with mono-activity at the GLP-1 receptor (PF-0688296, glutazumab, semaglutide) or engaging one or more other endogenous hormonal systems involved in energy balance and metabolism, including glucagon, oxyntomodulin, glucose-dependent inhibitory peptide and amylin (CT-868, CT-388, AMG 133, tirzepatide, NNC9204-1177, JNJ-54,728,518, SAR425899, pegapamodutide, MK8521, cotadutide, efinopegdutide, BI-456,906, cagrilintide + semaglutide 2,4 mg, HM15211, NNC9204-1706).Expert opinion: Many novel compounds employing GLP-1 receptor agonism are in clinical development. Semaglutide is farthest in clinical development and will presumably become a benchmark for this class of novel anti-obesity compounds."
+  },
+  {
+   "pmid": "38685693",
+   "titel": "Advancements in the management of obesity: a review of current evidence and emerging therapies",
+   "jahr": "2024",
+   "journal": "Expert Rev Endocrinol Metab",
+   "erstautor": "Abdalla Ahmed MA",
+   "doi": "10.1080/17446651.2024.2347258",
+   "typ": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "INTRODUCTION: Obesity is the modern world's current epidemic, with substantial health and economic impact. This study aimed to provide a narrative overview of the past, currently available, and future treatment options that offer therapeutic and preventive advantages for obesity management. AREAS COVERED: Historically, rimonabant, and lorcaserin, were approved and used for managing non-syndromic obesity. Currently, orlistat, naltrexone/bupropion, glucagon-like peptide-1 receptor agonist (GLP-1 RA), and a few promising therapeutic agents are under investigation, including retatrutide, cagrilintide and orforglipron, which show promising weight reduction effects. We have developed a search string of the Medical Subject Headings (MeSH), including the terms GLP-1 RAs, obesity, and weight loss. This string was then used to perform a systematic literature search in the database including PubMed, EMBASE, MEDLINE, and Scopus up to January 31st, 2024. EXPERT OPINION: Managing obesity often requires medical interventions, particularly in cases of severe obesity or obesity-related comorbidities. Thus, it is important to approach obesity management holistically, considering individual needs and circumstances. In our opinion, consulting with healthcare professionals is crucial to developing a personalized plan that addresses both weight loss and overall health improvement."
+  },
+  {
+   "pmid": "42744908",
+   "titel": "Cagrilintide and retatrutide combination therapy enhances weight loss and metabolic outcomes in obese male rats",
+   "jahr": "2026",
+   "journal": "Nat Metab",
+   "erstautor": "Petersen J",
+   "doi": "10.1038/s42255-026-01603-y",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Peptide multi-receptor agonists have advanced obesity treatment, yet challenges remain in achieving maximal weight loss and metabolic control, especially in patients with obesity and type 2 diabetes. Here we demonstrate enhanced metabolic benefits of a combination therapy with retatrutide, a unimolecular GLP-1R/GIPR/GCGR tri-agonist, and cagrilintide, an AMLNR/CALCR co-agonist, in diet-induced obese male rats. Daily co-administration produces dose-dependent reductions in body weight and food intake that exceed both equimolar monotherapies and matched-dose comparator combinations incorporating semaglutide or tirzepatide. The combination therapy also improves circulating markers of metabolic health, including cholesterol, triglycerides and insulin levels. Pair-feeding and weight-matching studies reveal that the enhanced weight loss cannot be explained by reduced food intake alone and enable discrimination between weight-loss-dependent and drug-specific molecular responses. Plasma proteomic profiling highlights enrichment of bioenergetic processes with the combination therapy, whereas brain transcriptomic profiling identifies convergent central neuronal programmes linked to energy balance regulation. Collectively, our preclinical findings support five-receptor polypharmacology as a strategy for efficaciously lowering body weight and provide guidance for the design of next-generation unimolecular multi-receptor agonists."
+  },
+  {
+   "pmid": "41259767",
+   "titel": "Cagrilintide-Semaglutide in Adults with Overweight or Obesity",
+   "jahr": "2025",
+   "journal": "N Engl J Med",
+   "erstautor": "Chi H",
+   "doi": "10.1056/NEJMc2513141",
+   "typ": [
+    "Letter",
+    "Comment"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "41627368",
+   "titel": "Bariatric Surgery in the Era of GLP1RA: A Narrative Review",
+   "jahr": "2026",
+   "journal": "Adv Ther",
+   "erstautor": "Muhundan M",
+   "doi": "10.1007/s12325-026-03494-7",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "The prevalence of obesity continues to rise, with notable increase in stage III obesity in North America. The accumulation of excess adipose tissue can impair health with cardiovascular disease being the leading cause for increased mortality in people with obesity. The chronicity of the condition makes sustainable weight loss and improved health difficult for many with lifestyle changes alone, often necessitating the need for pharmacotherapy and bariatric surgery. Bariatric surgery remains the most efficacious treatment for obesity, despite improved pharmacotherapies. However, its low acceptability and accessibility render it an underutilized treatment. Meanwhile, the use of obesity pharmacotherapy, especially glucagon-like peptide 1 receptor agonists (GLP1RA) has become widespread with significant weight loss and improved health outcomes in randomised control trials. The real-world effectiveness of GLP1RA is hindered by issues including cost and tolerability. This narrative review discusses strategies to improve the effectiveness of pharmacotherapy and bariatric surgery and posits that bariatric surgery will continue to play an important role in obesity treatment in the GLP1RA era."
+  },
+  {
+   "pmid": "36242844",
+   "titel": "Does receptor balance matter? - Comparing the efficacies of the dual amylin and calcitonin receptor agonists cagrilintide and KBP-336 on metabolic parameters in preclinical models",
+   "jahr": "2022",
+   "journal": "Biomed Pharmacother",
+   "erstautor": "Larsen AT",
+   "doi": "10.1016/j.biopha.2022.113842",
+   "typ": [
+    "Comparative Study",
+    "Journal Article"
+   ],
+   "abstract": "Cagrilintide is a novel long-acting amylin receptor agonist, which has shown a potent induction of weight loss. Interestingly, cagrilintide is a Dual Amylin and Calcitonin Receptor Agonist (DACRA) derived from an amylin backbone. Another class of long-acting DACRAs exists, namely the KBPs. These are salmon calcitonin-based and have shown preclinical potential; however, how and if they differentiate from amylin-derived molecules remain to be studied. Here, we compare cagrilintide to the DACRA KBP-336 with respect to receptor activation balance in vitro and using metabolic in vivo models. Peptide potencies were assessed using receptor-specific assays in vitro and in vivo. In vivo efficacies on body weight and glucose homeostasis were investigated head-to-head in high-fat diet (HFD) fed obese and T2D (ZDF) rat models. Both peptides activate the amylin and the calcitonin receptor in vitro and in vivo, with KBP-336 being more potent, and showing a CTR bias. KBP-336 and cagrilintide induced a potent and dose-dependent weight loss in HFD rats, with the highest dose of KBP-336 being superior to cagrilintide. In diabetic ZDF rats, DACRA treatment improved fasting blood glucose, HbA1c levels, and insulin action, with KBP-336 being superior to cagrilintide in improving glucose control. In summary, both KBP-336 and cagrilintide are DACRAs, however with KBP-336 being biased towards the CTR resulting in a different receptor activation balance. Interestingly, KBP-336 showed superior long-term efficacy on both weight loss and glucose control, supporting relevance of the receptor balance, and highlighting KBP-336 as a promising agent for the treatment of obesity and T2D."
+  }
+ ],
+ "ctgov": [
+  {
+   "nct": "NCT07011667",
+   "titel": "A Research Study to Look at How Well CagriSema Helps People Living With Obesity Lose Weight and Maintain Weight Loss in the Long-term",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 609,
+   "start": "2025-06-03",
+   "ende": "2028-10-17",
+   "erkrankungen": [
+    "Obesity"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05996848",
+   "titel": "A Research Study to See How Well CagriSema Helps People in China With Excess Body Weight Lose Weight",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 300,
+   "start": "2023-08-15",
+   "ende": "2025-02-22",
+   "erkrankungen": [
+    "Obesity or Overweight"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06221969",
+   "titel": "A Research Study to See How Much CagriSema Lowers Blood Sugar and Body Weight Compared to Tirzepatide in People With Type 2 Diabetes Treated With Metformin With or Without an SGLT2 Inhibitor",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 1024,
+   "start": "2024-01-16",
+   "ende": "2026-04-06",
+   "erkrankungen": [
+    "Type 2 Diabetes"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07817251",
+   "titel": "Research Study on How People With Type 2 Diabetes Tolerate Switching From Semaglutide to Cagrisema",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 210,
+   "start": "2026-09-16",
+   "ende": "2027-07-21",
+   "erkrankungen": [
+    "Diabetes Mellitus, Type 2"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06403761",
+   "titel": "Investigating How CagriSema, Semaglutide and Cagrilintide Regulate Insulin Effects in the Body of People With Type 2 Diabetes",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 158,
+   "start": "2024-05-06",
+   "ende": "2026-02-02",
+   "erkrankungen": [
+    "Diabetes Mellitus, Type 2"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06780449",
+   "titel": "A Research Study to Look Into the Long-term Effect on Weight Loss of CagriSema in People With Obesity",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 400,
+   "start": "2025-02-10",
+   "ende": "2028-10-31",
+   "erkrankungen": [
+    "Obesity"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07220759",
+   "titel": "Weight Loss in People Living With Overweight or Obesity and Type 2 Diabetes Following Treatment With Cagrilintide",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 330,
+   "start": "2025-11-05",
+   "ende": "2027-06-30",
+   "erkrankungen": [
+    "Overweight",
+    "Obesity",
+    "Type 2 Diabetes"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07282613",
+   "titel": "A Research Study to See How Much CagriSema Lowers Blood Sugar and Body Weight Compared to Placebo in Children and Adolescents With Type 2 Diabetes",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 80,
+   "start": "2026-08-04",
+   "ende": "2030-03-30",
+   "erkrankungen": [
+    "Diabetes Mellitus, Type 2"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07184086",
+   "titel": "A Study to See How Metabolism is Influenced by Weight Loss Due to Intervention With Cagrilintide and Semaglutide Compared to Diet",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 80,
+   "start": "2025-09-26",
+   "ende": "2028-02-09",
+   "erkrankungen": [
+    "Obesity"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06267092",
+   "titel": "A Study of How CagriSema Works on Appetite in People With Excess Body Weight",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 164,
+   "start": "2024-02-15",
+   "ende": "2025-12-08",
+   "erkrankungen": [
+    "Overweight",
+    "Obesity"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05394519",
+   "titel": "A Research Study to See How Well CagriSema Helps People With Type 2 Diabetes and Excess Body Weight Lose Weight",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 1200,
+   "start": "2023-02-01",
+   "ende": "2025-02-03",
+   "erkrankungen": [
+    "Overweight",
+    "Obesity",
+    "Type 2 Diabetes Mellitus"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07253285",
+   "titel": "A Research Study on How Well Cagrilintide and CagriSema Work in Children and Adolescents With Excess Body Weight",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 460,
+   "start": "2026-01-08",
+   "ende": "2033-09-20",
+   "erkrankungen": [
+    "Overweight",
+    "Obesity"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05669755",
+   "titel": "REDEFINE 3: A Research Study to See the Effects of CagriSema in People Living With Diseases in the Heart and Blood Vessels",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 7101,
+   "start": "2023-03-01",
+   "ende": "2027-10-14",
+   "erkrankungen": [
+    "Cardiovascular Disease"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06323174",
+   "titel": "A Research Study to See How Much CagriSema Lowers Blood Sugar and Body Weight Compared to Placebo in People With Type 2 Diabetes Treated With Diet and Exercise",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 189,
+   "start": "2024-03-19",
+   "ende": "2025-12-22",
+   "erkrankungen": [
+    "Type 2 Diabetes"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07607587",
+   "titel": "Evaluation of the Tolerability of Cagrilintide in Participants Not Tolerating GLP-1-RA Therapies Due to Gastrointestinal Adverse Events",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 114,
+   "start": "2026-05-29",
+   "ende": "2027-11-19",
+   "erkrankungen": [
+    "Obesity",
+    "Overweight"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06534411",
+   "titel": "A Research Study to See How Much CagriSema Lowers Blood Sugar and Body Weight Compared to Tirzepatide in People With Type 2 Diabetes Treated With Metformin, SGLT2 Inhibitor or Both",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 1023,
+   "start": "2024-11-05",
+   "ende": "2026-07-09",
+   "erkrankungen": [
+    "Diabetes Mellitus, Type 2"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06207877",
+   "titel": "A Research Study to Look at How CagriSema Influences Food Intake, Appetite and Emptying of the Stomach in People With Excess Body Weight",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 62,
+   "start": "2024-02-23",
+   "ende": "2024-11-22",
+   "erkrankungen": [
+    "Obesity"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06323161",
+   "titel": "A Research Study to See How Much CagriSema Lowers Blood Sugar and Body Weight Compared to Placebo in People With Type 2 Diabetes Treated With Once-daily Basal Insulin With or Without Metformin",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 274,
+   "start": "2024-03-26",
+   "ende": "2025-10-23",
+   "erkrankungen": [
+    "Type 2 Diabetes"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05564104",
+   "titel": "A Research Study Looking at How a Single Dose of the Medicine Cagrilintide Works in Participants With Reduced Liver Function and in Healthy Participants With Normal Liver Function and How Cagrilintide is Absorbed and Used by the Body",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 32,
+   "start": "2023-04-05",
+   "ende": "2024-12-19",
+   "erkrankungen": [
+    "Hepatic Impairment",
+    "Healthy Volunteers"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06065540",
+   "titel": "A Research Study to See How Well CagriSema Compared to Semaglutide, Cagrilintide and Placebo Lowers Blood Sugar and Body Weight in People With Type 2 Diabetes Treated With Metformin With or Without an SGLT2 Inhibitor",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 2734,
+   "start": "2023-09-27",
+   "ende": "2026-01-06",
+   "erkrankungen": [
+    "Type 2 Diabetes Mellitus"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07605052",
+   "titel": "A Research Study to Compare Blood Levels of Two Different Versions of Cagrilintide in Adults With Excess Body Weight",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 50,
+   "start": "2026-05-20",
+   "ende": "2026-08-19",
+   "erkrankungen": [
+    "Overweight",
+    "Obesity"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05567796",
+   "titel": "A Research Study to See How Well CagriSema Helps People With Excess Body Weight Lose Weight",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 3400,
+   "start": "2022-11-01",
+   "ende": "2026-10-19",
+   "erkrankungen": [
+    "Obesity"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05804162",
+   "titel": "A Research Study Looking at How Cagrilintide Works on the Heart Rhythm in Healthy Participants",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 107,
+   "start": "2023-04-12",
+   "ende": "2023-09-18",
+   "erkrankungen": [
+    "Obesity"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07597018",
+   "titel": "A Research Study to Compare Blood Levels of Cagrilintide After Multiple Doses of Different Versions of Cagrilintide in Adults With Overweight or Obesity",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 234,
+   "start": "2026-05-18",
+   "ende": "2027-06-01",
+   "erkrankungen": [
+    "Obesity",
+    "Overweight"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06289504",
+   "titel": "A Study on How CagriSema Affects Levels of Atorvastatin and Warfarin in the Blood of Participants With Excess Body Weight",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 34,
+   "start": "2024-02-27",
+   "ende": "2024-11-15",
+   "erkrankungen": [
+    "Obesity"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07357766",
+   "titel": "A Research Study to Compare Different Versions of Injectable CagriSema and Placebo in People With Excess Body Weight",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "WITHDRAWN",
+   "teilnehmende": 0,
+   "start": "2026-06-22",
+   "ende": "2028-01-17",
+   "erkrankungen": [
+    "Overweight",
+    "Obesity"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06797869",
+   "titel": "A Research Study to Investigate the Effects of CagriSema Compared to Placebo in People With Type 2 Diabetes and Painful Diabetic Peripheral Neuropathy",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 142,
+   "start": "2025-01-29",
+   "ende": "2026-08-05",
+   "erkrankungen": [
+    "Diabetes Mellitus, Type 2",
+    "Diabetic Peripheral Neuropathy"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07527195",
+   "titel": "Understanding the Effect of CagriSema, Cagrilintide, and Semaglutide on Muscle Health (Role of Amylin Signature in Muscle Health)",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 100,
+   "start": "2026-04-10",
+   "ende": "2028-06-09",
+   "erkrankungen": [
+    "Obesity"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT04940078",
+   "titel": "A Research Study to Compare Blood Levels of Cagrilintide and Semaglutide After Combined Versus Separate Injections in People With Overweight or Obesity",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 40,
+   "start": "2021-07-07",
+   "ende": "2022-02-16",
+   "erkrankungen": [
+    "Obesity & Overweight"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06131437",
+   "titel": "A Research Study to See How Well CagriSema Compared to Tirzepatide Helps People With Obesity Lose Weight",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 809,
+   "start": "2023-11-27",
+   "ende": "2026-01-09",
+   "erkrankungen": [
+    "Obesity"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07745504",
+   "titel": "A Research Study to Compare Two Different Versions of Injectable Cagrilintide and Placebo in People With Excess Body Weight",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 285,
+   "start": "2026-08-04",
+   "ende": "2027-07-06",
+   "erkrankungen": [
+    "Overweight",
+    "Obesity"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07564414",
+   "titel": "A Research Study to Look at How Two Different Doses of CagriSema and One Dose of Semaglutide Help People Living With Obesity With or Without Type 2 Diabetes Lose Weight",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 2500,
+   "start": "2026-05-21",
+   "ende": "2028-04-19",
+   "erkrankungen": [
+    "Obesity",
+    "Type 2 Diabetes"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07411560",
+   "titel": "A Study Looking at How Weekly Injections of Two Hormones - GIP and Amylin - Affect Stomach-related Side Effects in People Who Are Overweight or Obese",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 100,
+   "start": "2026-02-09",
+   "ende": "2027-01-26",
+   "erkrankungen": [
+    "Overweight",
+    "Obese"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07357740",
+   "titel": "A Research Study to Compare Two Different Versions of Injectable CagriSema in People With Type 2 Diabetes",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "WITHDRAWN",
+   "teilnehmende": 0,
+   "start": "2026-08-27",
+   "ende": "2027-10-13",
+   "erkrankungen": [
+    "Diabetes Mellitus, Type 2"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05813925",
+   "titel": "A Research Study to See How Well CagriSema Helps People in East Asia With Excess Body Weight Lose Weight",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 331,
+   "start": "2023-04-03",
+   "ende": "2025-03-07",
+   "erkrankungen": [
+    "Obesity or Overweight"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07557953",
+   "titel": "A Research Study Looking Into How Cagrilintide Influences Food Intake and Appetite in People With Overweight or Obesity",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 120,
+   "start": "2026-04-30",
+   "ende": "2027-04-13",
+   "erkrankungen": [
+    "Overweight",
+    "Obesity"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06131372",
+   "titel": "A Research Study to See if Kidney Damage in People With Chronic Kidney Disease and Type 2 Diabetes Living With Overweight or Obesity Can be Reduced by CagriSema Compared to Semaglutide, Cagrilintide and Placebo",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 626,
+   "start": "2024-04-01",
+   "ende": "2025-11-06",
+   "erkrankungen": [
+    "Chronic Kidney Disease",
+    "Type 2 Diabetes",
+    "Obesity"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT04982575",
+   "titel": "Research Study to Look at How Well Cagrilintide Together With Semaglutide Works in People With Type 2 Diabetes",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 92,
+   "start": "2021-08-02",
+   "ende": "2022-07-07",
+   "erkrankungen": [
+    "Diabetes Mellitus, Type 2"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT06409130",
+   "titel": "Effects of NNC0194-0499, Cagrilintide, and Semaglutide Alone or in Combinations on Liver Damage and Alcohol Use in People With Alcohol-related Liver Disease",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 270,
+   "start": "2024-05-20",
+   "ende": "2026-01-12",
+   "erkrankungen": [
+    "Alcohol-related Liver Disease"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07010432",
+   "titel": "The Role of the Amylin Analogue Cagrilintide in Bone Metabolism",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 144,
+   "start": "2025-06-12",
+   "ende": "2028-05-03",
+   "erkrankungen": [
+    "Obesity"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06719011",
+   "titel": "A Study on How NNC0174-1213 Works in People With Overweight or Obesity.",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 178,
+   "start": "2024-12-03",
+   "ende": "2026-07-20",
+   "erkrankungen": [
+    "Obesity",
+    "Overweight"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06388187",
+   "titel": "A Research Study to See How Well Different Doses of CagriSema Help People With Excess Body Weight Lose Weight",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 300,
+   "start": "2024-06-24",
+   "ende": "2026-04-22",
+   "erkrankungen": [
+    "Obesity"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07220642",
+   "titel": "Weight Loss in People Living With Overweight or Obesity Following Treatment With Cagrilintide",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 300,
+   "start": "2025-11-05",
+   "ende": "2027-06-29",
+   "erkrankungen": [
+    "Obesity",
+    "Overweight"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06716307",
+   "titel": "A Research Study to Compare Blood Levels of Cagrilintide and Semaglutide After Single Doses of Different Versions of Injectable CagriSema in Adults With Overweight or Obesity",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 18,
+   "start": "2024-12-02",
+   "ende": "2025-03-28",
+   "erkrankungen": [
+    "Obesity"
+   ],
+   "sponsor": "Novo Nordisk A/S",
+   "ergebnisse": false
+  }
+ ],
+ "gruppe": "A_stoffwechsel"
+}

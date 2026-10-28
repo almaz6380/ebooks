@@ -1,0 +1,1005 @@
+{
+ "name": "Thymalin / Thymogen",
+ "status": "teilweise",
+ "suchbegriff_pubmed": "thymalin[tiab] OR thymogen[tiab]",
+ "suchbegriff_ctgov": "thymalin",
+ "humanstudien_alle": [
+  {
+   "pmid": "26033592",
+   "titel": "Chrono- and Immunocorrection of Inflammatory Disorders of Internal Reproductive Organs in Women of Reproductive Age",
+   "jahr": "2015",
+   "journal": "Bull Exp Biol Med",
+   "erstautor": "Litvinenko GI",
+   "doi": "10.1007/s10517-015-2890-0",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "21957588",
+   "titel": "[Application thymogen for preoperative preparation of elderly patients with tumor processes in abdominal cavity]",
+   "jahr": "2011",
+   "journal": "Adv Gerontol",
+   "erstautor": "Smirnov VS",
+   "doi": "",
+   "typ": [
+    "English Abstract",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "15560588",
+   "titel": "[The application efficacy of immunomodulators in complex of treatment of an acute necrotic pancreatitis]",
+   "jahr": "2004",
+   "journal": "Klin Khir",
+   "erstautor": "Kopchak VM",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "English Abstract",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "14523363",
+   "titel": "Peptides of pineal gland and thymus prolong human life",
+   "jahr": "2003",
+   "journal": "Neuro Endocrinol Lett",
+   "erstautor": "Khavinson VKh",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "11247420",
+   "titel": "[Applications of immunomodulators in complex of treatment of the soft tissue purulent wounds]",
+   "jahr": "2000",
+   "journal": "Klin Khir",
+   "erstautor": "Potiĭ VV",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "English Abstract",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "10605346",
+   "titel": "[The effect of thymogen on the state of immunity in destructive pulmonary tuberculosis]",
+   "jahr": "1999",
+   "journal": "Voen Med Zh",
+   "erstautor": "Medus AI",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "English Abstract",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "10424021",
+   "titel": "[Thymalin in the combined treatment of parkinsonism patients]",
+   "jahr": "1999",
+   "journal": "Lik Sprava",
+   "erstautor": "Musienko GV",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "English Abstract",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "7990325",
+   "titel": "[Prevention of postoperative complications in diffuse purulent peritonitis in children]",
+   "jahr": "1994",
+   "journal": "Khirurgiia (Mosk)",
+   "erstautor": "Bushmelev VA",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Controlled Clinical Trial",
+    "English Abstract",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "7984617",
+   "titel": "[Changes of immune and non-specific reactivity in patients with chronic suppurative obstructive bronchitis in comprehensive treatment with thymogen]",
+   "jahr": "1994",
+   "journal": "Probl Tuberk",
+   "erstautor": "Litvinova NV",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "English Abstract",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "7937662",
+   "titel": "[Immunotherapy in the combined treatment of chronic destructive pulmonary tuberculosis]",
+   "jahr": "1994",
+   "journal": "Probl Tuberk",
+   "erstautor": "Ivanova LA",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "English Abstract",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "1441366",
+   "titel": "[Differentiated immunocorrective therapy in nonspecific ulcerative colitis]",
+   "jahr": "1992",
+   "journal": "Lik Sprava",
+   "erstautor": "Tkach SM",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Controlled Clinical Trial",
+    "English Abstract",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "1476231",
+   "titel": "[Thymogen in the complex treatment of inflammatory diseases of the female genital system]",
+   "jahr": "1992",
+   "journal": "Akush Ginekol (Mosk)",
+   "erstautor": "Tsvelev IuV",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "English Abstract",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "2163147",
+   "titel": "[Use of thymic peptide thymalin in the complex treatment of therapy-resistant schizophrenia]",
+   "jahr": "1990",
+   "journal": "Zh Nevropatol Psikhiatr Im S S Korsakova",
+   "erstautor": "Govorin NV",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "English Abstract",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "2080155",
+   "titel": "[Effectiveness of administration of thymalin in the complex treatment of pulmonary tuberculosis]",
+   "jahr": "1990",
+   "journal": "Probl Tuberk",
+   "erstautor": "Kogosova LS",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "English Abstract",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "3312790",
+   "titel": "[Thymalin in the treatment of patients with erysipelas]",
+   "jahr": "1987",
+   "journal": "Klin Med (Mosk)",
+   "erstautor": "Pateiuk VG",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "English Abstract",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "3901509",
+   "titel": "[Effectiveness of thymalin and prodigiozan in the complex treatment of patients with dysentery]",
+   "jahr": "1985",
+   "journal": "Voen Med Zh",
+   "erstautor": "Boĭko IN",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "7048731",
+   "titel": "[Experimental and clinical study of a new immunoregulator preparation thymalin]",
+   "jahr": "1982",
+   "journal": "Voen Med Zh",
+   "erstautor": "Khavinson VKh",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ]
+  }
+ ],
+ "humanstudien_detail": [
+  {
+   "pmid": "1476231",
+   "titel": "[Thymogen in the complex treatment of inflammatory diseases of the female genital system]",
+   "jahr": "1992",
+   "journal": "Akush Ginekol (Mosk)",
+   "erstautor": "Tsvelev IuV",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "Thymogen, a new immunomodulating drug made in this country, was used in combined therapy of 46 patients with acute endomyometritis, exacerbations of chronic salpingo-oophoritis, purulent tubo-ovarian formations. Thymogen therapy was conducive to normalization of lymphocyte counts, absolute counts of T and B lymphocytes, increase of T lymphocyte functional activity. The drug is characterized by a desensitizing effect and induces no complications. Marked clinical effect recommends the immunomodulator thymogen for combined therapy of patients with inflammatory diseases of the uterus and its appendages."
+  },
+  {
+   "pmid": "21957588",
+   "titel": "[Application thymogen for preoperative preparation of elderly patients with tumor processes in abdominal cavity]",
+   "jahr": "2011",
+   "journal": "Adv Gerontol",
+   "erstautor": "Smirnov VS",
+   "doi": "",
+   "typ": [
+    "English Abstract",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "A double-blind, randomized, placebo-controlled study of the efficacy of Thymogen preparation for elderly patients for surgery on the solid tumors in abdominal cavity and retroperitoneal space was carried out. The drug has been administered by intranasal instillation of 100 mg once a day for 7 days before surgery. The isotonic sodium chloride solution for the placebo group in the same scheme was used. The preoperative use of Thymogen proved to be useful to restore the structural and functional parameters of cellular immunity. Immunomodulatory therapy resulted in the significant decrease in the number and range of post-operative complications and the shorting of the postoperative period."
+  },
+  {
+   "pmid": "10605346",
+   "titel": "[The effect of thymogen on the state of immunity in destructive pulmonary tuberculosis]",
+   "jahr": "1999",
+   "journal": "Voen Med Zh",
+   "erstautor": "Medus AI",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "The article shows that the immunocorrector timoguen stimulates T-cell link in patients with destructive forms of pulmonary tuberculosis, increases tolerance for ethiotropics, makes intoxication syndromes disappear and heals decomposition cavities and stops the bacteria discharge. It recommends 2 courses of timoguen immunostimulation (1% solution by 1 ml injection N 10 in 2 days for 2 and 4 mouths' treatment course)."
+  },
+  {
+   "pmid": "7984617",
+   "titel": "[Changes of immune and non-specific reactivity in patients with chronic suppurative obstructive bronchitis in comprehensive treatment with thymogen]",
+   "jahr": "1994",
+   "journal": "Probl Tuberk",
+   "erstautor": "Litvinova NV",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "A total of 33 patients with chronic pyoobstructive bronchitis with immunological disorders (of T-cell and other links) and nonspecific responsiveness. The use of thymogen in multi-modality treatment contributed to normalization of T-cell immunity (increases in E-rosette formation, responses of blast cell transformation to phytohemagglutinin, Tx/Tc ratio), as well as nonspecific responsiveness parameters (C3c, NBT-test, natural killers), resulting in higher clinical efficacy."
+  },
+  {
+   "pmid": "3312790",
+   "titel": "[Thymalin in the treatment of patients with erysipelas]",
+   "jahr": "1987",
+   "journal": "Klin Med (Mosk)",
+   "erstautor": "Pateiuk VG",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "2080155",
+   "titel": "[Effectiveness of administration of thymalin in the complex treatment of pulmonary tuberculosis]",
+   "jahr": "1990",
+   "journal": "Probl Tuberk",
+   "erstautor": "Kogosova LS",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "The criteria of differential administration of thymalin in the combined management of patients with destructive pulmonary tuberculosis were defined on the basis of immunologic studies. A ++clinico-roentgenologic and immunologic evaluation of in-patient treatment of 60 cases demonstrated that a differential administration of thymalin in combination with chemotherapeutic drugs greatly shortened the stay at a hospital and increased the efficacy of treatment. Besides, more evident normalizing influence of the proposed option of therapy on the recovery of the immune system links is noted."
+  },
+  {
+   "pmid": "2163147",
+   "titel": "[Use of thymic peptide thymalin in the complex treatment of therapy-resistant schizophrenia]",
+   "jahr": "1990",
+   "journal": "Zh Nevropatol Psikhiatr Im S S Korsakova",
+   "erstautor": "Govorin NV",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "The thymic peptide thymaline combined with psychotropic drugs was used in the treatment of 36 therapeutically resistant patients with pronounced immune abnormalities. Such a policy favoured considerable enhancement of the treatment efficacy which manifested itself by the elimination or amelioration of psychic disorders, appreciable activation of patients and reduction of neuroleptic complications. The positive dynamics in the patients' status always correlated with the normalization of immune abnormalities, with this being seen to a greater degree in cases of the secondary \"pharmacogenic\" resistance and resistance because of the \"pathological ground\". On the one hand, the studies demonstrated wide potentialities of the use of thymaline in the treatment of the resistant patterns of schizophrenia. On the other hand, they showed the heterogeneity of immune abnormalities in patients with different varieties of resistance."
+  },
+  {
+   "pmid": "15560588",
+   "titel": "[The application efficacy of immunomodulators in complex of treatment of an acute necrotic pancreatitis]",
+   "jahr": "2004",
+   "journal": "Klin Khir",
+   "erstautor": "Kopchak VM",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "Analysis of efficacy of the immunomodulators application, thymalin in particular, in complex treatment algorhythm in 18 patients with an acute necrotic pancreatitis was conducted. Efficacy of immunocorrecting therapy in the immune state improvement, purulent-septic complications prophylaxis, the abortive course of the disease promotion was established In 12 (66.7) patients the disease regression was noted, in 2 (11.1%)--the inflammatory process delineation with pancreatic pseudocyst formation was observed, 4 (22.2%) patients were operated on. All the patients survived."
+  },
+  {
+   "pmid": "26033592",
+   "titel": "Chrono- and Immunocorrection of Inflammatory Disorders of Internal Reproductive Organs in Women of Reproductive Age",
+   "jahr": "2015",
+   "journal": "Bull Exp Biol Med",
+   "erstautor": "Litvinenko GI",
+   "doi": "10.1007/s10517-015-2890-0",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article"
+   ],
+   "abstract": "We compared the effectiveness of immunomodulators used in the treatment of patients with chronic salpingitis and oophoritis with or without changes in succinate dehydrogenase (SDH) activity in blood lymphocytes at incubation with the drug. Diurnal variations in individual reaction of SDH in blood lymphocytes to thymalin or ridostin were revealed. In the groups of women receiving ridostin or thymalin during the reaction of lymphocyte SDH to it, improvement of clinical laboratory and immunological parameters was observed in the majority of the patients and no effect was found in a lesser group of patients than in the groups treated with drugs during the absence of lymphocyte SDH reaction thereto. The timing of the presence of SDH reaction to drugs in the immunocompetent cells makes it possible to set the optimal daily regime of their application and to select a drug that would be most effective in each particular case."
+  },
+  {
+   "pmid": "7990325",
+   "titel": "[Prevention of postoperative complications in diffuse purulent peritonitis in children]",
+   "jahr": "1994",
+   "journal": "Khirurgiia (Mosk)",
+   "erstautor": "Bushmelev VA",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Controlled Clinical Trial",
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "A complex pathogenetic approach to the prevention of postoperative complications in generalized fibrinopyogenic peritonitis is suggested. It includes a wide operative access, one-stage cleansing with antiseptics and detoxification solutions, ultrasonic cavitation of the abdominal cavity, creation of laparostomy, local infiltration of the wound edges with 0.01% thymalin solution, correction of hemostasis disorders, and increase of the organism's general reactivity. With the use of this complex the results of treatment were significantly improved in 21 children and the number of complications was much less than in the control group of patients subjected to operation."
+  },
+  {
+   "pmid": "11247420",
+   "titel": "[Applications of immunomodulators in complex of treatment of the soft tissue purulent wounds]",
+   "jahr": "2000",
+   "journal": "Klin Khir",
+   "erstautor": "Potiĭ VV",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "In 31 patients with purulent wound of soft tissues more rapid cleansing and healing of the wound, the immunity indexes normalization were noted while application of immunomodulator thymogen in combination with the siliceous sorbent sillard application and adaptogenic preparation--tincture of Echinacea Purpurea."
+  },
+  {
+   "pmid": "14523363",
+   "titel": "Peptides of pineal gland and thymus prolong human life",
+   "jahr": "2003",
+   "journal": "Neuro Endocrinol Lett",
+   "erstautor": "Khavinson VKh",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "OBJECTIVES AND DESIGN: Researchers of the St. Petersburg Institute of Bioregulation and Gerontology of the North-Western Branch of the Russian Academy of Medical Sciences and the Institute of Gerontology of the Ukrainian Academy of Medical Sciences (Kiev) clinically assessed the geroprotective effects of thymic (Thymalin) and pineal (Epithalamin) peptide bioregulators in 266 elderly and older persons during 6-8 years. The bioregulators were applied for the first 2-3 years of observation. RESULTS: The obtained results convincingly showed the ability of the bioregulators to normalize the basic functions of the human organism, i.e. to improve the indices of cardiovascular, endocrine, immune and nervous systems, homeostasis and metabolism. Homeostasis restoration was accompanied by a 2.0-2.4-fold decrease in acute respiratory disease incidence, reduced incidence of the clinical manifestations of ischemic heart disease, hypertension disease, deforming osteoarthrosis and osteoporosis as compared to the control. Such a significant improvement in the health state of the peptide-treated patients correlated with decreased mortality rate during observation: 2.0-2.1-fold in the Thymalin-treated group; 1.6-1.8-fold in the Epithalamin-treated group; 2.5-fold in the patients treated with Thymalin plus Epithalamin as compared to the control. A separate group of patients was treated with Thymalin in combination with Epithalamin annually for 6 years and their mortality rate decreased 4.1 times as compared to the control. CONCLUSIONS: The obtained data confirmed the high geroprotective efficacy of Thymalin and Epithalamin and the expediency of their application in medicine and social care for health maintenance and age-related pathology prevention in persons over 60 to prolong their active longevity."
+  },
+  {
+   "pmid": "1441366",
+   "titel": "[Differentiated immunocorrective therapy in nonspecific ulcerative colitis]",
+   "jahr": "1992",
+   "journal": "Lik Sprava",
+   "erstautor": "Tkach SM",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Controlled Clinical Trial",
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "A comparative study of the clinico-immunological efficacy of steroid hormones and thymus drugs in 50 patients with unspecific ulcerative colitis of different activity grades revealed that their efficacy was not similar at different phases of the disease and depended on the activity of the inflammatory process. Corticosteroids were more effective in inflammatory-destructive changes in the mucosa of the large intestine while in mild inflammation with prevalence of ulcerative-reparative processes, immunomodulators (thymalin) are preferred."
+  },
+  {
+   "pmid": "7048731",
+   "titel": "[Experimental and clinical study of a new immunoregulator preparation thymalin]",
+   "jahr": "1982",
+   "journal": "Voen Med Zh",
+   "erstautor": "Khavinson VKh",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "10424021",
+   "titel": "[Thymalin in the combined treatment of parkinsonism patients]",
+   "jahr": "1999",
+   "journal": "Lik Sprava",
+   "erstautor": "Musienko GV",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "Overall, fifteen patients with stage IB-2A (stages 1.5 to 2.5 as per UPDRS scale) idiopathic parkinsonism who ranged from 45 to 72 years old were examined before and after the course of treatment with thymalin. A positive time-related course was noted of the patients' general physical/mental well-being, parkinsonian triad of symptoms (tremor, rigidity, hypokinesia) associated with objective parameters characterizing the state of cerebral integrative functions (by the method of determining the biological age of the central nervous system). Efficacy of thymolin use is confirmed by EEG mapping; there has been established a significant decrement in the power of alpha rhythm in the anterocentral regions of the brain, which fact suggests to us an improvement in the cortical neurodynamics."
+  },
+  {
+   "pmid": "3901509",
+   "titel": "[Effectiveness of thymalin and prodigiozan in the complex treatment of patients with dysentery]",
+   "jahr": "1985",
+   "journal": "Voen Med Zh",
+   "erstautor": "Boĭko IN",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "7937662",
+   "titel": "[Immunotherapy in the combined treatment of chronic destructive pulmonary tuberculosis]",
+   "jahr": "1994",
+   "journal": "Probl Tuberk",
+   "erstautor": "Ivanova LA",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "The paper provides the results of treatment of chronic pulmonary tuberculosis patients by using immunoactive drugs (thymalin and T-activin) and prednisolone, which has been performed by monitoring immunological parameters. The patients with fibrous and cavernous tuberculosis display a combination of antituberculous antibody hyperproduction and specific cell-mediated response inhibition. Immunological hormone therapy allows normalization of the immunological status (an increase in the count and functional activity of T-lymphocytes) and relative stabilization of the process with cessation of bacterial isolation in shorter periods than in the controls, which is favourable to the reduction in hospital treatment periods."
+  }
+ ],
+ "metaanalysen": [],
+ "praeklinik": [
+  {
+   "pmid": "12374906",
+   "titel": "Peptides and Ageing",
+   "jahr": "2002",
+   "journal": "Neuro Endocrinol Lett",
+   "erstautor": "Khavinson VKh",
+   "doi": "",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "A technology has been developed for manufacturing of biologically active complex peptide preparations from extracts of different tissues. In particular, the pineal preparation (Epithalamin) augments the in vitro outgrowth of explants from the pineal gland but not from other tissues, the latter being stimulated by peptide preparations from respective tissues. Epithalamin increases melatonin production by the pineal gland of rats, improves immunological parameters in rats and mice, produces anticarcinogenic effects in different experimental models, stimulates antioxidant defenses, and restores the reproductive function in old rats. These effects are combined in the ability of Epithalamin to increase the lifespan in rats, mice, and fruit flies. Many of these effects are reproduced in clinical trials, which have demonstrated the geroprotector activity of Epithalamin in humans. Among the effects of the thymic preparation Thymalin, those related to its ability to stimulate immunity are the most prominent. This ability is associated with anticarcinogenic and geroprotector activities. Clinical trials of the peptide preparations obtained from other organs including the prostate, the cerebral cortex, and the eye retina, have demonstrated beneficial effects reflected by the improvement of the conditions of respective organs. Based on the data about the amino acid compositions of the peptide preparations, novel principles of the design of biologically active short peptides possessing tissue-specific activities has been developed. Dipeptides specific for the thymus and tetrapeptides specific for the heart, liver, brain cortex, and pineal glands stimulate the in vitro outgrowth of explants of respective organs. Interestingly, for eye retina and the pineal gland, a common tetrapeptide Ala-Glu-Asp-Gly (Epitalon) has been designed, probably reflecting the common embryonal origin of these two organs. Epitalon reproduces the effects of Epithalamin including those related to its geroprotector activity. In particular, Epitalon increases the lifespan of mice and fruit flies and restores the circadian rhythms of melatonin and cortisol production in old rhesus monkeys. At the same time, Epitalon prolongs the functional integrity of the eye retina in Campbell rats with hereditary Retinitis Pigmentosa and improves the visual functions in patients with pigmental retinal degeneration. Changes in gene expression were observed to be produced by the short peptide preparations. Therefore, the effects of Epitalon are suggested to be mediated by transcriptional machinery common for the pineal gland and the retina and, probably, for regulation of melatonin production in fruit flies. Based on three decades of studies of the peptide preparations, the peptide theory of ageing has been put forward. According this theory, ageing is an evolutionary determined biological process of changes in gene expression resulting in impaired synthesis of regulatory and tissue-specific peptides in organs and tissues, which provokes their structural and functional changes and the development of diseases. Correspondingly, correction of such disorders by means of stimulation of peptide production in the organism or through their delivery can promote the normalisation of disturbed body functions."
+  },
+  {
+   "pmid": "33237528",
+   "titel": "Thymalin: Activation of Differentiation of Human Hematopoietic Stem Cells",
+   "jahr": "2020",
+   "journal": "Bull Exp Biol Med",
+   "erstautor": "Khavinson VK",
+   "doi": "10.1007/s10517-020-05016-z",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Thymalin is a polypeptide complex isolated from the thymus and regulating the functions of the immune system. Thymalin is effective in therapy of acute respiratory syndrome, chronic obstructive bronchitis, and other immunopathology. Thymalin increases functional activity of T lymphocytes, but the targeted molecular mechanism of its biological activity requires further study. We studied the influence of thymalin on differentiation of human hematopoietic stem cells (HSC) and expression of CD28 molecule involved in the implementation of antiviral immunity in COVID-19 infection. It was found that thymalin reduced the expression of CD44 (stem cell marker) and CD117 (molecule of the intermediate stage of HSC differentiation) by 2-3 times and increased the expression of CD28 (marker of mature T lymphocytes) by 6.8 times. This indirectly indicates that thymalin stimulated differentiation of CD117+ cells into mature CD28+T lymphocytes. It is known that in patients with severe COVID-19, the number of CD28+, CD4+, CD8+T lymphocytes in the blood decreased, which attested to a pronounced suppression of immunity. It is possible that the antiviral effect of thymalin consists in compensatory stimulation of HSC differentiation into CD28+T lymphocytes at the stage of immunity suppression in unfavorable course of viral infection. Thymalin can be considered as an immunoprotective peptide drug for the prevention of COVID-19."
+  },
+  {
+   "pmid": "29797130",
+   "titel": "Effect of Thymalin on the Tumor and Thymus under Conditions of Activation Therapy In Vivo",
+   "jahr": "2018",
+   "journal": "Bull Exp Biol Med",
+   "erstautor": "Zhukova GV",
+   "doi": "10.1007/s10517-018-4104-z",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Pronounced antitumor effect of Thymalin in doses lower than the therapeutic doses was shown in experiments on albino outbred male rats with transplanted sarcoma 45. Tumor growth arrest and its regression were observed in more than half of animals and in other cases, the growth was suppressed by 78%. Microstructural changes in the thymus were analyzed. Significant increase in lymphoproliferative activity and the content of tissue basophils and plasmocytes in the thymus lobules was observed. Tumor regression was accompanied by the development of stable antistress adaptation reactions of calm and elevated activation. High efficiency of Thymalin can be attributed to the use of lower doses of the substance and their modulation during the treatment course in accordance with the regimes of activation therapy."
+  },
+  {
+   "pmid": "1300740",
+   "titel": "[The effect of the synthetic immunomodulator thymogen on radiation-induced carcinogenesis in rats]",
+   "jahr": "1992",
+   "journal": "Vopr Onkol",
+   "erstautor": "Anisimov VN",
+   "doi": "",
+   "typ": [
+    "Comparative Study",
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "Five month-old female rats were given a mixture of Sr-90 and Cs-137 in drinking water in the dose of 0.1 and 0.2 microCi/day per animal over 12 months. Some animals received 12 monthly courses of a synthetic immunomodulating dipeptide--thymogen in the dose of 5 micrograms/animal for 5 consecutive days. Radionuclide-treated rats showed higher occurrence of tumors on the whole and of breast adenocarcinoma, in particular. Thymogen was shown to inhibit Sr-90- and Cs-137-induced radiation carcinogenesis, namely, a decrease in the total tumor and cancer occurrence was observed. The animals receiving thymogen alone showed longer life span, slower rate of aging and lower overall tumor and cancer occurrence. In this study, the ability of a synthetic peptide immunomodulator--thymogen to inhibit spontaneous and radionuclide-induced carcinogenesis in female rats was first established."
+  },
+  {
+   "pmid": "12937685",
+   "titel": "Thymalin in developing respiratory organs of human fetus",
+   "jahr": "2003",
+   "journal": "Bull Exp Biol Med",
+   "erstautor": "Khlystova ZS",
+   "doi": "10.1023/a:1025449923475",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "We studied the appearance of immunomodulator thymalin in human respiratory organs during early embryogenesis. Thymalin accumulated in young cells of airway epithelium. In the alveolar part thymalin-positive cells were diffusely spread. Mature T cells (CD3+) and the main regulatory elements (CD4+ and CD8+) were detected during the same period in the lungs in the absence of thymic microenvironment. The function of immune elements forming in fetal lungs is local protection of the fetus from potentially aggressive maternal cells and infectious agents entering the body through the trachea and fetal blood vessels."
+  },
+  {
+   "pmid": "38732260",
+   "titel": "The First Reciprocal Activities of Chiral Peptide Pharmaceuticals: Thymogen and Thymodepressin, as Examples",
+   "jahr": "2024",
+   "journal": "Int J Mol Sci",
+   "erstautor": "Deigin V",
+   "doi": "10.3390/ijms25095042",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Peptides show high promise in the targeting and intracellular delivery of next-generation biotherapeutics. The main limitation is peptides' susceptibility to proteolysis in biological systems. Numerous strategies have been developed to overcome this challenge by chemically enhancing the resistance to proteolysis. In nature, amino acids, except glycine, are found in L- and D-enantiomers. The change from one form to the other will change the primary structure of polypeptides and proteins and may affect their function and biological activity. Given the inherent chiral nature of biological systems and their high enantiomeric selectivity, there is rising interest in manipulating the chirality of polypeptides to enhance their biomolecular interactions. In this review, we discuss the first examples of up-and-down homeostasis regulation by two enantiomeric drugs: immunostimulant Thymogen (L-Glu-L-Trp) and immunosuppressor Thymodepressin (D-Glu(D-Trp)). This study shows the perspective of exploring chirality to remove the chiral wall between L- and D-biomolecules. The selected clinical result will be discussed."
+  },
+  {
+   "pmid": "7660690",
+   "titel": "[The efficacy of using thymogen in an experimental infection caused by Yersinia enterocolitica]",
+   "jahr": "1995",
+   "journal": "Zh Mikrobiol Epidemiol Immunobiol",
+   "erstautor": "Iushchuk ND",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The effect of thymogen of the course of the infectious process caused by Y.enterocolitica serovars O3 and O9 in guinea pigs was studied. Thymogen was introduced into the animals on day 2 after their infection with Y.enterocolitica O3 and O9, introduced in daily injections of 10 micrograms/kg of body weight for 4 days. The evaluation of the characteristics of cell reactions in the lymphoid organs of the immune system (the thymus, the spleen, lymph nodes), nonspecific resistance and specific humoral response showed the effectiveness of using thymogen: this preparation produced an immunoregulatory effect in the infected animals; it decreased their polyclonal immune response, the development of autoimmune reactions and promoted the intensive development of delayed hypersensitivity (DH) after their enteral infection with Y.enterocolitica O9 and had no effect on the development of DH in the animals infected with Y.enterocolitica O3; it also enhanced the nonspecific resistance of the body, thus leading to a decrease in the dissemination of the infective agents in different organs and tissues and to their subsequent elimination from the body."
+  },
+  {
+   "pmid": "35408963",
+   "titel": "Peptides Regulating Proliferative Activity and Inflammatory Pathways in the Monocyte/Macrophage THP-1 Cell Line",
+   "jahr": "2022",
+   "journal": "Int J Mol Sci",
+   "erstautor": "Avolio F",
+   "doi": "10.3390/ijms23073607",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "This study evaluates the effects of five different peptides, the Epitalon® tetrapeptide, the Vilon® dipeptide, the Thymogen® dipeptide, the Thymalin® peptide complex, and the Chonluten® tripeptide, as regulators of inflammatory and proliferative processes in the human monocytic THP-1, which is a human leukemia monocytic cell line capable of differentiating into macrophages by PMA in vitro. These peptides (Khavinson Peptides®), characterized by Prof. Khavinson from 1973 onwards, were initially isolated from animal tissues and found to be organ specific. We tested the capacity of the five peptides to influence cell cultures in vitro by incubating THP-1 cells with peptides at certain concentrations known for being effective on recipient cells in culture. We found that all five peptides can modulate key proliferative patterns, increasing tyrosine phosphorylation of mitogen-activated cytoplasmic kinases. In addition, the Chonluten tripeptide, derived from bronchial epithelial cells, inhibited in vitro tumor necrosis factor (TNF) production of monocytes exposed to pro-inflammatory bacterial lipopolysaccharide (LPS). The low TNF release by monocytes is linked to a documented mechanism of TNF tolerance, promoting attenuation of inflammatory action. Therefore, all peptides inhibited the expression of TNF and pro-inflammatory IL-6 cytokine stimulated by LPS on terminally differentiated THP-1 cells. Lastly, by incubating the THP1 cells, treated with the peptides, on a layer of activated endothelial cells (HUVECs activated by LPS), we observed a reduction in cell adhesion, a typical pro-inflammatory mechanism. Overall, the results suggest that the Khavinson Peptides® cooperate as natural inducers of TNF tolerance in monocyte, and act on macrophages as anti-inflammatory molecules during inflammatory and microbial-mediated activity."
+  },
+  {
+   "pmid": "15605441",
+   "titel": "Immuno-, phagocytosis-modulating, and antitoxic properties of amino acids and peptide preparations",
+   "jahr": "1998",
+   "journal": "Drug Dev Ind Pharm",
+   "erstautor": "Belokrylov GA",
+   "doi": "10.3109/03639049809085596",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The influence of amino acids, their mixtures, and peptides on the immune response, phagocytosis in vitro, and in CBA mice, and broiler chickens, as well as on in vitro ability of listed preparations to protect animals' splenocytes from toxic action of benzene and aflatoxin B1 were studied. It was shown that amino acids (Asp, Glu, Val, Trp), amino acid mixtures (cerebrolysine, levamine, aviamine), and the dipeptides GluTrp and LysAsp stimulate the immune response to SRBC at subcutaneous and peroral application. The peptides thymopentin, thymosin alpha-1, and peptide mixtures (thymosin fraction 5, thymalin) stimulate the immune response only at the site of subcutaneous injections. Lys, Tyr, and bursin (LysHisGly-amide), regardless of the mode of application, do not change, but Arg inhibits the immune response. None of the preparations studied change the immune response to Viantigen. Levamine, cerebrolysine, and aviamine are immunoreactive only at low doses (6.5 x 10(2)-6.5 x 10(-8) mg/kg). At a dose of 65 mg/kg these preparations lose immunostimulating properties. Amino acids (6.5 x 10(-2) mg/kg), which stimulate, rather than influence or inhibit the immune response, enhance phagocytosis of S. aureus by granulocytes, regardless of mode of application. Levamine and cerebrolysine in the range of doses of 6.5 x 10(-2)-6.5 x 10(-6) mg/kg do not influence phagocytosis; at a dose of 65 mg/kg, phagocytosis is enhanced. Aviamine stimulates phagocytosis as well at low and at high doses. The ability of preparations to protect in vitro at a low concentration (1.3 x 10(-3) mg/ml) murine or chickens' splenocytes from toxic action of benzene and aflatoxin B1 (at 1:1000 dilution) does not correlate with their action on the immune response and phagocytosis. The protective actions revealed by the following preparations include: (a) stimulating the immune response and phagocytosis (Glu, Asp, Trp, amino acid mixture aviamine, the dipeptides LysAsp, GluTrp, the peptide mixtures thymalin, thymosin fraction 5); (b) enhancing the immune response but not influencing phagocytosis (Met, levamine, cerebrolysine); (c) influencing neither the immune response nor phagocytosis (Gly, Ile). At the same time those preparations (Lys, Arg) that stimulate phagocytosis but influence the immune response in a different way (Lys does not influence; Arg suppresses the response) are inert as antitoxic agents. Antitoxic properties of amino acid preparations levamine, cerebrolysine, and aviamine retain as well in the assays at a rather large (1.3 mg/ml) concentration like their phagocytosis-stimulating properties."
+  },
+  {
+   "pmid": "2759010",
+   "titel": "[Inhibiting effect of thymogen on the development of tumors of the esophagus and forestomach induced by N-nitrososarcosine ethyl ester in rats]",
+   "jahr": "1989",
+   "journal": "Eksp Onkol",
+   "erstautor": "Bespalov VG",
+   "doi": "",
+   "typ": [
+    "Comparative Study",
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "Immunostimulating synthetic peptide thymogen being an analog of the thymus polypeptide drug thymalin was studied for its effect on carcinogenesis of the esophagus and forestomach in male rats. Rats received N-nitrososarcosine ethyl ester (NSEE) per os in the daily dose of 100 mg/kg of body weight during 8 weeks. After cessation of the carcinogen administration rats were treated with thymogen (the daily dose of 10 micrograms per rat) or immune-inactive polypeptide drug pulmolin from the alveolar tissue of lung (the daily dose of 0.5 mg per rat) during the following 32 weeks. Animals were killed 40 weeks after the experiment beginning. NSEE induced the esophagus and forestomach tumours, mainly papillomas and rarely carcinomas, practically in all rats, more than 5 tumours per rat, on the average. Thymogen decreased the tumour incidence by 12% and made tumour multiplicity 1.7 times as low. Pulmolin did not influence development of these tumours."
+  },
+  {
+   "pmid": "9542399",
+   "titel": "[Use of thymogen in the treatment of various forms of acute abdominal disorders in an experiment]",
+   "jahr": "1998",
+   "journal": "Patol Fiziol Eksp Ter",
+   "erstautor": "Reznikov KM",
+   "doi": "",
+   "typ": [
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "The authors have carried out experimental studies of thymogen action on the course of acute pancreatitis and acute peritonitis in white albino rat males. The preparation was introduced into the abdominal cavity early after the modeling and every 24 hours for 5 days. The results of the trial demonstrate that the degree of autoenzyme aggression (the data of blood serum alpha-amylolytic activity control) and the content of lipid peroxidation products (assessment of malonic dialdehyde quantity in tissue homogenate) were low in the experimental group as compared to the untreated animals. In the experimental group less pronounced depression of antiradical activity (superoxide dismutase and catalase activity control) was found, leukocytosis and leukocyte intoxication index were diminished. Thus, the efficiency of thymogen in acute inflammatory and destructive abdominal diseases has been proved."
+  },
+  {
+   "pmid": "3754821",
+   "titel": "[Effect of thymalin on thrombocyte aggregation and the antiaggregation activity of the vascular wall in intact and thymectomized rats]",
+   "jahr": "1986",
+   "journal": "Farmakol Toksikol",
+   "erstautor": "Kuznik BI",
+   "doi": "",
+   "typ": [
+    "Comparative Study",
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "Administration of immunomodulator thymalin to intact rats was shown to produce reduction of platelet aggregation ability and to exert no effect on antiaggregation activity of the aorta. Thymectomy resulted in an increase of platelet number and their aggregation ability and an increase of antiaggregation activity of the vessel wall in the rats. Thymalin administration to thymectomized rats normalizes platelet hemostasis parameters. The role of the thymus in the regulation of platelet hemostasis is discussed."
+  },
+  {
+   "pmid": "12687147",
+   "titel": "Modern Immunotherapy in Clinical Medicine: Present and Future",
+   "jahr": "1999",
+   "journal": "Russ J Immunol",
+   "erstautor": "Nesterova IV",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "In this manuscript an attempt is made to review the most important information pertinent to the main immunotropic preparations used now in different fields of clinical medicine. Numerous studies have confirmed high clinico-immunological efficiency of natural and synthetic thymus preparations: tactivin, thymalin, thymoptin, thymogen, thymomodulin, thymovocal, thymostimulin, thymopentin TP-5 and others. First of all, imidazole compounds, such as levamisol (decaris), dibazol, metromidazol are referred as synthetic preparations with positive action on T cell immunity. Recent data give an evidence that immunoglobulin isotypes IgM and IgG have normalizing effects on immunopathological processes. At present, we are in disposition for rather broad selection of IgG class immunoglobulins both from home and from foreign production. Interferon therapy is rather widely spread and used in various fields of medicine. There is a huge volume of scientific information, which gives the evidence about versatile immunotropic effects of INF, mainly, of immunomodulating character. At present, there are several approaches to control cytokine (CK) network in different pathological conditions: a) administration of CK as replacement therapy; b) administration of CK with therapeutic purpose; c) administration of monoclonal antibodies against CK and their receptors. The most well developed application is CK use in tumor processes. Arsenal of immunotherapeutic drugs on pharmaceutical market in Russia is rather extensive in possession today. The great contribution to design, development and production of many of them was made by Russian scientists. This is only a small list: myelopid, tactivin, polyoxydonium, licopid, diuciphon, viferon, leukinferon and so on."
+  },
+  {
+   "pmid": "7670053",
+   "titel": "[The psychotropic effects of thymogen]",
+   "jahr": "1995",
+   "journal": "Biull Eksp Biol Med",
+   "erstautor": "Nevidimova TI",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "3488603",
+   "titel": "[Effect of thymalin on the status of immunogenesis and hemostasis in patients with ischemic heart disease]",
+   "jahr": "1986",
+   "journal": "Ter Arkh",
+   "erstautor": "Kuznik BI",
+   "doi": "",
+   "typ": [
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "It was established that the use of thymalin in multimodality therapy of CHD patients suffering from attacks of angina pectoris of effort and at rest brought back to normal the state of cellular and humoral immunity, slowed down blood coagulation, decreased fibrinogen and FDP concentration, enhanced total euglobulin and Hageman-dependent fibrinolysis. A more rapid disappearance of the pain syndrome was noted in these patients as compared to those who had not received the drug."
+  },
+  {
+   "pmid": "2741122",
+   "titel": "[Effect of thymalin on immunologic reactivity of patients with non-specific lung diseases]",
+   "jahr": "1989",
+   "journal": "Ter Arkh",
+   "erstautor": "Dovnar TE",
+   "doi": "",
+   "typ": [
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "A total of 35 patients with non-specific pulmonary diseases were examined. Twenty-one patients were administered thymalin in addition to standard treatment. Fourteen subjects made up a control group. Immunologic studies made it possible to establish that administration of thymalin in relatively small doses (5 ml, 4-6 injections per treatment course) is an effective means of correcting the decreased characteristics of cellular immunity, favouring the normalization of the lymphocyte count and of the proportion of OKT-4+ and OKT-8+ subpopulations. The drug was found to exert no substantial effect on the other characteristics of immunity, namely on chemotaxis and phagocytosis of leukocytes, the content of immunoglobulins and on circulating immune complexes. Thymalin produced an appreciably beneficial action on the disease course in patients with preserved function of the phagocytic component."
+  },
+  {
+   "pmid": "32058926",
+   "titel": "Novel platform for the preparation of synthetic orally active peptidomimetics with hemoregulating activity. II. Hemosuppressor activity of 2,5-diketopiperazine-based cyclopeptides",
+   "jahr": "2020",
+   "journal": "Int Immunopharmacol",
+   "erstautor": "Deigin V",
+   "doi": "10.1016/j.intimp.2020.106185",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The novel chemical platform formed by the branched piperazine-2,5-dione peptide derivatives (2,5-diketopiperazines) for creating non-invasive biologically active peptidomimetics has been developed. A successful application of this approach to orally available hemostimulatory peptidomimetics was demonstrated for all-L cyclopeptide from the Glu-Trp-peptide family. In the 1980s, we have separated and characterized a number of dipeptides from the thymus homogenate. The most active peptide Glu-Trp has been studied and developed into the immunostimulating drug Thymogen. The inversion of the amino acid optical form endows the dipeptides with suppressor properties: D-Glu-D-Trp-OH and D-Glu-(D-Trp)-OH, inhibit proliferation of hemopoietic progenitors in the intact bone marrow. Based on the peptide D-Glu-(D-Trp)-OH, the new immunosuppressive drug Thymodepressin has been prepared. In this work, we applied the platform mentioned above to the design and synthesis of orally active hemosuppressive Thymodepressin® analogs. The novel data for the hemosuppressor activity of the dipeptide D-Glu(D-Trp-OH)-OH and its cyclopeptide analogs are discussed. A new example is presented of a rare phenomenon when enantiomeric molecules demonstrate reciprocal (i.e., opposite) biological activities."
+  },
+  {
+   "pmid": "9026996",
+   "titel": "[The effect of thymogen on the chromosome aberration level in a culture of human peripheral blood lymphocytes]",
+   "jahr": "1996",
+   "journal": "Tsitol Genet",
+   "erstautor": "Rushkovskiĭ SR",
+   "doi": "",
+   "typ": [
+    "English Abstract",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The influence of thymogene on the frequency of spontaneous and formaldehyde-induced chromosome aberrations in human peripheral blood lymphocytes was detected. High thymogene concentration (1000, 100, and 10 micrograms/ml) significantly decreased the proliferative activity of lymphocytes in culture. Low thymogene concentrations (1.0; 0.1; 0.01; and 0.001 microgram/ml) didn't decrease the mitotic activity of culture and hadn't mutagenic activity. Thymogene concentrations 1.0; 0.1; and 0.001 microgram/ml significantly decreased the frequency of formaldehyde-induced chromosome aberrations in lymphocytes. Possible mechanisms of gene protection by thymogene is discussed."
+  },
+  {
+   "pmid": "2327170",
+   "titel": "[The immunocorrective therapy of pyoderma caused by staphylococci multiply resistant to antibiotics]",
+   "jahr": "1990",
+   "journal": "Vestn Dermatol Venerol",
+   "erstautor": "Rodionov AN",
+   "doi": "",
+   "typ": [
+    "Comparative Study",
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "Examinations of 126 patients with staphylococcal pyodermas have helped detect a relationship between the total antibiotic sensitivity of staphylococci isolated from the involved skin and the patient's immunity status. The total antibiotic sensitivity of staphylococci in directly proportional to the blood level of T-lymphocytes, to the degree of their sensitization to staphylococcus in the leukocyte migration inhibition test, and to the value of IgM/IgG ratio. A new synthetic preparation of thymus, thymogen, had a modulating effect on the lymphocytes of pyoderma patients, manifesting by the increment of the total count of T-lymphocytes and T-helpers. A reduction of the total antibiotic resistance of the agent in foci of skin infection and normalization of the immunologic reactivity parameters were recorded in 23 patients with chronic pyodermas after a course of thymogen therapy. An effective method for the management of chronic pyoderma by a combination of thymogen with antibiotics is suggested."
+  },
+  {
+   "pmid": "33575961",
+   "titel": "Results and Prospects of Using Activator of Hematopoietic Stem Cell Differentiation in Complex Therapy for Patients with COVID-19",
+   "jahr": "2021",
+   "journal": "Stem Cell Rev Rep",
+   "erstautor": "Khavinson VK",
+   "doi": "10.1007/s12015-020-10087-6",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The paper presents the results of a standard and complex treatment method using the peptide drug thymus thymalin in patients with COVID-19. One of the mechanisms of the immunomodulatory effect of thymalin is considered to be the ability of this peptide drug to influence the differentiation of human hematopoietic stem cells (HSCs). It was found that, as a result of standard treatment, patients in the control group showed a decrease in the concentration of the pro-inflammatory cytokine IL-6, C-reactive protein, D-dimer. The addition of thymalin to standard therapy accelerated the decline in both these indicators and the indicators of the T cell system. This has helped reduce the risk of blood clots in COVID-19 patients. The revealed properties of the thymus peptide preparation are the rationale for its inclusion in the complex treatment of coronavirus infection. Peptideswith potential biological activity against SARS-CoV-2 virus [29]. Note: Nitrogen atoms are shown in blue, oxygen atoms - in red, carbon atoms - in gray, hydrogen atoms - in white, and phosphorus atoms - in yellow."
+  },
+  {
+   "pmid": "3433946",
+   "titel": "[Effect of thymalin on the motor activity of the progeny of neurosensitized rats]",
+   "jahr": "1987",
+   "journal": "Zh Vyssh Nerv Deiat Im I P Pavlova",
+   "erstautor": "Trekova NA",
+   "doi": "",
+   "typ": [
+    "Comparative Study",
+    "Journal Article"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "8067074",
+   "titel": "[The effect of thymalin on the development of sensitization with a soluble microbial antigen and on the phenotypic composition of lymphocyte subpopulations in the organs of immunity]",
+   "jahr": "1993",
+   "journal": "Zh Mikrobiol Epidemiol Immunobiol",
+   "erstautor": "Sukhodoeva GS",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The influence of thymalin on the formation of specific allergy and the distribution of immunocompetent cells in the immunity organs of guinea pigs immunized with Haemophilus influenzae antigen was studied. The stimulating influence of thymalin on the allergization of the body, changes in the lymphocyte subpopulations, as well as the possibility of the development of allergic reactions to thymalin, were established. Multiple injections of thymalin produced a stronger stimulating effect on the formation of specific microbial allergy and on the content of T- and B-lymphocytes than a single injection of the preparation."
+  },
+  {
+   "pmid": "12577695",
+   "titel": "[Geroprotective effect of thymalin and epithalamin]",
+   "jahr": "2002",
+   "journal": "Adv Gerontol",
+   "erstautor": "Khavinson VKh",
+   "doi": "",
+   "typ": [
+    "English Abstract",
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Researchers of the St. Petersburg Institute of Bioregulation and Gerontology of the North-Western Branch of the Russian Academy of Medical Sciences and the Research Institute of Gerontology of the Ukrainian Academy of Medical Sciences (Kiev) clinically assessed the geroprotective effects of thymic and epiphyseal peptide bioregulators (Thymalin and Epithalamin, correspondingly) in 266 elderly and older persons during 6-8 years (the bioregulators were applied for the first 2-3 years of observation). The obtained results convincingly confirmed the ability of the bioregulators to normalize the basic functions of the human organism, i.e. to improve the indices of the cardiovascular, endocrine, immune, and nervous systems, homeostasis, and metabolism. The restoration of homeostasis in the patients was accompanied by a 2.0-2.4-fold decrease in acute respiratory disease incidence, reduced incidence ischemic heart disease clinical manifestations, hypertension, deforming osteoarthrosis, and osteoporosis, as compared to the control group. Such a significant improvement in the somatic state of the peptide-treated patients corresponded to a decrease in their mortality rate during the observation period: 2.0-2.1-fold among the Thymalin-treated patients, 1.6-1.8-fold--in the Epithalamin-treated group, and 2.5-fold--in the patients treated with Thymalin combined with Epithalamin, as compared to the control group. A separate group of patients was treated with Thymalin combined with Epithalamin annually for 6 years. We registered a 4.1-fold mortality decrease in this group as compared to the control level. The results of our research confirmed the conclusion on the high geroprotective efficacy of Thymalin and Epithalamin and the expediency of their application in medicine and social care as the means of health maintenance and age-related pathology prevention in persons over 60 years old enabling the prolongation of the active period of their lives."
+  },
+  {
+   "pmid": "11188814",
+   "titel": "[Effects of thymalin on blood coagulation and contents of proinflammatory and anti-inflammatory cytokines in patients with burns]",
+   "jahr": "2000",
+   "journal": "Vestn Khir Im I I Grek",
+   "erstautor": "Kuznik BI",
+   "doi": "",
+   "typ": [
+    "Comparative Study",
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "The authors share their experiences with treatment of 32 patients with burns of the III-IV degrees using an immunomodulator Thymalin which promoted liquidation of the syndrome of disseminated intravascular coagulation, normalization of fibrinolysis, influenced the content of pro-inflammatory and anti-inflammatory cytokins. It allowed to shorten the terms of the first autodermoplasty at an average by 5 days and to make staying of burned patients at the hospital 11 days shorter."
+  },
+  {
+   "pmid": "26390619",
+   "titel": "[POLYPEPTIDES INFLUENCE ON TISSUE CELL CULTURES REGENERATION OF VARIOUS AGE RATS]",
+   "jahr": "2015",
+   "journal": "Adv Gerontol",
+   "erstautor": "Ryzhak AP",
+   "doi": "",
+   "typ": [
+    "Comparative Study",
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "A comparative study of polypeptides extracted from the tissues of calves: Cortexin (from brain cortex), Epinorm (from pineal gland), Ventvil (from liver), Prostatilen (from prostate), Thymalin (from thymus), Chelohart (from heart), Chondrolux (from cartilage) on the relevant organotypic tissue cultures of young and old rats, in concentration 0,01-100 ng/ml was performed. Polypeptides specifically stimulated \"young\" and \"old\" cell cultures growth in concentration 20-50 ng/ml. This effect correlates with increasing of PCNA and decreasing of p53 expression in brain cortex, pineal gland, liver, prostate, heart, cartilage. Moreover, Thymalin activated CD5, CD20 expression--markers of B-cells differentiation. These data show that polypeptides isolated from different tissues have selective molecular activity on the regeneration of suitable tissues in aging."
+  },
+  {
+   "pmid": "8498021",
+   "titel": "[The clinico-epidemiological efficacy of thymogen in acute respiratory viral infections in a military collective]",
+   "jahr": "1993",
+   "journal": "Voen Med Zh",
+   "erstautor": "Furgal SM",
+   "doi": "",
+   "typ": [
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "This study gathers the results of epidemiological examination in training military unit, making evaluation of prophylactic efficiency of timogen, i.e. synthetic peptide of thymus for flu and other acute respiratory infections (ARI). The high clinico-epidemiological efficiency of timogen was proved in intranasal and subcutaneous administration that had led to a considerable reduction of morbidity rate, gravity and duration of ARI. Experimental substantiation for timogen administration was obtained that proved its efficiency for flu and other ARI prophylaxis in military units."
+  },
+  {
+   "pmid": "7871624",
+   "titel": "[Endolymphatic chemotherapy and immunocorrection in patients with kidney and bladder cancers]",
+   "jahr": "1994",
+   "journal": "Urol Nefrol (Mosk)",
+   "erstautor": "Serniak PS",
+   "doi": "",
+   "typ": [
+    "Comparative Study",
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "Immunological examination and endolymphatic treatment were performed in 44 patients with cancer of the kidney or urinary bladder. In the majority of patients lymphocytes of the peripheral blood demonstrated reduced expression of some differential antigens. Subpopulation of T-lymphocytes, expression of T-lymphocyte receptors got decreased in almost all the patients. Endolymphatic introduction of immunocorrective thymalin improved the patients' life quality, their immune status. However, the level and proportional expression of differential lymphocyte antigens following course polychemotherapy and immunocorrection in patients do not coincide with relevant parameters of healthy subjects. It is evident that further search for optimal treatment schemes is needed."
+  },
+  {
+   "pmid": "8060196",
+   "titel": "[Cellular immunity in patients with gonorrhea and gonorrhea-chlamydia infection during treatment with pefloxacin in combination with thymogen]",
+   "jahr": "1994",
+   "journal": "Antibiot Khimioter",
+   "erstautor": "Delektorskiĭ VV",
+   "doi": "",
+   "typ": [
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "The ultrastructural analysis showed that under the effect of abaktal (pefloxacin) the incomplete phagocytic reaction completed, the phagocytosis being of the multistage character. The morphometric analysis of the blood leukoconcentrate revealed an increase in the polymorph digestion function after the exposure to combinations of immunomodulators with abaktal which was in favour of the abaktal recommendation for the treatment of gonorrheal-chlamydial infection."
+  },
+  {
+   "pmid": "2100778",
+   "titel": "[The effect of thymogen on the cell division processes in the corneal epithelium under physiological conditions and in an experimental thermal burn]",
+   "jahr": "1990",
+   "journal": "Oftalmol Zh",
+   "erstautor": "Koz'mova TS",
+   "doi": "",
+   "typ": [
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "Experimental studies of the influence of a new pharmacologic preparation thymogene on the processes of cellular multiplication of the corneal epithelium in physiologic conditions and thermic burn of the eye in 140 rats. (280 eyes) have shown that in intact animals the preparation produces DNA synthesis in both systemic and local usage, that is most expressed by the 3d-5th day after its administration. The study of the influence of thymogene on reparative processes in rats with corneal burns has shown that administration of the preparation stimulates processes of cellular population in the corneal epithelium both in the early period (on the 3d day) and by the 14th day after burn trauma. This allows to consider thymogene a perspective preparation for a quicker healing of the cornea after burn trauma."
+  },
+  {
+   "pmid": "36169363",
+   "titel": "[Morphological compound and indicators of the blood clotting system in severe COVID-19 patients of middle aged and elderly during treatment of Tocilizumab and Thymalin.]",
+   "jahr": "2022",
+   "journal": "Adv Gerontol",
+   "erstautor": "Kuznik BI",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The aim of the work was a comparative study of Tocilizumab and Thymalin effects on the morphological composition and indicators of the blood clotting system in COVID-19 of middle aged and elderly patients. Severe COVID-19 patients were divided into 3 groups: 1st - control (basic therapy), 2nd - basic therapy +Tocilizumab, 3rd - basic therapy +Thymalin. Hospital mortality in COVID-19 patients after standard therapy, Tocilizumab and Thymalin application was 40,9; 28,4 and 20,6% accordingly. The number of platelets increased by 1,5 times, the concentration of fibrinogen in blood decreased by 78% and activated partial thromboplastin time decreased by 9,3% in patients taking Tocilizumab. Under the influence of Tocilizumab, the platelet/white blood cell and platelet/lymphocyte ratios increased by 1,6 and 1,4 times, which may be a predictor of an unfavorable outcome of COVID-19. Thymalin increased the number of lymphocytes and monocytes by 2 times, the number of leukocytes - by 1,3 times, the number of platelets in the blood - by 1,5 times. Thymain decreased the platelet/lymphocyte and neutrophil/lymphocyte ratios by 1,4 times and 2 times. The use of Thymalin decreased the level of fibrinogen, lactate dehydrogenase and D-dimer in the blood by 1,2; 1,8 and 1,7 times, respectively. Thymalin, compared with Tocilizumab, meets the principles of pathogenic therapy for severe COVID-19 of middle aged and elderly patients to a greater extent, having a normalizing effect on the morphological composition and indicators of the blood clotting system. Цель работы — сравнительное исследование действия Тоцилизумаба и Тималина на морфологический состав и показатели свертывающей системы крови при COVID-19 у лиц среднего и пожилого возраста. Пациенты с тяжелой формой COVID-19 были разделены на три группы: 1-я — контрольная (базисная терапия); 2-я — базисная терапия +Тоцилизумаб; 3-я — базисная терапия +Тималин. Госпитальная летальность у пациентов с COVID-19 после стандартной терапии, Тоцилизумаба и Тималина составила соответственно 40,9; 28,8 и 16,2%. У пациентов, принимавших Тоцилизумаб, в 1,5 раза повышалось число тромбоцитов, на 78% снижалась концентрация фибриногена в крови и на 9,3% уменьшалось активированное частичное тромбопластиновое время. Под действием Тоцилизумаба в 1,6 и 1,4 раза повышались соотношения тромбоциты/лейкоциты и тромбоциты/лимфоциты соответственно, что может быть предиктором неблагоприятного исхода COVID-19. Под действием Тималина у пациентов в 2 раза повышалось количество лимфоцитов и моноцитов, в 1,3 раза —лейкоцитов, в 1,5 раза —тромбоцитов. Соотношения тромбоциты/лимфоциты и нейтрофилы/лимфоциты снижались в 1,4 раза и 2 раза соответственно. Применение Тималина снижало концентрацию фибриногена, лактатдегидрогеназы и D-димера в крови соответственно в 1,2; 1,8 и 1,7 раза. Использование Тималина относительно тоцилизумаба при тяжелом течении COVID-19 у лиц среднего и пожилого возраста оказывает более выраженное модулирующее влияние на морфологический состав и показатели свертывающей системы крови."
+  },
+  {
+   "pmid": "2923977",
+   "titel": "[Characteristics of memory in MRL/1 mice and the effect of thymic peptides]",
+   "jahr": "1989",
+   "journal": "Biull Eksp Biol Med",
+   "erstautor": "Melekhin VD",
+   "doi": "",
+   "typ": [
+    "Comparative Study",
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "By means of methods of active and passive getting rid of electrical-pain irritation we showed that in mice MRL/1--the model of rheumatoid arthritis (RA)--as compared with CBA (control) the process of forming a developed habit engram (DHE) was slowed down and its keeping was impaired. Thymic peptides (thymalin--0.2 mlg/mice intraperitoneally) suppressed the process of forming DHE irrespective of mice line and improved the process of its consolidation and keeping especially in mice MRL/1. Memory impairment in mice with genetical predisposition to the development of autoimmune process (MRL/1) is considered from view of the authors' developed hypothesis about thymus as an organ of antisystem of immune control of homeostasis and RA as an adaptation disease."
+  },
+  {
+   "pmid": "9637345",
+   "titel": "Natural and synthetic thymic peptides as therapeutics for immune dysfunction",
+   "jahr": "1997",
+   "journal": "Int J Immunopharmacol",
+   "erstautor": "Morozov VG",
+   "doi": "10.1016/s0192-0561(97)00058-1",
+   "typ": [
+    "Comparative Study",
+    "Journal Article"
+   ],
+   "abstract": "Natural thymic peptides have been isolated from calf thymus by mild acid extraction. Pharmaceutical containing natural peptides (Thymalin) was put into practice as immunocorrector. One of the immunomodulatory molecules (L-Glu-L-Trp) has been isolated from Thymalin by reversed-phase high performance liquid chromatography. Pharmaceutical containing this agent (Thymogen) was designed on the base of synthesized dipeptide. A novel immunomodulatory dipeptide was synthesized and termed Vilon. Both natural and synthetic pharmaceuticals activated T-cell differentiation, T-cell recognition of peptide-MHC complexes, induced the changes in intracellular composition of cyclic nucleotides and cytokine [interleukin (IL-2), interferon (IFN)] excretion of blood lymphocytes. Synthetic dipeptides activated neutrophil chemotaxis and phagocytosis. They had no influence on antioxidant response in thymocytes in comparison with natural peptides. Thymalin and Thymogen were used in persons with chronic pathology and immune dysfunction. The results indicate that thymic peptides participate in the regulating mechanisms of inflammatory processes as cytokine antagonists and show the difference between natural and synthetic products. It is important for the drugs designed to prevent immune dysfunction development."
+  },
+  {
+   "pmid": "6546722",
+   "titel": "[Thymalin as a modulator of immunogenesis and hemostasis]",
+   "jahr": "1984",
+   "journal": "Farmakol Toksikol",
+   "erstautor": "Kuznik BI",
+   "doi": "",
+   "typ": [
+    "Comparative Study",
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "Studies made in 30 patients with periodontosis have shown that thymaline improves the general health status of patients, thereby promoting the normalization of cellular and, to a lesser degree, humoral immunity. At the same time the drug normalizes blood coagulation, the total and Hageman factor-dependent fibrinolysis. It is concluded that thymaline is a modulator of the immunogenesis and hemostasis."
+  },
+  {
+   "pmid": "11510039",
+   "titel": "[Pathogenesis and treatment of chronic purulent otitis media and its complications: immunological aspects]",
+   "jahr": "2001",
+   "journal": "Vestn Otorinolaringol",
+   "erstautor": "Talyshinskiĭ AM",
+   "doi": "",
+   "typ": [
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "Clinicoimmunological, microbiological and cytological examinations were made in 96 patients with otitis media purulenta chronica (OMPC) and otogenic intracranial complications. It was found that in different clinical forms of OMPC nonspecific defense and immunity indices vary. In OMPC and chronic purulent mesotympanitis the indices change insignificantly. In chronic purulent epitympanitis and otogenic intracranial complications there was suppression in T-cell immunity and nonspecific defense. Middle ear secretion contained less SIgA and lysozyme, blood contained more amount of IgA and IgM and less of IgG. Deficiency of general and local defense antiinfectious mechanisms shows significance of immune and nonspecific resistance in transformation of ear inflammation into chronic phase and development of complications. Alterations in immunity, nonspecific defense and tympanic cavity depend on the causative agent of OMPC. Association of St. aureus with gramnegative flora or anaerobic infection cause the greatest immune deficiency. Temporal bone surgery and standard treatment for 21 days fail to eradicate initial immune disorders in the blood and middle ear. Thymalin immunocorrection improves nonspecific defense and immunity, attenuates inflammation and stimulates reparative processes in the trepanation wound of the ear."
+  },
+  {
+   "pmid": "11758469",
+   "titel": "[Age-related changes in circadian and circannual fluctuations of the immune response and the number of cells in lymphoid organs of animals: a possible connection to thymic factors]",
+   "jahr": "2001",
+   "journal": "Fiziol Zh (1994)",
+   "erstautor": "Labunets' IF",
+   "doi": "",
+   "typ": [
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "The 24-hour and seasonal fluctuations of cellularity of thymus and spleen and antibody levels in male CBA/Ca mice and Wistar rats of different ages were investigated. In adult rats (6-11 mo) the peaks of thymus and spleen cellularity were at nights and in the daytime, respectively. In young mice (3 mo) the thymus and spleen cellularity were highest in autumn and spring, respectively. The titer (log2) of hemolysines in autumn was 16 times greater than in spring. Correlations between the rhythmical changes of cellularity of thymus and spleen and between the latter and the factor thymic serique (FTS) titer were found. With age (4 month and onward in mice and 17 months in rats), the peaks of amounts of cells in thymus and of its mass in night and in autumn and of the antibodies titers in autumn were diminished. The displacement of the acrophases of indicers to other seasons was seen. In old animals the rhythm of indices became monotonous. In aging the intrasystemic relations underwent changes (new relation appeared, while the existing ones weakened or disappeared). The chronic (18 mo) administration of thymus preparation thymalin increased FTS titer and promoted the appearance of the peak of antibodies in autumn."
+  },
+  {
+   "pmid": "17969591",
+   "titel": "[Thymic factors influence on melatonin-producing pineal function in mice of different age: the possible mechanisms]",
+   "jahr": "2007",
+   "journal": "Adv Gerontol",
+   "erstautor": "Labunets IF",
+   "doi": "",
+   "typ": [
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "The aging peculiarities of thymic factors influence on pineal gland function in CBA mice were investigated. Significant increase of melatonin serum level in 3 h and decrease in 24 h after one injection of thymic preparation \"thymalin\" in adult mice was shown. The activating influence of thymalin was depended on season and linked with increase of thymic serum factor (FTS, thymulin) level and decrease of corticosterone blood level. Thymic stroma supernatant of adult mice, which had high level of FTS, intensified in vitro melatonin-producing pineal function. The activating influence of thymic factors in vivo and in vitro on pineal function in old mice was not revealed. FTS content increased and cortocosterone level did not change in old mice after injection of thymalin. The mechanisms of thymic factors influence on melatonin level in adult organism and their peculiarities in aging were discussed."
+  },
+  {
+   "pmid": "2750120",
+   "titel": "[Thymalin in the combined treatment of patients with chronic lympholeukemia]",
+   "jahr": "1989",
+   "journal": "Vrach Delo",
+   "erstautor": "Babenko TF",
+   "doi": "",
+   "typ": [
+    "Comparative Study",
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "Clinico-immunologic indices were studied in patients with the B-variant of chronic lympholeukemia (Stage II) under conditions of inclusion of thymalin in the complex treatment. It was established that use of thymalin in patients with chronic lympholeukemia favoured improvement of the functional activity of lymphoid cells, reduced the time of reaching clinico-hematological remission. Thymalin is indicated in the complex treatment of the above condition."
+  },
+  {
+   "pmid": "37686182",
+   "titel": "The Influence of KE and EW Dipeptides in the Composition of the Thymalin Drug on Gene Expression and Protein Synthesis Involved in the Pathogenesis of COVID-19",
+   "jahr": "2023",
+   "journal": "Int J Mol Sci",
+   "erstautor": "Linkova N",
+   "doi": "10.3390/ijms241713377",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Thymalin is an immunomodulatory drug containing a polypeptide extract of thymus that has demonstrated efficacy in the therapy of acute respiratory distress syndrome and chronic obstructive pulmonary disease, as well as in complex therapy related to severe COVID-19 in middle-aged and elderly patients.. KE and EW dipeptides are active substances of Thymalin. There is evidence that KE stimulates cellular immunity and nonspecific resistance in organisms, exerting an activating effect on macrophages, blood lymphocytes, thymocytes, and neutrophils, while EW reduces angiotensin-induced vasoconstriction and preserves endothelium-dependent vascular relaxation by inhibiting ACE2, the target protein of SARS-CoV-2. However, the mechanism of the immunomodulatory action of Thymalin, KE, and EW during COVID-19 remains unclear. To identify the potential mechanism of action underlying the immunomodulatory activity of Thymalin and its active components, EW and KE dipeptides, we assessed inflammatory response in the context of COVID-19. Interactions between EW and KE dipeptides and double-stranded DNA (dsDNA) were investigated by molecular modeling and docking using ICM-Pro. Analysis of the possible effect of EW and KE dipeptides on gene expression and protein synthesis involved in the pathogenesis of COVID-19 was conducted through the use of bioinformatics methods, including a search for promoter sequences in the Eukaryotic Promoter Database, the determination of genes associated with the development of COVID-19 using the PathCards database of human biological pathways (pathway unification database), identification of the relationship between proteins through cluster analysis in the STRING database ('Search Tool for Retrieval of Interacting Genes/Proteins'), and assessment of the functional enrichment of protein-protein interaction (PPI) using the terms of gene ontology (GO) and the Markov cluster algorithm (MCL). After that, in vitro studying of a lipopolysaccharide (LPS)-induced model of inflammation using human peripheral blood mononuclear cells was performed. ELISA was applied to assess the level of cytokines (IL-1β, IL-6, TNFα) in the supernatant of cells with or without the impact of EW and KE peptides. Blood samples were obtained from four donors; for each cytokine, ELISA was performed 2-4 times, with two parallel experimental or control samples for each experiment (experiments to assess the effects of peptides on LPS-stimulated cells were repeated four times, while additional experiments with unstimulated cells were performed two times). Using molecular docking, GGAG was found to be the best dsDNA sequence in the classical B-form for binding the EW dipeptide, while GCGC is the preferred dsDNA sequence in the curved nucleosomal form for the KE dipeptide. Cluster analysis revealed that potential target genes for the EW and KE peptides encode the AKT1 and AKT2 proteins involved in the development of the cytokine storm. The specific targets for the EW peptide are the ACE2 and CYSLTR1 genes, and specific target for the KE peptide is the CHUK gene. Protein products of the ACE2, CYSLTR1, and CHUK genes are functionally associated with IL-1β, IL-6, TNF-α, IL-4, and IL-10 cytokines. An in vitro model of an inflammatory reaction demonstrated that Thymalin and EW and KE dipeptides reduced the synthesis of IL-1β, IL-6, and TNF-α cytokines in human peripheral blood mononuclear cells by 1.4-6.0 times. The immunomodulatory effect of Thymalin under the inflammatory response conditions in COVID-19 is based on the potential ability of its active components, EW and KE dipeptides, to regulate protein synthesis involved in the development of the cytokine storm."
+  },
+  {
+   "pmid": "11707921",
+   "titel": "Immunomodulatory synthetic dipeptide L-Glu-L-Trp slows down aging and inhibits spontaneous carcinogenesis in rats",
+   "jahr": "2000",
+   "journal": "Biogerontology",
+   "erstautor": "Anisimov VN",
+   "doi": "10.1023/a:1010042008969",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Immunomodulatory molecule L-Glu-L-Trp was isolated from natural calf thymic peptide complex Thymalin by reverse-phase high performance liquid chromatography. On the basis of the synthesized dipeptide a pharmaceutical was designed containing this compound, which later receives the brand name Thymogen. The agent activated T-cell differentiation, T-cell recognition of peptide-MHC complexes, induced changes in intracellular composition of cyclic nucleotides, and activated neutrophilic chemotaxis and phagocytosis. The effect of dipeptide on survival, life span and spontaneous tumor development was studied in female rats. Seventy-six, five-month-old outbred female rats were randomly subdivided into two groups and were subcutaneously injected with 0.2 ml of normal saline (controls, 32 rats) or with 5 micrograms/rat of the dipeptide L-Glu-L-Trp, dissolved in 0.2 ml of saline (44 rats), 5 times per week for 12 months. Animals were monitored up to their natural death and all the tumors discovered were studied microscopically. Mean life span of rats in both groups was similar but that of 10% maximum survived control rats constituted 949 +/- 16.1 days, whereas in the dipeptide-treated rats this value was 1048 +/- 21.1 days (P < 0.001). Six out of 44 rats treated with the drug survived over the maximum life span of control rats (965 days). The aging rate indicated as alpha in the Gompertz equation, was 0.0071 days-1 in controls and 0.0041 days-1 in rats exposed to L-Glu-L-Trp. Total tumor incidence was 1.5 times lower (P < 0.01), malignant tumor incidence 1.7 times lower (P < 0.01), and hematopoietic malignancies (leukemias and lymphomas) 3.4 times lower (P < 0.02) in rats exposed to the dipeptide in comparison with controls. Thus, treatment with L-Glu-L-Trp delayed aging rate and decreased spontaneous tumor incidence in rats."
+  },
+  {
+   "pmid": "2337388",
+   "titel": "[The effect of a synthetic thymus peptide (thymogen) on the immune system in candidiasis under immunodepression]",
+   "jahr": "1990",
+   "journal": "Arkh Patol",
+   "erstautor": "Khmel'nitskiĭ OK",
+   "doi": "",
+   "typ": [
+    "Comparative Study",
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "Experimental candidiasis developing against the background of the secondary immunodeficiency is described. After thymogen injections the course of candidiasis proceeds less severely, this suggesting that thymogen activates the immunocompetent system, including thymus, favouring the disappearance of the fungal infection."
+  }
+ ],
+ "ctgov": [],
+ "gruppe": "B_regeneration"
+}

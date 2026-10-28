@@ -1,0 +1,568 @@
+{
+ "name": "Epitalon (Epithalon)",
+ "status": "nicht_zugelassen",
+ "suchbegriff_pubmed": "epitalon[tiab] OR epithalon[tiab] OR epithalone[tiab]",
+ "suchbegriff_ctgov": "epitalon",
+ "humanstudien_alle": [
+  {
+   "pmid": "12195242",
+   "titel": "Pineal-regulating tetrapeptide epitalon improves eye retina condition in retinitis pigmentosa",
+   "jahr": "2002",
+   "journal": "Neuro Endocrinol Lett",
+   "erstautor": "Khavinson V",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article"
+   ]
+  }
+ ],
+ "humanstudien_detail": [
+  {
+   "pmid": "12195242",
+   "titel": "Pineal-regulating tetrapeptide epitalon improves eye retina condition in retinitis pigmentosa",
+   "jahr": "2002",
+   "journal": "Neuro Endocrinol Lett",
+   "erstautor": "Khavinson V",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article"
+   ],
+   "abstract": "We have studied the effect of tetrapeptide Epitalon (Ala-Glu-Asp-Gly) on the course of congenital pigmented degeneration of the retina. The application of Epitalon in Campbell rats is found to intensify the bioelectric and functional activity of the retina due to the preservation of its morphological structure. Epitalon therapy in patients with degenerative retinal lesions results in a positive clinical effect in 90% of the cases. The analysis of Epitalon effects suggests that the tetrapeptide participates in the mechanisms of transcription common for the epiphysis and retina."
+  }
+ ],
+ "metaanalysen": [],
+ "praeklinik": [
+  {
+   "pmid": "41490200",
+   "titel": "Therapeutic Peptides in Orthopaedics: Applications, Challenges, and Future Directions",
+   "jahr": "2026",
+   "journal": "J Am Acad Orthop Surg Glob Res Rev",
+   "erstautor": "Rahman OF",
+   "doi": "10.5435/JAAOSGlobal-D-25-00236",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Therapeutic peptides are emerging as promising adjuncts in the management of orthopaedic injuries, grounded in their ability to modulate molecular signaling networks central to cellular medicine. By acting on key pathways such as PI3K/Akt, mTOR, MAPK, TGF-β, and AMPK, peptides exert influence over tissue regeneration, inflammation resolution, and neuromuscular recovery. Wound-healing peptides such as BPC-157, TB-500, and GHK-Cu promote angiogenesis, integrin-mediated extracellular matrix remodeling, and fibroblast activation, whereas growth hormone secretagogues like ipamorelin, CJC-1295, tesamorelin, sermorelin, and AOD-9604 activate IGF-1 signaling and satellite cell repair. Recovery-enhancing agents such as epithalon, delta sleep-inducing peptide, and pinealon target circadian and mitochondrial regulators, and neuroactive peptides like selank, semax, and dihexa enhance brain-derived neurotrophic factor and HGF/c-Met pathways critical to neuroplasticity. Although preclinical studies are promising, there is a current lack of clinical trials. This review integrates current mechanistic insights with orthopaedic relevance, emphasizing safety, efficacy, and future directions for responsible integration into musculoskeletal care."
+  },
+  {
+   "pmid": "12374906",
+   "titel": "Peptides and Ageing",
+   "jahr": "2002",
+   "journal": "Neuro Endocrinol Lett",
+   "erstautor": "Khavinson VKh",
+   "doi": "",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "A technology has been developed for manufacturing of biologically active complex peptide preparations from extracts of different tissues. In particular, the pineal preparation (Epithalamin) augments the in vitro outgrowth of explants from the pineal gland but not from other tissues, the latter being stimulated by peptide preparations from respective tissues. Epithalamin increases melatonin production by the pineal gland of rats, improves immunological parameters in rats and mice, produces anticarcinogenic effects in different experimental models, stimulates antioxidant defenses, and restores the reproductive function in old rats. These effects are combined in the ability of Epithalamin to increase the lifespan in rats, mice, and fruit flies. Many of these effects are reproduced in clinical trials, which have demonstrated the geroprotector activity of Epithalamin in humans. Among the effects of the thymic preparation Thymalin, those related to its ability to stimulate immunity are the most prominent. This ability is associated with anticarcinogenic and geroprotector activities. Clinical trials of the peptide preparations obtained from other organs including the prostate, the cerebral cortex, and the eye retina, have demonstrated beneficial effects reflected by the improvement of the conditions of respective organs. Based on the data about the amino acid compositions of the peptide preparations, novel principles of the design of biologically active short peptides possessing tissue-specific activities has been developed. Dipeptides specific for the thymus and tetrapeptides specific for the heart, liver, brain cortex, and pineal glands stimulate the in vitro outgrowth of explants of respective organs. Interestingly, for eye retina and the pineal gland, a common tetrapeptide Ala-Glu-Asp-Gly (Epitalon) has been designed, probably reflecting the common embryonal origin of these two organs. Epitalon reproduces the effects of Epithalamin including those related to its geroprotector activity. In particular, Epitalon increases the lifespan of mice and fruit flies and restores the circadian rhythms of melatonin and cortisol production in old rhesus monkeys. At the same time, Epitalon prolongs the functional integrity of the eye retina in Campbell rats with hereditary Retinitis Pigmentosa and improves the visual functions in patients with pigmental retinal degeneration. Changes in gene expression were observed to be produced by the short peptide preparations. Therefore, the effects of Epitalon are suggested to be mediated by transcriptional machinery common for the pineal gland and the retina and, probably, for regulation of melatonin production in fruit flies. Based on three decades of studies of the peptide preparations, the peptide theory of ageing has been put forward. According this theory, ageing is an evolutionary determined biological process of changes in gene expression resulting in impaired synthesis of regulatory and tissue-specific peptides in organs and tissues, which provokes their structural and functional changes and the development of diseases. Correspondingly, correction of such disorders by means of stimulation of peptide production in the organism or through their delivery can promote the normalisation of disturbed body functions."
+  },
+  {
+   "pmid": "40141333",
+   "titel": "Overview of Epitalon-Highly Bioactive Pineal Tetrapeptide with Promising Properties",
+   "jahr": "2025",
+   "journal": "Int J Mol Sci",
+   "erstautor": "Araj SK",
+   "doi": "10.3390/ijms26062691",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Epitalon, also known as Epithalon or Epithalone, is a tetrapeptide, Ala-Glu-Asp-Gly (AEDG), which was synthesized based on the amino acids composition of Epithalamin, a bovine pineal gland extract, prior to its discovery in pineal gland polypeptide complex solution. During the last 25 years, this compound has been extensively studied using in vitro, in vivo, and in silico methods. The results of these studies indicate significant geroprotective and neuroendocrine effects of Epitalone, resulting from its antioxidant, neuro-protective, and antimutagenic effects, originating from both specific and nonspecific mechanisms. Although it has been demonstrated that Epitalon exerts, among other effects, a direct influence on melatonin synthesis, alters the mRNA levels of interleukin-2, modulates the mitogenic activity of murine thymocytes, and enhances the activity of various enzymes, including AChE, BuChE, and telomerase, it remains uncertain whether these are the sole mechanisms of action of this compound. Moreover, despite the considerable volume of research on the biological and pharmacodynamic characteristics of Epitalon, the quantity of physico-chemical and structural investigations of this peptide remains quite limited. This review aims to conclude the most important findings from such studies, thus presenting the current state of knowledge on Epitalon."
+  },
+  {
+   "pmid": "39742404",
+   "titel": "[Peptidergic regulation of expression of cellular aging marker proteins in buccal epithelium.]",
+   "jahr": "2024",
+   "journal": "Adv Gerontol",
+   "erstautor": "Ivko OM",
+   "doi": "",
+   "typ": [
+    "Journal Article",
+    "Review",
+    "English Abstract"
+   ],
+   "abstract": "The review presents the results of long-term research conducted by the staff of the Saint-Petersburg Institute of Bioregulation and Gerontology, dedicated to the study of the biological activity of peptide bioregulators at all levels of a living organism's organization. This review compares the findings of domestic and international studies in this field. At the same time, the priority of Russian scientists in the use of buccal epithelium as a diagnostic marker of age-associated pathology is indicated. This topic is widely studied around the world, but the leading role belongs to domestic scientists. Over the last century, there has been a significant shift in the way aging is viewed. Unlike in earlier centuries, when aging was primarily seen through social and ethical lenses, modern science approaches it as a physiological process with specific mechanisms within the body. The study of the polypeptide complex in the epiphysis and AEDG peptide revealed an effect on human circadian rhythms, as well as an increase in melatonin secretion in elderly people and those with reduced melatonin-producing function. This effect is achieved at the cellular level by regulating the expression of genes involved in circadian rhythms (Cry2, AANAT, ASMT, CLOCK), reducing the synthesis of proteins promoting apoptosis (p16, p21, p53), and regulating the synthesis of markers of functional cell activity (TERF-1, prohibitin, SIRT1, SIRT6). The results of this research indicate the potential of peptides from the epiphysis as new biologically active compounds that can stimulate melatonin production and correct circadian rhythm disorders in elderly and senile individuals. В обзоре представлены результаты многолетних исследований коллектива Санкт-Петербургского института биорегуляции и геронтологии, посвященных изучению биологической активности пептидных биорегуляторов на всех уровнях организации живого организма. В данном обзоре сопоставлены результаты отечественных и зарубежных исследований. При этом обозначен приоритет российских ученых в использовании буккального эпителия как диагностического маркера возраст-ассоциированной патологии. Данная тема широко исследуется по всему миру, однако ведущая роль принадлежит отечественным ученым. За последние 100 лет произошло кардинальное переосмысление феномена старения. В отличие от прошлых веков, когда старение рассматривали главным образом через социальные и этические дилеммы, современная наука акцентирует его как специальный физиологический механизм организма, имеющий определенное эволюционное значение. В ходе изучения полипептидного комплекса эпифиза и пептида AEDG, выявлено его влияние на циркадные ритмы человека, а также на увеличение секреции мелатонина у людей пожилого возраста и людей со сниженной мелатонинобразующей функцией. На клеточном уровне описанный эффект достигается за счет регуляции экспрессии генов циркадных ритмов (Cry2, Aanat, Asmt, Clock), снижения синтеза белков, способствующих апоптозу (p16, p21, p53), и регуляции синтеза белков-маркеров функциональной активности клеток (TERF-1, прохибитин, SIRT1, SIRT6) при старении организма. Результаты исследований показывают потенциал пептидов эпифиза как новых биологически активных соединений, способных целенаправленно стимулировать производство мелатонина у людей пожилого и старческого возраста для корректировки нарушений циркадных ритмов."
+  },
+  {
+   "pmid": "35413689",
+   "titel": "Epitalon protects against post-ovulatory aging-related damage of mouse oocytes in vitro",
+   "jahr": "2022",
+   "journal": "Aging (Albany NY)",
+   "erstautor": "Yue X",
+   "doi": "10.18632/aging.204007",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The developmental potential of oocytes decreases with time after ovulation in vivo or in vitro. Epitalon is a synthetic short peptide made of four amino acids (alanine, glutamic acid, aspartic acid, and glycine), based on a natural peptide called epithalamion extracted from the pineal gland. It is a potent antioxidant, comparable to melatonin, that may confer longevity benefits. The current study aims to test the protective effects of Epitalon on the quality of post-ovulatory aging oocytes. Epitalon at 0.1mM was added to the culture medium, and the quality of oocytes was evaluated at 6h, 12h, and 24h of culture. We found that 0.1mM Epitalon reduced intracellular reactive oxygen species. Epitalon treatment significantly decreased frequency of spindle defects and abnormal distribution of cortical granules during aging for 12h and 24h, while increased mitochondrial membrane potential and DNA copy number of mitochondria, thus decreasing apoptosis of oocytes by 24h of in vitro aging. Our results suggest that Epitalon can delay the aging process of oocytes in vitro via modulating mitochondrial activity and ROS levels."
+  },
+  {
+   "pmid": "19110597",
+   "titel": "Geroprotective effect of ala-glu-asp-gly peptide in male rats exposed to different illumination regimens",
+   "jahr": "2008",
+   "journal": "Bull Exp Biol Med",
+   "erstautor": "Vinogradova IA",
+   "doi": "10.1007/s10517-008-0121-7",
+   "typ": [
+    "Evaluation Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Exposure of male rats to permanent or natural illumination of North-Western Russia accelerated their death in comparison with animals exposed to standard (12 h) light. Permanent illumination promoted the development of spontaneous tumors in comparison with the standard photoregimen. Injection of epithalone (synthetic Ala-Glu-Asp-Gly peptide; subcutaneously 0.1 microg/rat 5 times a week from the age of 4 months until natural death) virtually did not change the mean lifespan of male rats, but was associated with a significant (p<0.05) normalization of population aging rate and hence, time of mortality rate doubling in groups exposed to natural or constant illumination. Epithalone injected to rats exposed to any photoregimen significantly inhibited the development of spontaneous tumors, primarily testicular leydigomas and leukemias."
+  },
+  {
+   "pmid": "12096440",
+   "titel": "[Aging of the pineal gland]",
+   "jahr": "2002",
+   "journal": "Adv Gerontol",
+   "erstautor": "Khavinson VKh",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The age-related changes in the pineal gland are functional rather than organic, which makes their correction or prevention more tenable. The amelioration or inhibition of some age-related impairments of the pineal gland were observed with dietary restriction and the use of S-adenosylmethionine or MAO-A inhibitors. A threefold increase in nocturnal melatonin peaks occurs in old rhesus monkeys treated with a synthetic peptide Ala-Glu-Asp-Gly (Epithalon) designed basing on the amino acid content of a pineal peptide extract Epithalamin. Other effects of Epithalon markedly overlap with melatonin effects. Besides life extension in mice and fruit flies, Epithalon effects include the postponing vision loss in Campbell rats with hereditary pigmental dystrophy. A uniting aspect of such a range of activities might be the participation of transcription factors, since they are often highly conservative in evolution and, on the other hand, may be strictly tissue-specific. The targets of Epithalon may include transfactors that in mammals are specific for the pineal gland and retina and exhibit impaired functions in the aged pineal gland."
+  },
+  {
+   "pmid": "12791421",
+   "titel": "The role of pineal gland in breast cancer development",
+   "jahr": "2003",
+   "journal": "Crit Rev Oncol Hematol",
+   "erstautor": "Anisimov VN",
+   "doi": "10.1016/s1040-8428(03)00021-0",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The role of the modulation of the pineal gland function in development of breast cancer is discussed in this review. An inhibition of the pineal function with pinealectomy or with the exposure to the constant light regimen stimulates mammary carcinogenesis, whereas the light deprivation inhibits the carcinogenesis. Epidemiological observations on increased risk of breast cancer in night shift workers, flight attendants, radio and telegraph operators and on decreased risk in blind women are in accordance with the results of experiments in rodents. Treatment with pineal indole hormone melatonin inhibits mammary carcinogenesis in pinealectomized rats, in animals kept at the standard light/dark regimen (LD) or at the constant illumination (LL) regimen. Pineal peptide preparation Epithalamin and synthetic tetrapeptide Epitalon (Ala-Glu-Asp-Gly) are potent inhibitors of mammary carcinogenesis in rodents and might be useful in the prevention of breast cancer in women at risk."
+  },
+  {
+   "pmid": "40493162",
+   "titel": "The Antioxidant Tetrapeptide Epitalon Enhances Delayed Wound Healing in an in Vitro Model of Diabetic Retinopathy",
+   "jahr": "2025",
+   "journal": "Stem Cell Rev Rep",
+   "erstautor": "Gatta M",
+   "doi": "10.1007/s12015-025-10911-x",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Diabetic retinopathy (DR) is the most common complication of diabetes mellitus and a leading cause of vision loss. Short peptides, such as di-, tri-, and tetrapeptides, have various beneficial activities, including antioxidant, antimicrobial, and anti-inflammatory effects. This study aims to test the hypothesis that the antioxidant effect of the synthetic tetrapeptide AEDG (Ala-Glu-Asp-Gly, Epitalon) improves the delayed healing process associated with hyperglycemia in DR, using a high glucose (HG)-injured human retinal pigment epithelial cell line (ARPE-19). We found that HG exposure delayed wound healing in ARPE-19 cells and increased intracellular levels of reactive oxygen species (ROS), while decreasing antioxidant gene expression. HG also induced epithelial-mesenchymal transition (EMT) and upregulated fibrosis-related genes, suggesting that HG-induced EMT contributes to subretinal fibrosis, the end-stage of eye diseases, including proliferative DR. The antioxidant Epitalon restored impaired wound healing in HG-injured ARPE-19 cells by inhibiting hyperglycemia-induced EMT and fibrosis. These findings support using the antioxidant agent Epitalon as a promising therapeutic strategy for DR to improve retinal wound healing compromised by hyperglycemia. More mechanistic investigations are needed to confirm Epitalon's benefits and safety. Developing ophthalmic forms of Epitalon may enhance its delivery directly to the retina, potentially improving its therapeutic efficacy."
+  },
+  {
+   "pmid": "37042594",
+   "titel": "EPIGENETIC MODIFICATION UNDER THE INFLUENCE OF PEPTIDE BIOREGULATORS ON THE \"OLD\" CHROMATIN",
+   "jahr": "2023",
+   "journal": "Georgian Med News",
+   "erstautor": "Lezhava T",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "In the present study, on the one hand, the epigenetic modification of condensed \"old\" chromatin was determined, and on the other hand, the influence of peptide bioregulators (Ala-Glu-Asp-Gly-Epitalon; Lys-Glu-Asp-Ala-Livagen; Ala-Glu-Asp-Pro - Cortagen and Lys-Glu - Vilon) on condensed chromatin in lymphocytes from old individuals. Were used molecular-cytogenetic methods: differential scanning calorimetry; activity of ribosomal genes of acrocentric chromosome satellite stalks-NORs; polymorphism of structural pericentromeric C-heterochromatin; variability of the facultative heterochromatin (sister chromatid exchanges - SCE) in the culture of lymphocytes from 75-88-year-old individuals. The analysis of results shows the chromosome progressive heterochromatinization (condensation of eu - and heterochromatin regions) occur in aging. Epigenetics process - heterochromatinization can deactivate many previously functioning active genes. It blocks certain stages of normal metabolic processes in the cell, which inhibits many specific enzymes and leads to aging pathologies. We show that peptide bioregulators induced unrolling deheterochromatinization (decondensation) of total heterochromatin, deheterochromatinization of satellite stalks of acrocentric chromosome, activating synthetic processes of ribosomal genes, does not cause deheterochromatinized of pericentromeric structural heterochromatin. This data also indicates that each of the studied peptide bioregulators (Ala-Glu-Asp-Gly; Lys-Glu-Asp-Ala; Ala-Glu-Asp-Pro and Lys-Glu) has a selective effect on definite regions of chromosomes. Thus, short peptide bioregulators induce selective heterochromatinization and deheterochromatinization of chromosome regions (remodeling of facultative heterochromatin) in individuals 75-88 years old that opens up new opportunities in the treatment of aging diseases."
+  },
+  {
+   "pmid": "12964022",
+   "titel": "Epitalon and colon carcinogenesis in rats: proliferative activity and apoptosis in colon tumors and mucosa",
+   "jahr": "2003",
+   "journal": "Int J Mol Med",
+   "erstautor": "Kossoy G",
+   "doi": "",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The effect of the synthetic pineal peptide Epitalon (Ala-Glu-Asp-Gly) on proliferative activity in colon tumors, and in mucosal epithelial cells adjacent to and located far from tumors was studied in rats. To evaluate the effect of Epitalon on different stages of carcinogenesis, different treatment regimens were used: during the tumor initiation stage, during the tumor-promotion stage, or during the entire process of tumor development. Eighty 2-month-old male LIO rats were exposed weekly to five subcutaneous injections of 1,2-dimethylhydrazine (DMH) at a single dose of 21 mg/kg body weight. Rats were divided into four groups. Control rats (group 1) received saline at a dose of 0.1 ml during the entire experiment. Rats in group 2 were treated with Epitalon at a dose of 1 micro g, five times a week, for 6 months, from the first injection of DMH till the end of the experiment. Rats in group 3 were treated with Epitalon after termination of the carcinogen injections. Rats in group 4 were treated with Epitalon only during the period of DMH exposure (for the first 5 weeks of the experiment). DMH induced proliferation of the secretory epithelium, and this phenomenon was accompanied by a decrease in the size of the stromal area and the area of lymph infiltration in colon tumors and in the colon mucosa adjacent to the tumors (group 1). Epitalon attenuated this effect, especially when the treatment was continued throughout the experiment (group 2). It increased the stromal areas, as well as that of lymphoid infiltration in the colon mucosa adjacent to the tumors. The intensity of lymphoid infiltration was activated in both the colon mucosa adjacent to a tumor and in the tumor. Mitotic activity of tumor cells was significantly inhibited by Epitalon when the treatment was given throughout the experiment (group 2). In parallel, a high level of apoptosis was seen in the same group. Thus, the strongest inhibitory effect of Epitalon on carcinogenesis in the colon mucosa was manifested when the treatment was continued throughout the experiment."
+  },
+  {
+   "pmid": "16634527",
+   "titel": "Effect of the synthetic pineal peptide epitalon on spontaneous carcinogenesis in female C3H/He mice",
+   "jahr": "2006",
+   "journal": "In Vivo",
+   "erstautor": "Kossoy G",
+   "doi": "",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The potential preventive effect of the synthetic pineal peptide Epitalon (Ala-Glu-Asp-Gly) on spontaneous tumorigenesis in mice was studied. One-year-old female C3H/He mice were kept for 6.5 months under standard conditions. Epitalon was injected at a dose of 0.1 microg, 5 times a week. Long-term exposure to Epitalon in small doses did not show any toxic effect. Treatment with Epitalon decreased the number of tumor-bearing mice with malignant tumors and prevented the development of metastases. Spontaneous tumors of the reproductive organs (mammary glands and ovaries) were predominant in both groups of mice (control and experimental). The mammary gland tumors were different variants of invasive ductal carcinomas. In the ovaries, granulosa-cell tumors were found. Tumors were in the minority in other organs and had benign characteristics. In control mice, metastases were found in 3 out of 9 tumor-bearing mice, all of them being from tumors of the reproductive organs. Treatment with Epitalon slowed down the development of metastases from spontaneous tumors, and no metastases were found in the experimental mice. These data highlight the antimetastatic effect of Epitalon as part of its oncostatic properties."
+  },
+  {
+   "pmid": "11713572",
+   "titel": "Tissue-specific effects of peptides",
+   "jahr": "2001",
+   "journal": "Bull Exp Biol Med",
+   "erstautor": "Khavinson VK",
+   "doi": "10.1023/a:1013058701974",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Synthetic peptides (cytogens) Cortagen, Epithalon, Livagen, and Vilon stimulated the growth of explants from rat brain cortex, subcortical structures, liver, and thymus, respectively, in organotypic cultures. These peptides produced tissue-specific effects: they stimulated the growth of explants from tissues, whose cytomedins (peptide complexes) were used for chemical synthesis."
+  },
+  {
+   "pmid": "22803057",
+   "titel": "Peptidegic stimulation of differentiation of pineal immune cells",
+   "jahr": "2011",
+   "journal": "Bull Exp Biol Med",
+   "erstautor": "Linkova NS",
+   "doi": "10.1007/s10517-011-1470-1",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "We studied cell composition of the pineal lymphoid tissue and the effect of peptides on its differentiation and proliferation capacity. It was shown that the lymphoid component of the pineal gland in organotypic culture is primarily presented by low-differentiated CD5(+)-lymphocytes, while mature T and B cells are less abundant. Dipeptide vilon stimulates differentiation of precursors into T-helpers, cytotoxic T lymphocytes, and B cells, while tetrapeptide epithalon stimulated their differentiation towards B cells. Tripeptide vesugen had no effect on differentiation capacity of immune cells of the pineal gland, but enhanced their proliferation potential. Thus, dipeptide vilon acts as an inductor of differentiation of pineal immune cells, which can play an important compensatory role in age-related atrophy of the thymus, the central organ of the immune system."
+  },
+  {
+   "pmid": "12500171",
+   "titel": "Epitalon influences pineal secretion in stress-exposed rats in the daytime",
+   "jahr": "2002",
+   "journal": "Neuro Endocrinol Lett",
+   "erstautor": "Sibarov DA",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "OBJECTIVES: The content of C-Fos protein was tested in rat pinealocytes in the norm and stress and in case of intranasal administration of Epitalon (Ala-Glu-Asp-Gly), which regulated pineal secretion processes, presumably, via protooncogenes. SETTING: Intact and osmotic-stress-exposed rats were used for the immunohistochemical detection of C-Fos protein. All animals were intranasally administered with Epitalon, the last infusion made in two hours before the biopsy. Simultaneously, light microscopy of the pineal parenchyma was performed in all groups of animals. RESULTS: A slight but significant C-Fos increase was observed only in stress-exposed pinealocytes of rats after intranasal Epitalon infusions. C-Fos was irregularly distributed throughout pineal cells. In stress, the clusters of 5 10 cells containing C-Fos in their cytoplasm were detected. The dilation of capillaries and pericapillary space induced by an osmotic stress was partially reduced by the intranasal infusions of Epitalon. CONCLUSIONS: Tetrapeptide Epitalon is synthesised on the basis of the amino acid composition of pineal peptide extract Epithalamin. Epitalon modulates pineal secretion only under a stress impact but never in the norm. It prevents osmotic-stress-induced pathologic changes in the pineal parenchyma structure. Besides, the physiological activity of Epitalon seems to be mediated by the activation of protooncogenes in pinealocytes."
+  },
+  {
+   "pmid": "21510076",
+   "titel": "[Influence of peptides from pineal gland on thymus function at aging]",
+   "jahr": "2010",
+   "journal": "Adv Gerontol",
+   "erstautor": "Lin'kova NS",
+   "doi": "",
+   "typ": [
+    "English Abstract",
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "The interference between thymus and pineal gland during their involution is considered in this review. The research data about influence of thymus peptides on pineal gland and pineal peptides on thymus is summarized. Analysis of these data showed that pineal peptides (epithalamin, epitalon) had more effective geroprotective effect on thymus involution in comparison with geroprotective effect of thymic peptides (thymalin, thymogen) on involution of pineal gland. The key mechanisms of pineal peptides effect on thymus dystrophy is immunoendocrine cooperation, which is realized as transcription's activation of various proteins."
+  },
+  {
+   "pmid": "18383712",
+   "titel": "[The effect of pineal peptide preparations on proliferative activity in organotypic culture of the preoptic hypothalamus area]",
+   "jahr": "2007",
+   "journal": "Adv Gerontol",
+   "erstautor": "Miliutina IuP",
+   "doi": "",
+   "typ": [
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "In investigations carried out with organotypic culture of mediobasal preoptic area (MPA) of hypothalamus it was established that pineal peptide preparations epitalon (2 ng/ml) and epithalamin (100 ng/ml) stimulate the development of proliferative activity of explants in 3 month and 24 months female rats. It has been shown that epithalamin is more effective in young rats in comparison with old animals, but epitalon as well as epithalamin have almost the same less pronounced inducing effect on growth zone in MPA explants from young and old animals. This effect is tissue specific and could be dependent on inhibition of apoptosis."
+  },
+  {
+   "pmid": "22567846",
+   "titel": "[Morphofunctional and molecular bases of pineal gland aging]",
+   "jahr": "2012",
+   "journal": "Fiziol Cheloveka",
+   "erstautor": "Khavinson VKh",
+   "doi": "",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "The review analyzed morphology, molecular and functional aspects of pineal gland aging and methods of it correction. The pineal gland is central organ, which regulates activity of neuroimmunoendocrine, antioxidant and other organisms systems. Functional activity of pineal gland is discreased at aging, which is the reason of melatonin level changing. The molecular and morphology research demonstrated, that pineal gland hadn't strongly pronounced atrophy at aging. Long-term experience showed, that peptides extract of pineal gland epithalamin and synthetic tetrapeptide on it base epithalon restored melatonin secretion in pineal gland and had strong regulatory activity at neuroimmunoendocrine and antioxidant organism systems."
+  },
+  {
+   "pmid": "14571286",
+   "titel": "Gateways to clinical trials",
+   "jahr": "2003",
+   "journal": "Methods Find Exp Clin Pharmacol",
+   "erstautor": "Bayés M",
+   "doi": "",
+   "typ": [
+    "Bibliography",
+    "Journal Article"
+   ],
+   "abstract": "Gateways to Clinical Trials is a guide to the most recent clinical trials in current literature and congresses. The data in the following tables has been retrieved from the Clinical Studies Knowledge Area of Prous Science Integrity, the drug discovery and development portal, http://integrity.prous.com. This issue focuses on the following selection of drugs: Abetimus sodium, adefovir dipivoxil, AGI-1067, alefacept, alemtuzumab, ALVAC-p53, aminolevulinic acid hydrochloride, aminolevulinic acid methyl ester, Anti-CTLA-4 Mab, AOD-9604, apafant, aprinocarsen sodium, arsenic trioxide; Balaglitazone, BIM-23190, bimatoprost, bortezomib, bosentan, BR-1; Canertinib dihydrochloride, CDP-850, cevimeline hydrochloride, cinacalcet hydrochloride, clenoliximab, clevudine, CN-787; D-003, darusentan, deferasirox, desloratadine dexanabinol, duloxetine hydrochloride; E-5564, edaravone, efaproxiral sodium, elvucitabine emfilermin, EN-101, enfuvirtide, entecavir, epithalon, eplerenone, erlotinib hydrochloride, escitalopram oxalate, esomeprazole magnesium, eszopiclone, etilefrine pivalate hydrochloride etoricoxib, everolimus, exenatide; Fidarestat, fondaparinux sodium; Ganstigmine hydrochloride; Homoharringtonine, HuMax-IL-15, hyperimmune IVIG; Imatinib mesylate, IMC-1C11, Inhaled insulin, irofulven, iseganan hydrochloride, ISIS-14803, ISIS-5132, ivabradine hydrochloride; Keratinocyte growth factor; Lafutidine, lanthanum carbonate, LAS-34475, levocetirizine, liraglutide, LY-307161 SR; Magnesium sulfate, maribavir, melatonin, mycobacterium cell wall complex; NN-414, NO-aspirin, nociceptin, nolomirole hydrochloride; Olmesartan medoxomil oral insulin, ospemifene; PDX, perillyl alcohol, pimecrolimus, pitavastatin calcium, pramlintide acetate, prasterone, pregabalin, PRO-542, PV-701, pyrazoloacridine; R-744, ranelic acid distrontium salt, rasburicase, rDNA insulin, resiniferatoxin, reslizumab, ridogrel, riplizumab ropivacaine, rosuvastatin calcium, roxifiban acetate, ruboxistaurin mesilate hydrate; Satraplatin, Sch-58500, semaxanib, sitaxsentan sodium, SMP-114, SU-6668; Teriparatide, tetrathiomolybdate, tipifarnib, tolvaptan, travoprost, treprostinil sodium; Valdecoxib, valganciclovir hydrochloride, vardenafil hydrochloride hydrate, vatalanib succinate; Ximelagatran; Z-335, ziprasidone hydrochloride, zoledronic acid monohydrate, ZYC-00101."
+  },
+  {
+   "pmid": "32019204",
+   "titel": "AEDG Peptide (Epitalon) Stimulates Gene Expression and Protein Synthesis during Neurogenesis: Possible Epigenetic Mechanism",
+   "jahr": "2020",
+   "journal": "Molecules",
+   "erstautor": "Khavinson V",
+   "doi": "10.3390/molecules25030609",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "It was shown that AEDG peptide (Ala-Glu-Asp-Gly, Epitalon) regulates the function of the pineal gland, the retina, and the brain. AEDG peptide increases longevity in animals and decreases experimental cancerogenesis. AEDG peptide induces neuronal cell differentiation in retinal and human periodontal ligament stem cells. The aim of the study was to investigate the influence of AEDG peptide on neurogenic differentiation gene expression and protein synthesis in human gingival mesenchymal stem cells, and to suggest the basis for the epigenetic mechanism of this process. AEDG peptide increased the synthesis of neurogenic differentiation markers: Nestin, GAP43, β Tubulin III, Doublecortin in hGMSCs. AEDG peptide increased Nestin, GAP43, β Tubulin III and Doublecortin mRNA expression by 1.6-1.8 times in hGMSCs. Molecular modelling method showed, that AEDG peptide preferably binds with H1/6 and H1/3 histones in His-Pro-Ser-Tyr-Met-Ala-His-Pro-Ala-Arg-Lys and Tyr-Arg-Lys-Thr-Gln sites, which interact with DNA. These results correspond to previous experimental data. AEDG peptide and histones H1/3, H1/6 binding may be one of the mechanisms which provides an increase of Nestin, GAP43, β Tubulin III, and Doublecortin neuronal differentiation gene transcription. AEDG peptide can epigenetically regulate neuronal differentiation gene expression and protein synthesis in human stem cells."
+  },
+  {
+   "pmid": "17217245",
+   "titel": "[Intranasal epitalon infusion modulates neuronal activity in the rat neocortex]",
+   "jahr": "2006",
+   "journal": "Ross Fiziol Zh Im I M Sechenova",
+   "erstautor": "Sibarov DA",
+   "doi": "",
+   "typ": [
+    "English Abstract",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Properties of tetrapeptide epitalon (Ala-Glu-Asp-Gly) constructed on the basis of pineal peptide extract, have been studied. The intranasal infusions: a noninvasive way to deliver this peptide to CNS hypassing the blood-brain barrier, was used. The aim of the study is to estimate epitalon action on rat motor cortex spontaneous activity. Wistar male rats were anesthetized with urethane (1 g/kg). Extracellular unit recording was made using glass microelectrodes (1-2 MOhm). After recording of spontaneous activity (10-15 min), epitalon intranasal infusion (2 ng) was followed by 30-minute recording. Within a few minutes after the infusion, significant activation of neural activity was observed (2-2.5-fold higher frequency of neuronal spikes). Complex response consisting of several phases was identified in some recordings. The spikes frequency growth during 5 to 7 min (first phase) after the infusion was followed by the second (11-12 min) and the third (17-18 min) phases. An increase of neuronal spontaneous activity was conditioned by the higher frequency of already active units and by the involvement of previously silent cells. At least the first phase of epitalon action can be explained by direct action of the peptide on the cells of the motor cortex."
+  },
+  {
+   "pmid": "26519279",
+   "titel": "Effects of Geroprotectors on Age-Related Changes in Proteolytic Digestive Enzyme Activities at Different Lighting Conditions",
+   "jahr": "2015",
+   "journal": "Bull Exp Biol Med",
+   "erstautor": "Morozov AV",
+   "doi": "10.1007/s10517-015-3069-4",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "We studied the effect of melatonin and epithalon on age-related changes in proteolytic digestive enzyme activity in the pancreas and gastric mucosa of rats kept under different lighting conditions. In rats kept under standard illumination, pepsin activity and the total proteolytic activity in the stomach and pancreas increased by the age of 12 months, but then decreased. Constant and natural lighting disturbed the age dynamics of proteolytic digestive enzyme activity. Administration of melatonin and epithalon to animals exposed to constant lighting restored age dynamics of pepsin activity and little affected total proteolytic activity."
+  },
+  {
+   "pmid": "25826983",
+   "titel": "[Peptides and CCL11 and HMGB1 as molecular markers of aging: literature review and own data]",
+   "jahr": "2014",
+   "journal": "Adv Gerontol",
+   "erstautor": "Khavinson VKh",
+   "doi": "",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Cytokines CCL11 (eotaxin) and HMGB1 (alarmin1) are molecular markers of ageing and neurological, cardiovascular and immune diseases. Created in St. Petersburg Institute of Bioregulation and Gerontology short peptides are known to regulate gene expression and protein synthesis. They promote the mortality decrease and slowdown the development of pathology in the elderly. The article presents the proposed role of dipeptide vilon (Lys-Glu) and tetrapeptide epitalon (Ala-Glu-Asp-Gly) in CCL11 and HMGB1 genes regulation as activators of their expression. Geroprotective action of vilon and epitalon probably realizes in suppression of these genes."
+  },
+  {
+   "pmid": "15559508",
+   "titel": "[The influence of substances revealing geroprotective of spontaneous carcinogenesis in mice]",
+   "jahr": "2004",
+   "journal": "Adv Gerontol",
+   "erstautor": "Popovich IG",
+   "doi": "",
+   "typ": [
+    "English Abstract",
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "The review presents the results of experimental studies conducted by the author. CBA, SHR, HER-2/neu and SAM mice revealed inhibition of age-related alterations in estrus function and spontaneous tumour development and showed life span extension under the influence of the pineal gland hormone Melatonin, synthetic peptide bioregulator Epitalon, delta-sleep-inducing peptide Deltaran, enterosorbent Aqualen and succinic acid containing preparation Neuronol (Noogam). The observed effect depended on the dose and conditions of administration, as well as genetic predisposition of the particular mice strains to tumour development."
+  },
+  {
+   "pmid": "17955380",
+   "titel": "Effects of intranasal administration of epitalon on neuron activity in the rat neocortex",
+   "jahr": "2007",
+   "journal": "Neurosci Behav Physiol",
+   "erstautor": "Sibarov DA",
+   "doi": "10.1007/s11055-007-0095-3",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "This report discusses the properties of the synthetic tetrapeptide epitalon (Ala-Glu-Asp-Gly), synthesized on the basis of an epiphyseal peptide extract. Intranasal administration of epitalon was selected as a noninvasive means of applying the agent to the CNS by bypassing the blood-brain barrier. The aim of the present work was to assess the characteristics of the action of epitalon on the frequency of spontaneous neuron activity in the cerebral cortex of white rats. Studies were performed using male Wistar rats anesthetized with urethane (1 g/kg). Extracellular activity of cortical neurons was recorded with a glass microelectrode of resistance 1-2 MOmega. Recording of spontaneous neuron discharges for 10-15 min was followed by intranasal administration of epitalon solution and recording of neuron activity to 30 min after doses of 30 ng per animal. Significant activation of neuron activity was seen several minutes after dosage, with an increase (by factors of 2-2.5) in discharge frequency. In some experiments, the effect of epitalon was multiphasic. The first peak of increased neuron discharge frequency at 5-7 min was followed by peaks at 11-12 and 17-18 min. The increase in discharge frequency occurred because of an increase in the discharge frequency of neurons which were already active and the recruitment of previously silent neurons. At least the first peak of increased neuron activity following exposure to epitalon was found to be associated with the direct action of the peptide on cortical cells."
+  },
+  {
+   "pmid": "12500162",
+   "titel": "Effect of epitalon on interleukin-1beta signal transduction and the reaction of thymocyte blast transformation under stress",
+   "jahr": "2002",
+   "journal": "Neuro Endocrinol Lett",
+   "erstautor": "Khavinson VKh",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "OBJECTIVES: The aim of this research consisted in studying the effects of tetrapeptide Epitalon on both thymocyte proliferation and interleukin-1beta (IL-1beta) signal transduction via sphingomyelin pathway in the cerebral cortex membranes of mice exposed to stresses exerting diverse effects upon humoral immune response. DESIGN AND SETTING: The experiments were performed on male (CBAxC(57)BL(6))F1 mice aged 8 10 weeks. Two models of experimental stress were used: immune-stimulatory rotation stress and immune-suppressive combined stress (cooling followed by immobilization). The concomitant effect of Epitalon was determined according to its influence on thymocyte proliferation stimulated by concanavalin A at a sub-optimal dose and recombinant IL-1beta. The activity of membrane neutral sphingomyelinase (nSMase), the key enzyme of the sphingomyelin signal transduction pathway, was assayed according to modified Rao and Spence's method (1976). RESULTS: The investigation demonstrated that Epitalon increased thymocyte proliferative activity, both enhanced under rotation stress and suppressed under combined one. It also increased IL-1beta concomitant effect. These findings corresponded to Epitalon effect on diverse stress-induced changes in nSMase activity in cerebral cortex fraction P2. Epitalon activated nSMase in the cerebral cortex membranes of intact mice and increased IL-1beta stimulatory effect on the enzyme activity. CONCLUSIONS: The obtained results provided a conclusive evidence of Epitalon stress-protective effect at the level of IL-1beta signal transduction via sphingomyelin pathway in the nerve tissue, as well as at the level of target thymocyte proliferation."
+  },
+  {
+   "pmid": "25730989",
+   "titel": "[Main mechanisms of rhabdomyolysis-caused kidney injury and their correction by organospecific peptides]",
+   "jahr": "2014",
+   "journal": "Biofizika",
+   "erstautor": "Zamorskiĭ II",
+   "doi": "",
+   "typ": [
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "The influence of the organospecific peptides--kidney tripeptides T-31 and T-35, pineal tetrapeptide epitalon on the main mechanisms of kidney injury caused by experimental rhabdomyolysis--toxic injury of tubular cells, development of oxidative stress and energetic misbalance, leading to significant disturbances of the functional state of kidneys and development of acute kidney failure was studied. The renoprotective effect of oligopeptides realized by impact on all of the indicated mechanisms of kidney injury and confirmed by correlation between them was estimated."
+  },
+  {
+   "pmid": "21809618",
+   "titel": "[Characteristics of the pineal gland and thymus relationship in aging]",
+   "jahr": "2011",
+   "journal": "Adv Gerontol",
+   "erstautor": "Lin'kova NS",
+   "doi": "",
+   "typ": [
+    "English Abstract",
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "The review presents the interference between thymus and pineal gland during their involution. The research data of thymus peptides influence on pineal gland and pineal peptides on thymus are summarized. Analysis of these data showed that pineal peptides (Epithalamin, Epitalon) had more effective geroprotective effect on thymus involution in comparison with geroprotective effect of thymic peptides (Thymalin, Thymogen) on involution of pineal gland. The key mechanisms of pineal peptides effect on thymus dystrophy is immunoendocrine cooperation, which is realized as transcription's activation of various proteins."
+  },
+  {
+   "pmid": "11276315",
+   "titel": "Peptide bioregulators inhibit apoptosis",
+   "jahr": "2000",
+   "journal": "Bull Exp Biol Med",
+   "erstautor": "Khavinson VK",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The effects of peptide bioregulators epithalon and vilon on the dynamics of irradiation-induced apoptotic death of spleen lymphocytes in rats indicate that these agents inhibit physiologically programmed cell death. The antiapoptotic effect of vilon was more pronounced, which corroborates the concept on tissue-specific effect of peptide bioregulators."
+  },
+  {
+   "pmid": "11087911",
+   "titel": "Effect of epitalon on the lifespan increase in Drosophila melanogaster",
+   "jahr": "2000",
+   "journal": "Mech Ageing Dev",
+   "erstautor": "Khavinson VK",
+   "doi": "10.1016/s0047-6374(00)00217-7",
+   "typ": [
+    "Comparative Study",
+    "Journal Article"
+   ],
+   "abstract": "The geroprotector activity of epitalon, a synthetic tetrapeptide Ala-Glu-Asp-Gly, was studied on the Drosophila melanogaster wild strain Canton-S. The substance was added to the culture medium only at the developmental stage (from egg to larva). Epitalon significantly increased the lifespan (LS) of imagoes by 11-16% when applied at unprecedented low concentrations-from 0.001 x 10(-6) to 5 x 10(-6) wt.% of culture medium for males and from 0.01 x 10(-6) to 0.1 x 10(-6) wt.% of culture medium for females. The increase in LS did not depend on the substance dose. Effective concentrations of epitalon were 16,000-80,000,000 times lower than those of melatonin. The possible mechanisms of the antioxidant and regulatory effects of epitalon are discussed."
+  },
+  {
+   "pmid": "17317455",
+   "titel": "Antioxidant properties of geroprotective peptides of the pineal gland",
+   "jahr": "2007",
+   "journal": "Arch Gerontol Geriatr",
+   "erstautor": "Kozina LS",
+   "doi": "10.1016/j.archger.2007.01.029",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "It was shown that peptide preparations from the pineal gland (epithalamin and epitalon) possess antioxidant properties exceeding in some cases the effects of the well-known scavenger of reactive oxygen species (ROS), the melatonin, which is also produced by the pineal gland. The methods used in our experiments in old rats included determination of total antioxidant and antiradical activities, as well as those of antioxidant enzymes (superoxide dismutase=SOD, glutathione peroxidase, glutathione-S-transferase, etc.) in blood serum, liver and brain. It has been revealed that epithalamin (polipeptide preparation from bovine brain) and its active fragment, epitalon (Ala-Glu-Asp-Gly) along with their ability to stimulate melatonin production, have an antioxidant mechanism that is quite different from the action of melatonin. Epithalamin can be more beneficial than melatonin because the former not only produces direct antioxidant effects, but also is able to stimulate the expression of SOD, ceruloplasmin and other antioxidant enzymes. The possibility of oxidation chains by their interaction with different ROS by means of binding of transition metals (Fe(2+)) cannot also be excluded. Thus, the results of our experiments testify that the pineal gland peptides enhance the antioxidant defense system, which can contribute to their geroprotective properties."
+  },
+  {
+   "pmid": "12360351",
+   "titel": "Effect of epithalon on the incidence of chromosome aberrations in senescence-accelerated mice",
+   "jahr": "2002",
+   "journal": "Bull Exp Biol Med",
+   "erstautor": "Rosenfeld SV",
+   "doi": "10.1023/a:1015899003974",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The incidence of chromosome aberrations in bone marrow cells of 12-month-old SAMP-1 female mice characterized by accelerated aging was 1.8 times higher than in wild-type SAMR-1 females and 2.2 times higher than in SHR females of the same age. Treatment with Epithalon (Ala-Glu-Asp-Gly) starting from the age of 2 months decreased the incidence of chromosome aberrations in SAMP-1, SAMR-1, and SHR mice by 20%, 30.1%, and 17.9%, respectively, compared to age-matched controls (p<0.05). Treatment with melatonin (given with drinking water in a dose of 20 mg/liter in night hours) had no effect on the incidence of chromosome aberrations in SHR mice. These data indicate antimutagenic effect of Epithalon, which probably underlies the geroprotective effect of this peptide."
+  },
+  {
+   "pmid": "14647006",
+   "titel": "Peptide Epitalon activates chromatin at the old age",
+   "jahr": "2003",
+   "journal": "Neuro Endocrinol Lett",
+   "erstautor": "Khavinson VKh",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "UNLABELLED: OBJECTIVES and design. We have studied the effect of synthetic peptide Epitalon on the activity of ribosomal genes, denaturation parameters of total heterochromatin, polymorphism of structural C-heterochromatin and the variability of facultative heterochromatin in cultured lymphocytes of persons aged 76-80 years. RESULTS: The obtained data demonstrate that Epitalon induces the activation of ribosomal genes, decondensation of pericentromeric structural heterochromatin and the release of genes repressed due to the age-related condensation of euchromatic chromosome regions. CONCLUSIONS: Epitalon has shown its ability to activate chromatin by modifying heterochromatin and heterochromatinized chromosome regions in the cells of older persons."
+  },
+  {
+   "pmid": "24323970",
+   "titel": "[Genome instability in pulmonary tuberculosis before and after treatment]",
+   "jahr": "2013",
+   "journal": "Georgian Med News",
+   "erstautor": "Dzhokhadze TA",
+   "doi": "",
+   "typ": [
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "Pulmonary tuberculosis is classified as a disease with a genetic predisposition, and therefore, as with other pathologies related to this group of diseases, by pulmonary tuberculosis, special importance is given to finding those markers that enable early identification of risk groups, such as skrinnig in general population and relatives of patients with tuberculosis, which in turn can provide the basis for preventive measures. One of this markers is the level of genome stability. The aim of this study was a comparative evaluation of the functional parameters of the genome variability in patients with sensitive form of pulmonary tuberculosis before and after treatment, and the possibility of its correction with anti-stress peptide bioregulator - epitalon. The studies were conducted using short-term mitoge -stimulated cell cultures of TB patients, before and after treatment. As an indicator of genome stability has been studied the frequency of structural and numerical chromosome aberrations and fragile sites. It is shown, that in intact cultures from patients with pulmonary tuberculosis, before treatment was significantly higher level of frequency of cells with structural chromosome aberrations, that still retained after the treatment. As for epithalon, it appears that was shown a pronounced protective effect after treatment, on the test of chromosome aberrations, by reducing both overall mean frequency aberrant cells and indicators for all individuals. In the study of fragility of chromosomes in patients with primary tuberculosis was found, that in intact cultures, the proportion of cells with chromosomal fragile sites was higher than in control group of healthy individuals, befor and after treatment. High frequency of chromosome fragility persisted by treatment with peptide bioregulator in both cases - before and after treatment. It is suggested that the identified patterns can be correlated with a high incidence of re- TB."
+  },
+  {
+   "pmid": "42021992",
+   "titel": "Therapeutic peptides in gerontology: mechanisms and applications for healthy aging",
+   "jahr": "2026",
+   "journal": "Front Aging",
+   "erstautor": "Mavrych V",
+   "doi": "10.3389/fragi.2026.1790247",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "BACKGROUND: Peptide therapeutics represent an emerging frontier in gerontological medicine, targeting fundamental hallmarks of aging including metabolic dysfunction, telomere attrition, tissue repair impairment, and hormonal decline. OBJECTIVE: To comprehensively review the mechanisms, clinical applications, evidence base, and safety profiles of therapeutic peptides with demonstrated or potential applications in healthy aging and age-related conditions. METHODS: A comprehensive narrative review was conducted through systematic searches of PubMed, Scopus, and regulatory databases (FDA, WADA) from inception through January 2026. Search terms included \"peptide therapeutics,\" \"aging,\" \"gerontology,\" \"healthspan,\" combined with specific peptide names (tirzepatide, epitalon, GHK-Cu, BPC-157, TB-500, Semax, CJC-1295, ipamorelin, bremelanotide). Peer-reviewed articles, clinical trials, regulatory documents, and preclinical studies were evaluated. A total of 20 primary sources were selected based on relevance, methodological quality, and contribution to understanding peptide mechanisms and clinical outcomes in aging populations. RESULTS: Nine peptides were identified spanning diverse aging interventions: metabolic restoration (tirzepatide), telomere biology (epitalon), dermal regeneration (GHK-Cu), tissue repair (BPC-157, TB-500), neuroprotection (Semax), growth hormone modulation (CJC-1295, ipamorelin), and sexual function (bremelanotide). FDA-approved agents demonstrated robust safety profiles from large-scale trials. Non-approved peptides showed promising preclinical and limited clinical evidence but lack long-term safety data and systematic validation. Significant knowledge gaps include optimal dosing regimens, combination therapy effects, and biomarkers for monitoring efficacy. CONCLUSION: Therapeutic peptides offer mechanistically diverse approaches to multiple aging hallmarks. While FDA-approved agents demonstrate clinical potential, investigational peptides require rigorous validation through well-designed clinical trials to establish safety and efficacy for healthspan extension."
+  },
+  {
+   "pmid": "18239817",
+   "titel": "Effects of bioactive tetrapeptides on free-radical processes",
+   "jahr": "2007",
+   "journal": "Bull Exp Biol Med",
+   "erstautor": "Kozina LS",
+   "doi": "10.1007/s10517-007-0230-8",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Injections of epithalon and cortagen to rats decreased the content of LPO products and reduced oxidative modification of proteins, which was paralleled by suppression of antioxidant activity in rat serum and cerebral cortex."
+  },
+  {
+   "pmid": "22816096",
+   "titel": "Molecular cellular mechanisms of peptide regulation of melatonin synthesis in pinealocyte culture",
+   "jahr": "2012",
+   "journal": "Bull Exp Biol Med",
+   "erstautor": "Khavinson VKh",
+   "doi": "10.1007/s10517-012-1689-5",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The effects of epithalone and vilone peptides on the synthesis of melatonin and factors involved in this process, arylalkylamine-N-acetyltransferase (AANAT) enzyme and pCREB transcription protein, were studied in rat pinealocyte culture. Epithalone stimulated AANAT and pCREB synthesis and increased melatonin level in culture medium. Simultaneous addition of norepinephrine and peptides into the culture potentiated the expression of AANAT and pCREB."
+  },
+  {
+   "pmid": "12910293",
+   "titel": "Retinoprotective effect of Epithalon in campbell rats of various ages",
+   "jahr": "2003",
+   "journal": "Bull Exp Biol Med",
+   "erstautor": "Khavinson VKh",
+   "doi": "10.1023/a:1024931812822",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "We studied the retinoprotective effect of Epithalon administered to the offspring of Campbell rats during postnatal ontogeny and to mothers before mating and during pregnancy. After this treatment the morphological structure and functional activity of the retina were preserved for a longer period compared to control rats (by 2 times) and to the animals receiving the peptide only during postnatal ontogeny (by 30%)."
+  },
+  {
+   "pmid": "15501020",
+   "titel": "Stressors and antistressors: how do they influence life span in HER-2/neu transgenic mice?",
+   "jahr": "2004",
+   "journal": "Exp Gerontol",
+   "erstautor": "Semenchenko GV",
+   "doi": "10.1016/j.exger.2004.08.007",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The purpose of this study is to investigate possible influences of different stressors (saline injections, light deprivation and constant light regimen) and geroprotectors (Epitalon and melatonin) on survivals of female HER-2/neu transgenic mice. We propose a semi-parametric model of heterogeneous mortality (frailty model) for the analysis of the experimental data. In this model, we assume that treatment influences parameters of both frailty distribution and baseline hazard. The unique design of the experiments makes it possible to compare the effects on survival produced by different treatments in terms of changes in population heterogeneity and underlying hazard. Parameters of the model help to describe the possible influences of various stressors, geroprotectors, and their dosage on the life span of laboratory animals. The proposed model helps to advance our understanding of the effects--such as debilitation, longevity hormesis and incomplete hormesis--which occur in the population as a result of different treatments."
+  },
+  {
+   "pmid": "12170316",
+   "titel": "Effect of epithalon on age-specific changes in the retina in rats with hereditary pigmentary dystrophy",
+   "jahr": "2002",
+   "journal": "Bull Exp Biol Med",
+   "erstautor": "Khavinson VKh",
+   "doi": "10.1023/a:1015125031829",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The effect of peptide bioregulator Epithalon on the course of hereditary pigmentary retinal degeneration was studied in Campbell rats. Administration of epithalon starting from birth protected morphological structure, increased its bioelectrical activity, and improved its function."
+  }
+ ],
+ "ctgov": [
+  {
+   "nct": "NCT07888595",
+   "titel": "Systemic and Topical Geroprotective Rejuvenation Assessed by START/REST Aging Clocks",
+   "phase": "EARLY_PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "ENROLLING_BY_INVITATION",
+   "teilnehmende": 48,
+   "start": "2026-10-21",
+   "ende": "2028-10-14",
+   "erkrankungen": [
+    "Aging"
+   ],
+   "sponsor": "Frontiers in Bioscience Research Institute and Aging",
+   "ergebnisse": false
+  }
+ ],
+ "gruppe": "D_gehirn_langlebigkeit"
+}

@@ -1,0 +1,1188 @@
+{
+ "name": "Bremelanotid (PT-141)",
+ "status": "teilweise",
+ "suchbegriff_pubmed": "bremelanotide[tiab] OR PT-141[tiab]",
+ "suchbegriff_ctgov": "bremelanotide",
+ "humanstudien_alle": [
+  {
+   "pmid": "35230162",
+   "titel": "Prespecified and Integrated Subgroup Analyses from the RECONNECT Phase 3 Studies of Bremelanotide",
+   "jahr": "2022",
+   "journal": "J Womens Health (Larchmt)",
+   "erstautor": "Simon JA",
+   "doi": "10.1089/jwh.2021.0225",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "35147466",
+   "titel": "Safety Profile of Bremelanotide Across the Clinical Development Program",
+   "jahr": "2022",
+   "journal": "J Womens Health (Larchmt)",
+   "erstautor": "Clayton AH",
+   "doi": "10.1089/jwh.2021.0191",
+   "typ": [
+    "Clinical Trial, Phase III",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "33538638",
+   "titel": "The Patient Experience of Premenopausal Women Treated with Bremelanotide for Hypoactive Sexual Desire Disorder: RECONNECT Exit Study Results",
+   "jahr": "2021",
+   "journal": "J Womens Health (Larchmt)",
+   "erstautor": "Koochaki P",
+   "doi": "10.1089/jwh.2020.8460",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "31599840",
+   "titel": "Bremelanotide for the Treatment of Hypoactive Sexual Desire Disorder: Two Randomized Phase 3 Trials",
+   "jahr": "2019",
+   "journal": "Obstet Gynecol",
+   "erstautor": "Kingsberg SA",
+   "doi": "10.1097/AOG.0000000000003500",
+   "typ": [
+    "Clinical Trial, Phase III",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "31277966",
+   "titel": "Responder Analyses from a Phase 2b Dose-Ranging Study of Bremelanotide",
+   "jahr": "2019",
+   "journal": "J Sex Med",
+   "erstautor": "Althof S",
+   "doi": "10.1016/j.jsxm.2019.05.012",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "27977473",
+   "titel": "Usefulness of ambulatory blood pressure monitoring to assess the melanocortin receptor agonist bremelanotide",
+   "jahr": "2017",
+   "journal": "J Hypertens",
+   "erstautor": "White WB",
+   "doi": "10.1097/HJH.0000000000001221",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "28189361",
+   "titel": "Phase I Randomized Placebo-controlled, Double-blind Study of the Safety and Tolerability of Bremelanotide Coadministered With Ethanol in Healthy Male and Female Participants",
+   "jahr": "2017",
+   "journal": "Clin Ther",
+   "erstautor": "Clayton AH",
+   "doi": "10.1016/j.clinthera.2017.01.018",
+   "typ": [
+    "Clinical Trial, Phase I",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "27181790",
+   "titel": "Bremelanotide for female sexual dysfunctions in premenopausal women: a randomized, placebo-controlled dose-finding trial",
+   "jahr": "2016",
+   "journal": "Womens Health (Lond)",
+   "erstautor": "Clayton AH",
+   "doi": "10.2217/whe-2016-0018",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "18179455",
+   "titel": "RETRACTED: Evaluation of the safety and efficacy of bremelanotide, a melanocortin receptor agonist, in female subjects with arousal disorder: a double-blind placebo-controlled, fixed dose, randomized study",
+   "jahr": "2008",
+   "journal": "J Sex Med",
+   "erstautor": "Safarinejad MR",
+   "doi": "10.1111/j.1743-6109.2007.00698.x",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Retracted Publication"
+   ]
+  },
+  {
+   "pmid": "18206919",
+   "titel": "Salvage of sildenafil failures with bremelanotide: a randomized, double-blind, placebo controlled study",
+   "jahr": "2008",
+   "journal": "J Urol",
+   "erstautor": "Safarinejad MR",
+   "doi": "10.1016/j.juro.2007.10.063",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "16839319",
+   "titel": "An effect on the subjective sexual response in premenopausal women with sexual arousal disorder by bremelanotide (PT-141), a melanocortin receptor agonist",
+   "jahr": "2006",
+   "journal": "J Sex Med",
+   "erstautor": "Diamond LE",
+   "doi": "10.1111/j.1743-6109.2006.00268.x",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "15833522",
+   "titel": "Co-administration of low doses of intranasal PT-141, a melanocortin receptor agonist, and sildenafil to men with erectile dysfunction results in an enhanced erectile response",
+   "jahr": "2005",
+   "journal": "Urology",
+   "erstautor": "Diamond LE",
+   "doi": "10.1016/j.urology.2004.10.060",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "15672123",
+   "titel": "Gateways to clinical trials",
+   "jahr": "2004",
+   "journal": "Methods Find Exp Clin Pharmacol",
+   "erstautor": "Bayés M",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "14999221",
+   "titel": "Evaluation of the safety, pharmacokinetics and pharmacodynamic effects of subcutaneously administered PT-141, a melanocortin receptor agonist, in healthy male subjects and in patients with an inadequate response to Viagra",
+   "jahr": "2004",
+   "journal": "Int J Impot Res",
+   "erstautor": "Rosen RC",
+   "doi": "10.1038/sj.ijir.3901200",
+   "typ": [
+    "Clinical Trial",
+    "Clinical Trial, Phase I",
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "14963471",
+   "titel": "Double-blind, placebo-controlled evaluation of the safety, pharmacokinetic properties and pharmacodynamic effects of intranasal PT-141, a melanocortin receptor agonist, in healthy males and patients with mild-to-moderate erectile dysfunction",
+   "jahr": "2004",
+   "journal": "Int J Impot Res",
+   "erstautor": "Diamond LE",
+   "doi": "10.1038/sj.ijir.3901139",
+   "typ": [
+    "Clinical Trial",
+    "Clinical Trial, Phase I",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "12851303",
+   "titel": "PT-141: a melanocortin agonist for the treatment of sexual dysfunction",
+   "jahr": "2003",
+   "journal": "Ann N Y Acad Sci",
+   "erstautor": "Molinoff PB",
+   "doi": "10.1111/j.1749-6632.2003.tb03167.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ]
+  }
+ ],
+ "humanstudien_detail": [
+  {
+   "pmid": "18206919",
+   "titel": "Salvage of sildenafil failures with bremelanotide: a randomized, double-blind, placebo controlled study",
+   "jahr": "2008",
+   "journal": "J Urol",
+   "erstautor": "Safarinejad MR",
+   "doi": "10.1016/j.juro.2007.10.063",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "PURPOSE: We evaluated the safety and efficacy of intranasal bremelanotide in men with erectile dysfunction who did not respond to sildenafil. MATERIALS AND METHODS: A total of 342 married men (28 to 59 years old) with erectile dysfunction who did not respond to sildenafil were randomly assigned to receive 10 mg bremelanotide as an intranasal spray (group 1, 172) 45 minutes to 2 hours prior to sexual stimulation, or a similar regimen of placebo (group 2, 170). Patients were asked to use at least 16 doses/attempts at home. They underwent preliminary assessment, including medical and sexual history, and self-administered International Index of Erectile Function. The efficacy of 2 treatments was assessed every 4 attempts during treatment and at the end of study, using responses to International Index of Erectile Function, and evaluation of mean intercourse satisfaction domain, mean weekly coitus episodes and adverse drug effects. RESULTS: Positive clinical results were seen in 51 (33.5%) patients in the bremelanotide group compared with 13 (8.5%) patients in the placebo group (p = 0.03). Patients in the bremelanotide group reported significantly greater intercourse satisfaction than those in placebo group (p = 0.03). More drug related adverse effects occurred in the bremelanotide group (p = 0.01). CONCLUSIONS: Bremelanotide can be an alternative treatment for erectile dysfunction with a potentially broad patient base. Further studies with different dosages and treatment regimens are necessary to draw final conclusions on the efficacy of this drug in erectile dysfunction."
+  },
+  {
+   "pmid": "35147466",
+   "titel": "Safety Profile of Bremelanotide Across the Clinical Development Program",
+   "jahr": "2022",
+   "journal": "J Womens Health (Larchmt)",
+   "erstautor": "Clayton AH",
+   "doi": "10.1089/jwh.2021.0191",
+   "typ": [
+    "Clinical Trial, Phase III",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Background: Bremelanotide, a melanocortin receptor agonist, is Food and Drug Administration (FDA)-approved for the treatment of premenopausal women with acquired, generalized hypoactive sexual desire disorder. Methods: Review of bremelanotide's safety profile from the clinical development program (phases 1 through 3). Results: The clinical development program comprised 3500 subjects in 43 completed studies. In the phase 3 studies, subjects took bremelanotide for up to 18 months. The most common adverse events (AEs) were nausea (40.0% vs. 1.3%), flushing (20.3% vs. 1.3%), headache (11.3% vs. 1.9%), and injection site reactions (5.4 vs. 0.5), bremelanotide versus placebo groups, respectively, in the integrated double-blind portion of the phase 3 studies (N = 1247). Nausea was the most common reason for bremelanotide discontinuation. There were no deaths; a few subjects experienced serious AEs. Focal hyperpigmentation was rare when bremelanotide was dosed in accordance with label recommendations, but it occurred in more than one-third of subjects following up to 16 consecutive daily dosings. Small and transient but statistically significant blood pressure increases were observed during ambulatory blood pressure monitoring. Most drug-drug interactions were not clinically significant, except for interactions that lowered plasma concentrations of indomethacin and naltrexone. In the double-blind portion of the integrated phase 3 studies, 70% of the bremelanotide group proceeded to the open-label phase of the studies versus 87% of those on placebo. Conclusions: The AEs associated with bremelanotide are mostly mild to moderate. Although not deemed clinically important, bremelanotide should be used with caution in patients at risk of cardiovascular disease, and blood pressure should be well controlled during treatment. Clinical Trial Registration number: NCT02333071 [Study 301] and NCT02338960 [Study 302]."
+  },
+  {
+   "pmid": "35230162",
+   "titel": "Prespecified and Integrated Subgroup Analyses from the RECONNECT Phase 3 Studies of Bremelanotide",
+   "jahr": "2022",
+   "journal": "J Womens Health (Larchmt)",
+   "erstautor": "Simon JA",
+   "doi": "10.1089/jwh.2021.0225",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Background: Hypoactive sexual desire disorder (HSDD), the most prevalent female sexual dysfunction, is characterized as persistent diminished desire for sexual activity accompanied by distress. The efficacy and safety of bremelanotide, a melanocortin receptor agonist approved by the U.S. Food and Drug Administration for treatment of acquired generalized HSDD in premenopausal women, were established in the phase 3 RECONNECT studies, two identically designed double-blind randomized placebo-controlled studies with an optional 52-week open-label extension. This report investigates efficacy of bremelanotide versus placebo according to prespecified subgroups (age, weight, body mass index [BMI], and bioavailable testosterone) in the RECONNECT studies. Materials and Methods: Patients self-administered bremelanotide 1.75 mg or placebo subcutaneously using an autoinjector, as needed, before sexual activity for 24 weeks. Efficacy was assessed using change from baseline to end-of-study for Female Sexual Function Index desire domain and Female Sexual Distress Scale-Desire/Arousal/Orgasm Item 13 for bremelanotide versus placebo. Results: Among 1202 patients included in the integrated and subgroup analyses, bremelanotide achieved statistically significant improvements in measures of increased desire and decreased distress associated with low desire across all age, weight, and BMI subgroups, and all baseline bioavailable testosterone quartiles, with few exceptions. Bremelanotide was further associated with statistically significant increases in reported sexual desire (p < 0.05) in patients not taking hormonal contraceptives, and with a numerical advantage in those taking hormonal contraceptives. Patients treated with bremelanotide experienced decreased distress compared with those in the placebo group at levels of statistical significance (p < 0.05) regardless of hormonal contraceptive use. Statistically significant improvements were observed in the presence or absence of decreased arousal, and regardless of HSDD duration. Conclusions: Bremelanotide was associated with statistically significant improvements in sexual desire and reduced distress across several prespecified subgroups, with few exceptions."
+  },
+  {
+   "pmid": "27181790",
+   "titel": "Bremelanotide for female sexual dysfunctions in premenopausal women: a randomized, placebo-controlled dose-finding trial",
+   "jahr": "2016",
+   "journal": "Womens Health (Lond)",
+   "erstautor": "Clayton AH",
+   "doi": "10.2217/whe-2016-0018",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "AIM: Evaluate efficacy/safety of bremelanotide (BMT), a melanocortin-receptor-4 agonist, to treat female sexual dysfunctions in premenopausal women. METHODS: Patients randomized to receive placebo or BMT 0.75, 1.25 or 1.75 mg self-administered subcutaneously, as desired, over 12 weeks. Primary end point was change in satisfying sexual events/month. Secondary end points included total score changes on female sexual function index and female sexual distress scale-desire/arousal/orgasm. RESULTS: Efficacy data, n = 327. For 1.25/1.75-mg pooled versus placebo, mean changes from baseline to study end were +0.7 versus +0.2 satisfying sexual events/month (p = 0.0180), +3.6 versus +1.9 female sexual function index total score (p = 0.0017), -11.1 versus -6.8 female sexual distress scale-desire/arousal/orgasm total score (p = 0.0014). Adverse events: nausea, flushing, headache. CONCLUSION: In premenopausal women with female sexual dysfunctions, self-administered, as desired, subcutaneous BMT was safe, effective, and well tolerated (NCT01382719)."
+  },
+  {
+   "pmid": "31599840",
+   "titel": "Bremelanotide for the Treatment of Hypoactive Sexual Desire Disorder: Two Randomized Phase 3 Trials",
+   "jahr": "2019",
+   "journal": "Obstet Gynecol",
+   "erstautor": "Kingsberg SA",
+   "doi": "10.1097/AOG.0000000000003500",
+   "typ": [
+    "Clinical Trial, Phase III",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: To evaluate the safety and efficacy of bremelanotide for the treatment of premenopausal women with hypoactive sexual desire disorder. METHODS: Two identical phase 3, randomized, double-blind, placebo-controlled, multicenter clinical trials (RECONNECT) evaluated the safety and efficacy of bremelanotide 1.75 mg administered subcutaneously as needed in premenopausal women with hypoactive sexual desire disorder. Patients were randomized 1:1 to 24 weeks of treatment with bremelanotide or placebo. Sample size was estimated based on simulations from key endpoints in patients with hypoactive sexual desire disorder from a prior trial. Coprimary efficacy endpoints were change from baseline to end-of-study in the Female Sexual Function Index-desire domain score and Female Sexual Distress Scale-Desire/Arousal/Orgasm item 13. RESULTS: Study 301 began on January 7, 2015, and concluded on July 26, 2016. Study 302 began on January 28, 2015, and concluded on August 4, 2016. Of the 1,267 women randomized, 1,247 and 1,202 were in the safety and efficacy (modified intent-to-treat) populations, respectively. Most participants were white (85.6%), from U.S. sites (96.6%), and had a mean age of 39 years. From baseline to end-of-study, women taking bremelanotide had statistically significant increases in sexual desire (study 301: 0.30, P<.001; study 302: 0.42, P<.001; integrated studies 0.35, P<.001) and statistically significant reductions in distress related to low sexual desire (study 301: -0.37, P<.001; study 302: -0.29, P=.005; integrated studies -0.33, P<.001) compared with placebo. Patients taking bremelanotide experienced more nausea, flushing, and headache (10% or more in both studies) compared with placebo. CONCLUSIONS: Both studies demonstrated that bremelanotide significantly improved sexual desire and related distress in premenopausal women with hypoactive sexual desire disorder. The safety profile was favorable. Most treatment-emergent adverse events were related to tolerability and the majority were mild or moderate in intensity. CLINICAL TRIAL REGISTRATION: ClinicalTrials.gov, NCT02333071 (study 301) and NCT02338960 (study 302). FUNDING SOURCE: Palatin Technologies, Inc., and AMAG Pharmaceuticals, Inc."
+  },
+  {
+   "pmid": "28189361",
+   "titel": "Phase I Randomized Placebo-controlled, Double-blind Study of the Safety and Tolerability of Bremelanotide Coadministered With Ethanol in Healthy Male and Female Participants",
+   "jahr": "2017",
+   "journal": "Clin Ther",
+   "erstautor": "Clayton AH",
+   "doi": "10.1016/j.clinthera.2017.01.018",
+   "typ": [
+    "Clinical Trial, Phase I",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "PURPOSE: This was a Phase I study to evaluate the safety, tolerability, and hemodynamic and pharmacokinetic effects of bremelanotide (BMT) coadministered with ethanol to healthy male and female participants. METHODS: This was a randomized, placebo-controlled, double-blind, 3-period, 3-way crossover study. Individuals meeting the inclusion/exclusion criteria received BMT or placebo with or without ethanol at the research facility for 7 consecutive days. Participants were randomized to receive 1 of 6 treatment paths; each participant received single intranasal doses of BMT (20 mg) or placebo on days 1, 4, and 7, with or without oral ethanol (0.6 g/kg) while in a fasted state. The intranasal 20-mg dose of BMT has an exposure equivalent to ~1 to 2 times the subcutaneous dose currently being evaluated in Phase III studies. Vital signs, self-rated sedation scores, nursing and medical observations, and spontaneous reporting by participants provided the basis for evaluation of adverse events. A physical examination and a resting 12-lead electrocardiogram were performed at baseline and on study day 7. Blood and urine samples were obtained for clinical safety profile laboratory tests. FINDINGS: A total of 24 participants were enrolled (12 men; 12 women) and completed the study. Single doses of 20 mg intranasal BMT, administered with or without 0.6 g/kg ethanol, were found to be safe and generally well tolerated with mean maximum ethanol concentrations exceeding 80 mg/dL in women. No clinically significant pharmacokinetic interactions were found between ethanol and BMT either overall or by sex. No significant drug-related hypotensive or orthostatic hypotensive effects were noted. Treatment with BMT did not result in an increased frequency of treatment-emergent adverse events, and no participants discontinued the study because of adverse events. Physical examination, electrocardiography, and laboratory tests disclosed no clinically significant changes. IMPLICATIONS: Female sexual dysfunction is a multifactorial condition with anatomic, physiologic, medical, psychological, and social components. BMT is a synthetic peptide analogue of the naturally occurring hormone α-melanocyte-stimulating hormone and a melanocortin receptor agonist that is being developed for the treatment of hypoactive sexual desire disorder. Its mechanism of action involves activation of endogenous melanocortin hormone pathways involved in the sexual desire and arousal response. The results of this Phase I study found that BMT and ethanol can be safely coadministered and are generally well tolerated with no reports of drug-related serious adverse events. Phase III trials of subcutaneous BMT for the treatment of hypoactive sexual desire disorder in premenopausal women are in progress. ClinicalTrials.gov identifiers NCT02338960 and NCT02333071."
+  },
+  {
+   "pmid": "16839319",
+   "titel": "An effect on the subjective sexual response in premenopausal women with sexual arousal disorder by bremelanotide (PT-141), a melanocortin receptor agonist",
+   "jahr": "2006",
+   "journal": "J Sex Med",
+   "erstautor": "Diamond LE",
+   "doi": "10.1111/j.1743-6109.2006.00268.x",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "INTRODUCTION: Melanocortins affect multiple physiological responses, including sexual behaviors. Bremelanotide is a synthetic peptide melanocortin analog of alpha-melanocyte-stimulating hormone that is an agonist at melanocortin receptors MC3R and MC4R. AIM: To evaluate a single intranasal dose of bremelanotide for potential effects on physiological and subjective measurements of sexual arousal and desire in premenopausal women with sexual arousal disorder. MAIN OUTCOME MEASURES: Change in vaginal pulse amplitude during neutral and erotic videos after treatment with bremelanotide or placebo and subjects' perceptions of physiological and sexual response within 24 hours of treatment with bremelanotide or placebo. METHODS: Eighteen premenopausal women with a primary diagnosis of female sexual arousal disorder were randomly assigned to receive a single intranasal dose of 20 mg bremelanotide or matching placebo in a double-blind manner during the first in-clinic treatment session, and the alternate medication during the second in-clinic treatment session. During each session, subjects viewed a 20-minute neutral video followed by a 20-minute sexually explicit video. Vaginal photoplethysmography was used to monitor vaginal vasocongestion and questionnaires were used to evaluate perceptions of sexual response within the following 24-hour period. RESULTS: More women reported moderate or high sexual desire following bremelanotide treatment vs. placebo (P = 0.0114), and a trend toward more positive responses regarding feelings of genital arousal occurred after bremelanotide compared with placebo (P = 0.0833). Among women who attempted sexual intercourse within 24 hours after treatment, significantly more were satisfied with their level of sexual arousal following bremelanotide, compared with placebo (P = 0.0256). Vaginal vasocongestion did not change significantly while viewing erotic videos following bremelanotide administration compared with placebo. CONCLUSION: This preliminary evaluation suggests the potential for bremelanotide to positively affect desire and arousal in women with female sexual arousal disorder and indicates that bremelanotide is a promising candidate for further evaluation in an at-home study."
+  },
+  {
+   "pmid": "31277966",
+   "titel": "Responder Analyses from a Phase 2b Dose-Ranging Study of Bremelanotide",
+   "jahr": "2019",
+   "journal": "J Sex Med",
+   "erstautor": "Althof S",
+   "doi": "10.1016/j.jsxm.2019.05.012",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Responder analyses are used to determine whether changes that occur during a clinical trial are clinically meaningful; for subjective endpoints such as those based on patient-reported outcomes (PROs), responder analyses are particularly useful. AIM: To identify the minimal clinically important difference (MCID) for selected scores on questionnaires assessing female sexual functioning and to use these differences to analyze the response in a large, controlled, phase 2b, dose-finding study of bremelanotide in premenopausal women with hypoactive sexual desire disorder (HSDD) and mixed HSDD/female sexual arousal disorder (FSAD). METHODS: The responder analyses were performed for the change from baseline to end of study for a total of 7 endpoints. Each PRO endpoint was assessed using at least 1 of 4 types of responder analyses: a planned analysis anchored to MCIDs based on expert estimates (historical anchors); post hoc analyses based on self-reported global benefit; receiver operating characteristic (ROC) curves; and cumulative distribution function. The prespecified analysis groups were all female sexual dysfunction (FSD)-based diagnoses (all study participants), those with HSDD alone, and a combined group of those with FSAD alone plus those with mixed HSDD/FSAD. Post hoc analyses were also performed for subjects with mixed HSDD/FSAD with a primary diagnosis of HSDD. OUTCOMES: MCIDs based on the ROC curves for changes in Female Sexual Function Index-desire domain, Female Sexual Distress Scale-Desire/Arousal/Orgasm (FSDS-DAO) total score, FSDS-DAO item 13 and 14 scores, and number of satisfying sexual events. RESULTS: Outcomes matched those based on input from clinical experts. For all 7 endpoints, responder rates at the 1.75 mg dose in the overall modified intention-to-treat population achieved statistical significance compared with placebo (P ≤ .03). CLINICAL IMPLICATIONS: These responder definitions were subsequently used in the bremelanotide phase 3 registration studies (RECONNECT) that evaluated the safety and efficacy of the bremelanotide 1.75 mg subcutaneous dose in premenopausal women with HSDD. STRENGTHS & LIMITATIONS: MCIDs for this study were based on changes from a single-blind phase to account for changes due to the placebo effect. These analyses were restricted to a study population composed only of premenopausal women with a clinical diagnosis of HSDD and/or FSAD and were based on data from the same clinical trial. CONCLUSION: Bremelanotide was safe and well tolerated and demonstrated significant improvement in efficacy vs placebo in the phase 2b trial. The multiple responder analyses offer a valuable approach for determining clinically important effects of bremelanotide for HSDD and FSAD. Althof S, Derogatis LR, Greenberg S, et al. Responder Analyses from a Phase 2b Dose-Ranging Study of Bremelanotide. J Sex Med 2019;16:1226-1235."
+  },
+  {
+   "pmid": "33538638",
+   "titel": "The Patient Experience of Premenopausal Women Treated with Bremelanotide for Hypoactive Sexual Desire Disorder: RECONNECT Exit Study Results",
+   "jahr": "2021",
+   "journal": "J Womens Health (Larchmt)",
+   "erstautor": "Koochaki P",
+   "doi": "10.1089/jwh.2020.8460",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Background: Hypoactive sexual desire disorder (HSDD) has a significant negative impact on women's overall health and relationships with their partners. Primary analyses from the RECONNECT clinical trials demonstrated statistically significant and clinically meaningful improvements in sexual desire and related distress with bremelanotide relative to placebo in premenopausal women with HSDD. Exit surveys and patient interviews were conducted to evaluate the impact of HSDD and bremelanotide treatment from the patient's perspective. Materials and Methods: Upon completion of the double-blind study but before participation in the open-label extension, up to 250 participants were recruited to complete the quantitative exit survey (17 questions). A subset of up to 90 patients was invited to participate in the telephone interview (17 questions). Patients who volunteered to participate remained blinded to study drug until the survey and interviews were completed. Results: Quantitative exit surveys were completed by 242 RECONNECT participants; 80 of these women also completed qualitative telephone exit interviews. Participants who received bremelanotide described increased feelings of sexual desire, physical arousal, and improvements in overall quality of their sexual activities in their partner relationship. In comparison, women taking placebo reported benefits that did not include the physiological responses described by women receiving bremelanotide, such as positive experiences of seeking HSDD treatment and improved communication with their partner. Conclusions: Exit surveys and patient interviews support the primary findings from RECONNECT and provide quantitative and qualitative assessments of the impact of HSDD on patients' quality of life and the patients' perspectives on the impact of bremelanotide. Clinical trial numbers NCT02333071, NCT02338960."
+  },
+  {
+   "pmid": "27977473",
+   "titel": "Usefulness of ambulatory blood pressure monitoring to assess the melanocortin receptor agonist bremelanotide",
+   "jahr": "2017",
+   "journal": "J Hypertens",
+   "erstautor": "White WB",
+   "doi": "10.1097/HJH.0000000000001221",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "BACKGROUND: Melanocortin receptor agonists that bind to the melanocortin receptor 4 may cause increases in blood pressure (BP). Bremelanotide is an on-demand, subcutaneous melanocortin-receptor agonist that binds to the melanocortin receptor 4 and is being developed for the treatment of female sexual dysfunction. METHODS: We studied the effects of bremelanotide administration on ambulatory BP and heart rate (HR), in a randomized, double-blind, placebo-controlled, and parallel-arm trial of three doses of bremelanotide (0.75, 1.25, and 1.75 mg) in 397 premenopausal women with female sexual dysfunction with normotension or controlled hypertension. Pharmacokinetic exposure was assessed in conjunction with ambulatory BP measurements. RESULTS: Increases in ambulatory SBP relative to placebo of 2.4 and 3.0 mmHg (1.25 mg; P values: 0.029 and 0.076) and 3.1 and 3.2 mmHg (1.75 mg; P values: 0.006 and 0.027), respectively, occurred following two doses, separated by 24 h at the 0 to 4-h postdose interval; peak increases typically lasted less than 15 min. Similar increases in the DBP were observed. Increases in BP were accompanied by reductions in HR during the 0-4-h interval for the 1.75-mg dose (-4.6 to -4.7 bpm; P < 0.001). Twenty-six participants discontinued after randomization due to prespecified increases in BP but the proportions were similar among the four treatment groups. CONCLUSION: These data show that ambulatory monitoring was a useful methodology to detect small, transient increases in ambulatory BP accompanied by reductions in HR following bremelanotide. Results of this trial led to appropriate in-clinic BP monitoring during the larger clinical development trials of this agent for female sexual dysfunction."
+  },
+  {
+   "pmid": "15672123",
+   "titel": "Gateways to clinical trials",
+   "jahr": "2004",
+   "journal": "Methods Find Exp Clin Pharmacol",
+   "erstautor": "Bayés M",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ],
+   "abstract": "Gateways to Clinical Trials is a guide to the most recent clinical trials in current literature and congresses. The data in the following tables has been retrieved from the Clinical Studies Knowledge Area of Prous Science Integrity, the drug discovery and development portal, http://integrity.prous.com. This issue focuses on the following selection of drugs: Abetimus sodium, ademetionine, agalsidase alfa, agalsidase beta, alemtuzumab, alfimeprase, AMG-162, androgel, anidulafungin, antigastrin therapeutic vaccine, aripiprazole, atomoxetine hydrochloride; Bazedoxifene acetate, bevacizumab, bosentan; Caldaret hydrate, canfosfamide hydrochloride, choriogonadotropin alfa, ciclesonide, combretastatin A-4 phosphate, CY-2301; Darbepoetin alfa, darifenacin hydrobromide, decitabine, degarelix acetate, duloxetine hydrochloride; ED-71, enclomiphene citrate, eplerenone, epratuzumab, escitalopram oxalate, eszopiclone, ezetimibe; Fingolimod hydrochloride, FP-1096; HMR-3339A, HSV-TK/GCV gene therapy, human insulin, HuOKT3gamma1(Ala234-Ala235); Idursulfase, imatinib mesylate, indiplon, InnoVax C insulin glargine, insulin glulisine, irofulven; Labetuzumab, lacosamide, lanthanum carbonate, LyphoDerm, Lyprinol; Magnesium sulfate, metelimumab, methylphenidate hydrochloride; Natalizumab, NO-aspirin; OROS(R); PC-515, pegaptanib sodium, peginterferon alfa-2a, peginterferon alfa-2b, peginterferon alfa-2b/ribavirin, pemetrexed disodium, peptide YY3-36, posaconazole, pregabalin, PT-141, pyridoxamine; R-744, ramelteon, ranelic acid distrontium salt, rebimastat, repinotan hydrochloride, rhC1, rhGAD65, rosiglitazone maleate/metformin hydrochloride; Sardomozide, solifenacin succinate; Tadalafil, taxus, telavancin, telithromycin, tenofovir disoproxil fumarate, teriparatide, testosterone transdermal patch, tetomilast, tirapazamine, torcetrapib; Valspodar, vardenafil hydrochloride hydrate, vildagliptin; Yttrium Y90 epratuzumab; Ziprasidone hydrochloride."
+  },
+  {
+   "pmid": "12851303",
+   "titel": "PT-141: a melanocortin agonist for the treatment of sexual dysfunction",
+   "jahr": "2003",
+   "journal": "Ann N Y Acad Sci",
+   "erstautor": "Molinoff PB",
+   "doi": "10.1111/j.1749-6632.2003.tb03167.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ],
+   "abstract": "PT-141, a synthetic peptide analogue of alpha-MSH, is an agonist at melanocortin receptors including the MC3R and MC4R, which are expressed primarily in the central nervous system. Administration of PT-141 to rats and nonhuman primates results in penile erections. Systemic administration of PT-141 to rats activates neurons in the hypothalamus as shown by an increase in c-Fos immunoreactivity. Neurons in the same region of the central nervous system take up pseudorabies virus injected into the corpus cavernosum of the rat penis. Administration of PT-141 to normal men and to patients with erectile dysfunction resulted in a rapid dose-dependent increase in erectile activity. The results suggest that PT-141 holds promise as a new treatment for sexual dysfunction."
+  },
+  {
+   "pmid": "15833522",
+   "titel": "Co-administration of low doses of intranasal PT-141, a melanocortin receptor agonist, and sildenafil to men with erectile dysfunction results in an enhanced erectile response",
+   "jahr": "2005",
+   "journal": "Urology",
+   "erstautor": "Diamond LE",
+   "doi": "10.1016/j.urology.2004.10.060",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVES: To evaluate the safety and pharmacodynamic effect of co-administration of subtherapeutic doses of PT-141, a cyclic heptapeptide melanocortin analogue, and sildenafil to patients with erectile dysfunction. METHODS: Nineteen patients with erectile dysfunction who were responders to either Viagra or Levitra by self-report were given 25 mg sildenafil and 7.5 mg intranasal PT-141, 25 mg sildenafil and an intranasal placebo spray, and a placebo tablet and an intranasal placebo spray in a randomized cross-over design. Erectile activity in response to two 30-minute episodes of visual sexual stimulation was assessed by RigiScan during a 6-hour postdose period. RESULTS: The erectile response induced by co-administration of PT-141 and sildenafil was significantly greater than the response elicited by administration of sildenafil alone. Co-administration of PT-141 and sildenafil was safe and well-tolerated and did not result in new adverse events or adverse events that were increased in frequency or severity compared with monotherapy. CONCLUSIONS: Co-administration of intranasal PT-141 and a phosphodiesterase type 5 inhibitor may constitute a treatment alternative for patients in whom higher doses of a single therapy are not effective or well tolerated."
+  },
+  {
+   "pmid": "18179455",
+   "titel": "RETRACTED: Evaluation of the safety and efficacy of bremelanotide, a melanocortin receptor agonist, in female subjects with arousal disorder: a double-blind placebo-controlled, fixed dose, randomized study",
+   "jahr": "2008",
+   "journal": "J Sex Med",
+   "erstautor": "Safarinejad MR",
+   "doi": "10.1111/j.1743-6109.2007.00698.x",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Retracted Publication"
+   ],
+   "abstract": "This article has been retracted: please see Elsevier Policy on Article Withdrawal (https://www.elsevier.com/about/our-business/policies/article-withdrawal). This article has been retracted at the request of the Editor-in-Chief. Following the retraction of Dr. Safarinejad's work by other journals, The Journal of Sexual Medicine has undertaken an extensive re-review of all papers Dr. Safarinejad published with the journal. Following an intensive re-evaluation and close scrutiny of the manuscripts, our expert reviewers raised multiple concerning questions about the methodology, results, and statistical interpretation as presented in this article. Dr. Safarinejad was contacted to provide his original data and offer explanations to address the concerns expressed by the reviewers. Dr Safarinejad chose not to respond. Consequently, we can no longer verify the results or methods as presented and therefore retract the article."
+  },
+  {
+   "pmid": "14999221",
+   "titel": "Evaluation of the safety, pharmacokinetics and pharmacodynamic effects of subcutaneously administered PT-141, a melanocortin receptor agonist, in healthy male subjects and in patients with an inadequate response to Viagra",
+   "jahr": "2004",
+   "journal": "Int J Impot Res",
+   "erstautor": "Rosen RC",
+   "doi": "10.1038/sj.ijir.3901200",
+   "typ": [
+    "Clinical Trial",
+    "Clinical Trial, Phase I",
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "PT-141, a cyclic heptapeptide melanocortin analog, was evaluated following subcutaneous administration to healthy male subjects and to patients with erectile dysfunction (ED) who report an inadequate response to Viagra. An inadequate response was defined for this study by patient report indicating that achievement of an erection suitable for vaginal penetration occurred < or =50% of the time while taking 100 mg Viagra. Erectile responses were assessed by RigiScan in healthy subjects in the absence of visual sexual stimulation (VSS) and in ED patients in the presence of VSS. Doses ranging from 0.3 to 10 mg were administered to healthy male subjects, resulting in a statistically significant erectile response at doses greater than 1.0 mg. ED patients were treated with placebo, 4 or 6 mg PT-141 in a crossover design in the presence of VSS. The erectile response induced by PT-141 was statistically significant at both doses. PT-141 was safe and well tolerated in both studies. The erectogenic potential of PT-141, its tolerability profile and its ability to cause significant erections in patients who do not have an adequate response to a PDE5 inhibitor suggest that PT-141 may provide an alternative treatment for ED with a potentially broad patient base."
+  },
+  {
+   "pmid": "14963471",
+   "titel": "Double-blind, placebo-controlled evaluation of the safety, pharmacokinetic properties and pharmacodynamic effects of intranasal PT-141, a melanocortin receptor agonist, in healthy males and patients with mild-to-moderate erectile dysfunction",
+   "jahr": "2004",
+   "journal": "Int J Impot Res",
+   "erstautor": "Diamond LE",
+   "doi": "10.1038/sj.ijir.3901139",
+   "typ": [
+    "Clinical Trial",
+    "Clinical Trial, Phase I",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "PT-141, a cyclic heptapeptide melanocortin analog, was evaluated following intranasal administration in healthy male subjects and in Viagra-responsive erectile dysfunction (ED) patients. Erectile response was assessed by RigiScan trade mark in healthy subjects without visual sexual stimulation (VSS) and in Viagra-responsive ED patients with VSS. In healthy subjects, mean C(max) and AUC((0-t)) increased in a dose-dependent manner. Median T(max) was 0.50 h and mean t(1/2) ranged from 1.85 to 2.09 h. In both studies, an erectile response induced by PT-141 administration was statistically significant, compared to placebo, at doses greater than 7 mg, with the onset of the first erection occurring in approximately 30 min. PT-141 was safely administered and well tolerated in both studies. A maximum-tolerated dose was not identified. Flushing and nausea were the most common adverse events reported in both studies and no clinically significant changes in vital signs, laboratory tests, ECGs, or physical exams were observed. Based upon its erectogenic potential and tolerability profile, PT-141 is a promising candidate for further evaluation as a treatment for male ED."
+  }
+ ],
+ "metaanalysen": [
+  {
+   "pmid": "40543759",
+   "titel": "Female Sexual Desire, Arousal, and Orgasmic Dysfunctions: A Systematic Review and Meta-Analysis of Treatment Options",
+   "jahr": "2026",
+   "journal": "J Minim Invasive Gynecol",
+   "erstautor": "Toledo RG",
+   "doi": "10.1016/j.jmig.2025.06.004",
+   "typ": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+   ],
+   "abstract": "OBJECTIVE: To conduct a systematic review and meta-analysis of treatments for female sexual desire, arousal, and orgasmic dysfunction in patients without sexual pain conditions. DATA SOURCE: MEDLINE, Embase, Web of Science, Cochrane Library, PsycINFO, and ClinicalTrials.gov. METHODS OF STUDY SELECTION: Following the initial search in December 2024, a total of 8994 abstracts were screened, 278 full-text articles were reviewed, and 36 studies met criteria for data abstraction including a patient population with female sexual dysfunction (FSD) of desire, arousal, and/or orgasm (DAO) and outcome measures including the Female Sexual Function Index (FSFI), its DAO subscales, and the Female Sexual Distress Scale (FSDS). Studies including patients with sexual pain conditions were excluded. Two reviewers independently conducted each phase. TABULATION, INTEGRATION, AND RESULTS: Of the 36 studies, 26 were RCTs and 10 were single-arm trials. Ten studies evaluated cognitive behavioral therapy (CBT), 24 investigated medication therapy, and 2 investigated devices. Meta-analyses were conducted for mindfulness-based CBT, flibanserin, and bremelanotide. Mindfulness-based CBT significantly improved total FSFI and subscales of desire, arousal, and orgasm. Conversely, flibanserin improved total FSFI and desire while bremelanotide improved total FSFI and its desire and arousal subscales. No studies directly compared CBT to pharmacotherapy. CONCLUSION: In this systematic review of treatments of females with sexual DAO dysfunctions without pain, we found that CBT improves DAO; flibanserin improves desire; and bremelanotide improves both desire and arousal; and all 3 treatments reduce distress. Our findings align with previous literature and expand upon it to include multiple treatment modalities. This broader perspective offers a starting point for clinicians, including gynecologists, who frequently serve as the first point of care for FSD. Conclusions regarding most other treatments could not be drawn due to limited numbers of studies of FSD excluding pain, heterogeneous terminology for DAO disorders, and varying outcome measures across studies."
+  },
+  {
+   "pmid": "31893927",
+   "titel": "Bremelanotide: New Drug Approved for Treating Hypoactive Sexual Desire Disorder",
+   "jahr": "2020",
+   "journal": "Ann Pharmacother",
+   "erstautor": "Mayer D",
+   "doi": "10.1177/1060028019899152",
+   "typ": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "abstract": "Objective: To review data regarding bremelanotide, a recently approved therapy for hypoactive sexual desire disorder (HSDD). Data Sources: Literature search of Medline, SCOPUS, and EMBASE was performed using the search terms bremelanotide, bremelanotide injection, Vyleesi, and melanocortin 4 receptor agonist between January 1, 1996, and December 15, 2019. Reference lists from included articles were also reviewed for pertinent citations. Study Selection/Data Extraction: We included phase 2 and 3 trials of bremelanotide. There were 2 reports of phase 3 trials and 2 reports of phase 2 trials. Additional information from supplementary analyses was also referenced. Data Synthesis: Bremelanotide demonstrates significant improvement in desire and a significant decrease in distress related to lack of desire. The most common adverse effects include nausea (39.9%), facial flushing (20.4%), and headache (11%). Relevance to Patient Care and Clinical Practice: Bremelanotide is the second Food and Drug Administration-approved medication for the treatment of HSDD. Bremelanotide's place in therapy is unknown, as the HSDD guidelines were last updated in 2017. Although the trials met statistical significance for change in sexual desire elements and distress related to sexual desire, the clinical benefit may only be modest. Conclusion: Bremelanotide is a subcutaneous injection that can be administered as needed approximately 45 minutes prior to sexual activity. Bremelanotide is safe and has limited drug-drug interactions, including no clinically significant interactions with ethanol. Prescribing guidelines recommend no more than 1 dose in 24 hours and no more than 8 doses per month. Individuals should discontinue use after 8 weeks without benefit."
+  },
+  {
+   "pmid": "33678061",
+   "titel": "Re-Analyzing Phase III Bremelanotide Trials for \"Hypoactive Sexual Desire Disorder\" in Women",
+   "jahr": "2021",
+   "journal": "J Sex Res",
+   "erstautor": "Spielmans GI",
+   "doi": "10.1080/00224499.2021.1885601",
+   "typ": [
+    "Journal Article",
+    "Meta-Analysis"
+   ],
+   "abstract": "Kingsberg et al. described results from two 24-week Phase III trials of bremelanotide for treating hypoactive sexual desire disorder (HSDD) in women. 72.72% of protocol-listed outcomes were not reported by Kingsberg et al., who provided results of 15 secondary measures which were not listed in the study protocols. None of their efficacy outcomes were reported in line with CONSORT data reporting standards and no secondary outcome had a stated rationale or cited evidence of validity. My meta-analysis of the trials' data, based on the FDA New Drug Application, found similar results to Kingsberg et al. However, Kingsberg et al. did not report that a) adverse event-induced study discontinuation was substantially higher on bremelanotide: OR = 11.98, 95% CI = 3.74-38.37, NNH: 6 or b) participants preferred placebo, measured by the combination of both 1) completing a clinical trial and 2) electing to participate in the follow-up open-label study (OR = 0.30, 95% CI = .24-.38, NNH: 4). Bremelanotide's modest benefits on incompletely reported post-hoc measures of questionable validity in combination with participants substantially preferring to take placebo suggest that the drug is generally not useful. Kingsberg et al.'s data reporting and measurement practices were incomplete and lacked transparency."
+  },
+  {
+   "pmid": "29995725",
+   "titel": "Female Sexual Dysfunction and the Placebo Effect: A Meta-analysis",
+   "jahr": "2018",
+   "journal": "Obstet Gynecol",
+   "erstautor": "Weinberger JM",
+   "doi": "10.1097/AOG.0000000000002733",
+   "typ": [
+    "Journal Article",
+    "Meta-Analysis"
+   ],
+   "abstract": "OBJECTIVE: To quantify the placebo effect of various pharmacologic modalities including neuromodulators, hormonal agents, and onabotulinum toxin A for female sexual dysfunction. DATA SOURCES: Using Meta-analyses Of Observational Studies in Epidemiology guidelines, we conducted a systematic review of PubMed, EMBASE, ClinicalTrials.gov, and the Cochrane Review databases. METHODS OF STUDY SELECTION: Eleven search terms, \"female sexual dysfunction\" \"treatment\" in combination with \"hypoactive sexual desire,\" \"arousal disorder,\" \"sexual pain disorder,\" \"genitourinary syndrome of menopause,\" \"orgasmic disorder,\" \"vulvovaginal atrophy,\" \"vaginismus,\" \"vaginal atrophy,\" \"vulvodynia,\" and \"vestibulitis,\" were used. Studies were included if their design was randomized, included a placebo arm, and used the Female Sexual Function Index as an outcome measure. TABULATION, INTEGRATION, AND RESULTS: The placebo effect on the Female Sexual Function Index was compared with each respective study's treatment effect using inverse-variance weighting in a random-effects analysis model. Six hundred five relevant articles were retrieved. Twenty-four randomized controlled trials included a placebo arm. Of these, eight studies used the Female Sexual Function Index. Across these studies, 1,723 women with clinical pretreatment female sexual dysfunction received placebo. Two thousand two hundred thirty-six women were in the treatment arm of the respective studies and received various pharmacologic interventions including flibanserin, bupropion, onabotulinum toxin A, intravaginal prasterone, intranasal oxytocin, ospemifene, and bremelanotide. Women receiving placebo improved 3.62 (95% CI 3.29-3.94) on the Female Sexual Function Index. The treatment arm had a corresponding increase of 5.35 (95% CI 4.13-6.57). CONCLUSION: This meta-analysis of Level I evidence demonstrates that 67.7% of the treatment effect for female sexual dysfunction is accounted for by placebo. Our findings suggest that the current treatments for female sexual dysfunction are, overall, minimally superior to placebo, which emphasizes the ongoing need for more efficacious treatment for female sexual dysfunction."
+  },
+  {
+   "pmid": "42254382",
+   "titel": "Clinical trial evidence on emerging pharmacological therapies for hypoactive sexual desire disorder in women: a systematic review and analysis of completed studies registered on ClinicalTrials.gov",
+   "jahr": "2026",
+   "journal": "Front Med (Lausanne)",
+   "erstautor": "Ashour AM",
+   "doi": "10.3389/fmed.2026.1789809",
+   "typ": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "abstract": "BACKGROUND: Hypoactive Sexual Desire Disorder (HSDD) is a prevalent and distressing condition affecting adult women and is associated with significant impairments in quality of life and interpersonal relationships. Despite increasing recognition of female sexual health as a clinical priority, pharmacological treatment options for HSDD remain limited, and evidence from individual clinical trials remains heterogeneous. Therefore, a systematic evaluation of registered clinical trials is essential to better understand therapeutic development, efficacy endpoints, and safety profiles of emerging treatments. METHODS: This systematic review was conducted in accordance with PRISMA 2020 guidelines using a structured search of ClinicalTrials.gov. Completed interventional clinical trials evaluating pharmacological therapies for HSDD in adult women were identified using predefined eligibility criteria. Data were extracted on study design, participant characteristics, investigational agents, efficacy outcomes related to sexual desire and distress, and reported safety outcomes. Findings were synthesized descriptively without pooled quantitative analysis. RESULTS: A total of nine completed pharmacological clinical trials met the inclusion criteria. Most were Phase II and Phase III randomized, double-blind, placebo-controlled studies, primarily enrolling premenopausal women with acquired, generalized HSDD. Investigational therapies predominantly targeted central nervous system pathways, with flibanserin and bremelanotide representing the most extensively studied agents. Efficacy outcomes commonly included validated patient-reported measures such as the Female Sexual Function Index desire domain and the Female Sexual Distress Scale; however, endpoint designation and reporting completeness varied across trials. Safety data were inconsistently reported, with adverse events reflecting the pharmacological mechanisms of the agents studied. CONCLUSION: The findings highlight both progress and persistent gaps in the pharmacological treatment landscape for HSDD. Variability in trial design, outcome measures, and reporting practices limits cross-trial comparison and clinical interpretation. Further research with standardized methodologies and comprehensive reporting is needed to strengthen the evidence base."
+  }
+ ],
+ "praeklinik": [
+  {
+   "pmid": "34436837",
+   "titel": "Bremelanotide",
+   "jahr": "2012",
+   "journal": "",
+   "erstautor": "",
+   "doi": "",
+   "typ": [
+    "Review"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "15134289",
+   "titel": "PT-141 Palatin",
+   "jahr": "2004",
+   "journal": "Curr Opin Investig Drugs",
+   "erstautor": "Hedlund P",
+   "doi": "",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Palatin, under license from Competitive Technology, is developing the peptide PT-141, a synthetically modified analog of PT-14, as a nasal spray for the potential treatment of erectile dysfunction (ED) and female sexual dysfunction. In September 2003, Palatin had completed a phase IIb trial in patients with ED and in February 2004, Palatin planned to start phase III trials in early 2005."
+  },
+  {
+   "pmid": "36809187",
+   "titel": "Small Effects, Questionable Outcomes: Bremelanotide for Hypoactive Sexual Desire Disorder",
+   "jahr": "2024",
+   "journal": "J Sex Res",
+   "erstautor": "Spielmans GI",
+   "doi": "10.1080/00224499.2023.2175192",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "Efficacy outcomes are only informative to the extent that they are validated. We examined the measurement properties of efficacy measures from the phase III (\"RECONNECT\") bremelanotide trials for hypoactive sexual desire disorder (HSDD) in women. Continuous efficacy outcomes, including a) the Female Sexual Function Index (FSFI) and its Desire domain (FSFI-D) and b) the Female Sexual Distress Scale-Desire/Arousal/Orgasm (FSDS-DAO) and its item assessing distress due to low desire (FSDS-DAO #13) have questionable, at best, validity evidence for women with HSDD. We found no validity evidence for previously published categorical treatment response outcomes from the RECONNECT trials. All efficacy results should be reported, but results on 8 of the 11 clinicaltrials.gov-specified efficacy outcomes were heretofore unpublished (including FSDS-DAO total score, FSFI total score, FSFI arousal domain, and items from the Female Sexual Encounter Profile-Revised). We analyzed these outcomes, upon which effect sizes ranged from nil to small. Several other continuous and categorical outcomes generated modest apparent benefits, though nearly all of these outcomes were likely derived post-hoc. Across RECONNECT trial data from two prior publications and the current study, bremelanotide's benefits are statistically modest and limited to outcomes for which scant evidence of validity among women with HSDD exists."
+  },
+  {
+   "pmid": "32151051",
+   "titel": "2019 FDA TIDES (Peptides and Oligonucleotides) Harvest",
+   "jahr": "2020",
+   "journal": "Pharmaceuticals (Basel)",
+   "erstautor": "Al Shaer D",
+   "doi": "10.3390/ph13030040",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "2019 has been an excellent year in terms of peptides and oligonucleotides (TIDES) approved by the FDA. Despite the drop in the number of total drugs approved by the FDA in 2019 in comparison with 2018 (48 vs. 59), the total number of TIDES authorized increased (seven vs. three). Year after year, TIDES are increasingly present in therapy, as imaging agents, theragnostic and constituent moieties of other complex drugs, such as antibody drug conjugates. This means a consolidation of these kinds of drugs in the pharmaceutical arena, paving the way in the coming years for the approval of others for diverse medical indications. Here the TIDES approved in 2019 are analyzed in terms of chemical structure, medical target, mode of action, and adverse effects."
+  },
+  {
+   "pmid": "31429064",
+   "titel": "Bremelanotide: First Approval",
+   "jahr": "2019",
+   "journal": "Drugs",
+   "erstautor": "Dhillon S",
+   "doi": "10.1007/s40265-019-01187-w",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Bremelanotide (Vyleesi™) is a melanocortin receptor agonist recently approved in the USA for the treatment of premenopausal women with acquired, generalized hypoactive sexual desire disorder (HSDD), as characterized by low sexual desire that causes marked distress or interpersonal difficulty. It is a self-administered, on-demand subcutaneous therapy. Initially developed by Palatin Technologies who sponsored the Phase 3 clinical trials, bremelanotide was subsequently out-licensed to AMAG Pharmaceuticals Inc. for exclusive North American rights to develop and commercialize the drug, including submitting the New Drug Application to the US FDA. Bremelanotide is a synthetic peptide analogue of the neuropeptide hormone alpha melanocyte-stimulating hormone (α-MSH) with high affinity for the melanocortin type 4 receptor (thought to be important for sexual function), giving it the potential to modulate brain pathways involved in sexual response. This article summarizes the milestones in the development of bremelanotide leading to this first regulatory approval."
+  },
+  {
+   "pmid": "31369224",
+   "titel": "Bremelanotide",
+   "jahr": "2006",
+   "journal": "",
+   "erstautor": "",
+   "doi": "",
+   "typ": [
+    "Review"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "17235418",
+   "titel": "Gateways to clinical trials",
+   "jahr": "2006",
+   "journal": "Methods Find Exp Clin Pharmacol",
+   "erstautor": "Bayes M",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Gateways to Clinical Trials are a guide to the most recent clinical trials in current literature and congresses. The data in the following tables have been retrieved from the Clinical Trials Knowledge Area of Prous Science Integrity, the drug discovery and development portal, http://integrity.prous.com. This issue focuses on the following selection of drugs: 5-Methyltetrahydrofolate, 9-aminocamptothecin; AdPEDF.11, AE-37, albumin interferon alfa, alicaforsen sodium, alvocidib hydrochloride, AMG-706, arginine butyrate, avanafil, axitinib, azimilide hydrochloride; BAY-579352, belagenpumatucel-L, beta-lapachone, BHT-3009, BIBW-2992, bremelanotide, BX-471; Casopitant mesylate, cediranib, certolizumab pegol, CH-1504, ChimeriVax-West Nile, clofazimine, CpG-7909, curcumin, Cypher; Dapoxetine hydrochloride, darusentan, diflomotecan, D-methionine, dnaJP1, D-serine, DTPw-HB Hib-MenAC, DTPw-HepB-Hib; E-7010, ecogramostim, edodekin alfa, EGFRvlll peptide vaccine, elcometrine, elcometrine/ethinylestradiol, elsilimomab, enrasentan, ertumaxomab, etalocib sodium, exisulind; Fenretinide, fesoterodine, fingolimod hydrochloride, fontolizumab; Gefitinib, gemtuzumab ozogamicin, ghrelin (human), GV-1001; HTU-PA, human papillomavirus vaccine; Indacaterol, indiplon, interleukin-21, intranasal insulin, irinotecan hydrochloride/floxuridine, ISIS-301012, ispinesib mesylate, ixabepilone; K562/GM-CSF; Lapatinib, L-BLP-25, linezolid, liposome encapsulated paclitaxel, LY-2124275; MC-1, MC-1/lisinopril, MDX-066, melanoma vaccine, MMR-V, multivalent (ACYW) meningitis vaccine; Nilotinib, nobori, nociceptin; Oblimersen sodium, orbofiban acetate, ospemifene; Paliperidone, panitumumab, PEG-filgrastim, PEGylated interferon alfacon-1, perflubutane, pertuzumab, phenserine tartrate, phVEGF-A165, pleconaril, prasugrel, prednisolone sodium metasulfobenzoate; R-411, recombinant malaria vaccine, rhGM-CSF, roflumilast, romidepsin, ruboxistaurin mesilate hydrate; Sirolimus-eluting stent, SR-4554, St. John's Wort extract; Talabostat, Taxus, TGN-255, tifacogin, tiotropium bromide, tolevamer sodium, trabectedin, tretinoin LF; Vatalanib succinate; Yellow fever vaccine, YM-155."
+  },
+  {
+   "pmid": "19088949",
+   "titel": "Gateways to clinical trials",
+   "jahr": "2008",
+   "journal": "Methods Find Exp Clin Pharmacol",
+   "erstautor": "Tomillero A",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Gateways to clinical trials is a guide to the most recent trials in current literature and congresses. The data in the following tables has been retrieved from the Clinical Trials Knowledge Area of Prous Science Integrity(R), the drug discovery and development portal, http://integrity.prous.com. This issue focuses on the following selection of drugs: (+)-Dapoxetine hydrochloride, (S)-Tenatoprazole sodium salt monohydrate 19-28z, Acotiamide hydrochloride hydrate, ADV-TK, AE-37, Aflibercept, Albinterferon alfa-2b, Aliskiren fumarate, Asenapine maleate, Axitinib; Bavituximab, Becatecarin, beta-1,3/1,6-Glucan, Bevacizumab, Bremelanotide; Calcipotriol/betamethasone dipropionate, Casopitant mesylate, Catumaxomab, CDX-110, Cediranib, CMD-193, Cositecan; Darinaparsin, Denosumab, DP-b99, Duloxetine hydrochloride; E75, Ecogramostim, Elacytarabine, EMD-273063, EndoTAG-1, Enzastaurin hydrochloride, Eplerenone, Eribulin mesilate, Esomeprazole magnesium, Etravirine, Everolimus, Ezetimibe; Faropenem daloxate, Febuxostat, Fenretinide; Ghrelin (human); I-131 ch-TNT-1/B, I-131-3F8, Iclaprim, Iguratimod, Iloperidone, Imatinib mesylate, Inalimarev/Falimarev, Indacaterol, Ipilimumab, Iratumumab, Ispinesib mesylate, Ixabepilone; Lapatinib ditosylate, Laquinimod sodium, Larotaxel dehydrate, Linezolid, LOR-2040; Mapatumumab, MKC-1, Motesanib diphosphate, Mycophenolic acid sodium salt; NK-012; Olanzapine pamoate, Oncolytic HSV, Ortataxel; Paclitaxel nanoparticles, Paclitaxel poliglumex, Paliperidone palmitate, Panitumumab, Patupilone, PCV-9, Pegfilgrastim, Peginterferon alfa-2a, Peginterferon alfa-2b, Pertuzumab, Picoplatin, Pimavanserin tartrate, Pimecrolimus, Plerixafor hydrochloride, PM-02734, Poly I:CLC, PR1, Prasugrel, Pregabalin, Progesterone caproate, Prucalopride, Pumosetrag hydrochloride; RAV-12, RB-006, RB-007, Recombinant human erythropoietin alfa, Rimonabant, Romidepsin; SAR-109659, Satraplatin, Sodium butyrate; Tadalafil, Talampanel, Tanespimycin, Tarenflurbil, Tariquidar, Taurine, Tecovirimat, Telatinib, Telavancin hydrochloride, Telcagepant, Terameprocol, Tesofensine, Tetrodotoxin, Tezampanel, Tipifarnib, TPI-287, Tremelimumab; Valspodar, Vatalanib succinate, VCL-CB01, vCP1452, Vorinostat; XL-228; Ziprasidone hydrochloride."
+  },
+  {
+   "pmid": "18552829",
+   "titel": "Preclinical effects of melanocortins in male sexual dysfunction",
+   "jahr": "2008",
+   "journal": "Int J Impot Res",
+   "erstautor": "Shadiack AM",
+   "doi": "10.1038/ijir.2008.17",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "The neurobiology of sexual behavior involves the interrelationships between sex steroids and neurotransmitters that result in both central nervous system (CNS) effects and effects in the genitalia. Tools such as positron emission tomography (PET) and functional magnetic resonance imaging (fMRI) scanning can help determine what areas of the brain are activated under sexual stimulation. Our understanding of the role of various neurotransmitters, neurosteroids and other CNS-acting compounds is improving. The role of CNS-acting compounds such as dopamine agonists in the treatment of male sexual dysfunction is under active investigation. Melanocortins have CNS and peripheral roles in a wide variety of bodily functions. The melanocortin agonist bremelanotide appears to act in the CNS to promote erections in preclinical models, and may also stimulate behaviors that facilitate sexual activity beyond their erectogenic effects."
+  },
+  {
+   "pmid": "33558671",
+   "titel": "Management of hypoactive sexual desire disorder in transgender women: a guide for clinicians",
+   "jahr": "2020",
+   "journal": "Int J Impot Res",
+   "erstautor": "Cocchetti C",
+   "doi": "10.1038/s41443-021-00409-8",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Hypoactive sexual desire disorder (HSDD) represents a common condition among transgender women. However, to date no specific guidelines for the management of HSDD in transgender persons are available. The aim of the present narrative Review is to evaluate evidence-based treatment for HSDD and to suggest treatment options for HSDD in transgender women. Clinically relevant publications on the management of HSDD (from 1985 to 2020) were searched in PubMed and Medline databases, using the following terms: \"sexual desire\", \"sexual health\", \"HSDD\", \"transgender\", \"gender-affirming treatment\", \"sexual therapy\", \"testosterone treatment\", \"Central nervous system-active medications\", and variants. Since sexual desire could be affected by several factors, a comprehensive assessment of HSDD- exploring biological, psychological, and social domains- is recommended, in order to identify possible predisposing, precipitating and maintaining factors. Among treatment options, transgender women may benefit of different sex therapy strategies and/or central nervous system-active medications-such as flibanserin, bremelanotide, bupropion and buspirone-and transdermal testosterone, bearing in mind that this option could be poorly accepted by patients due to the risk of virilizing effects. The lack of data regarding the efficacy of HSDD treatment options in transgender women emphasize the need for literature to focus more on this topic in the future."
+  },
+  {
+   "pmid": "18552830",
+   "titel": "Clinical applications of centrally acting agents in male sexual dysfunction",
+   "jahr": "2008",
+   "journal": "Int J Impot Res",
+   "erstautor": "Hellstrom WJ",
+   "doi": "10.1038/ijir.2008.18",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "Currently available agents for erectile dysfunction (ED) share the same mechanism of action and pharmacologic properties. Therefore, they share the same limitations, including a principal focus on erection as an end-organ process. One of the relatively unexplored areas of research has been the potential for centrally acting agents to improve male sexual response. A variety of neurohormones and neurotransmitter systems are involved in the male sexual response, including testosterone, dopamine, serotonin and the melanocortin systems. Investigations to determine the utility of centrally acting agents as monotherapy or adjunctive therapy in men with ED or other forms of sexual dysfunction are underway. Bremelanotide, a melanocortin agonist, has been tested in men with ED and may prove to be one of the first centrally acting agents to have clinical utility in male sexual dysfunction."
+  },
+  {
+   "pmid": "35102537",
+   "titel": "Pharmacotherapy for Sexual Dysfunction in Women",
+   "jahr": "2022",
+   "journal": "Curr Psychiatry Rep",
+   "erstautor": "Lee JH",
+   "doi": "10.1007/s11920-022-01322-7",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "PURPOSE OF REVIEW: This review article discusses the controversy in the DSM-5 conceptualization and diagnostic criteria for female sexual dysfunction (FSD). An overview of recent studies on available treatments for hypoactive sexual desire disorder (HSDD), female sexual arousal disorder (FSAD), and genitopelvic pain/penetration disorder (GPPD) is provided. RECENT FINDINGS: Include delineation of the process of care for pre- and postmenopausal women with HSDD; release of global position statement on testosterone therapy in women; updates on efficacy and safety of vaginal estrogen for genitourinary syndrome of menopause and bremelanotide for HSDD; removal of flibanserin alcohol REMS; and development of new technology to enhance bioavailability and brain delivery of treatments. The DSM-5 revision combining HSDD and FSAD into one diagnostic category is a less accurate characterization of these separate disorders and may hinder access to demonstrated effective treatments for the women with these conditions. There are a wide range of pharmacological, other physiological, and psychological treatment options available for women with FSD, which can be offered based on their specific symptoms, potential benefits/risks, and preferences."
+  },
+  {
+   "pmid": "35428435",
+   "titel": "Medical Treatment of Female Sexual Dysfunction",
+   "jahr": "2022",
+   "journal": "Urol Clin North Am",
+   "erstautor": "Nappi RE",
+   "doi": "10.1016/j.ucl.2022.02.001",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Female sexual dysfunction (FSD) comprises multiple overlapping sexual disorders with a multifaceted cause within the frame of the biopsychosocial model. Health care providers can screen for FSD according to their level of expertise and deliver at least basic counseling before eventually referring to sexual medicine specialists for specific care. The therapeutic algorithm comprises a multidisciplinary approach, including pharmacologic and nonpharmacologic management. Flibanserin and bremelanotide are psychoactive agents indicated for the treatment of generalized acquired hypoactive sexual desire disorder (HSDD) in premenopausal women, whereas transdermal testosterone is effective on HSDD in postmenopausal women. Menopause hormone therapy (systemic and local) is the mainstay for individualized management of women at midlife."
+  },
+  {
+   "pmid": "36036468",
+   "titel": "Pharmacologic therapeutic options for sexual dysfunction",
+   "jahr": "2022",
+   "journal": "Curr Opin Obstet Gynecol",
+   "erstautor": "Burton CS",
+   "doi": "10.1097/GCO.0000000000000821",
+   "typ": [
+    "Review",
+    "Journal Article"
+   ],
+   "abstract": "PURPOSE OF REVIEW: Sexual problems are reported by up to 45% of individuals assigned female at birth. Although sexual function is a complex biopsychosocial construct, there are a number of pharmacologic treatment options aimed at addressing the changing vaginal hormonal milieu in postmenopausal individuals and moderating the excitatory and inhibitory aspects of the central nervous system in those with hypoactive sexual desire disorder. RECENT FINDINGS: The last decade has seen an increase in the number and type of pharmacologic treatment options for dysfunction primarily associated with menopause and hypoactive sexual desire disorder. Recent publications and systematic reviews have strengthened the safety data of existing FDA-approved medications as well as off-label therapies. SUMMARY: Pharmacologic treatment with local estrogen and testosterone replacement in postmenopausal individuals and with centrally-acting therapies such as flibanserin, bremelanotide, and testosterone in premenopausal individuals assigned female at birth are safe and can be used to improve sexual desire and sexual satisfaction."
+  },
+  {
+   "pmid": "35076581",
+   "titel": "Bremelanotide for Treatment of Female Hypoactive Sexual Desire",
+   "jahr": "2022",
+   "journal": "Neurol Int",
+   "erstautor": "Edinoff AN",
+   "doi": "10.3390/neurolint14010006",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Hypoactive sexual desire disorder (HSDD) is a persistent deficiency or absence of sexual fantasies and desire resulting in significant distress or interpersonal difficulty. Women with this disorder may display a lack of motivation for sexual activity, reduced responsiveness to erotic cues, a loss of interest during sexual activity, and avoidance of situations that could lead to sexual activity. The pathophysiology of HSDD is thought to be centered around inhibitory and excitatory hormones, neurotransmitters, and specific brain anatomy. Due to the multifactorial nature of HSDD, treatment can be complex and must attempt to target the biological and psychosocial aspects of the disorder. Bremelanotide is a melanocortin receptor agonist and has been recently approved by the FDA to treat HSDD. Bremelanotide is administered intranasally or as a subcutaneous injection. The recommended dosage of bremelanotide is 1.75 mg injected subcutaneously in the abdomen or thigh at least 45 min before sexual activity. Studies showed improvements in desire, arousal, and orgasm scores when 1.75 mg of bremelanotide was administered before sexual activity compared to a placebo. Bremelanotide is a promising way to treat HSDD."
+  },
+  {
+   "pmid": "34510696",
+   "titel": "Hypoactive Sexual Desire Disorder in Women: Physiology, Assessment, Diagnosis, and Treatment",
+   "jahr": "2021",
+   "journal": "J Midwifery Womens Health",
+   "erstautor": "Pettigrew JA",
+   "doi": "10.1111/jmwh.13283",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Nearly half of women in the United States report problems with sexual function. Many health care providers do not ask about sexual concerns during routine clinical encounters because of personal discomfort, lack of familiarity with treatment, or the belief that they lack adequate time to address this complex issue. This may be especially true for hypoactive sexual desire disorder (HSDD), the most commonly identified sexual problem among women. HSDD is characterized by a deficiency of sexual thoughts, feelings, or receptiveness to sexual stimulation that has been present for at least 6 months, causes personal distress, and is not due to another medical condition. This is an up-to-date overview of HSDD for clinicians, discussing its physiology, assessment, diagnosis, and treatment strategies. Although a definitive physiology of HSDD is still unknown, multiple hormones and neurotransmitters likely participate in a dual-control model to balance excitation and inhibition of sexual desire. For assessment and diagnosis, validated screening tools are discussed, and the importance of a biopsychosocial assessment is emphasized, with guidance on how this can be implemented in clinical encounters. The 2 recently approved medications for HSDD, flibanserin and bremelanotide, are reviewed as well as off-label treatments. Overall, HSDD represents a common yet likely underrecognized disorder that midwives and other health care providers who care for women across the life span are in a unique position to address."
+  },
+  {
+   "pmid": "25376023",
+   "titel": "Drugs in early clinical development for the treatment of female sexual dysfunction",
+   "jahr": "2015",
+   "journal": "Expert Opin Investig Drugs",
+   "erstautor": "Belkin ZR",
+   "doi": "10.1517/13543784.2015.978283",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "INTRODUCTION: There is growing recognition of female sexual dysfunction (FSD) as an important women's health concern. Despite an increased awareness of the pathophysiologic components to FSD, currently, there are no drugs approved for the most common sexual complaint in women-decreased sexual desire. In response to an overwhelming demand for therapy for FSD, several drugs are undergoing development and testing. AREAS COVERED: The aim of this paper is to provide the latest data on pharmacological treatments for FSD currently in Phase I and II clinical trials. These include topical alprostadil, bremelanotide (BMT), intranasal testosterone (TBS-2), intravaginal dehydroepiandrosterone (DHEA), sublingual testosterone with sildenafil, apomorphine (APO), bupropprion and trazodone. It should be noted that the definitions of FSD have recently been revised in the diagnostic and statistical manual for mental disorders (DSM) 5, with merging of hypoactive sexual desire disorder (HSDD) and female sexual arousal disorder (FSAD) into female sexual interest/arousal disorder (FSIAD). However, it is noted that the majority of clinical trials discussed in this paper use the DSM IV-R diagnoses of HSDD and FSAD. EXPERT OPINION: Medications in early phase trials show promise for the treatment of FSD. These therapies focus on treating many possible causes of FSD. Concerns over gender bias within the FDA need to be resolved given the need for new treatment options for FSD."
+  },
+  {
+   "pmid": "18040531",
+   "titel": "Gateways to clinical trials",
+   "jahr": "2007",
+   "journal": "Methods Find Exp Clin Pharmacol",
+   "erstautor": "Bayes M",
+   "doi": "",
+   "typ": [
+    "Bibliography",
+    "Journal Article"
+   ],
+   "abstract": "(-)-Epigallocatechin gallate, [188Re]-P2045, 12B75, 89-12; Abacavir sulfate/lamivudine, Abatacept, Abiraterone acetate, ABT-869, Adalimumab, Ad-rh Endostatin, AI-700, Alemtuzumab, Alvimopan hydrate, Amrubicin hydrochloride, AP-12009, Apomab 7.3, Arformoterol tartrate, Aripiprazole, AS-1404, Azacitidine, AZD-0530; Bevacizumab, BHT-3009, Biapenem, Bortezomib, Bosentan, Bremelanotide; CA9-SCAN, Calcitonin gene-related peptide, Canertinib dihydrochloride, Cannabidiol, Carboxyamidotriazole, Caspofungin acetate, Celgosivir, Certolizumab pegol, Cinacalcet hydrochloride, Clevudine, CP-751871, Curcumin, Cx-401, Cypher; Darunavir, Decitabine, Deforolimus, Dexamet, Dipyridamole/prednisolone, Drospirenone, Drospirenone/estradiol, DTPw-HepB-Hib, Duloxetine hydrochloride; Efalizumab, Emtricitabine, Erlotinib hydrochloride, Escitalopram oxalate, Eszopiclone; Ferumoxtran-10, Ferumoxytol, Fondaparinux sodium, Fosaprepitant dimeglumine; gamma-Hydroxybutyrate sodium, Gefitinib, Genistein, Ghrelin (human), Gimatecan, GM-CSF PMED, Golimumab, gp100 PMED; Imatinib mesylate, Immunoglobulin intravenous (human), IV Gamma-globulin; LA-419, Laropiprant, L-BLP-25, Levodopa/carbidopa/entacapone, Lidocaine/prilocaine, Lopinavir/ritonavir, Lumiracoxib, LY-2076962; Mepolizumab, Methylnaltrexone bromide, Mitiglinide calcium hydrate, Mycophenolic acid sodium salt, Myristyl nicotinate; Natalizumab, Nesiritide, Niacin/lovastatin; Oblimersen sodium, Ofatumumab, Olmesartan medoxomil, Olmesartan medoxomil/hydrochlorothiazide, Ozarelix; Palonosetron hydrochloride, Parathyroid hormone (human recombinant), Pazopanib hydrochloride, Pegaptanib octasodium, Pegfilgrastim, Peginterferon alfa- 2a, Peginterferon alfa-2b, Pegvisomant, Pemetrexed disodium, Pexelizumab, Picoplatin, Pimecrolimus, Posaconazole, Pregabalin, PRO-1762, Progesterone caproate, Prulifloxacin; Ramelteon, Ranelic acid distrontium salt, Reparixin, Rosuvastatin calcium; Rotigotine; Satraplatin, Sertraline, Sipuleucel-T, SLIT-cisplatin, SNDX-275, Solifenacin succinate, Sunitinib malate; Tadalafil, Talnetant, Tanespimycin, Taxus, Tegaserod maleate, Telmisartan/hydrochlorothiazide, Tenofovir disoproxil fumarate/emtricitabine, Teriparatide, tgAAC-94, Tiotropium bromide, Tocilizumab, Tolvaptan, Trimethoprim; Vardenafil hydrochloride hydrate, Vatalanib succinate, Vinflunine, Voriconazole, VX-680; XL-880; Yttrium 90 (90Y) ibritumomab tiuxetan."
+  },
+  {
+   "pmid": "18806898",
+   "titel": "Gateways to clinical trials",
+   "jahr": "2008",
+   "journal": "Methods Find Exp Clin Pharmacol",
+   "erstautor": "Tomillero A",
+   "doi": "",
+   "typ": [
+    "Bibliography",
+    "Journal Article"
+   ],
+   "abstract": "(+)-Dapoxetine hydrochloride, (R)-Etodolac; Abatacept, ABT-510, Adalimumab, Agatolimod sodium, Alemtuzumab, Alvocidib hydrochloride, Aminolevulinic acid methyl ester, Aripiprazole, AS01B, AS02B, AS02V, Azacitidine; Becatecarin, Bevacizumab, Bevirimat, Bortezomib, Bremelanotide; CAIV-T, Canfosfamide hydrochloride, CHR-2797, Ciclesonide, Clevidipine; Darbepoetin alfa, Decitabine, Degarelix acetate, Dendritic cell-based vaccine, Denosumab, Desloratadine, DMXB-Anabaseine, Duloxetine hydrochloride, Dutasteride; Ecogramostim, Eicosapentaenoic acid/docosahexaenoic acid, Eletriptan, Enzastaurin hydrochloride, Erlotinib hydrochloride, Escitalopram oxalate, Etoricoxib, Everolimus, Ezetimibe, Ezetimibe/simvastatin; Ferumoxytol, Fesoterodine fumarate, Fulvestrant; Gefitinib, GM-CSF DNA, GSK-690693; H5N1 avian flu vaccine, Hepatitis B hyperimmunoglobulin, Human Fibroblast Growth Factor 1, Hypericin-PVP; Icatibant acetate, Iclaprim, Immunoglobulin intravenous (human), Ipilimumab, ISS-1018; L19-IL-2, Lapuleucel-T, Laropiprant, Liposomal doxorubicin, LP-261, Lumiracoxib, LY-518674; MDV-3100, MGCD-0103, Mirabegron, MyoCell; NASHA/Dx, Niacin/laropiprant; O6-Benzylguanine, Ocrelizumab, Olmesartan medoxomil, Omalizumab; P-276-00, Paclitaxel nanoparticles, Paclitaxel nanoparticles, Padoporfin, Paliperidone, PAN-811, Pegaptanib octasodium, Pegfilgrastim, Pemetrexed disodium, PF-00299804, Pimecrolimus, Prasugrel, Pregabalin; Reolysin, Rimonabant, Rivaroxaban, Rosuvastatin calcium; Satraplatin, SCH-697243,Selenite sodium, Silodosin, Sorafenib, Sunitinib malate; Talarozole, Taxus, Temsirolimus, Tocilizumab, Tolevamer potassium sodium, Tremelimumab, TTP-889; Uracil; V-260, Valsartan/amlodipine besylate, Vardenafil hydrochloride hydrate, Varenicline tartrate, Varespladib, Vitespen, Voclosporin, VX-001; Xience V; Zotarolimus-eluting stent."
+  },
+  {
+   "pmid": "40543759",
+   "titel": "Female Sexual Desire, Arousal, and Orgasmic Dysfunctions: A Systematic Review and Meta-Analysis of Treatment Options",
+   "jahr": "2026",
+   "journal": "J Minim Invasive Gynecol",
+   "erstautor": "Toledo RG",
+   "doi": "10.1016/j.jmig.2025.06.004",
+   "typ": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+   ],
+   "abstract": "OBJECTIVE: To conduct a systematic review and meta-analysis of treatments for female sexual desire, arousal, and orgasmic dysfunction in patients without sexual pain conditions. DATA SOURCE: MEDLINE, Embase, Web of Science, Cochrane Library, PsycINFO, and ClinicalTrials.gov. METHODS OF STUDY SELECTION: Following the initial search in December 2024, a total of 8994 abstracts were screened, 278 full-text articles were reviewed, and 36 studies met criteria for data abstraction including a patient population with female sexual dysfunction (FSD) of desire, arousal, and/or orgasm (DAO) and outcome measures including the Female Sexual Function Index (FSFI), its DAO subscales, and the Female Sexual Distress Scale (FSDS). Studies including patients with sexual pain conditions were excluded. Two reviewers independently conducted each phase. TABULATION, INTEGRATION, AND RESULTS: Of the 36 studies, 26 were RCTs and 10 were single-arm trials. Ten studies evaluated cognitive behavioral therapy (CBT), 24 investigated medication therapy, and 2 investigated devices. Meta-analyses were conducted for mindfulness-based CBT, flibanserin, and bremelanotide. Mindfulness-based CBT significantly improved total FSFI and subscales of desire, arousal, and orgasm. Conversely, flibanserin improved total FSFI and desire while bremelanotide improved total FSFI and its desire and arousal subscales. No studies directly compared CBT to pharmacotherapy. CONCLUSION: In this systematic review of treatments of females with sexual DAO dysfunctions without pain, we found that CBT improves DAO; flibanserin improves desire; and bremelanotide improves both desire and arousal; and all 3 treatments reduce distress. Our findings align with previous literature and expand upon it to include multiple treatment modalities. This broader perspective offers a starting point for clinicians, including gynecologists, who frequently serve as the first point of care for FSD. Conclusions regarding most other treatments could not be drawn due to limited numbers of studies of FSD excluding pain, heterogeneous terminology for DAO disorders, and varying outcome measures across studies."
+  },
+  {
+   "pmid": "36242769",
+   "titel": "An evaluation of bremelanotide injection for the treatment of hypoactive sexual desire disorder",
+   "jahr": "2023",
+   "journal": "Expert Opin Pharmacother",
+   "erstautor": "Cipriani S",
+   "doi": "10.1080/14656566.2022.2132144",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "INTRODUCTION: Female sexual response implies a deep intertwining between psychosocial and neurobiological mediators. Regulation of central melanocortin signaling may enhance sexual desire. In premenopausal women with hypoactive sexual desire disorder (HSDD), melanocortin receptor agonist bremelanotide (Vyleesi) has been hypothesized to trigger excitatory brain pathways. AREAS COVERED: Hereby we summarize bremelanotide's proposed mechanism of action, pharmacokinetics, efficacy and safety data derived from clinical trials. A literature search of peer-reviewed publications on the current evidence on the pharmacotherapy with bremelanotide was performed using the PubMed database. EXPERT OPINION: Bremelanotide appears to be moderately safe and well-tolerated; the most common adverse reaction is nausea (40%). Although data from clinical trials demonstrated a significant change in validated questionnaires, the overall clinical benefit appears to be modest. However, these results should be interpreted in the light of the dramatic challenges in conducting well-designed clinical trials for female sexual dysfunction, due to the significant placebo effect of pharmacotherapy, and the frequent use of outcome measures that are likely to be highly susceptible to expectation biases, such as long periods of recall of sexual and emotional response."
+  },
+  {
+   "pmid": "33455598",
+   "titel": "The neurobiology of bremelanotide for the treatment of hypoactive sexual desire disorder in premenopausal women",
+   "jahr": "2022",
+   "journal": "CNS Spectr",
+   "erstautor": "Pfaus JG",
+   "doi": "10.1017/S109285292100002X",
+   "typ": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Hypoactive sexual desire disorder (HSDD) is a common female sexual dysfunction and is estimated to affect approximately 10% of women in the United States. It has been suggested that HSDD is associated with an imbalance of hormone and neurotransmitter levels in the brain, resulting in decreased excitation, increased inhibition, or a combination of both. Evidence suggests neurotransmitters, including dopamine (DA), norepinephrine, and serotonin, as well as hormones such as estradiol and testosterone, contribute to female sexual desire and response. Current treatments for HSDD include psychotherapy, and two US Food and Drug Administration-approved medications for premenopausal women: flibanserin, a serotonin mixed agonist and antagonist, and bremelanotide, a melanocortin receptor (MCR) agonist. Melanocortins are endogenous neuropeptides associated with the excitatory pathway of the female sexual response system. MCRs are found throughout the body, including the brain. Bremelanotide is an MCR agonist that nonselectively activates several of the receptor subtypes, of which subtype 4 (MC4R) is the most relevant at therapeutic doses. MC4R is predominantly expressed in the medial preoptic area (mPOA) of the hypothalamus in the brain, and is important for female sexual function. Animal studies suggest that bremelanotide may affect female sexual desire by activating presynaptic MC4Rs on neurons in the mPOA of the hypothalamus, leading to increased release of DA, an excitatory neurotransmitter that increases sexual desire. This review presents what is known about the mechanism of action of bremelanotide in the context of treating HSDD."
+  },
+  {
+   "pmid": "35630054",
+   "titel": "Management of Hypertension with Female Sexual Dysfunction",
+   "jahr": "2022",
+   "journal": "Medicina (Kaunas)",
+   "erstautor": "Zhong Q",
+   "doi": "10.3390/medicina58050637",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Female sexual dysfunction (FSD) in hypertension has been less studied than male sexual dysfunction, and antihypertensive agents' impact on female sexual function is not defined. In this review, randomized double-blind clinical trials and cross-sectional studies related to female sexual function in hypertension were analyzed from 1991 to 2021. FSD appeared to be higher in hypertensive women than in normotensive women. Beta-blockers are the only antihypertensive agents with relatively strong evidence of damaging the female sexual function. Angiotensin receptor blockers (ARB) are relatively beneficial to female sexual function. To treat FSD in the presence of hypertension, controlling blood pressure is key, and the administration of angiotensin receptor blockers is preferred. In addition to controlling blood pressure, for premenopausal women, flibanserin and bremelanotide can be tried, while ospemifene and hormone supplements are preferred for postmenopausal women."
+  },
+  {
+   "pmid": "40513668",
+   "titel": "A biodegradable suction patch for sustainable transbuccal peptide delivery",
+   "jahr": "2025",
+   "journal": "J Control Release",
+   "erstautor": "Krupke H",
+   "doi": "10.1016/j.jconrel.2025.113947",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Despite considerable advances in the systemic delivery of peptides, their susceptibility to gastrointestinal degradation and high molecular weight, which restricts permeability across biological barriers, remain obstacles to oral administration. As a result, most peptide therapies rely on injections to achieve therapeutic effects. Recent studies on a bioinspired suction patch demonstrated positive effects in vivo with three peptides - desmopressin, semaglutide, and teriparatide - yet materials used for patch fabrication were non-degradable. In this work, a more sustainable patch alternative is introduced by replacing previously used materials with biodegradable polymers, aiming for degradation of the patch after removal to reduce environmental impact. A scalable mold casting process was employed to thermally crosslink synthesized and functionalized copolyesters, yielding the desired devices. Mechanical testing across various materials and shapes identified the best-performing polymer, while its degradation was confirmed in both aqueous medium and simulated waste. An ex vivo model using porcine buccal tissue validated the functionality of biodegradable patches, showing enhanced permeation of a poorly permeable dye when combined with a chemical permeation enhancer. In beagle dogs, the bioavailability of semaglutide (4.11 kDa) was substantially improved compared to the commercially available tablet, with an application time of only 10 min. Additionally, the patch achieved a relative bioavailability of 26% for bremelanotide (1.03 kDa) compared to subcutaneous administration. This work underscores the potential of replacing silicone devices with biodegradable alternatives, providing a more sustainable approach for peptide delivery via the buccal suction patch."
+  },
+  {
+   "pmid": "30806100",
+   "titel": "What are the challenges in prescribing pharmacotherapy for female sexual dysfunctions?",
+   "jahr": "2019",
+   "journal": "Expert Opin Pharmacother",
+   "erstautor": "Nappi RE",
+   "doi": "10.1080/14656566.2019.1582644",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "30290453",
+   "titel": "Bremelanotide: the female Viagra?",
+   "jahr": "2006",
+   "journal": "Expert Rev Endocrinol Metab",
+   "erstautor": "",
+   "doi": "10.1586/17446651.1.4.465",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "16395422",
+   "titel": "Gateways to clinical trials",
+   "jahr": "2005",
+   "journal": "Methods Find Exp Clin Pharmacol",
+   "erstautor": "Bayés M",
+   "doi": "",
+   "typ": [
+    "Bibliography",
+    "Journal Article"
+   ],
+   "abstract": "Gateways to Clinical Trials are a guide to the most recent clinical trials in current literature and congresses. The data in the following tables have been retrieved from the Clinical Trials Knowledge Area of Prous Science Integrity, the drug discovery and development portal, http://integrity. prous.com. This issue focuses on the following selection of drugs: 131I-chTNT; Abatacept, adalimumab, alemtuzumab, APC-8015, aprepitant, atazanavir sulfate, atomoxetine hydrochloride, azimilide hydrochloride; Bevacizumab, bortezomib, bosentan, buserelin; Caspofungin acetate, CC-4047, ChAGCD3, ciclesonide, clopidogrel, curcumin, Cypher; Dabigatran etexilate, dapoxetine hydrochloride, darbepoetin alfa, darusentan, denosumab, DMXB-Anabaseine, drospirenone, drospirenone/estradiol, duloxetine hydrochloride, dutasteride; Edodekin alfa, efaproxiral sodium, elaidic acid-cytarabine, erlotinib hydrochloride, ertapenem sodium, escitalopram oxalate, eszopiclone, etonogestrel/testosterone decanoate, exenatide; Fulvestrant; Gefitinib, glycine, GVS-111; Homoharringtonine; ICC-1132, imatinib mesylate, iodine (I131) tositumomab, i.v. gamma-globulin; Levetiracetam, levocetirizine, lintuzumab, liposomal nystatin, lumiracoxib, lurtotecan; Manitimus, mapatumumab, melatonin, micafungin sodium, mycophenolic acid sodium salt; Oblimersen sodium, OGX-011, olmesartan medoxomil, omalizumab, omapatrilat, oral insulin; Parathyroid hormone (human recombinant), pasireotide, peginterferon alfa-2a, peginterferon alfa-2b, peginterferon alfa-2b/ribavirin, phVEGF-A165, pimecrolimus, pitavastatin calcium, plerixafor hydrochloride, posaconazole, pramlintide acetate, prasterone, pregabalin, PT-141; Quercetin; Ranolazine, rosuvastatin calcium, rubitecan, rupatadine fumarate; Sardomozide, sunitinib malate; Tadalafil, talactoferrin alfa, tegaserod maleate, telithromycin, testosterone transdermal patch, TH-9507, tigecycline, tiotropium bromide, tipifarnib, tocilizumab, treprostinil sodium; Valdecoxib, vandetanib, vardenafil hydrochloride hydrate, voriconazole."
+  },
+  {
+   "pmid": "42123471",
+   "titel": "Therapeutic Peptides in Aesthetic, Metabolic and Endocrine Conditions: Effects, Safety, Clinical Applications, and Future Perspectives",
+   "jahr": "2026",
+   "journal": "Int J Mol Sci",
+   "erstautor": "Renke G",
+   "doi": "10.3390/ijms27093890",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Therapeutic peptides are short chains of amino acids used to treat metabolic and endocrine conditions such as obesity and type 2 diabetes. While several peptide drugs have undergone rigorous approval processes that evaluate both safety and efficacy, novel, unapproved compounds have emerged and are rapidly expanding into preventive medicine and performance enhancement. Our objective is to present the effects, clinical applications, safety profiles, and regulatory status of prominent peptides used to treat several conditions. We reviewed 106 articles, prioritizing systematic reviews, meta-analyses, and randomized controlled trials in the PubMed, ScienceDirect, and SciELO databases. Our results suggest that therapeutic peptides are a promising tool for treating type 2 diabetes and obesity, for skin rejuvenation, and as hormone analogs for specific diseases and conditions. Although these are strategic and innovative options that can improve health, performance, and longevity, further studies are needed before most new peptides can be used safely in humans."
+  },
+  {
+   "pmid": "31381550",
+   "titel": "Bremelanotide (Vyleesi) for hypoactive sexual desire disorder",
+   "jahr": "2019",
+   "journal": "Med Lett Drugs Ther",
+   "erstautor": "",
+   "doi": "",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "17958619",
+   "titel": "Bremelanotide: an overview of preclinical CNS effects on female sexual function",
+   "jahr": "2007",
+   "journal": "J Sex Med",
+   "erstautor": "Pfaus J",
+   "doi": "10.1111/j.1743-6109.2007.00610.x",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "INTRODUCTION: Bremelanotide is an analogue of the naturally occurring peptide alpha-melanocyte-stimulating hormone (alpha-MSH). It stimulates erection in men and male rats, and is currently in clinical trials for the treatment of erectile dysfunction. AIM: To review the effects of bremelanotide, an analogue of the naturally occurring peptide alpha-MSH, on the preclinical indices of sexual desire in female rats, and where in the brain these actions may occur. MAIN OUTCOME MEASURES: Appetitive sexual behaviors, such as solicitations, hops and darts, and pacing, were assessed along with consummatory behaviors such as lordosis. The involvement of brain regions was assessed following direct administration to the region, by the stimulation of molecular markers of neural activation, and using microdialysis to examine extracellular fluid for different neurotransmitters. METHODS: Using a model that allows ovariectomized, hormone-primed female rats to control the timing of sexual encounters with males, we tested the ability of bremelanotide to increase appetitive (proceptive) and/or consummatory sexual behaviors. RESULTS: Bremelanotide dramatically and selectively increased measures of solicitation in female rats, without altering pacing or lordosis, following both peripheral (subcutaneous) administration or infusions directly into the lateral ventricles or medial preoptic area (mPOA), but not the ventromedial hypothalamus. The mPOA is critical for the display of appetitive sexual behaviors in females and males of a variety of species. Peripheral administration of bremelanotide activates the mPOA and other hypothalamic and limbic regions of the brain involved in sexual behavior, and may work by activating dopamine terminals in the mPOA. CONCLUSIONS: To the extent that solicitations indicate the desire of female rats to engage in sexual activity, bremelanotide appears to possess the behavioral, pharmacological, and neuroanatomical specificity required of a drug in the treatment of hypoactive sexual desire disorders."
+  },
+  {
+   "pmid": "16082427",
+   "titel": "Gateways to clinical trials",
+   "jahr": "2005",
+   "journal": "Methods Find Exp Clin Pharmacol",
+   "erstautor": "Bayes M",
+   "doi": "",
+   "typ": [
+    "Bibliography",
+    "Journal Article"
+   ],
+   "abstract": "Gateways to Clinical Trials is a guide to the most recent clinical trials in current literature and congresses. The data in the following tables have been retrieved from the Clinical Trials Knowledge Area of Prous Science Integrity, the drug discovery and development portal, http://integrity.prous.com. This issue focuses on the following selection of drugs: 3-AP, Adalimumab, adefovir dipivoxil, AeroDose albuterol inhaler, agalsidase alfa, alemtuzumab, aminolevulinic acid methyl ester, anidulafungin, anthrax vaccine, anti-CTLA-4 MAb, azimilide hydrochloride; Bevacizumab, BG-12, bimatoprost, bortezomib, bosentan, botulinum toxin type B; Caspofungin acetate, ceftobiprole, certolizumab pegol, CG-53135, cilansetron; Darbepoetin alfa, degarelix acetate, dimethylfumarate, duloxetine hydrochloride, dutasteride; Eicosapentaenoic acid/docosahexaenoic acid, eletriptan, entecavir, esomeprazole magnesium, exatecan mesilate, exenatide, ezetimibe; Falecalcitriol, fampridine, fondaparinux sodium, fontolizumab; Gefitinib, gepirone hydrochloride; Human insulin; IDEA-070, imatinib mesylate, iodine (I131) tositumomab; Lanthanum carbonate, lubiprostone; Mafosfamide cyclohexylamine salt, melatonin; NC-531, nemifitide ditriflutate, neridronic acid, nolatrexed dihydrochloride; Oral insulin; Palifermin, parecoxib sodium, PEG-filgrastim, peginterferon alfa-2a, peginterferon alfa-2b, plerixafor hydrochloride, posaconazole, pramlintide acetate, pregabalin, PT-141; Quercetin; Ranibizumab, renzapride hydrochloride, RSD-1235; Sabarubicin hydrochloride, semapimod hydrochloride, Semax, SHL-749; Tegaserod maleate, tenatoprazole, tetrodotoxin, tolevamer sodium, trabectedin, travoprost, travoprost/timolol; Valdecoxib, visilizumab, Xcellerated T cells, XP-828L; Zoledronic acid monohydrate."
+  },
+  {
+   "pmid": "34433901",
+   "titel": "Structural insights into ligand recognition and activation of the melanocortin-4 receptor",
+   "jahr": "2021",
+   "journal": "Cell Res",
+   "erstautor": "Zhang H",
+   "doi": "10.1038/s41422-021-00552-3",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Melanocortin-4 receptor (MC4R) plays a central role in the regulation of energy homeostasis. Its high sequence similarity to other MC receptor family members, low agonist selectivity and the lack of structural information concerning MC4R-specific activation have hampered the development of MC4R-seletive therapeutics to treat obesity. Here, we report four high-resolution structures of full-length MC4R in complex with the heterotrimeric Gs protein stimulated by the endogenous peptide ligand α-MSH, FDA-approved drugs afamelanotide (Scenesse™) and bremelanotide (Vyleesi™), and a selective small-molecule ligand THIQ, respectively. Together with pharmacological studies, our results reveal the conserved binding mode of peptidic agonists, the distinctive molecular details of small-molecule agonist recognition underlying receptor subtype selectivity, and a distinct activation mechanism for MC4R, thereby offering new insights into G protein coupling. Our work may facilitate the discovery of selective therapeutic agents targeting MC4R."
+  },
+  {
+   "pmid": "31893927",
+   "titel": "Bremelanotide: New Drug Approved for Treating Hypoactive Sexual Desire Disorder",
+   "jahr": "2020",
+   "journal": "Ann Pharmacother",
+   "erstautor": "Mayer D",
+   "doi": "10.1177/1060028019899152",
+   "typ": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "abstract": "Objective: To review data regarding bremelanotide, a recently approved therapy for hypoactive sexual desire disorder (HSDD). Data Sources: Literature search of Medline, SCOPUS, and EMBASE was performed using the search terms bremelanotide, bremelanotide injection, Vyleesi, and melanocortin 4 receptor agonist between January 1, 1996, and December 15, 2019. Reference lists from included articles were also reviewed for pertinent citations. Study Selection/Data Extraction: We included phase 2 and 3 trials of bremelanotide. There were 2 reports of phase 3 trials and 2 reports of phase 2 trials. Additional information from supplementary analyses was also referenced. Data Synthesis: Bremelanotide demonstrates significant improvement in desire and a significant decrease in distress related to lack of desire. The most common adverse effects include nausea (39.9%), facial flushing (20.4%), and headache (11%). Relevance to Patient Care and Clinical Practice: Bremelanotide is the second Food and Drug Administration-approved medication for the treatment of HSDD. Bremelanotide's place in therapy is unknown, as the HSDD guidelines were last updated in 2017. Although the trials met statistical significance for change in sexual desire elements and distress related to sexual desire, the clinical benefit may only be modest. Conclusion: Bremelanotide is a subcutaneous injection that can be administered as needed approximately 45 minutes prior to sexual activity. Bremelanotide is safe and has limited drug-drug interactions, including no clinically significant interactions with ethanol. Prescribing guidelines recommend no more than 1 dose in 24 hours and no more than 8 doses per month. Individuals should discontinue use after 8 weeks without benefit."
+  },
+  {
+   "pmid": "29995725",
+   "titel": "Female Sexual Dysfunction and the Placebo Effect: A Meta-analysis",
+   "jahr": "2018",
+   "journal": "Obstet Gynecol",
+   "erstautor": "Weinberger JM",
+   "doi": "10.1097/AOG.0000000000002733",
+   "typ": [
+    "Journal Article",
+    "Meta-Analysis"
+   ],
+   "abstract": "OBJECTIVE: To quantify the placebo effect of various pharmacologic modalities including neuromodulators, hormonal agents, and onabotulinum toxin A for female sexual dysfunction. DATA SOURCES: Using Meta-analyses Of Observational Studies in Epidemiology guidelines, we conducted a systematic review of PubMed, EMBASE, ClinicalTrials.gov, and the Cochrane Review databases. METHODS OF STUDY SELECTION: Eleven search terms, \"female sexual dysfunction\" \"treatment\" in combination with \"hypoactive sexual desire,\" \"arousal disorder,\" \"sexual pain disorder,\" \"genitourinary syndrome of menopause,\" \"orgasmic disorder,\" \"vulvovaginal atrophy,\" \"vaginismus,\" \"vaginal atrophy,\" \"vulvodynia,\" and \"vestibulitis,\" were used. Studies were included if their design was randomized, included a placebo arm, and used the Female Sexual Function Index as an outcome measure. TABULATION, INTEGRATION, AND RESULTS: The placebo effect on the Female Sexual Function Index was compared with each respective study's treatment effect using inverse-variance weighting in a random-effects analysis model. Six hundred five relevant articles were retrieved. Twenty-four randomized controlled trials included a placebo arm. Of these, eight studies used the Female Sexual Function Index. Across these studies, 1,723 women with clinical pretreatment female sexual dysfunction received placebo. Two thousand two hundred thirty-six women were in the treatment arm of the respective studies and received various pharmacologic interventions including flibanserin, bupropion, onabotulinum toxin A, intravaginal prasterone, intranasal oxytocin, ospemifene, and bremelanotide. Women receiving placebo improved 3.62 (95% CI 3.29-3.94) on the Female Sexual Function Index. The treatment arm had a corresponding increase of 5.35 (95% CI 4.13-6.57). CONCLUSION: This meta-analysis of Level I evidence demonstrates that 67.7% of the treatment effect for female sexual dysfunction is accounted for by placebo. Our findings suggest that the current treatments for female sexual dysfunction are, overall, minimally superior to placebo, which emphasizes the ongoing need for more efficacious treatment for female sexual dysfunction."
+  },
+  {
+   "pmid": "14569381",
+   "titel": "[Therapy of erectile dysfunction in 2005]",
+   "jahr": "2003",
+   "journal": "Urologe A",
+   "erstautor": "Porst H",
+   "doi": "10.1007/s00120-003-0418-0",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Erectile dysfunction (ED) management in the following 3-5 years will be dominated by substances targeting the L-arginine-NO-guanylate cyclase-cGMP-PDE-5 pathway, resulting in an intracellular elevation of the cGMP concentrations. Promising alternatives to the PDE-5 inhibitors, such as guanylate cyclase activators and Rho-kinase inhibitors, may also effectively compliment a PDE-5 inhibitor. Intranasal application of the melanocortin agonist PT 141 (Melanotan II) seems to be promising. As scheduled sexual activities are not preferred by the majority of couples, the future of ED-therapy will focus on drugs with a 1-2 day long efficacy window, or a daily bedtime application of low dosage agents which result in nocturnal reoxygenation of the cavernous bodies and in turn in functional improvement. Elevation of the cGMP levels and improvement of endothelial function as a result of this approach also promises benefits in cardiovascular diseases and in LUTS."
+  },
+  {
+   "pmid": "35170192",
+   "titel": "Effect of bremelanotide on body weight of obese women: Data from two phase 1 randomized controlled trials",
+   "jahr": "2022",
+   "journal": "Diabetes Obes Metab",
+   "erstautor": "Spana C",
+   "doi": "10.1111/dom.14672",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "AIMS: The melanocortin 4 receptor (MC4R) plays a central role in appetite regulation, and agonistic activity at this receptor promotes satiety. Results from two randomized controlled clinical trials examine the effects of bremelanotide's agonism at MC4R on caloric intake and body weight. METHODS: Premenopausal women with a body mass index >30 kg/m2 were studied in two phase 1, single-centre, randomized, double-blind, placebo-controlled trials. Study A matched subjects 1:1 to receive subcutaneous placebo or bremelanotide three times daily for days 1-15. Study B was a crossover trial with six distinct treatment sequences consisting of three 4-day treatment periods, investigating once-a-day and twice-a-day exposure to bremelanotide versus placebo. Subjects received one of the three treatments twice-daily during each period: 0 mg/0 mg, 2.5 mg/0 mg or 2.5 mg/2.0 mg bremelanotide. Body weight and food intake were recorded in detail daily. Adverse events were recorded throughout both studies. RESULTS: In Study A, 27 of 30 bremelanotide subjects (90.0%) completed the trial and exhibited a significantly greater reduction in body weight after 16 days versus placebo [least squares mean difference (95% CI), -1.3 (-1.9 to -0.8) kg; p < .0001]. Mean caloric intake in bremelanotide subjects was decreased versus placebo, with a magnitude of reduction of approximately 400 kcal/day throughout Study A (p < .01). In Study B, 15 of 27 subjects (55.6%) completed all three phases. Significantly greater reduction of mean body weight occurred in twice-daily bremelanotide subjects versus placebo (1.7 vs. 0.9 kg, respectively, p < .001). Total caloric intake reduction was significantly greater in the bremelanotide groups versus placebo (mean difference range: 398-469 kcal; p < .0001). CONCLUSIONS: Agonist activity at the MC4R may aid in reducing caloric intake and weight loss in obese women."
+  },
+  {
+   "pmid": "37365323",
+   "titel": "Targeting the central melanocortin system for the treatment of metabolic disorders",
+   "jahr": "2023",
+   "journal": "Nat Rev Endocrinol",
+   "erstautor": "Sweeney P",
+   "doi": "10.1038/s41574-023-00855-y",
+   "typ": [
+    "Journal Article",
+    "Review",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "A large body of preclinical and clinical data shows that the central melanocortin system is a promising therapeutic target for treating various metabolic disorders such as obesity and cachexia, as well as anorexia nervosa. Setmelanotide, which functions by engaging the central melanocortin circuitry, was approved by the FDA in 2020 for use in certain forms of syndromic obesity. Furthermore, the FDA approvals in 2019 of two peptide drugs targeting melanocortin receptors for the treatment of generalized hypoactive sexual desire disorder (bremelanotide) and erythropoietic protoporphyria-associated phototoxicity (afamelanotide) demonstrate the safety of this class of peptides. These approvals have also renewed excitement in the development of therapeutics targeting the melanocortin system. Here, we review the anatomy and function of the melanocortin system, discuss progress and challenges in developing melanocortin receptor-based therapeutics, and outline potential metabolic and behavioural disorders that could be addressed using pharmacological agents targeting these receptors."
+  },
+  {
+   "pmid": "35772848",
+   "titel": "Finding Our Way From the Bench to the Bedside: The Ethos, Logos, and Pathos of Biomedical Research",
+   "jahr": "2022",
+   "journal": "Sex Med Rev",
+   "erstautor": "Kim NN",
+   "doi": "10.1016/j.sxmr.2022.06.001",
+   "typ": [
+    "Editorial"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "16179960",
+   "titel": "Gateways to clinical trials",
+   "jahr": "2005",
+   "journal": "Methods Find Exp Clin Pharmacol",
+   "erstautor": "Bayes M",
+   "doi": "",
+   "typ": [
+    "Bibliography",
+    "Journal Article"
+   ],
+   "abstract": "Gateways to Clinical Trials are a guide to the most recent clinical trials in current literature and congresses. The data in the following tables have been retrieved from the Clinical Trials Knowledge Area of Prous Science Integrity, the drug discovery and development portal, http://integrity.prous.com. This issue focuses on the following selection of drugs: (-)-Epigallocatechin gallate; ACP-103, Ad.Egr.TNF.11 D, adalimumab, AF-IL 12, AIDSVAX gp120 B/B, alefacept, alemtuzumab, a-Galactosylceramide, ALVAC vCP 1452, alvimopan hydrate, alvocidib hydrochloride, aminolevulinic acid hydrochloride, aminolevulinic acid methyl ester, anakinra, anidulafungin, antarelix, aprepitant, aripiprazole, arsenic sulfide, asoprisnil, atazanavir sulfate, atomoxetine hydrochloride; Bevacizumab, bimatoprost, BMS-184476, bortezomib, bosentan, botulinum toxin type B, BrachySil, brivudine; Caffeine, calcipotriol/betamethasone dipropionate, cannabidiol, capsaicin for injection, caspofungin acetate, CC-4047, cetuximab, CGP-36742, clofazimine, CpG-7909, Cypher; Darbepoetin alfa, dextromethorphan/quinidine sulfate, dimethylfumarate, dronabinol/cannabidiol, drotrecogin alfa (activated), duloxetine hydrochloride, dutasteride; Ecogramostim, efalizumab, eletriptan, emtricitabine, enfuvirtide, eplerenone, esomeprazole magnesium, estradiol acetate, eszopiclone, etoricoxib, exenatide, ezetimibe, ezetimibe/simvastatin; Fampridine, fondaparinux sodium, fosamprenavir calcium; Gefitinib, GPI-0100; hA 20, HTU-PA, human insulin, HuOKT 3 gamma 1(Ala 234-Ala 235), hyaluronic acid; Icatibant, imatinib mesylate, Indiplon, INKP-100, INKP-102, iodine (I131) tositumomab, istradefylline, IV gamma-globulin, ivabradine hydrochloride, ixabepilone; Lacosamide, landiolol, lanthanum carbonate, lasofoxifene tartrate, LB-80380, lenalidomide, lidocaine/tetracaine, linezolid, liposomal doxorubicin, liposomal vincristine sulfate, lopinavir, lopinavir/ritonavir, lumiracoxib, lurtotecan; Maribavir, morphine glucuronide, MVA-5 T 4; NBI-56418, NCX-4016, nesiritide, nicotine conjugate vaccine, NSC-330507; Oglufanide, omalizumab, oxipurinol; Palifermin, palonosetron hydrochloride, parecoxib sodium, PEG-filgrastim, peginterferon alfa-2a, peginterferon alfa-2b, peginterferon alfa-2b/ribavirin, PEGylated interferon alfacon-1, perospirone hydrochloride, pimecrolimus, pixantrone maleate, plerixafor hydrochloride, PowderJect lidocaine, pradefovir mesylate, prasterone, pregabalin, Prostvac VF, PT-141, PTC-124, pyridoxamine; QS-21, quercetin; R-126638, R-411, ralfinamide, rasagiline mesilate, rF-PSA, RG-2077, rhThrombin, rimonabant hydrochloride, rofecoxib, rosuvastatin calcium, rotigotine hydrochloride, rV-PSA; S-18886, S-303, seocalcitol, SGN-40, sitaxsentan sodium, SPP-301, St. John's Wort extract; Tadalafil, taxus, telithromycin, tenatoprazole, tenofovir disoproxil fumarate, testosterone MDTS, testosterone transdermal patch, tgAAC-09, TH-9507, thioacetazone, tipifarnib, TQ-1011, trabectedin, travoprost, trimethoprim; Valdecoxib, valganciclovir hydrochloride, valopicitabine, voriconazole; Xcellerated T cells."
+  },
+  {
+   "pmid": "17584130",
+   "titel": "Melanocortin receptors, melanotropic peptides and penile erection",
+   "jahr": "2007",
+   "journal": "Curr Top Med Chem",
+   "erstautor": "King SH",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Penile erection is a complex physiologic event resulting from the interactions of the nervous system on a highly specialized vascular organ. Activation of central nervous system melanocortinergic (MC) receptors with either endogenous or synthetic melanotropic ligands may initiate and/or facilitate spontaneous penile erection. While the CNS contains principally the MC3 and MC4 receptor subtypes, there is conflicting data as to which receptor mediates erection. Although the MC4R is emerging as the principle effector of MC induced erection, the role of the MC3R is poorly understood. Manipulation of each receptor subtype with newly synthesized receptor specific agonists and antagonists, as well as knockout mice, has elucidated their individual contributions. Novel data from our laboratories suggests that antagonism of forebrain MC3R may enhance melanocortin-induced erections. Furthermore, melanocortin agents may interact with better-studied systems such as oxytocinergic pathways at the hypothalamic, brainstem or spinal level. Current therapies for erectile dysfunction target end organ vascular tissue. Manipulation of MC receptors may provide an alternative, centrally mediated therapeutic approach for erectile and other sexual dysfunctions. The non-specific \"superpotent\" MC agonist, PT-141, which is the carboxylate derivative of MT-II, has reached phase II human trials. Through their centrally mediated activity, melanocortin agonists have potential to treat erectile dysfunction as well as possible applications to the unmet medical needs of decreased sexual motivation and loss of libido."
+  }
+ ],
+ "ctgov": [
+  {
+   "nct": "NCT06867835",
+   "titel": "Single Dose of Vyleesi in Lactating Female Subjects to Measure the Concentration of Bremelanotide in Breast Milk",
+   "phase": "PHASE4",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 10,
+   "start": "2025-07-11",
+   "ende": "2025-11-15",
+   "erkrankungen": [
+    "Lactating Mother"
+   ],
+   "sponsor": "Cosette Pharmaceuticals, Inc.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06565611",
+   "titel": "A Phase 2 Study Evaluating the Co-Administration of Bremelanotide With Tirzepatide for the Treatment of Obesity",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 108,
+   "start": "2024-08-05",
+   "ende": "2025-03-31",
+   "erkrankungen": [
+    "Obesity"
+   ],
+   "sponsor": "Palatin Technologies, Inc",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00425256",
+   "titel": "Evaluate the Safety and Efficacy of Bremelanotide in Women With Female Sexual Arousal Disorder (FSAD)",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": null,
+   "start": "2006-02",
+   "ende": "2007-05",
+   "erkrankungen": [
+    "Sexual Arousal Disorder"
+   ],
+   "sponsor": "Palatin Technologies, Inc",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT01382719",
+   "titel": "Bremelanotide in Premenopausal Women With Female Sexual Arousal Disorder and/or Hypoactive Sexual Desire Disorder",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 612,
+   "start": "2011-06",
+   "ende": "2012-09",
+   "erkrankungen": [
+    "Female Sexual Arousal Disorder",
+    "Hypoactive Sexual Desire Disorder"
+   ],
+   "sponsor": "Palatin Technologies, Inc",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT04943068",
+   "titel": "A Phase 3, Bridging, Multicenter, Randomized, Double-blind, Placebo-controlled, Parallel-group Trial to Evaluate the Efficacy and Safety of Subcutaneously Administered Bremelanotide in Premenopausal Women With Hypoactive Sexual Desire Disorder (With or Without Decreased Arousal)",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 193,
+   "start": "2021-05-10",
+   "ende": "2023-05-16",
+   "erkrankungen": [
+    "Hypoactive Sexual Desire Disorder"
+   ],
+   "sponsor": "Kwang Dong Pharmaceutical co., ltd.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT02333071",
+   "titel": "1. Study to Evaluate the Efficacy/Safety of Bremelanotide in Premenopausal Women With Hypoactive Sexual Desire Disorder",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 723,
+   "start": "2014-12",
+   "ende": "2017-06-30",
+   "erkrankungen": [
+    "Hypoactive Sexual Desire Disorder"
+   ],
+   "sponsor": "Palatin Technologies, Inc",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT05709444",
+   "titel": "A Phase IIb, Multicenter, Open-Label, Prospective Study of Bremelanotide in Diabetic Kidney Disease",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 16,
+   "start": "2022-12-26",
+   "ende": "2024-04-26",
+   "erkrankungen": [
+    "Kidney Disease"
+   ],
+   "sponsor": "Palatin Technologies, Inc",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT04179734",
+   "titel": "Role of the Melanocortin-4 Receptor in Hypoactive Sexual Desire Disorder",
+   "phase": "PHASE4",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 40,
+   "start": "2019-10-07",
+   "ende": "2020-10-06",
+   "erkrankungen": [
+    "Hypoactive Sexual Desire Disorder"
+   ],
+   "sponsor": "Imperial College Healthcare NHS Trust",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT03973047",
+   "titel": "Study to Evaluate Rate of Nausea in Healthy Premenopausal Female Subjects Treated With Single Dose of Bremelanotide Alone or With Zofran",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 228,
+   "start": "2019-06-17",
+   "ende": "2019-07-20",
+   "erkrankungen": [
+    "Nausea"
+   ],
+   "sponsor": "AMAG Pharmaceuticals, Inc.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT02338960",
+   "titel": "2. Study to Evaluate the Efficacy/Safety of Bremelanotide in Premenopausal Women With Hypoactive Sexual Desire Disorder",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 714,
+   "start": "2015-01",
+   "ende": "2017-06-29",
+   "erkrankungen": [
+    "Hypoactive Sexual Desire Disorder"
+   ],
+   "sponsor": "Palatin Technologies, Inc",
+   "ergebnisse": true
+  }
+ ],
+ "gruppe": "E_hormone_sexualitaet_haut"
+}

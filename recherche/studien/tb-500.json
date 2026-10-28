@@ -1,0 +1,1060 @@
+{
+ "name": "TB-500 / Thymosin Beta-4",
+ "status": "nicht_zugelassen",
+ "suchbegriff_pubmed": "thymosin beta-4[tiab] OR thymosin beta4[tiab] OR TB-500[tiab] OR TB500[tiab]",
+ "suchbegriff_ctgov": "thymosin beta 4",
+ "humanstudien_alle": [
+  {
+   "pmid": "34346165",
+   "titel": "A first-in-human, randomized, double-blind, single- and multiple-dose, phase I study of recombinant human thymosin β4 in healthy Chinese volunteers",
+   "jahr": "2021",
+   "journal": "J Cell Mol Med",
+   "erstautor": "Wang X",
+   "doi": "10.1111/jcmm.16693",
+   "typ": [
+    "Clinical Trial, Phase I",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "33318598",
+   "titel": "Logistic regression analysis of environmental and other variables and incidences of tuberculosis in respiratory patients",
+   "jahr": "2020",
+   "journal": "Sci Rep",
+   "erstautor": "Pathak AK",
+   "doi": "10.1038/s41598-020-79023-5",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "27288307",
+   "titel": "Safety and efficacy of autologous thymosin β4 pre-treated endothelial progenitor cell transplantation in patients with acute ST segment elevation myocardial infarction: A pilot study",
+   "jahr": "2016",
+   "journal": "Cytotherapy",
+   "erstautor": "Zhu J",
+   "doi": "10.1016/j.jcyt.2016.05.006",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "26022762",
+   "titel": "Increases in plasma Tβ4 after intracardiac cell therapy in chronic ischemic heart failure is associated with symptomatic improvement",
+   "jahr": "2015",
+   "journal": "Regen Med",
+   "erstautor": "Choudry FA",
+   "doi": "10.2217/rme.15.9",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "25826322",
+   "titel": "Thymosin β4 significantly improves signs and symptoms of severe dry eye in a phase 2 randomized trial",
+   "jahr": "2015",
+   "journal": "Cornea",
+   "erstautor": "Sosne G",
+   "doi": "10.1097/ICO.0000000000000379",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "24882420",
+   "titel": "Significant decrease in plasma N-acetyl-seryl-aspartyl-lysyl-proline level in patients with end stage renal disease after kidney transplantation",
+   "jahr": "2014",
+   "journal": "Biol Pharm Bull",
+   "erstautor": "Suzuki Y",
+   "doi": "10.1248/bpb.b13-00992",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "20536472",
+   "titel": "A randomized, placebo-controlled, single and multiple dose study of intravenous thymosin beta4 in healthy volunteers",
+   "jahr": "2010",
+   "journal": "Ann N Y Acad Sci",
+   "erstautor": "Ruff D",
+   "doi": "10.1111/j.1749-6632.2010.05474.x",
+   "typ": [
+    "Clinical Trial, Phase I",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "20536470",
+   "titel": "The effect of thymosin treatment of venous ulcers",
+   "jahr": "2010",
+   "journal": "Ann N Y Acad Sci",
+   "erstautor": "Guarnera G",
+   "doi": "10.1111/j.1749-6632.2010.05490.x",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "17495250",
+   "titel": "Thymosin beta-4 and venous ulcers: clinical remarks on a European prospective, randomized study on safety, tolerability, and enhancement on healing",
+   "jahr": "2007",
+   "journal": "Ann N Y Acad Sci",
+   "erstautor": "Guarnera G",
+   "doi": "10.1196/annals.1415.003",
+   "typ": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+   ]
+  }
+ ],
+ "humanstudien_detail": [
+  {
+   "pmid": "20536472",
+   "titel": "A randomized, placebo-controlled, single and multiple dose study of intravenous thymosin beta4 in healthy volunteers",
+   "jahr": "2010",
+   "journal": "Ann N Y Acad Sci",
+   "erstautor": "Ruff D",
+   "doi": "10.1111/j.1749-6632.2010.05474.x",
+   "typ": [
+    "Clinical Trial, Phase I",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "Synthetic thymosin beta 4 (Tbeta4) may have a potential use in promoting myocardial cell survival during acute myocardial infarction. Four cohorts, with 10 healthy subjects each, were given a single intravenous dose of placebo or synthetic Tbeta4. Cohorts received ascending doses of either 42, 140, 420, or 1260 mg. Following safety review, subjects were given the same dose regimen daily for 14 days. Safety evaluations, incidence of Treatment-Emergent Adverse Events, and pharmacokinetic parameters were evaluated. Adverse events were infrequent, and mild or moderate in intensity. There were no dose limiting toxicities or serious adverse events. Pharmacokinetic profile for single dose showed a dose proportional response, and an increasing half-life with increasing dose. Synthetic Tbeta4 given intravenously as a single dose or in multiple daily doses for 14 days over a dose range of 42-1260 mg was well tolerated with no evidence of dose limiting toxicity. Further development for use in cardiac ischemia should be considered."
+  },
+  {
+   "pmid": "17495250",
+   "titel": "Thymosin beta-4 and venous ulcers: clinical remarks on a European prospective, randomized study on safety, tolerability, and enhancement on healing",
+   "jahr": "2007",
+   "journal": "Ann N Y Acad Sci",
+   "erstautor": "Guarnera G",
+   "doi": "10.1196/annals.1415.003",
+   "typ": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "The objective of this double-blind, placebo-controlled, dose-escalation study is to evaluate safety, tolerability, and enhancement on healing of thymosin beta-4 (Tbeta-4) administered topically in patients with venous ulcers. Three groups of patients, coming from 10 sites, 5 from Italy and 5 from Poland, will be enrolled sequentially. Twenty-four patients within each group will be randomized to Tbeta-4 or placebo in a 3:1 ratio and will be treated with increasing doses of Tbeta-4. When review safety data show no-dose-limiting adverse events, a new group will be enrolled. So, the study design comprehends 72 patients treated for 84 days and followed for 14 days at the end of treatment. Blood samples will be taken on day 0 and at the end of treatment visit to measure plasma levels of Tbeta-4. Every week each patient is visited and blood samples are taken for clinical chemistry, hematology, coagulation, and urinalysis. Each ulcer is treated with debridement, if necessary, and compression therapy with standard compression stockings class 2. Efficacy parameters are incidence of healing defined as the percentage of patients who have complete closure of the index ulcer at day 84 and, mean time to complete healing. Ulcer area will be calculated by digital planimetry and photographic analysis. The study is ongoing and a total of 21 patients have been enrolled so far in the first treatment group at the lower dose. Patients' compliance and motivated and well-trained teams seem to be the most suitable parameters of a successfully conducted study."
+  },
+  {
+   "pmid": "26022762",
+   "titel": "Increases in plasma Tβ4 after intracardiac cell therapy in chronic ischemic heart failure is associated with symptomatic improvement",
+   "jahr": "2015",
+   "journal": "Regen Med",
+   "erstautor": "Choudry FA",
+   "doi": "10.2217/rme.15.9",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "AIM: Tβ4 is an integral factor in repair of myocardium in animal models. To investigate whether Tβ4 is important in human cardiac disease and has a role in mediating the beneficial cardiac effects of bone-marrow-derived stem cell (BMSC) therapy, we measured serial plasma Tβ4 levels in patients enrolled on the REGENERATE-IHD cell therapy trial. PATIENTS & METHODS: Plasma Tβ4 concentrations were measured in 13 patients who received BMSCs and 14 controls. RESULTS: There was a significant increase in plasma Tβ4 in the BMSC group 24 h after intracardiac injection. Increases in Tβ4 levels were associated with improvement in New York Heart Association symptom class. CONCLUSION: This exploratory study highlights the need for further study of Tβ4 in human cardiovascular disease."
+  },
+  {
+   "pmid": "24882420",
+   "titel": "Significant decrease in plasma N-acetyl-seryl-aspartyl-lysyl-proline level in patients with end stage renal disease after kidney transplantation",
+   "jahr": "2014",
+   "journal": "Biol Pharm Bull",
+   "erstautor": "Suzuki Y",
+   "doi": "10.1248/bpb.b13-00992",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ],
+   "abstract": "N-acetyl-seryl-aspartyl-lysyl-proline (AcSDKP) is an endogenous peptide released from its precursor (thymosin-β4) by prolyl oligopeptidase. AcSDKP is a natural inhibitor of pluripotent hematopoietic stem cell proliferation and is normally found in human plasma. AcSDKP has been shown to be a potent angiogenic factor and to suppress renal fibroblast proliferation. Impairment of renal function has been suggested to have a significant impact on plasma AcSDKP level. The aim of this study was to assess whether improvement of renal function after kidney transplantation has an impact on plasma AcSDKP-like immunoreactive substance (IS) level. Fourteen patients with end stage renal disease (ESRD) who were scheduled to undergo the first kidney allograft transplantation were enrolled. Plasma AcSDKP-IS levels were measured before and 3, 7, 10, 14, 21, 30, 60 and 90 d after kidney transplantation. Plasma AcSDKP-IS level decreased significantly from day 3 after kidney transplantation compared to before kidney transplantation. Creatinine clearance increased significantly from day 7 after kidney transplantation. A significant negative correlation was observed between creatinine clearance and plasma AcSDKP-IS level from before transplantation to 90 d after kidney transplantation. Stepwise multiple regression analysis identified creatinine clearance as the only significant independent factor associated with plasma AcSDKP-IS levels. These results suggest that recovery of kidney function after kidney transplantation may lead to a decrease in plasma AcSDKP level in patients with ESRD, and that plasma AcSDKP level may depend largely on renal function."
+  },
+  {
+   "pmid": "33318598",
+   "titel": "Logistic regression analysis of environmental and other variables and incidences of tuberculosis in respiratory patients",
+   "jahr": "2020",
+   "journal": "Sci Rep",
+   "erstautor": "Pathak AK",
+   "doi": "10.1038/s41598-020-79023-5",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ],
+   "abstract": "The objective of this study was to examine the association of 14 variables with TB in respiratory patients. The variables included: urban/rural, persons in 1200 sqft area, TB in family, crowding, smoking (family member), gender, age, education, smoking, workplace, kitchen location, cooking fuel, ventilation, and kerosene uses. Eight hundred respiratory patients were tested for sputum positive pulmonary TB; 500 had TB and 300 did not. An analysis of the unadjusted odds ratio (UOR) and adjusted OR (AOR) was undertaken using logistic regression to link the probability of TB incidences with the variables. There was an inconsistency in the significance of variables using UOR and AOR. A subset model of 4 variables (kerosene uses, ventilation, workplace, and gender) based on significant AOR was adjudged acceptable for estimating the probability of TB incidences. Uses of kerosene (AOR 2.62 (1.95, 3.54)) consistently related to incidences of TB. It was estimated that 50% reduction in kerosene uses could reduce the probability of TB by 13.29% in respiratory patients. The major recommendation was to replace kerosene uses from households with a supply of clean fuel like liquid petroleum or natural gas and rural electrification."
+  },
+  {
+   "pmid": "27288307",
+   "titel": "Safety and efficacy of autologous thymosin β4 pre-treated endothelial progenitor cell transplantation in patients with acute ST segment elevation myocardial infarction: A pilot study",
+   "jahr": "2016",
+   "journal": "Cytotherapy",
+   "erstautor": "Zhu J",
+   "doi": "10.1016/j.jcyt.2016.05.006",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "BACKGROUND: Experimental studies and clinical trials suggest that endothelial progenitor cell (EPC) transplantation can repair \"broken\" heart. However, transplantation of autologous EPCs has numerous limitations, including the limited supply of expanded EPCs, the impaired function and activity of the transplanted cells and so on. Therefore, we investigated the feasibility, safety and initial clinical outcome of autologous thymosin β4 (Tβ4) pre-treated EPC transplantation in patients with acute ST segment elevation myocardial infarction (STEMI). METHODS: Ten patients with STEMI were included; they were randomized to 2 groups: EPC transplantation group (control group; n = 5) and Tβ4-pre-treated EPC transplantation group (experimental group; n = 5). EPCs were pre-treated with Tβ4 24 hours before transplantation in experimental group. Cardiac function was evaluated using echocardiography and emission computed tomography, as well as the 6-min walking test before and 6 months after the intervention. RESULTS: After 6 months of follow-up, the average 6-min walking distance was increased by 38.2 m (from 263 ± 42 m to 302 ± 34 m) in the control group and 75.7 m (from 264 ± 42 m to 340 ± 44 m) in the experimental group; the average difference of the 6-min walking distance was 37.5 m (95% confidence interval [CI], 28.7-56.3 m; P < 0.01). In addition, the cardiac function in the experimental group was more significantly improved than that of the control group. There were no severe complications related to the procedure in either group during the follow-up. DISCUSSION: Our pilot study suggested that Tβ4-optimized EPC transplantation appeared to be feasible and safe, and might have beneficial effects on exercise capacity and left ventricular function in patients with STEMI."
+  },
+  {
+   "pmid": "34346165",
+   "titel": "A first-in-human, randomized, double-blind, single- and multiple-dose, phase I study of recombinant human thymosin β4 in healthy Chinese volunteers",
+   "jahr": "2021",
+   "journal": "J Cell Mol Med",
+   "erstautor": "Wang X",
+   "doi": "10.1111/jcmm.16693",
+   "typ": [
+    "Clinical Trial, Phase I",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The study evaluated the safety, tolerability, pharmacokinetics (PK) and anti-drug antibody (ADA) of the recombinant human thymosin β4 (NL005) for single and multiple intravenous injections in healthy subjects. Seven cohorts, with 54 healthy subjects, were given a single intravenous dose of NL005 or placebo and were observed for 28 days. The cohorts received ascending doses of either 0.05, 0.25, 0.5, 2.0, 5.0, 12.5 or 25.0 μg/kg in the single-dose trial. A total of 30 healthy subjects were randomly enrolled in the multiple-dose trial, and 3 cohorts (0.5, 2.0 and 5.0 μg/kg) were administered once human thymosin β4 daily for 10 days and observed for 28 days. The adverse events were mild to moderate in intensity. There were no dose-limiting toxicities or serious adverse events. The plasma concentration, maximum peak concentration (Cmax ) and AUC of each dose group increased with the increase in the dose. The tendency of terminal clearance in each dose group was consistent, and there was no obvious accumulation after continuous administration. Thus, the drug can be concluded to be well tolerated and safe in healthy people and suitable for use in a clinical study for the treatment of acute myocardial infarction."
+  },
+  {
+   "pmid": "25826322",
+   "titel": "Thymosin β4 significantly improves signs and symptoms of severe dry eye in a phase 2 randomized trial",
+   "jahr": "2015",
+   "journal": "Cornea",
+   "erstautor": "Sosne G",
+   "doi": "10.1097/ICO.0000000000000379",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "PURPOSE: Standard therapies for severe dry eye are limited and fail to resolve the problem. The purpose of this study was to evaluate the safety and efficacy of Thymosin β4 eye drops (RGN-259) as a novel therapy for severe dry eye disease (including that associated with graft vs. host disease). METHODS: A small, multicenter, randomized, double-masked, placebo-controlled 56-day phase 2 clinical trial including a 28-day follow-up at 2 US sites. Nine patients with severe dry eye were treated with either RGN-259 (0.1%) or vehicle control 6 times daily over a period of 28 days. Dry eye sign and symptom assessments, such as ocular discomfort (using the OSDI questionnaire) and corneal fluorescein staining (using the NEI workshop grading system), were evaluated at various time points. RESULTS: Statistically significant differences in both symptom and sign assessments, were seen at various time points throughout the study. Of particular note at day 56, the RGN-259-treated group (12 eyes) had 35.1% reduction of ocular discomfort compared with vehicle control (6 eyes) (P = 0.0141), and 59.1% reduction of total corneal fluorescein staining compared with vehicle control (P = 0.0108). Other improvements seen in the RGN-259-treated patients included tear film breakup time and increased tear volume production. CONCLUSIONS: In this small trial, RGN-259 eye drops were safe and well tolerated and met key efficacy objectives with statistically significant symptom and sign improvements, compared with vehicle control, at various time intervals, including 28-days posttreatment. CLINICAL TRIAL REGISTRATION--URL: http://www.clinicaltrials.gov. Unique identifier: NCT01393132."
+  },
+  {
+   "pmid": "20536470",
+   "titel": "The effect of thymosin treatment of venous ulcers",
+   "jahr": "2010",
+   "journal": "Ann N Y Acad Sci",
+   "erstautor": "Guarnera G",
+   "doi": "10.1111/j.1749-6632.2010.05490.x",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "Venous ulcers are responsible for about 70% of the chronic ulcers of the lower limbs. Standard of care includes compression, dressings, debridement of devitalized tissue, and infection control. Thymosin beta 4 (Tbeta4), a synthetic copy of the naturally occurring 43 amino-acid peptide, has been found to have wound healing and anti-inflammatory properties, and is thought to exert its therapeutic effect through promotion of keratinocyte and endothelial cell migration, increased collagen deposition, and stimulation of angiogenesis. To assess the safety, tolerability, and efficacy of topically administered Tbeta4 in patients with venous stasis ulcers, a double-blind, placebo-controlled, dose-escalation study was conducted in eight European sites (five in Italy and three in Poland) that enrolled and randomized 73 patients. The safety profile of all doses of administered Tbeta4 was deemed acceptable and comparable to placebo. Efficacy findings from this Phase 2 study suggest that a Tbeta4 dose of 0.03% may have the potential to accelerate wound healing and that complete wound healing can be achieved within 3 months in about 25% of the patients, especially among those whose wounds are small to moderate in size or mild to moderate in severity."
+  }
+ ],
+ "metaanalysen": [],
+ "praeklinik": [
+  {
+   "pmid": "20536448",
+   "titel": "Repolymerization of actin from actin:thymosin beta4 complex induced by diaphanous related formins and gelsolin",
+   "jahr": "2010",
+   "journal": "Ann N Y Acad Sci",
+   "erstautor": "Mannherz HG",
+   "doi": "10.1111/j.1749-6632.2010.05467.x",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "The beta-thymosins are peptides of about 5 kDa molecular mass. Thymosin beta4 (Tbeta4) is the most ubiquitous member of this family and composed of 43 residues. Initially the beta-thymosins were supposed to be specifically produced and released by the thymic gland and to possess hormonal activities modulating the immune response. However, it was later noticed that beta-thymosins are present in the cytoplasm of almost all eukaryotic cells. Especially high concentrations of Tbeta4 were detected in hematopoetic cells, like polymorpho-nuclear leucocytes and in platelets. In these cells the main intracellular function of the beta-thymosins is to bind to monomeric actin and to inhibit its polymerization to filamentous actin. Thus Tbeta4 allows resting eukaryotic cells to maintain a high concentration of monomeric actin, although the intracellular ionic conditions would favor its almost complete polymerization to F-actin. Thereby monomeric actin is sequestered from the dynamic assembly and disassembly processes of the actin cytoskeleton that constantly occur intracellularly."
+  },
+  {
+   "pmid": "23050826",
+   "titel": "Thymosin β4 sustained release from poly(lactide-co-glycolide) microspheres: synthesis and implications for treatment of myocardial ischemia",
+   "jahr": "2012",
+   "journal": "Ann N Y Acad Sci",
+   "erstautor": "Thatcher JE",
+   "doi": "10.1111/j.1749-6632.2012.06681.x",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "A sustained release formulation for the therapeutic peptide thymosin β4 (Tβ4) that can be localized to the heart and reduce the concentration and frequency of dose is being explored as a means to improve its delivery in humans. This review contains concepts involved in the delivery of peptides to the heart and the synthesis of polymer microspheres for the sustained release of peptides, including Tβ4. Initial results of poly(lactic-co-glycolic acid) microspheres synthesized with specific tolerances for intramyocardial injection that demonstrate the encapsulation and release of Tβ4 from double-emulsion microspheres are also presented."
+  },
+  {
+   "pmid": "22019445",
+   "titel": "No muscle for a damaged heart: thymosin beta 4 treatment after myocardial infarction does not induce myocardial differentiation of epicardial cells",
+   "jahr": "2012",
+   "journal": "J Mol Cell Cardiol",
+   "erstautor": "Kispert A",
+   "doi": "10.1016/j.yjmcc.2011.10.004",
+   "typ": [
+    "Editorial",
+    "Research Support, Non-U.S. Gov't",
+    "Comment"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "42757290",
+   "titel": "Dangers of Injectable Peptides and Other Unregulated \"Biohacking\" Drugs",
+   "jahr": "2026",
+   "journal": "Mo Med",
+   "erstautor": "Moiz A",
+   "doi": "",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Injectable peptides are increasingly used without prescriptions for cosmetic and athletic enhancement, driven by digital marketing and social media. While evidence-based, FDA-approved peptides like semaglutide and tirzepatide offer significant clinical benefits under medical supervision, an expanding illicit market provides easy access without a prescription to many unapproved experimental drugs. These unregulated substances-including the veterinary anabolic steroid trenbolone, investigational triple-agonists like retatrutide, and unapproved peptides such as BPC-157, TB-500, and melanotan-II-lack established human safety profiles. Their use introduces severe potential risks, including product contamination, manufacturing impurities, inaccurate dosing, pathological angiogenesis, carcinogenesis, cardiovascular stress, and supraphysiological hormonal signaling. This review differentiates evidence-based therapeutics from unproven, high-risk compounds and outlines the molecular mechanisms of toxicity associated with popular \"looksmaxxing\" injectables. Clinicians must recognize these trends, and counsel patients on potential long-term health hazards of these potent agents."
+  },
+  {
+   "pmid": "33310787",
+   "titel": "Thymosin β4 is essential for adherens junction stability and epidermal planar cell polarity",
+   "jahr": "2020",
+   "journal": "Development",
+   "erstautor": "Padmanabhan K",
+   "doi": "10.1242/dev.193425",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Planar cell polarity (PCP) is essential for tissue morphogenesis and homeostasis; however, the mechanisms that orchestrate the cell shape and packing dynamics required to establish PCP are poorly understood. Here, we identified a major role for the globular (G)-actin-binding protein thymosin-β4 (TMSB4X) in PCP establishment and cell adhesion in the developing epidermis. Depletion of Tmsb4x in mouse embryos hindered eyelid closure and hair-follicle angling owing to PCP defects. Tmsb4x depletion did not preclude epidermal cell adhesion in vivo or in vitro; however, it resulted in abnormal structural organization and stability of adherens junction (AJ) due to defects in filamentous (F)-actin and G-actin distribution. In cultured keratinocytes, TMSB4X depletion increased the perijunctional G/F-actin ratio and decreased G-actin incorporation into junctional actin networks, but it did not change the overall actin expression level or cellular F-actin content. A pharmacological treatment that increased the G/F-actin ratio and decreased actin polymerization mimicked the effects of Tmsb4x depletion on both AJs and PCP. Our results provide insights into the regulation of the actin pool and its involvement in AJ function and PCP establishment."
+  },
+  {
+   "pmid": "20536458",
+   "titel": "Thymosin beta4 enhances repair by organizing connective tissue and preventing the appearance of myofibroblasts",
+   "jahr": "2010",
+   "journal": "Ann N Y Acad Sci",
+   "erstautor": "Ehrlich HP",
+   "doi": "10.1111/j.1749-6632.2010.05483.x",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Incisional wounds in rats treated locally with thymosin beta4 (Tbeta4) healed with minimal scaring and without loss in wound breaking strength. Treated wounds were significantly narrower in width. Polarized light microscopy treated wounds had superior organized collagen fibers, displaying a red birefringence, which is consistent with mature connective tissue. Control incisions had randomly organized collagen fibers, displaying green birefringence that is consistent with immature connective tissue. Immunohistology treated wounds had few myofibroblasts and fibroblasts with alpha smooth muscle actin (SMA) stained stress fibers. Polyvinyl alcohol sponge implants placed in subcutaneous pockets received either carrier or 100 microg of Tbeta4 on days 2, 3, and 4. On day 14, treated implants revealed longer, thicker collagen fiber bundles with intense yellow-red birefringence by polarized light microscopy. In controls, fine, thin collagen fiber bundles were arranged in random arrays with predominantly green birefringence. Controls contained mostly myofibroblasts, while few myofibroblasts appeared in Tbeta4 treated implants. Electron microscopy confirmed both cell types and the degree of collagen fiber bundle organization. Our results demonstrate that Tbeta4 treated wounds appear to mature earlier and heal with minimal scaring."
+  },
+  {
+   "pmid": "38757041",
+   "titel": "Thymosin β4 improves the survival of cutaneous flaps of rats and activates the Wnt/β-catenin pathway",
+   "jahr": "2024",
+   "journal": "Arch Med Sci",
+   "erstautor": "Tao X",
+   "doi": "10.5114/aoms/186188",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "16542844",
+   "titel": "Profilin: emerging concepts and lingering misconceptions",
+   "jahr": "2006",
+   "journal": "Trends Biochem Sci",
+   "erstautor": "Yarmola EG",
+   "doi": "10.1016/j.tibs.2006.02.006",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Review"
+   ],
+   "abstract": "Conflicting data suggest that profilin might function to promote either actin polymerization or depolymerization in cells. There are theoretical reasons and supportive data to suggest that profilin might do both. Perhaps the most accurate description of profilin emphasizes its ability to augment actin-filament dynamics, both in polymerization and in depolymerization. The effect of profilin on the critical concentration of actin, its ability to depolymerize filaments at the barbed end and the formation of a ternary complex with thymosin beta(4) all need to be accurately represented in any attempt to determine a model for profilin function."
+  },
+  {
+   "pmid": "25695660",
+   "titel": "Correction: Thymosin beta 4 protects mice from monocrotaline-induced pulmonary hypertension and right ventricular hypertrophy",
+   "jahr": "2015",
+   "journal": "PLoS One",
+   "erstautor": "PLOS ONE Staff",
+   "doi": "10.1371/journal.pone.0118428",
+   "typ": [
+    "Published Erratum"
+   ],
+   "abstract": "[This corrects the article DOI: 10.1371/journal.pone.0110598.]."
+  },
+  {
+   "pmid": "24906629",
+   "titel": "Analytical approaches for the detection of emerging therapeutics and non-approved drugs in human doping controls",
+   "jahr": "2014",
+   "journal": "J Pharm Biomed Anal",
+   "erstautor": "Thevis M",
+   "doi": "10.1016/j.jpba.2014.05.020",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "The number and diversity of potentially performance-enhancing substances is continuously growing, fueled by new pharmaceutical developments but also by the inventiveness and, at the same time, unscrupulousness of black-market (designer) drug producers and providers. In terms of sports drug testing, this situation necessitates reactive as well as proactive research and expansion of the analytical armamentarium to ensure timely, adequate, and comprehensive doping controls. This review summarizes literature published over the past 5 years on new drug entities, discontinued therapeutics, and 'tailored' compounds classified as doping agents according to the regulations of the World Anti-Doping Agency, with particular attention to analytical strategies enabling their detection in human blood or urine. Among these compounds, low- and high-molecular mass substances of peptidic (e.g. modified insulin-like growth factor-1, TB-500, hematide/peginesatide, growth hormone releasing peptides, AOD-9604, etc.) and non-peptidic (selective androgen receptor modulators, hypoxia-inducible factor stabilizers, siRNA, S-107 and ARM036/aladorian, etc.) as well as inorganic (cobalt) nature are considered and discussed in terms of specific requirements originating from physicochemical properties, concentration levels, metabolism, and their amenability for chromatographic-mass spectrometric or alternative detection methods."
+  },
+  {
+   "pmid": "2920828",
+   "titel": "Evidence for the monomeric nature of thymosins",
+   "jahr": "1989",
+   "journal": "FEBS Lett",
+   "erstautor": "Haritos AA",
+   "doi": "10.1016/0014-5793(89)80547-2",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "According to gel-filtration experiments, alpha- and beta-thymosins appear to form oligomers, which are 4-5-fold larger than the corresponding polypeptides. However, on analysis by sedimentation equilibrium ultracentrifugation, prothymosin alpha and thymosin beta 4 showed relative molecular masses of 12,800 and 4600, which are close to the values calculated from their amino acid sequences, confirming their existence in solution as discrete monomeric entities."
+  },
+  {
+   "pmid": "22817626",
+   "titel": "Controlled release of thymosin β4 from injected collagen-chitosan hydrogels promotes angiogenesis and prevents tissue loss after myocardial infarction",
+   "jahr": "2012",
+   "journal": "Regen Med",
+   "erstautor": "Chiu LL",
+   "doi": "10.2217/rme.12.35",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "AIMS: Acute myocardial infarction (MI) leads to fibrosis and severe left ventricular wall thinning. Enhancing vascularization within the infarct reduces cell death and maintains a thick left ventricular wall, which is essential for proper cardiac function. Here, we evaluated the controlled delivery of thymosin β4 (Tβ4), which supports cardiomyocyte survival by inducing vascularization and upregulating Akt activity, in the treatment of MI. MATERIALS & METHODS: We injected collagen-chitosan hydrogel with controlled release of Tβ4 into the infarct after performing left anterior descending artery ligation in rats. RESULTS: Tβ4-encapsulated hydrogel (thymosin) significantly reduced tissue loss post-MI (13 ± 4%), compared with 58 ± 3% and 30 ± 8% tissue loss for no treatment (MI only) and Tβ4-free hydrogel (control). Significantly more Factor VIII-positive blood vessels with diameter >50 µm were in the thymosin group compared with both MI only and control (p < 0.0001), showing Tβ4-induced vascularization. Wall thickness was positively correlated with the mature blood vessel density (r = 0.9319; p < 0.0001). CONCLUSION: Controlled release of Tβ4 within the infarct enhances angiogenesis and presence of cardiomyocytes that are necessary for cardiac repair."
+  },
+  {
+   "pmid": "30680073",
+   "titel": "Correction: Hypoxia/reoxygenation-experienced cancer cell migration and metastasis are regulated by Rap1- and Rac1-GTPase activation via the expression of thymosin beta-4",
+   "jahr": "2018",
+   "journal": "Oncotarget",
+   "erstautor": "Lee JW",
+   "doi": "10.18632/oncotarget.26543",
+   "typ": [
+    "Journal Article",
+    "Published Erratum"
+   ],
+   "abstract": "[This corrects the article DOI: 10.18632/oncotarget.3218.]."
+  },
+  {
+   "pmid": "32374478",
+   "titel": "Corrigendum: Molecular Motions and Interactions in Aqueous Solutions of Thymosin-β(4) , Stabilin C-Terminal Domain (CTD) and Their 1:1 Complex Studied by (1) H NMR Spectroscopy",
+   "jahr": "2020",
+   "journal": "Chemphyschem",
+   "erstautor": "Bokor M",
+   "doi": "10.1002/cphc.202000158",
+   "typ": [
+    "Journal Article",
+    "Retraction Notice"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "40816274",
+   "titel": "Thymosin beta 4 as an Alzheimer disease intervention target identified using human brain organoids",
+   "jahr": "2025",
+   "journal": "Stem Cell Reports",
+   "erstautor": "Zeng PM",
+   "doi": "10.1016/j.stemcr.2025.102601",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The developmental origin of Alzheimer disease (AD) has been proposed but is arguably debated. Here, we developed cerebral organoids from induced pluripotent stem cells (iPSCs) with mutations in amyloid precursor protein (APP) associated with familial AD (fAD) and analyzed the dynamic changes of cellular states. We found that mature neurons induced in fAD organoids markedly decreased compared to that of health control, accompanied with increased cell senescence and β-amyloid (Aβ) production. Interestingly, the expression level of the gene TMSB4X that encodes thymosin beta 4 (Tβ4) significantly decreased both in fAD organoids' neurons and AD patients' excitatory neurons. Remarkably, the neurodevelopmental deficits and Aβ formation in fAD organoids were rescued by treatment with Tβ4. The beneficial effects of Tβ4 were also revealed in 5xfAD model mice. Thus, this study has identified Tβ4 as a neuroprotective factor that may mitigate altered neurogenesis and AD pathology, highlighting a potential for disease intervention."
+  },
+  {
+   "pmid": "41490200",
+   "titel": "Therapeutic Peptides in Orthopaedics: Applications, Challenges, and Future Directions",
+   "jahr": "2026",
+   "journal": "J Am Acad Orthop Surg Glob Res Rev",
+   "erstautor": "Rahman OF",
+   "doi": "10.5435/JAAOSGlobal-D-25-00236",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Therapeutic peptides are emerging as promising adjuncts in the management of orthopaedic injuries, grounded in their ability to modulate molecular signaling networks central to cellular medicine. By acting on key pathways such as PI3K/Akt, mTOR, MAPK, TGF-β, and AMPK, peptides exert influence over tissue regeneration, inflammation resolution, and neuromuscular recovery. Wound-healing peptides such as BPC-157, TB-500, and GHK-Cu promote angiogenesis, integrin-mediated extracellular matrix remodeling, and fibroblast activation, whereas growth hormone secretagogues like ipamorelin, CJC-1295, tesamorelin, sermorelin, and AOD-9604 activate IGF-1 signaling and satellite cell repair. Recovery-enhancing agents such as epithalon, delta sleep-inducing peptide, and pinealon target circadian and mitochondrial regulators, and neuroactive peptides like selank, semax, and dihexa enhance brain-derived neurotrophic factor and HGF/c-Met pathways critical to neuroplasticity. Although preclinical studies are promising, there is a current lack of clinical trials. This review integrates current mechanistic insights with orthopaedic relevance, emphasizing safety, efficacy, and future directions for responsible integration into musculoskeletal care."
+  },
+  {
+   "pmid": "41476424",
+   "titel": "Injectable Peptide Therapy: A Primer for Orthopaedic and Sports Medicine Physicians",
+   "jahr": "2026",
+   "journal": "Am J Sports Med",
+   "erstautor": "Mayfield CK",
+   "doi": "10.1177/03635465251357593",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "BACKGROUND: Therapeutic peptides are short-chain amino acids that regulate cellular functions and facilitate biochemical processes. In recent years, there has been significant growth in the global market for therapeutic peptides and thus its popularity among patients. Given the increase in the development of peptides and increased marketing to patients for orthopaedic injuries, it is critical for orthopaedic surgeons to understand the current evidence behind these therapeutic peptides. PURPOSE: To evaluate the current evidence and applications of injectable peptide therapy, focusing on its potential in regenerative medicine and sports performance, to help orthopaedic providers better understand the current state of different therapeutic peptide approaches. STUDY DESIGN: Narrative review. METHODS: A comprehensive literature search was conducted using PubMed to identify biochemical and clinical studies on the most popular types of injectable peptide therapy. Key peptides evaluated included BPC-157, TB-4, TB-500, CJC-1295 + ipamorelin, tesamorelin, and GHK-Cu. RESULTS: BPC-157 demonstrated potential benefits in tendon and muscle repair, but these findings are largely unvalidated in human trials. A single human case series reported improvements in pain after intra-articular knee injections of BPC-157, although significant methodological flaws and a lack of controls limit its applicability and reliability. TB-4 and its derivative TB-500 promoted angiogenesis and tissue repair in preclinical models, but human orthopaedic data are lacking, and both remain banned substances in sports. CJC-1295 combined with ipamorelin showed significantly improved maximum tetanic tension in murine models with glucocorticoid-induced muscle loss, but these findings are limited to animal studies. Tesamorelin, approved for treating HIV-associated lipodystrophy, has no supporting orthopaedic evidence. GHK-Cu showed promise in wound healing and anti-inflammatory effects, but no clinical data support its use for musculoskeletal conditions. CONCLUSION: While peptide therapy may possess significant therapeutic and regenerative potential, it is critical that orthopaedic and sports medicine providers understand the current lack of evidence to support the clinical use of these peptides. Importantly, information regarding the indications, dosing, frequency, and duration of treatment remains unknown. Despite the popularity of these peptides in mainstream media and among patients, significant research regarding the safety and efficacy of these therapeutic methods is required before definitive recommendations can be made to patients."
+  },
+  {
+   "pmid": "26096077",
+   "titel": "The role of thymosin-β4 in kidney disease",
+   "jahr": "2015",
+   "journal": "Expert Opin Biol Ther",
+   "erstautor": "Vasilopoulou E",
+   "doi": "10.1517/14712598.2015.1009891",
+   "typ": [
+    "Editorial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Therapies that modulate inflammation and fibrosis have the potential to reduce the morbidity and mortality associated with chronic kidney disease (CKD). A promising avenue may be manipulating thymosin-β4, a naturally occurring peptide, which is the major G-actin sequestering protein in mammalian cells and a regulator of inflammation and fibrosis. Thymosin-β4 is already being tested in clinical trials for heart disease and wound healing. This editorial outlines the evidence that thymosin-β4 may also have therapeutic benefit in CKD."
+  },
+  {
+   "pmid": "4088087",
+   "titel": "Thymosin beta 4",
+   "jahr": "1985",
+   "journal": "Methods Enzymol",
+   "erstautor": "Low TL",
+   "doi": "10.1016/s0076-6879(85)16018-0",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "41966639",
+   "titel": "Safety and Efficacy of Approved and Unapproved Peptide Therapies for Musculoskeletal Injuries and Athletic Performance",
+   "jahr": "2026",
+   "journal": "Sports Med",
+   "erstautor": "Mendias CL",
+   "doi": "10.1007/s40279-026-02437-0",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Peptides are short chains of amino acids with a unique pharmacological niche between small-molecule drugs and large proteins. Their use in sports medicine is rapidly expanding, driven by patient demand for accelerated injury recovery and performance enhancement. While numerous peptide drugs have undergone a rigorous approval process that evaluates both safety and efficacy, a parallel \"gray market\" of unapproved compounds has emerged, operating largely outside of regulatory oversight. Our objective is to present the pharmacological mechanisms, safety profiles, and regulatory status of prominent approved and unapproved peptides marketed direct to patients, including AOD-9604 (anti-obesity drug 9604), BPC-157 (body protection compound 157), CJC-1295, FS-344 (follistatin-344), GHK-Cu (glycyl-L-histidyl-L-lysine copper), ipamorelin, MOTS-C (mitochondrial ORF of the 12S rRNA type-c), sermorelin, SS-31 (elamipretide), tesamorelin (Egrifta), Tβ4 (thymosin beta-4), and TB-500 (thymosin beta-4 fragment). Many unapproved peptides demonstrate favorable tissue repair and metabolic outcomes in animal models, but rigorous human safety data are scarce, and there is potential for serious harm to patients. This narrative review focuses on the utilization of peptides in sports medicine, and alternative treatments that may be considered. We provide a framework to navigate patient discussions about peptides to better facilitate evidence-based practices for musculoskeletal healing and athletic performance. We also discuss the placebo effect as a mediator of peptide efficacy, and how social media amplifies this effect."
+  },
+  {
+   "pmid": "40070869",
+   "titel": "Tβ4-exosome-loaded hemostatic and antibacterial hydrogel to improve vascular regeneration and modulate macrophage polarization for diabetic wound treatment",
+   "jahr": "2025",
+   "journal": "Mater Today Bio",
+   "erstautor": "Yu H",
+   "doi": "10.1016/j.mtbio.2025.101585",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Diabetic wounds often exhibit delayed healing due to compromised vascular function and intensified inflammation. In this study, we overexpressed Thymosin β4 (Tβ4) in Adipose-Derived Stem Cells (ADSCs) to produce Exosomes (Exos) rich in Tβ4. We then utilized a dual photopolymerizable hydrogel composed of Hyaluronic Acid Methacryloyl (HAMA) and Poly-L-lysine Methacryloyl (PLMA) for the sustained release of Tβ4-Exos on diabetic wounds. The results showed that Tβ4-Exos could stimulate angiogenesis and collagen synthesis, and mitigate inflammation in diabetic wounds by promoting the polarization of M1-type macrophages and inhibiting that of M2-type macrophages. Furthermore, Tβ4-Exos was found to activate the PI3K/AKT/mTOR/HIF-1a signaling pathway, thereby enhancing vascular proliferation. In summary, the sustained release of Tβ4-Exos in HAMA-PLMA (HP) hydrogel and the management of inflammation through the upregulation of the HIF-1a pathway and modulation of macrophage polarization in vascular proliferation significantly accelerated the healing process of diabetic wounds."
+  },
+  {
+   "pmid": "20536454",
+   "titel": "Thymosin beta4 and cardiac repair",
+   "jahr": "2010",
+   "journal": "Ann N Y Acad Sci",
+   "erstautor": "Shrivastava S",
+   "doi": "10.1111/j.1749-6632.2010.05468.x",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Hypoxic heart disease is a predominant cause of disability and death worldwide. As adult mammals are incapable of cardiac repair after infarction, the discovery of effective methods to achieve myocardial and vascular regeneration is crucial. Efforts to use stem cells to repopulate damaged tissue are currently limited by technical considerations and restricted cell potential. We discovered that the small, secreted peptide thymosin beta4 (Tbeta4) could be sufficiently used to inhibit myocardial cell death, stimulate vessel growth, and activate endogenous cardiac progenitors by reminding the adult heart on its embryonic program in vivo. The initiation of epicardial thickening accompanied by increase of myocardial and epicardial progenitors with or without infarction indicate that the reactivation process is independent of injury. Our results demonstrate Tbeta4 to be the first known molecule able to initiate simultaneous myocardial and vascular regeneration after systemic administration in vivo. Given our findings, the utility of Tbeta4 to heal cardiac injury may hold promise and warrant further investigation."
+  },
+  {
+   "pmid": "30063848",
+   "titel": "Thymosin β4 limits inflammation through autophagy",
+   "jahr": "2018",
+   "journal": "Expert Opin Biol Ther",
+   "erstautor": "Renga G",
+   "doi": "10.1080/14712598.2018.1473854",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "INTRODUCTION: Thymosin β4 (Tβ4) is a thymic hormone with multiple and different intracellular and extracellular activities affecting wound healing, inflammation, fibrosis and tissue regeneration. As the failure to resolve inflammation leads to uncontrolled inflammatory pathology which underlies many chronic diseases, the endogenous pathway through which Tβ4 may promote inflammation resolution becomes of great interest. In this review, we discuss data highlighting the efficacy of Tβ4 in resolving inflammation by restoring autophagy. AREAS COVERED: The authors provide an overview of the Tβ4's anti-inflammatory properties in several pathologies and provide preliminary evidence on the ability of Tβ4 to resolve inflammation via the promotion of non-canonical autophagy associated with the activation of the DAP kinase anti-inflammatory function. EXPERT OPINION: Based on its multitasking activity in various animal studies, including tissue repair and prevention of chronic inflammation, Tβ4 may represent a potential, novel treatment for inflammatory diseases associated with defective autophagy."
+  },
+  {
+   "pmid": "4088088",
+   "titel": "Thymosin beta 4-like peptides",
+   "jahr": "1985",
+   "journal": "Methods Enzymol",
+   "erstautor": "Horecker BL",
+   "doi": "10.1016/s0076-6879(85)16020-9",
+   "typ": [
+    "Comparative Study",
+    "Journal Article"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "30241380",
+   "titel": "Thymosin Beta-4 and Ciprofloxacin Adjunctive Therapy Improves Pseudomonas aeruginosa-Induced Keratitis",
+   "jahr": "2018",
+   "journal": "Cells",
+   "erstautor": "Carion TW",
+   "doi": "10.3390/cells7100145",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "With increasing multidrug resistance and contraindication for corticosteroid use, the goal of this study was to develop thymosin beta-4 (Tβ4) as an adjunctive therapy to antibiotics for the treatment of bacterial keratitis that effectively promotes enhanced wound healing, host defense, and inflammation resolution. Disease outcome was assessed by clinical score, slit lamp photography, and histopathology. Cytokine profile, bacterial load, PMN infiltration, and Griess and reactive oxygen species (ROS) levels were determined. Adjunct Tβ4 treatment resulted in a significant improvement compared to PBS, Tβ4, and most remarkably, ciprofloxacin, correlating with changes in mediators of inflammation and wound healing. Collectively, these data provide evidence that wound healing is an essential aspect in the development of new therapies to treat corneal infection. Use of adjunctive Tβ4 provides a more efficacious approach for bacterial keratitis by addressing both the infectious pathogen and deleterious host response."
+  },
+  {
+   "pmid": "26296056",
+   "titel": "Identification of novel osteochondrosis--Associated genes",
+   "jahr": "2016",
+   "journal": "J Orthop Res",
+   "erstautor": "Mirams M",
+   "doi": "10.1002/jor.23033",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "During the early stages of articular osteochondrosis, cartilage is retained in subchondral bone, but the pathophysiology of this condition of growing humans and domestic animals is poorly understood. A subtractive hybridization study was undertaken to compare gene expression between the cartilage of early experimentally induced equine osteochondrosis lesions and control cartilage. Of the many putative differentially expressed genes identified, eight were confirmed by quantitative PCR analysis as differentially expressed, in addition to those already known to be associated with early lesions. Genes encoding vacuolar H(+)-ATPase V0 subunit d2 (ATP6V0D2), cathepsin K, integrin-binding sialoprotein, integrin αV, low density lipoprotein receptor-related protein 4, lumican, osteopontin, and thymosin β4 (TMSB4) were expressed at higher levels in lesions than in control cartilage. These genes included 34 genes not previously identified in cartilage. Some genes identified as associated with early lesions are known chondrocyte hypertrophy-associated genes, and in transmission electron microscopy studies normal hypertrophic chondrocytes were observed in lesions. Differential expression of ATP6V0D2 and TMSB4 in the cartilage of early naturally occurring osteochondrosis lesions was confirmed by immunohistochemistry. These results identify novel osteochondrosis-associated genes and provide evidence that articular osteochondrosis does not necessarily result from failure of chondrocytes to undergo hypertrophy."
+  },
+  {
+   "pmid": "22944663",
+   "titel": "Platelet function and thymosin β4",
+   "jahr": "2012",
+   "journal": "Biol Chem",
+   "erstautor": "Kaur H",
+   "doi": "10.1515/hsz-2012-0131",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "Thymosin β4 (Tβ4) is a small, low-molecular-weight peptide ubiquitously expressed in all cells and extracellular fluids. It is a major actin sequestering protein present in the cells. In addition to this, Tβ4 has also been shown to be involved in endothelial cell migration, angiogenesis, corneal wound healing, and stem cell differentiation. It is also released by platelets after activation. The amount of Tβ4 increases at sites of injury and thus suggests an important role of this biopeptide in wound healing. Herein, we provide an overview of the role of Tβ4 in thrombosis and platelet aggregation."
+  },
+  {
+   "pmid": "33301106",
+   "titel": "Thymosin β4 dynamics during chicken enteroid development",
+   "jahr": "2021",
+   "journal": "Mol Cell Biochem",
+   "erstautor": "Acharya M",
+   "doi": "10.1007/s11010-020-04008-x",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The sheared avian intestinal villus-crypts exhibit high tendency to self-repair and develop enteroids in culture. Presuming that this transition process involves differential biomolecular changes, we employed matrix-assisted laser desorption ionization-time of flight mass spectrometry (MALDI-TOF-MS) to find whether there were differences in the spectral profiles of sheared villi versus the enteroids, assessed in the mass range of 2-18 kDa. The results showed substantial differences in the intensities of the spectral peaks, one particularly corresponding to the mass of 4963 Da, which was significantly low in the sheared villus-crypts compared with the enteroids. Based on our previous results with other avian tissues and further molecular characterization by LC-ESI-IT-TOF-MS, and multiple reaction monitoring (MRM), the peak was identified to be thymosin β4 (Tβ4), a ubiquitously occurring regulatory peptide implicated in wound healing process. The identity of the peptide was further confirmed by immunohistochemistry which showed it to be present in a very low levels in the sheared villi but replete in the enteroids. Since Tβ4 sequesters G-actin preventing its polymerization to F-actin, we compared the changes in F-actin by its immunohistochemical localization that showed no significant differences between the sheared villi and enteroids. We propose that depletion of Tβ4 likely precedes villous reparation process. The possible mechanism for the differences in Tβ4 profile in relation to the healing of the villus-crypts to developing enteroids is discussed."
+  },
+  {
+   "pmid": "23421910",
+   "titel": "The potential use and abuse of thymosin β-4 in sport and exercise science",
+   "jahr": "2013",
+   "journal": "J Sports Sci",
+   "erstautor": "Davison G",
+   "doi": "10.1080/02640414.2013.771958",
+   "typ": [
+    "Editorial"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "22074294",
+   "titel": "Thymosin β4: a multi-functional regenerative peptide. Basic properties and clinical applications",
+   "jahr": "2012",
+   "journal": "Expert Opin Biol Ther",
+   "erstautor": "Goldstein AL",
+   "doi": "10.1517/14712598.2012.634793",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "INTRODUCTION: Thymosin β(4), a low molecular weight, naturally-occurring peptide plays a vital role in the repair and regeneration of injured cells and tissues. After injury, thymosin β(4), is released by platelets, macrophages and many other cell types to protect cells and tissues from further damage and reduce apoptosis, inflammation and microbial growth. Thymosin β(4) binds to actin and promotes cell migration, including the mobilization, migration, and differentiation of stem/progenitor cells, which form new blood vessels and regenerate the tissue. Thymosin β(4) also decreases the number of myofibroblasts in wounds, resulting in decreased scar formation and fibrosis. AREAS COVERED: This article will cover the many thymosin β(4) activities that directly affect the repair and regeneration cascade with emphasis on its therapeutic uses and potential. Our approach has been to evaluate the basic biology of the molecule as well as its potential for clinical applications in the skin, eye, heart and brain. EXPERT OPINION: The considerable advances in our understanding of the functional biology and mechanisms of action of thymosin β(4) have provided the scientific foundation for ongoing and projected clinical trials in the treatment of dermal wounds, corneal injuries and in the regeneration and repair of heart and CNS tissue following ischemic insults and trauma."
+  },
+  {
+   "pmid": "28191018",
+   "titel": "Thymosin β4 Improves Differentiation and Vascularization of EHTs",
+   "jahr": "2017",
+   "journal": "Stem Cells Int",
+   "erstautor": "Ziegler T",
+   "doi": "10.1155/2017/6848271",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Induced pluripotent stem cells (iPSC) constitute a powerful tool to study cardiac physiology and represents a promising treatment strategy to tackle cardiac disease. However, iPSCs remain relatively immature after differentiation. Additionally, engineered heart tissue (EHT) has been investigated as a therapy option in preclinical disease models with promising results, although their vascularization and functionality leave room for improvement. Thymosin β4 (Tβ4) has been shown to promote the differentiation of progenitor cell lines to cardiomyocytes while it also induces angiogenic sprouting and vascular maturation. We examined the potential impact of Tβ4 to enhance maturation of cardiomyocytes from iPSCs. Assessing the expression of transcription factors associated with cardiac differentiation, we were able to demonstrate the increased generation of cells displaying cardiomyocyte characteristics in vitro. Furthermore, we demonstrated, in a zebrafish model of embryonic vascular development, that Tβ4 is crucial for the proper execution of lymphatic and angiogenic vessel sprouting. Finally, utilizing Tβ4-transduced EHTs generated from mice genetically engineered to label endothelial cells in vitro, we show that treatment with Tβ4 promotes vascularization and contractility in EHTs, highlighting Tβ4 as a growth factor improving the formation of cardiomyocytes from iPSC and enhancing the performance of EHTs generated from neonatal cardiomyocytes."
+  },
+  {
+   "pmid": "37175390",
+   "titel": "The Pathophysiological Role of Thymosin β4 in the Kidney Glomerulus",
+   "jahr": "2023",
+   "journal": "Int J Mol Sci",
+   "erstautor": "Mason WJ",
+   "doi": "10.3390/ijms24097684",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Diseases affecting the glomerulus, the filtration unit of the kidney, are a major cause of chronic kidney disease. Glomerular disease is characterised by injury of glomerular cells and is often accompanied by an inflammatory response that drives disease progression. New strategies are needed to slow the progression to end-stage kidney disease, which requires dialysis or transplantation. Thymosin β4 (Tβ4), an endogenous peptide that sequesters G-actin, has shown potent anti-inflammatory function in experimental models of heart, kidney, liver, lung, and eye injury. In this review, we discuss the role of endogenous and exogenous Tβ4 in glomerular disease progression and the current understanding of the underlying mechanisms."
+  },
+  {
+   "pmid": "26006229",
+   "titel": "Potential role of thymosin Beta 4 in liver fibrosis",
+   "jahr": "2015",
+   "journal": "Int J Mol Sci",
+   "erstautor": "Kim J",
+   "doi": "10.3390/ijms160510624",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "Liver fibrosis, the main characteristic of chronic liver diseases, is strongly associated with the activation of hepatic stellate cells (HSCs), which are responsible for extracellular matrix production. As such, investigating the effective regulators controlling HSC activation provides important clues for developing therapeutics to inhibit liver fibrosis. Thymosin beta 4 (Tβ4), a major actin-sequestering protein, is known to be involved in various cellular responses. A growing body of evidence suggests that Tβ4 has a potential role in the pathogenesis of liver fibrosis and that it is especially associated with the activation of HSCs. However, it remains unclear whether Tβ4 promotes or suppresses the activation of HSCs. Herein, we review the potential role of Tβ4 in liver fibrosis by describing the effects of exogenous and endogenous Tβ4, and we discuss the possible signaling pathway regulated by Tβ4. Exogenous Tβ4 reduces liver fibrosis by inhibiting the proliferation and migration of HSCs. Tβ4 is expressed endogenously in the activated HSCs, but this endogenous Tβ4 displays opposite effects in HSC activation, either as an activator or an inhibitor. Although the role of Tβ4 has not been established, it is apparent that Tβ4 influences HSC activation, suggesting that Tβ4 is a potential therapeutic target for treating liver diseases."
+  },
+  {
+   "pmid": "28808568",
+   "titel": "Thymosin β4 in rheumatoid arthritis: Friend or foe",
+   "jahr": "2017",
+   "journal": "Biomed Rep",
+   "erstautor": "Kim KS",
+   "doi": "10.3892/br.2017.952",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Rheumatoid arthritis (RA) has characteristic pannus tissues, which show tumor-like growth of the synovium through chronic joint inflammation. The synovium is highly penetrated by various immune cells, and the synovial lining becomes hyperplastic due to increased numbers of macrophage-like and fibroblast-like synoviocytes. Thus, a resultant hypoxic condition stimulates the expression of inflammation-related genes in various cells, in particular, vascular endothelial growth factor. Thymosin β4 (Tβ4), a 5-kDa protein, is known to play a significant role in various biological activities, such as actin sequestering, cell motility, migration, inflammation, and damage repair. Recent studies have provided evidence that Tβ4 may have a role in RA pathogenesis. The Tβ4 level has been shown to increase significantly in the joint fluid and serum of RA patients. However, whether Tβ4 stimulates or inhibits activation of RA immune responses remains to be determined. In the present study, we discuss the logical and clinical justifications for Tβ4 as a potential target for RA therapeutics."
+  },
+  {
+   "pmid": "34495765",
+   "titel": "Discovery of thymosin β4 as a human exerkine and growth factor",
+   "jahr": "2021",
+   "journal": "Am J Physiol Cell Physiol",
+   "erstautor": "Gonzalez-Franquesa A",
+   "doi": "10.1152/ajpcell.00263.2021",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Skeletal muscle is an endocrine organ secreting exercise-induced factors (exerkines), which play a pivotal role in interorgan cross talk. Using mass spectrometry (MS)-based proteomics, we characterized the secretome and identified thymosin β4 (TMSB4X) as the most upregulated secreted protein in the media of contracting C2C12 myotubes. TMSB4X was also acutely increased in the plasma of exercising humans irrespective of the insulin resistance condition or exercise mode. Treatment of mice with TMSB4X did not ameliorate the metabolic disruptions associated with diet induced-obesity, nor did it enhance muscle regeneration in vivo. However, TMSB4X increased osteoblast proliferation and neurite outgrowth, consistent with its WADA classification as a prohibited growth factor. Therefore, we report TMSB4X as a human exerkine with a potential role in cellular cross talk."
+  },
+  {
+   "pmid": "31333080",
+   "titel": "Thymosin β4: A Multi-Faceted Tissue Repair Stimulating Protein in Heart Injury",
+   "jahr": "2020",
+   "journal": "Curr Med Chem",
+   "erstautor": "Bjørklund G",
+   "doi": "10.2174/0929867326666190716125456",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Thymosin Beta-4 (Tβ4) is known as a major pleiotropic actin-sequestering protein that is involved in tumorigenesis. Tβ4 is a water-soluble protein that has different promising clinical applications in the remodeling and ulcerated tissues repair following myocardial infarction, stroke, plasticity and neurovascular remodeling of the Peripheral Nervous System (PNS) and the Central Nervous System (CNS). On the other hand, similar effects have been observed for Tβ4 in other kinds of tissues, including cardiac muscle tissue. In recent reports, as it activates resident epicardial progenitor cells and modulates inflammatory-caused injuries, Tβ4 has been suggested as a promoter of the survival of cardiomyocytes. Furthermore, Tβ4 may act in skeletal muscle and different organs in association/synergism with numerous other tissue repair stimulating factors, including melatonin and C-fiber-derived peptides. For these reasons, the present review highlights the promising role of Tβ4 in cardiac healing."
+  },
+  {
+   "pmid": "28978161",
+   "titel": "Thymosin-β4 inhibits proliferation and induces apoptosis of hepatic stellate cells through PI3K/AKT pathway",
+   "jahr": "2017",
+   "journal": "Oncotarget",
+   "erstautor": "Zhu L",
+   "doi": "10.18632/oncotarget.18748",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Liver fibrosis is a necessary stage for chronic liver diseases, and serious threat to human health. Hepatic fibrosis is a necessary stage for chronic liver diseases. Hepatic stellate cells (HSCs) are the primary cell type responsible for fibrosis. Thymosin beta 4 (Tβ4) has a potential role in the pathogenesis of liver fibrosis and that it is especially associated with the activation of HSCs, however, the underlying mechanisms are not fully elucidated. Herein, we investigated the potential role of Tβ4 in liver fibrosis by describing the effects of Tβ4, and we discuss the possible signaling pathway regulated by Tβ4. The expression of Tβ4 was significantly decreased in human HSC cell line LX-2 and CCl4-treated mouse liver. The depletion of Tβ4 significantly associated with the activation of HSCs via the enhanced expression of α-SMA and vimentin. Tβ4 significantly suppressed the viability and migration of HSCs. Understanding the potential effects and regulatory mechanism of Tβ4 in liver fibrosis might help to provide a novel treatment for patients with liver fibrosis."
+  },
+  {
+   "pmid": "31753373",
+   "titel": "Electrospun thymosin Beta-4 loaded PLGA/PLA nanofiber/ microfiber hybrid yarns for tendon tissue engineering application",
+   "jahr": "2020",
+   "journal": "Mater Sci Eng C Mater Biol Appl",
+   "erstautor": "Wu S",
+   "doi": "10.1016/j.msec.2019.110268",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Microfiber yarns (MY) have been widely employed to construct tendon tissue grafts. However, suboptimal ultrastructure and inappropriate environments for cell interactions limit their clinical application. Herein, we designed a modified electrospinning device to coat poly(lactic-co-glycolic acid) PLGA nanofibers onto polylactic acid (PLA) MY to generate PLGA/PLA hybrid yarns (HY), which had a well-aligned nanofibrous structure, resembling the ultrastructure of native tendon tissues and showed enhanced failure load compared to PLA MY. PLGA/PLA HY significantly improved the growth, proliferation, and tendon-specific gene expressions of human adipose derived mesenchymal stem cells (HADMSC) compared to PLA MY. Moreover, thymosin beta-4 (Tβ4) loaded PLGA/PLA HY presented a sustained drug release manner for 28 days and showed an additive effect on promoting HADMSC migration, proliferation, and tenogenic differentiation. Collectively, the combination of Tβ4 with the nano-topography of PLGA/PLA HY might be an efficient strategy to promote tenogenesis of adult stem cells for tendon tissue engineering."
+  },
+  {
+   "pmid": "23050819",
+   "titel": "Cardiac repair with thymosin β4 and cardiac reprogramming factors",
+   "jahr": "2012",
+   "journal": "Ann N Y Acad Sci",
+   "erstautor": "Srivastava D",
+   "doi": "10.1111/j.1749-6632.2012.06696.x",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Heart disease is a leading cause of death in newborns and in adults. We previously reported that the G-actin-sequestering peptide thymosin β4 promotes myocardial survival in hypoxia and promotes neoangiogenesis, resulting in cardiac repair after injury. More recently, we showed that reprogramming of cardiac fibroblasts to cardiomyocyte-like cells in vivo after coronary artery ligation using three cardiac transcription factors (Gata4/Mef2c/Tbx5) offers an alternative approach to regenerate heart muscle. We have combined the delivery of thymosin β4 and the cardiac reprogramming factors to further enhance the degree of cardiac repair and improvement in cardiac function after myocardial infarction. These findings suggest that thymosin β4 and cardiac reprogramming technology may synergistically limit damage to the heart and promote cardiac regeneration through the stimulation of endogenous cells within the heart."
+  },
+  {
+   "pmid": "30063846",
+   "titel": "The role of Thymosin β4 in angiotensin II-induced cardiomyocytes growth",
+   "jahr": "2018",
+   "journal": "Expert Opin Biol Ther",
+   "erstautor": "Gupta S",
+   "doi": "10.1080/14712598.2018.1494718",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "INTRODUCTION: Thymosin beta-4 (Tβ4) is an actin sequestering protein and is furthermore involved in diverse biological processes including cell proliferation, differentiation, wound healing, stem- or progenitor cell differentiation, and modulates inflammatory mediators. Tβ4 also attenuates fibrosis. However, the role of Tβ4 in cardiomyocytes hypertrophy is unknown. AREAS COVERED: In this review, we will discuss the role of Tβ4 in cardiac remodeling that specifically includes cardiac hypertrophy and fibrosis only. Our review will further cover a new signaling pathway, the wingless and integrated-1 (Wnt) pathway in cardiac remodeling. In rat neonatal and adult cardiomyocytes stimulated with angiotensin II (Ang II), we showed that Tβ4 has the ability to reduce cell sizes, attenuate hypertrophy marker genes expression, along with a panel of WNT-associated gene expressions induced by Ang II. Selected target gene WNT1-inducible-signaling pathway protein 1 (WISP-1) was identified by Tβ4. Data further confirmed that WISP-1 overexpression promoted cardiomyocytes growth and was reversed by Tβ4 pretreatment. EXPERT OPINION: Our data suggested that Tβ4 protects cardiomyocytes from hypertrophic response by targeting WISP-1. The new role of Tβ4 in cardiac hypertrophy advances our understanding, and the mechanism of action of Tβ4 may provide a solid foundation for the treatment of cardiac disease."
+  }
+ ],
+ "ctgov": [
+  {
+   "nct": "NCT00598871",
+   "titel": "A Phase 2 Study of the Safety and Efficacy of Thymosin Beta 4 for Treating Corneal Wounds",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "TERMINATED",
+   "teilnehmende": 12,
+   "start": "2007-12",
+   "ende": "2009-02",
+   "erkrankungen": [
+    "Diabetes"
+   ],
+   "sponsor": "ReGenTree, LLC",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT04555850",
+   "titel": "A Phase 1b Study of Thymosin Beta 4 in Healthy Volunteers",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 30,
+   "start": "2018-07-30",
+   "ende": "2019-07-26",
+   "erkrankungen": [
+    "Healthy"
+   ],
+   "sponsor": "Beijing Northland Biotech. Co., Ltd.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT01311518",
+   "titel": "A Study of the Safety and Efficacy of Injectable Thymosin Beta 4 for Treating Acute Myocardial Infarction",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "WITHDRAWN",
+   "teilnehmende": 0,
+   "start": "2019-07",
+   "ende": "2020-07",
+   "erkrankungen": [
+    "Acute Myocardial Infarction",
+    "ST Elevation Myocardial Infarction",
+    "STEMI"
+   ],
+   "sponsor": "RegeneRx Biopharmaceuticals, Inc.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00832091",
+   "titel": "Study of Thymosin Beta 4 in Patients With Venous Stasis Ulcers",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 72,
+   "start": "2006-07",
+   "ende": "2009-01",
+   "erkrankungen": [
+    "Venous Stasis Ulcers"
+   ],
+   "sponsor": "RegeneRx Biopharmaceuticals, Inc.",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT03937882",
+   "titel": "Assessment of the Safety and Efficacy of RGN-259 Ophthalmic Solutions for Dry Eye Syndrome: ARISE-3",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 700,
+   "start": "2019-05-24",
+   "ende": "2021-10-07",
+   "erkrankungen": [
+    "Dry Eye Syndromes",
+    "Dry Eye"
+   ],
+   "sponsor": "ReGenTree, LLC",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT04555824",
+   "titel": "A Phase 1a Study of Thymosin Beta 4 in Healthy Volunteers",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 54,
+   "start": "2017-07-17",
+   "ende": "2018-06-20",
+   "erkrankungen": [
+    "Healthy"
+   ],
+   "sponsor": "Beijing Northland Biotech. Co., Ltd.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07586865",
+   "titel": "Recombinant Human Thymosin Beta 4 for Injection(NL005) for Acute Myocardial Infarction",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "NOT_YET_RECRUITING",
+   "teilnehmende": 189,
+   "start": "2026-05-18",
+   "ende": "2028-05-17",
+   "erkrankungen": [
+    "Acute Myocardial Infarction (AMI)",
+    "Acute Myocardial Infarction of Anterior Wall",
+    "Acute Myocardial Infarction With ST Elevation",
+    "Acute Myocardial Infarction of Left Ventricle",
+    "Acute Myocardial Infarction With ST Segment Elevation"
+   ],
+   "sponsor": "Beijing Northland Biotech. Co., Ltd.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00743769",
+   "titel": "A Phase 1 Safety Study of the Intravenous Administration of Thymosin Beta in Healthy Volunteers",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "WITHDRAWN",
+   "teilnehmende": 0,
+   "start": "2008-04",
+   "ende": "2017-01-01",
+   "erkrankungen": [
+    "Myocardial Infarction",
+    "Myocardial Ischemia"
+   ],
+   "sponsor": "RegeneRx Biopharmaceuticals, Inc.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT02597803",
+   "titel": "Assessment of the Safety and Efficacy of RGN-259 Ophthalmic Solutions for Dry Eye Syndrome: ARISE-1",
+   "phase": "PHASE2,PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 317,
+   "start": "2015-09",
+   "ende": "2016-07",
+   "erkrankungen": [
+    "Dry Eye Syndrome"
+   ],
+   "sponsor": "ReGenTree, LLC",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT01387347",
+   "titel": "Safety and Efficacy of Thymosin Beta 4 Ophthalmic Solution in Patients With Dry Eye",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 72,
+   "start": "2011-08",
+   "ende": "2011-12",
+   "erkrankungen": [
+    "Dry Eye Syndrome",
+    "Dry Eye"
+   ],
+   "sponsor": "ReGenTree, LLC",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT05555589",
+   "titel": "Assessment of the Safety and Efficacy of 0.1% RGN-259 Ophthalmic Solution for the Treatment of NK: SEER-2",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 70,
+   "start": "2023-04-11",
+   "ende": "2026-05-30",
+   "erkrankungen": [
+    "Neurotrophic Keratopathy"
+   ],
+   "sponsor": "ReGenTree, LLC",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00382174",
+   "titel": "Study of Thymosin Beta 4 in Patients With Pressure Ulcers",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 72,
+   "start": "2006-05",
+   "ende": "2008-12",
+   "erkrankungen": [
+    "Pressure Ulcers"
+   ],
+   "sponsor": "RegeneRx Biopharmaceuticals, Inc.",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT01393132",
+   "titel": "Comparative Study of Thymosin Beta 4 Eye Drops vs. Vehicle in the Treatment of Severe Dry Eye",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 9,
+   "start": "2011-03",
+   "ende": "2012-12",
+   "erkrankungen": [
+    "Dry Eye",
+    "Sjogren's Syndrome",
+    "Graft vs. Host Disease"
+   ],
+   "sponsor": "Michigan Cornea Consultants, PC",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT05984134",
+   "titel": "Efficacy and Safety Study of Thymosin Beta 4 in Patients With Acute Myocardial Infarction",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 90,
+   "start": "2022-07-15",
+   "ende": "2023-05-29",
+   "erkrankungen": [
+    "Acute Myocardial Infarction"
+   ],
+   "sponsor": "Beijing Northland Biotech. Co., Ltd.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07487363",
+   "titel": "TB-500 (Thymosin Beta 4 17-23 Fragment) for Cardiovascular Biomarkers in Stable ASCVD",
+   "phase": "PHASE1,PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 80,
+   "start": "2026-02-05",
+   "ende": "2028-02-17",
+   "erkrankungen": [
+    "Atherosclerotic Cardiovascular Diseases",
+    "Endothelial Dysfunction"
+   ],
+   "sponsor": "Hudson Biotech",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT02974907",
+   "titel": "Assessment of the Safety and Efficacy of RGN-259 Ophthalmic Solutions for Dry Eye Syndrome : ARISE-2",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 601,
+   "start": "2016-11",
+   "ende": "2018-03",
+   "erkrankungen": [
+    "Dry Eye Syndrome"
+   ],
+   "sponsor": "ReGenTree, LLC",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT00311766",
+   "titel": "A Phase 2 Study on Effect of Thymosin Beta 4 on Wound Healing in Patients With Epidermolysis Bullosa",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "TERMINATED",
+   "teilnehmende": 30,
+   "start": "2006-02",
+   "ende": "2012-11",
+   "erkrankungen": [
+    "Epidermolysis Bullosa"
+   ],
+   "sponsor": "RegeneRx Biopharmaceuticals, Inc.",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT05485818",
+   "titel": "Safety and Efficacy Study of Thymosin Beta 4 in Patients With Acute Myocardial Infarction.Infarction",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 62,
+   "start": "2020-11-23",
+   "ende": "2021-11-18",
+   "erkrankungen": [
+    "Acute Myocardial Infarction"
+   ],
+   "sponsor": "Beijing Northland Biotech. Co., Ltd.",
+   "ergebnisse": false
+  }
+ ],
+ "gruppe": "B_regeneration"
+}

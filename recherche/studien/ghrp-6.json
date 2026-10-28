@@ -1,0 +1,1152 @@
+{
+ "name": "GHRP-6",
+ "status": "nicht_zugelassen",
+ "suchbegriff_pubmed": "GHRP-6[tiab]",
+ "suchbegriff_ctgov": "GHRP-6",
+ "humanstudien_alle": [
+  {
+   "pmid": "23099431",
+   "titel": "Pharmacokinetic study of Growth Hormone-Releasing Peptide 6 (GHRP-6) in nine male healthy volunteers",
+   "jahr": "2013",
+   "journal": "Eur J Pharm Sci",
+   "erstautor": "Cabrales A",
+   "doi": "10.1016/j.ejps.2012.10.006",
+   "typ": [
+    "Clinical Trial, Phase I",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "20602173",
+   "titel": "Effects of ghrelin, GH-releasing peptide-6 (GHRP-6) and GHRH on GH, ACTH and cortisol release in hyperthyroidism before and after treatment",
+   "jahr": "2010",
+   "journal": "Pituitary",
+   "erstautor": "Molica P",
+   "doi": "10.1007/s11102-010-0238-3",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "20189610",
+   "titel": "Effects of ghrelin, growth hormone-releasing peptide-6, and growth hormone-releasing hormone on growth hormone, adrenocorticotropic hormone, and cortisol release in type 1 diabetes mellitus",
+   "jahr": "2010",
+   "journal": "Metabolism",
+   "erstautor": "de Sá LB",
+   "doi": "10.1016/j.metabol.2010.01.021",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "19946832",
+   "titel": "Diagnosis of adrenal insufficiency using the GHRP-6 Test: comparison with the insulin tolerance test in patients with hypothalamic-pituitary-adrenal disease",
+   "jahr": "2010",
+   "journal": "Horm Metab Res",
+   "erstautor": "Alaioubi B",
+   "doi": "10.1055/s-0029-1243184",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "19453623",
+   "titel": "Adrenocorticotrophic hormone (ACTH) responsiveness to ghrelin increases after 6 months of ketoconazole use in patients with Cushing's disease: comparison with GH-releasing peptide-6 (GHRP-6)",
+   "jahr": "2010",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Correa-Silva SR",
+   "doi": "10.1111/j.1365-2265.2009.03618.x",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "19396632",
+   "titel": "Ghrelin and GHRP-6-induced ACTH and cortisol release in thyrotoxicosis",
+   "jahr": "2009",
+   "journal": "Pituitary",
+   "erstautor": "Nascif SO",
+   "doi": "10.1007/s11102-009-0181-3",
+   "typ": [
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "18426818",
+   "titel": "Association between tumoral GH-releasing peptide receptor type 1a mRNA expression and in vivo response to GH-releasing peptide-6 in ACTH-dependent Cushing's syndrome patients",
+   "jahr": "2008",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Machado MC",
+   "doi": "10.1530/EJE-07-0659",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "17410412",
+   "titel": "Decreased ghrelin-induced GH release in thyrotoxicosis: comparison with GH-releasing peptide-6 (GHRP-6) and GHRH",
+   "jahr": "2007",
+   "journal": "Pituitary",
+   "erstautor": "Nascif SO",
+   "doi": "10.1007/s11102-007-0005-2",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "16832586",
+   "titel": "Decreased GH secretion and enhanced ACTH and cortisol release after ghrelin administration in Cushing's disease: comparison with GH-releasing peptide-6 (GHRP-6) and GHRH",
+   "jahr": "2006",
+   "journal": "Pituitary",
+   "erstautor": "Correa-Silva SR",
+   "doi": "10.1007/s11102-006-9149-8",
+   "typ": [
+    "Comparative Study",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "15177700",
+   "titel": "Hexarelin decreases slow-wave sleep and stimulates the secretion of GH, ACTH, cortisol and prolactin during sleep in healthy volunteers",
+   "jahr": "2004",
+   "journal": "Psychoneuroendocrinology",
+   "erstautor": "Frieboes RM",
+   "doi": "10.1016/S0306-4530(03)00152-5",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "14693411",
+   "titel": "Growth hormone response to GHRH + GHRP-6 in type 2 diabetes during euglycemic and hyperglycemic clamp",
+   "jahr": "2004",
+   "journal": "Diabetes Res Clin Pract",
+   "erstautor": "Micic D",
+   "doi": "10.1016/j.diabres.2003.08.012",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "12887288",
+   "titel": "Comparison between insulin tolerance test, growth hormone (GH)-releasing hormone (GHRH), GHRH plus acipimox and GHRH plus GH-releasing peptide-6 for the diagnosis of adult GH deficiency in normal subjects, obese and hypopituitary patients",
+   "jahr": "2003",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Cordido F",
+   "doi": "10.1530/eje.0.1490117",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "12841541",
+   "titel": "Growth-hormone response to combined stimulation with GHRH plus GH-releasing peptide-6 in obese patients with polycystic ovary syndrome before and after short-term fasting",
+   "jahr": "2003",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Micić D",
+   "doi": "10.1007/BF03345181",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Controlled Clinical Trial",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "12809173",
+   "titel": "GHRP-6 is able to stimulate cortisol and ACTH release in patients with Cushing's disease: comparison with DDAVP",
+   "jahr": "2003",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Oliveira JH",
+   "doi": "10.1007/BF03345162",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "12739742",
+   "titel": "GH-releasing peptide (GHRP-6)-induced ACTH release in patients with addison's disease: effect of glucocorticoid withdrawal",
+   "jahr": "2003",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Martins MR",
+   "doi": "10.1007/BF03345143",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "12431802",
+   "titel": "Effects of growth hormone-releasing peptides in healthy dogs and in dogs with pituitary-dependent hyperadrenocorticism",
+   "jahr": "2002",
+   "journal": "Mol Cell Endocrinol",
+   "erstautor": "Bhatti SF",
+   "doi": "10.1016/s0303-7207(02)00293-9",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "11849251",
+   "titel": "Physical activity or food intake prior to testing did not affect the reproducibility of GH secretion elicited by GH releasing hormone plus GH-releasing hexapeptide in normal adult subjects",
+   "jahr": "2002",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Popovic V",
+   "doi": "10.1046/j.0300-0664.2001.01445.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "11678828",
+   "titel": "Effects of fasting and pegvisomant on the GH-releasing hormone and GH-releasing peptide-6 stimulated growth hormone secretion",
+   "jahr": "2001",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Muller AF",
+   "doi": "10.1046/j.1365-2265.2001.01374.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "11030292",
+   "titel": "GH-releasing hormone and GH-releasing peptide-6 for diagnostic testing in GH-deficient adults",
+   "jahr": "2000",
+   "journal": "Lancet",
+   "erstautor": "Popovic V",
+   "doi": "10.1016/S0140-6736(00)02755-0",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Multicenter Study",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "10770194",
+   "titel": "Effects of short-term glucocorticoid deprivation on growth hormone (GH) response to GH-releasing peptide-6: studies in normal men and in patients with adrenal insufficiency",
+   "jahr": "2000",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Pinto AC",
+   "doi": "10.1210/jcem.85.4.6536",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "10583306",
+   "titel": "Acute dexamethasone administration enhances GH responsiveness to GH releasing peptide-6 (GHRP-6) in man",
+   "jahr": "1999",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Pinto AC",
+   "doi": "10.1046/j.1365-2265.1999.00792.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "10336729",
+   "titel": "Effects of growth hormone-releasing peptide-6 on the nocturnal secretion of GH, ACTH and cortisol and on the sleep EEG in man: role of routes of administration",
+   "jahr": "1999",
+   "journal": "J Neuroendocrinol",
+   "erstautor": "Frieboes RM",
+   "doi": "10.1046/j.1365-2826.1999.00364.x",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "10206449",
+   "titel": "Growth hormone (GH) response to GH-releasing peptide-6 and GH-releasing hormone in normal-weight and overweight patients with non-insulin-dependent diabetes mellitus",
+   "jahr": "1999",
+   "journal": "Metabolism",
+   "erstautor": "Micić D",
+   "doi": "10.1016/s0026-0495(99)90115-4",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "10195374",
+   "titel": "Tyr-Ala-Hexarelin, a synthetic octapeptide, possesses the same endocrine activities of Hexarelin and GHRP-2 in humans",
+   "jahr": "1999",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Arvat E",
+   "doi": "10.1007/BF03350886",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "9661645",
+   "titel": "Preserved growth hormone (GH) secretion in aged and very old subjects after testing with the combined stimulus GH-releasing hormone plus GH-releasing hexapeptide-6",
+   "jahr": "1998",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Micic D",
+   "doi": "10.1210/jcem.83.7.4957",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "9543138",
+   "titel": "Growth hormone (GH)-releasing peptide-6 requires endogenous hypothalamic GH-releasing hormone for maximal GH stimulation",
+   "jahr": "1998",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Pandya N",
+   "doi": "10.1210/jcem.83.4.4711",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "9274702",
+   "titel": "Different effects of growth hormone releasing peptide (GHRP-6) and GH-releasing hormone on GH release in endogenous and exogenous hypercortisolism",
+   "jahr": "1997",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Borges MH",
+   "doi": "10.1046/j.1365-2265.1997.1981008.x",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "9156038",
+   "titel": "Growth hormone responses to GH-releasing peptide (GHRP-6) in hypothyroidism",
+   "jahr": "1997",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Pimentel-Filho FR",
+   "doi": "10.1046/j.1365-2265.1997.1270942.x",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "9135702",
+   "titel": "Influence of endogenous cholinergic tone and growth hormone-releasing peptide-6 on exercise induced growth hormone release",
+   "jahr": "1997",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Nooitgedagt A",
+   "doi": "10.1046/j.1365-2265.1997.1080919.x",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "8772550",
+   "titel": "Impaired growth hormone secretion in obese subjects is partially reversed by acipimox-mediated plasma free fatty acid depression",
+   "jahr": "1996",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Cordido F",
+   "doi": "10.1210/jcem.81.3.8772550",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "8772549",
+   "titel": "Acipimox-mediated plasma free fatty acid depression per se stimulates growth hormone (GH) secretion in normal subjects and potentiates the response to other GH-releasing stimuli",
+   "jahr": "1996",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Peino R",
+   "doi": "10.1210/jcem.81.3.8772549",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "8706295",
+   "titel": "Hexarelin, a synthetic growth hormone releasing peptide, stimulates prolactin secretion in acromegalic but not in hyperprolactinaemic patients",
+   "jahr": "1996",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Ciccarelli E",
+   "doi": "10.1046/j.1365-2265.1996.626446.x",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "7593423",
+   "titel": "Absence of growth hormone (GH) secretion after the administration of either GH-releasing hormone (GHRH), GH-releasing peptide (GHRP-6), or GHRH plus GHRP-6 in children with neonatal pituitary stalk transection",
+   "jahr": "1995",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Pombo M",
+   "doi": "10.1210/jcem.80.11.7593423",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "7581965",
+   "titel": "Growth hormone-releasing effect of oral growth hormone-releasing peptide 6 (GHRP-6) administration in children with short stature",
+   "jahr": "1995",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Bellone J",
+   "doi": "10.1530/eje.0.1330425",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "7586608",
+   "titel": "The effect of an opiate antagonist on the hormonal changes induced by hexarelin",
+   "jahr": "1995",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Korbonits M",
+   "doi": "10.1111/j.1365-2265.1995.tb02045.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "7788011",
+   "titel": "Growth hormone (GH) responses to the combined administration of GH-releasing hormone plus GH-releasing peptide 6 in adults with GH deficiency",
+   "jahr": "1995",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Leal-Cerro A",
+   "doi": "10.1530/eje.0.1320712",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "7617137",
+   "titel": "Growth hormone-releasing peptide-6 stimulates sleep, growth hormone, ACTH and cortisol release in normal man",
+   "jahr": "1995",
+   "journal": "Neuroendocrinology",
+   "erstautor": "Frieboes RM",
+   "doi": "10.1159/000126883",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "7734029",
+   "titel": "Growth hormone secretion after the administration of GHRP-6 or GHRH combined with GHRP-6 does not decline in late adulthood",
+   "jahr": "1995",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Micic D",
+   "doi": "10.1111/j.1365-2265.1995.tb01861.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "7952160",
+   "titel": "Growth hormone-releasing activity of growth hormone-releasing peptide-6 is maintained after short-term oral pretreatment with the hexapeptide in normal aging",
+   "jahr": "1994",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Ghigo E",
+   "doi": "10.1530/eje.0.1310499",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "8051337",
+   "titel": "Arginine enhances the growth hormone-releasing activity of a synthetic hexapeptide (GHRP-6) in elderly but not in young subjects after oral administration",
+   "jahr": "1994",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Ghigo E",
+   "doi": "10.1007/BF03347707",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  }
+ ],
+ "humanstudien_detail": [
+  {
+   "pmid": "23099431",
+   "titel": "Pharmacokinetic study of Growth Hormone-Releasing Peptide 6 (GHRP-6) in nine male healthy volunteers",
+   "jahr": "2013",
+   "journal": "Eur J Pharm Sci",
+   "erstautor": "Cabrales A",
+   "doi": "10.1016/j.ejps.2012.10.006",
+   "typ": [
+    "Clinical Trial, Phase I",
+    "Journal Article"
+   ],
+   "abstract": "GHRP-6 is a growth hormone secretagogue that also enhances tissue viability in different organs. In the present work, we studied the pharmacokinetics of this short therapeutic hexapeptide (His-(D-Trp)-Ala-Trp-(D-Phe)-Lys-NH(2,) MW=872.44 Da) in nine male healthy volunteers after a single intravenous bolus administration of 100, 200 and 400 μg/kg of body weight. GHRP-6 was quantified in human plasma by a specific LC-MS method, previously developed and validated following FDA guidelines, using (13)C(3)Ala-GHRP-6 as internal standard (Gil et al., 2012, J. Pharm. Biomed. Anal. 60, 19-25). The Lower Limit of Quantification (5 ng/mL) was reached in all subjects at 12h post-administration, which was sufficient for modeling a pharmacokinetic profile including over 85% of the Area under the Curve (AUC). Disposition of GHRP-6 best fitted a bi-exponential function with R(2) higher than 0.99, according to a mathematic modeling and confirmed by an Akaike index (AIC) lower than that of the corresponding one-compartment model for all subjects. Averaging all three dose levels, the distribution and elimination half-life of GHRP-6 were 7.6 ± 1.9 min and 2.5 ± 1.1h, respectively. These values are coherent with existing data for other drugs whose disposition also fits this model. Dose dependence analysis revealed a noticeable trend for AUC to increase proportionally with administered dose. Atypical GHRP-6 concentration spikes were observed during the elimination phase in four out of the nine subjects studied."
+  },
+  {
+   "pmid": "9274702",
+   "titel": "Different effects of growth hormone releasing peptide (GHRP-6) and GH-releasing hormone on GH release in endogenous and exogenous hypercortisolism",
+   "jahr": "1997",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Borges MH",
+   "doi": "10.1046/j.1365-2265.1997.1981008.x",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: Chronic hypercortisolism is associated with decreased GH responsiveness to GHRH. GHRP-6 is a synthetic hexapeptide that releases GH in several species, including man. As GHRH and GHRP-6 apparently stimulate GH release by different mechanisms, we evaluated the GH responses to these peptides in patients with endogenous and exogenous glucocorticoid excess and also in control subjects. DESIGN: Six patients with endogenous hypercortisolism, nine with exogenous glucocorticoid excess and 10 normal controls were submitted to three tests, in random order, with GHRH (100 micrograms), GHRP-6 (1 microgram/ kg) or GHRP+GHRP-6, in the same doses, i.v., on separate days. MEASUREMENTS: GH was measured by immunofluorometric assay. IGF-I was determined by radioimmunoassay. Plasma glucose was measured by the glucose-oxidase technique. RESULTS: Peak GH values (mean +/- SE; microgram/l) after GHRH were significantly blunted in endogenous (2.0 +/- 0.7) and exogenous (3.6 +/- 1.2) hypercortisolaemic patients compared to controls (24.9 +/- 6.1). The endogenous group had lower peak GH values after GHRP-6 alone (7.7 +/- 1.9) or together with GHRH (18.8 +/- 5.8) than those observed in controls (GHRP-6: 22.1 +/- 3.6; GHRH+GHRP-6: 77.4 +/- 15.0) and in exogenous hypercortisolism (27.4 +/- 6.2 and 78.1 +/- 19.9). There were no differences in the GH responses to GHRP-6 alone or in combination with GHRH when controls were compared to the exogenous group. No changes in plasma IGF-I and glucose levels were observed. CONCLUSIONS: Our results suggest that hypercortisolism had a different effect on the GH-releasing mechanisms stimulated by GHRH and GHRP-6. Moreover, in endogenous hypercortisolism both GHRH and GHRP-6 pathways are affected, while in the exogenous group GHRP-6 releasing mechanisms are apparently preserved."
+  },
+  {
+   "pmid": "19396632",
+   "titel": "Ghrelin and GHRP-6-induced ACTH and cortisol release in thyrotoxicosis",
+   "jahr": "2009",
+   "journal": "Pituitary",
+   "erstautor": "Nascif SO",
+   "doi": "10.1007/s11102-009-0181-3",
+   "typ": [
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Thyrotoxicosis might alter the hypothalamic-pituitary-adrenal (HPA) axis. We evaluated the effects of ghrelin and GHRP-6 on the HPA axis in 20 hyperthyroid patients and in 9 controls. Mean basal cortisol (microg/dl) and ACTH (pg/ml) levels were higher in hyperthyroidism (cortisol: 10.7 +/- 0.7; ACTH: 21.5 +/- 2.9) compared to controls (cortisol: 8.1 +/- 0.7; ACTH: 13.5 +/- 1.8). In thyrotoxicosis Delta AUC cortisol values (microg/dl.90 min) after ghrelin (484 +/- 80) and GHRP-6 (115 +/- 63) were similar to controls (ghrelin: 524 +/- 107; GHRP-6: 192 +/- 73). A significant increase in Delta AUC ACTH (pg/ml x 90 min) after ghrelin was observed in thyrotoxicosis (4,189 +/- 1,202) compared to controls (1,499 +/- 338). Delta AUC ACTH values after GHRP-6 were also higher, although not significantly (patients: 927 +/- 330; controls: 539 +/- 237). In summary, our results suggest that ghrelin-mediated pathways of ACTH release might be activated by thyroid hormone excess, but adrenocortical reserve is maintained."
+  },
+  {
+   "pmid": "14693411",
+   "titel": "Growth hormone response to GHRH + GHRP-6 in type 2 diabetes during euglycemic and hyperglycemic clamp",
+   "jahr": "2004",
+   "journal": "Diabetes Res Clin Pract",
+   "erstautor": "Micic D",
+   "doi": "10.1016/j.diabres.2003.08.012",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The aim of this study was to investigate the effect of two different glucose levels on GH response to the combined administration of GHRH+GHRP-6 in patients with type 2 diabetes. GH response to i.v. bolus of GHRH+GHRP-6 (100 mcg, each) was measured in 12 male patients with type 2 diabetes (mean age: 53.9+/-1.59 years; BMI: 25.58+/-0.39 kg/m(2); mean HbA(1c): 8.7+/-0.42%), during a euglycemic (mean glucose: 4.92+/-0.08 mmol) hyperinsulinemic clamp (insulin infusion rate of 100 mU/kg/h) and a hyperglycemic clamp (mean glucose: 12.19+/-0.11 mmol/l). There was no difference in basal GH levels between the hyperglycemic and euglycemic clamps (2.9+/-0.99 mU/l versus 1.48+/-0.44 mU/l; P>0.05). Peak GH response to GHRH+GHRP-6 during the hyperglycemic clamp was lower than in the englycemic clamp (112.45+/-14.45 mU/l versus 151.06+/-16.87 mU/l; P<0.05). Area under the GH curve was lower in the hyperglycemic than in the euglycemic clamp (6974.49+/-1001.95 mU/l/min versus 9560.75+/-1140.65 mU/l/min; P<0.05). It is concluded that hyperglycemia significantly reduces GH response to combined administration of GHRH+GHRP-6 in normal weight patients with type 2 diabetes. It is suggested that ambient glucose levels should be taken into account during interpretation of GH response to combined administration of GHRH+GHRP-6 in patients with type 2 diabetes."
+  },
+  {
+   "pmid": "12809173",
+   "titel": "GHRP-6 is able to stimulate cortisol and ACTH release in patients with Cushing's disease: comparison with DDAVP",
+   "jahr": "2003",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Oliveira JH",
+   "doi": "10.1007/BF03345162",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "It has been shown that hexarelin stimulates ACTH and cortisol secretion in patients with Cushing's disease. The ACTH release induced by this peptide is 7-fold greater than that obtained by hCRH. The mechanism of action of hexarelin on the hypothalamic-pituitary-adrenal axis has not been fully elucidated. Although controversial, there is evidence that it might be mediated by arginine vasopressin (AVP). The aim of this study was to evaluate the ACTH and cortisol releasing effects of GHRP-6 in patients with Cushing's disease and to compare them with those obtained with DDAVP administration. We studied 10 patients with Cushing's disease (8 female, 2 male; age: 36.7 +/- 4.2 yr), 9 with microadenomas, who were submitted to both GHRP-6 (2 microg/kg iv) and DDAVP (10 micro g i.v.) in bolus administration on 2 separate occasions. ACTH was measured by immunochemiluminometric assay and cortisol by radioimmunoassay. The sensitivities of the assays are 0.2 pmol/l for ACTH, and 11 nmol/l for cortisol. GHRP-6 was able to increase significantly both ACTH (pmol/l, mean +/- SE; basal: 15.5 +/- 1.7 vs peak: 45.1 +/- 9.3) and cortisol values (nmol/l, basal: 583.0 +/- 90.8 vs peak: 1013.4 +/- 194.6). ACTH AUC (pmol/l min(-1)) and cortisol AUC (nmol/l min(-1)) values were 1235.4 and 20577.2, respectively. After DDAVP administration there was a significant increase in ACTH (basal: 13.0 +/- 1.4 vs peak: 50.5 +/- 16.2) and cortisol levels (basal: 572.5 +/- 112.7 vs peak: 860.5 +/- 102.8. AUC values for ACTH and cortisol were 1627.6 +/- 639.8 and 18364.7 +/- 5661.4, respectively. ACTH and cortisol responses to GHRP-6 and DDAVP did not differ significantly (peak: 45.1 +/- 9.3 vs 50.5 +/- 16.2; AUC: 1235.4 +/- 424.8 vs 1627.6 +/- 639.8). There was a significant positive correlation between peak cortisol values after GHRP-6 and DDAVP administration (r = 0.87, p = 0.001). Our results show that GHRP-6 is able to stimulate ACTH and cortisol release in patients with Cushing's disease. These responses are similar to those obtained after DDAVP injection. These findings could suggest the hypothesis that both peptides act by similar mechanisms, either at hypothalamic or pituitary level."
+  },
+  {
+   "pmid": "17410412",
+   "titel": "Decreased ghrelin-induced GH release in thyrotoxicosis: comparison with GH-releasing peptide-6 (GHRP-6) and GHRH",
+   "jahr": "2007",
+   "journal": "Pituitary",
+   "erstautor": "Nascif SO",
+   "doi": "10.1007/s11102-007-0005-2",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "In thyrotoxicosis GH response to several stimuli is impaired, but there is no data on ghrelin-induced GH release in these patients. Ghrelin is a potent GH secretagogue and it also increases glucose levels in men. The aim of this study was to evaluate the effects of ghrelin (1 microg/kg), GHRP-6 (1 mug/kg) and GHRH (100 microg), i.v., on GH levels in 10 hyperthyroid patients and in 8 controls. Glucose levels were also measured during ghrelin and GHRP-6 administration. In control subjects and hyperthyroid patients peak GH (microg/l; mean +/- SE) values after ghrelin injection (controls: 66.7 +/- 13.6; hyper: 19.3 +/- 2.4) were significantly higher than those obtained after GHRP-6 (controls: 26.7 +/- 5.1; hyper: 12.6 +/- 1.3) and GHRH (controls: 13.5 +/- 4.3; hyper: 5.3 +/- 1.3). There was a significant decrease in GH responsiveness to ghrelin, GHRP-6 and GHRH in the hyperthyroid group compared to controls. In control subjects and hyperthyroid patients basal glucose (mmol/l) values were 4.5 +/- 0.1 and 4.7 +/- 0.2, respectively. There was a significant increase in glucose levels 30 min after ghrelin injection (controls: 4.9 +/- 0.1; hyper: 5.2 +/- 0.2), which remained elevated up to 120 min. When the two groups were compared no differences in glucose values were observed. GHRP-6 administration was not able to increase glucose levels in both groups. Our data shows that GH release after ghrelin, GHRP-6 and GHRH administration is decreased in thyrotoxicosis. This suggests that thyroid hormone excess interferes with GH-releasing pathways activated by these peptides. Our results also suggest that ghrelin's ability to increase glucose levels is not altered in thyrotoxicosis."
+  },
+  {
+   "pmid": "10336729",
+   "titel": "Effects of growth hormone-releasing peptide-6 on the nocturnal secretion of GH, ACTH and cortisol and on the sleep EEG in man: role of routes of administration",
+   "jahr": "1999",
+   "journal": "J Neuroendocrinol",
+   "erstautor": "Frieboes RM",
+   "doi": "10.1046/j.1365-2826.1999.00364.x",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article"
+   ],
+   "abstract": "After repeated intravenous (i.v.) boluses of growth hormone-releasing peptide-6 (GHRP-6) we found recently increases of growth hormone (GH), corticotropin (ACTH) and cortisol levels and of the amount of stage 2 sleep. In clinical use, oral (p.o.), intranasal (i.n.) and sublingual (s.l.) routes of administration have advantages over i.v. administration. We compared the sleep-endocrine effects of 300 microg/kg of body weight (b.w.) GHRP-6 in enteric-coated capsules given p.o. at 21.00 h and of 30 microg/kg GHRP-6 i.n. or 30 microg/kg GHRP-6 sl. given at 22.45 h in normal young male controls with placebo conditions. After GHRP-6 p.o. secretion of GH, ACTH and cortisol remained unchanged. The only effect of GHRP-6 s.l. was a trend toward an increase in GH in the first half of the night. GHRP-6 i.n. prompted a significant increase in GH concentration during the total night and a trend toward an increase in ACTH secretion during the first half of the night, whereas cortisol secretion remained unchanged. Furthermore, after GHRP-6 i.n., sleep stage 2 increased in the second half of the night by trend, and spectral analysis of total night non-rapid eye movement (REM) sleep revealed a decrease of delta power by trend. In contrast sleep stage 2 decreased during the second half of the night after GHRP-6 p.o. Our data demonstrate that GHRP-6 is capable of modulating GH and ACTH secretion as well as sleep. However, the effects depend upon dosage, duration and route of administration."
+  },
+  {
+   "pmid": "10583306",
+   "titel": "Acute dexamethasone administration enhances GH responsiveness to GH releasing peptide-6 (GHRP-6) in man",
+   "jahr": "1999",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Pinto AC",
+   "doi": "10.1046/j.1365-2265.1999.00792.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: Acute administration of glucocorticoids stimulates GH secretion probably by a decrease in hypothalamic somatostatin release. GHRP-6 is a synthetic hexapeptide that increases GH secretion by a mechanism of action not yet fully known, but apparently not by inhibition of hypothalamic somatostatin release. The aim of this study was to evaluate the effect of acute dexamethasone administration on GH responsiveness to GHRP-6 in man. DESIGN: One group of subjects received iv GHRP-6 (1 microg/kg), GH-releasing hormone (GHRH; 100 microg), GHRH plus GHRP-6 or saline 3.5 h after oral acute dexamethasone administration (4 mg; at 0600 h). A second study group was treated with GHRP-6, GHRH or GHRP-6 plus GHRH after placebo ingestion, following the same protocol. PATIENTS: Sixteen normal subjects (mean age: 29 +/- 3.3 years), with normal BMI (22.4 +/- 2.0 kg/m2), were studied. Eight subjects received dexamethasone and the other eight were treated with placebo. MEASUREMENTS: Serum GH was measured by a two site monoclonal antibody immunofluorometric assay. RESULTS: In the placebo-treated subjects, mean peak GH (mU/l; mean +/- SE) and AUC (mU.min/l) values after GHRP-6 administration (peak: 43.8 +/- 9.0; AUC: 2262.0 +/- 459. 2) did not differ from those observed after GHRH injection (peak: 49. 8 +/- 12.0; AUC: 2903.4 +/- 872.6). The association of the two peptides markedly increased GH levels (peak: 172.4 +/- 34.2; AUC: 10393.0 +/- 1894.8) compared with the isolated administration of GHRP-6 or GHRH. In the subjects who received dexamethasone 3.5 h before saline injection, GH baseline values were significantly higher than those observed after 90 min of sampling (12.4 +/- 9.4 vs. 4.6 +/- 2.0). Mean GH peak and AUC values after GHRP-6 (peak: 78.8 +/- 11.0; AUC: 4114.6 +/- 588.2) and after GHRH administration (peak: 46.8 +/- 16.0; AUC: 3006.8 +/- 1010.0) did not differ significantly in the dexamethasone-treated subjects. In this study group, the administration of the two peptides together caused a significant increase in both peak (119.2 +/- 16.0) and AUC values (7377.0 +/- 937.2) compared with the response obtained after each peptide alone. When the two groups were compared, a significant increase in GH responsiveness to GHRP-6 was observed after dexamethasone administration compared with placebo. No differences in GH response to GHRH, or to the administration of the two peptides together, were seen between the two groups. CONCLUSIONS: Oral dexamethasone, at a dose of 4 mg, enhances GH releasing peptide-6-induced GH release when administered 3.5 h earlier. These results suggest that dexamethasone and GHRP-6 could act at different sites of GH releasing mechanisms. Further studies are necessary to elucidate these findings."
+  },
+  {
+   "pmid": "19453623",
+   "titel": "Adrenocorticotrophic hormone (ACTH) responsiveness to ghrelin increases after 6 months of ketoconazole use in patients with Cushing's disease: comparison with GH-releasing peptide-6 (GHRP-6)",
+   "jahr": "2010",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Correa-Silva SR",
+   "doi": "10.1111/j.1365-2265.2009.03618.x",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: In Cushing's disease (CD), adrenocorticotrophic hormone (ACTH)/cortisol responses to growth hormone secretagogues (GHS), such as ghrelin and GHRP-6, are exaggerated. The effect of clinical treatment of hypercortisolism with ketoconazole on ACTH secretion in CD is controversial. There are no studies evaluating ACTH/cortisol responses to GHS after prolonged ketoconazole use in these patients. OBJECTIVE: To compare ghrelin- and GHRP-6-induced ACTH/cortisol release before and after ketoconazole treatment in patients with CD. DESIGN/PATIENTS: Eight untreated patients with CD (BMI: 28.5 +/- 0.8 kg/m(2)) were evaluated before and after 3 and 6 months of ketoconazole treatment and compared with 11 controls (BMI: 25.0 +/- 0.8). RESULTS: After ketoconazole use, mean urinary free cortisol values decreased significantly (before: 613.6 +/- 95.2 nmol/24 h; 3rd month: 170.0 +/- 27.9; 6th month: 107.9 +/- 30.1). The same was observed with basal serum cortisol (before: 612.5 +/- 69.0 nmol/l; 3rd month: 463.5 +/- 44.1; 6th month: 402.8 +/- 44.1) and ghrelin- and GHRP-6-stimulated peak cortisol levels (before: 1183.6 +/- 137.9 and 1045.7 +/- 132.4; 3rd month: 637.3 +/- 69.0 and 767.0 +/- 91.0; 6th month: 689.8 +/- 74.5 and 571.1 +/- 71.7 respectively). An increase in basal ACTH (before: 11.2 +/- 1.6 pmol/l; 6th month: 19.4 +/- 2.7) and in ghrelin-stimulated peak ACTH values occurred after 6 months (before: 59.8 +/- 15.4; 6th month: 112.0 +/- 11.2). GHRP-6-induced ACTH release also increased (before: 60.7 +/- 17.2; 6th month: 78.5 +/- 12.1), although not significantly. CONCLUSIONS: The rise in basal ACTH levels during ketoconazole treatment in CD could be because of the activation of normal corticotrophs, which were earlier suppressed by hypercortisolism. The enhanced ACTH responses to ghrelin after ketoconazole in CD could also be due to activation of the hypothalamic-pituitary-adrenal axis and/or to an increase in GHS-receptors expression in the corticotroph adenoma, consequent to reductions in circulating glucocorticoids."
+  },
+  {
+   "pmid": "12739742",
+   "titel": "GH-releasing peptide (GHRP-6)-induced ACTH release in patients with addison's disease: effect of glucocorticoid withdrawal",
+   "jahr": "2003",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Martins MR",
+   "doi": "10.1007/BF03345143",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "GH releasing peptide (GHRP-6) is a synthetic hexapeptide with potent GH releasing activity both in man and in animals. This peptide is also able to stimulate ACTH and cortisol (F) release. It has been suggested that the ACTH responsiveness to GHRP-6 is modulated by circulating glucocorticoid levels. To further clarify this hypothesis, we studied the effect of GHRP-6 (1 ug/kg, iv) on ACTH and F release in patients with Addison's disease (no.=6) during replacement therapy and after 72 h of glucocorticoid withdrawal. Seven controls were also submitted to a single GHRP-6 test. In control subjects, ACTH values (pmol/l; mean +/- SE) increased from 2.9 +/- 0.8 to 4.7 +/- 1.4 (peak). AUC (pmol.min/l) values were 170.3 +/- 48.8. F (nmol/l) values increased from 257.0 +/- 42.9 to 367.0 +/- 50.8. In patients with Addison's disease there was an increase in ACTH levels from 38.1 +/- 17.1 to 174.9 +/- 79.4 after GHRP-6 administration. AUC values were 5490.4 +/- 2269.1. After 72 h withdrawal of glucocorticoid, there was an increase in basal ACTH values (191.2 +/- 97.3), and a trend toward an increase in ACTH levels after GHRP-6 (p=0.053). Patients with Addison's disease on therapy showed a significantly higher ACTH response to GHRP-6 when compared to controls. Our results show that in patients with Addison's disease on replacement there is an increased ACTH release after GHRP-6 administration, compared to controls. After 72 h glucocorticoid withdrawal, this enhanced responsiveness is not maintained. Our data suggest that circulating glucocorticoids modulate GHRP-6-induced ACTH release and that multiple mechanisms may be involved in this process."
+  },
+  {
+   "pmid": "7734029",
+   "titel": "Growth hormone secretion after the administration of GHRP-6 or GHRH combined with GHRP-6 does not decline in late adulthood",
+   "jahr": "1995",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Micic D",
+   "doi": "10.1111/j.1365-2265.1995.tb01861.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: Growth hormone (GH) secretion in middle and late adulthood declines with age. However, the precise mechanisms causing this impairment in GH release are unknown. His-D-Trp-Ala-Trp-D-Phe-Lys-NH2 (GHRP-6) is a synthetic compound that releases GH in a dose related and specific manner in several species, including man. In order to gain a further insight into disrupted GH secretion in late adulthood, we evaluated GH responses to GHRP-6 or GHRH, administered either alone or in combination, in healthy young and late adulthood groups of subjects. DESIGN: All subjects underwent three different tests carried out in random order and separated by at least one week. Tests were performed at 0900 h after an overnight fast. GHRH (100 micrograms), GHRP-6 (90 micrograms) either alone or in combination were administered as an i.v. bolus. SUBJECTS: Groups of healthy young (mean +/- SEM 22 +/- 1.1 years, n = 9) and older adult subjects (59.5 +/- 1.7 years, n = 9) were studied. MEASUREMENTS: Serum GH levels were measured by radioimmunoassay. RESULTS: In the group of young adult subjects the combined administration of GHRH and GHRP-6 elicited a greater GH increase than GHRH alone (F = 21.9, P < 0.001) or GHRP-6 alone (F = 6.2, P = 0.01). Similarly, the response to the combined stimuli was also greater than with GHRH alone (F = 21.8, P < 0.001) or GHRP-6 alone (F = 23.9, P < 0.001) in the late adulthood group of subjects. GH responses to GHRH were greater in younger than in older subjects (F = 3.45, P = 0.03). In contrast, GH responses to either GHRP-6 (F = 0.71, P = NS) or combined GHRH plus GHRP-6 administration (F = 0.68, P = NS) were not significantly different between the two groups. CONCLUSIONS: These data show that GH responses to GHRP-6 are much greater than to GHRH in late adulthood. The marked increase of plasma GH levels observed after administration of GHRP-6 alone or in combination with GHRH indicates that impaired GH secretion in late adulthood is a functional and potentially reversible state."
+  },
+  {
+   "pmid": "7952160",
+   "titel": "Growth hormone-releasing activity of growth hormone-releasing peptide-6 is maintained after short-term oral pretreatment with the hexapeptide in normal aging",
+   "jahr": "1994",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Ghigo E",
+   "doi": "10.1530/eje.0.1310499",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The reduced activity of the growth hormone (GH)-insulin-like growth factor I (IGF-I) axis in aging may contribute to changes in body composition. As this GH insufficiency is due to hypothalamic pathogenesis, the availability of GH-releasing peptides (GHRPs), such as GHRP-6 (His-D-Trp-Ala-Trp-D-Phe-Lys-NH2) which is active even after oral administration, might be useful to restore it. The aim of our study was to verify the effectiveness of oral administration of GHRP-6 in normal elderly subjects and to investigate whether its GH-releasing activity is maintained or vanishes after short-term oral treatment. Seven normal elderly women (aged 65-82 years) were studied. The effect of oral administration of 300 micrograms/kg GHRP-6 on GH secretion was investigated before and after 4 days of treatment with the hexapeptide given twice daily. The GH response to the maximal effective dose of GHRH (1 microgram/kg i.v.) also was studied. Before treatment, oral administration of 300 micrograms/kg GHRP-6 elicited a clear GH rise (peak 10.7 +/- 3.3 micrograms/l; AUC 353.1 +/- 90.6 micrograms.l-1.h-1), which was significantly higher (p < 0.01) than that induced by intravenous GHRH (peak 5.1 +/- 1.5 micrograms/l; AUC 106.5 +/- 43.9 micrograms.l-1.h-1). After 4 days of treatment with GHRP-6, the GH response to the hexapeptide was maintained, with a trend towards an increase (peak 16.8 +/- 2.9 micrograms/l; AUC 499.8 +/- 107.2 micrograms.l-1.h-1). The IGF-I levels were not increased significantly after treatment (77.1 +/- 8.4 vs 84.1 +/- 12.2 micrograms/l).(ABSTRACT TRUNCATED AT 250 WORDS)"
+  },
+  {
+   "pmid": "20602173",
+   "titel": "Effects of ghrelin, GH-releasing peptide-6 (GHRP-6) and GHRH on GH, ACTH and cortisol release in hyperthyroidism before and after treatment",
+   "jahr": "2010",
+   "journal": "Pituitary",
+   "erstautor": "Molica P",
+   "doi": "10.1007/s11102-010-0238-3",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "In thyrotoxicosis GH responses to stimuli are diminished and the hypothalamic-pituitary-adrenal axis is hyperactive. There are no data on ghrelin or GHRP-6-induced GH, ACTH and cortisol release in treated hyperthyroidism. We, therefore, evaluated these responses in 10 thyrotoxic patients before treatment and in 7 of them after treatment. GHRH-induced GH release was also studied. Peak GH (μg/L; mean ± SE) values after ghrelin (22.6 ± 3.9), GHRP-6 (13.8 ± 2.3) and GHRH (4.9 ± 0.9) were lower in hyperthyroidism before treatment compared to controls (ghrelin: 67.6 ± 19.3; GHRP-6: 25.4 ± 2.7; GHRH: 12.2 ± 2.8) and did not change after 6 months of euthyroidism (ghrelin: 32.7 ± 4.7; GHRP-6: 15.6 ± 3.6; GHRH: 7.4 ± 2.3), although GH responses to all peptides increased in ~50% of the patients. In thyrotoxicosis before treatment ACTH response to ghrelin was two fold higher (107.4 ± 26.3) than those of controls (54.9 ± 10.3), although not significantly. ACTH response to GHRP-6 was similar in both groups (hyperthyroid: 44.7 ± 9.0; controls: 31.3 ± 7.9). There was a trend to a decreased ACTH response to ghrelin after 3 months of euthyroidism (35.6 ± 5.3; P = 0.052), but after 6 months this decrease was non-significant (50.7 ± 14.0). After 3 months ACTH response to GHRP-6 decreased significantly (20.4 ± 4.2), with no further changes. In hyperthyroidism before treatment, peak cortisol (μg/dL) responses to ghrelin (18.2 ± 1.2) and GHRP-6 (15.9 ± 1.4) were comparable to controls (ghrelin: 16.4 ± 1.6; GHRP-6: 13.5 ± 0.9) and no changes were seen after treatment. Our results suggest that the pathways of GH release after ghrelin/GHRP-6 and GHRH are similarly affected by thyroid hormone excess and hypothalamic mechanisms of ACTH release modulated by ghrelin/GHSs may be activated in this situation."
+  },
+  {
+   "pmid": "11030292",
+   "titel": "GH-releasing hormone and GH-releasing peptide-6 for diagnostic testing in GH-deficient adults",
+   "jahr": "2000",
+   "journal": "Lancet",
+   "erstautor": "Popovic V",
+   "doi": "10.1016/S0140-6736(00)02755-0",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Multicenter Study",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: The diagnosis of growth hormone (GH) deficiency in adults is based on provocative testing of GH secretion. The insulin tolerance test (ITT), currently the favoured test for this diagnosis, has been criticised for poor reproducibility and inconvenience. Since the combined administration of GH-releasing hormone (GHRH) plus GH-releasing peptide-6 (GHRP-6) is the most potent stimulus of GH secretion, we did a multicentre study comparing GH peaks elicited by ITT with those elicited by the GHRH/GHRP-6 test in healthy controls and GH-deficient individuals (cases). METHODS: 125 adult patients with organic pituitary disease and 125 healthy individuals were studied. All cases and controls were given GHRH 1 microg per kg bodyweight intravenously plus GHRP-6 1 microg per kg intravenously at 0 min and blood samples were obtained during a subsequent 120 min period. 27 controls and all cases had an ITT. Inclusion criteria were severe GH deficiency--ie, a GH peak after ITT of < or = 3 microg/L. Results of the GHRH/GHRP-6 test were analysed by receiver-operating characteristic curve methodology. FINDINGS: GH peaks seen after the GHRH/GHRP-6 test did not result in any side-effects and were not affected by age, sex, amount of adipose tissue, or by the GH assay system used. The GH mean peak after the GHRH/GHRP-6 test was 59.2 microg/L (SD 2.2) for controls and 4.1 microg/L (0.3) for cases, whereas after ITT the mean peak was 14.3 microg/L (1.7) and 0.5 microg/L (0.06), respectively. The differential peak responses of controls and cases was greater (p<0.001), for GHRH/GHRP-6 test than for ITT. When individually analysed GH peaks were a continuum, from 139.0 microg/L to 0.01 microg/L, with a cut-off point of 15.0 microg/L. The GHRH/GHRP-6 test performed well under the ROC curve analysis. For clinical utility, it is then proposed that values > or = 20.00 microg/L be considered normal and < or = 10.00 microg/L as GH deficient. INTERPRETATION: The GHRH/GHRP-6 test is a convenient, safe and reliable test for adult GH deficiency and is not confounded by clinical factors known to alter GH secretory patterns. An evoked GH concentration of > or = 15.0 microg/L accurately distinguishes between healthy and GH-deficient adults."
+  },
+  {
+   "pmid": "7593423",
+   "titel": "Absence of growth hormone (GH) secretion after the administration of either GH-releasing hormone (GHRH), GH-releasing peptide (GHRP-6), or GHRH plus GHRP-6 in children with neonatal pituitary stalk transection",
+   "jahr": "1995",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Pombo M",
+   "doi": "10.1210/jcem.80.11.7593423",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "GH-releasing peptide (GHRP-6; His-D-Trp-Ala-Trp-D-Phe-Lys-NH2) is a synthetic compound that releases GH in a specific and dose-related manner through mechanisms and a point of action that are mostly unknown, but different from those of GHRH. In man, GHRP-6 is more efficacious than GHRH, and a striking synergistic action occurs when both compounds are administered together. To explain such a synergistic effect, it has been postulated, but not proven, that GHRP-6 acts through a double mechanism, with actions exerted at the pituitary and the hypothalamic level. On the other hand, patients with the syndrome of GH deficiency due to perinatal pituitary stalk transection have any hypothalamic factor nonoperandi. The aim of the present study was 3-fold: 1) to further understand how relevant, if at all, the hypothalamic action of GHRP-6 is for GH regulation; 2) to evaluate whether GHRP-6 plus GHRH could be a suitable diagnostic tool in children with pituitary stalk transection; and 3) to compare these results with similar published studies performed in patients with hypothalamo-pituitary disconnection, who developed the disease as adults. Seven patients with GH deficiency and different degrees of panhypopituitarism due to perinatal pituitary stalk transection and 7 age- and sex-matched normal controls were studied. The subjects underwent 3 different tests on separate occasions, being challenged with GHRH (1 microgram/kg, iv), GHRP-6 (1 microgram/kg, iv), or GHRH plus GHRP-6. GH was analyzed as the area under the curve (mean +/- SE; micrograms per L/90 min). In normal subjects, GH secretion was 1029 +/- 202 after GHRH treatment, 1221 +/- 345 after GHRP-6, and 3542 +/- 650 after GHRH plus GHRP-6; the latter value was significantly (P < 0.05) higher than the secretion elicited by GHRH or GHRP-6 alone. In the group of patients with perinatal pituitary stalk transection, the level of GH after GHRH treatment was 116 +/- 22 and was even more reduced (P < 0.05) after GHRP-6 treatment (37 +/- 8). After GHRH plus GHRP-6, GH secretion in those patients was 177 +/- 27, significantly higher (P < 0.05) than the secretion induced by either GHRH or GHRP-6 alone. Individually examined, none of the patients tested with the most potent stimulus known to date (GHRH plus GHRP-6) exhibited GH secretion greater than 5 micrograms/L.(ABSTRACT TRUNCATED AT 400 WORDS)"
+  },
+  {
+   "pmid": "16832586",
+   "titel": "Decreased GH secretion and enhanced ACTH and cortisol release after ghrelin administration in Cushing's disease: comparison with GH-releasing peptide-6 (GHRP-6) and GHRH",
+   "jahr": "2006",
+   "journal": "Pituitary",
+   "erstautor": "Correa-Silva SR",
+   "doi": "10.1007/s11102-006-9149-8",
+   "typ": [
+    "Comparative Study",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "GH responsiveness to GH secretagogues (GHS) is blunted in Cushing's disease (CD), while ACTH/cortisol responses are enhanced, by mechanisms still unclear. Ghrelin, the endogenous ligand for GHS-receptors (GHS-R), increases GH, ACTH, cortisol and glucose levels in humans. This study evaluated the GH, ACTH, cortisol and glucose-releasing effects of ghrelin in CD in comparison with GHRP-6. GHRH-induced GH release was also studied. Ten patients with CD (BMI 26.9+/-1.0 kg/m(2)) and ten controls (BMI 24.4+/-1.1 kg/m(2)) received ghrelin (1 microg/kg), GHRP-6 (1 microg/kg) and GHRH (100 microg) separately. GH, ACTH, cortisol and glucose levels were measured. In CD ghrelin-induced GH (microg/L; mean +/- SE) release (peak: 7.2+/-3.0) was higher than seen with GHRP-6 (2.7+/-1.0) and GHRH (0.7+/-0.2), but lower than in controls (ghrelin: 58.3+/-12.1; GHRP-6: 22.9+/-4.8; GHRH: 11.3+/-3.7). In controls ACTH (pg/mL) release after ghrelin (79.2+/-26.8) was higher than after GHRP-6 (23.6+/-5.7). In CD these responses (ghrelin: 192+/-43; GHRP-6: 185+/-56) were similar, and enhanced compared to controls. The same was observed with cortisol. Glucose levels failed to increase after ghrelin in CD, differently than in controls. Our data suggests that hypothalamic and pituitary pathways of GH release activated by ghrelin, GHRP-6 and GHRH are deranged in chronic hypercortisolism. The increased ACTH/cortisol responses to ghrelin and GHRP-6 in CD could be mediated by overexpression of GHS-R in ACTH-secreting adenomas. Hypercortisolism apparently impairs the ability of ghrelin to increase glucose levels."
+  },
+  {
+   "pmid": "20189610",
+   "titel": "Effects of ghrelin, growth hormone-releasing peptide-6, and growth hormone-releasing hormone on growth hormone, adrenocorticotropic hormone, and cortisol release in type 1 diabetes mellitus",
+   "jahr": "2010",
+   "journal": "Metabolism",
+   "erstautor": "de Sá LB",
+   "doi": "10.1016/j.metabol.2010.01.021",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "In type 1 diabetes mellitus (T1DM), growth hormone (GH) responses to provocative stimuli are normal or exaggerated, whereas the hypothalamic-pituitary-adrenal axis has been less studied. Ghrelin is a GH secretagogue that also increases adrenocorticotropic hormone (ACTH) and cortisol levels, similarly to GH-releasing peptide-6 (GHRP-6). Ghrelin's effects in patients with T1DM have not been evaluated. We therefore studied GH, ACTH, and cortisol responses to ghrelin and GHRP-6 in 9 patients with T1DM and 9 control subjects. The GH-releasing hormone (GHRH)-induced GH release was also evaluated. Mean fasting GH levels (micrograms per liter) were higher in T1DM (3.5 ± 1.2) than in controls (0.6 ± 0.3). In both groups, ghrelin-induced GH release was higher than that after GHRP-6 and GHRH. When analyzing Δ area under the curve (ΔAUC) GH values after ghrelin, GHRP-6, and GHRH, no significant differences were observed in T1DM compared with controls. There was a trend (P = .055) to higher mean basal cortisol values (micrograms per deciliter) in T1DM (11.7 ± 1.5) compared with controls (8.2 ± 0.8). No significant differences were seen in ΔAUC cortisol values in both groups after ghrelin and GHRP-6. Mean fasting ACTH values were similar in T1DM and controls. No differences were seen in ΔAUC ACTH levels in both groups after ghrelin and GHRP-6. In summary, patients with T1DM have normal GH responsiveness to ghrelin, GHRP-6, and GHRH. The ACTH and cortisol release after ghrelin and GHRP-6 is also similar to controls. Our results suggest that chronic hyperglycemia of T1DM does not interfere with GH-, ACTH-, and cortisol-releasing mechanisms stimulated by these peptides."
+  },
+  {
+   "pmid": "9543138",
+   "titel": "Growth hormone (GH)-releasing peptide-6 requires endogenous hypothalamic GH-releasing hormone for maximal GH stimulation",
+   "jahr": "1998",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Pandya N",
+   "doi": "10.1210/jcem.83.4.4711",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "GH-releasing peptide-6 (GHRP-6) is a potent GH secretagogue that releases GH by uncertain mechanisms. To assess whether GHRH is required for GH release by GHRP-6 in humans, we used the specific antagonist to GHRH (N-Ac-Tyr1,D-Arg2)GHRH(1-29)NH2 (GHRH Ant). We have previously shown that GHRH-Ant (400 microg/kg) blocked the GH response to 0.33 and 3.3 microg/kg boluses of GHRH by 95% and 81%, respectively. Nine healthy men between the ages of 20 and 30 yr were studied on two occasions. They received either saline or GHRH-Ant (400 microg/kg, i.v.) at 0840 h, followed by GHRP-6 (1 microg/kg, i.v. bolus) at 0900 h. Blood was sampled every 10 min from 0800-1100 h. GH responses were measured as the maximal increase over the baseline GH concentration and as the area under the curve. GHRH-Ant eliminated most of the GH response to GHRP-6 [maximal increase over the baseline GH concentration, 33.8 +/- 4.8 vs. 6.2 +/- 1.8 microg/L (mean +/- SEM; P < 0.0001); area under the curve, 1701 +/- 278 vs. 376 +/- 113 microg/min x L (P < 0.001)]. These data show that endogenous GHRH is necessary for most of the GH response to GHRP-6 in humans."
+  },
+  {
+   "pmid": "10195374",
+   "titel": "Tyr-Ala-Hexarelin, a synthetic octapeptide, possesses the same endocrine activities of Hexarelin and GHRP-2 in humans",
+   "jahr": "1999",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Arvat E",
+   "doi": "10.1007/BF03350886",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Hexarelin (HEX) and GHRP-2 are two synthetic hexapeptides, superanalogs of GHRP-6, belonging to GH secretagogue (GHS) family. GHS act via specific receptors at both the pituitary and the hypothalamic level to stimulate GH release both in animals and in humans. However, GHS also possess significant PRL- and ACTH/cortisol-releasing activity. Tyr-Ala-HEX as well as Tyr-Ala-GHRP-6 are, in turn, synthetic octapeptides generally used to perform binding studies because of their easy iodination. However, their endocrine activities have never been studied in humans. To clarify the endocrine activities of Tyr-Ala-HEX, in 7 young adult volunteers we compared the effects of the maximal effective dose of HEX (2.0 microg/kg i.v.) or GHRP-2 (2.0 microg/kg i.v.) with the same one of Tyr-Ala-HEX on GH, PRL, ACTH and cortisol levels. Basal GH, PRL, ACTH and cortisol levels in all testing sessions were similar. The administration of placebo did not modify hormonal levels. HEX and GHRP-2 administration induced the well known strong GH response (Cmax, mean+/-SE: 77.3+/-6.0 and 74.1+/-12.1 microg/l; AUC, mean+/-SE: 2596.7+/-251.1 and 2480.0+/-343.6 microg*min/l). These responses were similar to that induced by Tyr-Ala-HEX (63.7+/-18.5 microg/l; 1986.6+/-622.4 microg*min/l). Moreover, HEX, GHRP-2 and Tyr-Ala-HEX had the same significant stimulatory effect on PRL (14.9+/-2.5, 12.3+/-2.0 and 10.0+/-1.5 microg/l; 497.8+/-61.8, 480.4+/-66.9 and 415.8+/-58.5 microg*min/l), ACTH (48.0+/-10.1, 51.4+/-10.6 and 44.9+/-12.2 pg/ml; 1531.6+/-235.7, 1586.7+/-277.0 and 1338.1+/-164.5 pg*min/ml) and cortisol (179.9+/-10.0, 181.2+/-14.1 and 149.7+/-20.1 microg/l; 8465.0+/-406.6, 8689.2+/-788.1 and 6295.2+/-797.0 microg*min/l). Also the mean Tmax of the endocrine responses to HEX, GHRP-2 and Tyr-Ala-HEX were similar. In conclusion, the present results demonstrate that in humans Tyr-Ala-HEX is a GH secretagogue as potent as HEX and GHRP-2, two GHRP-6 superanalogs. Tyr-Ala-HEX also shares with HEX and GHRP-2 the same PRL- ACTH- and cortisol-releasing activity."
+  },
+  {
+   "pmid": "7586608",
+   "titel": "The effect of an opiate antagonist on the hormonal changes induced by hexarelin",
+   "jahr": "1995",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Korbonits M",
+   "doi": "10.1111/j.1365-2265.1995.tb02045.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "OBJECTIVE: Growth hormone-releasing peptides (GHRPs) stimulate growth hormone (GH) release in vitro and in vivo in animals and in humans. GHRPs were developed by modification of the structure of met-enkephalin but GHRP-6 does not activate opiod receptors in animal studies. These agents may well have diagnostic and/or long-term therapeutic potential in the future so their effects on opiod receptors need to be clarified in humans as well. Hexarelin is a recently developed six amino acid residue GHRP. DESIGN: We have investigated the effects of 100 micrograms/kg i.v. dose of the opiate antagonist naloxone and 2 micrograms/kg i.v. hexarelin or placebo on serum GH, prolactin, TSH, cortisol and plasma ACTH in 12 healthy volunteers in a double-blind, randomized trial. RESULTS: Hexarelin significantly stimulated the peak serum levels and area under the curve for circulating GH and this effect was not modulated by naloxone. Hexarelin also caused significant elevation of circulating prolactin, cortisol and ACTH but did not influence circulating TSH levels. The effect of naloxone on cortisol and ACTH was stimulatory, while it did not influence prolactin, GH and TSH levels. The effect of the two drugs together on cortisol and ACTH was less than additive. CONCLUSIONS: This study confirms that the activation of opiate receptors does not play a role in the GH-releasing effect of growth hormone-releasing peptides in humans."
+  },
+  {
+   "pmid": "9135702",
+   "titel": "Influence of endogenous cholinergic tone and growth hormone-releasing peptide-6 on exercise induced growth hormone release",
+   "jahr": "1997",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Nooitgedagt A",
+   "doi": "10.1046/j.1365-2265.1997.1080919.x",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "OBJECTIVE: The neuroendocrine mechanisms of exercise-induced GH release remain incompletely understood. In this study we have investigated the influence of endogenous cholinergic tone and growth hormone-releasing peptide-6 (GHRP-6) on exercise induced GH release. DESIGN: Analysis of responses of serum GH to administration of pyridostigmine (PD, 120 mg, orally) or GHRP-6 (100 micrograms, i.v.), to exercise alone, and to the combinations of PD plus exercise or GHRP-6 plus exercise. An indirect estimation of the secretory pattern of GH was calculated by the deconvolution technique. Exercise was performed on a bicycle ergometer with a 20-minute workload near the individual lactate threshold of 4 mmol/l. The five tests were performed in random order after an overnight fast, and at least 3 days apart. SUBJECTS: Eleven healthy, non-obese male subjects (age 23.9 +/- 0.3 years, body mass index 23 +/- 0.7 kg/m2, VO2 max: 52.4 +/- 2.0 ml/min/kg body weight; mean +/- SEM) participated in this study. MEASUREMENTS: Serial blood samples from an indwelling catheter were taken before, during and after exercise for analysis of GH (IRMA), lactate (YSI 2300) and haematocrit (micromethod). RESULTS: Irrespective of the tests, peak values of GH were found between the 18th and 26th minute. The secretory pattern showed differences between the tests. Exercise alone induced relatively short lasting peaks of medium amplitude, whereas PD induced long lasting peaks with low amplitudes. PD plus exercise showed additive effects on the amplitude of GH peaks. GHRP-6 induced long lasting peaks with high amplitude, and GHRP-6 plus exercise also had additive effects on the amplitude. CONCLUSIONS: The increase in frequency and amplitude of GH peaks, which occurred during the GHRP-6 plus exercise, indicates that exercise-induced GH release is not mediated through an increment in the release of an endogenous GHRP-6-like ligand, favouring the possibility that exercise-induced GH release is mediated through an increase in endogenous GHRH release."
+  },
+  {
+   "pmid": "9156038",
+   "titel": "Growth hormone responses to GH-releasing peptide (GHRP-6) in hypothyroidism",
+   "jahr": "1997",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Pimentel-Filho FR",
+   "doi": "10.1046/j.1365-2265.1997.1270942.x",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: Both spontaneous and stimulated GH secretion are reduced in patients with hypothyroidism. The mechanisms involved in these alterations are not yet fully understood. GHRP-6 is a synthetic hexapeptide that releases GH both in vivo and in vitro. Its mechanism of action is unknown, but there is evidence that this peptide acts as a functional somatostatin antagonist at pituitary level. The aim of this study was to evaluate the GH response to GHRP-6 in patients with primary hypothyroidism and in normal controls. DESIGN: Patients with hypothyroidism and normal controls were randomly submitted to 3 tests with GHRH (100 micrograms i.v.), GHRP-6 (1 microgram/kg i.v.) and GHRH + GHRP-6, on separate days. PATIENTS: Eleven patients with primary hypothyroidism were compared with 10 control subjects. MEASUREMENTS: GH, TSH and free T4 were measured by immunofluorometric assay and IGF-1 by radioimmunoassay. RESULTS: Hypothyroid patients had markedly lower peak GH values (mean +/- SE micrograms/l) after GHRH administration (4.1 +/- 0.9) compared to control subjects (24.9 +/- 5.1). After GHRP-6 injection hypothyroid patients had a significantly higher GH release (12.6 +/- 1.9) than that obtained with GHRH, while in control subjects GH values were similar (22.1 +/- 3.6). No significant differences in peak GH responses were observed following the administration of either GHRP-6 alone (controls 22.1 +/- 3.6; patients 12.6 +/- 1.9) or in combination with GHRH (controls 77.4 +/- 15.0; patients 52.8 +/- 10.9), despite the trend to smaller responses in hypothyroid patients. CONCLUSION: We have shown that patients with primary hypothyroidism have higher GH responses to GHRP-6 than to GHRH, which are markedly blunted. When GHRP-6 was associated with GHRH, a significant increase in the GH response was observed in these patients, which could suggest a role for somatostatin in this process. Our data suggest that thyroid hormones modulate GH release induced by GHRH and GHRP-6 through different mechanisms. However, additional studies are necessary to further elucidate this hypothesis."
+  },
+  {
+   "pmid": "11678828",
+   "titel": "Effects of fasting and pegvisomant on the GH-releasing hormone and GH-releasing peptide-6 stimulated growth hormone secretion",
+   "jahr": "2001",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Muller AF",
+   "doi": "10.1046/j.1365-2265.2001.01374.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: Pegvisomant is a mutated GH molecule which prevents functional dimerization and subsequent activation of the growth hormone receptor. Pegvisomant and fasting both lead to GH resistance. DESIGN AND PATIENTS: We performed a double-blind placebo-controlled cross-over study comparing the effects of pegvisomant and fasting on the GH-releasing hormone (GHRH)- and GH-releasing peptide-6 (GHRP-6)-stimulated GH-release before and after 3 days of fasting in 10 healthy lean male subjects. We also performed a single-arm open label study under nonfasting conditions in five of these subjects. On day 1, in random order, at 0800 h, a GHRP-6 or GHRH test was performed. At 1600 h, a GHRH (if the first test was a GHRP-6 test) or GHRP-6-test (if the first test was a GHRH test) was done. After the second test either pegvisomant (80 mg as a single subcutaneous injection) or placebo was administered. On day 4, GHRP-6 and GHRH tests were performed in the same order as on day 1. During the cross-over study, subjects fasted from 2400 h on day 1 until the end of the study. MEASUREMENTS: During the GH stimulation tests, blood samples were drawn every 15 min from 15 to 120 min. GH was determined in all samples. Total insulin-like growth factor (IGF)-I and free IGF-I were determined from the samples at 0 min only. RESULTS: Three days of fasting alone and pegvisomant alone as well as in combination increased GH concentrations, whereas a decrease in serum-free, but not total, IGF-I concentrations was observed. On day 4, fasting and pegvisomant, either alone or in combination, significantly increased GH concentrations after GHRH compared to baseline. Pegvisomant alone did not increase GH concentrations after GHRP-6 administration. Fasting alone increased GH levels after GHRP-6 administration. The combination of fasting and pegvisomant had a synergistic effect on GH release after GHRP-6. CONCLUSION: These human in vivo data suggest that: (1) circulating free IGF-I, and not total IGF-I, is the major component in the negative feedback on GH secretion; (2) increased pituitary GHRH receptor expression plays a role in the mechanism whereby fasting leads to increased GH concentrations; (3) in vivo, GHRP-6 sensitivity seems to be regulated primarily by metabolic factors and not by changes in GH-IGF-I axis."
+  },
+  {
+   "pmid": "8051337",
+   "titel": "Arginine enhances the growth hormone-releasing activity of a synthetic hexapeptide (GHRP-6) in elderly but not in young subjects after oral administration",
+   "jahr": "1994",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Ghigo E",
+   "doi": "10.1007/BF03347707",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "In man the GH-releasing hexapeptide His-DTrp-Ala-Trp-DPhe-Lys-NH2 (GHRP-6) has been shown to be active even after oral administration. On the other hand, it has been shown that arginine (ARG) totally restores the reduced somatotropic responsiveness to GHRH observed in aging. Based on the foregoing, in this study we verified the GH-releasing activity of oral GHRP-6 (300 micrograms/kg) in normal aging and the possible enhancing effect of 8 g oral ARG on the GH-releasing effect of GHRP-6. Eight young (age 24-32 yr) and 8 elderly (age 66-85 yr) subjects were studied. In all the GH response to GHRH (1 microgram/kg iv) was also studied. Both IGF-I levels and the GH response to iv GHRH were lower in elderly than in young subjects (mean +/- SE, IGF-I: 65.1 +/- 9.1 vs 142.9 +/- 9.4 micrograms/L, p < 0.0001; GH peak: 5.4 +/- 1.0 vs 13.6 +/- 0.8 micrograms/L, p < 0.0001). Oral GHRP-6 administration induced a GH rise in elderly which was lower, though not significantly, than that in young subjects (GH peak: 9.9 +/- 2.0 vs 16.2 +/- 5.4 micrograms/L). Oral ARG administration enhanced the GHRP-6-induced GH rise in elderly (GH peak: 22.1 +/- 3.3 micrograms/L, p < 0.01 vs GHRP-6 alone) while failed to modify it in young subjects (GH peak: 13.5 +/- 3.4 micrograms/L). The GH response to oral ARG+GHRP-6 in elderly was higher than that to all stimuli in young adults (p < 0.05).(ABSTRACT TRUNCATED AT 250 WORDS)"
+  },
+  {
+   "pmid": "19946832",
+   "titel": "Diagnosis of adrenal insufficiency using the GHRP-6 Test: comparison with the insulin tolerance test in patients with hypothalamic-pituitary-adrenal disease",
+   "jahr": "2010",
+   "journal": "Horm Metab Res",
+   "erstautor": "Alaioubi B",
+   "doi": "10.1055/s-0029-1243184",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article"
+   ],
+   "abstract": "The insulin tolerance test (ITT) is considered the gold standard for the diagnosis of adrenal insufficiency (AI). However, the test is unpleasant to perform and has the risk of serious complications. We therefore evaluated the clinical applicability of GHRP6, which is a known activator of the hypothalamic-pituitary-adrenal (HPA) axis, to test for AI. For this purpose a comparative clinical study was designed. Forty-nine patients with suspected dysfunction of the HPA axis and 20 healthy controls were enrolled. The ITT was performed in patients, and GHRP6 (1 microg/kg) testing in patients and controls. Serum cortisol over 90 min after GHRP6, in comparison to the ITT, was the main outcome measure. Thirty-one patients had a peak cortisol response of less than 500 nmol/l during ITT and were considered adrenal insufficient. For GHRP6, the mean cortisol peak was 227+/-25.7 nmol/l in the AI group versus 395+/-35.3 nmol/l in the adrenal sufficient (AS) group. ROC analysis of peak cortisol levels during GHRP6 test suggested an optimal threshold of 299 nmol/l for the diagnosis of AI (Sens. 71.0%, Spec. 77.8%). Applying upper (416 nmol/l) and lower (137 nmol/l) thresholds with high specificities in combination with early morning cortisol established the diagnosis in nearly half of the patients, even when the GHRP6 test is limited to 30 min duration. GHRP6 led to significant activation of the HPA axis with no detectable side effects, but had limited accuracy in comparison to the ITT."
+  },
+  {
+   "pmid": "8772550",
+   "titel": "Impaired growth hormone secretion in obese subjects is partially reversed by acipimox-mediated plasma free fatty acid depression",
+   "jahr": "1996",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Cordido F",
+   "doi": "10.1210/jcem.81.3.8772550",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "GH secretion in response to provocative stimuli is blunted in obese patients. On the other hand, increases in plasma free fatty acids (FFA) inhibit the GH response to a variety of stimuli, and FFA levels in plasma are increased with obesity. To ascertain whether FFA might be responsible for the GH secretory alterations of obesity, we studied spontaneous and stimulated GH secretion in 31 obese patients after FFA reduction by acipimox, a lipid-lowering drug devoid of serious side-effects. Each subject underwent two paired tests. In one, acipimox was administered orally at a dose of 250 mg at -270 min and at a dose of 250 mg at -60 min; in the matched test, placebo was given at similar intervals. To induce GH release, three stimuli acting through different mechanisms were used: pyridostigmine (60 mg, orally, at -60 min), GHRH (100 micrograms, iv, at 0 min), and GHRH plus GH-releasing peptide (GHRP-6; His-D-Trp-Ala-Trp-D-Phe-Lys-NH2; both at a dose of 100 micrograms, iv, at 0 min). GH secretion was analyzed as the area under the secretory curve (AUC; mean +/- SE; micrograms per L/60 min). Acipimox pretreatment alone (n = 13) induced a large reduction in FFA levels compared with placebo treatment. The FFA reduction led to a slight GH rise (AUC, 123 +/- 47), not different from that in the placebo group (61 +/- 15). In the pyridostigmine-treated group (n = 6), the acipimox-pyridostigmine AUC (408 +/- 107) was significantly higher (P < 0.05) than that in the placebo-pyridostigmine group (191 +/- 25). Furthermore, the GHRH-mediated (n = 6) AUC of GH secretion in the placebo test (221 +/- 55) was tripled by FFA reduction due to acipimox, with an AUC of (691 +/- 134; P < 0.05). Even the most potent GH stimulus known to date, i.e. GHRH plus GHRP-6, was enhanced by FFA suppression. In fact, the placebo-GHRH-GHRP-6 AUC was 1591 +/- 349, lower (P < 0.05) than that in the acipimox-GHRH-GHRP-6 test (2373 +/- 242). The enhancing effects of FFA lowering on GHRH-mediated and GHRH- plus GHRP-6-mediated GH release were synergistic. These results indicate that in obese subjects, unlike normal weight subjects. FFA reduction per se does not stimulate GH secretion. A reduction in FFA with acipimox, however, increased pyridostigmine-. GHRH-, and even GHRH- plus GHRP-6-mediated GH release, suggesting that FFA reduction operates through a different mechanism from that of these three stimuli. The abnormally high FFA levels may be a contributing factor for the disrupted GH secretory mechanisms in obesity."
+  },
+  {
+   "pmid": "7581965",
+   "titel": "Growth hormone-releasing effect of oral growth hormone-releasing peptide 6 (GHRP-6) administration in children with short stature",
+   "jahr": "1995",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Bellone J",
+   "doi": "10.1530/eje.0.1330425",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Growth hormone-releasing peptide 6 (GHRP-6) is a synthetic hexapeptide with a potent GH-releasing activity after intravenous, subcutaneous, intranasal and oral administration in man. Previous data showed its activity also in some patients with GH deficiency. The aim of our study was to verify the GH-releasing activity of oral GHRP-6 administration on GH secretion in children with normal short stature. The effect of oral GHRP-6 (300 micrograms/kg) was compared with that of the maximally effective dose of intravenous GH-releasing hormone (GHRH-29, 1 microgram/kg). As the GHRH-induced GH rise in children is potentiated by arginine (ARG), even when administered by oral route at low dose (4 g), we studied also the interaction of oral GHRP-6 and ARG administration. We studied 13 children (nine boys and four girls aged 6.2-10.5 years, pubertal stage I) with normal short stature (height less than -2 SD score; height velocity more than -2 SD score; normal bone age; insulin-like growth factor I > 70 micrograms/l). In a first group of children (N = 7), oral GHRP-6 administration induced a GH response (mean +/- SEM; peak at 60 min vs baseline: 18.8 +/- 3.0 vs 1.1 +/- 0.3 micrograms/l, p < 0.0006; area under curve: 1527.3 +/- 263.9 micrograms l-1 h-1) which was similar to that elicited by GHRH (peak at 45 min vs baseline: 20.8 +/- 4.5 vs 2.2 +/- 0.9 micrograms/l, p < 0.007; area under curve: 1429.4 +/- 248.2 micrograms l-1 h-1).(ABSTRACT TRUNCATED AT 250 WORDS)"
+  },
+  {
+   "pmid": "12431802",
+   "titel": "Effects of growth hormone-releasing peptides in healthy dogs and in dogs with pituitary-dependent hyperadrenocorticism",
+   "jahr": "2002",
+   "journal": "Mol Cell Endocrinol",
+   "erstautor": "Bhatti SF",
+   "doi": "10.1016/s0303-7207(02)00293-9",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "The aim of this study is to investigate the effects of ghrelin and GH-releasing peptide-6 (GHRP-6) on the release of growth hormone (GH), adrenocorticotrophic hormone (ACTH), and cortisol in dogs with pituitary-dependent hyperadrenocorticism (PDH) and in healthy dogs of comparable age. In eight healthy dogs, the responses to ghrelin and GHRP-6 were compared to those of GH-releasing hormone (GHRH) and NaCl 0.9% (control). In seven dogs with PDH, the effects of ghrelin and GHRP-6 were compared with their effects in healthy dogs. In the healthy dogs, GHRH, GHRP-6, and ghrelin caused a significant rise in plasma GH concentrations. GHRH administration elicited significantly higher plasma GH concentrations than administration of ghrelin and GHRP-6. In the dogs with PDH, the GHRP-6-induced release of GH was significantly lower than in healthy dogs. Administration of ghrelin elicited a GH release that did not differ significantly between dogs with PDH and healthy dogs. Ghrelin and GHRP-6 did not cause a significant rise in plasma ACTH and cortisol concentrations in either the healthy dogs or the dogs with PDH. It is concluded that in comparison with GHRH, GHRP-6 and ghrelin have a low GH-releasing potency in healthy dogs. In dogs with PDH, the GH release in response to GHRP-6 is impaired. Neither GHRP-6 nor ghrelin activates the pituitary-adrenocortical axis in healthy elderly dogs and dogs with PDH."
+  },
+  {
+   "pmid": "10206449",
+   "titel": "Growth hormone (GH) response to GH-releasing peptide-6 and GH-releasing hormone in normal-weight and overweight patients with non-insulin-dependent diabetes mellitus",
+   "jahr": "1999",
+   "journal": "Metabolism",
+   "erstautor": "Micić D",
+   "doi": "10.1016/s0026-0495(99)90115-4",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The growth hormone (GH) response to GH-releasing hormone (GHRH) in patients with non-insulin-dependent diabetes mellitus (NIDDM) was found to be either decreased or normal. The recent introduction of a new and potent GH stimulus, GH-releasing peptide-6 (GHRP-6), allowed further investigation of the functional properties of somatotropes in a variety of metabolic diseases. The aim of the present study was to investigate the response of GH to GHRP-6, GHRH, and GHRP-6 + GHRH in NIDDM patients. Twenty-one patients with NIDDM were divided into two groups: group A, normal weight (body mass index [BMI], 23.31+/-0.62 kg/m2); and group B, overweight (BMI, 27.62+/-0.72 kg/m2). Eight normal-weight control subjects (group C) were studied. Each subject received GHRP-6 (90 microg intravenously [i.v.]), GHRH (100 microg i.v.), and GHRP-6 + GHRH on three separate occasions. There was no difference between the GH response after GHRP-6 in groups A, B, and C in terms of the GH peak (50.95+/-11.55, 51.96+/-7.71, and 70.07+/-15.59 mU/L, P>.05) and the area under the curve (AUC) for GH (2,340.06+/-617.36, 2,684.54+/-560.57, 3,462.78+/-1,223.53 mU/L/120 min, P>.05). A decreased GH response to GHRH was found in group B in comparison to group A (B v A: peak GH response, 8.25+/-1.90 v 22.19+/-8.81, P<.05; AUC GH, 479.62+/-84.0 v 1,443.21+/-743.76, P<.05). There was no difference in the GH response between group A and group C (peak GH response, 22.19+/-8.81 v 26.42+/-6.71, P>.05; AUC, 1,443.21+/-743.76 v 1,476.51+/-386.56, P>.05). There was a significant difference between the same parameters in group B versus group C (8.25+/-1.90 v 26.42+/-6.71, P<.05; AUC, 479.62+/-84.0 v 1,476.51+/-386.56, P<.05). The combined administration of GHRP-6 + GHRH elicited a synergistic GH response in NIDDM patients and controls. There was a significant difference between groups A and B for the GH peak (96.49+/-9.80 v 68.38+/-8.25, P<.05), whereas there was no difference for the AUC (5,111.13+/-703.77 v 3,425.95+/-459.67, P>.05). There was no difference in the peak GH after the combined test between group A and group C (96.49+/-9.80 v 139.82+/-24.16, P>.05), whereas the peak GH in the same test was significantly decreased in group B in comparison to group C (68.38+/-8.25 v 139.82+/-24.16, P<.05). The AUC for GH after combined GHRP-6 + GHRH in group A versus group C was not significantly different (5,111.13+/-703.77 v 9,274.71+/-1,541.46, P>.05), whereas there was a significant difference for the same test between group B and group C (3,425.95+/-459.67 v 9,274.71+/-1,541.46, P<.05). Our results demonstrate that normal-weight NIDDM patients have a preserved GH response to GHRP-6, GHRH, and GHRP-6 + GHRH, and overweight NIDDM patients have a blunted response to GHRH and GHRP-6 + GHRH. The preserved GH response to GHRP-6 in both diabetic groups suggests that the secretory potential of somatotropes is preserved in NIDDM patients. The impairment of the GH response to GHRH in overweight NIDDM patients could be a functional defect due to the obesity, since it could be overridden by administration of GHRP-6."
+  },
+  {
+   "pmid": "12887288",
+   "titel": "Comparison between insulin tolerance test, growth hormone (GH)-releasing hormone (GHRH), GHRH plus acipimox and GHRH plus GH-releasing peptide-6 for the diagnosis of adult GH deficiency in normal subjects, obese and hypopituitary patients",
+   "jahr": "2003",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Cordido F",
+   "doi": "10.1530/eje.0.1490117",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: It has been gradually realized that GH may have important physiological functions in adult humans. The biochemical diagnosis of adult GHD is established by provocative testing of GH secretion. The insulin-tolerance test (ITT) is the best validated. The ITT has been challenged because of its low degree of reproducibility and lack of normal range, and is contra-indicated in common clinical situations. Furthermore, in severely obese subjects the response to the ITT frequently overlaps with those found in non-obese adult patients with GHD. DESIGN: The aim of the present study was to evaluate the diagnostic capability of four different stimuli of GH secretion: ITT, GHRH, GHRH plus acipimox (GHRH+Ac), and GHRH plus GHRP-6 (GHRH+GHRP-6), in two pathophysiological situations: hypopituitarism and obesity, and normal subjects. METHODS: Eight adults with hypopituitarism (four female, four male) aged 41-62 Years (48.8+/-1.4 Years), ten obese normal patients (five female, five male) aged 38-62 Years (48.1+/-2.5 Years), with a body mass index of 34.2+/-1.2 kg/m(2), and ten normal subjects (five female, five male) aged 33-62 Years (48.1+/-2.8 Years) were studied. Four tests were performed on each patient or normal subject: An ITT (0.1 U/kg, 0.15 U/kg for obese, i.v., 0 min), GHRH (100 microg, i.v., 0 min), GHRH (100 microg, i.v., 0 min) preceded by acipimox (250 mg, orally, at -270 min and -60 min) (GHRH+Ac); and GHRH (100 microg, i.v., 0 min) plus GHRP-6 (100 microg, i.v., 0 min) (GHRH+GHRP-6). Serum GH was measured by radioimmunoassay. Statistical analyses were performed by Wilcoxon rank sum and by Mann-Whitney tests. RESULTS: After the ITT the mean peak GH secretion was 1.5+/-0.3 microg/l for hypopituitary, 10.1+/-1.7 microg/l (P<0.05 vs hypopituitary) for obese and 17.8+/-2.0 microg/l (P<0.05 vs hypopituitary) for normal. GHRH-induced GH secretion was 2+/-0.7 microg/l for hypopituitary, 3.9+/-1.2 microg/l (P=NS vs hypopituitary) for obese and 22.2+/-3.8 microg/l (P<0.05 vs hypopituitary) for normal. After GHRH+Ac, mean peak GH secretion was 3.3+/-1.4 microg/l for hypopituitary, 14.2+/-2.7 microg/l (P<0.05 vs hypopituitary) for obese and 35.1+/-5.2 microg/l (P<0.05 vs hypopituitary) for normal. GHRH+GHRP-6 induced mean peak GH secretion of 4.1+/-0.9 microg/l for hypopituitary, 38.5+/-6.5 microg/l (P<0.05 vs hypopituitary) for obese and 68.1+/-5.5 microg/l (P<0.05 vs hypopituitary) for normal subjects. Individually considered, after ITT, GHRH or GHRH+Ac, the maximal response in hypopituitary patients was lower than the minimal response in normal but higher than the minimal response in obese subjects. In contrast, after GHRH+GHRP-6 the maximal response in hypopituitary patients was lower than the minimal response in normal and obese subjects. CONCLUSIONS: This study suggests that, in this group of patients, although both acipimox and GHRP-6 partially reverse the functional hyposomamotropism of obesity after GHRH, but are unable to reverse the organic hyposomatotropism of hypopituitarism, the combined test GHRH+GHRP-6 most accurately distinguishes both situations, without the side effects of ITT."
+  },
+  {
+   "pmid": "7617137",
+   "titel": "Growth hormone-releasing peptide-6 stimulates sleep, growth hormone, ACTH and cortisol release in normal man",
+   "jahr": "1995",
+   "journal": "Neuroendocrinology",
+   "erstautor": "Frieboes RM",
+   "doi": "10.1159/000126883",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The synthetic hexapeptide growth hormone-releasing peptide (GHRP-6) stimulates growth hormone (GH) release in animals and man. GH-releasing hormone (GHRH) has the same effect. In addition, pulsatile administration of GHRH in normal men results in increased slow-wave sleep (SWS) and blunted cortisol levels. The effect of GHRP on nocturnal hormone secretion and on the sleep electroencephalogram (EEG) is still unknown. We compared the effect of repetitive i.v. boluses (4 x 50 micrograms) of GHRP and placebo (PL) on the sleep EEG (23.00 to 07.00 h) and on the secretion profiles of GH, ACTH and cortisol (20.00 to 07.00 h) in normal male controls. After GHRP, the GH concentration (22.00 to 03.00 h) increased (15.4 +/- 9.6 ng/ml after GHRP vs. 5.5 +/- 4.0 ng/ml after PL, p < 0.02), as did the ACTH level (22.00 to 02.00 h: 21.0 +/- 5.3 pg/ml after GHRP vs. 16.6 +/- 3.1 pg/ml after PL, p < 0.02). During the total night, and particularly during the first half of the night, cortisol secretion was enhanced (22.00 to 03.00 h: 56.0 +/- 31.0 ng/ml after GHRP vs. 25.2 +/- 9.0 ng/ml after PL, p < 0.02). Stage 2 sleep increased (270.1 +/- 25.3 min after GHRP vs. 245.4 +/- 25.8 min after PL, p < 0.02), whereas other sleep-EEG variables including SWS remained unchanged. Our data demonstrate that GHRP stimulates not only GH release but also hypothalamic-pituitary-adrenocortical hormone secretion. The latter effect is opposite to the blunting of cortisol after GHRH. Both GHRP and GHRH promote sleep. However, GHRP enhances stage 2 sleep and does not affect SWS.(ABSTRACT TRUNCATED AT 250 WORDS)"
+  },
+  {
+   "pmid": "12841541",
+   "titel": "Growth-hormone response to combined stimulation with GHRH plus GH-releasing peptide-6 in obese patients with polycystic ovary syndrome before and after short-term fasting",
+   "jahr": "2003",
+   "journal": "J Endocrinol Invest",
+   "erstautor": "Micić D",
+   "doi": "10.1007/BF03345181",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Controlled Clinical Trial",
+    "Journal Article"
+   ],
+   "abstract": "Controversial data were reported on GH response to different provocative stimuli in obese patients with polycystic ovary syndrome (PCOS). The objective of our study was to assess the effect of short-term fasting on GH response to combined stimulus with GHRH+GH-releasing peptide-6 (GHRP-6) in obese patients with PCOS and possible relation with leptin and insulin changes during fasting. Twelve obese PCOS women and nine obese control women participated in 3-day fasting. GH response, IGF-I, insulin and leptin were measured after GHRH+ GHRP-6, before and after short-term fasting. Obese PCOS patients had significantly greater GH peak after GHRH+GHRP-6 before fasting. Enhanced response to GH stimulation was found after fasting without substantial differences between obese PCOS and obese controls. Insulin and leptin significantly decreased, while insulin sensitivity significantly improved in both groups during fasting. In conclusion, obese PCOS patients have peculiar type of GH response to GHRH+GHRP-6 before fasting, possibly due to enhanced sensitivity of somatotrophs. Observed changes in insulin and leptin may participate in modulation of enhanced GH response after short-term fasting to GHRH+GHRP-6 in PCOS and obese controls."
+  },
+  {
+   "pmid": "8772549",
+   "titel": "Acipimox-mediated plasma free fatty acid depression per se stimulates growth hormone (GH) secretion in normal subjects and potentiates the response to other GH-releasing stimuli",
+   "jahr": "1996",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Peino R",
+   "doi": "10.1210/jcem.81.3.8772549",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Increases in plasma free fatty acids (FFA) inhibit the GH response to a variety of stimuli; however, the role of FFA depression in GH control is far from understood. In the present work, FFA reduction was obtained by the administration to normal subjects of acipimox, a lipid-lowering drug devoid of side-effects. Each subject tested underwent two paired tests. In one, acipimox was administered orally at a dose of 250 mg at -270 min and at a dose of 250 mg at -60 min; in the matched test, placebo was given at similar intervals. To induce GH release, four stimuli acting through different mechanisms were used: pyridostigmine (120 mg, orally) at -60 min, GHRH (1 microgram/kg, iv) at 0 min, GH-releasing peptide (GHRP-6; His-D-Trp-Ala-Trp-D-Phe-Lys-NH2; 1 microgram/kg, iv) at 0 min, and finally, GHRH plus GHRP-6 at the same doses at 0 min. GH secretion was analyzed as the area under the secretory curve (AUC; mean +/- SE, micrograms per L/120 min). Acipimox pretreatment alone (n = 6) induced a reduction in FFA levels compared with placebo treatment. The FFA reduction led to a sustained GH secretion that increased from 2.4 +/- 1.8 micrograms/L at -120 min to 14.2 +/- 4.0 at 120 min. The GH AUC for placebo was 266 +/- 100, and that for acipimox was 1781 +/- 408 (P < 0.05). In the pyridostigmine-treated group (n = 6), the acipimox-pyridostigmine AUC (2046 +/- 323) was higher (P < 0.05) than the placebo-pyridostigmine AUC (764 +/- 101), but was not different from the AUC of acipimox alone. Previous FFA reduction nearly doubled the GHRH-mediated GH secretion (n = 6; placebo-GHRH AUC, 1817 +/- 365; acipimox-GHRH test, 3228 +/- 876; P < 0.05). A similar enhancement was observed when the stimulus employed was GHRP-6 (n = 6; placebo-GHRP-6 AUC, 2034 +/- 295; acipimox-GHRP-6, 4827 +/- 703; P < 0.05). Furthermore, even the most potent GH stimulus known to date, i.e. GHRH plus GHRP-6, was enhanced by the FFA suppression (placebo-GHRH-GHRP-6 AUC, 2034 +/- 277; acipimox-GHRH-GHRP-6, 5809 +/- 758; P < 0.05). The enhancing effect of lowering FFA levels was additive regardless of the stimulus employed. These results indicate that 1) FFA reduction per se stimulates GH secretion with a delayed time of action; 2) FFA reduction enhanced in an additive manner the GH secretion elicited by such different stimuli as pyridostigmine, GHRH, and GHRP-6; and 3) the observation that FFA reduction enhanced the response to the most potent GH stimulus, GHRH plus GHRP-6, suggests that FFA suppression acts by a separate mechanism. FFA reduction may have value in the clinical setting for assessing GH reserve."
+  },
+  {
+   "pmid": "8706295",
+   "titel": "Hexarelin, a synthetic growth hormone releasing peptide, stimulates prolactin secretion in acromegalic but not in hyperprolactinaemic patients",
+   "jahr": "1996",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Ciccarelli E",
+   "doi": "10.1046/j.1365-2265.1996.626446.x",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: In man, new synthetic peptides such as hexarelin have been shown to have a potent and dose dependent GH releasing activity. Furthermore, a significant PRL releasing activity has also been demonstrated, but this has been investigated in less detail. We have therefore evaluated the effect of hexarelin on PRL and GH secretion in patients with active acromegaly or pathological hyperprolactinaemia. DESIGN: Hexarelin (2 micrograms/kg i.v.), a modified derivative of GHRP-6 of the following structure: His-2-Me-D-Trp-Ala-Trp-D-Phe-Lys-NH2, or placebo, was administered in random order on two separate occasions. PATIENTS: Eight patients with active acromegaly (ACRO, 6 F and 2 M, mean age 61.7 years, range 56-73), 6 with macroadenomas and 2 without radiological signs of tumour, and 6 female patients with pathological hyperprolactinaemia (HPRL, mean age 31.2 years, range 18-47) 5 with microadenomas and 1 with empty sella, were studied. Fourteen normal subjects (NS, 8 F and 6 M, 27.1 years, 24-30) were studied as controls. MEASUREMENTS: GH and PRL levels were evaluated every 15 minutes for 2 hours after hexarelin or placebo. Both hormones were measured using commercial IRMA kits. Basal IGF-I was measured in all subjects using an RIA following acid-ethanol extraction. RESULTS: Hexarelin induced a significant increase in PRL levels in NS (median, range, delta peak HEX vs placebo: 150 (-14-402) vs 10 (-34-24) mU/l; delta AUC HEX vs placebo: 7710 (2,100-3 2540) vs 30 (-2,566-2,040) mU min/l, P < 0.01) and in ACRO (190 (-10-496) vs 6 (-100-34) mU/l; 10,170 (-5,310-51,436) vs -82 (-6,030-1,410) mU min/l, P < 0.02), but not in HPRL (10 (-180-80) vs 50 (-100-240) mU/l; -600 (-16,996-10,140) vs -1,950 (-8,540-14,160) mU min/l). Hexarelin also induced a lower increase of GH in HPRL (60 (30-82) vs 1.8 (-0.2-2.2) mU/l; 2,853 (1,477.6-4,372.6 vs 91.6 (-160.6-174) mU min/l, P < 0.05) than in NS (90.8 (50.6-181) vs 0.8 (-1.2-6.8) mU/l; 6642 (2,004-13,252.6 vs 42 (456-900) mU min/l, P < 0.01) or in ACRO (117.2 (21.2-420.6 vs 3.8 (-2.2-18) mU/l; 6645 (1,554-22,138.6 vs 334.6 (-324-1,065) mU min/l, P < 0.02). CONCLUSIONS: Our data show that the PRL releasing effect of hexarelin is preserved in acromegaly but lost in pathological hyperprolactinaemia. In contrast with acromegaly, the GH releasing effect of hexarelin is also blunted in hyperprolactinaemic patients. These data demonstrate that patients with pathological hyperprolactinaemia are partially refractory to the activity of hexarelin."
+  },
+  {
+   "pmid": "15177700",
+   "titel": "Hexarelin decreases slow-wave sleep and stimulates the secretion of GH, ACTH, cortisol and prolactin during sleep in healthy volunteers",
+   "jahr": "2004",
+   "journal": "Psychoneuroendocrinology",
+   "erstautor": "Frieboes RM",
+   "doi": "10.1016/S0306-4530(03)00152-5",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Ghrelin, the endogenous ligand of the growth hormone (GH) secretagogue (GHS) receptor and some GHSs exert different effects on sleep electroencephalogram (EEG) and sleep-related hormone secretion in humans. Similar to GH-releasing hormone (GHRH) ghrelin promotes slow-wave sleep in humans, whereas GH-releasing peptide-6 (GHRP-6) enhances stage 2 nonrapid-eye movement sleep (NREMS). As GHRP-6, hexarelin is a synthetic GHS. Hexarelin is superior to GHRH and GHRP-6 in stimulating GH release. The influence of hexarelin on sleep-endocrine activity and the immune system is unknown. We investigated simultaneously the sleep EEG and nocturnal profiles of GH, ACTH, cortisol, prolactin, leptin, tumor necrosis factor (TNF)-alpha, and soluble TNF-alpha receptors in seven young normal volunteers after repetitive administration of 4 x 50 microg hexarelin or placebo at 22.00, 23.00, 24.00 and 01.00 h. Following hexarelin, stage 4 sleep during the first half of the night, and EEG delta power during the total night decreased significantly. Significant increases of the concentrations of GH and prolactin during the total night, and of ACTH and of cortisol during the first half of the night were found. Leptin levels, TNF-alpha and soluble TNF receptors remained unchanged. We hypothesize that sleep is impaired after hexarelin since the GHRH/corticotropin-releasing hormone (CRH) ratio is changed in favour of CRH. There are no hints for an interaction of hexarelin and the immune system."
+  },
+  {
+   "pmid": "11849251",
+   "titel": "Physical activity or food intake prior to testing did not affect the reproducibility of GH secretion elicited by GH releasing hormone plus GH-releasing hexapeptide in normal adult subjects",
+   "jahr": "2002",
+   "journal": "Clin Endocrinol (Oxf)",
+   "erstautor": "Popovic V",
+   "doi": "10.1046/j.0300-0664.2001.01445.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: Growth hormone deficiency (GHD) in adults is a defined syndrome of which the adverse effects on different areas of body function are reversed under replacement therapy with GH. The diagnosis of GHD is controversial in adults, relying on the GH secretion elicited by the so-called provocative tests of GH reserve. Most of the tests in use, including the widely employed insulin tolerance test, have been shown to be blunted after daily activities, such as mild exercise, heat or food intake, which makes stringent testing conditions mandatory in order to assure reproducibility. The combined administration of GH releasing hormone (GHRH) and GH-releasing hexapeptide (GHRP-6) is a very effective test for the diagnosis of GH deficiency in adults. In the present study, the perturbatory action of mild physical activity and food intake on the reproducibility of this combined test was assessed. METHODS: Seventeen healthy volunteers of both sexes were tested twice on separate occasions with the sequential administration of GHRH (90 microg i.v.) plus GHRP-6 (90 microg i.v.) as bolus. Eleven subjects underwent the first combined test in the morning under basal conditions and the second test was performed in the afternoon of the same day after a morning of habitual working activity and after a standard lunch. Another group of six subjects underwent similar double testing in the morning and in the afternoon after morning activity followed by lunch; however, both tests were separated by a period of 6 months. MEASUREMENTS: GH levels were analysed by time-resolved fluoroimmunoassay, with sampling every 15 minutes. RESULTS: The reproducibility of the GHRH + GHRP-6 test performed on the same day was high, with the mean GH peak being 65.4 +/- 8.0 microg/l in the basal state and 51.2 +/- 9.6 microg/l after lunch, while the area under the curve (AUC) was 2287 +/- 288 microg/l per 45 minutes in the morning and 1759 +/- 350 after lunch. When a period of 6 months had elapsed between the first and the second test, the reproducibility was well maintained with a mean GH peak of 42.7 +/- 6.2 microg/l in the basal state and 34.3 +/- 3.6 microg/l in the after lunch test, with the AUC 1463 +/- 209 and 1164 +/- 106 microg/l per 45 minutes in the morning and after lunch, respectively. When analysed individually, physical activity, lunch or time elapsed between the two tests did not significantly change the GH peak in the subjects tested. CONCLUSIONS: The GHRH + GHRP-6 test of GH reserve is a highly reproducible test in adult subjects over time, and is not perturbed by common daily activities, such as mild physical exercise or food intake. Considering that stringent testing conditions are not required and the whole test may be performed in 30 minutes, it may be useful in the clinical setting for the diagnosis of GH deficiency in adults."
+  },
+  {
+   "pmid": "18426818",
+   "titel": "Association between tumoral GH-releasing peptide receptor type 1a mRNA expression and in vivo response to GH-releasing peptide-6 in ACTH-dependent Cushing's syndrome patients",
+   "jahr": "2008",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Machado MC",
+   "doi": "10.1530/EJE-07-0659",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: GH secretagogues (GHS) produce exaggerated ACTH and cortisol responses in Cushing's disease (CD) patients, attributable to their direct action on GH-releasing peptide receptor type 1a (GHSR-1a). However, there are no studies correlating the in vivo response to GHS and GHSR-1a mRNA expression in ACTH-dependent Cushing's syndrome (CS) patients. The aim of this study is to correlate the patterns of ACTH and cortisol response to GH-releasing peptide-6 (GHRP-6) to GHSR-1a expression in ACTH-dependent CS patients. DESIGN: Prospective study in a tertiary referral hospital center. Fifteen CD patients and two ectopic ACTH syndrome (EAS) patients were studied. METHODS: Tumor fragments were submitted to RNA extraction, and GHSR-1a expression was studied through real-time qPCR and compared with normal tissue samples. The patients were also submitted to desmopressin test and vasopressin receptor type 1B (AVPR1B) mRNA analysis by qPCR. RESULTS: GHSR-1a expression was similar in normal pituitary samples and in corticotrophic tumor samples. GHSR-1a expression was higher in patients (CD and EAS) presenting in vivo response to GHRP-6. Higher expression of AVPR1B was observed in the EAS patients responsive to desmopressin, as well as in corticotrophic tumors, as compared with normal pituitary samples, but no correlation between AVPR1B expression and response to desmopressin was observed in the CD patients. CONCLUSIONS: Our results revealed a higher expression of GHSR-1a in the ACTH-dependent CS patients responsive to GHRP-6, suggesting an association between receptor gene expression and in vivo response to the secretagogue in both the CD and the EAS patients."
+  },
+  {
+   "pmid": "10770194",
+   "titel": "Effects of short-term glucocorticoid deprivation on growth hormone (GH) response to GH-releasing peptide-6: studies in normal men and in patients with adrenal insufficiency",
+   "jahr": "2000",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Pinto AC",
+   "doi": "10.1210/jcem.85.4.6536",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "There are no data in the literature about the effects of glucocorticoid deprivation on GH-releasing peptide-6 (GHRP-6)-induced GH release. The aims of this study were to evaluate GH responsiveness to GHRP-6 1) after metyrapone administration in normal men, and 2) in patients with chronic hypocortisolism after glucocorticoid withdrawal for 72 h. In normal subjects, metyrapone ingestion did not alter significantly GH responsiveness to GHRP-6 [n = 8; peak, 39.3 +/-7.1 microg/L; area under the curve (AUC), 1958.8 +/- 445.7 microg/min x L; mean +/- SE] compared to placebo (n = 8; peak, 21.9 +/- 4.5; AUC, 1131.0 +/- 229.6). In patients with chronic hypocortisolism (n = 8), GH responses to GHRP-6 were similar both during replacement therapy (peak, 11.8 +/- 3.9; AUC, 563.2 +/- 208.7) and after withdrawal of prednisone (peak, 14.4 +/- 4.5; AUC, 695.6 +/- 272.9) and did not differ from those in controls. Interestingly, after glucocorticoid withdrawal, GH responsiveness to GHRP-6 in patients with chronic hypocortisolism was significantly lower than that in normal subjects pretreated with metyrapone. Our data suggest that short term glucocorticoid deprivation does not have a major impact on GHRP-6-dependent GH-releasing mechanisms. However, in long standing hypocortisolism, subtle changes in GHRP-6 secretory pathways may be present."
+  },
+  {
+   "pmid": "9661645",
+   "titel": "Preserved growth hormone (GH) secretion in aged and very old subjects after testing with the combined stimulus GH-releasing hormone plus GH-releasing hexapeptide-6",
+   "jahr": "1998",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Micic D",
+   "doi": "10.1210/jcem.83.7.4957",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Either spontaneous or pharmacological stimulated GH secretion is reduced with advanced age. This observation is an added difficulty for the biochemical diagnosis of GH deficiency in adults. Furthermore, the combined administration of saturating doses of GH-releasing hormone (GHRH) plus GH-releasing hexapeptide (GHRP)-6 is nowadays the most effective GH-releasing stimulus tested in a variety of settings related to altered somatotroph function. To understand whether the GH discharge elicited by the combined stimulus declines with age, 26 normal subjects of both sexes, divided into 3 age groups [adults 19-40 yr; aged 46-65 yr; and very old (75-96 yr) subjects] were studied. They were administered i.v., as bolus and in combination, 90 micrograms GHRH plus 90 micrograms GHRP-6. In the three groups, the combined administration of GHRH plus GHRP-6 elicited a GH area under the curve (microgram/L per 120 min) of 3,127 +/- 262, 3,409 +/- 573, and 4,655 +/- 737 for adults, aged, and very old subjects, respectively (nonsignificant differences). The mean GH peak was 47.5 +/- 4.5 micrograms/L for adults, 52.9 +/- 8.4 micrograms/L for aged subjects, and 76.0 +/- 11.7 for very old subjects (nonsignificant differences). Individually examined, there were no nonresponders to the combined stimulus, and all subjects (independently of age) showed a GH peak over 25 micrograms/L (the lowest peak was 27.3 micrograms/L, and the highest peak was 119.2 micrograms/L). In conclusion, the GHRH plus GHRP-6-induced GH release is well preserved in aged and very old subjects, which suggests that the GH secretory capability of the combined test is not reduced by age. This combined test may be useful for the diagnosis of GH-deficient states in adults."
+  },
+  {
+   "pmid": "7788011",
+   "titel": "Growth hormone (GH) responses to the combined administration of GH-releasing hormone plus GH-releasing peptide 6 in adults with GH deficiency",
+   "jahr": "1995",
+   "journal": "Eur J Endocrinol",
+   "erstautor": "Leal-Cerro A",
+   "doi": "10.1530/eje.0.1320712",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "In recent years the health problems of adults with growth hormone deficiency (GHD) and the benefits of GH replacement therapy have received considerable attention. However, the reliability of conventional GH tests in the assessment of pituitary GH reserve in this group of patients is still controversial. In this study, we assessed GH secretion after the combined administration of GH-releasing hormone (GHRH) (1 microgram/kg iv) and GH-releasing peptide 6 (GHRP-6, 1 microgram/kg iv) in adult patients diagnosed with GHD by conventional GH testing, and correlate this response with insulin-like growth factor I levels. Twenty-one subjects (13 male, 8 female) with long-standing diagnosis of GHD aged 21-54 years were studied. In 13 subjects GH responses to GHRH plus GHRP-6 were markedly reduced (peak GH response < 10 mU/l), whereas in the remaining eight the response was greater (range 11-100 mU/l). In conclusion, our data show that combined administration of GHRH plus GHRP-6 elicited a significant increase in plasma GH levels in about 40% of patients diagnosed with GHD by conventional GH testing."
+  }
+ ],
+ "metaanalysen": [],
+ "praeklinik": [],
+ "ctgov": [],
+ "gruppe": "C_wachstumshormon"
+}

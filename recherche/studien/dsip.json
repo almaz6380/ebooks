@@ -1,0 +1,1028 @@
+{
+ "name": "DSIP",
+ "status": "nicht_zugelassen",
+ "suchbegriff_pubmed": "delta sleep-inducing peptide[tiab] OR DSIP[tiab]",
+ "suchbegriff_ctgov": "delta sleep inducing peptide",
+ "humanstudien_alle": [
+  {
+   "pmid": "26931331",
+   "titel": "An RCT study on the feasibility of anterior transpedicular screw fixation in the cervicothoracic junction",
+   "jahr": "2016",
+   "journal": "Eur Spine J",
+   "erstautor": "Zhao L",
+   "doi": "10.1007/s00586-016-4470-z",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "25739189",
+   "titel": "[Using deltalicin for the treatment of patients with diabetic retinopathy]",
+   "jahr": "2014",
+   "journal": "Eksp Klin Farmakol",
+   "erstautor": "Kresiun NV",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "English Abstract",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "19142086",
+   "titel": "Delta sleep-inducing peptide alters bispectral index, the electroencephalogram and heart rate variability when used as an adjunct to isoflurane anaesthesia",
+   "jahr": "2009",
+   "journal": "Eur J Anaesthesiol",
+   "erstautor": "Pomfrett CJ",
+   "doi": "10.1097/EJA.0b013e32831c8644",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "9617990",
+   "titel": "Opioid detoxification with delta sleep-inducing peptide: results of an open clinical trial",
+   "jahr": "1998",
+   "journal": "J Clin Psychopharmacol",
+   "erstautor": "Backmund M",
+   "doi": "10.1097/00004714-199806000-00016",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Letter"
+   ]
+  },
+  {
+   "pmid": "7777652",
+   "titel": "Delta-sleep-inducing peptide does not affect CRH and meal-induced ACTH and cortisol secretion",
+   "jahr": "1995",
+   "journal": "Psychoneuroendocrinology",
+   "erstautor": "Späth-Schwalbe E",
+   "doi": "10.1016/0306-4530(94)00050-k",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "7895296",
+   "titel": "Plasma concentration of nine hormones and neurotransmitters during usual activities or constant bed rest for 34 H",
+   "jahr": "1994",
+   "journal": "Chronobiol Int",
+   "erstautor": "Schulz P",
+   "doi": "10.3109/07420529409057254",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "7698722",
+   "titel": "Different effects of delta-sleep-inducing peptide on arginine-vasopressin and ACTH secretion in normal men",
+   "jahr": "1994",
+   "journal": "Horm Res",
+   "erstautor": "Chiodera P",
+   "doi": "10.1159/000184207",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "8475226",
+   "titel": "Delta sleep-inducing peptide administration does not influence growth hormone and prolactin secretion in normal women",
+   "jahr": "1993",
+   "journal": "Psychoneuroendocrinology",
+   "erstautor": "Giusti M",
+   "doi": "10.1016/0306-4530(93)90057-r",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "1299794",
+   "titel": "Effects of delta sleep-inducing peptide on sleep of chronic insomniac patients. A double-blind study",
+   "jahr": "1992",
+   "journal": "Neuropsychobiology",
+   "erstautor": "Bes F",
+   "doi": "10.1159/000118919",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "2554357",
+   "titel": "Reduction of immunoreactive ACTH in plasma following intravenous injection of delta sleep-inducing peptide in man",
+   "jahr": "1989",
+   "journal": "Psychoneuroendocrinology",
+   "erstautor": "Bjartell A",
+   "doi": "10.1016/0306-4530(89)90004-8",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "3622582",
+   "titel": "Effects of delta-sleep-inducing peptide on 24-hour sleep-wake behaviour in severe chronic insomnia",
+   "jahr": "1987",
+   "journal": "Eur Neurol",
+   "erstautor": "Schneider-Helmert D",
+   "doi": "10.1159/000116143",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "3583493",
+   "titel": "Study of delta sleep-inducing peptide efficacy in improving sleep on short-term administration to chronic insomniacs",
+   "jahr": "1987",
+   "journal": "Int J Clin Pharmacol Res",
+   "erstautor": "Monti JM",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "6391926",
+   "titel": "A clinical trial with DSIP",
+   "jahr": "1984",
+   "journal": "Eur Neurol",
+   "erstautor": "Kaeser HE",
+   "doi": "10.1159/000115717",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "6391925",
+   "titel": "DSIP in insomnia",
+   "jahr": "1984",
+   "journal": "Eur Neurol",
+   "erstautor": "Schneider-Helmert D",
+   "doi": "10.1159/000115714",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "6689058",
+   "titel": "Effects of DSIP in man. Multifunctional psychophysiological properties besides induction of natural sleep",
+   "jahr": "1983",
+   "journal": "Neuropsychobiology",
+   "erstautor": "Schneider-Helmert D",
+   "doi": "10.1159/000117964",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "6895513",
+   "titel": "Acute and delayed effects of DSIP (delta sleep-inducing peptide) on human sleep behavior",
+   "jahr": "1981",
+   "journal": "Int J Clin Pharmacol Ther Toxicol",
+   "erstautor": "Schneider-Helmert D",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "6112579",
+   "titel": "Synthetic delta-sleep-inducing peptide improves sleep in insomniacs",
+   "jahr": "1981",
+   "journal": "Lancet",
+   "erstautor": "Schneider-Helmert D",
+   "doi": "10.1016/s0140-6736(81)92417-x",
+   "typ": [
+    "Clinical Trial",
+    "Letter",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "7028502",
+   "titel": "The influence of synthetic DSIP (delta-sleep-inducing-peptide) on disturbed human sleep",
+   "jahr": "1981",
+   "journal": "Experientia",
+   "erstautor": "Schneider-Helmert D",
+   "doi": "10.1007/BF01971753",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ]
+  }
+ ],
+ "humanstudien_detail": [
+  {
+   "pmid": "6391926",
+   "titel": "A clinical trial with DSIP",
+   "jahr": "1984",
+   "journal": "Eur Neurol",
+   "erstautor": "Kaeser HE",
+   "doi": "10.1159/000115717",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ],
+   "abstract": "In an open study 7 patients with severe insomnia were treated by a series of 10 injections with the delta-sleep-inducing peptide (DSIP). In all but 1 case sleep was normalized for follow-up periods of 3-7 months. The mood and performance during the daytime improved as well. A problem may be a long-standing habit of drug addiction."
+  },
+  {
+   "pmid": "6391925",
+   "titel": "DSIP in insomnia",
+   "jahr": "1984",
+   "journal": "Eur Neurol",
+   "erstautor": "Schneider-Helmert D",
+   "doi": "10.1159/000115714",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ],
+   "abstract": "This paper summarizes different investigations into effects of delta sleep-inducing peptide (DSIP) injections on insomnia. Two different studies showed improvement of sleep following single injections of 25 nmol/kg b.w. before sleep. Repeated administrations indicated a buildup with normalization of sleep structure after four administrations. Repeated injections in the morning - besides increasing daytime activity - still had a strong positive effect on night sleep, but not so two doses daily. A case of insomnia in organic brain disease responded well to higher doses. The results are discussed as to the mode of action of DSIP and its possible therapeutic use in insomnia."
+  },
+  {
+   "pmid": "7028502",
+   "titel": "The influence of synthetic DSIP (delta-sleep-inducing-peptide) on disturbed human sleep",
+   "jahr": "1981",
+   "journal": "Experientia",
+   "erstautor": "Schneider-Helmert D",
+   "doi": "10.1007/BF01971753",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ],
+   "abstract": "The effects of acute intravenous administration of synthetic DSIP, 25 nmoles/kg b.wt, on disturbed human sleep were tested in 6 middle-aged chronic insomniacs. The results were: longer sleep duration and a higher quality of sleep with fewer interruptions; slightly more REM-sleep, but no day-time sedation or other side effects though the sleep enhancing capacity was seen for up to 6 h of night sleep. Sleep-promoting effects occurred only in the second hour after injection, in the first hour a slight arousing effect was indicated. The study corroborates the findings of previous investigations in healthy subjects and shows that DSIP has a normalizing influence on human sleep regulation."
+  },
+  {
+   "pmid": "6895513",
+   "titel": "Acute and delayed effects of DSIP (delta sleep-inducing peptide) on human sleep behavior",
+   "jahr": "1981",
+   "journal": "Int J Clin Pharmacol Ther Toxicol",
+   "erstautor": "Schneider-Helmert D",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article"
+   ],
+   "abstract": "A first study of DSIP (= synthetic delta sleep-inducing peptide) application to humans was carried out in six normal volunteers (four males and two females) under extensive psychophysiologic observations and measurements in a double-blind cross-over design. DSIP was applied as slow intravenous infusions at a dosage of 25 nmol/kg in the morning. The subjects immediately reported a feeling of sleep pressure, and sleep increased by 59% (median of total sleep time) within a 130-min interval after the treatment as compared with placebo. Delayed effects on subsequent night sleep were shorter sleep onset, reduced percentage of stage 1, and better sleep efficiency. Nevertheless, sophisticated behavioral and EEG analyses revealed no sedation in the classic pharmacologic way. The results suggest that DSIP in humans is also efficacious by sustaining natural sleep functions. The compound was well-tolerated and no psychologic, physiologic, or biochemical side effects were observed."
+  },
+  {
+   "pmid": "26931331",
+   "titel": "An RCT study on the feasibility of anterior transpedicular screw fixation in the cervicothoracic junction",
+   "jahr": "2016",
+   "journal": "Eur Spine J",
+   "erstautor": "Zhao L",
+   "doi": "10.1007/s00586-016-4470-z",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "STUDY DESIGN: We evaluated the trajectory and the entry points of anterior transpedicular screws (ATPS) in the cervicothoracic junction (CTJ). OBJECTIVE: This study aimed at investigating the feasibility of ATPS fixation in the CTJ. Application of an ATPS in the lower cervical spine has been reported; however, there were no reports exploring the feasibility of anterior transpedicular screw fixation in the CTJ. METHODS: CT scans were performed in 50 cases and multiplanar reformation was used to measure the related parameters on pedicle axis view at C6-T2. Transverse pedicle angle, outer pedicle width, pedicle axis length, distance transverse intersection point (DtIP), sagittal pedicle angle, anterior vertebral body height, outer pedicle height, and distance sagittal intersection point (DsIP) were measured. The prozone of CTJ was divided into three different regions, which were named as the \"manubrium region\", the region \"above\" and \"below\" the manubrium. The distribution of the trajectory of sagittal pedicle axes was recorded in the three regions and the related data were statistically analyzed. RESULTS: There was no statistical difference in gender (P > 0.05). The transverse pedicle angle decreased from C6 (46.77° ± 2.72°) to T2 (20.62° ± 5.04°). DtIP increased from C6 to T2. DsIP was an average of 7.17 mm. The sagittal pedicle axis lines of the C6 and C7 were located in the region above the manubrium. T1 was mainly in the manubrium region followed by the region above the manubrium. T2 was mainly located in the manubrium region followed by the region below the manubrium. CONCLUSION: Implantation of ATPS at C6, C7, and some T1 is feasible through the low anterior cervical approach, while it is almost impossible to approach T2 that way."
+  },
+  {
+   "pmid": "7777652",
+   "titel": "Delta-sleep-inducing peptide does not affect CRH and meal-induced ACTH and cortisol secretion",
+   "jahr": "1995",
+   "journal": "Psychoneuroendocrinology",
+   "erstautor": "Späth-Schwalbe E",
+   "doi": "10.1016/0306-4530(94)00050-k",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Besides sleep-promoting properties, delta-sleep-inducing peptide (DSIP) has been reported to act as a corticotropin-releasing inhibiting factor in vitro and in vivo. We examined, first, the influence of DSIP on ACTH and cortisol release following stimulation with human corticotropin-releasing hormone (h-CRH; 1.0 microgram/kg body weight, and 0.5 microgram/kg body weight, respectively) in healthy young men (n = 5 in each condition). DSIP (total doses of 3 and 4 mg, respectively, vs. placebo) was infused intravenously between 30 min prior to and 90 min after CRH injections. Responses of ACTH and cortisol were almost identical during and after infusion of DSIP and placebo. In a second experiment, the influence of DSIP (4 mg, also administered as intravenous infusion) on meal-related ACTH and cortisol secretion was studied in another 10 men. Meal-related midday surge of ACTH and cortisol was also not affected by DSIP. Our data do not support an inhibitory role of DSIP on ACTH and cortisol secretion in man."
+  },
+  {
+   "pmid": "3622582",
+   "titel": "Effects of delta-sleep-inducing peptide on 24-hour sleep-wake behaviour in severe chronic insomnia",
+   "jahr": "1987",
+   "journal": "Eur Neurol",
+   "erstautor": "Schneider-Helmert D",
+   "doi": "10.1159/000116143",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article"
+   ],
+   "abstract": "Impaired daytime functions are a significant part of chronic insomnia besides sleep disturbance. Therefore, the effects of intermediate-term delta-sleep-inducing peptide (DSIP) administration on sleep and daytime performance were investigated in 14 middle-aged chronic insomniacs. DSIP was administered under placebo-controlled, double-blind conditions for 7 successive nights. Polysomnograms were obtained for placebo baseline, beginning and end of DSIP treatment, and one placebo posttreatment night; daytime psychological state and mental performance were extensively tested before and after 6 DSIP injections. The treatment substantially improved night sleep with the first and additionally with repeated doses. These effects were maintained for the first posttreatment (placebo) night. Efficiency of night sleep and daytime rest reached the levels of normal controls. Alertness and performance at daytime increased significantly. The study demonstrates the efficacy of DSIP for the treatment of impaired sleep and daytime functions as well."
+  },
+  {
+   "pmid": "1299794",
+   "titel": "Effects of delta sleep-inducing peptide on sleep of chronic insomniac patients. A double-blind study",
+   "jahr": "1992",
+   "journal": "Neuropsychobiology",
+   "erstautor": "Bes F",
+   "doi": "10.1159/000118919",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "The influence of delta sleep-inducing peptide (DSIP) on sleep was studied in 16 chronic insomniac patients according to a double-blind matched-pairs parallel-groups design. Subjects slept for 5 consecutive nights in the laboratory. Night 1 was used for adaptation, night 2 for baseline measurements. In the afternoon before the 3rd, 4th and 5th night, half of the patients received intravenously 25 nmol/kg body weight DSIP, and half of the patients a glucose solution (placebo). Measures for sleep structure, objective (polysomnography) and subjective sleep quality and for subjective tiredness were assessed. The results for objective sleep quality indicated higher sleep efficiency and shorter sleep latency with DSIP as compared to placebo. One measure of subjectively estimated tiredness decreased within the DSIP group. Data analysis suggested, however, that the statistically significant effects were weak and in part could be due to an incidental change in the placebo group. As none of the other measures, including subjective sleep quality, showed any change, it was concluded that short-term treatment of chronic insomnia with DSIP is not likely to be of major therapeutic benefit."
+  },
+  {
+   "pmid": "3583493",
+   "titel": "Study of delta sleep-inducing peptide efficacy in improving sleep on short-term administration to chronic insomniacs",
+   "jahr": "1987",
+   "journal": "Int J Clin Pharmacol Res",
+   "erstautor": "Monti JM",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article"
+   ],
+   "abstract": "The effects of delta sleep-inducing peptide (DSIP), on the sleep cycle of insomniac patients were assessed by means of polysomnographic recordings. DSIP in a dose of 25 nmol/kg or a placebo was administered i.v. during four nights using a double-blind crossover design. The number of nocturnal awakenings, non-rapid-eye-movement (NREM) sleep latency, total waking time and waking time after sleep onset were decreased under DSIP treatment, but no significant differences were found in comparison to baseline or to double-blind placebo nights. Total sleep time and NREM sleep time were increased by the peptide. Their increase was related to increases in stage 2, while stage 1, slow wave sleep (stages 3 and 4) and rapid-eye-movement sleep were not modified. For NREM sleep time and stage 2 sleep differences between DSIP and a placebo were significant, but the same differences existed already for the baseline values. It can be concluded that sleep improvement under DSIP treatment is of little clinical significance."
+  },
+  {
+   "pmid": "25739189",
+   "titel": "[Using deltalicin for the treatment of patients with diabetic retinopathy]",
+   "jahr": "2014",
+   "journal": "Eksp Klin Farmakol",
+   "erstautor": "Kresiun NV",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "The characteristics of visual evoked potential (VEP) have been investigated in a group of 15 healthy volunteers (aged 31.7 ± 3.6 years) and 30 insulin-dependent patients (aged 32.1 ± 4.0 years) with diabetes mellitus, among which 15 patients suffered from diabetic retinopathy and 15 patients had no retinopathy. An increase in the latent period along with reduction of the VEP amplitude after photostress action upon the macular part of retina have been observed in patients with diabetes, these effects were more pronounced in the subgroup with retinopathy. The restoration of VEP characteristics in 73.5 ± 3.3 s from the moment of photostress was observed in the control group, while this index in both subgroups of diabetic patients without and with retinopathy was 88.7 ± 5.9 and 137.2 ± 11.3 s, respectively. Treatment with deltalicin (daily dose of 0.0003 g of delta sleep-inducing peptide intranasally for two months) decreased the latent period and led to less pronounced depression of VEP amplitude in patients with diabetic retinopathy, and reduced the period of restoration of VEP characteristics to 95.1 ± 6.8 s."
+  },
+  {
+   "pmid": "6689058",
+   "titel": "Effects of DSIP in man. Multifunctional psychophysiological properties besides induction of natural sleep",
+   "jahr": "1983",
+   "journal": "Neuropsychobiology",
+   "erstautor": "Schneider-Helmert D",
+   "doi": "10.1159/000117964",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article"
+   ],
+   "abstract": "Animal experiments confirmed the neuropeptide nature of delta-sleep-inducing-peptide (DSIP) and a species-specific sleep promotion. Five different human studies were carried out with single and repeated intravenous injections of DSIP under double-blind conditions, and with assessing treatment effects by psychophysiological tests and polygraphic recordings. Compatibility of DSIP was good. Slow injection proved essential. A latency of sleep induction of 1 h, but a duration of up to 20 h was found. The somnogenic properties, initially proven in animal studies, were confirmed. Indications of specific effects on chronobiological regulations were found. A complete normalization of disturbed sleep was achieved by four consecutive injections to insomniacs. During the active awake state, DSIP induced higher alertness and better performance. Psychological tests and evaluation by psychotherapists indicated modulation of ego functions by DSIP in the direction of improved stress tolerance and coping ability. The various actions of DSIP might be conceptualized neurophysiologically on the level of 'programming' behavior by means of changing 'local vigilances'. Whereas the somnogenic actions of DSIP appear promising for treating insomnia, other therapeutic perspectives in the field of psychiatry have to be explored."
+  },
+  {
+   "pmid": "6112579",
+   "titel": "Synthetic delta-sleep-inducing peptide improves sleep in insomniacs",
+   "jahr": "1981",
+   "journal": "Lancet",
+   "erstautor": "Schneider-Helmert D",
+   "doi": "10.1016/s0140-6736(81)92417-x",
+   "typ": [
+    "Clinical Trial",
+    "Letter",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "19142086",
+   "titel": "Delta sleep-inducing peptide alters bispectral index, the electroencephalogram and heart rate variability when used as an adjunct to isoflurane anaesthesia",
+   "jahr": "2009",
+   "journal": "Eur J Anaesthesiol",
+   "erstautor": "Pomfrett CJ",
+   "doi": "10.1097/EJA.0b013e32831c8644",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "BACKGROUND AND OBJECTIVE: Delta sleep-inducing peptide (DSIP) is an endogenous peptide that crosses the blood-brain barrier, named after its association with natural sleep and enhanced electroencephalogram (EEG) delta rhythm. The objective of this study was to determine whether DSIP could be used as an adjunct to volatile anaesthesia in humans, our hypothesis being that DSIP is a natural hypnotic that would increase anaesthetic depth. The aims were to assess depth of anaesthesia using bispectral index (BIS), the EEG and heart rate variability (HRV), and to determine whether DSIP altered the symmetry of EEG between the left and right cerebral hemispheres. METHODS: Twenty-four female ASA I or II patients gave written, informed consent to a protocol approved by our local research ethics committee. Twelve were randomly assigned as controls to receive saline. The other 12 were randomly allocated to receive one of three intravenous bolus doses of DSIP (Clinalfa) at 25, 50 or 100 nmol kg(-1). The first administration of DSIP was while awake and the second after induction of anaesthesia with propofol and maintenance with isoflurane. BIS and EEG parameters were measured continuously using a bilateral electrode montage. RESULTS: DSIP significantly increased heart rate, decreased HRV and, paradoxically, significantly reduced delta rhythm along with reducing burst suppression and increasing BIS at 25 nmol kg(-1) during isoflurane anaesthesia. DSIP also significantly altered bilateral symmetry of EEG. CONCLUSION: DSIP probably reduced parasympathetic tone and decreased (lightened) the depth of anaesthesia measured using BIS."
+  },
+  {
+   "pmid": "8475226",
+   "titel": "Delta sleep-inducing peptide administration does not influence growth hormone and prolactin secretion in normal women",
+   "jahr": "1993",
+   "journal": "Psychoneuroendocrinology",
+   "erstautor": "Giusti M",
+   "doi": "10.1016/0306-4530(93)90057-r",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article"
+   ],
+   "abstract": "The aim of this study was to analyze the effects of delta sleep-inducing peptide (DSIP) on growth hormone (GH) and prolactin (PRL) secretion in eight healthy women with normal cycles (aged 17-36 years). GH and PRL secretion was studied in five women after DSIP (25 micrograms/kg bw IV over 30 min), arginine chlorhydrate (0.5 g/kg bw IV over 30 min) and simultaneous DSIP plus arginine chlorhydrate administration. In three other women the circadian rhythm of GH and PRL was studied during DSIP (25 micrograms/kg bw from 2130h to 2230h) and placebo IV infusion. Serum GH and PRL levels were normal under basal conditions and no effects were noted after the infusion of DSIP. The GH and PRL circadian rhythm was not modified by DSIP administration. DSIP did not influence GH and PRL responsiveness to arginine chlorhydrate. We found that at dosages which are known to modify ECG patterns, DSIP is unable to modify spontaneous or arginine chlorhydrate-induced GH and PRL secretion."
+  },
+  {
+   "pmid": "7698722",
+   "titel": "Different effects of delta-sleep-inducing peptide on arginine-vasopressin and ACTH secretion in normal men",
+   "jahr": "1994",
+   "journal": "Horm Res",
+   "erstautor": "Chiodera P",
+   "doi": "10.1159/000184207",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "UNLABELLED: Delta-sleep-inducing peptide (DSIP) is a well-known inhibitor of pituitary ACTH secretion. In order to evaluate the possible influence of DSIP on basal arginine-vasopressin (AVP) secretion and/or on the AVP-response to osmotic and pressure/volumetric stimuli, DSIP (25 nmol/kg) was infused in 10 min to 8 normal men (23-34 years old) just before a 2-hour infusion of normal saline (NaCl 0.9%; DSIP test) or hypertonic saline (0.51 M NaCl; osmotic test) or before an orthostatic test (standing upright and maintaining an orthostatic position for 20 min). In different occasions, a 10-min infusion of normal saline (placebo) was given instead of DSIP. In an additional 7 subjects, DSIP or placebo was given 60 min before hypertonic saline or the orthostatic test. The results obtained after the administration of DSIP at time 0 and at -60 min were similar. RESULTS: The administration of DSIP or normal saline alone did not change the concentrations of circulating AVP. A slight physiological decline in ACTH levels was observed during saline infusion, whereas a significant decrease in ACTH levels was induced by DSIP administration. Osmotic stimulation of AVP secretion by hypertonic NaCl induced a significant increase in plasma AVP concentrations which was not modified by DSIP administration. The ACTH secretory patterns during hypertonic NaCl and hypertonic NaCl plus DSIP were similar to those observed during normal saline and normal saline plus DSIP, respectively. The orthostatic test provided similar plasma AVP increments, regardless of the previous treatment with DSIP.(ABSTRACT TRUNCATED AT 250 WORDS)"
+  },
+  {
+   "pmid": "9617990",
+   "titel": "Opioid detoxification with delta sleep-inducing peptide: results of an open clinical trial",
+   "jahr": "1998",
+   "journal": "J Clin Psychopharmacol",
+   "erstautor": "Backmund M",
+   "doi": "10.1097/00004714-199806000-00016",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Letter"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "2554357",
+   "titel": "Reduction of immunoreactive ACTH in plasma following intravenous injection of delta sleep-inducing peptide in man",
+   "jahr": "1989",
+   "journal": "Psychoneuroendocrinology",
+   "erstautor": "Bjartell A",
+   "doi": "10.1016/0306-4530(89)90004-8",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Eleven healthy male volunteers, ages 25-39 years, received a single dose of synthetic delta sleep-inducing peptide (DSIP) (25 nmol/kg BW) or saline intravenously in a randomized cross-over, double-blind study. The concentrations of neuropeptides related to the hypothalamic pituitary-adrenal (HPA) axis and cortisol were examined in serial plasma samples. In addition, cortisol and monoamine metabolites were determined in urine. A significant reduction of ACTH-like immunoreactivity (ACTH-LI) in plasma was detected for at least 3 hr after the DSIP injection, compared to the control subjects, in whom a slightly elevated concentration of ACTH-LI occurred. Plasma cortisol levels were unaffected and followed the normal diurnal decline. No differences in urinary cortisol or monoamine metabolite concentrations occurred between the two groups. The results indicate an inhibitory action of DSIP on ACTH secretion in man, as previously suggested by animal experiments."
+  },
+  {
+   "pmid": "7895296",
+   "titel": "Plasma concentration of nine hormones and neurotransmitters during usual activities or constant bed rest for 34 H",
+   "jahr": "1994",
+   "journal": "Chronobiol Int",
+   "erstautor": "Schulz P",
+   "doi": "10.3109/07420529409057254",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Thyroid-stimulating hormone (TSH), cortisol, melatonin, prolactin, luteinizing hormone (LH), delta-sleep-inducing peptide (DSIP), its phosphorylated form (P-DSIP), heart rate, and body temperature were measured every half hour during two 24-h periods in five normal men. tau-Amino-butyric acid (GABA) and 3-methoxy-4-hydroxyphenylglycol (MHPG) were measured less frequently. The first period, the \"activity\" condition, included usual daily activities. The second period, or \"rest\" condition, consisted of fasting, constant bed rest during 34 h, and partial light deprivation. Compared with the \"rest\" condition, the \"activity\" condition increased heart rate, temperature, LH, and TSH in most subjects, and cortisol in two of five subjects. It retarded the onset of nocturnal cortisol and melatonin secretion. The temporal pattern and the absolute values of the concentrations of DSIP, P-DSIP, MHPG, GABA, and prolactin showed no or minimal changes during the two conditions. In spite of the influence of the \"activity\" versus \"rest\" condition on several hormones, the mean concentrations as well as the temporal organization of their secretion into plasma were quite stable within each subject, whereas they varied much more between individuals. TSH, cortisol, and melatonin values were also stable within an 8-month period in one subject who was studied on four occasions. The results illustrate that the patterns of hormones rhythms and their reactivity to changes in the environment are, to a large extent, specific to each subject."
+  }
+ ],
+ "metaanalysen": [],
+ "praeklinik": [
+  {
+   "pmid": "11437870",
+   "titel": "Delta sleep-inducing peptide",
+   "jahr": "2001",
+   "journal": "Eur J Anaesthesiol",
+   "erstautor": "Pollard BJ",
+   "doi": "10.1046/j.1365-2346.2001.00917.x",
+   "typ": [
+    "Editorial",
+    "Review"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "1815223",
+   "titel": "Phosphorylation of delta sleep-inducing peptide (DSIP) by casein kinase II in vitro",
+   "jahr": "1991",
+   "journal": "Peptides",
+   "erstautor": "Nakamura A",
+   "doi": "10.1016/0196-9781(91)90222-b",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "A phosphorylated analogue of DSIP at Ser7 has been shown to exist endogenously by immunochemical studies. An enzyme which could phosphorylate DSIP has not yet been identified. In the present study, we examined DSIP as a substrate for in vitro phosphorylation by casein kinase II. DSIP was phosphorylated by the enzyme with apparent Km and Vmax values of 20 mM and 90.9 nmol/min/mg protein, respectively. Both ATP and GTP were utilized as phosphoryl donors. Phosphorylation of DSIP was inhibited by heparin and enhanced by spermine. These results demonstrate that DSIP can serve as a possible substrate for casein kinase II in vitro."
+  },
+  {
+   "pmid": "3121137",
+   "titel": "Delta sleep inducing peptide (DSIP) stimulates the release of LH but not FSH via a hypothalamic site of action in the rat",
+   "jahr": "1987",
+   "journal": "Brain Res Bull",
+   "erstautor": "Iyer KS",
+   "doi": "10.1016/0361-9230(87)90069-4",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Long term ovariectomized (OVX) Sprague-Dawley rats were injected intraventricularly (3rd ventricle) with 5 micrograms (2 microliter) of DSIP. This caused a significant elevation (p = 0.01) of LH levels within 30 min. The values remained elevated for 2 hr; however, FSH levels remained unchanged. The minimal effective dose of DSIP to evoke this effect was 1 microgram. If plasma PH was lowered by pretreatment of the animals with estradiol, the 5 micrograms dose evoked an even greater effect to elevate LH significantly at 30 and 60 min following its intraventricular injection. To determine the site of action of DSIP, dispersed, overnight cultured pituitary cells from OVX rats were incubated with varying concentrations (10(-7) to 10(-12) M) of DSIP in an in vitro system. There was no response to DSIP from the cells in the above system. To evaluate its possible action on the hypothalamus, median eminence (ME) fragments from male rats were incubated in vitro with DSIP in varying concentrations from 10(-7) to 10(-10) M. There was a significant (p less than 0.001) increase in LHRH released from the ME at a concentration of DSIP of 10(-7) M. A sleep-related increase in LH release is seen during puberty in man. It is possible that DSIP released within the hypothalamus may play a physiological role in sleep-related LH release."
+  },
+  {
+   "pmid": "3420012",
+   "titel": "Passage of delta sleep-inducing peptide (DSIP) across the blood-cerebrospinal fluid barrier",
+   "jahr": "1988",
+   "journal": "Peptides",
+   "erstautor": "Zlokovic BV",
+   "doi": "10.1016/0196-9781(88)90160-x",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Unidirectional flux of 125I-labeled DSIP at the blood-tissue interface of the blood-cerebrospinal fluid (CSF) barrier was studied in the perfused in situ choroid plexuses of the lateral ventricles of the sheep. Arterio-venous loss of 125I-radioactivity suggested a low-to-moderate permeability of the choroid epithelium to the intact peptide from the blood side. A saturable mechanism with Michaelis-Menten type kinetics with high affinity and very low capacity (approximate values: Kt = 5.0 +/- 0.4 nM; Vmax = 272 +/- 10 fmol.min-1) was demonstrated at the blood-tissue interface of the choroid plexus. The clearance of DSIP from the ventricles during ventriculo-cisternal perfusion in the rabbit indicated no significant flux of the intact peptide out of the CSF. The results suggest that DSIP crosses the blood-CSF barrier, while the system lacks the specific mechanisms for removal from the CSF found with most, if not all, amino acids and several peptides."
+  },
+  {
+   "pmid": "6687936",
+   "titel": "Delta-sleep-inducing peptide (DSIP) as a factor facilitating animals' resistance to acute emotional stress",
+   "jahr": "1983",
+   "journal": "Pavlov J Biol Sci",
+   "erstautor": "Sudakov KV",
+   "doi": "10.1007/BF03004904",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Delta-sleep-inducing peptide (DSIP) effects on resistance to acute emotional stress induced by electric stimulation of the ventromedial hypothalamus and skin of immobilized rats have been investigated. On the basis of the pattern of cardiovascular reactions, three groups of rats were distinguished: resistant, adapted, and predisposed to the experimental emotional stress. It is shown that DSIP injections increase animals' resistance to acute emotional stress. DSIP also changes the vascular reactivity to episodic emotiogenic stimulations. It is revealed that, after DSIP application, the absence of vascular reactions to emotiogenic ventromedial hypothalamic and electro-skin stimulations significantly increased."
+  },
+  {
+   "pmid": "25898718",
+   "titel": "[Antioxidative and detoxifying effects of analogues of delta-sleep inducing peptide (DSIP)]",
+   "jahr": "2014",
+   "journal": "Bioorg Khim",
+   "erstautor": "Mikhaleva II",
+   "doi": "10.1134/s1068162014010087",
+   "typ": [
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "16 DSIP analogues with substitutions of 1-2 amino acid residues were synthesized in order to investigate their potential use in medicine. Antioxidative properties of these peptides were studied in vitro and their detoxifying activity was examined in vivo on a model of toxicosis that was induced by the cisplatin cytostatic, which has been widely used in the cancer treatment. Practically all the studied DSIP analogues were shown to exhibit considerable direct antioxidative activity (AOA), and that of the ID-6 analogue was higher than AOA of DSIP and comparable with AOA of vitamin C and β-carotine. This analogue also demonstrated the most pronounced detoxifying effect towards cisplatin action, resulting in a decrease in the animal death from the acute cisplatin toxicity to 17% (in comparison with 50-67% for the control animals) and restoration of a number of cisplatin-sensitive biochemical blood parameters: decrease in the activity of aspartate aminotransferase and alanine aminotransferase and downregulation of the concentration of the final products of nitrogen exchange (creatinine and urea). Thus, the DSIP-relative peptides could be promising agents for the decrease in the toxic effects of cytostatics that are used in oncology."
+  },
+  {
+   "pmid": "2706459",
+   "titel": "Delta-sleep-inducing peptide (DSIP) stimulates the release of immunoreactive Met-enkephalin from rat lower brainstem slices in vitro",
+   "jahr": "1989",
+   "journal": "Brain Res",
+   "erstautor": "Nakamura A",
+   "doi": "10.1016/0006-8993(89)90498-8",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "We studied whether delta-sleep-inducing peptide (DSIP) acted on opioid receptor directly or indirectly. DSIP did not have binding activity to any subtype of opioid receptors. DSIP at doses of 1 pM-1 nM significantly stimulated the release of immunoreactive Met-enkephalin (iME) from superfused slices of the rat lower brainstem. The DSIP-induced release of iME was calcium-dependent. These results show that DSIP acts on opioid receptor indirectly by stimulating the release of iME in producing antinociceptive effects."
+  },
+  {
+   "pmid": "19849801",
+   "titel": "Delta sleep-inducing peptide and glucocorticoid-induced leucine zipper: potential links between circadian mechanisms and obesity?",
+   "jahr": "2009",
+   "journal": "Obes Rev",
+   "erstautor": "Gimble JM",
+   "doi": "10.1111/j.1467-789X.2009.00661.x",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "As the obesity pandemic has accelerated, investigators have begun to explore alternative mechanisms linking circadian biology and sleep to adipose tissue metabolism and obesity. This manuscript reviews recent findings in murine and human models demonstrating the oscillatory expression of the mRNAs encoding the core circadian regulatory proteins in adipose tissue. Comparative transcriptomic analyses of circadian oscillating genes have been used to identify the 'delta sleep-inducing peptide immunoreactor', also known as 'glucocorticoid-induced leucine zipper (GILZ)', as a potential link in this chain. The GILZ gene has been found to differentially regulate stromal stem cell adipogenic and osteogenic differentiation in a reciprocal manner. In adipose and other metabolically active tissues, the circadian oscillation of GILZ expression is subject to entrainment by external stimuli. Together, these observations suggest that GILZ is an attractive candidate for future studies evaluating the role of circadian mechanisms in adipose tissue physiology and pathology."
+  },
+  {
+   "pmid": "3754216",
+   "titel": "Delta sleep-inducing peptide (DSIP) has potent analgesic activity in mice",
+   "jahr": "1986",
+   "journal": "Eur J Pharmacol",
+   "erstautor": "Nakamura A",
+   "doi": "10.1016/0014-2999(86)90407-3",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "41490200",
+   "titel": "Therapeutic Peptides in Orthopaedics: Applications, Challenges, and Future Directions",
+   "jahr": "2026",
+   "journal": "J Am Acad Orthop Surg Glob Res Rev",
+   "erstautor": "Rahman OF",
+   "doi": "10.5435/JAAOSGlobal-D-25-00236",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Therapeutic peptides are emerging as promising adjuncts in the management of orthopaedic injuries, grounded in their ability to modulate molecular signaling networks central to cellular medicine. By acting on key pathways such as PI3K/Akt, mTOR, MAPK, TGF-β, and AMPK, peptides exert influence over tissue regeneration, inflammation resolution, and neuromuscular recovery. Wound-healing peptides such as BPC-157, TB-500, and GHK-Cu promote angiogenesis, integrin-mediated extracellular matrix remodeling, and fibroblast activation, whereas growth hormone secretagogues like ipamorelin, CJC-1295, tesamorelin, sermorelin, and AOD-9604 activate IGF-1 signaling and satellite cell repair. Recovery-enhancing agents such as epithalon, delta sleep-inducing peptide, and pinealon target circadian and mitochondrial regulators, and neuroactive peptides like selank, semax, and dihexa enhance brain-derived neurotrophic factor and HGF/c-Met pathways critical to neuroplasticity. Although preclinical studies are promising, there is a current lack of clinical trials. This review integrates current mechanistic insights with orthopaedic relevance, emphasizing safety, efficacy, and future directions for responsible integration into musculoskeletal care."
+  },
+  {
+   "pmid": "16758612",
+   "titel": "Effect of delta-sleep-inducing peptide on activity of enzymes of biogenic amine metabolism in the brain of Wistar and August rats",
+   "jahr": "2005",
+   "journal": "Bull Exp Biol Med",
+   "erstautor": "Dovedova EL",
+   "doi": "10.1007/s10517-006-0011-9",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Activity of enzymes catalyzing synthesis and degradation of serotonin and dopamine in brain structures of Wistar and August rats was measured biochemically under normal conditions and after short-term exposure to delta-sleep-inducing peptide. The effects of the test peptide manifested in activation of the serotoninergic system and inhibition of the dopaminergic system, particularly in the caudate nucleus. These changes were most pronounced in the brain of Wistar rats."
+  },
+  {
+   "pmid": "530466",
+   "titel": "The delta-sleep inducing peptide (DSIP) increases duration of sleep in rats",
+   "jahr": "1979",
+   "journal": "Neurosci Lett",
+   "erstautor": "Kafi S",
+   "doi": "10.1016/0304-3940(79)90036-3",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "862769",
+   "titel": "The delta sleep inducing peptide (DSIP). Comparative properties of the original and synthetic nonapeptide",
+   "jahr": "1977",
+   "journal": "Experientia",
+   "erstautor": "Monnier M",
+   "doi": "10.1007/BF01922266",
+   "typ": [
+    "Comparative Study",
+    "Journal Article"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "7628639",
+   "titel": "Effects of delta-sleep inducing peptide (DSIP) and some analogues on the activity of monoamine oxidase type A in rat brain under hypoxia stress",
+   "jahr": "1995",
+   "journal": "FEBS Lett",
+   "erstautor": "Khvatova EM",
+   "doi": "10.1016/0014-5793(95)00661-r",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Metabolic effects of delta-sleep inducing peptide (DSIP) under hypoxia stress were investigated in rats subjected to short-term hypoxic conditions (about 0.26 Bar). It was found that DSIP partially restricted stress-induced changes in activity of mitochondrial monoamine oxidase type A (MAO-A) and serotonin level in rat brain. A number of DSIP analogues was tested and among them there were some compounds with enhanced ability to counteract hypoxia induced changes in MAO-A activity and serotonin content in comparison with native neuropeptide."
+  },
+  {
+   "pmid": "2322270",
+   "titel": "Aminopeptidase in human CSF which degrades delta-sleep inducing peptide (DSIP)",
+   "jahr": "1990",
+   "journal": "Biochem Biophys Res Commun",
+   "erstautor": "Nyberg F",
+   "doi": "10.1016/0006-291x(90)90659-b",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "This study describes the purification and characterization of an aminopeptidase from human cerebrospinal fluid capable of degrading delta-sleep-inducing-peptide (DSIP). The enzyme has an apparent molecular weight of approximately 80,000 dalton. It is sensitive towards amastatin, bestatin and EDTA and is optimally active at neutral pH. The recovered enzyme was also found to degrade other neuropeptides, e.g., the enkephalins."
+  },
+  {
+   "pmid": "6145137",
+   "titel": "Delta-sleep-inducing peptide (DSIP): a review",
+   "jahr": "1984",
+   "journal": "Neurosci Biobehav Rev",
+   "erstautor": "Graf MV",
+   "doi": "10.1016/0149-7634(84)90022-8",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Since the turn of the century, it has been postulated that humoral factors induce sleep. Many compounds were proposed as sleep-factors, but only two of the sleep-peptides have been purified to homogeneity and characterized, so far. One of them, DSIP, was shown to be a nonapeptide of MW 849 and to induce mainly delta-sleep in rabbits, rats, mice, and humans, whereas in cats, the effect on REM sleep was more pronounced. A U-shaped activity curve was determined for the dose as well as for the time of infusion. DSIP-like material was found by RIA and immunohistochemistry in brain and by RIA in peripheral organs of the rat as well as in plasma of several mammals. In addition to sleep, the peptide also has been observed to affect electrophysiological activity, neurotransmitter levels in the brain, circadian and locomotor patterns, hormonal levels, psychological performance, and the activity of neuropharmacological drugs including their withdrawal."
+  },
+  {
+   "pmid": "2793237",
+   "titel": "Coexistence of delta sleep-inducing peptide and serotonin in midgut carcinoid tumour cells in vivo and in vitro",
+   "jahr": "1989",
+   "journal": "Int J Cancer",
+   "erstautor": "Ahlman H",
+   "doi": "10.1002/ijc.2910440414",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "By immunocytochemistry, delta sleep-inducing peptide (DSIP) was demonstrated to coexist with serotonin (5-HT) in a majority of midgut carcinoid tumour cells studied in biopsies and long-term cell cultures. Tumour cell colonies were characterized ultrastructurally and by confocal laser microscopy. The cultures produced several DSIP-like peptides chromatographically separated from culture media. DSIP has not yet proved to be a useful tumour marker clinically. Provocation with pentagastrin in patients with midgut carcinoid syndrome resulted in increased peripheral levels of 5HT, but not of DSIP."
+  },
+  {
+   "pmid": "10511986",
+   "titel": "[Regulatory effect of delta sleep-inducing peptide on the activity of antioxidant enzymes in erythrocytes and tissues of rats during cold stress]",
+   "jahr": "1999",
+   "journal": "Ross Fiziol Zh Im I M Sechenova",
+   "erstautor": "Bondarenko TI",
+   "doi": "",
+   "typ": [
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "Antioxidant system's state of erythrocytes and tissues in rats under normal and cold stress conditions was studied. Intraperitoneal injection of exogenic DSIP at the dose of 12 mkg/100 g body weight both, to intact and to cold-exposed animals results in the increase of superoxide dismutase, catalase, glutathione peroxidase, glutathione reductase activities and concentration of glutathione in red blood cells, liver and brain."
+  },
+  {
+   "pmid": "22866315",
+   "titel": "Effect of delta sleep-inducing peptide on oxidative modification of proteins in rat tissues and blood during physiological aging",
+   "jahr": "2012",
+   "journal": "Bull Exp Biol Med",
+   "erstautor": "Bondarenko TI",
+   "doi": "10.1007/s10517-012-1719-3",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Accumulation of oxidized proteins (evaluated by the levels of carbonyl and SH groups) in tissues of 2-24-month-old rats (spleen>myocardium>testicles>liver>skeletal muscles) has been demonstrated. Exogenous delta sleep-inducing peptide injected subcutaneously to rats of different age in a dose of 100 μg/kg by monthly 5-day courses protected proteins of the studied tissues from oxidation; its effect was tissue-specific. Delta sleep-inducing peptide exhibited a hypoglycemic effect: it prevented nonenzymatic glycosylation of hemoglobin and reduced the level of defective protein molecules during aging."
+  },
+  {
+   "pmid": "19102071",
+   "titel": "[Endogenous anticonvulsants: neuropeptide Y and delta sleep inducing peptide]",
+   "jahr": "2008",
+   "journal": "Med Pregl",
+   "erstautor": "Stanojlović O",
+   "doi": "10.2298/mpns0806252s",
+   "typ": [
+    "English Abstract",
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "INTRODUCTION: The same neuropeptides regulate both cicle sleep-wake and excitability of the brain. CONCLUSION: Literature data together with our results support the idea that delta sleep--inducing peptide and neuropeptide Y could represent one of the factors of the endogenous stabilization of brain excitability and potent antiepileptic in generalized metaphit-induced audiogenic convulsive activity. The same holds true for DSIP analogues."
+  },
+  {
+   "pmid": "3758119",
+   "titel": "DSIP in sleep disturbances",
+   "jahr": "1986",
+   "journal": "Eur Neurol",
+   "erstautor": "Schneider-Helmert D",
+   "doi": "10.1159/000116097",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The effects of DSIP on night sleep and on waking functions are demonstrated in double-blind studies in insomniacs, presenting influences of single dose treatments as well as of repeated injections. Moreover, a single case study describes the efficiency of DSIP on narcolepsy."
+  },
+  {
+   "pmid": "3582201",
+   "titel": "[The use of DSIP (delta sleep-inducing peptide) in the correction of phase-shifted insomnia]",
+   "jahr": "1987",
+   "journal": "Dtsch Med Wochenschr",
+   "erstautor": "Schneider-Helmert D",
+   "doi": "10.1055/s-2008-1068167",
+   "typ": [
+    "Case Reports",
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "A 47-year old woman patient suffering from chronic delayed sleep phase insomnia and low-dose benzodiazepine dependence was treated as an inpatient under close polygraphic control using DSIP (delta sleep inducing peptide) on an intensive-care basis for one week. This treatment resulted in advancing the main sleep phase by 5 hours, in an abrupt and complete withdrawal of flunitrazepam and restitution of a normal sleep profile. Actographic control during an after treatment week confirmed that the success was maintained."
+  },
+  {
+   "pmid": "1382246",
+   "titel": "Delta sleep-inducing peptide as a factor increasing the content of substance P in the hypothalamus and the resistance of rats to emotional stress",
+   "jahr": "1992",
+   "journal": "Neurosci Behav Physiol",
+   "erstautor": "Salieva RM",
+   "doi": "10.1007/BF01182865",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The influence of delta sleep-inducing peptide (DSIP, 60 and 120 nmole/kg, intraperitoneally) on the content of substance P (SP) in the hypothalamus of rats was studied in male rats of the August line. It was demonstrated that the administration of DSIP significantly increases the average content of SP in the hypothalamus, as well as its content in animals resistant to and predisposed to emotional stress. A daily one-time administration of DSIP before placing the rats in conditions of stress increases the content of SP in the hypothalamus which was decreased during emotional stress. The preliminary one-time administration of DSIP to animals subjected to a stressor influence also increases the SP content in the hypothalamus. It was established that a one-time administration of DSIP in a dose of 60 nmole/kg sharply decreases the classical manifestations of stress such as the hypertrophy of the adrenals and involution of the thymus."
+  },
+  {
+   "pmid": "12705123",
+   "titel": "The effect of delta-sleep-inducing peptide on the lifespan and incidence of spontaneous tumors in mice",
+   "jahr": "2003",
+   "journal": "Dokl Biol Sci",
+   "erstautor": "Popovich IG",
+   "doi": "10.1023/a:1022487624627",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "25257425",
+   "titel": "Effect of delta sleep-inducing peptide on the expression of antioxidant enzyme genes in the brain and blood of rats during physiological aging",
+   "jahr": "2014",
+   "journal": "Bull Exp Biol Med",
+   "erstautor": "Kutilin DS",
+   "doi": "10.1007/s10517-014-2628-4",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Subcutaneous injections of exogenous delta sleep-inducing peptide in a dose of 100 μg/kg (monthly, 5-day courses) to rats of various age groups (2-24 months) were followed by an increase in the expression of genes for SOD 1 (Sod1) and glutathione peroxidase 1 (Gpx1) in the brain and nucleated blood cells. The expression of these genes was shown to decrease during physiological aging of the body."
+  },
+  {
+   "pmid": "16539679",
+   "titel": "Delta sleep-inducing peptide (DSIP): a still unresolved riddle",
+   "jahr": "2006",
+   "journal": "J Neurochem",
+   "erstautor": "Kovalzon VM",
+   "doi": "10.1111/j.1471-4159.2006.03693.x",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "Delta sleep-inducing peptide (DSIP) was isolated from rabbit cerebral venous blood by Schoenenberger-Monnier group from Basel in 1977 and initially regarded as a candidate sleep-promoting factor. However, the link between DSIP and sleep has never been further characterized, in part because of the lack of isolation of the DSIP gene, protein and possible related receptor. Thus the hypothesis regarding DSIP as a sleep factor is extremely poorly documented and still weak. Although DSIP itself presented a focus of study for a number of researchers, its natural occurrence and biological activity still remains obscure. DSIP structure is different from any other known representative of the various peptide families. In this mini-review we hypothesize the existence of a DSIP-like peptide(s) that is responsible (at least partly) for DSIP-like immunoreactivity and DSIP biological activity. This assumption is based on: (i) a highly specific distribution of DSIP-like immunoreactivity in the neurosecretory hypothalamic nuclei of various vertebrate species that are not particularly relevant for sleep regulation, as revealed by the histochemical studies of the Geneva group (Charnay et al.); (ii) a large spectrum of DSIP biological activity revealed by biochemical and physiological studies in vitro; (iii) significant slow-wave sleep (SWS) promoting activity of certain artificial DSIP structural analogues (but not DSIP itself!) in rabbits and rats revealed by our early studies; and (iv) significant SWS-promoting activity of a naturally occurring dermorphin-decapeptide that is structurally similar to DSIP (in five of the nine positions) and the sleep-suppressing effect of its optical isomer, as revealed in rabbits. Potential future studies are outlined, including natural synthesis and release of this DSIP-like peptide and its role in neuroendocrine regulation."
+  },
+  {
+   "pmid": "2562040",
+   "titel": "Delta-sleep inducing peptide (DSIP) and its fragments as the modulators of neural transmission in the central nervous system",
+   "jahr": "1989",
+   "journal": "Acta Physiol Pol",
+   "erstautor": "Kosiński S",
+   "doi": "",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The present study is a continuation of our previous experiments on DSIP activity which have revealed that nonapeptide DSIP inhibits hippocampal electrical activity of the 4-7 c/s frequency band. The aim of the present study was to find which of the known DSIP fragments is responsible for its activity, i.e. to find the active site of the molecule. The experiments were carried out with the entire DSIP molecule and its three different fragments. The method of threshold continuous arousal pattern (TCAP) monitoring was used as the indicator of DSIP activity. It was found that the entire DSIP molecule increased TCAP, while its 1-5 fragment decreased it 1-4 and 5-9 fragments had no noticeable effect."
+  },
+  {
+   "pmid": "2859636",
+   "titel": "Delta-sleep inducing peptide in cerebrospinal fluid from schizophrenics, depressives and healthy volunteers",
+   "jahr": "1985",
+   "journal": "Prog Neuropsychopharmacol Biol Psychiatry",
+   "erstautor": "Lindström LH",
+   "doi": "10.1016/0278-5846(85)90182-4",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "CSF levels of DSIP was measured in healthy volunteers and in hospitalized patients with schizophrenia or major depressive disorders. Both patient groups had significantly lower CSF levels of DSIP than the healthy volunteers. There was a tendency for lower CSF levels of DSIP in female compared to male schizophrenics. Neuroleptic treatment did not significantly affect those levels. The levels of DSIP in CSF tended to be inversely correlated to the sleep disturbancy scores in the depressed patients."
+  },
+  {
+   "pmid": "18546823",
+   "titel": "[Effect of delta-sleep inducing peptide on free-radical processes in the brain and liver of mice during various light regimens]",
+   "jahr": "2008",
+   "journal": "Adv Gerontol",
+   "erstautor": "Voĭtenkov VB",
+   "doi": "",
+   "typ": [
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "Female SHR mice received 5-days long course of delta-sleep inducing peptide preparation \"Deltaran\" subcutaneously in daily dose of 5 mkg/mice per 24h under standard light regime (12h light: 12 h darkness) or constant illumination. Free-radical level and antioxidative activity in brain and liver was studied by standard methods. Constant illumination increased chemiluminescence in brain by 20 % and decreased liver glutationperoxidase activity by 60 %, as compared to the mice kept in standard light regime. In conditions of standard light regime deltaran increased levels of general antioxidative activity in brain by 9%, liver superoxide dismutase by 17% and lowered levels of glutationperoxidase of liver by 82%. In conditions of constant illumination Deltaran lowered levels of chemiluminescence in liver by 23%, raised the general antioxidative activity in liver by 19% and lowered levels of glutationperoxidase of liver by 69%. It was supposed that deltaran has an antioxidant effect under constant light regime."
+  },
+  {
+   "pmid": "3550726",
+   "titel": "Delta-sleep-inducing peptide (DSIP): an update",
+   "jahr": "1986",
+   "journal": "Peptides",
+   "erstautor": "Graf MV",
+   "doi": "10.1016/0196-9781(86)90148-8",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Review"
+   ],
+   "abstract": "The isolation and characterization of delta-sleep-inducing peptide (DSIP) achieved from 1963 to 1977 were reviewed in 1984. The first reports describing sleep as well as extra-sleep effects of DSIP also were included in that work. Only two years later, much additional literature concerning DSIP has accumulated. Besides further sleep-inducing and/or -supporting effects of DSIP in animals, considerable work has been carried out to evaluate the potential use of the peptide for therapeutic purposes such as treatment of insomnia, pain, and withdrawal. Immunohistochemical as well as radioimmunochemical studies provided further insights into the natural occurrence of the nonpeptide and the distribution of DSIP-like material in the body, suggesting possible relations of the peptide to certain diseases. Various physiological functions of DSIP and a possible mechanism of action involving the modulation of adrenergic transmission remain to be established."
+  },
+  {
+   "pmid": "19605190",
+   "titel": "Effect of the delta sleep-inducing peptide (DSIP) on the sleep-wakefulness cycle of cats",
+   "jahr": "1978",
+   "journal": "Neurosci Lett",
+   "erstautor": "Polc P",
+   "doi": "10.1016/0304-3940(78)90044-7",
+   "typ": [
+    "Letter"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "20405733",
+   "titel": "[Effect of delta-sleep inducing peptide preparation Deltaran on longevity, physiological functions, and carcinogenesis in mice]",
+   "jahr": "2009",
+   "journal": "Adv Gerontol",
+   "erstautor": "Voĭtenkov VB",
+   "doi": "",
+   "typ": [
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "Female SHR mice received 5-days long monthly courses of delta-sleep inducing peptide (DSIP) preparation \"Deltaran\" subcutaneously in dose 5 mkg/kg during all their lives. It was demonstrated, that last 10% (most aged) of mice which received Deltaran lived for 16% longer than the controls. They had significantly higher amount of vertical activity in the \"open field\" test, than the controls, starting from time when they were 6 months old and until their natural death. Mice of Deltaran group spent 73% more time in the open arms of elevated plus maze, and 9 times more often explored the extremities of this maze, than controls. Also Deltaran slowed the spontaneous carcinogenesis parameters. It's assumed that DSIP preparation \"Deltaran\" have geroprotective, anxiolytic and antitumor activity."
+  },
+  {
+   "pmid": "25805003",
+   "titel": "Peptides and the blood-brain barrier",
+   "jahr": "2015",
+   "journal": "Peptides",
+   "erstautor": "Banks WA",
+   "doi": "10.1016/j.peptides.2015.03.010",
+   "typ": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Review"
+   ],
+   "abstract": "The demonstration that peptides and regulatory proteins can cross the blood-brain barrier (BBB) is one of the major contributions of Dr. Abba J. Kastin. He was the first to propose that peptides could cross the BBB, the first to show that an endogenous peptide did so, and the first to describe a saturable transport system at the BBB for peptides. His work shows that in crossing the BBB, peptides and regulatory proteins act as informational molecules, informing the brain of peripheral events. Brain-to-blood passage helps to control levels of peptides with the brain and can deliver information in the brain-to-blood direction. He showed that the transporters for peptides and proteins are not static, but respond to developmental and physiological changes and are affected by disease states. As such, the BBB is adaptive to the needs of the CNS, but when that adaption goes awry, the BBB can be a cause of disease. The mechanisms by which peptides and proteins cross the BBB offer opportunities for drug delivery of these substances or their analogs to the brain in the treatment of diseases of the central nervous system."
+  },
+  {
+   "pmid": "8728103",
+   "titel": "Cyclo(-GLY-DSIP), A cyclic analog of the delta-sleep-inducing peptide: computer simulation of spatial structure involving NMR data",
+   "jahr": "1996",
+   "journal": "Biochem Mol Biol Int",
+   "erstautor": "Nekrasov AN",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The spatial structure of cyclo(-Gly-DSIP-), a physiologically active analog of the delta sleep-inducing peptide, was determined by computer modelling using 1H NMR data. An interesting feature of the spatial structure in DMSO was detected. One side of almost planar resulting conformation is formed by the side chains of the Asp5, Ser7 and Glu9 residues, the side chain of the Trp1 residue forming the other part of the outer surface. This feature may be associated with the functional properties of the peptide."
+  },
+  {
+   "pmid": "2532045",
+   "titel": "[Effects of beta endorphin and delta-sleep inducing peptide on resistance to emotional stress]",
+   "jahr": "1989",
+   "journal": "Biull Eksp Biol Med",
+   "erstautor": "Salieva RM",
+   "doi": "",
+   "typ": [
+    "Comparative Study",
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "Enzyme immunoassay was used to study the contents of beta-endorphin and delta-sleep inducing peptide (DSIP) in blood and hypothalamus in rats of Wistar and August lines under acute emotional stress. The stress-resistance of the animals was determined by using preliminary behavior tests. The rats were divided into two groups and predisposed to acute emotional stress. It was found that the contents of these peptides in Wistar-rats, which are more resistant to emotional stress, were higher compared with the August-rats, which are more predisposed to emotional stress. It was shown that the contents of beta-endorphin and DSIP in Wistar-rats is higher than in predisposed Wistar-rats."
+  },
+  {
+   "pmid": "606344",
+   "titel": "Degradation of delta sleep inducing peptide (DSIP) and its analogs by brain extracts",
+   "jahr": "1977",
+   "journal": "Brain Res Bull",
+   "erstautor": "Marks N",
+   "doi": "10.1016/0361-9230(77)90058-2",
+   "typ": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "19605021",
+   "titel": "Delta sleep-inducing peptide (DSIP): EEG and motor activity in rabbits following intravenous administration",
+   "jahr": "1977",
+   "journal": "Neurosci Lett",
+   "erstautor": "Monnier M",
+   "doi": "10.1016/0304-3940(77)90057-x",
+   "typ": [
+    "Letter"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "1667974",
+   "titel": "Elevated plasma levels of opioid peptides and delta sleep-inducing peptide but not of corticotropin-releasing hormone in patients receiving chronic hemodialysis",
+   "jahr": "1991",
+   "journal": "Blood Purif",
+   "erstautor": "Hegbrant J",
+   "doi": "10.1159/000170017",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The fasting plasma levels of corticotropin-releasing hormone (CRH), delta sleep-inducing peptide (DSIP), beta-endorphin (beta-END), methionine-enkephalin (m-ENK), beta-lipotropin (beta-LPH), and alpha-melanocyte-stimulating hormone (alpha-MSH) were measured by radioimmunoassay in 22 stable patients with chronic renal failure on regular hemodialysis treatment and compared with those of 10 healthy controls. The plasma concentrations of DSIP, beta-END, m-ENK, beta-LPH, and alpha-MSH were increased. The plasma level of CRH was not different from that of the controls. The elevated plasma levels of endogenous opioid peptides and DSIP may contribute to the uremic syndrome, although this must be further elucidated."
+  },
+  {
+   "pmid": "15188760",
+   "titel": "[Effect of delta-sleep-inducing peptide on trypsin and pronase E activities in a model experiment]",
+   "jahr": "2004",
+   "journal": "Eksp Klin Farmakol",
+   "erstautor": "Bondarenko TI",
+   "doi": "",
+   "typ": [
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "A delta-sleep-inducing peptide in various concentrations inhibits the pharmacological activity of trypsin and pronase E under experimental conditions."
+  },
+  {
+   "pmid": "2268724",
+   "titel": "[ Anticataleptic effect of delta sleep-inducing peptide and its action on brain monoamine oxidase in rats genetically predisposed to catalepsy]",
+   "jahr": "1990",
+   "journal": "Biull Eksp Biol Med",
+   "erstautor": "Voĭtenko NN",
+   "doi": "",
+   "typ": [
+    "Comparative Study",
+    "English Abstract",
+    "Journal Article"
+   ],
+   "abstract": "Rats with genetic susceptibility to catalepsy (GC strain) were compared with Wistar rats (W). After an intraperitoneal administration of 120 micrograms/100 g delta sleep-inducing peptide (DSIP) in GC rats the duration of cataleptic freezing was shortened (13.8 +/- 9.5 sec against 27.2 +/- 7.5 sec in control). MAO-B activity decreased due to DSIP administration both in GC and W rats. It is hypothesized that the DSIP effect MAO-B in GC rats may correct the lost MAO-A function in deamination of dopamine, a common MAO-A and MAO-B substrate, and the dopaminergic neurotransmission in catalepsy."
+  }
+ ],
+ "ctgov": [
+  {
+   "nct": "NCT05251207",
+   "titel": "Plasma Trimethylamine N-oxide Elevation Induced by L-carnitine Supplementation and Insulin Resistance",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 40,
+   "start": "2022-02-07",
+   "ende": "2026-08-13",
+   "erkrankungen": [
+    "Insulin Resistance"
+   ],
+   "sponsor": "Poznan University of Physical Education",
+   "ergebnisse": false
+  }
+ ],
+ "gruppe": "D_gehirn_langlebigkeit"
+}

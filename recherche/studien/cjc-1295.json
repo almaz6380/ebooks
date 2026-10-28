@@ -1,0 +1,509 @@
+{
+ "name": "CJC-1295",
+ "status": "nicht_zugelassen",
+ "suchbegriff_pubmed": "CJC-1295[tiab] OR CJC 1295[tiab]",
+ "suchbegriff_ctgov": "CJC-1295",
+ "humanstudien_alle": [
+  {
+   "pmid": "17018654",
+   "titel": "Pulsatile secretion of growth hormone (GH) persists during continuous stimulation by CJC-1295, a long-acting GH-releasing hormone analog",
+   "jahr": "2006",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Ionescu M",
+   "doi": "10.1210/jc.2006-1702",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "16352683",
+   "titel": "Prolonged stimulation of growth hormone (GH) and insulin-like growth factor I secretion by CJC-1295, a long-acting analog of GH-releasing hormone, in healthy adults",
+   "jahr": "2006",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Teichman SL",
+   "doi": "10.1210/jc.2005-1536",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  }
+ ],
+ "humanstudien_detail": [
+  {
+   "pmid": "16352683",
+   "titel": "Prolonged stimulation of growth hormone (GH) and insulin-like growth factor I secretion by CJC-1295, a long-acting analog of GH-releasing hormone, in healthy adults",
+   "jahr": "2006",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Teichman SL",
+   "doi": "10.1210/jc.2005-1536",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "CONTEXT: Therapeutic use of GHRH to enhance GH secretion is limited by its short duration of action. OBJECTIVE: The objective of this study was to examine the pharmacokinetic profile, pharmacodynamic effects, and safety of CJC-1295, a long-acting GHRH analog. DESIGN: The study design was two randomized, placebo-controlled, double-blind, ascending dose trials with durations of 28 and 49 d. SETTING: The study was performed at two investigational sites. PARTICIPANTS: Healthy subjects, ages 21-61 yr, were studied. INTERVENTIONS: CJC-1295 or placebo was administered sc in one of four ascending single doses in the first study and in two or three weekly or biweekly doses in the second study. MAIN OUTCOME MEASURES: The main outcome measures were peak concentrations and area under the curve of GH and IGF-I; standard pharmacokinetic parameters were used for CJC-1295. RESULTS: After a single injection of CJC-1295, there were dose-dependent increases in mean plasma GH concentrations by 2- to 10-fold for 6 d or more and in mean plasma IGF-I concentrations by 1.5- to 3-fold for 9-11 d. The estimated half-life of CJC-1295 was 5.8-8.1 d. After multiple CJC-1295 doses, mean IGF-I levels remained above baseline for up to 28 d. No serious adverse reactions were reported. CONCLUSIONS: Subcutaneous administration of CJC-1295 resulted in sustained, dose-dependent increases in GH and IGF-I levels in healthy adults and was safe and relatively well tolerated, particularly at doses of 30 or 60 microg/kg. There was evidence of a cumulative effect after multiple doses. These data support the potential utility of CJC-1295 as a therapeutic agent."
+  },
+  {
+   "pmid": "17018654",
+   "titel": "Pulsatile secretion of growth hormone (GH) persists during continuous stimulation by CJC-1295, a long-acting GH-releasing hormone analog",
+   "jahr": "2006",
+   "journal": "J Clin Endocrinol Metab",
+   "erstautor": "Ionescu M",
+   "doi": "10.1210/jc.2006-1702",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "CONTEXT: Pulsatile GH secretion is considered important for many of the hormone's physiological effects. Short-term GHRH infusions enhance GH pulsatility and increase IGF-I, but the short GHRH half-life limits its therapeutic use. A synthetic GHRH analog (CJC-1295) that binds permanently to endogenous albumin after injection (half-life = 8 d) stimulates GH and IGF-I secretion in several animal species and in normal human subjects and enhances growth in rats. OBJECTIVE: Our objective was to assess GH pulsatility after a single injection of CJC-1295 and determine which GH secretion parameters correlated to the increase in IGF-I production. METHODS: GH pulsatility was assessed by 20-min blood sampling during an overnight 12-h period in healthy 20- to 40-yr-old men before and 1 wk after injection of either 60 or 90 microg/kg CJC-1295. RESULTS: GH secretion was increased after CJC-1295 administration with preserved pulsatility. The frequency and magnitude of GH secretory pulses were unaltered. However, basal (trough) GH levels were markedly increased (7.5-fold; P < 0.0001) and contributed to an overall increase in GH secretion (mean GH levels, 46%; P < 0.01) and IGF-I levels (45%; P < 0.001). No significant differences were observed between the responses to the two drug doses. The IGF-I increases did not correlate with any parameters of GH secretion. CONCLUSIONS: CJC-1295 increased trough and mean GH secretion and IGF-I production with preserved GH pulsatility. The marked enhancement of trough GH levels by continuous GHRH stimulation implicates the importance of this effect on increasing IGF-I. Long-acting GHRH preparations may have clinical utility in patients with intact pituitary GH secretory capability."
+  }
+ ],
+ "metaanalysen": [],
+ "praeklinik": [
+  {
+   "pmid": "41490200",
+   "titel": "Therapeutic Peptides in Orthopaedics: Applications, Challenges, and Future Directions",
+   "jahr": "2026",
+   "journal": "J Am Acad Orthop Surg Glob Res Rev",
+   "erstautor": "Rahman OF",
+   "doi": "10.5435/JAAOSGlobal-D-25-00236",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Therapeutic peptides are emerging as promising adjuncts in the management of orthopaedic injuries, grounded in their ability to modulate molecular signaling networks central to cellular medicine. By acting on key pathways such as PI3K/Akt, mTOR, MAPK, TGF-β, and AMPK, peptides exert influence over tissue regeneration, inflammation resolution, and neuromuscular recovery. Wound-healing peptides such as BPC-157, TB-500, and GHK-Cu promote angiogenesis, integrin-mediated extracellular matrix remodeling, and fibroblast activation, whereas growth hormone secretagogues like ipamorelin, CJC-1295, tesamorelin, sermorelin, and AOD-9604 activate IGF-1 signaling and satellite cell repair. Recovery-enhancing agents such as epithalon, delta sleep-inducing peptide, and pinealon target circadian and mitochondrial regulators, and neuroactive peptides like selank, semax, and dihexa enhance brain-derived neurotrophic factor and HGF/c-Met pathways critical to neuroplasticity. Although preclinical studies are promising, there is a current lack of clinical trials. This review integrates current mechanistic insights with orthopaedic relevance, emphasizing safety, efficacy, and future directions for responsible integration into musculoskeletal care."
+  },
+  {
+   "pmid": "41476424",
+   "titel": "Injectable Peptide Therapy: A Primer for Orthopaedic and Sports Medicine Physicians",
+   "jahr": "2026",
+   "journal": "Am J Sports Med",
+   "erstautor": "Mayfield CK",
+   "doi": "10.1177/03635465251357593",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "BACKGROUND: Therapeutic peptides are short-chain amino acids that regulate cellular functions and facilitate biochemical processes. In recent years, there has been significant growth in the global market for therapeutic peptides and thus its popularity among patients. Given the increase in the development of peptides and increased marketing to patients for orthopaedic injuries, it is critical for orthopaedic surgeons to understand the current evidence behind these therapeutic peptides. PURPOSE: To evaluate the current evidence and applications of injectable peptide therapy, focusing on its potential in regenerative medicine and sports performance, to help orthopaedic providers better understand the current state of different therapeutic peptide approaches. STUDY DESIGN: Narrative review. METHODS: A comprehensive literature search was conducted using PubMed to identify biochemical and clinical studies on the most popular types of injectable peptide therapy. Key peptides evaluated included BPC-157, TB-4, TB-500, CJC-1295 + ipamorelin, tesamorelin, and GHK-Cu. RESULTS: BPC-157 demonstrated potential benefits in tendon and muscle repair, but these findings are largely unvalidated in human trials. A single human case series reported improvements in pain after intra-articular knee injections of BPC-157, although significant methodological flaws and a lack of controls limit its applicability and reliability. TB-4 and its derivative TB-500 promoted angiogenesis and tissue repair in preclinical models, but human orthopaedic data are lacking, and both remain banned substances in sports. CJC-1295 combined with ipamorelin showed significantly improved maximum tetanic tension in murine models with glucocorticoid-induced muscle loss, but these findings are limited to animal studies. Tesamorelin, approved for treating HIV-associated lipodystrophy, has no supporting orthopaedic evidence. GHK-Cu showed promise in wound healing and anti-inflammatory effects, but no clinical data support its use for musculoskeletal conditions. CONCLUSION: While peptide therapy may possess significant therapeutic and regenerative potential, it is critical that orthopaedic and sports medicine providers understand the current lack of evidence to support the clinical use of these peptides. Importantly, information regarding the indications, dosing, frequency, and duration of treatment remains unknown. Despite the popularity of these peptides in mainstream media and among patients, significant research regarding the safety and efficacy of these therapeutic methods is required before definitive recommendations can be made to patients."
+  },
+  {
+   "pmid": "41966639",
+   "titel": "Safety and Efficacy of Approved and Unapproved Peptide Therapies for Musculoskeletal Injuries and Athletic Performance",
+   "jahr": "2026",
+   "journal": "Sports Med",
+   "erstautor": "Mendias CL",
+   "doi": "10.1007/s40279-026-02437-0",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Peptides are short chains of amino acids with a unique pharmacological niche between small-molecule drugs and large proteins. Their use in sports medicine is rapidly expanding, driven by patient demand for accelerated injury recovery and performance enhancement. While numerous peptide drugs have undergone a rigorous approval process that evaluates both safety and efficacy, a parallel \"gray market\" of unapproved compounds has emerged, operating largely outside of regulatory oversight. Our objective is to present the pharmacological mechanisms, safety profiles, and regulatory status of prominent approved and unapproved peptides marketed direct to patients, including AOD-9604 (anti-obesity drug 9604), BPC-157 (body protection compound 157), CJC-1295, FS-344 (follistatin-344), GHK-Cu (glycyl-L-histidyl-L-lysine copper), ipamorelin, MOTS-C (mitochondrial ORF of the 12S rRNA type-c), sermorelin, SS-31 (elamipretide), tesamorelin (Egrifta), Tβ4 (thymosin beta-4), and TB-500 (thymosin beta-4 fragment). Many unapproved peptides demonstrate favorable tissue repair and metabolic outcomes in animal models, but rigorous human safety data are scarce, and there is potential for serious harm to patients. This narrative review focuses on the utilization of peptides in sports medicine, and alternative treatments that may be considered. We provide a framework to navigate patient discussions about peptides to better facilitate evidence-based practices for musculoskeletal healing and athletic performance. We also discuss the placebo effect as a mediator of peptide efficacy, and how social media amplifies this effect."
+  },
+  {
+   "pmid": "27710891",
+   "titel": "The study of doping market: How to produce intelligence from Internet forums",
+   "jahr": "2016",
+   "journal": "Forensic Sci Int",
+   "erstautor": "Pineau T",
+   "doi": "10.1016/j.forsciint.2016.09.017",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Despite the predominant role played by Internet in the distribution of doping substances, little is currently known about the online offer of doping products. Therefore, the study focuses on the detection of doping substances and suppliers discussed in Internet forums. It aims at having a comprehensive understanding of products and sellers to lead an operational monitoring of the online doping market. Thirteen community forums on the Internet were investigated and one million topics were extracted with source code scrappers. Then, a semantic analysis was conducted with a semi-automatic process to classify the relevant words according to doping matters. Additionally, the ranking of doping products, active substances and suppliers in regards to the number of contributors to the forums were established and analyzed over time. Finally, promotion methods of suppliers were evaluated. The results show that anabolic androgenic steroids, used to enhance body image and performance, are the most discussed type of products. A temporal analysis illustrates the stability of the most popular products as well as the emergence of new products such as peptides (e.g. CJC-1295). 327 suppliers were detected, mostly with dedicated websites or direct sales by e-mail as selling methods. Globally, the implemented methodology shows its ability to detect products and suppliers as well as to follow their temporal trends. The intelligence will serve the definition of online monitoring strategies (e.g. the selection of appropriate keywords). Additionally, it also allows the adjustment of customs inspection strategies and anti-doping analysis by monitoring the popular and emerging substances."
+  },
+  {
+   "pmid": "21871962",
+   "titel": "Immunoaffinity purification of peptide hormones prior to liquid chromatography-mass spectrometry in doping controls",
+   "jahr": "2012",
+   "journal": "Methods",
+   "erstautor": "Thomas A",
+   "doi": "10.1016/j.ymeth.2011.08.009",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "For most peptide hormones prohibited in elite sports the concentrations in plasma or urine are very low (pg/mL). Accordingly, hyphenated purification and enrichment steps prior to mass spectrometric detection are required to obtain sufficient doping control assays. Immunoaffinity purification in combination with nano-scale liquid chromatography coupled to high resolution/high accuracy mass spectrometry was found to have the potential of providing the necessary sensitivity and unambiguous specificity to produce reliable results. With the presented methodology 12 prohibited peptides (porcine insulin, Novolog, Apidra, Lantus DesB30-32 metabolite, Humalog and human insulin, Synacthen (synthetic ACTH analogue), luteinizing hormone-releasing hormone (LH-RH), growth hormone releasing hormone (GH-RH(1-29)) and CJC-1295 (GH-RH analogue), LongR(3)-IGF-1 and IFG-1) were simultaneously purified from plasma/serum or urine. With limits of detection for each target compound ranging in the low pg/mL level (urine), the method enables the determination of urinary peptides at physiologically relevant concentrations. For each class of peptides an appropriate antibody and a respective internal standard was implemented ensuring robust analysis conditions. Due to the fast and simple sample preparation procedure (∼25 samples per day) and the fact that all materials are commercial available, the implementation of the methodology to laboratories from other analytical fields (forensics, pharmacokinetic sciences, etc.) is enabled."
+  },
+  {
+   "pmid": "37806509",
+   "titel": "Cationic exchange SPE combined with triple quadrupole UHPLC-MS/MS for detection of GHRHs in urine samples",
+   "jahr": "2023",
+   "journal": "Anal Biochem",
+   "erstautor": "Cristea CD",
+   "doi": "10.1016/j.ab.2023.115336",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The use of growth hormone-releasing hormones (GHRHs) is prohibited in sports according to the regulations of the World Anti-Doping Agency (WADA). Considering the complexity of urine samples and the low concentrations at which these analytes should be detected, analyzing GHRHs is a challenging task. In most of the studies, GHRHs are analyzed using UHPLC-HRMS with an orbitrap. The present developed and validated method for some GHRHs (tesamorelin, CJC-1295, sermorelin (GRF 1-29), sermorelin (3-29)-NH2, somatorelin) is based on the triple quadrupole UHPLC/MS-MS method with solid phase extraction (SPE) with weak cation exchange and is able to detect concentrations as low as 0.2 ng/mL (LOD), a limit of quantification (LOQ) at 0.6 ng/mL, and linearity across the range of 0.1 ng/mL to 1.2 ng/mL. The present method developed by our doping control laboratory was validated according to WADA technical documents for selectivity, limit of detection (LOD), carryover, reliability of detection, stability and recovery. The results show that the method has adequate recoveries and sensitivity, hence, it can be employed for routine screening in anti-doping laboratories."
+  },
+  {
+   "pmid": "42578445",
+   "titel": "Peptide Supplements and Their Therapeutic Applications in Sports Medicine",
+   "jahr": "2026",
+   "journal": "Am J Sports Med",
+   "erstautor": "Tewari K",
+   "doi": "10.1177/03635465261464420",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: The peptide supplement market has experienced rapid growth due to marketing claims of enhanced performance and accelerated recovery from musculoskeletal injury. These peptides are increasingly popular with patients and athletes and are often perceived as low risk, despite the absence of efficacy or safety data for many emerging peptides. PURPOSE: To summarize existing peer-reviewed data on 6 emerging peptides (BPC-157, thymosin beta-4 or TB-500, CJC-1295, MK-677, ipamorelin, and GHK-Cu [copper peptide]) for musculoskeletal recovery and enhancement in animal and human models. STUDY DESIGN: Scoping review. METHODS: Three independent reviewers searched the PubMed database using permutations of peptide search terms (BPC-157, TB-500, CJC-1295, MK-677 [ibutamoren], ipamorelin, and GHK-Cu) combined with musculoskeletal tissue search terms (bone, fracture, muscle, tendon, ligament, meniscus, and cartilage) following PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines. Papers were independently screened by 2 reviewers, with a third serving as a tiebreaker. Papers examining these peptides for musculoskeletal treatment, tissue recovery, or performance in animal or human models were included. RESULTS: Overall, 67% of identified publications utilized preclinical animal models. In animal models, most commonly rats, each compound demonstrated unique mechanisms with promising but variable effects on tendon, muscle, bone, and ligament healing. Human clinical studies were limited to a handful of investigations, most lacking robust controls or rigorous study designs. Human data were heterogeneous and revealed modest improvements at best for metabolic bone health and degenerative knee pain. Some peptides such as MK-677 were associated with significant risks including congestive heart failure, and significant heterogeneity existed in dosing and route of administration. CONCLUSION: Despite promising findings in animal studies, the claimed benefits of emerging peptide supplements for musculoskeletal recovery and performance remain unsubstantiated by current human trials. Documented risks include cardiovascular complications and metabolic dysfunction such as insulin resistance. Because of the lack of robust efficacy and safety data, peptide supplements should not currently be recommended as a replacement or adjunct for existing orthopaedic standard of care."
+  },
+  {
+   "pmid": "41880199",
+   "titel": "A new era of doping? Use of peptide and peptide-analog drugs in recreational and professional sport and bodybuilding: a critical review",
+   "jahr": "2026",
+   "journal": "J Sports Med Phys Fitness",
+   "erstautor": "Coutinho LFD",
+   "doi": "10.23736/S0022-4707.26.17773-1",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "The pursuit of pharmacological enhancement in sport has evolved from the widespread use of anabolic-androgenic steroids (AAS) to novel agents such as peptides and peptide analogues. Marketed as more selective and ostensibly safer alternatives, peptides-including growth hormone secretagogues (e.g., Ipamorelin), growth hormone-releasing hormone analogues (e.g., CJC-1295, Sermorelin), and synthetic fragments (e.g., Frag 176-191, KPV)-are promoted for muscle growth, fat metabolism, recovery, and anti-inflammatory effects. Their pharmacological profiles, including enhanced stability and receptor selectivity, have made them attractive in both medical research and bodybuilding communities. Despite their growing popularity, the clinical evidence supporting peptide use in sport is limited. Most published studies examine therapeutic applications under controlled dosing regimens, not the supraphysiological or combined protocols common in bodybuilding. Emerging data highlight potential risks: cardiovascular strain, insulin resistance, dyslipidemia, and psychiatric instability. The largely unregulated supply chain exacerbates these dangers, as products are often mislabeled or contaminated. Regulatory bodies such as the World Anti-Doping Agency (WADA) have responded by expanding detection technologies, yet analytical challenges remain due to peptides' structural similarity to endogenous hormones and short half-lives. Beyond elite sport, the extent of peptide use in the general population is unknown. Anecdotal reports and widespread promotion on social media suggest growing uptake among recreational gym-goers, including younger individuals, but prevalence studies are lacking. This represents a critical gap in current knowledge. In conclusion, peptides represent a new phase in performance enhancement but remain experimental substances with poorly defined long-term risks. Until longitudinal data clarify their safety and prevalence, peptide use in both competitive and recreational settings should be considered high-risk and ethically problematic."
+  },
+  {
+   "pmid": "42123471",
+   "titel": "Therapeutic Peptides in Aesthetic, Metabolic and Endocrine Conditions: Effects, Safety, Clinical Applications, and Future Perspectives",
+   "jahr": "2026",
+   "journal": "Int J Mol Sci",
+   "erstautor": "Renke G",
+   "doi": "10.3390/ijms27093890",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Therapeutic peptides are short chains of amino acids used to treat metabolic and endocrine conditions such as obesity and type 2 diabetes. While several peptide drugs have undergone rigorous approval processes that evaluate both safety and efficacy, novel, unapproved compounds have emerged and are rapidly expanding into preventive medicine and performance enhancement. Our objective is to present the effects, clinical applications, safety profiles, and regulatory status of prominent peptides used to treat several conditions. We reviewed 106 articles, prioritizing systematic reviews, meta-analyses, and randomized controlled trials in the PubMed, ScienceDirect, and SciELO databases. Our results suggest that therapeutic peptides are a promising tool for treating type 2 diabetes and obesity, for skin rejuvenation, and as hormone analogs for specific diseases and conditions. Although these are strategic and innovative options that can improve health, performance, and longevity, further studies are needed before most new peptides can be used safely in humans."
+  },
+  {
+   "pmid": "26771670",
+   "titel": "Netnography of Female Use of the Synthetic Growth Hormone CJC-1295: Pulses and Potions",
+   "jahr": "2016",
+   "journal": "Subst Use Misuse",
+   "erstautor": "Van Hout MC",
+   "doi": "10.3109/10826084.2015.1082595",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "BACKGROUND: Communal online folk pharmacology fuels the drive for short cuts in attaining muscle enhancement, fat loss, and youthful skin. OBJECTIVES: The study used \"netnography\" to explore female use of CJC-1295, a synthetic growth hormone analogue from the perspectives contained in Internet forum activity. METHODS: A systematic Internet search was conducted using variation of the term \"CJC-1295\"; and combined with \"forum.\" Ninety-six hits related to bodybuilding websites where CJC-1295 was mentioned. Following application of exclusion criteria to confine to female use and evidence of forum activity, 9 sites remained. These were searched internally for reference to CJC-1295. Twenty-three discussion threads relating to female use of CJC-1295 formed the end data set, and analyzed using the Empirical Phenomenological Psychological method. RESULTS: Forum users appeared well versed and experienced in the poly use of performance and image drug supplementation. Choice to use CJC-1295 centered on weight loss, muscle enhancement, youthful skin, improved sleep, and injury healing. Concerns were described relating to female consequences of use given gender variations in growth hormone pulses affecting estimation of dosage, cycling, and long-term consequences. CONCLUSIONS: Public health interventions should consider female self-medicating use of synthetic growth hormone within a repertoire of product supplementation, and related adverse health consequences."
+  },
+  {
+   "pmid": "34665524",
+   "titel": "Advances in the detection of growth hormone releasing hormone synthetic analogs",
+   "jahr": "2021",
+   "journal": "Drug Test Anal",
+   "erstautor": "Memdouh S",
+   "doi": "10.1002/dta.3183",
+   "typ": [
+    "Journal Article",
+    "Validation Study"
+   ],
+   "abstract": "The administration of growth hormone releasing hormone (GHRH) and its synthetic analogs is prohibited by the World Anti-Doping Agency (WADA). Although there is evidence of their use, based on admissions and intelligence, they do not appear to have been found in anti-doping samples by WADA accredited laboratories. This might be due to their small concentration in urine and limited knowledge about their metabolism, especially for unapproved synthetic analogs. This study investigates the in vitro metabolism and detection of four of the larger GHRH synthetic analogs (sermorelin, tesamorelin, CJC-1295, and CJC-1295 with drug affinity complex) in fortified urine. Nineteen major in vitro metabolites were identified, selected for synthesis, purified, and characterized in house. These were used as reference materials to spike into urine together with commercially available parent peptides and a metabolite of sermorelin (sermorelin(3-29)-NH2 ) to develop a sensitive liquid chromatography-tandem mass spectrometry method for their detection to help prove GHRH administration. Limits of detection of the target peptides were generally 1 ng/ml (WADA required performance limit) or less."
+  },
+  {
+   "pmid": "38716080",
+   "titel": "Probing for peptidic drugs (2-10 kDa) in doping control blood samples",
+   "jahr": "2022",
+   "journal": "Anal Sci Adv",
+   "erstautor": "Thomas A",
+   "doi": "10.1002/ansa.202200027",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Bioactive peptides with a molecular mass between 2 and 10 kDa represent an important class of substances banned in elite sports, which has been recognized with an increasing number and variety of substances by anti-doping organizations. Also, the annually renewed list of prohibited substances of the World Anti-Doping Agency (WADA) explicitly mentions more and more of these peptides, and efficient testing procedures are required. Even under simplified sample preparation conditions, liquid chromatography coupled to high-resolution mass spectrometry (with resolution properties > 100,000 full width at half maximum) offers suitable conditions for this task and can therefore be used as an initial testing procedure. In contrast to urine, blood analysis essentially relies on the detection of intact peptide hormones, and the expected concentrations are commonly higher in blood samples than in urine. This facilitates the analysis, and a generic sample preparation by means of mixed-mode solid-phase extraction could be realized in this study. Co-extraction and analysis of several different peptides such as insulins (human, lispro, aspart, glulisine, tresiba, detemir, glargine, bovine insulin and porcine insulin), growth hormone releasing hormones (sermorelin, CJC-1295 and tesamorelin), insulin-like growth factors (long-R3-IGF-I, R3-IGF-I and Des1-3-IGF-I) and mechano growth factors (human MGF and MGF-Goldspink) with criteria that fulfil the requirements of the WADA documents (TD2022 MRPL) for doping controls. The proof of principle was shown by the analysis of post administration samples after treatment with synthetic insulin analogues."
+  },
+  {
+   "pmid": "35298973",
+   "titel": "An antibody-free, ultrafiltration-based assay for the detection of growth hormone-releasing hormones in urine at low pg/mL concentrations using nanoLC-HRMS/MS",
+   "jahr": "2022",
+   "journal": "J Pharm Biomed Anal",
+   "erstautor": "Coppieters G",
+   "doi": "10.1016/j.jpba.2022.114726",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "This work presents an ultrafiltration-based, validated method for the screening and confirmation of prohibited growth hormone-releasing hormone (GHRH) analogues (sermorelin/CJC-1293, sermorelin metabolite, CJC-1295 and tesamorelin) in urine by nanoLC-HRMS/MS. Sample preparation avoids the use of laborious antibody-based extraction approaches and consists solely of preconcentration by ultrafiltration. Even in the absence of immuno-affinity purification steps, high sensitivity was still ensured as limits of detection between 5 and 25 pg/mL and limits of identification between 25 and 50 pg/mL were established. The robustness of the miniaturized chromatographic setup was evaluated through the injection of 200 + preconcentrated urinary extracts. In a comparison with immuno-affinity purification, enhanced recoveries (59 - 115%) and similar sensitivity were achieved, yet at lower operational costs. Stability experiments showed the importance of the proper handling of urine samples to avoid degradation of these peptide hormones, especially for sermorelin and its metabolite which were found to rapidly degrade at temperatures > 4 °C and pH values < 7 in accordance with earlier studies. Without the need for specific antibodies, this method may be expanded to cover emerging peptide drugs (≥ ~3 kDa), as well as their metabolites in the future to facilitate coverage for this class of prohibited substances."
+  },
+  {
+   "pmid": "34736642",
+   "titel": "Early detection of cannabinoids in biological samples based on their affinity interaction with the growth hormone secretagogue receptor",
+   "jahr": "2022",
+   "journal": "Talanta",
+   "erstautor": "Danila GM",
+   "doi": "10.1016/j.talanta.2021.122905",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Herein we report on the early detection of cannabinoids in urine samples according to their affinity profiles in competitive assays with labelled ghrelin (GHR). We have demonstrated for the first time that cannabidiol (CBD) and 11-nor-Δ9-tetrahydrocannabinol-9-carboxylic acid (carboxy-THC) act as extracellular ligands for the growth hormone secretagogue receptor (GHS-R1a), strongly promoting the binding of ghrelin (GHR), the endogenous ligand of GHS-R1a. The affinity profiles of CBD and carboxy-THC are significantly different from the profiles of synthetic GHR mimetics such as CJC-1295 or [D-Arg1-D-Phe5-D-Trp7,9-Leu11]-Substance P peptides, which are the most common interferents; the cannabinoids promoted the GHR/GHS-R1a interaction, while the ghrelin mimetics acted rather as competitive inhibitors. The analysis of 1:4 diluted urine samples proved that the proposed method displays good linearity and sensitivity in the range of 5-30 ng/mL for both CBD and carboxy-THC, whereas GHR mimetics display no interference at concentrations up to 100 ng/mL. The results were validated by comparison with the gas chromatography tandem mass spectrometry reference method. CBD may exert the same promoting effect on the interaction of GHS-R1a with other GHR mimetics listed as performance-enhancing substances."
+  },
+  {
+   "pmid": "42021992",
+   "titel": "Therapeutic peptides in gerontology: mechanisms and applications for healthy aging",
+   "jahr": "2026",
+   "journal": "Front Aging",
+   "erstautor": "Mavrych V",
+   "doi": "10.3389/fragi.2026.1790247",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "BACKGROUND: Peptide therapeutics represent an emerging frontier in gerontological medicine, targeting fundamental hallmarks of aging including metabolic dysfunction, telomere attrition, tissue repair impairment, and hormonal decline. OBJECTIVE: To comprehensively review the mechanisms, clinical applications, evidence base, and safety profiles of therapeutic peptides with demonstrated or potential applications in healthy aging and age-related conditions. METHODS: A comprehensive narrative review was conducted through systematic searches of PubMed, Scopus, and regulatory databases (FDA, WADA) from inception through January 2026. Search terms included \"peptide therapeutics,\" \"aging,\" \"gerontology,\" \"healthspan,\" combined with specific peptide names (tirzepatide, epitalon, GHK-Cu, BPC-157, TB-500, Semax, CJC-1295, ipamorelin, bremelanotide). Peer-reviewed articles, clinical trials, regulatory documents, and preclinical studies were evaluated. A total of 20 primary sources were selected based on relevance, methodological quality, and contribution to understanding peptide mechanisms and clinical outcomes in aging populations. RESULTS: Nine peptides were identified spanning diverse aging interventions: metabolic restoration (tirzepatide), telomere biology (epitalon), dermal regeneration (GHK-Cu), tissue repair (BPC-157, TB-500), neuroprotection (Semax), growth hormone modulation (CJC-1295, ipamorelin), and sexual function (bremelanotide). FDA-approved agents demonstrated robust safety profiles from large-scale trials. Non-approved peptides showed promising preclinical and limited clinical evidence but lack long-term safety data and systematic validation. Significant knowledge gaps include optimal dosing regimens, combination therapy effects, and biomarkers for monitoring efficacy. CONCLUSION: Therapeutic peptides offer mechanistically diverse approaches to multiple aging hallmarks. While FDA-approved agents demonstrate clinical potential, investigational peptides require rigorous validation through well-designed clinical trials to establish safety and efficacy for healthspan extension."
+  },
+  {
+   "pmid": "30938069",
+   "titel": "A method for confirming CJC-1295 abuse in equine plasma samples by LC-MS/MS",
+   "jahr": "2019",
+   "journal": "Drug Test Anal",
+   "erstautor": "Timms M",
+   "doi": "10.1002/dta.2599",
+   "typ": [
+    "Journal Article",
+    "Validation Study"
+   ],
+   "abstract": "CJC-1295 is a peptide-based drug that stimulates the production of growth hormone (GH) from the pituitary gland. It incorporates a functional maleimido group at the C-terminus that allows it to covalently bind plasma proteins such as serum albumin. These CJC-1295-protein conjugates have a much greater half-life compared to the unconjugated peptide and are capable of stimulating GH production for more than six days in humans after a single administration. Conjugated CJC-1295 is difficult to detect in blood by mass spectrometry due to its low abundance, high molecular weight, and conjugation to a range of different protein substrates. Previously we described a screening procedure for the detection of CJC-1295 in equine plasma using an immuno-PCR assay. Here we demonstrate the confirmation of CJC-1295 in equine plasma by LC-MS/MS after immuno-affinity capture and tryptic digestion. Using this method, CJC-1295 was identified down to concentrations as low as 180 pg/mL in 1 mL of equine plasma."
+  },
+  {
+   "pmid": "38197510",
+   "titel": "Chromatographic-mass spectrometric analysis of peptidic analytes (2-10 kDa) in doping control urine samples",
+   "jahr": "2024",
+   "journal": "J Mass Spectrom",
+   "erstautor": "Thomas A",
+   "doi": "10.1002/jms.4996",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Peptides with a molecular mass between 2 and 10 kDa that are prohibited in elite sports usually require dedicated sample preparation and mass spectrometric detection that commonly cannot be combined with other (lower molecular mass) substances. In most instances, the physicochemical differences are too significant to allow for a generic analytical procedure. A simplification of established and comparably complex analytical approaches is therefore desirable and has been accomplished in the context of this study. With urine samples representing still the most frequently collected doping control specimens, efficient extraction of peptidic analytes from this matrix was a major goal of this method, as demonstrated for the included compounds such as insulins (human, lispro, aspart, glulisine, tresiba, glargine metabolite, bovine insulin, porcine insulin), growth hormone-releasing hormones (sermorelin, CJC-1295, tesamorelin) incl. their respective metabolites, insulin-like-growth factors (long-R3 -IGF-I, R3 -IGF-I, des1-3 -IGF-I), synacthen, gonadorelin and mechano growth factors (human MGF, MGF-Goldspink). Sample preparation and detection are controlled by five internal standards, covering all five included peptide drug categories. Nearly all requirements of the recent technical documents from the World Anti-Doping Agency (WADA) considering their minimum required performance levels (MRPL) are fulfilled, and the method was validated for its utilisation as initial testing procedure in doping controls. Finally, the approach was applied to authentic post-administration study urine samples (for insulins and gonadorelin) in order to provide proof of principle."
+  },
+  {
+   "pmid": "30489688",
+   "titel": "An immuno polymerase chain reaction screen for the detection of CJC-1295 and other growth-hormone-releasing hormone analogs in equine plasma",
+   "jahr": "2019",
+   "journal": "Drug Test Anal",
+   "erstautor": "Timms M",
+   "doi": "10.1002/dta.2554",
+   "typ": [
+    "Journal Article",
+    "Validation Study"
+   ],
+   "abstract": "CJC-1295 is a 30 amino acid peptide-based drug that stimulates the release of growth hormone (GH) from the pituitary gland. It is unique among performance-enhancing peptides due to the presence of a reactive maleimidopropionic acid group that covalently links the peptide to free thiols on the surface of plasma proteins. Once conjugated, CJC-1295 remains active in the bloodstream for significantly longer than non-conjugated peptide-based drugs that are rapidly excreted. Conjugation of CJC-1295 to plasma proteins prevents its detection by top-down mass-spectrometry-based peptide screening protocols as it effectively becomes a macromolecular protein with an undefined molecular weight. Using a pair of monoclonal antibodies raised against the CJC-1295 peptide, we present an immuno-polymerase chain reaction (I-PCR) assay that is capable of detecting the CJC-1295-protein conjugate at concentrations down to 0.8 pg/mL. Detection of endogenous equine GHRH necessitated a screening threshold for CJC-1295 in equine plasma of 50 pg/mL. The effectiveness of the assay for controlling the illicit use of CJC-1295 was confirmed in equine blood samples after administration in thoroughbred race horses."
+  },
+  {
+   "pmid": "19386527",
+   "titel": "Activation of the GH/IGF-1 axis by CJC-1295, a long-acting GHRH analog, results in serum protein profile changes in normal adult subjects",
+   "jahr": "2009",
+   "journal": "Growth Horm IGF Res",
+   "erstautor": "Sackmann-Sala L",
+   "doi": "10.1016/j.ghir.2009.03.001",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: To identify biomarkers of growth hormone (GH) and insulin-like growth factor 1 (IGF-1) action in human serum. BACKGROUND: The search for new markers of GH activity has received extensive attention given that the current biomarkers (IGF-1, IGFBP-3 and collagen peptides) show substantial variability in the population, and are not reliably predictive of either the physiologic effects of GH therapy or the detection of GH abuse by athletes. GH releasing hormone (GHRH) is a polypeptide synthesized in the hypothalamus that binds to receptors on pituitary somatotropes to promote the synthesis and release of GH. Serum GH and IGF-1 levels have been shown to increase with administration of GHRH or CJC-1295, a long-acting GHRH analog. DESIGN: Sera from 11 healthy young adult men before and one week after CJC-1295 injection were analyzed by two-dimensional gel electrophoresis for proteomic changes. Serum proteins displaying significant changes before and after treatment were subsequently identified using mass spectrometry. In addition, correlations between these proteins and GH or IGF-1 levels were evaluated. RESULTS: Two protein spots that displayed decreased intensities after treatment were identified as an apolipoprotein A1 isoform and a transthyretin isoform. Three protein spots upregulated by CJC-1295 treatment included beta-hemoglobin, a C-terminal fragment of albumin, and a mix of an immunoglobulin fragment and another C-terminal albumin fragment. A linear relationship was found between the spot containing immunoglobulin and albumin fragments and IGF-1 levels. CONCLUSIONS: Although the molecular mechanisms linking the identified proteins to GH and IGF-1 biological activity remain to be clarified, the results suggest that they represent potential biomarkers of GH and/or IGF-1 action."
+  },
+  {
+   "pmid": "25382550",
+   "titel": "Detecting peptidic drugs, drug candidates and analogs in sports doping: current status and future directions",
+   "jahr": "2014",
+   "journal": "Expert Rev Proteomics",
+   "erstautor": "Thevis M",
+   "doi": "10.1586/14789450.2014.965159",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "With the growing availability of mature systems and strategies in biotechnology and the continuously expanding knowledge of cellular processes and involved biomolecules, human sports drug testing has become a considerably complex field in the arena of analytical chemistry. Proving the exogenous origin of peptidic drugs and respective analogs at lowest concentration levels in biological specimens (commonly blood, serum and urine) of rather limited volume is required to pursue an action against cheating athletes. Therefore, approaches employing chromatographic-mass spectrometric, electrophoretic, immunological and combined test methods have been required and developed. These allow detecting the misuse of peptidic compounds of lower (such as growth hormone-releasing peptides, ARA-290, TB-500, AOD-9604, CJC-1295, desmopressin, luteinizing hormone-releasing hormones, synacthen, etc.), intermediate (e.g., insulins, IGF-1 and analogs, 'full-length' mechano growth factor, growth hormone, chorionic gonadotropin, erythropoietin, etc.) and higher (e.g., stamulumab) molecular mass with desired specificity and sensitivity. A gap between the technically possible detection and the day-to-day analytical practice, however, still needs to be closed."
+  },
+  {
+   "pmid": "26879649",
+   "titel": "Qualitative identification of growth hormone-releasing hormones in human plasma by means of immunoaffinity purification and LC-HRMS/MS",
+   "jahr": "2016",
+   "journal": "Anal Bioanal Chem",
+   "erstautor": "Knoop A",
+   "doi": "10.1007/s00216-016-9377-3",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Validation Study"
+   ],
+   "abstract": "The use of growth hormone-releasing hormones (GHRHs) is prohibited in sports according to the regulations of the World Anti-Doping Agency (WADA). The aim of the present study was to develop a method for the simultaneous detection of four different GHRHs and respective metabolites from human plasma by means of immunoaffinity purification and subsequent nano-ultrahigh performance liquid chromatography-high resolution/high accuracy (tandem) mass spectrometry. The target analytes included Geref (Sermorelin), CJC-1293, CJC-1295, and Egrifta (Tesamorelin) as well as two metabolites of Geref and CJC-1293, which were captured from plasma samples using a polyclonal GHRH antibody in concert with protein A/G monolithic MSIA™ D.A.R.T.'S® (Disposable Automation Research Tips) prior to separation and detection. The method was fully validated and found to be fit for purpose considering the parameters specificity, linearity, recovery (19-37%), lower limit of detection (<50 pg/mL), imprecision (<20%), and ion suppression/enhancement effects. The analytes' stability and metabolism were elucidated using in vitro and in vivo approaches. EDTA blood samples were collected from rats 2, 4, and 8 h after intravenous administration of GHRH (one compound per test animal). All intact substances were detected for at least 4 h but no anticipated metabolite was confirmed in laboratory rodents' samples; conversely, a Geref metabolite (GHRH3-29) was found in a human plasma sample collected after subcutaneous injection of the drug to a healthy male volunteer. The obtained results demonstrate that GHRHs are successfully detected in plasma using an immunoaffinity-mass spectrometry-based method, which can be applied to sports drug testing samples. Further studies are however required and warranted to account for potential species-related differences in metabolism and elimination of the target analytes."
+  },
+  {
+   "pmid": "16822960",
+   "titel": "Once-daily administration of CJC-1295, a long-acting growth hormone-releasing hormone (GHRH) analog, normalizes growth in the GHRH knockout mouse",
+   "jahr": "2006",
+   "journal": "Am J Physiol Endocrinol Metab",
+   "erstautor": "Alba M",
+   "doi": "10.1152/ajpendo.00201.2006",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Although the majority of children with isolated growth hormone (GH) deficiency have a good growth response to GH-releasing hormone (GHRH), the use of this therapeutic agent is limited by its very short half-life. Indeed, we have shown that, in mice with GHRH gene ablation (GHRH knockout; GHRHKO), even twice-daily injections of a GHRH analog are unable to normalize growth. CJC-1295 is a synthetic GHRH analog that selectively and covalently binds to endogenous albumin after injection, thereby extending its half-life and duration of action. We report the effects of CJC-1295 administration in GHRHKO animals. Three groups of 1-wk-old GHRHKO mice were treated for 5 wk with 2 microg of CJC-1295 at intervals of 24, 48, and 72 h. Placebo-treated GHRHKO mice and mice heterozygous for the GHRHKO allele served as controls. GHRHKO animals receiving daily doses of CJC-1295 exhibited normal body weight and length. Mice treated every 48 and 72 h reached higher body weight and length than placebo-treated animals, without full growth normalization. Femur and tibia length remained normal in animals treated every 24 and 48 h. Relative lean mass and subcutaneous fat mass were normal in all treated groups. CJC-1295 caused an increase in total pituitary RNA and GH mRNA, suggesting that proliferation of somatotroph cells had occurred, as confirmed by immunohistochemistry images. These findings demonstrate that treatment with once-daily administration of CJC-1295 is able to maintain normal body composition and growth in GHRHKO mice. The same dose is less effective when administered every 48 or 72 h."
+  },
+  {
+   "pmid": "19332789",
+   "titel": "Neuronal M3 muscarinic acetylcholine receptors are essential for somatotroph proliferation and normal somatic growth",
+   "jahr": "2009",
+   "journal": "Proc Natl Acad Sci U S A",
+   "erstautor": "Gautam D",
+   "doi": "10.1073/pnas.0900977106",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Intramural"
+   ],
+   "abstract": "The molecular pathways that promote the proliferation and maintenance of pituitary somatotrophs and other cell types of the anterior pituitary gland are not well understood at present. However, such knowledge is likely to lead to the development of novel drugs useful for the treatment of various human growth disorders. Although muscarinic cholinergic pathways have been implicated in regulating somatotroph function, the physiological relevance of this effect and the localization and nature of the receptor subtypes involved in this activity remain unclear. We report the surprising observation that mutant mice that selectively lack the M(3) muscarinic acetylcholine receptor subtype in the brain (neurons and glial cells; Br-M3-KO mice) showed a dwarf phenotype associated with a pronounced hypoplasia of the anterior pituitary gland and a marked decrease in pituitary and serum growth hormone (GH) and prolactin. Remarkably, treatment of Br-M3-KO mice with CJC-1295, a synthetic GH-releasing hormone (GHRH) analog, rescued the growth deficit displayed by Br-M3-KO mice by restoring normal pituitary size and normal serum GH and IGF-1 levels. These findings, together with results from M(3) receptor/GHRH colocalization studies and hypothalamic hormone measurements, support a model in which central (hypothalamic) M(3) receptors are required for the proper function of hypothalamic GHRH neurons. Our data reveal an unexpected and critical role for central M(3) receptors in regulating longitudinal growth by promoting the proliferation of pituitary somatotroph cells."
+  },
+  {
+   "pmid": "41138283",
+   "titel": "Analysis of growth hormone releasing hormone and its analogs in urine using nano liquid chromatography coupled with quadrupole/orbitrap mass spectrometry",
+   "jahr": "2026",
+   "journal": "J Pharm Biomed Anal",
+   "erstautor": "Uçaktürk E",
+   "doi": "10.1016/j.jpba.2025.117207",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Growth hormone-releasing hormone (GHRH) and its synthetic analogs are considered performance-enhancing substances and are therefore prohibited by the World Anti-Doping Agency (WADA). The analysis of GHRH and its analogs in urine presents significant analytical challenges due to their inherent in vivo instability, rapid renal clearance, and low urinary concentrations. The present study aimed to develop a robust nano-LC quadrupole/orbitrap mass spectrometry (nano-LC-Q/Orbitrap MS) method for both screening and confirmation analyses of GHRH and its synthetic analogs (sermorelin/CJC-1293, tesamorelin, and CJC-1295) and the primary metabolite of sermorelin in urine, in accordance with WADA requirements. The sample preparation workflow was systematically investigated. Existing solid-phase extraction (SPE) protocols were compared, and two additional commercially available SPE cartridges were evaluated. Within the SPE step, the influence of various washing and elution solvent strengths on peptide recovery was also systematically examined. The effectiveness of different cleanup solvents during the ultrafiltration step was further assessed. Based on these evaluations, a refined approach was developed, incorporating an initial ultrafiltration step followed by SPE. The proposed method was fully validated according to WADA guidelines, assessing key parameters such as selectivity, reliability, limits of detection (LOD), carryover, limits of identification (LOI), robustness, autosampler stability, and matrix effects. The validation results confirmed the method's suitability and robustness for anti-doping testing. Achieved LODs (≤ 0.5 ng/mL) and LOIs (0.5-0.75 ng/mL) demonstrated sufficient sensitivity for effective detection and confirmation analysis of the target peptides in urine."
+  },
+  {
+   "pmid": "42876013",
+   "titel": "Detection of CJC-1295 in Equine Plasma by ELISA",
+   "jahr": "2026",
+   "journal": "Drug Test Anal",
+   "erstautor": "Timms M",
+   "doi": "10.1002/dta.70171",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "CJC-1295 is a peptide-based drug that stimulates the endogenous production of growth hormone (GH). Compared to other growth hormone releasing hormone (GHRH) analogues, CJC-1295 has an extended half-life due to a drug affinity complex (DAC) that chemically crosslinks the peptide to plasma proteins containing free cysteine residues. As a result, CJC-1295 behaves more like a protein doping agent than a typical peptide-based drug. Using monoclonal antibodies raised against the CJC-1295 peptide, an ELISA was developed for the detection of CJC-1295 protein conjugates in equine plasma at concentrations as low as 12.5 pg/mL. The effectiveness of the assay for controlling the illicit use of CJC-1295 was demonstrated using equine blood samples, obtained from thoroughbred racehorses, following subcutaneous administration of 10 mg of CJC-1295."
+  },
+  {
+   "pmid": "21204297",
+   "titel": "Identification of CJC-1295, a growth-hormone-releasing peptide, in an unknown pharmaceutical preparation",
+   "jahr": "2010",
+   "journal": "Drug Test Anal",
+   "erstautor": "Henninge J",
+   "doi": "10.1002/dta.233",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Several peptide drugs are being manufactured illicitly, and in some cases they are being made available to the public before entering or completing clinical trials. At the request of Norwegian police and customs authorities, unknown pharmaceutical preparations suspected to contain peptide drugs are regularly subjected to analysis. In 2009, an unknown pharmaceutical preparation was submitted for analysis by liquid chromatography-high resolution tandem mass spectrometry (LC-HRMS/MS). The preparation was found to contain a 29 amino acid peptide with a C-terminal amide function. Based on the interpretation of mass spectrometric data, an amino acid sequence was proposed. The sequence is consistent with a peptide currently marketed under the name CJC-1295. CJC-1295 is a releasing factor for growth hormone and is therefore considered a Prohibited Substance under Section S2 of the WADA Prohibited List. This substance has potential performance-enhancing effects, it is readily available, and there is reason to believe that it is being used within the bodybuilding community."
+  },
+  {
+   "pmid": "15817669",
+   "titel": "Human growth hormone-releasing factor (hGRF)1-29-albumin bioconjugates activate the GRF receptor on the anterior pituitary in rats: identification of CJC-1295 as a long-lasting GRF analog",
+   "jahr": "2005",
+   "journal": "Endocrinology",
+   "erstautor": "Jetté L",
+   "doi": "10.1210/en.2004-1286",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "In vivo bioconjugation to the free thiol on Cys34 of serum albumin by a strategically placed reactive group on a bioactive peptide is a useful tool to extend plasma half-life. Three maleimido derivates of human GH-releasing factor (hGRF)(1-29) were synthesized and bioconjugated to human serum albumin ex vivo. All three human serum albumin conjugates showed enhanced in vitro stability against dipeptidylpeptidase-IV and were bioactive in a GH secretion assay in cultured rat anterior pituitary cells. When the maleimido derivatives were individually administered sc to normal male Sprague Dawley rats, an acute secretion of GH was measured in plasma. The best compound, CJC-1295, showed a 4-fold increase in GH area under the curve over a 2-h period compared with hGRF(1-29). CJC-1295, a tetrasubstituted form of hGRF(1-29) with an added N epsilon-3-maleimidopropionamide derivative of lysine at the C terminus, was selected for further pharmacokinetic evaluation, where it was found to be present in plasma beyond 72 h. A Western blot analysis of the plasma of a rat injected with CJC-1295 showed the presence of a CJC-1295 immunoreactive species on the band corresponding to serum albumin, appearing after 15 min and remaining in circulation beyond 24 h. These results led to the identification of CJC-1295 as a stable and active hGRF(1-29) analog with an extended plasma half-life."
+  },
+  {
+   "pmid": "42862021",
+   "titel": "Peptides in urology and sexual medicine: clinical effectiveness, dosing, indications, and safety: a narrative review",
+   "jahr": "2026",
+   "journal": "Sex Med Rev",
+   "erstautor": "Vasylieva V",
+   "doi": "10.1093/sxmrev/qeag078",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "INTRODUCTION: Peptide-based therapies are increasingly used in urology and sexual medicine, although adoption is often influenced by off-label prescribing, direct-to-consumer promotion, and limited long-term safety data. We review mechanisms, clinical evidence, dosing, safety, and regulatory status of these agents. METHODS: A structured search of PubMed, Scopus, and Google Scholar identified studies of peptide-based therapies in sexual medicine. Search terms included Bremelanotide, Melanotan II, Kisspeptin, Oxytocin, PnPP-19, Gonadorelin and growth hormone secretagogues, including GHRP-2, GHRP-6, Ibutamoren, Ipamorelin, Tesamorelin, Sermorelin, and CJC-1295. Of 725 records, 76 studies met inclusion criteria. Findings were synthesized narratively given heterogeneity across studies. RESULTS: Peptides reviewed act through diverse mechanisms, including central modulation of desire and arousal, stimulation of the hypothalamic-pituitary-gonadal and growth hormone axes, and nitric oxide-mediated effects on erectile physiology. Bremelanotide and Tesamorelin are the most clinically established agents, with defined dosing and regulatory approval for selected indications. Kisspeptin shows early promise but remains investigational. Growth hormone secretagogues reliably increase growth hormone and insulin-like growth factor 1 concentrations; however, evidence for improved sexual function, physical performance, or quality of life remains limited. Melanotan II, Ibutamoren, CJC-1295, and related agents remain accessible through unregulated markets, raising concerns about product quality, dosing variability, and incompletely characterized adverse effects. Oxytocin has biologic plausibility but limited efficacy data, whereas PnPP-19 remains preclinical. Gonadorelin was Food and Drug Administration approved but is no longer manufactured. Across peptide classes, safety data are limited by short follow-up, small samples, and incomplete assessment of cardiovascular, metabolic, and oncologic outcomes. DISCUSSION: Peptide-based therapies in urology and sexual medicine show selective therapeutic potential, but most remain insufficiently validated for clinical use. Clinicians should distinguish approved therapies from investigational and nonregulated compounds and counsel patients regarding uncertain benefit, potential harm, and risks of unsupervised use. Randomized trials with standardized dosing and long-term safety assessment are needed before broader adoption."
+  },
+  {
+   "pmid": "42160466",
+   "titel": "Injectable Peptides in Sports Medicine: A Structured Narrative Review of Evidence, Safety, and Antidoping Implications",
+   "jahr": "2026",
+   "journal": "JBJS Rev",
+   "erstautor": "Villegas Meza AD",
+   "doi": "10.2106/JBJS.RVW.26.00027",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "BACKGROUND: Injectable peptides are increasingly promoted for musculoskeletal recovery, tissue repair, and performance enhancements; however, clinical adoption has outpaced high-quality evidence and regulatory consensus. PURPOSE: To summarize contemporary human and translational evidence (January 1, 2020-August 31, 2025) for injectable peptides relevant to orthopaedics and sports medicine, and to clarify safety, product quality, regulatory, antidoping implications, and clinical outcomes. STUDY DESIGN: Structured narrative review. METHODS: PubMed/MEDLINE, Embase, and Web of Science were searched (January 1, 2020-August 31, 2025). Eligible studies included randomized controlled trials, prospective human studies, and translational investigations directly applicable to musculoskeletal care; noninjectable formulations and nonmusculoskeletal indications were excluded. Results were synthesized qualitatively; risk of bias for human trials was appraised using standard tools. RESULTS: Five functional peptide classes were identified. Glucagon-like peptide-1 receptor agonists (e.g., semaglutide) are the only class supported by reproducible randomized evidence of symptomatic improvement in knee osteoarthritis, with benefits primarily mediated by clinically meaningful weight loss and putative anti-inflammatory effects, whereas structural cartilage modification remains unproven. Collagen-derived injectable preparations show preliminary postoperative symptom/early recovery benefits in small, single-center prospective human studies. Regenerative peptides (e.g., body protection compound-157 and thymosin derivatives) and growth hormone axis secretagogues (e.g., CJC-1295, ipamorelin, and tesamorelin) remain investigational, with uncertain safety profiles, product quality concerns, and widespread antidoping restrictions. CONCLUSIONS: Injectable peptides for sports medicine remain largely experimental. Clinical use should be confined to approved metabolic agents for indicated conditions and to rigorously designed research protocols. Clinicians caring for athletes must counsel patients regarding uncertain efficacy, product quality, safety risks, and antidoping implications. LEVEL OF EVIDENCE: Level V. See Instructions for Authors for a complete description of levels of evidence. STRENGTH OF RECOMMENDATION TAXONOMY: Predominantly C."
+  },
+  {
+   "pmid": "23318763",
+   "titel": "Doping control analysis of seven bioactive peptides in horse plasma by liquid chromatography-mass spectrometry",
+   "jahr": "2013",
+   "journal": "Anal Bioanal Chem",
+   "erstautor": "Kwok WH",
+   "doi": "10.1007/s00216-012-6697-9",
+   "typ": [
+    "Evaluation Study",
+    "Journal Article"
+   ],
+   "abstract": "In recent years, there has been an ongoing focus for both human and equine doping control laboratories on developing detection methods to control the misuse of peptide therapeutics. Immunoaffinity purification is a common extraction method to isolate peptides from biological matrices and obtain sufficient detectability in subsequent instrumental analysis. However, monoclonal or polyclonal antibodies for immunoaffinity purification may not be commercially available, and even if available, such antibodies are usually very costly. In our study, a simple mixed-mode anion exchange solid-phase extraction cartridge was employed for the extraction of seven target peptides (GHRP-1, GHRP-2, GHRP-6, ipamorelin, hexarelin, CJC-1295, and N-acetylated LKKTETQ (active ingredient of TB-500)) and their in vitro metabolites from horse plasma. The final extract was subject to ultra-high-performance liquid chromatographic separation and analysed with a hybrid high-resolution mass spectrometer. The limits of detection for all seven peptides were estimated to be less than 50 pg/mL. Method validation was performed with respect to specificity, precision, and recovery. The applicability of this multi-analyte method was demonstrated by the detection of N-acetylated LKKTETQ and its metabolite N-acetylated LK from plasma samples obtained after subcutaneous administration of TB-500 (10 mg N-acetylated LKKTETQ) to two thoroughbred geldings. This method could easily be modified to cover more bioactive peptides, such as dermorphin, β-casomorphin, and desmopressin. With the use of high-resolution mass spectrometry, the full-scan data acquired can also be re-processed retrospectively to search for peptides and their metabolites that have not been targeted at the time of analysis. To our knowledge, this is the first identification of in vitro metabolites of all the studied peptides other than TB-500 in horses."
+  },
+  {
+   "pmid": "26382721",
+   "titel": "Expanded test method for peptides >2 kDa employing immunoaffinity purification and LC-HRMS/MS",
+   "jahr": "2015",
+   "journal": "Drug Test Anal",
+   "erstautor": "Thomas A",
+   "doi": "10.1002/dta.1868",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Validation Study"
+   ],
+   "abstract": "Bioactive peptides with an approximate molecular mass of 2-12 kDa are of considerable relevance in sports drug testing. Such peptides have been used to manipulate several potential performance-enhancing processes in the athlete's body and include for example growth hormone releasing hormones (sermorelin, CJC-1293, CJC-1295, tesamorelin), synthetic/animal insulins (lispro, aspart, glulisine, glargine, detemir, degludec, bovine and porcine insulin), synthetic ACTH (synacthen), synthetic IGF-I (longR(3) -IGF-I) and mechano growth factors (human MGF, modified human MGF, 'full-length' MGF). A combined initial test method using one analytical procedure is a desirable tool in doping controls and related disciplines as requests for higher sample throughput with utmost comprehensiveness preferably at reduced costs are constantly issued. An approach modified from an earlier assay proved fit-for-purpose employing pre-concentration of all target analytes by means of ultrafiltration, immunoaffinity purification with coated paramagnetic beads, nano-ultra high performance liquid chromatography (UHPLC) separation, and subsequent detection by means of high resolution tandem mass spectrometry. The method was shown to be applicable to blood and urine samples, which represent the most common doping control specimens. The method was validated considering the parameters specificity, recovery (11-69%), linearity, imprecision (<25%), limit of detection (5-100 pg in urine, 0.1-2 ng in plasma), and ion suppression. The analysis of administration study samples for insulin degludec, detemir, aspart, and synacthen provided the essential data for the proof-of-principle of the method."
+  },
+  {
+   "pmid": "42395176",
+   "titel": "The emerging landscape of performance-enhancing peptides modulating GH-IGF1 axis: bridging the gap between clinical evidence and patient self-administration",
+   "jahr": "2026",
+   "journal": "Front Endocrinol (Lausanne)",
+   "erstautor": "Dominikowski A",
+   "doi": "10.3389/fendo.2026.1822475",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Performance-enhancing drugs (PEDs) marketed as \"research compounds\" include unregulated peptides intended to modulate the growth hormone-insulin-like growth factor-1 (GH-IGF-1) axis. The agents most commonly encountered in clinical practice and online self-administration protocols include growth hormone-releasing hormone (GHRH) analogues (e.g., sermorelin, tesamorelin, CJC-1295 with Drug Affinity Complex [DAC], CJC-1295 without DAC), growth hormone secretagogues (GHS; e.g., growth hormone-releasing peptide-2 (GHRP-2), growth hormone-releasing peptide-6 (GHRP-6), hexarelin, ipamorelin), the growth hormone (GH) fragment - AOD9604 (hGH 176-191), and insulin-like growth factor-1 (IGF-1) analogues (e.g., pegylated mechano growth factor (PEG-MGF), IGF-1 Long R3 (IGF-1 LR3)). Reported adverse effects span endocrine and metabolic disturbances (including prolactin and cortisol elevations, appetite changes, and dysglycaemia), fluid retention syndromes, musculoskeletal symptoms (myalgia/arthralgia), and injection-site reactions. Given the absence of regulatory approval for physique- or performance-related indications and the uncertainty surrounding product composition, dose, and stacking practices in unregulated supply chains, clinicians increasingly require a pragmatic framework to interpret symptoms and laboratory abnormalities in patients using these compounds. This narrative review contrasts peer-reviewed pharmacokinetic/pharmacodynamic and clinical evidence with commonly encountered online self-administration protocols, stratifying peptides into evidence tiers from regulatory-grade randomized trial data to a complete absence of human studies, and highlights the resulting uncertainty around putative performance and recomposition benefits. We summarise structural characteristics, pharmacologic effects, and commonly reported dosing patterns, and we synthesise clinically relevant adverse effects with particular attention to hormonal imbalance, endocrine-metabolic risk, and biologically plausible but unproven mitogenic concerns. Finally, we propose a clinically oriented assessment algorithm to support exposure history taking, triage of symptom domains, and risk communication without legitimising off-label peptide regimens."
+  },
+  {
+   "pmid": "32971474",
+   "titel": "Comparison of magnetic bead surface functionalities for the immunopurification of growth hormone-releasing hormones prior to liquid chromatography-high resolution mass spectrometry",
+   "jahr": "2020",
+   "journal": "J Chromatogr A",
+   "erstautor": "Pont L",
+   "doi": "10.1016/j.chroma.2020.461548",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Growth hormone-releasing hormone and its analogues sermorelin, tesamorelin and CJC-1295 are included in the prohibited list of the World Antidoping Agency. These target peptides are found at very low concentrations in urine (at the pg/mL level). For this reason, hyphenated enrichment and purification steps prior to mass spectrometric detection are required. Among different strategies, immunopurification based on magnetic beads is an excellent alternative, as it offers improved selectivity when the immunoreactivity and orientation of the antibody are optimum and non-specific adsorption is minimized. However, choosing the magnetic bead surface functionalities that provide the best recoveries is not so straightforward. In this work, we have evaluated the suitability of magnetic beads with different supports, binding capacities and affinity chemistries prior analysis of human urine samples by liquid chromatography coupled to high resolution mass spectrometry using a Quadrupole-Orbitrap instrument. After optimization of the immunopurification protocol with the magnetic beads that provided better recoveries, the method was fully validated and found to be adequate considering the parameters specificity, intra- and inter-day precision (lower than 15 and 25%, respectively), matrix effect, limit of detection (0.2 ng/mL) and limit of identification (0.5 ng/mL)."
+  }
+ ],
+ "ctgov": [
+  {
+   "nct": "NCT00267527",
+   "titel": "A Study to Evaluate CJC 1295 in HIV Patients With Visceral Obesity",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "TERMINATED",
+   "teilnehmende": 120,
+   "start": "2005-12",
+   "ende": "2006-09",
+   "erkrankungen": [
+    "Obesity",
+    "HIV Infections"
+   ],
+   "sponsor": "ConjuChem",
+   "ergebnisse": false
+  }
+ ],
+ "gruppe": "C_wachstumshormon"
+}
