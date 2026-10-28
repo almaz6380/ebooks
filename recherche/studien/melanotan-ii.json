@@ -1,0 +1,800 @@
+{
+ "name": "Melanotan II",
+ "status": "nicht_zugelassen",
+ "suchbegriff_pubmed": "melanotan[tiab]",
+ "suchbegriff_ctgov": "melanotan",
+ "humanstudien_alle": [
+  {
+   "pmid": "16293341",
+   "titel": "Effect of MELANOTAN, [Nle(4), D-Phe(7)]-alpha-MSH, on melanin synthesis in humans with MC1R variant alleles",
+   "jahr": "2006",
+   "journal": "Peptides",
+   "erstautor": "Fitzgerald LM",
+   "doi": "10.1016/j.peptides.2004.12.038",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "15262693",
+   "titel": "Effects of a superpotent melanotropic peptide in combination with solar UV radiation on tanning of the skin in human volunteers",
+   "jahr": "2004",
+   "journal": "Arch Dermatol",
+   "erstautor": "Dorr RT",
+   "doi": "10.1001/archderm.140.7.827",
+   "typ": [
+    "Clinical Trial",
+    "Clinical Trial, Phase I",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "11045725",
+   "titel": "Increased eumelanin expression and tanning is induced by a superpotent melanotropin [Nle4-D-Phe7]-alpha-MSH in humans",
+   "jahr": "2000",
+   "journal": "Photochem Photobiol",
+   "erstautor": "Dorr RT",
+   "doi": "10.1562/0031-8655(2000)072<0526:ieeati>2.0.co;2",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "11035391",
+   "titel": "Melanocortin receptor agonists, penile erection, and sexual motivation: human studies with Melanotan II",
+   "jahr": "2000",
+   "journal": "Int J Impot Res",
+   "erstautor": "Wessells H",
+   "doi": "10.1038/sj.ijir.3900582",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "11018622",
+   "titel": "Effect of an alpha-melanocyte stimulating hormone analog on penile erection and sexual desire in men with organic erectile dysfunction",
+   "jahr": "2000",
+   "journal": "Urology",
+   "erstautor": "Wessells H",
+   "doi": "10.1016/s0090-4295(00)00680-4",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "9679884",
+   "titel": "Synthetic melanotropic peptide initiates erections in men with psychogenic erectile dysfunction: double-blind, placebo controlled crossover study",
+   "jahr": "1998",
+   "journal": "J Urol",
+   "erstautor": "Wessells H",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "9113347",
+   "titel": "Skin pigmentation and pharmacokinetics of melanotan-I in humans",
+   "jahr": "1997",
+   "journal": "Biopharm Drug Dispos",
+   "erstautor": "Ugwu SO",
+   "doi": "10.1002/(sici)1099-081x(199704)18:3<259::aid-bdd20>3.0.co;2-x",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  },
+  {
+   "pmid": "8637402",
+   "titel": "Evaluation of melanotan-II, a superpotent cyclic melanotropic peptide in a pilot phase-I clinical study",
+   "jahr": "1996",
+   "journal": "Life Sci",
+   "erstautor": "Dorr RT",
+   "doi": "10.1016/0024-3205(96)00160-9",
+   "typ": [
+    "Clinical Trial",
+    "Clinical Trial, Phase I",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, U.S. Gov't, P.H.S."
+   ]
+  }
+ ],
+ "humanstudien_detail": [
+  {
+   "pmid": "11035391",
+   "titel": "Melanocortin receptor agonists, penile erection, and sexual motivation: human studies with Melanotan II",
+   "jahr": "2000",
+   "journal": "Int J Impot Res",
+   "erstautor": "Wessells H",
+   "doi": "10.1038/sj.ijir.3900582",
+   "typ": [
+    "Clinical Trial",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "We review our experience with Melanotan II, a non-selective melanocortin receptor agonist, in human subjects with erectile dysfunction (ED). Melanotan II was administered to 20 men with psychogenic and organic ED using a double-blind placebo-controlled crossover design. Penile rigidity was monitored for 6 h using RigiScan. Level of sexual desire and side effects were reported with a questionnaire. In the absence of sexual stimulation, Melanotan II led to penile erection in 17 of 20 men. Subjects experienced a mean of 41 min Rigiscan tip rigidity>80%. Increased sexual desire was reported after 13/19 (68%) doses of Melanotan II vs 4/21 (19%) of placebo (P<0.01). Nausea and yawning were frequently reported side effects due to Melanotan II; at a dose of 0.025 mg/kg, 12.9% of subjects had severe nausea. We conclude that Melanotan II is a potent initiator of penile erection in men with erectile dysfunction. Our findings warrant further investigation of melanocortin agonists and antagonists on penile erection. International Journal of Impotence Research (2000) 12, Suppl 4, S74-S79."
+  },
+  {
+   "pmid": "8637402",
+   "titel": "Evaluation of melanotan-II, a superpotent cyclic melanotropic peptide in a pilot phase-I clinical study",
+   "jahr": "1996",
+   "journal": "Life Sci",
+   "erstautor": "Dorr RT",
+   "doi": "10.1016/0024-3205(96)00160-9",
+   "typ": [
+    "Clinical Trial",
+    "Clinical Trial, Phase I",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "A pilot phase I study was conducted with a cyclic heptapeptide analog of alpha-melanocyte stimulating hormone (alpha-MSH). The lactam-bridged molecule, called Melanotan-II (MT-II), has the structure Ac-Nle4-Asp5-His6-D-Phe7-Arg8-Trp9-Lys10 alpha-MSH4-10-NH2 (MT-II) and has superpotent melanotropic activity in vitro. A single-blind, alternating day (saline or MT-II), placebo-controlled trial was conducted in 3 normal male volunteers at the starting dose of 0.01 mg/kg of MT-II. Subcutaneous injections of MT-II or saline were given daily (Monday-Friday) for 2 consecutive weeks. Two subjects were escalated by 0.005 mg/kg increments to 0.03 mg/kg and one to 0.025 mg/kg. The 0.03 mg/kg dose produced Grade II somnolence and fatigue in one of two subjects (WHO standards). Mild nausea, not requiring antiemetic treatment, was reported at most MT-II dose levels. A stretching and yawning complex appeared to correlate with the onset of spontaneous, penile erections which were intermittently experienced for 1-5 hours after MT-II dosing, depending on the MT-II dose. Two subjects had increased pigmentation in the face, upper body and buttock, as measured by quantitative reflectance and by visual perception 1 week after MT-II dosing ended. These results demonstrate that MT-II has tanning activity in humans given only 5 low doses every other day by subcutaneous injection. The recommended single MT-II dose for future Phase I studies is 0.025 mg/kg/day."
+  },
+  {
+   "pmid": "16293341",
+   "titel": "Effect of MELANOTAN, [Nle(4), D-Phe(7)]-alpha-MSH, on melanin synthesis in humans with MC1R variant alleles",
+   "jahr": "2006",
+   "journal": "Peptides",
+   "erstautor": "Fitzgerald LM",
+   "doi": "10.1016/j.peptides.2004.12.038",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "MELANOTAN (NDP-MSH) binds the MC1 receptor to significantly increase the eumelanin content of human skin cells. In this study of 77 Caucasian individuals, we investigated the effects of MELANOTAN in individuals with variant MC1R genotypes, as it has been suggested through in vitro studies that variant alleles decrease MELANOTAN binding efficacy, which would subsequently affect the synthesis of melanin. Administration of MELANOTAN produced a significant (p<0.001) increase in melanin density in treated, compared to placebo, individuals. Importantly, MELANOTAN increased the melanin density to a greater extent in individuals carrying the variant alleles Val60Leu, Asp84Glu, Val92Met, Arg142His, Arg151Cys, and Arg160Trp than in individuals with no variant alleles. This study demonstrates that MELANOTAN effectively increases the melanin content of skin in those individuals with MC1R variant alleles and therefore, those most in need of photoprotection."
+  },
+  {
+   "pmid": "9113347",
+   "titel": "Skin pigmentation and pharmacokinetics of melanotan-I in humans",
+   "jahr": "1997",
+   "journal": "Biopharm Drug Dispos",
+   "erstautor": "Ugwu SO",
+   "doi": "10.1002/(sici)1099-081x(199704)18:3<259::aid-bdd20>3.0.co;2-x",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "A comparative pharmacokinetic trial was performed with a superpotent synthetic melanotropic peptide, [Nle4-D-Phe7]-alpha-MSHi-13 (melanotan-I or MT-I) given by three routes of administration. Plasma levels were measured by RIA and tanning was quantiated using serial reflectometry. Doses of 0.16 mgkg-1 were administered intravenously (IV) and orally (PO), and doses from 0.08 to 0.21 mg kg-1 subcutaneously (SC), in a randomized crossover fashion to three male volunteers over five consecutive days for 2 weeks (ten doses). The results indicate that the SC dose is completely bioavailable compared to the IV dose. No detectable drug levels were observed following PO dosing. The plasma half-lives following SC dosing ranged from 0.07 to 0.79 h for the absorption phase and from 0.8 to 1.7 h for the beta-phase. Clearance ranged from 0.12 to 0.19 L kg-1 h-1 and 3.9% or less of the dose was recovered in the urine. Side-effects were minimal, consisting of occasional gastrointestinal upset and facial flushing. Significant tanning of the forehead, arms, and neck was noted following IV or SC dosing. This effect peaked at 1 week following drug administration but was still present 3 weeks after completing the ten-dose regimen. It is concluded that SC administration is an efficacious method of delivering melanotan-I."
+  },
+  {
+   "pmid": "15262693",
+   "titel": "Effects of a superpotent melanotropic peptide in combination with solar UV radiation on tanning of the skin in human volunteers",
+   "jahr": "2004",
+   "journal": "Arch Dermatol",
+   "erstautor": "Dorr RT",
+   "doi": "10.1001/archderm.140.7.827",
+   "typ": [
+    "Clinical Trial",
+    "Clinical Trial, Phase I",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "OBJECTIVE: Three phase 1 clinical trials of a superpotent melanotropic peptide, melanotan-1 (MT-1, or [Nle(4)-D-Phe(7)]alpha-melanocyte-stimulating hormone) were performed to demonstrate safety for MT-1 therapy combined with UV-B light or sunlight. DESIGN: Open-label studies at 2 dose levels of MT-1 combined with small doses of UV-B to the neck or buttock or full sunlight to half of the back. SETTING: Dermatology clinics at the Arizona Health Sciences Center, Tucson. INTERVENTIONS: The first study randomized 4 subjects to MT-1 (0.08 mg/kg per day subcutaneously) and 4 subjects to injections of isotonic sodium chloride (9%) solution for 10 days, followed by neck irradiation with 3 times the minimal erythema dose (MED) of UV-B light. In the next study (n = 12), the MT-1 dosage was increased to 0.16 mg/kg per day for 10 days, with UV-B radiation (0.25-0.75 MED) given to a buttock site for 5 days during (n = 7) or after (n = 5) MT-1 administration. A final study randomized 8 subjects to 3 to 5 days of sunlight to half of the back or to sunlight plus 0.16 mg/kg of MT-1 for 5 days per week for 4 weeks. RESULTS: Tanning in the first study was achieved in 3 of 4 subjects receiving MT-1, and these subjects also had 47% fewer sunburn cells at the irradiated neck site. More skin sites darkened with the higher dose of MT-1 in the second study. In the third study, there was significantly enhanced tanning of the back in the MT-1 group, and this was maintained at least 3 weeks longer than the tanning in the sunlight-only controls, who required 50% more sun-exposure time for equivalent tanning. MAIN OUTCOME MEASURE: There were no pathologic findings at any UV-B or sun-exposed sites in any subject. Toxic effects due to MT-1 were minor, consisting of nausea and transient facial flushing. CONCLUSION: Melanotan-1 can be safely combined with UV-B light or sunlight and appears to act synergistically in the tanning response to light."
+  },
+  {
+   "pmid": "11045725",
+   "titel": "Increased eumelanin expression and tanning is induced by a superpotent melanotropin [Nle4-D-Phe7]-alpha-MSH in humans",
+   "jahr": "2000",
+   "journal": "Photochem Photobiol",
+   "erstautor": "Dorr RT",
+   "doi": "10.1562/0031-8655(2000)072<0526:ieeati>2.0.co;2",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "Seven normal volunteers (six males and one female) with tanning skin types III or IV (Fitzpatrick scale) were given 10 daily subcutaneous injections of a superpotent synthetic analog of alpha-melanocyte stimulating hormone (alpha-MSH) over two weeks. This agent, [Nle4-D-Phe7]alpha-MSH, also called Melanotan-I (MT-I), was administered at a dose of 0.16 mg/kg/day (Monday-Friday), over a two week period. Tanning was measured serially using computerized light reflectance. This regimen induced tanning at 3 of 8 anatomic sites including the face, neck and forearm by comparison of baseline to (1) the end of the daily dosing period, (day 14), and (2) one week later, (day 21). Shave biopsies of the forearm taken at baseline and day 21 were analyzed by high performance liquid chromatography for eumelanin content which was measured as the permanganate oxidation product, pyrrole-2,3,5-tricarboxylic acid or PTCA. Pheomelanin content was measured as the hydroiodic acid digestion product, aminohydroxyphenylalanine (AHP). Eumelanin was also measured in the forehead skin samples of three subjects. The HPLC results show that mean (+/- SD) baseline eumelanin (PTCA) levels in forehead skin (n = 3) averaged 1.38 (+/- 0.87) ng/mg of wet skin tissue weight. Higher mean baseline levels of PTCA were detected in forearm skin (2.06 +/- 0.28 ng/mg wet weight, n = 7). One week after MT-I treatments ended, there was a mean (SD) 49% (+/- 17.6%) increase in forehead skin PTCA levels compared to baseline (P = 0.019, n = 3, by paired sample T-test). The mean (SD) increase in forearm skin PTCA levels was 98% (+/- 25.4%) over the same period (P = 0.003). In contrast, forearm pheomelanin expression following MT-I treatment did not significantly change from baseline. Overall, the MT-I regimen increased the eumelanin: pheomelanin ratio in forearm skin from 51:1 at baseline to 86:1 following MT-I (P = 0.054 by paired sample T-test). These results show that the tanning induced by MT-I in the face and forearm is associated with a significant increase in the eumelanin content of the human skin."
+  },
+  {
+   "pmid": "9679884",
+   "titel": "Synthetic melanotropic peptide initiates erections in men with psychogenic erectile dysfunction: double-blind, placebo controlled crossover study",
+   "jahr": "1998",
+   "journal": "J Urol",
+   "erstautor": "Wessells H",
+   "doi": "",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "PURPOSE: We evaluated the erectogenic properties of a new cyclic alpha-melanocyte-stimulating hormone analogue, Melanotan-II, to treat men with psychogenic erectile dysfunction. MATERIALS AND METHODS: Ten men with erectile dysfunction of no known organic cause were entered in a double-blind, placebo controlled crossover study in which the erectogenic properties of Melanotan-II and a vehicle placebo were compared using real-time RigiScan monitoring. The presence, duration and rigidity of erections were recorded during a 6-hour period. RESULTS: In 8 of 10 men treated with Melanotan-II clinically apparent erections developed. Mean duration of tip rigidity greater than 80% was 38.0 minutes with Melanotan-II and 3.0 with placebo (p=0.0045). Transient side effects of nausea, stretching and yawning, and decreased appetite were reported more frequently after injections of Melanotan-II than placebo but none required treatment. CONCLUSIONS: Melanotan-II is a potent initiator of erections in men with psychogenic erectile dysfunction and has manageable side effects at a dose of 0.025 mg./kg."
+  },
+  {
+   "pmid": "11018622",
+   "titel": "Effect of an alpha-melanocyte stimulating hormone analog on penile erection and sexual desire in men with organic erectile dysfunction",
+   "jahr": "2000",
+   "journal": "Urology",
+   "erstautor": "Wessells H",
+   "doi": "10.1016/s0090-4295(00)00680-4",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+   ],
+   "abstract": "OBJECTIVES: To assess the safety, erectogenic properties, and effect on sexual desire of Melanotan II, a synthetic melanotropic initiator of erection, in men with erectile dysfunction and organic risk factors. METHODS: Ten subjects were enrolled in a double-blind, placebo-controlled, crossover study. Melanotan II (0.025 mg/kg) and vehicle were each administered twice by subcutaneous injection; real-time RigiScan monitoring and a visual analog were used to quantify the erections during a 6-hour period. The level of sexual desire and side effects were recorded with a questionnaire. RESULTS: Melanotan II initiated subjectively reported erections in 12 of 19 injections versus only 1 of 21 doses of placebo. The mean rigidity score of the responders was 6.9 on a scale of 0 to 10. The mean duration of tip rigidity greater than 80% was 45.3 minutes with Melanotan II versus 1.9 for placebo (P = 0.047). The level of sexual desire after injection was significantly higher after Melanotan II administration than after placebo. Nausea and stretching/yawning occurred more frequently with Melanotan II, and 4 of 19 injections were associated with severe nausea. CONCLUSIONS: The erectogenic properties of Melanotan II are not limited to cases of psychogenic erectile dysfunction; men with a variety of organic risk factors developed penile erections. The finding of increased sexual desire warrants further investigation of centrally acting agents on disorders of sexual desire."
+  }
+ ],
+ "metaanalysen": [
+  {
+   "pmid": "26806443",
+   "titel": "The injecting use of image and performance-enhancing drugs (IPED) in the general population: a systematic review",
+   "jahr": "2017",
+   "journal": "Health Soc Care Community",
+   "erstautor": "Brennan R",
+   "doi": "10.1111/hsc.12326",
+   "typ": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "abstract": "Injecting use of image and performance-enhancing drugs (IPED) in the general population is a public health concern. A wide and varied range of IPED are now easily accessible to all through the online market. A comprehensive literature review was undertaken according to Critical Appraisal Skills Programme (CASP) guidelines for systematic review, to identify the relevant literature. No date restrictions were placed on the database search in the case of human growth hormone melanotan I and II, and oil and cosmetic injectables. In the case of anabolic androgenic steroids search dates were restricted to January 2014-2015. Publications not in English and with a lack of specificity to the topic were excluded. The review yielded 133 relevant quantitative and qualitative papers, clinical trials, clinical case presentations and editorials/reports. Findings were examined/reviewed under emergent themes which identified/measured extent of use, user profiling, sourcing, product endorsement, risk behaviours and health outcomes in users. Motivation for IPED use may be grounded in appearance, pursuit of health and youth, and body image disturbance. IPED users can practice moderated use, with pathological use linked to high-risk behaviours, which may be normalised within IPED communities. Many IPED trajectories and pathways of use are not scientifically documented. Much of this information may be available online in IPED specific discussion forums, an underutilised setting for research, where uncensored discourse takes place among users. This review underscores the need for future internet and clinical research to investigate prevalence and patterns of injecting use, and to map health outcomes in IPED users. This paper provides community-based clinical practice and health promotion services with a detailed examination and analysis of the injecting use of IPED, highlighting the patterns of this public health issue. It serves to disseminate updated publication information to health and social policy makers and those in health service practice who are involved in harm reduction intervention."
+  }
+ ],
+ "praeklinik": [
+  {
+   "pmid": "21564053",
+   "titel": "Melanotan-associated melanoma",
+   "jahr": "2011",
+   "journal": "Br J Dermatol",
+   "erstautor": "Paurobally D",
+   "doi": "10.1111/j.1365-2133.2011.10273.x",
+   "typ": [
+    "Case Reports",
+    "Letter"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "30796078",
+   "titel": "Melanotan-induced priapism: a hard-earned tan",
+   "jahr": "2019",
+   "journal": "BMJ Case Rep",
+   "erstautor": "Dreyer BA",
+   "doi": "10.1136/bcr-2018-227644",
+   "typ": [
+    "Case Reports",
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Melanocortin analogues, such as melanotan, are illegally used for artificial tanning. They have also been suggested as possible therapeutic agents in the treatment of erectile dysfunction. This case study presents a patient attending the accident and emergency department, in a tertiary urology centre, with acute priapism after abdominal subcutaneous injection of melanotan. The priapism was diagnosed as 'low-flow' and managed with cavernosal aspiration, irrigation and subsequent intracavernosal injection of phenylephrine. The patient avoided requiring surgical shunting but had not yet recovered erectile function at 4-week follow-up. Acute priapism is an unreported side effect of melanocortin analogue use and this case report presents a patient managed without surgical intervention. Future therapeutic application of these agents will need to take this potential life altering complication into consideration."
+  },
+  {
+   "pmid": "35188390",
+   "titel": "CLIPSing Melanotan-II to Discover Multiple Functionally Selective hMCR Agonists",
+   "jahr": "2022",
+   "journal": "J Med Chem",
+   "erstautor": "Tomassi S",
+   "doi": "10.1021/acs.jmedchem.1c01848",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The pleiotropic role played by melanocortin receptors (MCRs) in both physiological and pathological processes has stimulated medicinal chemists to develop synthetic agonists/antagonists with improved potency and selectivity. Here, by deploying the Chemical Linkage of Peptide onto Scaffolds strategy, we replaced the lactam cyclization of melanotan II (MT-II), a potent and unselective agonist of human MCRs (hMCRs), with different xylene-derived thioethers. The newly designed peptides displayed binding affinities toward MCRs ranging from the low nanomolar to the sub-micromolar range, highlighting a correlation between the explored linkers and the affinity toward hMCRs. In contrast to the parent peptide (MT-II), compound 5 displayed a remarkable functional selectivity toward the hMC1R. Enhanced sampling molecular dynamics simulations were found to be instrumental in outlining how the employed cyclization strategy affects the peptides' conformational behavior and, as a consequence, the detected hMC1R affinity. Additionally, a model of the peptide 5/hMC1R complex employing the very recently reported cryogenic electron microscopy receptor structure was provided."
+  },
+  {
+   "pmid": "22051769",
+   "titel": "[Melanotan]",
+   "jahr": "2012",
+   "journal": "Actas Dermosifiliogr",
+   "erstautor": "Mahiques-Santos L",
+   "doi": "10.1016/j.ad.2011.08.002",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "31119650",
+   "titel": "Eruptive Melanocytic Nevi: A Review",
+   "jahr": "2019",
+   "journal": "Am J Clin Dermatol",
+   "erstautor": "Burian EA",
+   "doi": "10.1007/s40257-019-00444-8",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Eruptive melanocytic nevi (EMN) is a phenomenon characterized by the sudden onset of nevi. Our objective was to compile all published reports of EMN to identify possible precipitating factors and to evaluate the clinical appearance and course. We conducted a systematic bibliographic search and selected 93 articles, representing 179 patients with EMN. The suspected causes were skin and other diseases (50%); immunosuppressive agents, chemotherapy or melanotan (41%); and miscellaneous, including idiopathic (9%). The clinical manifestations could largely be divided into two categories: EMN associated with skin diseases were frequently few in number (fewer than ten nevi), large, and localized to the site of previous skin disease, whereas those due to other causes presented most often with multiple small widespread nevi. In general, EMN seem to persist unchanged after their appearance, but development over several years or fading has also been reported. Overall, 16% of the cases had at least one histologically confirmed dysplastic nevus. Five cases of associated melanoma were reported. We conclude that the clinical appearance of EMN may differ according to the suggested triggering factor. Based on the clinical distinction, we propose a new subclassification of EMN: (1) widespread eruptive nevi (WEN), with numerous small nevi, triggered by, for example, drugs and internal diseases, and (2) Köbner-like eruptive nevi, often with big and few nevi, associated with skin diseases and most often localized at the site of previous skin disease/trauma. The nature of the data precluded assessment of risk of malignant transformation."
+  },
+  {
+   "pmid": "22182016",
+   "titel": "Melanotan-associated transverse melanonychia",
+   "jahr": "2013",
+   "journal": "J Eur Acad Dermatol Venereol",
+   "erstautor": "Paurobally D",
+   "doi": "10.1111/j.1468-3083.2011.04399.x",
+   "typ": [
+    "Case Reports",
+    "Letter"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "22724573",
+   "titel": "Melanotan-associated melanoma in situ",
+   "jahr": "2012",
+   "journal": "Australas J Dermatol",
+   "erstautor": "Ong S",
+   "doi": "10.1111/j.1440-0960.2012.00915.x",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Injectable synthetic melanotropic peptides (often called melanotan) to enhance tanning are available over the Internet despite being unlicensed compounds with an unproven safety record. There have been reports of dysplastic naevi and melanoma associated with the use of melanotropic peptides. We report a case of melanotan-associated melanoma in situ."
+  },
+  {
+   "pmid": "34464955",
+   "titel": "Melanotan II User Experience: A Qualitative Study of Online Discussion Forums",
+   "jahr": "2021",
+   "journal": "Dermatology",
+   "erstautor": "Gilhooley E",
+   "doi": "10.1159/000514492",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: Melanotan II (MT II) is a synthetic analogue of α-melanocyte-stimulating hormone that, via interaction with the melanocortin 1 receptor, induces skin hyperpigmentation. The unregulated acquisition of MT II injections via the internet and other outlets has become popular over the last decades in order to exploit its properties for use as a tanning agent. Due to the covert nature of MT II use, it is difficult to assess the extent of its use among the general population and to characterise any associated side effects. OBJECTIVES: The aim of this study was to qualitatively examine MT II use, as portrayed on online forums, and to explore the motivations for its use and side effect profile. METHODS: Data were extracted retrospectively from UK and Ireland online chatrooms and forums from January 2016 to October 2017. Inclusion criteria were active MT II chatrooms and forums considered to be within the public domain. An inductive thematic analysis identified themes within discussion threads. RESULTS: A total of 623 discussion entries were extracted; 205 participants contributed to these entries. Emergent themes included motivation for MT II use, misinformation in the context of using an unregulated product, product preparation and administration, dosing regimens, sunbed use, side effects and concerning practices associated with MT II use. CONCLUSION: Motivations for MT II use included the pursuit of a tanned appearance, often in anticipation of sun holidays and fitness/body building competitions. Clinicians should be aware not only of the potential risks in relation to pigmented skin lesions, but also remain cognisant of the other medical hazards associated with the use of this substance, namely transmission of infectious diseases, use of potentially contaminated products, polypharmacy, and sunbed exposure."
+  },
+  {
+   "pmid": "26315100",
+   "titel": "[Undesirable pigmentation]",
+   "jahr": "2015",
+   "journal": "Hautarzt",
+   "erstautor": "Bayerl C",
+   "doi": "10.1007/s00105-015-3671-4",
+   "typ": [
+    "English Abstract",
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "BACKGROUND: Homogenous pigmentation can be induced by α-melanocyte-stimulating hormone (MSH) homologues. Cosmetically inacceptable pigmentation is mostly located on the face. OBJECTIVES: Although afamelatonide is a prescription drug for the orphan disease erthropoetic protoporphyria, structurally related α-MSH derivatives are available via the internet. Preventive and therapeutical options are necessary for postinflammatory hyperpigmentation, melasma, and lentigines. METHODS: Case reports address activation of dysplastic naevi by melanotan I. Wood's lamp is of some use in analyzing the level of hyperpigmentation. However, no guidelines have been established; thus, a summary of current studies is presented. RESULTS: Melanotan I leads to the activation of dysplastic nevi. The gold standard for hyperpigmentation is triple therapy with hydrochinon, tretinoin, and steroids, which can cause irritation and lead to ochronosis in some individuals. Tyrosinase inhibitors, substances that increase the cell turnover, and plant derivatives are less efficient but more tolerable. CONCLUSIONS: Melanotan I and bleaching creams, which may possibly contain mercury, are dangerous. Hyperpigmentation is best treated using a combination therapy that inhibits melanocyte activity and melanin synthesis, removes melanin, destroys melanin granules, and includes UV protection. Especially in Fitzpatrick skin types IV-VI, cryotherapy and laser are not the first line treatment options due to renewed posttreatment hyperpigmentation."
+  },
+  {
+   "pmid": "28823805",
+   "titel": "[Self-tanning and sunless tanning products]",
+   "jahr": "2017",
+   "journal": "Ann Dermatol Venereol",
+   "erstautor": "Martini MC",
+   "doi": "10.1016/j.annder.2017.03.021",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Practically all currently available self-tanning products have as their active ingredient dihydroxyacetone (DHA), which may or may not be combined with erythrulose, tyrosine derivatives, and occasionally a naphthoquinone. The resulting skin tone, which resembles a natural tan, is due to chemical combination of the DHA with amino acids in the skin through the Maillard reaction. Polymer pigments known as melanoidins are formed and are fixed in the stratum corneum, where they remain until corneocyte desquamation occurs. The colouring thus achieved is semi-permanent and is well tolerated by skin. While the formulation of such products is complex and their storage difficult, no other substances provide more satisfactory or more lasting results."
+  },
+  {
+   "pmid": "28009464",
+   "titel": "Effect of Melanotan-II on Brain Fos Immunoreactivity and Oxytocin Neuronal Activity and Secretion in Rats",
+   "jahr": "2017",
+   "journal": "J Neuroendocrinol",
+   "erstautor": "Paiva L",
+   "doi": "10.1111/jne.12454",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Melanocortins stimulate the central oxytocin systems that are involved in regulating social behaviours. Alterations in central oxytocin have been linked to neurological disorders such as autism, and melanocortins have been proposed for therapeutic treatment. In the present study, we investigated how systemic administration of melanotan-II (MT-II), a melanocortin agonist, affects oxytocin neuronal activity and secretion in rats. The results obtained show that i.v., but not intranasal, administration of MT-II markedly induced Fos expression in magnocellular neurones of the supraoptic (SON) and paraventricular nuclei (PVN) of the hypothalamus, and this response was attenuated by prior i.c.v. administration of the melanocortin antagonist, SHU-9119. Electrophysiological recordings from identified magnocellular neurones of the SON showed that i.v. administration of MT-II increased the firing rate in oxytocin neurones but did not trigger somatodendritic oxytocin release within the SON as measured by microdialysis. Our data suggest that, after i.v., but not intranasal, administration of MT-II, the activity of magnocellular neurones of the SON is increased. Because previous studies showed that SON oxytocin neurones are inhibited in response to direct application of melanocortin agonists, the actions of i.v. MT-II are likely to be mediated at least partly indirectly, possibly by activation of inputs from the caudal brainstem, where MT-II also increased Fos expression."
+  },
+  {
+   "pmid": "33434184",
+   "titel": "Pharmacological chaperone action in humanized mouse models of MC4R-linked obesity",
+   "jahr": "2021",
+   "journal": "JCI Insight",
+   "erstautor": "René P",
+   "doi": "10.1172/jci.insight.132778",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "MC4R mutations represent the largest monogenic cause of obesity, resulting mainly from receptor misfolding and intracellular retention by the cellular quality control system. The present study aimed at determining whether pharmacological chaperones (PCs) that restore folding and plasma membrane trafficking by stabilizing near native protein conformation may represent valid therapeutic avenues for the treatment of melanocortin type 4 receptor-linked (MC4R-linked) obesity. To test the therapeutic PC potential, we engineered humanized MC4R (hMC4R) mouse models expressing either the WT human MC4R or a prevalent obesity-causing mutant (R165W). Administration of a PC able to rescue cell surface expression and functional activity of R165W-hMC4R in cells restored the anorexigenic response of the R165W-hMC4R obese mice to melanocortin agonist, providing a proof of principle for the therapeutic potential of MC4R-targeting PCs in vivo. Interestingly, the expression of the WT-hMC4R in mice revealed lower sensitivity of the human receptor to α-melanocyte-stimulating hormone (α-MSH) but not β-MSH or melanotan II, resulting in a lower penetrance obese phenotype in the WT-hMC4R versus R165W-hMC4R mice. In conclusion, we created 2 new obesity models, a hypomorphic highlighting species differences and an amorphic providing a preclinical model to test the therapeutic potential of PCs to treat MC4R-linked obesity."
+  },
+  {
+   "pmid": "24355990",
+   "titel": "Melanoma associated with the use of melanotan-II",
+   "jahr": "2014",
+   "journal": "Dermatology",
+   "erstautor": "Hjuler KF",
+   "doi": "10.1159/000356389",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: Unlicensed use of melanotan-II (MT-II) to promote skin pigmentation has become prevalent amongst young people attending fitness centres. We present a case where the melanocyte stimulation of MT-II in combination with the use of sun tanning beds coincided with cutaneous melanoma. OBSERVATION: A 20-year-old woman with Fitzpatrick skin type II was referred to a dermatology clinic. Clinical examination revealed a suspicious black melanocytic lesion in her left gluteal region. Furthermore, her skin was universally intensely pigmented. The melanocytic lesion was excised, and histology confirmed the diagnosis of melanoma. Three months prior to the excision the patient had conducted a 3- to 4-week course of self-injections with MT-II, intending an augmentation of sunbed tanning. CONCLUSIONS AND RELEVANCE: This observation brings attention to the potential risks related to the use of the cyclic α-melanocyte-stimulating hormone analogue MT-II. There are several hazardous aspects of the possible widespread use of MT-II. As the drug is unlicensed and incompletely tested, the extent and types of adverse effects are unknown. Clinicians are advised to be aware of the problem, and counsel their at-risk patients regarding the potential hazards related to the use of MT-II."
+  },
+  {
+   "pmid": "37478579",
+   "titel": "Melanotan-II reverses memory impairment induced by a short-term HF diet",
+   "jahr": "2023",
+   "journal": "Biomed Pharmacother",
+   "erstautor": "Wekwejt P",
+   "doi": "10.1016/j.biopha.2023.115129",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "A high-fat (HF) diet has been shown to increase the risk of neurological impairments and neurodegenerative disorders. The melanotropins used in this study have been associated with diet-related disorders; however, there is an absence of studies on their effect on diet-induced neurobehavioral conditions. Here, we investigated the possible relationship among diet, Melanotan-II (MT-II) targeting melanotropin receptors, and the behavior of zebrafish (Danio rerio). Surprisingly, even a short-term HF diet lasting for ∼ 1 % of the zebrafish's life had a strong developmental effect. Zebrafish fed the HF diet showed an impairment in recognition memory, elevated anxiety levels, and reduced exploratory propensity after just three weeks compared to zebrafish fed the control diet. These HF diet-induced abnormalities were reversed by MT-II. Animals fed a HF diet and treated with MT-II demonstrated recognition memory, anxiety, and exploratory behavior similar to the control group. This study provides evidence that even a short-term HF diet has an impact on memory and emotions and is the first study to show that MT-II reverses these changes."
+  },
+  {
+   "pmid": "35907397",
+   "titel": "Vasopressin neurons in the paraventricular hypothalamus promote wakefulness via lateral hypothalamic orexin neurons",
+   "jahr": "2022",
+   "journal": "Curr Biol",
+   "erstautor": "Islam MT",
+   "doi": "10.1016/j.cub.2022.07.020",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The sleep-wakefulness cycle is regulated by complicated neural networks that include many different populations of neurons throughout the brain. Arginine vasopressin neurons in the paraventricular nucleus of the hypothalamus (PVHAVP) regulate various physiological events and behaviors, such as body-fluid homeostasis, blood pressure, stress response, social interaction, and feeding. Changes in arousal level often accompany these PVHAVP-mediated adaptive responses. However, the contribution of PVHAVP neurons to sleep-wakefulness regulation has remained unknown. Here, we report the involvement of PVHAVP neurons in arousal promotion. Optogenetic stimulation of PVHAVP neurons rapidly induced transitions to wakefulness from both NREM and REM sleep. This arousal effect was dependent on AVP expression in these neurons. Similarly, chemogenetic activation of PVHAVP neurons increased wakefulness and reduced NREM and REM sleep, whereas chemogenetic inhibition of these neurons significantly reduced wakefulness and increased NREM sleep. We observed dense projections of PVHAVP neurons in the lateral hypothalamus with potential connections to orexin/hypocretin (LHOrx) neurons. Optogenetic stimulation of PVHAVP neuronal fibers in the LH immediately induced wakefulness, whereas blocking orexin receptors attenuated the arousal effect of PVHAVP neuronal activation drastically. Monosynaptic rabies-virus tracing revealed that PVHAVP neurons receive inputs from multiple brain regions involved in sleep-wakefulness regulation, as well as those involved in stress response and energy metabolism. Moreover, PVHAVP neurons mediated the arousal induced by novelty stress and a melanocortin receptor agonist melanotan-II. Thus, our data suggested that PVHAVP neurons promote wakefulness via LHOrx neurons in the basal sleep-wakefulness and some stressful conditions."
+  },
+  {
+   "pmid": "36155088",
+   "titel": "Melanocortin receptor agonist melanotan-II microinjected in the nucleus accumbens decreases appetitive and consumptive responding for food",
+   "jahr": "2022",
+   "journal": "Neuropeptides",
+   "erstautor": "Eliason NL",
+   "doi": "10.1016/j.npep.2022.102289",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "RATIONALE: Obesity is a major health problem worldwide. An understanding of the factors that drive feeding behaviors is key to the development of pharmaceuticals to decrease appetite and consumption. Proopiomelanocortin (POMC), the melanocortin peptide precursor, is essential in the regulation of body weight and ingestive behaviors. Deletion of POMC or impairment of melanocortin signaling in the brain results in hyperphagic obesity. Neurons in the hypothalamic arcuate nucleus produce POMC and project to many areas including the nucleus accumbens (NAcc), which is well established in the rewarding and reinforcing effects of both food and drugs of abuse. OBJECTIVE: These studies sought to determine the role of melanocortins in the NAcc on consumption of and motivation to obtain access to standard rodent chow. METHODS: Male, C57BL/6J mice were microinjected bilaterally into the NAcc (100 nl/side) with the melanocortin receptor 3/4 agonist melanotan-II (MT-II; 0.1, 0.3, and 1 nmol), and ingestive behaviors were examined in both home cage and operant food self-administration experiments. In addition, the ability of MT-II in the NAcc to produce aversive properties or affect metabolic rate were tested. RESULTS: MT-II injected into the NAcc significantly decreased consumption in both home cage and operant paradigms, and furthermore decreased appetitive responding to gain access to food. There was no development of conditioned taste avoidance or change in metabolic parameters following anorexic doses of MT-II. CONCLUSIONS: MT-II in the NAcc decreased both the motivation to eat and the amount of food consumed without inducing an aversive state or affecting metabolic rate, suggesting a role for melanocortin signaling in the NAcc that is selective for appetite and satiety without affecting metabolism or producing an aversive state."
+  },
+  {
+   "pmid": "29812984",
+   "titel": "Melanotan II causes hypothermia in mice by activation of mast cells and stimulation of histamine 1 receptors",
+   "jahr": "2018",
+   "journal": "Am J Physiol Endocrinol Metab",
+   "erstautor": "Jain S",
+   "doi": "10.1152/ajpendo.00024.2018",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, N.I.H., Intramural"
+   ],
+   "abstract": "Intraperitoneal administration of the melanocortin agonist melanotan II (MTII) to mice causes a profound, transient hypometabolism/hypothermia. It is preserved in mice lacking any one of melanocortin receptors 1, 3, 4, or 5, suggesting a mechanism independent of the canonical melanocortin receptors. Here we show that MTII-induced hypothermia was abolished in KitW-sh/W-sh mice, which lack mast cells, demonstrating that mast cells are required. MRGPRB2 is a receptor that detects many cationic molecules and activates mast cells in an antigen-independent manner. In vitro, MTII stimulated mast cells by both MRGPRB2-dependent and -independent mechanisms, and MTII-induced hypothermia was intact in MRGPRB2-null mice. Confirming that MTII activated mast cells, MTII treatment increased plasma histamine levels in both wild-type and MRGPRB2-null, but not in KitW-sh/W-sh, mice. The released histamine produced hypothermia via histamine H1 receptors because either a selective antagonist, pyrilamine, or ablation of H1 receptors greatly diminished the hypothermia. Other drugs, including compound 48/80, a commonly used mast cell activator, also produced hypothermia by both mast cell-dependent and -independent mechanisms. These results suggest that mast cell activation should be considered when investigating the mechanism of drug-induced hypothermia in mice."
+  },
+  {
+   "pmid": "24771717",
+   "titel": "Identification and characterization by LC-UV-MS/MS of melanotan II skin-tanning products sold illegally on the Internet",
+   "jahr": "2015",
+   "journal": "Drug Test Anal",
+   "erstautor": "Breindahl T",
+   "doi": "10.1002/dta.1655",
+   "typ": [
+    "Journal Article",
+    "Validation Study"
+   ],
+   "abstract": "New methods were developed and validated to determine the identity, contents, and purity of samples of melanotan II, a synthetic melanocortin receptor agonist, sold in vials as injectable skin-tanning products that were purchased from three online shops. Methods were based on liquid chromatography with ultra-violet detection (LC-UV) at wavelength 218 nm, and tandem mass spectrometric detection (MS/MS) after collision-induced fragmentation of the double charged [M+2H](2+) precursor ion (m/z 513). Identification of melanotan II was verified by correct chromatographic retention time, and relative abundance ratios of five qualifying fragment ions. LC-UV was used to quantify melanotan II as well as impurities. Method validation was performed with reference to guidelines for assessing active substances in authorized medicinal products to reach acceptable accuracy and precision. Vials from two shops contained unknown impurities ranging from 4.1 to 5.9%; impurities from one shop were below the quantification limit. The total amount of melanotan II in vials ranged between 4.32 and 8.84 mg, although each shop claimed that vials contained 10 mg melanotan II. A broad range of drugs used for enhancement purposes can be obtained from the illicit market. However, users of these drugs may be exposed to a range of potential harms, as shown in this study, given that these products are manufactured, distributed and supplied from an illicit market."
+  },
+  {
+   "pmid": "33332767",
+   "titel": "Melanotan II, a melanocortin agonist, partially rescues the impaired thermogenic capacity of pituitary adenylate cyclase-activating polypeptide deficient mice",
+   "jahr": "2021",
+   "journal": "Exp Physiol",
+   "erstautor": "McMillan TR",
+   "doi": "10.1113/EP088838",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "NEW FINDINGS: What is the central question of this study? Can chronic treatment of pituitary adenylate cyclase-activating polypeptide (PACAP) deficient mice with the melanocortin agonist melanotan II during cold acclimation rescue the impaired thermogenic capacity previously observed in PACAP deficient mice? What is the main finding and its importance? Using a genetic model of PACAP deficiency, this study provides evidence that PACAP acts upstream of the melanocortin system in regulating sympathetic nerve activity to brown adipose tissue in mice. ABSTRACT: Impaired adipose tissue function in obesity, including reduced thermogenic potential, has detrimental consequences for metabolic health. Hormonal regulation of adaptive thermogenesis is being explored as a potential therapeutic target for human obesity. Pituitary adenylate cyclase-activating polypeptide (PACAP) is a neuropeptide expressed in nuclei of the hypothalamus known to regulate energy expenditure, and functional studies reveal a role for PACAP in the central regulation of thermogenesis, although mechanisms are not well understood. We hypothesized that PACAP acts upstream of the melanocortin system to regulate sympathetic nerve activity to stimulate thermogenesis. To assess this, female PACAP-/- and PACAP+/+ mice were given daily peripheral injections of a melanocortin receptor agonist, melanotan II (MTII), for 3 weeks during cold acclimation, and the effect of MTII on thermogenic capacity and adipose tissue remodelling was examined by physiological and histological analyses. MTII partially rescued the impaired thermogenic capacity in PACAP-/- mice as compared to PACAP+/+ mice as determined by measuring noradrenaline-induced metabolic rate. In addition, MTII treatment during cold acclimation corrected the previously identified deficit in lipid utilization in response to adrenergic stimulation in PACAP-/- null mice, suggesting impaired lipid mobilization may contribute to the impaired thermogenic capacity of PACAP-/- mice. Results presented here provide physiological evidence to suggest that PACAP acts upstream of melanocortin receptors to facilitate sympathetically induced mechanisms of adaptive thermogenesis in response to cold acclimation."
+  },
+  {
+   "pmid": "7983590",
+   "titel": "Preformulation studies with melanotan-II: a potential skin cancer chemopreventive peptide",
+   "jahr": "1994",
+   "journal": "J Pharm Sci",
+   "erstautor": "Lan EL",
+   "doi": "10.1002/jps.2600830805",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Melanotan-II (1) is a cyclic heptapeptide analogue of alpha-melanocyte-stimulating hormone (alpha-MSH) which tans the skin and is currently being evaluated for the prevention of sunlight-induced skin cancers. The dissociation constants of 1 were determined using potentiometric titration and ultraviolet spectrophotometry. The pKa1 (histidine) and pKa2 (arginine) were estimated to be 6.54 and 11.72, respectively. The apparent partition coefficient (PC) was measured at three pH values using both n-octanol and isooctane as the nonpolar phase. The PC(octanol) and delta log PC at pH 7.35 were 2.82 and 1.05, respectively. These data, together with the observance of a bioavailability of 4.6% in the rat, indicate that 1 may be a suitable candidate for oral delivery. The data presented here are useful in developing an appropriate dosage form for 1."
+  },
+  {
+   "pmid": "30209265",
+   "titel": "Glucose-regulated protein 78 binds to and regulates the melanocortin-4 receptor",
+   "jahr": "2018",
+   "journal": "Exp Mol Med",
+   "erstautor": "Yoon YR",
+   "doi": "10.1038/s12276-018-0144-8",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The melanocortin-4 receptor (MC4R) belongs to the G protein-coupled receptor (GPCR) family and plays an essential role in the control of energy homeostasis. Here, we identified a novel MC4R-interacting protein, glucose-regulated protein 78 (GRP78), from a pulldown assay using hypothalamic protein extracts and the third intracellular loop of MC4R. We found that MC4R interacted with GRP78 in both the cytosol and at the cell surface and that this interaction increased when MC4R was internalized in the presence of the agonist melanotan-II (MTII). Downregulation of GRP78 using a short interfering RNA approach attenuated MTII-mediated receptor internalization. Reduction in GRP78 expression during tunicamycin-induced endoplasmic reticulum stress also suppressed MTII-mediated internalization of MC4R and cAMP-mediated transcriptional activity. Furthermore, lentiviral-mediated short hairpin RNA knockdown of endogenous GRP78 in the paraventricular nucleus (PVN) of the hypothalamus resulted in an increase in body weight in mice fed a high-fat diet. These results suggest that GRP78 in the PVN binds to MC4R and may have a chaperone-like role in the regulation of MC4R trafficking and signaling."
+  },
+  {
+   "pmid": "38285527",
+   "titel": "5-Hydroxypyrroloindoline Affords Tryptathionine and 2,2'-bis-Indole Peptide Staples: Application to Melanotan-II",
+   "jahr": "2024",
+   "journal": "Chemistry",
+   "erstautor": "Todorovic M",
+   "doi": "10.1002/chem.202304270",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "With peptides increasingly favored as drugs, natural product motifs, namely the tryptathionine staple, found in amatoxins and phallotoxins, and the 2,2'-bis-indole found in staurosporine represent unexplored staples for unnatural peptide macrocycles. We disclose the efficient condensation of a 5-hydroxypyrroloindoline with either a cysteine-thiol or a tryptophan-indole to form a tryptathionine or 2-2'-bis-indole staple. Judicious use of protecting groups provides for chemoselective stapling using α-MSH, which provides a basis for investigating both chemoselectivity and affinity. Both classes of stapled peptides show nanomolar Ki's, with one showing a sub-nanomolar Ki value."
+  },
+  {
+   "pmid": "19224885",
+   "titel": "Use of melanotan I and II in the general population",
+   "jahr": "2009",
+   "journal": "BMJ",
+   "erstautor": "Evans-Brown M",
+   "doi": "10.1136/bmj.b566",
+   "typ": [
+    "Editorial"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "30142729",
+   "titel": "A glimpse into the underground market of melanotan",
+   "jahr": "2018",
+   "journal": "Dermatol Online J",
+   "erstautor": "Callaghan Iii DJ",
+   "doi": "",
+   "typ": [
+    "Journal Article",
+    "Observational Study"
+   ],
+   "abstract": "Melanotan-I and melanotan-II are alpha-melanocyte stimulating hormone (a-MSH) analogues that can be purchased illicitly online with relative ease and are injected subcutaneously to stimulate a tan. Little is known about the use of these unregulated substances. An observational survey was posted to an online forum in which participants share their experiences using melanotan-I or melanotan-II. Users were asked to complete this voluntary, anonymous survey, which had questions focusing on motivation and hesitation for and against using melanotan, difficulty in acquiring it, and plans for continuing to use melanotan in the future."
+  },
+  {
+   "pmid": "33460908",
+   "titel": "Melanotan Tanning Injection: A Rare Cause of Priapism",
+   "jahr": "2021",
+   "journal": "Sex Med",
+   "erstautor": "Mallory CW",
+   "doi": "10.1016/j.esxm.2020.100298",
+   "typ": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "abstract": "Melanotan II, an injectable melanocortin analog, is illicitly available on the internet to generate a sunless tan through melanocyte induction. It is also used as a sexual stimulant in unlicensed performance enhancement clinics, and has been investigated as a possible treatment agent in erectile dysfunction. We describe in this case report a patient presenting with acute ischemic priapism after subcutaneous injection of melanotan II. The patient was initially managed with cavernosal aspiration and irrigation, and intracavernous injection of phenylephrine without achieving detumescence. After failing initial management, the patient underwent operative management with penoscrotal decompression, a promising alternative technique for the management of refractory ischemic priapism. Priapism after melanotan II injection has only been reported in the literature twice before. This case report highlights a rare presentation of acute ischemic priapism after melanotan II use, managed with surgical decompression. Future therapeutic applications of these agents and updated management guidelines should consider priapism as a possible side effect. CW. Mallory, DM Lopategui, BH. Cordon. Melanotan Tanning Injection: A Rare Cause of Priapism. Sex Med 2021;9:100298."
+  },
+  {
+   "pmid": "32912824",
+   "titel": "A sentinel population: The public health benefits of monitoring enhanced body builders",
+   "jahr": "2021",
+   "journal": "Int J Drug Policy",
+   "erstautor": "McVeigh J",
+   "doi": "10.1016/j.drugpo.2020.102890",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "There is heightened recognition of the public health implications of anabolic androgenic steroids (AAS) for the use of image and performance enhancement; with increasing evidence of their long-term negative health impacts, the hazards associated with their administration (often via injection), and the variability and unpredictability of their contents. In order to optimise the effects of these drugs, together with strict dietary and training regimes, AAS users typically supplement their use with an expansive and continually evolving range of ancillary drugs. The discovery and subsequent adoption of these drugs by the broader AAS user population is largely dependent upon a minority of social influencers within the bodybuilding community. Pioneering enhanced bodybuilders who self-experiment with a diverse range of image and performance enhancing drugs (IPEDs) and ancillary drugs have been the forerunners in the development of an underground user-led literature, online discussion forums, and were early adopters of internet-facilitated drug markets. Yet the impact of their self-experimentations extends well beyond the enhanced bodybuilding community, particularly in their use of ancillary drugs. Most significantly has been their role in the diffusion of various enhancement and psychoactive drugs to the wider population. Using the theoretical framework of the 'diffusion of innovation' we consider the role that pioneering enhanced bodybuilders have played in the diffusion of various enhancement and psychoactive drugs to the wider population through a focus on three substances: dinitrophenol (DNP), melanotan II and gamma-hydroxybtyrate (GHB). With an increasing range of drugs used by bodybuilders, coupled with an expansion in the use of online forums and online platforms to purchase pharmacological and new psychoactive drugs, we anticipate this trend of diffusion amongst the wider population will continue to flourish. Therefore, we highlight the need for policy makers to monitor emergent trends, not only in the general AAS population but particularly amongst enhanced bodybuilders."
+  },
+  {
+   "pmid": "19136019",
+   "titel": "Amygdalar opioids modulate hypothalamic melanocortin-induced anorexia",
+   "jahr": "2009",
+   "journal": "Physiol Behav",
+   "erstautor": "Beckman TR",
+   "doi": "10.1016/j.physbeh.2008.12.007",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ],
+   "abstract": "We wanted to assess the possibility that opioid activity in the central amygdala (CeA) could modulate the feeding inhibition of melanocortin stimulation of the paraventricular hypothalamus (PVN). The melanocortin system is important in both the acute regulation of satiety and feeding behavior and in the integration of long-term appetite signals. Melanotan II (MTII) is a synthetic MC3R and MC4R agonist which reduces food intake when given intracerebroventricularly (ICV) and into the PVN. Tyr-D-Ala-Gly-(me) Phe-Gly-ol (DAMGO), a micro-opioid receptor agonist, increases food intake, while opioid antagonists, like naltrexone (NTX), inhibit food intake after injection into many brain sites involved in appetite regulation, including the CeA. In food-deprived male Sprague-Dawley rats, co-injected intra-PVN MTII partially blocked the orexigenic effect of co-injected intra-CeA DAMGO. Intra-CeA NTX co-injected with intra-PVN MTII reduced food intake significantly more than either alone. NTX administered intra-CeA reduced c-Fos-immunoreactivity (IR) in nucleus accumbens neurons significantly compared to the intra-PVN MTII treated animals, animals co-injected intra-PVN with MTII and intra-CeA with NTX animals, and control animals. Intra-PVN MTII induced c-Fos-IR in significantly more PVN neurons than observed in control animals. Intra-CeA NTX co-injected with intra-PVN MTII induced c-Fos-IR significantly in PVN neurons relative to control and intra-CeA NTX animals. Such data support the significance of opioid action within the CeA as a modulator of the feeding regulation action of melanocortins within the PVN, occurring within the context of a larger appetitive network."
+  },
+  {
+   "pmid": "8877878",
+   "titel": "Controlled-release delivery system for the alpha-MSH analog melanotan-I using poloxamer 407",
+   "jahr": "1996",
+   "journal": "J Pharm Sci",
+   "erstautor": "Bhardwaj R",
+   "doi": "10.1021/js960097g",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The overall objective of these studies was to develop a controlled-release formulation of Melanotan-I (MT-I) containing poloxamer 407 (P407). Various aqueous formulations were evaluated containing MT-I and 25% w/v P407 alone, or with one of the following additives present, i.e., poly(vinylpyrrolidone) 10000 (PVP), methylcellulose (MC), or hydroxypropyl methylcellulose (HPMC). The in-vitro release profiles of MT-I from the P407 formulations and the dissolution of the gel were obtained simultaneously using a membraneless in-vitro model. These data were obtained at 37 degrees C and room temperature (24 degrees C). It was observed that the PVP-containing P407 formulations of MT-I accelerated the dissolution of gel and the release of the peptide compared to the control formulation. The formulations containing MC or HPMC exhibited the slowest dissolution rates and release of MT-I. The same rank order was observed for the dissolution and release profiles of MT-I from the various formulations at both temperatures. The in-vivo release kinetics of selected formulations were analyzed in guinea pigs following intraperitoneal administration. The plasma concentration-time profiles showed an extended release of the peptide formulated with gel compared to the intraperitoneal administration of MT-I in solution. On the basis of the in-vitro and in-vivo results, the P407 formulations of MT-I with MC or HPMC as an additive showed potential for use as a controlled-release delivery system for MT-I."
+  },
+  {
+   "pmid": "28531318",
+   "titel": "AgRP-Expressing Adrenal Chromaffin Cells Are Involved in the Sympathetic Response to Fasting",
+   "jahr": "2017",
+   "journal": "Endocrinology",
+   "erstautor": "Gupta R",
+   "doi": "10.1210/en.2016-1268",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+   ],
+   "abstract": "Fasting evokes a homeostatic response that maintains circulating levels of energy-rich metabolites and increases the drive to eat. Centrally, this reflex activates a small population of hypothalamic neurons that are characterized by the expression of AgRP, a neuropeptide with an extremely restricted distribution. Apart from the hypothalamus, the only other site with substantial expression is the adrenal gland, but there is disagreement about which cells synthesize AgRP. Using immunohistochemistry, flow cytometry, and reverse transcription-polymerase chain reaction, we show AgRP is present in the mouse adrenal medulla and is expressed by neuroendocrine chromaffin cells that also synthesize the catecholamines and neuropeptide Y. Short-term fasting led to an increase in adrenal AgRP expression. Because AgRP can act as an antagonist at MC3/4 receptors, we tested whether melanotan II, an MC3/4 receptor agonist, could regulate pre- and postsynaptic signaling within the adrenal medulla. Melanotan II decreased the paired-pulse ratio of evoked synaptic currents recorded in chromaffin cells; this effect was blocked by exogenous AgRP. In contrast, neither melanotan II nor AgRP altered the optogenetically evoked release of catecholamines from isolated chromaffin cells. These results are consistent with the idea that AgRP regulates the strength of the sympathetic input by modulation of presynaptic MC3/4 receptors located on preganglionic neurons. We conclude that a small population of neuroendocrine cells in the adrenal medulla, and the arcuate nucleus of the hypothalamus, express AgRP and neuropeptide Y and are functionally involved in the systemic response to fasting."
+  },
+  {
+   "pmid": "17113634",
+   "titel": "The melanocortin agonist, melanotan II, enhances proceptive sexual behaviors in the female rat",
+   "jahr": "2006",
+   "journal": "Pharmacol Biochem Behav",
+   "erstautor": "Rössler AS",
+   "doi": "10.1016/j.pbb.2006.09.023",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Melanocortins have been reported to play a role in the control of both male and female sexual behavior. The present study examined the effects of melanotan-II (MT-II), a cyclic peptide analogue of alpha-melanocyte stimulating hormone on appetitive and consummatory aspects of female sexual behavior, including aspects of sexual proceptivity (solicitations, hops and darts, ear wiggling, pacing) and receptivity (lordosis). One group of ovariectomized Long-Evans rats (n=7) was primed subcutaneously with estradiol benzoate (EB) and progesterone (P) (10 microg and 500 microg respectively) and another group (n=7) with EB (10 microg) and oil (EB alone). Paced mating tests were performed with sexually experienced males in unilevel chambers, which were bisected by a Plexiglas divider containing three holes, through which only the female could pass. MT-II (1 and 3 mg/kg) or saline was injected intravenously 10 min before each 30-min paced mating test. Each female received the 3 treatments. In females primed with EB+P both doses of MT-II increased the number of hops and darts and ear wiggling significantly, but did not alter pacing or lordosis. With EB alone, no effect of MT-II was observed on any of the parameters measured. These results suggest that P can interact with MT-II to increase proceptive behaviors. Because hops and darts are essentially solicitations, made in close proximity to the male, that indicate a desire on the part of females to receive mounts and intromissions, these data suggest that activation of melanocortin receptors may represent a promising mode of action for the treatment of women with hypoactive sexual desire."
+  },
+  {
+   "pmid": "32244183",
+   "titel": "Melanocortin regulation of histaminergic neurons via perifornical lateral hypothalamic melanocortin 4 receptors",
+   "jahr": "2020",
+   "journal": "Mol Metab",
+   "erstautor": "Michael NJ",
+   "doi": "10.1016/j.molmet.2020.01.020",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: Histaminergic neurons of the tuberomammillary nucleus (TMN) are wake-promoting and contribute to the regulation of energy homeostasis. Evidence indicates that melanocortin 4 receptors (MC4R) are expressed within the TMN. However, whether the melanocortin system influences the activity and function of TMN neurons expressing histidine decarboxylase (HDC), the enzyme required for histamine synthesis, remains undefined. METHODS: We utilized Hdc-Cre mice in combination with whole-cell patch-clamp electrophysiology and in vivo chemogenetic techniques to determine whether HDC neurons receive metabolically relevant information via the melanocortin system. RESULTS: We found that subsets of HDC-expressing neurons were excited by melanotan II (MTII), a non-selective melanocortin receptor agonist. Use of melanocortin receptor selective agonists (THIQ, [D-Trp8]-γ-MSH) and inhibitors of synaptic transmission (TTX, CNQX, AP5) indicated that the effect was mediated specifically by MC4Rs and involved a glutamatergic dependent presynaptic mechanism. MTII enhanced evoked excitatory post-synaptic currents (EPSCs) originating from electrical stimulation of the perifornical lateral hypothalamic area (PeFLH), supportive of melanocortin effects on the glutamatergic PeFLH projection to the TMN. Finally, in vivo chemogenetic inhibition of HDC neurons strikingly enhanced the anorexigenic effects of intracerebroventricular administration of MTII, suggesting that MC4R activation of histaminergic neurons may restrain the anorexigenic effects of melanocortin system activation. CONCLUSIONS: These experiments identify a functional interaction between the melanocortin and histaminergic systems and suggest that HDC neurons act naturally to restrain the anorexigenic effect of melanocortin system activation. These findings may have implications for the control of arousal and metabolic homeostasis, especially in the context of obesity, in which both processes are subjected to alterations."
+  },
+  {
+   "pmid": "20965250",
+   "titel": "Nanostructured porous silicon microparticles enable sustained peptide (Melanotan II) delivery",
+   "jahr": "2011",
+   "journal": "Eur J Pharm Biopharm",
+   "erstautor": "Kilpeläinen M",
+   "doi": "10.1016/j.ejpb.2010.10.004",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Peptide molecules can improve the treatment of a number of pathological conditions, but due to their physicochemical properties, their delivery is very challenging. The study aim was to determine whether nanostructured porous silicon could sustain the release and prolong the duration of action of a model peptide Melanotan II (MTII). Thermally hydrocarbonized nanoporous silicon (THCPSi) microparticles (38-53 μm) were loaded with MTII. The pore diameter, volume, specific surface area and loading degree of the microparticles were analyzed, and the peptide release was evaluated in vitro. The effects of MTII on heart rate and water consumption were investigated in vivo after subcutaneous administration of the MTII loaded microparticles. A peptide loading degree of 15% w/w was obtained. In vitro studies (PBS, pH 7.4, 37 °C) indicated sustained release of MTII from the THCPSi microparticles. In vivo, MTII loaded THCPSi induced an increase in the heart rate 2 h later than MTII solution, and the effect lasted 1 h longer. In addition, MTII loaded THCPSi changed the water consumption after 150 min, when the immediate effect of MTII solution was already diminished. The present study demonstrates that MTII loading into nanosized PSi pore structure enables sustained delivery of an active peptide."
+  },
+  {
+   "pmid": "25652247",
+   "titel": "Melanocortin Receptor Agonists Facilitate Oxytocin-Dependent Partner Preference Formation in the Prairie Vole",
+   "jahr": "2015",
+   "journal": "Neuropsychopharmacology",
+   "erstautor": "Modi ME",
+   "doi": "10.1038/npp.2015.35",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The central melanocortin (MC) system has been widely studied for its effects on food intake and sexual behavior. However, the MC system, and more specifically the MC4 receptor (MC4R), also interacts with neurochemical systems that regulate socioemotional behaviors, including oxytocin (OT) and dopamine. In monogamous prairie voles, OT and dopamine interact to promote partner preference formation, a laboratory measure of an enduring social bond between mates. Here we investigated the effects of MC receptor activation on partner preference formation in prairie voles, as well as the interaction between the MC and OT systems during this process. Peripheral administration of the brain penetrant MC3/4R receptor peptide agonist, Melanotan II (MTII), and the highly selective, small-molecule MC4R agonist, Pf-446687, enhanced partner preference formation in the prairie vole, but not in the non-monogamous meadow vole. MTII-induced partner preferences were enduring, as they were present 1 week after drug manipulation. The prosocial effects of MCR agonists may be mediated, in part, through modulation of OT, as coadministration of an OT receptor antagonist prevented MTII-induced partner preferences. MTII also selectively activated hypothalamic OT neurons and potentiated central OT release. As OT has been shown to enhance some aspects of social cognition in humans, our data suggest that the MC4R may be a viable therapeutic target for enhancing social function in psychiatric disorders, including autism spectrum disorders and schizophrenia, potentially through activation of the OT system."
+  },
+  {
+   "pmid": "41487785",
+   "titel": "Pyoderma Gangrenosum Secondary to Melanotan",
+   "jahr": "2025",
+   "journal": "Cureus",
+   "erstautor": "Dickson D",
+   "doi": "10.7759/cureus.98297",
+   "typ": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "abstract": "Pyoderma gangreonsum (PG) is a rare neutrophilic dermatosis that presents as a rapidly enlarging ulcer. Although the exact aetiology is unclear, up to half of the cases are linked to a systemic inflammatory disorder such as rheumatological conditions, haematology malignancy, or inflammatory bowel disease. A 65-year-old woman reported utilising Melanotan and subsequently developing ulcerated wounds at the injection sites on her abdomen. Clinically, four wounds were noted with an erythematous edge corresponding to the injection sites of melanotan. A diagnosis of PG was obtained due to the wounds' appearance, progression rate, lack of response to multiple courses of antibiotics, and negative bacteriology, including Panton-Valentine leukocidin Staphylococcus aureus. Topical betamethasone, alongside steroid occlusion tape and prednisolone, was commenced with good effect. Prednisolone was slowly titrated, and topical therapy with Dermovate was initiated. The wounds healed with classic cribriform scars after several months of treatment. Drug-induced PG has rarely been documented. However, melanotan-induced PG has never been reported in the literature before. We hope to highlight this case to increase awareness of the side effects of melanotan."
+  },
+  {
+   "pmid": "27500489",
+   "titel": "Disruption of Gpr45 causes reduced hypothalamic POMC expression and obesity",
+   "jahr": "2016",
+   "journal": "J Clin Invest",
+   "erstautor": "Cui J",
+   "doi": "10.1172/JCI85676",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "A rise in the occurrence of obesity has driven exploration of its underlying genetic basis and potential targets for intervention. GWAS studies have identified obesity susceptibility pathways involving several neuropeptides that control energy homeostasis, suggesting that variations in the genes that regulate food intake and energy expenditure may contribute to obesity. In this study, we identified 5 additional obesity loci, including a neuronal orphan GPCR called Gpr45, in a forward genetic screen of mutant mice generated by piggyBac insertional mutagenesis. Disruption of Gpr45 led to increased adiposity at the time of weaning and increases in body mass, fat content, glucose intolerance, and hepatic steatosis with advancing age. Mice with disruptions in Gpr45 also displayed a reduction in expression of the metabolic regulator POMC and less energy expenditure prior to the onset of obesity. Mechanistically, we determined that GPR45 regulates POMC expression via the JAK/STAT pathway in a cell-autonomous manner. Consistent with this finding, intraventricular administration of melanotan-2, an analog of the POMC derivative α-MSH, suppressed adult obesity in Gpr45 mutants. These results reveal that GPR45 is a regulator of POMC signaling and energy expenditure, which suggests that it may be a potential intervention target to combat obesity."
+  },
+  {
+   "pmid": "31666192",
+   "titel": "Hypothalamic C2-domain protein involved in MC4R trafficking and control of energy balance",
+   "jahr": "2020",
+   "journal": "Metabolism",
+   "erstautor": "Gavini CK",
+   "doi": "10.1016/j.metabol.2019.153990",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: Rates of overweight and obesity epidemic have risen significantly in the past few decades, and 34% of adults and 15-20% of children and adolescents in the United States are now obese. Melanocortin receptor 4 (MC4R), contributes to appetite control in hypothalamic neurons and is a target for future anti-obesity treatments (such as setmelanotide) or novel drug development effort. Proper MC4R trafficking regulation in hypothalamic neurons is crucial for normal neural control of homeostasis and is altered in obesity and in presence of lipids. The mechanisms underlying altered MC4R trafficking in the context of obesity is still unclear. Here, we discovered that C2CD5 expressed in the hypothalamus is involved in the regulation of MC4R endocytosis. This study unmasked a novel trafficking protein nutritionally regulated in the hypothalamus providing a novel target for MC4R dependent pathways involved in bodyweight homeostasis and Obesity. METHODS: To evaluate the expression of C2cd5, we first used in situ hybridization and RNAscope technology in combination with electronic microscopy. For in vivo, we characterized the energy balance of wild type (WT) and C2CD5 whole-body knockout (C2CD5KO) mice fed normal chow (NC) and/or western-diet (high-fat/high-sucrose/cholesterol) (WD). To this end, we performed comprehensive longitudinal assessment of bodyweight, energy balance (food intake, energy expenditure, locomotor activity using TSE metabolic cages), and glucose homeostasis. In addition, we evaluated the consequence of loss of C2CD5 on feeding behavior changes normally induced by MC4R agonist (Melanotan, MTII) injection in the paraventricular hypothalamus (PVH). For in vitro approach, we tease out the role of C2CD5 and its calcium sensing domain C2 in MC4R trafficking. We focused on endocytosis of MC4R using an antibody feeding experiment (in a neuronal cell line - Neuro2A (N2A) stably expressing HA-MC4R-GFP; against HA-tag and analyzed by flux cytometry). RESULTS: We found that 1) the expression of hypothalamic C2CD5 is decreased in diet-induced obesity models compared to controls, 2) mice lacking C2CD5 exhibit an increase in food intake compared to WT mice, 3) C2CD5 interacts with endocytosis machinery in hypothalamus, 4) loss of functional C2CD5 (lacking C2 domain) blunts MC4R endocytosis in vitro and increases MC4R at the surface that fails to respond to MC4R ligand, and, 5) C2CD5KO mice exhibit decreased acute responses to MTII injection into the PVH. CONCLUSIONS: Based on these, we conclude that hypothalamic C2CD5 is involved in MC4R endocytosis and regulate bodyweight homeostasis. These studies suggest that C2CD5 represents a new protein regulated by metabolic cues and involved in metabolic receptor endocytosis. C2CD5 represent a new target and pathway that could be targeted in Obesity."
+  },
+  {
+   "pmid": "17344945",
+   "titel": "Gateways to clinical trials",
+   "jahr": "2007",
+   "journal": "Methods Find Exp Clin Pharmacol",
+   "erstautor": "Bayés M",
+   "doi": "",
+   "typ": [
+    "Bibliography",
+    "Journal Article"
+   ],
+   "abstract": "Gateways to Clinical Trials are a guide to the most recent clinical trials in current literature and congresses. The data the following tables have been retrieved from the Clinical Trials Knowledge Area of Prous Science Integrity, the drug discovery and development portal, http://integrity.prous.com. This issues focuses on the following selection of drugs: 4'-Thio-ara-C, 5-methyltetrahydrofolate; ABT-089, AD-237, AF-37702, alvocidib hydrochloride, apricitabine, armodafinil, atrasentan, AVE-5883, avian influenza vaccine, azimilide hydrochloride; Banoxantrone, BIBF-1120; CD34+ cells, certolizumab pegol, CHIR-258, cilansetron, CoFactor, CX-3543, cystemustine; D-003, dexloxiglumide, DMXB-anabaseine; Ecogramostim, elcometrine, elcometrine/ethinylestradiol, etravirine; Fenretinide, fingolimod hydrochloride, fospropofol disodium; Gaboxadol, gestodene, glutamine; Human insulin, hyaluronic acid; Incyclinide, indacaterol, ispronicline, istradefylline; Labradimil, lamifiban, lapatinib, L-arginine hydrochloride, liposomal cisplatin, liposome encapsulated paclitaxel, LY-517717; Manidipine hydrochloride/delapril hydrochloride, maraviroc, MBP(82-98), MD-0727, MDX-214, melanotan I, MMR vaccine; Nacystelyn, nalfurafine hydrochloride, nibentan, nilotinib, NK-105; OBI-1, oblimersen sodium, olmesartan medoxomil, olmesartan medoxomil/hydrochlorothiazide, oregovomab; Pexelizumab, PG-116800, PG-CPT, PHA-794428, prasugrel; RC-3095, rDNA insulin, RFB4(dsFv)-PE38, rhEndostatin, rhenium Re-186 etidronate, rhGM-CSF, roflumilast, romidepsin; Sarcosine, SGLU1, SGN-40, succinobucol; TAU, teduglutide, telatinib, tesofensine, tipifarnib, tirapazamine, TKA-731, tolvaptan, trabectedin; Vaccimel, vatalanib succinate, velafermin, vildagliptin, vinflunine; XP-19986; YM-155."
+  },
+  {
+   "pmid": "32674774",
+   "titel": "Combining MALDI mass spectrometry imaging and droplet-base surface sampling analysis for tissue distribution, metabolite profiling, and relative quantification of cyclic peptide melanotan II",
+   "jahr": "2020",
+   "journal": "Anal Chim Acta",
+   "erstautor": "Chen B",
+   "doi": "10.1016/j.aca.2020.05.050",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Peptides have become a fast-growing segment of the pharmaceutical industry over the past few decades. It is essential to develop cutting edge analytical techniques to support the discovery and development of peptide therapeutics, especially to examine their absorption, distribution, metabolism and excretion (ADME) properties. Herein, we utilized two label-free mass spectrometry (MS) based techniques to investigate representative challenges in developing therapeutic peptides, such as tissue distribution, metabolic stability and clearance. A tool proof-of-concept cyclic peptide, melanotan II, was used in this study. Matrix-assisted laser desorption/ionization mass spectrometry imaging (MALDI-MSI), which is a well-developed label-free imaging technique, was used to map the detailed molecular distribution of melanotan II and its metabolites. Droplet-based liquid microjunction surface sampling liquid chromatography-high resolution mass spectrometry (LMJ-SSP-LC-HRMS) was used in combination with MALDI-MSI to rapidly profile molecular information and provide structural insights on drug and metabolites. Using both techniques in parallel allowed a more comprehensive and complementary data set than using either technique independently. We envision MALDI-MSI and droplet-based LMJ-SSP-LC-HRMS, which can be used in combination or as standalone techniques, to become valuable tools for assessing the in vivo fate of peptide therapeutics in support of drug discovery and development."
+  },
+  {
+   "pmid": "26370892",
+   "titel": "Role of the Paraventricular Nucleus of the Hypothalamus in the Sympathoexcitatory Effects of Leptin",
+   "jahr": "2015",
+   "journal": "Hypertension",
+   "erstautor": "Shi Z",
+   "doi": "10.1161/HYPERTENSIONAHA.115.06017",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Leptin binds to receptors in multiple hypothalamic nuclei to increase sympathetic nerve activity; however, the neurocircuitry is unclear. Here, using anesthetized male Sprague-Dawley rats, we investigated the role of the paraventricular nucleus of the hypothalamus. Intracerebroventricular injection of leptin slowly increased lumbar sympathetic nerve activity (LSNA), heart rate, mean arterial pressure, and baroreflex control of LSNA and heart rate. Inhibition of the paraventricular nucleus with muscimol completely reversed leptin's effects. Blockade of paraventricular melanocortin 3/4 receptors with SHU9119 or ionotropic glutamate receptors with kynurenate, alone or together, each partially reversed the effects of leptin, implicating increased activation of glutamate and melanocortin 3/4 receptors. Conversely, although blockade of neuropeptide Y Y1 receptors in the paraventricular nucleus increased LSNA, mean arterial pressure, and heart rate, these responses were prevented by intracerebroventricular or arcuate nucleus injections of leptin, suggesting that, at least in part, leptin also increases sympathetic nerve activity by suppression of tonic neuropeptide Y inhibitory inputs from the arcuate nucleus. Injection of the melanocortin 3/4 receptor agonist melanotan-II into the paraventricular nucleus increased LSNA, mean arterial pressure, and heart rate only after blockade of neuropeptide Y Y1 receptors. Therefore, we conclude that leptin increases LSNA in part via increased glutamatergic and α-melanocyte-stimulating hormone drive of paraventricular sympathoexcitatory neurons, the latter of which requires simultaneous withdrawal of tonic neuropeptide Y inhibition."
+  },
+  {
+   "pmid": "26418335",
+   "titel": "Temporal cAMP Signaling Selectivity by Natural and Synthetic MC4R Agonists",
+   "jahr": "2015",
+   "journal": "Mol Endocrinol",
+   "erstautor": "Molden BM",
+   "doi": "10.1210/me.2015-1071",
+   "typ": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The melanocortin-4 receptor (MC4R) is a G protein-coupled receptor expressed in the brain, where it controls energy balance through pathways including α-melanocyte-stimulating hormone (α-MSH)-dependent signaling. We have reported that the MC4R can exist in an active conformation that signals constitutively by increasing cAMP levels in the absence of receptor desensitization. We asked whether synthetic MC4R agonists differ in their ability to increase intracellular cAMP over time in Neuro2A cells expressing endogenous MC4R and exogenous, epitope-tagged hemagglutinin-MC4R-green fluorescent protein. By analyzing intracellular cAMP in a temporally resolved Förster resonance energy transfer assay, we show that withdrawal of α-MSH leads to a quick reversal of cAMP induction. By contrast, the synthetic agonist melanotan II (MTII) induces a cAMP signal that persists for at least 1 hour after removal of MTII from the medium and cannot be antagonized by agouti related protein. Similarly, in mHypoE-42 immortalized hypothalamic neurons, MTII, but not α-MSH, induced persistent AMP kinase signal, which occurs downstream of increased cAMP. By using a fluorescence recovery after photobleaching assay, it appears that the receptor exposed to MTII continues to signal after being internalized. Similar to MTII, the synthetic MC4R agonists, THIQ and BIM-22511, but not LY2112688, induced prolonged cAMP signaling after agonist withdrawal. However, agonist-exposed MC4R desensitized to the same extent, regardless of the ligand used and regardless of differences in receptor intracellular retention kinetics. In conclusion, α-MSH and LY2112688, when compared with MTII, THIQ, and BIM-22511, vary in the duration of the acute cAMP response, showing distinct temporal signaling selectivity, possibly linked to specific cell compartments from which cAMP signals may originate."
+  }
+ ],
+ "ctgov": [
+  {
+   "nct": "NCT07437560",
+   "titel": "Melanotan II (MT-II) as an Adjunct to NB-UVB Phototherapy for Repigmentation in Stable Nonsegmental Vitiligo",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 60,
+   "start": "2026-02-02",
+   "ende": "2028-02-17",
+   "erkrankungen": [
+    "NonSegmental Vitiligo",
+    "Nonsegmental Vitiligo (Stable)"
+   ],
+   "sponsor": "Hudson Biotech",
+   "ergebnisse": false
+  }
+ ],
+ "gruppe": "E_hormone_sexualitaet_haut"
+}
