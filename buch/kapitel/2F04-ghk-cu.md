@@ -23,7 +23,7 @@ Für die kosmetische Anwendung ist entscheidend, ob GHK-Cu die Hautbarriere übe
 
 ### Studien am Menschen
 
-Die für dieses Buch ausgewertete PubMed-Abfrage (GHK-Cu, Kupfer-Tripeptid oder Kupferpeptid GHK in Titel oder Abstract, Abfragedatum Oktober 2026) ergab nur **eine** Humanstudie. Auf ClinicalTrials.gov ergab die Suche 25 Einträge, von denen jedoch fast alle andere Kupferverbindungen betreffen (etwa radioaktives Kupfer-64 für die Bildgebung). Nur zwei Einträge untersuchen tatsächlich GHK bzw. GHK-Cu. Eine erweiterte Suche ergab zusätzlich die unten genannte ältere Wundstudie sowie Einzelfallberichte.
+Die für dieses Buch ausgewertete PubMed-Abfrage (GHK-Cu, Kupfer-Tripeptid oder Kupferpeptid GHK in Titel oder Abstract, Abfragedatum Oktober 2026) ergab nur **eine** Humanstudie. Auf ClinicalTrials.gov ergab die Suche 25 Einträge, von denen jedoch fast alle andere Kupferverbindungen betreffen (etwa radioaktives Kupfer-64 für die Bildgebung). Nur ein glaubwürdiger Eintrag untersucht tatsächlich GHK bzw. GHK-Cu; ein weiterer Eintrag zu einem GHK-Cu-Wundgel stammt von einem Sponsor, dessen Registereinträge nach unserer Prüfung offenbar fiktive Beispiel- oder Testeinträge sind, und wird deshalb hier nicht berücksichtigt. Eine erweiterte Suche ergab zusätzlich die unten genannte ältere Wundstudie sowie Einzelfallberichte.
 
 | Studie | Teilnehmende und Design | Dauer | Ergebnis |
 |---|---|---|---|
@@ -72,10 +72,9 @@ Diese Befunde zeigen eine biologische Aktivität, lassen sich aber nicht ohne We
 
 **Gesichert (registrierte Studien, Stand Oktober 2026):**
 
-- **Wundheilung:** Eine Phase-2-Studie mit geplant 60 Teilnehmenden prüft ein GHK-Cu-Gel bei akuten Hautwunden; Rekrutierung seit 2026 (NCT07437586).
 - **Pflaster:** Eine Studie mit geplant 100 Gesunden soll untersuchen, ob ein Pflaster (X39) die GHK- und GHK-Cu-Spiegel im Blut verändert; Beginn geplant 2027 (NCT07706361). Der Sponsor ist ein Unternehmen, das das Pflaster vertreibt.
 
-**Einschätzung:** Die Wundgel-Studie könnte erstmals seit Jahrzehnten wieder kontrollierte Daten zu einem medizinisch relevanten Endpunkt liefern. Für die kosmetische Anwendung wären unabhängige, ausreichend große, placebokontrollierte Studien mit einer Creme ohne weitere Wirkstoffe nötig. Für Injektionen ist keine seriöse Studie in Sicht; das Interesse wird vor allem in sozialen Medien und auf dem Graumarkt angeheizt.
+**Einschätzung:** Eine seriöse, registrierte Studie zu einem medizinisch relevanten Endpunkt – etwa der Wundheilung, wo die einzigen positiven kontrollierten Humandaten herkommen – ist derzeit nicht erkennbar. Für die kosmetische Anwendung wären unabhängige, ausreichend große, placebokontrollierte Studien mit einer Creme ohne weitere Wirkstoffe nötig. Für Injektionen ist keine seriöse Studie in Sicht; das Interesse wird vor allem in sozialen Medien und auf dem Graumarkt angeheizt.
 
 ### Fazit
 
