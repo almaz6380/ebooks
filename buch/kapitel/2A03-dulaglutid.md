@@ -105,7 +105,7 @@ Weil Dulaglutid weltweit breit eingesetzt, gut verträglich und mit nachgewiesen
 | SURPASS-CVOT (Nicholls 2025), PMID 41406444 | 13.165 Personen mit Typ-2-Diabetes und Gefäßerkrankung; Tirzepatid vs. Dulaglutid | mehrere Jahre | Schwere Herz-Kreislauf-Ereignisse 12,2 % vs. 13,1 %; HR 0,92, nicht unterlegen, Überlegenheit nicht gezeigt |
 | SURPASS J-mono (Inagaki 2022), PMID 35914543 | 636 Personen in Japan; Tirzepatid vs. Dulaglutid 0,75 mg | 52 Wochen | HbA1c −2,4 bis −2,8 vs. −1,3 |
 | Guo 2026, PMID 41407860 | 731 Personen in China; Mazdutid vs. Dulaglutid 1,5 mg | 28 Wochen | HbA1c-Unterschied −0,24 bzw. −0,30 Prozentpunkte zugunsten Mazdutid |
-| EECOH-2 (He 2025), PMID 40854315 | 621 Personen in China; Ecnoglutid vs. Dulaglutid 1,5 mg | 52 Wochen | HbA1c −1,89 bis −1,91 vs. −1,65 |
+| EECOH-2 (He 2025), PMID 40854315 | 621 Personen in China; Ecnoglutid vs. Dulaglutid 1,5 mg | 52 Wochen (Hauptendpunkt 32) | HbA1c −1,89 bis −1,91 vs. −1,65 |
 
 Besonders aufschlussreich ist SURPASS-CVOT (Nicholls 2025, PMID 41406444), die erste große Endpunktstudie, in der zwei Inkretin-Medikamente direkt gegeneinander antraten. Tirzepatid war nicht schlechter, aber auch nicht nachweislich besser als Dulaglutid. Da Dulaglutid selbst in REWIND das Risiko gesenkt hatte, ist ein „Unentschieden“ gegen Dulaglutid ein starkes Ergebnis für beide Wirkstoffe. Eine nachträgliche Auswertung mit einem breiteren Herz-Nieren-Endpunkt fand einen Vorteil für Tirzepatid (23,7 % vs. 27,4 %; HR 0,84) (Nissen 2026, PMID 41903177). Nachträgliche Auswertungen sind jedoch weniger belastbar als der vorab festgelegte Hauptendpunkt.
 
