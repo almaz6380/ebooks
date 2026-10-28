@@ -9,3 +9,63 @@ de:
   summe: "Insgesamt: {gesamt} Einträge."
   tausender: "."
   keine: "Keine Veröffentlichungen klinischer Studien am Menschen gefunden."
+en:
+  titel: "Index of Studies"
+  einleitung: >-
+    This index lists every publication of a clinical study in humans that the research for each peptide found in
+    PubMed (query October 2026; filters see Methodology). Titles and journals are given in the original language.
+    Each study can be looked up by its PMID at pubmed.ncbi.nlm.nih.gov. Not every entry is a separate study:
+    some studies were analysed and published more than once.
+  summe: "Total: {gesamt} entries."
+  tausender: ","
+  keine: "No publications of clinical studies in humans found."
+fr:
+  titel: "Index des études"
+  einleitung: >-
+    Cet index recense toutes les publications d'études cliniques chez l'humain que la recherche a trouvées dans
+    PubMed pour chaque peptide (requête d'octobre 2026, filtres : voir Méthodologie). Les titres et revues sont
+    donnés dans leur langue d'origine. Chaque étude peut être consultée par son PMID sur pubmed.ncbi.nlm.nih.gov.
+    Toutes les entrées ne correspondent pas à une étude distincte : certaines études ont été analysées et publiées plusieurs fois.
+  summe: "Total : {gesamt} entrées."
+  tausender: " "
+  keine: "Aucune publication d'étude clinique chez l'humain trouvée."
+es:
+  titel: "Índice de estudios"
+  einleitung: >-
+    Este índice recoge todas las publicaciones de estudios clínicos en humanos que la búsqueda encontró en PubMed
+    para cada péptido (consulta de octubre de 2026; filtros, véase Metodología). Los títulos y las revistas figuran
+    en su idioma original. Cada estudio puede consultarse por su PMID en pubmed.ncbi.nlm.nih.gov. No todas las
+    entradas son estudios independientes: algunos estudios se analizaron y publicaron varias veces.
+  summe: "Total: {gesamt} entradas."
+  tausender: "."
+  keine: "No se encontraron publicaciones de estudios clínicos en humanos."
+it:
+  titel: "Indice degli studi"
+  einleitung: >-
+    Questo indice elenca tutte le pubblicazioni di studi clinici sull'uomo che la ricerca ha trovato in PubMed
+    per ciascun peptide (interrogazione di ottobre 2026; filtri: vedi Metodologia). Titoli e riviste sono riportati
+    nella lingua originale. Ogni studio può essere consultato tramite il suo PMID su pubmed.ncbi.nlm.nih.gov.
+    Non ogni voce è uno studio a sé: alcuni studi sono stati analizzati e pubblicati più volte.
+  summe: "Totale: {gesamt} voci."
+  tausender: "."
+  keine: "Nessuna pubblicazione di studi clinici sull'uomo trovata."
+nl:
+  titel: "Studieregister"
+  einleitung: >-
+    Dit register bevat alle publicaties van klinische studies bij mensen die het onderzoek per peptide in PubMed
+    heeft gevonden (zoekopdracht oktober 2026; filters zie Methodologie). Titels en tijdschriften staan in de
+    oorspronkelijke taal. Elke studie is via haar PMID op te zoeken op pubmed.ncbi.nlm.nih.gov. Niet elke vermelding
+    is een afzonderlijke studie: sommige studies zijn meerdere keren geanalyseerd en gepubliceerd.
+  summe: "Totaal: {gesamt} vermeldingen."
+  tausender: "."
+  keine: "Geen publicaties van klinische studies bij mensen gevonden."
+pt:
+  titel: "Índice de estudos"
+  einleitung: >-
+    Este índice lista todas as publicações de estudos clínicos em humanos que a pesquisa encontrou no PubMed para
+    cada peptídeo (consulta de outubro de 2026; filtros, ver Metodologia). Títulos e periódicos estão no idioma
+    original. Cada estudo pode ser consultado pelo seu PMID em pubmed.ncbi.nlm.nih.gov. Nem toda entrada é um
+    estudo independente: alguns estudos foram analisados e publicados mais de uma vez.
+  summe: "Total: {gesamt} entradas."
+  tausender: "."
+  keine: "Nenhuma publicação de estudos clínicos em humanos encontrada."

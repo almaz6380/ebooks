@@ -23,3 +23,159 @@ de:
     Cover: Josef Gallab
 
     Kein Teil dieses Werkes darf ohne schriftliche Genehmigung des Autors vervielfältigt oder verbreitet werden.
+
+en:
+  lang: en-US
+  titel: "The Peptide Handbook"
+  untertitel: "Every Human Study Compared – Effects, Risks, Legal Status and Outlook"
+  autor: "Josef Gallab"
+  rechte: "© 2026 Josef Gallab. All rights reserved."
+  inhalt: "Contents"
+  beschreibung_kurz: "58 peptides from semaglutide to BPC-157: what human studies really show, which risks are known, what the legal situation is and where research is heading."
+  schlagworte: ["Peptides", "Semaglutide", "Tirzepatide", "BPC-157", "Clinical studies", "Health"]
+  impressum: |
+    # Copyright {.unnumbered}
+
+    **The Peptide Handbook**
+    Every Human Study Compared – Effects, Risks, Legal Status and Outlook
+
+    © 2026 Josef Gallab. All rights reserved.
+
+    First edition. Research status: October/November 2026. Translated from the German original.
+
+    This book is for information only. It does not replace medical advice, diagnosis or treatment
+    and contains no recommendations for use. Many of the substances described are not approved as medicines.
+
+    Cover: Josef Gallab
+
+    No part of this work may be reproduced or distributed without the author's written permission.
+
+fr:
+  lang: fr-FR
+  titel: "Le guide des peptides"
+  untertitel: "Toutes les études chez l'humain comparées – effets, risques, statut juridique et perspectives"
+  autor: "Josef Gallab"
+  rechte: "© 2026 Josef Gallab. Tous droits réservés."
+  inhalt: "Table des matières"
+  beschreibung_kurz: "58 peptides, du sémaglutide au BPC-157 : ce que montrent réellement les études chez l'humain, les risques connus, le cadre juridique et l'avenir de la recherche."
+  schlagworte: ["Peptides", "Sémaglutide", "Tirzépatide", "BPC-157", "Études cliniques", "Santé"]
+  impressum: |
+    # Mentions légales {.unnumbered}
+
+    **Le guide des peptides**
+    Toutes les études chez l'humain comparées – effets, risques, statut juridique et perspectives
+
+    © 2026 Josef Gallab. Tous droits réservés.
+
+    Première édition. État des recherches : octobre/novembre 2026. Traduit de l'original allemand.
+
+    Ce livre a un but purement informatif. Il ne remplace ni un avis médical, ni un diagnostic, ni un traitement
+    et ne contient aucune recommandation d'utilisation. Nombre des substances décrites ne sont pas autorisées comme médicaments.
+
+    Couverture : Josef Gallab
+
+    Toute reproduction ou diffusion, même partielle, est interdite sans l'autorisation écrite de l'auteur.
+
+es:
+  lang: es-ES
+  titel: "El manual de los péptidos"
+  untertitel: "Todos los estudios en humanos comparados – efectos, riesgos, situación legal y perspectivas"
+  autor: "Josef Gallab"
+  rechte: "© 2026 Josef Gallab. Todos los derechos reservados."
+  inhalt: "Índice"
+  beschreibung_kurz: "58 péptidos, de la semaglutida al BPC-157: lo que muestran realmente los estudios en humanos, los riesgos conocidos, la situación legal y el futuro de la investigación."
+  schlagworte: ["Péptidos", "Semaglutida", "Tirzepatida", "BPC-157", "Estudios clínicos", "Salud"]
+  impressum: |
+    # Créditos {.unnumbered}
+
+    **El manual de los péptidos**
+    Todos los estudios en humanos comparados – efectos, riesgos, situación legal y perspectivas
+
+    © 2026 Josef Gallab. Todos los derechos reservados.
+
+    Primera edición. Estado de la investigación: octubre/noviembre de 2026. Traducido del original alemán.
+
+    Este libro tiene fines exclusivamente informativos. No sustituye el consejo, el diagnóstico ni el tratamiento médico
+    y no contiene recomendaciones de uso. Muchas de las sustancias descritas no están autorizadas como medicamentos.
+
+    Cubierta: Josef Gallab
+
+    Queda prohibida la reproducción o distribución total o parcial sin la autorización escrita del autor.
+
+it:
+  lang: it-IT
+  titel: "Il manuale dei peptidi"
+  untertitel: "Tutti gli studi sull'uomo a confronto – effetti, rischi, quadro normativo e prospettive"
+  autor: "Josef Gallab"
+  rechte: "© 2026 Josef Gallab. Tutti i diritti riservati."
+  inhalt: "Indice"
+  beschreibung_kurz: "58 peptidi, dalla semaglutide al BPC-157: cosa mostrano davvero gli studi sull'uomo, quali rischi sono noti, qual è il quadro normativo e dove va la ricerca."
+  schlagworte: ["Peptidi", "Semaglutide", "Tirzepatide", "BPC-157", "Studi clinici", "Salute"]
+  impressum: |
+    # Colophon {.unnumbered}
+
+    **Il manuale dei peptidi**
+    Tutti gli studi sull'uomo a confronto – effetti, rischi, quadro normativo e prospettive
+
+    © 2026 Josef Gallab. Tutti i diritti riservati.
+
+    Prima edizione. Stato della ricerca: ottobre/novembre 2026. Tradotto dall'originale tedesco.
+
+    Questo libro ha scopo esclusivamente informativo. Non sostituisce il parere, la diagnosi o il trattamento medico
+    e non contiene raccomandazioni d'uso. Molte delle sostanze descritte non sono autorizzate come medicinali.
+
+    Copertina: Josef Gallab
+
+    Nessuna parte di quest'opera può essere riprodotta o distribuita senza l'autorizzazione scritta dell'autore.
+
+nl:
+  lang: nl-NL
+  titel: "Het peptidenhandboek"
+  untertitel: "Alle studies bij mensen vergeleken – werking, risico's, wetgeving en vooruitzichten"
+  autor: "Josef Gallab"
+  rechte: "© 2026 Josef Gallab. Alle rechten voorbehouden."
+  inhalt: "Inhoud"
+  beschreibung_kurz: "58 peptiden, van semaglutide tot BPC-157: wat studies bij mensen echt laten zien, welke risico's bekend zijn, hoe de wetgeving eruitziet en waar het onderzoek naartoe gaat."
+  schlagworte: ["Peptiden", "Semaglutide", "Tirzepatide", "BPC-157", "Klinische studies", "Gezondheid"]
+  impressum: |
+    # Colofon {.unnumbered}
+
+    **Het peptidenhandboek**
+    Alle studies bij mensen vergeleken – werking, risico's, wetgeving en vooruitzichten
+
+    © 2026 Josef Gallab. Alle rechten voorbehouden.
+
+    Eerste druk. Stand van het onderzoek: oktober/november 2026. Vertaald uit het Duitse origineel.
+
+    Dit boek dient uitsluitend ter informatie. Het vervangt geen medisch advies, diagnose of behandeling
+    en bevat geen gebruiksaanbevelingen. Veel van de beschreven stoffen zijn niet als geneesmiddel toegelaten.
+
+    Omslag: Josef Gallab
+
+    Niets uit deze uitgave mag zonder schriftelijke toestemming van de auteur worden verveelvoudigd of verspreid.
+
+pt:
+  lang: pt-BR
+  titel: "O manual dos peptídeos"
+  untertitel: "Todos os estudos em humanos comparados – efeitos, riscos, situação legal e perspectivas"
+  autor: "Josef Gallab"
+  rechte: "© 2026 Josef Gallab. Todos os direitos reservados."
+  inhalt: "Sumário"
+  beschreibung_kurz: "58 peptídeos, da semaglutida ao BPC-157: o que os estudos em humanos realmente mostram, quais riscos são conhecidos, qual é a situação legal e para onde caminha a pesquisa."
+  schlagworte: ["Peptídeos", "Semaglutida", "Tirzepatida", "BPC-157", "Estudos clínicos", "Saúde"]
+  impressum: |
+    # Créditos {.unnumbered}
+
+    **O manual dos peptídeos**
+    Todos os estudos em humanos comparados – efeitos, riscos, situação legal e perspectivas
+
+    © 2026 Josef Gallab. Todos os direitos reservados.
+
+    Primeira edição. Situação da pesquisa: outubro/novembro de 2026. Traduzido do original alemão.
+
+    Este livro tem finalidade exclusivamente informativa. Não substitui aconselhamento, diagnóstico ou tratamento médico
+    e não contém recomendações de uso. Muitas das substâncias descritas não são aprovadas como medicamentos.
+
+    Capa: Josef Gallab
+
+    Nenhuma parte desta obra pode ser reproduzida ou distribuída sem a autorização por escrito do autor.
