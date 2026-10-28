@@ -6,6 +6,7 @@ Kapitel: Deutsch in buch/kapitel/, andere Sprachen in buch/<sprache>/kapitel/.
 Metadaten: buch/metadaten.yaml (je Sprache).
 """
 import pathlib
+import re
 import subprocess
 import sys
 
@@ -26,9 +27,15 @@ def main(sprache):
     verzeichnis.main(sprache, bau / "92-studienverzeichnis.md")
     (bau / "01-impressum.md").write_text(meta["impressum"], encoding="utf-8")
 
-    dateien = sorted(kap_dir.glob("*.md"))
-    teile = [d for d in dateien if d.name < "01"] + [bau / "01-impressum.md"] \
-        + [d for d in dateien if d.name >= "01"] + [bau / "92-studienverzeichnis.md"]
+    # Kapitel in den Bauordner kopieren; geschützte Leerzeichen, damit Zahl und Einheit nicht getrennt werden
+    teile = [bau / "01-impressum.md", bau / "92-studienverzeichnis.md"]
+    for d in kap_dir.glob("*.md"):
+        text = d.read_text(encoding="utf-8")
+        text = re.sub(r"(\d) (%|kg|mg|µg|mmol|Wochen|Monate|Jahre|Tage|Stunden)\b", "\\1\u00a0\\2", text)
+        text = re.sub(r"(\d) %", "\\1\u00a0%", text)
+        text = re.sub(r"(PMID|NCT|Phase) (\d)", "\\1\u00a0\\2", text)
+        (bau / d.name).write_text(text, encoding="utf-8")
+        teile.append(bau / d.name)
     teile.sort(key=lambda p: p.name)
 
     m = {
