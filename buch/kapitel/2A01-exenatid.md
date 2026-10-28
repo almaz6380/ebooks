@@ -67,7 +67,9 @@ In **SUSTAIN 3** (Ahmann 2018, PMID 29246950) verlor Exenatid wöchentlich über
 | Vergleich | Design | Dauer | Ergebnis (Exenatid wöchentlich vs. Vergleich) |
 |---|---|---|---|
 | DURATION-6 (Buse 2013), PMID 23141817 | 911 Personen, offen vs. Liraglutid | 26 Wochen | HbA1c −1,28 vs. −1,48; Übelkeit 9 % vs. 21 % |
-| SUSTAIN 3 (Ahmann 2018), PMID 29246950 | offen vs. Semaglutid wöchentlich | 56 Wochen | HbA1c −0,9 vs. −1,5; Gewicht −1,9 vs. −5,6 kg | Der Vergleich mit Dulaglutid und Liraglutid zweimal täglich (die AWARD-1- und LEAD-6-Studien) wird in den jeweiligen Kapiteln besprochen.
+| SUSTAIN 3 (Ahmann 2018), PMID 29246950 | offen vs. Semaglutid wöchentlich | 56 Wochen | HbA1c −0,9 vs. −1,5; Gewicht −1,9 vs. −5,6 kg |
+
+Der Vergleich mit Dulaglutid und Liraglutid zweimal täglich (die AWARD-1- und LEAD-6-Studien) wird in den jeweiligen Kapiteln besprochen.
 
 Zusammengefasst ordnet sich Exenatid innerhalb der Klasse im unteren Mittelfeld ein: stärker als die DPP-4-Hemmer (Gliptine), schwächer als Liraglutid, Dulaglutid und vor allem Semaglutid.
 
