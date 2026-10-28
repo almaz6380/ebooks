@@ -1,0 +1,11 @@
+name: Gonadorelin
+gruppe: E
+evidenz: B
+zulassung_eu: "national in einzelnen Staaten (GnRH-Test, Pumpentherapie, Nasenspray bei Hodenhochstand)"
+zulassung_usa: "nein (frühere Präparate Factrel, Lutrepulse vom Markt)"
+wada: "verboten für Männer (S2)"
+humanstudien: 9  # unterschätzt: die meisten Studien nutzen die Begriffe GnRH/LHRH
+registerstudien: 1000  # Abfrage-Obergrenze; Treffer fast nur GnRH-Analoga, nur ca. 10 Einträge betreffen natives GnRH
+kernergebnis: "Pulsatiles GnRH führte bei 109 Frauen mit hypothalamischer Amenorrhö bei 91 % bzw. 96 % zum Eisprung (PMID 2122733)."
+hauptrisiko: "Bei richtiger Anwendung gering (Katheter- und Hautreaktionen, Mehrlinge); falscher Rhythmus kann die Hormonachse unterdrücken."
+ausblick: "Kaum neue Forschung; Bedeutung hängt von der Verfügbarkeit der Präparate und neuen Pumpensystemen ab."
