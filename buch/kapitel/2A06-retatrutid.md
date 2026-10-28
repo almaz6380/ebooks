@@ -20,7 +20,7 @@ Beim Menschen berichteten Teilnehmende einer Phase-2-Studie unter höheren Dosen
 
 ### Studien am Menschen
 
-**Größenordnung der Studienlage:** Die automatisierte PubMed-Abfrage (Oktober 2026) ergab 10 Humanstudien, ergänzt durch die gezielte Suche nach den Phase-1- und Phase-3-Veröffentlichungen. Auf ClinicalTrials.gov waren 33 Studien registriert, darunter das Zulassungsprogramm TRIUMPH (Adipositas) und TRANSCEND (Typ-2-Diabetes). Für einen Wirkstoff ohne Zulassung ist das eine ungewöhnlich solide Datenlage – sie stammt allerdings fast vollständig aus herstellerfinanzierten Studien.
+**Größenordnung der Studienlage:** Die automatisierte PubMed-Abfrage (Oktober 2026) ergab 10 Humanstudien, ergänzt durch die gezielte Suche nach den Phase-1- und Phase-3-Veröffentlichungen. Auf ClinicalTrials.gov waren 32 Studien registriert (ein offenkundig fiktiver Beispiel-Eintrag ist nicht mitgezählt), darunter das Zulassungsprogramm TRIUMPH (Adipositas) und TRANSCEND (Typ-2-Diabetes). Für einen Wirkstoff ohne Zulassung ist das eine ungewöhnlich solide Datenlage – sie stammt allerdings fast vollständig aus herstellerfinanzierten Studien.
 
 #### Frühe Studien
 

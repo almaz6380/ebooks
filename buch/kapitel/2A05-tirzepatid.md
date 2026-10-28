@@ -22,7 +22,7 @@ Vereinfacht gesagt: Tirzepatid wirkt wie ein GLP-1-Medikament mit einem zusätzl
 
 ### Studien am Menschen
 
-**Größenordnung der Studienlage:** Die automatisierte PubMed-Abfrage (Oktober 2026) ergab 144 als Humanstudien klassifizierte Veröffentlichungen mit „tirzepatide“ im Titel oder Abstract, dazu sehr viele Übersichtsarbeiten und Meta-Analysen. Auf ClinicalTrials.gov waren 308 Studien registriert, davon über 100 noch in der Rekrutierung. Tirzepatid gehört damit zu den am besten untersuchten Wirkstoffen dieses Buches. Die Hauptlast tragen zwei Zulassungsprogramme: **SURPASS** (Typ-2-Diabetes) und **SURMOUNT** (Adipositas), ergänzt durch Studien zu Herzinsuffizienz, Schlafapnoe und Fettleber.
+**Größenordnung der Studienlage:** Die automatisierte PubMed-Abfrage (Oktober 2026) ergab 144 als Humanstudien klassifizierte Veröffentlichungen mit „tirzepatide“ im Titel oder Abstract, dazu sehr viele Übersichtsarbeiten und Meta-Analysen. Auf ClinicalTrials.gov waren 307 Studien registriert, davon über 100 noch in der Rekrutierung (ein offenkundig fiktiver Beispiel-Eintrag eines unbekannten Sponsors ist nicht mitgezählt). Tirzepatid gehört damit zu den am besten untersuchten Wirkstoffen dieses Buches. Die Hauptlast tragen zwei Zulassungsprogramme: **SURPASS** (Typ-2-Diabetes) und **SURMOUNT** (Adipositas), ergänzt durch Studien zu Herzinsuffizienz, Schlafapnoe und Fettleber.
 
 #### Vom Labor in die Klinik: Phase 1 und 2
 

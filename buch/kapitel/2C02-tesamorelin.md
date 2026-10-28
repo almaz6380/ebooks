@@ -19,7 +19,7 @@ Unter bestimmten HIV-Therapien, vor allem den älteren, sammelt sich bei manchen
 
 ### Studien am Menschen
 
-**Größenordnung der Studienlage (Abfrage Oktober 2026):** Die automatisierte Suche dieses Buches fand **23** Humanstudien in PubMed (`humanstudien_alle`) und **24** Einträge bei ClinicalTrials.gov. Dazu kommen drei systematische Übersichten mit Meta-Analysen.
+**Größenordnung der Studienlage (Abfrage Oktober 2026):** Die automatisierte Suche dieses Buches fand **23** Humanstudien in PubMed (`humanstudien_alle`) und **24** Einträge bei ClinicalTrials.gov; einer davon (Sponsor „Hudson Biotech“, Titelzusatz „Mock Study“) ist offenbar ein fiktiver Beispieleintrag und wird hier nicht mitgezählt, sodass **23** echte Registerstudien bleiben. Dazu kommen drei systematische Übersichten mit Meta-Analysen.
 
 #### Die Zulassungsstudien
 
@@ -93,7 +93,6 @@ Bei ClinicalTrials.gov sind im Oktober 2026 unter anderem folgende offene Studie
 |---|---|---|---|
 | NCT06554717 | Phase 2, 100 Personen | rekrutierend (Start 2025) | Tesamorelin zusätzlich zu Training bei HIV – körperliche Leistungsfähigkeit |
 | NCT03150511 | Phase 2, 36 Personen | rekrutierend (seit 2018) | Erholung nach Verletzung peripherer Nerven |
-| NCT07481734 | Phase 2, 120 Personen | rekrutierend (Start 2026) | Leberfett bei Fettlebererkrankung; der Titel trägt den Zusatz „Mock Study“, die Aussagekraft des Eintrags ist daher unklar |
 
 *Gesichert* ist damit nur, dass weiter in kleinen Phase-2-Studien geforscht wird. *Einschätzung des Autors:* Die Fettleber außerhalb von HIV wäre das naheliegendste neue Anwendungsgebiet, doch dort konkurrieren inzwischen andere Wirkstoffe mit deutlich größeren Studienprogrammen. Eine Zulassung in der EU ist in absehbarer Zeit nicht erkennbar.
 

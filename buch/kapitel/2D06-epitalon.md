@@ -90,7 +90,7 @@ Die überwiegende Zahl dieser Studien stammt aus der Gruppe um Chavinson und Ani
 
 ### Laufende Studien und Ausblick
 
-**Gesichert:** Auf ClinicalTrials.gov ist eine frühe Studie registriert, in der „systemische und örtliche“ Verjüngungsmaßnahmen mit sogenannten Alterungsuhren (epigenetischen Messverfahren) bewertet werden sollen; geplant sind 48 Teilnehmende, Start Oktober 2026 (NCT07888595). Der Eintrag wird bei einer Registersuche nach „Epitalon“ gefunden; es handelt sich um eine kleine, frühe Studie ohne Placebo-Design im Titel, die keine Wirksamkeitsfrage im Sinne einer Zulassung beantworten kann.
+**Gesichert:** Auf ClinicalTrials.gov ist eine frühe Studie registriert, in der „systemische und örtliche“ Verjüngungsmaßnahmen mit sogenannten Alterungsuhren (epigenetischen Messverfahren) bewertet werden sollen; geplant sind 48 Teilnehmende, Start Oktober 2026 (NCT07888595). Laut Registereintrag ist Epitalon dort nur einer von fünf Bestandteilen eines Peptid-Serums, das auf die Haut aufgetragen wird; zusätzlich werden Medikamente und Nahrungsergänzungsmittel eingenommen. Die Studie hat nur eine Gruppe, keine Verblindung und keine Placebo-Kontrolle. Sie kann daher keine Aussage über die Wirkung von Epitalon selbst liefern.
 
 **Einschätzung:** Die Aufnahme in die US-Rezeptur-Liste würde die Verbreitung erhöhen, ohne die Datenlage zu verbessern. Entscheidend wäre eine unabhängige, randomisierte Studie, die zumindest Telomerlänge, Melatonin und Sicherheitsparameter am Menschen über längere Zeit misst.
 
