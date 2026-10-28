@@ -1,0 +1,1173 @@
+{
+ "name": "Afamelanotid",
+ "status": "zugelassen",
+ "suchbegriff_pubmed": "afamelanotide[tiab]",
+ "suchbegriff_ctgov": "afamelanotide",
+ "humanstudien_alle": [
+  {
+   "pmid": "41766687",
+   "titel": "Adjunctive use of Polypodium leucotomos extract in patients with erythropoietic protoporphyria: An exploratory study",
+   "jahr": "2026",
+   "journal": "Photochem Photobiol",
+   "erstautor": "Shetty N",
+   "doi": "10.1111/php.70081",
+   "typ": [
+    "Clinical Trial",
+    "Letter"
+   ]
+  },
+  {
+   "pmid": "37496004",
+   "titel": "A feasibility and safety study of afamelanotide in acute stroke patients - an open label, proof of concept, phase iia clinical trial",
+   "jahr": "2023",
+   "journal": "BMC Neurol",
+   "erstautor": "Stanislaus V",
+   "doi": "10.1186/s12883-023-03338-9",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "31987791",
+   "titel": "Afamelanotide implants and narrow-band ultraviolet B phototherapy for the treatment of nonsegmental vitiligo in Asians",
+   "jahr": "2020",
+   "journal": "J Am Acad Dermatol",
+   "erstautor": "Toh JJH",
+   "doi": "10.1016/j.jaad.2020.01.035",
+   "typ": [
+    "Letter",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "26132941",
+   "titel": "Afamelanotide for Erythropoietic Protoporphyria",
+   "jahr": "2015",
+   "journal": "N Engl J Med",
+   "erstautor": "Langendonk JG",
+   "doi": "10.1056/NEJMoa1411481",
+   "typ": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "25402764",
+   "titel": "Evaluation of the immunogenicity of the synthetic α-melanocyte-stimulating hormone (α-MSH) analogue afamelanotide ([Nle4-D-Phe7]-α-MSH, Scenesse®) in erythropoietic protoporphyria patients by ELISA detecting both anti-afamelanotide and anti-α-MSH antibodies",
+   "jahr": "2015",
+   "journal": "Skin Pharmacol Physiol",
+   "erstautor": "Lengweiler S",
+   "doi": "10.1159/000362174",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Clinical Trial, Phase III",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "25230094",
+   "titel": "Afamelanotide and narrowband UV-B phototherapy for the treatment of vitiligo: a randomized multicenter trial",
+   "jahr": "2015",
+   "journal": "JAMA Dermatol",
+   "erstautor": "Lim HW",
+   "doi": "10.1001/jamadermatol.2014.1875",
+   "typ": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "24256215",
+   "titel": "Efficacy of the melanocortin analogue Nle4-D-Phe7-α-melanocyte-stimulating hormone in the treatment of patients with Hailey-Hailey disease",
+   "jahr": "2014",
+   "journal": "Clin Exp Dermatol",
+   "erstautor": "Biolcati G",
+   "doi": "10.1111/ced.12203",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "22845050",
+   "titel": "Beneficial effects of the melanocortin analogue Nle4-D-Phe7-α-MSH in acne vulgaris",
+   "jahr": "2014",
+   "journal": "J Eur Acad Dermatol Venereol",
+   "erstautor": "Böhm M",
+   "doi": "10.1111/j.1468-3083.2012.04658.x",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "20969564",
+   "titel": "Systemic photoprotection in solar urticaria with α-melanocyte-stimulating hormone analogue [Nle4-D-Phe7]-α-MSH",
+   "jahr": "2011",
+   "journal": "Br J Dermatol",
+   "erstautor": "Haylett AK",
+   "doi": "10.1111/j.1365-2133.2010.10104.x",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "19656325",
+   "titel": "Mitigating photosensitivity of erythropoietic protoporphyria patients by an agonistic analog of alpha-melanocyte stimulating hormone",
+   "jahr": "2009",
+   "journal": "Photochem Photobiol",
+   "erstautor": "Harms JH",
+   "doi": "10.1111/j.1751-1097.2009.00595.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  }
+ ],
+ "humanstudien_detail": [
+  {
+   "pmid": "26132941",
+   "titel": "Afamelanotide for Erythropoietic Protoporphyria",
+   "jahr": "2015",
+   "journal": "N Engl J Med",
+   "erstautor": "Langendonk JG",
+   "doi": "10.1056/NEJMoa1411481",
+   "typ": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Erythropoietic protoporphyria is a severe photodermatosis that is associated with acute phototoxicity. Patients with this condition have excruciating pain and a markedly reduced quality of life. We evaluated the safety and efficacy of an α-melanocyte-stimulating hormone analogue, afamelanotide, to decrease pain and improve quality of life. METHODS: We conducted two multicenter, randomized, double-blind, placebo-controlled trials of subcutaneous implants containing 16 mg of afamelanotide. Patients in the European Union (74 patients) and the United States (94 patients) were randomly assigned, in a 1:1 ratio, to receive a subcutaneous implant containing either afamelanotide or placebo every 60 days (a total of five implants in the European Union study and three in the U.S study). The type and duration of sun exposure, number and severity of phototoxic reactions, and adverse events were recorded over the respective 180-day and 270-day study periods. Quality of life was assessed with the use of validated questionnaires. A subgroup of U.S. patients underwent photoprovocation testing. The primary efficacy end point was the number of hours of direct exposure to sunlight without pain. RESULTS: In the U.S. study, the duration of pain-free time after 6 months was longer in the afamelanotide group (median, 69.4 hours, vs. 40.8 hours in the placebo group; P=0.04). In the European Union study, the duration of pain-free time after 9 months was also longer in the afamelanotide group than in the placebo group (median, 6.0 hours vs. 0.8 hours; P=0.005), and the number of phototoxic reactions was lower in the the afamelanotide group (77 vs. 146, P=0.04). In both trials, quality of life improved with afamelanotide therapy. Adverse events were mostly mild; serious adverse events were not thought to be related to the study drug. CONCLUSIONS: Afamelanotide had an acceptable side-effect and adverse-event profile and was associated with an increased duration of sun exposure without pain and improved quality of life in patients with erythropoietic protoporphyria. (Funded by Clinuvel Pharmaceuticals and others; ClinicalTrials.gov numbers, NCT01605136 and NCT00979745.)."
+  },
+  {
+   "pmid": "19656325",
+   "titel": "Mitigating photosensitivity of erythropoietic protoporphyria patients by an agonistic analog of alpha-melanocyte stimulating hormone",
+   "jahr": "2009",
+   "journal": "Photochem Photobiol",
+   "erstautor": "Harms JH",
+   "doi": "10.1111/j.1751-1097.2009.00595.x",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Erythropoietic protoporphyria (EPP) is a rare hereditary disorder characterized by dermal accumulation of the photosensitizer protoporphyrin IX. Following sunlight exposure, the resulting photosensitivity is manifested first as pain, later as erythema, edema and dermal lesions. Afamelanotide (Nle(4)-D-Phe(7)-alpha-MSH), a synthetic analog of alpha-melanocyte stimulating hormone and agonist of the melanocortin-1-receptor, promotes melanin synthesis, increasing skin pigmentation. This study examines the efficacy of afamelanotide in preventing symptoms in patients with EPP. A sustained-release subcutaneous implant of 20 mg afamelanotide was administered twice, with a 60-day interval to five EPP patients. Therapeutic efficacy was assessed by a photoprovocation test using standardized white light irradiation, melanin density (MD) determination and daily recording of sunlight exposure and symptoms. From Day 30 to Day 120 tolerance to photoprovocation significantly increased compared with baseline (P = 0.007) and skin MD was significantly higher than that recorded at baseline (P = 0.004). Except for two low-grade pain episodes, patients recorded no phototoxic events past Day 4 of treatment. Tolerance to natural sunlight was up to 24 times longer than prior to therapy. The findings demonstrate beneficial effects of afamelanotide in patients with EPP. Due to the limited number of patients enrolled and the design being an open-label study, confirmation by a large-scale trial is required."
+  },
+  {
+   "pmid": "22845050",
+   "titel": "Beneficial effects of the melanocortin analogue Nle4-D-Phe7-α-MSH in acne vulgaris",
+   "jahr": "2014",
+   "journal": "J Eur Acad Dermatol Venereol",
+   "erstautor": "Böhm M",
+   "doi": "10.1111/j.1468-3083.2012.04658.x",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: α-Melanocyte-stimulating hormone (α-MSH) is a melanocortin peptide that increases skin pigmentation during ultraviolet light-mediated tanning. As α-MSH has been shown to possess anti-inflammatory effects, we assessed the clinical potential of a superpotent α-MSH analogue, afamelanotide (Nle(4)-D-Phe(7)-α-MSH), in patients with acne vulgaris, the most common inflammatory skin disorder. METHODS: Afamelanotide (16 mg) was given in a phase II open-label pilot study subcutaneously as a sustained-release resorbable implant formulation to 3 patients with mild-to-moderate facial acne vulgaris. Evaluation included lesion count, adverse effects and patient-reported outcome. Monitoring of laboratory parameters included differential blood counts, electrolytes, urine analysis, and liver and kidney function tests. Skin melanin density was measured by reflectance spectrophotometry. RESULTS: The total number as well as the number of inflammatory acne lesions declined in all patients 56 days after the first injection of afamelanotide. Life quality as measured by Dermatology Life Quality Index likewise improved in all 3 patients 56 days after the first injection of afamelanotide. There were no adverse effects except mild and short-term fatigue in one patient. All patients experienced increased pigmentation especially on the face. Clinically relevant changes in laboratory parameters were not detected. CONCLUSIONS: Afamelanotide appears to have anti-inflammatory effects in patients with mild-to-moderate acne vulgaris. Future trials are needed to confirm the anti-inflammatory action of this melanocortin analogue in patients with acne vulgaris."
+  },
+  {
+   "pmid": "20969564",
+   "titel": "Systemic photoprotection in solar urticaria with α-melanocyte-stimulating hormone analogue [Nle4-D-Phe7]-α-MSH",
+   "jahr": "2011",
+   "journal": "Br J Dermatol",
+   "erstautor": "Haylett AK",
+   "doi": "10.1111/j.1365-2133.2010.10104.x",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Solar urticaria is a rare photosensitivity disorder demonstrating a range of action spectra, which can inflict a very large impact on life quality despite available treatments. Melanin broadly reduces skin penetration by ultraviolet-visible wavelengths, thus increased melanization may protect in solar urticaria. OBJECTIVES: To examine quantitatively for impact of the potent α-melanocyte stimulating hormone analogue afamelanotide ([Nle(4)-D-Phe(7)]-α-MSH, Scenesse(®); Clinuvel Pharmaceuticals Ltd, Melbourne, Vic., Australia) on the solar urticaria response and skin melanization. METHODS: Five patients with solar urticaria received a single dose of 16 mg subcutaneous afamelanotide implant in winter time. Melanin density was assessed spectrophotometrically from day 0 to day 60. Detailed monochromated light testing to geometric dose series (increment ) of wavelengths 300-600 nm was performed at 0, 30 and 60 days, with assessment of weal and flare area and minimum urticarial dose (MUD). Data were analysed by repeated-measures anova. RESULTS: Mean melanin density increased by day 7, peaked at day 15 and remained elevated at day 60 (P=0·03, 0·01, 0·02 vs. baseline, respectively). Baseline phototesting revealed action spectra of 320-400 (n=1), 320-500 (n=2), 300-600 (n=1) and 370-500 nm (n=1), and on afamelanotide mean rises in MUD of 1-12 and 1-3 dose increments were seen at the individual wavelengths tested, at 30 and 60 days, respectively. A significant fall in weal area occurred across responding wavelengths from 300 to 600 nm at 60 days postimplant (P=0·049 vs. baseline), accompanied by greater than twofold overall increase in MUD (P=0·058 vs. baseline). CONCLUSIONS: Melanization following afamelanotide is accompanied by reduction in solar urticaria response across a broad spectrum of wavelengths. Further study is warranted to assess clinical benefit under ambient conditions in summer."
+  },
+  {
+   "pmid": "24256215",
+   "titel": "Efficacy of the melanocortin analogue Nle4-D-Phe7-α-melanocyte-stimulating hormone in the treatment of patients with Hailey-Hailey disease",
+   "jahr": "2014",
+   "journal": "Clin Exp Dermatol",
+   "erstautor": "Biolcati G",
+   "doi": "10.1111/ced.12203",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Hailey-Hailey disease (HHD) is a rare, chronic and recurrent blistering disorder, which is characterized clinically by erosions occurring primarily in intertriginous regions, and histologically by suprabasal acantholysis. Oxidative stress plays a specific role in the pathogenesis of HHD, by regulating the expression of factors playing an important role in keratinocyte proliferation and differentiation. AIM: Given the significance of oxidative stress in HHD, we investigated the potential effects of the antioxidant properties of an α-MSH analogue, Nle4-D-Phe7-α-MSH (afamelanotide), in HHD lesion-derived keratinocytes. RESULTS: Treatment of HHD-derived keratinocytes with afamelanotide contributed to upregulation of Nrf2 [nuclear factor (erythroid-derived 2)-like 2], a redox-sensitive transcription factor that plays a pivotal role in redox homeostasis during oxidative stress. Additionally, afamelanotide treatment restored the defective proliferative capability of lesion-derived keratinocytes. Our results show that Nrf2 is an important target of the afamelanotide signalling that reduces oxidative stress. Because afamelanotide possesses antioxidant effects, we also assessed the clinical potential of this α-MSH analogue in the treatment of patients with HHD. In a phase II open-label pilot study, afamelanotide 16 mg was administered subcutaneously as a sustained-release resorbable implant formulation to two patients with HHD, who had a number of long-standing skin lesions. For both patients, their scores on the Short Form-36 improved 30 days after the first injection of afamelanotide, and both had 100% clearance of HHD lesions 60 days after the first injection, independently of the lesion location. CONCLUSIONS: Afamelanotide is effective for the treatment of skin lesions in HHD."
+  },
+  {
+   "pmid": "25230094",
+   "titel": "Afamelanotide and narrowband UV-B phototherapy for the treatment of vitiligo: a randomized multicenter trial",
+   "jahr": "2015",
+   "journal": "JAMA Dermatol",
+   "erstautor": "Lim HW",
+   "doi": "10.1001/jamadermatol.2014.1875",
+   "typ": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "IMPORTANCE: Narrowband UV-B (NB-UV-B) phototherapy is used extensively to treat vitiligo. Afamelanotide, an analogue of α-melanocyte-stimulating hormone, is known to induce tanning of the skin. OBJECTIVE: To evaluate the efficacy and safety of combination therapy for generalized vitiligo consisting of afamelanotide implant and NB-UV-B phototherapy. DESIGN, SETTING, AND PARTICIPANTS: This study was performed in 2 academic outpatient dermatology centers and 1 private dermatology practice. We enrolled men and women 18 years or older with Fitzpatrick skin phototypes (SPTs) III to VI and a confirmed diagnosis of nonsegmental vitiligo that involved 15% to 50% of total body surface area. Vitiligo was stable or slowly progressive for 3 months. Patients were randomized to combination therapy (n = 28) vs NB-UV-B monotherapy (n = 27). After 1 month of NB-UV-B phototherapy, 16 mg of afamelanotide was administered subcutaneously to the combination therapy group monthly for 4 months while NB-UV-B phototherapy continued; the other group continued to receive NB-UV-B monotherapy. INTERVENTIONS: Narrowband UV-B monotherapy vs combined NB-UV-B phototherapy and afamelanotide. MAIN OUTCOMES AND MEASURES: Response on the Vitiligo Area Scoring Index and Vitiligo European Task Force scoring system. RESULTS: Response in the combination therapy group was superior to that in the NB-UV-B monotherapy group (P < .05) at day 56. For the face and upper extremities, a significantly higher percentage of patients in the combination therapy group achieved repigmentation, and at earlier times (face, 41.0 vs 61.0 days [P = .001]; upper extremities, 46.0 vs 69.0 days [P = .003]). In the combination therapy group, repigmentation was 48.64% (95% CI, 39.49%-57.80%) at day 168 vs 33.26% (95% CI, 24.18%-42.33%) in the NB-UV-B monotherapy group. Notable adverse events included erythema in both groups and minor infections and nausea in the combination therapy group. Comparison between Fitzpatrick SPTs showed patients with SPTs IV to VI in the combination therapy group had improvement in the Vitiligo Area Scoring Index at days 56 and 84 (P < .05); no significant difference was noted in patients with SPT III. CONCLUSIONS AND RELEVANCE: A combination of afamelanotide implant and NB-UV-B phototherapy resulted in clinically apparent, statistically significant superior and faster repigmentation compared with NB-UV-B monotherapy. The response was more noticeable in patients with SPTs IV to VI. TRIAL REGISTRATION: clinicaltrials.gov Identifier: NCT01430195."
+  },
+  {
+   "pmid": "25402764",
+   "titel": "Evaluation of the immunogenicity of the synthetic α-melanocyte-stimulating hormone (α-MSH) analogue afamelanotide ([Nle4-D-Phe7]-α-MSH, Scenesse®) in erythropoietic protoporphyria patients by ELISA detecting both anti-afamelanotide and anti-α-MSH antibodies",
+   "jahr": "2015",
+   "journal": "Skin Pharmacol Physiol",
+   "erstautor": "Lengweiler S",
+   "doi": "10.1159/000362174",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Clinical Trial, Phase III",
+    "Journal Article"
+   ],
+   "abstract": "UNLABELLED: Afamelanotide is an α-melanocyte-stimulating hormone (α-MSH) agonist with proven efficacy in photodermatoses such as erythropoietic protoporphyria (EPP). This peptide drug, repeatedly administered over prolonged time, may induce anti-drug antibodies (ADA). Here, we describe a new ELISA method developed to monitor the occurrence of ADA against afamelanotide as well as against α-MSH. Covalent binding instead of absorption of antigen onto the microtitre wells prevented antigen leakage and enabled extensive washings followed by lower background. The cut-off between antibody-negative and -positive sera was determined. Inhibition of the antigen-antibody reaction by excess soluble antigen tested for specificity. The sensitivity of the ELISA was 608 and 1,390 ng/ml of specific ADA against afamelanotide and α-MSH, respectively. This ELISA method enabled us to investigate the occurrence of ADA during long-term administration of afamelanotide. No immunoreactivity was found in 23 of the 26 EPP patients exposed to the drug for up to 6 years. Pre-existing immunoreactivity against afamelanotide as well as α-MSH was found in 3 patients, whose titres did not change during afamelanotide administration. CONCLUSION: The new ELISA is suitable to determine ADA against afamelanotide and α-MSH. Afamelanotide did not elicit ADA during long-term administration in patients with EPP."
+  },
+  {
+   "pmid": "31987791",
+   "titel": "Afamelanotide implants and narrow-band ultraviolet B phototherapy for the treatment of nonsegmental vitiligo in Asians",
+   "jahr": "2020",
+   "journal": "J Am Acad Dermatol",
+   "erstautor": "Toh JJH",
+   "doi": "10.1016/j.jaad.2020.01.035",
+   "typ": [
+    "Letter",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "37496004",
+   "titel": "A feasibility and safety study of afamelanotide in acute stroke patients - an open label, proof of concept, phase iia clinical trial",
+   "jahr": "2023",
+   "journal": "BMC Neurol",
+   "erstautor": "Stanislaus V",
+   "doi": "10.1186/s12883-023-03338-9",
+   "typ": [
+    "Clinical Trial, Phase II",
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: Neuroprotective agents have the potential to improve the outcomes of revascularisation therapies in acute ischemic stroke patients (AIS) and in those unable to receive revascularisation. Afamelanotide, a synthetic α-melanocyte stimulating hormone analogue, is a potential novel neuroprotective agent. We set out to assess the feasibility and safety of afamelanotide for the first time in AIS patients. METHODS: AIS patients within 24 h of onset, with perfusion abnormality on imaging (Tmax) and otherwise ineligible for revascularisation therapies were enrolled. Afamelanotide 16 mg implants were administered subcutaneously on Day 0 (D0, day of recruitment), D1 and repeated on D7 and D8, if not well recovered. Treatment emergent adverse events (TEAEs) and neurological assessments were recorded regularly up to D42. Magnetic resonance imaging (MRI) with FLAIR sequences were also performed on D3 and D9. RESULTS: Six patients (5 women, median age 81, median NIHSS 6) were recruited. Two patients received 4 doses and four patients received 2. One patient (who received 2 doses), suffered a fatal recurrent stroke on D9 due to a known complete acute internal carotid artery occlusion, assessed as unrelated to the study drug. There were no other local or major systemic TEAEs recorded. In all surviving patients, the median NIHSS improved from 6 to 2 on D7. The median Tmax volume on D0 was 23 mL which was reduced to a FLAIR volume of 10 mL on D3 and 4 mL on D9. CONCLUSIONS: Afamelanotide was well tolerated and safe in our small sample of AIS patients. It also appears to be associated with good recovery and radiological improvement of salvageable tissue which needs to be tested in randomized studies. GOV IDENTIFIER: NCT04962503, First posted 15/07/2021."
+  },
+  {
+   "pmid": "41766687",
+   "titel": "Adjunctive use of Polypodium leucotomos extract in patients with erythropoietic protoporphyria: An exploratory study",
+   "jahr": "2026",
+   "journal": "Photochem Photobiol",
+   "erstautor": "Shetty N",
+   "doi": "10.1111/php.70081",
+   "typ": [
+    "Clinical Trial",
+    "Letter"
+   ],
+   "abstract": "Erythropoietic protoporphyria (EPP) and X-linked protoporphyria (XLP) cause severe photosensitivity, resulting in significant quality of life (QoL) impairment. This study aims to evaluate the safety and efficacy of Polypodium leucotomos extract (PLE) as an adjunctive therapy in patients with persistent symptoms despite standard dosing of afamelanotide. In this prospective single-center cohort study, eight adults with confirmed EPP or XLP and ongoing symptoms despite regular afamelanotide implants every 2 months were enrolled. Participants received 480 mg oral PLE daily for 4 months. QoL and symptom severity were measured using questionnaires at baseline, Day 60, and Day 120. Six participants completed the study. Statistically significant improvements in QoL were observed on Day 60 (p = 0.014), but not at Day 120 (p = 0.152). Half of participants reported reduced reaction severity. No adverse events occurred. Adjunctive PLE improved short-term QoL in participants with incomplete symptom control on afamelanotide alone and was well tolerated. Larger studies are warranted."
+  }
+ ],
+ "metaanalysen": [
+  {
+   "pmid": "36525819",
+   "titel": "Experimental and approved treatments for skin photosensitivity in individuals with erythropoietic protoporphyria or X-linked protoporphyria: A systematic review",
+   "jahr": "2023",
+   "journal": "Biomed Pharmacother",
+   "erstautor": "Heerfordt IM",
+   "doi": "10.1016/j.biopha.2022.114132",
+   "typ": [
+    "Systematic Review",
+    "Journal Article"
+   ],
+   "abstract": "Erythropoietic protoporphyria (EPP) and X-linked protoporphyria (XLP) are characterized by skin photosensitivity caused by accumulation of protoporphyrin IX. We aimed to review the clinical evidence of efficacy and safety of skin photosensitivity treatments in individuals with EPP or XLP. We systematically searched MEDLINE, Embase, the Cochrane Library, and ClinicalTrials.gov. A total of 40 studies with data on 18 treatment modalities were included. Comprehensive treatment safety data were obtained from the European Medicines Agency and the United States Food and Drug Administration. The studies used different outcome measures to evaluate the sensitivity without a generally accepted method to assess treatment effect on skin photosensitivity. Of the included studies, 13 were controlled trials. Gathered, the trials showed moderate positive effect of inorganic sunscreen application and subcutaneous implant of afamelanotide and no effect of organic sunscreen application, or oral treatment with beta-carotene, cysteine, N-acetylcysteine, vitamin C, or warfarin. Studies without control groups suggested treatment effect of foundation cream, dihydroxyacetone/lawsone cream, narrow-band ultraviolet B phototherapy, erythrocyte transfusion, extracorporeal erythrocyte photodynamic therapy, or oral treatment with zinc sulphate, terfenadine, cimetidine, or canthaxanthin, but the real effect is uncertain. Assessment of treatment effect on photosensitivity in patients with EPP or XLP carries a high risk of bias since experienced photosensitivity varies with both weather conditions, exposure pattern, and pigmentation. Controlled trials of promising treatment options are important although challenging in this small patient population."
+  },
+  {
+   "pmid": "38454597",
+   "titel": "A systematic review of case series and clinical trials investigating systemic oral or injectable therapies for the treatment of vitiligo",
+   "jahr": "2024",
+   "journal": "Skin Res Technol",
+   "erstautor": "Jafarzadeh A",
+   "doi": "10.1111/srt.13642",
+   "typ": [
+    "Systematic Review",
+    "Journal Article"
+   ],
+   "abstract": "AIMS AND OBJECTIVES: The purpose of this study is to investigate the effectiveness and safety of oral and injectable systemic treatments, such as methotrexate, azathioprine, cyclosporine, tofacitinib, baricitinib, corticosteroids, statins, zinc, apremilast, etc., for treating vitiligo lesions. METHOD: Databases including PubMed, Scopus, and Web of Science were meticulously searched for studies spanning from 2010 to August 2023, focusing on systemic oral and injectable therapies for vitiligo, using comprehensive keywords and search syntaxes tailored to each database. Key data extracted included study design, treatment efficacy, patient outcomes, patient satisfaction, and safety profiles. RESULTS: In a total of 42 included studies, oral mini-pulse corticosteroid therapy (OMP) was the subject of six studies (14.2%). Minocycline was the focus of five studies (11.9%), while methotrexate, apremilast, and tofacitinib each were examined in four studies (9.5%). Antioxidants and Afamelanotide were the subjects of three studies each (7.1%). Cyclosporine, simvastatin, oral zinc, oral corticosteroids (excluding OMP) and injections, and baricitinib were each explored in two studies (4.8%). Azathioprine, mycophenolate mofetil, and Alefacept were the subjects of one study each (2.4%). CONCLUSION: Systemic treatments for vitiligo have been successful in controlling lesions without notable side effects. OMP, Methotrexate, Azathioprine, Cyclosporine, Mycophenolate mofetil, Simvastatin, Apremilast, Minocycline, Afamelanotide, Tofacitinib, Baricitinib, Antioxidants, and oral/injectable corticosteroids are effective treatment methods. However, oral zinc and alefacept did not show effectiveness."
+  }
+ ],
+ "praeklinik": [
+  {
+   "pmid": "38139134",
+   "titel": "Vitiligo: Pathogenesis and New and Emerging Treatments",
+   "jahr": "2023",
+   "journal": "Int J Mol Sci",
+   "erstautor": "Perez-Bootello J",
+   "doi": "10.3390/ijms242417306",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Vitiligo is a complex disease with a multifactorial nature and a high impact on the quality of life of patients. Although there are multiple therapeutic alternatives, there is currently no fully effective treatment for this disease. In the current era, multiple drugs are being developed for the treatment of autoimmune diseases. This review assesses the available evidence on the pathogenesis of vitiligo, and a comprehensive review of treatments available for vitiligo now and in the near future is provided. This qualitative analysis spans 116 articles. We reviewed the mechanism of action, efficacy and safety data of phototherapy, afamelanotide, cyclosporine, phosphodiesterase 4 inhibitors, trichloroacetic acid, basic fibroblast growth factor, tumor necrosis factor (TNF) inhibitors, secukinumab, pseudocatalase and janus kinase (JAK) inhibitors. At the moment, there is no clearly outstanding option or fully satisfactory treatment for vitiligo, so it is necessary to keep up the development of new drugs as well as the publication of long-term effectiveness and safety data for existing treatments."
+  },
+  {
+   "pmid": "38598652",
+   "titel": "Afamelanotide",
+   "jahr": "2012",
+   "journal": "",
+   "erstautor": "",
+   "doi": "",
+   "typ": [
+    "Review"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "31753192",
+   "titel": "Phototherapy for Vitiligo",
+   "jahr": "2020",
+   "journal": "Dermatol Clin",
+   "erstautor": "Zubair R",
+   "doi": "10.1016/j.det.2019.08.005",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Vitiligo is a common disorder with a severe impact on quality of life. The authors review recent advances in phototherapy for vitiligo focusing on narrowband ultraviolet B including mechanisms, treatment recommendations, and combination therapies. Phototherapy is the first-line treatment of choice for vitiligo with narrowband UVB preferred for widespread vitiligo and excimer used for localized lesions. However, unfamiliarity with prescribing phototherapy may be limiting clinicians from using it to its full potential. This article provides clinicians with the critical information needed to safely and effectively provide phototherapy for their patients with vitiligo."
+  },
+  {
+   "pmid": "23409301",
+   "titel": "X-Linked Protoporphyria",
+   "jahr": "1993",
+   "journal": "",
+   "erstautor": "Adam MP",
+   "doi": "",
+   "typ": [
+    "Review"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "30859308",
+   "titel": "From pathogenesis of acne vulgaris to anti-acne agents",
+   "jahr": "2019",
+   "journal": "Arch Dermatol Res",
+   "erstautor": "Cong TX",
+   "doi": "10.1007/s00403-019-01908-x",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Acne vulgaris is a cutaneous chronic inflammatory disorder with complex pathogenesis. Four factors play vital roles in acne pathophysiology: hyperseborrhea and dysseborrhea, altered keratinization of the pilosebaceous duct, Cutibacterium acnes (C. acnes) and inflammation. The main hormones responsible for the development of acne vulgaris include androgens, insulin and insulin-like growth factor-1. Other factors involved in this process are corticotropin-releasing hormone, α-melanocyte-stimulating hormone and substance P. Wnt/β-catenin signaling pathway, phosphoinositide 3-kinase (PI3K)/Akt pathway, mitogen-activated protein kinase pathway, adenosine 5'-monophosphate-activated protein kinase pathway and nuclear factor kappa B pathway participate in the modulation of sebocyte, keratinocyte and inflammatory cell (e.g. lymphocytes, monocytes, macrophages, neutrophils) activity. Among all the triggers and pathways mentioned above, IGF-1-induced PI3K/Akt/Forkhead box protein O1/mammalian target of rapamycin (mTOR) C1 pathway is the most important signaling responsible for acne pathogenesis. Commonly used anti-acne agents include retinoids, benzoyl peroxide, antibiotics and hormonal agents (e.g. spironolactone, combination oral contraceptive and flutamide). New approaches including peroxisome proliferator-activated receptor γ modifier, melanocortin receptor antagonists, epigallocatechin-3-gallate, metformin, olumacostat glasaretil, stearoyl-CoA desaturase inhibitor omiganan pentahydrochloride, KDPT, afamelanotide, apremilast and biologics have been developed as promising treatments for acne vulgaris. Although these anti-acne agents have various pharmacological effects against the diverse pathogenesis of acne, all of them have a synergistic mode of action, the attenuation of Akt/mTORC1 signaling and enhancement of p53 signal transduction. In addition to drug therapy, diet with no hyperglycemic carbohydrates, no milk and dairy products is also beneficial for treatment of acne."
+  },
+  {
+   "pmid": "40258105",
+   "titel": "",
+   "jahr": "2023",
+   "journal": "",
+   "erstautor": "",
+   "doi": "",
+   "typ": [
+    "Review"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "40117616",
+   "titel": "Treatment Advances in Vitiligo: An Updated Review",
+   "jahr": "2025",
+   "journal": "Dermatol Pract Concept",
+   "erstautor": "Ismail IB",
+   "doi": "10.5826/dpc.1501a4600",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "INTRODUCTION: Vitiligo is a common disorder of depigmentation caused by the progressive destruction of melanocytes that affects the skin, hair, and mucous membranes, clinically presenting as depigmented macules and leukotrichia. This condition, affecting millions of people worldwide, has a significant psychosocial burden on patients' quality of life, particularly in relation to skin colour. The etiopathogenesis of this disorder is obscure, but multiple factors contribute to the loss of melanocytes in the skin, like oxidative stress, inflammation, genetics, and autoimmunity. The treatment of vitiligo has been challenging over the past years, but recent developments in understanding the etiopathogenesis of the disease have paved the way for the development of more effective and promising therapeutic treatment options. OBJECTIVE: The aim of this review was to provide an overview of the underlying mechanisms and highlight the latest advances in the treatment of vitiligo. METHODOLOGY: This review was performed according to PRISMA (Preferred Reporting Items for Systematic Reviews and Metanalyses) guidelines. A comprehensive search of the literature was carried out through the PubMed electronic database from inception to 31 December 2023 using the following search terms \"vitiligo\" AND \"JAK inhibitors\", \"vitiligo\" AND \"prostaglandin\", \" vitiligo\" AND \" afamelanotide\", \"vitiligo\" AND \"antioxidants\", \"vitiligo\" AND \"vitamin D3\", \"vitiligo\" AND \"statins\", \"vitiligo\" AND \"TNF-alpha\", \"vitiligo\" AND \"interleukin\", \"vitiligo\" AND \"light therapy\". Two independent reviewers screened titles, abstracts, and full texts to select papers dealing with vitiligo and its treatment. CONCLUSION: The advent of treatment modalities like Janus kinase inhibitors, prostaglandin analogues, antioxidants, TNF-α inhibitors, targeted phototherapy, and excimer lasers has revolutionized the therapeutic possibilities, offering a ray of hope to the individuals suffering from this devastating condition."
+  },
+  {
+   "pmid": "28038886",
+   "titel": "Current challenges in photoprotection",
+   "jahr": "2017",
+   "journal": "J Am Acad Dermatol",
+   "erstautor": "Lim HW",
+   "doi": "10.1016/j.jaad.2016.09.040",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Electromagnetic radiation in the ultraviolet, visible, and infrared ranges all produce biologic effects. Ultraviolet filters are the most well-studied photoprotective measure for the adverse effects of ultraviolet radiation. Because of the reported endocrinologic effects of oxybenzone in animal studies, its effects on coral reefs, and its photocontact allergy potential, its use has been minimized in many countries worldwide. New developments in topical antioxidants and oral and subcutaneous agents (eg, Polypodium leucotomos extract, afamelanotide, nicotinamide) with photoprotective and antiphotocarcinogenic properties could potentially provide addition modalities for protection against the effects of visible light and infrared radiation."
+  },
+  {
+   "pmid": "32186677",
+   "titel": "Association of Afamelanotide With Improved Outcomes in Patients With Erythropoietic Protoporphyria in Clinical Practice",
+   "jahr": "2020",
+   "journal": "JAMA Dermatol",
+   "erstautor": "Wensink D",
+   "doi": "10.1001/jamadermatol.2020.0352",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "IMPORTANCE: The effectiveness of afamelanotide treatment in patients with erythropoietic protoporphyria (EPP) in clinical practice who experience pain after light exposure that substantially impairs quality of life is unknown. OBJECTIVE: To evaluate the association of afamelanotide treatment with outcomes in patients with EPP in regular practice during longer-term follow-up. DESIGN, SETTING, AND PARTICIPANTS: This single-center, prospective postauthorization safety and efficacy cohort study was directed and approved by the European Medicines Agency. Data were collected from patients with EPP treated with afamelanotide at Erasmus MC between June 2016 and September 2018. Analysis began October 2018. MAIN OUTCOMES AND MEASURES: Time spent outside during treatment, number of phototoxic reactions, disease-specific quality of life, usage of protective clothing, and adverse events. RESULTS: A total of 117 patients with EPP (59 women [50.4%]; mean [SD] age, 43.0 [15.5] years) were treated with afamelanotide. Nearly all patients continued treatment (115 [98%]) with a median (interquartile range) follow-up of 2.0 (1.3-2.1) years. Compared with baseline, mean time spent outside during treatment increased significantly by an added 6.1 hours per week (95% CI, 3.62-8.67; P < .001). Mean quality of life score improved significantly by 14.01% (95% CI, 4.53%-23.50%; P < .001). Phototoxic reactions were less painful (β, -0.85; 95% CI, -1.43 to -0.26; P < .001), but there was no significant difference in number or duration of reactions. Minor self-limiting adverse events occurred, such as nausea, fatigue, and headache. CONCLUSIONS AND RELEVANCE: This cohort study found that afamelanotide treatment was associated with improved clinical outcomes and a good safety profile for patients with EPP. The treatment has clinically significant, sustained positive associations with quality of life, is associated with increased duration of sun exposure, and is associated with less severe phototoxic reactions."
+  },
+  {
+   "pmid": "32459219",
+   "titel": "[Medicaments and oral healthcare. Hyperpigmentation of oral soft tissues due to afamelanotide]",
+   "jahr": "2020",
+   "journal": "Ned Tijdschr Tandheelkd",
+   "erstautor": "de Baat C",
+   "doi": "10.5177/ntvt.2020.04.19115",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The medicament afamelanotide is an analogue of endogenous ?-melanocyte-stimulating hormone. It promotes cutaneous pigmentation, providing protection from sunlight. In dermatology, afamelanotide seems to establish therapeutic results for polymorphic light eruption, solar urticaria, erythropoietic protoporphyria, Hailey-Hailey disease, vitiligo and acne vulgaris. Afamelanotide is available for non-medical use to realise quick and easy skin tanning. Adverse effects of afamelanotide mentioned in the scientific literature are development and aggravation of melanocytic naevi, degeneration of melanocytic naevi to melanomas, melanonychia, systemic toxicity, rhabdomyolysis, posterior reversible encephalopathy syndrome, priapism and hyperpigmentation of oral soft tissues. Furthermore, numerous adverse effects of afamelanotide have been reported to the Netherlands pharmacovigilance centre LAREB as well as numerous adverse effects due to overdosage of afamelanotide to the National Poisons Information Centre. Dentists should be alert to hyperpigmentation of oral soft tissues due to afamelanotide. Het medicament afamelanotide is een analoog van ?-melanocytstimulerend hormoon. Het bevordert de pigmentatie van de huid en biedt daardoor bescherming tegen zonlicht. In de dermatologie lijkt afamelanotide heilzaam bij polymorfe lichteruptie, zonne-urticaria, erytropoëtische protoporfyrie, de ziekte van Hailey-Hailey, vitiligo en acne vulgaris. Voor niet-medicinale toepassing is afamelanotide verkrijgbaar voor het snel en eenvoudig bruinen van de huid. In de wetenschappelijke literatuur is als bijwerking van afamelanotide melding gemaakt van ontwikkeling en verergering van melanocytaire naevi, ontaarding van melanocytaire naevi in melanomen, melanonychia, systemische intoxicatie, rabdomyolyse, posterieur reversibel encefalopathiesyndroom, priapisme en hyperpigmentatie van orale slijmvliezen. Daarnaast zijn tal van bijwerkingen gemeld bij het Bijwerkingencentrum LAREB en tal van bijwerkingen bij overdosering van afamelanotide bij het Nationaal Vergiftigingen Informatie Centrum. Tandartsen moeten attent zijn op hyperpigmentatie van de orale slijmvliezen door afamelanotide."
+  },
+  {
+   "pmid": "39011756",
+   "titel": "Erythropoietic protoporphyrias: Pathogenesis, diagnosis and management",
+   "jahr": "2025",
+   "journal": "Liver Int",
+   "erstautor": "Minder AE",
+   "doi": "10.1111/liv.16027",
+   "typ": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The erythropoietic protoporphyrias consist of three ultra-rare genetic disorders of the erythroid heme biosynthesis, including erythropoietic protoporphyria (EPP1), X-linked protoporphyria (XLEPP) and CLPX-protoporphyria (EPP2), which all lead to the accumulation of protoporphyrin IX (PPIX) in erythrocytes. Affected patients usually present from early childhood with episodes of severe phototoxic pain in the skin exposed to visible light. The quantification of PPIX in erythrocytes with a metal-free PPIX ≥3 times the upper limit of normal confirms the diagnosis. Protoporphyria-related complications include liver failure, gallstones, mild anaemia and vitamin D deficiency with reduced bone mineral density. The management is focused on preventing phototoxic reactions and treating the complications. Vitamin D should be supplemented, and DEXA scans in adults should be considered. In EPP1, even in cases of biochemically determined iron deficiency, supplementation of iron may stimulate PPIX production, resulting in an increase in photosensitivity and the risk of cholestatic liver disease. However, for patients with XLEPP, iron supplementation can reduce PPIX levels, phototoxicity and liver damage. Because of its rarity, there is little data on the management of EPP-related liver disease. As a first measure, any hepatotoxins should be eliminated. Depending on the severity of the liver disease, phlebotomies, exchange transfusions and ultimately liver transplantation with subsequent haematopoietic stem cell transplantation (HSCT) are therapeutic options, whereby multidisciplinary management including porphyria experts is mandatory. Afamelanotide, an alpha-melanocyte-stimulating hormone analogue, is currently the only approved specific treatment that increases pain-free sunlight exposure and quality of life."
+  },
+  {
+   "pmid": "29152226",
+   "titel": "An overview of the cutaneous porphyrias",
+   "jahr": "2017",
+   "journal": "F1000Res",
+   "erstautor": "Dawe R",
+   "doi": "10.12688/f1000research.10101.1",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "This is an overview of the cutaneous porphyrias. It is a narrative review based on the published literature and my personal experience; it is not based on a formal systematic search of the literature. The cutaneous porphyrias are a diverse group of conditions due to inherited or acquired enzyme defects in the porphyrin-haem biosynthetic pathway. All the cutaneous porphyrias can have (either as a consequence of the porphyria or as part of the cause of the porphyria) involvement of other organs as well as the skin. The single commonest cutaneous porphyria in most parts of the world is acquired porphyria cutanea tarda, which is usually due to chronic liver disease and liver iron overload. The next most common cutaneous porphyria, erythropoietic protoporphyria, is an inherited disorder in which the accumulation of bile-excreted protoporphyrin can cause gallstones and, rarely, liver disease. Some of the porphyrias that cause blistering (usually bullae) and fragility (clinically and histologically identical to porphyria cutanea tarda) can also be associated with acute neurovisceral porphyria attacks, particularly variegate porphyria and hereditary coproporphyria. Management of porphyria cutanea tarda mainly consists of visible-light photoprotection measures while awaiting the effects of treating the underlying liver disease (if possible) and treatments to reduce serum iron and porphyrin levels. In erythropoietic protoporphyria, the underlying cause can be resolved only with a bone marrow transplant (which is rarely justifiable in this condition), so management consists particularly of visible-light photoprotection and, in some countries, narrowband ultraviolet B phototherapy. Afamelanotide is a promising and newly available treatment for erythropoietic protoporphyria and has been approved in Europe since 2014."
+  },
+  {
+   "pmid": "38784937",
+   "titel": "Afamelanotide in protoporphyria and other skin diseases: a review",
+   "jahr": "2024",
+   "journal": "Postepy Dermatol Alergol",
+   "erstautor": "Polańska A",
+   "doi": "10.5114/ada.2024.138818",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Afamelanotide is a synthetic alpha melanocyte stimulating hormone presenting a higher activity than natural hormones. Its main properties are related to the enhanced production of eumelanin by agonistically binding to the melanocortin-1 receptor. Since 2016 afamelanotide has been especially applied to treat cases of erythropoietic porphyria (EPP), where painful photosensitivity has been observed since early childhood. The positive effect of afamelanotide in EPP administered subcutaneously improved tolerance to artificial white light and increased pain-free time spent in direct sunlight. In this review we summarize the possible use of afamelanotide in dermatology, with special emphasis on EPP and encourage including afamelanotide as a treatment option in patient care."
+  },
+  {
+   "pmid": "31958256",
+   "titel": "Emerging drugs for the treatment of vitiligo",
+   "jahr": "2020",
+   "journal": "Expert Opin Emerg Drugs",
+   "erstautor": "Karagaiah P",
+   "doi": "10.1080/14728214.2020.1712358",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Introduction: Vitiligo is a relatively common autoimmune depigmenting disorder of the skin. There has been a great advance in understanding the pathological basis, which has led to the development and utilization of various new molecules in treating vitiligo. This review aims at a comprehensively describing the treatments available and the emerging treatment aspects and the scope for future developments.Areas covered: This study comprehensively summarizes the current concepts in the pathogenesis of vitiligo with special focus on the cytokine and signaling pathways, which are the targets for newer drugs. JAK kinase signaling pathways and the cytokines involved are the focus of vitiligo treatment in current research, followed by antioxidant mechanisms and repigmenting mechanisms. Topical immunosuppressants may be an alternative to steroids in localized vitiligo. Newer repigmenting agents like basic fibroblast growth factors, afamelanotide have been included and a special emphasis is laid on the upcoming targeted immunotherapy.Expert opinion: The treatment of vitiligo needs to be multimodal with emphasis on targeting different limbs of the pathogenesis. Topical and oral JAK inhibitors are the most promising new class of drugs currently available for treating vitiligo and acts best in conjunction with NB-UVB."
+  },
+  {
+   "pmid": "28619557",
+   "titel": "Current and emerging treatments for vitiligo",
+   "jahr": "2017",
+   "journal": "J Am Acad Dermatol",
+   "erstautor": "Rodrigues M",
+   "doi": "10.1016/j.jaad.2016.11.010",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Clinicians should be aware that vitiligo is not merely a cosmetic disease and that there are safe and effective treatments available for vitiligo. It is important to recognize common and uncommon presentations and those with active disease, as well as their implications for clinical management; these were discussed in the first article in this continuing medical education series. Existing treatments include topical and systemic immunosuppressants, phototherapy, and surgical techniques, which together may serve to halt disease progression, stabilize depigmented lesions, and encourage repigmentation. We discuss how to optimize the currently available treatments and highlight emerging treatments that may improve treatment efficacy in the future."
+  },
+  {
+   "pmid": "37181106",
+   "titel": "Beyond pigmentation: signs of liver protection during afamelanotide treatment in Swiss patients with erythropoietic protoporphyria, an observational study",
+   "jahr": "2021",
+   "journal": "Ther Adv Rare Dis",
+   "erstautor": "Minder AE",
+   "doi": "10.1177/26330040211065453",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "UNLABELLED: Erythropoietic protoporphyria (EPP) is an ultra-rare inherited disorder with overproduction of protoporphyrin in maturating erythroblasts. This excess protoporphyrin leads to incapacitating phototoxic burns in sunlight exposed skin. Its biliary elimination causes cholestatic liver injury in 20% and terminal liver failure in 4% of EPP patients. Thereby, the risk of liver injury increases with increasing erythrocyte protoporphyrin concentrations. Afamelanotide, an α-melanocyte-stimulating hormone (MSH) analog inducing skin pigmentation, was shown to improve sunlight tolerance in EPP. Beyond this well-known effect on pigmentation, the MSHs have liver-protective effects and improve survival of maturating erythroblasts, effects described in animal or in vitro models to date only. We investigated whether afamelanotide treatment in EPP has effects on erythropoiesis, protoporphyrin concentrations, and liver injury by analyzing retrospectively our long-term safety data. METHODS: From the 47 Swiss EPP-patients treated at our center since 2006, we included those 38 patients in the current analysis who received at least one afamelanotide dose between 2016 and 2018 and underwent regular laboratory testing before and during the treatment. We compared the means of pretreatment measurements with those during the treatment. RESULTS: Protoporphyrin concentrations dropped from 21.39 ± 11.12 (mean ± SD) before afamelanotide to 16.83 ± 8.24 µmol/L (p < .0001) during treatment. Aspartate aminotransferase decreased from 26.67 ± 13.16 to 22.9 ± 7.76 IU/L (p = .0146). For both entities, patients with higher values showed a more progressive decrease, indicating a risk reduction of EPP-related liver disease. The pre-existing hypochromia and broad mean red-cell distribution width were further augmented under afamelanotide. This was more likely due to an influence of afamelanotide on maturating erythroblasts than due to an exacerbated iron deficiency, as mean zinc-protoporphyrin decreased significantly and ferritin remained unchanged. No serious afamelanotide-related adverse events were observed for a total of 240 treatment years. CONCLUSION: Our findings point to a protective effect of afamelanotide on erythroblast maturation and protoporphyrin-induced liver injury. PLAIN LANGUAGE SUMMARY: Afamelanotide, a skin tanning hormone, may protect patients with erythropoietic protoporphyria not only from skin burns, but also from liver injury associated with the disease. Patients with erythropoietic protoporphyria (EPP), an inherited metabolic disease, suffer from light-induced skin burns and liver injury elicited by the accumulated light sensitizer protoporphyrin. The excess protoporphyrin is produced in red cell precursors in the bone marrow, and it is eliminated from the body via the liver and bile. A high protoporphyrin excretion burden damages the liver cells, the risk for this increases with higher protoporphyrin concentrations. About 20% of EPP patients show some sign of liver injury and 4% develop life-threatening liver dysfunction.Afamelanotide, closely related to natural α-melanocyte stimulating hormone (MSH), induces skin tanning. This effect protects EPP patients from light-induced skin burns as shown in previous studies. We have treated Swiss EPP patients with afamelanotide since 2006, and we regularly perform safety tests of this treatment.Recent in vitro and animal studies demonstrated α-MSH effects other than skin tanning, including an improved synthesis of red blood cell precursors in the bone-marrow and protection of the liver from experimentally induced damage. Until now, it is unknown whether afamelanotide has similar effects in the human organism.To study this question, we analyzed retrospectively the safety laboratory data of 38 Swiss patients, who received at least one dose of afamelanotide from 2016 to 2019. We found that both, the average protoporphyrin concentrations and aspartate aminotransferase, a test for liver function, improved during afamelanotide treatment as compared to before.We concluded that afamelanotide applied to EPP patients to protect them from light-induced skin burns also may reduce their risk of liver injury."
+  },
+  {
+   "pmid": "30328490",
+   "titel": "[Porphyrias-what is verified?]",
+   "jahr": "2018",
+   "journal": "Internist (Berl)",
+   "erstautor": "Stölzel U",
+   "doi": "10.1007/s00108-018-0509-z",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Porphyrias are caused by enzyme defects of heme biosynthesis. According to their clinical presentation and to each affected pathway, they are categorized into acute and non-acute as well as hepatic and erythropoietic porphyrias. Acute hepatic porphyrias, e.g. acute intermittent porphyria (AIP), porphyria variegata (VP), hereditary coproporphyria (HCP) and 5‑aminolevulinic acid dehydratase-deficient porphyria (ALADP) are characterized by accumulation of the porphyrin precursors 5‑aminolevulinic acid (ALA) and porphobilinogen (PBG) that correlate with severe abdominal, psychiatric, neurological or cardiovascular symptoms. Additionally, skin photosensitivity can occur in VP and less frequently, in HCP. Decisive for the diagnosis of acute hepatic porphyrias are a >4-fold elevated urinary excretion of ALA in ALADP and ALA and PBG in all other acute porphyrias. First-line treatment of an acute porphyria attack includes intensive care with pain management, sufficient caloric supply, strict avoidance of porphyrinogenic drugs and elimination of other triggering factors. Heme therapy is indispensable in case of developing neurological symptoms and clinical worsening despite first-line measures. Non-acute porphyrias, mainly porphyria cutanea tarda (PCT), erythropoietic protoporphyria (EPP) and X‑linked protoporphyria (XLP) display accumulation of porphyrins in the skin and/or liver resulting in photosensitivity up to possible liver damage. Patients with PCT benefit from iron depletion, low-dose chloroquine treatment and/or hepatitis C virus elimination. Afamelanotide is associated with better sunlight tolerance in patients with EPP and XLP. Moreover, innovative therapies that highly selectively address dysregulated steps of the heme biosynthetic pathway are currently under clinical trial."
+  },
+  {
+   "pmid": "34679493",
+   "titel": "Porphyrias in the Age of Targeted Therapies",
+   "jahr": "2021",
+   "journal": "Diagnostics (Basel)",
+   "erstautor": "Erwin AL",
+   "doi": "10.3390/diagnostics11101795",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "The porphyrias are a group of eight rare genetic disorders, each caused by the deficiency of one of the enzymes in the heme biosynthetic pathway, resulting in the excess accumulation of heme precursors and porphyrins. Depending on the tissue site as well as the chemical characteristics of the accumulating substances, the clinical features of different porphyrias vary substantially. Heme precursors are neurotoxic, and their accumulation results in acute hepatic porphyria, while porphyrins are photoactive, and excess amounts cause cutaneous porphyrias, which present with photosensitivity. These disorders are clinically heterogeneous but can result in severe clinical manifestations, long-term complications and a significantly diminished quality of life. Medical management consists mostly of the avoidance of triggering factors and symptomatic treatment. With an improved understanding of the underlying pathophysiology and disease mechanisms, new treatment approaches have become available, which address the underlying defects at a molecular or cellular level, and promise significant improvement, symptom prevention and more effective treatment of acute and chronic disease manifestations."
+  },
+  {
+   "pmid": "23884489",
+   "titel": "A review and update on melanocyte stimulating hormone therapy: afamelanotide",
+   "jahr": "2013",
+   "journal": "J Drugs Dermatol",
+   "erstautor": "Fabrikant J",
+   "doi": "",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Afamelanotide ([Nle4-D-Phe7]-alpha-MSH) is an analog of alpha-melanocyte stimulating hormone given as a subcutaneous injection. Afamelanotide is currently undergoing phase II and III trials in Europe and the US for skin diseases including vitiligo, erythropoietic protoporphyria, polymorphic light eruption and prevention of actinic keratoses in organ transplant recipients. Unregulated analogs and chemicals are being sold online ahead of formal approval. A number of counterfeit chemicals, 'Melanotans' are being sold for tanning purposes. Currently, afamelanotide is already on the market in Italy and Switzerland for patients with erythropoietic protoporphyria. This paper will review the current literature on this promising compound."
+  },
+  {
+   "pmid": "28063031",
+   "titel": "Pharmacokinetics and Pharmacodynamics of Afamelanotide and its Clinical Use in Treating Dermatologic Disorders",
+   "jahr": "2017",
+   "journal": "Clin Pharmacokinet",
+   "erstautor": "Minder EI",
+   "doi": "10.1007/s40262-016-0501-5",
+   "typ": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Afamelanotide, the first α-melanocyte-stimulating hormone (MSH) analogue, synthesized in 1980, was broadly investigated in all aspects of pigmentation because its activity and stability were higher than the natural hormone. Afamelanotide binds to the melanocortin-1 receptor (MC1R), and MC1R signaling increases melanin synthesis, induces antioxidant activities, enhances DNA repair processes and modulates inflammation. The loss-of-function variants of the MC1R present in fair-skinned Caucasians are less effectively activated by the natural hormone. Afamelanotide was the first α-MSH analogue to be applied to human volunteers. Ten daily doses of between 0.08 and 0.21 mg/kg in saline injected subcutaneously resulted in long-lasting skin pigmentation and enabled basic pharmacokinetics. Subcutaneous application had full bioavailability, but neither oral nor transdermal application resulted in measurable plasma concentrations or pigmentation response. Two trials in human volunteers showed that neither MC1R variants nor fair skin reduced the afamelanotide-induced increase in skin pigmentation. A controlled-release formulation optimizes administration in man and is effective at a lower dose than the daily saline injections. Promising therapeutic results were published in polymorphic light eruption, erythropoietic protoporphyria (EPP), solar urticaria, Hailey-Hailey disease and vitiligo. In 2014, afamelanotide was approved by the European Medicines Agency for the prevention of phototoxicity in adult patients with EPP. No late effects were reported in volunteers 25 years after the first exposure or after continuous long-term application of up to 8 years in EPP patients, and an immunogenic potential has been excluded. Generally, adverse effects were benign in all trials."
+  },
+  {
+   "pmid": "34676645",
+   "titel": "Immunopathogenesis and management of polymorphic light eruption",
+   "jahr": "2021",
+   "journal": "Dermatol Ther",
+   "erstautor": "Kadurina M",
+   "doi": "10.1111/dth.15167",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Polymorphic light eruption (PLE) is the most common immunologically mediated photodermatosis, demonstrating many abnormalities caused by critical failure of ultraviolet (UV)-induced immunosuppression. The unique expression of antimicrobial peptides in PLE, which is most likely determined by alteration of microbiome components upon UV exposure, implicates their possible triggering role and pathogenic significance in the eruption. The review aims to clarify current knowledge regarding the immunological disturbances correlated with PLE that serve a base for better understanding of molecular pathogenesis of the disease and the development of new therapeutic strategies. Preventive treatment with broad-spectrum suncreens and sunscreens containing DNA repair enzymes, as well as natural photohardening with graduate exposure to sunlight in early spring could be sufficient in milder cases. Antioxidants and topical calcipotriol are promising approach for adjuvant prevention. Phototherapy, mainly with narrow band UVB rays, is more appropriate method in severe cases of the disease. The established treatment options for PLE include local and systemic glucocorticoids, systemic nonsedative antihistamines for itch relief, and rarely, immunosuppressive drugs in the refractory cases. Like medical photohardening, afamelanotide has the potential of photoprotection by inducing a melanization of the skin. Afamelanotide is believed to be a possible new treatment option for very severe and refractory cases of PLE. Targeting the main pruritogenic cytokine, IL-31, opens a new road for the development of novel therapeutic approaches to combat moderate and severe itching in cases of PLE with intense pruritus."
+  },
+  {
+   "pmid": "26979527",
+   "titel": "Afamelanotide: A Review in Erythropoietic Protoporphyria",
+   "jahr": "2016",
+   "journal": "Am J Clin Dermatol",
+   "erstautor": "Kim ES",
+   "doi": "10.1007/s40257-016-0184-6",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Afamelanotide (SCENESSE(®)) is a synthetic α-melanocyte stimulating hormone analogue and first-in-class melanocortin-1 receptor agonist that is approved in the EU for the prevention of phototoxicity in adults with erythropoietic protoporphyria (EPP). It is administered subcutaneously as a biodegradable, controlled-release implant containing 16 mg of afamelanotide. This article reviews the clinical efficacy and tolerability of afamelanotide in EPP and summarizes its pharmacological properties. In the phase III trial, CUV039, afamelanotide treatment improved light tolerance in patients with EPP. Compared with placebo, afamelanotide treatment enabled patients to spend more time in direct sunlight without pain and increased the time to the appearance of the first symptoms of phototoxicity provoked by a standardized light source. Afamelanotide was generally well tolerated in this trial, with no drug-related serious adverse events reported. Commonly occurring adverse reactions included headache and implant-site reactions. Efficacy and safety data from earlier phase III trials are consistent with those from the CUV039 trial. Afamelanotide, approved in the EU for the prevention of EPP phototoxicity, represents a useful addition to the management of the disorder."
+  },
+  {
+   "pmid": "33683075",
+   "titel": "Afamelanotide: An Orphan Drug with Potential for Broad Dermatologic Applications",
+   "jahr": "2021",
+   "journal": "J Drugs Dermatol",
+   "erstautor": "Wu J",
+   "doi": "10.36849/JDD.5526",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Afamelanotide (SCENESSE&reg;) is a synthetic analogue of &alpha;-melanocyte-stimulating hormone that is FDA-approved to increase pain-free sunlight exposure in adult patients with erythropoietic protoporphyria. Its dual photoprotective and anti-inflammatory effects also make it a promising therapy for other photosensitive dermatologic diseases that are resistant to treatment. The PubMed/MEDLINE and ClinicalTrials.gov databases were searched for literature and ongoing trials describing the use of afamelanotide in treating cutaneous diseases. There is randomized controlled trial (RCT) evidence for the successful use of afamelanotide in several conditions beyond erythropoietic protoporphyria, including polymorphic light eruption and vitiligo. Smaller studies have also demonstrated its efficacy in treating acne vulgaris, Hailey-Hailey disease, and solar urticaria. No serious adverse effects with afamelanotide use have been reported, though diffuse hyperpigmentation is experienced by almost all patients. Larger scale studies are needed to confirm the efficacy of afamelanotide in treating dermatologic conditions beyond erythropoietic protoporphyria, and further research should focus on determining the safety, efficacy, and optimal dosing of afamelanotide for pediatric patients.J Drugs Dermatol. 2021;20(3):290-294. doi:10.36849/JDD.5526."
+  },
+  {
+   "pmid": "30517779",
+   "titel": "Afamelanotide in the Treatment of Dermatologic Disease",
+   "jahr": "2018",
+   "journal": "Skin Therapy Lett",
+   "erstautor": "McNeil MM",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Afamelanotide, an α-melanocyte stimulating hormone analogue, has become an emerging therapeutic option for a variety of skin conditions previously refractory to other treatments. Its efficacy has been demonstrated in several dermatologic conditions, including erythropoietic protoporphyria (EPP), solar urticaria, polymorphic light eruption (PMLE), vitiligo, acne, and Hailey-Hailey disease. Its relatively low risk side effect profile makes it an attractive treatment option and also paves the way for innovative use in other disorders."
+  },
+  {
+   "pmid": "37365323",
+   "titel": "Targeting the central melanocortin system for the treatment of metabolic disorders",
+   "jahr": "2023",
+   "journal": "Nat Rev Endocrinol",
+   "erstautor": "Sweeney P",
+   "doi": "10.1038/s41574-023-00855-y",
+   "typ": [
+    "Journal Article",
+    "Review",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "A large body of preclinical and clinical data shows that the central melanocortin system is a promising therapeutic target for treating various metabolic disorders such as obesity and cachexia, as well as anorexia nervosa. Setmelanotide, which functions by engaging the central melanocortin circuitry, was approved by the FDA in 2020 for use in certain forms of syndromic obesity. Furthermore, the FDA approvals in 2019 of two peptide drugs targeting melanocortin receptors for the treatment of generalized hypoactive sexual desire disorder (bremelanotide) and erythropoietic protoporphyria-associated phototoxicity (afamelanotide) demonstrate the safety of this class of peptides. These approvals have also renewed excitement in the development of therapeutics targeting the melanocortin system. Here, we review the anatomy and function of the melanocortin system, discuss progress and challenges in developing melanocortin receptor-based therapeutics, and outline potential metabolic and behavioural disorders that could be addressed using pharmacological agents targeting these receptors."
+  },
+  {
+   "pmid": "33507118",
+   "titel": "Afamelanotide for prevention of phototoxicity in erythropoietic protoporphyria",
+   "jahr": "2021",
+   "journal": "Expert Rev Clin Pharmacol",
+   "erstautor": "Wensink D",
+   "doi": "10.1080/17512433.2021.1879638",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Introduction: In erythropoietic protoporphyria (EPP), an inherited disorder of heme biosynthesis, accumulation of protoporphyrin IX results in acute phototoxicity. EPP patients experience severe burning pain after light exposure, which results in a markedly reduced quality of life. Afamelanotide is the first effective approved medical treatment for EPP, acting on melanocortin-1 receptors. This article aims to review afamelanotide.Areas covered: This review summarizes the chemical properties, pharmacokinetics, safety, preclinical and clinical data on afamelanotide in EPP, and post-marketing surveillance. PubMed search, manufacturers' websites, and relevant articles used for approval by authorities were used for the literature search.Expert opinion: Afamelanotide is an α-melanocyte-stimulating hormone analog. It can activate eumelanogenesis without exposure to UV radiation. Clinical studies in EPP showed that afamelanotide treatment significantly increased exposure to sunlight and QoL. In our clinical experience afamelanotide treatment is much more effective in clinical practice than demonstrated in clinical trials and should be made available for all EPP patients meeting inclusion criteria. The 60-day interval period was not based on effectiveness studies, and therefore for some of the patients the maximum of four implants per year with the 60-day interval is insufficient. Afamelanotide is well tolerated; common adverse events were headache, fatigue, and nausea."
+  },
+  {
+   "pmid": "32151051",
+   "titel": "2019 FDA TIDES (Peptides and Oligonucleotides) Harvest",
+   "jahr": "2020",
+   "journal": "Pharmaceuticals (Basel)",
+   "erstautor": "Al Shaer D",
+   "doi": "10.3390/ph13030040",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "2019 has been an excellent year in terms of peptides and oligonucleotides (TIDES) approved by the FDA. Despite the drop in the number of total drugs approved by the FDA in 2019 in comparison with 2018 (48 vs. 59), the total number of TIDES authorized increased (seven vs. three). Year after year, TIDES are increasingly present in therapy, as imaging agents, theragnostic and constituent moieties of other complex drugs, such as antibody drug conjugates. This means a consolidation of these kinds of drugs in the pharmaceutical arena, paving the way in the coming years for the approval of others for diverse medical indications. Here the TIDES approved in 2019 are analyzed in terms of chemical structure, medical target, mode of action, and adverse effects."
+  },
+  {
+   "pmid": "33721252",
+   "titel": "Clinical and dermoscopic changes of acquired melanocytic nevi of patients treated with afamelanotide",
+   "jahr": "2021",
+   "journal": "Photochem Photobiol Sci",
+   "erstautor": "Arisi M",
+   "doi": "10.1007/s43630-021-00020-2",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: Afamelanotide (AFA) is a synthetic analogue of α-melanocyte-stimulating hormone that is approved for the treatment of patients affected by erythropoietic protoporphyria (EPP). AFA induces a \"sun free\" tanning and changes of acquired melanocytic nevi (AMN) that are generically described as \"darkening\". OBJECTIVES: To assess clinical and dermoscopic AMN changes during AFA treatment. METHODS: Adult EPP patients treated with two AFA implants 50 days apart were enrolled. They underwent a clinical and dermoscopic examination of all AMN at baseline (T0), and after 5 (T1) and 12 (T2) months from the first AFA implant. The general pattern, symmetry, number, and size of pigmented globules, morphology of the pigment network, and dermoscopic melanoma features were assessed. RESULTS: Fifteen patients were enrolled with 103 AMN. At T1 all reticular and 2-component AMN showed a focal network thickening that returned to baseline by T2. The increase of globules' number was observed at T1 but not at T2. The difference in number was not influenced by patients' age or phototype. Dermoscopic changes suggestive of malignancy were never seen. The development of new AMN was never registered. CONCLUSIONS: AFA treatment induces reversible changes of AMN dermoscopic morphology without findings suggestive of malignant transformation and it does not stimulate the development of new AMN."
+  },
+  {
+   "pmid": "36902341",
+   "titel": "Vitiligo, from Pathogenesis to Therapeutic Advances: State of the Art",
+   "jahr": "2023",
+   "journal": "Int J Mol Sci",
+   "erstautor": "Diotallevi F",
+   "doi": "10.3390/ijms24054910",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Vitiligo is an acquired hypopigmentation of the skin due to a progressive selective loss of melanocytes; it has a prevalence of 1-2% and appears as rounded, well-demarcated white macules. The etiopathology of the disease has not been well defined, but multiple factors contribute to melanocyte loss: metabolic abnormalities, oxidative stress, inflammation, and autoimmunity. Therefore, a convergence theory was proposed that combines all existing theories into a comprehensive one in which several mechanisms contribute to the reduction of melanocyte viability. In addition, increasingly in-depth knowledge about the disease's pathogenetic processes has enabled the development of increasingly targeted therapeutic strategies with high efficacy and fewer side effects. The aim of this paper is, by conducting a narrative review of the literature, to analyze the pathogenesis of vitiligo and the most recent treatments available for this condition."
+  },
+  {
+   "pmid": "25470471",
+   "titel": "Afamelanotide (CUV1647) in dermal phototoxicity of erythropoietic protoporphyria",
+   "jahr": "2015",
+   "journal": "Expert Rev Clin Pharmacol",
+   "erstautor": "Minder EI",
+   "doi": "10.1586/17512433.2014.956089",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "The application of afamelanotide, an α-melanocyte stimulating hormone agonistic analogue to protoporphyria, a disease with absolute sunlight-intolerance is discussed. The clinics, genetics and existing therapies of protoporphyria are described. The physiological receptor-mediated intracellular signaling of α-melanocyte stimulating hormone and effects of receptor variants are outlined. The pharmacological action of afamelanotide and the rationale behind its application in protoporphyria are given. The results of several Phase II and III and safety issues are discussed. The trial results were significant, although the effects were not very large in absolute terms, and the risk-safety profile is favorable today. Based on the high compliance rate and the excellent consistency in clinical effectiveness during six years of compassionate use program in Switzerland, we expect afamelanotide and analogues to become a prospective therapeutic tool. Moreover, we hope that dosage forms suitable for children will be developed in future, as children and adolescents suffer most in protoporphyria."
+  },
+  {
+   "pmid": "38736212",
+   "titel": "Vitamin D status in patients with erythropoietic protoporphyria taking the systemic photoprotective agent afamelanotide",
+   "jahr": "2024",
+   "journal": "Br J Dermatol",
+   "erstautor": "Rhodes LE",
+   "doi": "10.1093/bjd/ljae191",
+   "typ": [
+    "Editorial",
+    "Comment"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "35034844",
+   "titel": "Objective light exposure measurements and circadian rhythm in patients with erythropoietic protoporphyria: A case-control study",
+   "jahr": "2022",
+   "journal": "Mol Genet Metab",
+   "erstautor": "Wensink D",
+   "doi": "10.1016/j.ymgme.2021.12.017",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: Erythropoietic protoporphyria (EPP) patients suffer from painful phototoxicity. Sunlight-avoiding behaviour has not yet been quantified objectively in EPP patients. OBJECTIVE: To study total white light exposure obtained with an actigraph device, before and during afamelanotide treatment, in EPP patients compared to healthy controls. Effects on circadian rhythm, pain and sleep were also investigated. METHODS: Adult EPP patients visiting the Porphyria Center Rotterdam of the Erasmus MC were included in this single-center longitudinal case-control open-label intervention study. Controls were age and place of residence matched. Participants wore an actigraph (Actiwatch Pro) during two weeks for multiple periods. Afamelanotide was given to EPP patients as part of standard care. RESULTS: Twenty-six EPP patients and 23 matched controls participated. Controls were statistically significantly more exposed to white light than EPP patients off treatment during autumn (95.4%), spring (69.9%), and summer (105.4%; p = 0.01). EPP patients on afamelanotide treatment had 71.6% more light exposure during spring compared to EPP patients off treatment (p < 0.01). Afamelanotide treatment resulted in a reduction of painful moments in the morning (6.5% decrease) and the evening (8.1% decrease; p < 0.05). Bedtime differed between EPP patients off treatment, controls and EPP patients on treatment (23:45 h ± 1:51 versus 23:02 ± 1:41 and 23:14 ± 1:29, respectively; p < 0.0001). CONCLUSION: Actigraphy is a useful method to objectively measure white light exposure and treatment effects in EPP. In EPP patients afamelanotide treatment is associated with increased white light exposure during spring, and overall less pain. Treatment with afamelanotide is also associated with normalization of circadian rhythm."
+  },
+  {
+   "pmid": "41002740",
+   "titel": "Polymorphism of Melanocortin Receptor Genes-Association with Inflammatory Traits and Diseases",
+   "jahr": "2025",
+   "journal": "Diseases",
+   "erstautor": "Bardhan M",
+   "doi": "10.3390/diseases13090305",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Melanocortin receptors (MCRs) are responsible for various functions ranging from skin pigmentation, regulation of appetite, stress response and cognition, steroid synthesis, and energy balance to cellular regeneration and immunomodulation. The genetic polymorphism with tissue distribution ranging from the brain, limbic system, and adrenal cortex to neutrophils, monocytes, and macrophages is evident in MCRs. The mutations in MC1R, MC2R, MC3R, and MC4R genes are associated with risk of melanoma, familial glucocorticoid deficiency, obesity, and type 2 diabetes mellitus, respectively. Meanwhile, MC1R, MC2R, and MC5R genes are involved in the risk of major depressive disorder. Melanocortin receptors are involved in different inflammatory disorders, i.e., atopic dermatitis, autoimmune uveitis, sarcoidosis, respiratory diseases, multiple sclerosis, scleroderma, inflammatory bowel disease, amyotrophic lateral sclerosis, Alzheimer's disease, arthritis, and reperfusion injury. Several newer therapeutic agents related to MCRs have numerous advantages over the current anti-inflammatory drugs, demonstrating therapeutic relevance. Among them, α-MSH analogs play a role in atopic dermatitis and scleroderma, and MC1R agonist Dersimelagon has shown effectiveness in systemic sclerosis. The FDA has recently approved the repository corticotropin injection (RCI) to treat sarcoidosis. The FDA has also approved various melanocortin agonists, i.e., Bremelanotide, Afamelanotide, and Setmelanotide, for the treatment of hypoactive sexual desire disorder, Erythropoietic protoporphyria, and obesity, due to pro-opiomelanocortin and leptin receptor deficiency, respectively. Therefore, this review aims to summarize the function and genetic polymorphism of melanocortin receptors, regulatory pathways involving MCRs, and the existing evidence of the prime effect of MCRs on inflammatory responses via different mechanisms and their potential therapeutic use in inflammatory diseases."
+  },
+  {
+   "pmid": "25494545",
+   "titel": "Long-term observational study of afamelanotide in 115 patients with erythropoietic protoporphyria",
+   "jahr": "2015",
+   "journal": "Br J Dermatol",
+   "erstautor": "Biolcati G",
+   "doi": "10.1111/bjd.13598",
+   "typ": [
+    "Journal Article",
+    "Multicenter Study",
+    "Observational Study"
+   ],
+   "abstract": "BACKGROUND: In erythropoietic protoporphyria (EPP), an inherited disease of porphyrin-biosynthesis, the accumulation of protoporphyrin in the skin causes severely painful phototoxic reactions. Symptom prevention was impossible until recently when afamelanotide became available. Afamelanotide-induced skin pigmentation has statistically significantly improved light-tolerance, although the clinical significance of the statistical effect was unknown. OBJECTIVES: To assess clinical effectiveness by recording compliance and safety during prolonged use. METHODS: We report longitudinal observations of 115 ambulatory patients with EPP, who were treated with a total of 1023 afamelanotide implants over a period of up to 8 years at two porphyria centres; one in Rome, Italy, and the other in Zurich, Switzerland. RESULTS: Since the treatment first became available in 2006, the number of patients treated with 16 mg afamelanotide implants rose continuously until June 2014, when 66% of all patients with EPP known to the porphyria centres were treated. Only three patients considered afamelanotide did not meet their expectations for symptom improvement; 23% discontinued the treatment for other, mostly compelling, reasons such as pregnancy or financial restrictions. The quality of life (QoL) scores, measured by an EPP-specific questionnaire, were 31 ± 24% of maximum prior to afamelanotide treatment, rose to 74% after starting afamelanotide and remained at this level during the entire observation period. Only minor adverse events attributable to afamelanotide, predominantly nausea, were recorded. CONCLUSION: Based on the improved QoL scores, high compliance and low discontinuation rates, we conclude that afamelanotide exhibits good clinical effectiveness and good safety in EPP under long-term routine conditions."
+  },
+  {
+   "pmid": "37109595",
+   "titel": "Afamelanotide Is Associated with Dose-Dependent Protective Effect from Liver Damage Related to Erythropoietic Protoporphyria",
+   "jahr": "2023",
+   "journal": "Life (Basel)",
+   "erstautor": "Minder AE",
+   "doi": "10.3390/life13041066",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "UNLABELLED: In animal models, melanocyte-stimulating hormones (MSHs) protect the liver from various injuries. Erythropoietic protoporphyria (EPP), a metabolic disorder, leads to the accumulation of protoporphyrin (PPIX). In addition to the most prominent symptom of incapacitating phototoxic skin reactions, 20% of EPP patients exhibit disturbed liver functioning and 4% experience terminal liver failure caused by the hepatobiliary elimination of excess PPIX. Skin symptoms are mitigated through the application of the controlled-release implant afamelanotide, an α-MSH analog, every sixty days. Recently, we showed that liver function tests (LFTs) improved during afamelanotide treatment when compared to before treatment. The present study investigated whether this effect is dose-dependent, as the evidence of dose dependency would support a beneficial influence of afamelanotide. METHODS: In this retrospective observational study, we included 2933 liver-function tests, 1186 PPIX concentrations and 1659 afamelanotide implant applications in 70 EPP patients. We investigated whether the number of days since the preceding afamelanotide dose or the number of doses during the preceding 365 days had an effect on LFTs and PPIX levels. In addition, we assessed the effect of global radiation. RESULTS: Inter-patient differences exerted the most prominent effect on PPIX and LFTs. In addition, PPIX increased significantly with an increase in the number of days since the last afamelanotide implant (p < 0.0001). ALAT and bilirubin decreased significantly with an increasing number of afamelanotide doses in the preceding 365 days (p = 0.012, p = 0.0299, respectively). Global radiation only influenced PPIX (p = 0.0113). CONCLUSIONS: These findings suggest that afamelanotide ameliorates both PPIX concentrations and LFTs in EPP in a dose-dependent manner."
+  },
+  {
+   "pmid": "32811524",
+   "titel": "Increased phototoxic burn tolerance time and quality of life in patients with erythropoietic protoporphyria treated with afamelanotide - a three years observational study",
+   "jahr": "2020",
+   "journal": "Orphanet J Rare Dis",
+   "erstautor": "Barman-Aksözen J",
+   "doi": "10.1186/s13023-020-01505-6",
+   "typ": [
+    "Journal Article",
+    "Observational Study",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Erythropoietic protoporphyria (EPP) is an ultra-rare genetic disorder (prevalence 1:150`000) characterized by instant painful phototoxic burn reactions in skin exposed to visible light. Afamelanotide is the first clinically tested therapy effectively increasing the time EPP patients can spend in direct sunlight without developing symptoms and reducing the number and severity of phototoxic reactions. OBJECTIVES: We report our data on real-world effectiveness of afamelanotide treatment in EPP and its phototoxic burn protection factor (PBPF). METHODS: We analysed clinical data collected between 2016 and 2018 in the Swiss EPP cohort (n = 39) on maximum phototoxic burn tolerance time (PBTT), i.e., maximum time spent in sunlight without phototoxic reaction, severity of phototoxic reactions as assessed by an 11-point Likert-type visual analogue scale (VAS), with 0 being no pain and 10 being the worst possible pain, and Quality of Life (QoL), as assessed with an EPP-specific instrument. RESULTS: Before treatment, the PBTT was median 10 min (IQR 5-20). Under treatment, PBTT increased to median 180 min (IQR 120-240). Individual PBPF increased 1.8- to 180-fold (full range, median 15). The pain severity of the worst phototoxic reaction before treatment was median 10 and under treatment median 6 (IQR 3-7). QoL at the end of the observation period in 2018 (with all the assessed patients under treatment) was 81.4% (IQR 69.4-93.4, n = 34). A 97.4% treatment adherence rate was observed. CONCLUSION: Treatment of EPP patients with afamelanotide is highly effective under real-world conditions. We suggest PBTT as a clinical meaningful endpoint in further clinical trials."
+  },
+  {
+   "pmid": "20725548",
+   "titel": "Nonsurgical innovations in the treatment of nonmelanoma skin cancer",
+   "jahr": "2010",
+   "journal": "J Clin Aesthet Dermatol",
+   "erstautor": "Amini S",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Basal cell carcinoma and squamous cell carcinoma are the most frequent types of cancer in the United States and represent 75 percent and 20 percent, respectively, of all nonmelanoma skin cancers. Since ultraviolet radiation is implicated in their development, photoprotection is fundamental in their prevention. Additional preventive measures include identifying high-risk individuals for early detection along with using agents, such as retinoids, that are effective in decreasing the risk of premalignant cells further developing into carcinomas. Newer agents achieving this goal include perillyl alcohol, T4 endonuclease 5, DL-alpha-tocopherol, and alpha-difluoromethylornithine. Procedural modalities are currently the standard of treatment, but recent evidence has consistently shown that newer (nonsurgical) therapies, such as interferon, imiquimod, retinoids, and 5-fluorouracil, can be used effectively either as monotherapies or as adjuvants to those surgical modalities for the treatment of superficial nonmelanoma skin cancers and premalignant lesions. These newer therapies have achieved significant reductions in morbidity and mortality. Procedural modalities that have been evolving into important tools for the treatment of actinic keratosis and nonmelanoma skin cancers include photodynamic therapy and lasers. Nonsurgical therapies currently proving to be effective in clinical trials include ingenol mebutate and cyclooxygenase-2 inhibitors. Agents that are showing promising results in early phases of clinical trials include betulinic acid; hedgehog signaling pathway inhibitors, such as cyclopamine and GDC-0449; alpha-melanocyte-stimulating hormone analogs, such as afamelanotide; epidermal growth factor receptor inhibitors, such as gefitinib and erlotinib; anti-epidermal growth factor receptor monoclonal antibodies, such as cetuximab and panitumumab; and the 5-fluorouracil prodrug capecitabine."
+  },
+  {
+   "pmid": "26669872",
+   "titel": "[Erythropoietic protoporphyria : Clinical manifestations, diagnosis and new therapeutic possibilities]",
+   "jahr": "2016",
+   "journal": "Hautarzt",
+   "erstautor": "Urbanski U",
+   "doi": "10.1007/s00105-015-3733-7",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "BACKGROUND: Erythropoietic protoporphyria, the second most common type of the cutaneous porphyrias, is due to an enzymatic deficiency of ferrochelatase, the last enzyme in heme biosynthesis. The enzyme defect leads to an accumulation of protoporphyrin IX in erythrocytes and an elevated excretion of this metabolite in the feces. CLINICAL PRESENTATION: Usually, disease onset is in early infancy, characterized by increased photosensitivity. During or shortly after sunlight exposure, affected individuals suffer from burning, stinging, itching, and pain in sun-exposed skin areas. These symptoms lead to a considerably reduced quality of life and strict avoidance of sunlight exposure. Subacute symptoms include visible changes like edema and erythema. In the further course of the disease, chronic signs such as lichenification and scarring may occur. A severe complication of hepatic protoporphyrin IX accumulation is the development of a potentially life-threatening fulminant liver failure. Therefore, hepatic laboratory tests and ultrasound of the liver should be performed regularly. THERAPY: Traditionally, therapy merely consisted of consequent photoprotection and orally administered β-carotene. A novel treatment option is afamelanotide (Scenesse®), a synthetic analogue of the naturally occurring α-melanocyte stimulating hormone. Afamelanotide, administered as a subcutaneous implant, induces eumelanin production, independent of preceding UV light exposure. This may enable patients with erythropoietic protoporphyria to stay in sunlight significantly longer than previously possible without complaints, thus, substantially improving quality of life."
+  },
+  {
+   "pmid": "36579412",
+   "titel": "Erythropoietic protoporphyria in the Netherlands: Clinical features, psychosocial impact and the effect of afamelanotide",
+   "jahr": "2023",
+   "journal": "J Dermatol",
+   "erstautor": "Wensink D",
+   "doi": "10.1111/1346-8138.16690",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Erythropoietic protoporphyria (EPP) patients experience severe burning pain after light exposure, which results in a markedly reduced quality of life. However, there is limited information on the psychosocial aspects of EPP. To investigate the clinical features and social aspects of living with EPP, before and during afamelanotide treatment in the Netherlands. A single-center prospective longitudinal study of adult patients with EPP attending the Erasmus MC Rotterdam. Patients completed questionnaires, comprising demographic, clinical and social details, including two generic (DS-14 and SF-36) and a disease specific (EPP-QoL) QoL questionnaires. 121 adult EPP patients were included. The educational level of EPP patients seemed higher compared to the Dutch population (36% vs. 30% high-education, 42% vs. 37% middle-education). At baseline 5% of the EPP patients were unemployed, none were unemployed during afamelanotide treatment. Full- and part-time employment rate increased from 59.5% to 69.9% on afamelanotide treatment (p > 0.05). EPP-QoL improved from 44% to 75% on afamelanotide treatment (p < 0.001). Type-D personality was present in 27.4% of patients; their social inhibition scores improved significantly on afamelanotide treatment (p = 0.019). EPP patients scored low on the social functioning domain (SF-36) compared to the Dutch population (74.4 ± 27.3 vs. 84.0 ± 22.4; respectively), and improved during afamelanotide treatment (84.3 ± 20.9, p = 0.001). EPP has a significant negative impact on social aspects, with less employment despite a higher education level. Afamelanotide treatment improves quality of life, social functioning and possibly employment rate. It is important to recognize the impact of EPP on social life, although, more research is needed."
+  },
+  {
+   "pmid": "37683058",
+   "titel": "Into the Light: Afamelanotide and the Treatment of Erythropoietic Protoporphyria in the United States",
+   "jahr": "2023",
+   "journal": "J Drugs Dermatol",
+   "erstautor": "Resnik SR",
+   "doi": "10.36849/JDD.7126",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: Erythropoietic protoporphyria (EPP) is a rare disease that causes disabling cutaneous photosensitivity with pain and burning sensations. In 2019, afamelanotide, an &alpha;-melanocyte-stimulating hormone analogue, was approved in the United States for treatment of EPP. In this study, patients receiving afamelanotide filled out questionnaires assessing the benefit of treatment. Outcomes measured included: return to normal activities, experience of phototoxic reactions, effect on patient confidence, and more. Patients ranked their experience on a descriptive scale ranging from \"very much\" to \"never\". RESULTS: Prior to treatment, 75% of patients indicated that EPP affected their lives \"very much\" or \"a lot\". This number fell to 11% after the 1st implant and to 0% after each subsequent implant. The number of patients that willingly ventured outside increased with each subsequent implant. CONCLUSION: The results of this study clearly show that afamelanotide treatment can dramatically and positively impact the lives of EPP patients.&nbsp; Citation: Resnik SR, Targett D, Resnik BI. Into the light: afamelanotide and the treatment of erythropoietic protoporphyria in the United States. J Drugs Dermatol. 2023;22(9):941-949. doi:10.36849/JDD.7126R1."
+  }
+ ],
+ "ctgov": [
+  {
+   "nct": "NCT04053270",
+   "titel": "Multicentre Phase III Erythropoietic Protoporphyria Study",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 100,
+   "start": "2007-05",
+   "ende": "2009-12-09",
+   "erkrankungen": [
+    "Erythropoietic Protoporphyria"
+   ],
+   "sponsor": "Clinuvel Pharmaceuticals Limited",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT05210582",
+   "titel": "A Study to Assess the Changes in Pigmentation and Safety of Afamelanotide in Patients With Vitiligo on the Face",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "UNKNOWN",
+   "teilnehmende": 6,
+   "start": "2022-10-11",
+   "ende": "2023-08",
+   "erkrankungen": [
+    "Vitiligo"
+   ],
+   "sponsor": "Clinuvel, Inc.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00859534",
+   "titel": "Phase II Solar Urticaria (SU) Pilot Study",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 5,
+   "start": "2008-12",
+   "ende": "2009-07",
+   "erkrankungen": [
+    "Solar Urticaria"
+   ],
+   "sponsor": "Clinuvel Pharmaceuticals Limited",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT04578496",
+   "titel": "A Safety Extension Study in Patients With Erythropoietic Protoporphyria (EPP)",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 16,
+   "start": "2011-07-11",
+   "ende": "2014-02-27",
+   "erkrankungen": [
+    "Erythropoietic Protoporphyria"
+   ],
+   "sponsor": "Clinuvel Pharmaceuticals Limited",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT04525157",
+   "titel": "Afamelanotide and Narrow-Band Ultraviolet B (NB-UVB) Phototherapy in the Treatment of Nonsegmental Vitiligo (NSV)",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 21,
+   "start": "2014-06-06",
+   "ende": "2016-06-06",
+   "erkrankungen": [
+    "Vitiligo"
+   ],
+   "sponsor": "Clinuvel Pharmaceuticals Limited",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT01382589",
+   "titel": "Afamelanotide and Narrow-Band Ultraviolet B (NB-UVB) Light in the Treatment of Nonsegmental Vitiligo",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 15,
+   "start": "2011-09",
+   "ende": "2012-12",
+   "erkrankungen": [
+    "Vitiligo"
+   ],
+   "sponsor": "Clinuvel Pharmaceuticals Limited",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT03634137",
+   "titel": "Implant Pharmacokinetic and Pharmacodynamic Study",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 24,
+   "start": "2009-09",
+   "ende": "2010-03",
+   "erkrankungen": [
+    "Healthy"
+   ],
+   "sponsor": "Clinuvel Pharmaceuticals Limited",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT04943159",
+   "titel": "Afamelanotide in Patients Suffering With Acne Vulgaris",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 3,
+   "start": "2010-08-24",
+   "ende": "2011-03-08",
+   "erkrankungen": [
+    "Acne Vulgaris"
+   ],
+   "sponsor": "Clinuvel Pharmaceuticals Limited",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT05370235",
+   "titel": "A Study to Evaluate the Safety and Efficacy of Afamelanotide in Patients With Xeroderma Pigmentosum C and V",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "UNKNOWN",
+   "teilnehmende": 6,
+   "start": "2022-03-28",
+   "ende": "2024-12",
+   "erkrankungen": [
+    "Xeroderma Pigmentosum"
+   ],
+   "sponsor": "Clinuvel Europe Limited",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT01605136",
+   "titel": "Phase III Confirmatory Study in Erythropoietic Protoporphyria",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 93,
+   "start": "2012-05",
+   "ende": "2013-07",
+   "erkrankungen": [
+    "Erythropoietic Protoporphyria"
+   ],
+   "sponsor": "Clinuvel Pharmaceuticals Limited",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT01097044",
+   "titel": "Phase II Confirmatory Study in Erythropoietic Protoporphyria (EPP)",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 77,
+   "start": "2010-04",
+   "ende": "2011-04",
+   "erkrankungen": [
+    "Erythropoietic Protoporphyria"
+   ],
+   "sponsor": "Clinuvel Pharmaceuticals Limited",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT00979745",
+   "titel": "Phase III Confirmatory Study in Erythropoietic Protoporphyria (EPP)",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 74,
+   "start": "2009-09",
+   "ende": "2011-05",
+   "erkrankungen": [
+    "Erythropoietic Protoporphyria"
+   ],
+   "sponsor": "Clinuvel Pharmaceuticals Limited",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT06109649",
+   "titel": "A Study to Compare the Efficacy and Safety of SCENESSE and Narrow-Band Ultraviolet (NB-UVB) Light Versus NB-UVB Light Alone in Patients With Vitiligo",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 200,
+   "start": "2023-10-11",
+   "ende": "2026-06",
+   "erkrankungen": [
+    "Vitiligo"
+   ],
+   "sponsor": "Clinuvel, Inc.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT01430195",
+   "titel": "Afamelanotide and Narrow-Band Ultraviolet B (NB-UVB) Light in the Treatment of Nonsegmental Vitiligo (NSV)",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 56,
+   "start": "2011-06",
+   "ende": "2012-11",
+   "erkrankungen": [
+    "Vitiligo"
+   ],
+   "sponsor": "Clinuvel Pharmaceuticals Limited",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT04704713",
+   "titel": "Afamelanotide in Patients Suffering From Polymorphic Light Eruption (PLE)",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 31,
+   "start": "2010-05-05",
+   "ende": null,
+   "erkrankungen": [
+    "Polymorphic Light Eruption"
+   ],
+   "sponsor": "Clinuvel Pharmaceuticals Limited",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT05854784",
+   "titel": "Study to Evaluate the Safety and Efficacy of Afamelanotide in Patients With Variegate Porphyria (VP)",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 6,
+   "start": "2023-03-28",
+   "ende": "2023-12-28",
+   "erkrankungen": [
+    "Variegate Porphyria"
+   ],
+   "sponsor": "Clinuvel Pharmaceuticals Limited",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT00472901",
+   "titel": "Phase III Trial of CUV1647 in Polymorphic Light Eruption (PLE)",
+   "phase": "",
+   "typ": "OBSERVATIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 18,
+   "start": "2007-05",
+   "ende": "2010-09",
+   "erkrankungen": [
+    "Polymorphic Light Eruption (PLE)"
+   ],
+   "sponsor": "Clinuvel Pharmaceuticals Limited",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT04425746",
+   "titel": "Afamelanotide as Adjunctive Therapy in Patients Undergoing Photodynamic Therapy (PDT) Utilising Porfimer Sodium",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 16,
+   "start": "2008-08-05",
+   "ende": "2009-05-28",
+   "erkrankungen": [
+    "Patients Undergoing Photodynamic Therapy Using Porfimer Sodium"
+   ],
+   "sponsor": "Clinuvel Pharmaceuticals Limited",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT06388642",
+   "titel": "Pharmacokinetics of Afamelanotide in Erythropoietic Protoporphyria Patients",
+   "phase": "PHASE1,PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 28,
+   "start": "2024-03-07",
+   "ende": "2025-01-20",
+   "erkrankungen": [
+    "Erythropoietic Protoporphyria"
+   ],
+   "sponsor": "Clinuvel Europe Limited",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT04962503",
+   "titel": "A Proof of Concept Study to Evaluate the Safety of Afamelanotide in Patients With Acute Arterial Ischaemic Stroke (AIS)",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 6,
+   "start": "2021-06-03",
+   "ende": "2022-02-04",
+   "erkrankungen": [
+    "Arterial Ischemic Stroke"
+   ],
+   "sponsor": "Clinuvel Pharmaceuticals Limited",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT05159752",
+   "titel": "A Study to Evaluate the Safety and Efficacy of Afamelanotide in Patients With Xeroderma Pigmentosum (XP)",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "UNKNOWN",
+   "teilnehmende": 6,
+   "start": "2021-10-19",
+   "ende": "2024-10",
+   "erkrankungen": [
+    "Xeroderma Pigmentosum"
+   ],
+   "sponsor": "Clinuvel Europe Limited",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00829192",
+   "titel": "Phase II AK Study in Organ Transplant Patients",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "UNKNOWN",
+   "teilnehmende": 200,
+   "start": "2007-11",
+   "ende": "2012-08",
+   "erkrankungen": [
+    "Actinic Keratoses",
+    "Carcinoma, Squamous Cell",
+    "Organ Transplant Recipients"
+   ],
+   "sponsor": "Clinuvel Pharmaceuticals Limited",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05368857",
+   "titel": "DNA Repair Capacity of Afamelanotide on Ultraviolet Radiation-induced DNA Damage in Healthy Volunteers",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 10,
+   "start": "2022-01-19",
+   "ende": "2023-02-01",
+   "erkrankungen": [
+    "Afamelanotide Evaluated as Skin DNA Repair Therapy in Healthy Volunteers"
+   ],
+   "sponsor": "Clinuvel (UK) Ltd.",
+   "ergebnisse": false
+  }
+ ],
+ "gruppe": "E_hormone_sexualitaet_haut"
+}

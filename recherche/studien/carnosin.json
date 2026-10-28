@@ -1,0 +1,2447 @@
+{
+ "name": "Carnosin",
+ "status": "lebensmittel",
+ "suchbegriff_pubmed": "carnosine[ti] AND (supplementation[tiab] OR oral[tiab])",
+ "suchbegriff_ctgov": "carnosine",
+ "humanstudien_alle": [
+  {
+   "pmid": "42308284",
+   "titel": "Effects of carnosine supplementation on physical endurance: a placebo-controlled randomized clinical trial",
+   "jahr": "2026",
+   "journal": "J Int Soc Sports Nutr",
+   "erstautor": "O'Toole TE",
+   "doi": "10.1080/15502783.2026.2679716",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "41855025",
+   "titel": "Zinc-L-carnosine mouthwash in oral mucositis patients: a single-blind, randomized, controlled trial",
+   "jahr": "2026",
+   "journal": "Minerva Dent Oral Sci",
+   "erstautor": "Togni L",
+   "doi": "10.23736/S2724-6329.25.05074-0",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "40859880",
+   "titel": "Topical carnosine gel improves intermittent high-intensity exercise performance in world-class rugby sevens players",
+   "jahr": "2025",
+   "journal": "J Int Soc Sports Nutr",
+   "erstautor": "Beaven CM",
+   "doi": "10.1080/15502783.2025.2550311",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "39919936",
+   "titel": "Carnosine supplementation improves cognitive outcomes in younger participants of the NEAT trial",
+   "jahr": "2025",
+   "journal": "Neurotherapeutics",
+   "erstautor": "O'Toole TE",
+   "doi": "10.1016/j.neurot.2025.e00541",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "39983097",
+   "titel": "Carnosine-enriched functional food enhances micro- and macrovascular endothelium-independent vasodilation in competitive athletes-a randomized study",
+   "jahr": "2025",
+   "journal": "Appl Physiol Nutr Metab",
+   "erstautor": "Perić L",
+   "doi": "10.1139/apnm-2024-0458",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "39770949",
+   "titel": "The Effect of Carnosine Supplementation on Musculoskeletal Health in Adults with Prediabetes and Type 2 Diabetes: A Secondary Analysis of a Randomized Controlled Trial",
+   "jahr": "2024",
+   "journal": "Nutrients",
+   "erstautor": "Saadati S",
+   "doi": "10.3390/nu16244328",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "39599686",
+   "titel": "Carnosine Supplementation Has No Effect on Inflammatory Markers in Adults with Prediabetes and Type 2 Diabetes: A Randomised Controlled Trial",
+   "jahr": "2024",
+   "journal": "Nutrients",
+   "erstautor": "Saadati S",
+   "doi": "10.3390/nu16223900",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "39473402",
+   "titel": "Estimation of Plasma Concentration of L-Carnosine and its Correlation with Core Symptoms of Autism Spectrum Disorder Children: A Pilot Clinical Trial",
+   "jahr": "2024",
+   "journal": "Front Biosci (Landmark Ed)",
+   "erstautor": "Abraham DA",
+   "doi": "10.31083/j.fbl2910365",
+   "typ": [
+    "Journal Article",
+    "Clinical Trial"
+   ]
+  },
+  {
+   "pmid": "39215872",
+   "titel": "Evaluation of supplementary carnosine accumulation and distribution: an initial analysis of participants in the Nucleophilic Defense Against PM Toxicity (NEAT) clinical trial",
+   "jahr": "2024",
+   "journal": "Amino Acids",
+   "erstautor": "Baba SP",
+   "doi": "10.1007/s00726-024-03414-5",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "38732615",
+   "titel": "A Patented Dietary Supplement (Hydroxy-Methyl-Butyrate, Carnosine, Magnesium, Butyrate, Lactoferrin) Is a Promising Therapeutic Target for Age-Related Sarcopenia through the Regulation of Gut Permeability: A Randomized Controlled Trial",
+   "jahr": "2024",
+   "journal": "Nutrients",
+   "erstautor": "Rondanelli M",
+   "doi": "10.3390/nu16091369",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "38172006",
+   "titel": "Carnosine supplementation improves glucose control in adults with pre-diabetes and type 2 diabetes: A randomised controlled trial",
+   "jahr": "2024",
+   "journal": "Nutr Metab Cardiovasc Dis",
+   "erstautor": "Hariharan R",
+   "doi": "10.1016/j.numecd.2023.10.012",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "38004228",
+   "titel": "Carnosine Did Not Affect Vascular and Metabolic Outcomes in Patients with Prediabetes and Type 2 Diabetes: A 14-Week Randomized Controlled Trial",
+   "jahr": "2023",
+   "journal": "Nutrients",
+   "erstautor": "Saadati S",
+   "doi": "10.3390/nu15224835",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "34174842",
+   "titel": "Effect of Oral carnosine supplementation on urinary TGF-β in diabetic nephropathy: a randomized controlled trial",
+   "jahr": "2021",
+   "journal": "BMC Nephrol",
+   "erstautor": "Siriwattanasit N",
+   "doi": "10.1186/s12882-021-02434-7",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "33914660",
+   "titel": "Acute preexercise supplementation of combined carnosine and anserine enhances initial maximal power of Wingate tests in humans",
+   "jahr": "2021",
+   "journal": "J Appl Physiol (1985)",
+   "erstautor": "Blancquaert L",
+   "doi": "10.1152/japplphysiol.00602.2020",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "33148972",
+   "titel": "Kinetics of Muscle Carnosine Decay after β-Alanine Supplementation: A 16-wk Washout Study",
+   "jahr": "2021",
+   "journal": "Med Sci Sports Exerc",
+   "erstautor": "Yamaguchi GC",
+   "doi": "10.1249/MSS.0000000000002559",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "33092320",
+   "titel": "Acute carnosine and β-alanine supplementation increase the compensated part of the ventilation versus work rate relationship during a ramp incremental cycle test in physically active men",
+   "jahr": "2021",
+   "journal": "J Sports Med Phys Fitness",
+   "erstautor": "Limonta E",
+   "doi": "10.23736/S0022-4707.20.10887-9",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "33189432",
+   "titel": "Dietary supplementation with L-carnosine improves patient-reported outcomes, autonomic nervous system performance, and brain metabolism in 3 adult patients with multiple sclerosis",
+   "jahr": "2020",
+   "journal": "Nutr Res",
+   "erstautor": "Zanini D",
+   "doi": "10.1016/j.nutres.2020.09.008",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "33170378",
+   "titel": "Effect of L-Carnosine as adjunctive therapy in the management of children with autism spectrum disorder: a randomized controlled study",
+   "jahr": "2020",
+   "journal": "Amino Acids",
+   "erstautor": "Ann Abraham D",
+   "doi": "10.1007/s00726-020-02909-1",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "31319510",
+   "titel": "Effects of Anserine/Carnosine Supplementation on Mild Cognitive Impairment with APOE4",
+   "jahr": "2019",
+   "journal": "Nutrients",
+   "erstautor": "Masuoka N",
+   "doi": "10.3390/nu11071626",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "30592963",
+   "titel": "L-Carnosine protects against Oxaliplatin-induced peripheral neuropathy in colorectal cancer patients: A perspective on targeting Nrf-2 and NF-κB pathways",
+   "jahr": "2019",
+   "journal": "Toxicol Appl Pharmacol",
+   "erstautor": "Yehia R",
+   "doi": "10.1016/j.taap.2018.12.015",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "30136029",
+   "titel": "Carnosine supplementation reduces plasma soluble transferrin receptor in healthy overweight or obese individuals: a pilot randomised trial",
+   "jahr": "2019",
+   "journal": "Amino Acids",
+   "erstautor": "Baye E",
+   "doi": "10.1007/s00726-018-2623-6",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "30089410",
+   "titel": "Carnosine supplementation does not affect serum concentrations of advanced glycation and precursors of lipoxidation end products in autism: a randomized controlled clinical trial",
+   "jahr": "2019",
+   "journal": "Ann Clin Biochem",
+   "erstautor": "Ghodsi R",
+   "doi": "10.1177/0004563218796860",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "30311825",
+   "titel": "Effects of α-Lipoic Acid, Carnosine, and Thiamine Supplementation in Obese Patients with Type 2 Diabetes Mellitus: A Randomized, Double-Blind Study",
+   "jahr": "2018",
+   "journal": "J Med Food",
+   "erstautor": "Karkabounas S",
+   "doi": "10.1089/jmf.2018.0007",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "30205427",
+   "titel": "Carnosine Supplementation Improves Serum Resistin Concentrations in Overweight or Obese Otherwise Healthy Adults: A Pilot Randomized Trial",
+   "jahr": "2018",
+   "journal": "Nutrients",
+   "erstautor": "Baye E",
+   "doi": "10.3390/nu10091258",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "29430839",
+   "titel": "Effects of l-Carnosine Supplementation on Sleep Disorders and Disease Severity in Autistic Children: A Randomized, Controlled Clinical Trial",
+   "jahr": "2018",
+   "journal": "Basic Clin Pharmacol Toxicol",
+   "erstautor": "Mehrazad-Saber Z",
+   "doi": "10.1111/bcpt.12979",
+   "typ": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "28744992",
+   "titel": "The effect of 12 weeks carnosine supplementation on renal functional integrity and oxidative stress in pediatric patients with diabetic nephropathy: a randomized placebo-controlled trial",
+   "jahr": "2018",
+   "journal": "Pediatr Diabetes",
+   "erstautor": "Elbarbary NS",
+   "doi": "10.1111/pedi.12564",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "29569535",
+   "titel": "Changing to a vegetarian diet reduces the body creatine pool in omnivorous women, but appears not to affect carnitine and carnosine homeostasis: a randomised trial",
+   "jahr": "2018",
+   "journal": "Br J Nutr",
+   "erstautor": "Blancquaert L",
+   "doi": "10.1017/S000711451800017X",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "29420997",
+   "titel": "l-Carnosine supplementation attenuated fasting glucose, triglycerides, advanced glycation end products, and tumor necrosis factor-α levels in patients with type 2 diabetes: a double-blind placebo-controlled randomized clinical trial",
+   "jahr": "2018",
+   "journal": "Nutr Res",
+   "erstautor": "Houjeghani S",
+   "doi": "10.1016/j.nutres.2017.11.003",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "29234057",
+   "titel": "Effect of carnosine supplementation on the plasma lipidome in overweight and obese adults: a pilot randomised controlled trial",
+   "jahr": "2017",
+   "journal": "Sci Rep",
+   "erstautor": "Baye E",
+   "doi": "10.1038/s41598-017-17577-7",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "29246277",
+   "titel": "β-Alanine supplementation elevates intramuscular carnosine content and attenuates fatigue in men and women similarly but does not change muscle l-histidine content",
+   "jahr": "2017",
+   "journal": "Nutr Res",
+   "erstautor": "Varanoske AN",
+   "doi": "10.1016/j.nutres.2017.10.002",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "28910200",
+   "titel": "Comparison of Two β-Alanine Dosing Protocols on Muscle Carnosine Elevations",
+   "jahr": "2017",
+   "journal": "J Am Coll Nutr",
+   "erstautor": "Church DD",
+   "doi": "10.1080/07315724.2017.1335250",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "29088099",
+   "titel": "Anserine/Carnosine Supplementation Suppresses the Expression of the Inflammatory Chemokine CCL24 in Peripheral Blood Mononuclear Cells from Elderly People",
+   "jahr": "2017",
+   "journal": "Nutrients",
+   "erstautor": "Katakura Y",
+   "doi": "10.3390/nu9111199",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "28864708",
+   "titel": "Does supplementation with carnosine improve cardiometabolic health and cognitive function in patients with pre-diabetes and type 2 diabetes? study protocol for a randomised, double-blind, placebo-controlled trial",
+   "jahr": "2017",
+   "journal": "BMJ Open",
+   "erstautor": "Baye E",
+   "doi": "10.1136/bmjopen-2017-017691",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "28157726",
+   "titel": "Twenty-four Weeks of β-Alanine Supplementation on Carnosine Content, Related Genes, and Exercise",
+   "jahr": "2017",
+   "journal": "Med Sci Sports Exerc",
+   "erstautor": "Saunders B",
+   "doi": "10.1249/MSS.0000000000001173",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "27040154",
+   "titel": "Effects of carnosine supplementation on glucose metabolism: Pilot clinical trial",
+   "jahr": "2016",
+   "journal": "Obesity (Silver Spring)",
+   "erstautor": "de Courten B",
+   "doi": "10.1002/oby.21434",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "26771282",
+   "titel": "Oral Administration of Forskolin, Homotaurine, Carnosine, and Folic Acid in Patients with Primary Open Angle Glaucoma: Changes in Intraocular Pressure, Pattern Electroretinogram Amplitude, and Foveal Sensitivity",
+   "jahr": "2016",
+   "journal": "J Ocul Pharmacol Ther",
+   "erstautor": "Mutolo MG",
+   "doi": "10.1089/jop.2015.0121",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "26308179",
+   "titel": "Effects of Acute Carnosine and β-Alanine on Isometric Force and Jumping Performance",
+   "jahr": "2016",
+   "journal": "Int J Sports Physiol Perform",
+   "erstautor": "Invernizzi PL",
+   "doi": "10.1123/ijspp.2014-0507",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "26682691",
+   "titel": "Effect of Anserine/Carnosine Supplementation on Verbal Episodic Memory in Elderly People",
+   "jahr": "2016",
+   "journal": "J Alzheimers Dis",
+   "erstautor": "Hisatsune T",
+   "doi": "10.3233/JAD-150767",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "25510839",
+   "titel": "β-Alanine ingestion increases muscle carnosine content and combat specific performance in soldiers",
+   "jahr": "2015",
+   "journal": "Amino Acids",
+   "erstautor": "Hoffman JR",
+   "doi": "10.1007/s00726-014-1896-7",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "25287762",
+   "titel": "Effects of oral administration of orodispersible levo-carnosine on quality of life and exercise performance in patients with chronic heart failure",
+   "jahr": "2015",
+   "journal": "Nutrition",
+   "erstautor": "Lombardi C",
+   "doi": "10.1016/j.nut.2014.04.021",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "25201708",
+   "titel": "Influence of l-carnosine on pro-antioxidant status in elite kayakers and canoeists",
+   "jahr": "2014",
+   "journal": "Acta Physiol Hung",
+   "erstautor": "Slowinska-Lisowska M",
+   "doi": "10.1556/APhysiol.101.2014.008",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "24691900",
+   "titel": "Oral treatment of pressure ulcers with polaprezinc (zinc L-carnosine complex): 8-week open-label trial",
+   "jahr": "2014",
+   "journal": "Biol Trace Elem Res",
+   "erstautor": "Sakae K",
+   "doi": "10.1007/s12011-014-9943-5",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "24457999",
+   "titel": "Doubling of muscle carnosine concentration does not improve laboratory 1-hr cycling time-trial performance",
+   "jahr": "2014",
+   "journal": "Int J Sport Nutr Exerc Metab",
+   "erstautor": "Chung W",
+   "doi": "10.1123/ijsnem.2013-0125",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "23618477",
+   "titel": "Carnosine treatment for gulf war illness: a randomized controlled trial",
+   "jahr": "2013",
+   "journal": "Glob J Health Sci",
+   "erstautor": "Baraniuk JN",
+   "doi": "10.5539/gjhs.v5n3p69",
+   "typ": [
+    "Clinical Trial, Phase I",
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ]
+  },
+  {
+   "pmid": "21756141",
+   "titel": "Skin beautification with oral non-hydrolized versions of carnosine and carcinine: Effective therapeutic management and cosmetic skincare solutions against oxidative glycation and free-radical production as a causal mechanism of diabetic complications and skin aging",
+   "jahr": "2012",
+   "journal": "J Dermatolog Treat",
+   "erstautor": "Babizhayev MA",
+   "doi": "10.3109/09546634.2010.521812",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "22143432",
+   "titel": "Beta-alanine (Carnosyn™) supplementation in elderly subjects (60-80 years): effects on muscle carnosine content and physical capacity",
+   "jahr": "2012",
+   "journal": "Amino Acids",
+   "erstautor": "del Favero S",
+   "doi": "10.1007/s00726-011-1190-x",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "21847611",
+   "titel": "Effect of two β-alanine dosing protocols on muscle carnosine synthesis and washout",
+   "jahr": "2012",
+   "journal": "Amino Acids",
+   "erstautor": "Stellingwerff T",
+   "doi": "10.1007/s00726-011-1054-4",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "21999299",
+   "titel": "Creatine supplementation does not augment muscle carnosine content in type 2 diabetic patients",
+   "jahr": "2011",
+   "journal": "Appl Physiol Nutr Metab",
+   "erstautor": "Gualano B",
+   "doi": "10.1139/h11-083",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "20224451",
+   "titel": "Hormonal responses to resistance exercise after ingestion of carnosine and anserine",
+   "jahr": "2011",
+   "journal": "J Strength Cond Res",
+   "erstautor": "Goto K",
+   "doi": "10.1519/JSC.0b013e3181bac43c",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "20671038",
+   "titel": "Important role of muscle carnosine in rowing performance",
+   "jahr": "2010",
+   "journal": "J Appl Physiol (1985)",
+   "erstautor": "Baguet A",
+   "doi": "10.1152/japplphysiol.00141.2010",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "19214556",
+   "titel": "The effect of 4 weeks beta-alanine supplementation and isokinetic training on carnosine concentrations in type I and II human skeletal muscle fibres",
+   "jahr": "2009",
+   "journal": "Eur J Appl Physiol",
+   "erstautor": "Kendrick IP",
+   "doi": "10.1007/s00421-009-0998-5",
+   "typ": [
+    "Controlled Clinical Trial",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "18991979",
+   "titel": "Do fatty acids help in overcoming reading difficulties? A double-blind, placebo-controlled study of the effects of eicosapentaenoic acid and carnosine supplementation on children with dyslexia",
+   "jahr": "2009",
+   "journal": "Child Care Health Dev",
+   "erstautor": "Kairaluoma L",
+   "doi": "10.1111/j.1365-2214.2008.00881.x",
+   "typ": [
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Multicenter Study",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "17690198",
+   "titel": "beta-Alanine supplementation augments muscle carnosine content and attenuates fatigue during repeated isokinetic contraction bouts in trained sprinters",
+   "jahr": "2007",
+   "journal": "J Appl Physiol (1985)",
+   "erstautor": "Derave W",
+   "doi": "10.1152/japplphysiol.00397.2007",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "16777920",
+   "titel": "Zinc carnosine, a health food supplement that stabilises small bowel integrity and stimulates gut repair processes",
+   "jahr": "2007",
+   "journal": "Gut",
+   "erstautor": "Mahmood A",
+   "doi": "10.1136/gut.2006.099929",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "16554972",
+   "titel": "The absorption of orally supplied beta-alanine and its effect on muscle carnosine synthesis in human vastus lateralis",
+   "jahr": "2006",
+   "journal": "Amino Acids",
+   "erstautor": "Harris RC",
+   "doi": "10.1007/s00726-006-0299-9",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "16531904",
+   "titel": "Carnosine and anserine ingestion enhances contribution of nonbicarbonate buffering",
+   "jahr": "2006",
+   "journal": "Med Sci Sports Exerc",
+   "erstautor": "Suzuki Y",
+   "doi": "10.1249/01.mss.0000185108.63028.04",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "12585724",
+   "titel": "Double-blind, placebo-controlled study of L-carnosine supplementation in children with autistic spectrum disorders",
+   "jahr": "2002",
+   "journal": "J Child Neurol",
+   "erstautor": "Chez MG",
+   "doi": "10.1177/08830738020170111501",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  }
+ ],
+ "humanstudien_detail": [
+  {
+   "pmid": "34174842",
+   "titel": "Effect of Oral carnosine supplementation on urinary TGF-β in diabetic nephropathy: a randomized controlled trial",
+   "jahr": "2021",
+   "journal": "BMC Nephrol",
+   "erstautor": "Siriwattanasit N",
+   "doi": "10.1186/s12882-021-02434-7",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Activation of the transforming growth factor beta (TGF-β) pathway is a significant contributor to the pathogenesis of diabetic nephropathy. Carnosine is a dipeptide that can inhibit TGF-β synthesis. We tested the hypothesis that carnosine supplement added to standard therapy will result in reduced urinary TGF-β levels among patients with diabetic nephropathy. METHODS: We randomly assigned 40 patients with diabetic nephropathy and albuminuria 30-299 mg/day to treatment with carnosine (2 g/day) or placebo for 12 weeks. Urinary TGF-β level was determined using ELISA, urine albumin was ascertained by immunonephelometric assay, and renal function and metabolic profiles were determined at baseline and during 12 weeks of active treatment. Primary outcome was decrease in urinary levels of TGF-β. RESULTS: The 2 groups were comparable for baseline characteristics, blood pressure, urine albumin, urine TGF-β and renal function measurements. Urinary TGF-β significantly decreased with carnosine supplement (- 17.8% of the baseline values), whereas it tended to increase with placebo (+ 16.9% of the baseline values) (between-group difference P < 0.05). However, blood urea nitrogen, serum creatinine, glomerular filtration rate and other biochemical parameters remained unchanged during the study period including urinary albuminuria. Both groups were well tolerated with no serious side-effects. CONCLUSIONS: These data indicated an additional renoprotective effect of oral supplementation with carnosine to decrease urinary TGF-β level that serves as a marker of renal injury in diabetic nephropathy. TRIAL REGISTRATION: Thai Clinical Trials, TCTR20200724002 . Retrospectively Registered 24 July 2020."
+  },
+  {
+   "pmid": "26771282",
+   "titel": "Oral Administration of Forskolin, Homotaurine, Carnosine, and Folic Acid in Patients with Primary Open Angle Glaucoma: Changes in Intraocular Pressure, Pattern Electroretinogram Amplitude, and Foveal Sensitivity",
+   "jahr": "2016",
+   "journal": "J Ocul Pharmacol Ther",
+   "erstautor": "Mutolo MG",
+   "doi": "10.1089/jop.2015.0121",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "PURPOSE: To evaluate the effects of a food supplement containing forskolin, homotaurine, carnosine, folic acid, vitamins B1, B2, B6, and magnesium in patients with primary open angle glaucoma (POAG) already in treatment and compensated by intraocular pressure (IOP)-lowering drugs, during a period of 12 months. METHODS: Twenty-two patients (44 eyes) with POAG, with their IOP compensated by topical drugs, were enrolled and randomly assigned to the food supplement or control treatment group. The additional food supplement treatment consisted of 2 tablets per day (1 in the morning, 1 in the evening) given for 1 year of a balanced association of homotaurine, Coleus forskohlii root extract, L-carnosine, folic acid, vitamins B1, B2, B6, and magnesium. Pattern Electroretinogram (PERG) amplitude, foveal sensitivity obtained with the visual field analyzer frequency doubling technology, and IOP were detected at enrollment (T0), 3 months (T1), 6 months (T2), 9 months (T3), and 12 months (T4). RESULTS: We observed in treated patients a significant further decrease of IOP and an improvement of PERG amplitude at 6, 9, and 12 months, and foveal sensitivity at 12 months. All values remained substantially stable in control patients. CONCLUSIONS: The results of the present pilot study indicate that the components of the food supplement reach the eye in a detectable manner, as evidenced by the effects on the IOP. Moreover, they suggest a short-term neuroactive effect, as indicated by the improvement of PERG amplitude and foveal sensitivity in treated, but not in control patients."
+  },
+  {
+   "pmid": "28910200",
+   "titel": "Comparison of Two β-Alanine Dosing Protocols on Muscle Carnosine Elevations",
+   "jahr": "2017",
+   "journal": "J Am Coll Nutr",
+   "erstautor": "Church DD",
+   "doi": "10.1080/07315724.2017.1335250",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "OBJECTIVE: β-alanine (BA) is a nonproteogenic amino acid that combines with histidine to form carnosine. The amount taken orally in individual doses, however, is limited due to symptoms of paresthesia that are associated with higher doses. The use of a sustained-release formulation has been reported to reduce the symptoms of paresthesia, suggesting that a greater daily dose may be possible. The purpose of the present study was to determine whether increasing the daily dose of BA can result in a similar increase in muscle carnosine in a reduced time. METHODS: Eighteen men and twelve women were randomized into either a placebo (PLC), 6-g BA (6G), or 12-g BA (12G) groups. PLC and 6G were supplemented for 4 weeks, while 12G was supplemented for 2 weeks. A resting blood draw and muscle biopsy were obtained prior to (PRE) and following (POST) supplementation. Plasma and muscle metabolites were measured by high-performance liquid chromatography. The loss in peak torque (ΔPT) was calculated from maximal isometric contractions before and after 250 isokinetic kicks at 180°·sec-1 PRE and POST. RESULTS: Both 12G (p = 0.026) and 6G (p = 0.004) increased muscle carnosine compared to PLC. Plasma histidine was decreased from PRE to POST in 12G compared to PLC (p = 0.002) and 6G (p = 0.001), but no group x time interaction (p = 0.662) was observed for muscle histidine. No differences were observed for any hematological measure (e.g., complete blood counts) or in symptoms of paresthesia among the groups. Although no interaction was noted in ΔPT, a trend (p = 0.073) was observed. CONCLUSION: Results of this investigation indicate that a BA supplementation protocol of 12 g/d-1, using a sustained-release formulation, can accelerate the increase in carnosine content in skeletal muscle while attenuating paresthesia."
+  },
+  {
+   "pmid": "42308284",
+   "titel": "Effects of carnosine supplementation on physical endurance: a placebo-controlled randomized clinical trial",
+   "jahr": "2026",
+   "journal": "J Int Soc Sports Nutr",
+   "erstautor": "O'Toole TE",
+   "doi": "10.1080/15502783.2026.2679716",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "BACKGROUND: Carnosine (β-alanine-L-histidine) is an endogenous dipeptide found in abundance in highly metabolic tissues such as skeletal muscle and the brain, where it is thought to play a role in intracellular buffering, and thereby, promote anaerobic glycolysis. Due to its perceived ability to support muscle energetics, carnosine, and its precursor, β-alanine, have found widespread use as performance-enhancing supplements. Nevertheless, the utility and efficacy of carnosine in enhancing physical performance have not been rigorously evaluated. METHODS: We conducted a placebo-controlled clinical trial in which 299 participants were randomized to consume either placebo or carnosine-containing capsules (2 g per day). Several assessments of physical performance (hand grip strength, bilateral calf raise, 2-min step test, gait speed) were measured before initiating supplementation (Baseline: Visit-2) and after approximately 6 week (Visit-3) and 12 week (Visit-4) of supplementation. At each clinical visit, blood and urine were also collected. For Visit-3 and Visit-4, absolute changes and percent changes from baseline were calculated for each physical function measurement. RESULTS: At Visit-3 we observed a statistically significant (p = 0.018) increase in the calf raise measure (number of bi-lateral flexions to exhaustion) for those in the carnosine supplementation group younger than 40 years of age. At Visit-4 we observed a statistically significant (p = 0.010) increase in the number of steps for males in the carnosine supplementation group greater than 40 years age and a trend toward significance (p = 0.06) for all males taking carnosine. No significant (p < 0.05) differences were observed in the carnosine versus placebo supplementation groups for any other physical performance measure. CONCLUSIONS: In select age groups, carnosine supplementation improves muscular and cardiorespiratory endurance but not grip strength. The benefits appeared to be limited to males. Carnosine supplementation is likely to have beneficial effects in those undertaking short-term repetitive movements."
+  },
+  {
+   "pmid": "27040154",
+   "titel": "Effects of carnosine supplementation on glucose metabolism: Pilot clinical trial",
+   "jahr": "2016",
+   "journal": "Obesity (Silver Spring)",
+   "erstautor": "de Courten B",
+   "doi": "10.1002/oby.21434",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "OBJECTIVE: Carnosine is a naturally present dipeptide in humans and an over-the counter food additive. Evidence from animal studies supports the role for carnosine in the prevention and treatment of diabetes and cardiovascular disease, yet there is limited human data. This study investigated whether carnosine supplementation in individuals with overweight or obesity improves diabetes and cardiovascular risk factors. METHODS: In a double-blind randomized pilot trial in nondiabetic individuals with overweight and obesity (age 43 ± 8 years; body mass index 31 ± 4 kg/m(2) ), 15 individuals were randomly assigned to 2 g carnosine daily and 15 individuals to placebo for 12 weeks. Insulin sensitivity and secretion, glucose tolerance (oral glucose tolerance test), blood pressure, plasma lipid profile, skeletal muscle ((1) H-MRS), and urinary carnosine levels were measured. RESULTS: Carnosine concentrations increased in urine after supplementation (P < 0.05). An increase in fasting insulin and insulin resistance was hampered in individuals receiving carnosine compared to placebo, and this remained significant after adjustment for age, sex, and change in body weight (P = 0.02, P = 0.04, respectively). Two-hour glucose and insulin were both lower after carnosine supplementation compared to placebo in individuals with impaired glucose tolerance (P < 0.05). CONCLUSIONS: These pilot intervention data suggest that carnosine supplementation may be an effective strategy for prevention of type 2 diabetes."
+  },
+  {
+   "pmid": "30311825",
+   "titel": "Effects of α-Lipoic Acid, Carnosine, and Thiamine Supplementation in Obese Patients with Type 2 Diabetes Mellitus: A Randomized, Double-Blind Study",
+   "jahr": "2018",
+   "journal": "J Med Food",
+   "erstautor": "Karkabounas S",
+   "doi": "10.1089/jmf.2018.0007",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "Type 2 diabetes mellitus (T2DM) is evolving to an epidemic of the modern world. T2DM is associated with a number of pathological complications, including cardiovascular disease that is mostly promoted by the increased oxidative stress in type 2 diabetic patients. We performed a randomized double-blind placebo-controlled trial to investigate the effectiveness of an individualized oral supplementation with α-lipoic acid (ALA), carnosine, and thiamine. For that purpose, 82 obese type 2 diabetic patients were randomly assigned to 2 groups, and were either supplemented daily with 7 mg ALA/kg body weight, 6 mg carnosine/kg body weight, and 1 mg thiamine/kg body weight or placebo for 8 weeks. An array of biochemical tests including the estimation of oxidative stress and platelet aggregation were performed at baseline and at follow-up. Moreover, the antiplatelet activity of each of the supplement's components was determined ex vivo at human and washed rabbit platelets. Glucose and HbA1c levels were significantly reduced after supplementation (135.7 ± 19.5 mg/dL vs. 126.5 ± 16.8 mg/dL and 8.3% ± 0.3% vs. 6.03% ± 0.58%, respectively, P < .05); however, insulin was significantly increased (3.6 ± 0.7 μIU/mL vs. 6.8 ± 0.2 μIU/mL, P < .05). The patients treated with the supplement recorded higher follow-up values for HOMA-IR and HOMA-β, and a significant drop in serum hydroperoxide level. Only ALA inhibited platelets aggregation ex vivo through ADP, platelet activating factor, arachidonic acid, epinephrine, collagen, and thrombin pathways. Daily supplementation with an individualized ALA, carnosine, and thiamine supplement effectively reduced glucose concentration in type 2 diabetic patients, probably by increasing insulin production from the pancreas. In addition to that, the reduction of oxidative stress and inhibition of platelet aggregation could potentially provide greater cardiovascular protection. Further studies are needed to fine-tune the supplementation dose-response effects in T2DM patients."
+  },
+  {
+   "pmid": "30089410",
+   "titel": "Carnosine supplementation does not affect serum concentrations of advanced glycation and precursors of lipoxidation end products in autism: a randomized controlled clinical trial",
+   "jahr": "2019",
+   "journal": "Ann Clin Biochem",
+   "erstautor": "Ghodsi R",
+   "doi": "10.1177/0004563218796860",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Abundant evidence indicate the increased levels of oxidative stress in patients with autism. Advanced glycation end products and advanced lipoxidation end products and their precursors play a major role in increased oxidative stress in numerous metabolic and neurologic diseases. Carnosine is a natural dipeptide with antiglycation effects. The aim of this trial was to examine the effects of carnosine supplementation on the advanced glycation end products and the precursors of advanced lipoxidation end products in patients with autism. METHOD: This randomized double-blind, placebo-controlled clinical trial was conducted on 36 autistic children, 18 in the carnosine group and 18 in the placebo group. The groups received a daily supplement of 500 mg carnosine or placebo for two months, respectively. Plasma concentrations of glycation and precursors of lipoxidation markers were evaluated by enzyme-linked immunosorbent assay method. RESULTS: In all, 63.9% of the autistic children had normal nutritional status. Carnosine supplementation did not significantly alter plasma concentrations of advanced glycation end products and precursors of advanced lipoxidation end products in autistic children. CONCLUSION: The findings indicate that supplementation of carnosine could not change advanced glycation end products and precursor of advanced lipoxidation end products in autistic children."
+  },
+  {
+   "pmid": "31319510",
+   "titel": "Effects of Anserine/Carnosine Supplementation on Mild Cognitive Impairment with APOE4",
+   "jahr": "2019",
+   "journal": "Nutrients",
+   "erstautor": "Masuoka N",
+   "doi": "10.3390/nu11071626",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "BACKGROUND: Oral supplementation of anserine/carnosine helps preserve cognitive functions in healthy older adults. Mild cognitive impairment (MCI) is a transition between cognitive-normal and dementia. Therefore, it needs to investigate whether anserine/carnosine supplementation (ACS) has effects on subjects with MCI. METHODS: A randomized, double-blind, placebo-controlled 12-week trial was performed. Fifty-four subjects with MCI were randomized to an active group ingesting 750 mg of anserine and 250 mg of carnosine per day or a placebo (1:1). Evaluation of cognitive change was conducted utilizing a psychometric test battery. RESULTS: The score improvement in the global Clinical Dementia Rating (gloCDR) was superior in the active group than placebo (p = 0.023). No beneficial effect in the active group was detected in the other psychometric tests including the Mini-Mental State Examination (MMSE), the Wechsler Memory Scale, and the Alzheimer's Disease Assessment Scale (ADAS). When APOE4 positive (APOE4 (+)) or negative (APOE4 (-)) subjects were separately analyzed, beneficial change in the APOE4 (+) subjects was observed in MMSE (p = 0.025) as well as in gloCDR (p = 0.026). CONCLUSIONS: The present study might suggest that protective effects against cognitive decline in APOE4 (+) MCI subjects exist."
+  },
+  {
+   "pmid": "16777920",
+   "titel": "Zinc carnosine, a health food supplement that stabilises small bowel integrity and stimulates gut repair processes",
+   "jahr": "2007",
+   "journal": "Gut",
+   "erstautor": "Mahmood A",
+   "doi": "10.1136/gut.2006.099929",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Zinc carnosine (ZnC) is a health food product claimed to possess health-promoting and gastrointestinal supportive activity. Scientific evidence underlying these claims is, however, limited. AIM: To examine the effect of ZnC on various models of gut injury and repair, and in a clinical trial. METHODS: In vitro studies used pro-migratory (wounded monolayer) and proliferation ([(3)H]-thymidine incorporation) assays of human colonic (HT29), rat intestinal epithelial (RIE) and canine kidney (MDCK) epithelial cells. In vivo studies used a rat model of gastric damage (indomethacin/restraint) and a mouse model of small-intestinal (indomethacin) damage. Healthy volunteers (n = 10) undertook a randomised crossover trial comparing changes in gut permeability (lactulose:rhamnose ratios) before and after 5 days of indomethacin treatment (50 mg three times a day) with ZnC (37.5 mg twice daily) or placebo coadministration. RESULTS: ZnC stimulated migration and proliferation of cells in a dose-dependent manner (maximum effects in both assays at 100 micromol/l using HT29 cells), causing an approximate threefold increase in migration and proliferation (both p<0.01). Oral ZnC decreased gastric (75% reduction at 5 mg/ml) and small-intestinal injury (50% reduction in villus shortening at 40 mg/ml; both p<0.01). In volunteers, indomethacin caused a threefold increase in gut permeability in the control arm; lactulose:rhamnose ratios were (mean (standard error of mean)) 0.35 (0.035) before indomethacin treatment and 0.88 (0.11) after 5 days of indomethacin treatment (p<0.01), whereas no significant increase in permeability was seen when ZnC was coadministered. CONCLUSION: ZnC, at concentrations likely to be found in the gut lumen, stabilises gut mucosa. Further studies are warranted."
+  },
+  {
+   "pmid": "28157726",
+   "titel": "Twenty-four Weeks of β-Alanine Supplementation on Carnosine Content, Related Genes, and Exercise",
+   "jahr": "2017",
+   "journal": "Med Sci Sports Exerc",
+   "erstautor": "Saunders B",
+   "doi": "10.1249/MSS.0000000000001173",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "INTRODUCTION: Skeletal muscle carnosine content can be increased through β-alanine (BA) supplementation, but the maximum increase achievable with supplementation is unknown. No study has investigated the effects of prolonged supplementation on carnosine-related genes or exercise capacity. PURPOSE: This study aimed to investigate the effects of 24 wk of BA supplementation on muscle carnosine content, gene expression, and high-intensity cycling capacity (CCT110%). METHODS: Twenty-five active males were supplemented with 6.4 g·d of sustained release BA or placebo for a 24 wk period. Every 4 wk participants provided a muscle biopsy and performed the CCT110%. Biopsies were analyzed for muscle carnosine content and gene expression (CARNS, TauT, ABAT, CNDP2, PHT1, PEPT2, and PAT1). RESULTS: Carnosine content was increased from baseline at every time point in BA (all P < 0.0001; week 4 = +11.37 ± 7.03 mmol·kg dm, week 8 = +13.88 ± 7.84 mmol·kg dm, week 12 = +16.95 ± 8.54 mmol·kg dm, week 16 = +17.63 ± 8.42 mmol·kg dm, week 20 = +21.20 ± 7.86 mmol·kg dm, and week 24 = +20.15 ± 7.63 mmol·kg dm) but not placebo (all P > 0.05). Maximal increases were +25.66 ± 7.63 mmol·kg dm (range = +17.13 to +41.32 mmol·kg dm), and absolute maximal content was 48.03 ± 8.97 mmol·kg dm (range = 31.79 to 63.92 mmol·kg dm). There was an effect of supplement (P = 0.002) on TauT; no further differences in gene expression were shown. Exercise capacity was improved in BA (P = 0.05) with possible to almost certain improvements across all weeks. CONCLUSIONS: Twenty-four weeks of BA supplementation increased muscle carnosine content and improved high-intensity cycling capacity. The downregulation of TauT suggests it plays an important role in muscle carnosine accumulation with BA supplementation, whereas the variability in changes in muscle carnosine content between individuals suggests that other determinants other than the availability of BA may also bear a major influence on muscle carnosine content."
+  },
+  {
+   "pmid": "29420997",
+   "titel": "l-Carnosine supplementation attenuated fasting glucose, triglycerides, advanced glycation end products, and tumor necrosis factor-α levels in patients with type 2 diabetes: a double-blind placebo-controlled randomized clinical trial",
+   "jahr": "2018",
+   "journal": "Nutr Res",
+   "erstautor": "Houjeghani S",
+   "doi": "10.1016/j.nutres.2017.11.003",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Considering the pathologic importance of metabolic disturbances, advanced glycation end products (AGEs), and chronic inflammation in diabetes mellitus and ameliorating potentials of l-carnosine in hampering these detritions and because these effects have not been investigated in patients with type 2 diabetes (T2D) so far, we conducted the current study. We hypothesized that l-carnosine would improve glycemic control, lipid profile, AGE, soluble receptor of AGEs (sRAGE), and inflammatory markers. In a randomized, double-blind, placebo-controlled clinical trial, 54 patients with T2D were recruited and assigned into either intervention group (n=27, receiving 2 capsules of l-carnosine 500 mg each) or control group (n=27). Blood samples and dietary intakes information were collected at baseline and after 12 weeks of intervention. l-Carnosine supplementation resulted in significant decrease in fat mass and an increase in fat-free mass in the intervention group compared with the placebo group (1.5% and 1.7%, respectively) (P<.05). A significant reduction in fasting blood glucose (13.1 mg/dL); glycated hemoglobin (.6%); and serum levels of triglycerides (29.8 mg/dL), carboxymethyl lysine (91.8 ng/mL), and tumor necrosis factor-α was detected in the l-carnosine group compared with the placebo group (P<.05). In the l-carnosine group, a significant reduction in serum pentosidine levels (2.8 ng/mL) was observed compared with those at baseline (P<.05). No significant differences were observed in dietary intake, body mass index, systolic and diastolic blood pressure, fasting insulin levels, homeostasis model assessment of insulin resistance and secretion, total cholesterol, low-density lipoprotein cholesterol, high-density lipoprotein cholesterol, sRAGE, interleukin (IL)-6, and IL-1β levels between the groups after adjusting for baseline values and covariates (P>.05). Collectively, l-carnosine lowered fasting glucose, serum levels of triglycerides, AGEs, and tumor necrosis factor-α without changing sRAGE, IL-6, and IL-1β levels in T2D patients."
+  },
+  {
+   "pmid": "26308179",
+   "titel": "Effects of Acute Carnosine and β-Alanine on Isometric Force and Jumping Performance",
+   "jahr": "2016",
+   "journal": "Int J Sports Physiol Perform",
+   "erstautor": "Invernizzi PL",
+   "doi": "10.1123/ijspp.2014-0507",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "PURPOSE: To assess the effects of acute combined L-carnosine and β-alanine (Carn-BA) supplementation on isometric and dynamic tasks. METHODS: Twelve healthy participants performed knee-extensor maximal voluntary contractions (MVCs) and countermovement jumps (CMJs) before and after a fatiguing protocol (45-s continuous CMJs). Isometric and dynamic tests were performed 4 h after ingestion of Carn-BA (2 g of L-carnosine and 2 g of β-alanine) or placebo (PLA), in random order. After the fatiguing protocol, blood lactate concentration ([La-]), general and muscular rating of perceived exertion (RPE), and muscle pain (24 and 48 h after the end of the fatiguing protocol) were assessed. RESULTS: During the fatiguing protocol, significant decreases in jump height and increases in contact time were found in both groups from the 15th second onward to the end of the fatiguing protocol. Average contact time and jump height were respectively lower (-7%; P = .018) and higher (+6%; P = .025) in Carn-BA than in PLA. After the fatiguing protocol, MVC decreased in both PLA and Carn-BA, but it was higher in Carn-BA than in PLA (+15%, P = 0.012), while CMJ did not change. Moreover, general RPE was lower and muscle pain at 24 h was higher in Carn-BA than in PLA, whereas muscle RPE and [La-] did not differ between conditions. CONCLUSIONS: Ingesting Carn-BA before exercise induced positive effects on MVC and CMJ after the fatiguing protocol and improved CMJ performance during the 45-s continuous jumping effort, even when acutely supplemented. Furthermore, Carn-BA reduced the general RPE and increased muscle pain 24 h after the fatiguing task."
+  },
+  {
+   "pmid": "29430839",
+   "titel": "Effects of l-Carnosine Supplementation on Sleep Disorders and Disease Severity in Autistic Children: A Randomized, Controlled Clinical Trial",
+   "jahr": "2018",
+   "journal": "Basic Clin Pharmacol Toxicol",
+   "erstautor": "Mehrazad-Saber Z",
+   "doi": "10.1111/bcpt.12979",
+   "typ": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "Sleep disorders are frequently reported in autistic patients. Evidences suggest that increased oxidative stress and reduced antioxidants may play a major role in the pathogenesis of these disorders. Carnosine acts as an antioxidant, antitoxic and neuroprotective agent. The aim of this trial study was to examine the effects of carnosine supplementation on the sleep disorders and severity of autism core symptoms in autistic patients. In this double-blind, randomized clinical trial, 43 autistic patients (31 boys and 12 girls; aged 4 to 16 years) were divided into two groups of carnosine and control that received 500 mg of carnosine and 500 mg of placebo per day for 2 months, respectively. Sleep disorders were measured using Children's Sleep Habits Questionnaires. Gilliam Autism Rating Scale 2 was used to assess the effects of carnosine supplementation on the autism severity. Carnosine supplementation did not change anthropometric indices (p > 0.05) and showed no effect on autism severity (p > 0.05), whereas it significantly reduced sleep duration (p = 0.04), parasomnias (p = 0.02) and total sleep disorders score by 7.59% (p = 0.006) when compared with the control group. The results suggest that carnosine supplementation could be effective in improving sleep disturbances, in particular sleep duration and parasomnias subscales."
+  },
+  {
+   "pmid": "33148972",
+   "titel": "Kinetics of Muscle Carnosine Decay after β-Alanine Supplementation: A 16-wk Washout Study",
+   "jahr": "2021",
+   "journal": "Med Sci Sports Exerc",
+   "erstautor": "Yamaguchi GC",
+   "doi": "10.1249/MSS.0000000000002559",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "PURPOSE: This study aimed to describe the kinetics of carnosine washout in human skeletal muscle over 16 wk. METHODS: Carnosine washout kinetics were studied in 15 young, physically active omnivorous men randomly assigned to take 6.4 g·d-1 of β-alanine (n = 11) or placebo (n = 4) for 8 wk. Muscle carnosine content (M-Carn) was determined before (PRE), immediately after (POST), and 4, 8, 12, and 16 wk after supplementation. High-intensity exercise tests were performed at these same time points. Linear and exponential models were fitted to the washout data, and the leave-one-out method was used to select the model with the best fit for M-Carn decay data. Repeated-measures correlation analysis was used to assess the association between changes in M-Carn and changes in performance. RESULTS: M-Carn increased from PRE to POST in the β-alanine group only (+91.1% ± 29.1%; placebo, +0.04% ± 10.1%; P < 0.0001). M-Carn started to decrease after cessation of β-alanine supplementation and continued to decrease until week 16 (POST4, +59% ± 40%; POST8, +35% ± 39%; POST12, +18% ± 32%; POST16, -3% ± 24% of PRE M-Carn). From week 12 onward, M-Carn was no longer statistically different from PRE. Both linear and exponential models displayed very similar fit and could be used to describe carnosine washout, although the linear model presented a slightly better fit. The decay in M-Carn was mirrored by a similar decay in high-intensity exercise tolerance; M-Carn was moderately and significantly correlated with total mechanical work done (r = 0.505; P = 0.032) and time to exhaustion (r = 0.72; P < 0.001). CONCLUSIONS: Carnosine washout takes 12-16 wk to complete, and it can be described either by linear or exponential curves. Changes in M-Carn seem to be mirrored by changes in high-intensity exercise tolerance. This information can be used to optimize β-alanine supplementation strategies."
+  },
+  {
+   "pmid": "12585724",
+   "titel": "Double-blind, placebo-controlled study of L-carnosine supplementation in children with autistic spectrum disorders",
+   "jahr": "2002",
+   "journal": "J Child Neurol",
+   "erstautor": "Chez MG",
+   "doi": "10.1177/08830738020170111501",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "L-Carnosine, a dipeptide, can enhance frontal lobe function or be neuroprotective. It can also correlate with gamma-aminobutyric acid (GABA)-homocarnosine interaction, with possible anticonvulsive effects. We investigated 31 children with autistic spectrum disorders in an 8-week, double-blinded study to determine if 800 mg L-carnosine daily would result in observable changes versus placebo. Outcome measures were the Childhood Autism Rating Scale, the Gilliam Autism Rating Scale, the Expressive and Receptive One-Word Picture Vocabulary tests, and Clinical Global Impressions of Change. Children on placebo did not show statistically significant changes. After 8 weeks on L-carnosine, children showed statistically significant improvements on the Gilliam Autism Rating Scale (total score and the Behavior, Socialization, and Communication subscales) and the Receptive One-Word Picture Vocabulary test (all P < .05). Improved trends were noted on other outcome measures. Although the mechanism of action of L-carnosine is not well understood, it may enhance neurologic function, perhaps in the enterorhinal or temporal cortex."
+  },
+  {
+   "pmid": "23618477",
+   "titel": "Carnosine treatment for gulf war illness: a randomized controlled trial",
+   "jahr": "2013",
+   "journal": "Glob J Health Sci",
+   "erstautor": "Baraniuk JN",
+   "doi": "10.5539/gjhs.v5n3p69",
+   "typ": [
+    "Clinical Trial, Phase I",
+    "Clinical Trial, Phase II",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+   ],
+   "abstract": "About 25% of 1990-1991 Persian Gulf War veterans experience disabling fatigue, widespread pain, and cognitive dysfunction termed Gulf War illness (GWI) or Chronic Multisymptom Illness (CMI). A leading theory proposes that wartime exposures initiated prolonged production of reactive oxygen species (ROS) and central nervous system injury. The endogenous antioxidant L-carnosine (B-alanyl-L-histidine) is a potential treatment since it is a free radical scavenger in nervous tissue. To determine if nutritional supplementation with L-carnosine would significantly improve pain, cognition and fatigue in GWI, a randomized double blind placebo controlled 12 week dose escalation study involving 25 GWI subjects was employed. L-carnosine was given as 500, 1000, and 1500 mg increasing at 4 week intervals. Outcomes included subjective fatigue, pain and psychosocial questionnaires, and instantaneous fatigue and activity levels recorded by ActiWatch Score devices. Cognitive function was evaluated by WAIS-R digit symbol substitution test. Carnosine had 2 potentially beneficial effects: WAIS-R scores increased significantly, and there was a decrease in diarrhea associated with irritable bowel syndrome. No other significant incremental changes were found. Therefore, 12 weeks of carnosine (1500 mg) may have beneficial cognitive effects in GWI. Fatigue, pain, hyperalgesia, activity and other outcomes were resistant to treatment."
+  },
+  {
+   "pmid": "33914660",
+   "titel": "Acute preexercise supplementation of combined carnosine and anserine enhances initial maximal power of Wingate tests in humans",
+   "jahr": "2021",
+   "journal": "J Appl Physiol (1985)",
+   "erstautor": "Blancquaert L",
+   "doi": "10.1152/japplphysiol.00602.2020",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Classic in vitro experiments (Severin's phenomenon) demonstrated that acute carnosine supplementation may potentiate muscle contractility. However, upon oral ingestion, carnosine is readily degraded in human plasma by the highly active serum carnosinase-1 (CN1). We developed a novel strategy to circumvent CN1 by preexercise ingestion of combined carnosine (CARN) and anserine (ANS), the methylated analog with similar biochemical properties but more resistant to CN1. First, in vitro hydrolysis was tested by adding carnosine and anserine to human plasma, alone or in combination. Second, five subjects were supplemented with 25 mg/kg anserine or 25 mg/kg of each anserine and carnosine to test in vivo bioavailability. Third, two double-blind, placebo-controlled, crossover studies investigated the effect of preexercise ANS + CARN (20 mg/kg body wt of each) supplementation on performance during a single all-out Wingate test following 6-min high-intensity cycling (study A) or three repeated Wingate tests (study B). In vitro experiments demonstrated slower degradation of anserine versus carnosine, which was further slowed by simultaneously adding carnosine. In vivo bioavailability of plasma anserine was more prominent [2.5-fold increased area under the curve (AUC)] when ANS + CARN versus ANS was ingested. Study A showed significantly higher (+6% ± 11%; P = 0.04) power in the first 5 s of the Wingate test following ANS + CARN (12.8 ± 2.4 W/kg) versus placebo (12.1 ± 2.2 W/kg). Study B demonstrated increased peak power (+3%) throughout three consecutive Wingate tests (ANS + CARN 10.5 ± 0.6 W/kg vs. placebo 10.2 ± 9.9 W/kg). These experiments reveal a novel acute nutritional method to effectively raise plasma anserine and carnosine by high-dose combined supplementation. This approach led to improved initial cycling power, revealing a new nutritional strategy to increase exercise performance.NEW & NOTEWORTHY Current results reveal that carnosine and anserine competitively bind to the highly active carnosinase enzyme in human plasma. Acute combined carnosine and anserine supplementation is therefore described as novel strategy to raise plasma anserine and carnosine. We report that indices of maximal exercise/muscle power during the initial stage of a Wingate test were significantly improved by preexercise 20-25mg/kg body wt anserine and carnosine supplementation, pointing toward a novel acute nutritional strategy to improve high-intensity exercise performance."
+  },
+  {
+   "pmid": "26682691",
+   "titel": "Effect of Anserine/Carnosine Supplementation on Verbal Episodic Memory in Elderly People",
+   "jahr": "2016",
+   "journal": "J Alzheimers Dis",
+   "erstautor": "Hisatsune T",
+   "doi": "10.3233/JAD-150767",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Our goal in this study was to determine whether or not anserine/carnosine supplementation (ACS) is capable of preserving cognitive function of elderly people. In a double-blind randomized controlled trial, volunteers were randomly assigned to an ACS or placebo group at a 1:1 ratio. The ACS group took 1.0 g of an anserine/carnosine (3:1) formula daily for 3 months. Participants were evaluated by psychological tests before and after the 3-month supplementation period. Thirty-nine healthy elderly volunteers (60-78 years old) completed the follow-up tests. Among the tests, delayed recall verbal memory assessed by the Wechsler Memory Scale-Logical Memory showed significant preservation in the ACS group, compared to the placebo group (p = 0.0128). Blood analysis revealed a decreased secretion of inflammatory cytokines, including CCL-2 and IL-8, in the ACS group. MRI analysis using arterial spin labeling showed a suppression in the age-related decline in brain blood flow in the posterior cingulate cortex area in the ACS group, compared to the placebo group (p = 0.0248). In another randomized controlled trial, delayed recall verbal memory showed significant preservation in the ACS group, compared to the placebo group (p = 0.0202). These results collectively suggest that ACS may preserve verbal episodic memory and brain perfusion in elderly people, although further study is needed."
+  },
+  {
+   "pmid": "40859880",
+   "titel": "Topical carnosine gel improves intermittent high-intensity exercise performance in world-class rugby sevens players",
+   "jahr": "2025",
+   "journal": "J Int Soc Sports Nutr",
+   "erstautor": "Beaven CM",
+   "doi": "10.1080/15502783.2025.2550311",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "BACKGROUND: The topical application of a carnosine gel may increase intramuscular carnosine concentrations and thereby improve exercise performance. This study investigated the effect of a topical carnosine gel on intermittent high-intensity exercise performance in rugby sevens players. METHODS: Seven world-class rugby sevens players (body mass: 97.5 ± 4.1 kg; 1,452 International caps) completed two performance tests in a counterbalanced, crossover, triple-blind design. Players applied either 10 mL of a topical carnosine gel (CAR) or an ultrasound placebo gel (PLA) 40 minutes before undertaking 12 intermittent sprints on a cycle ergometer, interrupted by a 2-minute break after Sprint 6. The activity profile was 24 s cycling at 3 W/kg, 6 s at maximal intensity sprint, followed by a 30s rest. Average power, peak power, and HR were recorded for every 6 s sprint. RPE was recorded at the end of Sprint 6 and Sprint 12. RESULTS: For peak power, two-way ANOVA revealed time (p = 5.49 × 10-9) and treatment effects (p = 1.44 × 10-7). Following CAR, peak power output was higher in Sprint 2 (1433 vs 1332 W; p = 0.048; d = 0.99; large), Sprint 4 (1347 vs 1244 W; p = 0.043; d = 0.74; moderate) and Sprint 7 (1426 vs 1270 W; p = 0.025; d = 0.98; large) compared to PLA. For mean power output, HR, and RPE there were time effects but no treatment effect (p = 0.211 to 0.847). CONCLUSIONS: Topical carnosine gel improved power production in world-class rugby sevens players. Future research should determine whether carno- sine gels increase intramuscular carnosine concentrations to support the observed improvements in anaerobic performance during high-intensity exercise. We demonstrate initial findings regarding the efficacy of a transdermal carnosine gel to impact repeated, high-intensity exercise in world-class rugby sevens players (+5–10%).The acute positive performance effects occurred rapidly without the need for a loading phase typical with β-alanine supplementation.The positive performance effects were evident during the initial sprint and thus, appear to be independent of intracellular buffering capability.The transdermal application would be of benefit to individuals whose diet predisposed them to low carnosine levels, such as vegetarians."
+  },
+  {
+   "pmid": "33092320",
+   "titel": "Acute carnosine and β-alanine supplementation increase the compensated part of the ventilation versus work rate relationship during a ramp incremental cycle test in physically active men",
+   "jahr": "2021",
+   "journal": "J Sports Med Phys Fitness",
+   "erstautor": "Limonta E",
+   "doi": "10.23736/S0022-4707.20.10887-9",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "BACKGROUND: Chronic supplementation with carnosine and β-alanine (Carn-βA) has been proposed to improve muscle contractility and reduce muscle fatigue mainly through an increase in intracellular pH buffering capacity. However, the acute ergogenic effects of Carn-βA supplementation are poorly investigated. This study aimed at evaluating the acute effects of a single Carn-βA supplementation on the cardiorespiratory and metabolic response during a ramp cycle-ergometric test. METHODS: This randomized, double-blind, placebo-controlled study, involved 10 healthy males (age: 22.2±1.9 years, body mass: 72.5±7.9 kg, stature: 1.72±0.08 m, Body Mass Index: 24.47±1.91 kg/m2, mean±standard deviation). All the participants performed two maximal incremental ramp tests on a cycle ergometer, with a prior randomized assumption of 2.5 g L-carnosine plus 2.5 g β-alanine (Carn-βA) or placebo (PLA). During exercise, gas exchange parameters were measured breath-by-breath, heart rate was monitored by electrocardiography and rate perceived exertion was determined on Borg scales. From the ramp test, peak cardiorespiratory and metabolic parameters and ventilatory thresholds (VT1 and VT2) were calculated offline. RESULTS: No differences between the experimental conditions emerged at peak exercise. However, despite acute Carn-ßA supplementation did not affect the single ventilatory thresholds, the compensated portion of the ramp test (i.e. the difference between VT2 and VT1) was significantly larger (P=0.043) in Carn-ßA. CONCLUSIONS: These findings demonstrate a positive effect of acute Carn-ßA supplementation on the compensated part of the exercise. This should be taken into account by nutritionists and athletes searching for nutritional supplements, when a quick effect based on an acute dose is required."
+  },
+  {
+   "pmid": "24691900",
+   "titel": "Oral treatment of pressure ulcers with polaprezinc (zinc L-carnosine complex): 8-week open-label trial",
+   "jahr": "2014",
+   "journal": "Biol Trace Elem Res",
+   "erstautor": "Sakae K",
+   "doi": "10.1007/s12011-014-9943-5",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ],
+   "abstract": "Polaprezinc (zinc L-carnosine complex) is a tablet commonly prescribed for gastric ulcers in Japan. Recently, we reported the effects of polaprezinc on pressure ulcer healing at 4-week follow-up. We aimed to further evaluate the efficacy and safety of polaprezinc in 8-week treatment for chronic pressure ulcers. Patients with stage II-IV pressure ulcers for ≥ 8 weeks received 150 mg/day polaprezinc (containing 116 mg L-carnosine and 34 mg zinc) per os for a maximum of 8 weeks. We measured the severity of pressure ulcers weekly using the Pressure Ulcer Scale for Healing (PUSH) score and monitored blood biochemistry. Fourteen patients (nine men; 68.4 ± 11.8 years) were enrolled. Pressure ulcer stages were II (one patient; 7 %), III (nine; 64 %), and IV (four; 29 %). The PUSH score improved significantly from 8.1 [95 % CI, 6.0-10.3] at baseline to -1.4 [-4.0 to 1.1] after 8 weeks (P < 0.001). Differences from baseline were significant after 1 week (P < 0.05). The mean weekly improvement in PUSH score was 2.0. Eleven patients healed within 8 weeks and none dropped out. Serum zinc levels increased significantly (P < 0.001), whereas serum copper levels (P = 0.001) and copper/zinc ratios (P < 0.001) decreased significantly. In one patient, preexisting copper deficiency deteriorated. These preliminary data suggest that polaprezinc may be effective and well-tolerated in 8-week treatment of pressure ulcers and could be a candidate for their oral treatment."
+  },
+  {
+   "pmid": "39919936",
+   "titel": "Carnosine supplementation improves cognitive outcomes in younger participants of the NEAT trial",
+   "jahr": "2025",
+   "journal": "Neurotherapeutics",
+   "erstautor": "O'Toole TE",
+   "doi": "10.1016/j.neurot.2025.e00541",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "Some prior studies suggested that supplementation with carnosine or β-alanine can improve cognitive abilities and neurodegenerative disorders in certain elderly or at-risk populations. However, the efficacy of carnosine in improving cognitive performance in a healthy, adult population has not been assessed. We examined this as a post-hoc secondary outcome in the placebo-controlled, randomized Nucleophilic Defense Against PM Toxicity (NEAT) clinical trial (NCT03314987). Participants in this trial were instructed to take either cornstarch (placebo) or carnosine capsules (2g daily) for up to 12wk. Cognitive ability was assessed using the Cognition test battery, which consists of ten individual tests known to engage specific brain systems and covering a range of cognitive domains. Speed, accuracy, and efficiency were obtained for the whole battery as well as for each of the ten individual tests. Participant testing occurred at baseline, prior to randomization, after approximately 6wk of supplementation (Follow-up-1), and after approximately 12wk of supplementation (Follow-up-2). Of the 299 participants who were randomized, we obtained useable measures for 242 participants at Follow-up-1 and 231 ​at Follow-up-2. Age-based stratification (23-35 years, 36-50 years, 51-65 years), showed statistically significant improvements in overall speed and efficiency in the youngest age group stratum at both follow-up visits. This same group also demonstrated significant improvements in seven speed or accuracy scores of the individual tests. The other age groups demonstrated few or no significant improvements. Thus, in a study population largely devoid of susceptibility factors or pre-existing conditions, carnosine supplementation selectively improved high-level cognitive performance in young individuals."
+  },
+  {
+   "pmid": "16531904",
+   "titel": "Carnosine and anserine ingestion enhances contribution of nonbicarbonate buffering",
+   "jahr": "2006",
+   "journal": "Med Sci Sports Exerc",
+   "erstautor": "Suzuki Y",
+   "doi": "10.1249/01.mss.0000185108.63028.04",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "PURPOSE: The purpose of the present study was to investigate the effect of supplementation with chicken breast extract (CBEX), which was a rich source of carnosine and anserine, on acid-base balance and performance during intense intermittent exercise. METHODS: Eight male subjects performed intense intermittent exercise that consisted of 10 x 5-s maximal cycle ergometer sprints with a 25-s recovery period between each sprint. The subjects ingested 190 g of the test soup containing either CBEX or a placebo 30 min before the commencement of exercise. Arterial blood samples were collected at rest and during exercise to estimate the carnosine and anserine concentrations, pH, and bicarbonate concentration ([HCO3-]). RESULTS: Concentrations of anserine and its related amino acid significantly increased 30 min after CBEX supplementation, as compared with their values at rest. However, carnosine did not increase significantly. Following CBEX supplementation, the pH was significantly higher (P < 0.05) at the end of exercise, and [HCO3-] was also significantly higher (P < 0.05) during the latter half of exercise and after exercise. There were no significant differences in the total power and mean power of each set between the CBEX and placebo supplemented groups. CONCLUSION: Although oral supplementation with CBEX (which is a rich source of carnosine and anserine) increased the contribution of the nonbicarbonate buffering action and decreased bicarbonate buffering action in blood, intense intermittent exercise performance did not improve significantly."
+  },
+  {
+   "pmid": "33189432",
+   "titel": "Dietary supplementation with L-carnosine improves patient-reported outcomes, autonomic nervous system performance, and brain metabolism in 3 adult patients with multiple sclerosis",
+   "jahr": "2020",
+   "journal": "Nutr Res",
+   "erstautor": "Zanini D",
+   "doi": "10.1016/j.nutres.2020.09.008",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "This pilot trial reports the effects of L-carnosine administration on autonomic nervous system performance, brain metabolism, and various patient- and clinician-reported outcomes in a case series of patients with multiple sclerosis (MS). We hypothesized that medium-term L-carnosine supplementation would improve selected patient- and clinician-reported outcomes in MS patients, with no negative effects on self-reported side effects. L-carnosine (2 g/day) was administered orally for 8 weeks in 2 women and one man suffering from MS. The intensity of symptoms and signs of MS after L-carnosine administration diminished in 5 out of 7 domains in CASE 1, in 3 out of 7 domains in CASE 2, and one domain in CASE 3; general fatigue was reduced in all 3 cases at the follow-up. This was accompanied by an improved walking distance to exhaustion in all patients, with values improved for 51.1% in CASE 1, 19.5% in CASE 2, and 2.1% in CASE 3 at 8-week follow-up. Tests of autonomic cardiovascular reflexes demonstrate normalized parasympathetic modulation and balanced sympathetic function after L-carnosine intervention in all MS cases. An increase in serum total antioxidant capacity (TAC) was found at 8-week follow-up in all patients (from 4.6 to 49.6%); this was accompanied by lower blood lactate at post-administration in all cases (23.5% on average). Single-voxel 1.5 T MR spectroscopy revealed increased brain choline-contained compounds (18.9% on average), total creatine (21.2%), and myo-inositol levels (12.3%) in girus cinguli at 8-week follow-up in all MS cases. This case study demonstrates that an 8-week intervention with L-carnosine appears to be a safe and beneficial therapeutic strategy with regard to the reduction of presence and severity of symptoms of MS."
+  },
+  {
+   "pmid": "30136029",
+   "titel": "Carnosine supplementation reduces plasma soluble transferrin receptor in healthy overweight or obese individuals: a pilot randomised trial",
+   "jahr": "2019",
+   "journal": "Amino Acids",
+   "erstautor": "Baye E",
+   "doi": "10.1007/s00726-018-2623-6",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "Abnormalities of iron homeostasis have been linked to insulin resistance, type 2 diabetes and cardiovascular disease. Carnosine, an over-the-counter food supplement with chelating properties, has been shown to decrease serum iron and improve glucose metabolism in diabetic rodents. We have previously demonstrated that carnosine supplementation prevented worsening of glucose metabolism in healthy overweight and obese middle-aged adults. Yet, the impact of carnosine on markers of iron metabolism in humans has not been investigated. We aimed to determine whether carnosine supplementation has an effect on iron parameters in overweight and obese, otherwise healthy adults. We included 26 participants, who were randomly allocated to receive 1 g carnosine (n = 14) or identical placebo (n = 12) twice daily for 12 weeks. Iron parameters including iron, ferritin, transferrin, soluble transferrin receptor, total iron binding capacity and iron saturation were measured in serum or plasma by standard commercial assays. Carnosine supplementation decreased plasma soluble transferrin receptor compared to placebo (mean change difference ± standard error: - 0.07 ± 0.03 mg/l, p = 0.04). None of the other iron parameters were different between carnosine and placebo groups. At follow-up, soluble transferrin receptor was associated inversely with urinary carnosine concentrations and positively with serum carnosinase-1 activity (both p < 0.02). Our findings suggest that carnosine may modulate iron metabolism in high-risk groups which could ameliorate insulin resistance and prevent type 2 diabetes. Larger human clinical trials are required to confirm our results."
+  },
+  {
+   "pmid": "17690198",
+   "titel": "beta-Alanine supplementation augments muscle carnosine content and attenuates fatigue during repeated isokinetic contraction bouts in trained sprinters",
+   "jahr": "2007",
+   "journal": "J Appl Physiol (1985)",
+   "erstautor": "Derave W",
+   "doi": "10.1152/japplphysiol.00397.2007",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "Carnosine (beta-alanyl-l-histidine) is present in high concentrations in human skeletal muscle. The ingestion of beta-alanine, the rate-limiting precursor of carnosine, has been shown to elevate the muscle carnosine content. We aimed to investigate, using proton magnetic resonance spectroscopy (proton MRS), whether oral supplementation with beta-alanine during 4 wk would elevate the calf muscle carnosine content and affect exercise performance in 400-m sprint-trained competitive athletes. Fifteen male athletes participated in a placebo-controlled, double-blind study and were supplemented orally for 4 wk with either 4.8 g/day beta-alanine or placebo. Muscle carnosine concentration was quantified in soleus and gastrocnemius by proton MRS. Performance was evaluated by isokinetic testing during five bouts of 30 maximal voluntary knee extensions, by endurance during isometric contraction at 45% maximal voluntary contraction, and by the indoor 400-m running time. beta-Alanine supplementation significantly increased the carnosine content in both the soleus (+47%) and gastrocnemius (+37%). In placebo, carnosine remained stable in soleus, while a small and significant increase of +16% occurred in gastrocnemius. Dynamic knee extension torque during the fourth and fifth bout was significantly improved with beta-alanine but not with placebo. Isometric endurance and 400-m race time were not affected by treatment. In conclusion, 1) proton MRS can be used to noninvasively quantify human muscle carnosine content; 2) muscle carnosine is increased by oral beta-alanine supplementation in sprint-trained athletes; 3) carnosine loading slightly but significantly attenuated fatigue in repeated bouts of exhaustive dynamic contractions; and 4) the increase in muscle carnosine did not improve isometric endurance or 400-m race time."
+  },
+  {
+   "pmid": "25201708",
+   "titel": "Influence of l-carnosine on pro-antioxidant status in elite kayakers and canoeists",
+   "jahr": "2014",
+   "journal": "Acta Physiol Hung",
+   "erstautor": "Slowinska-Lisowska M",
+   "doi": "10.1556/APhysiol.101.2014.008",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Carnosine is a dipeptide formed from the amino acids β-alanine and histidine and found in large amounts in the brain and muscle, especially fast twitch muscle. Carnosine has an antioxidant role and accounts for about 10% of the muscle's ability to buffer the H+ ions produced by high intensity exercise. Due to the interesting role of carnosine, the aim of the study was observe the effects of carnosine intake on pro-antioxidant status in highly trained athletes exposed to intense exercise.Fourteen male athletes from the Polish national kayak and canoe teams participated in placebo-controlled and cross-over study. The athletes were supplemented with 4 g/d carnosine for 14 days. Blood samples were collected before and 30 min, 24 h and 48 h after 2000 m exercise trial. In blood, hydrogen peroxide (H2O2), nitric oxide (NO), markers of RO/NS activity 8-isoprostanes and 3-nitrotyrosine, total (GSHt) and oxidised glutathione (GSSG), antioxidant status (APO) and superoxide dismutase (SOD) were determined. There were not observed statistically significant differences in exercise-induced changes in H2O2 and NO concentrations and SOD activity after carnosine intake. However, carnosine prevented an increase in 8-isoprostanes, 3-nitrotyrosine and GSSG concentrations as well as elevated redox status (GSHt-2GSSG)/GSSG at post-exercise period.Although, oral supplementation with 4 g carnosine did not affect RO/NS generation, it significantly attenuated exercise-induced glutathione loss, reduced oxidation/nitration markers concentration and SOD activity. These results suggest that carnosine could provide antioxidative protection for highly trained athletes."
+  },
+  {
+   "pmid": "39983097",
+   "titel": "Carnosine-enriched functional food enhances micro- and macrovascular endothelium-independent vasodilation in competitive athletes-a randomized study",
+   "jahr": "2025",
+   "journal": "Appl Physiol Nutr Metab",
+   "erstautor": "Perić L",
+   "doi": "10.1139/apnm-2024-0458",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "This randomized interventional study aimed to investigate the effect of carnosine-enriched chicken meat consumption on systemic endothelium-dependent and -independent micro- and macrovascular reactivity in thirty-five healthy competitive male athletes. Both forearm skin micro- and macrovascular endothelium-independent vasodilation were increased, and diastolic and mean arterial blood pressure (BP) were decreased in Carnosine group (n = 19) following the 3-week dietary protocol. Microvascular endothelium-dependent response (post-occlusion reactive hyperemia) was increased in the Carnosine group and significantly associated with decreased mean arterial BP level. Following dietary protocol, Controls (n = 16) had substantially higher urate (but still normal) levels than the Carnosine group. Carnosine supplementation in the form of functional food enhances endothelium-dependent and vascular smooth muscle-dependent vasodilation in peripheral micro- and microcirculation. Carnosine's effect on vascular endothelium could be attributed to its BP-lowering effect. Results suggest that carnosine has the potential to resist hyperuricemia in healthy individuals. ClinicalTrials.gov (NCT05723939)."
+  },
+  {
+   "pmid": "30205427",
+   "titel": "Carnosine Supplementation Improves Serum Resistin Concentrations in Overweight or Obese Otherwise Healthy Adults: A Pilot Randomized Trial",
+   "jahr": "2018",
+   "journal": "Nutrients",
+   "erstautor": "Baye E",
+   "doi": "10.3390/nu10091258",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "Adipokines play an important role in the regulation of glucose metabolism. We have previously shown that carnosine supplementation in overweight or obese non-diabetic individuals improves glucose metabolism but does not change adiponectin concentrations. However, its effect on other adipokines has not been investigated. Herein we further determined the effect of carnosine supplementation on serum adipsin, resistin and leptin. Twenty-two overweight or obese otherwise healthy adults were randomly assigned to receive either 2 g of carnosine (n = 13) or identically looking placebo (n = 9) for 12 weeks. Serum adipsin, leptin and resistin were analyzed using a bead-based multiplex assay. Carnosine supplementation decreased serum resistin concentrations compared to placebo (mean change from baseline: -35 ± 83 carnosine vs. 35 ± 55 ng/mL placebo, p = 0.04). There was a trend for a reduction in serum leptin concentrations after carnosine supplementation (-76 ± 165 ng/mL carnosine vs. 20 ± 28 ng/mL placebo, p = 0.06). The changes in leptin and resistin concentrations were inversely related to the change in concentration for urinary carnosine (r = -0.72, p = 0.0002; r = -0.67, p = 0.0009, respectively), carnosine-propanal (r = -0.56, p = 0.005; r = -0.63, p = 0.001, respectively) and carnosine-propanol (r = -0.61, p = 0.002; r = -0.60, p = 0.002, respectively). There were no differences between groups in change in adipsin concentrations. Our findings show carnosine supplementation may normalize some, but not all, of the serum adipokine concentrations involved in glucose metabolism, in overweight and obese individuals. Further clinical trials with larger samples are needed to confirm these results."
+  },
+  {
+   "pmid": "29088099",
+   "titel": "Anserine/Carnosine Supplementation Suppresses the Expression of the Inflammatory Chemokine CCL24 in Peripheral Blood Mononuclear Cells from Elderly People",
+   "jahr": "2017",
+   "journal": "Nutrients",
+   "erstautor": "Katakura Y",
+   "doi": "10.3390/nu9111199",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "Our goal was to determine whether anserine/carnosine supplementation (ACS) suppresses chemokine levels in elderly people. In a double-blind randomized controlled trial, volunteers were assigned to the ACS or placebo group (1:1). Sixty healthy elderly volunteers (active, n = 30; placebo, n = 30) completed the study. The ACS group was administered 1.0 g of anserine/carnosine (3:1) for 3 months. A microarray analysis and subsequent quantitative real-time polymerase chain reaction (qRT-PCR) analysis of peripheral blood mononuclear cells (PBMCs) showed decreased expression of CCL24, an inflammatory chemokine (p < 0.05). Verbal memory, assessed using the Wechsler memory scale-logical memory, was preserved in the ACS group. An age-restricted sub-analysis showed significant verbal memory preservation by ACS in participants who were in their 60s (active, n = 12; placebo, n = 9; p = 0.048) and 70s (active, n = 7; placebo, n = 11; p = 0.017). The suppression of CCL24 expression was greatest in people who were in their 70s (p < 0.01). There was a significant correlation between the preservation of verbal memory and suppression of CCL24 expression in the group that was in the 70s (Poisson correlation, r = 0.46, p < 0.05). These results suggest that ACS may preserve verbal episodic memory, probably owing to CCL24 suppression in the blood, especially in elderly participants."
+  },
+  {
+   "pmid": "20671038",
+   "titel": "Important role of muscle carnosine in rowing performance",
+   "jahr": "2010",
+   "journal": "J Appl Physiol (1985)",
+   "erstautor": "Baguet A",
+   "doi": "10.1152/japplphysiol.00141.2010",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The role of the presence of carnosine (β-alanyl-L-histidine) in millimolar concentrations in human skeletal muscle is poorly understood. Chronic oral β-alanine supplementation is shown to elevate muscle carnosine content and improve anaerobic exercise performance during some laboratory tests, mainly in the untrained. It remains to be determined whether carnosine loading can improve single competition-like events in elite athletes. The aims of the present study were to investigate if performance is related to the muscle carnosine content and if β-alanine supplementation improves performance in highly trained rowers. Eighteen Belgian elite rowers were supplemented for 7 wk with either placebo or β-alanine (5 g/day). Before and following supplementation, muscle carnosine content in soleus and gastrocnemius medialis was measured by proton magnetic resonance spectroscopy ((1)H-MRS) and the performance was evaluated in a 2,000-m ergometer test. At baseline, there was a strong positive correlation between 100-, 500-, 2,000-, and 6,000-m speed and muscle carnosine content. After β-alanine supplementation, the carnosine content increased by 45.3% in soleus and 28.2% in gastrocnemius. Following supplementation, the β-alanine group was 4.3 s faster than the placebo group, whereas before supplementation they were 0.3 s slower (P = 0.07). Muscle carnosine elevation was positively correlated to 2,000-m performance enhancement (P = 0.042 and r = 0.498). It can be concluded that the positive correlation between baseline muscle carnosine levels and rowing performance and the positive correlation between changes in muscle carnosine and performance improvement suggest that muscle carnosine is a new determinant of rowing performance."
+  },
+  {
+   "pmid": "29246277",
+   "titel": "β-Alanine supplementation elevates intramuscular carnosine content and attenuates fatigue in men and women similarly but does not change muscle l-histidine content",
+   "jahr": "2017",
+   "journal": "Nutr Res",
+   "erstautor": "Varanoske AN",
+   "doi": "10.1016/j.nutres.2017.10.002",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "β-Alanine (BA) supplementation results in elevated intramuscular carnosine content, enhancing buffering capacity during intense exercise. Although men have greater muscle carnosine content than women, elevations still appear to occur despite high baseline levels. Recent research has suggested that BA supplementation may also reduce muscle l-histidine. Thus, the purpose of this investigation was to compare 28 days of BA (6 g·d-1) supplementation in men and women on performance and muscle carnosine, l-histidine, and BA. We hypothesized that supplementation would result in similar elevations in carnosine and performance between sexes and decrease l-histidine. Twenty-six men and women were assigned either BA or placebo (PLA). At baseline, a trend toward greater carnosine (P = .069) was observed in men, and intramuscular BA content was significantly (P ≤ .05) greater in men. Statistical analysis was performed using magnitude-based inferences. Changes in muscle carnosine were likely and very likely greater after BA supplementation compared with PLA in men and women, respectively, but changes were unclear between sexes (mean sex difference: 2.50 ± 4.30 mmol·kg-1 ww). The attenuation of exercise fatigue was likely greater in BA compared with PLA, but the change was unclear between sexes (mean sex difference: 14.0 ± 39.0 Nm). Changes in muscle BA following supplementation was unclear in men, likely elevated in women, but unclear between sexes (mean sex difference: 0.03 ± 0.42 mmol·kg-1 ww). Changes in muscle l-histidine were unclear in men and women, and unclear between sexes (mean sex difference: 0.09 ± 0.13 mmol·kg-1 ww). In conclusion, BA supplementation increased muscle carnosine and attenuated fatigue in men and women similarly but did not reduce muscle l-histidine."
+  },
+  {
+   "pmid": "28744992",
+   "titel": "The effect of 12 weeks carnosine supplementation on renal functional integrity and oxidative stress in pediatric patients with diabetic nephropathy: a randomized placebo-controlled trial",
+   "jahr": "2018",
+   "journal": "Pediatr Diabetes",
+   "erstautor": "Elbarbary NS",
+   "doi": "10.1111/pedi.12564",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "BACKGROUND AND OBJECTIVES: Oxidative stress is a significant contributor to the pathogenesis of diabetic nephropathy. Carnosine is a natural radical oxygen species scavenger. We investigated the effect of carnosine as an adjuvant therapy on urinary albumin excretion (UAE), the tubular damage marker alpha 1-microglobulin (A1M), and oxidative stress in pediatric patients with type 1 diabetes and nephropathy. METHODS: This randomized placebo-controlled trial included 90 patients with diabetic nephropathy, despite oral angiotensin-converting enzyme inhibitors (ACE-Is), who were randomly assigned to receive either 12 weeks of carnosine 1 g/day (n = 45), or matching placebo (n = 45). Both groups were followed-up with assessment of hemoglobin A1c (HbA1c), UAE, A1M, total antioxidant capacity (TAC) and malondialdhyde (MDA). RESULTS: Baseline clinical and laboratory parameters were consistent between carnosine and placebo groups (P > .05). After 12 weeks, carnosine treatment resulted in significant decrease of HbA1c (8.2 ± 2.1% vs 7.4 ± 1.3%), UAE (91.7 vs 38.5 mg/g creatinine), A1M (16.5 ± 6.8 mg/L vs 9.3 ± 6.6 mg/L), MDA levels (25.5 ± 8.1 vs 18.2 ± 7.7 nmol/mL) while TAC levels were increased compared with baseline levels (P < .001) and compared with placebo (P < .001). No adverse reactions due to carnosine supplementation were reported. Baseline TAC was inversely correlated to HbA1c (r = -0.58, P = .04) and A1M (r = -0.682, P = .015) among carnosine group. CONCLUSIONS: Oral supplementation with L-Carnosine for 12 weeks resulted in a significant improvement of oxidative stress, glycemic control and renal function. Thus, carnosine could be a safe and effective strategy for treatment of pediatric patients with diabetic nephropathy."
+  },
+  {
+   "pmid": "29234057",
+   "titel": "Effect of carnosine supplementation on the plasma lipidome in overweight and obese adults: a pilot randomised controlled trial",
+   "jahr": "2017",
+   "journal": "Sci Rep",
+   "erstautor": "Baye E",
+   "doi": "10.1038/s41598-017-17577-7",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Carnosine has been shown to reduce oxidation and glycation of low density lipoprotein hence improving dyslipidaemia in rodents. The effect of carnosine on human plasma lipidome has thus far not been investigated. We aimed to determine whether carnosine supplementation improves the plasma lipidome in overweight and obese individuals. Lipid analysis was performed by liquid chromatography mass spectrometry in 24 overweight and obese adults: 13 were randomly assigned to 2 g carnosine daily and 11 to placebo, and treated for 12 weeks. Carnosine supplementation maintained trihexosylceramide (0.01 ± 0.19 vs -0.28 ± 0.34 nmol/ml, p = 0.04), phosphatidylcholine (77 ± 167 vs -81 ± 196 nmol/ml, p = 0.01) and free cholesterol (20 ± 80 vs -69 ± 80 nmol/ml, p = 0.006) levels compared to placebo. Trihexosylceramide was inversely related with fasting insulin (r = -0.6, p = 0.002), insulin resistance (r = -0.6, p = 0.003), insulin secretion (r = -0.4, p = 0.05) and serum carnosinase 1 activity (r = -0.3, p = 0.05). Both phosphatidylcholine and free cholesterol did not correlate with any cardiometabolic parameters. Our data suggest that carnosine may have beneficial effects on the plasma lipidome. Future larger clinical trials are needed to confirm this."
+  },
+  {
+   "pmid": "24457999",
+   "titel": "Doubling of muscle carnosine concentration does not improve laboratory 1-hr cycling time-trial performance",
+   "jahr": "2014",
+   "journal": "Int J Sport Nutr Exerc Metab",
+   "erstautor": "Chung W",
+   "doi": "10.1123/ijsnem.2013-0125",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Muscle carnosine loading through chronic oral beta-alanine supplementation has been shown to be effective for short-duration, high-intensity exercise. This randomized, placebo-controlled study explored whether the ergogenic effect of beta-alanine supplementation is also present for longer duration exercise. Subjects (27 well-trained cyclists/triathletes) were supplemented with either beta-alanine or placebo (6.4 g/day) for 6 weeks. Time to completion and physiological variables for a 1-hr cycling time-trial were compared between preand postsupplementation. Muscle carnosine concentration was also assessed via proton magnetic resonance spectroscopy before and after supplementation. Following beta-alanine supplementation, muscle carnosine concentration was increased by 143 ± 151% (mean ± SD; p < .001) in the gastrocnemius and 161 ± 56% (p < .001) in the soleus. Postsupplementation time trial performance was significantly slower in the placebo group (60.6 ± 4.4-63.0 ± 5.4 min; p < .01) and trended toward a slower performance following beta-alanine supplementation (59.8 ± 2.8-61.7 ± 3.0 min; p = .069). We found an increase in lactate/proton concentration ratio following beta-alanine supplementation during the time-trial (209.0 ± 44.0 (beta-alanine) vs. 161.9 ± 54.4 (placebo); p < .05), indicating that a similar lactate concentration was accompanied by a lower degree of systemic acidosis, even though this acidosis was quite moderate (pH ranging from 7.30 to 7.40). In conclusion, chronic beta-alanine supplementation in well-trained cyclists had a very pronounced effect on muscle carnosine concentration and a moderate attenuating effect on the acidosis associated with lactate accumulation, yet without affecting 1-h time-trial performance under laboratory conditions."
+  },
+  {
+   "pmid": "38172006",
+   "titel": "Carnosine supplementation improves glucose control in adults with pre-diabetes and type 2 diabetes: A randomised controlled trial",
+   "jahr": "2024",
+   "journal": "Nutr Metab Cardiovasc Dis",
+   "erstautor": "Hariharan R",
+   "doi": "10.1016/j.numecd.2023.10.012",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND AND AIMS: Type 2 diabetes (T2DM) is a major cause of morbidity and mortality globally. Carnosine, a naturally occurring dipeptide, has anti-inflammatory, antioxidant, and anti-glycating effects, with preliminary evidence suggesting it may improve important chronic disease risk factors in adults with cardiometabolic conditions. METHODS AND RESULTS: In this randomised controlled trial, 43 adults (30%F) living with prediabetes or T2DM consumed carnosine (2 g) or a matching placebo daily for 14 weeks to evaluate its effect on glucose metabolism assessed via a 2-h 75 g oral glucose tolerance test. Secondary outcomes included body composition analysis by dual energy x-ray absorptiometry (DEXA), calf muscle density by pQCT, and anthropometry. Carnosine supplementation decreased blood glucose at 90 min (-1.31 mmol/L; p = 0.02) and 120 min (-1.60 mmol/L, p = 0.02) and total glucose area under the curve (-3.30 mmol/L; p = 0.04) following an oral glucose tolerance test. There were no additional changes in secondary outcomes. The carnosine group results remained significant before and after adjustment for age, sex, and change in weight (all>0.05), and in further sensitivity analyses accounting for missing data. There were no significant changes in insulin levels. CONCLUSION: This study provides preliminary support for larger trials evaluating carnosine as a potential treatment for prediabetes and the initial stages of T2DM. Likely mechanisms may include changes to hepatic glucose output explaining the observed reduction in blood glucose without changes in insulin secretion following carnosine supplementation."
+  },
+  {
+   "pmid": "33170378",
+   "titel": "Effect of L-Carnosine as adjunctive therapy in the management of children with autism spectrum disorder: a randomized controlled study",
+   "jahr": "2020",
+   "journal": "Amino Acids",
+   "erstautor": "Ann Abraham D",
+   "doi": "10.1007/s00726-020-02909-1",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "L-Carnosine is an amino acid that acts as an anti-oxidant, anti-toxic and neuroprotective agent. There is a paucity of data about the effectiveness of L-Carnosine in the management of autism spectrum disorder (ASD) in children. This study aimed at investigating the effectiveness of L-Carnosine as adjunctive therapy in the management of ASD. This was a randomized controlled trial. Children aged 3-6 years with a diagnosis of mild to moderate ASD were assigned to standard care arm (occupational and speech therapy) and intervention care arm (L-Carnosine, 10-15 mg/kg in 2 divided doses) plus standard care treatment. The children were assessed at the baseline and the end of 2 months for the scores of Childhood Autism Rating Scale, Second Edition-Standard Version (CARS2-ST), Autism Treatment Evaluation Checklist (ATEC), BEARS sleep screening tool and 6-item Gastrointestinal Severity Index (6-GSI). Of the sixty-seven children enrolled, sixty-three children had completed the study. No statistically significant difference (p > 0.05) was observed for any of the outcome measures assessed. Supplementation of L-Carnosine did not improve the total score of CARS2-ST, ATEC, BEARS sleep screening tool and 6-GSI scores of children with ASD. Further investigations are needed with more objective assessments to critically validate the effectiveness of L-Carnosine on ASD children for more decisive results."
+  },
+  {
+   "pmid": "29569535",
+   "titel": "Changing to a vegetarian diet reduces the body creatine pool in omnivorous women, but appears not to affect carnitine and carnosine homeostasis: a randomised trial",
+   "jahr": "2018",
+   "journal": "Br J Nutr",
+   "erstautor": "Blancquaert L",
+   "doi": "10.1017/S000711451800017X",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Balanced vegetarian diets are popular, although they are nearly absent in creatine and carnosine and contain considerably less carnitine than non-vegetarian diets. Few longitudinal intervention studies investigating the effect of a vegetarian diet on the availability of these compounds currently exist. We aimed to investigate the effect of transiently switching omnivores onto a vegetarian diet for 6 months on muscle and plasma creatine, carnitine and carnosine homeostasis. In a 6-month intervention, forty omnivorous women were ascribed to three groups: continued omnivorous diet (control, n 10), vegetarian diet without supplementation (Veg+Pla, n 15) and vegetarian diet combined with daily β-alanine (0·8-0·4 g/d) and creatine supplementation (1 g creatine monohydrate/d) (Veg+Suppl, n 15). Before (0 months; 0M), after 3 months (3M) and 6 months (6M), a fasted venous blood sample and 24-h urine was collected, and muscle carnosine content was determined by proton magnetic resonance spectroscopy (1H-MRS). Muscle biopsies were obtained at 0M and 3M. Plasma creatine and muscle total creatine content declined from 0M to 3M in Veg+Pla (P=0·013 and P=0·009, respectively), whereas plasma creatine increased from 0M in Veg+Suppl (P=0·004). None of the carnitine-related compounds in plasma or muscle showed a significant time×group interaction effect. 1H-MRS-determined muscle carnosine content was unchanged over 6M in control and Veg+Pla, but increased in Veg+Suppl in soleus (P<0·001) and gastrocnemius (P=0·001) muscle. To conclude, the body creatine pool declined over a 3-month vegetarian diet in omnivorous women, which was ameliorated when accompanied by low-dose dietary creatine supplementation. Carnitine and carnosine homeostasis was unaffected by a 3- or 6-month vegetarian diet, respectively."
+  },
+  {
+   "pmid": "39770949",
+   "titel": "The Effect of Carnosine Supplementation on Musculoskeletal Health in Adults with Prediabetes and Type 2 Diabetes: A Secondary Analysis of a Randomized Controlled Trial",
+   "jahr": "2024",
+   "journal": "Nutrients",
+   "erstautor": "Saadati S",
+   "doi": "10.3390/nu16244328",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "BACKGROUND/OBJECTIVES: Type 2 diabetes (T2D) is associated with an increased risk of adverse musculoskeletal outcomes likely due to heightened chronic inflammation, oxidative stress, and advanced glycation end-products (AGE). Carnosine has been shown to have anti-inflammatory, anti-oxidative, and anti-AGE properties. However, no clinical trials have examined the impact of carnosine on musculoskeletal health in adults with prediabetes or T2D. METHODS: In a randomized, double-blind clinical trial, 49 participants with prediabetes or T2D and without existing musculoskeletal conditions were assigned to receive either 2 g/day carnosine or matching placebo for 14 weeks. Whole-body dual-energy X-ray absorptiometry (DXA) was used to assess body composition, and peripheral quantitative computed tomography (pQCT) was used to assess bone health at the distal and proximal tibia. RESULTS: Forty-three participants completed this study. Carnosine supplementation had no effect on change in hand grip strength (HGS) or upper-limb relative strength (HGS/lean mass) versus placebo. Change in appendicular lean mass, percentage of body fat, visceral fat area, proximal tibial cortical volumetric bone mineral density (vBMD), distal tibial trabecular vBMD, and stress-strain index did not differ with carnosine compared to placebo. Fourteen weeks of carnosine supplementation did not improve muscle strength, body composition, or bone health in adults with prediabetes or T2D. CONCLUSIONS: Carnosine supplementation may not be an effective approach for improving musculoskeletal health in adults with prediabetes and T2D without musculoskeletal conditions. However, appropriately powered trials with longer duration are warranted to confirm our findings. The trial was registered at clinicaltrials.gov (NCT02917928)."
+  },
+  {
+   "pmid": "25287762",
+   "titel": "Effects of oral administration of orodispersible levo-carnosine on quality of life and exercise performance in patients with chronic heart failure",
+   "jahr": "2015",
+   "journal": "Nutrition",
+   "erstautor": "Lombardi C",
+   "doi": "10.1016/j.nut.2014.04.021",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "OBJECTIVE: Chronic heart failure (CHF) is characterized by several micronutrient deficits. Amino acid supplementation may have a positive effect on nutritional and metabolic status in patients with CHF. Levo-carnosine (β-alanyl-L-histidine) is expressed at a high concentration in myocardium and muscle. Preliminary studies with L-carnosine in healthy individuals have suggested a potential role in improving exercise performance. To our knowledge, no study has been conducted in patients with heart failure. The aim of this study was to test the oral supplementation of L-carnosine and its effects on quality of life and exercise performance in patients with stable CHF. METHODS: Fifty patients with stable CHF and severe left-ventricular systolic dysfunction on optimal medical therapy were randomized 1:1 to receive oral orodispersible L-carnosine (500 mg OD) or standard treatment. Left-ventricular ejection fraction (LVEF) was measured by echocardiography. Cardiopulmonary stress test, 6-minute walking test (6 MWT) and quality-of-life (visual analog scale score and the EuroQOL five dimensions questionnaire [EQ-5D]) were performed at baseline and after 6 mo. RESULTS: Patients receiving orodispersible L-carnosine had an improvement in 6 MWT distance (P = 0.014) and in quality-of-life (VAS score) (P = 0.039) between baseline and follow-up. Compared with controls, diet supplementation with orodispersible L-carnosine was associated with an improvement in peakVO2 (P < 0.0001), VO2 at anaerobic threshold, peak exercise workload, 6 MWT and quality-of-life assessed by the EQ-5D test and the VAS score. CONCLUSION: This study suggests that L-carnosine, added to conventional therapy, has beneficial effects on exercise performance and quality of life in stable CHF. More data are necessary to evaluate its effects on left-ventricular ejection fraction and prognosis in CHF."
+  },
+  {
+   "pmid": "20224451",
+   "titel": "Hormonal responses to resistance exercise after ingestion of carnosine and anserine",
+   "jahr": "2011",
+   "journal": "J Strength Cond Res",
+   "erstautor": "Goto K",
+   "doi": "10.1519/JSC.0b013e3181bac43c",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Intramuscular carnosine buffers protons (H+) in skeletal muscle. We examined the effects of supplementation with chicken breast meat extract (CBEX) containing carnosine and anserine on hormonal responses to resistance exercise. Twenty-two men were assigned to a CBEX drink group (CBEX containing total 2 g of carnosine and anserine) (n = 14) or a placebo drink group (n = 8). The subjects ingested the prescribed drink (100 mL) twice daily for 30 days without physical training. Before and after the supplementation period, the subjects completed 5 sets of bilateral knee extension exercises (with a 90-s rest between sets). The magnitude of the increase in exercise-induced free testosterone did not change significantly after supplementation in either group. The blood lactate response to exercise was attenuated after supplementation in both groups (p < 0.05). In the CBEX group, the plasma epinephrine and norepinephrine concentrations after exercise were significantly lower after supplementation (p < 0.05). The serum growth hormone response to exercise was also reduced in the CBEX group after supplementation (delta value: 5.4 ± 1.9 ng/mL [pre] vs. 1.6 ± 0.5 ng/mL [post], p = 0.05). No significant differences in exercise-induced strength reduction (fatigue index) were observed in the 2 groups after supplementation. These results suggest that short-term supplementation with CBEX attenuates the exercise-induced epinephrine, norepinephrine, and growth hormone responses."
+  },
+  {
+   "pmid": "25510839",
+   "titel": "β-Alanine ingestion increases muscle carnosine content and combat specific performance in soldiers",
+   "jahr": "2015",
+   "journal": "Amino Acids",
+   "erstautor": "Hoffman JR",
+   "doi": "10.1007/s00726-014-1896-7",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The purpose of this study was to examine the effect of β-alanine (BA) ingestion on tissue carnosine levels and the impact such changes would have on combat specific activity. Eighteen soldiers (19.9 ± 0.8 year) from an elite combat unit were randomly assigned to either a BA or placebo (PL) group. Before and following a 30-day supplementation period carnosine content of the gastrocnemius muscle and brain was determined by proton magnetic resonance spectroscopy. During each testing session, participants performed military relevant tasks that included a 2.5 km run, a 1-min sprint, 50-m casualty carry, repeated 30-m sprints with target shooting, and a 2-min serial subtraction test (SST) to assess cognitive function under stressful conditions. A significant elevation (p = 0.048) in muscle carnosine content was noted in BA compared to PL. Changes in muscle carnosine content was correlated to changes in fatigue rate (r = 0.633, p = 0.06). No changes (p = 0.607) were observed in brain carnosine content. Following supplementation, no differences were noted in 2.5 km run, 1-min sprint, repeated sprint, or marksmanship performance, but participants in BA significantly (p = 0.044) improved their time for the 50-m casualty carry and increased their performance (p = 0.022) in the SST compared to PL. In summary, 30-days of BA ingestion can increase muscle carnosine content and improve aspects of military specific performance. Although cognitive performance was significantly greater in participants consuming BA compared to placebo, current study methods were unable to detect any change in brain carnosine levels, thus, the precise mechanism underlying these effects remains elusive."
+  },
+  {
+   "pmid": "28864708",
+   "titel": "Does supplementation with carnosine improve cardiometabolic health and cognitive function in patients with pre-diabetes and type 2 diabetes? study protocol for a randomised, double-blind, placebo-controlled trial",
+   "jahr": "2017",
+   "journal": "BMJ Open",
+   "erstautor": "Baye E",
+   "doi": "10.1136/bmjopen-2017-017691",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "INTRODUCTION: Carnosine, an over-the-counter food supplement, has a promising potential for the prevention and treatment of chronic diseases such as type 2 diabetes (T2DM), cardiovascular and neurodegenerative diseases through its anti-inflammatory, antiglycation, antioxidative and chelating effects. We have previously shown that supplementation with carnosine preserves insulin sensitivity and secretion in non-diabetic overweight and obese individuals. The effect of carnosine on cardiometabolic risk and related cognitive outcomes in patients with pre-diabetes and T2DM has thus far not been studied. We therefore aim to investigate whether supplementation with carnosine improves cardiometabolic health and cognitive function in patients with pre-diabetes and T2DM. METHODS AND ANALYSIS: We will employ a parallel design randomised controlled trial. Fifty participants with pre-diabetes (impaired fasting glycaemia and impaired glucose tolerance) and T2DM (with HbA1c level < 8%) aged between 18 to 70 years will be randomly assigned to the intervention or control group. At baseline, participants will undergo a medical review and series of tests including anthropometric measurements (body mass index, a dual X-ray absorptiometry and peripheral quantitative computed tomography scan), an oral glucose tolerance test, cardiovascular measurements (central blood pressure, endothelial function and arterial stiffness), cognitive function, physical activity measurement, heart rate variability and liver fibroscan as well as questionnaires to assess dietary habits, sleep quality, depression and quality of life. The intervention group will receive 2 g of carnosine daily in two divided doses while the control group will receive identical placebo capsules for 14 weeks. All baseline measurements will be repeated at the end of the intervention. The change in glycaemic, cardiovascular and cognitive parameters as well as other measures will be compared between the groups. ETHICS AND DISSEMINATION: This study is approved by the Human Research Ethics Committee of Monash Health and Monash University, Australia. The findings will be disseminated via peer-reviewed publications and conference presentations. TRIAL REGISTRATION: NCT02917928; Pre-results."
+  },
+  {
+   "pmid": "22143432",
+   "titel": "Beta-alanine (Carnosyn™) supplementation in elderly subjects (60-80 years): effects on muscle carnosine content and physical capacity",
+   "jahr": "2012",
+   "journal": "Amino Acids",
+   "erstautor": "del Favero S",
+   "doi": "10.1007/s00726-011-1190-x",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The aim of this study was to investigate the effects of beta-alanine supplementation on exercise capacity and the muscle carnosine content in elderly subjects. Eighteen healthy elderly subjects (60-80 years, 10 female and 4 male) were randomly assigned to receive either beta-alanine (BA, n=12) or placebo (PL, n=6) for 12 weeks. The BA group received 3.2 g of beta-alanine per day (2×800 mg sustained-release Carnosyn™ tablets, given 2 times per day). The PL group received 2× (2×800 mg) of a matched placebo. At baseline (PRE) and after 12 weeks (POST-12) of supplementation, assessments were made of the muscle carnosine content, anaerobic exercise capacity, muscle function, quality of life, physical activity and food intake. A significant increase in the muscle carnosine content of the gastrocnemius muscle was shown in the BA group (+85.4%) when compared with the PL group (+7.2%) (p=0.004; ES: 1.21). The time-to-exhaustion in the constant-load submaximal test (i.e., TLIM) was significantly improved (p=0.05; ES: 1.71) in the BA group (+36.5%) versus the PL group (+8.6%). Similarly, time-to-exhaustion in the incremental test was also significantly increased (p=0.04; ES 1.03) following beta-alanine supplementation (+12.2%) when compared with placebo (+0.1%). Significant positive correlations were also shown between the relative change in the muscle carnosine content and the relative change in the time-to-exhaustion in the TLIM test (r=0.62; p=0.01) and in the incremental test (r=0.48; p=0.02). In summary, the current data indicate for the first time, that beta-alanine supplementation is effective in increasing the muscle carnosine content in healthy elderly subjects, with subsequent improvement in their exercise capacity."
+  },
+  {
+   "pmid": "21847611",
+   "titel": "Effect of two β-alanine dosing protocols on muscle carnosine synthesis and washout",
+   "jahr": "2012",
+   "journal": "Amino Acids",
+   "erstautor": "Stellingwerff T",
+   "doi": "10.1007/s00726-011-1054-4",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Carnosine (β-alanyl-L-histidine) is found in high concentrations in skeletal muscle and chronic β-alanine (BA) supplementation can increase carnosine content. This placebo-controlled, double-blind study compared two different 8-week BA dosing regimens on the time course of muscle carnosine loading and 8-week washout, leading to a BA dose-response study with serial muscle carnosine assessments throughout. Thirty-one young males were randomized into three BA dosing groups: (1) high-low: 3.2 g BA/day for 4 weeks, followed by 1.6 g BA/day for 4 weeks; (2) low-low: 1.6 g BA/day for 8 weeks; and (3) placebo. Muscle carnosine in tibialis-anterior (TA) and gastrocnemius (GA) muscles was measured by 1H-MRS at weeks 0, 2, 4, 8, 12 and 16. Flushing symptoms and blood clinical chemistry were trivial in all three groups and there were no muscle carnosine changes in the placebo group. During the first 4 weeks, the increase for high-low (TA 2.04 mmol/kgww, GA 1.75 mmol/kgww) was ~twofold greater than low-low (TA 1.12 mmol/kgww, GA 0.80 mmol/kgww). 1.6 g BA/day significantly increased muscle carnosine within 2 weeks and induced continual rises in already augmented muscle carnosine stores (week 4-8, high-low regime). The dose-response showed a carnosine increase of 2.01 mmol/kgww per 100 g of consumed BA, which was only dependent upon the total accumulated BA consumed (within a daily intake range of 1.6-3.2 g BA/day). Washout rates were gradual (0.18 mmol/kgww and 0.43 mmol/kgww/week; ~2%/week). In summary, the absolute increase in muscle carnosine is only dependent upon the total BA consumed and is not dependent upon baseline muscle carnosine, the muscle type, or the daily amount of supplemented BA."
+  },
+  {
+   "pmid": "39599686",
+   "titel": "Carnosine Supplementation Has No Effect on Inflammatory Markers in Adults with Prediabetes and Type 2 Diabetes: A Randomised Controlled Trial",
+   "jahr": "2024",
+   "journal": "Nutrients",
+   "erstautor": "Saadati S",
+   "doi": "10.3390/nu16223900",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "BACKGROUND/OBJECTIVES: In vitro studies suggest that carnosine reduces inflammation by upregulating anti-inflammatory mediators and downregulating pro-inflammatory cytokines. However, human clinical trials examining the effects of carnosine on inflammatory biomarkers are scant. We conducted a secondary analysis of a double-blind randomised controlled trial (RCT) to examine the effects of carnosine supplementation on inflammatory markers and adipokines in participants with prediabetes or well-controlled type 2 diabetes (T2D). METHODS: Out of 88 participants who were recruited, 49 adults with prediabetes or well-controlled T2D (HbA1c: 6.6 ± 0.7% [mean ± SD]) who were treated with diet and/or metformin were eligible for inclusion. Participants were randomised to receive 2 g/day of carnosine or a matching placebo for 14 weeks. We measured serum concentrations of monocyte chemoattractant protein-1 (MCP-1), interleukin (IL)-6, IL-10, C-reactive protein (CRP), tumour necrosis factor-α (TNF-α), adiponectin, leptin, adipsin, serpin, and resistin levels at baseline and after 14 weeks. The trial was registered at clinicaltrials.gov (NCT02917928). RESULTS: Forty-one participants (M = 29/F = 12) aged 53 (42.6, 59.3) years [median (IQR)] completed the trial. After 14 weeks of supplementation, changes in pro- and anti-inflammatory cytokine and adipokine levels did not differ between the carnosine and placebo groups (p > 0.05 for all). The results remained unchanged after adjustment for confounders including age, sex, and anthropometric measures (e.g., body fat percentage and visceral adipose tissue). CONCLUSIONS: In individuals with prediabetes and well-controlled T2D, carnosine supplementation did not result in any significant changes in inflammatory markers. Larger RCTs with longer follow-up durations are needed to evaluate whether carnosine may be beneficial in individuals with poorly controlled T2D."
+  },
+  {
+   "pmid": "21756141",
+   "titel": "Skin beautification with oral non-hydrolized versions of carnosine and carcinine: Effective therapeutic management and cosmetic skincare solutions against oxidative glycation and free-radical production as a causal mechanism of diabetic complications and skin aging",
+   "jahr": "2012",
+   "journal": "J Dermatolog Treat",
+   "erstautor": "Babizhayev MA",
+   "doi": "10.3109/09546634.2010.521812",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Advanced glycation Maillard reaction end products (AGEs) are causing the complications of diabetes and skin aging, primarily via adventitious and cross-linking of proteins. Long-lived proteins such as structural collagen are particularly implicated as pathogenic targets of AGE processes. The formation of α-dicarbonyl compounds represents an important step for cross-linking proteins in the glycation or Maillard reaction. The purpose of this study was to investigate the contribution of glycation coupled to the glycation free-radical oxidation reactions as markers of protein damage in the aging of skin tissue proteins and diabetes. To elucidate the mechanism for the cross-linking reaction, we studied the reaction between a three-carbon α-dicarbonyl compound, methylglyoxal, and amino acids using EPR spectroscopy, a spectrophotometric kinetic assay of superoxide anion production at the site of glycation and a chemiluminescence technique. The transglycating activity, inhibition of transition metal ions peroxidative catalysts, resistance to hydrolysis of carnosine mimetic peptide-based compounds with carnosinase and the protective effects of carnosine, carcinine and related compounds against the oxidative damage of proteins and lipid membranes were assessed in a number of biochemical and model systems. A 4-month randomized, double-blind, controlled study was undertaken including 42 subjects where the oral supplement of non-hydrolized carnosine (Can-C Plus® formulation) was tested against placebo for 3 months followed by a 1-month supplement-free period for both groups to assess lasting effects. Assessment of the age-related skin parameters and oral treatment efficacy measurements included objective skin surface evaluation with Visioscan® VC 98 and visual assessment of skin appearance parameters. The results together confirm that a direct one-electron transfer between a Schiff base methylglyoxal dialkylimine (or its protonated form) and methylglyoxal is responsible for the generation of the cross-linked radical cation and the radical counteranion of methylglyoxal. Under aerobic conditions, molecular oxygen can then accept an electron from the methylglyoxal anion to generate the superoxide radical anion causing the propagation of oxidative stress chain reactions in the presence of transition metal ions. Carnosine stabilized from enzymatic hydrolysis, carcinine and leucyl-histidylhydrazide in patented formulations thereof, demonstrate the Schiff bases' transglycating activities concomitant with glycation site specific antioxidant activities and protection of proprietary antioxidant enzymes in the skin during aging and with diabetes lesions. During oral supplementation with stabilized from enzymatic hydrolysis carnosine (Can-C Plus® formulation), the skin parameters investigated showed a continuous and significant improvement in the active group during the 3 months of supplementation as compared to placebo. Visual investigation showed improvement of the overall skin appearance and a reduction of fine lines. No treatment-related side effects were reported. The finding that already-formed AGE cross-links can be pharmacologically severed and attendant pathology thereby reversed by non-hydrolized carnosine or carcinine in patented oral formulations thereof has broad implications for the skin beautification and therapeutics of the complications of diabetes and skin diseases associated with aging."
+  },
+  {
+   "pmid": "19214556",
+   "titel": "The effect of 4 weeks beta-alanine supplementation and isokinetic training on carnosine concentrations in type I and II human skeletal muscle fibres",
+   "jahr": "2009",
+   "journal": "Eur J Appl Physiol",
+   "erstautor": "Kendrick IP",
+   "doi": "10.1007/s00421-009-0998-5",
+   "typ": [
+    "Controlled Clinical Trial",
+    "Journal Article"
+   ],
+   "abstract": "Seven male students were supplemented with beta-alanine (beta-ALG) for 4 weeks (6.4 g day(-1)) and seven with a matching placebo (PLG). Subjects undertook 4 weeks of isokinetic training with the right leg (T) whilst the left leg was untrained (UT), serving as a control. Each training session consisted of 10 x 10 maximal 90 degrees extension and flexion contractions at 180 degrees /s using a Kin-Com isokinetic dynamometer, with 1 min rest between bouts. Muscle biopsies were taken from the vastus lateralis immediately before and at the end of the supplementation period. Following freeze drying muscle fibres were dissected and characterised by their MHC profile, as type I, IIa, IIx, or as hybrids of these. Carnosine was measured by HPLC. There was a significant increase in carnosine in both T and UT legs of the beta-ALG (9.63 +/- 3.92 mmol kg(-1) dry muscle and 6.55 +/- 2.36 mmol kg(-1) dry muscle respectively). There was a significant increase in the carnosine content of all fibre phentotypes, with no significant difference between types. There were no significant differences in the changes in muscle or in fibres between the T and UT legs. In contrast there was no significant change in the carnosine content in either the T or UT legs with placebo. The results indicate that 4 weeks training has no effect on the muscle carnosine content. Whilst an increase was seen with beta-alanine supplementation, this was not further influenced by training. These findings suggest that beta-alanine availability is the main factor regulating muscle carnosine synthesis."
+  },
+  {
+   "pmid": "21999299",
+   "titel": "Creatine supplementation does not augment muscle carnosine content in type 2 diabetic patients",
+   "jahr": "2011",
+   "journal": "Appl Physiol Nutr Metab",
+   "erstautor": "Gualano B",
+   "doi": "10.1139/h11-083",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "We examined whether creatine supplementation affects muscle carnosine content in type 2 diabetic patients. Subjects were randomly assigned to receive either creatine (5 g·day(-1)) or placebo in a double-blind fashion. At baseline and after 12 weeks, carnosine content was evaluated in gastrocnemius and soleus muscles by using a 1H-MRS technique. No changes were found in gastrocnemius (p = 0.81) and soleus (p = 0.85). We concluded that creatine supplementation does not augment muscle carnosine content in type 2 diabetic patients."
+  },
+  {
+   "pmid": "18991979",
+   "titel": "Do fatty acids help in overcoming reading difficulties? A double-blind, placebo-controlled study of the effects of eicosapentaenoic acid and carnosine supplementation on children with dyslexia",
+   "jahr": "2009",
+   "journal": "Child Care Health Dev",
+   "erstautor": "Kairaluoma L",
+   "doi": "10.1111/j.1365-2214.2008.00881.x",
+   "typ": [
+    "Controlled Clinical Trial",
+    "Journal Article",
+    "Multicenter Study",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: There are claims that dietary supplementation of unsaturated fatty acids could help children with dyslexia to overcome their reading problems. However, these claims have not yet been empirically tested. METHODS: This study was designed to test whether dietary supplementation was superior to placebo in treating reading, spelling or other reading-related skills of children with dyslexia. The experimental group (eicosapentaenoic acid, EPA, n = 30) ate dietary supplements and the control group (placebo, n = 31) placebos during the 90-day treatment period. The supplements contained omega-3 fatty acid (ethyl-EPA, 500 mg/day) and carnosine (400 mg/day). The groups were matched for reading skills, grade, gender, attention problems, intelligence and amount of special education. The literacy-related skills of the two groups were assessed before and after the treatment period. RESULTS: No group differences were observed between EPA and placebo in measures of reading accuracy or speed, spelling, decoding fluency, arithmetical skills, reading-related language skills, attention or behavioural problems. CONCLUSION: The present findings do not support the hypothesis that omega-3 fatty acid (ethyl-EPA) or carnosine has a role in the treatment of reading and spelling problems in children with dyslexia."
+  },
+  {
+   "pmid": "39215872",
+   "titel": "Evaluation of supplementary carnosine accumulation and distribution: an initial analysis of participants in the Nucleophilic Defense Against PM Toxicity (NEAT) clinical trial",
+   "jahr": "2024",
+   "journal": "Amino Acids",
+   "erstautor": "Baba SP",
+   "doi": "10.1007/s00726-024-03414-5",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "Carnosine is an endogenous dipeptide that buffers intracellular pH and quenches toxic products of lipid peroxidation. Used as a dietary supplement, it also supports exercise endurance. However, the accumulation and distribution of carnosine after supplementation has not been rigorously evaluated. To do this, we randomized a cohort to receive daily supplements of either placebo or carnosine (2 g/day). Blood and urine samples were collected twice over the subsequent 12 week supplementation period and we measured levels of red blood cell (RBC) carnosine, urinary carnosine, and urinary carnosine-propanol and carnosine-propanal conjugates by LC/MS-MS. We found that, when compared with placebo, supplementation with carnosine for 6 or 12 weeks led to an approximate twofold increase in RBC carnosine, while levels of urinary carnosine increased nearly sevenfold. Although there were no changes in the urinary levels of carnosine propanol, carnosine propanal increased nearly twofold. RBC carnosine levels were positively associated with urinary carnosine and carnosine propanal levels. No adverse reactions were reported by those in the carnosine or placebo arms, nor did carnosine supplementation have any effect on kidney, liver, and cardiac function or blood electrolytes. In conclusion, irrespective of age, sex, or BMI, oral carnosine supplementation in humans leads to its increase in RBC and urine, as well as an increase in urinary carnosine-propanal. RBC carnosine may be a readily accessible pool to estimate carnosine levels. Clinical trial registration: This study is registered with ClinicalTrials.gov (Nucleophilic Defense Against PM Toxicity (NEAT Trial)-Full Text View-ClinicalTrials.gov), under the registration: NCT03314987."
+  },
+  {
+   "pmid": "41855025",
+   "titel": "Zinc-L-carnosine mouthwash in oral mucositis patients: a single-blind, randomized, controlled trial",
+   "jahr": "2026",
+   "journal": "Minerva Dent Oral Sci",
+   "erstautor": "Togni L",
+   "doi": "10.23736/S2724-6329.25.05074-0",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "BACKGROUND: The study aims to evaluate the therapeutic efficacy of a zinc-L-carnosine mouthwash (Hepilor®) in the treatment of oral mucositis in cancer patients treated by radiation and/or chemotherapy. METHODS: The study included 42 patients, randomly allocated to the Test Group (N.=22) or to the Control Group (N.=20), referred to University Hospital of Marche Region, Ancona, Italy. The oral mucositis and its adverse manifestation were evaluated by the National Cancer Institute Common Toxicity Criteria scales. Hepilor® (4 rinses/day with 10 mL of pure product, for 3 minutes, for 30 days) was administered to the Test Group. To Control Group was prescribed 2 daily rinses with water and sodium bicarbonate, for one minute, for 30 days. Each evaluation was performed at the time of patient enrolment (t0), after 15 days (t1) and 30 days (t2) from the beginning of the treatment. RESULTS: In Test Group, the moderate and severe mucositis (t0: 61%), its related symptoms (t0: 5-59%), and the use of analgesics (t0: 63%) were significantly reduced, both at t1 (28%; 0-14%; 14%; P<0.0001) and at t2 (14%; 0-5%; 0%; P<0.0001). In Control Group, the patients with severe mucositis (t0: 10%) and oral symptoms (t0: 0-56%) notably increased, especially at t2 (35%; 10-75%), as well as analgesic drugs intake (t0: 35%; t2: 75%; P<0.0001). CONCLUSIONS: These data confirm the clinical efficacy of Hepilor® in the treatment of oral mucositis in cancer patients. Together with an adequate oral hygiene, it reduced the severity of oral mucositis and its related symptoms, improving patients' quality of life."
+  },
+  {
+   "pmid": "38004228",
+   "titel": "Carnosine Did Not Affect Vascular and Metabolic Outcomes in Patients with Prediabetes and Type 2 Diabetes: A 14-Week Randomized Controlled Trial",
+   "jahr": "2023",
+   "journal": "Nutrients",
+   "erstautor": "Saadati S",
+   "doi": "10.3390/nu15224835",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Journal Article"
+   ],
+   "abstract": "Atherosclerotic cardiovascular disease (ASCVD) is the leading cause of morbidity and mortality in patients with prediabetes and type 2 diabetes mellitus (T2DM). Carnosine has been suggested as a potential approach to reduce ASCVD risk factors. However, there is a paucity of human data. Hence, we performed a 14-week double-blind randomized placebo-controlled trial to determine whether carnosine compared with placebo improves vascular and metabolic outcomes in individuals with prediabetes and T2DM. In total, 49 patients with prediabetes and T2DM with good glycemic control were randomly assigned either to receive 2 g/day carnosine or matching placebo. We evaluated endothelial dysfunction, arterial stiffness, lipid parameters, blood pressure, heart rate, hepatic and renal outcomes before and after the intervention. Carnosine supplementation had no effect on heart rate, peripheral and central blood pressure, endothelial function (logarithm of reactive hyperemia (LnRHI)), arterial stiffness (carotid femoral pulse wave velocity (CF PWV)), lipid parameters, liver fibroscan indicators, liver transient elastography, liver function tests, and renal outcomes compared to placebo. In conclusion, carnosine supplementation did not improve cardiovascular and cardiometabolic risk factors in adults with prediabetes and T2DM with good glycemic control. Therefore, it is improbable that carnosine supplementation would be a viable approach to mitigating the ASCVD risk in these populations. The trial was registered at clinicaltrials.gov (NCT02917928)."
+  },
+  {
+   "pmid": "39473402",
+   "titel": "Estimation of Plasma Concentration of L-Carnosine and its Correlation with Core Symptoms of Autism Spectrum Disorder Children: A Pilot Clinical Trial",
+   "jahr": "2024",
+   "journal": "Front Biosci (Landmark Ed)",
+   "erstautor": "Abraham DA",
+   "doi": "10.31083/j.fbl2910365",
+   "typ": [
+    "Journal Article",
+    "Clinical Trial"
+   ],
+   "abstract": "BACKGROUND: Literature indicates that L-carnosine may be deficient in autism spectrum disorder (ASD) children. The aim of the present study was to estimate the level of L-carnosine in plasma and correlate it with the Autism Treatment Evaluation Checklist (ATEC) and Childhood Autism Rating Scale 2nd Edition, Standard Version (CARS2-ST) scores. To measure L-carnosine level, a bio-analytical method was developed using reverse phase high- liquid chromatography and validated as per International Conference on Harmonization guidelines. METHOD: Children were supplemented with L-carnosine (10-15 mg/kg) along with standard care therapies for 2 months. Before and after supplementation, scores on the ATEC, CARS2-ST, BEARS sleep screening tool, 6-item Gastrointestinal Severity Index, and Parental Stress Scale were evaluated, and L-carnosine was measured at the end of the trial. RESULTS: The calibration curve was linear in the range of 100-600 ng/mL (R2 = 0.998). The level of L-carnosine quantified was 33.7 ± 0.2 ng/mL. There was no significant difference found in any of the outcome measures (p > 0.05). CONCLUSIONS: Despite the fact that L-carnosine is detectable in the blood, it was found to be ineffective in the management of ASD in children. CLINICAL TRIAL REGISTRATION: The study was registered in the Clinical Trial Registry-India, registration number: CTRI/2019/07/020102."
+  },
+  {
+   "pmid": "38732615",
+   "titel": "A Patented Dietary Supplement (Hydroxy-Methyl-Butyrate, Carnosine, Magnesium, Butyrate, Lactoferrin) Is a Promising Therapeutic Target for Age-Related Sarcopenia through the Regulation of Gut Permeability: A Randomized Controlled Trial",
+   "jahr": "2024",
+   "journal": "Nutrients",
+   "erstautor": "Rondanelli M",
+   "doi": "10.3390/nu16091369",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "Adequate diet, physical activity, and dietary supplementation with muscle-targeted food for special medical purposes (FSMP) or dietary supplement (DS) are currently considered fundamental pillars in sarcopenia treatment. The aim of this study is to evaluate the effectiveness of a DS (containing hydroxy-methyl-butyrate, carnosine, and magnesium, for its action on muscle function and protein synthesis and butyrate and lactoferrin for their contribution to the regulation of gut permeability and antioxidant/anti-inflammation activity) on muscle mass (assessed by dual X-ray absorptiometry (DXA)), muscle function (by handgrip test, chair test, short physical performance battery (SPPB) test, and walking speed test), inflammation (tumor necrosis factor-alpha (TNF-a), C-reactive protein (CRP), and visceral adipose tissue (VAT)) and gut axis (by zonulin). A total of 59 participants (age 79.7 ± 4.8 years, body mass index 20.99 ± 2.12 kg/m2) were enrolled and randomly assigned to intervention (n = 30) or placebo (n = 28). The skeletal muscle index (SMI) significantly improved in the supplemented group compared to the placebo one, +1.02 (CI 95%: -0.77; 1.26), p = 0.001; a significant reduction in VAT was observed in the intervention group, -70.91 g (-13.13; -4.70), p = 0.036. Regarding muscle function, all the tests significantly improved (p = 0.001) in the supplemented group compared to the placebo one. CRP, zonulin, and TNF-alpha significantly decreased (p = 0.001) in intervention, compared to placebo, -0.74 mg/dL (CI 95%: -1.30; -0.18), -0.30 ng/mL (CI 95%: -0.37; -0.23), -6.45 pg/mL (CI 95%: -8.71; -4.18), respectively. This DS improves muscle mass and function, and the gut muscle has emerged as a new intervention target for sarcopenia."
+  },
+  {
+   "pmid": "30592963",
+   "titel": "L-Carnosine protects against Oxaliplatin-induced peripheral neuropathy in colorectal cancer patients: A perspective on targeting Nrf-2 and NF-κB pathways",
+   "jahr": "2019",
+   "journal": "Toxicol Appl Pharmacol",
+   "erstautor": "Yehia R",
+   "doi": "10.1016/j.taap.2018.12.015",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "BACKGROUND: Chemotherapy-induced peripheral neuropathy is a common side effect afflicting cancer patients treated with oxalipatin based chemotherapy. AIM: The study investigated the potential prophylactic effect of L-carnosine against acute oxaliplatin neurotoxicity in colorectal cancer patients with emphasis on the redox (Nrf-2, MDA), inflammatory (NF-κB, TNF-α), and apoptotic (caspase-3) parameters. METHODS: In this pilot study, 65 patients were recruited using a prospective randomized controlled study design and enrolled randomly into two arms; Arm A, 31 patients received FOLFOX-6 regimen (oxaliplatin, 5FU & leucovorin) and Arm B, 34 patients received FOLFOX-6 regimen and daily oral L-carnosine (500 mg) along the treatment period. Patients were followed up for three months, then both arms were analyzed for neuropathy incidence/grade and any additional toxicities according to National Cancer Institute Common Terminology Criteria for Adverse Events (NCI-CTC version 4). RESULTS: The neuropathy grading evaluation of Arm B vs Arm A revealed that 17 patients (56.7%) vs 11 patients (35.5%) suffered grade 1, one patient (3.3%) vs 19 patients (61.3%) suffered grade 2, while 12 patients (40%) vs one patient (3.2%) were normal. In arm B, the addition of L-carnosine decreased significantly the levels/activity of NF-κB (27%) and TNF-α (36.6%); this anti-inflammatory effect entailed also its anti-oxidative and anti-apoptotic effects, thus MDA level (51.8%) and caspase-3 activity (49%) were also reduced, whereas Nrf-2 was increased (38.7%) as compared to Arm A. In both arms a significant correlation was only evident between TNF-α and the neuropathy grading score (P < .03); the correlation analysis was significantly positive between NF-κB and both Nrf-2 and caspase 3. CONCLUSION: L-Carnosine exerted a neuroprotective effect against oxaliplatin-induced peripheral neuropathy in colorectal cancer patients by targeting Nrf-2 and NF-κB pathways."
+  },
+  {
+   "pmid": "16554972",
+   "titel": "The absorption of orally supplied beta-alanine and its effect on muscle carnosine synthesis in human vastus lateralis",
+   "jahr": "2006",
+   "journal": "Amino Acids",
+   "erstautor": "Harris RC",
+   "doi": "10.1007/s00726-006-0299-9",
+   "typ": [
+    "Clinical Trial",
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Beta-alanine in blood-plasma when administered as A) histidine dipeptides (equivalent to 40 mg . kg(-1) bwt of beta-alanine) in chicken broth, or B) 10, C) 20 and D) 40 mg . kg(-1) bwt beta-alanine (CarnoSyn, NAI, USA), peaked at 428 +/- SE 66, 47 +/- 13, 374 +/- 68 and 833 +/- 43 microM. Concentrations regained baseline at 2 h. Carnosine was not detected in plasma with A) although traces of this and anserine were found in urine. Loss of beta-alanine in urine with B) to D) was <5%. Plasma taurine was increased by beta-alanine ingestion but this did not result in any increased loss via urine. Pharmacodynamics were further investigated with 3 x B) per day given for 15 d. Dietary supplementation with I) 3.2 and II) 6.4 g . d(-1) beta-alanine (as multiple doses of 400 or 800 mg) or III) L-carnosine (isomolar to II) for 4 w resulted in significant increases in muscle carnosine estimated at 42.1, 64.2 and 65.8%."
+  }
+ ],
+ "metaanalysen": [
+  {
+   "pmid": "40999397",
+   "titel": "Effect of carnosine or beta-alanine supplementation therapy for prediabetes or type 2 diabetes mellitus: a systematic review and meta-analysis of randomized controlled trials",
+   "jahr": "2025",
+   "journal": "BMC Endocr Disord",
+   "erstautor": "Li N",
+   "doi": "10.1186/s12902-025-02016-w",
+   "typ": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+   ],
+   "abstract": "BACKGROUND: Carnosine and beta-alanine (β-alanine) have shown potential in the management of chronic conditions, including metabolic disorders. However, their therapeutic efficacy in individuals with type 2 diabetes mellitus (T2DM) and prediabetes remains inconclusive due to heterogeneity in clinical trial results and limited synthesis of human evidence. OBJECTIVE: This systematic review and meta-analysis aim to evaluate the effects of carnosine and β-alanine supplementation on patients with prediabetes and T2DM. METHODS: We searched PubMed, Cochrane Library, Web of Science, and Embase from inception to 9 October 2024 for randomized controlled trials that compared carnosine or β-alanine supplementation to placebo in prediabetic and diabetic populations. The quality of evidence was appraised using the Jadad scale, and the risk of bias was assessed using the Cochrane Risk of Bias tool. Data were analyzed using RevMan and Stata, employing fixed-effects models and I-V methods. RESULTS: Eight trials met the inclusion criteria, totaling 377 participants. Our analysis indicated that supplementation significantly reduced fasting blood glucose (FBG) (SMD: -0.53; 95% CI: -0.75 to -0.31; p < 0.00001) and hemoglobin A1c (HbA1c) levels (SMD:-0.36; 95% CI:-0.59 to -0.12; p = 0.003) compared to placebo. No significant effects were observed on body mass index (BMI), fasting insulin. low-density lipoprotein cholesterol (LDL-c) or high-density lipoprotein cholesterol (HDL-c), but a lowering effect was observed in total cholesterol (TC). Notably, Homeostasis Model Assessment of Beta-cell Function (HOMA-β) values were improved, suggesting enhanced β-cell function, while changes in homeostasis model assessment of insulin resistance (HOMA-IR) did not reach statistical significance. CONCLUSIONS: Carnosine and β-alanine supplementation show potential as adjunct therapies for improving FBG, HbA1c and HOMA-β in prediabetes and T2DM. Further rigorous studies are warranted to establish optimal dosage, treatment duration, and long-term efficacy in clinical practice."
+  },
+  {
+   "pmid": "34333586",
+   "titel": "Effect of Carnosine or β-Alanine Supplementation on Markers of Glycemic Control and Insulin Resistance in Humans and Animals: A Systematic Review and Meta-analysis",
+   "jahr": "2021",
+   "journal": "Adv Nutr",
+   "erstautor": "Matthews JJ",
+   "doi": "10.1093/advances/nmab087",
+   "typ": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+   ],
+   "abstract": "There is growing evidence that supplementation with carnosine, or its rate-limiting precursor β-alanine, can ameliorate aspects of metabolic dysregulation that occur in diabetes and its related conditions. The purpose of this systematic review and meta-analysis was to evaluate the effect of carnosine or β-alanine supplementation on markers of glycemic control and insulin resistance in humans and animals. We performed a systematic search of 6 electronic databases up to 31 December 2020. Primary outcomes were changes in 1) fasting glucose, 2) glycated hemoglobin (HbA1c), and 3) 2-h glucose following a glucose-tolerance test. A set of additional outcomes included fasting insulin and homeostatic model assessment of β-cell function (HOMA-β) and insulin resistance (HOMA-IR). We assessed risk of bias using the Cochrane risk of bias (RoB) 2.0 (human studies) and the Systematic Review Center for Laboratory Animal Experimentation (SYRCLE) RoB (animal studies) tools; and used the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) approach to assess certainty. We used Bayesian hierarchical random-effects models, with informative priors for human data and noninformative priors for animal data. Inferences were made on posterior samples generated by Hamiltonian Markov Chain Monte Carlo using 90% credible intervals (90% CrI) and calculated probabilities. Twenty studies (n = 4 human, n = 16 rodent) were included, providing data for 2 primary outcomes (fasting glucose and HbA1c) and 3 additional outcomes (fasting insulin, HOMA-β, and HOMA-IR). The model provides evidence that supplementation decreases fasting glucose [humans: mean difference (MD)0.5 = -0.95 mmol · L-1 (90% CrI: -2.1, 0.08); rodent: MD0.5 = -2.26 mmol · L-1 (90% CrI: -4.03, -0.44)], HbA1c [humans: MD0.5 = -0.91% (90% CrI: -1.46, -0.39); rodents: MD0.5 = -1.05% (90% CrI: -1.64, -0.52)], HOMA-IR [humans: standardized mean difference (SMD)0.5 = -0.41 (90% CrI: -0.82, -0.07); rodents: SMD0.5 = -0.63 (90% CrI: -1.98, 0.65)], and fasting insulin [humans: SMD0.5 = -0.41 (90% CrI: -0.77, -0.07)]. GRADE assessment showed our certainty in the effect estimate of each outcome to be moderate (human outcomes) or very low (rodent outcomes). Supplementation with carnosine or β-alanine may reduce fasting glucose, HbA1c, and HOMA-IR in humans and rodents, and fasting insulin in humans; both compounds show potential as therapeutics to improve glycemic control and insulin resistance. This review was registered at PROSPERO as CRD42020191588."
+  },
+  {
+   "pmid": "38086332",
+   "titel": "Effects of carnosine and histidine-containing dipeptides on biomarkers of inflammation and oxidative stress: a systematic review and meta-analysis",
+   "jahr": "2024",
+   "journal": "Nutr Rev",
+   "erstautor": "Saadati S",
+   "doi": "10.1093/nutrit/nuad150",
+   "typ": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+   ],
+   "abstract": "CONTEXT: Carnosine and histidine-containing dipeptides (HCDs) are suggested to have anti-inflammatory and antioxidative benefits, but their effects on circulating adipokines and inflammatory and oxidative stress biomarkers remain unclear. OBJECTIVES: The aim of the present systematic review and meta-analysis was to determine the impact of HCD supplementation on inflammatory and oxidative stress biomarkers. DATA SOURCES: A systematic search was performed on Medline via Ovid, Scopus, Embase, ISI Web of Science, and the Cochrane Library databases from inception to 25 January 2023. DATA EXTRACTION: Using relevant key words, trials investigating the effects of carnosine/HCD supplementation on markers of inflammation and oxidative stress, including C-reactive protein (CRP), tumor necrosis factor-α (TNF-α), interleukin-6 (IL-6), adiponectin, malondialdehyde (MDA), glutathione (GSH), superoxide dismutase (SOD), total antioxidant capacity (TAC), and catalase (CAT) were identified. Meta-analyses were conducted using random-effects models to calculate the weighted mean differences (WMDs) and 95% confidence intervals (CIs). DATA ANALYSIS: A total of 9 trials comprising 350 participants were included in the present meta-analysis. Carnosine/HCD supplementation led to a significant reduction in CRP (WMD: -0.97 mg/L; 95% CI: -1.59, -0.36), TNF-α (WMD: -3.60 pg/mL; 95% CI: -7.03, -0.18), and MDA (WMD: -0.34 μmol/L; 95% CI: -0.56, -0.12) and an elevation in CAT (WMD: 4.48 U/mL; 95% CI: 2.43, 6.53) compared with placebo. In contrast, carnosine/HCD supplementation had no effect on IL-6, adiponectin, GSH, SOD, and TAC levels. CONCLUSION: Carnosine/HCD supplementation may reduce inflammatory and oxidative stress biomarkers, and potentially modulate the cardiometabolic risks associated with chronic low-grade inflammation and lipid peroxidation. SYSTEMATIC REVIEW REGISTRATION: PROSPERO registration no. CRD42017075354."
+  },
+  {
+   "pmid": "32922303",
+   "titel": "The Muscle Carnosine Response to Beta-Alanine Supplementation: A Systematic Review With Bayesian Individual and Aggregate Data E-Max Model and Meta-Analysis",
+   "jahr": "2020",
+   "journal": "Front Physiol",
+   "erstautor": "Rezende NS",
+   "doi": "10.3389/fphys.2020.00913",
+   "typ": [
+    "Systematic Review",
+    "Journal Article"
+   ],
+   "abstract": "Beta-alanine (BA) supplementation increases muscle carnosine content (MCarn), and has many proven, and purported, ergogenic, and therapeutic benefits. Currently, many questions on the nature of the MCarn response to supplementation are open, and the response to these has considerable potential to enhance the efficacy and application of this supplementation strategy. To address these questions, we conducted a systematic review with Bayesian-based meta-analysis of all published aggregate data using a dose response (Emax) model. Meta-regression was used to consider the influence of potential moderators (including dose, sex, age, baseline MCarn, and analysis method used) on the primary outcome. The protocol was designed according to PRISMA guidelines and a three-step screening strategy was undertaken to identify studies that measured the MCarn response to BA supplementation. Additionally, we conducted an original analysis of all available individual data on the MCarn response to BA supplementation from studies conducted within our lab (n = 99). The Emax model indicated that human skeletal muscle has large capacity for non-linear MCarn accumulation, and that commonly used BA supplementation protocols may not come close to saturating muscle carnosine content. Neither baseline values, nor sex, appeared to influence subsequent response to supplementation. Analysis of individual data indicated that MCarn is relatively stable in the absence of intervention, and effectually all participants respond to BA supplementation (99.3% response [95%CrI: 96.2-100])."
+  },
+  {
+   "pmid": "42123986",
+   "titel": "The Effects of Carnosine on Cognitive Function and Mental Health-A Systematic Review and Meta-Analysis",
+   "jahr": "2026",
+   "journal": "Nutrients",
+   "erstautor": "Hsiao YF",
+   "doi": "10.3390/nu18091385",
+   "typ": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+   ],
+   "abstract": "Introduction: Previous research has shown that L-carnosine (β-alanyl-L-histidine) can reduce cognitive decline and improve mental health outcomes, but an updated systematic review of the effects of carnosine alone or in combination with other supplemental nutrients or bioactive compounds on these interconnected outcomes is lacking. Methods: We searched multiple databases from 1 January 2006 to 30 June 2025 for clinical trials evaluating the effects of all forms of carnosine (e.g., L-carnosine, zinc-L-carnosine) alone or in combination with other supplements on cognition, brain structure and function, mood, depression, or quality of life (QOL) outcomes. The Cochrane Risk of Bias (ROB) 2.0 tool was used to assess the ROB in randomized controlled trials (RCTs). When data were sufficient, random-effects meta-analyses were conducted. Strength of evidence (SoE) across studies was rated using the GRADE approach. Results: A total of 13 distinct studies (12 RCTs; 1 single-arm trial) involving healthy adults and patients with psychiatric or neurocognitive disorders were included. Studies were also heterogeneous in carnosine supplement dosage and duration. Overall 58% of included RCTs were rated 'some concerns' for ROB. Ten RCTs evaluated cognitive function, seven RCTs and one single-arm trial assessed mood and depression, four RCTs measured QOL, and three RCTs examined brain structure and function. Results from five RCTs found no significant differences in the majority of the cognitive function measures between L-carnosine supplement and placebo, but random-effects meta-analysis of three RCTs from a single research team found that anserine/L-carnosine supplementation significantly improved WMS-LM2 scores (pooled net change = 1.70; 95% CI 0.19, 3.2; I2 = 58.3%) but not WMS-Local Memory Immediate Recall (LM1) scores (pooled net change = 0.76; 95% CI -0.18, 1.71; I2 = 8.5%). Additionally, meta-analysis results showed that L-carnosine combined with anserine or antioxidant supplementation significantly improved the MMSE score compared to placebo (pooled net change = 0.62; 95% CI 0.23, 1.01), with small statistical heterogeneity (I2 = 21.3%). Most of the studies did not show significant effects in a wide range of mood and depression outcome measures or health-related QOL (data cannot be meta-analyzed). Conclusions: A low strength of evidence suggests that L-carnosine supplement combined with anserine or antioxidants can slow cognitive function decline among healthy elderly or patients with probable Alzheimer's Disease or mild neurocognitive disorder. More high-quality RCTs are needed to verify these findings and to improve the certainty level of this body of evidence."
+  },
+  {
+   "pmid": "31987255",
+   "titel": "Effect of carnosine supplementation on lipid profile, fasting blood glucose, HbA1C and insulin resistance: A systematic review and meta-analysis of long-term randomized controlled trials",
+   "jahr": "2020",
+   "journal": "Complement Ther Med",
+   "erstautor": "Peng W",
+   "doi": "10.1016/j.ctim.2019.102241",
+   "typ": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+   ],
+   "abstract": "OBJECTIVE: Glucose disorders and dyslipidemia are closely associated with obesity and metabolic disease. The purpose of this study was to investigate the effect of Carnosine supplementation on lipid profile, fasting blood glucose, HbA1C and Insulin resistance. METHOD: MEDLINE/PubMed, Scopus and Web of sciences were investigated to identify relevant articles up to June 2019. The search strategy combined the Medical Subject Heading and Title and/or abstract keywords. The combined effect sizes were calculated as weight mean difference (WMD) using the random-effects model. Between study heterogeneity was evaluated by the Cochran's Q test and I2. RESULTS: Four RCTs studies investigated Carnosine use versus any control for at least 2 weeks were identified and analyzed. Overall results from the random-effects model on included studies, with 184 participants, indicated that carnosine intervention reduced HbA1C levels in intervention vs control groups (WMD: -0.92 %, 95 % CI: -1.20, -0.63, I2:69 %). Four studies, including a total of 183 participants, reported TG changes as an outcome measure variable, but combined results did not show significant reduction in this outcome (WMD: -14.46 mg/dl, 95 % CI: -29.11, 0.19, I2:94 %). Furthermore, combined results did not show any significant change in HOMA-IR, Cholesterol, fasting blood sugar, or HDL-C. CONCLUSION: Carnosine supplementation results in a decrease in HbA1C, but elicits no effect on HOMA-IR, Cholesterol, fasting blood sugar, TG and HDL-C. Future studies with a larger sample sizes, varied doses of carnosine, and population-specific sub-groups are warranted to confirm, and enhance, the veracity of our findings."
+  },
+  {
+   "pmid": "38545720",
+   "titel": "Carnosine/histidine-containing dipeptide supplementation improves depression and quality of life: systematic review and meta-analysis of randomized controlled trials",
+   "jahr": "2025",
+   "journal": "Nutr Rev",
+   "erstautor": "Kabthymer RH",
+   "doi": "10.1093/nutrit/nuae021",
+   "typ": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "CONTEXT: Mental ill-health is a common and growing issue, affecting 1 in 8 individuals or 970 million people worldwide in 2019. Histidine-containing dipeptides (HCDs) have been suggested to mitigate some aspects of mental ill-health, but a quantitative synthesis of the evidence is lacking. Therefore, a systematic review and meta-analysis of randomized controlled trials was conducted. OBJECTIVE: To summarize the evidence on the effects of HCDs on mental health outcomes. DATA SOURCE: A systematic literature search was performed using electronic databases (Medline via Ovid, Embase via Ovid, Scopus, Google Scholar, and Cochrane) from inception to October, 2022. DATA EXTRACTION: Two authors independently extracted data using a structured extraction format. DATA ANALYSIS: Data analysis was performed using STATA version 17. Random-effects models were used, and heterogeneity was assessed using the I2 test. Quality appraisal was performed using the Cochrane risk-of-bias 2.0 tool and the Grading of Recommendations, Assessment, Development, and Evaluation (GRADE) approach. CONCLUSION: 5507 studies were identified, with 20 studies fulfilling the inclusion criteria. Eighteen studies comprising 776 participants were included in the meta-analysis. HCD supplementation (anserine/carnosine, l-carnosine, β-alanine) caused a significant reduction in depression scores measured with the Becks Depression Inventory (-0.79; 95% CI: -1.24, -0.35; moderate certainty on GRADE) when compared with placebo. An increase in quality-of-life scores measured with the 36-item Short-Form survey (SF-36) (0.65; 95% CI: 0.00, 1.30) and low certainty on GRADE in HCDs (anserine/carnosine, l-carnosine, β-alanine) when compared with placebo were found. However, the rest of the outcomes did not show a significant change between HCD supplementation and placebo. Although the number of studies included in the meta-analysis was modest, a significant mean reduction was observed in depression score as well as an increase in quality-of-life score for the HCD group when compared with placebo. Most of the studies included had small sample sizes with short follow-up periods and moderate to high risk of bias, highlighting the need for further, well-designed studies to improve the evidence base. SYSTEMATIC REVIEW REGISTRATION: PROSPERO registration no. CRD42017075354."
+  }
+ ],
+ "praeklinik": [],
+ "ctgov": [
+  {
+   "nct": "NCT04161872",
+   "titel": "Nutraceutical on Hyperuricemia",
+   "phase": "PHASE4",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 116,
+   "start": "2018-10-01",
+   "ende": "2019-12-31",
+   "erkrankungen": [
+    "Hyperuricemia"
+   ],
+   "sponsor": "University of Pavia",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT02770417",
+   "titel": "Oral β-Alanine Supplementation in Patients With COPD",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 60,
+   "start": "2016-05",
+   "ende": "2019-02",
+   "erkrankungen": [
+    "Chronic Obstructive Pulmonary Disease (COPD)"
+   ],
+   "sponsor": "Hasselt University",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05807204",
+   "titel": "Effect of a Multi-ingredient on Visceral Adiposity and Non-alcoholic Fatty Liver Disease in Individuals With Abdominal Obesity",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 20,
+   "start": "2023-05-01",
+   "ende": "2024-01-11",
+   "erkrankungen": [
+    "Visceral Obesity",
+    "Non-Alcoholic Fatty Liver Disease"
+   ],
+   "sponsor": "Fundació Eurecat",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT02604927",
+   "titel": "Beta-alanine Supplementation and Its Effects on Performance, Muscle Carnosine Content and Safety in Athletes With Spinal-cord Injury",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "UNKNOWN",
+   "teilnehmende": 20,
+   "start": "2016-02",
+   "ende": "2017-09",
+   "erkrankungen": [
+    "Spinal Cord Injuries"
+   ],
+   "sponsor": "University of Sao Paulo",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06480760",
+   "titel": "Effects of Carnosine In Patients With Peripheral Arterial Disease Patients",
+   "phase": "PHASE1,PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 144,
+   "start": "2025-05-20",
+   "ende": "2028-10-01",
+   "erkrankungen": [
+    "Peripheral Arterial Disease"
+   ],
+   "sponsor": "Shahid Baba",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07379645",
+   "titel": "A Clinical Trial of PepZinGI® for Acute Heartburn Relief and Sleep Outcomes",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 50,
+   "start": "2026-01-15",
+   "ende": "2026-05-11",
+   "erkrankungen": [
+    "Heartburn"
+   ],
+   "sponsor": "NutriScience Innovations, LLC",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT04870229",
+   "titel": "Carnosine for Peripheral Arterial Disease",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 10,
+   "start": "2016-05-12",
+   "ende": "2022-07",
+   "erkrankungen": [
+    "Peripheral Arterial Disease"
+   ],
+   "sponsor": "University of Louisville",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00177177",
+   "titel": "L-carnosine for Schizophrenia",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 84,
+   "start": "2004-03",
+   "ende": "2007-12",
+   "erkrankungen": [
+    "Schizophrenia",
+    "Schizoaffective Disorder"
+   ],
+   "sponsor": "University of Pittsburgh",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06678997",
+   "titel": "Polaprezinc (Zinc L-carnosine) in Infants With Gastroesophageal Reflux",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 60,
+   "start": "2024-12-01",
+   "ende": "2025-07-01",
+   "erkrankungen": [
+    "Gastroesophageal Reflux (GER)",
+    "Infants"
+   ],
+   "sponsor": "University of Roma La Sapienza",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT02686996",
+   "titel": "The Potential of Carnosine Supplementation in Reducing the Cardiometabolic Risk",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "UNKNOWN",
+   "teilnehmende": 84,
+   "start": "2017-02-13",
+   "ende": "2020-06-12",
+   "erkrankungen": [
+    "Insulin Sensitivity"
+   ],
+   "sponsor": "Monash University",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT04430998",
+   "titel": "Efficacy of Zinc L-Carnosine Mouth Rinse",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "UNKNOWN",
+   "teilnehmende": 75,
+   "start": "2020-06",
+   "ende": "2020-06-30",
+   "erkrankungen": [
+    "Periodontal Index",
+    "Pain"
+   ],
+   "sponsor": "University of Milan",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT02928250",
+   "titel": "Role of Carnosine as an Adjuvant Therapy for Diabetic Nephropathy in Pediatrics With Type 1 Diabetes",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 90,
+   "start": "2015-08",
+   "ende": null,
+   "erkrankungen": [
+    "Type 1 Diabetes",
+    "Oxidative Stress",
+    "Carnosine",
+    "Diabetic Nephropathy"
+   ],
+   "sponsor": "Ain Shams University",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT04661267",
+   "titel": "Randomized Trial of Regenexx Stem Cell Support Formula",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 80,
+   "start": "2021-02-03",
+   "ende": "2022-10-31",
+   "erkrankungen": [
+    "Knee Osteoarthritis"
+   ],
+   "sponsor": "Regenexx, LLC",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06377631",
+   "titel": "Effect of Multi-ingredient on Visceral Adiposity & Non-alcoholic Fatty Liver Disease in Postmenopausal Women With Abdominal Obesity",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 50,
+   "start": "2024-06-07",
+   "ende": "2025-04-08",
+   "erkrankungen": [
+    "Visceral Obesity",
+    "Non-alcoholic Fatty Liver",
+    "Postmenopausal"
+   ],
+   "sponsor": "Fundació Eurecat",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00721708",
+   "titel": "Pharmacokinetics of Carnosine",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 4,
+   "start": "2007-04",
+   "ende": "2008-07",
+   "erkrankungen": [
+    "Oxidative Stress"
+   ],
+   "sponsor": "Tufts University",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05371145",
+   "titel": "Carnosine for Peripheral Arterial Disease Patients",
+   "phase": "PHASE1,PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "UNKNOWN",
+   "teilnehmende": 20,
+   "start": "2023-03-01",
+   "ende": "2024-12-30",
+   "erkrankungen": [
+    "Peripheral Arterial Disease"
+   ],
+   "sponsor": "Shahid Baba",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT04849182",
+   "titel": "Vertistop® D and Vertistop® L in Preventing Recurrence of High-recurrence BPPV",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 128,
+   "start": "2018-12-04",
+   "ende": "2020-11-03",
+   "erkrankungen": [
+    "Benign Paroxysmal Positional Vertigo (BPPV)"
+   ],
+   "sponsor": "Azienda Sanitaria Locale di Matera",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05723939",
+   "titel": "Carnosine Supplementation and Cardiovascular Function",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "UNKNOWN",
+   "teilnehmende": 100,
+   "start": "2022-09-01",
+   "ende": "2024-06-30",
+   "erkrankungen": [
+    "Carnosine"
+   ],
+   "sponsor": "Josip Juraj Strossmayer University of Osijek",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07590622",
+   "titel": "EAT-ING: Enhancing Anticancer Treatment Safety Via Immunomodulatory Nutritional Support in Advanced Gastrointestinal Cancers",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "NOT_YET_RECRUITING",
+   "teilnehmende": 88,
+   "start": "2026-06",
+   "ende": "2031-06",
+   "erkrankungen": [
+    "Gastrointestinal Cancer"
+   ],
+   "sponsor": "IRCCS San Raffaele",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT01963767",
+   "titel": "Nutraceutical Effects on Long-Term Memory",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 139,
+   "start": "2011-05",
+   "ende": "2013-02",
+   "erkrankungen": [
+    "Aging"
+   ],
+   "sponsor": "University of South Florida",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT02709837",
+   "titel": "Impact of Food Process and Mastication on Nutrient Bioavailability",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 10,
+   "start": "2013-06",
+   "ende": "2014-01",
+   "erkrankungen": [
+    "Nutrition"
+   ],
+   "sponsor": "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT02808624",
+   "titel": "L-carnosine Prophylactic Effect on Oxaliplatin Induced Peripheral Neuropathy in GIT Cancer Patients",
+   "phase": "PHASE1,PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 65,
+   "start": "2015-06",
+   "ende": "2016-12",
+   "erkrankungen": [
+    "Peripheral Neuropathy",
+    "Cancer"
+   ],
+   "sponsor": "Cairo University",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT03612414",
+   "titel": "Efficacy of a Dietary Supplement (Aqualief®) in Xerostomic Patients",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 60,
+   "start": "2016-06-15",
+   "ende": "2017-12-15",
+   "erkrankungen": [
+    "Xerostomia Due to Hyposecretion of Salivary Gland",
+    "pH",
+    "Saliva",
+    "Quality of Life"
+   ],
+   "sponsor": "Università degli Studi dell'Insubria",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05329610",
+   "titel": "β-alanine Supplementation in Adults With Overweight/Obesity",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 30,
+   "start": "2022-04-05",
+   "ende": "2023-07-20",
+   "erkrankungen": [
+    "Prediabetes",
+    "Hyperglycemia",
+    "Overweight or Obesity"
+   ],
+   "sponsor": "Nottingham Trent University",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05333315",
+   "titel": "Clinical Trials of Five Different Food Supplements With Restriction Diet in Adults",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 120,
+   "start": "2022-04-20",
+   "ende": "2022-07-15",
+   "erkrankungen": [
+    "Overweight and Obesity",
+    "Inflammation",
+    "Hypercholesterolemia",
+    "Hypertension"
+   ],
+   "sponsor": "University of Primorska",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT03418376",
+   "titel": "Carnosine Loading and Periodized Training in MS and HC",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 45,
+   "start": "2017-02-01",
+   "ende": "2017-12-30",
+   "erkrankungen": [
+    "Multiple Sclerosis",
+    "Exercise Therapy",
+    "Dietary Supplement"
+   ],
+   "sponsor": "Hasselt University",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT05211817",
+   "titel": "Research on Prevention, Intervention and Mechanisms of Obesity and Its Comorbidities",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "UNKNOWN",
+   "teilnehmende": 60,
+   "start": "2021-11-01",
+   "ende": "2023-12-31",
+   "erkrankungen": [
+    "Obesity",
+    "Exercise",
+    "Nutrition, Healthy"
+   ],
+   "sponsor": "Slovak Academy of Sciences",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT03995810",
+   "titel": "Oral Carnosine for Neuromuscular Performance in Multiple Sclerosis",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 3,
+   "start": "2019-06-15",
+   "ende": "2019-12-01",
+   "erkrankungen": [
+    "Multiple Sclerosis"
+   ],
+   "sponsor": "University of Novi Sad, Faculty of Sport and Physical Education",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT03467438",
+   "titel": "Efficacy of Zinc L-carnosine in Maintaining Remission of Gastroesophageal Reflux Disease",
+   "phase": "PHASE4",
+   "typ": "INTERVENTIONAL",
+   "status": "UNKNOWN",
+   "teilnehmende": 80,
+   "start": "2018-11-22",
+   "ende": "2021-04-01",
+   "erkrankungen": [
+    "Gastroesophageal Reflux Disease"
+   ],
+   "sponsor": "Fondazione IRCCS Policlinico San Matteo di Pavia",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT03194334",
+   "titel": "Creatine, Carnitine and Carnosine in Vegetarians",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 40,
+   "start": "2012-12",
+   "ende": "2013-06",
+   "erkrankungen": [
+    "Dietary Modification"
+   ],
+   "sponsor": "University Ghent",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT01745016",
+   "titel": "Effect of Beta-Alanine on Heart Rate Response",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 35,
+   "start": "2013-01",
+   "ende": "2013-04",
+   "erkrankungen": [
+    "Exercise",
+    "Fatigue"
+   ],
+   "sponsor": "University of North Carolina, Chapel Hill",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT03314987",
+   "titel": "Nucleophilic Defense Against PM Toxicity (NEAT Trial)",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 299,
+   "start": "2018-04-01",
+   "ende": "2022-11-01",
+   "erkrankungen": [
+    "Air Pollution Toxicity"
+   ],
+   "sponsor": "University of Louisville",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT07475546",
+   "titel": "Combination Gerotherapeutic Interventions for Healthspan Improvement",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 30,
+   "start": "2025-07-23",
+   "ende": "2026-04",
+   "erkrankungen": [
+    "Healthspan Improvement",
+    "Aging",
+    "Longevity"
+   ],
+   "sponsor": "AgelessRx",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05422352",
+   "titel": "Role of Carnosine in Combination With Vitamin B Complex in Preventing the Progression of Diabetic Neuropathy in Type 2 Diabetes Patients",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 60,
+   "start": "2021-01-14",
+   "ende": "2022-03-28",
+   "erkrankungen": [
+    "Diabetic Neuropathies"
+   ],
+   "sponsor": "Beni-Suef University",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT02686697",
+   "titel": "Carnosine and Cognitive Training in Schizophrenia",
+   "phase": "PHASE2,PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 60,
+   "start": "2015-12-01",
+   "ende": "2022-07-19",
+   "erkrankungen": [
+    "Schizophrenia"
+   ],
+   "sponsor": "Abraham Reichenberg",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT03601962",
+   "titel": "Effects of Aqualief® in Patients With Xerostomia as Consequence of Radiotherapy for Head and Neck Cancer",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "TERMINATED",
+   "teilnehmende": 100,
+   "start": "2017-07-31",
+   "ende": "2020-01-22",
+   "erkrankungen": [
+    "Xerostomia",
+    "Asialia",
+    "Hyposalivation",
+    "Mouth Dryness"
+   ],
+   "sponsor": "Helsinn Healthcare SA",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT02819505",
+   "titel": "β-alanine Supplementation on Knee Extensor Contractile and Force Properties",
+   "phase": "PHASE4",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 23,
+   "start": "2014-12",
+   "ende": "2015-08",
+   "erkrankungen": [
+    "Muscle Function"
+   ],
+   "sponsor": "Nottingham Trent University",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00810368",
+   "titel": "Treatment Study of Carnosine Versus Placebo in Gulf War Illness (GWI)",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 33,
+   "start": "2008-08",
+   "ende": "2012-07",
+   "erkrankungen": [
+    "Persian Gulf Syndrome"
+   ],
+   "sponsor": "Georgetown University",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT05860088",
+   "titel": "The Impact of Beef on Muscle Fatigue in Older Adults",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 24,
+   "start": "2023-07-10",
+   "ende": "2025-11-21",
+   "erkrankungen": [
+    "Muscle Weakness",
+    "Muscle; Fatigue, Heart",
+    "Older Adults"
+   ],
+   "sponsor": "Indiana University",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00177463",
+   "titel": "L-Carnosine for Bipolar I Disorder",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 47,
+   "start": "2004-09",
+   "ende": "2007-12",
+   "erkrankungen": [
+    "Bipolar I Disorder"
+   ],
+   "sponsor": "University of Pittsburgh",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT03655041",
+   "titel": "24-Wk β-Alanine Ingestion on Muscle Taurine and Clinical Blood Parameters in Healthy Males",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 25,
+   "start": "2013-02-01",
+   "ende": "2017-12-15",
+   "erkrankungen": [
+    "Sports Nutritional Physiological Phenomena"
+   ],
+   "sponsor": "University of Sao Paulo",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT02011100",
+   "titel": "Effect of Carnosine on Diabetes and Cardiovascular Risk Factors",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 28,
+   "start": "2013-12",
+   "ende": "2018-03",
+   "erkrankungen": [
+    "Metabolic Diseases, Type 2 Diabetes, Cardiovascular Disease"
+   ],
+   "sponsor": "Jozef Ukropec",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT02917928",
+   "titel": "The Potential of Carnosine Supplementation in Optimising Cardiometabolic Health",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "UNKNOWN",
+   "teilnehmende": 40,
+   "start": "2016-10",
+   "ende": "2023-07",
+   "erkrankungen": [
+    "Poor Glycemic Control",
+    "Cardiovascular Risk Factors",
+    "Cognitive Function 1, Social"
+   ],
+   "sponsor": "Monash University",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT04295525",
+   "titel": "Carnosine Supplementation on Quantity/Quality of Oral Salivae.",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "UNKNOWN",
+   "teilnehmende": 60,
+   "start": "2022-09-01",
+   "ende": "2022-12-01",
+   "erkrankungen": [
+    "Oral Diseases"
+   ],
+   "sponsor": "University of Milan",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00149149",
+   "titel": "Effect of Zinc Carnosine on Intestinal Permeability in Healthy Volunteers",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 10,
+   "start": "2005-05-01",
+   "ende": "2006-05-18",
+   "erkrankungen": [
+    "Healthy"
+   ],
+   "sponsor": "Imperial College London",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT04936737",
+   "titel": "The Influence of Exercise on Tissue Beta-alanine Uptake and Carnosine Synthesis Rates",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "UNKNOWN",
+   "teilnehmende": 14,
+   "start": "2021-05-06",
+   "ende": "2023-12-31",
+   "erkrankungen": [
+    "Exercise Training",
+    "Carnosine",
+    "Dietary Supplements"
+   ],
+   "sponsor": "University of Sao Paulo",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00813553",
+   "titel": "Effect of β-alanine Supplementation on Muscle Carnosine",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 30,
+   "start": "2008-12",
+   "ende": "2009-10",
+   "erkrankungen": [
+    "Healthy"
+   ],
+   "sponsor": "Société des Produits Nestlé (SPN)",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00810225",
+   "titel": "Study of Gulf War Illness (GWI) by Comparing GWI and Healthy Veterans",
+   "phase": "",
+   "typ": "OBSERVATIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 516,
+   "start": "2008-08",
+   "ende": "2011-07",
+   "erkrankungen": [
+    "Gulf War Illness",
+    "Persian Gulf War Syndrome"
+   ],
+   "sponsor": "Georgetown University",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT03330470",
+   "titel": "Molecular Mediators of Physical Exercise and Carnosine Induced Effects in Patients With Preclinical and Early Stage Neurodegenerative Disease",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 26,
+   "start": "2017-01-01",
+   "ende": "2023-09-30",
+   "erkrankungen": [
+    "Subjective Cognitive Impairment",
+    "Mild Cognitive Impairment",
+    "Parkinson Disease",
+    "Healthy Volunteers"
+   ],
+   "sponsor": "Slovak Academy of Sciences",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT03844113",
+   "titel": "Carnosine for Peripheral Vascular Disease",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "UNKNOWN",
+   "teilnehmende": 104,
+   "start": "2019-03-01",
+   "ende": "2022-12-31",
+   "erkrankungen": [
+    "Peripheral Arterial Disease"
+   ],
+   "sponsor": "Monash University",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT03997188",
+   "titel": "Zinc-L-Carnosine Prevents Dysphagia in Breast Cancer Patients Undergoing Adjuvant Radiotherapy",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 40,
+   "start": "2015-12-21",
+   "ende": "2017-12-20",
+   "erkrankungen": [
+    "Breast Cancer Female",
+    "Dysphagia",
+    "Adjuvant Radiotherapy"
+   ],
+   "sponsor": "Cynthia Aristei",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT03111979",
+   "titel": "The Effects of 4 Week β-alanine Supplementation on Knee Extensor Contractile and Force Properties in the Over 60s",
+   "phase": "PHASE4",
+   "typ": "INTERVENTIONAL",
+   "status": "SUSPENDED",
+   "teilnehmende": 24,
+   "start": "2014-04",
+   "ende": "2018-10",
+   "erkrankungen": [
+    "Muscle Function"
+   ],
+   "sponsor": "Nottingham Trent University",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05730985",
+   "titel": "From the Gut to the Strut: Reducing Inflammation for Healthy Muscles",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "UNKNOWN",
+   "teilnehmende": 60,
+   "start": "2022-10-01",
+   "ende": "2023-09-30",
+   "erkrankungen": [
+    "Inflammation",
+    "Sarcopenia",
+    "Gut Permeability"
+   ],
+   "sponsor": "Azienda di Servizi alla Persona di Pavia",
+   "ergebnisse": false
+  }
+ ],
+ "gruppe": "F_kollagen_kosmetik"
+}

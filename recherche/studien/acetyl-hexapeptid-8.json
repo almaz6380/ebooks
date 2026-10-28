@@ -1,0 +1,709 @@
+{
+ "name": "Acetyl-Hexapeptid-8 (Argireline)",
+ "status": "kosmetik",
+ "suchbegriff_pubmed": "acetyl hexapeptide[tiab] OR argireline[tiab]",
+ "suchbegriff_ctgov": "argireline",
+ "humanstudien_alle": [
+  {
+   "pmid": "28150423",
+   "titel": "The efficacy study of the combination of tripeptide-10-citrulline and acetyl hexapeptide-3. A prospective, randomized controlled study",
+   "jahr": "2017",
+   "journal": "J Cosmet Dermatol",
+   "erstautor": "Raikou V",
+   "doi": "10.1111/jocd.12314",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "23417317",
+   "titel": "The anti-wrinkle efficacy of argireline, a synthetic hexapeptide, in Chinese subjects: a randomized, placebo-controlled study",
+   "jahr": "2013",
+   "journal": "Am J Clin Dermatol",
+   "erstautor": "Wang Y",
+   "doi": "10.1007/s40257-013-0009-9",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "23146065",
+   "titel": "Pilot study of topical acetyl hexapeptide-8 in the treatment for blepharospasm in patients receiving botulinum toxin therapy",
+   "jahr": "2013",
+   "journal": "Eur J Neurol",
+   "erstautor": "Lungu C",
+   "doi": "10.1111/ene.12009",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  }
+ ],
+ "humanstudien_detail": [
+  {
+   "pmid": "23417317",
+   "titel": "The anti-wrinkle efficacy of argireline, a synthetic hexapeptide, in Chinese subjects: a randomized, placebo-controlled study",
+   "jahr": "2013",
+   "journal": "Am J Clin Dermatol",
+   "erstautor": "Wang Y",
+   "doi": "10.1007/s40257-013-0009-9",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "BACKGROUND: Argireline is a synthetic peptide that is patterned from the N-terminal end of the protein SNAP-25 and has been shown to reduce the degree of facial wrinkles. It is reported to inhibit vesicle docking by preventing formation of the ternary SNARE complex and by interfering in catecholamine release. The anti-wrinkle efficacy of argireline has not been studied in Chinese subjects. OBJECTIVE: The objective of the study was to evaluate the safety and efficacy of argireline in the treatment of peri-orbital wrinkles in Chinese subjects. METHODS: A total of 60 subjects received a randomized treatment of argireline or placebo in a ratio of 3:1. Argireline or placebo was applied to their peri-orbital wrinkles twice daily for 4 weeks, and then evaluations were made for the improvements in wrinkles. In the subjective evaluation, Daniell's classification and Seeman's standard were applied to make a global assessment of changes in the appearance of peri-orbital lines. In the objective evaluation, silicone replicas of the skin at the application area were made before and after the treatment, which were analyzed by a wrinkle-analysis apparatus. RESULTS: In the subjective evaluation, the total anti-wrinkle efficacy in the argireline group was 48.9 %, compared with 0 % in the placebo group. In the objective evaluation, the parameters of roughness were all decreased in the argireline group (p < 0.01), while no decrease was obvious in the placebo group (p > 0.05). CONCLUSIONS: This study showed that argireline had a significant anti-wrinkle effect in Chinese subjects."
+  },
+  {
+   "pmid": "28150423",
+   "titel": "The efficacy study of the combination of tripeptide-10-citrulline and acetyl hexapeptide-3. A prospective, randomized controlled study",
+   "jahr": "2017",
+   "journal": "J Cosmet Dermatol",
+   "erstautor": "Raikou V",
+   "doi": "10.1111/jocd.12314",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "BACKGROUND: Bioactive peptides have beneficial effects on the skin. OBJECTIVE: We investigated to evaluate the effect of acetyl hexapeptide-3 and tripeptide-10 citrulline and the possible synergism between these two peptides. METHODS: Twenty-four healthy volunteers were randomized to receive combination of acetyl hexapeptide-3 with tripeptide-10 citrulline (Group G1), tripeptide-10 citrulline (Group, G2), acetyl hexapeptide-3 (Group G3), or neither peptide (Group G4) for 60 days. Skin properties evaluated included skin microtopography, parameters cR2 and cR3, and transepidermal water loss (TEWL) using a skin visioscan and a tewameter, respectively. RESULTS: After 20 days, the measurements between G1 and G2 groups (cR2 P=.045, cR3 P=.044), G2 and G3 groups (cR2 P=.017, cR3 P=.017), G3 and G4 groups (CR2 P=.022), and G2 and G4 groups (cR3 P=.028) from baseline were significant. After 60 days, measurements between groups G1 and G3 (cR2 P=.016, cR3 P=.025), groups G2 and G3 (cR2 P=.044, cR3= P=.044), and groups G1 and G4 (cR2 P=.025) were significant. After 20 days, changes in TEWL between groups G1 and G3 (P=.03), groups G2 and G3 (P=.045), and groups G3 and G4 (P=.025) were significant. After 40 days, changes between groups G2 and G3 (P=.028) and groups G3 and G4 (P=.01) from baseline were significant. CONCLUSION: Our results confirm the antiwrinkle activity of acetyl hexapeptide-3. A significant decrease in TEWL with acetyl hexapeptide-3 treatment is observed. We provided clinical evidence for the antiwrinkle efficacy of tripeptide-10 citrulline and possibly TEWL. The underlying mechanism by which these two peptides can act synergistically was not clear in this study."
+  },
+  {
+   "pmid": "23146065",
+   "titel": "Pilot study of topical acetyl hexapeptide-8 in the treatment for blepharospasm in patients receiving botulinum toxin therapy",
+   "jahr": "2013",
+   "journal": "Eur J Neurol",
+   "erstautor": "Lungu C",
+   "doi": "10.1111/ene.12009",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "BACKGROUND AND PURPOSE: Injectable botulinum neurotoxin (BoNT) is the principal effective treatment for blepharospasm (BSP). This trial explores the safety and efficacy of topical acetyl hexapeptide-8 (AH8), a competitive SNAP25 inhibitor, as a potential new therapy in BSP. METHODS: Double-blind, placebo-controlled, randomized trial of daily topical application of AH8 in 24 patients with BSP. The primary outcome was time to return to baseline Jankovic Blepharospasm Rating Scale (JBRS) after a BoNT injection simultaneously with the initiation of AH8. Patients displaying a strictly regular pattern of response to 3-monthly injections of BoNT were included. RESULTS: There were no significant adverse events. There was a trend for longer time until return to baseline JBRS after injection in the active group compared to placebo (3.7 months vs. 3.0 months), and for better scores in the active group. One-third (4/12) of the patients in the active group had a considerable extension of symptom control after BoNT (range: 3.3-7.1 months). CONCLUSIONS: Topical AH8 is safe and promising for extending the duration of action of BoNT therapy for BSP."
+  }
+ ],
+ "metaanalysen": [
+  {
+   "pmid": "39233460",
+   "titel": "Cosmeceuticals in photoaging: A review",
+   "jahr": "2024",
+   "journal": "Skin Res Technol",
+   "erstautor": "Chan LKW",
+   "doi": "10.1111/srt.13730",
+   "typ": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "abstract": "BACKGROUND: Photoaging is a process of the architecture of normal skin damaged by ultraviolet radiation. Topical cosmeceuticals have been used to treat this condition. The authors aimed to understand the mechanism and level of evidence of different commonly used cosmeceuticals used to treat photodamaged skin. OBJECTIVE: A range of commonly used topical cosmeceuticals (botanicals, peptides, and hydroquinone) has been used in cosmetic medicine for many years to treat photodamaged skin. This review article compares their efficacy and level of evidence. MATERIAL AND METHODS: This study was a systematic review to evaluate the efficacy of different topical cosmeceuticals. Keywords including \"Photoaging,\" \"Azelaic acid,\" \"Soy,\" \"Green Tea,\" \"Chamomile,\" \"Ginkgo,\" \"Tea Tree Oil,\" \"Resveratrol,\" \"Cucumber,\" \"Ginseng,\" \"Centella asiatica,\" \"Licorice Root,\" \"Aloe Vera,\" \"Peptides,\" \"Argireline,\" \"Hydroquinone,\" were typed on OVID, PUBMED, MEDLINE for relevant studies published on photoaging treatment. RESULTS: Most of the evidence behind cosmeceuticals is of high-quality ranging from Level I to Level II. In particular, the evidence base behind peptides is the strongest with most studies achieving Level Ib status in the evidence hierarchy. CONCLUSION: Topical cosmeceuticals like botanicals, peptides and hydroquinone can effectively treat photodamaged skin."
+  }
+ ],
+ "praeklinik": [
+  {
+   "pmid": "39233460",
+   "titel": "Cosmeceuticals in photoaging: A review",
+   "jahr": "2024",
+   "journal": "Skin Res Technol",
+   "erstautor": "Chan LKW",
+   "doi": "10.1111/srt.13730",
+   "typ": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "abstract": "BACKGROUND: Photoaging is a process of the architecture of normal skin damaged by ultraviolet radiation. Topical cosmeceuticals have been used to treat this condition. The authors aimed to understand the mechanism and level of evidence of different commonly used cosmeceuticals used to treat photodamaged skin. OBJECTIVE: A range of commonly used topical cosmeceuticals (botanicals, peptides, and hydroquinone) has been used in cosmetic medicine for many years to treat photodamaged skin. This review article compares their efficacy and level of evidence. MATERIAL AND METHODS: This study was a systematic review to evaluate the efficacy of different topical cosmeceuticals. Keywords including \"Photoaging,\" \"Azelaic acid,\" \"Soy,\" \"Green Tea,\" \"Chamomile,\" \"Ginkgo,\" \"Tea Tree Oil,\" \"Resveratrol,\" \"Cucumber,\" \"Ginseng,\" \"Centella asiatica,\" \"Licorice Root,\" \"Aloe Vera,\" \"Peptides,\" \"Argireline,\" \"Hydroquinone,\" were typed on OVID, PUBMED, MEDLINE for relevant studies published on photoaging treatment. RESULTS: Most of the evidence behind cosmeceuticals is of high-quality ranging from Level I to Level II. In particular, the evidence base behind peptides is the strongest with most studies achieving Level Ib status in the evidence hierarchy. CONCLUSION: Topical cosmeceuticals like botanicals, peptides and hydroquinone can effectively treat photodamaged skin."
+  },
+  {
+   "pmid": "40565185",
+   "titel": "Acetyl Hexapeptide-8 in Cosmeceuticals-A Review of Skin Permeability and Efficacy",
+   "jahr": "2025",
+   "journal": "Int J Mol Sci",
+   "erstautor": "Zdrada-Nowak J",
+   "doi": "10.3390/ijms26125722",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Biomimetic peptides represent a growing class of active ingredients in modern cosmeceuticals, designed to mimic the function of the naturally occurring peptides involved in skin homeostasis, repair, and regeneration. Among them, acetyl hexapeptide-8 (AH-8), often referred to as a \"botox-like\" peptide, has received considerable attention for its potential to dynamically reduce wrinkles through the modulation of neuromuscular activity. AH-8 is widely used in topical formulations intended for anti-aging effects, scar treatment, and skin rejuvenation. This review provides a comprehensive overview of the structure and proposed mechanisms of action of AH-8, with particular focus on its efficacy and skin penetration properties. Due to its hydrophilic nature and relatively large molecular size, AH-8 faces limited permeability through the lipophilic stratum corneum, making effective dermal delivery challenging. Formulation strategies such as oil-in-water (O/W) and multiple water-in-oil-in-water (W/O/W) emulsions have been explored to enhance its delivery, but the ability of AH-8 to reach neuromuscular junctions remains uncertain. Preclinical and clinical studies indicate that AH-8 may reduce wrinkle depth, improve skin elasticity, and enhance hydration. However, the precise biological mechanisms underlying these effects-particularly the peptide's ability to inhibit muscle contraction when applied topically-remain incompletely understood. In some studies, AH-8 has also shown beneficial effects in scar remodeling and sebum regulation. Despite promising cosmetic outcomes, AH-8's low skin penetration limits its bioavailability and therapeutic potential. This review emphasizes the need for further research on formulation science and delivery systems, which are essential for optimizing the effectiveness of peptide-based cosmeceuticals and validating their use as non-invasive alternatives to injectable treatments."
+  },
+  {
+   "pmid": "18498523",
+   "titel": "A synthetic hexapeptide (Argireline) with antiwrinkle activity",
+   "jahr": "2002",
+   "journal": "Int J Cosmet Sci",
+   "erstautor": "Blanes-Mira C",
+   "doi": "10.1046/j.1467-2494.2002.00153.x",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Botulinum neurotoxins (BoNTs) represent a revolution in cosmetic science because of their remarkable and long-lasting antiwrinkle activity. However, their high neurotoxicity seriously limits their use. Thus, there is a need to design and validate non-toxic molecules that mimic the action of BoNTs. The hexapeptide Ac-EEMQRR-NH(2) (coined Argireline) was identified as a result of a rational design programme. Noteworthy, skin topography analysis of an oil/water (O/W) emulsion containing 10% of the hexapeptide on healthy women volunteers reduced wrinkle depth up to 30% upon 30 days treatment. Analysis of the mechanism of action showed that Argireline significantly inhibited neurotransmitter release with a potency similar to that of BoNT A, although as expected, it displayed much lower efficacy than the neurotoxin. Inhibition of neurotransmitter release was due to the interference of the hexapeptide with the formation and/or stability of the protein complex that is required to drive Ca(2+)-dependent exocytosis, namely the vesicular fusion (known as SNARE) complex. Notably, this peptide did not exhibit in vivo oral toxicity nor primary irritation at high doses. Taken together, these findings demonstrate that Argireline is a non-toxic, antiwrinkle peptide that emulates the action of currently used BoNTs. Therefore, this hexapetide represents a biosafe alternative to BoNTs in cosmetics."
+  },
+  {
+   "pmid": "23464592",
+   "titel": "The anti-wrinkle efficacy of Argireline",
+   "jahr": "2013",
+   "journal": "J Cosmet Laser Ther",
+   "erstautor": "Wang Y",
+   "doi": "10.3109/14764172.2013.769273",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: Argireline, a synthetic peptide, which is patterned from the N-terminal end of the protein SNAP-25, can both reduce the degree of existing facial wrinkles and demonstrate effectively against their development. In our past studies, we found out that Argireline had a significant anti-wrinkle effect in Chinese subjects and that it was safe and well tolerated. OBJECTIVE: To observe the effect of Argireline on histological changes in the skin in the aged mice induced by D-galactose. METHODS: Argireline was applied to the aged mice twice daily for 6 weeks. The histological changes in skin tissue were evaluated using hematoxylin-eosin (HE) and picrosirius-polarization (PSP) stains. The amount of type I and of type III collagen fibers were also semi-quantitatively compared using software Image-ProPlus. RESULTS: There was an improvement in the histological structure of skin tissue in the aged mice; the amount of type I collagen fibers increased (P < 0.01), while that of type III collagen fibers decreased (P < 0.05). CONCLUSIONS: This study revealed that Argireline could improve the histological structure of skin tissue and rejuvenate the aging skin."
+  },
+  {
+   "pmid": "29371611",
+   "titel": "Enhanced Skin Permeation of Anti-wrinkle Peptides via Molecular Modification",
+   "jahr": "2018",
+   "journal": "Sci Rep",
+   "erstautor": "Lim SH",
+   "doi": "10.1038/s41598-017-18454-z",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Wrinkles can have a negative effect on quality of life and Botox is one of the most effective and common treatments. Argireline (Arg0), a mimetic of Botox, has been found to be safer than Botox and effective in reducing wrinkles, with efficacies up to 48% upon 4 weeks of twice daily treatment. However, the skin permeation of Arg0 is poor, due to its large molecular weight and hydrophilicity. Arg0 exists in zwitterionic form and this charged state hindered its skin permeation. Chemical modification of the peptide structure to reduce the formation of zwitterions may result in increased skin permeability. We investigated a total of 4 peptide analogues (Arg0, Arg1, Arg2, Arg3), in terms of skin permeation and wrinkle reduction. The 4 peptides were dissolved in various propylene glycol and water co-solvents. Enhanced human skin permeation was demonstrated by both Arg2 and Arg3 in vitro. On the other hand, the abilities of the 4 analogues to reduce wrinkle formation were also compared using primary human dental pulp stem cells derived neurons. By measuring the inhibition of glutamate release from the neurons in vitro, it was shown that Arg3 was the most effective, followed by Arg1, Arg0 and Arg2."
+  },
+  {
+   "pmid": "38376906",
+   "titel": "Public Interest in Acetyl Hexapeptide-8: Longitudinal Analysis",
+   "jahr": "2024",
+   "journal": "JMIR Dermatol",
+   "erstautor": "Olsson SE",
+   "doi": "10.2196/54217",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: Acetyl hexapeptide-8, also known as Argireline, is a topical, short-acting, synthetic peptide that has recently gained popularity for its antiwrinkle effects. This agent has emerged as a more accessible alternative to botulinum neurotoxin. OBJECTIVE: This study evaluates the public interest in acetyl hexapeptide-8 in the United States from 2013 to 2023, as described by search volume on Google, the most-used search engine. METHODS: We analyzed the longitudinal relative monthly search volume from January 1, 2013, to January 1, 2023, for acetyl hexapeptide-related terms. We compared the internet search trends for \"Botox\" during this period to \"Argireline.\" RESULTS: The terms \"Argireline\" and \"Botox in a Bottle\" both had substantial increases in search volume in 2022. Although its search volume is drastically increasing, \"Argireline\" was less searched than \"Botox,\" which had a stable, up-trending search volume over the past decade. CONCLUSIONS: The increasing interest in acetyl hexapeptide-8 may be due to its cost-effectiveness and use as a botulinum neurotoxin alternative. Affordability, over-the-counter availability, and ease of self-application of the agent suggest its potential to enhance accessibility to cosmetic dermatologic care."
+  },
+  {
+   "pmid": "33482052",
+   "titel": "Argireline: Needle-Free Botox as Analytical Challenge",
+   "jahr": "2021",
+   "journal": "Chem Biodivers",
+   "erstautor": "Kluczyk A",
+   "doi": "10.1002/cbdv.202000992",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Argireline-containing cosmetics attract public interest due to their confirmed reduction of facial wrinkles. Argireline is a peptide that works by inhibiting the release of neurotransmitters in the neuromuscular junction, producing a botox-like effect. Therefore, it is used as a safe needle-free alternative to botox treatment. In this work we investigated the presence of Argireline in cosmetic creams and sera by application of reversed phase liquid chromatography and tandem mass spectrometry (RP-HPLC/MS and MS/MS). The analysis revealed the presence of argireline and its oxidized form in several different cosmetics. The methionine residue in Argireline sequence was indicated as oxidation point according to neutral loss MS studies. The developed sample preparation strategy minimizes and monitors methionine oxidation, bringing to our attention the question of impact of ingredients on the stability of cosmetic product."
+  },
+  {
+   "pmid": "33933438",
+   "titel": "Complications and adverse effects of periocular aesthetic treatments",
+   "jahr": "2022",
+   "journal": "Surv Ophthalmol",
+   "erstautor": "Nagendran ST",
+   "doi": "10.1016/j.survophthal.2021.04.009",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "The popularity and variety of temporary and permanent periocular aesthetic treatments has increased over the past decade. Patients frequently present to eye clinics with ocular complications and side effects following these treatments, their severity ranging from ocular irritation from dry eyes to visual loss from vascular occlusion. A careful, thorough history is essential, as many patients may not associate aesthetic procedures with ocular complications, and some may be embarrassed to disclose this information. All ophthalmologists should understand the potential ocular sequelae of these treatments and be able to initiate treatment in sight-threatening cases. We summarize the current literature on ophthalmic complications of the most common periocular aesthetic treatments."
+  },
+  {
+   "pmid": "33748252",
+   "titel": "Mycobacterium abscessus infection after facial injection of argireline: A case report",
+   "jahr": "2021",
+   "journal": "World J Clin Cases",
+   "erstautor": "Chen CF",
+   "doi": "10.12998/wjcc.v9.i8.1996",
+   "typ": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: The incidence of infection with Mycobacterium abscessus (M. abscessus) has increased in recent years. This increase is partly associated with invasive cosmetic procedures. CASE SUMMARY: The purpose of this case summary is to increase clinicians' awareness of M. abscessus infection and reduce mycobacterial infection caused by cosmetic procedures. We report the case of a 45-year-old woman who received acetyl hexapeptide-8 (argireline) injections in the forehead and temples, and erythema, nodules, and abscesses appeared at the injection sites after one week. The pus specimens were examined by microbiological culture and confirmed to be positive for M. abscessus. Clarithromycin 500 mg twice daily and moxifloxacin 400 mg once daily were administered for 5 mo and the lesions gradually subsided. CONCLUSION: We report here for the first time a case of infection with M. abscessus after argireline injection. This condition is easily misdiagnosed as a common bacterial infection. Microbiological examinations are helpful for diagnosis and standardized cosmetic procedures can prevent infection with M. abscessus."
+  },
+  {
+   "pmid": "34284359",
+   "titel": "3D-bioengineered model of human skeletal muscle tissue with phenotypic features of aging for drug testing purposes",
+   "jahr": "2021",
+   "journal": "Biofabrication",
+   "erstautor": "Mestre R",
+   "doi": "10.1088/1758-5090/ac165b",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Three-dimensional engineering of skeletal muscle is becoming increasingly relevant for tissue engineering, disease modeling and bio-hybrid robotics, where flexible, versatile and multidisciplinary approaches for the evaluation of tissue differentiation, functionality and force measurement are required. This works presents a 3D-printed platform of bioengineered human skeletal muscle which can efficiently model the three-dimensional structure of native tissue, while providing information about force generation and contraction profiles. Proper differentiation and maturation of myocytes is demonstrated by the expression of key myo-proteins using immunocytochemistry and analyzed by confocal microscopy, and the functionality assessed via electrical stimulation and analysis of contraction kinetics. To validate the flexibility of this platform for complex tissue modeling, the bioengineered muscle is treated with tumor necrosis factorαto mimic the conditions of aging, which is supported by morphological and functional changes. Moreover, as a proof of concept, the effects of Argireline® Amplified peptide, a cosmetic ingredient that causes muscle relaxation, are evaluated in both healthy and aged tissue models. Therefore, the results demonstrate that this 3D-bioengineered human muscle platform could be used to assess morphological and functional changes in the aging process of muscular tissue with potential applications in biomedicine, cosmetics and bio-hybrid robotics."
+  },
+  {
+   "pmid": "33068646",
+   "titel": "High resolution photopolymer for 3D printing of personalised microneedle for transdermal delivery of anti-wrinkle small peptide",
+   "jahr": "2021",
+   "journal": "J Control Release",
+   "erstautor": "Lim SH",
+   "doi": "10.1016/j.jconrel.2020.10.021",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Acetyl-hexapeptide 3 (AHP-3) has good efficacy and safety profile as an anti-wrinkle small peptide. However, its skin permeation is poor due to its hydrophilicity and large molecular weight. 3D printing of personalised microneedles (MN), that contour to the skin surface, offers an attractive alternative for delivery for AHP-3. However, commercially available photocurable resin for 3D printing are not suitable for fabrication of drug loaded delivery systems. In this study, two liquid monomers, namely, polyethylene glycol diacrylate (PEGDA) and vinyl pyrrolidone (VP), were investigated at various proportions, for critical parameters such as mechanical strength of final polymer, rate of polymerisation, rate of swelling of final polymer, 3D printing resolution and safety profile of final polymer. The optimal resin, based on the above parameters, was that of ratio 7 VP: 3 PEGDA in weight. Drug loading into the optimal resin demonstrated that AHP-3 remained stable throughout the fabrication process and there was no effect on the physical properties of final polymer. Using a 3D scanned face model, a personalised MN patch was designed using computer aided design (CAD) software and subsequently fabricated using a Digital Light Processing (DLP) 3D printer, with the optimal resin. In vitro characterisation of fabricated MN patch demonstrated the ability to penetrate human cadaver dermatomed skin and the MN remained intact after compression. The final polymer also had minimal cytotoxicity to human dermal fibroblast. Therefore, personalised MN patch fabricated using the photopolymer can potentially be a novel approach to augment transdermal delivery of AHP-3 for effective wrinkle management."
+  },
+  {
+   "pmid": "23607739",
+   "titel": "The anti wrinkle efficacy of synthetic hexapeptide (Argireline) in Chinese Subjects",
+   "jahr": "2013",
+   "journal": "J Cosmet Laser Ther",
+   "erstautor": "Wang Y",
+   "doi": "10.3109/14764172.2012.759234",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Abstract Background: This is the first multicenter clinical and experimental study of the anti wrinkle efficacy of Argireline in Chinese subjects. Objective: To evaluate the safety and efficacy of Argireline in the treatment of periorbital lines in Chinese subjects, and to observe the effect of Argireline on microstructural changes of the skin in the aged mice induced by D-galactose. Methods: The study was comprised of two parts: i) Clinical study: A total of 60 subjects received a single treatment in a 3:1 randomization ratio of Argireline: placebo. Argireline or placebo was applied to their periorbital wrinkles twice daily for 4 weeks, evaluations were made for the improvements in wrinkles. ii) Animal study: Argireline was applied to the aged mice twice daily for 6 weeks and the histopathological changes of skin tissue were evaluated. Results: In humans, the total anti wrinkle efficiency in the Argireline group was 48.9%, the depth of the wrinkles was notably reduced(P<0.01). In the aged mice, there was improvements in the morphology of skin tissue, the amount of typeⅠcollagen fibers increased(P<0.01) while type Ⅲ collagen fibers decreased (P<0.05). Conclusions: The studies revealed that Argireline had significant anti wrinkle effects in Chinese subjects."
+  },
+  {
+   "pmid": "25279473",
+   "titel": "Facial rejuvenation: combining cosmeceuticals with cosmetic procedures",
+   "jahr": "2014",
+   "journal": "Cutis",
+   "erstautor": "Wisniewski JD",
+   "doi": "",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Cosmetic patients are looking for a more youthful appearance without spending a lot of money, feeling any pain, or experiencing any postprocedure downtime. New cosmeceutical therapies can be used adjuvant to chemical peels, lasers, and injectables, making antiaging regimens less painful and requiring less postprocedural healing time. Adjunctive agents can be used to enhance chemical peels and decrease postinflammatory hyperpigmentation (PIH). Topical retinoids used prior to ablative laser treatments can aid in faster postprocedure healing and reepithelialization. Cosmeceuticals that contain both antioxidants and anti-inflammatories can help reduce postprocedure inflammation. Acetyl hexapeptide-3 is an effective topical agent for decreasing wrinkles and can be used as an adjunct to intramuscular botulinum neurotoxin, which may reduce the number of injections needed. Topical hyaluronic acid also would help patients who are averse to needles or are just starting to get wrinkles and are looking for noninvasive therapy. This article reviews combinations of cosmeceuticals with cosmetic procedures that dermatologists may want to consider discussing with their cosmetic patients."
+  },
+  {
+   "pmid": "38314369",
+   "titel": "Polydioxanone Bioactive Sutures-Acetyl Hexapeptide-8 (Argireline): An Intelligent System for Controlled Release in Facial Harmonization",
+   "jahr": "2023",
+   "journal": "J Cutan Aesthet Surg",
+   "erstautor": "Velazco de Maldonado GJ",
+   "doi": "10.4103/JCAS.JCAS_34_23",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "INTRODUCTION: We propose a new facial lifting protocol using polydioxanone (PDO) threads embedded in acetyl hexapeptide-8 (Argireline [Arg]). We assume that Arg reinforces the effects of PDO threads, as it is a mimetic of botulinum toxin. Because the PDO suture is hydrolyzable, this assumption is analyzed by instrumental analysis. OBJECTIVE: To demonstrate the capacity of the PDO suture as a system for the controlled release of acetyl hexapeptide-8 to apply in deep wrinkles of the upper third. MATERIALS AND METHODS: Three segments of 1-cm long 21G PDO threads immersed in 1 mL of Arg. PDO threads were observed under an optical, electron microscope at 24, 48, and 72 h later. They were also weighed before and after being soaked in Arg, and employing ultraviolet (UV)-visible spectroscopy, the release rate of Arg from the PDO suture was measured. Finally, was insert the thread PDO-Arg following a protocol designed especially for deep static wrinkles in the upper third. RESULTS: The electronic weighing revealed that the PDO thread enjoys capillarity by the peptide, doubling its weight every 24 h. UV spectra revealed that PDO thread is a well-controlled release system for Arg, allowing its sustained release for 1 h. Optical and electronic photomicrographs confirm the swelling of the PDO thread by absorbing Arg by its capillarity, but this hydrophilicity does not lead to its premature physical degradation. CONCLUSIONS: The PDO thread system with Arg is an intelligent bioactive system useful in facial harmonization. It recommend conduct clinical trial to verify his superior lifting effect."
+  },
+  {
+   "pmid": "17520155",
+   "titel": "Preparation and stability of cosmetic formulations with an anti-aging peptide",
+   "jahr": "2007",
+   "journal": "J Cosmet Sci",
+   "erstautor": "Ruiz MA",
+   "doi": "",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Wrinkling of the skin is the most obvious sign of deterioration of the human body with age. This process involves a number of genetic, constitutional, hormonal, nutritional, and environmental factors, in addition to the influence of frequently repeated facial movements during laughing, smoking, etc. This article reviews the physiological basis and mechanism of action of the active cosmetic ingredient acetyl hexapeptide-8 (Argireline). We prepared two formulations: an emulsion with an external aqueous phase for normal to dry skin, and a gel for oily skin. Laboratory analyses, rheology tests and in vitro release assays were used to evaluate the stability of these formulations for cosmetic treatment."
+  },
+  {
+   "pmid": "33151254",
+   "titel": "Skin scars and wrinkles temporary camouflage in dermatology and oncoesthetics: focus on acetyl hexapeptide-8",
+   "jahr": "2020",
+   "journal": "Clin Ter",
+   "erstautor": "Palmieri B",
+   "doi": "10.7417/CT.2020.2270",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "OBJECTIVE: The aim of study is to evaluate the aesthetic outcome of specific formulated cosmeceutical product to mask and reduce the appearance surgical scars or unappealing skin tags in chronic diseases, such as cancer METHODS: In a spontaneous, anecdotal, retrospective study, 26 patients with skin disorders appealed to Second Opinion Medical Network (Modena, Italy), required masking and improving the skin appearance. To evaluate the aesthetic improvement of skin imperfections, a gelcream containing 10% of acetyl hexapeptide-8 (registered trademark Argireline®) was selected, that can be applied directly upon the lesion, followed by a light massage in the treated area for a few minutes RESULTS: The skin quality parameters (hydration, elasticity, sebum), photographs and investigators clinical assessment have been performed before and after the treatment and demonstrated that this cream significantly improved the skin values and the self-image expectation of each patient. No allergic reactions were documented during the period treatment CONCLUSIONS: The topical administration of this cosmeceutical cream is a safe and effective alternative to the invasive procedures, to improve the quality of life in patients with some skin disorders such as cancer, surgical scars, hidradenitis, aging wrinkles"
+  },
+  {
+   "pmid": "37752675",
+   "titel": "Influence of the modification of the cosmetic peptide Argireline on the affinity toward copper(II) ions",
+   "jahr": "2024",
+   "journal": "J Pept Sci",
+   "erstautor": "Wyrzykowski D",
+   "doi": "10.1002/psc.3547",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Argireline (Ac-EEMQRR-NH2 ), a well-known neurotransmitter peptide with a potency similar to botulinum neurotoxins, reveals a proven affinity toward Cu(II) ions. We report herein Cu(II) chelating properties of three new Argireline derivatives, namely, AN4 (Ac-EAHRR-NH2 ), AN5 (Ac-EEHQRR-NH2 ), and AN6 (Ac-EAHQRK-NH2 ). Two complementary experimental techniques, i.e., potentiometric titration (PT) and isothermal titration calorimetry (ITC), have been employed to describe the acid-base properties of the investigated peptides as well as the thermodynamic parameters of the Cu(II) complex formation. Additionally, based on density functional theory (DFT) calculations, we propose the most likely structures of the resulting Cu-peptide complexes. Finally, the cytotoxicity of the free peptides and the corresponding Cu(II) complexes was estimated in human skin cells for their possible future cosmetic application. The biological results were subsequently compared with free Argireline, its Cu(II)-complexes, and the previously studied AN2 derivative (EAHQRR)."
+  },
+  {
+   "pmid": "24644551",
+   "titel": "The study of cellular cytotoxicity of argireline - an anti-aging peptide",
+   "jahr": "2014",
+   "journal": "Acta Biochim Pol",
+   "erstautor": "Grosicki M",
+   "doi": "",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Argireline is well know, innovative anti-aging product used in the cosmetic market. This short chain peptide is used as active ingredient in dermal ointment and creams. Argireline prevents formation of skin lines and wrinkles in a very similar way to the botulinum toxin (Botox), inhibiting neurotransmitter release at the neuromuscular junction. Argireline does not require under skin muscle injections and it is believed to be relatively safe. However, despite the fact that some toxicity data has been provided by the product manufacturer, there is an evident lack of reliable information about cytotoxicity of argireline in the literature. The aim of the presented study was to estimate the antiproliferation effect of argireline solution in several concentrations. The influence of argireline on cellular proliferation was examined against: human embryonic kidney HEK-293 cell line, human neuroblastoma IMR-32 cell line, and human primary skin fibroblasts. Tests were performed using formazan-based cell proliferation assay: EZ4U, which allows to measure the efficiency of mitochondrial oxidative activity in living cells. The argireline inhibitory concentration, IC50 values were calculated and the results were compared to the IC50 value of the reference compound: doxorubicin. In conclusion, the considered method resulted in dose-dependent argireline anti-proliferation effects. However, the significant cytotoxicity of argireline solution was observed under 18 to 10 000 fold higher concentrations (depending on cells that were examined) in comparison to doxorubicin."
+  },
+  {
+   "pmid": "38024099",
+   "titel": "Investigating the effects of Argireline in a skin serum containing hyaluronic acids on skin surface wrinkles using the Visia(®) Complexion Analysis camera system for objective skin analysis",
+   "jahr": "2023",
+   "journal": "GMS Interdiscip Plast Reconstr Surg DGPW",
+   "erstautor": "Henseler H",
+   "doi": "10.3205/iprs000179",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "OBJECTIVE: To analyze the effects of Argireline on skin surface wrinkles using the Visia® camera system developed by Canfield Scientific Inc., U.S.A., for facial image capture. METHOD: Nineteen female participants were recruited from a plastic surgery clinic. Initial facial images captured the left, front, and right sides of the participants' faces, which were documented as timepoint one. Following this, the participants immediately began to apply a facial skin serum containing triple hyaluronic acids produced by CNC cosmetic GmbH, Philippsburg, Germany. The serum was applied once in the morning and once in the evening. Participants received two identical containers labeled L for left and R for right, with each container to be used on the corresponding facial side, particularly around the eye area. One container contained Argireline, a synthetic hexapeptide, which previously was deemed to be a biosafe alternative to botulinum neurotoxin. The study was conducted as double-blind; neither the participants nor researchers knew which of the two containers contained Argireline. Participants were allowed to use their own cosmetic products throughout the study. After four weeks, the participants returned to have their faces recaptured using the Visia® camera, which was documented as timepoint two. The absolute scores of the wrinkles were noted, and results on both sides of the face were calculated and compared. The \"TruSkinAge®\" measurement provided by the Visia® camera was reviewed for each face side. Results between both time points and both sides of the face were compared. After the data analysis was complete, the company was contacted to determine which container contained Argireline. RESULTS: Nineteen participants returned for facial image capture. There were no significant adverse events, allergic reactions, or skin irritations. The investigation revealed that the wrinkle score slightly decreased for the right and left side of the face following four weeks of serum application. However, this decrease was not significant (p>0.05) based on the Wilcoxon matched pairs tests for the wrinkle scores (right side p=0.060 and left side p=0.176) and Truskin Ages® results (right side p=0.096 and left side p=0.489).Comparing the data from the right side with that from the left side of the face revealed that neither demonstrated a significant reduction in wrinkle score (p=0.829) or Truskin Ages® results (p=0.804). Argireline was included in the serum applied to the right side of the face. However, no statistical significance was seen in the results on this side of the face indicating any possible effects. CONCLUSION: Wrinkle scores and Truskin Ages® results were observed to decrease non-significantly following the application of a skin serum involving hyaluronic acid. The Visia® imaging method was used to analyze the data objectively. Differences between both sides of the face that were treated with and without Argireline were not statistically significant. Therefore, the effect of Argireline was not proven. While Argireline presented with low toxicity, its efficacy was found not to be significant. Therefore, it is not deemed to be an alternative treatment to botulinum toxin. ZIEL: Objektive Analyse der Effekte von Argireline auf Falten der Hautoberfläche durch Anwendung der Visia® Kamera der Firma Canfield Scientific Inc., U.S.A., für Bildaufnahmen des Gesichtes. METHODE: Neunzehn weibliche Freiwillige wurden aus einer Plastisch-Chirurgischen Klinik rekrutiert. Initiale Bildaufnahmen der Gesichter von links, vorne und rechts wurden aufgenommen, was als Zeitpunkt Eins dokumentiert wurde. Danach starteten die Freiwilligen umgehend mit der Anwendung eines Hautpflegeserums, welches dreifache Hyaluronsäuren für das Gesicht enthielt, produziert durch die CNC cosmetic GmbH, Philippsburg, Deutschland. Das Serum wurde einmal morgens und einmal abends angewendet. Die Teilnehmer erhielten zwei identische Töpfchen, die mit L für links und R für rechts bezeichnet wurden; entsprechend sollten sie auf der jeweiligen Seite des gereinigten Gesichtes, besonders rund um die Augenpartie, angewendet werden. Ein Töpfchen enthielt Argireline, ein synthetisches Hexapeptid, welches zuvor als biologisch sichere Alternative zu Botulinum Neurotoxin beurteilt worden war. Die Studie wurde doppelt blind durchgeführt, wobei weder die Freiwilligen noch die Forscher wussten, welches der beiden Töpfchen das Argireline enthielt. Die Freiwilligen durften zusätzlich ihre eigenen kosmetischen Produkte während der Studie benutzen. Nach vier Wochen kamen die Teilnehmer zurück, um das Gesicht erneut mittels der Visia® Kamera fotografiert zu bekommen, was als Zeitpunkt Zwei vermerkt wurde. Die absoluten Scores der Falten wurden notiert und die Ergebnisse der beiden Seiten des Gesichtes berechnet und verglichen. Ebenfalls wurde das gemessene „TruskinAge®“, das von der Visia® Kamera herausgegeben wurde, für jede Gesichtshälfte untersucht. Die Ergebnisse für beide Zeitpunkte und beide Seiten des Gesichtes wurden verglichen. Nachdem die Datenanalyse vollständig war, wurde die Firma kontaktiert, um zu bestimmen, welches Töpfchen das Argireline enthielt. ERGEBNISSE: Neunzehn Freiwillige kamen für die Gesichtsaufnahmen zurück. Es gab keine signifikanten Nebenwirkungen, keine allergischen Reaktionen oder Hautirritationen. Die Untersuchung ergab, dass der Faltenscore für die rechte und linke Seite des Gesichtes nach vier Wochen der Anwendung der Produkte leicht abnahm. Allerdings war die Abnahme nicht signifikant (p>0.05) gemäß des Wilcoxon-Testes für zwei abhängige Stichproben für die Faltenscores (rechte Seite p=0,060 und linke Seite p=0,176) und für die TruskinAge® Ergebnisse (rechte Seite p=0,096 und linke Seite p=0,489). Beim Vergleich der Daten der rechten mit denen der linken Seite des Gesichtes ergab sich, dass keine der Gesichtshälften signifikant besser abschnitt als die andere in Hinblick auf die Reduzierung der Faltenscores (p=0,829) und der TruskinAge® Ergebnisse (p=0,804). Argireline war im Serum enthalten, das auf der rechten Seite des Gesichtes angewendet wurde. Allerdings wurde keine statistische Signifikanz der Ergebnisse auf dieser Seite des Gesichtes im Hinblick auf mögliche Effekte erreicht. SCHLUSSFOLGERUNG: Die Scores der Falten sowie die Ergebnisse der Truskin Ages® zeigten eine nicht signifikante Tendenz, nach Anwendung des Hautpflegeserums basierend auf Hyaluronsäuren zurückzugehen. Die Visia® Bildgebungsmethode wurde für die objektive Datenanalyse eingesetzt. Die Unterschiede zwischen den beiden Gesichtshälften, die mit und ohne Argireline behandelt wurden, waren nicht statistisch signifikant. Daher wurde die Wirkung von Argireline nicht nachgewiesen. Während sich Argireline mit niedriger Toxizität darstellte, wurden seine Effekte als nicht signifikant ermittelt. Daher wird es nicht als alternative Behandlung zu Botulinumtoxin eingestuft."
+  },
+  {
+   "pmid": "25497319",
+   "titel": "Topical delivery of acetyl hexapeptide-8 from different emulsions: influence of emulsion composition and internal structure",
+   "jahr": "2015",
+   "journal": "Eur J Pharm Sci",
+   "erstautor": "Hoppel M",
+   "doi": "10.1016/j.ejps.2014.12.006",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Acetyl hexapeptide-8 (AH-8) is a well-known component of anti-aging products and was recently explored as a promising topical treatment of blepharospasm. Although AH-8 appears in a variety of cosmetic products, its skin penetration is sparsely studied and controversially discussed. Therefore, the aim of the present study was to investigate the influence of the vehicle type on the AH-8 delivery to the skin. Besides skin permeation experiments with Franz type diffusion cells, the spatial distribution of AH-8 in the stratum corneum after a real in-use application was investigated by in vitro tape stripping on porcine ear skin. By applying LC-MS/MS for quantification of AH-8, we demonstrated that a multiple water-in-oil-in-water (W/O/W) emulsion can significantly increase penetration of AH-8 into porcine skin compared to simple O/W and W/O emulsions. The internal structure of the developed multiple emulsion was confirmed by electron microscopic investigations and NMR self diffusion studies. In general, a clear superiority of water-rich W/O/W and O/W emulsions over an oil-rich W/O emulsion in terms of dermal delivery of AH-8 was found. This enhanced delivery of AH-8 could be explained by an increased absorption of the water-rich emulsions into the skin, confirmed by combined ATR-FTIR and tape stripping experiments."
+  },
+  {
+   "pmid": "24754410",
+   "titel": "In vitro skin penetration of acetyl hexapeptide-8 from a cosmetic formulation",
+   "jahr": "2015",
+   "journal": "Cutan Ocul Toxicol",
+   "erstautor": "Kraeling ME",
+   "doi": "10.3109/15569527.2014.894521",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "There is a concern that peptides in cosmetic creams marketed as anti-aging/anti-wrinkle may penetrate into the deep layers of the skin and potentially stimulate biological activity. Claims for one cosmetic peptide, acetyl hexapeptide-8 (Ac-EEMQRR-amide), suggest interference with neuromuscular signaling as its anti-wrinkle mechanism of action. Therefore, the skin penetration of commercially available Ac-EEMQRR-amide from a cosmetic formulation (oil-in-water (O/W) emulsion) was determined in hairless guinea pig (HGP) and human cadaver skin assembled into in vitro diffusion cells. An O/W emulsion containing 10% Ac-EEMQRR-amide was applied to skin at a dose of 2 mg/cm(2). After a 24-h exposure, the skin surface was washed to remove unabsorbed peptide. Skin disks were tape stripped to determine the amount of peptide in the stratum corneum. Removal of the stratum corneum layers was verified by confocal microscopy. The epidermis was heat separated from the dermis and each skin fraction was homogenized. Skin penetration of Ac-EEMQRR-amide was measured in skin layers by hydrophilic interaction liquid chromatography with tandem mass spectrometry using electrospray ionization (ESI) in the positive mode. Stable isotopically labeled hexapeptides were used as internal standards for the quantitation of native hexapeptides to correct for matrix effects associated with ESI. The results (percent of applied dose) showed that the majority of the Ac-EEMQRR-amide was washed from the surface of both HGP and human skin. Ac-EEMQRR-amide that penetrated skin remained mostly in the stratum corneum of HGP (0.54%) and human (0.22%) with the peptide levels decreasing as each layer was removed by tape stripping. Total Ac-EEMQRR-amide found in the epidermis of HGP and human skin was similar at 0.01%. No peptide was detected in the dermis or buffer collected underneath the skin for both human and HGP. There was no hexapeptide metabolite (H2N-EEMQRR-amide) detected in any layers of HGP skin, human skin or buffer collected underneath the skin. This skin penetration data will be useful for evaluating the safety of cosmetic products containing small peptide cosmetic ingredients."
+  },
+  {
+   "pmid": "42675285",
+   "titel": "Effects of Botulinum Toxin Type A and Argireline on Dermal Collagen Remodeling and Skin Biology in a Flap Model",
+   "jahr": "2026",
+   "journal": "Aesthetic Plast Surg",
+   "erstautor": "Acuner B",
+   "doi": "10.1007/s00266-026-06225-z",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: Botulinum toxin type A (BoNT-A) is increasingly recognized for tissue-level effects beyond neuromuscular blockade, but its impact on dermal collagen composition remains incompletely characterized. Acetyl hexapeptide-8 (Argireline) is a SNAP-25 mimetic cosmeceutical peptide whose biological activity at the tissue level is unclear. This study evaluated the effects of BoNT-A, Argireline, and their combination on dermal collagen type I/III and Substance P (SP) expression in a flap model. METHODS: Forty female Wistar rats were allocated to four groups (n = 10): saline control, BoNT-A, Argireline, and BoNT-A + Argireline. Subdermal injections were administered at six points one week before elevation of a 9 × 3 cm caudally based McFarlane flap. Flap survival was quantified on day 10 using planimetric analysis. Collagen type I/III was assessed using picrosirius red staining under polarized light, and SP expression was evaluated immunohistochemically. RESULTS: Flap survival did not differ significantly among groups (p = 0.327). Collagen composition differed significantly: BoNT-A-containing groups demonstrated lower type I and higher type III collagen compared with control and Argireline groups (p < 0.001). Argireline alone produced a collagen profile indistinguishable from control. SP expression was significantly elevated in the combination group compared with control and Argireline (p = 0.002). CONCLUSIONS: BoNT-A shifted dermal collagen toward a less mature profile without improving flap survival. Injectable Argireline produced no detectable tissue-level effect under the tested conditions. Increased Substance P expression in the BoNT-A-containing groups represents an exploratory, predominantly BoNT-A-associated neurogenic signal warranting dedicated study. These findings highlight a dissociation between macroscopic tissue viability and dermal remodeling responses. NO LEVEL ASSIGNED: This journal requires that authors assign a level of evidence to each submission to which Evidence-Based Medicine rankings are applicable. This excludes Review Articles, Book Reviews, and manuscripts that concern Basic Science, Animal Studies, Cadaver Studies, and Experimental Studies. For a full description of these Evidence-Based Medicine ratings, please refer to the Table of Contents or the online Instructions to Authors www.springer.com/00266 ."
+  },
+  {
+   "pmid": "34451799",
+   "titel": "Usage of Synthetic Peptides in Cosmetics for Sensitive Skin",
+   "jahr": "2021",
+   "journal": "Pharmaceuticals (Basel)",
+   "erstautor": "Resende DISP",
+   "doi": "10.3390/ph14080702",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Sensitive skin is characterized by symptoms of discomfort when exposed to environmental factors. Peptides are used in cosmetics for sensitive skin and stand out as active ingredients for their ability to interact with skin cells by multiple mechanisms, high potency at low dosage and the ability to penetrate the stratum corneum. This study aimed to analyze the composition of 88 facial cosmetics for sensitive skin from multinational brands regarding usage of peptides, reviewing their synthetic pathways and the scientific evidence that supports their efficacy. Peptides were found in 17% of the products analyzed, namely: acetyl dipeptide-1 cetyl ester, palmitoyl tripeptide-8, acetyl tetrapeptide-15, palmitoyl tripeptide-5, acetyl hexapeptide-49, palmitoyl tetrapeptide-7 and palmitoyl oligopeptide. Three out of seven peptides have a neurotransmitter-inhibiting mechanism of action, while another three are signal peptides. Only five peptides present evidence supporting their use in sensitive skin, with only one clinical study including volunteers having this condition. Noteworthy, the available data is mostly found in patents and supplier brochures, and not in randomized placebo-controlled studies. Peptides are useful active ingredients in cosmetics for sensitive skin. Knowing their efficacy and synthetic pathways provides meaningful insight for the development of new and more effective ingredients."
+  },
+  {
+   "pmid": "40673537",
+   "titel": "Safety Assessment of Acetyl Hexapeptide-8 Amide as Used in Cosmetics",
+   "jahr": "2025",
+   "journal": "Int J Toxicol",
+   "erstautor": "Johnson W Jr",
+   "doi": "10.1177/10915818251340391",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The Expert Panel for Cosmetic Ingredient Safety (Panel) reviewed the safety of Acetyl Hexapeptide-8 Amide (synonymous with Acetyl Hexapeptide-8 (sans \"Amide\")) in cosmetic products; this ingredient is reported to function as a skin conditioning agent - miscellaneous in cosmetics. The Panel reviewed data relevant to the safety of this ingredient in cosmetic formulations, and concluded that Acetyl Hexapeptide-8 Amide is safe in cosmetics in the present practices of use at concentrations up to 0.005%. The Panel further concluded that the available data are insufficient to make a determination that Acetyl Hexapeptide-8 Amide is safe under the intended conditions of use in cosmetic formulations at concentrations greater than 0.005%."
+  },
+  {
+   "pmid": "38598772",
+   "titel": "Developing Plant Exosomes as an Advanced Delivery System for Cosmetic Peptide",
+   "jahr": "2024",
+   "journal": "ACS Appl Bio Mater",
+   "erstautor": "Hou J",
+   "doi": "10.1021/acsabm.4c00096",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Peptides are a promising skincare ingredient, but due to their inherent instability and the barrier function of the skin's surface, they often have limited skin absorption and penetration, which can significantly hinder their skincare benefits. To address this, a novel technique called NanoGlow has been introduced for encapsulating peptide-based cosmetic raw materials into engineered nanosized plant-derived exosomes (pExo) to achieve the goal of a healthier and more radiant skin state. In this approach, pExo served as carriers for cosmetic peptides across the intact skin barrier, enhancing their biological effectiveness in skin beauty. The NanoGlow strategy combines chemical activation and physical proencapsulation, boasting a high success rate and straightforward and stable operation, making it suitable for large-scale production. Comprehensive analysis using in vitro cellular absorption and skin penetration models has demonstrated that the nanosized pExo carriers significantly improve peptide penetration into the skin compared to free peptides. Furthermore, in vivo tissue slice studies have shown that pExo carriers efficiently deliver acetyl hexapeptide-8 to the skin's dermis, surpassing the performance of free peptides. Cosmetic skincare effect analysis has also indicated that pExo-loaded cosmetic peptides deliver superior results. Therefore, the NanoGlow technique harnesses the natural size and properties of pExo to maximize the bioavailability of cosmetic peptides, holding great promise for developing advanced peptide delivery systems in both the cosmetic and medical drug industries."
+  },
+  {
+   "pmid": "31952064",
+   "titel": "Geometrical optimisation of a personalised microneedle eye patch for transdermal delivery of anti-wrinkle small peptide",
+   "jahr": "2020",
+   "journal": "Biofabrication",
+   "erstautor": "Lim SH",
+   "doi": "10.1088/1758-5090/ab6d37",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Acetyl-hexapeptide-3 (AHP-3) is a small peptide with good anti-wrinkle efficacy and safety profile. However, due to its hydrophilicity and high molecular weight, its skin permeation is generally poor. An innovative microneedle (MN) patch such as the curved, flexible or personalised MN patch is a viable avenue to deliver AHP-3. However, the well-researched geometrical relationship of MN on a flat MN patch cannot be assumed for these novel MN patches due to a complex mix of axial and shear forces. In this study, 3D printing was used for the fabrication of various MN patches with different MN geometries and curvatures. Both mechanical strength and skin penetration efficiency were used to determine the optimal MN geometry. The optimal MN geometry was then applied to the fabrication of a personalized MN patch (PMNP) for anti-wrinkle therapy, via 3D printing. In all, the general principles of MN geometrical effects on mechanical strength and skin penetration efficiency for a curved and a flat MN patch were similar. A MN height of 800 μm, tip diameter of 100 μm, interspacing of 800 μm and base diameter of 400 μm was observed to be the optimal MN geometry across all curvatures. In vitro skin permeation study demonstrated enhanced transdermal delivery of AHP-3 using the fabricated PMNP. Therefore, PMNP with optimized MN geometry can potentially be a novel approach to augment transdermal delivery of AHP-3 for effective wrinkle management."
+  },
+  {
+   "pmid": "40715158",
+   "titel": "Oligomeric hyaluronic acid-modified liposomes effectively improved skin permeability and anti-ageing activity of ellagic acid",
+   "jahr": "2025",
+   "journal": "Sci Rep",
+   "erstautor": "Yang X",
+   "doi": "10.1038/s41598-025-06948-0",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "To overcome natural skin barrier, deliver ellagic acid (EA) to the dermis, and promote its anti-ageing efficacy, oligomeric hyaluronic acid (HA) modified EA-loaded liposomes (EA-HA-L) were constructed via self-synthesized different molecular weights of HA linked cholesterol (HA-Chol), and then the effect of HA molecular weight on the skin permeability of EA was explored to clarify the optimal molecular weight of HA with best transdermal delivery effectiveness. Finally, a series of in vitro and in vivo experiments were conducted to survey the transdermal mechanism, skin irritation, antioxidant, anti-photo ageing and antiwrinkle effects of EA-loaded liposomes modified with the optimal molecular weight of HA. The results showed that EA-HA-L had less than 200 nm particle size and high encapsulation efficiency. Among them, 5 kDa of oligomeric HA-modified liposomes (EA-HA5k-L) maximized the skin penetration and retention of EA and promoted the distribution width of EA in the skin far beyond the thickness of the epidermal layer, indicating its good ability to deliver EA to the dermis. EA-HA5k-L displayed uniformly sized nanosphere morphology and slow-release behavior in neutral and acidic environments that simulated skin. The transdermal mechanism of EA-HA5k-L was proven to be related to the loosening of the stratum corneum, reduction of calcium adhesion proteins, and recognition of CD44 receptor. EA-HA5k-L had no irritant effect on the chicken embryo chorioallantoic membrane, with an irritant index close to 0.9% NaCl. EA-HA5k-L not only improved the clearance rate of EA on DPPH and hydroxyl radicals but also elevated its inhibition effect on elastase. Significantly, compared to free EA and EA-loaded liposomes without oligomeric HA modification (EA-L), EA-HA5k-L significantly increased the cellular uptake of EA through receptor-mediated endocytosis, and effectively blocked the increase in metalloproteinase-1 (MMP-1) content and decrease in type I collagen content induced by UVB in human dermal fibroblasts (HDFs), demonstrating better anti-photo ageing effectiveness. Moreover, EA-HA5k-L upregulated the relative expression of the elastin gene and three types of type I collagen gene (col1a1a, col1a1b, and col1a2) in zebrafish, and its expression promotion rates in col1a1b, col1a2 and elastin were remarkably higher than those of free EA, EA-L, and acetyl hexapeptide-8 as positive control. Conclusively, EA-HA5k-L ameliorated the anti-ageing effectiveness of EA due to the successful transdermal delivery and efficient cellular uptake, and 5 kDa of oligomeric HA-modified liposomes may be a promising transdermal delivery carrier to overcome skin barrier and upgrade the application prospects of EA in anti-skin ageing."
+  },
+  {
+   "pmid": "42683869",
+   "titel": "Mechanistic understanding and peptide ingredient screening for type III collagen via biological knowledge graph and molecular docking",
+   "jahr": "2026",
+   "journal": "Int J Cosmet Sci",
+   "erstautor": "Zang S",
+   "doi": "10.1111/ics.70140",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "OBJECTIVE: Type III collagen plays a key role in maintaining skin elasticity and dermal resilience, yet its decline is associated with visible signs of skin ageing. This study aimed to establish a data-driven approach to identify cosmetic peptides with potential to enhance type III collagen through multi-target regulation. METHODS: A combined strategy integrating natural language processing (NLP) and knowledge graph (KG) analysis was applied to systematically identify targets associated with type III collagen regulation. Peptides listed in the Inventory of Existing Cosmetic Ingredients in China (IECIC) were screened based on structure-based molecular docking with multiple targets. Candidate peptides were selected for experimental evaluation using human dermal fibroblasts and ex vivo skin models. RESULTS: By integrating large-scale literature mining with NLP and KG-based gene interaction analysis, we constructed a comprehensive network of genes involved in type III collagen regulation, covering processes such as collagen synthesis, degradation and extracellular matrix (ECM) organization. Based on this network, candidate peptides with predicted multi-target interactions were prioritized through structure-based screening. In vitro, four selected peptides-palmitoyl tetrapeptide-7, acetyl hexapeptide-8, palmitoyl tripeptide-1 and palmitoyl tetrapeptide-10-significantly increased type III collagen levels following UV exposure, without detectable cytotoxicity. The combination of these peptides exhibited a greater effect than individual components. In ex vivo skin tissues, the peptide combination further enhanced the levels of type I, III and IV collagens, indicating a broader modulatory effect on dermal ECM components. CONCLUSION: This study provides a practical framework for the identification of cosmetic peptides targeting collagen regulation. The findings support a multi-target approach and suggest that peptide combinations may enhance collagen-related outcomes relevant to skin ageing applications. OBJECTIF: Le collagène de type III joue un rôle clé dans le maintien de l'élasticité cutanée et de la résilience dermique; or, son déclin est. associé à des signes visibles de vieillissement cutané. Cette étude visait à mettre en place une approche fondée sur les données afin d'identifier des peptides cosmétiques susceptibles de renforcer le collagène de type III par le biais d'une régulation à plusieurs cibles. MÉTHODES: Une stratégie combinée intégrant le traitement du langage naturel et l'analyse de graphes de connaissances a été appliquée afin d'identifier de manière systématique les cibles associées à la régulation du collagène de type III. Les peptides répertoriés dans l'Inventaire des ingrédients cosmétiques existants en Chine (IECIC) ont été criblés à l'aide d'une simulation d'amarrage moléculaire basée sur la structure et portant sur plusieurs cibles. Des peptides candidats ont été sélectionnés en vue d'une évaluation expérimentale à l'aide de fibroblastes dermiques humains et de modèles cutanés ex vivo. RÉSULTATS: En combinant l'exploration à grande échelle de la littérature médicale avec le traitement du langage naturel et l'analyse des interactions géniques basée sur des graphes de connaissances, nous avons construit un réseau complet des gènes impliqués dans la régulation du collagène de type III, couvrant des processus tels que la synthèse du collagène, sa dégradation et l'organisation de la matrice extracellulaire. Sur la base de ce réseau, les peptides candidats présentant des interactions à plusieurs cibles prédites ont été classés par ordre de priorité grâce à un criblage basé sur la structure. In vitro, quatre peptides sélectionnés, le palmitoyl tétrapeptide‐7, l'acétyl hexapeptide‐8, le palmitoyl tripeptide‐1 et le palmitoyl tétrapeptide‐10, ont significativement augmenté le taux de collagène de type III après une exposition aux UV, sans effets cytotoxiques détectables. L'association de ces peptides a produit un effet plus marqué que celui de chacun de ses composants pris isolément. Sur des tissus cutanés ex vivo, cette association de peptides a encore accru le taux de collagène de type I, III et IV, ce qui indique un effet modulateur plus large sur les composants de la matrice extracellulaire dermique. CONCLUSION: Cette étude fournit un cadre pratique pour l'identification de peptides cosmétiques ciblant la régulation du collagène. Ces résultats soutiennent une approche à plusieurs cibles et donnent à penser que des combinaisons de peptides pourraient améliorer les résultats liés au collagène pertinents pour les applications relatives au vieillissement cutané."
+  },
+  {
+   "pmid": "30416406",
+   "titel": "The Effect of Anti-aging Peptides on Mechanical and Biological Properties of HaCaT Keratinocytes",
+   "jahr": "2018",
+   "journal": "Int J Pept Res Ther",
+   "erstautor": "Kobiela T",
+   "doi": "10.1007/s10989-017-9648-7",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Atomic force microscopy (AFM) and fluorescence microscopy was applied to determine the influence of the anti-aging peptides on the morphology and the mechanical properties of keratinocytes. Immortalized human keratinocytes (HaCaT) were treated with two anti-aging bioactive peptides: Acetyl Tetrapeptide-2 and Acetyl Hexapeptide-50 (Lipotec). The AFM measurement of the keratinocyte stiffness were carried after 48 h exposure at an indentation depth of 200 nm. AFM analysis showed increase of the cell stiffness for cells treated with Acetyl Tetrapeptide-2 (P1) in concentration range. Acetyl Hexapeptide-50 (P2) at concentration of 0.05 µg/ml also increased the stiffness of HaCaT cells but at higher concentrations 0.5 and 5 µg/ml cell stiffness was lower as compared to untreated control. Fluorescence microscopy revealed remodeling of actin filaments dependent on the concentration of P2 peptide. The mechanical response of HaCaT cells treated with P2 peptide corresponds to change of transcription level of ACTN1 and SOD2 which activity was expected to be modulated by P2 treatment."
+  },
+  {
+   "pmid": "33911590",
+   "titel": "Anti-Wrinkle Efficacy of Cross-Linked Hyaluronic Acid-Based Microneedle Patch with Acetyl Hexapeptide-8 and Epidermal Growth Factor on Korean Skin",
+   "jahr": "2019",
+   "journal": "Ann Dermatol",
+   "erstautor": "An JH",
+   "doi": "10.5021/ad.2019.31.3.263",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: Hyaluronic acid (HA)-based microneedle patch has recently been studied for wrinkle improvement. Cross-linked HA (CLHA) is widely used in dermal fillers. Acetyl hexapeptide-8 (AHP-8) and epidermal growth factor (EGF) are used for cosmetic ingredients. OBJECTIVE: This study aimed to verify the efficacy of the CLHA/HA-based patch with microstructure (microneedle patch) containing AHP-8 or EGF. METHODS: A total of 52 Korean females were enrolled in a double-blind, randomized, controlled, split-face trial. The subjects were divided into 3 groups: (1) microneedle patch alone, (2) microneedle patch/AHP-8, and (3) microneedle patch/EGF. The treatment was applied on the periorbital and nasolabial fold area for 4 hours to completely dissolve the microstructures once per week for 29 days. Evaluations, including photodamage scoring, image analysis with Antera 3D® (Miravex, Ireland), skin hydration measurement, and adverse effect assessments, were performed at each visit. RESULTS: Fifty subjects (96.2%) completed this clinical study. On day 29 after application, statistically significant improvements in wrinkle and skin hydration were observed in all groups (p<0.01). Treatment with microneedle patch/AHP-8 and microneedle patch/EGF showed statistically significant improvements in wrinkle compared with microneedle patch alone (p<0.05). No serious adverse effects were noted. CONCLUSION: Combination of CLHA-based microneedle patch and functional cosmetic ingredients can improve wrinkle with minimal discomfort."
+  },
+  {
+   "pmid": "25786877",
+   "titel": "Iontophoretic skin permeation of peptides: an investigation into the influence of molecular properties, iontophoretic conditions and formulation parameters",
+   "jahr": "2014",
+   "journal": "Drug Deliv Transl Res",
+   "erstautor": "Krishnan G",
+   "doi": "10.1007/s13346-013-0181-8",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The transdermal route offers advantages for delivery of peptides and proteins. However, these polar and large molecules do not permeate the skin barrier well. Various enhancement methods have been employed to address this problem. Iontophoresis is one of the methods that shows promise but its application to peptide delivery has yet to be fully explored. This study investigates the effects of different molecular properties and iontophoretic conditions on the skin permeation of peptides. In this study, the permeation of alanine-tryptophan dipeptide (MW 276 Da), alanine-alanine-proline-valine tetrapeptide (MW 355 Da), Argireline® (Acetyl hexapeptide-3, MW 889 Da) and Triptorelin acetate (decapeptide, MW 1311 Da) through excised human skin under passive or iontophoretic current of 0.4 mA was investigated. The effects of pH change (3.0-7.4, to provide different net negative, neutral, and positive charges) to the peptide, donor concentration (1-10 mg/ml), background electrolyte (34-137 mM NaCl and/or 5-20 mM HEPES) and current direction (anodal vs cathodal) were also studied. Peptides were analysed by high-performance liquid chromatography or liquid scintillation counting. Iontophoresis led up to a 30 times increase in peptide permeation relative to passive permeation for the peptides. Electroosmosis was an important determinant of the total flux for the high molecular weight charged peptides. Electrorepulsion was found to be considerable for low molecular weight charged moieties. Permeation was decreased at lower pH, possibly due to decreased electroosmosis. Results also showed that 10 times increase in donor peptide concentration increases permeation of peptides by about 2-4 times and decreases iontophoretic permeability coefficients by about 2.5-5 times. The addition of extra background electrolyte decreased the iontophoretic permeation coefficient of peptides by 2-60 times. This study shows that iontophoretic permeation of peptides is affected by a number of parameters that can be optimized for effective transdermal peptide delivery."
+  },
+  {
+   "pmid": "26579370",
+   "titel": "Enhanced delivery of hydrophilic peptides in vitro by transdermal microneedle pretreatment",
+   "jahr": "2014",
+   "journal": "Acta Pharm Sin B",
+   "erstautor": "Zhang S",
+   "doi": "10.1016/j.apsb.2013.12.011",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The aims of this study were to investigate the utility of solid microneedle arrays (150 µm in length) in enhancing transdermal delivery of peptides and to examine the relationship between peptide permeation rates and D2O flux. Four model peptides were used (Gly-Gln-Pro-Arg [tetrapeptide-3, 456.6 Da], Val-Gly-Val-Ala-Pro-Gly [hexapeptide, 498.6 Da], AC-Glu-Glu-Met-Gln-Arg-Arg-NH2 [acetyl hexapeptide-3, 889 Da] and Cys-Tyr-Ile-Gln-Asn-Cys-Pro-Leu-Gly-NH2 [oxytocin, 1007.2 Da]). The influence of microneedle pretreatment on skin permeation was evaluated using porcine ear skin with Franze diffusion cell. Peptide permeation across the skin was significantly enhanced by microneedle pretreatment, and permeation rates were dependent on peptide molecular weights. A positive correlation between D2O flux and acetyl hexapeptide-3 clearances suggests that convective solvent flow contributes to the enhanced transdermal peptide delivery. It is concluded that solid microneedle arrays are effective devices to enhance skin delivery of peptides."
+  },
+  {
+   "pmid": "40176351",
+   "titel": "BAK and ARG Have Moisturizing, Anti-Inflammatory, Antioxidant, and Antioxidant Bioactivities, in the Zebrafish Model",
+   "jahr": "2025",
+   "journal": "J Cosmet Dermatol",
+   "erstautor": "Jiang X",
+   "doi": "10.1111/jocd.70128",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: Bakuchiol (BAK) and acetyl hexapeptide-8 have favorable biological activities and have promising applications in the cosmetic industry. However, the evaluation of the biological activity of both alone or in combination has not been reported. AIMS: The biological activity of both alone or in combination was evaluated based on the zebrafish model. METHODS: Zebrafish embryos were induced to form models using different methods. Add BAK and Argireline YOUth peptide oil solution MB (ARG, containing 0.125% acetyl hexapeptide-8) to treat zebrafish embryos, and they were evaluated for their restorative effects on preexisting damage in zebrafish embryos. RESULTS: BAK and ARG were able to reduce water loss from the caudal fin of zebrafish induced by 0.9% NaCl solution. They were able to alleviate the UVB-induced decrease in the expression level of the skin tightness-related gene (ELN/COL1a1b) in zebrafish embryos, and BAK or ARG effectively reversed the increase in β-galactosidase activity induced by exposure to H2O2 solution and restored telomerase activity in zebrafish embryos. In addition, both were able to counteract oxidative stress and mitochondrial damage in zebrafish embryos as a result of LPS treatment. Finally, BAK and ARG were also effective in suppressing the increase in neutrophil counts and inflammatory cytokine levels in zebrafish embryos due to LPS exposure. Notably, BAK and ARG were more effective when used in combination. CONCLUSIONS: Acetyl hexapeptide-8 promotes the bioactivity of BAK in zebrafish embryos (Danio rerio). BAK and ARG have moisturizing, anti-inflammatory, antioxidant, and antioxidant bioactivities in the zebrafish model."
+  },
+  {
+   "pmid": "42202650",
+   "titel": "DES-mediated self-assembled polypeptides: Synergistic neuromuscular signaling inhibition for anti-aging",
+   "jahr": "2026",
+   "journal": "Biomater Adv",
+   "erstautor": "Bai D",
+   "doi": "10.1016/j.bioadv.2026.214954",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Skin aging involves complex mechanisms such as overactivation of neuromuscular signals and oxidative stress. Herein, we developed a synergistic transdermal delivery system combining self-assembled tripeptide nanoparticles (DAC-SAPs) and a ternary deep eutectic solvent (DES, betaine-glycerol-propylene glycol, BGP) for anti-aging. DAC-SAP integrates dipeptide diaminobutyryl benzamide diacetate (DDB), argireline (ARG), and μ-conotoxin (CTX) into a single nanostructure through hydrophobic interactions, hydrogen bonds, and electrostatically driven molecular self-assembly. This spatial co-localization ensures synchronous delivery and spatiotemporal synergy, effectively inhibiting neuromuscular signaling. BGP DES optimizes polarity regulation, destroys stratum corneum lipids, and significantly promotes transdermal penetration. Molecular dynamics (MD) simulations reveal a dual permeation-promoting mechanism, with an appropriate nanostructure size reducing transmembrane resistance, whereas DES promotes lipid mobility and weakens tight junctions in the stratum corneum (SC). In vitro, in vivo, and exploratory clinical assessments demonstrate that DAC-SAP/BGP significantly inhibits sodium and calcium channel activity, reduces acetylcholine (ACh) secretion, and improves skin elasticity and wrinkle parameters. This multicomponent system achieves a synergistic anti-aging effect by blocking and enhancing the transmission of neuromuscular signals, thus providing a new strategy for anti-aging skin care."
+  },
+  {
+   "pmid": "33299102",
+   "titel": "Topical application of Zanthoxylum piperitum extract improves lateral canthal rhytides by inhibiting muscle contractions",
+   "jahr": "2020",
+   "journal": "Sci Rep",
+   "erstautor": "Hwang W",
+   "doi": "10.1038/s41598-020-78610-w",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Facial wrinkles are the predominant phenotypes of skin aging. To date, one of the most effective ways to improve wrinkles is botulinum toxin type A (BoNT/A) injection, which inhibits muscle contractions by reducing acetylcholine release from neurons. However, since BoNT/A is a hazardous neurotoxin, the injection can only be performed by medical doctors and the procedure is only possible through invasive injection, causing inconveniences such as pain. To overcome these inconveniences, we tried to find a way to reduce wrinkles non-invasively via mechanisms similar to BoNT/A. We first designed in vitro assays to test BoNT/A-like muscle contraction inhibition in two different model systems. By using the assays, we identified Zanthoxylum piperitum (Z. piperitum) fruit extract as a BoNT-like reagent (27.7% decrease of muscle contraction rates by 1000 ppm of Z. piperitum extract treatment). Next, we determined mechanisms of how Z. piperitum extract decreases muscle contraction rates and found that the extract treatment inhibits electrical signal transduction in neurons. We also showed that among known components of Z. piperitum extract, quercitrin is responsible for muscle contraction inhibition. We further identified that Z. piperitum extract has synergistic effects with acetyl hexapeptide-8 and BoNT/A light chain, which are well-known BoNT-like peptides. Finally, we showed that topical treatment of the Z. piperitum extract indeed decreases facial wrinkles and treatment of Z. piperitum extract with acetyl hexapeptide-8 has a tendency to improve wrinkles synergistically (14.5% improvement on average). The synergistic effect of the combination is expected to improve wrinkles effectively by implementing the BoNT/A mechanisms in a non-invasive way."
+  },
+  {
+   "pmid": "40196949",
+   "titel": "Acetyl Hexapeptide-8 as a Topical Alternative to Botulinum Toxin: A Review of the Literature",
+   "jahr": "2025",
+   "journal": "J Drugs Dermatol",
+   "erstautor": "Lum K",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": ""
+  },
+  {
+   "pmid": "39496132",
+   "titel": "INDIVIDUAL ARTICLE: Real-World Clinical Experience With a Neuro-Peptide Serum in Combination With Botulinum Toxin Type-A Injections",
+   "jahr": "2024",
+   "journal": "J Drugs Dermatol",
+   "erstautor": "Lupin M",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "We evaluated real-life experiences of a topical neuro-peptide serum containing 2% acetyl hexapeptide-8, 2% dipeptide diaminobutyroyl, 5% polyhydroxy acids (PHA), 5% niacinamide, and 1% laminaria extract (topical neuro-peptide serum [TNP-serum]). The TNP-serum works synergistically by stimulating 9 key skin biomarkers to reduce wrinkles and produce a skin-brightening effect. Here, we highlight the real-life experiences of 5 dermatologists and 2 surgeons, using an integrated skincare regimen consisting of botulinum toxin type-A (BTX-A) injection in conjunction with twice daily TNP-serum. Real-world cases provide evidence for combination treatments that may be used in cosmetic dermatology to improve patient outcomes and satisfaction. TNP-serum appears to complement BTX-A injections to improve radiance, reduce fine lines, and reduce wrinkles in diverse patients. Incorporating TNP-serum into integrated skincare regimens may offer an additive effect to BTX-A injections and, ultimately, optimize patient results. J Drugs Dermatol. 2024;23:11(Suppl 2):s3-14."
+  },
+  {
+   "pmid": "40410664",
+   "titel": "Development of a Sensory Neuron-Integrated Skin Spheroid Model for the Evaluation of Neuropeptide-Based Topical Delivery Systems",
+   "jahr": "2025",
+   "journal": "ACS Biomater Sci Eng",
+   "erstautor": "Martin BA",
+   "doi": "10.1021/acsbiomaterials.5c00141",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The skin is a complex organ composed of multiple layers and diverse cell types, including keratinocytes, fibroblasts, adipocytes, and sensory neurons, which maintain its structural and functional integrity together. Conventional in vitro and ex vivo models help investigate drug permeation and selected biological effects. However, they are limited in replicating neural interactions critical for assessing the efficacy of neuropeptide-based therapies. To address this limitation, a sensory neuron-integrated skin spheroid (SS) model was established, incorporating key skin cell types and providing a rapid, adaptable, and physiologically relevant platform for screening the biological activity of topical delivery systems targeting neuronal pathways. The model's responsiveness was demonstrated using acetyl hexapeptide-3 (HEX-3), a neuropeptide that inhibits acetylcholine release. HEX-3 was internalized by spheroid cells, with preferential accumulation around sensory neurons, confirming targeted cellular uptake. In parallel, ex vivo human skin studies confirmed that HEX-3 can traverse the stratum corneum and accumulate in deeper layers. Treatment with this film enhanced skin hydration, reduced scaling, and improved the structural organization of the stratum corneum after 48 h. Functional assays using the SS model showed that HEX-3 treatment suppressed acetylcholine release, upregulated the antioxidant enzyme SOD2, and stimulated type I collagen synthesis. In aged skin samples, the application of HEX-3 significantly increased collagen levels. This effect was mirrored in the spheroid model, which reached collagen levels comparable to those of aged human skin upon treatment. These findings establish the SS model as a robust platform for evaluating the biological activity of neuropeptide-based topical therapies, offering valuable insights for developing advanced strategies for skin rejuvenation and repair."
+  },
+  {
+   "pmid": "41551769",
+   "titel": "Fluorous oligoarginines as supra-enhancers for intracellular and transdermal peptide delivery",
+   "jahr": "2026",
+   "journal": "Bioact Mater",
+   "erstautor": "Rong G",
+   "doi": "10.1016/j.bioactmat.2025.12.027",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Peptides are increasingly recognized as important therapeutics due to their specificity and potency. However, their clinical application is often hindered by numerous barriers, including low bioavailability, poor cell membrane and tissue penetration. To address these limitations, we developed a library of fluorous penetrating peptides and identified fluorinated hexa-arginine (FR6) as a super-enhancer for cell and tissue penetration. FR6 markedly enhances the intracellular delivery of a variety of peptides by improving membrane permeability, facilitating their uptake across diverse cell types. It greatly improves the penetration of bioactive peptides in 3D tumor spheroids, allowing for improved therapeutic efficacy. More importantly, FR6 demonstrates remarkable potential for transdermal delivery of peptide drugs, effectively enhancing the penetration of peptides like acetyl hexapeptide-8 for treating UVB-induced skin photoaging. Our findings underscore the use of FR6 as a super-enhancer in overcoming multiple physiological barriers during cell, tissue and transdermal delivery."
+  },
+  {
+   "pmid": "37538317",
+   "titel": "Improvement of mild photoaged facial skin in middle-aged Chinese females by a supramolecular retinol plus acetyl hexapeptide-1 containing essence",
+   "jahr": "2023",
+   "journal": "Skin Health Dis",
+   "erstautor": "Ye Y",
+   "doi": "10.1002/ski2.239",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: The anti-ageing gold standard, retinol, has been widely recognized for its anti-wrinkle benefits in the Chinese population. Studies have shown that Asians are more sensitive to retinol compared to their Caucasian counterparts, and it is generally recommended to use retinol once a day in the evening. However, there are few reports on the most appropriate concentration and frequency of retinol use in the general Chinese population. OBJECTIVES: In this study, supramolecular retinol was prepared using cyclodextrin encapsulation technology, and the most appropriate concentration for the general Chinese population was investigated. Then, a cosmetic essence was developed by combining the classic supramolecular retinol, which promotes collagen regeneration, with acetyl hexapeptide-1, a popular ingredient known for reducing expression lines. The safety and efficacy of this cosmetic essence were studied through clinical tests. METHODS: First, a patch test was conducted on 32 healthy Chinese subjects to compare the tolerance of supramolecular retinol to non-encapsulated retinol and to select the optimal concentration of retinol. Then, an 8-week clinical study was conducted using a twice-daily cosmetic essence containing 0.1% supramolecular retinol and 0.02% acetyl hexapeptide-1 to treat mild photoaging in 32 middle-aged Chinese women. Dermatological evaluations and instrument measurements were taken at baseline, 4 weeks, and 8 weeks. Efficacy was assessed using facial skin wrinkles, textures, elasticity, firmness, pores, gloss and stratum corneum hydration. Tolerability was assessed throughout the study. RESULTS: Our patch test results showed that supramolecular retinol was better tolerated than non-encapsulated retinol, and our findings suggest that 0.1% was the approximate optimal retinol concentration for the general Chinese population. The cosmetic essence studied was effective in improving the appearance of photoaged skin in the Chinese population in all aspects studied and was well tolerated. CONCLUSIONS: 0.1% retinol is suitable for twice daily use in the general Chinese population. Data and records on efficacy dimensions of skin textures, elasticity, firmness, pores, gloss and stratum corneum hydration for retinol in the Chinese population are supplemented with our study. Cosmeceutical approaches targeting both static and dynamic wrinkles are of value for treating the photoaged Chinese population."
+  }
+ ],
+ "ctgov": [
+  {
+   "nct": "NCT03878381",
+   "titel": "Investigating the Wrinkle Reduction Potential of a Novel Compounded Skin Care Cream",
+   "phase": "EARLY_PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 10,
+   "start": "2019-04-01",
+   "ende": "2022-10-29",
+   "erkrankungen": [
+    "Skin Care"
+   ],
+   "sponsor": "Wayne State University",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT01381484",
+   "titel": "Argireline in Treatment of Periorbital Wrinkles",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 70,
+   "start": "2009-03",
+   "ende": "2009-09",
+   "erkrankungen": [
+    "Wrinkles"
+   ],
+   "sponsor": "Mahidol University",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00942851",
+   "titel": "A Study of Acetyl Hexapeptide-8 (AH8) in Treatment of Blepharospasm",
+   "phase": "PHASE1,PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 24,
+   "start": "2009-07",
+   "ende": "2010-10",
+   "erkrankungen": [
+    "Focal Dystonia"
+   ],
+   "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT02597777",
+   "titel": "Topical Acetyl Hexapeptide-8 and the Cosmetic Appearance of Oily Skin",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 14,
+   "start": "2016-01",
+   "ende": "2016-02",
+   "erkrankungen": [
+    "Oily Skin"
+   ],
+   "sponsor": "University of California, Davis",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06143033",
+   "titel": "A Clinical Trial to Evaluate the Effects of an Eye Serum on Improving the Appearance of the Periorbital Area",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 35,
+   "start": "2023-08-21",
+   "ende": "2024-02-15",
+   "erkrankungen": [
+    "Periorbital Area"
+   ],
+   "sponsor": "Dime Beauty Co.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07879833",
+   "titel": "AI-Personalized Skincare Regimen for Facial Photoaging in Women",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 43,
+   "start": "2025-09-30",
+   "ende": "2026-02-13",
+   "erkrankungen": [
+    "Photoaging",
+    "Skin Aging"
+   ],
+   "sponsor": "MDalgorithms Inc.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT01750346",
+   "titel": "Acetyl Hexapeptide-8 for Blepharospasm",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "TERMINATED",
+   "teilnehmende": 8,
+   "start": "2012-11",
+   "ende": "2015-05",
+   "erkrankungen": [
+    "Focal Dystonia"
+   ],
+   "sponsor": "National Institute of Neurological Disorders and Stroke (NINDS)",
+   "ergebnisse": true
+  }
+ ],
+ "gruppe": "F_kollagen_kosmetik"
+}

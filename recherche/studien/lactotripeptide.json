@@ -1,0 +1,1086 @@
+{
+ "name": "Lactotripeptide (VPP/IPP)",
+ "status": "lebensmittel",
+ "suchbegriff_pubmed": "lactotripeptide*[tiab] OR (valyl-prolyl-proline[tiab])",
+ "suchbegriff_ctgov": "lactotripeptides",
+ "humanstudien_alle": [
+  {
+   "pmid": "37735182",
+   "titel": "Effects of lactotripeptide ingestion and physical activity intervention on the fatigue status of middle-aged and older adults: a randomized controlled trial",
+   "jahr": "2023",
+   "journal": "Sci Rep",
+   "erstautor": "Yoshioka M",
+   "doi": "10.1038/s41598-023-41669-2",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "30624594",
+   "titel": "Combined effects of lactotripeptide and aerobic exercise on cognitive function and cerebral oxygenation in middle-aged and older adults",
+   "jahr": "2019",
+   "journal": "Am J Clin Nutr",
+   "erstautor": "Hamasaki A",
+   "doi": "10.1093/ajcn/nqy235",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "29703414",
+   "titel": "Lactotripeptide ingestion increases cerebral blood flow velocity in middle-aged and older adults",
+   "jahr": "2018",
+   "journal": "Nutr Res",
+   "erstautor": "Akazawa N",
+   "doi": "10.1016/j.nutres.2018.03.009",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "29189308",
+   "titel": "Lactotripeptides Supplementations Alleviate the Decrease in Maximal Isometric Force After High-Intensity Eccentric Exercise: A Randomized, Placebo-Controlled, Double-Blind Clinical Trial",
+   "jahr": "2018",
+   "journal": "Am J Phys Med Rehabil",
+   "erstautor": "Tagawa K",
+   "doi": "10.1097/PHM.0000000000000867",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "26683986",
+   "titel": "Effect of Lactotripeptides (Isoleucine-Proline-Proline/Valine-Proline-Proline) on Blood Pressure and Arterial Stiffness Changes in Subjects with Suboptimal Blood Pressure Control and Metabolic Syndrome: A Double-Blind, Randomized, Crossover Clinical Trial",
+   "jahr": "2016",
+   "journal": "Metab Syndr Relat Disord",
+   "erstautor": "Cicero AF",
+   "doi": "10.1089/met.2015.0093",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "26168857",
+   "titel": "Effect of fermented milk product containing lactotripeptides and plant sterol esters on haemodynamics in subjects with the metabolic syndrome--a randomised, double-blind, placebo-controlled study",
+   "jahr": "2015",
+   "journal": "Br J Nutr",
+   "erstautor": "Hautaniemi EJ",
+   "doi": "10.1017/S0007114515002032",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "22617279",
+   "titel": "Effects of long-term intake of lactotripeptides on cardiovascular risk factors in hypertensive subjects",
+   "jahr": "2012",
+   "journal": "Eur J Clin Nutr",
+   "erstautor": "Jauhiainen T",
+   "doi": "10.1038/ejcn.2012.44",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "22574612",
+   "titel": "Predictors of the short-term effect of isoleucine-proline-proline/valine-proline-proline lactotripeptides from casein on office and ambulatory blood pressure in subjects with pharmacologically untreated high-normal blood pressure or first-degree hypertension",
+   "jahr": "2012",
+   "journal": "Clin Exp Hypertens",
+   "erstautor": "Cicero AF",
+   "doi": "10.3109/10641963.2012.681731",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "21753776",
+   "titel": "Lactotripeptides effect on office and 24-h ambulatory blood pressure, blood pressure stress response, pulse wave velocity and cardiac output in patients with high-normal blood pressure or first-degree hypertension: a randomized double-blind clinical trial",
+   "jahr": "2011",
+   "journal": "Hypertens Res",
+   "erstautor": "Cicero AF",
+   "doi": "10.1038/hr.2011.92",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "21091250",
+   "titel": "Hemodynamic effects of lactotripeptides from casein hydrolysate in Mediterranean normotensive subjects and patients with high-normal blood pressure: a randomized, double-blind, crossover clinical trial",
+   "jahr": "2010",
+   "journal": "J Med Food",
+   "erstautor": "Cicero AF",
+   "doi": "10.1089/jmf.2009.0253",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "20608891",
+   "titel": "The blood pressure lowering effect of lactotripeptides and salt intake in 24-h ambulatory blood pressure measurements",
+   "jahr": "2010",
+   "journal": "Clin Exp Hypertens",
+   "erstautor": "Yamasue K",
+   "doi": "10.3109/10641963.2010.491885",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "20145666",
+   "titel": "Long-term intervention with Lactobacillus helveticus fermented milk reduces augmentation index in hypertensive subjects",
+   "jahr": "2010",
+   "journal": "Eur J Clin Nutr",
+   "erstautor": "Jauhiainen T",
+   "doi": "10.1038/ejcn.2010.3",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "20075849",
+   "titel": "Additive beneficial effects of lactotripeptides intake with regular exercise on endothelium-dependent dilatation in postmenopausal women",
+   "jahr": "2010",
+   "journal": "Am J Hypertens",
+   "erstautor": "Yoshizawa M",
+   "doi": "10.1038/ajh.2009.270",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "20433527",
+   "titel": "The impact of lactotripeptides on blood pressure response in stage 1 and stage 2 hypertensives",
+   "jahr": "2010",
+   "journal": "J Clin Hypertens (Greenwich)",
+   "erstautor": "Germino FW",
+   "doi": "10.1111/j.1751-7176.2009.00250.x",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "19821692",
+   "titel": "Beneficial potential of casein hydrolysate containing Val-Pro-Pro and Ile-Pro-Pro on central blood pressure and hemodynamic index: a preliminary study",
+   "jahr": "2009",
+   "journal": "J Med Food",
+   "erstautor": "Nakamura T",
+   "doi": "10.1089/jmf.2009.0159",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ]
+  },
+  {
+   "pmid": "19783777",
+   "titel": "Additive beneficial effects of lactotripeptides and aerobic exercise on arterial compliance in postmenopausal women",
+   "jahr": "2009",
+   "journal": "Am J Physiol Heart Circ Physiol",
+   "erstautor": "Yoshizawa M",
+   "doi": "10.1152/ajpheart.00433.2009",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "19106238",
+   "titel": "Lactotripeptides do not lower ambulatory blood pressure in untreated whites: results from 2 controlled multicenter crossover studies",
+   "jahr": "2009",
+   "journal": "Am J Clin Nutr",
+   "erstautor": "van Mierlo LA",
+   "doi": "10.3945/ajcn.2008.26918",
+   "typ": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "19064533",
+   "titel": "Enzymatically hydrolyzed lactotripeptides do not lower blood pressure in mildly hypertensive subjects",
+   "jahr": "2008",
+   "journal": "Am J Clin Nutr",
+   "erstautor": "van der Zander K",
+   "doi": "10.3945/ajcn.2008.26003",
+   "typ": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "18086944",
+   "titel": "Lactotripeptides show no effect on human blood pressure: results from a double-blind randomized controlled trial",
+   "jahr": "2008",
+   "journal": "Hypertension",
+   "erstautor": "Engberink MF",
+   "doi": "10.1161/HYPERTENSIONAHA.107.098988",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  },
+  {
+   "pmid": "17374660",
+   "titel": "Angiotensin converting enzyme inhibitory peptides from a lactotripeptide-enriched milk beverage are absorbed intact into the circulation",
+   "jahr": "2007",
+   "journal": "J Nutr",
+   "erstautor": "Foltz M",
+   "doi": "10.1093/jn/137.4.953",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ]
+  },
+  {
+   "pmid": "15175633",
+   "titel": "Effect of ingesting sour milk fermented using Lactobacillus helveticus bacteria producing tripeptides on blood pressure in subjects with mild hypertension",
+   "jahr": "2004",
+   "journal": "J Hum Hypertens",
+   "erstautor": "Tuomilehto J",
+   "doi": "10.1038/sj.jhh.1001745",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  }
+ ],
+ "humanstudien_detail": [
+  {
+   "pmid": "29703414",
+   "titel": "Lactotripeptide ingestion increases cerebral blood flow velocity in middle-aged and older adults",
+   "jahr": "2018",
+   "journal": "Nutr Res",
+   "erstautor": "Akazawa N",
+   "doi": "10.1016/j.nutres.2018.03.009",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "The age-related decrease in cerebral blood flow velocity increases the risk of cerebrovascular disease. Milk protein-derived bioactive peptides, e.g., lactotripeptide (LTP), have been shown to inhibit angiotensin converting enzyme activities and increase vasodilator production. We hypothesized that LTP ingestion increases cerebral blood flow velocity in middle-aged and older adults. In a randomized, placebo-controlled, double-blind design, 15 healthy middle-aged and older adults were assigned to either a LTP group or a placebo group. The subjects ingested LTP or placebo orally for 8 weeks. Before and after intervention, middle cerebral blood flow velocity was measured using transcranial Doppler ultrasonography. The baseline middle cerebral blood flow velocity and most other key dependent variables did not differ between the groups. LTP ingestion significantly increased middle cerebral blood flow velocity, but there was no such improvement in the placebo groups. We concluded that 8 weeks of LTP ingestion increased middle cerebral blood flow velocity in middle-aged and older adults."
+  },
+  {
+   "pmid": "21091250",
+   "titel": "Hemodynamic effects of lactotripeptides from casein hydrolysate in Mediterranean normotensive subjects and patients with high-normal blood pressure: a randomized, double-blind, crossover clinical trial",
+   "jahr": "2010",
+   "journal": "J Med Food",
+   "erstautor": "Cicero AF",
+   "doi": "10.1089/jmf.2009.0253",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Contrasting data partially support a certain antihypertensive efficacy of lactotripeptides derived from enzymatic treatment of casein hydrolysate. We carried out a randomized, double-blind, crossover clinical study to investigate the antihypertensive efficacy of a short-term treatment with lactotripeptides in Mediterranean subjects with normal or high-normal blood pressure (BP). We consecutively enrolled 55 untreated subjects (men:women = 30:25), 40.3 ± 9.8 years old, with normal or high-normal BP. After 4 weeks of dietary standardization, they were allocated to treatment with a fruit juice containing 3 mg of added Ile-Pro-Pro/Val-Pro-Pro lactotripeptides or with placebo for 4 weeks. After a 4-week washout period, they were then assigned to the alternative treatment for a further period of 4 weeks. Overall, no significant difference has been observed in office BP comparing baseline data with those posttreatment. Repeating the analysis by basal BP level, a mild but significant reduction in systolic BP (-1.7 ± 2.3 mm Hg; t = 3.5, P = .002) has been observed only in subjects with high-normal BP after treatment with lactotripeptides. With regard to 24-hour BP measurement, after lactotripeptide treatment only, the subjects experienced a significant reduction in diurnal diastolic BP (-1.6 ± 5.4 mm Hg; P = .042), diurnal mean BP (-2.1 ± 5.9 mm Hg; P = .19), and 24-hour (-5.4 ± 14.2 mm Hg; P = .011) and diurnal (-7.1 ± 19.2%; P = .014) diastolic BP value measurements relative to normal values. No modification has been observed in relation to plasma renin activity and aldosteronemia. In conclusion, diurnal diastolic BP is significantly reduced by lactrotripeptide supplementation in untreated Mediterranean subjects with normal or high-normal BP. Office systolic BP is reduced only in subjects with high-normal BP."
+  },
+  {
+   "pmid": "20145666",
+   "titel": "Long-term intervention with Lactobacillus helveticus fermented milk reduces augmentation index in hypertensive subjects",
+   "jahr": "2010",
+   "journal": "Eur J Clin Nutr",
+   "erstautor": "Jauhiainen T",
+   "doi": "10.1038/ejcn.2010.3",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: The milk casein-derived biologically active tripeptides, isoleucyl-prolyl-proline (Ile-Pro-Pro) and valyl-prolyl-proline (Val-Pro-Pro), have documented antihypertensive effect probably related to reduced angiotensin formation. It has been suggested that these tripeptides may reduce arterial stiffness and improve endothelial function. Our aim was to evaluate whether the milk-based drink containing Ile-Pro-Pro and Val-Pro-Pro influence arterial stiffness, measured as augmentation index (AIx), and endothelial function in man. METHODS: In a double-blind parallel group intervention study, 89 hypertensive subjects received daily peptide milk containing a low dose of tripeptides (5 mg/day) for 12 weeks and a high dose (50 mg/day) for the following 12 weeks, or a placebo milk drink to titrate the dose-response effect. Arterial stiffness was assessed by pulse wave analysis at the beginning and end of each intervention period. Endothelial function was tested by examining pulse wave reflection response to sublingual nitroglycerin and salbutamol inhalation. Blood pressure was measured by using office and 24-h ambulatory blood pressure measurement. RESULTS: At the end of the second intervention period, AIx decreased significantly in the peptide group compared with the placebo group (peptide group -1.53% (95% confidence interval (CI) -2.95 to -0.12), placebo group 1.20% (95% CI 0.09-2.32), P=0.013). No change in endothelial function index was observed (peptide group 0.02 (95% CI -0.06 to 0.08), placebo group 0.04 (95% CI -0.04 to 0.12), P=0.85). There were no statistically significant differences between the effects of the peptide and placebo treatment on office and 24-h ambulatory blood pressure. CONCLUSIONS: Long-term treatment with Lactobacillus helveticus-fermented milk containing bioactive peptides reduces arterial stiffness expressed as AIx in hypertensive subjects."
+  },
+  {
+   "pmid": "17374660",
+   "titel": "Angiotensin converting enzyme inhibitory peptides from a lactotripeptide-enriched milk beverage are absorbed intact into the circulation",
+   "jahr": "2007",
+   "journal": "J Nutr",
+   "erstautor": "Foltz M",
+   "doi": "10.1093/jn/137.4.953",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "Food products containing angiotensin converting enzyme (ACE) inhibitory peptides reportedly play a role in treatment of mild hypertension. The aim of this placebo-controlled crossover study was to assess the bioavailability of Ile-Pro-Pro and 7 other ACE-inhibiting peptides present in a lactotripeptide (LTP)-enriched yogurt beverage and whether meal intake affects Ile-Pro-Pro bioavailability. Six male and female subjects randomly consumed an LTP-enriched yogurt beverage or a placebo in the fasted state and an LTP-enriched yogurt beverage in the fed or fasted state. The area under the curve (AUC) of Ile-Pro-Pro after the LTP treatment in the fasted state was 2.1-fold of that after the placebo treatment (P < 0.001). The maximum peptide plasma concentration (C(max)) value was greater after consumption of the LTP-enriched beverage (897 +/- 157 pmol/L) than after the placebo treatment (555 +/- 0.09 pmol/L; P < 0.001) with a greater time after ingestion when reaching C(max) (T(max)) in the placebo treatment. Plasma concentrations of the peptides Leu-Trp, Phe-Tyr, Ile-Tyr, and Leu-Pro-Pro increased compared with baseline (P < 0.05) in the LTP-enriched and placebo treatment when consumed in the fasted state. However, DeltaC(max) values differed significantly between the placebo and LTP-enriched treatment only for Leu-Pro-Pro. Meal intake affected Ile-Pro-Pro concentrations. When the beverage was consumed after a meal, the AUC of Ile-Pro-Pro was 1.3-fold (P < 0.05) of the AUC derived from premeal intake. This was due to an increase in the plasma elimination half-life (P < 0.05); C(max) and T(max) were not affected by meal intake. In summary, this is the first demonstration, to our knowledge, that the tripeptide Ile-Pro-Pro selectively escapes from intestinal degradation and reaches the circulation undegraded."
+  },
+  {
+   "pmid": "30624594",
+   "titel": "Combined effects of lactotripeptide and aerobic exercise on cognitive function and cerebral oxygenation in middle-aged and older adults",
+   "jahr": "2019",
+   "journal": "Am J Clin Nutr",
+   "erstautor": "Hamasaki A",
+   "doi": "10.1093/ajcn/nqy235",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Age-related declines in cognitive function and cerebral perfusion increase the risk of dementia. Although nutrition and exercise may be effective in reducing cognitive decline, the effect of lactotripeptide (LTP) on cerebral oxygenation and hemodynamics remains unclear. OBJECTIVES: The aim of this study was to investigate the effects of LTP ingestion on cerebral oxygenation, cognitive function, and vascular function in middle-aged and older adults with or without an exercise intervention. METHODS: We recruited 2 separate groups of participants, one with and one without an exercise intervention. Each group was then randomly assigned into a placebo group and an LTP group. The participants ingested a placebo or LTP every day. The exercise group performed aerobic exercises 4-6 d/wk. Before and after the 8-wk intervention, we measured oxygenated hemoglobin (oxy-Hb) concentration (oxy-Hb change) in the prefrontal cortex during the Stroop task (primary outcome), Stroop interference time, and carotid artery β-stiffness (both secondary outcomes). RESULTS: Sixty-four participants completed the study. Changes in oxy-Hb signal in the prefrontal cortex were greater in the LTP group than in the placebo group under both the exercise and nonexercise conditions (P < 0.05). In addition, the magnitude of improvement in the oxy-Hb change in the left prefrontal cortex was correlated with Stroop interference (r = -0.39, P < 0.05) and carotid β-stiffness (r = -0.41, P < 0.05). CONCLUSIONS: An 8-wk intake of LTP increased cerebral oxygenation in the prefrontal cortex region in middle-aged and older adults, with and without exercise. The intervention-induced improvements in brain neural activation were associated with cognitive and vascular function. This trial was registered at www.umin.ac.jp as UMIN000022313."
+  },
+  {
+   "pmid": "37735182",
+   "titel": "Effects of lactotripeptide ingestion and physical activity intervention on the fatigue status of middle-aged and older adults: a randomized controlled trial",
+   "jahr": "2023",
+   "journal": "Sci Rep",
+   "erstautor": "Yoshioka M",
+   "doi": "10.1038/s41598-023-41669-2",
+   "typ": [
+    "Randomized Controlled Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "This randomized controlled trial aimed to investigate the effects of eight weeks of lactotripeptide (LTP) ingestion, physical activity (PA) intervention, and combined intervention on the fatigue status of middle-aged and older adults. A total of 78 middle-aged and older adults (63 ± 8 years of age) were randomly assigned to four groups: placebo, LTP, placebo with PA intervention (placebo + PA), and LTP with PA intervention (LTP + PA). All participants ingested the placebo or LTP tablets daily (three tablets/day). The placebo + PA and LTP + PA groups participated in a weekly supervised exercise class and were instructed to increase their moderate- to vigorous-intensity PA at home. The visual analog scale, Brief Fatigue Inventory, Profile of Mood States second edition (POMS2), and Beck Depression Inventory second edition (BDI-II) were administered before and after the intervention. No significant interactions or main effects were observed between LTP ingestion and PA intervention on any of the fatigue scales. The main-effect analyses revealed that the PA intervention improved the total mood disturbance score of the POMS2 (F = 5.22, P = 0.03) and BDI-II score (F = 4.81, P = 0.03). After the post hoc paired comparisons, the total mood disturbance and BDI-II scores improved more with the combined intervention than with the PA intervention alone (percentage difference between the effect of combined intervention and PA intervention alone was 3.7% for total mood disturbance score and 13.7% for BDI-II score). The present study suggests that eight weeks of LTP ingestion and PA intervention did not have a significant effect on fatigue status. However, the PA intervention improved mood status and depressive symptoms, and these effects were enhanced by LTP ingestion."
+  },
+  {
+   "pmid": "20608891",
+   "titel": "The blood pressure lowering effect of lactotripeptides and salt intake in 24-h ambulatory blood pressure measurements",
+   "jahr": "2010",
+   "journal": "Clin Exp Hypertens",
+   "erstautor": "Yamasue K",
+   "doi": "10.3109/10641963.2010.491885",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ],
+   "abstract": "It is well known that the sour milk containing lactotripeptides has a blood pressure lowering effect. The aim of this study was to evaluate the blood pressure (BP) lowering effect of lactotripeptides by monitoring home blood pressure, 24-h ambulatory measurements (ABPM), and daily urinary salt excretion. A total of 30 volunteers were given 200 ml of sour milk twice a day for 8 weeks after a 1-week run-in period. This preparation contained the lactotripeptides valine-proline-proline 2.66 mg and isoleucine-proline-proline 1.38 mg. The study participants had daily measurements of urinary salt excretion determined by an electric salt sensor and home blood pressure for each week during the run-in period, before the 4-and 8-week time points. 24-h ABPM was measured at the end of each week. Mean systolic blood pressure (SBP) during night sleep including base BP at 4 and 8 weeks were significantly lower than baseline values. Mean SBP and diastolic blood pressure (DBP) during night sleep of the 22 participants who belonged to the criteria of hypertension by 24-h ABPM was significantly decreased at 4 and 8 weeks. The change in 24-h mean SBP significantly correlated with mean urinary salt excretion over the three measurement periods. The 22 hypertensive subjects without taking lactotripeptides did not show significant change of blood pressure during 24 hours at 4 and 8 weeks. Our study confirmed the BP lowering effect of lactotripeptides during night-time sleep and showed that a lower intake of salt may increase the BP lowering effect of lactotripeptides through 24 hours in hypertensive subjects."
+  },
+  {
+   "pmid": "26168857",
+   "titel": "Effect of fermented milk product containing lactotripeptides and plant sterol esters on haemodynamics in subjects with the metabolic syndrome--a randomised, double-blind, placebo-controlled study",
+   "jahr": "2015",
+   "journal": "Br J Nutr",
+   "erstautor": "Hautaniemi EJ",
+   "doi": "10.1017/S0007114515002032",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "We investigated the effects of fermented milk product containing isoleucine-proline-proline, valine-proline-proline and plant sterol esters (Pse) on plasma lipids, blood pressure (BP) and its determinants systemic vascular resistance and cardiac output. In a randomised, double-blind, placebo-controlled study, 104 subjects with the metabolic syndrome (MetS) were allocated to three groups in order to receive fermented milk product containing (1) 5 mg/d lactotripeptides (LTP) and 2 g/d plant sterols; (2) 25 mg/d LTP and 2 g/d plant sterols; (3) placebo for 12 weeks. Plasma lipids and home BP were monitored. Haemodynamics were examined in a laboratory using radial pulse wave analysis and whole-body impedance cardiography in the supine position and during orthostatic challenge. There were no differences between the effects of the two treatments and placebo on the measurements of BP at home or on BP, systemic vascular resistance index and cardiac index in the laboratory, neither in the supine nor in the upright position. The changes in plasma LDL-cholesterol concentration were - 0.1 (95% CI - 0.3, 0.1 and - 0.3, 0.0) mmol/l in the 5 and 25 mg/d LTP groups, respectively, and +0.1 (95% CI - 0.1, 0.3) mmol/l during placebo (P= 0.024). Both at baseline and at week 12, the increase in systemic vascular resistance during head-up tilt was lower in the 25 mg/d LTP group than in the 5 mg/d LTP group (P< 0.01), showing persistent differences in cardiovascular regulation between these groups. In subjects with the MetS, intake of LTP and Pse in fermented milk product showed a lipid-lowering effect of borderline significance, while no antihypertensive effect was observed at home or in the laboratory."
+  },
+  {
+   "pmid": "20433527",
+   "titel": "The impact of lactotripeptides on blood pressure response in stage 1 and stage 2 hypertensives",
+   "jahr": "2010",
+   "journal": "J Clin Hypertens (Greenwich)",
+   "erstautor": "Germino FW",
+   "doi": "10.1111/j.1751-7176.2009.00250.x",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "Nearly 70 million Americans have hypertension, and approximately an equal number have prehypertension. The prevalence of both disorders increases with advancing age and obesity. Many at-risk individuals do not have controlled blood pressure (BP). Lifestyle modification for most persons is the first step in a plan to control these conditions. Non-drug treatments offer an appeal to many patients with modest BP elevation. The authors recently evaluated BP response using 24-hour ambulatory BP monitoring and office BP monitoring of lactotripeptides dosed twice daily in 91 previously treated and treatment-naive patients with stage 1 and stage 2 hypertension. In this population, daytime systolic BP, the primary efficacy end point, significantly decreased (-3.6 mm Hg; P=.013), while placebo did not affect systolic BP (0 mm Hg; P=not significant). Treatment-naive patients exhibited a more robust drop in their daytime systolic BP (-7.6 mm Hg; P=.005) compared with placebo (-3.6 mm Hg; P=not significant). Lactotripeptides may be an effective agent in the management of low-risk and low-grade hypertension and prehypertension."
+  },
+  {
+   "pmid": "19064533",
+   "titel": "Enzymatically hydrolyzed lactotripeptides do not lower blood pressure in mildly hypertensive subjects",
+   "jahr": "2008",
+   "journal": "Am J Clin Nutr",
+   "erstautor": "van der Zander K",
+   "doi": "10.3945/ajcn.2008.26003",
+   "typ": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Several placebo-controlled clinical studies suggest that products containing isoleucyl-prolyl-proline and valyl-prolyl-proline are able to lower blood pressure without adverse effects. The most efficient way of producing high concentrations of these lactotripeptides (LTPs) is enzymatic hydrolysis of dairy protein (casein) with the use of a mixture of several enzymes derived from the nongenetically modified organism Aspergillus oryzae, including proteases and peptidases. To date, no large studies of the blood pressure-lowering properties of enzymatically produced LTP (ELTP) powder in European populations have been published. OBJECTIVE: This study was performed to evaluate the hypothesis that consumption of ELTP in a yogurt beverage for 8 wk significantly lowers blood pressure. DESIGN: In this multicenter, double-blind, parallel, placebo-controlled trial, office blood pressure was evaluated in 275 Dutch hypertensive subjects. Blood pressures and body weight were measured on several days at baseline and at weeks 4 and 8 of the intervention between 2.5 and 3 h after intake of the test product. Twenty-four-h urine samples were collected at baseline and at the end of the intervention for urinalysis of sodium, potassium, creatinine, and microalbumin excretion. RESULTS: The results showed that 10.2 mg ELTP/d does not lead to a reduction in systolic blood pressure (P = 0.66) or diastolic blood pressure (P = 0.72) compared with placebo. CONCLUSION: This study showed no effect of an ELTP-enriched yogurt beverage on blood pressure in hypertensive subjects in a fairly large study."
+  },
+  {
+   "pmid": "18086944",
+   "titel": "Lactotripeptides show no effect on human blood pressure: results from a double-blind randomized controlled trial",
+   "jahr": "2008",
+   "journal": "Hypertension",
+   "erstautor": "Engberink MF",
+   "doi": "10.1161/HYPERTENSIONAHA.107.098988",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Milk-derived peptides with ACE-inhibiting properties may have antihypertensive effects in humans. We conducted a randomized double-blind placebo-controlled trial to examine the blood pressure lowering potential of 2 ACE-inhibiting lactotripeptides, ie, Isoleucine-Proline-Proline and Valine-Proline-Proline. We included 135 Dutch subjects with elevated systolic blood pressure who were otherwise healthy and who received no current antihypertensive treatment. After a 2-week run-in period on placebo, subjects randomly received a daily dose of 200 mL dairy drink with 14 mg lactotripeptides obtained by concentrating fermented milk, enzymatic hydrolysis, or chemical synthesis, or placebo for 8 weeks, followed by a 2-week wash-out. The primary outcome was 8-week change in office systolic blood pressure. Secondary outcomes were change in diastolic blood pressure, home blood pressure, 24-hour ambulatory blood pressure, plasma ACE-activity, and plasma angiotensin II. Blood pressure at baseline was on average 142/84 mm Hg. Lactotripeptides did not significantly change systolic blood pressure (P=0.46) or diastolic blood pressure (P=0.31) compared with placebo. The mean difference (95%-CI) in systolic blood pressure response between treatment and placebo was 2.8 mm Hg (-2.6;8.2) for concentrated fermented milk lactotripeptides, -0.5 mm Hg (-6.0;5.0) for enzymatic lactotripeptides, and 1.6 mm Hg (-3.9;6.9) for synthetic lactotripeptides. Treatment neither had a significant effect on secondary outcome measures. In conclusion, the present study does not support the hypothesis of a blood pressure lowering effect of the lactotripeptides Isoleucine-Proline-Proline and Valine-Proline-Proline."
+  },
+  {
+   "pmid": "26683986",
+   "titel": "Effect of Lactotripeptides (Isoleucine-Proline-Proline/Valine-Proline-Proline) on Blood Pressure and Arterial Stiffness Changes in Subjects with Suboptimal Blood Pressure Control and Metabolic Syndrome: A Double-Blind, Randomized, Crossover Clinical Trial",
+   "jahr": "2016",
+   "journal": "Metab Syndr Relat Disord",
+   "erstautor": "Cicero AF",
+   "doi": "10.1089/met.2015.0093",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Lactotripeptides (LTPs) have a mild antihypertensive effect in hypertensive subjects. The main aim of our clinical trial was to test if LTPs could have some influence on blood pressure (BP) and related hemodynamic parameters in a sample of outpatients affected by metabolic syndrome. METHODS: A randomized, double-blind, placebo-controlled, crossover clinical trial was conducted in a group of 40 nonsmoking volunteers with metabolic syndrome. The treatment periods were 4 weeks long and were separated by a 4-week washout period. The dietary supplementation was made by daily administration of LTPs from casein, 10.2 mg/day, and compared with placebo. RESULTS: During the LTP treatment, patients experienced a significant mean decrease in systolic BP (SBP; -3.4 ± 4.4 mmHg, P = 0.041), diastolic BP (DBP; -3.1 ± 3.2 mmHg, P = 0.049), and pulse wave velocity (PWV; -0.7 ± 0.3 m/sec, P = 0.001). After LTP treatment, delta SBP, DBP, and PP were all significantly improved (P < 0.01 for all) compared with placebo. PWV also improved significantly after LTP treatment with respect to the end of the treatment with placebo (-0.8 ± 0.4 vs. -0.1 ± 0.3 m/sec, P = 0.009). The square root of the ratio of peak:baseline pulse volume during hyperemia (√V2/V1) improved after LTP treatment only (1.2 ± 0.4 vs. 1.4 ± 0.5, P = 0.04). Through the evaluation of the hemodynamic parameters that were measured by the 24-hr ambulatory monitoring, we observed that SBP, MBP, and the percentage of time with SBP over the normal were significantly reduced only after the LTP treatment (P < 0.05). These parameters were also significantly improved when compared with the ones measured after the placebo treatment (P < 0.05). CONCLUSION: In our trial, during LTP treatment, patients affected by metabolic syndrome experienced a mild but significant improvement in office and 24-hr BP, PWV, and endothelial function compared with placebo treatment."
+  },
+  {
+   "pmid": "19783777",
+   "titel": "Additive beneficial effects of lactotripeptides and aerobic exercise on arterial compliance in postmenopausal women",
+   "jahr": "2009",
+   "journal": "Am J Physiol Heart Circ Physiol",
+   "erstautor": "Yoshizawa M",
+   "doi": "10.1152/ajpheart.00433.2009",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Central arterial compliance plays an important role in the functional abilities of the vasculature. Two active tripeptides, valine-proline-proline and isoleucine-proline-proline, were isolated from sour milk and were referred to as lactotripeptides (LTP). Because LTP appears to act as an angiotensin-converting enzyme inhibitor, it is plausible to hypothesize that LTP improves arterial compliance. We determined the effects of LTP ingestion alone or in combination with regular aerobic exercise on arterial compliance. A total of 55 postmenopausal women (50-65 yr old) were randomly divided into four groups: placebo, LTP, exercise and placebo (Ex + placebo), or exercise and LTP (Ex + LTP). LTP or placebo was administered orally for 8 wk. The exercise groups completed an 8-wk moderate aerobic exercise intervention. There were no differences in baseline arterial compliance and most other key dependent variables among the groups. Carotid arterial compliance increased significantly in the LTP (0.93 + or - 0.07 vs. 0.99 + or - 0.08 mm(2)/mmHg x 10(-1)), Ex + placebo (0.92 + or - 0.04 vs. 1.00 + or - 0.05 mm(2)/mmHg x 10(-1)), and Ex + LTP groups (0.86 + or - 0.06 vs. 1.00 + or - 0.06 mm(2)/mmHg x 10(-1)), whereas no such changes were observed in the placebo control group (0.86 + or - 0.06 vs. 0.85 + or - 0.07 mm(2)/mmHg x 10(-1)). The magnitude of increases in carotid arterial compliance was significantly greater in the Ex + LTP group (19 + or - 4%) than in other groups. The improvements in arterial compliance with LTP were associated with the corresponding reductions in arterial blood pressure and plasma angiotensin II concentrations. We concluded that LTP ingestion improves carotid arterial compliance and that the combination of LTP ingestion and regular exercise is additive and synergistic in improving arterial compliance in postmenopausal women."
+  },
+  {
+   "pmid": "29189308",
+   "titel": "Lactotripeptides Supplementations Alleviate the Decrease in Maximal Isometric Force After High-Intensity Eccentric Exercise: A Randomized, Placebo-Controlled, Double-Blind Clinical Trial",
+   "jahr": "2018",
+   "journal": "Am J Phys Med Rehabil",
+   "erstautor": "Tagawa K",
+   "doi": "10.1097/PHM.0000000000000867",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: The aim of the study was to investigate whether lactotripeptides supplementations alleviate the decrease in the maximal isometric force, an indirect marker of muscle damage, after eccentric exercise (ECC). DESIGN: Twenty-two young men performed 50 ECC of the elbow flexors using an isokinetic dynamometer. The subjects were randomly assigned to either the placebo or lactotripeptides group and were each given a 4.5 mg/d placebo or lactotripeptides thrice on the exercise day and the day after. Maximal isometric force and brachial arterial diameter were assessed before and 2 days after the ECC. RESULTS: The interaction of time and group on maximal isometric force was significant (P < 0.05); maximal isometric force was significantly decreased in both groups after ECC (P < 0.005). The interaction of brachial arterial diameter was significant (P < 0.05); brachial arterial diameter was significantly increased in only the lactotripeptides group (P < 0.005). In addition, the change in maximal isometric force was significantly related to the change in brachial arterial diameter after adjusting for body weight and change in range of motion (P < 0.05). CONCLUSIONS: The present results suggest that lactotripeptides supplementation alleviates the decrease in the maximal isometric force via an increase in brachial arterial diameter after ECC."
+  },
+  {
+   "pmid": "22617279",
+   "titel": "Effects of long-term intake of lactotripeptides on cardiovascular risk factors in hypertensive subjects",
+   "jahr": "2012",
+   "journal": "Eur J Clin Nutr",
+   "erstautor": "Jauhiainen T",
+   "doi": "10.1038/ejcn.2012.44",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "BACKGROUND/OBJECTIVES: Lactobacillus helveticus LBK-16H-fermented milk products containing tripeptides isoleucine-proline-proline and valine-proline-proline lower blood pressure in hypertensive subjects using office and home blood pressure registration. The present study was aimed to evaluate the effects of two doses of these lactotripeptides on 24-h ambulatory blood pressure and lipidomics profiles in mildly hypertensive subjects. SUBJECTS/METHODS: In a randomized, double-blind, placebo-controlled parallel group study, 89 mildly hypertensive subjects ingested, after a 1-month run-in period, a fermented milk drink with 5 mg per day of lactotripeptides during 3 months, and a milk drink with 50 mg per day of lactotripeptides for the following 3 months, or a placebo milk drink without lactotripeptides. Ambulatory blood pressure (24 h) was recorded at baseline and at the end of the intervention periods. Lipidomics profiles were characterized before and after the 6-month intervention. RESULTS: After the second intervention period (50 mg per day of lactotripeptides), systolic and diastolic 24-h blood pressures decreased significantly in the peptide, but not in the placebo group. However, the treatment effects -2.6 mm Hg (95% confidence interval (CI): -5.7 to 0.4) in systolic and -1.3 mm Hg (95% CI: -3.4 to 0.8) in diastolic blood pressure did not reach statistic significance. Ingestion of 5 mg per day of lactotripeptides for 3 months did not lower blood pressure. The peptide group was dominated by decrease in multiple phospholipids (PL). CONCLUSIONS: Ingestion of fermented milk with daily dose of 50 mg of lactotripeptides appears to lower elevated blood pressure slightly from the baseline, but not significantly compared with the placebo group and to induce significant decreases in multiple PL."
+  },
+  {
+   "pmid": "20075849",
+   "titel": "Additive beneficial effects of lactotripeptides intake with regular exercise on endothelium-dependent dilatation in postmenopausal women",
+   "jahr": "2010",
+   "journal": "Am J Hypertens",
+   "erstautor": "Yoshizawa M",
+   "doi": "10.1038/ajh.2009.270",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Peripheral conduit artery endothelium-dependent dilatation decreases with aging in humans. Lactotripeptides (LTPs) and regular exercise can improve endothelium-dependent dilatation, but combining these lifestyle modifications may be more effective than either treatment alone. We conducted a randomized, place-controlled trial with four different intervention arms. METHODS: A total of 43 postmenopausal women (50-65 years old) were randomly divided into placebo, LTP, exercise and placebo (Ex+placebo), or exercise and LTP (Ex+LTP) groups. LTP or placebo was administered orally for 8 weeks. The exercise groups completed an 8-week moderate aerobic exercise (walking or cycling) intervention. RESULTS: There were no statistically significant differences in baseline flow-mediated dilatation (FMD) and most other key dependent variables among the groups. FMD significantly increased in the LTP, Ex+placebo, and Ex+LTP groups whereas no such changes were observed in the placebo control group. The magnitude of increases in FMD was significantly greater in the Ex+LTP group than other intervention groups. CONCLUSION: We concluded that LTP ingestion combined with regular aerobic exercise improves endothelium-dependent dilatation to a greater extent than monotherapy with either intervention alone in postmenopausal women."
+  },
+  {
+   "pmid": "21753776",
+   "titel": "Lactotripeptides effect on office and 24-h ambulatory blood pressure, blood pressure stress response, pulse wave velocity and cardiac output in patients with high-normal blood pressure or first-degree hypertension: a randomized double-blind clinical trial",
+   "jahr": "2011",
+   "journal": "Hypertens Res",
+   "erstautor": "Cicero AF",
+   "doi": "10.1038/hr.2011.92",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "Contrasting data partially support a certain antihypertensive efficacy of lactotripeptides (LTPs) derived from enzymatic treatment of casein hydrolysate. Our aim was to evaluate this effect on a large number of hemodynamic parameters. We conducted a prospective double-blind randomized clinical trial, which included 52 patients affected by high-normal blood pressure (BP) or first-degree hypertension. We investigated the effect of a 6-week treatment with the LTPs isoleucine-proline-proline and valine-proline-proline at 3 mg per day, assumed to be functional food, on office BP, 24-h ambulatory BP monitoring (ABPM) values, stress-induced BP increase and cardiac output-related parameters. In the LTP-treated subjects, we observed a significant reduction in office systolic BP (SBP; -5±8 mm Hg, P=0.013) and a significant improvement in pulse wave velocity (PWV; -0.66±0.81 m s(-1), P=0.001; an instrumental biomarker of vascular rigidity). No effect on 24-h ABPM parameters and BP reaction to stress was observed from treatment with the combined LTPs. LTPs, but not placebo, were associated with a mild but significant change in the stroke volume (SV), SV index (markers of cardiac flow), the acceleration index (ACI) and velocity index (VI) (markers of cardiac contractility). No effect was observed on parameters related to fluid dynamics or vascular resistance. LTPs positively influenced the office SBP, PWV, SV, SV index, ACI and VI in patients with high-normal BP or first-degree hypertension."
+  },
+  {
+   "pmid": "15175633",
+   "titel": "Effect of ingesting sour milk fermented using Lactobacillus helveticus bacteria producing tripeptides on blood pressure in subjects with mild hypertension",
+   "jahr": "2004",
+   "journal": "J Hum Hypertens",
+   "erstautor": "Tuomilehto J",
+   "doi": "10.1038/sj.jhh.1001745",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Angiotensin-converting enzyme (ACE) is important in the regulation of blood pressure (BP). Two tripeptides that inhibit ACE, isoleucyl-prolyl-proline (Ile-Pro-Pro) and valyl-prolyl-proline (Val-Pro-Pro), have been isolated from certain sour milks. The aim of the study reported was to evaluate the effect on BP in subjects with mild hypertension of a new sour milk containing tripeptides. The initial number of subjects was 60 (36 men, 24 women). Among the criteria for inclusion in the study were systolic BP (SBP) between 140 and 180 mmHg and/or diastolic BP (DPB) between 90 and 110 mmHg, without antihypertensive drug therapy. There were two study periods with a washout period between. All subjects were given 1.5 dl per day of a placebo (regular sour milk) or of the active product, a milk that had been fermented with Lactobacillus helveticus bacteria and contained 2.4-2.7 mg of Ile-Pro-Pro and 2.4-2.7 mg of Val-Pro-Pro per 1.5 dl. In the first phase, SBP fell 16 mmHg from baseline in the active group, 2 mmHg more than in the placebo group (P=0.0668) and no difference in DBP (P=0.92). There was a statistically significant downward trend both in SBP and DBP (P=0.0001). During the second phase, SBP fell 11 mmHg in the active group (P=0.008). The reduction in SBP was significantly larger in active than placebo group (P=0.012). In the crossover analysis combining both phases, SBP fell on average 2.6+/-15.9 mmHg more on the active product compared with the placebo product, but this difference was not statistically significant (P=0.3111). The difference in DBP, 1.0+/-8.3 mmHg between the two test products was not significant either (P=0.4431). In conclusion, the ingestion of sour milk fermented by L. helveticus bacteria and that containing ACE inhibitory tripeptides seems to lower BP modestly."
+  },
+  {
+   "pmid": "19106238",
+   "titel": "Lactotripeptides do not lower ambulatory blood pressure in untreated whites: results from 2 controlled multicenter crossover studies",
+   "jahr": "2009",
+   "journal": "Am J Clin Nutr",
+   "erstautor": "van Mierlo LA",
+   "doi": "10.3945/ajcn.2008.26918",
+   "typ": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Dietary factors directly influence blood pressure (BP). The lactotripeptides (LTPs) IPP (isoleucine-proline-proline) and VPP (valine-proline-proline), formed by hydrolyzing dairy proteins, and potassium, a mineral mainly found in fruit, vegetables, and dairy products, are extensively studied for their BP-lowering effect. The efficacy of LTPs seems modest in whites compared with that in Asians. OBJECTIVE: The objective was to study the effects of enzymatically produced LTPs alone or in combination with potassium on ambulatory BP in whites. DESIGN: Two multicenter, placebo-controlled, randomized, crossover studies were conducted; each consisted of two 4-wk intervention periods separated by a 4-wk washout period. In study 1, 69 subjects received 200 g/d of a dairy drink with 5.8 mg IPP and 4.4 mg VPP or placebo. In study 2, 93 subjects received 100 g/d of a dairy drink with 2.7 mg IPP, 1.9 mg VPP, and 350 mg added K or placebo. The subjects were randomly assigned according to their daytime ambulatory BP. RESULTS: Mean 24-h systolic and diastolic BP (baseline values-study 1: 137.1/81.6 mm Hg; study 2: 139.2/80.9 mm Hg) remained similar with no significant differences between treatments in either study (P > 0.10). Office BP decreased over the course of both studies (systolic BP > 5 mm Hg), but differences between interventions were not significant (P > 0.10). In both studies, nighttime BP dipped during all treatments (> or =15%) but was statistically more significant with placebo (P < 0.05). Sodium excretion increased significantly after consumption of LTPs and potassium compared with after placebo intervention (P = 0.01), but not after consumption of LTPs alone. CONCLUSION: The data do not support a BP-lowering effect of LTPs in whites."
+  },
+  {
+   "pmid": "22574612",
+   "titel": "Predictors of the short-term effect of isoleucine-proline-proline/valine-proline-proline lactotripeptides from casein on office and ambulatory blood pressure in subjects with pharmacologically untreated high-normal blood pressure or first-degree hypertension",
+   "jahr": "2012",
+   "journal": "Clin Exp Hypertens",
+   "erstautor": "Cicero AF",
+   "doi": "10.3109/10641963.2012.681731",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "abstract": "Our aim was to evaluate the predictors of Isoleucine-Proline-Proline/Valine-Proline-Proline (IPP-VPP) lactotripeptides (LTPs) antihypertensive effect in the context of a short-term large double-blind randomized clinical trial involving 164 pharmacologically untreated subjects in primary prevention for cardiovascular disease. When compared with the baseline, office systolic blood pressure (SBP) (-3.42 mm Hg, P < .001) and diastolic blood pressure (DBP) (-2.35 mm Hg, P < .001) significantly decreased, in the LTP-treated patients only. No significant change in predictors during the study of ambulatory blood pressure measurement (ABPM) parameters was observed. A short-term supplementation with LTPs significantly improves the office SBP and DBP, especially in male subjects. The main predictor of LTP antihypertensive effect was the baseline BP."
+  },
+  {
+   "pmid": "19821692",
+   "titel": "Beneficial potential of casein hydrolysate containing Val-Pro-Pro and Ile-Pro-Pro on central blood pressure and hemodynamic index: a preliminary study",
+   "jahr": "2009",
+   "journal": "J Med Food",
+   "erstautor": "Nakamura T",
+   "doi": "10.1089/jmf.2009.0159",
+   "typ": [
+    "Clinical Trial",
+    "Journal Article"
+   ],
+   "abstract": "Pharmaceutical angiotensin-converting enzyme (ACE) inhibitors have been shown to reduce arterial stiffness; the possible effect of food-derived putative ACE inhibitory peptides on this degenerative process, however, has not been reported. In the present study, casein hydrolysate containing the lactotripeptides, Val-Pro-Pro (VPP) and Ile-Pro-Pro (IPP), which has been found to have an antihypertensive effect in a number of clinical studies, was investigated for its ability to improve hemodynamic parameters, including central systolic blood pressure (cSBP), in hypertensive subjects. Twelve hypertensive subjects who were not on prescribed medication were monitored for various hemodynamic parameters, including brachial blood pressure (peripheral blood pressure), cSBP, and augmentation index (AI), at the start and then after 3, 6, and 9 weeks of a daily treatment comprising four tablets containing VPP and IPP. Compared with basal levels, treatment with casein hydrolysate for 6 and/or 9 weeks showed a significant reduction in peripheral systolic and diastolic blood pressure, AI, and cSBP, but not in heart rate or pulse pressure. cSBP showed a reduction sooner and greater (-21.8 mm Hg) than did brachial systolic blood pressure (-16.4 mm Hg) during the 9-week treatment. Although small and not placebo-controlled, this study suggests that continuous intake of VPP and IPP might have the potential to improve arterial stiffness as well as cSBP and peripheral brachial blood pressure."
+  }
+ ],
+ "metaanalysen": [
+  {
+   "pmid": "23566677",
+   "titel": "Lactotripeptides intake and blood pressure management: a meta-analysis of randomised controlled clinical trials",
+   "jahr": "2013",
+   "journal": "Nutr Metab Cardiovasc Dis",
+   "erstautor": "Qin LQ",
+   "doi": "10.1016/j.numecd.2013.02.006",
+   "typ": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "BACKGROUND AND AIMS: Lactotripeptides (LTPs, including IPP and VPP) have held promise in the framework of lifestyle modification for prevention and control of hypertension - a cardiovascular risk factor, as LTPs are reported to have an inhibitory effect on angiotensin-converting enzyme. While the number of clinical trials to test the efficacy of LTP continues to increase, the results have been inconsistent, especially in the last few years. The purpose of the present meta-analysis is to precisely estimate the pooled mean effect of LTPs on conventional blood pressure (BP) generally and on 24-h ambulatory BP (ABP) particularly, as well as the change of BP in relation to baseline BP, race, and study design, to better reflect the evolving field. DATA SYNTHESIS: In general analysis of 24 studies with 28 trials on 1919 human subjects, there are small reductions in both systolic BP (SBP) and diastolic BP (DBP) with the pooled mean effects of 1.66 (95% confidence interval (CI): -2.48 and -0.84) and 0.76 mmHg (-1.31 and -0.20) in response to LTP administration. In analysis of 24-h ABP response to LTP intervention, the reductions of SBP and DBP are 1.30 (-2.49 and -0.11) and 0.57 mmHg (-1.49 and 0.35). In subgroup analysis, the anti-hypertensive efficacy appears to be related to baseline BP, ethnic differences, treatment duration and double versus not double-blind design. CONCLUSIONS: The present findings indicate that the BP-lowering effect of LTP is statistically significant, though small in magnitude. More clinical investigations (especially randomized double-blind trials with ABP) are warranted to determine the anti-hypertensive efficacy of LTP conclusively."
+  },
+  {
+   "pmid": "26536628",
+   "titel": "Influence of the Lactotripeptides Isoleucine-Proline-Proline and Valine-Proline-Proline on Systolic Blood Pressure in Japanese Subjects: A Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+   "jahr": "2015",
+   "journal": "PLoS One",
+   "erstautor": "Chanson-Rolle A",
+   "doi": "10.1371/journal.pone.0142235",
+   "typ": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+   ],
+   "abstract": "BACKGROUND: The lactotripeptides isoleucine-proline-proline (IPP) and valine-proline-proline (VPP) have been shown to decrease systolic blood pressure (SBP) in several populations, but the size of the effect varies among studies. We performed a meta-analysis including all published studies to evaluate the SBP-lowering effect of IPP/VPP in Japanese subjects more comprehensively. METHODS AND FINDINGS: Eligible randomized controlled trials were searched for within four bibliographic databases, including two Japanese ones. Eighteen studies (including a total of 1194 subjects) were included in the meta-analysis. A random effect model using the restricted maximum likelihood (REML) estimator was used for the analysis. The analysis showed that consumption of IPP/VPP induced a significant reduction in SBP as compared with placebo in Japanese subjects, with an estimated effect of -5.63 mm Hg (95% CI, -6.87 to -4.39, P<0.0001) and no evidence of publication bias. A significant heterogeneity between series was evident, which could be explained by a significant influence of the baseline blood pressure status of the subjects, the effect of IPP/VPP on SBP being stronger in hypertensive subjects (-8.35 mm Hg, P<0.0001) than in non-hypertensive subjects (-3.42mm Hg, P<0.0001). Furthermore, the effect of IPP/VPP on SBP remained significant when limiting the analysis to series that tested the usual doses of IPP/VPP consumed daily (below 5 mg/d), with estimated effects of -6.01 mm Hg in the overall population and -3.32 mm Hg in non-hypertensive subjects. CONCLUSIONS: Results from this meta-analysis show that IPP/VPP lactotripeptides can significantly reduce office SBP in Japanese subjects with or without overt hypertension, and for doses that can potentially be consumed as an everyday supplement. This suggests that these peptides could play a role in controlling blood pressure in Japanese subjects. The systematic review protocol was published on the PROSPERO register (CRD42014014322)."
+  },
+  {
+   "pmid": "23305234",
+   "titel": "Antihypertensive effects of bioactive tripeptides-a random effects meta-analysis",
+   "jahr": "2013",
+   "journal": "Ann Med",
+   "erstautor": "Turpeinen AM",
+   "doi": "10.3109/07853890.2012.663926",
+   "typ": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+   ],
+   "abstract": "A meta-analysis of possible antihypertensive effects of small doses of bioactive tripeptides isoleucine-proline-proline and valine-proline-proline in commercial milk products or tablets was carried out. A random effects model was used on 19 randomized, placebo-controlled clinical intervention trials (published 1996-October 2010) consisting of about 1500 prehypertensive or mildly hypertensive subjects.The overall blood pressure lowering for systolic blood pressure was -4.0 mmHg (95% CI -5.9 to -2.1 mmHg, P < 0.001) and for diastolic blood pressure -1.9 mmHg (95% CI -3.1 to -0.8 mmHg, P < 0.001). However, a positive effect was not reported in all the studies. The results suggest that rather small daily doses of the lactotripeptides in different functional food products may offer a valuable option as a non-pharmacological treatment of prehypertension or mild hypertension as part of life-style advice."
+  },
+  {
+   "pmid": "25608938",
+   "titel": "Casein-derived lactotripeptides reduce systolic and diastolic blood pressure in a meta-analysis of randomised clinical trials",
+   "jahr": "2015",
+   "journal": "Nutrients",
+   "erstautor": "Fekete ÁA",
+   "doi": "10.3390/nu7010659",
+   "typ": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "There is an urgent need to treat individuals with high blood pressure (BP) with effective dietary strategies. Previous studies suggest a small, but significant decrease in BP after lactotripeptides (LTP) ingestion, although the data are inconsistent. The study aim was to perform a comprehensive meta-analysis of data from all relevant randomised controlled trials (RCT). Medline, Cochrane library, EMBASE and Web of Science were searched until May 2014. Eligibility criteria were RCT that examined the effects of LTP on BP in adults, with systolic BP (SBP) and diastolic BP (DBP) as outcome measures. Thirty RCT met the inclusion criteria, which resulted in 33 sets of data. The pooled treatment effect for SBP was -2.95 mmHg (95% CI: -4.17, -1.73; p < 0.001), and for DBP was -1.51 mmHg (95% CI: -2.21, -0.80; p < 0.001). Sub-group analyses revealed that reduction of BP in Japanese studies was significantly greater, compared with European studies (p = 0.002 for SBP and p < 0.001 for DBP). The 24-h ambulatory BP (AMBP) response to LTP supplementation was statistically non-significant (p = 0.101 for SBP and p = 0.166 for DBP). Both publication bias and \"small-study effect\" were identified, which shifted the treatment effect towards less significant SBP and non-significant DBP reduction after LTP consumption. LTP may be effective in BP reduction, especially in Japanese individuals; however sub-group, meta-regression analyses and statistically significant publication biases suggest inconsistencies."
+  },
+  {
+   "pmid": "23382495",
+   "titel": "Do the lactotripeptides isoleucine-proline-proline and valine-proline-proline reduce systolic blood pressure in European subjects? A meta-analysis of randomized controlled trials",
+   "jahr": "2013",
+   "journal": "Am J Hypertens",
+   "erstautor": "Cicero AF",
+   "doi": "10.1093/ajh/hps044",
+   "typ": [
+    "Journal Article",
+    "Meta-Analysis"
+   ],
+   "abstract": "BACKGROUND: The milk-derived peptides isoleucine-proline-proline (IPP) and valine-proline- proline (VPP) have been shown to reduce systolic blood pressure (SBP). This decrease is convincingly shown in subjects of Asian origin, but less consistent results have been obtained in European populations. METHODS: A meta-analysis was conducted in accord with the Preferred Reporting Items for Systematic reviews and Meta-analyses (PRISMA) requirements, to assess the effect of IPP and VPP on SBP in Europeans, and to explore some determinants of this effect. RESULTS: Ninety-one publications on the effect of IPP and VPP on SBP in Europeans were identified, and 14 trials with 15 sets of data (n = 1,306) met the inclusion criteria for the meta-analysis. A random-effects model (using the restricted maximum likelihood (REML) estimator) was used for the analysis. Although not all individual trials showed a statistically significant effect of IPP or VPP in reducing SBP, the combination of all data for the two peptides yielded a statistically significantly greater effect for IPP/VPP than for placebo. The decrease in SBP with IPP/VPP was 1.28mm Hg (95% CI, -2.09 to -0.48, P = 0.0017) and the decrease in diastolic BP (DBP) was 0.59mm Hg (95% CI, -1.18 to -0.01, P = 0.047). There was no evidence in the meta-analysis of any publication bias or of heterogeneity (P = 0.13). Among other features, a significant effect was seen for age, with each additional year of age reducing the effect on SBP by 0.09mm Hg. This might be related to isolated systolic hypertension, a condition often encountered in the elderly, who may be poorly responsive to first-line treatments for hypertension. CONCLUSION: The peptides IPP and VPP are effective in moderately reducing SBP in European subjects, as is known for Asian populations. These two peptides could therefore have a role in controlling blood pressure (BP), a prospect that merits their further study."
+  },
+  {
+   "pmid": "20811398",
+   "titel": "Blood pressure lowering effect of lactotripeptides assumed as functional foods: a meta-analysis of current available clinical trials",
+   "jahr": "2011",
+   "journal": "J Hum Hypertens",
+   "erstautor": "Cicero AF",
+   "doi": "10.1038/jhh.2010.85",
+   "typ": [
+    "Journal Article",
+    "Meta-Analysis"
+   ],
+   "abstract": "The oral assumption of lactotripeptides Valine-Proline-Proline (VPP) and Isoleucine-Proline-Proline (IPP) as nutraceuticals or functional foods is supposed to improve blood pressure (BP) control by angiotensin-converting enzyme-inhibition. However, data derived from clinical trials have reached conflicting conclusions. To perform a meta-analysis of placebo-controlled clinical trials evaluating the anti-hypertensive effect of lactotripeptides assumed as nutraceuticals or functional foods. Trials identified using a defined search strategy in PubMed were included in the meta-analysis, and their pooled effect was estimated with a random effects model, weighting for the inverse of the variance. Heterogeneity, publication bias, subgroup and meta-regression analyses were performed. A total of 18 trials have been identified, the clinical data of which have been clearly reported. Pooled effect of peptides was a reduction of -3.73 mm Hg (95% CI: -6.70, -1.76) for systolic blood pressure (SBP) and 1.97 mm Hg (95% CI: -3.85, -0.64) for diastolic blood pressure (DBP). The effect was more evident in Asian patients (SBP = -6.93 mm Hg (95% CI: -10.95, -2.94); DBP=-3.98 mm Hg(95% CI: -5.38, -2.44)) than in Caucasian ones (SBP=-1.17 mm Hg (95% CI: -2.82, 0.72); DBP = -0.52 mm Hg (95% CI: -1.39, 0.13)), and apparently not related to age, baseline BP values, dose of lactotripeptides assumed or length of the treatment. VPP and IPP lactotripeptides assumed as functional foods may significantly reduce SBP particularly in Asian subjects. The relevance of this findings in other ethnicities or associated with different dietary pattern should to be further investigated."
+  }
+ ],
+ "praeklinik": [
+  {
+   "pmid": "25053098",
+   "titel": "Tryptophan-containing dipeptides are C-domain selective inhibitors of angiotensin converting enzyme",
+   "jahr": "2015",
+   "journal": "Food Chem",
+   "erstautor": "Lunow D",
+   "doi": "10.1016/j.foodchem.2014.06.059",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Somatic angiotensin-converting enzyme (ACE) contains two active sites, the C- and N-domain, from which the C-domain is supposed to play a major role in blood pressure regulation and is therefore a promising pharmacological target to reduce blood pressure without side-effects. We report for the first time that tryptophan-containing dipeptides such as Ile-Trp or Val-Trp, which were recently found in food protein hydrolysates, are selective and competitive inhibitors for the C-domain with a selectivity factor of 40 and 70, respectively. Structure-activity studies showed that an N-terminal aliphatic amino acid and a tryptophan moiety in the P2' position are favourable structures for C-domain inhibition in dipeptides. In contrast, the lactotripeptides Ile-Pro-Pro and Val-Pro-Pro, which were widely used as ingredients for hypotensive food, showed a slight selectivity for the N-domain. Hence, tryptophan containing dipeptides are interesting ingredients for functional foods as a natural prevention for hypertension with reduced side effects due to its selective inhibition of the C-domain."
+  },
+  {
+   "pmid": "25623084",
+   "titel": "Are intact peptides absorbed from the healthy gut in the adult human?",
+   "jahr": "2014",
+   "journal": "Nutr Res Rev",
+   "erstautor": "Miner-Williams WM",
+   "doi": "10.1017/S0954422414000225",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "For over 100 years it was believed that dietary protein must be completely hydrolysed before its constituent amino acids could be absorbed via specific amino acid transport systems. It is now known that the uptake of di- and tripeptides into the enterocyte is considerable, being transported across the intestinal endothelium by the PepT1 H+/peptide co-transporter. There is also evidence that some di- and tripeptides may survive cytosolic hydrolysis and be transported intact across the basolateral membrane. However, other than antigen sampling, the transport of larger intact macromolecules across the intestinal endothelium of the healthy adult human remains a controversial issue as there is little unequivocal in vivo evidence to support this postulation. The aim of the present review was to critically evaluate the scientific evidence that peptides/proteins are absorbed by healthy intestinal epithelia and pass intact into the hepatic portal system. The question of the absorption of oliogopeptides is paramount to the emerging science of food-derived bioactive peptides, their mode of action and physiological effects. Overall, we conclude that there is little unequivocal evidence that dietary bioactive peptides, other than di- and tripeptides, can cross the gut wall intact and enter the hepatic portal system in physiologically relevant concentrations."
+  },
+  {
+   "pmid": "27713251",
+   "titel": "Antihypertensive Peptides from Milk Proteins",
+   "jahr": "2010",
+   "journal": "Pharmaceuticals (Basel)",
+   "erstautor": "Jäkälä P",
+   "doi": "10.3390/ph3010251",
+   "typ": [
+    "Review",
+    "Journal Article"
+   ],
+   "abstract": "Dietary proteins possess a wide range of nutritional and functional properties. They are used as a source of energy and amino acids, which are needed for growth and development. Many dietary proteins, especially milk proteins, contain physiologically active peptides encrypted in the protein sequence. These peptides may be released during gastrointestinal digestion or food processing and once liberated, cause different physiological functions. Milk-derived bioactive peptides are shown to have antihypertensive, antimicrobial, immunomodulatory, antioxidative and mineral-binding properties. During the fermentation of milk with certain lactobacilli, two interesting tripeptides Ile-Pro-Pro and Val-Pro-Pro are released from casein to the final product. These lactotripeptides have attenuated the development of hypertension in several animal models and lowered blood pressure in clinical studies. They inhibit ACE in vitro at micromolar concentrations, protect endothelial function in vitro and reduce arterial stiffness in humans. Thus, milk as a traditional food product can after certain processing serve as a functional food and carry specific health-promoting effects, providing an option to control blood pressure."
+  },
+  {
+   "pmid": "17356257",
+   "titel": "Effects of bioactive peptide, valyl-prolyl-proline (VPP), and lactobacillus helveticus fermented milk containing VPP on bone loss in ovariectomized rats",
+   "jahr": "2007",
+   "journal": "Ann Nutr Metab",
+   "erstautor": "Narva M",
+   "doi": "10.1159/000100823",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Valyl-prolyl-proline (VPP), a bioactive peptide formed during the fermentation with Lactobacillus helveticus LBK-16H (L. helveticus), has been shown to increase bone formation in vitro. The aim of the study was to determine whether VPP and L. helveticus fermented milk prevent bone loss in ovariectomized (OVX) rats. METHODS: During the 12-week intervention study, the OVX rats received VPP in water or L. helveticus fermented milk, containing VPP. Sham-operated rats receiving water acted as controls. The trabecular and cortical bone mineral density were determined by peripheral quantitative computed tomography before the operation and at 4 and 12 weeks. The mechanical testing and ash weight analysis as well as the static and dynamic histomorphometrical parameters were assessed at the end of the intervention. RESULTS: VPP given in water showed no clear effect on bone loss. L. helveticus fermented milk prevented bone loss by decreasing bone turnover and increasing the bone mineral density. Ovariectomy caused a 57% loss in the trabecular bone, which was attenuated by 16% in the L. helveticus group. CONCLUSIONS: VPP peptide did not prevent ovariectomy-induced bone loss, which could be due to the poor bioavailability of VPP from water solution. L. helveticus fermented milk prevented bone loss, whether this is due to the VPP peptide cannot be concluded."
+  },
+  {
+   "pmid": "26098114",
+   "titel": "Enhanced Lacto-Tri-Peptide Bio-Availability by Co-Ingestion of Macronutrients",
+   "jahr": "2015",
+   "journal": "PLoS One",
+   "erstautor": "Ten Have GA",
+   "doi": "10.1371/journal.pone.0130638",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Some food-derived peptides possess bioactive properties, and may affect health positively. For example, the C-terminal lacto-tri-peptides Ile-Pro-Pro (IPP), Leu-Pro-Pro (LPP) and Val-Pro-Pro (VPP) (together named here XPP) are described to lower blood pressure. The bioactivity depends on their availability at the site of action. Quantitative trans-organ availability/kinetic measurements will provide more insight in C-terminal tri-peptides behavior in the body. We hypothesize that the composition of the meal will modify their systemic availability. We studied trans-organ XPP fluxes in catheterized pigs (25 kg; n=10) to determine systemic and portal availability, as well as renal and hepatic uptake of a water-based single dose of synthetic XPP and a XPP containing protein matrix (casein hydrolyte, CasH). In a second experiment (n=10), we compared the CasH-containing protein matrix with a CasH-containing meal matrix and the modifying effects of macronutrients in a meal on the availability (high carbohydrates, low quality protein, high fat, and fiber). Portal availability of synthetic XPP was 0.08 ± 0.01% of intake and increased when a protein matrix was present (respectively 3.1, 1.8 and 83 times for IPP, LPP and VPP). Difference between individual XPP was probably due to release from longer peptides. CasH prolonged portal bioavailability with 18 min (absorption half-life, synthetic XPP: 15 ± 2 min, CasH: 33 ± 3 min, p<0.0001) and increased systemic elimination with 20 min (synthetic XPP: 12 ± 2 min; CasH: 32 ± 3 min, p<0.0001). Subsequent renal and hepatic uptake is about 75% of the portal release. A meal containing CasH, increased portal 1.8 and systemic bioavailability 1.2 times. Low protein quality and fiber increased XPP systemic bioavailability further (respectively 1.5 and 1.4 times). We conclude that the amount and quality of the protein, and the presence of fiber in a meal, are the main factors that increase the systemic bioavailability of food-derived XPP."
+  },
+  {
+   "pmid": "18528405",
+   "titel": "Fermented lactotripeptides-containing milk lowers daytime blood pressure in high normal-to-mild hypertensive subjects",
+   "jahr": "2008",
+   "journal": "J Hum Hypertens",
+   "erstautor": "van der Zander K",
+   "doi": "10.1038/jhh.2008.59",
+   "typ": [
+    "Letter"
+   ],
+   "abstract": "This study shows that consumption of fermented lactotripeptides (LTPs)-containing milk may have an acute daytime effect on blood pressure that appeared sustained with daily intake over a period of 4 weeks. Angiotensin 1-converting enzyme (ACE) inhibition by LTPs could not be confirmed in plasma."
+  },
+  {
+   "pmid": "19506528",
+   "titel": "The lactotripeptides isoleucine-proline-proline and valine-proline-proline do not inhibit the N-terminal or C-terminal angiotensin converting enzyme active sites in humans",
+   "jahr": "2009",
+   "journal": "J Hypertens",
+   "erstautor": "Wuerzner G",
+   "doi": "10.1097/HJH.0b013e32832b4759",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: The potential blood pressure lowering effect of fermented milk may involve inhibition of angiotensin-converting enzyme (ACE) by dairy lactotripeptides generated during milk fermentation, such as isoleucine-proline-proline (IPP) and valine-proline-proline (VPP). These peptides are weak ACE inhibitors in vitro but it remains unclear whether they inhibit ACE in vivo in humans. OBJECTIVE: To assess in vivo ACE inhibition in individuals given fermented milk over a 7-day period. DESIGN AND METHODS: Twelve healthy normotensive men were given 330 ml of fermented milk once daily from day 1 to day 7 (IPP: 4.5 mg and VPP: 6.6 mg) and a single dose of 50 mg captopril on day 8. ACE inhibition was assessed in vivo by measuring plasma and urine AcSDKP and plasma active renin and in vitro by measuring plasma ACE activity using hippuryl-histidine-leucine. Plasma IPP/VPP concentrations were measured by LC/MS/MS. RESULTS: Plasma IPP concentrations increased slightly and very transiently after fermented milk administration. Plasma VPP concentrations were below the limit of quantification. Fermented milk had no effect on plasma AcSDKP, ACE activity or active renin concentrations on days 1 or 7. Urine AcSDKP excretion underwent a small transient increase. In contrast, plasma and urine AcSDKP increased 7.7-fold and 70-fold, respectively, and plasma ACE activity decreased by 82.3 +/- 16.1% following captopril administration; plasma active renin concentration increased four-fold. CONCLUSION: IPP and VPP were poorly absorbed and rapidly eliminated. They did not inhibit plasma or endothelial ACE in vivo at the selected doses and had no specific effect on the N-terminal or C-terminal ACE domains."
+  },
+  {
+   "pmid": "23566677",
+   "titel": "Lactotripeptides intake and blood pressure management: a meta-analysis of randomised controlled clinical trials",
+   "jahr": "2013",
+   "journal": "Nutr Metab Cardiovasc Dis",
+   "erstautor": "Qin LQ",
+   "doi": "10.1016/j.numecd.2013.02.006",
+   "typ": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "BACKGROUND AND AIMS: Lactotripeptides (LTPs, including IPP and VPP) have held promise in the framework of lifestyle modification for prevention and control of hypertension - a cardiovascular risk factor, as LTPs are reported to have an inhibitory effect on angiotensin-converting enzyme. While the number of clinical trials to test the efficacy of LTP continues to increase, the results have been inconsistent, especially in the last few years. The purpose of the present meta-analysis is to precisely estimate the pooled mean effect of LTPs on conventional blood pressure (BP) generally and on 24-h ambulatory BP (ABP) particularly, as well as the change of BP in relation to baseline BP, race, and study design, to better reflect the evolving field. DATA SYNTHESIS: In general analysis of 24 studies with 28 trials on 1919 human subjects, there are small reductions in both systolic BP (SBP) and diastolic BP (DBP) with the pooled mean effects of 1.66 (95% confidence interval (CI): -2.48 and -0.84) and 0.76 mmHg (-1.31 and -0.20) in response to LTP administration. In analysis of 24-h ABP response to LTP intervention, the reductions of SBP and DBP are 1.30 (-2.49 and -0.11) and 0.57 mmHg (-1.49 and 0.35). In subgroup analysis, the anti-hypertensive efficacy appears to be related to baseline BP, ethnic differences, treatment duration and double versus not double-blind design. CONCLUSIONS: The present findings indicate that the BP-lowering effect of LTP is statistically significant, though small in magnitude. More clinical investigations (especially randomized double-blind trials with ABP) are warranted to determine the anti-hypertensive efficacy of LTP conclusively."
+  },
+  {
+   "pmid": "19061526",
+   "titel": "Lactotripeptides and antihypertensive effects: a critical review",
+   "jahr": "2009",
+   "journal": "Br J Nutr",
+   "erstautor": "Boelsma E",
+   "doi": "10.1017/S0007114508137722",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Hypertension or high blood pressure is a significant health problem worldwide. Typically, lifestyle changes, including adopting a healthy diet, are recommended for people with an elevated blood pressure. Lactotripeptides are bioactive milk peptides with potential antihypertensive properties in man. These peptides, as part of a food product or as nutraceutical, may contribute to the prevention and treatment of hypertension. This paper reviews the current evidence of the blood pressure control properties of lactotripeptides in man. Blood pressure-lowering effects of lactotripeptides are typically measured after 4-6 weeks of treatment. However, in some cases, a blood pressure response has been observed after 1-2 weeks. Maximum blood pressure reductions approximate 13 mmHg (systolic blood pressure) and 8 mmHg (diastolic blood pressure) after active treatment compared with placebo, and are likely reached after 8-12 weeks of treatment. Effective dosages of lactotripeptides range from 3.07 to 52.5 mg/d. Evidence indicates that lactotripeptides are only effective at elevated blood pressure; no further lowering of normal blood pressure has been observed. Concomitant intake of antihypertensive medication does not seem to influence the potency of lactotripeptides to lower blood pressure. Similarly, ethnicity has not been found to influence the extent of lactotripeptide-induced blood pressure lowering. Based on the currently available data, lactotripeptides appear to be safe and effective. Thus, they can be part of a healthy diet and lifestyle to prevent or reduce high blood pressure."
+  },
+  {
+   "pmid": "38567075",
+   "titel": "Cultivable microbial diversity, peptide profiles, and bio-functional properties in Parmigiano Reggiano cheese",
+   "jahr": "2024",
+   "journal": "Front Microbiol",
+   "erstautor": "Martini S",
+   "doi": "10.3389/fmicb.2024.1342180",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "INTRODUCTION: Lactic acid bacteria (LAB) communities shape the sensorial and functional properties of artisanal hard-cooked and long-ripened cheeses made with raw bovine milk like Parmigiano Reggiano (PR) cheese. While patterns of microbial evolution have been well studied in PR cheese, there is a lack of information about how this microbial diversity affects the metabolic and functional properties of PR cheese. METHODS: To fill this information gap, we characterized the cultivable fraction of natural whey starter (NWS) and PR cheeses at different ripening times, both at the species and strain level, and investigated the possible correlation between microbial composition and the evolution of peptide profiles over cheese ripening. RESULTS AND DISCUSSION: The results showed that NWS was a complex community of several biotypes belonging to a few species, namely, Streptococcus thermophilus, Lactobacillus helveticus, and Lactobacillus delbrueckii subsp. lactis. A new species-specific PCR assay was successful in discriminating the cheese-associated species Lacticaseibacillus casei, Lacticaseibacillus paracasei, Lacticaseibacillus rhamnosus, and Lacticaseibacillus zeae. Based on the resolved patterns of species and biotype distribution, Lcb. paracasei and Lcb. zeae were most frequently isolated after 24 and 30 months of ripening, while the number of biotypes was inversely related to the ripening time. Peptidomics analysis revealed more than 520 peptides in cheese samples. To the best of our knowledge, this is the most comprehensive survey of peptides in PR cheese. Most of them were from β-caseins, which represent the best substrate for LAB cell-envelope proteases. The abundance of peptides from β-casein 38-88 region continuously increased during ripening. Remarkably, this region contains precursors for the anti-hypertensive lactotripeptides VPP and IPP, as well as for β-casomorphins. We found that the ripening time strongly affects bioactive peptide profiles and that the occurrence of Lcb. zeae species is positively linked to the incidence of eight anti-hypertensive peptides. This result highlighted how the presence of specific LAB species is likely a pivotal factor in determining PR functional properties."
+  },
+  {
+   "pmid": "33693081",
+   "titel": "Effects of Lactotripeptide Supplementation on Tele-Monitored Home Blood Pressure and on Vascular and Renal Function in Prehypertension　- Randomized, Double-Blind, Placebo-Controlled, Cross-Over Study",
+   "jahr": "2019",
+   "journal": "Circ Rep",
+   "erstautor": "Tomiyama H",
+   "doi": "10.1253/circrep.CR-19-0061",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Background: This randomized, double-blind, placebo-controlled, cross-over study was conducted to examine the effects of lactotripeptide supplementation on 7-day mean tele-monitored home blood pressure (BP), and also on the markers of vascular function and renal damage in Japanese subjects with prehypertension. Methods and Results: A total of 26 subjects with prehypertension were randomly allocated to receive the active product (lactotripeptide tablet) or a placebo tablet for 8 weeks each in a cross-over manner. Urinary liver-type fatty acid-binding protein-to-creatine ratio (UFABPCR) and vascular function were measured at the end of each intervention. Home systolic and diastolic BP at the end of the lactotripeptide supplementation period was significantly lower than that at the end of the placebo period (P<0.05). On mixed linear model analysis there was a significant difference in the change in home diastolic BP after intervention between the 2 interventions (P=0.04). UFABPCR was significantly lower at the end of the lactotripeptide intervention period than at the end of the placebo period (P<0.05). Conclusions: The beneficial effect of lactotripeptide supplementation on 7-day mean tele-monitored home BP was confirmed in Japanese subjects with prehypertension. In addition, this intervention also seemed to have a protective effect against the progression of renal function decline."
+  },
+  {
+   "pmid": "24135669",
+   "titel": "Novel probiotic-fermented milk with angiotensin I-converting enzyme inhibitory peptides produced by Bifidobacterium bifidum MF 20/5",
+   "jahr": "2013",
+   "journal": "Int J Food Microbiol",
+   "erstautor": "Gonzalez-Gonzalez C",
+   "doi": "10.1016/j.ijfoodmicro.2013.09.002",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "In previous research, we have demonstrated that Bifidobacterium bifidum MF 20/5 fermented milk possessed stronger angiotensin converting enzyme (ACE) inhibitory activity than other lactic acid bacteria, including Lactobacillus helveticus DSM 13137, which produces the hypotensive casokinins Ile-Pro-Pro (IPP) and Val-Pro-Pro (VPP). The aim of this study is to investigate the ACE-inhibitory peptides released in B. bifidum MF 20/5 fermented milk. The novel ACE-inhibitory peptide LVYPFP (IC50 = 132 μM) is reported here for the first time. Additionally, other bioactive peptides such as the ACE-inhibitor LPLP (IC50 = 703 μM), and the antioxidant VLPVPQK were identified. Moreover, the peptide and amino acid profiles, the ACE-inhibitory activity (ACEi), pH, and degree of hydrolysis of the fermented milk were determined and compared with those obtained in milk fermented by L. helveticus DSM 13137. The sequences of the major bioactive peptides present in fermented milk of B. bifidum and L. helveticus were identified and quantified. B. bifidum released a larger amount of peptides than L. helveticus but no IPP or VPP were detected in B. bifidum fermented milk. Also the lactotripeptide concentrations and ACEi were higher in L. helveticus fermented milk when the pH was maintained at 4.6. This may represent a technical advantage for B. bifidum that reduces the pH at a slow enough rate to facilitate the peptide generation without the need for pH control. Thus these findings show the potential for the use of this probiotic strain to produce fermented milk with a wider range of health benefits including reduction of blood pressure."
+  },
+  {
+   "pmid": "19884823",
+   "titel": "Lactopeptides and human blood pressure",
+   "jahr": "2010",
+   "journal": "Curr Opin Lipidol",
+   "erstautor": "Geleijnse JM",
+   "doi": "10.1097/MOL.0b013e3283333813",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "PURPOSE OF REVIEW: Since the mid-1990s, a number of randomized controlled trials have been published that showed an antihypertensive effect of peptides derived from milk. Research has mainly focused on isoleucine-proline-proline and valine-proline-proline (IPP + VPP), two lactotripeptides that can inhibit the angiotensin-converting enzyme (ACE) in vitro. In Finnish and Japanese subjects with (mild) hypertension, systolic blood pressure (SBP) reductions of approximately 5 mmHg were reported during 4-12 weeks of IPP + VPP supplementation. This review was performed to summarize new data from human intervention studies. RECENT FINDINGS: The effect of lactotripeptides on blood pressure has recently been examined in six double-blind, placebo-controlled trials that involved a total of 780 subjects with high-normal blood pressure or untreated hypertension from the UK and The Netherlands. Intervention periods lasted 4-8 weeks, and IPP + VPP intake ranged from 2 to 10 mg/day. Contrary to earlier trials, there was little evidence for an antihypertensive effect of IPP + VPP. Furthermore, no ACE inhibition was observed in vivo. SUMMARY: Recent data do not support a role for lactotripeptides in blood pressure regulation. However, we cannot exclude a beneficial effect in hypertensive subjects from specific populations (e.g. Finland, Japan). Should this be confirmed, more research is needed on mechanisms other than the renin-angiotensin-aldosterone system that could be involved."
+  },
+  {
+   "pmid": "27435541",
+   "titel": "Functional Probiotic Characterization and In Vivo Cholesterol-Lowering Activity of Lactobacillus helveticus Isolated from Fermented Cow Milk",
+   "jahr": "2016",
+   "journal": "J Microbiol Biotechnol",
+   "erstautor": "Damodharan K",
+   "doi": "10.4014/jmb.1603.03005",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "We characterized the probiotic properties of Lactobacillus helveticus strains KII13 and KHI1 isolated from fermented cow milk by in vitro and in vivo studies. The strains exhibited tolerance to simulated orogastrointestinal condition, adherence to Caco-2 cells, and antimicrobial activity. Both L. helveticus strains produced bioactive tripeptides, isoleucylprolyl-proline and valyl-prolyl-proline, during fermentation of milk. KII13 showed higher in vitro cholesterol-lowering activity (47%) compared with KHI1 (28%) and L. helveticus ATCC 15009 (22%), and hence, it was selected for in vivo study of cholesterol-lowering activity in atherogenic diet-fed hypercholesterolemic mice. For the study, mice were divided into four groups (viz., normal diet control group, atherogenic diet control group (HCD), KII13- atherogenic diet group (HCD-KII13), and Lactobacillus acidophilus ATCC 43121-atherogenic diet group (HCD-L.ac) as positive control). The serum total cholesterol level was significantly decreased by 8.6% and 7.78% in the HCD-KII13 and HCD-L.ac groups (p < 0.05), respectively, compared with the HCD group. Low-density lipoprotein cholesterol levels in both HCD-KII13 and HCD-L.ac groups were decreased by 13% and 11%, respectively, compared with the HCD group (both, p < 0.05). Analysis of cholesterol metabolism-related gene expression in mice liver showed increased expression of LDLR and SREBF2 genes in mice fed with KII13. By comparing all the results, we conclude that L. helveticus KII13 could be used as a potential probiotic strain to produce antihypertensive peptides and reduce serum cholesterol."
+  },
+  {
+   "pmid": "18955104",
+   "titel": "Safety evaluation of an IPP tripeptide-containing milk protein hydrolysate",
+   "jahr": "2009",
+   "journal": "Food Chem Toxicol",
+   "erstautor": "Ponstein-Simarro Doorten AY",
+   "doi": "10.1016/j.fct.2008.10.001",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Tensguard is a milk protein hydrolysate containing the lactotripeptide IPP. It is derived from cow's milk, which is present in the human diet and has a safe history of consumption. The final Tensguard product, a supplement or a functional food ingredient, is intended for use by people who want to follow a healthy diet and lifestyle in order to manage their blood pressure. The safety-in-use of commercial lactotripeptide-containing products has been confirmed in several in vitro and in vivo toxicity studies and in studies with humans. To support the safety, Tensguard was examined in three in vitro genotoxicity tests (bacterial reverse mutation test, mammalian cell gene mutation test and mammalian chromosomal aberration test) and in a 90-day repeated-dose oral toxicity study in rats. The genotoxicity tests confirm that Tensguard is not mutagenic or clastogenic. The NOAEL from the 90-day study was at the highest dose tested, i.e. 4% in the diet. The NOAEL is equivalent to an overall mean intake of 2 g Tensguard/kg body weight/day and corresponds to 40 mg IPP/kg body weight/day. This is 141-fold higher than the maximal anticipated intake. In conclusion, Tensguard is safe under the conditions of intended use."
+  },
+  {
+   "pmid": "32115567",
+   "titel": "[Survey of Label Information of Foods with Function Claims]",
+   "jahr": "2020",
+   "journal": "Yakugaku Zasshi",
+   "erstautor": "Mori M",
+   "doi": "10.1248/yakushi.19-00156",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "The consumption of health food products, such as Foods with Function Claims, has grown in Japan. Significant information, such as possible side effects or drug interactions, are expected to be described on the packaging to help consumers to make an informed choice about products. In this study, we checked the items described on the packaging of Foods with Function Claims containing eicosapentaenoic acid (EPA) and/or docosahexaenoic acid (DHA), Salacinol/Fagomine/Neokotalanol, or Varyl-Tyrosine/Lactotripeptide. We found that the label information on the package have issues that need to be addressed; for example, the description about a warning for concomitant use with antithrombotic drugs was found in only 29.7% of EPA and/or DHA containing products (44 out of 148). Providing information for safe usage of products to consumers is pivotal. Therefore, improving product labeling, and further pharmaceutical support in case of taking health foods, should be considered."
+  },
+  {
+   "pmid": "21480799",
+   "titel": "Effects of Val-Pro-Pro and Ile-Pro-Pro on nondipper patients: a preliminary study",
+   "jahr": "2011",
+   "journal": "J Med Food",
+   "erstautor": "Kurosawa MT",
+   "doi": "10.1089/jmf.2010.0343",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Much clinical evidence on the antihypertensive effects of the milk-derived antihypertensive peptides Val-Pro-Pro and Ile-Pro-Pro (lactotripeptides) has been reported. However, circadian rhythm effects determined by ambulatory blood pressure monitoring (ABPM) to eliminate the confounding influence of the white-coat effect have not been fully studied. Twelve hypertensive patients not receiving antihypertensive medication (2 men, 10 women; mean age±standard deviation, 63.5±8.3 years) who had been visiting our clinic for more than 1 year participated in this study. Mean (±standard deviation) systolic blood pressure (SBP) and diastolic blood pressure (DBP) were 142.4±2.6 and 83.5±6.4 mm Hg, respectively, at the first office visit. After patients ingested a fermented milk product containing antihypertensive peptides (2.53 mg Val-Pro-Pro; 1.52 mg Ile-Pro-Pro) for more than 4 weeks, both office SBP and DBP were significantly reduced to a mean (±standard deviation) of 133.3±7.0 mm Hg and 76.5±8.4 mm Hg (P<.001 and P<.005 by paired t-test), respectively. The 24-hour SBP and DBP determined by ABPM were reduced from 127.3±2.4 and 78.7±2.3 mm Hg to 120.2±2.4 and 75.0±2.2 mm Hg (P<.001 and P<.05), respectively. Awake-time SBP (08:00-21:00), night-time SBP (0:00-05:00), and early-morning SBP (06:00-07:00) were reduced from 130.9±2.4 to 123.3±2.3 mm Hg, 118.7±2.9 to 113.2±3.4 mm Hg, and 132.8±4.3 to 122.4±3.9 mm Hg (by paired t-test: P<.001, P<.05, and P<.05), respectively. As seen with DBP measured by ABPM, 24-hour DBP and awake-time DBP were significantly reduced from 78.7±2.3 to 75.0±2.2 mm Hg and 82.1±2.5 to 77.3±2.2 mm Hg (P<.05 and P<.01), respectively. Office BP and 24-hour blood pressure did not significantly differ between the dipper and nondipper groups at baseline. However, after treatment, night-time and early-morning blood pressure were significantly reduced from baseline in the nondipper group (-8.5±2.5 and -15.6±3.7 mm Hg; P<.05 and P<.01, respectively) but not in the dipper group (-2.5±3.6 and -1.2±4.7 mm Hg; P not significant), and the reduction in early-morning blood pressure significantly differed between the groups (P<.05). These results suggest that Val-Pro-Pro and Ile-Pro-Pro decrease blood pressure in patients with stage I hypertension and result not only in lower blood pressure at night-time but also in lower early-morning SBP in nondipper patients."
+  },
+  {
+   "pmid": "32497940",
+   "titel": "Cultivable non-starter lactobacilli from ripened Parmigiano Reggiano cheeses with different salt content and their potential to release anti-hypertensive peptides",
+   "jahr": "2020",
+   "journal": "Int J Food Microbiol",
+   "erstautor": "Tagliazucchi D",
+   "doi": "10.1016/j.ijfoodmicro.2020.108688",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The impact of salt and fat intake on human health drives the consumer's attention towards dairy food with reduced salt and fat contents. How changes in salt and fat content modulate dairy LAB population and the associated proteolytic activities have been poorly studied. Here, non-starter LAB populations from 12 Parmigiano Reggiano (PR) cheeses (12-month ripened), clustered in low salt and fat content (LL-PR) and high salt and fat content (HH-PR) groups, were investigated and identified at specie-level with molecular assays. Lactobacillus rhamnosus was dominant in HH-PR samples, whereas Lactobacillus paracasei in LL-PR samples. (GTG)5 rep-PCR analysis discriminated 11 and 12 biotypes for L. rhamnosus and L. paracasei isolates, respectively. Screening for proteolytic activity identified L. rhamnosus strains more proteolytic than L. paracasei, and, within L. rhamnosus species, HH-PR strains were generally more proteolytic than LL-PR strains. Two L. rhamnosus representatives, namely strain 0503 from LL-PR and strain 2006 from HH-PR, were functionally characterized in cow milk fermentation assay. HH-PR strain 2006 overcame LL-PR strain 0503 in acidification performance, leading to a fermented milk with higher angiotensin I-converting enzyme inhibitory and antioxidant activities. L. rhamnosus 2006 was more prone to release VPP, while L. rhamnosus 0503 released higher amount of IPP. This study provides evidences that salt/fat content affects NSLAB cultivable fraction and the associated proteolytic ability resulting in a complex occurrence of bioactive peptides featuring health-promoting properties."
+  },
+  {
+   "pmid": "37904282",
+   "titel": "Structural insights into the inhibitory mechanism of angiotensin-I-converting enzyme by the lactotripeptides IPP and VPP",
+   "jahr": "2024",
+   "journal": "FEBS Lett",
+   "erstautor": "Gregory KS",
+   "doi": "10.1002/1873-3468.14768",
+   "typ": [
+    "Letter",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Human somatic angiotensin-1-converting enzyme (sACE) is composed of a catalytic N-(nACE) and C-domain (cACE) of similar size with different substrate specificities. It is involved in the regulation of blood pressure by converting angiotensin I to the vasoconstrictor angiotensin II and has been a major focus in the development of therapeutics for hypertension. Bioactive peptides from various sources, including milk, have been identified as natural ACE inhibitors. We report the structural basis for the role of two lacototripeptides, Val-Pro-Pro and Ile-Pro-Pro, in domain-specific inhibition of ACE using X-ray crystallography and kinetic analysis. The lactotripeptides have preference for nACE due to altered polar interactions distal to the catalytic zinc ion. Elucidating the mechanism of binding and domain selectivity of these peptides also provides important insights into the functional roles of ACE."
+  },
+  {
+   "pmid": "31778042",
+   "titel": "Prediction of the Health Effects of Food Peptides and Elucidation of the Mode-of-action Using Multi-task Graph Convolutional Neural Network",
+   "jahr": "2020",
+   "journal": "Mol Inform",
+   "erstautor": "Fukunaga I",
+   "doi": "10.1002/minf.201900134",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Food proteins work not only as nutrients but also modulators for the physiological functions of the human body. The physiological functions of food proteins are basically regulated by peptides encrypted in food protein sequences (food peptides). In this study, we propose a novel deep learning-based method to predict the health effects of food peptides and elucidate the mode-of-action. In the algorithm, we estimate potential target proteins of food peptides using a multi-task graph convolutional neural network, and predict its health effects using information about therapeutic targets for diseases. We constructed predictive models based on 21,103 peptide-protein interactions involving 10,950 peptides and 2,533 proteins, and applied the models to food peptides (e. g., lactotripeptide, isoleucyltyrosine and sardine peptide) defined in food for specified health use. The models suggested potential effects such as blood-pressure lowering effects, blood glucose level lowering effects, and anti-cancer effects for several food peptides. The interactions of food peptides with target proteins were confirmed by docking simulations."
+  },
+  {
+   "pmid": "25608938",
+   "titel": "Casein-derived lactotripeptides reduce systolic and diastolic blood pressure in a meta-analysis of randomised clinical trials",
+   "jahr": "2015",
+   "journal": "Nutrients",
+   "erstautor": "Fekete ÁA",
+   "doi": "10.3390/nu7010659",
+   "typ": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "There is an urgent need to treat individuals with high blood pressure (BP) with effective dietary strategies. Previous studies suggest a small, but significant decrease in BP after lactotripeptides (LTP) ingestion, although the data are inconsistent. The study aim was to perform a comprehensive meta-analysis of data from all relevant randomised controlled trials (RCT). Medline, Cochrane library, EMBASE and Web of Science were searched until May 2014. Eligibility criteria were RCT that examined the effects of LTP on BP in adults, with systolic BP (SBP) and diastolic BP (DBP) as outcome measures. Thirty RCT met the inclusion criteria, which resulted in 33 sets of data. The pooled treatment effect for SBP was -2.95 mmHg (95% CI: -4.17, -1.73; p < 0.001), and for DBP was -1.51 mmHg (95% CI: -2.21, -0.80; p < 0.001). Sub-group analyses revealed that reduction of BP in Japanese studies was significantly greater, compared with European studies (p = 0.002 for SBP and p < 0.001 for DBP). The 24-h ambulatory BP (AMBP) response to LTP supplementation was statistically non-significant (p = 0.101 for SBP and p = 0.166 for DBP). Both publication bias and \"small-study effect\" were identified, which shifted the treatment effect towards less significant SBP and non-significant DBP reduction after LTP consumption. LTP may be effective in BP reduction, especially in Japanese individuals; however sub-group, meta-regression analyses and statistically significant publication biases suggest inconsistencies."
+  },
+  {
+   "pmid": "15268972",
+   "titel": "Effects of Lactobacillus helveticus fermented milk on bone cells in vitro",
+   "jahr": "2004",
+   "journal": "Life Sci",
+   "erstautor": "Narva M",
+   "doi": "10.1016/j.lfs.2004.04.011",
+   "typ": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Milk fermented with Lactobacillus helveticus (L. helveticus) contains small peptides such as isoleucyl-prolyl-proline (IPP) and valyl-prolyl-proline (VPP), which inhibit the angiotensin converting enzyme (ACE). We investigated the effects of L. helveticus fermented milk whey (Lh-whey) and its components, sour milk whey, calcium and IPP and VPP peptides, on bone cells in vitro. An osteoblast assay was performed by determining the amount of deposited calcium as an index of bone formation in cultures of mouse osteoblasts formed from bone marrow-derived osteoblast precursor cells. An osteoclast assay was performed by determining the activity of tartrate-resistant acid phosphatase released into the culture medium in cultures of mouse osteoclasts formed from bone marrow-derived osteoclast precursor cells. The Lh-whey increased bone formation 1.3-1.4 times with the 1 x 10(-5), 1 x 10(-4) and 1 x 10(-3) solutions. The IPP and VPP peptides also demonstrated a significant 5-fold activation of bone formation in in vitro osteoblast cultures, whereas the sour milk whey and calcium had no effect. No significant effects were observed on osteoclasts in vitro with any of the study products. L. helveticus fermented milk whey contains bioactive components that increase osteoblastic bone formation in vitro. The effect may be due to the ACE-inhibitory IPP and VPP peptides, which showed a similar effect to that of the L. helveticus fermented milk whey."
+  },
+  {
+   "pmid": "17383063",
+   "titel": "A 90-day subchronic toxicity study and reproductive toxicity studies on ACE-inhibiting lactotripeptide",
+   "jahr": "2007",
+   "journal": "Food Chem Toxicol",
+   "erstautor": "Dent MP",
+   "doi": "10.1016/j.fct.2007.02.006",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "In recent years there has been an increasing body of literature describing the antihypertensive effects of peptides produced from milk protein. The tripeptides isoleucine-proline-proline (IPP) and valine-proline-proline (VPP), isolated from hydrolysed casein have been shown to lower blood pressure by inhibiting angiotensin I-converting enzyme (ACE). This has led to the use of these tripeptides, collectively referred to as lactotripeptide (LTP) as ingredients of functional foods intended to help control blood pressure. A programme of studies including a 90-day repeat-dose oral gavage toxicity study in the rat and an embryo-fetal (pre-natal) development study in the rabbit was conducted to ensure the safety of this ACE-inhibiting ingredient. In addition, a non-standard pre- and post-natal development study in the rat was performed. This study included direct dosing of the neonates, and was designed specifically to investigate renal development and to ensure that the bioactive peptides were not associated with the same type of fetopathy exhibited by ACE inhibiting drugs. These studies showed that there were no adverse effects of treatment at the highest doses tested."
+  },
+  {
+   "pmid": "23305234",
+   "titel": "Antihypertensive effects of bioactive tripeptides-a random effects meta-analysis",
+   "jahr": "2013",
+   "journal": "Ann Med",
+   "erstautor": "Turpeinen AM",
+   "doi": "10.3109/07853890.2012.663926",
+   "typ": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Review"
+   ],
+   "abstract": "A meta-analysis of possible antihypertensive effects of small doses of bioactive tripeptides isoleucine-proline-proline and valine-proline-proline in commercial milk products or tablets was carried out. A random effects model was used on 19 randomized, placebo-controlled clinical intervention trials (published 1996-October 2010) consisting of about 1500 prehypertensive or mildly hypertensive subjects.The overall blood pressure lowering for systolic blood pressure was -4.0 mmHg (95% CI -5.9 to -2.1 mmHg, P < 0.001) and for diastolic blood pressure -1.9 mmHg (95% CI -3.1 to -0.8 mmHg, P < 0.001). However, a positive effect was not reported in all the studies. The results suggest that rather small daily doses of the lactotripeptides in different functional food products may offer a valuable option as a non-pharmacological treatment of prehypertension or mild hypertension as part of life-style advice."
+  },
+  {
+   "pmid": "42872573",
+   "titel": "Interindividual variability in food-derived peptide bioavailability and function: peptide metabotypes and responder phenotypes",
+   "jahr": "2026",
+   "journal": "Food Funct",
+   "erstautor": "Suttikhana I",
+   "doi": "10.1039/d6fo03963d",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Food-derived bioactive peptides are commonly evaluated as though a standardised protein, hydrolysate, or peptide-containing food produces comparable biological exposure across consumers. Emerging human evidence challenges this assumption because food structure, gastrointestinal physiology, intestinal peptidases, epithelial transport, microbial metabolism, age, metabolic status, medication use, and habitual diet can alter the peptides and metabolites generated after ingestion. This critical review examines interindividual variability as a determinant of food-peptide efficacy and develops a precision-nutrition framework linking product composition to digestive peptide profiles and physiological response. We synthesise evidence from human digestion studies, jejunal peptidomics, transport and metabolism models, microbiome research, peptide pharmacokinetics, and clinical interventions involving antihypertensive lactotripeptides, dipeptidyl peptidase-IV (DPP-IV)-inhibitory hydrolysates, and collagen peptides. We propose two testable concepts: the peptide metabotype, defined as an individual's reproducible time-resolved profile of food-derived peptides and metabolites after a standardised challenge, and the peptide responder phenotype, defined as the corresponding exposure-response pattern. We outline a core design comprising a characterised product, an appropriate comparator, repeated measurements, a targeted exposure panel and a prespecified physiological endpoint, with additional host profiling guided by the mechanism. This perspective shifts peptide research from universal bioactivity claims toward identifying when, where, and in whom peptide-containing foods are most likely to produce meaningful physiological effects and offers a testable approach to improving reproducibility and evaluating translational relevance."
+  },
+  {
+   "pmid": "42656698",
+   "titel": "From bench to bedside: experimental pharmacology approaches to overcome bioavailability, stability, and translational barriers of bioactive peptides from natural sources",
+   "jahr": "2026",
+   "journal": "Front Pharmacol",
+   "erstautor": "Hamadou M",
+   "doi": "10.3389/fphar.2026.1863016",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "BACKGROUND: Bioactive peptides derived from natural sources (marine organisms, plants, microbes, and fermented foods) exhibit potent antimicrobial, antihypertensive, antioxidant, and anticancer activities. However, their clinical translation is severely hindered by poor oral bioavailability, rapid proteolytic degradation, suboptimal pharmacokinetic profiles, and inconsistencies in sourcing and standardization. OBJECTIVE: This review critically examines experimental pharmacology strategies to overcome these translational barriers, including in vitro permeability models, in vivo pharmacokinetic profiling, chemical modifications (cyclization, D-amino acid substitution, N-methylation, PEGylation), advanced delivery systems (liposomes, polymeric nanoparticles, pH-responsive hydrogels), and emerging AI/ML-guided approaches. KEY FINDINGS: Most unmodified natural peptides display apparent permeability coefficients below 5 × 10 - 7    cm/s and plasma half-lives shorter than 15 min. Chemical modifications and nanocarrier systems demonstrably improve absorption and extend half-life, with reported increases in oral bioavailability of 3- to 10-fold in preclinical models. Success stories (ziconotide, lactotripeptides IPP/VPP) versus stalled candidates highlight the decisive role of integrated experimental pharmacology data. Critical gaps remain, including limited human pharmacokinetic evidence, scalability of nanocarriers under GMP conditions, and harmonized regulatory pathways for natural-origin peptides. CONCLUSION: Rigorous experimental pharmacology, rather than bioactivity alone, is the key to bridging the bench-to-bedside gap for natural bioactive peptides. A standardized translational workflow from discovery to IND filing is proposed to accelerate clinical application of these promising molecules."
+  },
+  {
+   "pmid": "27150497",
+   "titel": "Can milk proteins be a useful tool in the management of cardiometabolic health? An updated review of human intervention trials",
+   "jahr": "2016",
+   "journal": "Proc Nutr Soc",
+   "erstautor": "Fekete ÁA",
+   "doi": "10.1017/S0029665116000264",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+   ],
+   "abstract": "The prevalence of cardiometabolic diseases is a significant public health burden worldwide. Emerging evidence supports the inverse association between greater dairy consumption and reduced risk of cardiometabolic diseases. Dairy proteins may have an important role in the favourable impact of dairy on human health such as blood pressure (BP), blood lipid and glucose control. The purpose of this review is to update and critically evaluate the evidence on the impacts of casein and whey protein in relation to metabolic function. Evidence from short-term clinical studies assessing postprandial responses to milk protein ingestion suggests benefits on vascular function independent of BP, as well as improvement in glycaemic homeostasis. Long-term interventions have been less conclusive, with some showing benefits and others indicating a lack of improvement in vascular function. During chronic consumption BP appears to be lowered and both dyslipidaemia and hyperglacaemia seem to be controlled. Limited number of trials investigated the effects of dairy proteins on oxidative stress and inflammation. Although the underlying mechanisms of milk proteins on cardiometabolic homeostasis remains to be elucidated, the most likely mechanism is to improve insulin resistance. The incorporation of meals enriched with dairy protein in the habitual diet may result in the beneficial effects on cardiometabolic health. Nevertheless, future well-designed, controlled studies are needed to investigate the relative effects of both casein and whey protein on BP, vascular function, glucose homeostasis and inflammation."
+  },
+  {
+   "pmid": "26536628",
+   "titel": "Influence of the Lactotripeptides Isoleucine-Proline-Proline and Valine-Proline-Proline on Systolic Blood Pressure in Japanese Subjects: A Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+   "jahr": "2015",
+   "journal": "PLoS One",
+   "erstautor": "Chanson-Rolle A",
+   "doi": "10.1371/journal.pone.0142235",
+   "typ": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+   ],
+   "abstract": "BACKGROUND: The lactotripeptides isoleucine-proline-proline (IPP) and valine-proline-proline (VPP) have been shown to decrease systolic blood pressure (SBP) in several populations, but the size of the effect varies among studies. We performed a meta-analysis including all published studies to evaluate the SBP-lowering effect of IPP/VPP in Japanese subjects more comprehensively. METHODS AND FINDINGS: Eligible randomized controlled trials were searched for within four bibliographic databases, including two Japanese ones. Eighteen studies (including a total of 1194 subjects) were included in the meta-analysis. A random effect model using the restricted maximum likelihood (REML) estimator was used for the analysis. The analysis showed that consumption of IPP/VPP induced a significant reduction in SBP as compared with placebo in Japanese subjects, with an estimated effect of -5.63 mm Hg (95% CI, -6.87 to -4.39, P<0.0001) and no evidence of publication bias. A significant heterogeneity between series was evident, which could be explained by a significant influence of the baseline blood pressure status of the subjects, the effect of IPP/VPP on SBP being stronger in hypertensive subjects (-8.35 mm Hg, P<0.0001) than in non-hypertensive subjects (-3.42mm Hg, P<0.0001). Furthermore, the effect of IPP/VPP on SBP remained significant when limiting the analysis to series that tested the usual doses of IPP/VPP consumed daily (below 5 mg/d), with estimated effects of -6.01 mm Hg in the overall population and -3.32 mm Hg in non-hypertensive subjects. CONCLUSIONS: Results from this meta-analysis show that IPP/VPP lactotripeptides can significantly reduce office SBP in Japanese subjects with or without overt hypertension, and for doses that can potentially be consumed as an everyday supplement. This suggests that these peptides could play a role in controlling blood pressure in Japanese subjects. The systematic review protocol was published on the PROSPERO register (CRD42014014322)."
+  },
+  {
+   "pmid": "23382495",
+   "titel": "Do the lactotripeptides isoleucine-proline-proline and valine-proline-proline reduce systolic blood pressure in European subjects? A meta-analysis of randomized controlled trials",
+   "jahr": "2013",
+   "journal": "Am J Hypertens",
+   "erstautor": "Cicero AF",
+   "doi": "10.1093/ajh/hps044",
+   "typ": [
+    "Journal Article",
+    "Meta-Analysis"
+   ],
+   "abstract": "BACKGROUND: The milk-derived peptides isoleucine-proline-proline (IPP) and valine-proline- proline (VPP) have been shown to reduce systolic blood pressure (SBP). This decrease is convincingly shown in subjects of Asian origin, but less consistent results have been obtained in European populations. METHODS: A meta-analysis was conducted in accord with the Preferred Reporting Items for Systematic reviews and Meta-analyses (PRISMA) requirements, to assess the effect of IPP and VPP on SBP in Europeans, and to explore some determinants of this effect. RESULTS: Ninety-one publications on the effect of IPP and VPP on SBP in Europeans were identified, and 14 trials with 15 sets of data (n = 1,306) met the inclusion criteria for the meta-analysis. A random-effects model (using the restricted maximum likelihood (REML) estimator) was used for the analysis. Although not all individual trials showed a statistically significant effect of IPP or VPP in reducing SBP, the combination of all data for the two peptides yielded a statistically significantly greater effect for IPP/VPP than for placebo. The decrease in SBP with IPP/VPP was 1.28mm Hg (95% CI, -2.09 to -0.48, P = 0.0017) and the decrease in diastolic BP (DBP) was 0.59mm Hg (95% CI, -1.18 to -0.01, P = 0.047). There was no evidence in the meta-analysis of any publication bias or of heterogeneity (P = 0.13). Among other features, a significant effect was seen for age, with each additional year of age reducing the effect on SBP by 0.09mm Hg. This might be related to isolated systolic hypertension, a condition often encountered in the elderly, who may be poorly responsive to first-line treatments for hypertension. CONCLUSION: The peptides IPP and VPP are effective in moderately reducing SBP in European subjects, as is known for Asian populations. These two peptides could therefore have a role in controlling blood pressure (BP), a prospect that merits their further study."
+  },
+  {
+   "pmid": "21221598",
+   "titel": "Milk casein-derived tripeptides, VPP and IPP induced NO production in cultured endothelial cells and endothelium-dependent relaxation of isolated aortic rings",
+   "jahr": "2011",
+   "journal": "Heart Vessels",
+   "erstautor": "Hirota T",
+   "doi": "10.1007/s00380-010-0096-y",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Milk casein-derived tripeptides, valyl prolyl proline (VPP), and isoleucyl prolyl proline (IPP) inhibit angiotensin-converting enzyme (ACE) and both fermented milk and proteolytic hydrolysates of milk casein containing these peptides exert blood pressure-lowering effects in animals and humans. On the top of these results, we have recently reported that the hydrolysate of milk casein containing both VPP and IPP improved the vascular endothelial function of subjects with stage I hypertension, enforcing us to elucidate the mechanism of the improvement of endothelial dysfunction by these peptides. For this purpose, we examined the effect of VPP and IPP on induction of nitric oxide (NO) production using cultured vascular endothelial cells and isolated arterial vessels. When both VPP and IPP were added to the medium of cultured endothelial cells at final concentrations of more than 100 nmol/l, the NO(x) (NO(2) and NO(3)) concentration in the medium was significantly higher than that of the control. Moreover, both VPP and IPP induced endothelium-dependent relaxation of isolated aortic rings, and these effects were inhibited by NO synthase inhibitors, K channel inhibitors, and bradykinin B2 receptor antagonists. These lines of results suggested that both VPP and IPP induced production of vasodilative substances including NO."
+  },
+  {
+   "pmid": "20721338",
+   "titel": "Milk Products Containing Bioactive Tripeptides Have an Antihypertensive Effect in Double Transgenic Rats (dTGR) Harbouring Human Renin and Human Angiotensinogen Genes",
+   "jahr": "2010",
+   "journal": "J Nutr Metab",
+   "erstautor": "Jauhiainen T",
+   "doi": "10.1155/2010/287030",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Tripeptides isoleucyl-prolyl-proline (IPP) and valyl-prolyl-proline (VPP) act as ACE inhibitors in vitro. Double transgenic rats (dTGR) harbouring human renin and human angiotensinogen genes develop malignant hypertension due to increased angiotensin II formation. The present study was aimed to evaluate possible antihypertensive effect of IPP and VPP in this severe model. Four-week-old dTGR were randomized in three groups to receive: (1) water (control), (2) fermented milk containing IPP and VPP, and (3) IPP and VPP dissolved in water for three weeks. Fermented milk, but not peptides in water, attenuated the development of hypertension in dTGR by 19 mmHg versus the control group (P = .023). In vitro vascular function tests showed that high concentrations of the peptides evinced ACE inhibitory properties. In other hypertension related variables, no significant differences between the treatment groups were found. In conclusion, fermented milk product containing IPP and VPP prevents development of malignant hypertension in an animal model."
+  },
+  {
+   "pmid": "20811398",
+   "titel": "Blood pressure lowering effect of lactotripeptides assumed as functional foods: a meta-analysis of current available clinical trials",
+   "jahr": "2011",
+   "journal": "J Hum Hypertens",
+   "erstautor": "Cicero AF",
+   "doi": "10.1038/jhh.2010.85",
+   "typ": [
+    "Journal Article",
+    "Meta-Analysis"
+   ],
+   "abstract": "The oral assumption of lactotripeptides Valine-Proline-Proline (VPP) and Isoleucine-Proline-Proline (IPP) as nutraceuticals or functional foods is supposed to improve blood pressure (BP) control by angiotensin-converting enzyme-inhibition. However, data derived from clinical trials have reached conflicting conclusions. To perform a meta-analysis of placebo-controlled clinical trials evaluating the anti-hypertensive effect of lactotripeptides assumed as nutraceuticals or functional foods. Trials identified using a defined search strategy in PubMed were included in the meta-analysis, and their pooled effect was estimated with a random effects model, weighting for the inverse of the variance. Heterogeneity, publication bias, subgroup and meta-regression analyses were performed. A total of 18 trials have been identified, the clinical data of which have been clearly reported. Pooled effect of peptides was a reduction of -3.73 mm Hg (95% CI: -6.70, -1.76) for systolic blood pressure (SBP) and 1.97 mm Hg (95% CI: -3.85, -0.64) for diastolic blood pressure (DBP). The effect was more evident in Asian patients (SBP = -6.93 mm Hg (95% CI: -10.95, -2.94); DBP=-3.98 mm Hg(95% CI: -5.38, -2.44)) than in Caucasian ones (SBP=-1.17 mm Hg (95% CI: -2.82, 0.72); DBP = -0.52 mm Hg (95% CI: -1.39, 0.13)), and apparently not related to age, baseline BP values, dose of lactotripeptides assumed or length of the treatment. VPP and IPP lactotripeptides assumed as functional foods may significantly reduce SBP particularly in Asian subjects. The relevance of this findings in other ethnicities or associated with different dietary pattern should to be further investigated."
+  },
+  {
+   "pmid": "30160110",
+   "titel": "Milk-Derived Tripeptides IPP (Ile-Pro-Pro) and VPP (Val-Pro-Pro) Enhance Insulin Sensitivity and Prevent Insulin Resistance in 3T3-F442A Preadipocytes",
+   "jahr": "2018",
+   "journal": "J Agric Food Chem",
+   "erstautor": "Chakrabarti S",
+   "doi": "10.1021/acs.jafc.8b02051",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "There is great interest in developing naturally derived compounds, especially bioactive peptides with potential insulin sensitizing effects and/or preventing insulin resistance. Previously, we showed adipogenic and insulin mimetic actions of IPP (Ile-Pro-Pro) and VPP (Val-Pro-Pro), the milk-derived tripeptides on cultured preadipocytes, in addition to their previously characterized antihypertensive and anti-inflammatory functions. However, the effect of these peptides on insulin signaling is not known. Therefore, we examined IPP and VPP effects on insulin signaling in preadipocytes, a well-established model for studying insulin signaling. Our results suggested both peptides enhanced insulin signaling and contributed toward the prevention of insulin resistance in the presence of tumor necrosis factor (TNF). Inhibition of inflammatory mediator NF-kB under TNF stimulation was a likely contributor to the prevention of insulin resistance. VPP further enhanced the expression of glucose transporter 4 (GLUT4) in adipocytes and restored glucose uptake in TNF-treated adipocytes. Our data suggested the potential of these peptides in the management of conditions associated with impairments in insulin signaling."
+  }
+ ],
+ "ctgov": [],
+ "gruppe": "F_kollagen_kosmetik"
+}

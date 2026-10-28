@@ -1,0 +1,942 @@
+{
+ "name": "GHK-Cu (Kupferpeptid)",
+ "status": "kosmetik",
+ "suchbegriff_pubmed": "GHK-Cu[tiab] OR copper tripeptide[tiab] OR copper peptide GHK[tiab]",
+ "suchbegriff_ctgov": "GHK-Cu OR copper peptide",
+ "humanstudien_alle": [
+  {
+   "pmid": "16847171",
+   "titel": "Effects of topical copper tripeptide complex on CO2 laser-resurfaced skin",
+   "jahr": "2006",
+   "journal": "Arch Facial Plast Surg",
+   "erstautor": "Miller TR",
+   "doi": "10.1001/archfaci.8.4.252",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ]
+  }
+ ],
+ "humanstudien_detail": [
+  {
+   "pmid": "16847171",
+   "titel": "Effects of topical copper tripeptide complex on CO2 laser-resurfaced skin",
+   "jahr": "2006",
+   "journal": "Arch Facial Plast Surg",
+   "erstautor": "Miller TR",
+   "doi": "10.1001/archfaci.8.4.252",
+   "typ": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "OBJECTIVE: To evaluate the role of skin care products that contain a copper tripeptide complex, glycyl-l-histidyl-l-lysine-Cu(2+) (GHK-Cu), in treating carbon dioxide (CO(2)) laser-resurfaced skin. METHODS: Patients meeting the inclusion criteria underwent circumoral skin resurfacing using a CO(2) laser at standard settings. Patients were then randomized to receive posttreatment skin regimens with or without GHK-Cu. Evaluations for erythema throughout the posttreatment period were performed using computer software and blinded evaluators. In addition, overall improvement in wrinkles and overall improvement in skin appearance 12 weeks after treatment were assessed. Patients completed a validated questionnaire before and 12 weeks after treatment. RESULTS: Thirteen patients completed the study. Computer analysis and blinded evaluators found no statistically significant differences between groups for earlier resolution of erythema. All the patients experienced significant improvement in wrinkles and overall skin quality, but no differences were found between groups. The results of the questionnaire indicated a significant difference in the posttreatment improvement of overall skin quality for patients using GHK-Cu (P = .04). CONCLUSIONS: Copper tripeptide complex (GHK-Cu) skin care products placed on CO(2) laser-resurfaced skin offered no significant reduction or resolution of posttreatment erythema. Objective evaluation found no significant improvement in wrinkles or overall skin quality. However, patient satisfaction was significantly higher for those who used GHK-Cu skin care products after CO(2) laser skin resurfacing."
+  }
+ ],
+ "metaanalysen": [],
+ "praeklinik": [
+  {
+   "pmid": "29986520",
+   "titel": "Regenerative and Protective Actions of the GHK-Cu Peptide in the Light of the New Gene Data",
+   "jahr": "2018",
+   "journal": "Int J Mol Sci",
+   "erstautor": "Pickart L",
+   "doi": "10.3390/ijms19071987",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "The human peptide GHK (glycyl-l-histidyl-l-lysine) has multiple biological actions, all of which, according to our current knowledge, appear to be health positive. It stimulates blood vessel and nerve outgrowth, increases collagen, elastin, and glycosaminoglycan synthesis, as well as supports the function of dermal fibroblasts. GHK&rsquo;s ability to improve tissue repair has been demonstrated for skin, lung connective tissue, boney tissue, liver, and stomach lining. GHK has also been found to possess powerful cell protective actions, such as multiple anti-cancer activities and anti-inflammatory actions, lung protection and restoration of chronic obstructive pulmonary disease (COPD) fibroblasts, suppression of molecules thought to accelerate the diseases of aging such as NFκB, anti-anxiety, anti-pain and anti-aggression activities, DNA repair, and activation of cell cleansing via the proteasome system. Recent genetic data may explain such diverse protective and healing actions of one molecule, revealing multiple biochemical pathways regulated by GHK."
+  },
+  {
+   "pmid": "39963574",
+   "titel": "Topically applied GHK as an anti-wrinkle peptide: Advantages, problems and prospective",
+   "jahr": "2025",
+   "journal": "Bioimpacts",
+   "erstautor": "Mortazavi SM",
+   "doi": "10.34172/bi.30071",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "INTRODUCTION: Peptides are promising and attractive anti-wrinkle active ingredients, amongst which glycyl-histidyl-lysine peptide (GHK) is one of the most broadly promoted peptide for topical application. This simple sequence of amino acid residues not only has the capability of tissue regeneration and the enhancement of collagen and glycosaminoglycans synthesis but also is able to increase nerve outgrowth and angiogenesis. Consequently, GHK has several properties, from wound healing to prevention/reduction wrinkles. GHK-Cu and Pal-GHK are metal complex and palmitoylated derivatives of GHK, respectively. Although GHK-Cu and Pal-GHK are widely used in anti-wrinkle products available on the cosmetic market, the published information on their skin permeability, effectiveness, physicochemical properties and so on is insufficient. METHODS: This review aims to highlight whether GHK is sufficiently effective on wrinkle prevention/reduction. Apart from the effectiveness, another question that is tried to be answered is whether skin permeability of GHK allows it to act as an anti-wrinkle peptide at its site of action? Skin permeation enhancement methods employed so far are also reviewed. RESULTS: Based on cellular studies, undoubtedly, GHK can be considered as an anti-wrinkle ingredient. Although GHK-Cu and Pal-GHK have been of interest as effective peptides to be incorporated in the anti-wrinkle products, there is a surprising absence of clinical studies using them. Metal complexation and chemical modification with a hydrophobic moiety increase permeability of this peptide. Besides, cell penetrating peptides seem promising to increase skin permeation of GHK and its derivatives. Skin pretreatment with microneedles also has the potential to be further studied for permeation enhancement of such peptides. As peptide ingredients, their formulation may encounter some challenges, mainly due to their hydrophilic (high aqueous solubility and low partition coefficient) and unstable nature. CONCLUSION: Although GHK-Cu and Pal-GHK are effective and relatively skin permeable, their permeability could be successfully increased using permeation enhancement methodologies."
+  },
+  {
+   "pmid": "35083444",
+   "titel": "The potential of GHK as an anti-aging peptide",
+   "jahr": "2020",
+   "journal": "Aging Pathobiol Ther",
+   "erstautor": "Dou Y",
+   "doi": "10.31491/apt.2020.03.014",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "GHK (glycyl-L-histidyl-L-lysine) is a naturally occurring peptide found in human serum with levels averaging 200 ng/ml at age 20 but declining to an average of 80 ng/ml by age 60. The molecule has a very high affinity for copper and forms the chelate GHK-Cu. The peptide as well as its Cu (II) chelate have anti-inflammatory and tissue remodeling properties. GHK-Cu has been shown to promote skin remodeling, wound healing and regeneration, and has prominent antioxidant and anti-inflammatory effects in in vitro and in vivo studies. In addition, preliminary observations suggest GHK can partially reverse cognitive impairment in aging mice by targeting anti-inflammatory and epigenetic pathways. The evidence as presented provides the rationale to further investigate this naturally occurring peptide in preclinical and clinical aging studies."
+  },
+  {
+   "pmid": "41490200",
+   "titel": "Therapeutic Peptides in Orthopaedics: Applications, Challenges, and Future Directions",
+   "jahr": "2026",
+   "journal": "J Am Acad Orthop Surg Glob Res Rev",
+   "erstautor": "Rahman OF",
+   "doi": "10.5435/JAAOSGlobal-D-25-00236",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Therapeutic peptides are emerging as promising adjuncts in the management of orthopaedic injuries, grounded in their ability to modulate molecular signaling networks central to cellular medicine. By acting on key pathways such as PI3K/Akt, mTOR, MAPK, TGF-β, and AMPK, peptides exert influence over tissue regeneration, inflammation resolution, and neuromuscular recovery. Wound-healing peptides such as BPC-157, TB-500, and GHK-Cu promote angiogenesis, integrin-mediated extracellular matrix remodeling, and fibroblast activation, whereas growth hormone secretagogues like ipamorelin, CJC-1295, tesamorelin, sermorelin, and AOD-9604 activate IGF-1 signaling and satellite cell repair. Recovery-enhancing agents such as epithalon, delta sleep-inducing peptide, and pinealon target circadian and mitochondrial regulators, and neuroactive peptides like selank, semax, and dihexa enhance brain-derived neurotrophic factor and HGF/c-Met pathways critical to neuroplasticity. Although preclinical studies are promising, there is a current lack of clinical trials. This review integrates current mechanistic insights with orthopaedic relevance, emphasizing safety, efficacy, and future directions for responsible integration into musculoskeletal care."
+  },
+  {
+   "pmid": "41476424",
+   "titel": "Injectable Peptide Therapy: A Primer for Orthopaedic and Sports Medicine Physicians",
+   "jahr": "2026",
+   "journal": "Am J Sports Med",
+   "erstautor": "Mayfield CK",
+   "doi": "10.1177/03635465251357593",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "BACKGROUND: Therapeutic peptides are short-chain amino acids that regulate cellular functions and facilitate biochemical processes. In recent years, there has been significant growth in the global market for therapeutic peptides and thus its popularity among patients. Given the increase in the development of peptides and increased marketing to patients for orthopaedic injuries, it is critical for orthopaedic surgeons to understand the current evidence behind these therapeutic peptides. PURPOSE: To evaluate the current evidence and applications of injectable peptide therapy, focusing on its potential in regenerative medicine and sports performance, to help orthopaedic providers better understand the current state of different therapeutic peptide approaches. STUDY DESIGN: Narrative review. METHODS: A comprehensive literature search was conducted using PubMed to identify biochemical and clinical studies on the most popular types of injectable peptide therapy. Key peptides evaluated included BPC-157, TB-4, TB-500, CJC-1295 + ipamorelin, tesamorelin, and GHK-Cu. RESULTS: BPC-157 demonstrated potential benefits in tendon and muscle repair, but these findings are largely unvalidated in human trials. A single human case series reported improvements in pain after intra-articular knee injections of BPC-157, although significant methodological flaws and a lack of controls limit its applicability and reliability. TB-4 and its derivative TB-500 promoted angiogenesis and tissue repair in preclinical models, but human orthopaedic data are lacking, and both remain banned substances in sports. CJC-1295 combined with ipamorelin showed significantly improved maximum tetanic tension in murine models with glucocorticoid-induced muscle loss, but these findings are limited to animal studies. Tesamorelin, approved for treating HIV-associated lipodystrophy, has no supporting orthopaedic evidence. GHK-Cu showed promise in wound healing and anti-inflammatory effects, but no clinical data support its use for musculoskeletal conditions. CONCLUSION: While peptide therapy may possess significant therapeutic and regenerative potential, it is critical that orthopaedic and sports medicine providers understand the current lack of evidence to support the clinical use of these peptides. Importantly, information regarding the indications, dosing, frequency, and duration of treatment remains unknown. Despite the popularity of these peptides in mainstream media and among patients, significant research regarding the safety and efficacy of these therapeutic methods is required before definitive recommendations can be made to patients."
+  },
+  {
+   "pmid": "37896245",
+   "titel": "Liposomes as Carriers of GHK-Cu Tripeptide for Cosmetic Application",
+   "jahr": "2023",
+   "journal": "Pharmaceutics",
+   "erstautor": "Dymek M",
+   "doi": "10.3390/pharmaceutics15102485",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Liposomes are self-assembled spherical systems composed of amphiphilic phospholipids. They can be used as carriers of both hydrophobic and hydrophilic substances, such as the anti-aging and wound-healing copper-binding peptide, GHK-Cu (glycyl-L-histidyl-L-lysine). Anionic (AL) and cationic (CL) hydrogenated lecithin-based liposomes were obtained as GHK-Cu skin delivery systems using the thin-film hydration method combined with freeze-thaw cycles and the extrusion process. The influence of total lipid content, lipid composition and GHK-Cu concentration on the physicochemical properties of liposomes was studied. The lipid bilayer fluidity and the peptide encapsulation efficiency (EE) were also determined. Moreover, in vitro assays of tyrosinase and elastase inhibition were performed. Stable GHK-Cu-loaded liposome systems of small sizes (approx. 100 nm) were obtained. The bilayer fluidity was higher in the case of cationic liposomes. As the best carriers, 25 mg/cm3 CL and AL hydrated with 0.5 mg/cm3 GHK-Cu were selected with EE of 31.7 ± 0.9% and 20.0 ± 2.8%, respectively. The obtained results confirmed that the liposomes can be used as carriers for biomimetic peptides such as copper-binding peptide and that the GHK-Cu did not significantly affect the tyrosinase activity but led to 48.90 ± 2.50% elastase inhibition, thus reducing the rate of elastin degeneration and supporting the structural integrity of the skin."
+  },
+  {
+   "pmid": "41966639",
+   "titel": "Safety and Efficacy of Approved and Unapproved Peptide Therapies for Musculoskeletal Injuries and Athletic Performance",
+   "jahr": "2026",
+   "journal": "Sports Med",
+   "erstautor": "Mendias CL",
+   "doi": "10.1007/s40279-026-02437-0",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Peptides are short chains of amino acids with a unique pharmacological niche between small-molecule drugs and large proteins. Their use in sports medicine is rapidly expanding, driven by patient demand for accelerated injury recovery and performance enhancement. While numerous peptide drugs have undergone a rigorous approval process that evaluates both safety and efficacy, a parallel \"gray market\" of unapproved compounds has emerged, operating largely outside of regulatory oversight. Our objective is to present the pharmacological mechanisms, safety profiles, and regulatory status of prominent approved and unapproved peptides marketed direct to patients, including AOD-9604 (anti-obesity drug 9604), BPC-157 (body protection compound 157), CJC-1295, FS-344 (follistatin-344), GHK-Cu (glycyl-L-histidyl-L-lysine copper), ipamorelin, MOTS-C (mitochondrial ORF of the 12S rRNA type-c), sermorelin, SS-31 (elamipretide), tesamorelin (Egrifta), Tβ4 (thymosin beta-4), and TB-500 (thymosin beta-4 fragment). Many unapproved peptides demonstrate favorable tissue repair and metabolic outcomes in animal models, but rigorous human safety data are scarce, and there is potential for serious harm to patients. This narrative review focuses on the utilization of peptides in sports medicine, and alternative treatments that may be considered. We provide a framework to navigate patient discussions about peptides to better facilitate evidence-based practices for musculoskeletal healing and athletic performance. We also discuss the placebo effect as a mediator of peptide efficacy, and how social media amplifies this effect."
+  },
+  {
+   "pmid": "37830186",
+   "titel": "Phenothiazine-Based Cu(II)-Selective Fluorescent Sensor: GHK-Cu Sensing Applications",
+   "jahr": "2023",
+   "journal": "J Org Chem",
+   "erstautor": "Sahu R",
+   "doi": "10.1021/acs.joc.3c01600",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Sensing important metals in different environments is an important area and involves the development of a wide variety of metal-sensing materials. The employment of fluorescent sensors in metal sensing has been one of the most widely applied methodologies, and the identification of selective metal sensors is important. We herein report a phenothiazine-based Cu(II) fluorescent sensor that is highly selective to Cu(II) ions compared with other transition metal salts. The Lewis acidity of the Cu(II) salt certainly was found to be a factor for obtaining an enhanced sensing response in MeOH as the solvent, while a ratio of 1:1 was calculated to be the most optimum for getting the desired response."
+  },
+  {
+   "pmid": "40716276",
+   "titel": "An injectable hydroxyapatite microsphere filler loaded with GHK-Cu tripeptide for anti-Inflammatory and antioxidant",
+   "jahr": "2025",
+   "journal": "Colloids Surf B Biointerfaces",
+   "erstautor": "Hu D",
+   "doi": "10.1016/j.colsurfb.2025.114982",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "With the wide application of soft tissue fillers, implant material-induced inflammatory reactions have become a key factor affecting the therapeutic efficacy. This study developed an injectable filler with enhanced anti-inflammatory and antioxidant effects by adsorbing glycyl-L-histidyl-L-lysine copper complex (GHK-Cu) onto hydroxyapatite microspheres (HAPs), marking the first combination of HAPs and GHK-Cu to address inflammation caused by soft tissue fillers. GHK-Cu was successfully loaded onto HAPs by electrostatic adsorption. HAPs were then mixed with carboxymethyl cellulose (CMC), glycerol (GLY), and water to form GHK-Cu@CMHA gel. The study focus on the effective combination of HAPs as a carrier for sustained GHK-Cu delivery and the anti-inflammatory properties of GHK-Cu. GHK-Cu@CMHA exhibits sustained release properties for 7 days, which ensures prolonged therapeutic effects, minimizes peptide waste and reduces injection frequency, with good flowability and injectability. In the model of LPS-induced inflammation model in vivo and in vitro, GHK-Cu@CMHA gel reduced levels of inflammatory factors and Reactive oxygen species (ROS) levels decreased, while superoxide dismutase (SOD) activity was enhanced. In this process, H&E staining and Masson staining revealed significant collagen deposition. These findings further confirm that GHK-Cu@CMHA is a novel injectable soft tissue filler with good anti-inflammatory and antioxidant properties, which holds well potential for inflammation inhibition."
+  },
+  {
+   "pmid": "39795193",
+   "titel": "Are We Ready to Measure Skin Permeation of Modern Antiaging GHK-Cu Tripeptide Encapsulated in Liposomes?",
+   "jahr": "2025",
+   "journal": "Molecules",
+   "erstautor": "Ogórek K",
+   "doi": "10.3390/molecules30010136",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Cosmetically active compounds (CACs), both of lipophilic and hydrophilic origin, have difficulty reaching the deeper layers of the skin, and this shortcoming significantly reduces their efficacy. One such CAC that occurs naturally in the human body and displays many beneficial properties (via reducing fine lines and wrinkles, tightening skin, improving its elasticity, etc.) is the glycyl-L-histidyl-L-lysine tripeptide complex of copper (GHK-Cu). GHK-Cu is a fairly hydrophilic compound with limited permeation through the lipophilic stratum corneum. On the other hand, liposomes capable of encapsulating GHK-Cu may improve its permeation potential. The present review discusses various issues related to obtaining insight into the permeation of CACs through the skin. Methods for studying the transport of CACs encapsulated by liposomes and free GHK-Cu across the skin barrier are summarized. An analysis of the literature data reveals that the transport of liposomes containing GHK-Cu received little attention. This research gap gives an impetus to the methodological developments for assessing the effect of liposomes on GHK-Cu transportation and trafficking."
+  },
+  {
+   "pmid": "42619529",
+   "titel": "The Regenerative Potential of GHK-Cu in Aesthetic Medicine",
+   "jahr": "2026",
+   "journal": "Aesthet Surg J",
+   "erstautor": "Mokhtar J",
+   "doi": "10.1093/asj/sjag169",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The age-related decline in tissue regenerative capacity drives demand for interventions restoring physiological repair mechanisms. Glycyl-L-histidyl-L-lysine-copper (GHK-Cu) has demonstrated significant regenerative, anti-inflammatory, and antioxidant properties in preclinical models, prompting its increasing integration into aesthetic practice despite a paucity of standardized clinical guidelines. This systematic review evaluates the efficacy, safety, and regenerative mechanisms of GHK-Cu in aesthetic medicine to clarify its clinical utility and inform future research. A systematic search of PubMed, Embase, and Cochrane CENTRAL was conducted from database inception through March 2026, following PRISMA guidelines. Eligible studies included clinical and preclinical models investigating GHK-Cu as a standalone intervention for aesthetic applications. 20 studies (18 preclinical; 2 RCTs) were included. Preclinical data consistently demonstrated that GHK-Cu enhances extracellular matrix synthesis (type I collagen and glycosaminoglycans), modulates metalloproteinase activity, and promotes angiogenesis and cellular proliferation. It also exhibited significant anti-inflammatory effects by suppressing TGF-β and IL-6. Clinically, GHK-Cu improved patient-reported satisfaction after laser resurfacing and significantly reduced wrinkle volume and depth compared with controls. Additionally, advanced delivery systems, including microneedles and liposomes, markedly improved its transdermal bioavailability and efficacy. GHK-Cu demonstrates a reasonable biological basis for use as a regenerative agent in aesthetic medicine, supported by available preclinical data. Nevertheless, the findings reported across studies were constrained by methodological variability and a limited number of well-designed clinical trials. Future research incorporating larger, controlled trials with standardized formulations, dosing regimens, and delivery methods will be necessary to close the translational gap and inform the development of consistent therapeutic protocols in clinical practice."
+  },
+  {
+   "pmid": "42578445",
+   "titel": "Peptide Supplements and Their Therapeutic Applications in Sports Medicine",
+   "jahr": "2026",
+   "journal": "Am J Sports Med",
+   "erstautor": "Tewari K",
+   "doi": "10.1177/03635465261464420",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: The peptide supplement market has experienced rapid growth due to marketing claims of enhanced performance and accelerated recovery from musculoskeletal injury. These peptides are increasingly popular with patients and athletes and are often perceived as low risk, despite the absence of efficacy or safety data for many emerging peptides. PURPOSE: To summarize existing peer-reviewed data on 6 emerging peptides (BPC-157, thymosin beta-4 or TB-500, CJC-1295, MK-677, ipamorelin, and GHK-Cu [copper peptide]) for musculoskeletal recovery and enhancement in animal and human models. STUDY DESIGN: Scoping review. METHODS: Three independent reviewers searched the PubMed database using permutations of peptide search terms (BPC-157, TB-500, CJC-1295, MK-677 [ibutamoren], ipamorelin, and GHK-Cu) combined with musculoskeletal tissue search terms (bone, fracture, muscle, tendon, ligament, meniscus, and cartilage) following PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines. Papers were independently screened by 2 reviewers, with a third serving as a tiebreaker. Papers examining these peptides for musculoskeletal treatment, tissue recovery, or performance in animal or human models were included. RESULTS: Overall, 67% of identified publications utilized preclinical animal models. In animal models, most commonly rats, each compound demonstrated unique mechanisms with promising but variable effects on tendon, muscle, bone, and ligament healing. Human clinical studies were limited to a handful of investigations, most lacking robust controls or rigorous study designs. Human data were heterogeneous and revealed modest improvements at best for metabolic bone health and degenerative knee pain. Some peptides such as MK-677 were associated with significant risks including congestive heart failure, and significant heterogeneity existed in dosing and route of administration. CONCLUSION: Despite promising findings in animal studies, the claimed benefits of emerging peptide supplements for musculoskeletal recovery and performance remain unsubstantiated by current human trials. Documented risks include cardiovascular complications and metabolic dysfunction such as insulin resistance. Because of the lack of robust efficacy and safety data, peptide supplements should not currently be recommended as a replacement or adjunct for existing orthopaedic standard of care."
+  },
+  {
+   "pmid": "31809714",
+   "titel": "Protective effects of GHK-Cu in bleomycin-induced pulmonary fibrosis via anti-oxidative stress and anti-inflammation pathways",
+   "jahr": "2020",
+   "journal": "Life Sci",
+   "erstautor": "Ma WH",
+   "doi": "10.1016/j.lfs.2019.117139",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "BACKGROUND: Idiopathic pulmonary fibrosis (IPF) is a serious lung problem with advancing and diffusive pulmonary fibrosis as the pathologic basis, and with oxidative stress and inflammation as the key pathogenesis. Glycyl-L-histidyl-l-lysine (GHK) is a tripeptide participating into wound healing and regeneration. GHK-Cu complexes improve GHK bioavailability. Thus, the current study aimed to explore the therapeutic role of GHK-Cu on bleomycin (BLM)-induced pulmonary fibrosis in a mouse model. METHODS: BLM (3 mg/kg) was administered via tracheal instillation (TI) to induce a pulmonary fibrosis model in C57BL/6j mice 21 days after the challenge of BLM. GHK-Cu was injected intraperitoneally (i.p.) at different dosage of 0.2, 2 and 20 μg/g/day in 0.5 ml PBS on alternate day. The histological changes, inflammation response, the collagen deposition and epithelial-mesenchymal transition (EMT) was evaluated in the lung tissue. EMT was evaluated by ɑ-SMA and fibronectin expression in the lung tissue. NF-κB p65, Nrf2 and TGFβ1/Smad2/3 signalling pathways were detected by immunoblotting analysis. RESULTS: GHK-Cu complex inhibited BLM-induced inflammatory and fibrotic pathological changes, alleviated the inflammatory response in the BALF by reducing the levels of the inflammatory cytokines, TNF-ɑ and IL-6 and the activity of MPO as well as reduced collagen deposition. In addition, the GHK-Cu treatment significantly reversed the MMP-9/TIMP-1 imbalance and partially prevented EMT via Nrf2, NF-κB and TGFβ1 pathways, as well as Smad2/3 phosphorylation. CONCLUSIONS: GHK-Cu presented a protective effect in BLM-induced inflammation and oxidative stress by inhibiting EMT progression and suppressing TGFβ1/Smad2/3 signalling in pulmonary fibrosis."
+  },
+  {
+   "pmid": "32867146",
+   "titel": "Ternary Cu(II) Complex with GHK Peptide and Cis-Urocanic Acid as a Potential Physiologically Functional Copper Chelate",
+   "jahr": "2020",
+   "journal": "Int J Mol Sci",
+   "erstautor": "Bossak-Ahmad K",
+   "doi": "10.3390/ijms21176190",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The tripeptide NH2-Gly-His-Lys-COOH (GHK), cis-urocanic acid (cis-UCA) and Cu(II) ions are physiological constituents of the human body and they co-occur (e.g., in the skin and the plasma). While GHK is known as Cu(II)-binding molecule, we found that urocanic acid also coordinates Cu(II) ions. Furthermore, both ligands create ternary Cu(II) complex being probably physiologically functional species. Regarding the natural concentrations of the studied molecules in some human tissues, together with the affinities reported here, we conclude that the ternary complex [GHK][Cu(II)][cis-urocanic acid] may be partly responsible for biological effects of GHK and urocanic acid described in the literature."
+  },
+  {
+   "pmid": "37381226",
+   "titel": "Multi working mode SPR chip laboratory for high refractive index detection",
+   "jahr": "2023",
+   "journal": "Opt Express",
+   "erstautor": "Ren Z",
+   "doi": "10.1364/OE.493337",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The Fiber SPR chip laboratory has become a popular choice in biochemical detection. To meet the needs of different kinds of analytes for the detection range and number of channels of the chip, we proposed a multi-mode SPR chip laboratory based on microstructure fiber in this paper. The chip laboratory was integrated with microfluidic devices made from PDMS and detection units made of bias three-core fiber and dumbbell fiber. By injecting light into different cores of a bias three-core fiber, different detection areas of dumbbell fiber can be selected, enabling the chip laboratory to enter high refractive index detection, multi-channel detection and other working modes. In the high refractive index detection mode, the chip can detect liquid samples with a refractive index range of 1.571-1.595. In multi-channel detection mode, the chip can achieve dual parameter detection of glucose and GHK-Cu, with sensitivities of 4.16 nm/(mg/mL) and 9.729 nm/(mg/mL), respectively. Additionally, the chip can switch to temperature compensation mode. The proposed multi working mode SPR chip laboratory, based on micro structured fiber, offers a new approach for the development of portable testing equipment that can detect multiple analytes and meet multiple requirements."
+  },
+  {
+   "pmid": "42123471",
+   "titel": "Therapeutic Peptides in Aesthetic, Metabolic and Endocrine Conditions: Effects, Safety, Clinical Applications, and Future Perspectives",
+   "jahr": "2026",
+   "journal": "Int J Mol Sci",
+   "erstautor": "Renke G",
+   "doi": "10.3390/ijms27093890",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Therapeutic peptides are short chains of amino acids used to treat metabolic and endocrine conditions such as obesity and type 2 diabetes. While several peptide drugs have undergone rigorous approval processes that evaluate both safety and efficacy, novel, unapproved compounds have emerged and are rapidly expanding into preventive medicine and performance enhancement. Our objective is to present the effects, clinical applications, safety profiles, and regulatory status of prominent peptides used to treat several conditions. We reviewed 106 articles, prioritizing systematic reviews, meta-analyses, and randomized controlled trials in the PubMed, ScienceDirect, and SciELO databases. Our results suggest that therapeutic peptides are a promising tool for treating type 2 diabetes and obesity, for skin rejuvenation, and as hormone analogs for specific diseases and conditions. Although these are strategic and innovative options that can improve health, performance, and longevity, further studies are needed before most new peptides can be used safely in humans."
+  },
+  {
+   "pmid": "31500015",
+   "titel": "Electrophoretic deposition of GHK-Cu loaded MSN-chitosan coatings with pH-responsive release of copper and its bioactivity",
+   "jahr": "2019",
+   "journal": "Mater Sci Eng C Mater Biol Appl",
+   "erstautor": "Ning C",
+   "doi": "10.1016/j.msec.2019.109746",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Despite the fact that titanium has been widely applied in the replacement of bone defects, prosthesis failure still occurred because of the lack of adequate bone-bonding ability and the incidence of post-surgery infections. Concentration-dependent effects of therapeutic copper ions (Cu2+) for antibacterial and osteogenic activity have been well-established in the field of biomedical application. In this study, we prepared mesoporous silica nanoparticles (MSN) and MSN-COOH with uniform sphere size (~100 nm) and developed multifunctional chitosan coatings loaded with MSN@GHK-Cu (glycyl-L-histidyl-l-lysine-Cu2+) as a suitable strategy by electrophoretic deposition (EPD). The microstructure and composition of the coating were comprehensively characterized by using SEM, XRD, FTIR, and TEM, respectively. The functional activity of Cu2+ releasing from the surface was dependent on the pH value of the titanium surface. Through the controllable release of Cu2+, the coating achieved not only inhibited adhesion of bacteria but also had good cytocompatibility. The coating based on EPD technique could be considered as a promising surface modification approach for the controlled delivery in situ of drug or other biomolecules."
+  },
+  {
+   "pmid": "30057663",
+   "titel": "Androgenetic Alopecia Treatment in Asian Men",
+   "jahr": "2018",
+   "journal": "J Clin Aesthet Dermatol",
+   "erstautor": "Tanaka Y",
+   "doi": "",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Background: Androgenetic alopecia (AGA) is a common form of hair loss in Asian men. Although AGA is often regarded as a relatively minor dermatological condition, hair loss can impact self-image and is a main cause for anxiety and depression in some men. We have treated patients with AGA for seven years. Objective: The goal of this study was to evaluate the effectiveness of our combination therapy in Asian men with AGA. Participants: Between the years 2011 and 2017, 18,918 male patients were treated in our center. Our combination therapy consists of oral finasteride once daily, oral and topical minoxidil twice daily, and an injectable treatment of lidocaine and an AGA treatment solution comprising minoxidil, arginine, aspartic acid, caffeine, copper tripeptide, lysine, niacin, panthenol, propanediol, propylen glycol, retinyl palmitate, pyridoxine, sodium hyaluronate, and ubiquinone once monthly for more than six months. Measurements: Digital photographs were taken pre- and post-treatment, and patient assessments were recorded after six and 12 months post-treatment. Results: Significant improvement was observed in all patients in the digital photographs. Ninety-six and 80 percent of the patients reported satisfaction with the results of the treatment after six and 12 months post-treatment. Minor complications were observed in 802 (4.2%) patients, characterized by slight pain and bleeding due to injection, swelling, dizziness, itching, and erythema of the scalp. Slight pain was reported in 651 patients (3.4%), and slight bleeding was reported in 56 patients (0.3%). Sexual dysfunctions were uncommon. These minor complications resolved spontaneously. No treatment-related adverse events were observed. Conclusion: A combination of these therapeutic options offers safe and highly efficacious treatment for AGA with minimal complications."
+  },
+  {
+   "pmid": "41371501",
+   "titel": "Golgi-targeted copper delivery strategy via enhancing copper-dependent proteins' activity for fascia regeneration",
+   "jahr": "2026",
+   "journal": "J Control Release",
+   "erstautor": "Wang R",
+   "doi": "10.1016/j.jconrel.2025.114521",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Copper-dependent proteins (such as lysyl oxidase, LOX) require copper acquisition within the Golgi apparatus to achieve enzymatic activation, and insufficient activation of these proteins is a key factor limiting fascia regeneration. To address this issue, this study, for the first time, proposes and validates a Golgi-targeted copper delivery system (LNP-ATOX1/GHK-Cu@PCL-GelMA). In this system, GHK-Cu serves as a stable copper source to provide a sustained release of Cu ions for cellular uptake, while lipid nanoparticles (LNPs) are used to deliver mRNA encoding the copper chaperone ATOX1. Upregulation of ATOX1 facilitates the transport of copper into the Golgi apparatus via ATP7A/B, thereby enhancing the activity of copper-dependent proteins. In addition, ATOX1 promotes the copper-dependent translocation of ATP7A and Rac1 to the plasma membrane, synergistically accelerating neovascularization. In vitro studies demonstrated that this material system significantly increased copper accumulation within the Golgi apparatus, elevated LOX activity to 1.78 times that of the control group, and enhanced angiogenic capacity. In a rabbit fascia defect model, this strategy effectively promoted collagen alignment and neovascularization, improving extracellular matrix reconstruction and facilitating fascia regeneration. In conclusion, this work establishes a novel Golgi-targeted copper delivery strategy, providing a practical therapeutic approach for regenerative disorders caused by insufficient activation of copper-dependent proteins, such as fascia defects."
+  },
+  {
+   "pmid": "38879894",
+   "titel": "The glycyl-l-histidyl-l-lysine-Cu(2+) tripeptide complex attenuates lung inflammation and fibrosis in silicosis by targeting peroxiredoxin 6",
+   "jahr": "2024",
+   "journal": "Redox Biol",
+   "erstautor": "Bian Y",
+   "doi": "10.1016/j.redox.2024.103237",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Silicosis is the most common type of pneumoconiosis, having a high incidence in workers chronically exposed to crystalline silica (CS). No specific medication exists for this condition. GHK, a tripeptide naturally occurring in human blood and urine, has antioxidant effects. We aimed to investigate the therapeutic effect of GHK-Cu on silicosis and its potential underlying molecular mechanism. An experimental silicosis mouse model was established to observe the effects of GHK-Cu on lung inflammation and fibrosis. Moreover, the effects of GHK-Cu on the alveolar macrophages (AM) were examined using the RAW264.7 cell line. Its molecular target, peroxiredoxin 6 (PRDX6), has been identified, and GHK-Cu can bind to PRDX6, thus attenuating lung inflammation and fibrosis in silicosis mice without significant systemic toxicity. These effects were partly related to the inhibition of the CS-induced oxidative stress in AM induced by GHK-Cu. Thus, our results suggest that GHK-Cu acts as a potential drug by attenuating alveolar macrophage oxidative stress. This, in turn, attenuates the progression of pulmonary inflammation and fibrosis, which provides a reference for the treatment of silicosis."
+  },
+  {
+   "pmid": "27517151",
+   "titel": "The tri-peptide GHK-Cu complex ameliorates lipopolysaccharide-induced acute lung injury in mice",
+   "jahr": "2016",
+   "journal": "Oncotarget",
+   "erstautor": "Park JR",
+   "doi": "10.18632/oncotarget.11168",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The tripeptide-copper complex glycyl-l-histidyl-l-lysine-Cu (II) (GHK-Cu) is involved in wound healing and tissue remodeling. Although GHK-Cu exhibits anti-aging and tissue renewing properties, its roles in acute lung injury (ALI)/acute respiratory distress syndrome (ARDS) are still unknown. Therefore, we examined the effects of GHK-Cu in lipopolysaccharide (LPS)-induced RAW 264.7 macrophages in vitro and ALI in mice in vivo. GHK-Cu treatment reduced reactive oxygen species (ROS) production, increased superoxide dismutase (SOD) activity while decreased TNF-α and IL-6 production through the suppression of NF-κB p65 and p38 MAPK signaling in vitro and in vivo model of ALI. Moreover, GHK-Cu attenuated LPS-induced lung histological alterations, suppressed the infiltration of inflammatory cells into the lung parenchyma in LPS-induced ALI in mice. Taken together, these findings demonstrate that GHK-Cu possesses a protective effect in LPS-induced ALI by inhibiting excessive inflammatory responses; accordingly it may represent a novel therapeutic approach for ALI/ARDS."
+  },
+  {
+   "pmid": "32983753",
+   "titel": "QR678 & QR678 Neo Hair Growth Formulations: A Cellular Toxicity & Animal Efficacy Study",
+   "jahr": "2020",
+   "journal": "Plast Reconstr Surg Glob Open",
+   "erstautor": "Kapoor R",
+   "doi": "10.1097/GOX.0000000000002843",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "UNLABELLED: Current treatment modalities are limited in their approach and success for hair loss. QR 678 & QR 678 Neo are new formulations, consisting of a combination of growth factors and peptides. This study demonstrates safety analysis of QR 678 & QR 678 Neo formulation, using in vitro cytotoxicity assay and in vivo animal efficacy. METHODS: Factors including vascular endothelial growth factor, basic fibroblast growth factor, insulin-like growth factor-1, keratinocyte growth factor, and copper tripeptide 1 (QR 678) or their biomimetic peptides (QR678 Neo) were suspended in a sterile injectable vehicle. The 3-2,5-diphenyl tetrazolium bromide assay was used to explore the cytotoxic effects of each factor used in the compositions in human keratinocyte cell and human fibroblast cell assays. An in vivo analysis, wherein study animals were given intradermal QR 678 & QR 678 Neo injections, was conducted to assess whether the formulations produce hair growth. Also, hair follicle viability was checked by intradermal injection of the pharmaceutical compositions in secondary alopecia. RESULTS: In both formulations, a positive response was observed with respect to the number of mice exhibiting hair growth at the injection sites. The injections caused retention of hair in a 0.25-cm radius around the injection site. On cytotoxicity study, all the factors were found to be safe in human keratinocyte cell and human fibroblast cell assay. A positive response was demonstrated in animals on treatment with the chemotherapeutic agent. CONCLUSIONS: Intradermal injections of QR 678 & QR 678 Neo hair growth factor formulations are a safe and efficacious option for alopecia. Results seem encouraging enough to warrant a trial in humans with secondary alopecia, post cancer chemotherapy."
+  },
+  {
+   "pmid": "39451062",
+   "titel": "Novel Applications of CE-ICP-MS/MS: Monitoring of Antiaging GHK-Cu Cosmetic Component Encapsulation in Liposomes",
+   "jahr": "2024",
+   "journal": "Electrophoresis",
+   "erstautor": "Zajda J",
+   "doi": "10.1002/elps.202400047",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The hyphenation of the separation technique with the high-sensitive mass spectrometry detection is one of the driving forces of modern analysis enabling measurements in complex matrices. In particular, capillary electrophoresis coupled to inductively coupled plasma tandem mass spectrometry allows for speciation analysis of selected analytes with a superior resolution. The mild, physiological-friendly conditions of this separation technique offer the unique advantage of analyzing chemical entities in their intact form, which has been successfully exploited in various areas. Herein, we report the pioneering application of such a hyphenated technique in the cosmetic field to investigate the encapsulation of copper tripeptide complex (GHK-Cu) in liposomes. By monitoring copper and phosphorus signals, the formation of liposomes via a simple ethanol injection method was confirmed, and the concentration of GHK-Cu in the liposomes was assessed. The application of coupling of capillary electrophoresis with inductively coupled plasma tandem mass spectrometry (CE-ICP-MS/MS) in cosmetic studies could lead to the development of diverse liposomal formulations with preferential properties and expand their accessibility."
+  },
+  {
+   "pmid": "19479842",
+   "titel": "A 1 : 2 copper(II)-tripeptide complex for DNA binding and cleavage agent under physiological conditions",
+   "jahr": "2009",
+   "journal": "Chem Biodivers",
+   "erstautor": "Reddy PR",
+   "doi": "10.1002/cbdv.200800079",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "A 1 : 2 copper-tripeptide complex, [Cu(II)(Boc-His-Gly-His-OMe)(2)](2+), was synthesized and structurally characterized. The absorption band at 577 nm suggests a square-planar geometry around Cu(II). The DNA-binding and DNA-cleavage properties of the Cu(II) complex were investigated. The complex binds to calf thymus DNA (CT DNA) in an intercalative fashion and cleaves plasmid pUC-19 DNA hydrolytically at micromolar concentrations under physiological conditions. The intrinsic binding constant (K(b)=1.2x10(2) M(-1)) for the binding of Cu-tripeptide complex with DNA suggests that this complex is suitable for rapid diffusion on the pharmacological time scale."
+  },
+  {
+   "pmid": "25731775",
+   "titel": "Tripeptide-copper complex GHK-Cu (II) transiently improved healing outcome in a rat model of ACL reconstruction",
+   "jahr": "2015",
+   "journal": "J Orthop Res",
+   "erstautor": "Fu SC",
+   "doi": "10.1002/jor.22831",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "After anterior cruciate ligament reconstruction (ACLR), the biological healing of the graft is a rate-limiting step which can contribute to graft failure. The tripeptide-copper complex glycyl-L-histidyl-L-lysine-Cu(II) (GHK-Cu) is a well-known activator of tissue remodeling. We investigated whether GHK-Cu can improve graft healing following ACLR. Seventy-two rats underwent unilateral ACLR were randomized to saline, 0.3 or 3 mg/ml GHK-Cu groups (n = 24). Post-operational intra-articular injections were given from week 2, once a week, for 4 weeks. Gait analysis was performed pre-injury and at harvesting time. At 6 or 12 weeks post-operation, knee specimens were harvested for knee laxity test, graft pull-out test, and histology. At 6 weeks post-ACLR, GHK-Cu groups resulted in a smaller side-to-side difference in knee laxity as compared to the saline group (p = 0.009), but there was no significant difference at 12 weeks post-operation. The graft complex in the 0.3 mg/ml GHK-Cu group had higher stiffness than saline group at 6 weeks post-operation (p = 0.026), but there was no significant difference in ultimate load, gait parameters, and histological scores among treatment groups. All grafts failed mid-substance during pull-out test. Intra-articular supplementation with a bioactive small molecule GHK-Cu improved graft healing following ACLR in rat, but the beneficial effects could not last as treatment discontinued."
+  },
+  {
+   "pmid": "42021992",
+   "titel": "Therapeutic peptides in gerontology: mechanisms and applications for healthy aging",
+   "jahr": "2026",
+   "journal": "Front Aging",
+   "erstautor": "Mavrych V",
+   "doi": "10.3389/fragi.2026.1790247",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "BACKGROUND: Peptide therapeutics represent an emerging frontier in gerontological medicine, targeting fundamental hallmarks of aging including metabolic dysfunction, telomere attrition, tissue repair impairment, and hormonal decline. OBJECTIVE: To comprehensively review the mechanisms, clinical applications, evidence base, and safety profiles of therapeutic peptides with demonstrated or potential applications in healthy aging and age-related conditions. METHODS: A comprehensive narrative review was conducted through systematic searches of PubMed, Scopus, and regulatory databases (FDA, WADA) from inception through January 2026. Search terms included \"peptide therapeutics,\" \"aging,\" \"gerontology,\" \"healthspan,\" combined with specific peptide names (tirzepatide, epitalon, GHK-Cu, BPC-157, TB-500, Semax, CJC-1295, ipamorelin, bremelanotide). Peer-reviewed articles, clinical trials, regulatory documents, and preclinical studies were evaluated. A total of 20 primary sources were selected based on relevance, methodological quality, and contribution to understanding peptide mechanisms and clinical outcomes in aging populations. RESULTS: Nine peptides were identified spanning diverse aging interventions: metabolic restoration (tirzepatide), telomere biology (epitalon), dermal regeneration (GHK-Cu), tissue repair (BPC-157, TB-500), neuroprotection (Semax), growth hormone modulation (CJC-1295, ipamorelin), and sexual function (bremelanotide). FDA-approved agents demonstrated robust safety profiles from large-scale trials. Non-approved peptides showed promising preclinical and limited clinical evidence but lack long-term safety data and systematic validation. Significant knowledge gaps include optimal dosing regimens, combination therapy effects, and biomarkers for monitoring efficacy. CONCLUSION: Therapeutic peptides offer mechanistically diverse approaches to multiple aging hallmarks. While FDA-approved agents demonstrate clinical potential, investigational peptides require rigorous validation through well-designed clinical trials to establish safety and efficacy for healthspan extension."
+  },
+  {
+   "pmid": "36905132",
+   "titel": "Glycyl-l-histidyl-l-lysine-Cu(2+) rescues cigarette smoking-induced skeletal muscle dysfunction via a sirtuin 1-dependent pathway",
+   "jahr": "2023",
+   "journal": "J Cachexia Sarcopenia Muscle",
+   "erstautor": "Deng M",
+   "doi": "10.1002/jcsm.13213",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "BACKGROUND: Skeletal muscle dysfunction is an important co-morbidity in patients with chronic obstructive pulmonary disease (COPD) and is significantly associated with increased mortality. Oxidative stress has been demonstrated an important trigger for COPD-related skeletal muscle dysfunction. Glycine-histidine-lysine (GHK) is an active tripeptide, which is a normal component of human plasma, saliva, and urine; promotes tissue regeneration; and acts as an anti-inflammatory and antioxidant properties. The purpose of this study was to determine whether GHK is involved in COPD-related skeletal muscle dysfunction. METHODS: The plasma GHK level in patients with COPD (n = 9) and age-paired healthy subjects (n = 11) were detected using reversed-phase high-performance liquid chromatography. The complex GHK with Cu (GHK-Cu) was used in in vitro (C2C12 myotubes) and in vivo experiments (cigarette smoking [CS]-exposure mouse model) to explore the involvement of GHK in CS-induced skeletal muscle dysfunction. RESULTS: Compared with healthy control, plasma GHK levels were decreased in patients with COPD (70.27 ± 38.87 ng/mL vs. 133.0 ± 54.54 ng/mL, P = 0.009). And plasma GHK levels in patients with COPD were associated with pectoralis muscle area (R = 0.684, P = 0.042), inflammatory factor TNF-α (R = -0.696, P = 0.037), and antioxidative stress factor SOD2 (R = 0.721, P = 0.029). GHK-Cu was found to rescue CSE-induced skeletal muscle dysfunction in C2C12 myotubes, as evidenced by increased expression of myosin heavy chain, reduced expression of MuRF1 and atrogin-1, elevated mitochondrial content, and enhanced resistance to oxidative stress. In CS-induced muscle dysfunction C57BL/6 mice, GHK-Cu treatment (0.2 and 2 mg/kg) reduces CS-induced muscle mass loss (skeletal muscle weight (1.19 ± 0.09% vs. 1.29 ± 0.06%, 1.40 ± 0.05%; P < 0.05) and muscle cross-sectional area elevated (1055 ± 552.4 μm2 vs. 1797 ± 620.9 μm2 , 2252 ± 534.0 μm2 ; P < 0.001), and also rescues CS-induced muscle weakness, indicated by improved grip strength (175.5 ± 36.15 g vs. 257.6 ± 37.98 g, 339.1 ± 72.22 g; P < 0.01). Mechanistically, GHK-Cu directly binds and activates SIRT1(the binding energy was -6.1 kcal/mol). Through activating SIRT1 deacetylation, GHK-Cu inhibits FoxO3a transcriptional activity to reduce protein degradation, deacetylates Nrf2 and contribute to its action of reducing oxidative stress by generation of anti-oxidant enzymes, increases PGC-1α expression to promote mitochondrial function. Finally, GHK-Cu could protect mice against CS-induced skeletal muscle dysfunction via SIRT1. CONCLUSIONS: Plasma glycyl-l-histidyl-l-lysine level in patients with chronic obstructive pulmonary disease was significantly decreased and was significantly associated with skeletal muscle mass. Exogenous administration of glycyl-l-histidyl-l-lysine-Cu2+ could protect against cigarette smoking-induced skeletal muscle dysfunction via sirtuin 1."
+  },
+  {
+   "pmid": "37624577",
+   "titel": "Ultrasensitive and Label-Free Detection of Copper Ions by GHK-Modified Asymmetric Nanochannels",
+   "jahr": "2023",
+   "journal": "Anal Chem",
+   "erstautor": "An P",
+   "doi": "10.1021/acs.analchem.3c01174",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Artificial solid-state nanochannels have garnered considerable attention as promising nanofluidic tools for ion/molecular detection, DNA sequencing, and biomimicry. Recently, nanofluidic devices have emerged as cost-effective detection tools for heavy metal ions by modifying stimuli-responsive materials. In this work, high-purity glycyl-l-histidyl-l-lysine (GHK) peptide is synthesized by using 7-diphenylphosphonooxycoumarin-4-methanol (DPCM) as a protecting group and auxiliary carrier by homogeneous synthesis of photocleavable groups. Subsequently, we developed a GHK-modified asymmetric nanochannel nanofluidic diode by covalently attaching the GHK peptide to the inner surface of the nanochannels. This modification facilitated specific recognition and ultra-trace level detection of Cu2+ ions, achieving a detection limit of 10-15 M. Due to the robust complexing ability between Cu2+ and GHK peptide, the GHK-modified asymmetric nanochannels can form GHK-Cu complexes on the inner surface of nanochannels when Cu2+ passes through the nanochannels. This results in changes of current-potential (I-V) properties, which facilitated Cu2+ detection. Theoretical calculations confirmed the high affinity of the GHK peptide for Cu2+, thereby ensuring excellent Cu2+ selectivity. To evaluate the applicability of our system for detecting Cu2+ in real-world scenarios, we analyzed the concentration of Cu2+ in tap water. The GHK-Cu complexes could be dissociated by adding EDTA to the solution, enabling the regeneration and reuse of this ultrasensitive and label-free Cu2+ detection system using GHK-modified asymmetric multi-nanochannels. We anticipate that the GHK-modified asymmetric nanochannels will find future applications in the label-free detection of Cu2+ in domestic water."
+  },
+  {
+   "pmid": "42245779",
+   "titel": "Middle-aged mice treated with GHK-Cu peptide administered intraperitoneally or intranasally show behavioral rescue but divergent hippocampal aging programs",
+   "jahr": "2026",
+   "journal": "Res Sq",
+   "erstautor": "Mazzola J",
+   "doi": "10.21203/rs.3.rs-9520102/v1",
+   "typ": [
+    "Journal Article",
+    "Preprint"
+   ],
+   "abstract": "Age-related cognitive decline (ARCD) is driven by conserved biological mechanisms of aging, yet no gerotherapeutic directly targets these processes in the brain. Glycyl-L-histidyl-L-lysine complexed with copper (GHK-Cu) is an endogenous peptide with regenerative and anti-inflammatory properties that declines with age. Whether its effects on cognitive aging depend on delivery route or exposure duration remains unclear. Aged C57BL/6J mice (20-21 months) received GHK-Cu (15 mg/kg) via short-term intraperitoneal (IP; 5 days) or longer-term intranasal (IN; 8 weeks) administration. Hippocampal-dependent escape learning was assessed using a spatial navigation task. Molecular effects were evaluated using hippocampal immunohistochemistry and bulk RNA sequencing. Differential gene expression was analyzed using DESeq2 with false discovery rate (FDR) correction, and pathway-level changes were assessed via gene set enrichment analysis (GSEA). IN GHK-Cu improved escape latency across Trials 2-4 in both sexes (P < 0.05), whereas IP dosing produced a transient improvement in males during Trial 2 (P < 0.05) without sustained effects or improvement in females. IN treatment increased synaptophysin in females (P < 0.001) and decreased GFAP in both sexes (P < 0.01), while IP treatment reduced TGF-β, GFAP, and MCP-1 in males (P < 0.05) and decreased p21 in females (P < 0.0001). Transcriptomic analysis revealed distinct molecular programs. IN GHK-Cu induced coordinated suppression of oxidative phosphorylation (male NES - 5.44, female NES - 4.20; FDR < 0.0001) and MYC target pathways (female NES - 4.31, FDR < 0.0001), with additional attenuation of PI3K-AKT-mTOR signaling in females (NES - 3.15, FDR = 0.062). In contrast, IP treatment activated oxidative phosphorylation (female NES 4.97, FDR < 0.001), DNA repair (NES 5.58, FDR < 0.001), and MYC targets (NES 4.34, FDR = 0.002), indicating engagement of acute stress-response and repair pathways. GHK-Cu improves hippocampal-dependent learning in aged mice through distinct biological modes: IP exposure activates repair and stress-response pathways, whereas IN delivery induces sustained suppression of growth and mitochondrial metabolic signaling associated with aging biology. These findings demonstrate that functional cognitive improvement can arise from divergent molecular states and identify administrative route and exposure duration as key determinants of gerotherapeutic response."
+  },
+  {
+   "pmid": "28370978",
+   "titel": "GHK-Cu-liposomes accelerate scald wound healing in mice by promoting cell proliferation and angiogenesis",
+   "jahr": "2017",
+   "journal": "Wound Repair Regen",
+   "erstautor": "Wang X",
+   "doi": "10.1111/wrr.12520",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Glycyl-l-histidyl-l-lysine (GHK)-Cu is considered to be an activator of tissue remodeling, and has been used in cosmetic products. In this study, we prepared liposomes encapsulating GHK-Cu and analyzed their effect on human umbilical vein endothelial cells (HUVECs) proliferation and scald wound healing in mice. The nanoscaled GHK-Cu-liposomes promoted HUVECs proliferation, with a 33.1% increased rate. Flow cytometry analysis showed increased cell number at G1 stage and decreased cell number at G2 stage after GHK-Cu-liposomes treatment. Western blotting indicated that the expression of vascular endothelial growth factor and fibroblast grow factors-2 were both enhanced, as well as cell cycle-related proteins CDK4 and CyclinD1. In a mice scald model, angiogenesis in burned skin treated with GHK-Cu-liposomes was better compared with free GHK-Cu, and immunofluorescence analysis showed enhanced signal of CD31 and Ki67 in GHK-Cu-liposomes treated mice. Moreover, the wound healing time was shortened to 14 days post injury. Our results provide the evidence that GHK-Cu-liposomes could be utilized as a treatment for skin wounds."
+  },
+  {
+   "pmid": "18644225",
+   "titel": "The human tri-peptide GHK and tissue remodeling",
+   "jahr": "2008",
+   "journal": "J Biomater Sci Polym Ed",
+   "erstautor": "Pickart L",
+   "doi": "10.1163/156856208784909435",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Tissue remodeling follows the initial phase of wound healing and stops inflammatory and scar-forming processes, then restores the normal tissue morphology. The human peptide Gly-(L-His)-(L-Lys) or GHK, has a copper 2+ (Cu(2+)) affinity similar to the copper transport site on albumin and forms GHK-Cu, a complex with Cu(2+). These two molecules activate a plethora of remodeling related processes: (1) chemoattraction of repair cells such as macrophages, mast cells, capillary cells; (2) anti-inflammatory actions (suppression of free radicals, thromboxane formation, release of oxidizing iron, transforming growth factor beta-1, tumor necrosis factor alpha and protein glycation while increasing superoxide dismutase, vessel vasodilation, blocking ultraviolet damage to skin keratinocytes and improving fibroblast recovery after X-ray treatments); (3) increases protein synthesis of collagen, elastin, metalloproteinases, anti-proteases, vascular endothelial growth factor, fibroblast growth factor 2, nerve growth factor, neutrotropins 3 and 4, and erythropoietin; (4) increases the proliferation of fibroblasts and keratinocytes; nerve outgrowth, angiogenesis, and hair follicle size. GHK-Cu stimulates wound healing in numerous models and in humans. Controlled studies on aged skin demonstrated that it tightens skin, improves elasticity and firmness, reduces fine lines, wrinkles, photodamage and hyperpigmentation. GHK-Cu also improves hair transplant success, protects hepatic tissue from tetrachloromethane poisoning, blocks stomach ulcer development, and heals intestinal ulcers and bone tissue. These results are beginning to define the complex biochemical processes that regulate tissue remodeling."
+  },
+  {
+   "pmid": "42787770",
+   "titel": "A Systematic Review of the Mechanisms and Therapeutic Applications of GHK-Cu (Glycyl-L-Histidyl-L-Lysine-Copper Complex) in Topical Microneedle Delivery: A Case for Expanded Clinical Trials",
+   "jahr": "2026",
+   "journal": "Arch Intern Med Res",
+   "erstautor": "Najafi N",
+   "doi": "10.26502/aimr.0255",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "GHK-Cu, the copper-bound form of the human tripeptide glycyl-L-histidyl-L-lysine has accumulated more than four decades of pre-clinical evidence for tissue regeneration, anti-inflammatory action, antioxidant capacity, and broad gene-expression remodeling. Yet despite this volume, the clinical literature in humans remains thin and fragmented: most randomized trials are small, conducted on facial cosmetic creams, and rarely paired with delivery technologies capable of reliably crossing the stratum corneum. The microneedle-mediated delivery route which has been shown in vitro and in porcine ex vivo models to dramatically enhance GHK-Cu skin uptake has yet to be evaluated in a single registered, adequately powered human randomized controlled trial published in the peer-reviewed literature. This systematic review synthesizes the body of GHK-Cu literature published between 2005 and 2026, mapped against the PRISMA framework. Searches across PubMed, Elsevier ScienceDirect, and the Cochrane CENTRAL Registry yielded 1,247 records; after deduplication and screening, 64 records were retained for qualitative synthesis. Studies were stratified by study model (in vitro, ex vivo, in vivo rodent, in vivo non-rodent, and human) so that comparator therapies could be matched on equivalent footing. A critical discussion is provided on the physiology and underlying mechanistic foundation of GHK-Cu activity, including its role as an endogenous matricryptin released from collagen Iα2 and SPARC, copper's essential cofactor function for the lysyl oxidase family of cross-linking enzymes, decorin and glycosaminoglycan organization of newly deposited matrix, TGF-β3-mediated reduction of fibrosis, and ferritin-iron-modulated antioxidant defense. A dedicated surgical wound healing section addresses the evidence base for GHK-Cu in CO2 laser resurfacing, irradiated tissue and post-radiation reconstruction, Mohs micrographic surgery wounds, skin grafts, and hair transplant sites. The synthesis confirms a deep, mechanistically coherent body of preclinical evidence and reveals a defined evidence gap: well-designed human trials of GHK-Cu delivered via microneedle or microneedle-adjacent platforms (dissolvable patches, hollow microneedle arrays, dermaroller-assisted serums) are needed to translate the strong cellular and animal data into validated clinical practice. Specific recommendations for trial design stratified by indication (photoaging, androgenetic alopecia, atrophic acne scarring, chronic wound healing, post-Mohs cosmetic outcomes, post-radiation surgical reconstruction) are provided."
+  },
+  {
+   "pmid": "41997403",
+   "titel": "Glycyl-L-histidyl-L-lysine-Cu2(+) (GHK-Cu) Attenuates CuSO(4) or LPS induced-inflammation in Zebrafish larvae model",
+   "jahr": "2026",
+   "journal": "Eur J Pharmacol",
+   "erstautor": "Hu J",
+   "doi": "10.1016/j.ejphar.2026.178880",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Inflammation serves as a basic defense mechanism against both internal and external threats, while the unresolved or excessive inflammation can lead to irreversible tissue damage. Glycyl-L-histidyl-L-lysine-Cu2+ (GHK-Cu), a bioactive tripeptide complex known for its anti-aging and tissue repair properties, is extensively utilized in dermatological and hair care formulations. However, the role of GHK-Cu in regulating inflammation is less known. In this study, we explored the anti-inflammatory effects of GHK-Cu against the acute inflammation induced by copper sulfate (CuSO4) and lipopolysaccharide (LPS) in zebrafish larvae. GHK-Cu notably decreased the migration of neutrophils and macrophages, suppressed the expression of pro-inflammatory cytokines (tnf-a, il-1β, il6) and increased the expression of the anti-inflammatory cytokine il-10. Moreover, GHK-Cu mitigated oxidative stress by reducing levels of nitric oxide (NO) and reactive oxygen species (ROS), and improved superoxide dismutase (SOD) activity. Furthermore, pathway analysis revealed that GHK-Cu administration downregulated the JAK1 pathway. In summary, this study highlights the dual role of GHK-Cu in both anti-inflammatory and anti-oxidant properties, which provides the theoretical evidences supporting its addition as a functional cosmetic ingredient."
+  },
+  {
+   "pmid": "37832839",
+   "titel": "In situ photo-crosslinkable hyaluronic acid-based hydrogel embedded with GHK peptide nanofibers for bioactive wound healing",
+   "jahr": "2023",
+   "journal": "Acta Biomater",
+   "erstautor": "Lee S",
+   "doi": "10.1016/j.actbio.2023.10.011",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "A versatile hydrogel was developed for enhancing bioactive wound healing by introducing the amphiphilic GHK peptide (GHK-C16) into a photo-crosslinkable tyramine-modified hyaluronic acid (HA-Ty). GHK-C16 self-assembled into GHK nanofibers (GHK NF) in HA-Ty solution, which underwent in situ gelation after the wound area was filled with precursor solution. Blue light irradiation (460-490 nm), with riboflavin phosphate as a photoinitiator, was used to trigger crosslinking, which enhanced the stability of the highly degradable hyaluronic acid and enabled sustained release of the nanostructured GHK derivatives. The hydrogels provided a microenvironment that promoted the proliferation of dermal fibroblasts and the activation of cytokines, leading to reduced inflammation and increased collagen expression during wound healing. The complexation of Cu2+ into GHK nanofibers resulted in superior wound healing capabilities compared with non-lipidated GHK peptide with a comparable level of growth factor (EGF). Additionally, nanostructured Cu-GHK improved angiogenesis through vascular endothelial growth factor (VEGF) activation, which exerted a synergistic therapeutic effect. Furthermore, in vivo wound healing experiments revealed that the Cu-GHK NF/HA-Ty hydrogel accelerated wound healing through densely packed remodeled collagen in the dermis and promoting the growth of denser fibroblasts. HA-Ty hydrogels incorporating GHK NF also possessed improved mechanical properties and a faster wound healing rate, making them suitable for advanced bioactive wound healing applications. STATEMENT OF SIGNIFICANCE: By combining photo-crosslinkable tyramine-modified hyaluronic acid with self-assembled Cu-GHK-C16 peptide nanofibers (Cu-GHK NF), the Cu-GHK NF/HA-Ty hydrogel offers remarkable advantages over conventional non-structured Cu-GHK for wound healing. It enhances cell proliferation, migration, and collagen remodeling-critical factors in tissue regeneration. The incorporation of GHK nanofibers complexed with copper ions imparts potent anti-inflammatory effects, promoting cytokine activation and angiogenesis during wound healing. The Cu-GHK NF/hydrogel's unique properties, including in situ photo-crosslinking, ensure high customization and potency in tissue regeneration, providing a cost-effective alternative to growth factors. In vivo experiments further validate its efficacy, demonstrating significant wound closure, collagen remodeling, and increased fibroblast density. Overall, the Cu-GHK NF/HA-Ty hydrogel represents an advanced therapeutic option for wound healing applications."
+  },
+  {
+   "pmid": "35515638",
+   "titel": "Copper-tripeptides (cuzymes) with peroxidase-mimetic activity",
+   "jahr": "2020",
+   "journal": "RSC Adv",
+   "erstautor": "Nguyen LT",
+   "doi": "10.1039/d0ra02472d",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "Peroxidases are enzymes that use hydrogen peroxide to oxidize substrates such as 2,2-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid) (ATBS). In this study, we showed that copper-tripeptide complexes (\"cuzymes\") also exhibited peroxidase-like activities. Different cuzymes could be formed by using various tripeptide ligands, such as GGG, GGH or HGG. However, the peroxidase-like activity of cuzymes depends on the sequence of the tripeptide (Cu-GGG > Cu-HGG > Cu-GGH). When ABTS was used as the substrate, the activity of Cu-GGG was 326 ± 1.5 U mg-1 which was 2.5 times higher than that of horseradish peroxidase (HRP). Copper-tripeptide complexes were also used to degrade trypan blue dye. By using 0.2 mM Cu-GGG and 0.2% H2O2, 200 μM trypan blue could be degraded in 15 min at 50 °C. The degradation reaction followed second-order kinetics; the reaction rate was proportional to both H2O2 concentration and the copper-tripeptide concentration, but it was independent of the trypan blue concentration. Because copper-tripeptides catalyzed the oxidation reactions involving H2O2 effectively, they may have potential applications in biochemical assays and environmental remediation."
+  },
+  {
+   "pmid": "34546033",
+   "titel": "Efficient Ternary Polymer Solar Cells with Tunable Crystallinity and Phase Separation of Active Layers via Incorporating GHK-Cu",
+   "jahr": "2021",
+   "journal": "ACS Appl Mater Interfaces",
+   "erstautor": "Huang J",
+   "doi": "10.1021/acsami.1c12326",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "The crystallinity of a nonfullerene small-molecule acceptor plays an important function in the bimolecular recombination and carrier transfer of polymer solar cells (PSCs). However, because of the competition between the donor (PBDB-T) and acceptor (ITIC) in processes of phase separation and crystallization, the PBDB-T preferentially forms a crystalline network, which limits the molecular diffusion of ITIC and leads to the weak crystallinity of ITIC, eventually restricting the photoelectric conversion efficiency (PCE) of PSCs. Therefore, in our work, a small-molecule biomaterial, Gly-His-Lys-Cu (SMBM GHK-Cu), is incorporated into binary PBDB-T:ITIC to construct a PBDB-T:ITIC:GHK-Cu ternary system. The addition of GHK-Cu increases ITIC crystallinity and promotes the formation in continuous single-phase domains of PBDB-T and ITIC, which creates an optimized bicontinuous network path to increase and balance charge transmission in PSCs. Meanwhile, GHK-Cu makes energy transfer from GHK-Cu to PBDB-T appreciably efficient, improving the photon capture and exciton-generation rate of PBDB-T. Moreover, it can form a complementary absorption spectrum with PBDB-T and ITIC, which enhances the PCE of ternary devices. Excitingly, the PCE of PSC-based PBDB-T:ITIC is enhanced from 10.28% to 12.07% via incorporating 0.1 wt % GHK-Cu into PBDB-T:ITIC, in which the enhanced open voltage (VOC) is 0.92 V, the short-circuit current (JSC) is 17.87 mA/cm2, and the fill factor (FF) is 73.4%. Meanwhile, the PCE of PSC-based PM6:Y6 is also enhanced from 15.21% for a binary PSC to 17.11% for ternary PSC-based PM6:Y6:0.1 wt % GHK-Cu. This work shows that the cheap and environmentally friendly GHK-Cu has great potential for application in tuning the crystallinity and phase separation of the active layer."
+  },
+  {
+   "pmid": "31788907",
+   "titel": "Effect of oligoarginine conjugation on the antiwrinkle activity and transdermal delivery of GHK peptide",
+   "jahr": "2020",
+   "journal": "J Pept Sci",
+   "erstautor": "Hur GH",
+   "doi": "10.1002/psc.3234",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "GHK (Gly-His-Lys), a natural peptide found in human skin and plasma, has been widely used in the cosmeceutical and pharmaceutical fields. The hydrophilic GHK and GHK-Cu are limited in their abilities to penetrate deeply into skin; because of this, various strategies for their skin delivery have been developed. In this investigation, Arg4 was conjugated with GHK to get heptapeptide, GHK-R4, and then in vitro antiwrinkle activity and transdermal delivery were compared between GHK and GHK-R4. Notably, Arg4 conjugation accelerated the cellular penetration of GHK both in vitro and in vivo. Furthermore, higher in vitro antiwrinkle activity and collagen biosynthesis was obtained with GHK-R4 at much lower doses than with control R4-free GHK. The enhanced activity and delivery of GHK-R4 might be due to the cell penetrating ability and matrix metalloproteinase (MMP) inhibitory activity of R4 itself."
+  },
+  {
+   "pmid": "22666519",
+   "titel": "The human tripeptide GHK-Cu in prevention of oxidative stress and degenerative conditions of aging: implications for cognitive health",
+   "jahr": "2012",
+   "journal": "Oxid Med Cell Longev",
+   "erstautor": "Pickart L",
+   "doi": "10.1155/2012/324832",
+   "typ": [
+    "Journal Article",
+    "Review"
+   ],
+   "abstract": "Oxidative stress, disrupted copper homeostasis, and neuroinflammation due to overproduction of proinflammatory cytokines are considered leading causative factors in development of age-associated neurodegenerative conditions. Recently, a new mechanism of aging-detrimental epigenetic modifications-has emerged. Thus, compounds that possess antioxidant, anti-inflammatory activity as well as compounds capable of restoring copper balance and proper gene functioning may be able to prevent age-associated cognitive decline and ward off many common neurodegenerative conditions. The aim of this paper is to bring attention to a compound with a long history of safe use in wound healing and antiaging skin care. The human tripeptide GHK was discovered in 1973 as an activity in human albumin that caused old human liver tissue to synthesize proteins like younger tissue. It has high affinity for copper ions and easily forms a copper complex or GHK-Cu. In addition, GHK possesses a plethora of other regenerative and protective actions including antioxidant, anti-inflammatory, and wound healing properties. Recent studies revealed its ability to up- and downregulate a large number of human genes including those that are critical for neuronal development and maintenance. We propose GHK tripeptide as a possible therapeutic agent against age-associated neurodegeneration and cognitive decline."
+  },
+  {
+   "pmid": "40672369",
+   "titel": "Exploring the beneficial effects of GHK-Cu on an experimental model of colitis and the underlying mechanisms",
+   "jahr": "2025",
+   "journal": "Front Pharmacol",
+   "erstautor": "Mao S",
+   "doi": "10.3389/fphar.2025.1551843",
+   "typ": [
+    "Journal Article"
+   ],
+   "abstract": "INTRODUCTION: Ulcerative colitis (UC) is a chronic inflammatory bowel disease (IBD) characterized by mucosal damage and impaired epithelial barrier function. While glycyl-l-histidyl-l-lysine-copper (GHK-Cu) exhibits known anti-inflammatory properties, its therapeutic mechanisms in UC remain undefined. This study was designed to systematically evaluate the therapeutic potential of GHK-Cu in a dextran sulfate sodium (DSS)-induced murine model of UC, with particular emphasis on elucidating its regulatory effects on the NAD-dependent deacetylase sirtuin-1 (SIRT1)/signal transducer and activator of transcription 3 (STAT3) signaling pathway. METHODS: UC was induced in BALB/c mice with 3% DSS for 14 days. The protein expression levels of tight junction associated protein-1 (ZO-1), Occludin, inflammatory factors interleukin (IL)-6, IL-1β and tumor necrosis factor (TNF)-α, SIRT1, STAT3, p-STAT3, and retinoic acid receptor-related orphan receptor gamma t (RORγt) were detected by Western blot. Histopathological changes were evaluated by Hematoxylin and Eosin (H&E) and Alcian blue-periodic acid-Schiff (AB-PAS). Network pharmacology and molecular docking were used to predict the core targets of GHK Cu in the treatment of UC. An in vitro UC model was also established in mouse peritoneal macrophages (MPMs) using lipopolysaccharide (LPS), and a co culture model was constructed using mouse colonic epithelial cells (MCECs) and MPMs to examine the role of GHK Cu in promoting mucosal healing. STAT3 was silenced by gene transfection technology to verify the core role of STAT3 in GHK Cu treatment of UC. RESULTS: GHK-Cu alleviated weight loss, improved the disease activity index (DAI), reduced colonic edema and shortening, attenuated inflammatory damage, increased goblet cell numbers, suppressed inflammatory cytokines such as TNF-α, IL-6, and IL-1β, and promoted mucosal repair. Additionally, a co-culture system of MCECs and MPMs revealed that GHK-Cu facilitated MCECs healing, impaired by DSS, by upregulating ZO-1 and Occludin expression. Subsequently, network pharmacology and molecular docking identified SIRT1 as a potential target of GHK-Cu. Results showed that GHK-Cu upregulated SIRT1 protein expression and suppressed the expression of phosphorylated p-STAT3 in colon tissue and MCECs of the co-culture model. Our findings revealed that after transfection with STAT3-targeting siRNA (siSTAT3), the stimulant effect of GHK-Cu on the healing of MCECs and the effect on the protein expression of ZO-1 and Occludin is canceled. Nevertheless, after transfection with siSTAT3, it could inhibit the expression of inflammatory factors in conjunction with GHK-Cu. Furthermore, we found that GHK-Cu could inhibit RORγt expression in the colon tissue of UC mice. DISCUSSION: This study found that GHK-Cu demonstrated significant therapeutic effects in DSS-induced UC in mice. GHK-Cu may promote mucosal healing and enhance tight junction protein expression by regulating the SIRT1/STAT3 pathway. In addition to suppressing p-STAT3 expression, GHK-Cu may utilize additional pathways to inhibit inflammatory factors. Furthermore, GHK-Cu may reduce the number of Th17 cells. In summary, GHK-Cu may treat UC by acting on the SIRT1/STAT3 pathway."
+  },
+  {
+   "pmid": "30741553",
+   "titel": "Chelating Surfaces for Oriented Human Serum Albumin Molecules",
+   "jahr": "2019",
+   "journal": "Langmuir",
+   "erstautor": "Tuccitto N",
+   "doi": "10.1021/acs.langmuir.9b00068",
+   "typ": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+   ],
+   "abstract": "Protein immobilization in a specific conformation or orientation at an interface is influenced by specific interactions with the outer layer of the surface. A strategy to build-up a complex construct which is able to orient protein molecules, based on metal-cation chelation processes, is reported. The proposed methodology implies the formation of a mercaptoundecanoic acid monolayer on a gold surface that is activated to attach covalently the tripeptide glycyl-l-histidyl-l-lysine (GHK) on the surface, whose sites are then employed to chelate copper ions, providing a selective platform for the orientation of human serum albumin (HSA) molecules. The protein adsorption process on GHK and GHK-Cu(II)-complex surfaces was monitored by the in situ quartz crystal microbalance with dissipation monitoring (QCM-D) and force spectroscopy technique. The changes in frequency and dissipation factor as well as the D- f plots from QCM-D measurements help to characterize the changes in the protein conformation and are confirmed by force curve spectroscopy results. An improved kinetic model, based on random sequential adsorption with variable protein footprints, has been developed to predict and simulate the experimentally found HSA average surface coverage onto the GHK and GHK-Cu(II)-complex surfaces."
+  }
+ ],
+ "ctgov": [
+  {
+   "nct": "NCT04023331",
+   "titel": "67Cu-SARTATE™ Peptide Receptor Radionuclide Therapy Administered to Pediatric Patients With High-Risk, Relapsed, Refractory Neuroblastoma",
+   "phase": "PHASE1,PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "TERMINATED",
+   "teilnehmende": 21,
+   "start": "2020-08-18",
+   "ende": "2025-03-25",
+   "erkrankungen": [
+    "Neuroblastoma",
+    "Relapsed Neuroblastoma",
+    "Refractory Neuroblastoma"
+   ],
+   "sponsor": "Clarity Pharmaceuticals Ltd",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00311298",
+   "titel": "Nutrition, Diabetes and Pulmonary TB/HIV",
+   "phase": "PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 1250,
+   "start": "2006-04",
+   "ende": "2009-03",
+   "erkrankungen": [
+    "Tuberculosis",
+    "HIV",
+    "Diabetes"
+   ],
+   "sponsor": "University of Copenhagen",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05376878",
+   "titel": "An Investigational Scan (64Cu-DOTA-Trastuzumab PET/MRI) in Imaging Patients With HER2+ Breast Cancer With Brain Metastasis",
+   "phase": "PHASE4",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 10,
+   "start": "2022-12-21",
+   "ende": "2027-04-27",
+   "erkrankungen": [
+    "Anatomic Stage IV Breast Cancer AJCC v8",
+    "Metastatic Breast Carcinoma",
+    "Metastatic Malignant Neoplasm in the Brain"
+   ],
+   "sponsor": "City of Hope Medical Center",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06379217",
+   "titel": "NEPC Study: An Exploratory Safety and Efficacy Study With PSMA, SSTR2 and GRPR Targeted Radioligand Therapy in Metastatic Neuroendocrine Prostate Cancer.",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 31,
+   "start": "2024-07-29",
+   "ende": "2026-10-09",
+   "erkrankungen": [
+    "Metastatic Neuroendocrine Prostate Cancer"
+   ],
+   "sponsor": "Novartis Pharmaceuticals",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT00003751",
+   "titel": "Penicillamine, Low Copper Diet, and Radiation Therapy in Treating Patients With Glioblastoma",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 40,
+   "start": "1999-03",
+   "ende": "2005-07",
+   "erkrankungen": [
+    "Brain and Central Nervous System Tumors"
+   ],
+   "sponsor": "Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT02827877",
+   "titel": "Cu64-DOTA-trastuzumab PET and Markers Predicting Response to Neoadjuvant Trastuzumab + Pertuzum in HER2+ Breast Cancer",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 18,
+   "start": "2016-07-15",
+   "ende": "2026-09-25",
+   "erkrankungen": [
+    "HER2 Positive Breast Carcinoma",
+    "Stage IIIA Breast Cancer",
+    "Stage IIIB Breast Cancer",
+    "Stage IIIC Breast Cancer"
+   ],
+   "sponsor": "City of Hope Medical Center",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT05932732",
+   "titel": "Trial Assessing the Impact on Facial Skin Quality, Hydration, and Skin Barrier of Three (3) Hydrafacial Treatments in Adults of All Skin Types.",
+   "phase": "PHASE4",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 27,
+   "start": "2023-11-20",
+   "ende": "2024-10-09",
+   "erkrankungen": [
+    "Cutis Laxa Facialis",
+    "Xeroderma"
+   ],
+   "sponsor": "Austin Institute for Clinical Research",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07706361",
+   "titel": "Two-Part Study of the Effects of the X39 Patch on Circulating GHK and GHK-Cu Levels in Healthy Adults",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "NOT_YET_RECRUITING",
+   "teilnehmende": 100,
+   "start": "2027-01",
+   "ende": "2027-04",
+   "erkrankungen": [
+    "GHK and GHK-Cu Blood Levels"
+   ],
+   "sponsor": "LifeWave, Inc.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06762509",
+   "titel": "The Clinical Study of Botulinum Toxin Type A Injection in the Treatment of Wilson Disease",
+   "phase": "",
+   "typ": "OBSERVATIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 60,
+   "start": "2016-12-01",
+   "ende": "2024-01-01",
+   "erkrankungen": [
+    "Wilson Disease"
+   ],
+   "sponsor": "The First Affiliated Hospital of Anhui University of Traditional Chinese Medicine",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT02226276",
+   "titel": "Copper Cu 64-DOTA-Trastuzumab PET in Predicting Response to Treatment With Ado-Trastuzumab Emtansine in Patients With Metastatic HER2 Positive Breast Cancer",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 10,
+   "start": "2015-01-07",
+   "ende": "2026-09-29",
+   "erkrankungen": [
+    "Bone Metastases",
+    "HER2-positive Breast Cancer",
+    "Liver Metastases",
+    "Lung Metastases",
+    "Recurrent Breast Cancer",
+    "Soft Tissue Metastases",
+    "Stage IV Breast Cancer"
+   ],
+   "sponsor": "City of Hope Medical Center",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT04542629",
+   "titel": "Comparative Study of Dietary and Immunological Management of Refractory Epilepsy in Children",
+   "phase": "PHASE4",
+   "typ": "INTERVENTIONAL",
+   "status": "UNKNOWN",
+   "teilnehmende": 140,
+   "start": "2020-10-01",
+   "ende": "2022-08-20",
+   "erkrankungen": [
+    "Refractory Epilepsy"
+   ],
+   "sponsor": "Assiut University",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06522932",
+   "titel": "PET Imaging Study of 64Cu-GRIP B for Patients Receiving CD19-directed CAR-T Therapy",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 32,
+   "start": "2024-10-23",
+   "ende": "2027-01-31",
+   "erkrankungen": [
+    "Non Hodgkin Lymphoma"
+   ],
+   "sponsor": "Michael Randall",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT02125474",
+   "titel": "Efficacy of 177-Lu-DOTA 0, Tyr 3 Octreotate",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 39,
+   "start": "2013-11",
+   "ende": "2019-10-01",
+   "erkrankungen": [
+    "Neuroendocrine Tumors"
+   ],
+   "sponsor": "Instituto Nacional de Cancerologia, Columbia",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06016855",
+   "titel": "Surgical Debulking Prior to Peptide Receptor Radionuclide Therapy in Well Differentiated Gastroenteropancreatic Neuroendocrine Tumors",
+   "phase": "PHASE4",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 6,
+   "start": "2024-05-31",
+   "ende": "2028-05-28",
+   "erkrankungen": [
+    "Digestive System Neuroendocrine Tumor G1",
+    "Digestive System Neuroendocrine Tumor G2",
+    "Metastatic Digestive System Neuroendocrine Neoplasm",
+    "Metastatic Malignant Neoplasm in the Liver",
+    "Pancreatic Neuroendocrine Tumor G1",
+    "Pancreatic Neuroendocrine Tumor G2"
+   ],
+   "sponsor": "Vanderbilt-Ingram Cancer Center",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT06103617",
+   "titel": "Safety and Superiority of Penicillamine in Radiosensitization of Recurrent Head and Neck Cancer",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "UNKNOWN",
+   "teilnehmende": 10,
+   "start": "2023-11-15",
+   "ende": "2025-06-01",
+   "erkrankungen": [
+    "Head and Neck Cancer",
+    "Recurrent Cancer"
+   ],
+   "sponsor": "Nanfang Hospital, Southern Medical University",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07879833",
+   "titel": "AI-Personalized Skincare Regimen for Facial Photoaging in Women",
+   "phase": "NA",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 43,
+   "start": "2025-09-30",
+   "ende": "2026-02-13",
+   "erkrankungen": [
+    "Photoaging",
+    "Skin Aging"
+   ],
+   "sponsor": "MDalgorithms Inc.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07688187",
+   "titel": "A Study of Theranostic Pair PD-32766D/T in Participants With Carbonic Anhydrase IX Positive Clear Cell Renal Cell Carcinoma",
+   "phase": "PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 60,
+   "start": "2026-07-07",
+   "ende": "2029-06",
+   "erkrankungen": [
+    "Clear Cell Renal Cell Carcinoma"
+   ],
+   "sponsor": "PeptiDream Inc.",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT03936426",
+   "titel": "Peptide Receptor Radionuclide Therapy Administered to Participants With Meningioma With 67Cu-SARTATE™",
+   "phase": "PHASE1,PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 5,
+   "start": "2018-07-09",
+   "ende": "2019-09-19",
+   "erkrankungen": [
+    "Meningioma"
+   ],
+   "sponsor": "Clarity Pharmaceuticals Ltd",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07054697",
+   "titel": "Pilot-RCT With Individualized Homeopathic Treatment in the Children With Autism Spectrum Disorder",
+   "phase": "PHASE4",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 54,
+   "start": "2017-01-01",
+   "ende": "2025-01-15",
+   "erkrankungen": [
+    "Autism Spectrum Disorder (ASD)"
+   ],
+   "sponsor": "Aditi Chadha",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT04711135",
+   "titel": "Study to Evaluate Safety and Dosimetry of Lutathera in Adolescent Patients With GEP-NETs and PPGLs",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "ACTIVE_NOT_RECRUITING",
+   "teilnehmende": 11,
+   "start": "2022-08-31",
+   "ende": "2034-02-06",
+   "erkrankungen": [
+    "Gastroenteropancreatic Neuroendocrine Tumors",
+    "Pheochromocytoma",
+    "Paraganglioma"
+   ],
+   "sponsor": "Advanced Accelerator Applications",
+   "ergebnisse": true
+  },
+  {
+   "nct": "NCT07437586",
+   "titel": "Topical GHK-Cu Gel for Acute Skin Wound Healing",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "RECRUITING",
+   "teilnehmende": 60,
+   "start": "2026-02-02",
+   "ende": "2028-03-17",
+   "erkrankungen": [
+    "Acute Standardized Cutaneous Wounds (Punch-biopsy Wounds)"
+   ],
+   "sponsor": "Hudson Biotech",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05389813",
+   "titel": "Comparison Between Oxycodone and Pregabalin as Preemptive Analgesia",
+   "phase": "PHASE2,PHASE3",
+   "typ": "INTERVENTIONAL",
+   "status": "UNKNOWN",
+   "teilnehmende": 150,
+   "start": "2021-08-15",
+   "ende": "2024-05-01",
+   "erkrankungen": [
+    "Anesthesia"
+   ],
+   "sponsor": "An-Najah National University",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07888595",
+   "titel": "Systemic and Topical Geroprotective Rejuvenation Assessed by START/REST Aging Clocks",
+   "phase": "EARLY_PHASE1",
+   "typ": "INTERVENTIONAL",
+   "status": "ENROLLING_BY_INVITATION",
+   "teilnehmende": 48,
+   "start": "2026-10-21",
+   "ende": "2028-10-14",
+   "erkrankungen": [
+    "Aging"
+   ],
+   "sponsor": "Frontiers in Bioscience Research Institute and Aging",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT07027670",
+   "titel": "Treatment With 5-AminoLEvuliNic Acid Before Cardiac Surgery",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 48,
+   "start": "2021-02-01",
+   "ende": "2022-06-30",
+   "erkrankungen": [
+    "Cardiac Surgical Procedures",
+    "Coronary Artery Bypass",
+    "Aortic Valve Disease",
+    "Mitral Valve Disease"
+   ],
+   "sponsor": "University of Oxford",
+   "ergebnisse": false
+  },
+  {
+   "nct": "NCT05613842",
+   "titel": "Copper-64 SAR Bombesin in PSMA Negative Prostate Cancer (BOP)",
+   "phase": "PHASE2",
+   "typ": "INTERVENTIONAL",
+   "status": "COMPLETED",
+   "teilnehmende": 30,
+   "start": "2022-08-09",
+   "ende": "2023-06-06",
+   "erkrankungen": [
+    "Prostate Cancer"
+   ],
+   "sponsor": "St Vincent's Hospital, Sydney",
+   "ergebnisse": false
+  }
+ ],
+ "gruppe": "F_kollagen_kosmetik"
+}
