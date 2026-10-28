@@ -35,7 +35,7 @@ Khavinson entwickelte daraus eine umfassendere Theorie: Kurze Peptide aus versch
 
 Die bekannteste Arbeit ist zugleich die problematischste. Über sechs bis acht Jahre wurden 266 ältere Menschen in St. Petersburg und Kiew beobachtet, von denen einige in den ersten zwei bis drei Jahren Thymalin, Epithalamin oder beides erhielten. Berichtet wird eine 2,0- bis 2,1-fach niedrigere Sterblichkeit unter Thymalin und eine 4,1-fach niedrigere bei jährlicher Kombinationsbehandlung über sechs Jahre (Khavinson 2003, PMID 14523363).
 
-Solche Effekte wären spektakulär – größer als bei nahezu jedem etablierten Medikament. Der Abstract beschreibt aber weder, wie die Teilnehmenden den Gruppen zugeteilt wurden, noch ob es eine Verblindung gab, noch wie viele Personen in jeder Gruppe waren. Wer gesünder und aktiver ist, nimmt eher an einer jahrelangen Behandlung teil; ohne Zufallszuteilung kann ein solcher Unterschied allein dadurch entstehen. Die Studie erschien in einer Zeitschrift mit begrenzter Begutachtungstiefe, und unabhängige Wiederholungen gibt es nicht.
+Solche Effekte wären spektakulär – größer als bei nahezu jedem etablierten Medikament. Der Abstract beschreibt aber weder, wie die Teilnehmenden den Gruppen zugeteilt wurden, noch ob es eine Verblindung gab, noch wie viele Personen in jeder Gruppe waren. Wer gesünder und aktiver ist, nimmt eher an einer jahrelangen Behandlung teil; ohne Zufallszuteilung kann ein solcher Unterschied allein dadurch entstehen. Unabhängige Wiederholungen gibt es nicht.
 
 #### COVID-19
 
@@ -61,7 +61,7 @@ Für die Bewertung von Thymalin und Thymogen ist die Herkunft der Daten wichtige
 2. **Sprache und Zugänglichkeit.** Rund 250 der Arbeiten sind russischsprachig, in PubMed oft nur mit kurzem Abstract. Volltexte sind schwer zugänglich, Methoden lassen sich kaum prüfen.
 3. **Studiendesign.** Fast keine Studie ist nach heutigen Standards randomisiert, verblindet und vorab registriert. Keine einzige Studie ist bei ClinicalTrials.gov eingetragen.
 4. **Ungewöhnlich große Effekte bei sehr vielen Erkrankungen.** Ein Präparat, das bei Tuberkulose, Schizophrenie, Parkinson, COVID-19 und dem Altern gleichermaßen wirkt und die Sterblichkeit halbiert, ist aus methodischer Sicht ein Warnsignal, keine Empfehlung.
-5. **Interessenkonflikte.** Die Arbeitsgruppe ist zugleich an Entwicklung und Vermarktung der Präparate beteiligt; „Bioregulatoren“ aus dieser Schule werden international als Nahrungsergänzungsmittel verkauft.
+5. **Interessenkonflikte.** Die Arbeitsgruppe hat die Präparate selbst entwickelt; nach Kenntnis des Autors werden „Bioregulatoren“ aus dieser Schule international als Nahrungsergänzungsmittel vermarktet. Unabhängige Prüfungen durch Forschende ohne solche Verbindungen fehlen.
 
 Das bedeutet nicht, dass alle Ergebnisse falsch sein müssen. Es bedeutet, dass sie nach den Maßstäben dieses Buches nicht als Beleg für einen Nutzen gelten können, solange sie nicht in sauber geplanten, unabhängigen Studien bestätigt werden.
 

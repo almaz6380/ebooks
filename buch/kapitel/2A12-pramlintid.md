@@ -2,7 +2,7 @@
 
 ### Steckbrief
 
-- **Art und Struktur:** synthetisches Analogon des menschlichen Hormons Amylin aus 37 Aminosäuren. An drei Stellen wurden Aminosäuren ausgetauscht (nach dem Vorbild des Ratten-Amylins), damit das Molekül nicht wie natürliches menschliches Amylin verklumpt. Es wirkt nur kurz und wird vor den Hauptmahlzeiten gespritzt.
+- **Art/Struktur:** synthetisches Analogon des menschlichen Hormons Amylin aus 37 Aminosäuren. An drei Stellen wurden Aminosäuren ausgetauscht (nach dem Vorbild des Ratten-Amylins), damit das Molekül nicht wie natürliches menschliches Amylin verklumpt. Es wirkt nur kurz und wird vor den Hauptmahlzeiten gespritzt.
 - **Herkunft:** entwickelt von Amylin Pharmaceuticals; heute Teil des Portfolios von AstraZeneca. Handelsname in den USA: Symlin.
 - **Wirkprinzip:** Agonist an Amylin-Rezeptoren – verlangsamt die Magenentleerung, dämpft die Glukagon-Ausschüttung nach dem Essen und fördert das Sättigungsgefühl.
 - **Zulassung EU:** nein – Pramlintid wurde in der EU nie zugelassen.

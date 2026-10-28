@@ -2,7 +2,7 @@
 
 ### Steckbrief
 
-- **Art und Struktur:** synthetisches Peptid mit angehängter Fettsäurekette für die einmal wöchentliche Gabe unter die Haut; Entwicklungscode LY3437943.
+- **Art/Struktur:** synthetisches Peptid mit angehängter Fettsäurekette für die einmal wöchentliche Gabe unter die Haut; Entwicklungscode LY3437943.
 - **Herkunft:** entwickelt von Eli Lilly als Nachfolger von Tirzepatid.
 - **Wirkprinzip:** „Dreifach-Agonist“ (Triple-Agonist) an drei Rezeptoren: GIP, GLP-1 und Glukagon. In den Medien oft „Triple G“ genannt.
 - **Zulassung EU:** nein (Stand Oktober 2026; Phase-3-Programm TRIUMPH teilweise abgeschlossen).

@@ -2,7 +2,7 @@
 
 ### Steckbrief
 
-- **Art und Struktur:** synthetisches, fettsäuremodifiziertes Peptid für die einmal wöchentliche Gabe unter die Haut; Entwicklungscode BI 456906.
+- **Art/Struktur:** synthetisches, fettsäuremodifiziertes Peptid für die einmal wöchentliche Gabe unter die Haut; Entwicklungscode BI 456906.
 - **Herkunft:** entwickelt von Boehringer Ingelheim in Zusammenarbeit mit dem dänischen Unternehmen Zealand Pharma.
 - **Wirkprinzip:** doppelter Agonist an Glukagon-Rezeptor und GLP-1-Rezeptor (ohne GIP-Anteil).
 - **Zulassung EU:** nein (Stand Oktober 2026).

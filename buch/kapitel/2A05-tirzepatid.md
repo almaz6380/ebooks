@@ -2,7 +2,7 @@
 
 ### Steckbrief
 
-- **Art und Struktur:** synthetisches Peptid, dessen Grundgerüst dem körpereigenen Darmhormon GIP nachempfunden ist; eine angehängte Fettsäurekette bindet es im Blut an Albumin und verlängert die Wirkdauer so weit, dass eine Spritze pro Woche genügt.
+- **Art/Struktur:** synthetisches Peptid, dessen Grundgerüst dem körpereigenen Darmhormon GIP nachempfunden ist; eine angehängte Fettsäurekette bindet es im Blut an Albumin und verlängert die Wirkdauer so weit, dass eine Spritze pro Woche genügt.
 - **Herkunft:** entwickelt von Eli Lilly, in frühen Studien unter dem Code LY3298176 geführt.
 - **Wirkprinzip:** doppelter Agonist (Aktivator) an zwei Rezeptoren: dem GIP-Rezeptor und dem GLP-1-Rezeptor. Deshalb auch „Twincretin“ oder „dualer Inkretin-Agonist“ genannt.
 - **Zulassung EU:** ja (Mounjaro) für Typ-2-Diabetes und für das Gewichtsmanagement bei Adipositas und Übergewicht mit Begleiterkrankungen.

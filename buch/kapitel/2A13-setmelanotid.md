@@ -2,7 +2,7 @@
 
 ### Steckbrief
 
-- **Art und Struktur:** kleines, ringförmig geschlossenes (zyklisches) synthetisches Peptid, das den körpereigenen Botenstoff Alpha-MSH nachahmt. Einmal tägliche Gabe unter die Haut. Früherer Entwicklungscode RM-493.
+- **Art/Struktur:** kleines, ringförmig geschlossenes (zyklisches) synthetisches Peptid, das den körpereigenen Botenstoff Alpha-MSH nachahmt. Einmal tägliche Gabe unter die Haut. Früherer Entwicklungscode RM-493.
 - **Herkunft:** entwickelt von Rhythm Pharmaceuticals; Handelsname Imcivree.
 - **Wirkprinzip:** Agonist am Melanocortin-4-Rezeptor (MC4R) im Hypothalamus, einer zentralen Schaltstelle für Hunger und Sättigung.
 - **Zulassung EU:** ja (Imcivree) für Adipositas bei genetisch bestätigtem POMC-, PCSK1- oder Leptinrezeptor-Mangel sowie beim Bardet-Biedl-Syndrom.

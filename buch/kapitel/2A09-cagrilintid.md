@@ -2,7 +2,7 @@
 
 ### Steckbrief
 
-- **Art und Struktur:** Cagrilintid ist ein synthetisches, fettsäuremodifiziertes Analogon des Hormons Amylin für die einmal wöchentliche Gabe unter die Haut. **CagriSema** ist die feste Kombination aus Cagrilintid und Semaglutid in einem Injektionsgerät.
+- **Art/Struktur:** Cagrilintid ist ein synthetisches, fettsäuremodifiziertes Analogon des Hormons Amylin für die einmal wöchentliche Gabe unter die Haut. **CagriSema** ist die feste Kombination aus Cagrilintid und Semaglutid in einem Injektionsgerät.
 - **Herkunft:** entwickelt von Novo Nordisk, dem Hersteller von Semaglutid.
 - **Wirkprinzip:** Cagrilintid aktiviert Amylin-Rezeptoren und zusätzlich den verwandten Calcitonin-Rezeptor (ein „dualer Amylin- und Calcitonin-Rezeptor-Agonist“). In CagriSema kommt die GLP-1-Wirkung des Semaglutids hinzu.
 - **Zulassung EU:** nein (Stand Oktober 2026).

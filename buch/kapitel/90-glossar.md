@@ -48,29 +48,19 @@ Die folgenden Erklärungen sind bewusst kurz gehalten. Ausführlichere Darstellu
 
 **Confounding (Störgröße)**: Ein Faktor, der sowohl mit einer Behandlung als auch mit einem Ergebnis zusammenhängt und so einen scheinbaren Zusammenhang erzeugen kann. Typisches Problem von Beobachtungsstudien.
 
-**Crossover-Studie**: Studienform, bei der dieselben Teilnehmenden nacheinander verschiedene Behandlungen erhalten, zum Beispiel erst Wirkstoff, dann Placebo. Jede Person ist so ihre eigene Kontrolle.
-
 ### D
 
 **Dalton**: Maßeinheit für die Masse von Molekülen. Eine Aminosäure in einer Peptidkette wiegt im Durchschnitt etwas mehr als 100 Dalton.
-
-**Darreichungsform**: Die Form, in der ein Arzneimittel angewendet wird, etwa Tablette, Spritze, Nasenspray oder Creme.
 
 **Dipeptidylpeptidase-4 (DPP-4)**: Ein Enzym, das unter anderem das Darmhormon GLP-1 rasch abbaut. Hemmstoffe dieses Enzyms (Gliptine) werden als Diabetes-Tabletten eingesetzt.
 
 **Doppelblind**: Eine Studie, bei der weder die Teilnehmenden noch das Studienpersonal wissen, wer Wirkstoff und wer Placebo erhält. Das verringert den Einfluss von Erwartungen auf die Ergebnisse.
 
-**Dosis-Wirkungs-Beziehung**: Der Zusammenhang zwischen der Menge eines Stoffes und der Stärke seiner Wirkung. Eine klare Dosis-Wirkungs-Beziehung ist ein Hinweis darauf, dass ein Effekt tatsächlich vom Stoff ausgeht.
-
 ### E
-
-**Endokrinologie**: Fachgebiet der Medizin, das sich mit Hormonen und hormonbildenden Organen befasst.
 
 **Endotoxine**: Hitzestabile Bestandteile der Zellwand bestimmter Bakterien. Gelangen sie ins Blut, können sie Fieber, Entzündungen und Kreislaufreaktionen auslösen; sie bleiben auch nach Abtöten der Bakterien wirksam.
 
 **Endpunkt**: Das Merkmal, an dem in einer Studie der Erfolg einer Behandlung gemessen wird, etwa Gewichtsverlust, Blutzucker oder Herzinfarkte. Der wichtigste wird als primärer Endpunkt vor Studienbeginn festgelegt.
-
-**Enzym**: Ein Eiweiß, das chemische Reaktionen im Körper beschleunigt. Enzyme, die Peptide spalten, heißen Peptidasen oder Proteasen.
 
 **Estimand**: Eine genaue Beschreibung, welcher Behandlungseffekt in einer Studie geschätzt wird – zum Beispiel unabhängig davon, ob Teilnehmende die Behandlung abbrechen, oder nur für die Zeit der tatsächlichen Einnahme.
 
@@ -136,8 +126,6 @@ Die folgenden Erklärungen sind bewusst kurz gehalten. Ausführlichere Darstellu
 
 **Immunogenität**: Die Eigenschaft eines Stoffes, eine Reaktion des Immunsystems auszulösen, etwa die Bildung von Antikörpern.
 
-**Indikation**: Das Anwendungsgebiet, für das ein Arzneimittel zugelassen ist oder eingesetzt wird.
-
 **Inkretine**: Darmhormone, die nach einer Mahlzeit die Insulinausschüttung verstärken. Die wichtigsten sind GLP-1 und GIP.
 
 **Insulin**: Ein Peptidhormon der Bauchspeicheldrüse aus 51 Aminosäuren, das den Blutzucker senkt. Es war 1922 das erste als Arzneimittel eingesetzte Peptid.
@@ -146,15 +134,7 @@ Die folgenden Erklärungen sind bewusst kurz gehalten. Ausführlichere Darstellu
 
 **Interessenkonflikt**: Eine Situation, in der finanzielle oder andere Interessen das Urteil von Forschenden oder Autoren beeinflussen könnten, etwa durch Finanzierung einer Studie durch den Hersteller.
 
-**Intramuskulär**: In den Muskel gespritzt.
-
-**Intranasal**: Über die Nase verabreicht, etwa als Nasenspray.
-
-**Intravenös**: Direkt in eine Vene gegeben, als Spritze oder Infusion.
-
 **In vitro**: „Im Glas“ – Versuche im Labor an Zellen, Geweben oder isolierten Molekülen außerhalb eines lebenden Organismus.
-
-**In vivo**: „Im Lebenden“ – Versuche an lebenden Organismen, also an Tieren oder Menschen.
 
 ### K
 
@@ -178,10 +158,6 @@ Die folgenden Erklärungen sind bewusst kurz gehalten. Ausführlichere Darstellu
 
 **Meta-Analyse**: Eine statistische Zusammenfassung der Ergebnisse mehrerer Studien zur selben Frage. Sie ist nur so gut wie die Studien, die in sie eingehen.
 
-**Metabolit**: Ein Abbau- oder Umwandlungsprodukt eines Stoffes im Körper.
-
-**Mikronadel-Pflaster**: Pflaster mit winzigen Nadeln, die nur die oberste Hautschicht durchdringen und so Wirkstoffe durch die Haut bringen sollen. Für Peptide überwiegend noch in Entwicklung.
-
 **Mimetikum**: Ein Stoff, der die Wirkung eines anderen nachahmt, ohne dessen Struktur zu haben – etwa ein kleines Molekül, das wie ein Peptidhormon einen Rezeptor aktiviert.
 
 ### N
@@ -189,8 +165,6 @@ Die folgenden Erklärungen sind bewusst kurz gehalten. Ausführlichere Darstellu
 **Nahrungsergänzungsmittel**: Ein Lebensmittel, das die normale Ernährung mit Nährstoffen oder anderen Stoffen ergänzen soll. Es braucht keine Zulassung, darf aber keine pharmakologische Wirkung haben.
 
 **NCT-Nummer**: Die Kennnummer einer Studie im Register ClinicalTrials.gov, bestehend aus „NCT“ und acht Ziffern.
-
-**Neuropeptid**: Ein Peptid, das im Nervensystem als Signalstoff dient, etwa Endorphine oder Oxytocin.
 
 **Novel Food**: In der EU ein Lebensmittel oder eine Zutat, die vor dem 15. Mai 1997 nicht in nennenswertem Umfang verzehrt wurde. Solche Produkte brauchen vor dem Verkauf eine Zulassung.
 
@@ -206,27 +180,19 @@ Die folgenden Erklärungen sind bewusst kurz gehalten. Ausführlichere Darstellu
 
 **Oligopeptid**: Ein kurzes Peptid aus etwa zwei bis zehn Aminosäuren.
 
-**Oral**: Über den Mund eingenommen, etwa als Tablette, Kapsel oder Flüssigkeit.
-
 ### P
 
 **Pankreatitis**: Entzündung der Bauchspeicheldrüse. Sie wird als mögliche, seltene Nebenwirkung von GLP-1-Medikamenten diskutiert.
 
-**Peer Review**: Die Begutachtung eines wissenschaftlichen Artikels durch unabhängige Fachleute vor der Veröffentlichung.
-
 **Peptid**: Eine Kette aus Aminosäuren, die über Peptidbindungen verknüpft sind. Ab etwa 50 Aminosäuren spricht man meist von einem Protein.
 
 **Peptidbindung**: Die chemische Verbindung zwischen der Säuregruppe einer Aminosäure und der Aminogruppe der nächsten, bei deren Bildung Wasser abgespalten wird.
-
-**Peptidhormon**: Ein Hormon, das chemisch ein Peptid ist, zum Beispiel Insulin, GLP-1 oder Oxytocin.
 
 **Pharmakodynamik**: Die Lehre davon, was ein Wirkstoff im Körper bewirkt – also seine Wirkungen und Wirkmechanismen.
 
 **Pharmakokinetik**: Die Lehre davon, was der Körper mit einem Wirkstoff macht – Aufnahme, Verteilung, Abbau und Ausscheidung.
 
 **Pharmakovigilanz**: Die systematische Überwachung von Arzneimitteln nach der Zulassung, um Nebenwirkungen zu erkennen und zu bewerten.
-
-**Pilotstudie**: Eine kleine Vorstudie, mit der die Durchführbarkeit einer größeren Studie geprüft wird. Ihre Ergebnisse sind meist nur vorläufig.
 
 **Placebo**: Ein Scheinpräparat ohne Wirkstoff, das in Studien zum Vergleich eingesetzt wird.
 
@@ -241,8 +207,6 @@ Die folgenden Erklärungen sind bewusst kurz gehalten. Ausführlichere Darstellu
 **Präsentationsarzneimittel**: Rechtlicher Begriff für ein Produkt, das als Arzneimittel gilt, weil es als Mittel gegen Krankheiten dargestellt oder beworben wird.
 
 **Preprint**: Eine wissenschaftliche Arbeit, die vor der Begutachtung durch Fachleute öffentlich gemacht wird.
-
-**Primärer Endpunkt**: Das vor Studienbeginn festgelegte Hauptziel einer Studie, an dem ihr Erfolg gemessen wird.
 
 **Protease**: Ein Enzym, das Peptidbindungen spaltet und so Eiweiße und Peptide abbaut. Auch Peptidase genannt.
 
@@ -294,8 +258,6 @@ Die folgenden Erklärungen sind bewusst kurz gehalten. Ausführlichere Darstellu
 
 ### T
 
-**Tachyphylaxie**: Ein rasches Nachlassen der Wirkung bei wiederholter Gabe eines Stoffes, etwa weil Rezeptoren weniger empfindlich werden.
-
 **Therapeutic Use Exemption (TUE)**: Eine medizinische Ausnahmegenehmigung im Sport, die die Anwendung eines verbotenen, aber medizinisch notwendigen Arzneimittels erlaubt.
 
 **Typ-2-Diabetes**: Die häufigste Form der Zuckerkrankheit, bei der der Körper Insulin weniger wirksam nutzt und die Bauchspeicheldrüse nicht genug nachliefert. Häufig mit Übergewicht verbunden.
@@ -316,11 +278,7 @@ Die folgenden Erklärungen sind bewusst kurz gehalten. Ausführlichere Darstellu
 
 **Wachstumshormon (Somatotropin)**: Ein Protein aus der Hirnanhangdrüse, das Wachstum, Stoffwechsel und Körperzusammensetzung beeinflusst. Viele Peptide in diesem Buch sollen seine Ausschüttung steigern.
 
-**Wirkstoff**: Der Bestandteil eines Arzneimittels, der für die Wirkung verantwortlich ist.
-
 ### Z
-
-**Zellkultur**: Im Labor gezüchtete Zellen, an denen Wirkungen von Stoffen untersucht werden. Ergebnisse lassen sich nicht direkt auf den Menschen übertragen.
 
 **Zulassung**: Die behördliche Genehmigung, ein Arzneimittel in den Verkehr zu bringen, nach Prüfung von Qualität, Wirksamkeit und Sicherheit.
 

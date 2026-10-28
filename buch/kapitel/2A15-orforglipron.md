@@ -2,7 +2,7 @@
 
 ### Steckbrief
 
-- **Art und Struktur:** **kein Peptid**, sondern ein kleines, chemisch hergestelltes Molekül („small molecule“), das am GLP-1-Rezeptor wie ein Peptid wirkt. Entwicklungscode LY3502970. Einmal tägliche Einnahme als Tablette bzw. Kapsel.
+- **Art/Struktur:** **kein Peptid**, sondern ein kleines, chemisch hergestelltes Molekül („small molecule“), das am GLP-1-Rezeptor wie ein Peptid wirkt. Entwicklungscode LY3502970. Einmal tägliche Einnahme als Tablette bzw. Kapsel.
 - **Herkunft:** ursprünglich von Chugai Pharmaceutical entdeckt, von Eli Lilly lizenziert und entwickelt.
 - **Wirkprinzip:** Agonist am GLP-1-Rezeptor – derselbe Angriffspunkt wie bei Semaglutid oder Liraglutid, aber mit einer völlig anderen chemischen Struktur.
 - **Zulassung EU / USA:** nach dem Stand der Recherche für dieses Buch (Oktober 2026) nicht als zugelassen erfasst; Zulassungsanträge sind auf Grundlage der Phase-3-Studien gestellt worden bzw. angekündigt – bitte aktuell prüfen.

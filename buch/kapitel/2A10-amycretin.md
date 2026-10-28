@@ -2,7 +2,7 @@
 
 ### Steckbrief
 
-- **Art und Struktur:** synthetisches Peptid, das in einem einzigen Molekül GLP-1- und Amylin-Wirkung vereint („unimolekular“). Seit 2026 trägt es den internationalen Freinamen **Zenagamtid** (englisch zenagamtide); Entwicklungscode NNC0487-0111. Es wird in zwei Formen entwickelt: als wöchentliche Spritze und als tägliche Tablette.
+- **Art/Struktur:** synthetisches Peptid, das in einem einzigen Molekül GLP-1- und Amylin-Wirkung vereint („unimolekular“). Seit 2026 trägt es den internationalen Freinamen **Zenagamtid** (englisch zenagamtide); Entwicklungscode NNC0487-0111. Es wird in zwei Formen entwickelt: als wöchentliche Spritze und als tägliche Tablette.
 - **Herkunft:** entwickelt von Novo Nordisk.
 - **Wirkprinzip:** Agonist an GLP-1-, Amylin- und Calcitonin-Rezeptoren.
 - **Zulassung EU:** nein.

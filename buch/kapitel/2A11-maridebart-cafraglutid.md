@@ -2,7 +2,7 @@
 
 ### Steckbrief
 
-- **Art und Struktur:** ein sogenanntes Antikörper-Peptid-Konjugat. Ein vollständig menschlicher monoklonaler Antikörper ist über kurze Aminosäure-Verbindungsstücke mit zwei GLP-1-ähnlichen Peptiden verknüpft. Streng genommen ist MariTide also kein reines Peptid, sondern ein Hybrid aus Antikörper und Peptid. Entwicklungscode AMG 133, Kurzname MariTide.
+- **Art/Struktur:** ein sogenanntes Antikörper-Peptid-Konjugat. Ein vollständig menschlicher monoklonaler Antikörper ist über kurze Aminosäure-Verbindungsstücke mit zwei GLP-1-ähnlichen Peptiden verknüpft. Streng genommen ist MariTide also kein reines Peptid, sondern ein Hybrid aus Antikörper und Peptid. Entwicklungscode AMG 133, Kurzname MariTide.
 - **Herkunft:** entwickelt von Amgen.
 - **Wirkprinzip:** Der GLP-1-Anteil **aktiviert** den GLP-1-Rezeptor, der Antikörper **blockiert** den GIP-Rezeptor (GIPR-Antagonist). Das ist das Gegenteil von Tirzepatid, das den GIP-Rezeptor aktiviert.
 - **Besonderheit:** Durch den Antikörper-Anteil wirkt MariTide sehr lange; untersucht wird eine Gabe alle vier Wochen oder seltener.

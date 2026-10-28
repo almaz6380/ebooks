@@ -2,7 +2,7 @@
 
 ### Steckbrief
 
-- **Art und Struktur:** synthetisches, fettsäuremodifiziertes Peptid, abgeleitet vom Darmhormon Oxyntomodulin; einmal wöchentliche Gabe unter die Haut. Entwicklungscodes LY3305677 (Eli Lilly) und IBI362 (Innovent Biologics).
+- **Art/Struktur:** synthetisches, fettsäuremodifiziertes Peptid, abgeleitet vom Darmhormon Oxyntomodulin; einmal wöchentliche Gabe unter die Haut. Entwicklungscodes LY3305677 (Eli Lilly) und IBI362 (Innovent Biologics).
 - **Herkunft:** ursprünglich von Eli Lilly entwickelt; in China von Innovent Biologics bis zur Zulassung gebracht, außerhalb Chinas weiter von Lilly untersucht.
 - **Wirkprinzip:** doppelter Agonist an GLP-1- und Glukagon-Rezeptor – wie Survodutid, aber ein eigenständiges Molekül.
 - **Zulassung EU:** nein.
