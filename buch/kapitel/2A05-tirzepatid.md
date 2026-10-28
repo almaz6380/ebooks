@@ -166,7 +166,7 @@ Wie bei allen lang wirksamen GLP-1-Agonisten traten in Langzeitstudien an Nageti
 
 **Gesichert (registrierte Studien, Stand Oktober 2026):**
 
-- **SURMOUNT-MMO** (NCT05556512): Endpunktstudie mit über 15.000 Menschen mit Adipositas ohne Diabetes und hohem Herz-Kreislauf-Risiko, Tirzepatid gegen Placebo. Hauptendpunkt sind Herzinfarkt, Schlaganfall, Revaskularisation, Herzinsuffizienz-Ereignisse und Tod jeder Ursache; geplantes Ende 2027. Laut Design-Veröffentlichung ist es die erste Inkretin-Endpunktstudie, die sowohl Erst- als auch Folgeereignisse untersucht (Lam 2025, PMID 40545827).
+- **SURMOUNT-MMO** (NCT05556512): Endpunktstudie mit rund 15.000 Menschen mit Adipositas ohne Diabetes und hohem Herz-Kreislauf-Risiko, Tirzepatid gegen Placebo. Hauptendpunkt sind Herzinfarkt, Schlaganfall, Revaskularisation, Herzinsuffizienz-Ereignisse und Tod jeder Ursache; geplantes Ende 2027. Laut Design-Veröffentlichung ist es die erste Inkretin-Endpunktstudie, die sowohl die Primär- als auch die Sekundärprävention von Herz-Kreislauf-Erkrankungen untersucht (Lam 2025, PMID 40545827).
 - **SYNERGY-Outcomes** (NCT07165028): Phase-3-Masterprotokoll zur Fettlebererkrankung mit geplant 4.500 Teilnehmenden.
 - **Typ-1-Diabetes mit Adipositas** (NCT06914895, NCT06962280): zwei Phase-3-Studien.
 - **Jugendliche mit Adipositas** (NCT06439277, SURMOUNT-ADOLESCENTS-2) und Kinder (NCT07817875).

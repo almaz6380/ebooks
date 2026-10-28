@@ -33,7 +33,7 @@ Bereits 2007 zeigte eine Studie mit 36 gesunden Männern, dass die Substanz (dam
 
 #### Erfahrungen aus der Praxis
 
-Eine rückblickende Auswertung von 37 Patientinnen und Patienten einer US-Klinik fand, dass mit dem in den USA zugelassenen Grenzwert von 2,8 ng/ml 40,5 %, mit 5,1 ng/ml dagegen 54,0 % als Wachstumshormon-Mangel eingestuft wurden. Die abweichenden Einstufungen betrafen vor allem stark übergewichtige Personen mit niedriger Vortestwahrscheinlichkeit (Yadav 2026, PMID 41793495). Das zeigt: Der Grenzwert ist nicht trivial, und bei starkem Übergewicht ist Vorsicht bei der Deutung geboten.
+Eine rückblickende Auswertung von 37 Patientinnen und Patienten einer Klinik fand, dass mit dem in den USA zugelassenen Grenzwert von 2,8 ng/ml 40,5 %, mit 5,1 ng/ml dagegen 54,0 % als Wachstumshormon-Mangel eingestuft wurden. Die abweichenden Einstufungen betrafen vor allem stark übergewichtige Personen mit niedriger Vortestwahrscheinlichkeit (Yadav 2026, PMID 41793495). Das zeigt: Der Grenzwert ist nicht trivial, und bei starkem Übergewicht ist Vorsicht bei der Deutung geboten.
 
 #### Kinder und andere Anwendungen
 
@@ -54,9 +54,9 @@ Bei Mäusen mit schwer behandelbarer Epilepsie verringerte Macimorelin während 
 
 ### Risiken und Nebenwirkungen
 
-**Belegt:** Macimorelin wird nur einmal pro Test eingenommen; die Nebenwirkungen sind entsprechend begrenzt. In den Studien traten keine schweren Nebenwirkungen durch Macimorelin auf (Garcia 2018, PMID 29860473). ACTH, Cortisol und Prolaktin steigen vorübergehend an (Klaus 2020, PMID 32325373).
+**Belegt:** Macimorelin wird nur einmal pro Test eingenommen; die Nebenwirkungen sind entsprechend begrenzt. In der Zulassungsstudie traten keine schweren Nebenwirkungen durch Macimorelin auf (Garcia 2018, PMID 29860473). ACTH, Cortisol und Prolaktin steigen vorübergehend an (Klaus 2020, PMID 32325373).
 
-**QT-Verlängerung:** In einer gründlichen EKG-Studie mit 60 Gesunden verlängerte eine bewusst überhöhte (supratherapeutische) Einzeldosis die QT-Zeit – ein Maß für die Erregungsrückbildung des Herzens – im Mittel um bis zu 9,61 Millisekunden und überschritt damit die regulatorische Schwelle (Lissy 2021, PMID 32961034). Deshalb ist bei Menschen, die andere QT-verlängernde Medikamente einnehmen, Vorsicht geboten. Einzelheiten zu Gegenanzeigen und Wechselwirkungen regelt die Fachinformation; der Test wird ärztlich durchgeführt.
+**QT-Verlängerung:** In einer gründlichen EKG-Studie mit 60 Gesunden verlängerte eine bewusst überhöhte (supratherapeutische) Einzeldosis die QT-Zeit – ein Maß für die Erregungsrückbildung des Herzens – im Mittel um bis zu 9,61 Millisekunden; die obere Grenze des Konfidenzintervalls überschritt die regulatorische Schwelle von 10 Millisekunden (Lissy 2021, PMID 32961034). Deshalb ist bei Menschen, die andere QT-verlängernde Medikamente einnehmen, Vorsicht geboten. Einzelheiten zu Gegenanzeigen und Wechselwirkungen regelt die Fachinformation; der Test wird ärztlich durchgeführt.
 
 **Fehldiagnosen:** Wie jeder Stimulationstest kann auch der Macimorelin-Test falsch positive und falsch negative Ergebnisse liefern, besonders bei starkem Übergewicht (Yadav 2026, PMID 41793495).
 

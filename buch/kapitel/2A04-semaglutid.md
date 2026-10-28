@@ -48,10 +48,10 @@ Semaglutid ist in direkten Vergleichsstudien gegen alle älteren GLP-1-Rezeptor-
 | SUSTAIN 3 (Ahmann 2018), PMID 29246950 | vs. Exenatid wöchentlich, offen | 56 Wochen | HbA1c −1,5 vs. −0,9; Gewicht −5,6 vs. −1,9 kg |
 | SUSTAIN 7 (Pratley 2018), PMID 29397376 | 1.201 Personen; 0,5/1,0 mg vs. Dulaglutid 0,75/1,5 mg | 40 Wochen | HbA1c −1,8 vs. −1,4; Gewicht −6,5 vs. −3,0 kg (hohe Dosen) |
 | SUSTAIN 10 (Capehorn 2020), PMID 31539622 | 1,0 mg vs. Liraglutid 1,2 mg | 30 Wochen | HbA1c −1,7 vs. −1,0; Gewicht −5,8 vs. −1,9 kg |
-| PIONEER 4 (Pratley 2019), PMID 31186120 | 711 Personen; Tablette 14 mg vs. Liraglutid-Spritze 1,8 mg vs. Placebo | 52 Wochen | HbA1c −1,2 vs. −1,1 (nicht unterlegen); Gewicht −4,4 vs. −3,1 kg |
+| PIONEER 4 (Pratley 2019), PMID 31186120 | 711 Personen; Tablette 14 mg vs. Liraglutid-Spritze 1,8 mg vs. Placebo | 52 Wochen (Hauptauswertung nach 26 Wochen) | HbA1c −1,2 vs. −1,1 (nicht unterlegen); Gewicht −4,4 vs. −3,1 kg |
 | STEP 8 (Rubino 2022), PMID 35015037 | 338 Personen mit Adipositas ohne Diabetes; 2,4 mg vs. Liraglutid 3,0 mg | 68 Wochen | Gewicht −15,8 % vs. −6,4 % |
 
-Die Unterschiede beim Langzeitzucker liegen zwischen 0,4 und 0,7 Prozentpunkten zugunsten von Semaglutid, beim Gewicht zwischen 1,2 und rund 4 kg bei Diabetes. Am deutlichsten war der Abstand bei Adipositas: In STEP 8 (Rubino 2022, PMID 35015037) verloren 38,5 % unter Semaglutid mindestens 20 % ihres Gewichts, unter Liraglutid 6,0 %. Der Preis ist bei einigen Vergleichen eine etwas höhere Rate an Magen-Darm-Beschwerden: In SUSTAIN 10 brachen 11,4 % gegenüber 6,6 % die Behandlung wegen Nebenwirkungen ab (Capehorn 2020, PMID 31539622). In SUSTAIN 3 dagegen traten Reaktionen an der Einstichstelle unter Exenatid weit häufiger auf (22,0 % vs. 1,2 %) (Ahmann 2018, PMID 29246950).
+Die Unterschiede beim Langzeitzucker liegen zwischen 0,1 und 0,7 Prozentpunkten zugunsten von Semaglutid, beim Gewicht zwischen 1,2 und rund 4 kg bei Diabetes. Am deutlichsten war der Abstand bei Adipositas: In STEP 8 (Rubino 2022, PMID 35015037) verloren 38,5 % unter Semaglutid mindestens 20 % ihres Gewichts, unter Liraglutid 6,0 %. Der Preis ist bei einigen Vergleichen eine etwas höhere Rate an Magen-Darm-Beschwerden: In SUSTAIN 10 brachen 11,4 % gegenüber 6,6 % die Behandlung wegen Nebenwirkungen ab (Capehorn 2020, PMID 31539622). In SUSTAIN 3 dagegen traten Reaktionen an der Einstichstelle unter Exenatid weit häufiger auf (22,0 % vs. 1,2 %) (Ahmann 2018, PMID 29246950).
 
 PIONEER 4 (Pratley 2019, PMID 31186120) ist bemerkenswert, weil hier eine Tablette gegen eine Spritze antrat: Beim HbA1c war die Semaglutid-Tablette nicht schlechter als die Liraglutid-Spritze, beim Gewicht um 1,2 kg überlegen.
 
@@ -61,7 +61,7 @@ Außerhalb der GLP-1-Klasse wurde Semaglutid seinerseits übertroffen: Im direkt
 
 | Studie | Teilnehmende und Design | Dauer | Ergebnis |
 |---|---|---|---|
-| PIONEER 1 (Aroda 2019), PMID 31186300 | 703 Personen, Monotherapie; 3/7/14 mg vs. Placebo | 26 Wochen | HbA1c −1,1 Prozentpunkte (14 mg) gegenüber Placebo; Gewicht −2,3 kg |
+| PIONEER 1 (Aroda 2019), PMID 31186300 | 703 Personen, Monotherapie; 3/7/14 mg vs. Placebo | 26 Wochen | HbA1c −1,1 Prozentpunkte (14 mg) gegenüber Placebo; Gewicht −2,3 kg gegenüber Placebo |
 | PIONEER 6 (Husain 2019), PMID 31185157 | 3.183 Personen mit hohem Risiko; vs. Placebo | median 15,9 Monate | Ereignisse 3,8 % vs. 4,8 %; HR 0,79, nicht unterlegen |
 | PIONEER PLUS (Aroda 2023), PMID 37385279 | 1.606 Personen; 25 und 50 mg vs. 14 mg | 52 Wochen | HbA1c −2,0 (50 mg) vs. −1,5 (14 mg) |
 | SOUL (McGuire 2025), PMID 40162642 | 9.650 Personen mit Gefäß- und/oder Nierenerkrankung; vs. Placebo | median 49,5 Monate | Ereignisse 12,0 % vs. 13,8 %; HR 0,86 (0,77–0,96) |
@@ -136,7 +136,7 @@ FLOW (Perkovic 2024, PMID 38785209) war die erste große Studie mit einem GLP-1-
 
 **Herzschwäche:** Bei Herzschwäche mit erhaltener Pumpfunktion und Adipositas verbesserten sich Beschwerden und Belastbarkeit deutlich (Kosiborod 2023, PMID 37622681). Schwerwiegende unerwünschte Ereignisse waren unter Semaglutid seltener (13,3 % vs. 26,7 %). Ob Semaglutid auch Krankenhausaufenthalte oder Todesfälle durch Herzschwäche verringert, war nicht das Hauptziel dieser Studie.
 
-**Schaufensterkrankheit:** Bei der peripheren arteriellen Verschlusskrankheit verlängerte Semaglutid die schmerzfreie maximale Gehstrecke (Bonaca 2025, PMID 40169145).
+**Schaufensterkrankheit:** Bei der peripheren arteriellen Verschlusskrankheit verlängerte Semaglutid die maximale Gehstrecke (Bonaca 2025, PMID 40169145).
 
 **Kniearthrose:** In STEP 9 (Bliddal 2024, PMID 39476339) nahmen Knieschmerzen stärker ab als unter Placebo. Ob das allein an der Gewichtsabnahme liegt, lässt die Studie offen.
 

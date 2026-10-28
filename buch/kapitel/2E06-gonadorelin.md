@@ -55,7 +55,7 @@ Bei der hypothalamischen Amenorrhö bleibt die Regel aus, weil das Gehirn zu wen
 
 Die Zahlen zeigen ein stimmiges Bild: Bei Frauen, deren Problem tatsächlich im Hypothalamus liegt, führt die Pumpe in den allermeisten Zyklen zu einem Eisprung, oft mit nur einer reifenden Eizelle. Weil die Hypophyse ihre eigene Rückkopplung behält, sind Überstimulation und Mehrlingsschwangerschaften seltener als bei direkt gespritzten Gonadotropinen (Quaas 2022, PMID 36378460). Bei Frauen mit polyzystischem Ovarsyndrom oder Übergewicht wirkt die Pumpe schlechter, und Fehlgeburten waren in der größten Einzelserie häufig (Filicori 1994, PMID 7962297).
 
-Die Nachteile sind praktischer Natur: Die Pumpe muss über Wochen getragen werden. Bei Gabe in die Vene kam es zu Komplikationen am Zugang, im Mittel bei 7 % (Santoro 1990, PMID 2122733). Heute wird meist unter die Haut gepumpt; lokale Hautreaktionen traten in der französischen Studie in 1,7 % der Zyklen auf (Christin-Maitre 2007, PMID 17293247).
+Die Nachteile sind praktischer Natur: Die Pumpe muss über Wochen getragen werden. Bei Gabe in die Vene kam es zu Komplikationen am Zugang, im Mittel bei 7 % (Santoro 1990, PMID 2122733). Heute wird meist unter die Haut gepumpt; lokale allergische Reaktionen traten in der französischen Studie in 1,7 % der Zyklen auf (Christin-Maitre 2007, PMID 17293247).
 
 Die Datenlage ist alt und überwiegend nicht randomisiert. Große Vergleichsstudien mit modernen Gonadotropin-Protokollen fehlen. Fachleute betrachten die Pumpe dennoch als besonders physiologische und sichere Methode bei hypothalamischer Amenorrhö mit Kinderwunsch (Quaas 2022, PMID 36378460) – sofern sie verfügbar ist.
 
