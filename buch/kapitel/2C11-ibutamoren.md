@@ -1,10 +1,10 @@
-## Zum Vergleich: Ibutamoren (MK-677)
+## Ibutamoren (MK-677)
 
-Ibutamoren ist kein Peptid. Es ist ein kleines, synthetisches Molekül, das als Tablette oder Flüssigkeit geschluckt wird – und genau deshalb steht es in diesem Buch: als Vergleich. Es wirkt am selben Rezeptor wie Ipamorelin, GHRP-2 oder Hexarelin, nämlich am Ghrelin-Rezeptor, und hebt Wachstumshormon und IGF-1 über Monate an. Ibutamoren wurde in den 1990er- und 2000er-Jahren vom Pharmaunternehmen Merck in mehreren größeren randomisierten Studien geprüft. Diese Studien zeigen recht genau, was eine dauerhafte Anregung der Wachstumshormon-Achse bei älteren Menschen bringt – und wo die Risiken liegen. Auf dem Graumarkt wird Ibutamoren heute meist als „SARM-ähnliches Supplement“ verkauft.
+*Vergleichskapitel:* Ibutamoren ist kein Peptid. Es ist ein kleines, synthetisches Molekül, das als Tablette oder Flüssigkeit geschluckt wird – und genau deshalb steht es in diesem Buch: als Vergleich. Es wirkt am selben Rezeptor wie Ipamorelin, GHRP-2 oder Hexarelin, nämlich am Ghrelin-Rezeptor, und hebt Wachstumshormon und IGF-1 über Monate an. Ibutamoren wurde in den 1990er- und 2000er-Jahren vom Pharmaunternehmen Merck in mehreren größeren randomisierten Studien geprüft. Diese Studien zeigen recht genau, was eine dauerhafte Anregung der Wachstumshormon-Achse bei älteren Menschen bringt – und wo die Risiken liegen. Auf dem Graumarkt wird Ibutamoren heute meist als „SARM-ähnliches Supplement“ verkauft.
 
 ### Steckbrief
 
-- **Art und Struktur:** kleines synthetisches Molekül (Spiropiperidin-Derivat), kein Peptid; oral wirksam. Entwicklungsnamen MK-677 bzw. MK-0677, heute als LUM-201 in der Entwicklung (Bright 2022, PMID 35354138).
+- **Art und Struktur:** kleines synthetisches Molekül, kein Peptid („non-peptide agonist“; Liu 2021, PMID 34737341); oral wirksam. Entwicklungsnamen MK-677 bzw. MK-0677, heute als LUM-201 in der Entwicklung (Bright 2022, PMID 35354138).
 - **Herkunft:** entwickelt von Merck (USA) in den 1990er-Jahren als „Peptid-Mimetikum“ der Wachstumshormon-freisetzenden Peptide.
 - **Wirkprinzip:** Agonist am Ghrelin-Rezeptor (GHS-R1a); verstärkt die bestehenden GH-Pulse und hebt IGF-1 dauerhaft an; steigert den Appetit.
 - **Zulassung EU:** nein. **Zulassung USA:** nein.
@@ -23,7 +23,7 @@ Die Hoffnung von Merck war, damit das „Somatopause“ genannte Absinken der Wa
 
 #### Gesunde ältere Erwachsene
 
-Die wichtigste Studie lief über zwei Jahre: 65 gesunde Frauen und Männer zwischen 60 und 81 Jahren erhielten täglich Ibutamoren oder Placebo. Wachstumshormon und IGF-1 stiegen auf Werte junger Erwachsener. Die fettfreie Masse nahm unter Ibutamoren um 1,1 kg zu, unter Placebo um 0,5 kg ab. Das Bauchfett veränderte sich nicht, das Körpergewicht stieg um 2,7 kg (Placebo: 0,8 kg), und das Fett an Armen und Beinen nahm stärker zu. Muskelkraft und körperliche Funktion verbesserten sich **nicht** messbar. Der Nüchternzucker stieg im Mittel um 0,3 mmol/l (5 mg/dl), die Insulinempfindlichkeit nahm ab. Häufigste Nebenwirkungen waren ein anfänglich gesteigerter Appetit, leichte Wassereinlagerungen in den Beinen und Muskelschmerzen (Nass 2008, PMID 18981485).
+Die wichtigste Studie lief über zwei Jahre: 65 gesunde Frauen und Männer zwischen 60 und 81 Jahren erhielten täglich Ibutamoren oder Placebo. Wachstumshormon und IGF-1 stiegen auf Werte junger Erwachsener. Die fettfreie Masse nahm unter Ibutamoren um 1,1 kg zu, unter Placebo um 0,5 kg ab. Das Bauchfett veränderte sich nicht, das Körpergewicht stieg um 2,7 kg (Placebo: 0,8 kg), und das Fett an Armen und Beinen nahm stärker zu. Die Zunahme der fettfreien Masse führte **nicht** zu mehr Kraft oder besserer Funktion; die Autoren räumen ein, dass die Studie dafür zu klein war. Der Nüchternzucker stieg im Mittel um 0,3 mmol/l (5 mg/dl), die Insulinempfindlichkeit nahm ab. Häufigste Nebenwirkungen waren ein anfänglich gesteigerter Appetit, leichte Wassereinlagerungen in den Beinen und Muskelschmerzen (Nass 2008, PMID 18981485).
 
 #### Hüftfraktur
 

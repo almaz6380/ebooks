@@ -11,7 +11,7 @@
 
 ### Warum dieses Kapitel in einem Peptid-Buch steht
 
-Alle GLP-1-Medikamente bis 2025 waren Peptide. Peptide werden im Magen-Darm-Trakt größtenteils verdaut und kaum aufgenommen – deshalb müssen sie gespritzt werden. Die einzige Ausnahme, Semaglutid als Tablette, braucht einen Hilfsstoff, der die Aufnahme durch die Magenschleimhaut erleichtert, und strenge Einnahmeregeln: nüchtern, mit wenig Wasser, mindestens 30 Minuten vor dem Frühstück (siehe Kapitel Semaglutid und Teil I zur Frage, wie Peptide in den Körper kommen).
+Alle GLP-1-Medikamente bis 2025 waren Peptide. Peptide werden im Magen-Darm-Trakt größtenteils verdaut und kaum aufgenommen – deshalb müssen sie gespritzt werden. Die einzige Ausnahme, Semaglutid als Tablette, braucht einen Hilfsstoff, der die Aufnahme durch die Magenschleimhaut erleichtert, und strenge Einnahmeregeln: nüchtern, mit wenig Wasser und mit Abstand vor dem Frühstück (siehe Kapitel Semaglutid und Teil I zur Frage, wie Peptide in den Körper kommen).
 
 Orforglipron umgeht dieses Problem grundsätzlich: Als kleines Molekül wird es wie eine herkömmliche Tablette aus dem Darm aufgenommen. Es kann laut den Studien ohne Rücksicht auf Mahlzeiten oder Wassermenge eingenommen werden (Rosenstock 2026, PMID 41765029). Orforglipron ist damit der wichtigste Vergleichsfall für die Frage, ob die Zukunft der Abnehmmedikamente überhaupt bei Peptiden liegt (siehe Teil V).
 

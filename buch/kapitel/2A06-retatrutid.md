@@ -93,7 +93,7 @@ Für die Doping-Analytik wurde 2026 ein Nachweisverfahren entwickelt. Dafür wur
 **Gesichert (registrierte Studien, Stand Oktober 2026):**
 
 - **TRIUMPH-Outcomes** (NCT06383390): Endpunktstudie zu Herz-Kreislauf- und Nierenereignissen mit rund 10.000 Teilnehmenden mit Adipositas, geplantes Ende 2029.
-- **Retatrutid gegen Tirzepatid** (NCT06662383): direkter Vergleich bei 800 Erwachsenen mit Adipositas, geplantes Ende Ende 2026.
+- **Retatrutid gegen Tirzepatid** (NCT06662383): direkter Vergleich bei 800 Erwachsenen mit Adipositas, geplantes Studienende Dezember 2026.
 - **Retatrutid gegen Semaglutid** bei Typ-2-Diabetes (NCT06260722).
 - **Gewichtserhalt** nach Abnahme (NCT06859268), **Nierenfunktion** bei Typ-2-Diabetes mit Niereninsuffizienz (NCT06297603), **chronische Rückenschmerzen** bei Adipositas (NCT07035093).
 - Retatrutid ist außerdem Teil eines Phase-3-Masterprotokolls zur Fettlebererkrankung (NCT07165028).
