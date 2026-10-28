@@ -24,7 +24,7 @@ Oxytocin ist als Peptid zu groß und zu wasserlöslich, um die Blut-Hirn-Schrank
 
 - **Skeptische Sicht:** Nur ein winziger Bruchteil der gesprühten Menge erreicht das Nervenwasser, während der Spiegel im Blut weit über natürliche Werte steigt. Viele beobachtete Effekte könnten daher von Wirkungen im Körper herrühren, etwa auf Herz oder Darm, die dann indirekt das Gehirn beeinflussen (Leng 2016, PMID 26049207).
 - **Befunde bei Affen:** Bei Rhesusaffen erreichte markiertes Oxytocin nach Nasen- und nach Venengabe das Nervenwasser; die Nase war dabei nicht überlegen (Lee 2018, PMID 28289281). In einer zweiten Studie fand sich markiertes Oxytocin nach Nasengabe – nicht nach Venengabe – in Hirnregionen entlang der Riech- und Trigeminusbahnen (Lee 2020, PMID 32494001).
-- **Befunde beim Menschen:** Eine britische Studie verglich Nasenspray, Vernebler und Infusion. Die Abnahme der Durchblutung im Mandelkern (Amygdala) ließ sich vollständig durch den Anstieg im Blut erklären; zugleich gab es Hinweise auf direkte Effekte über die Nase in anderen Regionen (Martins 2020, PMID 32127545).
+- **Befunde beim Menschen:** Eine Studie verglich Nasenspray, Vernebler und Infusion. Die Abnahme der Durchblutung im Mandelkern (Amygdala) ließ sich vollständig durch den Anstieg im Blut erklären; zugleich gab es Hinweise auf direkte Effekte über die Nase in anderen Regionen (Martins 2020, PMID 32127545).
 - **Messprobleme:** Oxytocin-Spiegel im Blut spiegeln die Werte im Gehirn unter Ruhebedingungen nicht wider (Valstad 2017, PMID 28442403). Viele ältere Studien nutzten zudem Messmethoden, die heute als unzuverlässig gelten (Leng 2016, PMID 26049207).
 
 Fachleute, die das Feld insgesamt positiv sehen, halten einen direkten Weg von der Nase ins Gehirn inzwischen für belegt, betonen aber, dass Dosis, Sprühtechnik und Geschlecht der Teilnehmenden die Ergebnisse stark beeinflussen (Quintana 2021, PMID 32807845). Für Leserinnen und Leser heißt das: Ob ein Oxytocin-Nasenspray im Gehirn ankommt, hängt von vielen Details ab, und selbst Fachleute sind sich über die Größenordnung uneinig.
@@ -67,7 +67,7 @@ Eine Übersicht von 2015 kam zu dem Schluss, dass die Gesamtheit der Daten nicht
 
 Die wichtigste Probe aufs Exempel war eine große, vorab registrierte Wiederholung der Vertrauensstudie mit einer statistischen Aussagekraft von über 95 %. In der Bedingung, die der Originalstudie entsprach, zeigte Oxytocin keine Wirkung. Eine nachträgliche Auswertung deutete auf einen Effekt nur bei Menschen mit geringem Grundvertrauen hin (Declerck 2020, PMID 32514040). Genau diese Hypothese prüfte 2026 eine weitere vorregistrierte Studie mit 359 Männern mit geringem Grundvertrauen und fand eine Zunahme des Vertrauens um etwa 15 % (Vogt 2026, PMID 42561025).
 
-**Was das bedeutet:** Der ursprüngliche, breite Effekt „Oxytocin macht vertrauensvoller“ hat sich nicht bestätigt. Möglicherweise gibt es einen kleineren Effekt in einer bestimmten Untergruppe und unter bestimmten Bedingungen. Das ist wissenschaftlich interessant, aber weit von einem praktischen Nutzen entfernt. Die Erfahrungen haben das Feld verändert: Studien werden heute häufiger vorab registriert, sind größer und berichten auch negative Ergebnisse. Eine 2026 gestartete Online-Plattform soll die Studienlage laufend auswerten (Iversen 2026, PMID 41389446).
+**Was das bedeutet:** Der ursprüngliche, breite Effekt „Oxytocin macht vertrauensvoller“ hat sich nicht bestätigt. Möglicherweise gibt es einen kleineren Effekt in einer bestimmten Untergruppe und unter bestimmten Bedingungen. Das ist wissenschaftlich interessant, aber weit von einem praktischen Nutzen entfernt. Die Erfahrungen haben das Feld verändert: Studien werden heute häufiger vorab registriert, sind größer und berichten auch negative Ergebnisse. Eine 2026 vorgestellte Online-Plattform soll die Studienlage laufend auswerten (Iversen 2026, PMID 41389446).
 
 #### Autismus
 
@@ -92,7 +92,7 @@ Das Ergebnis war eindeutig negativ: Der Wert sank unter Oxytocin um 3,7 Punkte, 
 
 **Die australische Studie bei jungen Kindern.** Die Gruppe um Adam Guastella hatte zuvor bei 3- bis 8-Jährigen ein positives Ergebnis gefunden (Yatawara 2016, PMID 26503762). Eine größere Folgestudie mit 87 Kindern schaltete eine dreiwöchige Placebo-Vorphase vor, um den starken Placeboeffekt herauszufiltern. Insgesamt zeigte Oxytocin keinen Effekt auf die soziale Ansprechbarkeit. Nur in der Untergruppe der 3- bis 5-Jährigen deutete sich eine Verbesserung laut Elternurteil an; das ärztliche Urteil und alle anderen Maße zeigten keinen Nutzen (Guastella 2023, PMID 36302965). Auffällig: In der Jugendlichen-Studie von 2015 berichteten Eltern, die glaubten, ihr Kind erhalte Oxytocin, über größere Verbesserungen – unabhängig davon, was das Kind tatsächlich bekam (Guastella 2015, PMID 25087908).
 
-**Biologische Effekte ohne klinischen Nutzen.** Eine belgische Studie mit 79 Kindern fand nach vier Wochen Oxytocin höhere Oxytocin-Spiegel im Speichel und Veränderungen an der Erbgut-Markierung des Rezeptor-Gens (Moerkerke 2024, PMID 38167302). Im Hirnscanner zeigten sich in derselben Gruppe dagegen keine signifikanten Behandlungseffekte auf die Gesichtsverarbeitung (Moerkerke 2024, PMID 39709442). Solche biologischen Signale sind wissenschaftlich interessant, belegen aber keine Verbesserung im Alltag.
+**Biologische Effekte ohne klinischen Nutzen.** Eine Studie mit 79 Kindern fand nach vier Wochen Oxytocin höhere Oxytocin-Spiegel im Speichel und Veränderungen an der Erbgut-Markierung des Rezeptor-Gens (Moerkerke 2024, PMID 38167302). Im Hirnscanner zeigten sich in derselben Gruppe dagegen keine signifikanten Behandlungseffekte auf die Gesichtsverarbeitung (Moerkerke 2024, PMID 39709442). Solche biologischen Signale sind wissenschaftlich interessant, belegen aber keine Verbesserung im Alltag.
 
 **Meta-Analysen.** Die Zusammenfassungen kommen zu unterschiedlichen Ergebnissen, je nachdem, welche Studien sie einschließen:
 
@@ -150,7 +150,7 @@ In kontrollierten Studien gilt das Oxytocin-Nasenspray als gut verträglich. Ein
 
 #### Graumarkt
 
-Oxytocin-Nasensprays werden im Internet als „Liebes-“ oder „Vertrauensspray“ verkauft. Manche Produkte enthalten nach Herstellerangaben kein oder nur homöopathisch verdünntes Oxytocin, andere sind nicht kontrollierte Rezepturen. Für keines dieser Produkte gibt es Belege einer Wirkung.
+Oxytocin-Nasensprays werden im Internet als „Liebes-“ oder „Vertrauensspray“ verkauft. Inhalt und Gehalt solcher Produkte sind nicht unabhängig geprüft. Für keines dieser Produkte gibt es Belege einer Wirkung.
 
 ### Rechtslage
 
