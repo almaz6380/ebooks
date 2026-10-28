@@ -1,0 +1,87 @@
+# Peptid-Liste für "Das Peptid-Handbuch" (Josef Gallab)
+# status: zugelassen | teilweise | nicht_zugelassen | lebensmittel | kosmetik
+# pubmed: Suchbegriff für PubMed (Title/Abstract bzw. MeSH)
+# ctgov: Suchbegriff für ClinicalTrials.gov
+# vergleich: true = kein Peptid, nur als Vergleich im Buch erwähnt
+
+A_stoffwechsel:
+  titel: "Stoffwechsel und Gewicht"
+  peptide:
+    - {name: Exenatid, status: zugelassen, pubmed: 'exenatide[tiab]', ctgov: exenatide}
+    - {name: Liraglutid, status: zugelassen, pubmed: 'liraglutide[tiab]', ctgov: liraglutide}
+    - {name: Dulaglutid, status: zugelassen, pubmed: 'dulaglutide[tiab]', ctgov: dulaglutide}
+    - {name: Semaglutid, status: zugelassen, pubmed: 'semaglutide[tiab]', ctgov: semaglutide}
+    - {name: Tirzepatid, status: zugelassen, pubmed: 'tirzepatide[tiab]', ctgov: tirzepatide}
+    - {name: Retatrutid, status: nicht_zugelassen, pubmed: 'retatrutide[tiab]', ctgov: retatrutide}
+    - {name: Survodutid, status: nicht_zugelassen, pubmed: 'survodutide[tiab]', ctgov: survodutide}
+    - {name: Mazdutid, status: teilweise, pubmed: 'mazdutide[tiab]', ctgov: mazdutide}
+    - {name: Cagrilintid / CagriSema, status: nicht_zugelassen, pubmed: 'cagrilintide[tiab]', ctgov: cagrilintide}
+    - {name: Amycretin, status: nicht_zugelassen, pubmed: 'amycretin[tiab]', ctgov: amycretin}
+    - {name: Maridebart Cafraglutid (MariTide), status: nicht_zugelassen, pubmed: 'maridebart[tiab] OR AMG 133[tiab]', ctgov: maridebart cafraglutide}
+    - {name: Pramlintid, status: teilweise, pubmed: 'pramlintide[tiab]', ctgov: pramlintide}
+    - {name: Setmelanotid, status: zugelassen, pubmed: 'setmelanotide[tiab]', ctgov: setmelanotide}
+    - {name: AOD-9604, status: nicht_zugelassen, pubmed: 'AOD9604[tiab] OR AOD-9604[tiab]', ctgov: AOD9604}
+    - {name: Orforglipron, status: nicht_zugelassen, vergleich: true, pubmed: 'orforglipron[tiab]', ctgov: orforglipron}
+
+B_regeneration:
+  titel: "Heilung, Regeneration und Immunsystem"
+  peptide:
+    - {name: BPC-157, status: nicht_zugelassen, pubmed: 'BPC 157[tiab] OR BPC-157[tiab] OR pentadecapeptide BPC[tiab]', ctgov: BPC-157}
+    - {name: TB-500 / Thymosin Beta-4, status: nicht_zugelassen, pubmed: 'thymosin beta-4[tiab] OR thymosin beta4[tiab] OR TB-500[tiab] OR TB500[tiab]', ctgov: thymosin beta 4}
+    - {name: Thymosin Alpha-1 (Thymalfasin), status: teilweise, pubmed: 'thymosin alpha 1[tiab] OR thymalfasin[tiab] OR thymosin alpha1[tiab]', ctgov: thymalfasin OR thymosin alpha 1}
+    - {name: KPV, status: nicht_zugelassen, pubmed: 'KPV[tiab] AND (peptide[tiab] OR tripeptide[tiab])', ctgov: KPV peptide}
+    - {name: LL-37, status: nicht_zugelassen, pubmed: 'LL-37[tiab] OR cathelicidin[tiab]', ctgov: LL-37}
+    - {name: ARA-290 (Cibinetid), status: nicht_zugelassen, pubmed: 'ARA 290[tiab] OR ARA290[tiab] OR cibinetide[tiab]', ctgov: ARA 290 OR cibinetide}
+    - {name: Larazotid, status: nicht_zugelassen, pubmed: 'larazotide[tiab]', ctgov: larazotide}
+    - {name: Thymalin / Thymogen, status: teilweise, pubmed: 'thymalin[tiab] OR thymogen[tiab]', ctgov: thymalin}
+
+C_wachstumshormon:
+  titel: "Wachstumshormon-Achse"
+  peptide:
+    - {name: Sermorelin, status: teilweise, pubmed: 'sermorelin[tiab]', ctgov: sermorelin}
+    - {name: Tesamorelin, status: teilweise, pubmed: 'tesamorelin[tiab]', ctgov: tesamorelin}
+    - {name: CJC-1295, status: nicht_zugelassen, pubmed: 'CJC-1295[tiab] OR CJC 1295[tiab]', ctgov: CJC-1295}
+    - {name: Ipamorelin, status: nicht_zugelassen, pubmed: 'ipamorelin[tiab]', ctgov: ipamorelin}
+    - {name: GHRP-2 (Pralmorelin), status: teilweise, pubmed: 'GHRP-2[tiab] OR pralmorelin[tiab]', ctgov: pralmorelin OR GHRP-2}
+    - {name: GHRP-6, status: nicht_zugelassen, pubmed: 'GHRP-6[tiab]', ctgov: GHRP-6}
+    - {name: Hexarelin, status: nicht_zugelassen, pubmed: 'hexarelin[tiab]', ctgov: hexarelin}
+    - {name: Macimorelin, status: zugelassen, pubmed: 'macimorelin[tiab]', ctgov: macimorelin}
+    - {name: Mecasermin (IGF-1), status: zugelassen, pubmed: 'mecasermin[tiab] OR rhIGF-1[tiab]', ctgov: mecasermin}
+    - {name: IGF-1 LR3, status: nicht_zugelassen, pubmed: 'LR3-IGF-1[tiab] OR IGF-1 LR3[tiab] OR "Long R3"[tiab]', ctgov: IGF-1 LR3}
+    - {name: Ibutamoren (MK-677), status: nicht_zugelassen, vergleich: true, pubmed: 'ibutamoren[tiab] OR MK-677[tiab] OR MK-0677[tiab]', ctgov: ibutamoren OR MK-677}
+
+D_gehirn_langlebigkeit:
+  titel: "Gehirn, Schlaf und Langlebigkeit"
+  peptide:
+    - {name: Semax, status: teilweise, pubmed: 'semax[tiab]', ctgov: semax}
+    - {name: Selank, status: teilweise, pubmed: 'selank[tiab]', ctgov: selank}
+    - {name: Cerebrolysin, status: teilweise, pubmed: 'cerebrolysin[tiab]', ctgov: cerebrolysin}
+    - {name: Dihexa, status: nicht_zugelassen, pubmed: 'dihexa[tiab]', ctgov: dihexa}
+    - {name: DSIP, status: nicht_zugelassen, pubmed: 'delta sleep-inducing peptide[tiab] OR DSIP[tiab]', ctgov: delta sleep inducing peptide}
+    - {name: Epitalon (Epithalon), status: nicht_zugelassen, pubmed: 'epitalon[tiab] OR epithalon[tiab] OR epithalone[tiab]', ctgov: epitalon}
+    - {name: Pinealon, status: nicht_zugelassen, pubmed: 'pinealon[tiab]', ctgov: pinealon}
+    - {name: MOTS-c, status: nicht_zugelassen, pubmed: 'MOTS-c[tiab]', ctgov: MOTS-c}
+    - {name: Humanin, status: nicht_zugelassen, pubmed: 'humanin[tiab]', ctgov: humanin}
+    - {name: SS-31 (Elamipretid), status: teilweise, pubmed: 'elamipretide[tiab] OR SS-31[tiab]', ctgov: elamipretide}
+    - {name: FOXO4-DRI, status: nicht_zugelassen, pubmed: 'FOXO4-DRI[tiab]', ctgov: FOXO4-DRI}
+    - {name: Glutathion, status: lebensmittel, pubmed: 'glutathione[ti] AND (supplementation[tiab] OR oral[tiab] OR intravenous[tiab])', ctgov: glutathione}
+
+E_hormone_sexualitaet_haut:
+  titel: "Hormone, Sexualität und Pigmentierung"
+  peptide:
+    - {name: Bremelanotid (PT-141), status: teilweise, pubmed: 'bremelanotide[tiab] OR PT-141[tiab]', ctgov: bremelanotide}
+    - {name: Melanotan II, status: nicht_zugelassen, pubmed: 'melanotan[tiab]', ctgov: melanotan}
+    - {name: Afamelanotid, status: zugelassen, pubmed: 'afamelanotide[tiab]', ctgov: afamelanotide}
+    - {name: Kisspeptin, status: nicht_zugelassen, pubmed: 'kisspeptin[tiab] AND (administration[tiab] OR infusion[tiab] OR injection[tiab])', ctgov: kisspeptin}
+    - {name: Oxytocin (intranasal), status: teilweise, pubmed: 'intranasal oxytocin[tiab]', ctgov: intranasal oxytocin}
+    - {name: Gonadorelin, status: zugelassen, pubmed: 'gonadorelin[tiab]', ctgov: gonadorelin}
+
+F_kollagen_kosmetik:
+  titel: "Kollagen, Ernährung und Kosmetik"
+  peptide:
+    - {name: Kollagenhydrolysat / Kollagenpeptide, status: lebensmittel, pubmed: '(collagen hydrolysate[tiab] OR collagen peptide*[tiab]) AND (supplement*[tiab] OR oral[tiab] OR ingestion[tiab])', ctgov: collagen peptides}
+    - {name: Lactotripeptide (VPP/IPP), status: lebensmittel, pubmed: 'lactotripeptide*[tiab] OR (valyl-prolyl-proline[tiab])', ctgov: lactotripeptides}
+    - {name: Carnosin, status: lebensmittel, pubmed: 'carnosine[ti] AND (supplementation[tiab] OR oral[tiab])', ctgov: carnosine}
+    - {name: GHK-Cu (Kupferpeptid), status: kosmetik, pubmed: 'GHK-Cu[tiab] OR copper tripeptide[tiab] OR copper peptide GHK[tiab]', ctgov: GHK-Cu OR copper peptide}
+    - {name: Palmitoyl-Pentapeptid-4 (Matrixyl), status: kosmetik, pubmed: 'palmitoyl pentapeptide[tiab] OR matrixyl[tiab]', ctgov: palmitoyl pentapeptide}
+    - {name: Acetyl-Hexapeptid-8 (Argireline), status: kosmetik, pubmed: 'acetyl hexapeptide[tiab] OR argireline[tiab]', ctgov: argireline}

@@ -1,0 +1,60 @@
+# Abfrage vom 2026-10-28
+gruppe,peptid,status,vergleich,pubmed_gesamt,pubmed_humanstudien,pubmed_rct,pubmed_metaanalysen,ctgov_registriert
+A_stoffwechsel,Exenatid,zugelassen,False,2879,437,385,247,379
+A_stoffwechsel,Liraglutid,zugelassen,False,5711,613,561,415,517
+A_stoffwechsel,Dulaglutid,zugelassen,False,1327,158,147,141,143
+A_stoffwechsel,Semaglutid,zugelassen,False,5792,342,312,426,793
+A_stoffwechsel,Tirzepatid,zugelassen,False,2692,144,134,222,308
+A_stoffwechsel,Retatrutid,nicht_zugelassen,False,207,10,9,23,33
+A_stoffwechsel,Survodutid,nicht_zugelassen,False,89,10,9,9,29
+A_stoffwechsel,Mazdutid,teilweise,False,56,9,9,10,44
+A_stoffwechsel,Cagrilintid / CagriSema,nicht_zugelassen,False,104,15,15,11,44
+A_stoffwechsel,Amycretin,nicht_zugelassen,False,24,4,4,2,1
+A_stoffwechsel,Maridebart Cafraglutid (MariTide),nicht_zugelassen,False,21,2,2,0,28
+A_stoffwechsel,Pramlintid,teilweise,False,445,76,64,5,64
+A_stoffwechsel,Setmelanotid,zugelassen,False,221,15,4,5,27
+A_stoffwechsel,AOD-9604,nicht_zugelassen,False,22,0,0,0,0
+A_stoffwechsel,Orforglipron,nicht_zugelassen,True,151,20,19,27,53
+B_regeneration,BPC-157,nicht_zugelassen,False,224,0,0,1,4
+B_regeneration,TB-500 / Thymosin Beta-4,nicht_zugelassen,False,1160,9,7,0,18
+B_regeneration,Thymosin Alpha-1 (Thymalfasin),teilweise,False,887,90,64,25,66
+B_regeneration,KPV,nicht_zugelassen,False,43,0,0,0,0
+B_regeneration,LL-37,nicht_zugelassen,False,4367,91,61,14,20
+B_regeneration,ARA-290 (Cibinetid),nicht_zugelassen,False,76,5,4,2,5
+B_regeneration,Larazotid,nicht_zugelassen,False,52,4,4,2,29
+B_regeneration,Thymalin / Thymogen,teilweise,False,293,17,2,0,0
+C_wachstumshormon,Sermorelin,teilweise,False,25,0,0,0,27
+C_wachstumshormon,Tesamorelin,teilweise,False,95,23,21,3,24
+C_wachstumshormon,CJC-1295,nicht_zugelassen,False,35,2,1,0,1
+C_wachstumshormon,Ipamorelin,nicht_zugelassen,False,51,2,2,0,3
+C_wachstumshormon,GHRP-2 (Pralmorelin),teilweise,False,213,55,42,0,0
+C_wachstumshormon,GHRP-6,nicht_zugelassen,False,639,40,19,0,0
+C_wachstumshormon,Hexarelin,nicht_zugelassen,False,291,58,26,0,0
+C_wachstumshormon,Macimorelin,zugelassen,False,34,4,4,0,6
+C_wachstumshormon,Mecasermin (IGF-1),zugelassen,False,253,21,17,3,37
+C_wachstumshormon,IGF-1 LR3,nicht_zugelassen,False,81,0,0,0,0
+C_wachstumshormon,Ibutamoren (MK-677),nicht_zugelassen,True,118,19,18,0,8
+D_gehirn_langlebigkeit,Semax,teilweise,False,210,4,1,0,0
+D_gehirn_langlebigkeit,Selank,teilweise,False,68,3,2,0,2
+D_gehirn_langlebigkeit,Cerebrolysin,teilweise,False,639,88,61,30,43
+D_gehirn_langlebigkeit,Dihexa,nicht_zugelassen,False,18,0,0,1,0
+D_gehirn_langlebigkeit,DSIP,nicht_zugelassen,False,462,18,6,0,1
+D_gehirn_langlebigkeit,Epitalon (Epithalon),nicht_zugelassen,False,121,1,0,0,1
+D_gehirn_langlebigkeit,Pinealon,nicht_zugelassen,False,15,1,0,0,0
+D_gehirn_langlebigkeit,MOTS-c,nicht_zugelassen,False,263,5,4,1,5
+D_gehirn_langlebigkeit,Humanin,nicht_zugelassen,False,550,8,5,1,3
+D_gehirn_langlebigkeit,SS-31 (Elamipretid),teilweise,False,441,19,17,2,21
+D_gehirn_langlebigkeit,FOXO4-DRI,nicht_zugelassen,False,19,0,0,0,0
+D_gehirn_langlebigkeit,Glutathion,lebensmittel,False,1857,161,117,20,273
+E_hormone_sexualitaet_haut,Bremelanotid (PT-141),teilweise,False,113,16,14,5,10
+E_hormone_sexualitaet_haut,Melanotan II,nicht_zugelassen,False,251,8,4,1,1
+E_hormone_sexualitaet_haut,Afamelanotid,zugelassen,False,104,10,3,2,23
+E_hormone_sexualitaet_haut,Kisspeptin,nicht_zugelassen,False,705,37,21,1,36
+E_hormone_sexualitaet_haut,Oxytocin (intranasal),teilweise,False,864,349,323,45,263
+E_hormone_sexualitaet_haut,Gonadorelin,zugelassen,False,299,9,15,12,1164
+F_kollagen_kosmetik,Kollagenhydrolysat / Kollagenpeptide,lebensmittel,False,426,101,93,11,237
+F_kollagen_kosmetik,Lactotripeptide (VPP/IPP),lebensmittel,False,54,21,19,6,0
+F_kollagen_kosmetik,Carnosin,lebensmittel,False,302,57,52,7,53
+F_kollagen_kosmetik,GHK-Cu (Kupferpeptid),kosmetik,False,105,1,1,0,25
+F_kollagen_kosmetik,Palmitoyl-Pentapeptid-4 (Matrixyl),kosmetik,False,21,1,1,0,0
+F_kollagen_kosmetik,Acetyl-Hexapeptid-8 (Argireline),kosmetik,False,51,3,3,1,7
