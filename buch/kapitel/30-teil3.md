@@ -220,14 +220,12 @@ Drei Muster:
 
 Nach Gruppen betrachtet:
 
-| Gruppe | A | B | C | D |
-|---|---|---|---|---|
-| A. Stoffwechsel und Gewicht (15) | 9 | 5 | 0 | 1 |
-| B. Heilung und Immunsystem (8) | 0 | 5 | 2 | 1 |
-| C. Wachstumshormon-Achse (11) | 3 | 4 | 3 | 1 |
-| D. Gehirn und Langlebigkeit (12) | 0 | 3 | 5 | 4 |
-| E. Hormone und Pigmentierung (6) | 2 | 3 | 1 | 0 |
-| F. Kollagen und Kosmetik (6) | 0 | 5 | 1 | 0 |
+- A. Stoffwechsel und Gewicht (15 Einträge): 9 × A, 5 × B, 1 × D
+- B. Heilung und Immunsystem (8): 5 × B, 2 × C, 1 × D
+- C. Wachstumshormon-Achse (11): 3 × A, 4 × B, 3 × C, 1 × D
+- D. Gehirn und Langlebigkeit (12): 3 × B, 5 × C, 4 × D
+- E. Hormone und Pigmentierung (6): 2 × A, 3 × B, 1 × C
+- F. Kollagen und Kosmetik (6): 5 × B, 1 × C
 
 Gruppe D hat die schwächste Datenlage: Vier ihrer zwölf Peptide wurden nie in einer veröffentlichten Studie am Menschen verabreicht, fünf weitere nur in kleinen, meist nicht randomisierten Studien.
 
