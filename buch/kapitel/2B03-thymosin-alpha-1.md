@@ -86,7 +86,7 @@ Thymosin Alpha-1 gilt in den Studien als gut verträglich. In den älteren Studi
 
 - **Untergruppen mit möglichem Schaden:** In TESTS war die Sterblichkeit bei unter 60-Jährigen unter Thymosin Alpha-1 höher als unter Placebo (Hazard Ratio 1,67) (Wu 2025, PMID 39814420); bei COVID-19 war die Behandlung in einer großen Beobachtungsstudie mit schlechterem Verlauf verbunden (Liu 2021, PMID 34408744). Beides kann Zufall oder Verzerrung sein, zeigt aber, dass „harmloser Immun-Booster“ keine gesicherte Beschreibung ist.
 - **Autoimmunerkrankungen und Transplantation:** Ein Stoff, der das Immunsystem anregen soll, könnte theoretisch Autoimmunerkrankungen verstärken oder die Abstoßung transplantierter Organe begünstigen. Systematische Daten dazu fehlen.
-- **Kombination mit Immuntherapie:** In einem Fallbericht trat unter einer Kombinationsbehandlung eine schwere Immunreaktion an mehreren Organen auf, ohne dass Thymosin Alpha-1 sicher als Ursache feststand (Kim 2026, PMID 42797537).
+- **Kombination mit Immuntherapie:** Eine Übersichtsarbeit verweist auf einen Fallbericht, in dem unter einer Kombinationsbehandlung eine schwere Immunreaktion an mehreren Organen auftrat, ohne dass Thymosin Alpha-1 sicher als Ursache feststand (Kim 2026, PMID 42797537).
 - **Graumarkt:** Außerhalb der Länder mit Zulassung wird Thymosin Alpha-1 als „Forschungspeptid“ verkauft. Für diese Produkte gelten die Studien zu Zadaxin nicht – Reinheit, Gehalt und Sterilität sind unbekannt.
 
 ### Rechtslage
