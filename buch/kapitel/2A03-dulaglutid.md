@@ -78,7 +78,7 @@ Der Hauptendpunkt – Tod durch Herz-Kreislauf-Ursache, nicht tödlicher Herzinf
 
 In der Nierenauswertung (Gerstein 2019, PMID 31189509) war der Effekt vor allem auf eine neu auftretende Makroalbuminurie zurückzuführen (HR 0,77). Für einen anhaltenden Rückgang der Nierenfunktion um mindestens 30 % lag der Schätzwert bei 0,89, für Dialyse oder Nierentransplantation bei 0,75 – beides statistisch nicht gesichert.
 
-Die Auswertung zur geistigen Leistungsfähigkeit (Cukierman-Yaffe 2020, PMID 32562683) wird gelegentlich als Beleg für einen Demenzschutz zitiert. Das geht zu weit: Der vorab festgelegte Vergleich war nicht signifikant. Erst nach einer nachträglichen statistischen Anpassung ergab sich ein Unterschied von 14 %. Die Autorinnen und Autoren sprechen selbst von einer explorativen Analyse, die weitere Studien rechtfertigt.
+Die Auswertung zur geistigen Leistungsfähigkeit (Cukierman-Yaffe 2020, PMID 32562683) wird gelegentlich als Beleg für einen Demenzschutz zitiert. Das geht zu weit: Der vorab festgelegte Vergleich war nicht signifikant. Erst nach einer nachträglichen statistischen Anpassung ergab sich ein um 14 % geringeres relatives Risiko für eine deutliche Verschlechterung der geistigen Leistungsfähigkeit (Hazard Ratio 0,86). Die Autorinnen und Autoren sprechen selbst von einer explorativen Analyse, die weitere Studien rechtfertigt.
 
 In einer Meta-Analyse aller großen GLP-1-Endpunktstudien fügte sich REWIND gut in das Gesamtbild ein, wonach die Klasse schwere Herz-Kreislauf-Ereignisse um etwa 12 % senkt (Kristensen 2019, PMID 31422062).
 

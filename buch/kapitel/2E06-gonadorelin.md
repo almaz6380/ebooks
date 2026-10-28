@@ -37,7 +37,7 @@ Dieses Kapitel stützt sich deshalb auf eine ergänzende, gezielte Suche nach St
 
 Beim GnRH-Test (auch LHRH-Test) wird Gonadorelin in die Vene gespritzt; anschließend misst man über ein bis zwei Stunden, wie stark LH und FSH ansteigen. Der Test hilft vor allem bei Kindern mit zu früher Pubertät: Ein deutlicher LH-Anstieg spricht dafür, dass die Hormonachse im Gehirn bereits aktiv ist (zentrale Pubertas praecox).
 
-In einer Auswertung von 584 Tests reichte eine einzige Blutprobe 40 Minuten nach der Injektion für die Diagnose: Bei einer LH-Schwelle von 5 IU/L lag die Empfindlichkeit bei 98 % und die Genauigkeit bei 100 % (Kandemir 2011, PMID 21448328). Eine Übersicht weist auf Grenzen hin, etwa bei sehr frühen Pubertätsstadien und bei übergewichtigen Kindern, und auf uneinheitliche Grenzwerte zwischen Studien (Ab Rahim 2020, PMID 32871650).
+In einer Auswertung von 584 Tests (davon 314 zur Diagnose) reichte eine einzige Blutprobe 40 Minuten nach der Injektion für die Diagnose: Bei einer LH-Schwelle von 5 IU/L lagen die Sensitivität bei 98 % und die Spezifität bei 100 % (Kandemir 2011, PMID 21448328). Eine Übersicht weist auf Grenzen hin, etwa bei sehr frühen Pubertätsstadien und bei übergewichtigen Kindern, und auf uneinheitliche Grenzwerte zwischen Studien (Ab Rahim 2020, PMID 32871650).
 
 Weil natives GnRH teuer und vielerorts nicht verfügbar ist, wird zunehmend ein kurz wirksames Analogon als Ersatz verwendet. In einer Studie mit 341 Mädchen war ein Test mit Triptorelin ähnlich genau wie der Gonadorelin-Test (Chioma 2025, PMID 41384863).
 
