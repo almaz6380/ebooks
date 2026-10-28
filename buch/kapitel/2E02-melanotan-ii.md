@@ -25,7 +25,7 @@ Im Internet werden diese Namen oft vermischt. „Melanotan“ ohne Zusatz kann j
 
 ### Studien am Menschen
 
-**Größenordnung der Studienlage (Abfrage Oktober 2026):** Die automatisierte Suche dieses Buches fand **8** Humanstudien in PubMed (`humanstudien_alle`) und **1** Eintrag bei ClinicalTrials.gov. Diese Zahl täuscht: Vier der acht Studien untersuchten Melanotan I, also das spätere Afamelanotid, nicht Melanotan II. Zu Melanotan II selbst gibt es nur drei kleine Originalstudien und eine Zusammenfassung derselben Forschungsgruppe. Weit umfangreicher ist die Literatur zu Nebenwirkungen: Fallberichte, Fallserien, Analysen von Internetforen und Laboruntersuchungen von Graumarkt-Produkten.
+**Größenordnung der Studienlage (Abfrage Oktober 2026):** Die automatisierte Suche dieses Buches fand **8** Humanstudien in PubMed (`humanstudien_alle`) und einen einzigen Eintrag bei ClinicalTrials.gov, der sich bei Prüfung als nicht vertrauenswürdig erwies (siehe Ausblick) – es gibt also **0** belastbare Registerstudien. Auch die PubMed-Zahl täuscht: Vier der acht Studien untersuchten Melanotan I, also das spätere Afamelanotid, nicht Melanotan II. Zu Melanotan II selbst gibt es nur drei kleine Originalstudien und eine Zusammenfassung derselben Forschungsgruppe. Weit umfangreicher ist die Literatur zu Nebenwirkungen: Fallberichte, Fallserien, Analysen von Internetforen und Laboruntersuchungen von Graumarkt-Produkten.
 
 #### Die klinischen Studien der 1990er-Jahre
 
@@ -108,7 +108,7 @@ Ein Labor kaufte Melanotan-II-Fläschchen bei drei Online-Shops. Alle versprache
 
 ### Laufende Studien und Ausblick
 
-**Gesichert (registrierte Studien):** Bei ClinicalTrials.gov ist eine einzige Studie eingetragen: Eine Phase-2-Studie mit 60 Personen prüft seit 2026, ob Melanotan II zusätzlich zur Schmalband-UVB-Lichttherapie die Wiederpigmentierung bei stabiler Weißfleckenkrankheit (Vitiligo) verbessert (NCT07437560). Sponsor ist ein kleines Biotechnologie-Unternehmen; das Studienende ist für 2028 geplant.
+**Gesichert (registrierte Studien):** keine. Bei ClinicalTrials.gov fand sich zwar ein Eintrag zu Melanotan II bei Vitiligo; der Sponsor dieses Eintrags hat jedoch auch Einträge registriert, die sich selbst als fiktiv bezeichnen. Der Eintrag wird deshalb hier nicht als echte Studie gewertet. Das zeigt nebenbei: Auch ein Registereintrag ist kein Beleg dafür, dass eine Studie tatsächlich stattfindet.
 
 **Einschätzung des Autors:** Für eine Zulassung als Bräunungsmittel bei Gesunden gibt es keinen realistischen Weg: Der Nutzen ist kosmetisch, die Nebenwirkungen über das Gehirn sind ausgeprägt, und die Frage nach Muttermalen und Melanom müsste in großen, langen Studien geklärt werden. Medizinisch sinnvolle Anwendungen von Melanocortin-Agonisten werden mit selektiveren Molekülen verfolgt – Afamelanotid für die Haut, Bremelanotid und Setmelanotid für das Gehirn. Die Popularität in sozialen Medien dürfte die Zahl der Fallberichte weiter steigen lassen.
 
