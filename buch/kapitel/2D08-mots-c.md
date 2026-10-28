@@ -22,7 +22,7 @@ Daraus entstand das Bild von MOTS-c als „Sport in der Spritze“. Wichtig ist 
 
 ### Studien am Menschen
 
-**Größenordnung der Studienlage:** Die automatisierte PubMed-Abfrage (Oktober 2026) ergab 5 als Humanstudien klassifizierte Veröffentlichungen; keine davon verabreichte MOTS-c. Insgesamt führt PubMed rund 260 Arbeiten mit „MOTS-c“, überwiegend Tier- und Zellversuche sowie Beobachtungsstudien zu den körpereigenen Blutspiegeln. Auf ClinicalTrials.gov ergab die Suche 5 Einträge; nur einer davon untersucht MOTS-c als Wirkstoff (NCT07505745), die übrigen messen Spiegel oder betreffen andere Fragestellungen. Hinzu kommt eine abgeschlossene Studie mit dem MOTS-c-Abkömmling CB4211 (NCT03998514).
+**Größenordnung der Studienlage:** Die automatisierte PubMed-Abfrage (Oktober 2026) ergab 5 als Humanstudien klassifizierte Veröffentlichungen; keine davon verabreichte MOTS-c. Insgesamt führt PubMed rund 260 Arbeiten mit „MOTS-c“, überwiegend Tier- und Zellversuche sowie Beobachtungsstudien zu den körpereigenen Blutspiegeln. Auf ClinicalTrials.gov ergab die Suche 5 Einträge. Vier davon messen nur Spiegel oder betreffen andere Fragestellungen. Der fünfte, eine angebliche Phase-2-Studie mit MOTS-c bei Prädiabetes, stammt von einem Sponsor, unter dessen Namen offenbar fiktive Beispiel-Einträge im Register stehen. Wir werten ihn deshalb nicht als echte Studie und zählen ihn nicht mit; eine registrierte Studie mit MOTS-c selbst als Wirkstoff ist damit nicht belegt. Hinzu kommt eine abgeschlossene Studie mit dem MOTS-c-Abkömmling CB4211 (NCT03998514).
 
 Für das Verständnis dieses Kapitels ist eine Unterscheidung zentral:
 
@@ -48,11 +48,11 @@ Eine weitere Schwierigkeit ist die Messung selbst. Die Studien verwenden untersc
 
 **Genetische Hinweise:** Eine in Nordostasien verbreitete Variante im Mitochondrien-Erbgut verändert einen Baustein von MOTS-c (K14Q). In drei Kohorten mit zusammen 27.527 Personen hatten Männer mit dieser Variante häufiger Typ-2-Diabetes, vor allem wenn sie körperlich wenig aktiv waren. Bei Mäusen wirkte die veränderte MOTS-c-Form schwächer (Zempo 2021, PMID 33468709). Das ist ein interessanter Hinweis, dass MOTS-c beim Menschen eine Rolle im Stoffwechsel spielen könnte – aber kein Beleg für den Nutzen einer Zufuhr.
 
-#### 2. Gabe als Wirkstoff: CB4211 und die erste Phase-2-Studie
+#### 2. Gabe als Wirkstoff: CB4211
 
 **CB4211** ist ein vom Unternehmen CohBar entwickelter Abkömmling von MOTS-c. Die Phase-1a/1b-Studie (NCT03998514) war randomisiert, doppelblind und placebokontrolliert und umfasste 88 Teilnehmende: Gesunde erhielten einzelne bzw. sieben Tage lang tägliche Injektionen unter die Haut, Menschen mit Adipositas und Fettleber 28 Tage lang. Hauptendpunkte waren Sicherheit und Verträglichkeit; Nebenziele waren unter anderem Leberfett und Körpergewicht. Die Studie wurde im April 2021 abgeschlossen. Im Register sind keine Ergebnisse hinterlegt, und eine Veröffentlichung in einer Fachzeitschrift ließ sich bei unserer Recherche nicht finden. Das Unternehmen meldete 2021 per Pressemitteilung günstige Veränderungen einzelner Leber- und Blutzuckerwerte bei guter Verträglichkeit; solche Mitteilungen sind nicht unabhängig begutachtet. Eine Weiterentwicklung in größeren Studien ist nicht bekannt.
 
-**MOTS-c selbst** wird seit Februar 2026 erstmals in einer registrierten Phase-2-Studie geprüft: 120 Erwachsene mit Prädiabetes und Übergewicht sollen randomisiert zwölf Wochen lang MOTS-c oder Placebo erhalten; Ziel ist eine verbesserte Insulinempfindlichkeit (NCT07505745, Sponsor Hudson Biotech, China). Ergebnisse werden frühestens 2027 erwartet.
+**MOTS-c selbst** wurde nach unserer Recherche bisher in keiner veröffentlichten oder verlässlich registrierten Studie am Menschen als Wirkstoff gegeben. Ein Registereintrag, der eine solche Phase-2-Studie beschreibt, erwies sich als zweifelhaft (siehe oben).
 
 Bis dahin gilt: Es gibt **keine veröffentlichten Daten** dazu, ob MOTS-c-Injektionen beim Menschen den Stoffwechsel, die Leistung oder das Altern beeinflussen.
 
@@ -90,11 +90,11 @@ Die Fülle positiver Tierstudien ist auffällig. Sie zeigt, dass MOTS-c biologis
 
 **Gesichert (registrierte Studien, Stand Oktober 2026):**
 
-- **MOTS-MET** (NCT07505745): Phase-2-Studie mit 120 Erwachsenen mit Prädiabetes und Übergewicht, MOTS-c gegen Placebo über zwölf Wochen; in Rekrutierung, Abschluss laut Register 2028.
+- Eine verlässlich registrierte Studie, in der MOTS-c als Wirkstoff gegeben wird, gibt es nicht.
 - Mehrere Beobachtungsstudien messen MOTS-c-Spiegel, etwa bei Nierentransplantation (NCT07678073) oder bei Diabetes unter verschiedenen Medikamenten (NCT03878706).
 
-**Einschätzung:** MOTS-MET ist die erste Gelegenheit, die zentrale Frage zu prüfen: Verbessert zugeführtes MOTS-c beim Menschen die Insulinempfindlichkeit? Fällt das Ergebnis positiv aus, wären größere und längere Studien nötig. Bis dahin beruht jede Aussage über eine Wirkung beim Menschen auf Tierversuchen und Spiegelmessungen.
+**Einschätzung:** Die zentrale Frage – verbessert zugeführtes MOTS-c beim Menschen die Insulinempfindlichkeit? – ist bisher von niemandem in einer veröffentlichten Studie geprüft worden. Dafür wäre zunächst eine kontrollierte Phase-1/2-Studie mit veröffentlichten Ergebnissen nötig. Bis dahin beruht jede Aussage über eine Wirkung beim Menschen auf Tierversuchen und Spiegelmessungen.
 
 ### Fazit
 
-MOTS-c ist ein körpereigenes, im Mitochondrien-Erbgut verschlüsseltes Peptid, das bei Mäusen Stoffwechsel und Leistungsfähigkeit verbesserte und beim Menschen nach Bewegung ansteigt. Beobachtungsstudien zeigen niedrigere Spiegel bei Übergewicht, Fettleber und Gefäßerkrankungen, belegen aber keine Ursache und keinen Nutzen einer Zufuhr. Die einzige abgeschlossene Studie mit einem MOTS-c-Abkömmling (CB4211) ist nicht in einer Fachzeitschrift veröffentlicht; die erste Phase-2-Studie mit MOTS-c läuft seit 2026. Die Daten reichen nicht aus, um Nutzen oder Sicherheit beim Menschen zu beurteilen; im Sport ist MOTS-c verboten.
+MOTS-c ist ein körpereigenes, im Mitochondrien-Erbgut verschlüsseltes Peptid, das bei Mäusen Stoffwechsel und Leistungsfähigkeit verbesserte und beim Menschen nach Bewegung ansteigt. Beobachtungsstudien zeigen niedrigere Spiegel bei Übergewicht, Fettleber und Gefäßerkrankungen, belegen aber keine Ursache und keinen Nutzen einer Zufuhr. Die einzige abgeschlossene Studie mit einem MOTS-c-Abkömmling (CB4211) ist nicht in einer Fachzeitschrift veröffentlicht, und mit MOTS-c selbst gibt es keine veröffentlichte Studie am Menschen. Die Daten reichen nicht aus, um Nutzen oder Sicherheit beim Menschen zu beurteilen; im Sport ist MOTS-c verboten.
