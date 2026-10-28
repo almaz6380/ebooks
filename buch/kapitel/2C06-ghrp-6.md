@@ -23,7 +23,7 @@ Wie GHRP-2 wirkt GHRP-6 am stärksten, wenn das körpereigene GHRH aus dem Zwisc
 
 #### Diagnostik des Wachstumshormon-Mangels
 
-Die bekannteste Studie erschien 2000 in der Fachzeitschrift Lancet: 125 Erwachsene mit Erkrankungen der Hirnanhangdrüse und 125 Gesunde erhielten GHRH plus GHRP-6 als Kombinationstest. Der mittlere GH-Gipfel lag bei den Gesunden bei 59,2 µg/l, bei den Betroffenen bei 4,1 µg/l; ein Grenzwert von 15 µg/l trennte beide Gruppen zuverlässig. Nebenwirkungen traten nicht auf, und Alter, Geschlecht und Körperfett beeinflussten das Ergebnis nicht (Popovic 2000, PMID 11030292). In einer kleineren deutschen Studie mit 20 Personen erkannte der Test alle Fälle eines Wachstumshormon-Mangels richtig; als einzige Nebenwirkung wurde ein Hitzegefühl (Flush) beobachtet (Petersenn 2002, PMID 11980622). Bei 21 Erwachsenen, bei denen zuvor mit herkömmlichen Tests ein Mangel festgestellt worden war, reagierten etwa 40 % auf die Kombination doch noch deutlich (Leal-Cerro 1995, PMID 7788011) – ein Hinweis darauf, dass verschiedene Tests unterschiedliche Fragen beantworten.
+Die bekannteste Studie erschien 2000 in der Fachzeitschrift Lancet: 125 Erwachsene mit Erkrankungen der Hirnanhangdrüse und 125 Gesunde erhielten GHRH plus GHRP-6 als Kombinationstest. Der mittlere GH-Gipfel lag bei den Gesunden bei 59,2 µg/l, bei den Betroffenen bei 4,1 µg/l; ein Grenzwert von 15 µg/l trennte beide Gruppen zuverlässig. Nebenwirkungen traten nicht auf, und Alter, Geschlecht und Körperfett beeinflussten das Ergebnis nicht (Popovic 2000, PMID 11030292). In einer kleineren Studie mit 20 Personen erkannte der Test alle Fälle eines Wachstumshormon-Mangels richtig; als einzige Nebenwirkung wurde ein Hitzegefühl (Flush) beobachtet (Petersenn 2002, PMID 11980622). Bei 21 Erwachsenen, bei denen zuvor mit herkömmlichen Tests ein Mangel festgestellt worden war, reagierten etwa 40 % auf die Kombination doch noch deutlich (Leal-Cerro 1995, PMID 7788011) – ein Hinweis darauf, dass verschiedene Tests unterschiedliche Fragen beantworten.
 
 Als Test für eine Unterfunktion der Nebennieren-Achse war GHRP-6 dagegen nur begrenzt brauchbar: Bei 49 Patientinnen und Patienten erreichte er im Vergleich mit dem Insulintest eine Sensitivität von 71,0 % und eine Spezifität von 77,8 % (Alaioubi 2010, PMID 19946832).
 
@@ -40,7 +40,7 @@ Als Test für eine Unterfunktion der Nebennieren-Achse war GHRP-6 dagegen nur be
 | Diagnostik (Petersenn 2002), PMID 11980622 | 20 Personen, Vergleich mit Insulintest | Einzeltests | alle Fälle mit GH-Mangel erkannt |
 | Nebennieren-Test (Alaioubi 2010), PMID 19946832 | 49 Betroffene, 20 Gesunde | Einzeltest | Sensitivität 71,0 %, Spezifität 77,8 % |
 | Pharmakokinetik (Cabrales 2013), PMID 23099431 | 9 gesunde Männer, Phase 1 | Einzeldosen | Halbwertszeit 2,5 h |
-| Schlaf (Frieboes 1995), PMID 7617137 | gesunde Männer, randomisiert gegen Placebo | 1 Nacht | GH, ACTH, Cortisol ↑; Tiefschlaf unverändert |
+| Schlaf (Frieboes 1995), PMID 7617137 | gesunde Männer, Vergleich mit Placebo | 1 Nacht | GH, ACTH, Cortisol ↑; Tiefschlaf unverändert |
 
 ### Tier- und Laborstudien
 

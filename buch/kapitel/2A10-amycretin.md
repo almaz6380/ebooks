@@ -61,7 +61,7 @@ Die vorklinischen Daten stammen vom Hersteller (Kuhre 2025, PMID 40706446): Reze
 
 - **Magen-Darm-Beschwerden** sind die häufigsten Nebenwirkungen, in den frühen Studien bei der Mehrheit der Behandelten; sie waren meist leicht bis mittelschwer und dosisabhängig (Gasiorek 2025, PMID 40550229; Dahl 2025, PMID 40550231).
 - **Schwere unerwünschte Ereignisse** waren in den Phase-2-Studien selten; in der Tablettenstudie traten sie nur unter Zenagamtid auf (4 % vs. 0 %), in der Spritzenstudie gleichmäßig verteilt (Mora 2026, PMID 42532079; PMID 42532080).
-- **Nierenfunktion:** Bei eingeschränkter Nierenfunktion bis hin zur Dialysepflicht veränderten sich die Blutspiegel nach einer Einzeldosis nicht klinisch relevant (Oldenburg 2026, PMID 42443140).
+- **Nierenfunktion:** Bei eingeschränkter Nierenfunktion bis hin zum terminalen Nierenversagen veränderten sich die Blutspiegel nach einer Einzeldosis nicht klinisch relevant (Oldenburg 2026, PMID 42443140).
 
 **Noch offen:** Langzeitsicherheit, Wirkung auf Knochen (Calcitonin-Rezeptor), Muskelmasse und Herz-Kreislauf-System. Für die Klassenrisiken der GLP-1-Medikamente (Gallenblase, Bauchspeicheldrüse) gibt es noch zu wenige Behandlungsjahre.
 

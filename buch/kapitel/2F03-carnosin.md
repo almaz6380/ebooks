@@ -75,7 +75,7 @@ Eine Meta-Analyse von neun Studien mit 350 Teilnehmenden fand unter Carnosin bzw
 
 #### Verwandte Stoffe: Zink-Carnosin und N-Acetylcarnosin
 
-**Zink-Carnosin (Polaprezinc)** ist eine Verbindung aus Zink und Carnosin, die in Japan als Arzneimittel gegen Magengeschwüre eingesetzt wird. In einer chinesischen Studie mit 224 Patientinnen und Patienten war es nach acht Wochen ähnlich wirksam wie das Vergleichsmedikament Rebamipid (81,5 % gegenüber 74,3 % Heilungsrate, Unterschied nicht signifikant) (Shen 2022, PMID 35999163). Diese Wirkung ist wahrscheinlich stark an das Zink gebunden und lässt sich nicht auf reines Carnosin übertragen.
+**Zink-Carnosin (Polaprezinc)** ist eine Verbindung aus Zink und Carnosin, die in Japan als Arzneimittel gegen Magengeschwüre eingesetzt wird. In einer multizentrischen Studie mit 224 Patientinnen und Patienten war es nach acht Wochen ähnlich wirksam wie das Vergleichsmedikament Rebamipid (81,5 % gegenüber 74,3 % Heilungsrate, Unterschied nicht signifikant) (Shen 2022, PMID 35999163). Diese Wirkung ist wahrscheinlich stark an das Zink gebunden und lässt sich nicht auf reines Carnosin übertragen.
 
 **N-Acetylcarnosin-Augentropfen** werden im Internet gegen grauen Star (Katarakt) beworben. Ein Cochrane-Review fand nur zwei mögliche Studien mit 114 Teilnehmenden, deren Methodik nicht nachvollziehbar war, und kam zu dem Schluss, dass es keine überzeugenden Belege gibt, dass die Tropfen einen grauen Star rückgängig machen oder sein Fortschreiten verhindern (Dubois 2017, PMID 28245346). Die einzige wirksame Behandlung bleibt die Operation.
 
@@ -89,7 +89,7 @@ Ein grundsätzliches Übertragungsproblem bleibt: Nagetiere besitzen im Blut pra
 
 **Belegt:** In den bisherigen Studien – mit Tagesmengen bis 2 g über bis zu 14 Wochen – wurden keine relevanten Nebenwirkungen berichtet. In der NEAT-Studie mit knapp 300 Teilnehmenden fanden sich keine Veränderungen von Nieren-, Leber- und Herzfunktion oder Blutsalzen (Baba 2024, PMID 39215872).
 
-**Beta-Alanin:** Die einzige regelmäßig berichtete Nebenwirkung ist ein harmloses, aber unangenehmes Kribbeln der Haut (Parästhesie), meist im Gesicht und an den Händen, kurz nach der Einnahme. Eine Risikobewertung mit 101 Humanstudien schätzte die Wahrscheinlichkeit dafür unter Beta-Alanin etwa neunmal so hoch wie unter Placebo; die Abbruchraten unterschieden sich nicht, und ein geringer Anstieg eines Leberwerts blieb im Normbereich (Dolan 2019, PMID 30980076).
+**Beta-Alanin:** Die einzige regelmäßig berichtete Nebenwirkung ist ein harmloses, aber unangenehmes Kribbeln der Haut (Parästhesie), meist im Gesicht und an den Händen, kurz nach der Einnahme. Eine Risikobewertung mit 101 Humanstudien schätzte die Chance (Odds) dafür unter Beta-Alanin etwa neunmal so hoch wie unter Placebo (Odds Ratio 8,9); die Abbruchraten unterschieden sich nicht, und ein geringer Anstieg eines Leberwerts blieb im Normbereich (Dolan 2019, PMID 30980076).
 
 **Theoretisch bzw. unklar:**
 

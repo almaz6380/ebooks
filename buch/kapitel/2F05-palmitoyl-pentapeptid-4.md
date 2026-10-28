@@ -29,7 +29,7 @@ Die für dieses Buch ausgewertete PubMed-Abfrage (Palmitoyl-Pentapeptid oder Mat
 |---|---|---|---|
 | Robinson 2005, PMID 18492182 | 93 hellhäutige Frauen (35–55 J.), Feuchtigkeitscreme mit Pal-KTTKS auf einer Gesichtshälfte vs. gleiche Creme ohne Wirkstoff auf der anderen, doppelblind | 12 Wochen | Signifikante Verringerung von Falten und feinen Linien gegenüber der Kontrollseite, gemessen mit Bildanalyse und durch Fachleute; gut verträglich |
 | Aruan 2023, PMID 36909866 | 21 indonesische Frauen (26–55 J.), Creme mit Palmitoyl-Pentapeptid-4 vs. Acetyl-Hexapeptid-3 vs. Placebo, doppelblind | 8 Wochen | Verbesserungen „bei einigen Teilnehmerinnen“; Palmitoyl-Pentapeptid-4 schnitt besser ab als die Vergleichsgruppen; keine belastbaren Effektgrößen im Abstract |
-| Röper 2004, PMID 15127162 | 20 Frauen mit Brustkrebs unter Strahlentherapie, Creme mit Matrixyl und weiteren Wirkstoffen vs. Dexpanthenol-Lotion | Therapiedauer | Kein Vorteil bei Hautreaktionen; Juckreiz und ein Verdacht auf allergische Reaktion nur in der Matrixyl-Gruppe |
+| Röper 2004, PMID 15127162 | 20 Frauen mit Brustkrebs unter Strahlentherapie, Creme mit Matrixyl und weiteren Wirkstoffen vs. Dexpanthenol-Lotion | Therapiedauer | Kein Vorteil bei Hautreaktionen; Juckreiz häufiger, ein Verdacht auf allergische Reaktion nur in der Matrixyl-Gruppe |
 
 **Robinson 2005** ist die zentrale Studie. Das Halbseitendesign ist klug, weil jede Teilnehmerin ihre eigene Kontrolle ist. Die Konzentration im Produkt betrug 3 ppm (Millionstel). Einschränkungen: Das Abstract nennt keine Effektgrößen; die Studie wurde in einer Kosmetik-Fachzeitschrift veröffentlicht und seither nicht von unabhängiger Seite wiederholt. Untersucht wurden ausschließlich hellhäutige Frauen mit lichtgealterter Haut; ob die Ergebnisse auf andere Hauttypen übertragbar sind, ist offen.
 
@@ -49,7 +49,7 @@ Die für dieses Buch ausgewertete PubMed-Abfrage (Palmitoyl-Pentapeptid oder Mat
 
 ### Risiken und Nebenwirkungen
 
-**Belegt:** In der Studie von Robinson war das Peptid gut verträglich. In der Strahlentherapie-Studie traten Juckreiz und ein Verdacht auf eine allergische Reaktion nur unter dem Matrixyl-haltigen Kombinationsprodukt auf (Röper 2004, PMID 15127162); welcher Bestandteil verantwortlich war, ist unklar.
+**Belegt:** In der Studie von Robinson war das Peptid gut verträglich. In der Strahlentherapie-Studie trat Juckreiz unter dem Matrixyl-haltigen Kombinationsprodukt häufiger auf, ein Verdacht auf eine allergische Reaktion nur unter diesem Produkt (Röper 2004, PMID 15127162); welcher Bestandteil verantwortlich war, ist unklar.
 
 **Allgemein:** Wie bei jedem Kosmetikbestandteil sind Reizungen und Kontaktallergien möglich, sie scheinen aber selten zu sein. Eine Arbeit aus der Kosmetikindustrie, die Peptide mit bioinformatischen Werkzeugen auf Gift- und Allergiepotenzial prüfte, fand für Palmitoyl-Pentapeptid-4 Ähnlichkeiten mit Bindegewebseiweißen der Haut, aber keine Hinweise auf Toxin- oder Allergenstrukturen (Bjerke 2026, PMID 41953401). Solche Computeranalysen ersetzen keine klinische Beobachtung.
 

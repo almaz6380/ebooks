@@ -29,7 +29,7 @@ Wichtig für das Verständnis: Die Zulassung zielt nicht auf „mehr Lust“ bei
 
 Bremelanotid wurde zuerst als Mittel gegen Erektionsstörungen entwickelt. In Phase-1-Studien mit Nasenspray (Diamond 2004, PMID 14963471) und Spritze (Rosen 2004, PMID 14999221) löste es bei gesunden Männern und bei Männern mit Erektionsstörung messbare Erektionen aus, auch bei solchen, die auf Viagra nur unzureichend ansprachen. In einer kleinen Studie mit 19 Patienten verstärkte eine niedrige Dosis Bremelanotid die Wirkung einer niedrigen Dosis Sildenafil (Diamond 2005, PMID 15833522).
 
-Eine iranische Studie mit 342 Männern, bei denen Sildenafil nicht gewirkt hatte, berichtete ein positives Ergebnis bei 33,5 % unter Bremelanotid-Nasenspray gegenüber 8,5 % unter Placebo (Safarinejad 2008, PMID 18206919). Diese Arbeit sollte mit Vorsicht gelesen werden: Eine zweite Bremelanotid-Studie desselben Erstautors an Frauen wurde von der Fachzeitschrift zurückgezogen, weil Methoden und Ergebnisse nicht überprüfbar waren (Safarinejad 2008, PMID 18179455); weitere Arbeiten des Autors wurden ebenfalls zurückgezogen.
+Eine Studie mit 342 Männern, bei denen Sildenafil nicht gewirkt hatte, berichtete ein positives Ergebnis bei 33,5 % unter Bremelanotid-Nasenspray gegenüber 8,5 % unter Placebo (Safarinejad 2008, PMID 18206919). Diese Arbeit sollte mit Vorsicht gelesen werden: Eine zweite Bremelanotid-Studie desselben Erstautors an Frauen wurde von der Fachzeitschrift zurückgezogen, weil Methoden und Ergebnisse nicht überprüfbar waren (Safarinejad 2008, PMID 18179455); weitere Arbeiten des Autors wurden ebenfalls zurückgezogen.
 
 Die Entwicklung des Nasensprays wurde eingestellt, nachdem in Studien Blutdruckanstiege aufgefallen waren. Das Unternehmen wechselte zur Spritze und zur Zielgruppe Frauen.
 
@@ -71,7 +71,7 @@ Eine Meta-Analyse zu Medikamenten gegen sexuelle Funktionsstörungen der Frau (d
 
 - **Alkohol:** In einer Phase-1-Studie mit 24 Gesunden traten bei gleichzeitigem Alkoholkonsum keine bedeutsamen Wechselwirkungen auf (Clayton 2017, PMID 28189361).
 - **Gewicht:** Weil MC4R auch den Appetit steuert, wurde Bremelanotid bei Frauen mit Adipositas getestet. In zwei kleinen Phase-1-Studien sank die Kalorienaufnahme um etwa 400 kcal pro Tag; nach 16 Tagen lag das Gewicht 1,3 kg unter dem der Placebogruppe (Spana 2022, PMID 35170192). Das sind Kurzzeitdaten ohne Aussage über eine Dauerbehandlung.
-- **Gehirn:** Die bereits erwähnte fMRT-Studie aus London (Thurston 2022, PMID 36189794; NCT04179734) ist eine der wenigen Arbeiten, die nicht vom Hersteller geleitet wurden.
+- **Gehirn:** Die bereits erwähnte fMRT-Studie (Thurston 2022, PMID 36189794; NCT04179734) ist eine der wenigen Arbeiten, die nicht vom Hersteller geleitet wurden.
 
 ### Tier- und Laborstudien
 

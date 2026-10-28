@@ -44,17 +44,17 @@ Die bisher am weitesten entwickelte Anwendung ist die Auslösung der Eizellreifu
 | Abbara 2017, PMID 28854728 | 62 Frauen mit hohem OHSS-Risiko, RCT: zweite Dosis vs. Kochsalz | ein Zyklus | ausreichende Eizellausbeute bei 71 % vs. 45 % |
 | Abbara 2024, PMID 37925096 | 24 bzw. 75 gesunde Frauen, zwei RCTs mit dem Analogon MVT-602 | Einzelgabe | LH-Anstieg ähnlich der natürlichen Zyklusmitte; Eisprung innerhalb von 5 Tagen bei bis zu 100 % |
 
-In der ersten Studie (Jayasena 2014, PMID 25036713; NCT01667406) erhielten 53 Frauen eine einzelne Kisspeptin-Spritze. Bei allen getesteten Dosen reiften Eizellen; bei 49 Frauen wurden Embryonen übertragen, zwölf wurden klinisch schwanger. Es war die erste dokumentierte Geburt nach einer Kisspeptin-gesteuerten Eizellreifung.
+In der ersten Studie (Jayasena 2014, PMID 25036713; NCT01667406) erhielten 53 Frauen eine einzelne Kisspeptin-Spritze. Bei allen getesteten Dosen reiften Eizellen; bei 49 Frauen wurden Embryonen übertragen, zwölf wurden klinisch schwanger. Damit war erstmals gezeigt, dass nach einer Kisspeptin-gesteuerten Eizellreifung eine Schwangerschaft möglich ist.
 
 Die Folgestudie konzentrierte sich auf Frauen mit hohem Risiko für eine Überstimulation (Abbara 2015, PMID 26192876). Keine der 60 Frauen entwickelte ein mittelschweres oder schweres OHSS; die Lebendgeburtenrate pro Embryotransfer betrug 45 %. Eine zweite Kisspeptin-Dosis zehn Stunden nach der ersten verbesserte die Ausbeute reifer Eizellen (Abbara 2017, PMID 28854728).
 
 **Einordnung:** Diese Studien zeigen, dass das Prinzip funktioniert. Sie waren aber nicht darauf angelegt, Kisspeptin direkt mit den etablierten Alternativen zu vergleichen – neben hCG gibt es für Hochrisikopatientinnen bereits die Auslösung mit einem GnRH-Agonisten. Die Autorinnen und Autoren selbst fordern solche Vergleichsstudien (Abbara 2017, PMID 28854728).
 
-Das synthetische Analogon MVT-602 wirkt deutlich länger als natürliches Kisspeptin: Der LH-Gipfel kam bei gesunden Frauen nach rund 21 statt 5 Stunden, die Gesamtmenge an ausgeschüttetem LH war etwa viermal so groß (Abbara 2020, PMID 33196464). In zwei randomisierten Studien mit insgesamt 99 Frauen war MVT-602 gut verträglich und löste innerhalb von fünf Tagen einen Eisprung aus, je nach Dosis bei 75 bis 100 % der Frauen – allerdings auch bei 60 % unter Placebo, weil die Teilnehmerinnen gesund waren (Abbara 2024, PMID 37925096).
+Das synthetische Analogon MVT-602 wirkt deutlich länger als natürliches Kisspeptin: Der LH-Gipfel kam bei gesunden Frauen nach rund 21 statt 5 Stunden, die Gesamtmenge an ausgeschüttetem LH war etwa viermal so groß (Abbara 2020, PMID 33196464). In zwei randomisierten Studien mit insgesamt 99 Frauen war MVT-602 gut verträglich und löste in der zweiten Studie innerhalb von fünf Tagen einen Eisprung aus, je nach Dosis bei 75 bis 100 % der Frauen – allerdings auch bei 60 % unter Placebo, weil die Teilnehmerinnen gesund waren (Abbara 2024, PMID 37925096).
 
 #### Ausbleibende Regelblutung und PCOS
 
-Bei der hypothalamischen Amenorrhö bleibt die Regel aus, weil das Gehirn – oft durch Untergewicht, intensiven Sport oder Stress – zu wenig GnRH ausschüttet. Eine einzelne Kisspeptin-Spritze erhöhte bei betroffenen Frauen LH und FSH kräftig. Bei zweimal täglicher Gabe über zwei Wochen war die Wirkung jedoch fast verschwunden (Jayasena 2009, PMID 19820030). Zweimal wöchentliche Gaben führten nur zu teilweiser Gewöhnung (Jayasena 2010, PMID 20980998), und eine Dauerinfusion in niedriger Dosis verdreifachte vorübergehend die Zahl der LH-Pulse (Jayasena 2014, PMID 24517142). Bei Menschen mit genetischem Defekt im Neurokinin-B-System stellte eine Kisspeptin-Infusion die pulsatile Hormonausschüttung wieder her (Young 2013, PMID 22377698).
+Bei der hypothalamischen Amenorrhö bleibt die Regel aus, weil das Gehirn – oft durch Untergewicht, intensiven Sport oder Stress – zu wenig GnRH ausschüttet. Eine einzelne Kisspeptin-Spritze erhöhte bei betroffenen Frauen LH und FSH kräftig. Bei zweimal täglicher Gabe über zwei Wochen war die Wirkung jedoch fast verschwunden (Jayasena 2009, PMID 19820030). Zweimal wöchentliche Gaben führten nur zu teilweiser Gewöhnung (Jayasena 2010, PMID 20980998), und eine Dauerinfusion verdreifachte vorübergehend die Zahl der LH-Pulse (Jayasena 2014, PMID 24517142). Bei Menschen mit genetischem Defekt im Neurokinin-B-System stellte eine Kisspeptin-Infusion die pulsatile Hormonausschüttung wieder her (Young 2013, PMID 22377698).
 
 Beim polyzystischen Ovarsyndrom (PCOS) ist die Lage komplizierter. In einer Pilotstudie mit 12 Frauen erhöhte Kisspeptin den LH-Spiegel nur leicht; zwei Frauen hatten einen Eisprung, bei den meisten tat sich nichts (Romero-Ruiz 2019, PMID 31820802).
 
@@ -78,7 +78,7 @@ HSDD (hypoaktive sexuelle Luststörung) bedeutet anhaltend geringes sexuelles Ve
 
 #### Nasenspray
 
-Ein Nasenspray mit Kisspeptin-54 erhöhte LH bei gesunden Männern und Frauen und bei Frauen mit hypothalamischer Amenorrhö, ohne Nebenwirkungen (Mills 2025, PMID 40215751). Der Anstieg war kleiner als nach einer Spritze, zeigt aber einen möglichen Weg zu einer Behandlung ohne Nadel. Bei Mäusen wurde Kisspeptin in der Riechschleimhaut nachgewiesen, was auf einen Weg über das Riechsystem hindeutet.
+Ein Nasenspray mit Kisspeptin-54 erhöhte LH bei gesunden Männern und Frauen und bei Frauen mit hypothalamischer Amenorrhö, ohne Nebenwirkungen (Mills 2025, PMID 40215751). Das zeigt einen möglichen Weg zu einer Behandlung ohne Nadel. Bei Mäusen wurde Kisspeptin in der Riechschleimhaut nachgewiesen, was auf einen Weg über das Riechsystem hindeutet.
 
 #### Weitere Befunde
 

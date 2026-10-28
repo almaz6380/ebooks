@@ -71,7 +71,7 @@ Diese Ergebnisse sind Tier- und Laborbefunde. Viele Wirkstoffe, die in solchen M
 
 **Theoretisch:** Semax soll Wachstumsfaktoren und Immungene beeinflussen; Langzeitfolgen solcher Eingriffe sind nicht untersucht. Für Schwangerschaft, Stillzeit, Kinder, Epilepsie und psychische Erkrankungen fehlen Daten.
 
-**Graumarkt:** Außerhalb Russlands wird Semax meist als „Research Peptide“ oder als selbst gemischte Nasenlösung verkauft. Gehalt, Reinheit und Keimfreiheit solcher Produkte sind ungeprüft. Ein belgisches Arzneimittel-Kontrolllabor identifizierte Semax und Selank 2017 und 2018 in beschlagnahmten, unbekannten Präparaten und fand bei einer Online-Recherche, dass solche „Nootropika-Peptide“ frei als Pulver zur Injektion oder als Nasenspray angeboten werden (Vanhee 2020, PMID 31667971). Mehr dazu in Teil I und Teil IV.
+**Graumarkt:** Außerhalb Russlands wird Semax meist als „Research Peptide“ oder als selbst gemischte Nasenlösung verkauft. Gehalt, Reinheit und Keimfreiheit solcher Produkte sind ungeprüft. Ein Arzneimittel-Kontrolllabor identifizierte Semax und Selank 2017 und 2018 in beschlagnahmten, unbekannten Präparaten und fand bei einer Online-Recherche, dass solche „Nootropika-Peptide“ frei als Pulver zur Injektion oder als Nasenspray angeboten werden (Vanhee 2020, PMID 31667971). Mehr dazu in Teil I und Teil IV.
 
 ### Rechtslage
 

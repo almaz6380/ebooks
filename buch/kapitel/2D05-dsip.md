@@ -41,7 +41,7 @@ Dieses Muster – begeisterte Erstberichte, ernüchternde Wiederholungen – ist
 
 #### Entzug, Schmerz und andere Anwendungen
 
-In den 1980er-Jahren wurde DSIP bei 107 stationären Personen im Alkohol- oder Opiatentzug eingesetzt; nach ärztlicher Einschätzung verschwanden die Entzugssymptome bei 97 % bzw. 87 % oder besserten sich deutlich. Es gab keine Kontrollgruppe, und ein Teil der Personen konnte nicht ausgewertet werden (Dick 1984, PMID 6548969). Eine spätere offene Studie zur Opioid-Entgiftung wurde nur als Kurzmitteilung ohne Abstract veröffentlicht (Backmund 1998, PMID 9617990). Weitere Einzelberichte betreffen sieben Personen mit chronischen Schmerzen (Larbig 1984, PMID 6548970) und einen Mann mit Narkolepsie (Schneider-Helmert 1984, PMID 6548968). Eine osteuropäische Studie untersuchte ein DSIP-Präparat zur Gabe in die Nase (Deltalicin) bei diabetischer Netzhauterkrankung, in der sich elektrische Reizantworten der Netzhaut verbesserten (Kresiun 2014, PMID 25739189).
+In den 1980er-Jahren wurde DSIP bei 107 stationären Personen im Alkohol- oder Opiatentzug eingesetzt; nach ärztlicher Einschätzung verschwanden die Entzugssymptome bei 97 % der Opiat- bzw. 87 % der Alkoholabhängigen oder besserten sich deutlich. Es gab keine Kontrollgruppe, und ein Teil der Personen konnte nicht ausgewertet werden (Dick 1984, PMID 6548969). Eine spätere offene Studie zur Opioid-Entgiftung wurde nur als Kurzmitteilung ohne Abstract veröffentlicht (Backmund 1998, PMID 9617990). Weitere Einzelberichte betreffen sieben Personen mit chronischen Schmerzen (Larbig 1984, PMID 6548970) und einen Mann mit Narkolepsie (Schneider-Helmert 1984, PMID 6548968). Eine Studie untersuchte ein DSIP-Präparat zur Gabe in die Nase (Deltalicin) bei diabetischer Netzhauterkrankung, in der sich elektrische Reizantworten der Netzhaut verbesserten (Kresiun 2014, PMID 25739189).
 
 #### Hormone und Narkose
 
@@ -51,7 +51,7 @@ Bemerkenswert ist eine Studie an 24 Frauen während einer Narkose: Statt die Nar
 
 ### Tier- und Laborstudien
 
-- Bei Kaninchen, Ratten und Katzen wurden in frühen Studien schlaffördernde Effekte beschrieben, die sich aber nicht durchgängig wiederholen ließen (Kovalzon 2006, PMID 16539679).
+- Bei Kaninchen und Ratten wurden in frühen Studien schlaffördernde Effekte beschrieben, die sich aber nicht durchgängig wiederholen ließen (Kovalzon 2006, PMID 16539679).
 - Bei Mäusen lebten die ältesten 10 % der Tiere, die lebenslang ein russisches DSIP-Präparat erhielten, 16 % länger als die Kontrolltiere; spontane Tumoren traten verzögert auf (Voĭtenkov 2009, PMID 20405733). Diese Arbeit stammt aus dem Umfeld der russischen Gerontologie, das auch Epitalon untersucht (siehe dort).
 - Weitere Tierstudien beschreiben Effekte auf Stressresistenz, Schmerzempfinden und antioxidative Enzyme.
 

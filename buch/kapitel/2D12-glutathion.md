@@ -67,7 +67,7 @@ In Teilen Asiens, Afrikas und zunehmend auch in Europa wird Glutathion vor allem
 | Arjinpathana 2012, PMID 20524875 | 60 Medizinstudierende in Thailand, Kapseln gegen Placebo | 4 Wochen | Melanin-Index an 2 von 6 Messstellen stärker gesenkt |
 | Weschawalit 2017, PMID 28490897 | gesunde Frauen, reduziertes oder oxidiertes Glutathion gegen Placebo | 12 Wochen | Melanin-Index tendenziell niedriger; teils weniger Falten |
 | Handog 2016, PMID 26148180 | 30 Frauen auf den Philippinen, Lutschtablette, ohne Kontrollgruppe | 8 Wochen | Melanin-Index gesunken |
-| Wahab 2021, PMID 33871071 | 46 Personen, Kombination Creme und Kapsel gegen Placebo | 8 Wochen | Kombination wirksamer als Einzelanwendung |
+| Wahab 2021, PMID 33871071 | 46 Personen, Kombination Creme und Kapsel gegen Placebo | 8 Wochen | Kombination möglicherweise wirksamer als Einzelanwendung |
 
 **Oral und örtlich:** Mehrere kleine randomisierte Studien zeigen eine leichte Aufhellung, vor allem an sonnenexponierten Stellen. In der ersten Studie war der Effekt nur an zwei von sechs Messstellen statistisch signifikant (Arjinpathana 2012, PMID 20524875). Eine systematische Übersicht kam 2019 zu dem Schluss, die Belege seien wegen Studienqualität und widersprüchlicher Befunde „noch nicht eindeutig“ (Dilokthornsakul 2019, PMID 30895708). Eine neuere Übersicht bewertet Cremes und Kapseln als mäßig wirksam, mit Effekten, die nach dem Absetzen nicht anhalten (Sarkar 2025, PMID 39444151).
 

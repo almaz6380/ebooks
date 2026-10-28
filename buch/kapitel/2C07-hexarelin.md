@@ -13,7 +13,7 @@ Hexarelin ist ein enger Verwandter von GHRP-6 – und einer der stärksten küns
 
 ### Wie es wirken soll
 
-Wie GHRP-6 und GHRP-2 ahmt Hexarelin das Magenhormon Ghrelin nach und stößt so die Wachstumshormon-Ausschüttung an. Seine Wirkung ist abhängig von einer intakten Verbindung zwischen Zwischenhirn und Hirnanhangdrüse: Bei Kindern, bei denen diese Verbindung anatomisch unterbrochen war, blieb die GH-Antwort aus oder war stark abgeschwächt, bei Kindern mit idiopathischem Mangel war sie dagegen kräftig (Loche 1995, PMID 7673411).
+Wie GHRP-6 und GHRP-2 ahmt Hexarelin das Magenhormon Ghrelin nach und stößt so die Wachstumshormon-Ausschüttung an. Seine Wirkung ist abhängig von einer intakten Verbindung zwischen Zwischenhirn und Hirnanhangdrüse: Bei Kindern und Erwachsenen, bei denen diese Verbindung anatomisch unterbrochen war, blieb die GH-Antwort aus oder war stark abgeschwächt, bei idiopathischem Mangel war sie dagegen kräftig (Loche 1995, PMID 7673411).
 
 Die zweite, eigenständige Idee betrifft das Herz. Ghrelin-Rezeptoren und das Fängermolekül CD36 kommen auch im Herzmuskel vor. Hexarelin könnte deshalb die Pumpkraft des Herzens direkt steigern – ein möglicher Ansatz bei Herzschwäche, unabhängig vom Wachstumshormon.
 

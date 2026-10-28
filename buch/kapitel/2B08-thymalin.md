@@ -15,7 +15,7 @@ Thymalin ist ein Extrakt aus der Thymusdrüse von Kälbern, Thymogen ein daraus 
 
 Die Idee folgt derselben Logik wie bei Thymosin Alpha-1 (siehe dort): Der Thymus schult T-Zellen und schrumpft mit dem Alter, also sollen Thymus-Botenstoffe die Abwehr stärken. Während Thymosin Alpha-1 jedoch ein genau definiertes Peptid mit bekannter Sequenz ist, ist Thymalin ein Gemisch aus vielen Bestandteilen tierischen Ursprungs.
 
-Aus diesem Gemisch isolierten die Leningrader Forschenden das Dipeptid Glu-Trp und brachten es synthetisch als Thymogen auf den Markt. Es soll die Differenzierung von T-Zellen und die Erkennung von Antigenen fördern sowie Fresszellen aktivieren (Morozov 1997, PMID 9637345).
+Aus diesem Gemisch isolierten die Forschenden das Dipeptid Glu-Trp und brachten es synthetisch als Thymogen auf den Markt. Es soll die Differenzierung von T-Zellen und die Erkennung von Antigenen fördern sowie Fresszellen aktivieren (Morozov 1997, PMID 9637345).
 
 Khavinson entwickelte daraus eine umfassendere Theorie: Kurze Peptide aus verschiedenen Organen sollen gewebespezifisch wirken und die Genaktivität „regulieren“ – Peptide aus der Zirbeldrüse für die Zirbeldrüse, aus dem Thymus für das Immunsystem und so weiter (Khavinson 2002, PMID 12374906). Auch Epitalon, das in Teil II · D behandelt wird, stammt aus dieser Schule. Diese Theorie ist außerhalb der Arbeitsgruppe kaum geprüft und entspricht nicht dem allgemeinen Verständnis, wie Peptid-Botenstoffe wirken – nämlich in der Regel über Rezeptoren an der Zelloberfläche. Neuere Arbeiten der Gruppe stützen den Mechanismus vor allem auf Computer-Simulationen der Bindung an Erbgut und auf Zellkulturen (Linkova 2023, PMID 37686182).
 

@@ -37,7 +37,7 @@ In der Phase-3-Studie **SYNCHRONIZE-1** (le Roux 2026, PMID 42253238) wurde lang
 
 **SYNCHRONIZE-2** (Wharton 2026, PMID 42820639) untersuchte 752 Menschen mit Adipositas und Typ-2-Diabetes. Der Gewichtsverlust betrug nach 76 Wochen 8,2 % bzw. 9,8 % gegenüber 3,9 % unter Placebo; der HbA1c-Wert sank von 7,4 % um 0,8 bis 0,9 Prozentpunkte.
 
-In der Phase-2-Studie bei Typ-2-Diabetes senkte Survodutid den HbA1c-Wert nach 16 Wochen in mittlerer Dosis ähnlich stark wie Semaglutid 1 mg (je etwa −1,46 bzw. −1,47 Punkte); die höheren Dosen führten zu mehr Gewichtsverlust als Semaglutid (Blüher 2024, PMID 38095657). Der Semaglutid-Arm war allerdings offen und die Studie kurz.
+In der Phase-2-Studie bei Typ-2-Diabetes senkte Survodutid den HbA1c-Wert nach 16 Wochen in niedriger Dosis ähnlich stark wie Semaglutid 1 mg (je etwa −1,46 bzw. −1,47 Punkte); die höheren Dosen führten zu mehr Gewichtsverlust als Semaglutid (Blüher 2024, PMID 38095657). Der Semaglutid-Arm war allerdings offen und die Studie kurz.
 
 #### Fettleber (MASLD und MASH)
 

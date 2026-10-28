@@ -69,7 +69,7 @@ Der Hauptendpunkt – Tod durch Herz-Kreislauf-Ursache, nicht tödlicher Herzinf
 
 In absoluten Zahlen bedeutet das: Über knapp vier Jahre hatten etwa zwei von hundert Behandelten weniger ein schweres Herz-Kreislauf-Ereignis. Für eine Hochrisikogruppe ist das ein relevanter Effekt.
 
-Die Nierenauswertung (Mann 2017, PMID 28854085) zeigte weniger Fälle einer neu auftretenden starken Eiweißausscheidung im Urin (Makroalbuminurie). Harte Nierenendpunkte wie Dialysepflicht waren selten und unterschieden sich nicht deutlich. Akutes Nierenversagen trat nicht häufiger auf.
+Die Nierenauswertung (Mann 2017, PMID 28854085) zeigte weniger Fälle einer neu auftretenden starken Eiweißausscheidung im Urin (Makroalbuminurie). Harte Nierenendpunkte wie Dialysepflicht waren selten und unterschieden sich nicht deutlich. Akutes Nierenversagen trat ähnlich häufig auf wie unter Placebo.
 
 Nicht jede Herzgruppe profitiert. In der FIGHT-Studie mit 300 Personen, die kurz zuvor wegen einer schweren Herzschwäche mit stark eingeschränkter Pumpfunktion im Krankenhaus gewesen waren, verbesserte Liraglutid den Verlauf nicht (Margulies 2016, PMID 27483064). Es gab sogar etwas mehr erneute Krankenhausaufnahmen wegen Herzschwäche (41 % vs. 34 %), ohne dass der Unterschied statistisch gesichert war. Die Autorinnen und Autoren sahen keine Grundlage für den Einsatz in dieser Situation.
 

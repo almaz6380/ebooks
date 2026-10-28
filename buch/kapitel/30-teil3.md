@@ -85,7 +85,7 @@ Anmerkungen zur Tabelle: Bei **BPC-157** erfüllte keine Veröffentlichung die F
 | LL-37 | HEAL LL-37: Beingeschwüre heilten nicht besser als unter Placebo (PMID 34687253) | Entzündungs- und Autoimmunreaktionen |
 | ARA-290 | Phase 2b: Nervenfasern nur unter einer von drei Dosen vermehrt (PMID 28475703) | kaum Daten über zwölf Wochen hinaus |
 | Larazotid | Nur die niedrigste von drei Dosen besser als Placebo (PMID 25683116); Phase 3 abgebrochen | gelockerte glutenfreie Diät |
-| Thymalin | Russische Beobachtung: geringere Sterblichkeit, Zuteilung unklar (PMID 14523363) | tierischer Extrakt, Chargenrisiken |
+| Thymalin | Russisch-ukrainische Beobachtung: geringere Sterblichkeit, Zuteilung unklar (PMID 14523363) | tierischer Extrakt, Chargenrisiken |
 
 ### C. Wachstumshormon-Achse
 
@@ -143,7 +143,7 @@ Anmerkungen zur Tabelle: Bei **Selank** und **DSIP** betreffen die Registertreff
 | Semax | Offene Studie nach Schlaganfall: höheres BDNF, schnellere Besserung (PMID 29798983) | keine systematischen Sicherheitsdaten |
 | Selank | Angstlösende Wirkung ähnlich Medazepam, ohne Placebogruppe (PMID 18454096) | keine Langzeitdaten; Graumarkt |
 | Cerebrolysin | CASTA mit 1.070 Personen: Hauptendpunkt verfehlt (PMID 22282884) | mögliches Signal für schwere Nebenwirkungen (Cochrane) |
-| Dihexa | Nur Tierdaten: bei Ratten besseres Lernen (PMID 25187433) | keine Humandaten; theoretisches Krebsrisiko |
+| Dihexa | Nur Tierdaten; eine zentrale Rattenstudie wurde 2025 zurückgezogen (PMID 25187433, Rückzug PMID 40312093) | keine Humandaten; theoretisches Krebsrisiko |
 | DSIP | 16 Personen mit Schlaflosigkeit: nur schwache Effekte (PMID 1299794) | keine systematischen Sicherheitsdaten |
 | Epitalon | Bei Mäusen keine längere mittlere Lebensdauer (PMID 14501183) | keine Humandaten; Telomerase-Frage |
 | Pinealon | 32 Ältere, unkontrolliert; auch Hemmung der Blutbildung (PMID 26390612) | keine systematischen Sicherheitsdaten |
@@ -190,7 +190,7 @@ Anmerkungen zur Tabelle: Bei **Kollagenpeptiden** betrifft ein erheblicher Teil 
 
 | Peptid | Kernergebnis | Hauptrisiko |
 |---|---|---|
-| Kollagenpeptide | Arthrose: nur kleine Effekte (PMID 38218227); Hautnutzen nicht in unabhängigen Studien (PMID 40324552) | Ersatz wirksamer Maßnahmen; Oxalat bei Nierensteinneigung |
+| Kollagenpeptide | Arthrose: kleine bis mäßige Effekte (PMID 38218227); Hautnutzen nicht in unabhängigen Studien (PMID 40324552) | Ersatz wirksamer Maßnahmen; Oxalat bei Nierensteinneigung |
 | Lactotripeptide | Meta-Analyse, 30 RCTs: systolisch −2,95 mmHg, mit Publikationsverzerrung (PMID 25608938) | Ersatz einer wirksamen Blutdruckbehandlung |
 | Carnosin | Meta-Analyse, 8 RCTs: etwas niedrigere Zucker- und HbA1c-Werte (PMID 40999397) | keine relevanten; Langzeitdaten fehlen |
 | GHK-Cu | Fußgeschwüre: Wundfläche median −98,5 % vs. −60,8 % (PMID 17147644) | Injektionen von Graumarkt-Ware ungeprüft |

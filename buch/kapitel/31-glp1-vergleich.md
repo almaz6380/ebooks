@@ -172,7 +172,7 @@ Die folgende Tabelle enthält randomisierte Studien, in denen zwei Wirkstoffe de
 | SUSTAIN 7 (Pratley 2018), PMID 29397376 | Semaglutid vs. Dulaglutid | 40 Wochen | HbA1c −1,8 vs. −1,4; Gewicht −6,5 vs. −3,0 kg |
 | SUSTAIN 10 (Capehorn 2020), PMID 31539622 | Semaglutid 1,0 mg vs. Liraglutid 1,2 mg | 30 Wochen | HbA1c −1,7 vs. −1,0; Gewicht −5,8 vs. −1,9 kg |
 | SUSTAIN 3 (Ahmann 2018), PMID 29246950 | Semaglutid vs. Exenatid wöchentlich, offen | 56 Wochen | HbA1c −1,5 vs. −0,9; Gewicht −5,6 vs. −1,9 kg |
-| PIONEER 4 (Pratley 2019), PMID 31186120 | Semaglutid-Tablette vs. Liraglutid-Spritze | 52 Wochen | HbA1c −1,2 vs. −1,1 (nicht unterlegen) |
+| PIONEER 4 (Pratley 2019), PMID 31186120 | Semaglutid-Tablette vs. Liraglutid-Spritze | 26 Wochen (Studie 52) | HbA1c −1,2 vs. −1,1 (nicht unterlegen) |
 | AWARD-6 (Dungan 2014), PMID 25018121 | Dulaglutid vs. Liraglutid 1,8 mg, offen | 26 Wochen | HbA1c −1,42 vs. −1,36, gleichwertig |
 | DURATION-6 (Buse 2013), PMID 23141817 | Exenatid wöchentlich vs. Liraglutid, offen | 26 Wochen | HbA1c −1,28 vs. −1,48; Nicht-Unterlegenheit verfehlt |
 | DREAMS-2 (Guo 2026), PMID 41407860 | Mazdutid vs. Dulaglutid 1,5 mg, China | 28 Wochen | HbA1c zusätzlich −0,24 / −0,30 |

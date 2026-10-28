@@ -41,13 +41,13 @@ Eine wichtige Lehre lieferte die Studie von Edelman (2006, PMID 17003291): Wenn 
 
 #### Typ-2-Diabetes
 
-Bei insulinbehandeltem Typ-2-Diabetes senkte Pramlintid den HbA1c-Wert nach einem Jahr um 0,62 Prozentpunkte, mit einer Gewichtsabnahme von 1,4 kg gegenüber 0,7 kg Zunahme unter Placebo (Hollander 2003, PMID 12610038). Als Zusatz zu Basalinsulin war es in einer offenen Studie mit 113 Teilnehmenden ähnlich wirksam wie ein schnell wirkendes Mahlzeiteninsulin, führte aber nicht zu Gewichtszunahme (0,0 kg vs. +4,7 kg) und zu weniger leichten Unterzuckerungen; dafür klagten 21 % über Übelkeit (Riddle 2009, PMID 19502544).
+Bei insulinbehandeltem Typ-2-Diabetes senkte Pramlintid den HbA1c-Wert nach einem Jahr um 0,62 Prozentpunkte, mit einer Gewichtsabnahme von 1,4 kg gegenüber 0,7 kg Zunahme unter Placebo (Hollander 2003, PMID 12610038). Als Zusatz zu Basalinsulin war es in einer offenen Studie mit 113 Teilnehmenden ähnlich wirksam wie ein schnell wirkendes Mahlzeiteninsulin, führte aber nicht zu Gewichtszunahme (0,0 kg vs. +4,7 kg) und zu weniger leichten bis mittelschweren Unterzuckerungen; dafür klagten 21 % über Übelkeit (Riddle 2009, PMID 19502544).
 
 Eine Meta-Analyse von acht randomisierten Studien ergab bei Typ-2-Diabetes eine HbA1c-Senkung um 0,33 Prozentpunkte und einen Gewichtsverlust von 2,57 kg gegenüber Kontrolle; Übelkeit trat 1,8-mal häufiger auf (Singh-Franco 2011, PMID 21199269).
 
 #### Adipositas
 
-Zwischen 2005 und 2010 wurde Pramlintid auch als Abnehmmedikament geprüft. In einer 16-wöchigen Studie mit 204 Menschen mit Adipositas betrug der placebobereinigte Gewichtsverlust 3,7 % (Aronne 2007, PMID 17504894). Kombiniert mit einem Lebensstilprogramm hielten einige Dosisgruppen ihren Gewichtsverlust über zwölf Monate; placebobereinigt waren es bis zu 7,2 kg bzw. 6,8 % (Smith 2008, PMID 18753666). Eine Kombination mit Metreleptin (einem Leptin-Analogon) erreichte nach 20 Wochen 12,7 % Gewichtsverlust gegenüber 8,4 % mit Pramlintid allein (Ravussin 2009, PMID 19521351). Diese Entwicklung wurde nicht bis zur Zulassung fortgeführt.
+Zwischen 2005 und 2010 wurde Pramlintid auch als Abnehmmedikament geprüft. In einer 16-wöchigen Studie mit 204 Menschen mit Adipositas betrug der placebobereinigte Gewichtsverlust 3,7 % (Aronne 2007, PMID 17504894). Kombiniert mit einem Lebensstilprogramm hielten fast alle Dosisgruppen ihren Gewichtsverlust über zwölf Monate; placebobereinigt waren es bis zu 7,2 kg bzw. 6,8 % (Smith 2008, PMID 18753666). Eine Kombination mit Metreleptin (einem Leptin-Analogon) erreichte nach 20 Wochen 12,7 % Gewichtsverlust gegenüber 8,4 % mit Pramlintid allein (Ravussin 2009, PMID 19521351). Diese Entwicklung wurde nicht bis zur Zulassung fortgeführt.
 
 #### Neuere Anwendungen: künstliche Bauchspeicheldrüse
 

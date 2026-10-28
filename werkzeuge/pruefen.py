@@ -56,6 +56,17 @@ def main(dateien):
         for n in sorted(set(NCT_RE.findall(t))):
             if not cache["nct"].get(n):
                 meldungen.append(f"FEHLER  {n} existiert nicht")
+        for p in sorted(set(PMID_RE.findall(t))):
+            e = cache["pmid"].get(p)
+            if not e:
+                continue
+            typen = " ".join(e.get("typ", [])).lower()
+            if "retracted publication" in typen or e["titel"].lower().startswith("retracted"):
+                for m in re.finditer(rf"PMID[:\s]*{p}\b", t):
+                    umfeld = t[max(0, m.start() - 400):m.end() + 400].lower()
+                    if "zurückgezogen" not in umfeld and "retracted" not in umfeld and "retrait" not in umfeld:
+                        meldungen.append(f"FEHLER  PMID {p} ist zurückgezogen (Retracted) – im Text kennzeichnen oder entfernen")
+                        break
         for autor, jahr, p in ZITAT_RE.findall(t):
             e = cache["pmid"].get(p)
             if not e:

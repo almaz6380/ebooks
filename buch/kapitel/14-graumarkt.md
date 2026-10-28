@@ -8,7 +8,7 @@ Dieses Kapitel beschreibt, was über diesen Markt bekannt ist: aus Laboranalysen
 
 Als „Research Peptides“ oder „Research Chemicals“ werden Stoffe bezeichnet, die offiziell nur an Labore für Forschungszwecke verkauft werden. Der Aufdruck „nicht zur Anwendung am Menschen“ soll den Verkauf rechtlich absichern: Ein Produkt, das nicht als Arzneimittel angeboten wird, muss – so die Logik der Anbieter – auch keine Arzneimittelzulassung haben. In der Praxis richten sich viele dieser Shops aber erkennbar an Privatpersonen, die die Stoffe selbst spritzen wollen. Ob diese Konstruktion rechtlich trägt, wird im nächsten Kapitel besprochen; in vielen Fällen tut sie es nicht.
 
-Eine Übersicht aus den USA beschreibt das Muster am Beispiel von Semaglutid und Tirzepatid: Hersteller verkaufen Fläschchen „nur für Forschungszwecke“ oder „nicht zum menschlichen Verzehr“ direkt an Verbraucher, oft ohne die Materialien und das Wissen, die nötig wären, um den Wirkstoff aufzulösen, aufzuziehen und zu spritzen. Damit werden Ärztinnen, Ärzte und Apotheken umgangen – und mit ihnen die Prüfung auf Wechselwirkungen und die medizinische Überwachung (Belcourt 2025, PMID 39285774).
+Eine Übersicht beschreibt das Muster am Beispiel von Semaglutid und Tirzepatid: Hersteller verkaufen Fläschchen „nur für Forschungszwecke“ oder „nicht zum menschlichen Verzehr“ direkt an Verbraucher, oft ohne die Materialien und das Wissen, die nötig wären, um den Wirkstoff aufzulösen, aufzuziehen und zu spritzen. Damit werden Ärztinnen, Ärzte und Apotheken umgangen – und mit ihnen die Prüfung auf Wechselwirkungen und die medizinische Überwachung (Belcourt 2025, PMID 39285774).
 
 Wie schwierig die Anwendung für Laien ist, untersuchte eine kleine Studie an einer US-Universität. 20 Erwachsene sollten anhand von Internetinformationen die nötigen Schritte durchführen, um ein solches Semaglutid-Pulver aufzulösen und eine Spritze vorzubereiten. Von 34 Arbeitsschritten führten sie im Mittel 15 korrekt aus. Die Forschenden beobachteten Fehler, die zu falscher Dosierung, Nadelstichverletzungen oder Infektionen führen könnten (Sedensky 2026, PMID 42541373).
 
@@ -36,7 +36,7 @@ Eine weitere Untersuchung analysierte 16 injizierbare und 8 orale Semaglutid-Nac
 
 #### Melanotan II aus Online-Shops
 
-Für das Bräunungspeptid Melanotan II untersuchte eine dänische Gruppe Fläschchen aus drei Online-Shops. Alle Shops gaben 10 mg pro Fläschchen an; tatsächlich enthielten die Fläschchen zwischen 4,32 und 8,84 mg. In Produkten von zwei Shops fanden sich unbekannte Verunreinigungen von 4,1 bis 5,9 % (Breindahl 2015, PMID 24771717).
+Für das Bräunungspeptid Melanotan II untersuchte eine Forschungsgruppe Fläschchen aus drei Online-Shops. Alle Shops gaben 10 mg pro Fläschchen an; tatsächlich enthielten die Fläschchen zwischen 4,32 und 8,84 mg. In Produkten von zwei Shops fanden sich unbekannte Verunreinigungen von 4,1 bis 5,9 % (Breindahl 2015, PMID 24771717).
 
 #### Beschlagnahmte Produkte aus dem Dopingumfeld
 
@@ -46,7 +46,7 @@ Zwischen 2010 und 2013 analysierte dasselbe Labor 337 weitere Produkte. Auf Pept
 
 Ein späterer Kölner Bericht beschreibt abgewandelte Varianten bekannter Peptide, die nicht als Arzneimittel existieren: Gly-GHRP-6, Gly-GHRP-2 und Gly-Ipamorelin – also die jeweiligen Peptide mit einer zusätzlichen Aminosäure Glycin am Anfang – sowie eine leicht veränderte Form des Wachstumshormons (Krug 2018, PMID 29864719). Solche Abwandlungen sind möglicherweise Versuche, Dopingtests zu umgehen; ihre Wirkung und Sicherheit beim Menschen sind unbekannt.
 
-Auch BPC-157 wurde in beschlagnahmten Fläschchen identifiziert. Eine US-Gruppe entwickelte daraufhin ein Nachweisverfahren für Urinproben (Cox 2017, PMID 28035768).
+Auch BPC-157 wurde in beschlagnahmten Fläschchen identifiziert. Eine Forschungsgruppe entwickelte daraufhin ein Nachweisverfahren für Urinproben (Cox 2017, PMID 28035768).
 
 Eine Übersichtsarbeit fasst zusammen, dass bei gefälschten Peptid- und Eiweiß-Arzneimitteln immer wieder der falsche Wirkstoff, die falsche Menge oder gar kein Wirkstoff gefunden wurde, dass giftige Verunreinigungen und herstellungsbedingte Nebenprodukte zu gesundheitlichen Schäden führten und dass in Beschlagnahmungen auch Substanzen auftauchten, die in klinischen Studien gescheitert waren oder sich noch in der Tierversuchsphase befanden (Janvier 2018, PMID 30165334).
 

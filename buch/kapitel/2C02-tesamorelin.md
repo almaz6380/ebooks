@@ -69,7 +69,7 @@ Eine Gewebeanalyse der Leberbiopsien aus der Fettleberstudie ergab, dass unter T
 **Belegt aus den Studien:**
 
 - Reaktionen an der Einstichstelle (Rötung, Juckreiz) – in der Fettleberstudie häufiger als unter Placebo, aber nicht schwerwiegend (Stanley 2019, PMID 31611038).
-- Typische Wachstumshormon-Effekte wie Gelenk- und Muskelschmerzen, Missempfindungen und Wassereinlagerungen (Badran 2026, PMID 41545261).
+- Typische Wachstumshormon-Effekte wie Gelenk- und Muskelschmerzen sowie Missempfindungen (Badran 2026, PMID 41545261).
 - Blutzucker: In den großen Studien keine klinisch relevante Verschlechterung im Mittel, aber ein vorübergehender Anstieg des Nüchternzuckers in den ersten Wochen (Stanley 2014, PMID 25038357) und ein leichter Anstieg bei Menschen, deren Bauchfett nicht ansprach (Stanley 2012, PMID 22495074). Menschen mit Diabetes sollten ärztlich überwacht werden.
 - Mehr Therapieabbrüche wegen Nebenwirkungen als unter Placebo (Falutz 2007, PMID 18057338).
 - Der Effekt ist nicht dauerhaft: Nach dem Absetzen kehrt das Bauchfett zurück (Falutz 2008, PMID 18690162).

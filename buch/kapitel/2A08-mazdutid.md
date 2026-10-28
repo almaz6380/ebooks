@@ -39,7 +39,7 @@ Der GLP-1-Anteil dämpft den Appetit, verlangsamt die Magenentleerung und förde
 
 #### Typ-2-Diabetes: DREAMS-1 und DREAMS-2
 
-In **DREAMS-1** (Zhu 2026, PMID 41407859) erhielten Menschen mit neu diagnostiziertem Typ-2-Diabetes (mittlere Diabetesdauer 1,9 Jahre) Mazdutid ohne weitere Diabetesmedikamente. Der HbA1c-Wert sank in der höheren Dosis nach 24 Wochen um 2,15 Prozentpunkte (Placebo −0,14), das Gewicht um 7,81 %.
+In **DREAMS-1** (Zhu 2026, PMID 41407859) erhielten Menschen mit Typ-2-Diabetes, der mit Ernährung und Bewegung allein nicht ausreichend eingestellt war (mittlere Diabetesdauer 1,9 Jahre) Mazdutid ohne weitere Diabetesmedikamente. Der HbA1c-Wert sank in der höheren Dosis nach 24 Wochen um 2,15 Prozentpunkte (Placebo −0,14), das Gewicht um 7,81 %.
 
 **DREAMS-2** (Guo 2026, PMID 41407860) ist bislang die wichtigste Vergleichsstudie: Gegen das etablierte GLP-1-Medikament Dulaglutid war Mazdutid beim HbA1c nicht unterlegen und überlegen, wenn auch mit kleinem Abstand (−0,24 bzw. −0,30 Prozentpunkte zusätzlich). Deutlicher war der Unterschied beim Gewicht (zusätzlich −3,78 bzw. −5,76 %). Magen-Darm-Nebenwirkungen waren unter Mazdutid häufiger als unter Dulaglutid.
 
@@ -49,7 +49,7 @@ Eine Vergleichsstudie gegen Semaglutid bei Menschen mit frühem Typ-2-Diabetes u
 
 Lilly untersucht Mazdutid außerhalb Chinas in höheren Dosen. In einer kleinen Phase-1-Studie mit 32 Erwachsenen in den USA sank das Körpergewicht in der höchsten Dosis nach 20 Wochen um 20,0 bzw. 21,0 % (zwei Aufdosierungsschemata) gegenüber 0,1 % unter Placebo; schwere Nebenwirkungen traten nicht auf (Bhattachar 2025, PMID 40832785).
 
-In der US-amerikanischen Phase-2-Studie mit 179 Teilnehmenden (Hsia 2026, PMID 42628555) betrug der Gewichtsverlust nach 32 Wochen bis zu 18,1 % in der höchsten Dosis. Allerdings brachen dort 20 % die Behandlung wegen Nebenwirkungen ab, überwiegend wegen Magen-Darm-Beschwerden. Die Hauptanalyse verwendete zudem den „Wirksamkeits-Schätzer“, der Personen nach einem Abbruch nicht mehr berücksichtigt und den Effekt daher eher günstiger darstellt.
+In der US-amerikanischen Phase-2-Studie mit 179 Teilnehmenden (Hsia 2026, PMID 42628555) betrug der Gewichtsverlust nach 32 Wochen bis zu 18,1 % in der höchsten Dosis. Allerdings brachen dort in der höchsten Dosis 20 % die Behandlung wegen Nebenwirkungen ab, überwiegend wegen Magen-Darm-Beschwerden. Die Hauptanalyse verwendete zudem den „Wirksamkeits-Schätzer“, der Personen nach einem Abbruch nicht mehr berücksichtigt und den Effekt daher eher günstiger darstellt.
 
 #### Einzelfallberichte
 

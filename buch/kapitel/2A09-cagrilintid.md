@@ -24,11 +24,11 @@ Die Kombination mit Semaglutid folgt einer einfachen Idee: Amylin und GLP-1 wirk
 
 #### Cagrilintid allein
 
-In der Phase-2-Dosisfindungsstudie (Lau 2021, PMID 34798060) erhielten 706 Erwachsene mit Übergewicht oder Adipositas 26 Wochen lang Cagrilintid in fünf Dosen, Liraglutid oder Placebo. Das Gewicht sank dosisabhängig um 6,0 bis 10,8 % (Placebo 3,0 %). Die höchste Dosis war Liraglutid 3,0 mg leicht überlegen (10,8 % vs. 9,0 %). Übelkeit trat bei 20–47 % auf (Placebo 18 %). Cagrilintid allein erreicht damit etwa die Größenordnung älterer GLP-1-Medikamente, nicht die von Semaglutid oder Tirzepatid. Inzwischen wird es auch als Einzelsubstanz in Phase 3 geprüft (NCT07220642).
+In der Phase-2-Dosisfindungsstudie (Lau 2021, PMID 34798060) erhielten 706 Erwachsene mit Übergewicht oder Adipositas 26 Wochen lang Cagrilintid in fünf Dosen, 99 Liraglutid und 101 Placebo. Das Gewicht sank dosisabhängig um 6,0 bis 10,8 % (Placebo 3,0 %). Die höchste Dosis war Liraglutid 3,0 mg leicht überlegen (10,8 % vs. 9,0 %). Übelkeit trat bei 20–47 % auf (Placebo 18 %). Cagrilintid allein erreicht damit etwa die Größenordnung älterer GLP-1-Medikamente, nicht die von Semaglutid oder Tirzepatid. Inzwischen wird es auch als Einzelsubstanz in Phase 3 geprüft (NCT07220642).
 
 #### CagriSema: frühe Studien
 
-In einer Phase-1b-Studie bei 95 gesunden Personen mit Übergewicht verloren die Teilnehmenden mit Semaglutid plus Cagrilintid nach 20 Wochen bis zu 17,1 % ihres Gewichts, mit Semaglutid plus Placebo 9,8 % (Enebo 2021, PMID 33894838). Die beiden Wirkstoffe beeinflussten ihre Blutspiegel gegenseitig nicht.
+In einer Phase-1b-Studie bei 95 gesunden Personen mit Übergewicht verloren die Teilnehmenden mit Semaglutid plus Cagrilintid nach 20 Wochen bis zu 17,1 % ihres Gewichts, mit Semaglutid plus Placebo 9,8 % (Enebo 2021, PMID 33894838). Cagrilintid veränderte die Blutspiegel von Semaglutid nicht.
 
 Eine kleine Phase-2-Studie bei 92 Menschen mit Typ-2-Diabetes verglich CagriSema direkt mit beiden Einzelsubstanzen (Frias 2023, PMID 37364590). Nach 32 Wochen betrug die Gewichtsabnahme 15,6 % mit CagriSema, 5,1 % mit Semaglutid und 8,1 % mit Cagrilintid. Beim HbA1c war CagriSema mit −2,2 Prozentpunkten Semaglutid (−1,8) nicht statistisch überlegen.
 

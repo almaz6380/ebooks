@@ -35,7 +35,7 @@ Seit 2008 sammelt ein europäisches, inzwischen globales Register Daten aus der 
 - **Frühgeborene:** IGF-1 zusammen mit seinem Bindungsprotein IGFBP-3 verhinderte bei 121 extrem Frühgeborenen die Netzhauterkrankung der Frühgeborenen nicht, verringerte aber schwere bronchopulmonale Dysplasie (21,3 % vs. 44,9 %). Tödliche schwere Ereignisse traten bei 19,7 % der behandelten und 11,7 % der Kontrollkinder auf (Ley 2019, PMID 30471715). Eine Folgestudie zur Lungenentwicklung läuft (NCT03253263).
 - **Magersucht:** Bei 90 Frauen mit Anorexia nervosa erhöhte eine sechsmonatige IGF-1-Behandlung, gefolgt von einem Knochenmedikament, die Knochendichte der Wirbelsäule stärker als Placebo (Haines 2021, PMID 34355814).
 - **Erwachsene mit Laron-Syndrom:** Bei zehn Erwachsenen nahm unter acht Wochen IGF-1 der Fettanteil ab und die Magermasse zu (Mauras 2000, PMID 10999782).
-- **Sportlerinnen und Sportler:** In einer randomisierten, doppelblinden Studie mit 56 Freizeitsportlern über 28 Tage – durchgeführt, um Dopingtests zu entwickeln – veränderten sich unter IGF-1/IGFBP-3 Blutfette und Insulinwerte (Guha 2021, PMID 33249593). Leistungsdaten liefert diese Studie nicht.
+- **Sportlerinnen und Sportler:** In einer randomisierten, doppelblinden Studie mit 56 Freizeitsportlern über 28 Tage veränderten sich unter IGF-1/IGFBP-3 Blutfette und Insulinwerte (Guha 2021, PMID 33249593). Leistungsdaten liefert diese Studie nicht.
 
 | Studie | Teilnehmende und Design | Dauer | Ergebnis |
 |---|---|---|---|
