@@ -48,7 +48,7 @@ Wichtige Grenzen:
 - **Gesundheitsbezogene Angaben** wie „unterstützt die Gelenke“ oder „senkt den Blutdruck“ sind nur erlaubt, wenn sie von der EU nach Prüfung durch die Europäische Behörde für Lebensmittelsicherheit (EFSA) zugelassen und in einer Liste aufgeführt sind (Verordnung (EG) Nr. 1924/2006). Für viele beworbene Wirkungen von Peptid-Lebensmitteln gibt es nach unserem Kenntnisstand keine zugelassene Angabe. Werbung, die dennoch eine solche Wirkung verspricht, ist unzulässig.
 - **Krankheitsbezogene Aussagen** (etwa „wirkt gegen Arthrose“) sind für Lebensmittel generell verboten.
 
-Dass auch Nahrungsergänzungsmittel nicht frei von verbotenen Wirkstoffen sind, zeigt ein Fall aus dem Kölner Anti-Doping-Labor: In als frei verkäufliches Nahrungsergänzungsmittel angebotenen Tabletten wurde das Wachstumshormon-freisetzende Peptid GHRP-2 nachgewiesen (Thomas 2010, PMID 20878896).
+Dass auch Nahrungsergänzungsmittel nicht frei von verbotenen Wirkstoffen sind, zeigt ein Fall aus einem Anti-Doping-Labor: In als frei verkäufliches Nahrungsergänzungsmittel angebotenen Tabletten wurde das Wachstumshormon-freisetzende Peptid GHRP-2 nachgewiesen (Thomas 2010, PMID 20878896).
 
 ### Novel Food
 

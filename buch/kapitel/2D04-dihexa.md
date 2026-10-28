@@ -16,7 +16,7 @@ Angiotensin IV ist ein kurzes Peptid, das im Körper aus dem Blutdruckhormon Ang
 
 Die Arbeitsgruppe um Joseph Harding und John Wright in Washington verkürzte das Molekül deshalb auf seinen wirksamen Kern und versah es mit chemischen Schutzgruppen. Das Ergebnis war Dihexa: stabil gegenüber Abbau, bei Ratten über den Mund wirksam und hirngängig. Bei Ratten mit medikamentös ausgelöster Gedächtnisstörung und bei alten Ratten verbesserte es die Leistung im Wasserlabyrinth und förderte die Synapsenbildung im Hippocampus (McCoy 2013, PMID 23055539).
 
-Später fand dieselbe Gruppe den vermuteten Wirkmechanismus: Dihexa bindet an den Wachstumsfaktor HGF und verstärkt dessen Signal am Rezeptor c-Met. Wurde das HGF-System im Gehirn von Ratten blockiert, verschwand die gedächtnisfördernde Wirkung (Benoist 2014, PMID 25187433).
+Später fand dieselbe Gruppe den vermuteten Wirkmechanismus: Dihexa bindet an den Wachstumsfaktor HGF und verstärkt dessen Signal am Rezeptor c-Met. Wurde das HGF-System im Gehirn von Ratten blockiert, verschwand die gedächtnisfördernde Wirkung (Benoist 2014, PMID 25187433). Diese Arbeit ist in PubMed inzwischen als zurückgezogen (Retracted Publication) gekennzeichnet; ihre Ergebnisse sind daher nicht belastbar.
 
 Im Internet wird Dihexa oft als Substanz beschrieben, die um ein Vielfaches stärker wirke als der Nervenwachstumsfaktor BDNF. Solche Vergleiche stammen aus Zellkultur-Versuchen und sagen nichts darüber aus, ob und wie Dihexa beim Menschen wirkt.
 
