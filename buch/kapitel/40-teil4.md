@@ -6,7 +6,7 @@ Bevor es losgeht, lohnt sich ein kurzer Blick darauf, wie man Risiken überhaupt
 
 **Belegt, beobachtet oder theoretisch.** Ein Risiko ist am besten belegt, wenn es in randomisierten Studien (RCTs) häufiger unter dem Wirkstoff als unter Placebo auftrat. Beobachtungsstudien mit Versicherungs- oder Registerdaten erfassen dagegen sehr viele Menschen und seltene Ereignisse, können aber Ursache und Begleitumstand nicht sicher trennen. Meldedatenbanken für Nebenwirkungen zeigen nur Signale: Was bekannt und viel diskutiert ist, wird häufiger gemeldet. Theoretische Risiken schließlich leiten sich aus dem Wirkmechanismus, aus Tierversuchen oder Zellkulturen ab. Sie sind kein Beweis für einen Schaden – aber bei Stoffen, die nie systematisch am Menschen untersucht wurden, oft die einzige Information, die es gibt.
 
-**Fehlende Daten sind keine Sicherheit.** Wenn in drei Pilotuntersuchungen mit zusammen rund 30 Personen keine Nebenwirkungen auffielen (so bei BPC-157, Poolton 2026, PMID 42885452), heißt das nur, dass keine sehr häufigen, sofort auftretenden Probleme aufgetreten sind. Eine Nebenwirkung, die eine von tausend Personen trifft, kann eine so kleine Studie gar nicht erkennen. Bei vielen Peptiden der Gruppen B, C und D ist das die Ausgangslage.
+**Fehlende Daten sind keine Sicherheit.** Wenn in drei kleinen Untersuchungen mit zusammen 30 Personen keine behandlungsbedingten Nebenwirkungen auffielen (so bei BPC-157, Poolton 2026, PMID 42885452), heißt das nur, dass keine sehr häufigen, sofort auftretenden Probleme aufgetreten sind. Eine Nebenwirkung, die eine von tausend Personen trifft, kann eine so kleine Studie gar nicht erkennen. Bei vielen Peptiden der Gruppen B, C und D ist das die Ausgangslage.
 
 **Relatives und absolutes Risiko.** Schlagzeilen nennen meist relative Zahlen: „dreimal so häufig“. Entscheidend für die eigene Abwägung ist aber, wie viele Menschen tatsächlich betroffen sind. Ein Beispiel aus diesem Teil: In einer dänisch-norwegischen Registerstudie war eine bestimmte Durchblutungsstörung des Sehnervs unter Semaglutid fast dreimal so häufig wie unter einem Vergleichsmedikament (Hazard Ratio 2,81). In absoluten Zahlen bedeutete das rund 1,4 zusätzliche Fälle pro 10.000 Personenjahre (Simonsen 2025, PMID 40098249). Beides ist richtig – und beides gehört zur Information.
 
@@ -20,7 +20,7 @@ Die folgende Übersicht fasst zusammen, welche Organsysteme bei welchen Peptiden
 
 | Organsystem | Betroffene Peptide | Häufigkeit/Belege | Kapitel |
 |---|---|---|---|
-| Magen-Darm | alle GLP-1-Medikamente, Pramlintid, Bremelanotid, Setmelanotid | sehr häufig; Übelkeit bei CagriSema-Kombination und Survodutid in einzelnen Studien bei der Mehrheit | Semaglutid, Survodutid, Cagrilintid |
+| Magen-Darm | alle GLP-1-Medikamente, Pramlintid, Bremelanotid, Setmelanotid | sehr häufig; CagriSema 79,6 % vs. 39,9 % unter Placebo (Garvey 2025, PMID 40544433) | Semaglutid, Survodutid, Cagrilintid |
 | Gallenblase | GLP-1-Klasse, v. a. bei Gewichtsabnahme | relatives Risiko 1,37 (alle Studien), 2,29 (Abnehmstudien) | Liraglutid, Tirzepatid |
 | Bauchspeicheldrüse | GLP-1-Klasse | Signal in Meta-Analysen, absolut selten | Exenatid, Semaglutid |
 | Schilddrüse | GLP-1-Klasse | Tierbefund gesichert, beim Menschen uneinheitlich | Liraglutid, Kapitel Krebsrisiko |
