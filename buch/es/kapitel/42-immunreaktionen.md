@@ -35,7 +35,7 @@ Para los medicamentos GLP-1 autorizados existen investigaciones sistemáticas. M
 
 Para los principios activos más recientes (retatrutida, survodutida, mazdutida, cagrilintida, amicretina y la maridebart cafraglutida, basada en anticuerpos) todavía no se han publicado análisis de conjunto comparables. En la maridebart cafraglutida esto es especialmente relevante, porque los medicamentos basados en anticuerpos pueden tener una inmunogenicidad propia (capítulo Maridebart cafraglutida).
 
-Para la mayoría de los péptidos del mercado gris no hay ningún dato sobre anticuerpos. Esto se aplica a BPC-157, TB-500, CJC-1295, ipamorelina, MOTS-c, humanina, epitalón y muchos otros. En los capítulos sobre MOTS-c, humanina y FOXO4-DRI se señala que los anticuerpos son concebibles con inyecciones repetidas, pero nunca se han estudiado. Quien se inyecta estas sustancias durante meses no puede saber, por tanto, si su organismo forma anticuerpos ni qué efecto tienen.
+Para la mayoría de los péptidos del mercado gris no hay ningún dato sobre anticuerpos. Esto se aplica a BPC-157, TB-500, CJC-1295, ipamorelina, MOTS-c, humanina, epitalon y muchos otros. En los capítulos sobre MOTS-c, humanina y FOXO4-DRI se señala que los anticuerpos son concebibles con inyecciones repetidas, pero nunca se han estudiado. Quien se inyecta estas sustancias durante meses no puede saber, por tanto, si su organismo forma anticuerpos ni qué efecto tienen.
 
 ### Reacciones en el lugar de inyección
 
@@ -66,7 +66,7 @@ Casos aislados muestran qué aspecto pueden tener estas reacciones:
 - Varios casos clínicos describen anafilaxia con la forma semanal de exenatida (Ornelas 2018, PMID 30350785) y una reacción alérgica a la exenatida y a la lixisenatida, pero no a la liraglutida (Shamriz 2019, PMID 31296642), un indicio de que los principios activos derivados de lagartos se reconocen de forma distinta que los similares a los humanos.
 - Con tirzepatida se ha descrito una anafilaxia bifásica, en la que los síntomas reaparecieron tras una mejoría inicial (He 2023, PMID 38186543).
 - Una mujer de 50 años desarrolló, cuatro horas después de su primera inyección de semaglutida de una farmacia de fórmulas magistrales, una hinchazón masiva de labios, lengua y faringe y tuvo que recibir ventilación mecánica durante cuatro días. Solo después se descubrió que, por error, se había inyectado diez veces la cantidad prevista (Kraft 2026, PMID 42194666).
-- Tras una infusión de Cerebrolysin, un hombre de 85 años desarrolló una anafilaxia potencialmente mortal, confirmada en el laboratorio (Trimmel 2024, PMID 39055722). Cerebrolysin es una mezcla de péptidos procedentes de cerebro de cerdo; los extractos animales como este o la timalina aportan, por principio, más proteínas ajenas (capítulos Cerebrolysin, Timalina).
+- Tras una infusión de cerebrolisina, un hombre de 85 años desarrolló una anafilaxia potencialmente mortal, confirmada en el laboratorio (Trimmel 2024, PMID 39055722). La cerebrolisina es una mezcla de péptidos procedentes de cerebro de cerdo; los extractos animales como este o la timalina aportan, por principio, más proteínas ajenas (capítulos Cerebrolisina, Timalina).
 
 También con los péptidos cosméticos son posibles las alergias, aunque raras. En un pequeño estudio con una crema que contenía, entre otros ingredientes, palmitoil pentapéptido-4, se produjo una sospecha de reacción alérgica; qué componente fue el responsable quedó sin aclarar (Röper 2004, PMID 15127162).
 
@@ -78,7 +78,7 @@ Algunos péptidos forman parte del propio sistema inmunitario. Eso los hace inte
 
 **El LL-37** es un péptido defensivo endógeno. En la psoriasis desempeña un papel clave: se une al material genético propio y lo hace visible para determinadas células inmunitarias, que a continuación liberan mensajeros inflamatorios (Lande 2007, PMID 17873860). En dos tercios de las personas con psoriasis moderada a grave se encontraron linfocitos T que reconocen específicamente el LL-37; allí actúa, por tanto, como un autoantígeno (Lande 2014, PMID 25470744). Tras inyecciones de LL-37 en metástasis cutáneas, una paciente presentó lesiones cutáneas inflamatorias de aspecto verrugoso (Dolkar 2018, PMID 29665030). Para las personas con psoriasis, rosácea u otras enfermedades autoinmunitarias es un indicio que debe tomarse en serio (capítulo LL-37).
 
-**Los péptidos inmunoestimulantes**, como la timosina alfa-1 y la timalina, deben estimular las defensas. Si esto resulta perjudicial en las enfermedades autoinmunitarias o tras un trasplante de órganos no se ha estudiado (capítulos Timosina alfa-1, Timalina).
+**Los péptidos inmunoestimulantes**, como la timosina alfa 1 y la timalina, deben estimular las defensas. Si esto resulta perjudicial en las enfermedades autoinmunitarias o tras un trasplante de órganos no se ha estudiado (capítulos Timosina alfa 1, Timalina).
 
 En los medicamentos GLP-1, una revisión sistemática describe, además de las reacciones cutáneas leves frecuentes, enfermedades inmunomediadas raras pero potencialmente graves, entre ellas angioedemas, enfermedades autoinmunitarias ampollosas, exantemas medicamentosos e inflamaciones vasculares (Gupta 2026, PMID 42930571). Su frecuencia no puede deducirse de los casos clínicos.
 
@@ -98,6 +98,6 @@ Para el mercado gris, esto significa: aunque un péptido en sí sea poco inmunó
 
 - Los anticuerpos contra los medicamentos peptídicos son frecuentes, pero en su mayoría no tienen consecuencias. Con la exenatida, los títulos altos pueden atenuar el efecto; con la tirzepatida se asocian a algo más de reacciones cutáneas y de hipersensibilidad.
 - Las reacciones en el lugar de inyección son la reacción inmunitaria más frecuente, y con algunos péptidos casi la norma. En cambio, un enrojecimiento creciente, calor, pus o fiebre apuntan a una infección.
-- La anafilaxia es muy rara con los medicamentos GLP-1 autorizados, del orden de unos pocos casos por cada 10.000 años de tratamiento. También hay casos clínicos con tirzepatida, Cerebrolysin y con una sobredosis accidental.
+- La anafilaxia es muy rara con los medicamentos GLP-1 autorizados, del orden de unos pocos casos por cada 10.000 años de tratamiento. También hay casos clínicos con tirzepatida, cerebrolisina y con una sobredosis accidental.
 - Para la mayoría de los péptidos del mercado gris faltan por completo los datos sobre anticuerpos y alergias. Las impurezas y las endotoxinas son allí un riesgo adicional e incalculable.
 - Quien ya haya tenido una reacción alérgica a un péptido debería indicarlo en cualquier tratamiento médico. Si se toleran principios activos emparentados solo puede aclararse con un médico.

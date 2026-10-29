@@ -25,11 +25,11 @@ El siguiente resumen recoge qué sistemas orgánicos se ven afectados con más f
 | Páncreas | clase GLP-1 | señal en metaanálisis, rara en términos absolutos | Exenatida, Semaglutida |
 | Tiroides | clase GLP-1 | hallazgo en animales confirmado, en humanos no concluyente | Liraglutida, capítulo Riesgo de cáncer |
 | Ojos | semaglutida (NAION, retinopatía) | muy raro; alrededor de 1,4 casos adicionales por cada 10.000 años-persona | Semaglutida |
-| Sistema cardiovascular, retención de líquidos | liberadores de GH, ibutamorén, bremelanotida, macimorelina, oxitocina | señal de insuficiencia cardiaca, picos de tensión arterial, prolongación del QT | Ibutamorén, Bremelanotida, Macimorelina |
+| Sistema cardiovascular, retención de líquidos | liberadores de GH, ibutamoreno, bremelanotida, macimorelina, oxitocina | señal de insuficiencia cardiaca, picos de tensión arterial, prolongación del QT | Ibutamoreno, Bremelanotida, Macimorelina |
 | Psique | clase GLP-1 (evaluada), setmelanotida, Semax | sin aumento del riesgo en 86 ECA | Semaglutida, Tirzepatida, Setmelanotida |
 | Piel, pigmento | melanotán II, setmelanotida, afamelanotida, bremelanotida, LL-37 | pigmentación con setmelanotida 62 %; casos clínicos de melanoma con melanotán II | Melanotán II, Setmelanotida |
 | Sistema hormonal | GHRP-2, GHRP-6, hexarelina, kisspeptina, gonadorelina | aumento de cortisol y prolactina; supresión del eje con la administración continua | Grupo C, Kisspeptina |
-| Glucemia | mecasermina, pramlintida, GLP-1 con insulina/sulfonilurea; eje de la GH | hipoglucemia en el 49 % con mecasermina; glucemia más alta con ibutamorén | Mecasermina, Pramlintida, Ibutamorén |
+| Glucemia | mecasermina, pramlintida, GLP-1 con insulina/sulfonilurea; eje de la GH | hipoglucemia en el 49 % con mecasermina; glucemia más alta con ibutamoreno | Mecasermina, Pramlintida, Ibutamoreno |
 
 ### Aparato digestivo
 
@@ -72,7 +72,7 @@ En resumen: es posible un pequeño aumento del riesgo, y la frecuencia absoluta 
 
 En los medicamentos GLP-1 predomina, según los conocimientos actuales, el beneficio para el corazón y los vasos: en SUSTAIN 6, los acontecimientos cardiovasculares graves fueron menos frecuentes con semaglutida (6,6 % frente a 8,9 %) (Marso 2016, PMID 27633186). Sin embargo, un ligero aumento de la frecuencia cardiaca en reposo es una característica de la clase y en los nuevos agonistas múltiples está en parte más acentuado. Con retatrutida apareció además en TRIUMPH-2 tensión arterial baja en el 1 al 6 %, frente a menos del 1 % con placebo (Bellido 2026, PMID 42810372). Véanse los capítulos Retatrutida y Survodutida.
 
-Un patrón muy distinto muestra el **eje de la hormona del crecimiento**. La hormona del crecimiento retiene agua en el organismo. En una revisión de estudios con personas mayores sanas, con hormona del crecimiento aparecieron con más frecuencia hinchazón de los tejidos, dolor articular, síndrome del túnel carpiano y aumento de las mamas en los hombres (Liu 2007, PMID 17227934). Para los liberadores, que estimulan la secreción endógena, cabe esperar un patrón similar. Se hizo más evidente con el ibutamorén oral: un estudio en personas mayores tras una fractura de cadera se interrumpió de forma anticipada por una señal de insuficiencia cardiaca (Adunsky 2011, PMID 21067829). Un corazón ya debilitado tolera mal el líquido adicional.
+Un patrón muy distinto muestra el **eje de la hormona del crecimiento**. La hormona del crecimiento retiene agua en el organismo. En una revisión de estudios con personas mayores sanas, con hormona del crecimiento aparecieron con más frecuencia hinchazón de los tejidos, dolor articular, síndrome del túnel carpiano y aumento de las mamas en los hombres (Liu 2007, PMID 17227934). Para los liberadores, que estimulan la secreción endógena, cabe esperar un patrón similar. Se hizo más evidente con el ibutamoreno oral: un estudio en personas mayores tras una fractura de cadera se interrumpió de forma anticipada por una señal de insuficiencia cardiaca (Adunsky 2011, PMID 21067829). Un corazón ya debilitado tolera mal el líquido adicional.
 
 Otros hallazgos aislados:
 
@@ -116,7 +116,7 @@ Los péptidos pueden desplazar la glucemia en ambas direcciones, y ambas son rel
 
 Una hipoglucemia grave tras una supuesta «inyección para adelgazar» en una persona sin diabetes es una señal de alarma de una falsificación con insulina. Los casos se describen en la Parte I, en el capítulo «El mercado gris».
 
-**Glucemia más alta.** La hormona del crecimiento contrarresta la insulina. Con ibutamorén, la glucemia en ayunas de personas mayores sanas aumentó de media 0,3 mmol/l, y el peso corporal 2,7 kg frente a 0,8 kg con placebo (Nass 2008, PMID 18981485). En la revisión sobre la hormona del crecimiento en personas mayores aparecieron con algo más de frecuencia una diabetes nueva y una alteración de la glucemia en ayunas (Liu 2007, PMID 17227934). Con tesamorelina, la glucemia en ayunas aumentó de forma transitoria en las primeras semanas (capítulo Tesamorelina). Por eso, para las personas con diabetes o con sus fases previas, el eje de la hormona del crecimiento es especialmente delicado.
+**Glucemia más alta.** La hormona del crecimiento contrarresta la insulina. Con ibutamoreno, la glucemia en ayunas de personas mayores sanas aumentó de media 0,3 mmol/l, y el peso corporal 2,7 kg frente a 0,8 kg con placebo (Nass 2008, PMID 18981485). En la revisión sobre la hormona del crecimiento en personas mayores aparecieron con algo más de frecuencia una diabetes nueva y una alteración de la glucemia en ayunas (Liu 2007, PMID 17227934). Con tesamorelina, la glucemia en ayunas aumentó de forma transitoria en las primeras semanas (capítulo Tesamorelina). Por eso, para las personas con diabetes o con sus fases previas, el eje de la hormona del crecimiento es especialmente delicado.
 
 ### Lo que se desprende de la comparación
 

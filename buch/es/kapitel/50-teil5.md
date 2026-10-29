@@ -45,7 +45,7 @@ De los 157 estudios de fase 3 en curso, 68 todavía estaban reclutando, 54 estab
 
 En el grupo A, aproximadamente uno de cada tres de estos estudios tardíos está promovido por universidades y hospitales, y los demás por empresas. Las fechas de finalización previstas se distribuyen así: 21 estudios deben terminar en 2026, 49 en 2027, 41 en 2028 y 44 entre 2029 y 2033. La verdadera ola de nuevos resultados llegará, por tanto, en 2027 y 2028.
 
-**Los grupos B a F** tienen un aspecto completamente distinto. Tras revisar las entradas, solo quedan cinco estudios de fase 3 en curso en los que un principio activo de este libro es realmente el fármaco en investigación: la timosina alfa-1 tras cirugía de cáncer colorrectal (NCT05086614), un colirio de timosina beta-4 en la queratopatía neurotrófica (NCT05555589), la elamipretida en la degeneración macular seca (NCT06373731), la afamelanotida en el vitíligo (NCT06109649) y el ibutamorén, que no es un péptido, en niños con déficit de hormona del crecimiento (NCT06948214). A ellos se suman algunos estudios combinados de fase 2/3, por ejemplo sobre oxitocina en espray nasal en el dolor crónico (NCT04903002) y sobre timosina alfa-1 en el fallo de implantación recurrente tras fecundación in vitro (NCT07675980). Para los «péptidos de investigación» más populares en internet (BPC-157, CJC-1295, ipamorelina, epitalón, Semax, Selank) no hay en curso ni un solo estudio de fase 3.
+**Los grupos B a F** tienen un aspecto completamente distinto. Tras revisar las entradas, solo quedan cinco estudios de fase 3 en curso en los que un principio activo de este libro es realmente el fármaco en investigación: la timosina alfa 1 tras cirugía de cáncer colorrectal (NCT05086614), un colirio de timosina beta 4 en la queratopatía neurotrófica (NCT05555589), la elamipretida en la degeneración macular seca (NCT06373731), la afamelanotida en el vitíligo (NCT06109649) y el ibutamoreno, que no es un péptido, en niños con déficit de hormona del crecimiento (NCT06948214). A ellos se suman algunos estudios combinados de fase 2/3, por ejemplo sobre oxitocina en espray nasal en el dolor crónico (NCT04903002) y sobre timosina alfa 1 en el fallo de implantación recurrente tras fecundación in vitro (NCT07675980). Para los «péptidos de investigación» más populares en internet (BPC-157, CJC-1295, ipamorelina, epitalon, Semax, Selank) no hay en curso ni un solo estudio de fase 3.
 
 ### Los estudios de fase 3 en curso más importantes
 
@@ -76,11 +76,11 @@ Las siguientes tablas muestran una selección según tamaño y relevancia. «Fin
 
 | Estudio / NCT | Principio activo | Pregunta | Finalización prevista |
 |---|---|---|---|
-| SEER-2, NCT05555589 | Timosina beta-4 (colirio) | curación de la córnea, 70 participantes | mayo de 2026 (resultado pendiente) |
+| SEER-2, NCT05555589 | Timosina beta 4 (colirio) | curación de la córnea, 70 participantes | mayo de 2026 (resultado pendiente) |
 | NCT06109649 | Afamelanotida | vitíligo con fototerapia, 200 participantes | junio de 2026 (resultado pendiente) |
-| NCT05086614 | Timosina alfa-1 | supervivencia libre de enfermedad tras cáncer colorrectal, 2500 participantes | marzo de 2027 |
+| NCT05086614 | Timosina alfa 1 | supervivencia libre de enfermedad tras cáncer colorrectal, 2500 participantes | marzo de 2027 |
 | ReNEW, NCT06373731 | Elamipretida (SS-31) | degeneración macular seca, 313 participantes | septiembre de 2027 |
-| NCT06948214 | Ibutamorén (LUM-201, no es un péptido) | crecimiento en niños con déficit hormonal, 150 participantes | enero de 2028 |
+| NCT06948214 | Ibutamoreno (LUM-201, no es un péptido) | crecimiento en niños con déficit hormonal, 150 participantes | enero de 2028 |
 
 Los detalles de cada estudio figuran en el apartado «Estudios en curso y perspectivas» del capítulo correspondiente.
 

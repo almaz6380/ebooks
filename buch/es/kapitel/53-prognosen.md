@@ -24,18 +24,18 @@ Los datos de los registros reflejan la situación de octubre de 2026.
 
 **Confirmado:**
 
-- El estudio de fase 3 sobre la timosina alfa-1 tras cirugía de cáncer colorrectal, con 2500 participantes, debe terminar en marzo de 2027 (NCT05086614).
-- El estudio de fase 3 SEER-2 con colirio de timosina beta-4 en la queratopatía neurotrófica había terminado, según el registro, en mayo de 2026; en octubre de 2026 no había resultados disponibles (NCT05555589).
-- Está previsto un estudio chino de fase 2 con timosina beta-4 recombinante tras un infarto de miocardio (NCT07586865, 189 participantes, finalización en mayo de 2028).
+- El estudio de fase 3 sobre la timosina alfa 1 tras cirugía de cáncer colorrectal, con 2500 participantes, debe terminar en marzo de 2027 (NCT05086614).
+- El estudio de fase 3 SEER-2 con colirio de timosina beta 4 en la queratopatía neurotrófica había terminado, según el registro, en mayo de 2026; en octubre de 2026 no había resultados disponibles (NCT05555589).
+- Está previsto un estudio chino de fase 2 con timosina beta 4 recombinante tras un infarto de miocardio (NCT07586865, 189 participantes, finalización en mayo de 2028).
 - Para BPC-157 está registrado un pequeño estudio aleatorizado con 30 participantes tras operaciones de hombro que todavía no ha comenzado (NCT07803250, finalización prevista en agosto de 2027).
 
-**Valoración del autor:** considero muy improbable una autorización de BPC-157, TB-500 o KPV en la UE hasta 2035. Justificación: no hay programas de fase 2 ni de fase 3, ningún fabricante con un interés reconocible en la autorización, e incluso un resultado positivo del pequeño estudio de hombro solo sería un primer indicio. Más realista es una autorización de nicho para el colirio de timosina beta-4 en una enfermedad rara de la córnea, siempre que SEER-2 resulte positivo. La timosina alfa-1 podría desempeñar en China un papel mayor en el seguimiento oncológico si el estudio de cáncer colorrectal es positivo, aunque con reservas por la falta de doble enmascaramiento.
+**Valoración del autor:** considero muy improbable una autorización de BPC-157, TB-500 o KPV en la UE hasta 2035. Justificación: no hay programas de fase 2 ni de fase 3, ningún fabricante con un interés reconocible en la autorización, e incluso un resultado positivo del pequeño estudio de hombro solo sería un primer indicio. Más realista es una autorización de nicho para el colirio de timosina beta 4 en una enfermedad rara de la córnea, siempre que SEER-2 resulte positivo. La timosina alfa 1 podría desempeñar en China un papel mayor en el seguimiento oncológico si el estudio de cáncer colorrectal es positivo, aunque con reservas por la falta de doble enmascaramiento.
 
 ### Grupo C – Eje de la hormona del crecimiento
 
 **Confirmado:**
 
-- El ibutamorén (no es un péptido) se está evaluando como LUM-201 en un estudio de fase 3 con 150 niños con déficit de hormona del crecimiento (NCT06948214, finalización en enero de 2028). Un estudio de fase 2 con 202 personas mayores con obesidad debe investigar LUM-201 añadido a semaglutida (NCT07754045, finalización en febrero de 2028).
+- El ibutamoreno (no es un péptido) se está evaluando como LUM-201 en un estudio de fase 3 con 150 niños con déficit de hormona del crecimiento (NCT06948214, finalización en enero de 2028). Un estudio de fase 2 con 202 personas mayores con obesidad debe investigar LUM-201 añadido a semaglutida (NCT07754045, finalización en febrero de 2028).
 - El registro a largo plazo de la mecasermina está en curso hasta finales de 2027 (NCT00903110).
 - Para la sermorelina, CJC-1295, la ipamorelina, GHRP-2, GHRP-6, la hexarelina e IGF-1 LR3 no hay registrado ningún estudio en curso (véanse los capítulos correspondientes).
 
@@ -46,8 +46,8 @@ Los datos de los registros reflejan la situación de octubre de 2026.
 **Confirmado:**
 
 - La elamipretida (SS-31) está autorizada en EE. UU. desde septiembre de 2025 por la vía acelerada para el síndrome de Barth, sujeta a un estudio confirmatorio (4TAZPower, NCT07531251, finalización en noviembre de 2029). El estudio de fase 3 ReNEW en la degeneración macular seca debe terminar en septiembre de 2027 (NCT06373731).
-- Sobre Cerebrolysin solo hay estudios menores en curso, por ejemplo en CADASIL (NCT05755997).
-- Para Semax, Selank, Dihexa, DSIP, pinealón, humanina, FOXO4-DRI y MOTS-c no figura ningún estudio registrado de forma fiable sobre la administración del principio activo. Para el epitalón solo hay un estudio no controlado en el que es uno de los cinco componentes de un sérum cutáneo (NCT07888595).
+- Sobre cerebrolisina solo hay estudios menores en curso, por ejemplo en CADASIL (NCT05755997).
+- Para Semax, Selank, Dihexa, DSIP, pinealon, humanina, FOXO4-DRI y MOTS-c no figura ningún estudio registrado de forma fiable sobre la administración del principio activo. Para el epitalon solo hay un estudio no controlado en el que es uno de los cinco componentes de un sérum cutáneo (NCT07888595).
 - En EE. UU. se está revisando la clasificación de varios de estos péptidos para las fórmulas magistrales de farmacia (véanse los capítulos Semax y Dihexa; Willis 2026, PMID 42752426).
 
 **Valoración del autor:** previsiblemente, los péptidos de longevidad seguirán siendo hasta 2035 lo que son hoy: sustancias con datos interesantes en animales y una gran demanda en línea, pero sin demostración de beneficio en humanos. Justificación: los estudios sobre «envejecimiento saludable» requieren muchos años y variables claras, que apenas existen todavía para ello; ningún fabricante tiene un programa reconocible. Si las autoridades estadounidenses autorizaran determinados péptidos para fórmulas magistrales, esto aumentaría su difusión sin mejorar los datos disponibles. La elamipretida es el único principio activo de este grupo con un camino realista hacia una autorización más amplia, y también solo si ReNEW resulta positivo.
@@ -111,9 +111,9 @@ Los datos de los registros reflejan la situación de octubre de 2026.
 | 2026/2027 | resultados de la comparación directa con tirzepatida | Retatrutida | NCT06662383 |
 | 2027 | resultados cardiovasculares sin diabetes | Tirzepatida | NCT05556512 |
 | 2027 | resultados cardiovasculares | CagriSema | NCT05669755 |
-| 2027 | seguimiento del cáncer colorrectal | Timosina alfa-1 | NCT05086614 |
+| 2027 | seguimiento del cáncer colorrectal | Timosina alfa 1 | NCT05086614 |
 | 2027 | degeneración macular | Elamipretida | NCT06373731 |
-| 2028 | crecimiento en niños | Ibutamorén (LUM-201) | NCT06948214 |
+| 2028 | crecimiento en niños | Ibutamoreno (LUM-201) | NCT06948214 |
 | 2029 | acontecimientos cardiacos y renales | Retatrutida | NCT06383390 |
 | 2030 | resultados cardiovasculares, insuficiencia cardiaca | Maridebart cafraglutida | NCT07037433, NCT07037459 |
 | 2030 | resultados cardiovasculares | Zenagamtida | NCT07861100 |

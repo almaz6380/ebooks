@@ -17,7 +17,7 @@ Como los medicamentos GLP-1 se utilizan en muchas mujeres en edad fértil y una 
 
 Estos datos ayudan a valorar una exposición *accidental*. No son una prueba de que un uso planificado durante el embarazo sea seguro. Para la lactancia, los datos son todavía más escasos; sobre el paso de la bremelanotida a la leche materna se ha completado un pequeño estudio con diez mujeres (NCT06867835).
 
-Algunos péptidos son peligrosos en el embarazo por su propio principio de acción. La oxitocina desencadena contracciones; su uso en espray nasal fuera del control médico es arriesgado durante el embarazo (capítulo Oxitocina). Para los péptidos del mercado gris como BPC-157, TB-500, epitalón o los liberadores de hormona del crecimiento no hay ningún dato sobre embarazo y lactancia.
+Algunos péptidos son peligrosos en el embarazo por su propio principio de acción. La oxitocina desencadena contracciones; su uso en espray nasal fuera del control médico es arriesgado durante el embarazo (capítulo Oxitocina). Para los péptidos del mercado gris como BPC-157, TB-500, epitalon o los liberadores de hormona del crecimiento no hay ningún dato sobre embarazo y lactancia.
 
 ### Anticoncepción oral y vaciamiento gástrico
 
@@ -57,7 +57,7 @@ Posiblemente, las tasas de aspiración son bajas porque los equipos de anestesia
 
 Como se describe en el capítulo «Efectos adversos por sistemas orgánicos», los medicamentos GLP-1 por sí solos apenas causan hipoglucemias peligrosas. Esto cambia en combinación con insulina o sulfonilureas, que reducen la glucemia con independencia del valor actual. En un estudio con exenatida añadida a metformina y una sulfonilurea se produjeron hipoglucemias leves a moderadas en hasta el 28 %, frente al 13 % con placebo; con una sulfonilurea en dosis bajas fueron menos frecuentes (Kendall 2005, PMID 15855571). Con la pramlintida, que se utiliza junto con insulina, las hipoglucemias graves fueron más frecuentes que con placebo (Edelman 2006, PMID 17003291). Por eso, las fichas técnicas prevén revisar la dosis de los demás antidiabéticos al inicio; su aplicación corresponde a los profesionales médicos.
 
-Para varios péptidos no autorizados es teóricamente concebible una reducción adicional de la glucemia, por ejemplo para MOTS-c o IGF-1 LR3 (capítulos MOTS-c, IGF-1 LR3). No se ha estudiado. A la inversa, los péptidos del eje de la hormona del crecimiento pueden aumentar la glucemia y desequilibrar un tratamiento antidiabético existente (capítulos Ibutamorén, Tesamorelina).
+Para varios péptidos no autorizados es teóricamente concebible una reducción adicional de la glucemia, por ejemplo para MOTS-c o IGF-1 LR3 (capítulos MOTS-c, IGF-1 LR3). No se ha estudiado. A la inversa, los péptidos del eje de la hormona del crecimiento pueden aumentar la glucemia y desequilibrar un tratamiento antidiabético existente (capítulos Ibutamoreno, Tesamorelina).
 
 ### Niños y adolescentes
 
@@ -80,7 +80,7 @@ Con la edad aumenta el riesgo de que los efectos adversos sean más graves. Para
 
 - **Pérdida de líquidos.** Los vómitos y la diarrea con medicamentos GLP-1 pueden provocar en personas mayores con más rapidez deshidratación y problemas renales.
 - **Masa muscular.** Quien ya tiene poca musculatura tolera mal una pérdida adicional (véase el apartado siguiente).
-- **Retención de líquidos y corazón.** La hormona del crecimiento provocó en personas mayores sanas con más frecuencia hinchazón de los tejidos, dolor articular y síndrome del túnel carpiano (Liu 2007, PMID 17227934). Un estudio con ibutamorén en personas mayores tras una fractura de cadera se interrumpió por una señal de insuficiencia cardiaca (Adunsky 2011, PMID 21067829). Precisamente los péptidos que se promocionan como productos «antienvejecimiento» suponen, por tanto, más bien una carga para los corazones mayores.
+- **Retención de líquidos y corazón.** La hormona del crecimiento provocó en personas mayores sanas con más frecuencia hinchazón de los tejidos, dolor articular y síndrome del túnel carpiano (Liu 2007, PMID 17227934). Un estudio con ibutamoreno en personas mayores tras una fractura de cadera se interrumpió por una señal de insuficiencia cardiaca (Adunsky 2011, PMID 21067829). Precisamente los péptidos que se promocionan como productos «antienvejecimiento» suponen, por tanto, más bien una carga para los corazones mayores.
 - **Varios medicamentos.** Las personas mayores toman a menudo muchos medicamentos al mismo tiempo. El vaciamiento gástrico retardado puede alterar su absorción, y las combinaciones con fármacos hipoglucemiantes aumentan el riesgo de hipoglucemia y caídas.
 
 ### Pérdida muscular con una pérdida de peso intensa
@@ -106,7 +106,7 @@ Para el trastorno por atracón, en el que se producen atracones sin conductas co
 
 Para los deportistas sometidos a controles antidopaje, la situación con los péptidos es especialmente delicada. Según la lista de prohibiciones de la Agencia Mundial Antidopaje (WADA), en líneas generales (situación en 2026, compruébese la información actualizada):
 
-- **Prohibidos (S2, hormonas peptídicas y factores de crecimiento):** todos los liberadores de hormona del crecimiento y las variantes de IGF-1, la timosina beta-4 y TB-500, ARA-290, en los hombres la gonadorelina y los liberadores de LH como la kisspeptina.
+- **Prohibidos (S2, hormonas peptídicas y factores de crecimiento):** todos los liberadores de hormona del crecimiento y las variantes de IGF-1, la timosina beta 4 y TB-500, ARA-290, en los hombres la gonadorelina y los liberadores de LH como la kisspeptina.
 - **Prohibidos (S0, sustancias no aprobadas):** sustancias sin autorización como medicamento de uso humano, como BPC-157, el melanotán II y los agonistas múltiples de GLP-1 que todavía están en estudio, como la retatrutida.
 - **Prohibido (S4):** MOTS-c como activador de la enzima AMPK.
 - **No prohibidos:** los medicamentos GLP-1 autorizados. No obstante, la semaglutida y la tirzepatida se incluyeron en el programa de seguimiento de la WADA para detectar un posible abuso; los laboratorios ya han desarrollado métodos de detección en sangre y en gotas de sangre seca (Borschel 2026, PMID 42874322).
