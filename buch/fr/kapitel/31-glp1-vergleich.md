@@ -31,14 +31,14 @@ Le tableau suivant présente, pour chaque substance, la principale étude contr�
 | Rétatrutide 12 mg | TRIUMPH-1 (Jastreboff 2026), PMID 42814954 | 80 semaines | −25,0 % vs −3,9 % |
 | Survodutide 6,0 mg | SYNCHRONIZE-1 (le Roux 2026), PMID 42253238 | 76 semaines | −13,0 % vs −5,4 % |
 | Mazdutide 6 mg | GLORY-1 (Ji 2025), PMID 40421736 | 48 semaines | −14,0 % vs +0,3 % |
-| Maridébart cafraglutide | Phase 2 (Jastreboff 2025), PMID 40549887 | 52 semaines | −12,3 à −16,2 % vs −2,5 % |
+| Maridebart cafraglutide | Phase 2 (Jastreboff 2025), PMID 40549887 | 52 semaines | −12,3 à −16,2 % vs −2,5 % |
 | Amycrétine (injection) | Phase 1b/2a (Dahl 2025), PMID 40550231 | 36 semaines | jusqu'à −24,3 % vs −1,1 % |
 | Orforglipron 36 mg (comprimé, pas un peptide) | ATTAIN-1 (Wharton 2025), PMID 40960239 | 72 semaines | −11,2 % vs −2,1 % |
 
 Pour situer les différentes lignes :
 
 - **Le liraglutide** est la seule substance pour laquelle l'étude d'autorisation indique la perte en kilogrammes comme résultat principal ; pour un poids initial de 106,2 kg, cela correspond grossièrement à 8 %. Dans l'étude de comparaison directe STEP 8, elle était de −6,4 % (voir plus bas).
-- **Le rétatrutide, CagriSema, le survodutide, le maridébart cafraglutide et l'amycrétine** ne sont pas autorisés (état octobre 2026). Pour le maridébart cafraglutide et l'amycrétine, on ne dispose que de données de phase 2 ; l'étude sur l'amycrétine portait sur 125 personnes, et la valeur concerne la dose la plus élevée d'une étude de recherche de dose.
+- **Le rétatrutide, CagriSema, le survodutide, le maridebart cafraglutide et l'amycrétine** ne sont pas autorisés (état octobre 2026). Pour le maridebart cafraglutide et l'amycrétine, on ne dispose que de données de phase 2 ; l'étude sur l'amycrétine portait sur 125 personnes, et la valeur concerne la dose la plus élevée d'une étude de recherche de dose.
 - **Le mazdutide** n'est autorisé qu'en Chine. GLORY-1 incluait, selon les critères chinois, des personnes à partir d'un IMC de 28 (ou de 24 avec une maladie associée) ; le poids initial moyen était de 87,2 kg. Dans GLORY-2, avec une dose plus élevée, la perte était de −16,65 % contre −1,50 % après 60 semaines (Gao 2026, PMID 42251595).
 - **Le survodutide** se distingue par une forte perte de poids sous placebo de 5,4 % ; l'analyse principale prenait expressément en compte les arrêts et les titrations prolongées.
 
@@ -78,7 +78,7 @@ L'HbA1c (« sucre à long terme ») indique la proportion du pigment rouge du sa
 | Rétatrutide | TRANSCEND-T2D-1 (Bajaj 2026), PMID 42250575 | 40 semaines | −1,69 à −1,94 vs −0,81 (placebo) |
 | Mazdutide | DREAMS-1 (Zhu 2026), PMID 41407859 | 24 semaines | −1,57 / −2,15 vs −0,14 (placebo) |
 | CagriSema | REIMAGINE 1 (Aroda 2026), PMID 42251860 | 40 semaines | −1,8 vs −0,1 (placebo) |
-| Maridébart cafraglutide | Phase 2 (Jastreboff 2025), PMID 40549887 | 52 semaines | −1,2 à −1,6 vs +0,1 (placebo) |
+| Maridebart cafraglutide | Phase 2 (Jastreboff 2025), PMID 40549887 | 52 semaines | −1,2 à −1,6 vs +0,1 (placebo) |
 | Orforglipron | ACHIEVE-1 (Rosenstock 2025), PMID 40544435 | 40 semaines | −1,24 à −1,48 vs −0,41 (placebo) |
 
 Les substances plus anciennes, l'exénatide et le pramlintide, abaissent l'HbA1c de moins d'un point de pourcentage, les agonistes hebdomadaires du GLP-1 d'environ 1,5 point, le tirzépatide et les nouveaux agonistes multiples d'environ 2 points. Pour la glycémie, les différences entre les substances récentes sont plus faibles que pour le poids. REIMAGINE 2 le montre particulièrement bien : CagriSema n'y a abaissé l'HbA1c que de 0,16 point de pourcentage de plus que le sémaglutide 2,4 mg seul (−1,91 vs −1,75 ; Buse 2026, PMID 42251859). L'ajout d'amyline agit donc surtout sur le poids.
@@ -109,7 +109,7 @@ Ce que montre ce tableau :
 - **Le tirzépatide a été testé contre un médicament efficace.** SURPASS-CVOT n'a pas comparé le tirzépatide à un placebo, mais au dulaglutide, qui avait lui-même réduit le risque dans REWIND. Le tirzépatide n'a pas été inférieur, la supériorité formelle a été manquée de peu. L'ampleur du bénéfice par rapport à l'absence de traitement ne peut en être estimée que par des modélisations.
 - **Insuffisance cardiaque :** en cas d'insuffisance cardiaque à fraction d'éjection préservée et d'obésité, le tirzépatide a réduit dans SUMMIT, chez 731 personnes, le critère combiné de décès cardiovasculaire ou d'aggravation de l'insuffisance cardiaque (9,9 % vs 15,3 % ; HR 0,62 ; Packer 2025, PMID 39555826). La différence reposait sur un nombre moindre d'événements d'aggravation ; les décès étaient rares. Dans STEP-HFpEF, le sémaglutide a amélioré les symptômes et la distance de marche (Kosiborod 2023, PMID 37622681), mais l'étude n'était pas conçue pour des critères cliniques forts.
 
-**Encore attendues (études enregistrées) :** les données de critères cliniques manquent pour les substances plus récentes. Les études en cours sont SURMOUNT-MMO sur le tirzépatide dans l'obésité sans diabète (NCT05556512), TRIUMPH-Outcomes sur le rétatrutide (NCT06383390), REDEFINE 3 sur CagriSema (NCT05669755), une étude sur le maridébart cafraglutide (NCT07037433) et une sur l'orforglipron (NCT07241390). Tant que ces résultats ne sont pas disponibles, la question reste ouverte de savoir si une perte de poids plus importante entraîne aussi moins d'infarctus et d'AVC. C'est une attente plausible, mais pas un résultat.
+**Encore attendues (études enregistrées) :** les données de critères cliniques manquent pour les substances plus récentes. Les études en cours sont SURMOUNT-MMO sur le tirzépatide dans l'obésité sans diabète (NCT05556512), TRIUMPH-Outcomes sur le rétatrutide (NCT06383390), REDEFINE 3 sur CagriSema (NCT05669755), une étude sur le maridebart cafraglutide (NCT07037433) et une sur l'orforglipron (NCT07241390). Tant que ces résultats ne sont pas disponibles, la question reste ouverte de savoir si une perte de poids plus importante entraîne aussi moins d'infarctus et d'AVC. C'est une attente plausible, mais pas un résultat.
 
 ### Rein et foie
 
