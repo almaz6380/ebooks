@@ -2,25 +2,25 @@
 
 Antes de a Parte II tratar de cada substância ativa, esta parte estabelece as bases. Você vai saber o que um peptídeo é de fato do ponto de vista químico, como um extrato de pâncreas de cães se tornou, em menos de um século, um dos grupos de medicamentos de maior faturamento do mundo, por que a maioria dos peptídeos precisa ser injetada, como ler um estudo sem se deixar enganar por manchetes, o que realmente há dentro dos frascos do mercado cinza e quais regras legais se aplicam.
 
-Quem quiser consultar apenas um peptídeo específico pode ir direto para a Parte II. Os capítulos desta parte, porém, explicam os conceitos e critérios usados o tempo todo lá – como „randomizado“, „desfecho substituto“, „nível de evidência B“ ou „Research Peptide“. Por isso, uma leitura rápida vale a pena também para leitoras e leitores com pressa.
+Quem quiser consultar apenas um peptídeo específico pode ir direto para a Parte II. Os capítulos desta parte, porém, explicam os conceitos e critérios usados o tempo todo lá – como “randomizado”, “desfecho substituto”, “nível de evidência B” ou “Research Peptide”. Por isso, uma leitura rápida vale a pena também para leitoras e leitores com pressa.
 
 ## O que são peptídeos – e o que não são
 
-A palavra „peptídeo“ fez uma carreira impressionante nos últimos anos. Ela aparece em cremes para a pele e em proteínas em pó, em anúncios de injeções para emagrecer e em fóruns on-line onde se discute sobre „peptídeos de cura“. No entanto, o termo designa, antes de tudo, apenas um determinado tipo de construção química – nem mais, nem menos. Ele não diz nada sobre se uma substância funciona, se é segura ou se sequer chega ao organismo. Este capítulo esclarece os conceitos básicos e desfaz alguns equívocos comuns.
+A palavra “peptídeo” fez uma carreira impressionante nos últimos anos. Ela aparece em cremes para a pele e em proteínas em pó, em anúncios de injeções para emagrecer e em fóruns on-line onde se discute sobre “peptídeos de cura”. No entanto, o termo designa, antes de tudo, apenas um determinado tipo de construção química – nem mais, nem menos. Ele não diz nada sobre se uma substância funciona, se é segura ou se sequer chega ao organismo. Este capítulo esclarece os conceitos básicos e desfaz alguns equívocos comuns.
 
 ### Aminoácidos: os blocos de construção
 
 Todos os peptídeos e proteínas são formados por aminoácidos. Um aminoácido é uma pequena molécula com dois componentes típicos: um grupo amino (que contém nitrogênio) e um grupo ácido (grupo carboxila). Entre eles fica um átomo de carbono central, ao qual está ligada uma chamada cadeia lateral. É essa cadeia lateral que diferencia os aminoácidos entre si: ela pode ser pequena e discreta, como na glicina, oleosa e repelente à água, como na leucina, eletricamente carregada, como na lisina, ou conter enxofre, como na cisteína.
 
-O corpo humano constrói suas proteínas essencialmente a partir de 20 aminoácidos padrão. Alguns deles ele consegue produzir sozinho; outros – os aminoácidos „essenciais“ – precisam ser obtidos pela alimentação. Além disso, existem centenas de outros aminoácidos que ocorrem na natureza ou são produzidos em laboratório. Para o desenvolvimento de medicamentos, esses aminoácidos „não naturais“ são importantes, porque podem tornar um peptídeo mais estável. Você encontra um exemplo mais adiante, no caso da semaglutida.
+O corpo humano constrói suas proteínas essencialmente a partir de 20 aminoácidos padrão. Alguns deles ele consegue produzir sozinho; outros – os aminoácidos “essenciais” – precisam ser obtidos pela alimentação. Além disso, existem centenas de outros aminoácidos que ocorrem na natureza ou são produzidos em laboratório. Para o desenvolvimento de medicamentos, esses aminoácidos “não naturais” são importantes, porque podem tornar um peptídeo mais estável. Você encontra um exemplo mais adiante, no caso da semaglutida.
 
-Importante para entender muitas promessas publicitárias: aminoácidos isolados não são peptídeos. Um suplemento alimentar com arginina, glutamina ou „BCAA“ contém aminoácidos livres, ou seja, blocos soltos – não um peptídeo.
+Importante para entender muitas promessas publicitárias: aminoácidos isolados não são peptídeos. Um suplemento alimentar com arginina, glutamina ou “BCAA” contém aminoácidos livres, ou seja, blocos soltos – não um peptídeo.
 
 ### A ligação peptídica
 
-Quando dois aminoácidos se unem, o grupo ácido de um reage com o grupo amino do outro. Nesse processo, uma molécula de água é liberada e forma-se uma ligação estável: a ligação peptídica. O resultado se chama dipeptídeo. Acrescentando-se mais um aminoácido, forma-se um tripeptídeo, depois um tetrapeptídeo, e assim por diante. Essa cadeia tem sempre uma direção: ela começa com um grupo amino livre (a „extremidade N-terminal“) e termina com um grupo ácido livre (a „extremidade C-terminal“). Por isso, em artigos científicos os aminoácidos são sempre escritos da esquerda para a direita, da extremidade N para a C – muitas vezes com abreviações de uma letra. O tripeptídeo „GHK“, por exemplo, significa glicina–histidina–lisina.
+Quando dois aminoácidos se unem, o grupo ácido de um reage com o grupo amino do outro. Nesse processo, uma molécula de água é liberada e forma-se uma ligação estável: a ligação peptídica. O resultado se chama dipeptídeo. Acrescentando-se mais um aminoácido, forma-se um tripeptídeo, depois um tetrapeptídeo, e assim por diante. Essa cadeia tem sempre uma direção: ela começa com um grupo amino livre (a “extremidade N-terminal”) e termina com um grupo ácido livre (a “extremidade C-terminal”). Por isso, em artigos científicos os aminoácidos são sempre escritos da esquerda para a direita, da extremidade N para a C – muitas vezes com abreviações de uma letra. O tripeptídeo “GHK”, por exemplo, significa glicina–histidina–lisina.
 
-A ordem dos aminoácidos é chamada de sequência ou estrutura primária. Ela é decisiva: dois peptídeos com os mesmos blocos em outra ordem são substâncias diferentes, com propriedades diferentes – assim como „Roma“ e „amor“ são formadas pelas mesmas letras.
+A ordem dos aminoácidos é chamada de sequência ou estrutura primária. Ela é decisiva: dois peptídeos com os mesmos blocos em outra ordem são substâncias diferentes, com propriedades diferentes – assim como “Roma” e “amor” são formadas pelas mesmas letras.
 
 ### Peptídeo ou proteína? Uma questão de tamanho
 
@@ -62,7 +62,7 @@ No organismo, os peptídeos desempenham funções muito variadas:
 - **Peptídeos antimicrobianos** como o LL-37 fazem parte da defesa imunológica inata.
 - **Componentes estruturais e produtos de degradação**: quando colágeno ou proteína do leite são digeridos, formam-se peptídeos curtos, alguns dos quais podem ser detectados no sangue.
 
-Essa diversidade explica por que substâncias tão diferentes são reunidas sob o termo „peptídeo“: tanto um medicamento para diabetes altamente eficaz e sujeito a prescrição quanto um colágeno em pó do supermercado.
+Essa diversidade explica por que substâncias tão diferentes são reunidas sob o termo “peptídeo”: tanto um medicamento para diabetes altamente eficaz e sujeito a prescrição quanto um colágeno em pó do supermercado.
 
 ### Vida curta: o problema básico dos peptídeos naturais
 
@@ -72,7 +72,7 @@ Para um medicamento, porém, essa vida curta é um problema. O GLP-1 natural é 
 
 A solução da pesquisa farmacêutica foi modificar a molécula de forma direcionada. Na semaglutida, dois aminoácidos do GLP-1 natural foram trocados – na posição 8 fica o aminoácido não natural Aib, que protege a molécula da DPP-4 – e um ácido graxo foi ligado à cadeia por meio de um conector. O ácido graxo faz com que a semaglutida se ligue de forma reversível, no sangue, à proteína transportadora albumina (Lau 2015, PMID 26308095). Assim se forma um depósito a partir do qual a substância é liberada lentamente. A meia-vida em humanos é de cerca de uma semana (Marso 2016, PMID 27633186) – por isso basta uma injeção por semana.
 
-Esse princípio – modelo natural, estabilizado de forma direcionada – percorre toda a medicina peptídica moderna. Mas isso também significa: um medicamento peptídico geralmente **não** é uma substância „natural“ no sentido de idêntica e inalterada em relação à do próprio corpo. É uma molécula inspirada na natureza, mas otimizada em laboratório.
+Esse princípio – modelo natural, estabilizado de forma direcionada – percorre toda a medicina peptídica moderna. Mas isso também significa: um medicamento peptídico geralmente **não** é uma substância “natural” no sentido de idêntica e inalterada em relação à do próprio corpo. É uma molécula inspirada na natureza, mas otimizada em laboratório.
 
 ### Como os peptídeos são produzidos
 
@@ -84,11 +84,11 @@ Há três caminhos básicos para obter peptídeos:
 
 **Obtenção de fontes naturais.** As primeiras insulinas eram extraídas de pâncreas de bovinos e suínos. Os peptídeos de colágeno são produzidos hoje decompondo-se com enzimas o colágeno de pele, ossos ou escamas de peixe em pedaços menores (hidrólise). Esses hidrolisados são misturas de muitos peptídeos diferentes – não uma substância ativa uniforme.
 
-O modo de produção é relevante para a segurança. Uma análise comparou produtos de imitação de semaglutida e liraglutida com os produtos originais e encontrou, em algumas das substâncias imitadas, novas impurezas, entre elas proteínas de maior peso molecular, metais em traços e resíduos de solventes (Hach 2024, PMID 39379664). Se essas diferenças são clinicamente relevantes ainda é uma questão em aberto – mas elas mostram que „a mesma substância ativa“ não significa automaticamente „o mesmo produto“. A análise, aliás, foi realizada pelo fabricante dos produtos originais, o que deve ser levado em conta na avaliação.
+O modo de produção é relevante para a segurança. Uma análise comparou produtos de imitação de semaglutida e liraglutida com os produtos originais e encontrou, em algumas das substâncias imitadas, novas impurezas, entre elas proteínas de maior peso molecular, metais em traços e resíduos de solventes (Hach 2024, PMID 39379664). Se essas diferenças são clinicamente relevantes ainda é uma questão em aberto – mas elas mostram que “a mesma substância ativa” não significa automaticamente “o mesmo produto”. A análise, aliás, foi realizada pelo fabricante dos produtos originais, o que deve ser levado em conta na avaliação.
 
 ### Peptídeos como medicamentos: um grupo em crescimento
 
-Os peptídeos ocupam um nicho entre as clássicas „moléculas pequenas“ (como aspirina ou metformina) e os grandes biológicos (como anticorpos). Eles podem se ligar de modo muito específico a um receptor, o que muitas vezes resulta em poucos efeitos indesejados em outros locais. Ao mesmo tempo, são mais difíceis de transformar em comprimidos e muitas vezes caros de produzir.
+Os peptídeos ocupam um nicho entre as clássicas “moléculas pequenas” (como aspirina ou metformina) e os grandes biológicos (como anticorpos). Eles podem se ligar de modo muito específico a um receptor, o que muitas vezes resulta em poucos efeitos indesejados em outros locais. Ao mesmo tempo, são mais difíceis de transformar em comprimidos e muitas vezes caros de produzir.
 
 Segundo um artigo de revisão, desde a introdução da insulina mais de 80 medicamentos peptídicos chegaram ao mercado, por exemplo contra diabetes, câncer, osteoporose, esclerose múltipla, infecção por HIV e dor crônica (Muttenthaler 2021, PMID 33536635). Outra análise contou mais de 150 peptídeos em desenvolvimento clínico ativo (Lau 2018, PMID 28720325). Os números variam conforme o critério de contagem, mas apontam na mesma direção: os peptídeos são uma parte consolidada e crescente da medicina.
 
@@ -98,9 +98,9 @@ Muitos medicamentos peptídicos talvez você conheça sem tê-los percebido como
 
 Justamente porque o termo se tornou tão popular, vale a pena examinar alguns equívocos comuns.
 
-**„Peptídeo“ não é selo de qualidade.** A construção química não diz nada sobre benefício ou risco. A insulina salva vidas todos os dias – na quantidade errada, pode ser fatal. Um peptídeo não é automaticamente mais suave do que um medicamento „químico“.
+**“Peptídeo” não é selo de qualidade.** A construção química não diz nada sobre benefício ou risco. A insulina salva vidas todos os dias – na quantidade errada, pode ser fatal. Um peptídeo não é automaticamente mais suave do que um medicamento “químico”.
 
-**„Do próprio corpo“ não quer dizer „inofensivo“.** Muitos peptídeos do mercado cinza são anunciados como „do próprio corpo“ ou „bioidênticos“. Mas também substâncias produzidas pelo próprio organismo podem causar danos em quantidades anormalmente altas, no lugar errado ou por muito tempo. Um exemplo é o sistema do hormônio do crescimento: a falta causa doença, e o excesso permanente também. Além disso, muitos peptídeos supostamente do próprio corpo são, na verdade, variações ou fragmentos que nem sequer existem dessa forma no organismo. O BPC-157, por exemplo, é uma sequência de 15 aminoácidos (Cox 2017, PMID 28035768) que seus descobridores derivaram do suco gástrico; como hormônio humano independente, ele não está estabelecido.
+**“Do próprio corpo” não quer dizer “inofensivo”.** Muitos peptídeos do mercado cinza são anunciados como “do próprio corpo” ou “bioidênticos”. Mas também substâncias produzidas pelo próprio organismo podem causar danos em quantidades anormalmente altas, no lugar errado ou por muito tempo. Um exemplo é o sistema do hormônio do crescimento: a falta causa doença, e o excesso permanente também. Além disso, muitos peptídeos supostamente do próprio corpo são, na verdade, variações ou fragmentos que nem sequer existem dessa forma no organismo. O BPC-157, por exemplo, é uma sequência de 15 aminoácidos (Cox 2017, PMID 28035768) que seus descobridores derivaram do suco gástrico; como hormônio humano independente, ele não está estabelecido.
 
 **Peptídeos não são esteroides.** Anabolizantes como a testosterona são hormônios esteroides com uma estrutura química completamente diferente, formada por anéis de carbono. Eles agem por meio de receptores no interior das células. No meio fitness, os dois grupos às vezes são colocados no mesmo saco; química e farmacologicamente, têm pouco em comum.
 
@@ -126,7 +126,7 @@ Três desenvolvimentos explicam o boom dos últimos anos:
 
 **Primeiro, os medicamentos GLP-1.** Os resultados de substâncias como semaglutida e tirzepatida no excesso de peso colocaram os peptídeos nas manchetes. No estudo de aprovação STEP 1, os participantes com semaglutida perderam em média 14,9% do peso corporal, contra 2,4% com placebo (Wilding 2021, PMID 33567185). Números assim nunca tinham sido alcançados com medicamentos.
 
-**Segundo, a fácil disponibilidade.** Hoje, peptídeos curtos podem ser sintetizados a baixo custo em muitos países e são oferecidos no mundo todo pela internet – muitas vezes com o rótulo „apenas para fins de pesquisa“. O que isso significa é tratado no capítulo sobre o mercado cinza.
+**Segundo, a fácil disponibilidade.** Hoje, peptídeos curtos podem ser sintetizados a baixo custo em muitos países e são oferecidos no mundo todo pela internet – muitas vezes com o rótulo “apenas para fins de pesquisa”. O que isso significa é tratado no capítulo sobre o mercado cinza.
 
 **Terceiro, as redes sociais.** Relatos de experiência, fotos de antes e depois e recomendações de influenciadores se espalham mais rápido que dados científicos. Um artigo de revisão descreve como publicidade digital, acesso ao mercado cinza e autoinjeção interagem e normalizam produtos cuja identidade, pureza e segurança são incertas (Hailu 2026, PMID 42437212).
 
@@ -138,4 +138,4 @@ Este livro quer oferecer aqui um contraponto sóbrio: para cada peptídeo, exami
 - No organismo, os peptídeos agem principalmente como mensageiros, por meio de receptores na superfície celular.
 - Peptídeos naturais são degradados rapidamente. Por isso, os medicamentos peptídicos modernos são quase sempre moléculas modificadas de forma direcionada.
 - Peptídeos são sintetizados quimicamente, produzidos por engenharia genética ou obtidos de fontes naturais. O modo de produção e a pureza influenciam a segurança.
-- „Peptídeo“ é uma descrição química, não um selo de qualidade. Se um determinado peptídeo funciona e é seguro em seres humanos, só bons estudos podem mostrar.
+- “Peptídeo” é uma descrição química, não um selo de qualidade. Se um determinado peptídeo funciona e é seguro em seres humanos, só bons estudos podem mostrar.

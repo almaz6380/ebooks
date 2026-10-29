@@ -1,12 +1,12 @@
 ## Como ler estudos corretamente
 
-„Estudos mostram…“ – poucas expressões são usadas com tanta frequência na publicidade de peptídeos. Ela pode significar qualquer coisa: um teste com células em uma placa de Petri, um experimento com doze ratos, o relato de experiência de um único paciente ou um estudo com 17.000 participantes ao longo de mais de três anos. Quem quer avaliar peptídeos precisa conhecer essas diferenças. Este capítulo é uma espécie de caixa de ferramentas. Ele explica os principais tipos de estudo, as armadilhas na interpretação dos resultados e como você mesmo pode verificar o que está por trás de uma afirmação.
+“Estudos mostram…” – poucas expressões são usadas com tanta frequência na publicidade de peptídeos. Ela pode significar qualquer coisa: um teste com células em uma placa de Petri, um experimento com doze ratos, o relato de experiência de um único paciente ou um estudo com 17.000 participantes ao longo de mais de três anos. Quem quer avaliar peptídeos precisa conhecer essas diferenças. Este capítulo é uma espécie de caixa de ferramentas. Ele explica os principais tipos de estudo, as armadilhas na interpretação dos resultados e como você mesmo pode verificar o que está por trás de uma afirmação.
 
 ### A pirâmide de evidências
 
 Os especialistas costumam organizar os tipos de estudo em uma pirâmide. Na base ficam as formas de estudo que fornecem muitos indícios, mas pouca certeza; no topo, aquelas que mostram de modo mais confiável se um tratamento funciona em seres humanos. De baixo para cima:
 
-1. **Estudos de laboratório e com células** (in vitro, „no vidro“): células ou tecidos são expostos a uma substância em laboratório.
+1. **Estudos de laboratório e com células** (in vitro, “no vidro”): células ou tecidos são expostos a uma substância em laboratório.
 2. **Estudos em animais** (geralmente em camundongos ou ratos).
 3. **Relatos de caso e séries de casos**: descrições de um ou de poucos pacientes.
 4. **Estudos observacionais**: observam-se pessoas que, por conta própria, tomam ou não tomam uma substância e compara-se o que acontece com elas.
@@ -20,7 +20,7 @@ A pirâmide é uma simplificação. Um estudo observacional grande e cuidadoso p
 
 Em culturas de células é possível investigar bem os mecanismos: qual receptor é ativado? Quais genes são lidos? As células crescem ou migram mais rápido? Esses estudos são indispensáveis para a pesquisa básica.
 
-Seus limites, porém, são grandes. Células em uma placa não têm circulação sanguínea, nem fígado para degradar substâncias, nem sistema imunológico, nem digestão. As concentrações usadas em laboratório costumam ser muito maiores do que as que poderiam ser alcançadas no corpo humano. Uma substância que mata células cancerosas na placa de Petri pode ser ineficaz ou tóxica no organismo. Quando um texto publicitário se apoia em „estudos“ e se trata de culturas de células, isso é um indício de um possível mecanismo – não de um benefício em seres humanos.
+Seus limites, porém, são grandes. Células em uma placa não têm circulação sanguínea, nem fígado para degradar substâncias, nem sistema imunológico, nem digestão. As concentrações usadas em laboratório costumam ser muito maiores do que as que poderiam ser alcançadas no corpo humano. Uma substância que mata células cancerosas na placa de Petri pode ser ineficaz ou tóxica no organismo. Quando um texto publicitário se apoia em “estudos” e se trata de culturas de células, isso é um indício de um possível mecanismo – não de um benefício em seres humanos.
 
 ### Estudos em animais: importantes, mas não transferíveis
 
@@ -77,7 +77,7 @@ Muitas substâncias fracassam entre a fase 2 e a fase 3. Um resultado promissor 
 
 ### Desfechos: o que, afinal, está sendo medido?
 
-Cada estudo define de antemão um **desfecho primário** – o objetivo principal pelo qual o sucesso é medido. A isso se somam desfechos secundários. Quando um resultado só é destacado como importante depois, é preciso cautela: quem mede muitos desfechos quase sempre encontra em algum lugar uma diferença „significativa“.
+Cada estudo define de antemão um **desfecho primário** – o objetivo principal pelo qual o sucesso é medido. A isso se somam desfechos secundários. Quando um resultado só é destacado como importante depois, é preciso cautela: quem mede muitos desfechos quase sempre encontra em algum lugar uma diferença “significativa”.
 
 É especialmente importante distinguir entre **desfechos duros** e **desfechos substitutos**:
 
@@ -99,13 +99,13 @@ Daí se podem tirar duas afirmações, ambas corretas:
 
 A partir da diferença absoluta é possível calcular o **número necessário para tratar (NNT)**: quantas pessoas precisam ser tratadas para que uma evite um evento. Aqui, pelos cálculos, são cerca de 67 pessoas ao longo de pouco mais de três anos. Isso não significa que o tratamento seja irrelevante – com milhões de pessoas afetadas, o efeito é significativo. Mas mostra que a maioria dos tratados não teria tido um evento mesmo sem o medicamento, e que alguns têm um evento apesar do medicamento.
 
-A publicidade e as manchetes preferem números relativos, porque soam maiores. Bons relatórios de estudos informam os dois. Por isso, preste sempre atenção à frequência de partida: „reduzir pela metade“ um risco de 2 para 1 em 10.000 é algo completamente diferente de reduzi-lo de 20 para 10 em 100.
+A publicidade e as manchetes preferem números relativos, porque soam maiores. Bons relatórios de estudos informam os dois. Por isso, preste sempre atenção à frequência de partida: “reduzir pela metade” um risco de 2 para 1 em 10.000 é algo completamente diferente de reduzi-lo de 20 para 10 em 100.
 
 O mesmo vale para os efeitos colaterais. No SELECT, 16,6% dos participantes com semaglutida interromperam o tratamento por eventos adversos, contra 8,2% com placebo (Lincoff 2023, PMID 37952131). Em termos relativos, é o dobro; em termos absolutos, uma diferença de 8,4 pontos percentuais.
 
 ### Significância estatística e intervalos de confiança
 
-Um **valor de p** indica a probabilidade de uma diferença pelo menos tão grande se, na realidade, não houvesse efeito. Se ele for menor que 0,05, um resultado costuma ser considerado „estatisticamente significativo“. Isso não quer dizer que o efeito seja grande ou relevante – em estudos muito grandes, até diferenças minúsculas se tornam significativas.
+Um **valor de p** indica a probabilidade de uma diferença pelo menos tão grande se, na realidade, não houvesse efeito. Se ele for menor que 0,05, um resultado costuma ser considerado “estatisticamente significativo”. Isso não quer dizer que o efeito seja grande ou relevante – em estudos muito grandes, até diferenças minúsculas se tornam significativas.
 
 Muitas vezes, mais informativo é o **intervalo de confiança de 95%**. Ele indica uma faixa na qual o efeito verdadeiro se encontra com alta probabilidade. No STEP 1, a diferença no peso corporal entre semaglutida e placebo foi de 12,4 pontos percentuais, com um intervalo de confiança de 11,5 a 13,4 (Wilding 2021, PMID 33567185). Um intervalo tão estreito mostra uma estimativa precisa. Em estudos pequenos, os intervalos costumam ser muito amplos – um sinal de que o efeito verdadeiro pode ser grande, pequeno ou até nulo.
 
@@ -133,7 +133,7 @@ Nem todo estudo é publicado – e são sobretudo os decepcionantes que desapare
 
 Em resposta a esses achados, o Comitê Internacional de Editores de Revistas Médicas declarou em 2004 que os estudos clínicos precisam ser inscritos em um registro público antes de começar para poderem ser publicados depois (DeAngelis 2004, PMID 15355936). Hoje, os registros são uma ferramenta central:
 
-- O **ClinicalTrials.gov** (EUA) é o maior registro. Cada estudo recebe um número no formato „NCT“ mais oito dígitos. O estudo SELECT, por exemplo, tem o número NCT03574597.
+- O **ClinicalTrials.gov** (EUA) é o maior registro. Cada estudo recebe um número no formato “NCT” mais oito dígitos. O estudo SELECT, por exemplo, tem o número NCT03574597.
 - Na **UE**, os ensaios clínicos são registrados no Clinical Trials Information System (CTIS) da Agência Europeia de Medicamentos; estudos mais antigos estão no EU Clinical Trials Register.
 - A **Organização Mundial da Saúde** reúne muitos registros nacionais em um portal de busca (ICTRP).
 
@@ -145,7 +145,7 @@ No registro constam, entre outras coisas, o desenho planejado do estudo, o núme
 - **Revistas científicas com padrões questionáveis.** Algumas revistas publicam praticamente tudo mediante pagamento.
 - **Estudos que não podem ser encontrados.** Quando um estudo citado não é encontrado no PubMed nem em um registro, é preciso cautela.
 - **Transposição de doentes para saudáveis.** Uma substância que ajuda em uma determinada doença não precisa trazer benefício a pessoas saudáveis – nelas, a relação risco-benefício é completamente diferente.
-- **Transposição de uma substância para outra.** Resultados sobre a semaglutida não valem automaticamente para um produto do mercado cinza em cujo rótulo está escrito „semaglutida“ – e estudos sobre a timosina beta-4 não valem automaticamente para o fragmento „TB-500“.
+- **Transposição de uma substância para outra.** Resultados sobre a semaglutida não valem automaticamente para um produto do mercado cinza em cujo rótulo está escrito “semaglutida” – e estudos sobre a timosina beta-4 não valem automaticamente para o fragmento “TB-500”.
 
 ### Dez perguntas para fazer a qualquer estudo
 
@@ -169,7 +169,7 @@ Cada peptídeo da Parte II recebe um nível de evidência:
 - **C**: apenas estudos em humanos pequenos ou não controlados.
 - **D**: apenas estudos em animais e em laboratório.
 
-O nível avalia a **quantidade e a qualidade dos dados em seres humanos**, e não se uma substância é „boa“ ou „ruim“. Um peptídeo de nível A pode ter efeitos colaterais consideráveis, e um peptídeo de nível D pode muito bem ser útil no futuro – ele apenas ainda não foi suficientemente estudado. Além disso, a classificação vale para um uso específico: uma substância pode estar bem comprovada para uma doença e não ter comprovação nenhuma para outra.
+O nível avalia a **quantidade e a qualidade dos dados em seres humanos**, e não se uma substância é “boa” ou “ruim”. Um peptídeo de nível A pode ter efeitos colaterais consideráveis, e um peptídeo de nível D pode muito bem ser útil no futuro – ele apenas ainda não foi suficientemente estudado. Além disso, a classificação vale para um uso específico: uma substância pode estar bem comprovada para uma doença e não ter comprovação nenhuma para outra.
 
 ### O essencial em resumo
 

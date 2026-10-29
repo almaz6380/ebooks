@@ -2,7 +2,7 @@
 
 Quem pesquisa peptídeos na internet logo encontra lojas, vídeos e fóruns em que certas substâncias são descritas com grandes palavras: elas supostamente reparam tendões, freiam o envelhecimento, derretem gordura ou aguçam a memória. Este capítulo contrapõe a essas promessas publicitárias típicas o que os estudos em humanos realmente mostraram.
 
-Foram selecionados os peptídeos mais promovidos na internet de língua alemã e inglesa no ano de 2026. As promessas estão formuladas de modo geral e resumem afirmações recorrentes; não vêm de um fornecedor específico. A coluna „O que os estudos em humanos mostram“ baseia-se nos capítulos da Parte II, nos quais as fontes são discutidas em detalhe. Experimentos com animais e resultados de laboratório estão expressamente identificados como tais.
+Foram selecionados os peptídeos mais promovidos na internet de língua alemã e inglesa no ano de 2026. As promessas estão formuladas de modo geral e resumem afirmações recorrentes; não vêm de um fornecedor específico. A coluna “O que os estudos em humanos mostram” baseia-se nos capítulos da Parte II, nos quais as fontes são discutidas em detalhe. Experimentos com animais e resultados de laboratório estão expressamente identificados como tais.
 
 Uma observação preliminar: o fato de um benefício não estar comprovado não significa automaticamente que a substância seja ineficaz. Significa que ninguém sabe – nem mesmo os fornecedores que a vendem. Da mesma forma: o fato de não haver efeitos colaterais publicados não significa, em substâncias pouco estudadas, que elas sejam seguras, mas apenas que ninguém os procurou sistematicamente.
 
@@ -12,10 +12,10 @@ Uma observação preliminar: o fato de um benefício não estar comprovado não 
 |---|---|---|---|
 | BPC-157 | Acelera a cicatrização de tendões, ligamentos, músculos e intestino | Três investigações não controladas com um total de 30 pessoas (joelho, bexiga, tolerabilidade); força probatória muito baixa segundo revisão sistemática (Poolton 2026, PMID 42885452). Os muitos resultados positivos vêm de experimentos com animais, em sua maioria de um único grupo de pesquisa. | C |
 | TB-500 | Repara tecidos, tendões e músculos, aumenta a mobilidade | O TB-500 nunca foi testado em um estudo publicado em humanos. A proteína completa timosina beta-4 não reduziu significativamente o tamanho do infarto, no geral, após infarto do miocárdio (Zhang 2025, PMID 41229390). Produtos do mercado cinza nem sempre continham o que era declarado (Delcourt 2023, PMID 36482504). | D (TB-500) |
-| CJC-1295 | Aumenta o hormônio do crescimento para ganho muscular, perda de gordura e sono | Em pessoas saudáveis, o hormônio do crescimento e o IGF-1 aumentaram por cerca de seis a onze dias após uma injeção única (Teichman 2006, PMID 16352683). Se disso resulta um benefício nunca foi investigado. Para a variante mais vendida, sem „DAC“, não há estudo em humanos. | C |
+| CJC-1295 | Aumenta o hormônio do crescimento para ganho muscular, perda de gordura e sono | Em pessoas saudáveis, o hormônio do crescimento e o IGF-1 aumentaram por cerca de seis a onze dias após uma injeção única (Teichman 2006, PMID 16352683). Se disso resulta um benefício nunca foi investigado. Para a variante mais vendida, sem “DAC”, não há estudo em humanos. | C |
 | Ipamorelina | Estimulante suave do hormônio do crescimento, sem efeitos colaterais | Único estudo de eficácia publicado: 117 pessoas após cirurgia intestinal, sem benefício significativo (Beck 2014, PMID 25331030). Sobre músculos, gordura, sono ou envelhecimento, nenhum estudo em humanos. | B |
 | Epitalon | Alonga os telômeros e faz o relógio biológico andar para trás | Alongamento de telômeros apenas em culturas de células (Khavinson 2003, PMID 12937682). Em camundongos, nenhum aumento da expectativa de vida média (Anisimov 2003, PMID 14501183). Nenhum estudo randomizado suficientemente grande em humanos. | C |
-| MOTS-c | „Exercício em injeção“: mais resistência, menos gordura, melhor ação da insulina | Esses efeitos apareceram em camundongos (Lee 2015, PMID 25738459). Em humanos, há apenas medições dos níveis endógenos, nenhum estudo publicado com administração de MOTS-c. | D |
+| MOTS-c | “Exercício em injeção”: mais resistência, menos gordura, melhor ação da insulina | Esses efeitos apareceram em camundongos (Lee 2015, PMID 25738459). Em humanos, há apenas medições dos níveis endógenos, nenhum estudo publicado com administração de MOTS-c. | D |
 | Semax | Aumenta concentração, memória e desempenho | Estudos russos pequenos, em sua maioria não randomizados, em AVC, como um estudo com 110 pessoas (Gusev 2018, PMID 29798983). Para pessoas saudáveis, nenhum dado conclusivo. | C |
 | Selank | Alivia a ansiedade sem sonolência nem dependência | Três pequenos estudos russos sem grupo placebo, entre eles 62 pessoas em comparação com um benzodiazepínico (Zozulia 2008, PMID 18454096). Não há estudos sobre concentração em pessoas saudáveis. | C |
 | Melanotan II | Bronzeado sem queimadura solar, mais libido | Pequenos estudos-piloto dos anos 1990 com cerca de duas dúzias de pessoas, náusea frequente (Wessells 2000, PMID 11035391). Relatos de caso sobre novas pintas, melanomas e priapismo. Frascos de lojas online continham 4,32 a 8,84 mg em vez de 10 mg (Breindahl 2015, PMID 24771717). | C |
@@ -43,7 +43,7 @@ No caso do BPC-157, há ainda um segundo problema: os estudos positivos em anima
 
 #### 2. Um valor medido ainda não é um benefício
 
-O CJC-1295 aumenta o hormônio do crescimento, o Epitalon ativa a telomerase em culturas de células, cápsulas de glutationa aumentam o nível de glutationa no sangue. Esses são valores substitutos („desfechos substitutos“, ver Parte I). Se disso resulta algo que importa para as pessoas – mais força muscular, vida mais longa, menos doenças – é uma questão à parte, que exige estudos próprios. No caso do hormônio do crescimento, o exemplo do ibutamoren mostra quão grande pode ser a lacuna: em 65 idosos saudáveis, a massa magra aumentou 1,1 kg ao longo de um ano, mas força e função física não melhoraram (Nass 2008, PMID 18981485).
+O CJC-1295 aumenta o hormônio do crescimento, o Epitalon ativa a telomerase em culturas de células, cápsulas de glutationa aumentam o nível de glutationa no sangue. Esses são valores substitutos (“desfechos substitutos”, ver Parte I). Se disso resulta algo que importa para as pessoas – mais força muscular, vida mais longa, menos doenças – é uma questão à parte, que exige estudos próprios. No caso do hormônio do crescimento, o exemplo do ibutamoren mostra quão grande pode ser a lacuna: em 65 idosos saudáveis, a massa magra aumentou 1,1 kg ao longo de um ano, mas força e função física não melhoraram (Nass 2008, PMID 18981485).
 
 #### 3. Confusão de substâncias
 
@@ -51,7 +51,7 @@ Várias promessas baseiam-se em estudos com uma substância diferente daquela qu
 
 - **TB-500** é um fragmento modificado. Os estudos em humanos referem-se à proteína completa timosina beta-4 – e mesmo esses quase não tratam de tendões, ligamentos ou músculos.
 - **Epitalon** é um tetrapeptídeo sintético. O estudo frequentemente citado sobre vida mais longa referia-se ao extrato bovino epitalamina, não era randomizado e nunca foi repetido de forma independente.
-- **CJC-1295** é vendido, em sua maioria, sem o grupo „DAC“ que foi usado nos estudos em humanos.
+- **CJC-1295** é vendido, em sua maioria, sem o grupo “DAC” que foi usado nos estudos em humanos.
 - **Retatrutida** do mercado cinza não é o medicamento dos estudos. Análises laboratoriais de outros peptídeos do mercado cinza mostram que os frascos frequentemente contêm menos, mais ou outra substância do que o declarado; em ipamorelina e CJC-1295, laboratórios encontraram moléculas modificadas e não declaradas (Gajda 2019, PMID 30136411).
 
 #### 4. Estudos negativos não são mencionados
@@ -62,9 +62,9 @@ Para vários peptídeos existem, sim, estudos randomizados – só que eles não
 
 Semax, Selank, Epitalon e Pinealon foram estudados quase exclusivamente na Rússia, em geral pelos próprios desenvolvedores, em grupos pequenos e frequentemente sem comparação com placebo. Isso não torna os resultados automaticamente falsos. Mas significa que eles nunca foram testados nas condições exigidas hoje para uma aprovação: registro prévio, cegamento, tamanho suficiente e confirmação por grupos independentes.
 
-#### 6. „Sem efeitos colaterais“ geralmente significa „não estudado“
+#### 6. “Sem efeitos colaterais” geralmente significa “não estudado”
 
-A afirmação de que um peptídeo é „bem tolerado“ ou „sem efeitos colaterais“ apoia-se, no caso do BPC-157, em 30 pessoas no total. Com tão poucos participantes, só é possível reconhecer problemas frequentes e imediatos; um efeito colateral que afete uma em cada mil pessoas permaneceria invisível. Em substâncias que intensificam sinais de crescimento – liberadores do hormônio do crescimento, IGF-1 LR3, peptídeos que favorecem a formação de novos vasos –, existe além disso uma preocupação teórica, mas não verificada, com o crescimento de tumores. No caso do Melanotan II, relatos de caso descrevem pintas novas e alteradas e melanomas; uma relação causal não está comprovada, mas também não está descartada. Somam-se a isso os riscos dos próprios produtos: em frascos de Melanotan II do mercado cinza, encontrou-se menos substância ativa do que o declarado e impurezas desconhecidas (Breindahl 2015, PMID 24771717). Mais sobre isso na Parte IV.
+A afirmação de que um peptídeo é “bem tolerado” ou “sem efeitos colaterais” apoia-se, no caso do BPC-157, em 30 pessoas no total. Com tão poucos participantes, só é possível reconhecer problemas frequentes e imediatos; um efeito colateral que afete uma em cada mil pessoas permaneceria invisível. Em substâncias que intensificam sinais de crescimento – liberadores do hormônio do crescimento, IGF-1 LR3, peptídeos que favorecem a formação de novos vasos –, existe além disso uma preocupação teórica, mas não verificada, com o crescimento de tumores. No caso do Melanotan II, relatos de caso descrevem pintas novas e alteradas e melanomas; uma relação causal não está comprovada, mas também não está descartada. Somam-se a isso os riscos dos próprios produtos: em frascos de Melanotan II do mercado cinza, encontrou-se menos substância ativa do que o declarado e impurezas desconhecidas (Breindahl 2015, PMID 24771717). Mais sobre isso na Parte IV.
 
 ### Como distinguir afirmações sérias de afirmações não sérias
 
@@ -73,12 +73,12 @@ O checklist a seguir ajuda a avaliar afirmações sobre peptídeos – em lojas,
 #### Perguntas sobre a fonte
 
 - **Quem está falando?** A pessoa ou o site vende a substância, oferece cursos, consultorias ou códigos de desconto? Um interesse financeiro não torna uma afirmação falsa, mas é um motivo para olhar com mais atenção.
-- **São citados estudos – e é possível encontrá-los?** Afirmações sérias citam uma fonte verificável: um PMID, um DOI ou um número de registro (NCT). Você pode digitar qualquer PMID gratuitamente no PubMed e ler o resumo por conta própria. Formulações como „estudos mostram“ sem indicação concreta são um sinal de alerta.
+- **São citados estudos – e é possível encontrá-los?** Afirmações sérias citam uma fonte verificável: um PMID, um DOI ou um número de registro (NCT). Você pode digitar qualquer PMID gratuitamente no PubMed e ler o resumo por conta própria. Formulações como “estudos mostram” sem indicação concreta são um sinal de alerta.
 - **O estudo citado corresponde à afirmação?** Verifique se o estudo realmente investigou a substância vendida, a aplicação promovida e seres humanos – ou se tratava de uma molécula aparentada, de outra doença ou de ratos.
 
 #### Perguntas sobre o estudo
 
-- **Ser humano, animal ou cultura de células?** Se o resumo diz „rats“, „mice“, „in vitro“ ou „cell culture“, nada se afirma sobre o efeito em humanos.
+- **Ser humano, animal ou cultura de células?** Se o resumo diz “rats”, “mice”, “in vitro” ou “cell culture”, nada se afirma sobre o efeito em humanos.
 - **Houve um grupo de comparação?** Sem grupo placebo ou controle, não é possível distinguir se uma melhora vem da substância, do tempo, de outros tratamentos ou da expectativa. Justamente em dor, humor ou sono, o efeito placebo é grande.
 - **Quantos participantes?** Estudos com 10 ou 20 pessoas podem dar indícios, mas não comprovar um benefício nem reconhecer efeitos colaterais raros.
 - **O que foi medido?** Um valor laboratorial que sobe não é um benefício perceptível. Pergunte: foi medido o que importa para os afetados – dor, função, eventos de doença, qualidade de vida?
@@ -87,18 +87,18 @@ O checklist a seguir ajuda a avaliar afirmações sobre peptídeos – em lojas,
 
 #### Sinais de alerta na linguagem
 
-- Promessas que abrangem ao mesmo tempo queixas muito diferentes („para articulações, intestino, pele, cérebro e sistema imunológico“).
-- Termos como „remédio milagroso“, „dica secreta“, „o que os médicos não contam a você“ ou „suprimido pela indústria farmacêutica“.
-- A afirmação „sem efeitos colaterais“ para uma substância pouco estudada em humanos.
+- Promessas que abrangem ao mesmo tempo queixas muito diferentes (“para articulações, intestino, pele, cérebro e sistema imunológico”).
+- Termos como “remédio milagroso”, “dica secreta”, “o que os médicos não contam a você” ou “suprimido pela indústria farmacêutica”.
+- A afirmação “sem efeitos colaterais” para uma substância pouco estudada em humanos.
 - Relatos de experiência e fotos de antes e depois em vez de dados de estudos.
-- A indicação „apenas para fins de pesquisa“ ou „não destinado ao consumo humano“ em um produto que, ao mesmo tempo, é promovido com efeitos em humanos. Essa contradição mostra que o fornecedor quer contornar as regras de medicamentos (ver Parte I).
+- A indicação “apenas para fins de pesquisa” ou “não destinado ao consumo humano” em um produto que, ao mesmo tempo, é promovido com efeitos em humanos. Essa contradição mostra que o fornecedor quer contornar as regras de medicamentos (ver Parte I).
 - Sugestões de doses, ciclos ou pacotes combinados de vários peptídeos para substâncias sem aprovação. Para esses esquemas não há base em estudos.
 
 #### Sinais de uma apresentação séria
 
 - Resultados de animais e de laboratório são expressamente identificados como tais.
 - Estudos negativos e contraditórios são citados, não apenas os positivos.
-- A incerteza é declarada abertamente („Os dados não são suficientes para avaliar …“).
+- A incerteza é declarada abertamente (“Os dados não são suficientes para avaliar …”).
 - A situação legal e o status de doping são mencionados.
 - Há uma indicação clara de que medicamentos devem ser usados sob acompanhamento médico e de que produtos do mercado cinza não são verificados.
 
@@ -110,7 +110,7 @@ Se você tiver pouco tempo, muitas vezes bastam três perguntas:
 2. Existe pelo menos um estudo randomizado e controlado por placebo em humanos que tenha mostrado o benefício alegado?
 3. O produto vem da farmácia – ou de uma fonte cujo conteúdo ninguém verifica?
 
-Se a resposta às três perguntas for „não“, a promessa se baseia em esperança, não em evidências.
+Se a resposta às três perguntas for “não”, a promessa se baseia em esperança, não em evidências.
 
 ### Conclusão
 

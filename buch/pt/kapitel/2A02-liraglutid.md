@@ -23,7 +23,7 @@ Da liraglutida surgiu mais tarde a semaglutida: a mesma ideia básica, mas com u
 
 ### Estudos em humanos
 
-A liraglutida está entre os medicamentos peptídicos mais bem estudados. A busca no PubMed analisada para este livro (termo „liraglutide“ no título ou no resumo, data da busca outubro de 2026) resultou em 613 estudos em humanos – mais do que para qualquer outro peptídeo deste livro. O ClinicalTrials.gov registra 517 entradas. A seguir, o foco está nos estudos de aprovação e de desfechos; além deles, há centenas de estudos menores sobre fígado, coração, cérebro, fertilidade e transtornos alimentares.
+A liraglutida está entre os medicamentos peptídicos mais bem estudados. A busca no PubMed analisada para este livro (termo “liraglutide” no título ou no resumo, data da busca outubro de 2026) resultou em 613 estudos em humanos – mais do que para qualquer outro peptídeo deste livro. O ClinicalTrials.gov registra 517 entradas. A seguir, o foco está nos estudos de aprovação e de desfechos; além deles, há centenas de estudos menores sobre fígado, coração, cérebro, fertilidade e transtornos alimentares.
 
 #### Diabetes tipo 2: o programa LEAD
 

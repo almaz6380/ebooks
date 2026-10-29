@@ -1,6 +1,6 @@
 ## Comprimidos em vez de injeções
 
-Quase todos os medicamentos peptídicos deste livro são injetados. Há uma razão simples para isso: o trato gastrointestinal é feito para decompor proteínas e peptídeos em seus componentes. O que faz sentido para a alimentação torna um peptídeo inutilizável como medicamento antes de ele chegar ao sangue. A Parte I descreveu esses obstáculos em detalhe (capítulo „Como os peptídeos entram no corpo“).
+Quase todos os medicamentos peptídicos deste livro são injetados. Há uma razão simples para isso: o trato gastrointestinal é feito para decompor proteínas e peptídeos em seus componentes. O que faz sentido para a alimentação torna um peptídeo inutilizável como medicamento antes de ele chegar ao sangue. A Parte I descreveu esses obstáculos em detalhe (capítulo “Como os peptídeos entram no corpo”).
 
 Que mesmo assim se pesquise intensamente em comprimidos tem vários motivos. Muitas pessoas não gostam de se injetar. Injeções geralmente precisam ser refrigeradas, e canetas são caras de fabricar. E como os medicamentos contra a obesidade, segundo o conhecimento atual, precisam ser tomados de forma contínua para fazer efeito, toda facilidade para o tratamento de longo prazo conta. Uma revisão descreve que formas orais de insulina, calcitonina, paratormônio e vasopressina já foram testadas em estudos clínicos e que somente a semaglutida trouxe o avanço para uma substância de uso amplo (Drucker 2020, PMID 31848464).
 
@@ -26,7 +26,7 @@ Nos dois estudos com comprimido, queixas gastrointestinais foram frequentes: 80%
 
 Os números ficam próximos dos da injeção. Falta, no entanto, uma grande comparação direta entre comprimido e injeção na obesidade, e comparações cruzadas entre estudos são apenas uma orientação aproximada.
 
-**Uma desvantagem raramente mencionada:** como apenas uma fração é absorvida, o comprimido precisa de muitas vezes mais substância. Uma estimativa de custos para genéricos após a expiração da patente chegou, para a semaglutida injetável, a 28 a 140 dólares americanos por pessoa por ano, e para o comprimido a 186 a 380 dólares americanos (Levi 2026, PMID 42437874). O comprimido não é, portanto, automaticamente a solução mais barata (mais sobre isso no capítulo „Patentes, genéricos e preços“).
+**Uma desvantagem raramente mencionada:** como apenas uma fração é absorvida, o comprimido precisa de muitas vezes mais substância. Uma estimativa de custos para genéricos após a expiração da patente chegou, para a semaglutida injetável, a 28 a 140 dólares americanos por pessoa por ano, e para o comprimido a 186 a 380 dólares americanos (Levi 2026, PMID 42437874). O comprimido não é, portanto, automaticamente a solução mais barata (mais sobre isso no capítulo “Patentes, genéricos e preços”).
 
 #### Desfechos duros: SOUL
 
@@ -43,7 +43,7 @@ O avanço não se limita aos emagrecedores. Dois exemplos mostram que os peptíd
 - A **enlicitida** é um peptídeo em forma de anel (macrocíclico) que inibe a proteína PCSK9 e, assim, reduz o colesterol LDL. Até agora, esses inibidores só existiam como injeção (anticorpos). A substância foi encontrada com um método que vasculha bibliotecas muito grandes de peptídeos em busca de parceiros de ligação adequados e, em seguida, otimizada quimicamente de forma direcionada (Johns 2023, PMID 37125593). No estudo de fase 3 CORALreef Lipids, com 2.909 participantes, o colesterol LDL caiu 57,1% após 24 semanas; com placebo, subiu 3,0%. Eventos adversos ocorreram com frequência semelhante nos dois grupos (Navar 2026, PMID 41879224). Se isso também previne infartos e AVCs deverá ser mostrado pelo CORALreef Outcomes, com 14.550 participantes (NCT06008756, término em novembro de 2031).
 - O **icotrokinra** é um peptídeo oral que bloqueia o receptor do mensageiro inflamatório interleucina-23. No estudo de fase 3 ICONIC-LEAD, com 684 adultos e adolescentes com psoríase moderada a grave, 65% alcançaram após 16 semanas uma pele (quase) sem lesões, contra 8% com placebo; eventos adversos foram igualmente frequentes nos dois grupos (49%) (Bissonnette 2025, PMID 41191940). Em março de 2026, o icotrokinra foi aprovado nos EUA; na UE, a avaliação estava em andamento (Keam 2026, PMID 42243571; verificar a situação atual). Notável é o caminho até lá: segundo uma investigação farmacológica, o icotrokinra dispensa intensificadores de absorção. Em experimentos com animais, apenas 0,1 a 0,3% chegaram ao sangue, e ainda assim um efeito em todo o corpo foi mensurável, porque o peptídeo é muito estável e muito potente (Knight 2025, PMID 40629250). Estudos na colite ulcerativa estão em andamento (ICONIC-UC, NCT07196748).
 
-Nenhuma das duas substâncias é um peptídeo do mercado cinza; são moléculas projetadas de forma direcionada, testadas por anos em grandes estudos. Com os peptídeos „orais“ oferecidos na internet, não têm nada em comum.
+Nenhuma das duas substâncias é um peptídeo do mercado cinza; são moléculas projetadas de forma direcionada, testadas por anos em grandes estudos. Com os peptídeos “orais” oferecidos na internet, não têm nada em comum.
 
 ### Caminho 2: pequenas moléculas em vez de peptídeos
 
@@ -73,7 +73,7 @@ Falta uma comparação direta do comprimido de semaglutida com a orforgliprona n
 | Degradação, interações | como proteína, quase sem interações | como proteína | por enzimas hepáticas, interações possíveis |
 | Desfechos duros | comprovados para várias substâncias | comprovados no diabetes tipo 2 (SOUL) | estudo de desfechos em andamento até 2031 |
 
-O ponto „interações“ merece uma explicação: peptídeos são degradados no corpo como outras proteínas. Pequenas moléculas como a orforgliprona, por outro lado, são metabolizadas por enzimas hepáticas, pelas quais passam também muitos outros medicamentos. Por isso, foram realizados numerosos estudos de interação para a orforgliprona (ver capítulo Orforgliprona).
+O ponto “interações” merece uma explicação: peptídeos são degradados no corpo como outras proteínas. Pequenas moléculas como a orforgliprona, por outro lado, são metabolizadas por enzimas hepáticas, pelas quais passam também muitos outros medicamentos. Por isso, foram realizados numerosos estudos de interação para a orforgliprona (ver capítulo Orforgliprona).
 
 ### Questões em aberto
 
@@ -85,7 +85,7 @@ O ponto „interações“ merece uma explicação: peptídeos são degradados n
 
 **Os comprimidos ficarão mais baratos?** Para pequenas moléculas, isso é plausível, porque são produzidas com procedimentos padrão da química. Para comprimidos peptídicos, a estimativa de custos aponta antes no sentido contrário, porque eles precisam de muito mais substância (Levi 2026, PMID 42437874). Preços concretos na Europa estão em aberto.
 
-**E as gotas, comprimidos orodispersíveis e sprays nasais da internet?** Aqui, cautela é recomendável. Uma investigação de preparações magistrais produzidas nos EUA encontrou preparações de semaglutida ou tirzepatida para uso sublingual e como comprimidos orodispersíveis, para as quais não há evidências de eficácia e segurança (Belcourt 2026, PMID 41689811). Cópias de semaglutida oral continham, em uma análise laboratorial, em parte bem menos substância do que o declarado e liberavam a substância e o SNAC de forma diferente do original (Hach 2024, PMID 39379664). Um peptídeo vendido „em comprimido“ dificilmente é absorvido sem uma formulação testada – isso vale para a semaglutida tanto quanto para o BPC-157 ou outros peptídeos do mercado cinza.
+**E as gotas, comprimidos orodispersíveis e sprays nasais da internet?** Aqui, cautela é recomendável. Uma investigação de preparações magistrais produzidas nos EUA encontrou preparações de semaglutida ou tirzepatida para uso sublingual e como comprimidos orodispersíveis, para as quais não há evidências de eficácia e segurança (Belcourt 2026, PMID 41689811). Cópias de semaglutida oral continham, em uma análise laboratorial, em parte bem menos substância do que o declarado e liberavam a substância e o SNAC de forma diferente do original (Hach 2024, PMID 39379664). Um peptídeo vendido “em comprimido” dificilmente é absorvido sem uma formulação testada – isso vale para a semaglutida tanto quanto para o BPC-157 ou outros peptídeos do mercado cinza.
 
 ### Avaliação do autor
 
@@ -97,4 +97,4 @@ A injeção não vai desaparecer, mas seu monopólio acabou. Para a fase de perd
 - Pequenas moléculas como a orforgliprona contornam o problema, mas produziram nos estudos um pouco menos de perda de peso e são degradadas por enzimas hepáticas.
 - Peptídeos orais estão se tornando uma classe de medicamentos própria também fora do metabolismo, por exemplo contra o colesterol alto (enlicitida) e a psoríase (icotrokinra).
 - Em aberto estão os dados de longo prazo, os desfechos duros na obesidade, a adesão ao tratamento no dia a dia e os preços.
-- Medicamentos devem ser usados apenas com acompanhamento médico e conforme a bula profissional; peptídeos „orais“ do mercado cinza não têm nada a ver com esses desenvolvimentos.
+- Medicamentos devem ser usados apenas com acompanhamento médico e conforme a bula profissional; peptídeos “orais” do mercado cinza não têm nada a ver com esses desenvolvimentos.

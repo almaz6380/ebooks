@@ -25,7 +25,7 @@ A esse termo de busca foram aplicados três filtros:
 
 `(clinical trial[pt] OR randomized controlled trial[pt]) AND humans[mh]`
 
-A parte `[pt]` busca pelo tipo de publicação que o PubMed atribui a cada artigo; `humans[mh]` representa o descritor „seres humanos“ no sistema de descritores MeSH. Com isso, são encontrados artigos marcados como estudo clínico ou como ensaio clínico randomizado e que se referem a seres humanos.
+A parte `[pt]` busca pelo tipo de publicação que o PubMed atribui a cada artigo; `humans[mh]` representa o descritor “seres humanos” no sistema de descritores MeSH. Com isso, são encontrados artigos marcados como estudo clínico ou como ensaio clínico randomizado e que se referem a seres humanos.
 
 **Metanálises e revisões.** Para trabalhos de síntese, o termo de busca foi combinado com este filtro:
 
@@ -131,7 +131,7 @@ As tabelas a seguir reproduzem os termos de busca do PubMed usados na consulta s
 
 ### Volume de resultados
 
-No total, as 58 consultas resultaram em 3.216 resultados com o filtro de estudos em humanos e em 1.739 resultados com o filtro de metanálises e revisões. No ClinicalTrials.gov, foram encontrados 4.879 registros. Essas somas contêm contagens múltiplas, porque alguns estudos se referem a vários peptídeos – como estudos comparativos entre semaglutida e tirzepatida. Os números por peptídeo são citados no início da seção „Estudos em humanos“ de cada capítulo.
+No total, as 58 consultas resultaram em 3.216 resultados com o filtro de estudos em humanos e em 1.739 resultados com o filtro de metanálises e revisões. No ClinicalTrials.gov, foram encontrados 4.879 registros. Essas somas contêm contagens múltiplas, porque alguns estudos se referem a vários peptídeos – como estudos comparativos entre semaglutida e tirzepatida. Os números por peptídeo são citados no início da seção “Estudos em humanos” de cada capítulo.
 
 A distribuição é muito desigual: aos medicamentos de GLP-1 aprovados correspondem centenas de estudos em humanos; para muitos peptídeos do mercado cinza, por outro lado, nenhum ou apenas um punhado.
 
@@ -168,7 +168,7 @@ Como toda pesquisa bibliográfica, também esta tem limites, que você deve cons
 
 **Os tipos de publicação nem sempre estão corretos.** O filtro de estudos em humanos baseia-se na indexação feita pelo PubMed. Alguns estudos não estão marcados como estudo clínico e por isso faltam; alguns trabalhos marcados como estudo clínico são, examinados mais de perto, estudos observacionais ou trabalhos de laboratório com material humano. Artigos muito recentes muitas vezes ainda não estão completamente indexados.
 
-**Termos de busca podem ter lacunas.** Um termo de busca só encontra o que está descrito no título ou no resumo com as palavras escolhidas. Estudos que mencionam uma substância apenas sob um nome de código ou com outra grafia podem faltar. Inversamente, siglas ambíguas como „KPV“ ou „SS-31“ podem captar também trabalhos sobre temas completamente diferentes. Para os capítulos, os resultados foram, por isso, revisados e não adotados sem verificação.
+**Termos de busca podem ter lacunas.** Um termo de busca só encontra o que está descrito no título ou no resumo com as palavras escolhidas. Estudos que mencionam uma substância apenas sob um nome de código ou com outra grafia podem faltar. Inversamente, siglas ambíguas como “KPV” ou “SS-31” podem captar também trabalhos sobre temas completamente diferentes. Para os capítulos, os resultados foram, por isso, revisados e não adotados sem verificação.
 
 **Idiomas.** O PubMed registra predominantemente revistas em língua inglesa. Trabalhos publicados apenas em outros idiomas e em revistas não indexadas estão em grande parte ausentes. Isso afeta especialmente alguns peptídeos pesquisados e usados sobretudo na Rússia ou em outros países do Leste Europeu, como Semax, Selank, Epitalon ou timalin. Para eles, a situação real dos estudos é possivelmente mais ampla, mas difícil de verificar para leitores internacionais.
 
@@ -190,4 +190,4 @@ Para evitar o risco conhecido de que sistemas de IA inventem fontes ou números,
 
 Além disso, cada capítulo foi verificado com um programa de controle. Ele consulta, para cada PMID e número NCT citado no texto, o registro no PubMed ou no ClinicalTrials.gov e aponta como erro quando um número não existe. Compara também o primeiro autor ou a primeira autora e o ano de publicação, que constam do texto antes do PMID, com o registro do banco de dados e indica divergências. Por fim, procura formulações inadmissíveis, como promessas de cura, recomendações de dose ou indicações de onde comprar. Um capítulo só era considerado pronto quando essa verificação passava sem erros.
 
-Essa verificação garante que cada fonte citada existe e está corretamente atribuída. Ela não pode excluir completamente que um resultado esteja reproduzido no texto de forma abreviada ou ambígua. Por isso, todas as fontes estão indicadas de modo que você possa consultá-las por conta própria – como fazer isso está explicado na seção „Sobre este livro“, no início.
+Essa verificação garante que cada fonte citada existe e está corretamente atribuída. Ela não pode excluir completamente que um resultado esteja reproduzido no texto de forma abreviada ou ambígua. Por isso, todas as fontes estão indicadas de modo que você possa consultá-las por conta própria – como fazer isso está explicado na seção “Sobre este livro”, no início.

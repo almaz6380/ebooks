@@ -2,7 +2,7 @@
 
 Se um medicamento funciona é decidido pelos estudos. Se ele chega às pessoas é decidido por patentes, preços, cadeias de suprimento e planos de saúde. Nos medicamentos de GLP-1, essa segunda parte da história é quase tão dramática quanto a primeira: falta de abastecimento, um mercado de cópias de farmácias nos EUA, falsificações no mundo todo – e, em 2026, a expiração das primeiras patentes de semaglutida em grandes países.
 
-**Uma observação importante antes de tudo:** preços, prazos de patentes e regras de reembolso mudam rapidamente e só estão parcialmente documentados em trabalhos científicos. Onde este capítulo faz afirmações sem comprovação em estudos, elas estão identificadas com „situação em 2026, verificar“. Preços concretos em euros deliberadamente não são citados, porque variam conforme o país, a embalagem e o momento.
+**Uma observação importante antes de tudo:** preços, prazos de patentes e regras de reembolso mudam rapidamente e só estão parcialmente documentados em trabalhos científicos. Onde este capítulo faz afirmações sem comprovação em estudos, elas estão identificadas com “situação em 2026, verificar”. Preços concretos em euros deliberadamente não são citados, porque variam conforme o país, a embalagem e o momento.
 
 ### Patentes, genéricos e biossimilares: os conceitos
 
@@ -32,7 +32,7 @@ Para a semaglutida, as patentes expiram em 2026 em vários grandes países fora 
 
 Os próprios autores ressaltam que os custos da caneta, outras patentes e sistemas de saúde frágeis podem, mesmo assim, limitar o acesso. Quanto os genéricos podem baixar os preços mostra uma análise da Índia: ali, os preços de inibidores do SGLT2 e de agonistas do receptor de GLP-1 caíram cerca de 60 a 90% após a expiração da patente. Entre preços de genéricos indianos e preços de tabela norte-americanos, os autores encontraram diferenças de 15 a 65 vezes. Mas apontam também que genéricos de diferentes fabricantes podem diferir em qualidade e em absorção no corpo (Mohan 2026, PMID 42747945).
 
-**Na UE e nos EUA,** genéricos de semaglutida só são esperados por volta de 2031/2032 (situação em 2026, verificar). Para leitores na Áustria e na Alemanha, isso significa: um genérico de semaglutida vendido legalmente no Canadá ou na Índia não é ali um medicamento aprovado. As regras de importação para uso pessoal são estritas (ver capítulo „Marco legal“ na Parte I), e ofertas online que invocam esses genéricos são uma porta de entrada típica para falsificações (ver capítulo „O mercado cinza“).
+**Na UE e nos EUA,** genéricos de semaglutida só são esperados por volta de 2031/2032 (situação em 2026, verificar). Para leitores na Áustria e na Alemanha, isso significa: um genérico de semaglutida vendido legalmente no Canadá ou na Índia não é ali um medicamento aprovado. As regras de importação para uso pessoal são estritas (ver capítulo “Marco legal” na Parte I), e ofertas online que invocam esses genéricos são uma porta de entrada típica para falsificações (ver capítulo “O mercado cinza”).
 
 **Um sinal político:** a Organização Mundial da Saúde incluiu semaglutida, liraglutida, dulaglutida e tirzepatida em setembro de 2025 em sua lista de medicamentos essenciais. Uma análise vê nisso um passo que deve facilitar negociações de preço e o desenvolvimento de genéricos em países de baixa e média renda; ao mesmo tempo, cita a falta de recursos, a infraestrutura frágil e o risco de uso acrítico como obstáculos (Mani 2025, PMID 41358329). Em sua primeira diretriz sobre terapias com GLP-1 na obesidade, a OMS faz uma recomendação condicional para o tratamento de longo prazo junto com terapia comportamental intensiva. Como razões para a restrição, cita, entre outras, dados de longo prazo limitados, custos e a questão do acesso equitativo (Celletti 2026, PMID 41324410).
 
@@ -42,11 +42,11 @@ Para a tirzepatida e todas as substâncias mais novas – retatrutida, CagriSema
 
 ### O fim do compounding nos EUA
 
-Durante as faltas oficiais de abastecimento, farmácias norte-americanas puderam preparar elas próprias semaglutida e tirzepatida („compounding“, ver Parte I). Disso surgiu um grande mercado. Uma investigação no estado norte-americano do Colorado encontrou, na primavera de 2024, 93 empresas com 188 unidades que promoviam esses preparados – em geral como spas médicos ou serviços de emagrecimento. 41 desses sites faziam referência, nas descrições dos produtos, à aprovação da FDA, embora os preparados não a tivessem. Um fornecedor promovia uma mistura com BPC-157, substância que a FDA classificou como inadequada para compounding (DiStefano 2025, PMID 39776466).
+Durante as faltas oficiais de abastecimento, farmácias norte-americanas puderam preparar elas próprias semaglutida e tirzepatida (“compounding”, ver Parte I). Disso surgiu um grande mercado. Uma investigação no estado norte-americano do Colorado encontrou, na primavera de 2024, 93 empresas com 188 unidades que promoviam esses preparados – em geral como spas médicos ou serviços de emagrecimento. 41 desses sites faziam referência, nas descrições dos produtos, à aprovação da FDA, embora os preparados não a tivessem. Um fornecedor promovia uma mistura com BPC-157, substância que a FDA classificou como inadequada para compounding (DiStefano 2025, PMID 39776466).
 
 Depois que a FDA declarou encerradas as faltas de abastecimento – para a tirzepatida no final de 2024, para a semaglutida no início de 2025 –, os prazos de transição para cópias dos preparados aprovados expiraram ao longo de 2025 (situação em 2026, verificar). Desde então, só são permitidas preparações que diferem dos preparados aprovados. Uma análise encontrou 33 desses produtos, entre eles misturas com vitamina B12, glicina ou um laxante, além de gotas e comprimidos orodispersíveis, cujo benefício e segurança são em grande parte desconhecidos (Belcourt 2026, PMID 41689811). Um laboratório encontrou em misturas de tirzepatida com B12 de diferentes fornecedores uma impureza até então desconhecida, que surge de uma reação química entre a tirzepatida e determinadas formas de B12; que consequências ela tem para a saúde é desconhecido (Jordan 2026, PMID 42010938).
 
-O compounding, portanto, não desapareceu, mas se deslocou para um nicho em que aditivos „personalizados“ fornecem a base legal. Na Europa, não existe um sistema comparável.
+O compounding, portanto, não desapareceu, mas se deslocou para um nicho em que aditivos “personalizados” fornecem a base legal. Na Europa, não existe um sistema comparável.
 
 ### Falta de abastecimento
 
@@ -80,7 +80,7 @@ Nos dois países vale: se um tratamento é reembolsado depende da indicação, d
 
 ### O que isso significa para os pacientes
 
-- **Mais barato não significa mercado cinza.** Com a expiração de patentes em outros países, vão aumentar as ofertas que invocam „genéricos“. Para a Áustria e a Alemanha, apenas preparados aprovados ali e vindos de farmácias são medicamentos verificados.
+- **Mais barato não significa mercado cinza.** Com a expiração de patentes em outros países, vão aumentar as ofertas que invocam “genéricos”. Para a Áustria e a Alemanha, apenas preparados aprovados ali e vindos de farmácias são medicamentos verificados.
 - **Suspender por motivos de custo é frequente – e tem consequências.** Na extensão do STEP 1, os participantes recuperaram, um ano após a suspensão da semaglutida, em média dois terços da perda de peso, e as melhoras na pressão arterial e nos exames de sangue regrediram em grande parte (Wilding 2022, PMID 35441470). Quem pensa em suspender por motivos de custo deve discutir isso com o médico.
 - **Substâncias mais antigas não são inúteis.** Liraglutida ou dulaglutida são bem estudadas e têm, no diabetes tipo 2, um benefício cardiovascular comprovado. Qual substância é adequada em cada caso é uma decisão médica.
 

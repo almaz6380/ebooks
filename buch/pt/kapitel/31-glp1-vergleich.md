@@ -6,11 +6,11 @@ Este capítulo não é um guia de decisão para um tratamento. Qual medicamento 
 
 ### Antes de tudo: por que não se pode simplesmente colocar estudos lado a lado
 
-As tabelas deste capítulo convidam a comparar números de estudos diferentes – por exemplo, 20,9% de perda de peso com tirzepatida contra 14,9% com semaglutida. Essas comparações cruzadas („cross-trial comparisons“) só são admissíveis com ressalvas. Os motivos:
+As tabelas deste capítulo convidam a comparar números de estudos diferentes – por exemplo, 20,9% de perda de peso com tirzepatida contra 14,9% com semaglutida. Essas comparações cruzadas (“cross-trial comparisons”) só são admissíveis com ressalvas. Os motivos:
 
 - **Participantes diferentes:** pessoas com diabetes tipo 2 perdem, com todos os medicamentos à base de incretinas, bem menos peso do que pessoas sem diabetes. Estudos na China ou no Japão incluem pessoas com peso inicial mais baixo do que estudos na América do Norte e na Europa.
 - **Duração diferente:** uma perda de peso após 48 semanas não é o mesmo que após 80 semanas; muitas curvas só se estabilizam tarde.
-- **Análise diferente:** alguns estudos analisam todos os participantes, mesmo que tenham interrompido o tratamento (o chamado estimador de estratégia de tratamento ou „treatment policy“). Outros calculam como se todos tivessem tomado o medicamento conforme planejado. A segunda variante fornece números mais favoráveis.
+- **Análise diferente:** alguns estudos analisam todos os participantes, mesmo que tenham interrompido o tratamento (o chamado estimador de estratégia de tratamento ou “treatment policy”). Outros calculam como se todos tivessem tomado o medicamento conforme planejado. A segunda variante fornece números mais favoráveis.
 - **Grupos placebo diferentes:** com placebo, os participantes perderam, dependendo do estudo, entre nada e mais de 5% do peso, conforme a intensidade do aconselhamento nutricional e de atividade física que acompanhava o tratamento.
 - **Fases diferentes:** resultados de pequenos estudos de fase 2 costumam ser mais favoráveis do que os grandes estudos de fase 3 posteriores.
 
@@ -64,7 +64,7 @@ Dois estudos investigaram especificamente o que acontece após a suspensão. No 
 
 ### Glicemia: HbA1c
 
-O valor de HbA1c („glicemia de longo prazo“) indica que proporção do pigmento vermelho do sangue está ligada a açúcar e reflete a glicemia média dos últimos dois a três meses. Uma redução de um ponto percentual é considerada clinicamente relevante. O quanto o valor cai depende muito do valor inicial: quem começa com 9% pode perder mais do que alguém com 7,5%.
+O valor de HbA1c (“glicemia de longo prazo”) indica que proporção do pigmento vermelho do sangue está ligada a açúcar e reflete a glicemia média dos últimos dois a três meses. Uma redução de um ponto percentual é considerada clinicamente relevante. O quanto o valor cai depende muito do valor inicial: quem começa com 9% pode perder mais do que alguém com 7,5%.
 
 | Substância | Estudo | Duração | Variação da HbA1c (pontos percentuais) |
 |---|---|---|---|
@@ -87,7 +87,7 @@ Uma diferença importante diz respeito à hipoglicemia. Como o GLP-1 só aumenta
 
 ### Estudos de desfechos cardiovasculares
 
-Estudos de desfechos não medem valores laboratoriais, mas eventos que importam para os pacientes: morte cardiovascular, infarto do miocárdio e AVC, agrupados como „MACE“ (major adverse cardiovascular events). A razão de risco (hazard ratio, HR) indica quão alto foi o risco em comparação com o grupo controle; 0,80 significa um risco relativo 20% menor.
+Estudos de desfechos não medem valores laboratoriais, mas eventos que importam para os pacientes: morte cardiovascular, infarto do miocárdio e AVC, agrupados como “MACE” (major adverse cardiovascular events). A razão de risco (hazard ratio, HR) indica quão alto foi o risco em comparação com o grupo controle; 0,80 significa um risco relativo 20% menor.
 
 | Estudo (substância) | Participantes | Duração | Resultado |
 |---|---|---|---|

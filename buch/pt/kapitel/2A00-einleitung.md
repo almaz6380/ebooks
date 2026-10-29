@@ -1,6 +1,6 @@
 # Parte II · A – Metabolismo e peso
 
-Nenhum grupo de peptídeos mudou tanto a medicina dos últimos anos quanto as substâncias desta seção. Elas foram desenvolvidas originalmente para o diabetes tipo 2, tornaram-se depois os medicamentos para emagrecer mais eficazes que já existiram e hoje estão sendo estudadas na insuficiência cardíaca, na apneia do sono, na doença hepática gordurosa e em doenças renais. Ao mesmo tempo, poucas áreas são tão afetadas pelo mercado cinza: substâncias que ainda estão em estudo são vendidas na internet como „Research Peptides“.
+Nenhum grupo de peptídeos mudou tanto a medicina dos últimos anos quanto as substâncias desta seção. Elas foram desenvolvidas originalmente para o diabetes tipo 2, tornaram-se depois os medicamentos para emagrecer mais eficazes que já existiram e hoje estão sendo estudadas na insuficiência cardíaca, na apneia do sono, na doença hepática gordurosa e em doenças renais. Ao mesmo tempo, poucas áreas são tão afetadas pelo mercado cinza: substâncias que ainda estão em estudo são vendidas na internet como “Research Peptides”.
 
 ### O que une essas substâncias: hormônios do intestino e do pâncreas
 
@@ -11,9 +11,9 @@ Quase todas as substâncias deste grupo imitam hormônios que o corpo libera em 
 - **Glucagon** é o hormônio antagonista da insulina, produzido pelo pâncreas. Ele eleva a glicose, mas também aumenta o gasto de energia e a queima de gordura no fígado. Substâncias mais novas exploram de forma direcionada esse segundo lado.
 - **Amilina** é liberada junto com a insulina pelas células beta do pâncreas. Ela age no tronco cerebral promovendo saciedade e retarda o esvaziamento do estômago.
 
-GLP-1 e GIP são chamados de **incretinas** (derivado do inglês „INtestinal seCRETion of INsulin“, ou seja, liberação de insulina desencadeada pelo intestino): elas explicam por que o açúcar ingerido libera mais insulina do que a mesma quantidade de açúcar aplicada diretamente na veia. A evolução pode ser lida como uma sequência de etapas: primeiro agonistas puros de GLP-1, depois combinações com GIP, glucagon ou amilina em uma só molécula e, por fim, comprimidos que nem são mais peptídeos.
+GLP-1 e GIP são chamados de **incretinas** (derivado do inglês “INtestinal seCRETion of INsulin”, ou seja, liberação de insulina desencadeada pelo intestino): elas explicam por que o açúcar ingerido libera mais insulina do que a mesma quantidade de açúcar aplicada diretamente na veia. A evolução pode ser lida como uma sequência de etapas: primeiro agonistas puros de GLP-1, depois combinações com GIP, glucagon ou amilina em uma só molécula e, por fim, comprimidos que nem são mais peptídeos.
 
-Duas substâncias deste grupo não se encaixam nesse esquema: a **setmelanotida** age mais profundamente no cérebro, no receptor de melanocortina-4, e se destina apenas a formas genéticas raras de obesidade. O **AOD-9604** é um fragmento do hormônio do crescimento comercializado como „queimador de gordura“ sem que existam estudos em humanos publicados.
+Duas substâncias deste grupo não se encaixam nesse esquema: a **setmelanotida** age mais profundamente no cérebro, no receptor de melanocortina-4, e se destina apenas a formas genéticas raras de obesidade. O **AOD-9604** é um fragmento do hormônio do crescimento comercializado como “queimador de gordura” sem que existam estudos em humanos publicados.
 
 ### Visão geral
 

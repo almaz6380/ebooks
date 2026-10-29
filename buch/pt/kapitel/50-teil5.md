@@ -6,7 +6,7 @@ Afirmações sobre o futuro são rigorosamente separadas neste livro. **Assegura
 
 ## O pipeline: o que está em fase 2 e 3
 
-A indústria farmacêutica chama de „pipeline“ o conjunto das substâncias em desenvolvimento. As etapas são explicadas na Parte I: na **fase 1**, uma substância é em geral testada quanto à tolerabilidade em poucas pessoas saudáveis; na **fase 2**, em algumas centenas de doentes quanto à eficácia e à dose adequada; na **fase 3**, em milhares, para a aprovação. A **fase 4** designa estudos com medicamentos já aprovados. Quem quer saber o que pode chegar ao mercado nos próximos cinco anos precisa olhar sobretudo para a fase 3.
+A indústria farmacêutica chama de “pipeline” o conjunto das substâncias em desenvolvimento. As etapas são explicadas na Parte I: na **fase 1**, uma substância é em geral testada quanto à tolerabilidade em poucas pessoas saudáveis; na **fase 2**, em algumas centenas de doentes quanto à eficácia e à dose adequada; na **fase 3**, em milhares, para a aprovação. A **fase 4** designa estudos com medicamentos já aprovados. Quem quer saber o que pode chegar ao mercado nos próximos cinco anos precisa olhar sobretudo para a fase 3.
 
 ### Como a análise foi feita
 
@@ -19,12 +19,12 @@ Estudos que aparecem em várias substâncias – como uma comparação de retatr
 
 **O que foi excluído – e por quê:**
 
-- **Oito registros do patrocinador „Hudson Biotech“** (um para cada uma destas: BPC-157, GHK-Cu, Melanotan II, MOTS-c, retatrutida, TB-500, tesamorelina e tirzepatida). Um registro desse patrocinador se descreve, em sua própria descrição, como exemplo fictício (ver capítulos BPC-157 e TB-500). Nenhum desses registros é considerado neste livro como estudo real.
-- **Todos os 1.000 resultados para o termo de busca „gonadorelina“.** Eles se referem, em sua grande maioria, a variantes sintéticas do hormônio GnRH (como leuprorrelina ou triptorrelina) no tratamento do câncer de próstata e de mama ou na medicina reprodutiva – ou seja, outros medicamentos. Os poucos registros sobre GnRH natural são discutidos no capítulo Gonadorelina; nenhum deles é um estudo de fase 3 em andamento.
+- **Oito registros do patrocinador “Hudson Biotech”** (um para cada uma destas: BPC-157, GHK-Cu, Melanotan II, MOTS-c, retatrutida, TB-500, tesamorelina e tirzepatida). Um registro desse patrocinador se descreve, em sua própria descrição, como exemplo fictício (ver capítulos BPC-157 e TB-500). Nenhum desses registros é considerado neste livro como estudo real.
+- **Todos os 1.000 resultados para o termo de busca “gonadorelina”.** Eles se referem, em sua grande maioria, a variantes sintéticas do hormônio GnRH (como leuprorrelina ou triptorrelina) no tratamento do câncer de próstata e de mama ou na medicina reprodutiva – ou seja, outros medicamentos. Os poucos registros sobre GnRH natural são discutidos no capítulo Gonadorelina; nenhum deles é um estudo de fase 3 em andamento.
 
 **O que não foi excluído, mas foi verificado:** para glutationa, colágeno e carnosina, os termos de busca são tão gerais que muitos resultados citam a substância apenas como componente de uma mistura, como comparador ou como variável medida. Assim, sob glutationa aparece um grande estudo sobre dengue, porque nele se testa a N-acetilcisteína – um precursor da glutationa (NCT07543458). Sob larazotida aparecem dois estudos sobre uma substância completamente diferente contra a doença de Fabry (NCT04020055, NCT06904261). Esses resultados estão incluídos nos números totais, mas não foram contados na avaliação como estudos com peptídeos.
 
-**Dois limites da análise:** primeiro, nem todos os patrocinadores informam a conclusão de seu estudo em tempo hábil; alguns registros com data de término em 2025 ainda constam como „em andamento“ no registro. Segundo, a consulta abrange apenas as 58 substâncias deste livro. Moléculas novas sem capítulo próprio só aparecem quando competem com uma dessas substâncias. Por isso, para os novos princípios de ação mais abaixo, fez-se uma busca direcionada adicional.
+**Dois limites da análise:** primeiro, nem todos os patrocinadores informam a conclusão de seu estudo em tempo hábil; alguns registros com data de término em 2025 ainda constam como “em andamento” no registro. Segundo, a consulta abrange apenas as 58 substâncias deste livro. Moléculas novas sem capítulo próprio só aparecem quando competem com uma dessas substâncias. Por isso, para os novos princípios de ação mais abaixo, fez-se uma busca direcionada adicional.
 
 ### O resultado em números
 
@@ -45,11 +45,11 @@ Dos 157 estudos de fase 3 em andamento, 68 ainda estavam recrutando, 54 estavam 
 
 No grupo A, aproximadamente um em cada três desses estudos tardios é conduzido por universidades e hospitais, os demais por empresas. As datas de término planejadas distribuem-se assim: 21 estudos devem terminar em 2026, 49 em 2027, 41 em 2028 e 44 entre 2029 e 2033. A verdadeira onda de novos resultados está, portanto, por vir em 2027 e 2028.
 
-**Os grupos B a F** têm um aspecto completamente diferente. Após a revisão dos registros, restam apenas cinco estudos de fase 3 em andamento em que uma substância deste livro é de fato a substância testada: timosina alfa-1 após cirurgia de câncer colorretal (NCT05086614), colírio de timosina beta-4 na ceratopatia neurotrófica (NCT05555589), elamipretida na degeneração macular seca (NCT06373731), afamelanotida no vitiligo (NCT06109649) e ibutamoren, que não é peptídeo, em crianças com deficiência de hormônio do crescimento (NCT06948214). Somam-se alguns estudos combinados de fase 2/3, como sobre spray nasal de ocitocina na dor crônica (NCT04903002) e sobre timosina alfa-1 na falha repetida de implantação após fertilização in vitro (NCT07675980). Para os „peptídeos de pesquisa“ mais populares na internet – BPC-157, CJC-1295, ipamorelina, Epitalon, Semax, Selank – não há nenhum estudo de fase 3 em andamento.
+**Os grupos B a F** têm um aspecto completamente diferente. Após a revisão dos registros, restam apenas cinco estudos de fase 3 em andamento em que uma substância deste livro é de fato a substância testada: timosina alfa-1 após cirurgia de câncer colorretal (NCT05086614), colírio de timosina beta-4 na ceratopatia neurotrófica (NCT05555589), elamipretida na degeneração macular seca (NCT06373731), afamelanotida no vitiligo (NCT06109649) e ibutamoren, que não é peptídeo, em crianças com deficiência de hormônio do crescimento (NCT06948214). Somam-se alguns estudos combinados de fase 2/3, como sobre spray nasal de ocitocina na dor crônica (NCT04903002) e sobre timosina alfa-1 na falha repetida de implantação após fertilização in vitro (NCT07675980). Para os “peptídeos de pesquisa” mais populares na internet – BPC-157, CJC-1295, ipamorelina, Epitalon, Semax, Selank – não há nenhum estudo de fase 3 em andamento.
 
 ### Os principais estudos de fase 3 em andamento
 
-As tabelas a seguir mostram uma seleção por tamanho e importância. „Término previsto“ é o término do estudo indicado no registro (situação em outubro de 2026); o desfecho principal é frequentemente analisado alguns meses antes, e as publicações costumam vir de meio ano a um ano depois.
+As tabelas a seguir mostram uma seleção por tamanho e importância. “Término previsto” é o término do estudo indicado no registro (situação em outubro de 2026); o desfecho principal é frequentemente analisado alguns meses antes, e as publicações costumam vir de meio ano a um ano depois.
 
 **Metabolismo e peso (grupo A):**
 
@@ -82,7 +82,7 @@ As tabelas a seguir mostram uma seleção por tamanho e importância. „Términ
 | ReNEW, NCT06373731 | Elamipretida (SS-31) | degeneração macular seca, 313 participantes | setembro de 2027 |
 | NCT06948214 | Ibutamoren (LUM-201, não é peptídeo) | crescimento em crianças com deficiência hormonal, 150 participantes | janeiro de 2028 |
 
-Detalhes sobre cada estudo estão na seção „Estudos em andamento e perspectivas“ do respectivo capítulo.
+Detalhes sobre cada estudo estão na seção “Estudos em andamento e perspectivas” do respectivo capítulo.
 
 ### O que o registro revela sobre a direção
 

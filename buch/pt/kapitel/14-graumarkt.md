@@ -1,14 +1,14 @@
 ## O mercado cinza
 
-Quem pesquisa peptídeos na internet logo chega a lojas on-line com páginas de aparência profissional, fotos de laboratório e certificados de pureza. São oferecidos frascos com pó branco: BPC-157, TB-500, ipamorelina, melanotan II – e, cada vez mais, também semaglutida, tirzepatida ou substâncias ainda nem aprovadas, como a retatrutida. Quase sempre há em algum lugar o aviso „Research Use Only“ ou „not for human consumption“ – apenas para fins de pesquisa, não para uso em seres humanos.
+Quem pesquisa peptídeos na internet logo chega a lojas on-line com páginas de aparência profissional, fotos de laboratório e certificados de pureza. São oferecidos frascos com pó branco: BPC-157, TB-500, ipamorelina, melanotan II – e, cada vez mais, também semaglutida, tirzepatida ou substâncias ainda nem aprovadas, como a retatrutida. Quase sempre há em algum lugar o aviso “Research Use Only” ou “not for human consumption” – apenas para fins de pesquisa, não para uso em seres humanos.
 
 Este capítulo descreve o que se sabe sobre esse mercado: a partir de análises laboratoriais de produtos comprados e apreendidos, de relatos de caso de intoxicações e de análises de notificações de efeitos colaterais. Ele deve ajudar você a avaliar os riscos de forma realista. Fontes de compra nunca são mencionadas neste livro.
 
-### O que são „Research Peptides“
+### O que são “Research Peptides”
 
-São chamadas de „Research Peptides“ ou „Research Chemicals“ as substâncias que oficialmente só são vendidas a laboratórios para fins de pesquisa. A inscrição „não destinado ao uso em seres humanos“ pretende proteger juridicamente a venda: um produto que não é oferecido como medicamento – segundo a lógica dos vendedores – também não precisa de aprovação como medicamento. Na prática, porém, muitas dessas lojas se dirigem visivelmente a pessoas físicas que querem injetar as substâncias em si mesmas. Se essa construção se sustenta juridicamente é discutido no próximo capítulo; em muitos casos, não se sustenta.
+São chamadas de “Research Peptides” ou “Research Chemicals” as substâncias que oficialmente só são vendidas a laboratórios para fins de pesquisa. A inscrição “não destinado ao uso em seres humanos” pretende proteger juridicamente a venda: um produto que não é oferecido como medicamento – segundo a lógica dos vendedores – também não precisa de aprovação como medicamento. Na prática, porém, muitas dessas lojas se dirigem visivelmente a pessoas físicas que querem injetar as substâncias em si mesmas. Se essa construção se sustenta juridicamente é discutido no próximo capítulo; em muitos casos, não se sustenta.
 
-Um artigo de revisão descreve o padrão usando como exemplo a semaglutida e a tirzepatida: fabricantes vendem frascos „apenas para fins de pesquisa“ ou „não destinados ao consumo humano“ diretamente aos consumidores, muitas vezes sem os materiais e o conhecimento necessários para dissolver, aspirar e injetar a substância. Com isso, médicas, médicos e farmácias são contornados – e, com eles, a verificação de interações e o acompanhamento médico (Belcourt 2025, PMID 39285774).
+Um artigo de revisão descreve o padrão usando como exemplo a semaglutida e a tirzepatida: fabricantes vendem frascos “apenas para fins de pesquisa” ou “não destinados ao consumo humano” diretamente aos consumidores, muitas vezes sem os materiais e o conhecimento necessários para dissolver, aspirar e injetar a substância. Com isso, médicas, médicos e farmácias são contornados – e, com eles, a verificação de interações e o acompanhamento médico (Belcourt 2025, PMID 39285774).
 
 O quão difícil é o uso para leigos foi investigado por um pequeno estudo em uma universidade norte-americana. Vinte adultos deveriam, com base em informações da internet, executar os passos necessários para dissolver um pó de semaglutida desse tipo e preparar uma seringa. Dos 34 passos, executaram corretamente em média 15. Os pesquisadores observaram erros que poderiam levar a dose errada, ferimentos com a agulha ou infecções (Sedensky 2026, PMID 42541373).
 
@@ -59,13 +59,13 @@ Dessas análises resulta um quadro recorrente:
 | Substância ativa em excesso | superdosagem, mais efeitos colaterais | semaglutida até 38,7% acima do declarado |
 | Substância ativa insuficiente | ineficácia | melanotan II 4,32 em vez de 10 mg |
 | Substância ativa errada | efeito imprevisível, às vezes com risco de vida | insulina em vez de semaglutida |
-| Nenhuma substância ativa | golpe, ineficácia | frascos vazios de „hormônio do crescimento“ |
+| Nenhuma substância ativa | golpe, ineficácia | frascos vazios de “hormônio do crescimento” |
 | Impurezas | reações imunológicas, efeito tóxico | subprodutos da síntese |
 | Endotoxinas | febre, inflamação, reações circulatórias | em todas as compras de teste de semaglutida |
 
 ### Pureza: o que a porcentagem significa – e o que não significa
 
-Muitos vendedores anunciam „99% de pureza“ e anexam certificados de análise. Algumas observações:
+Muitos vendedores anunciam “99% de pureza” e anexam certificados de análise. Algumas observações:
 
 - **A pureza mede apenas certas impurezas.** Uma medição típica (cromatografia líquida de alta eficiência, HPLC) mostra que porcentagem dos sinais de peptídeo mensuráveis corresponde à substância desejada. Muitas vezes não são detectados sais, água, resíduos de solventes, metais ou endotoxinas.
 - **A pureza não diz nada sobre a quantidade.** Um frasco pode conter uma substância muito pura, mas na quantidade errada.
@@ -78,13 +78,13 @@ A isso se somam as impurezas que tipicamente surgem na síntese química: peptí
 
 Endotoxinas são componentes da parede celular de certas bactérias. Elas permanecem mesmo quando as bactérias estão mortas e são muito estáveis ao calor. Se chegam ao sangue, podem provocar febre, calafrios, queda da pressão arterial e, em quantidades maiores, um choque com risco de vida. Por isso, valem limites rígidos para injeções e infusões, e os fabricantes de medicamentos testam cada lote.
 
-Um pó „estéril“ ou „livre de germes“ pode, ainda assim, conter endotoxinas – exatamente o que mostraram as compras de teste de semaglutida: nenhum germe vivo, mas endotoxinas em todas as amostras (Ashraf 2024, PMID 39509151). Também a dissolução com água não estéril, a retirada repetida do mesmo frasco ou a reutilização de agulhas podem introduzir germes.
+Um pó “estéril” ou “livre de germes” pode, ainda assim, conter endotoxinas – exatamente o que mostraram as compras de teste de semaglutida: nenhum germe vivo, mas endotoxinas em todas as amostras (Ashraf 2024, PMID 39509151). Também a dissolução com água não estéril, a retirada repetida do mesmo frasco ou a reutilização de agulhas podem introduzir germes.
 
 ### Erros de dosagem
 
 Mesmo quando um produto contém exatamente o que diz o rótulo, a dosagem correta no mercado cinza é difícil. O pó precisa ser dissolvido em uma determinada quantidade de líquido; a dose resulta então de uma conversão. Quem erra a conta ou confunde unidades pode facilmente injetar um múltiplo da quantidade pretendida.
 
-Uma série de casos de um centro de informação toxicológica dos EUA descreve três casos com semaglutida de farmácias e de um estúdio de estética. Duas pessoas tinham injetado por engano dez vezes a quantidade. Todas tiveram por dias náuseas, vômitos e dor abdominal. Uma pessoa havia recebido um frasco com seringas sem nenhuma orientação; outra confundiu mililitros, „unidades“ e miligramas (Lambson 2023, PMID 37392810). Os autores ressaltam que os frascos, ao contrário das canetas preenchidas, não oferecem mecanismos de segurança contra esses erros.
+Uma série de casos de um centro de informação toxicológica dos EUA descreve três casos com semaglutida de farmácias e de um estúdio de estética. Duas pessoas tinham injetado por engano dez vezes a quantidade. Todas tiveram por dias náuseas, vômitos e dor abdominal. Uma pessoa havia recebido um frasco com seringas sem nenhuma orientação; outra confundiu mililitros, “unidades” e miligramas (Lambson 2023, PMID 37392810). Os autores ressaltam que os frascos, ao contrário das canetas preenchidas, não oferecem mecanismos de segurança contra esses erros.
 
 ### Falsificações de Ozempic e de outros medicamentos GLP-1
 
@@ -92,13 +92,13 @@ Com a enorme demanda por semaglutida, surgiram falsificações no mundo todo. A 
 
 Particularmente perigosas são as falsificações que contêm outra substância ativa. Na Itália, uma mulher de 31 anos foi levada ao pronto-socorro em coma hipoglicêmico depois de ter injetado um suposto Ozempic comprado na internet. A análise toxicológica revelou que o frasco continha insulina em vez de semaglutida (Antonacci 2026, PMID 41125326). Da Holanda foram relatados dois casos semelhantes: duas pessoas sem diabetes e sem obesidade haviam injetado semaglutida obtida sem receita e estavam em coma com hipoglicemia grave, falta de potássio e hipotermia. A causa foi uma intoxicação por insulina sintética. Para manter a glicose estável, foram necessários até dois dias de infusão contínua de glicose (Stammers 2026, PMID 42390457).
 
-Esses casos são tão significativos porque a semaglutida verdadeira, sozinha, dificilmente causa uma hipoglicemia relevante em pessoas saudáveis. Uma hipoglicemia depois de uma „injeção para emagrecer“ é, portanto, um sinal de alerta para um produto falsificado.
+Esses casos são tão significativos porque a semaglutida verdadeira, sozinha, dificilmente causa uma hipoglicemia relevante em pessoas saudáveis. Uma hipoglicemia depois de uma “injeção para emagrecer” é, portanto, um sinal de alerta para um produto falsificado.
 
 Uma análise da base europeia de notificações de efeitos colaterais EudraVigilance encontrou, de 2018 a 2025, um total de 234 notificações relativas a semaglutida possivelmente falsificada. 73,5% referiam-se a mulheres, e 89,3% dos efeitos colaterais notificados eram graves. Os mais notificados foram vômitos, náuseas e hipoglicemia. Em comparação com a semaglutida verdadeira, hipoglicemia, uso fora da indicação aprovada, mal-estar e ineficácia foram notificados com frequência desproporcionalmente alta (Zinzi 2026, PMID 42137313). Como em todos os dados de notificação, vale: eles mostram sinais, não frequências.
 
 ### Substâncias GLP-1 não aprovadas
 
-Atualmente, o mercado cinza oferece também substâncias que ainda nem foram aprovadas, como o agonista triplo retatrutida. Para essas substâncias existem estudos dos fabricantes, mas nenhum produto verificado – o que de fato há em um frasco com a inscrição „retatrutida“ é desconhecido. Uma revista científica dedicou a esse mercado negro uma reportagem própria em 2026 (Rubin 2026, PMID 42853576).
+Atualmente, o mercado cinza oferece também substâncias que ainda nem foram aprovadas, como o agonista triplo retatrutida. Para essas substâncias existem estudos dos fabricantes, mas nenhum produto verificado – o que de fato há em um frasco com a inscrição “retatrutida” é desconhecido. Uma revista científica dedicou a esse mercado negro uma reportagem própria em 2026 (Rubin 2026, PMID 42853576).
 
 Um relato de caso descreve uma mulher de vinte e poucos anos que chegou ao hospital com cinco dias de náuseas persistentes, vômitos repetidos e diarreia. Os sintomas inicialmente não melhoraram, apesar de vários medicamentos contra náuseas. Só depois de perguntas repetidas descobriu-se que um autoproclamado coach de vida, sem qualificação médica, havia aplicado nela quatro injeções semanais de um produto que supostamente continha retatrutida. Ela mesma não considerava as injeções um medicamento (Buzzi 2026, PMID 42843917). O caso mostra outro problema: quem não percebe os peptídeos como medicamentos também não os menciona a médicas e médicos.
 
@@ -128,13 +128,13 @@ Esses motivos são compreensíveis. As análises deste capítulo, porém, mostra
 
 Este livro não dá instruções de uso. Alguns pontos gerais, porém, são importantes por razões de segurança:
 
-- Informe sua médica ou seu médico sobre todas as injeções, peptídeos e „produtos químicos de pesquisa“ que você usa – mesmo que não os considere medicamentos.
+- Informe sua médica ou seu médico sobre todas as injeções, peptídeos e “produtos químicos de pesquisa” que você usa – mesmo que não os considere medicamentos.
 - Sintomas inesperados como tremor, suor, confusão ou alterações de consciência após uma injeção podem indicar hipoglicemia e são uma emergência.
 - Produtos suspeitos e efeitos colaterais podem ser notificados às autoridades: na Alemanha, ao Instituto Federal de Medicamentos e Dispositivos Médicos (BfArM); na Áustria, à Agência Federal de Segurança na Saúde (BASG).
 
 ### O essencial em resumo
 
-- O aviso „apenas para fins de pesquisa“ não protege contra riscos; ele transfere a responsabilidade para quem compra.
+- O aviso “apenas para fins de pesquisa” não protege contra riscos; ele transfere a responsabilidade para quem compra.
 - Análises laboratoriais encontraram em peptídeos do mercado cinza substância ativa em excesso, em falta, errada ou ausente, além de impurezas e endotoxinas.
 - Produtos falsificados de semaglutida que continham insulina levaram a hipoglicemias com risco de vida.
 - Também as preparações manipuladas por farmácias dos EUA não são testadas como os medicamentos aprovados.

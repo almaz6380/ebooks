@@ -15,7 +15,7 @@
 
 A dulaglutida age no receptor de GLP-1 como a exenatida, a liraglutida e a semaglutida: aumenta a liberação de insulina dependente da glicose, freia o hormônio glucagon, retarda o esvaziamento do estômago e reduz o apetite. O mecanismo básico está explicado no capítulo sobre a exenatida.
 
-A diferença está na „embalagem“. A liraglutida e a semaglutida se ligam a proteínas do sangue por meio de um ácido graxo ligado. A Lilly seguiu outro caminho e acoplou o hormônio à porção Fc de um anticorpo. Esse componente é conhecido da biotecnologia: ele torna as moléculas tão grandes que os rins não conseguem mais filtrá-las e aproveita uma via de reciclagem do próprio corpo, pela qual os anticorpos são protegidos da degradação. Em ratos e macacos cinomolgos, a meia-vida da substância foi de 1,5 a 2 dias; em humanos, é mais longa e permite a aplicação semanal (Glaesner 2010, PMID 20503261).
+A diferença está na “embalagem”. A liraglutida e a semaglutida se ligam a proteínas do sangue por meio de um ácido graxo ligado. A Lilly seguiu outro caminho e acoplou o hormônio à porção Fc de um anticorpo. Esse componente é conhecido da biotecnologia: ele torna as moléculas tão grandes que os rins não conseguem mais filtrá-las e aproveita uma via de reciclagem do próprio corpo, pela qual os anticorpos são protegidos da degradação. Em ratos e macacos cinomolgos, a meia-vida da substância foi de 1,5 a 2 dias; em humanos, é mais longa e permite a aplicação semanal (Glaesner 2010, PMID 20503261).
 
 Nas próprias cadeias de GLP-1, alguns aminoácidos foram trocados – em parte para impedir a degradação pela enzima DPP-4, em parte para reduzir a formação de anticorpos contra a substância. De fato, em nove estudos, apenas 1,6% dos tratados com dulaglutida formaram anticorpos contra o medicamento (Milicevic 2016, PMID 26847401) – bem menos do que com a exenatida.
 
@@ -23,7 +23,7 @@ Uma desvantagem do tamanho: a molécula provavelmente chega com mais dificuldade
 
 ### Estudos em humanos
 
-A busca no PubMed analisada para este livro (termo „dulaglutide“ no título ou no resumo, data da busca outubro de 2026) resultou em 158 estudos em humanos; o ClinicalTrials.gov registra 143 entradas. O número é menor que o da liraglutida ou da semaglutida, mas os estudos foram planejados de forma especialmente sistemática: o programa AWARD (Assessment of Weekly AdministRation of LY2189265 in Diabetes) testou a dulaglutida contra quase todas as terapias comuns para diabetes. Chama a atenção, além disso, a frequência com que a própria dulaglutida serve de comparador para substâncias mais novas – da semaglutida à tirzepatida e a novos desenvolvimentos chineses.
+A busca no PubMed analisada para este livro (termo “dulaglutide” no título ou no resumo, data da busca outubro de 2026) resultou em 158 estudos em humanos; o ClinicalTrials.gov registra 143 entradas. O número é menor que o da liraglutida ou da semaglutida, mas os estudos foram planejados de forma especialmente sistemática: o programa AWARD (Assessment of Weekly AdministRation of LY2189265 in Diabetes) testou a dulaglutida contra quase todas as terapias comuns para diabetes. Chama a atenção, além disso, a frequência com que a própria dulaglutida serve de comparador para substâncias mais novas – da semaglutida à tirzepatida e a novos desenvolvimentos chineses.
 
 #### O programa AWARD
 
@@ -84,7 +84,7 @@ Em uma metanálise de todos os grandes estudos de desfechos com GLP-1, o REWIND 
 
 #### O que explica o benefício – e o que não explica?
 
-Várias análises posteriores do REWIND tentaram entender melhor o efeito cardiovascular. Em uma análise parcial com 9.543 pessoas sem fibrilação atrial no início do estudo, 31% já tinham uma doença cardiovascular e as demais „apenas“ fatores de risco (Raubenheimer 2022, PMID 34984808). Isso reforça que o REWIND, muito mais que outros estudos de desfechos, investigou pessoas no contexto da prevenção.
+Várias análises posteriores do REWIND tentaram entender melhor o efeito cardiovascular. Em uma análise parcial com 9.543 pessoas sem fibrilação atrial no início do estudo, 31% já tinham uma doença cardiovascular e as demais “apenas” fatores de risco (Raubenheimer 2022, PMID 34984808). Isso reforça que o REWIND, muito mais que outros estudos de desfechos, investigou pessoas no contexto da prevenção.
 
 | Análise | Pergunta | Resultado |
 |---|---|---|
@@ -107,7 +107,7 @@ Como a dulaglutida é amplamente usada no mundo todo, bem tolerada e tem benefí
 | Guo 2026, PMID 41407860 | 731 pessoas na China; mazdutida vs. dulaglutida 1,5 mg | 28 semanas | diferença de HbA1c de −0,24 e −0,30 ponto percentual a favor da mazdutida |
 | EECOH-2 (He 2025), PMID 40854315 | 621 pessoas na China; ecnoglutida vs. dulaglutida 1,5 mg | 52 semanas (desfecho principal em 32) | HbA1c −1,89 a −1,91 vs. −1,65 |
 
-Particularmente esclarecedor é o SURPASS-CVOT (Nicholls 2025, PMID 41406444), o primeiro grande estudo de desfechos em que dois medicamentos à base de incretinas se enfrentaram diretamente. A tirzepatida não foi inferior, mas também não comprovadamente superior à dulaglutida. Como a própria dulaglutida havia reduzido o risco no REWIND, um „empate“ contra a dulaglutida é um resultado forte para ambas as substâncias. Uma análise posterior com um desfecho cardiorrenal mais amplo encontrou vantagem para a tirzepatida (23,7% vs. 27,4%; HR 0,84) (Nissen 2026, PMID 41903177). Análises posteriores, porém, são menos sólidas que o desfecho principal definido previamente.
+Particularmente esclarecedor é o SURPASS-CVOT (Nicholls 2025, PMID 41406444), o primeiro grande estudo de desfechos em que dois medicamentos à base de incretinas se enfrentaram diretamente. A tirzepatida não foi inferior, mas também não comprovadamente superior à dulaglutida. Como a própria dulaglutida havia reduzido o risco no REWIND, um “empate” contra a dulaglutida é um resultado forte para ambas as substâncias. Uma análise posterior com um desfecho cardiorrenal mais amplo encontrou vantagem para a tirzepatida (23,7% vs. 27,4%; HR 0,84) (Nissen 2026, PMID 41903177). Análises posteriores, porém, são menos sólidas que o desfecho principal definido previamente.
 
 #### Manuseio: a caneta preenchida
 

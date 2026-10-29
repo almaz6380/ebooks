@@ -53,7 +53,7 @@ A frequência difere consideravelmente entre os peptídeos:
 
 Na forma semanal da exenatida, formam-se frequentemente pequenos nódulos, porque as microesferas que liberam a substância lentamente são degradadas sob a pele. Na análise de cinco anos do DURATION-1, essas reações se tornaram mais raras com o tempo (Wysham 2015, PMID 25744115). Na mecasermina, tratava-se de um espessamento do tecido adiposo no local da injeção (lipo-hipertrofia).
 
-Importante é a distinção da **infecção**. Uma vermelhidão que aumenta ao longo de dias, fica quente, dói, supura ou vem acompanhada de febre não é uma reação inofensiva. Após injeções de Argireline na testa e nas têmporas, uma mulher de 45 anos desenvolveu nódulos e abscessos; a causa foi a bactéria de difícil tratamento *Mycobacterium abscessus*, e o tratamento durou cinco meses (Chen 2021, PMID 33748252). Essas infecções em geral não vêm do peptídeo, mas de produtos ou procedimentos não estéreis – mais sobre isso no capítulo „Produtos do mercado cinza“.
+Importante é a distinção da **infecção**. Uma vermelhidão que aumenta ao longo de dias, fica quente, dói, supura ou vem acompanhada de febre não é uma reação inofensiva. Após injeções de Argireline na testa e nas têmporas, uma mulher de 45 anos desenvolveu nódulos e abscessos; a causa foi a bactéria de difícil tratamento *Mycobacterium abscessus*, e o tratamento durou cinco meses (Chen 2021, PMID 33748252). Essas infecções em geral não vêm do peptídeo, mas de produtos ou procedimentos não estéreis – mais sobre isso no capítulo “Produtos do mercado cinza”.
 
 ### Reações alérgicas e anafilaxia
 

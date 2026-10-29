@@ -1,6 +1,6 @@
 # Glossário
 
-As explicações a seguir são deliberadamente breves. Apresentações mais detalhadas estão nos capítulos da Parte I, em especial em „O que são peptídeos – e o que não são“ e „Como ler estudos corretamente“.
+As explicações a seguir são deliberadamente breves. Apresentações mais detalhadas estão nos capítulos da Parte I, em especial em “O que são peptídeos – e o que não são” e “Como ler estudos corretamente”.
 
 ### A
 
@@ -150,7 +150,7 @@ As explicações a seguir são deliberadamente breves. Apresentações mais deta
 
 **Imunogenicidade**: a propriedade de uma substância de desencadear uma reação do sistema imunológico, como a formação de anticorpos.
 
-**In vitro**: „no vidro“ – experimentos em laboratório com células, tecidos ou moléculas isoladas, fora de um organismo vivo.
+**In vitro**: “no vidro” – experimentos em laboratório com células, tecidos ou moléculas isoladas, fora de um organismo vivo.
 
 **Incretinas**: hormônios intestinais que aumentam a secreção de insulina após uma refeição. Os mais importantes são o GLP-1 e o GIP.
 
@@ -188,7 +188,7 @@ As explicações a seguir são deliberadamente breves. Apresentações mais deta
 
 **Novel Food**: na UE, um alimento ou ingrediente que não era consumido em quantidade significativa antes de 15 de maio de 1997. Esses produtos precisam de aprovação antes da venda.
 
-**Número NCT**: o número de identificação de um estudo no registro ClinicalTrials.gov, composto por „NCT“ e oito dígitos.
+**Número NCT**: o número de identificação de um estudo no registro ClinicalTrials.gov, composto por “NCT” e oito dígitos.
 
 **Número necessário para tratar (NNT)**: o número de pessoas que precisam ser tratadas por determinado tempo para que uma pessoa evite um evento. É calculado a partir da redução absoluta do risco.
 
@@ -242,7 +242,7 @@ As explicações a seguir são deliberadamente breves. Apresentações mais deta
 
 **Relato de caso**: a descrição de um único caso clínico em uma revista especializada. Relatos de caso são importantes para reconhecer efeitos colaterais raros, mas dizem pouco sobre eficácia.
 
-**Research peptides**: peptídeos vendidos com a indicação „apenas para fins de pesquisa“ ou „não destinado ao uso humano“, mas frequentemente a pessoas físicas. Não são medicamentos verificados.
+**Research peptides**: peptídeos vendidos com a indicação “apenas para fins de pesquisa” ou “não destinado ao uso humano”, mas frequentemente a pessoas físicas. Não são medicamentos verificados.
 
 **Revisão sistemática**: um trabalho que, segundo regras definidas, busca, avalia e resume todos os estudos disponíveis sobre uma questão.
 

@@ -10,7 +10,7 @@ Este livro deliberadamente não contém recomendações de uso de peptídeos, ne
 
 ### Muitas substâncias não são aprovadas
 
-Muitos dos peptídeos descritos neste livro **não** são aprovados como medicamentos na União Europeia, na Áustria, na Alemanha e nos EUA. Para muitos deles existem apenas estudos em animais ou em laboratório. A apresentação dessas substâncias neste livro não é uma afirmação sobre sua eficácia ou segurança em seres humanos nem um incentivo ao seu uso. Produtos oferecidos na internet como „Research Peptides“ ou „apenas para fins de pesquisa“ podem estar com a dose errada, contaminados ou falsificados. Seu uso pode ter consequências graves para a saúde e do ponto de vista jurídico.
+Muitos dos peptídeos descritos neste livro **não** são aprovados como medicamentos na União Europeia, na Áustria, na Alemanha e nos EUA. Para muitos deles existem apenas estudos em animais ou em laboratório. A apresentação dessas substâncias neste livro não é uma afirmação sobre sua eficácia ou segurança em seres humanos nem um incentivo ao seu uso. Produtos oferecidos na internet como “Research Peptides” ou “apenas para fins de pesquisa” podem estar com a dose errada, contaminados ou falsificados. Seu uso pode ter consequências graves para a saúde e do ponto de vista jurídico.
 
 ### Doping
 
@@ -24,7 +24,7 @@ As informações deste livro refletem a **situação em novembro de 2026**. A pe
 
 Este livro foi pesquisado e redigido com o apoio de inteligência artificial (IA) e, em seguida, revisado pelo autor. A IA foi usada para buscar estudos nas bases de dados PubMed e ClinicalTrials.gov, analisar resumos de estudos e produzir rascunhos de texto.
 
-Para evitar erros, valem regras rigorosas: cada estudo citado é indicado com seu número no PubMed (PMID) ou seu número de registro no ClinicalTrials.gov (número NCT). Cada número vem do resumo da respectiva publicação ou do registro do estudo. Todos os números citados foram, além disso, verificados automaticamente nas bases de dados. Assim, você pode consultar cada fonte e conferir as informações por conta própria. Como fazer isso está explicado na seção a seguir; detalhes sobre a pesquisa você encontra no apêndice „Metodologia“.
+Para evitar erros, valem regras rigorosas: cada estudo citado é indicado com seu número no PubMed (PMID) ou seu número de registro no ClinicalTrials.gov (número NCT). Cada número vem do resumo da respectiva publicação ou do registro do estudo. Todos os números citados foram, além disso, verificados automaticamente nas bases de dados. Assim, você pode consultar cada fonte e conferir as informações por conta própria. Como fazer isso está explicado na seção a seguir; detalhes sobre a pesquisa você encontra no apêndice “Metodologia”.
 
 # Sobre este livro
 
@@ -68,7 +68,7 @@ Cada peptídeo recebe na ficha técnica um nível de evidência. Ele descreve o 
 | C | apenas estudos pequenos ou não controlados em humanos |
 | D | apenas estudos em animais e em laboratório |
 
-O nível de evidência não é uma recomendação nem uma afirmação sobre a segurança de uma substância. Mesmo uma substância de nível A tem efeitos colaterais, e uma substância de nível D não é necessariamente ineficaz – ela apenas ainda não foi suficientemente estudada em seres humanos. O que está por trás dos termos „randomizado“, „controlado“ ou „desfecho substituto“ é explicado no capítulo „Como ler estudos corretamente“.
+O nível de evidência não é uma recomendação nem uma afirmação sobre a segurança de uma substância. Mesmo uma substância de nível A tem efeitos colaterais, e uma substância de nível D não é necessariamente ineficaz – ela apenas ainda não foi suficientemente estudada em seres humanos. O que está por trás dos termos “randomizado”, “controlado” ou “desfecho substituto” é explicado no capítulo “Como ler estudos corretamente”.
 
 ### Como as fontes são indicadas
 
@@ -103,4 +103,4 @@ Como alternativa, você pode acrescentar o número diretamente ao endereço: pub
 
 ### Uma palavra final
 
-Este livro é uma ferramenta para a reflexão, não um guia de automedicação. Se depois da leitura você tiver mais perguntas do que antes, isso não é um mau sinal: muitas vezes, a resposta mais honesta à pergunta „Este peptídeo funciona?“ é „Ninguém sabe ainda“.
+Este livro é uma ferramenta para a reflexão, não um guia de automedicação. Se depois da leitura você tiver mais perguntas do que antes, isso não é um mau sinal: muitas vezes, a resposta mais honesta à pergunta “Este peptídeo funciona?” é “Ninguém sabe ainda”.

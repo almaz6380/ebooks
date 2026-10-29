@@ -23,7 +23,7 @@ Uma diferença importante em relação às substâncias posteriores: a exenatida
 
 ### Estudos em humanos
 
-Os estudos sobre a exenatida são abundantes. A busca no PubMed analisada para este livro (termo „exenatide“ no título ou no resumo, data da busca outubro de 2026) resultou em 437 estudos em humanos; no ClinicalTrials.gov constam 379 registros com exenatida. Muitos deles são pequenos estudos de mecanismo ou de combinação. Para a avaliação, pesam sobretudo três grupos: os programas de aprovação AMIGO (forma de duas vezes ao dia) e DURATION (forma semanal), o estudo de desfechos cardiovasculares EXSCEL e uma série de estudos para além do diabetes, especialmente sobre a doença de Parkinson.
+Os estudos sobre a exenatida são abundantes. A busca no PubMed analisada para este livro (termo “exenatide” no título ou no resumo, data da busca outubro de 2026) resultou em 437 estudos em humanos; no ClinicalTrials.gov constam 379 registros com exenatida. Muitos deles são pequenos estudos de mecanismo ou de combinação. Para a avaliação, pesam sobretudo três grupos: os programas de aprovação AMIGO (forma de duas vezes ao dia) e DURATION (forma semanal), o estudo de desfechos cardiovasculares EXSCEL e uma série de estudos para além do diabetes, especialmente sobre a doença de Parkinson.
 
 #### Os estudos AMIGO: o início da classe
 
@@ -36,7 +36,7 @@ Três estudos controlados por placebo, de 30 semanas cada, formaram a base da pr
 | Kendall 2005, PMID 15855571 | diabetes tipo 2 em uso de metformina mais sulfonilureia, ECR | 30 semanas | HbA1c −0,8 vs. +0,2; hipoglicemias leves 28% vs. 13% |
 | Heine 2005, PMID 16230722 | 551 pessoas, comparação aberta com insulina glargina | 26 semanas | HbA1c −1,11 em ambos; peso −2,3 kg vs. +1,8 kg |
 
-A HbA1c (glicose de longo prazo) descreve a fração do pigmento vermelho do sangue „glicado“ e reflete a glicose dos últimos dois a três meses. Uma redução de 0,8 a 1 ponto percentual era considerada clinicamente relevante na época. A novidade era que o peso não subia, como é comum com insulina ou sulfonilureias, mas caía. O estudo de Kendall, porém, também mostra: em combinação com uma sulfonilureia, que libera insulina independentemente da glicose, as hipoglicemias leves aumentaram.
+A HbA1c (glicose de longo prazo) descreve a fração do pigmento vermelho do sangue “glicado” e reflete a glicose dos últimos dois a três meses. Uma redução de 0,8 a 1 ponto percentual era considerada clinicamente relevante na época. A novidade era que o peso não subia, como é comum com insulina ou sulfonilureias, mas caía. O estudo de Kendall, porém, também mostra: em combinação com uma sulfonilureia, que libera insulina independentemente da glicose, as hipoglicemias leves aumentaram.
 
 Na comparação direta com a insulina glargina (Heine 2005, PMID 16230722), ambos os tratamentos reduziram a HbA1c na mesma medida. A diferença de peso foi de 4,1 kg a favor da exenatida, e as hipoglicemias noturnas foram mais raras (0,9 vs. 2,4 eventos por paciente-ano). O preço: náuseas ocorreram em 57,1% contra 8,6%, vômitos em 17,4% contra 3,7%. 19,4% do grupo da exenatida abandonaram o estudo, contra 9,7% com insulina.
 
@@ -60,7 +60,7 @@ No DURATION-2 (Bergenstal 2010, PMID 20580422), a forma semanal foi superior a d
 
 Para situar a exenatida, os estudos frente a frente com substâncias posteriores são especialmente esclarecedores. Eles mostram que a exenatida é eficaz, mas é superada pelas sucessoras.
 
-No **DURATION-6** (Buse 2013, PMID 23141817), a forma semanal enfrentou a liraglutida uma vez ao dia. A liraglutida reduziu a HbA1c em 1,48 ponto percentual, a exenatida em 1,28. A diferença de 0,21 ponto percentual não atingiu o limite predefinido para „não inferior“. Em compensação, a exenatida foi mais bem tolerada: náuseas ocorreram em 9% contra 21%, diarreia em 6% contra 13%, vômitos em 4% contra 11%.
+No **DURATION-6** (Buse 2013, PMID 23141817), a forma semanal enfrentou a liraglutida uma vez ao dia. A liraglutida reduziu a HbA1c em 1,48 ponto percentual, a exenatida em 1,28. A diferença de 0,21 ponto percentual não atingiu o limite predefinido para “não inferior”. Em compensação, a exenatida foi mais bem tolerada: náuseas ocorreram em 9% contra 21%, diarreia em 6% contra 13%, vômitos em 4% contra 11%.
 
 No **SUSTAIN 3** (Ahmann 2018, PMID 29246950), a exenatida semanal perdeu claramente para a semaglutida semanal ao longo de 56 semanas. A HbA1c caiu 0,9 contra 1,5 ponto percentual, o peso 1,9 contra 5,6 kg. Uma HbA1c abaixo de 7% foi alcançada por 40% contra 67%. Queixas gastrointestinais foram um pouco mais raras com exenatida (33,3% vs. 41,8%), mas reações no local da injeção foram muito mais frequentes (22,0% vs. 1,2%).
 
@@ -153,7 +153,7 @@ Sobre a tireoide: em ratos e camundongos, os agonistas do receptor de GLP-1 prov
 
 ### Estudos em andamento e perspectivas
 
-**Confirmado (estudos registrados):** como medicamento para diabetes, a exenatida está em grande parte „esgotada“ como objeto de pesquisa; quase não há novos estudos de aprovação nessa indicação. Os registros atuais referem-se principalmente a:
+**Confirmado (estudos registrados):** como medicamento para diabetes, a exenatida está em grande parte “esgotada” como objeto de pesquisa; quase não há novos estudos de aprovação nessa indicação. Os registros atuais referem-se principalmente a:
 
 - Modificações da molécula: na China, estão sendo desenvolvidas variantes peguiladas. Para o PB-119, um estudo de fase 2 com 251 participantes reduziu a HbA1c após 12 semanas até 1,18 ponto percentual a mais do que o placebo (Ji 2021, PMID 33687487). Outro candidato, o JY09 – exendina-4 acoplada a um componente de anticorpo (proteína de fusão Fc), injetado a cada duas semanas nos estudos –, está sendo testado em estudos de fase 3 contra placebo e contra dulaglutida (NCT06254014, NCT06257966).
 - Neurologia: a variante peguilada NLY01 está sendo estudada na esclerose múltipla em um estudo de fase 2 com 120 participantes (NCT07497399).

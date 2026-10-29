@@ -4,7 +4,7 @@ A história dos medicamentos peptídicos é uma história de avanços, de caminh
 
 ### Antes de 1922: os mensageiros químicos são descobertos
 
-Por volta de 1900, uma nova ideia se impôs na fisiologia: os órgãos se comunicam não apenas por nervos, mas também por mensageiros químicos no sangue. Os fisiologistas britânicos William Bayliss e Ernest Starling descreveram em 1902 a secretina, uma substância da parede intestinal que estimula o pâncreas a produzir suco. Pouco depois, Starling cunhou para esses mensageiros o termo „hormônio“. A secretina é – como se sabe hoje – um peptídeo. Assim, um peptídeo esteve no início de toda a pesquisa sobre hormônios.
+Por volta de 1900, uma nova ideia se impôs na fisiologia: os órgãos se comunicam não apenas por nervos, mas também por mensageiros químicos no sangue. Os fisiologistas britânicos William Bayliss e Ernest Starling descreveram em 1902 a secretina, uma substância da parede intestinal que estimula o pâncreas a produzir suco. Pouco depois, Starling cunhou para esses mensageiros o termo “hormônio”. A secretina é – como se sabe hoje – um peptídeo. Assim, um peptídeo esteve no início de toda a pesquisa sobre hormônios.
 
 Ao mesmo tempo, sabia-se que o diabetes mellitus estava relacionado ao pâncreas. Cães dos quais se retirava esse órgão desenvolviam um diabetes fatal. Muitos grupos de pesquisa tentaram obter da glândula a suposta substância capaz de baixar a glicose no sangue. Os extratos, porém, ou eram ineficazes ou tão contaminados que provocavam reações graves.
 
@@ -20,7 +20,7 @@ As décadas seguintes giraram, como resume uma revisão histórica, em torno de 
 
 Por muito tempo não se sabia como a insulina era constituída quimicamente. O bioquímico britânico Frederick Sanger decifrou, no início da década de 1950, passo a passo, a ordem dos aminoácidos nas duas cadeias da insulina (Sanger 1952, PMID 13018185). A insulina tornou-se assim a primeira proteína cuja sequência completa era conhecida. Sanger recebeu por isso o Prêmio Nobel de Química em 1958. A constatação de que as proteínas têm uma ordem fixa e exatamente definida de blocos de construção foi fundamental para toda a biologia molecular.
 
-Quase ao mesmo tempo, o químico norte-americano Vincent du Vigneaud conseguiu a primeira produção química de um hormônio peptídico: a ocitocina, um hormônio de nove aminoácidos que desencadeia as contrações do parto e a saída do leite. Ele recebeu por isso o Prêmio Nobel de Química em 1955. Pela primeira vez, um hormônio do próprio corpo havia sido „reconstruído“ em laboratório – a ocitocina sintética é usada na obstetrícia até hoje.
+Quase ao mesmo tempo, o químico norte-americano Vincent du Vigneaud conseguiu a primeira produção química de um hormônio peptídico: a ocitocina, um hormônio de nove aminoácidos que desencadeia as contrações do parto e a saída do leite. Ele recebeu por isso o Prêmio Nobel de Química em 1955. Pela primeira vez, um hormônio do próprio corpo havia sido “reconstruído” em laboratório – a ocitocina sintética é usada na obstetrícia até hoje.
 
 Na década de 1960, Robert Bruce Merrifield desenvolveu a síntese em fase sólida, na qual uma cadeia peptídica é alongada bloco a bloco sobre um suporte sólido (Merrifield 1969, PMID 4307033). O método pôde ser automatizado e tornou viável, pela primeira vez, a produção de quaisquer peptídeos curtos. Merrifield recebeu o Prêmio Nobel de Química em 1984. Sem essa técnica não existiriam nem a maioria dos medicamentos peptídicos modernos nem o mercado cinza atual.
 
@@ -36,9 +36,9 @@ Até a década de 1980, a insulina vinha de pâncreas de animais abatidos. O hor
 
 A engenharia genética ofereceu uma saída. A insulina humana, produzida em bactérias, passou a ser usada em estudos clínicos com seres humanos a partir de 1980 e foi o primeiro medicamento obtido pela tecnologia do DNA recombinante (The 1989, PMID 2690608). Poucos anos depois veio o hormônio do crescimento recombinante. Pela primeira vez, peptídeos e proteínas humanos estavam disponíveis em quantidades praticamente ilimitadas.
 
-Na década de 1990, os fabricantes foram um passo além: modificaram as moléculas de insulina de forma direcionada para que agissem mais rápido ou mais devagar. Esses „análogos de insulina“ foram precursores do princípio que mais tarde tornaria os medicamentos GLP-1 tão bem-sucedidos: um modelo natural, otimizado em laboratório para o uso.
+Na década de 1990, os fabricantes foram um passo além: modificaram as moléculas de insulina de forma direcionada para que agissem mais rápido ou mais devagar. Esses “análogos de insulina” foram precursores do princípio que mais tarde tornaria os medicamentos GLP-1 tão bem-sucedidos: um modelo natural, otimizado em laboratório para o uso.
 
-Outros medicamentos peptídicos também se estabeleceram. Um exemplo é a teriparatida, um fragmento do paratormônio. Em um grande estudo com 1.637 mulheres na pós-menopausa com osteoporose, novas fraturas vertebrais ocorreram em 14% das mulheres com placebo, mas apenas em 5% e 4%, respectivamente, nos dois grupos de teriparatida (Neer 2001, PMID 11346808). Estudos assim, com desfechos „duros“ como fraturas ósseas, estabeleceram o padrão pelo qual também os novos peptídeos precisam ser medidos.
+Outros medicamentos peptídicos também se estabeleceram. Um exemplo é a teriparatida, um fragmento do paratormônio. Em um grande estudo com 1.637 mulheres na pós-menopausa com osteoporose, novas fraturas vertebrais ocorreram em 14% das mulheres com placebo, mas apenas em 5% e 4%, respectivamente, nos dois grupos de teriparatida (Neer 2001, PMID 11346808). Estudos assim, com desfechos “duros” como fraturas ósseas, estabeleceram o padrão pelo qual também os novos peptídeos precisam ser medidos.
 
 ### As incretinas: do intestino ao medicamento
 
@@ -70,7 +70,7 @@ Um ponto de virada veio quando, após problemas com outro medicamento para diabe
 
 No estudo LEADER, com 9.340 pessoas com diabetes tipo 2 e alto risco cardiovascular, o evento combinado de morte cardiovascular, infarto não fatal ou AVC ocorreu em 13,0% com liraglutida e em 14,9% com placebo (Marso 2016, PMID 27295427). No estudo SUSTAIN-6, com 3.297 participantes, foram 6,6% com semaglutida e 8,9% com placebo; no entanto, complicações na retina ocorreram com mais frequência com semaglutida (Marso 2016, PMID 27633186).
 
-Em 2023 veio o estudo SELECT, o primeiro a investigar pessoas com sobrepeso e doença cardiovascular, mas sem diabetes. Em 17.604 participantes, o evento cardiovascular combinado ocorreu, ao longo de em média 39,8 meses, em 6,5% com semaglutida e em 8,0% com placebo (Lincoff 2023, PMID 37952131). Com isso ficou demonstrado que um medicamento peptídico na obesidade pode influenciar não só o peso, mas também eventos duros como infartos. O que essas porcentagens significam – e por que é preciso distinguir entre diferenças relativas e absolutas – é explicado no capítulo „Como ler estudos corretamente“.
+Em 2023 veio o estudo SELECT, o primeiro a investigar pessoas com sobrepeso e doença cardiovascular, mas sem diabetes. Em 17.604 participantes, o evento cardiovascular combinado ocorreu, ao longo de em média 39,8 meses, em 6,5% com semaglutida e em 8,0% com placebo (Lincoff 2023, PMID 37952131). Com isso ficou demonstrado que um medicamento peptídico na obesidade pode influenciar não só o peso, mas também eventos duros como infartos. O que essas porcentagens significam – e por que é preciso distinguir entre diferenças relativas e absolutas – é explicado no capítulo “Como ler estudos corretamente”.
 
 ### O comprimido e os agonistas múltiplos
 
@@ -84,7 +84,7 @@ Dois outros desenvolvimentos marcaram os últimos anos.
 
 ### O outro lado do sucesso
 
-O enorme sucesso dos medicamentos GLP-1 teve efeitos colaterais para além da farmacologia. A falta de produto a partir de 2022 fez com que pessoas com diabetes ficassem temporariamente sem seus medicamentos. Nos EUA, farmácias usaram uma regra de exceção para produzir preparações de imitação. No mundo todo surgiram falsificações que, em alguns casos, continham insulina em vez de semaglutida. E o interesse crescente por „peptídeos“ em geral abriu um mercado para substâncias que nunca foram devidamente estudadas em seres humanos. O capítulo sobre o mercado cinza trata disso em detalhe.
+O enorme sucesso dos medicamentos GLP-1 teve efeitos colaterais para além da farmacologia. A falta de produto a partir de 2022 fez com que pessoas com diabetes ficassem temporariamente sem seus medicamentos. Nos EUA, farmácias usaram uma regra de exceção para produzir preparações de imitação. No mundo todo surgiram falsificações que, em alguns casos, continham insulina em vez de semaglutida. E o interesse crescente por “peptídeos” em geral abriu um mercado para substâncias que nunca foram devidamente estudadas em seres humanos. O capítulo sobre o mercado cinza trata disso em detalhe.
 
 ### O que a história ensina
 
@@ -93,7 +93,7 @@ De cem anos de medicina peptídica é possível tirar algumas lições úteis pa
 1. **A pureza não é um detalhe.** Dos extratos de insulina contaminados do início ao hormônio do crescimento obtido de hipófises de cadáveres, a história mostra que a qualidade da produção pode decidir entre a vida e a morte.
 2. **Mecanismo de ação não é o mesmo que benefício.** O fato de um peptídeo agir em um receptor ainda não significa que ele traga benefício às pessoas. No caso dos medicamentos GLP-1, foram necessários grandes estudos com milhares de participantes e vários anos de acompanhamento.
 3. **Há surpresas nas duas direções.** A perda de peso com exenatida foi inicialmente uma nota de rodapé; os efeitos de proteção cardíaca foram descobertos em estudos de segurança. Por outro lado, grandes estudos também revelaram riscos inesperados, como as complicações na retina no SUSTAIN-6.
-4. **Boas ideias precisam de tempo.** Entre a descrição do GLP-1 em humanos, em 1987, e a aprovação da semaglutida para o tratamento do peso, passaram-se mais de três décadas. Peptídeos anunciados hoje na internet como „avanço revolucionário“, sem que exista um único estudo controlado em seres humanos, estão, na melhor das hipóteses, no início de um caminho assim.
+4. **Boas ideias precisam de tempo.** Entre a descrição do GLP-1 em humanos, em 1987, e a aprovação da semaglutida para o tratamento do peso, passaram-se mais de três décadas. Peptídeos anunciados hoje na internet como “avanço revolucionário”, sem que exista um único estudo controlado em seres humanos, estão, na melhor das hipóteses, no início de um caminho assim.
 
 ### Linha do tempo
 
