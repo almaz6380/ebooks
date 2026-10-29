@@ -9,7 +9,7 @@ La ricerca si basa su due banche dati liberamente accessibili:
 - **PubMed** (pubmed.ncbi.nlm.nih.gov), la banca dati bibliografica della National Library of Medicine statunitense. Registra pubblicazioni di riviste biomediche con titolo, autori, riassunto (abstract) e parole chiave. Ogni voce ha un numero univoco, il PMID.
 - **ClinicalTrials.gov** (clinicaltrials.gov), il registro degli studi dei National Institutes of Health statunitensi. Qui vengono registrati prima del loro inizio studi clinici da tutto il mondo, con disegno, numero previsto di partecipanti, endpoint e stato. Ogni studio ha un numero NCT.
 
-Entrambe le banche dati sono state interrogate tramite le loro interfacce di programmazione ufficiali e pubblicamente accessibili: PubMed tramite le E-Utilities del National Center for Biotechnology Information, ClinicalTrials.gov tramite l'interfacia di programmazione nella versione 2. Altre banche dati come Embase, Cochrane Library, Web of Science, il registro UE degli studi o registri nazionali non sono state consultate in modo sistematico.
+Entrambe le banche dati sono state interrogate tramite le loro interfacce di programmazione ufficiali e pubblicamente accessibili: PubMed tramite le E-Utilities del National Center for Biotechnology Information, ClinicalTrials.gov tramite l'interfaccia di programmazione nella versione 2. Altre banche dati come Embase, Cochrane Library, Web of Science, il registro UE degli studi o registri nazionali non sono state consultate in modo sistematico.
 
 ### Periodo delle interrogazioni
 
