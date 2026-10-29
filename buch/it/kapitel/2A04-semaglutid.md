@@ -145,3 +145,62 @@ FLOW (Perkovic 2024, PMID 38785209) è stato il primo grande studio con un agoni
 **Malattia di Alzheimer:** la speranza che gli agonisti del recettore del GLP-1 potessero frenare il declino cognitivo si basava su esperimenti su animali e dati osservazionali. Novo Nordisk l'ha verificata in due grandi studi di fase 3, evoke ed evoke+, con complessivamente 3.808 persone con malattia di Alzheimer precoce, che per 104 settimane hanno ricevuto ogni giorno compresse di semaglutide o placebo (Cummings 2026, PMID 41865758). Il risultato è stato chiaramente negativo: la malattia è progredita con la stessa velocità in entrambi i gruppi (differenza sulla scala della demenza CDR-SB −0,08 e +0,10 punti, non significativa). La semaglutide come farmaco per l'Alzheimer è quindi, allo stato attuale, fallita; un commento sulla stessa rivista discute le conseguenze per il campo di ricerca (Schneider 2026, PMID 41865757).
 
 **Alcol:** in un piccolo studio randomizzato con 48 persone con disturbo da uso di alcol, la semaglutide a basse dosi ha ridotto la quantità di alcol bevuta in un test di laboratorio, il desiderio di alcol e il numero di bevande nei giorni di consumo; il numero di giorni di consumo non è cambiato (Hendershot 2025, PMID 39937469). In uno studio di registro svedese la semaglutide era associata a un rischio inferiore del 36% di ricoveri ospedalieri correlati all'alcol (Lähteenvuo 2025, PMID 39535805). Sono in corso studi randomizzati più grandi.
+
+### Studi su animali e in laboratorio
+
+La semaglutide è stata progettata in modo mirato a tavolino: tra numerose varianti gli sviluppatori hanno scelto quella con la migliore combinazione di legame all'albumina, effetto sul recettore e stabilità (Lau 2015, PMID 26308095). L'emivita è stata determinata inizialmente nei minimaiali. L'assorbimento della compressa attraverso la mucosa gastrica è stato studiato nei cani e nell'uomo (Buckley 2018, PMID 30429357).
+
+Come per la liraglutide, esperimenti a lungo termine sui roditori hanno portato a tumori a cellule C della tiroide; la trasferibilità all'uomo è considerata dubbia a causa della bassa densità di recettori nelle cellule C umane (Bjerre Knudsen 2010, PMID 20203154). Gli esperimenti su animali su neuroprotezione, dipendenze e infiammazione hanno costituito la base degli studi sull'uomo descritti sopra – con esiti alterni, come mostra il fallimento di evoke.
+
+### Rischi ed effetti collaterali
+
+**Dimostrati da studi randomizzati:**
+
+- **Disturbi gastrointestinali:** nausea, diarrea, vomito e stitichezza riguardano negli studi sull'obesità la maggioranza dei trattati, per lo più in forma lieve o moderata e transitoria, soprattutto durante l'aumento della dose (Wilding 2021, PMID 33567185). Sono il motivo più frequente di interruzione della terapia.
+- **Calcoli biliari e colecistite:** aumentati nella classe nel suo complesso, soprattutto a dosi alte e per la riduzione del peso (He 2022, PMID 35344001); in STEP TEENS nel 4% degli adolescenti (Weghuber 2022, PMID 36322838).
+- **Peggioramento di una retinopatia diabetica:** più frequente in SUSTAIN 6 (HR 1,76) (Marso 2016, PMID 27633186). Si ipotizza che una riduzione molto rapida della glicemia in presenza di una retinopatia già esistente sia temporaneamente dannosa – un effetto noto anche con l'insulina. È in corso uno studio dedicato a questa domanda con 1.500 partecipanti (NCT03811561). Le persone con retinopatia dovrebbero essere seguite dall'oculista.
+- **Perdita di massa muscolare:** con ogni forte perdita di peso si perde anche massa magra. Quanto ciò sia rilevante con la semaglutide, soprattutto nelle persone anziane, è ancora oggetto di studio; la Parte IV se ne occupa.
+
+**Dati osservazionali e segnali:**
+
+- **NAION (disturbo della circolazione del nervo ottico):** nel 2024 uno studio statunitense di una clinica oculistica ha riferito un rischio nettamente aumentato di neuropatia ottica ischemica anteriore non arteritica, una perdita improvvisa della vista, per lo più indolore, in un occhio (Hathaway 2024, PMID 38958939). In questo studio l'hazard ratio era 4,28 (diabete) e 7,64 (obesità), ma con numeri di casi molto piccoli. Uno studio di registro danese-norvegese con oltre 60.000 persone con diabete di tipo 2 ha confermato un rischio relativo aumentato (HR 2,81), con un rischio assoluto basso: circa 1,4 casi aggiuntivi per 10.000 anni-persona (Simonsen 2025, PMID 40098249). Una meta-analisi del 2026 ha trovato il segnale solo negli studi osservazionali nel diabete (HR 1,85), non negli studi randomizzati né nell'obesità (Liu 2026, PMID 41475544). Nel 2025 l'Agenzia europea per i medicinali ha inserito la NAION come effetto collaterale molto raro nel Riassunto delle caratteristiche del prodotto (aggiornato al 2026, da verificare). Chi durante il trattamento con semaglutide vede improvvisamente peggio dovrebbe cercare immediatamente assistenza medica.
+- **Pancreatite e occlusione intestinale:** un'analisi di dati assicurativi ha rilevato con gli agonisti del recettore del GLP-1 usati per perdere peso un rischio aumentato di pancreatite, occlusione intestinale e gastroparesi (Sodhi 2023, PMID 37796527). Nei grandi studi randomizzati la pancreatite è stata rara. Il Riassunto delle caratteristiche del prodotto la indica come possibile effetto collaterale.
+- **Cancro della tiroide:** segnale in studi osservazionali e meta-analisi per la classe (Bezin 2023, PMID 36356111; Silverii 2025, PMID 40437949); vedi capitolo Liraglutide.
+- **Effetti collaterali psichici:** dopo segnalazioni di pensieri suicidari, nel 2023/2024 le autorità hanno svolto verifiche senza trovare prove di un rapporto causale. In una grande coorte statunitense con 240.618 persone in sovrappeso, la semaglutide era addirittura associata a meno pensieri suicidari di nuova insorgenza rispetto ad altri farmaci per la riduzione del peso (Wang 2024, PMID 38182782). I dati osservazionali non possono escludere con certezza le distorsioni.
+
+**Indicazioni per la pratica:** la semaglutide non è indicata in gravidanza; il Riassunto delle caratteristiche del prodotto raccomanda di sospenderla per tempo prima di una gravidanza pianificata. A causa del rallentato svuotamento gastrico, durante le anestesie può esserci un rischio aumentato che il contenuto gastrico finisca nei polmoni; i trattati dovrebbero segnalarlo prima di interventi chirurgici e gastroscopie. Per uso, aumento della dose e controindicazioni fanno fede il Riassunto delle caratteristiche del prodotto e l'accompagnamento medico.
+
+### Mercato grigio, compounding e contraffazioni
+
+Nessun altro peptide di questo libro viene procurato così spesso al di fuori dei canali regolari come la semaglutide. Dal 2022 la domanda ha superato per anni l'offerta. Occorre distinguere tre problemi.
+
+**Compounding (Stati Uniti):** durante le carenze ufficiali, le farmacie statunitensi potevano produrre semaglutide in proprio („compounding“), spesso come polvere o soluzione in flaconcini, in parte con altre forme saline del principio attivo. Dopo la fine della carenza, la FDA ha fortemente limitato questa pratica (aggiornato al 2026, da verificare). Una serie di casi di un centro antiveleni ha descritto sovradosaggi di dieci volte, perché i pazienti maneggiavano siringhe e flaconcini invece di penne preriempite e confondevano millilitri, unità e milligrammi (Lambson 2023, PMID 37392810). In un'analisi della banca dati statunitense degli effetti collaterali, per i prodotti allestiti in farmacia le segnalazioni di errori di produzione, contaminazione e ricoveri ospedalieri erano sproporzionatamente frequenti (McCall 2026, PMID 40285721).
+
+**Negozi online illegali:** in un'indagine di mercato il 42,3% dei link a farmacie online trovati portava a venditori illegali che vendevano semaglutide senza ricetta (Ashraf 2024, PMID 39509151). Negli acquisti di prova le penne di Ozempic ordinate non sono mai arrivate. I flaconcini consegnati contenevano sì semaglutide, ma la purezza era solo dal 7,7% al 14,37% invece del 99% dichiarato, e in tutti i campioni sono state rilevate endotossine (componenti di batteri che possono provocare febbre e infiammazioni).
+
+**Contraffazioni:** penne di Ozempic contraffatte sono comparse in Europa e negli Stati Uniti, in parte riempite di insulina o prive di principio attivo; le autorità per i farmaci e l'Organizzazione mondiale della sanità hanno lanciato più volte avvertimenti. Informazioni generali sui prodotti del mercato grigio si trovano nella Parte I e nella Parte IV. Sicura è solo la via regolare: prescrizione medica e dispensazione in farmacia.
+
+### Quadro normativo
+
+- **UE:** Ozempic (2018), Rybelsus (2020) e Wegovy (2022) sono autorizzati con procedura centralizzata e soggetti a prescrizione. Wegovy è autorizzato per la gestione del peso negli adulti e negli adolescenti dai 12 anni; il Riassunto delle caratteristiche del prodotto contiene ormai anche informazioni sulla riduzione del rischio cardiovascolare tratte da SELECT.
+- **Germania:** Ozempic e Rybelsus vengono rimborsati nel diabete di tipo 2. Wegovy è considerato un farmaco per la riduzione del peso ed è in linea di principio escluso dal rimborso dell'assicurazione sanitaria obbligatoria ai sensi del § 34 SGB V; una modifica è oggetto di dibattito politico (aggiornato al 2026, da verificare). La prescrizione di Ozempic per la sola perdita di peso è off-label ed è stata espressamente criticata dalle autorità durante le carenze.
+- **Austria:** soggetta a prescrizione; copertura dei costi per la gestione del peso solo limitata (da verificare).
+- **USA:** Ozempic, Rybelsus e Wegovy (iniezione e compressa) autorizzati, con indicazioni estese a cuore, reni e MASH.
+- **Brevetti e generici:** in diversi grandi mercati al di fuori di UE e Stati Uniti – tra cui Canada, Cina, India e Brasile – la protezione brevettuale della semaglutide scade nel 2026; lì i primi preparati di imitazione sono annunciati o già sul mercato. Nell'UE e negli Stati Uniti i generici sono attesi solo intorno al 2031/2032 (aggiornato al 2026, da verificare). Maggiori informazioni nella Parte V.
+- **Sport (WADA):** non elencata (aggiornato al 2026, da verificare).
+
+### Studi in corso e prospettive
+
+**Accertato (studi registrati):** delle 793 voci di registro una gran parte riguarda combinazioni e successori. Esempi:
+
+- **Occhi:** uno studio con 1.500 partecipanti esamina in modo mirato l'effetto sulla retinopatia diabetica (NCT03811561).
+- **Fegato:** la seconda parte di ESSENCE, con 1.205 partecipanti, dovrà chiarire se la semaglutide prevenga la cirrosi epatica e le complicanze epatiche (NCT04822181).
+- **Bambini:** è in corso uno studio con 212 bambini e adolescenti (NCT05726227).
+- **Compressa:** sono stati avviati ulteriori studi di fase 3 sulla compressa nell'obesità (NCT07770841).
+- **Combinazione CagriSema:** la semaglutide in combinazione fissa con l'analogo dell'amilina cagrilintide viene valutata in uno studio cardiovascolare con 7.101 partecipanti (NCT05669755); dettagli nel capitolo Cagrilintide/CagriSema.
+
+**Valutazione:** nei prossimi anni la semaglutide sarà messa sotto pressione da due lati – da successori più efficaci come tirzepatide, CagriSema o retatrutide e dai generici in grandi mercati. Al tempo stesso è il principio attivo con la base di prove più ampia per endpoint solidi (cuore, reni, fegato). La forma in compresse potrebbe ampliare notevolmente l'accesso. Gli studi falliti sull'Alzheimer mostrano che non tutte le speranze derivate da esperimenti su animali e dati osservazionali reggono.
+
+### Conclusione
+
+La semaglutide è l'agonista del recettore del GLP-1 studiato in modo più completo e nei confronti diretti ha superato exenatide, liraglutide e dulaglutide. Alla dose di 2,4 mg alla settimana le persone con obesità in STEP 1 hanno perso in media il 14,9% del proprio peso; dopo la sospensione gran parte del peso ritorna. Grandi studi di esito hanno mostrato una riduzione degli eventi cardiovascolari gravi – anche senza diabete (SELECT, 20%) – nonché una protezione dei reni (FLOW) e miglioramenti nella steatoepatite. Gli effetti collaterali frequenti riguardano il tratto gastrointestinale e la colecisti; segnali rari come la NAION continuano a essere osservati, mentre gli studi sull'Alzheimer non hanno mostrato alcun beneficio. I prodotti del mercato grigio comportano rischi considerevoli – il trattamento va affidato al medico e alla farmacia.
