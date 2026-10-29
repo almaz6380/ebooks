@@ -2,7 +2,7 @@
 
 Wie op internet naar peptiden zoekt, komt al snel terecht bij webwinkels met professioneel ogende pagina's, laboratoriumfoto's en zuiverheidscertificaten. Aangeboden worden flesjes met wit poeder: BPC-157, TB-500, ipamorelin, melanotan II – en steeds vaker ook semaglutide, tirzepatide of nog helemaal niet geregistreerde werkzame stoffen zoals retatrutide. Bijna altijd staat ergens de vermelding „Research Use Only” of „not for human consumption” – alleen voor onderzoeksdoeleinden, niet voor gebruik bij de mens.
 
-Dit hoofdstuk beschrijft wat er over deze markt bekend is: uit laboratoriumanalyses van gekochte en in beslag genomen producten, uit casusbeschrijvingen van vergiftigingen en uit analyses van bijwerkingsmeldingen. Het moet u helpen de risico's realistisch in te schatten. Verkooppunten worden in dit boek principieel niet genoemd.
+Dit hoofdstuk beschrijft wat er over deze markt bekend is: uit laboratoriumanalyses van gekochte en in beslag genomen producten, uit casusbeschrijvingen van vergiftigingen en uit analyses van bijwerkingsmeldingen. Het moet je helpen de risico's realistisch in te schatten. Verkooppunten worden in dit boek principieel niet genoemd.
 
 ### Wat „research peptides” zijn
 
@@ -70,7 +70,7 @@ Veel aanbieders adverteren met „99% zuiverheid” en voegen analysecertificate
 - **Zuiverheid meet alleen bepaalde verontreinigingen.** Een typische meting (hogedrukvloeistofchromatografie, HPLC) laat zien welk percentage van de meetbare peptidesignalen aan de gewenste stof toe te schrijven is. Vaak worden zouten, water, resten van oplosmiddelen, metalen of endotoxinen niet gemeten.
 - **Zuiverheid zegt niets over de hoeveelheid.** Een flesje kan een zeer zuivere stof bevatten, maar in de verkeerde hoeveelheid.
 - **Zuiverheid zegt niets over steriliteit.** Een poeder kan chemisch zuiver zijn en toch verontreinigd met bacteriën of bacteriële bestanddelen.
-- **Certificaten zijn niet controleerbaar.** Of een bijgevoegd certificaat werkelijk bij het geleverde flesje hoort, kunt u als koper niet vaststellen. De proefaankopen van semaglutide lieten een zuiverheid van 7,7 tot 14,4% zien, ondanks een etiket met 99% (Ashraf 2024, PMID 39509151).
+- **Certificaten zijn niet controleerbaar.** Of een bijgevoegd certificaat werkelijk bij het geleverde flesje hoort, kun je als koper niet vaststellen. De proefaankopen van semaglutide lieten een zuiverheid van 7,7 tot 14,4% zien, ondanks een etiket met 99% (Ashraf 2024, PMID 39509151).
 
 Daar komen verontreinigingen bij die typisch bij de chemische synthese ontstaan: peptiden met ontbrekende of dubbele bouwstenen, verkeerd gevouwen of chemisch veranderde varianten, resten van beschermgroepen en reagentia. Voor geregistreerde geneesmiddelen zijn grenswaarden voor zulke verontreinigingen vastgelegd en worden die regelmatig gecontroleerd.
 
@@ -124,11 +124,11 @@ De redenen om naar de grijze markt te grijpen zijn uiteenlopend: hoge prijzen en
 
 Deze motieven zijn begrijpelijk. De analyses in dit hoofdstuk laten echter zien dat kopers op de grijze markt niet kunnen weten wat ze werkelijk krijgen.
 
-### Als u al peptiden van de grijze markt hebt gebruikt
+### Als je al peptiden van de grijze markt hebt gebruikt
 
 Dit boek geeft geen gebruiksaanwijzingen. Enkele algemene punten zijn om veiligheidsredenen echter belangrijk:
 
-- Informeer uw arts over alle injecties, peptiden en „onderzoekschemicaliën” die u gebruikt – ook als u ze niet als geneesmiddel beschouwt.
+- Informeer je arts over alle injecties, peptiden en „onderzoekschemicaliën” die je gebruikt – ook als je ze niet als geneesmiddel beschouwt.
 - Onverwachte klachten zoals trillen, zweten, verwardheid of bewustzijnsstoornissen na een injectie kunnen wijzen op een hypoglykemie en zijn een noodgeval.
 - Verdachte producten en bijwerkingen kunnen aan de autoriteiten worden gemeld: in Duitsland bij het Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM), in Oostenrijk bij het Bundesamt für Sicherheit im Gesundheitswesen (BASG).
 

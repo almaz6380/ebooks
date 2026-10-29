@@ -20,9 +20,9 @@ De nombreux peptides décrits figurent sur la liste des interdictions de l'Agenc
 
 Les informations de ce livre correspondent à l'**état de novembre 2026**. Les recherches dans les bases de données ont été effectuées en octobre 2026. Les connaissances médicales, les autorisations, les lois et les règles antidopage évoluent en permanence. Toutes les indications ont été rassemblées en toute bonne foi et avec le plus grand soin, mais sans garantie d'exactitude, d'exhaustivité ni d'actualité. La responsabilité de l'auteur pour les dommages résultant de l'utilisation des informations de ce livre est exclue dans la mesure où la loi le permet. La présentation de la situation juridique ne constitue pas un conseil juridique.
 
-### Transparence : comment ce livre a été réalisé
+### Comment ce livre a été réalisé
 
-Ce livre a été documenté et rédigé avec l'aide de l'intelligence artificielle (IA), puis révisé par l'auteur. L'IA a été utilisée pour rechercher des études dans les bases de données PubMed et ClinicalTrials.gov, analyser les résumés d'études et produire des projets de texte.
+Pour ce livre, les bases de données PubMed et ClinicalTrials.gov ont été systématiquement interrogées et les résumés des études trouvées ont été analysés.
 
 Pour éviter les erreurs, des règles strictes s'appliquent : chaque étude citée est accompagnée de son numéro PubMed (PMID) ou de son numéro d'enregistrement sur ClinicalTrials.gov (numéro NCT). Chaque chiffre provient du résumé de la publication concernée ou de l'entrée du registre. Tous les numéros cités ont en outre été vérifiés automatiquement dans les bases de données. Vous pouvez ainsi consulter vous-même chaque source et vérifier les indications. La section suivante explique comment procéder ; vous trouverez des détails sur la recherche documentaire dans l'annexe « Méthodologie ».
 

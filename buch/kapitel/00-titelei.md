@@ -2,11 +2,11 @@
 
 ### Kein Ersatz für ärztlichen Rat
 
-Dieses Buch dient ausschließlich der allgemeinen Information und Bildung. Es ersetzt keine ärztliche Beratung, Diagnose oder Behandlung. Bevor Sie Entscheidungen über Ihre Gesundheit treffen, ein Arzneimittel beginnen, absetzen oder verändern, sprechen Sie bitte mit einer Ärztin, einem Arzt oder einer Apothekerin beziehungsweise einem Apotheker. Bei akuten Beschwerden wenden Sie sich an den ärztlichen Notdienst oder rufen Sie den Notruf.
+Dieses Buch dient ausschließlich der allgemeinen Information und Bildung. Es ersetzt keine ärztliche Beratung, Diagnose oder Behandlung. Bevor du Entscheidungen über deine Gesundheit triffst, ein Arzneimittel beginnen, absetzen oder veränderst, sprich bitte mit einer Ärztin, einem Arzt oder einer Apothekerin beziehungsweise einem Apotheker. Bei akuten Beschwerden wende dich an den ärztlichen Notdienst oder ruf den Notruf.
 
 ### Keine Anwendungsempfehlungen
 
-Dieses Buch enthält bewusst keine Empfehlungen zur Anwendung von Peptiden, keine Dosierungen, Einnahme- oder Injektionsanleitungen, keine Anwendungszyklen und keine Kombinationsempfehlungen. Wenn im Text eine Dosis genannt wird, beschreibt sie ausschließlich, was in einer bestimmten Studie untersucht wurde. Sie ist keine Empfehlung und lässt sich nicht auf Ihre persönliche Situation übertragen. Für zugelassene Arzneimittel sind die Fachinformation, die Gebrauchsinformation und die ärztliche Begleitung maßgeblich.
+Dieses Buch enthält bewusst keine Empfehlungen zur Anwendung von Peptiden, keine Dosierungen, Einnahme- oder Injektionsanleitungen, keine Anwendungszyklen und keine Kombinationsempfehlungen. Wenn im Text eine Dosis genannt wird, beschreibt sie ausschließlich, was in einer bestimmten Studie untersucht wurde. Sie ist keine Empfehlung und lässt sich nicht auf deine persönliche Situation übertragen. Für zugelassene Arzneimittel sind die Fachinformation, die Gebrauchsinformation und die ärztliche Begleitung maßgeblich.
 
 ### Viele Stoffe sind nicht zugelassen
 
@@ -24,7 +24,7 @@ Die Informationen in diesem Buch entsprechen dem **Stand November 2026**. Die Re
 
 Für dieses Buch wurden die Datenbanken PubMed und ClinicalTrials.gov systematisch durchsucht und die Zusammenfassungen der gefundenen Studien ausgewertet.
 
-Um Fehler zu vermeiden, gelten strenge Regeln: Jede genannte Studie ist mit ihrer PubMed-Nummer (PMID) oder ihrer Registernummer bei ClinicalTrials.gov (NCT-Nummer) angegeben. Jede Zahl stammt aus der Zusammenfassung der jeweiligen Veröffentlichung oder aus dem Registereintrag. Alle zitierten Nummern wurden zusätzlich automatisch gegen die Datenbanken geprüft. Sie können damit jede Quelle selbst nachschlagen und die Angaben überprüfen. Wie das geht, steht im folgenden Abschnitt; Einzelheiten zur Recherche finden Sie im Anhang „Methodik“.
+Um Fehler zu vermeiden, gelten strenge Regeln: Jede genannte Studie ist mit ihrer PubMed-Nummer (PMID) oder ihrer Registernummer bei ClinicalTrials.gov (NCT-Nummer) angegeben. Jede Zahl stammt aus der Zusammenfassung der jeweiligen Veröffentlichung oder aus dem Registereintrag. Alle zitierten Nummern wurden zusätzlich automatisch gegen die Datenbanken geprüft. Du kannst damit jede Quelle selbst nachschlagen und die Angaben überprüfen. Wie das geht, steht im folgenden Abschnitt; Einzelheiten zur Recherche findest du im Anhang „Methodik“.
 
 # Über dieses Buch
 
@@ -32,7 +32,7 @@ Um Fehler zu vermeiden, gelten strenge Regeln: Jede genannte Studie ist mit ihre
 
 Peptide sind in aller Munde. Abnehmspritzen wie Semaglutid und Tirzepatid haben die Behandlung von Übergewicht verändert, und im Internet werden Dutzende weitere Peptide angeboten – für schnellere Heilung, mehr Muskeln, bessere Haut, mehr Energie oder ein längeres Leben. Zwischen den Versprechen in Foren, sozialen Medien und Online-Shops und dem, was tatsächlich am Menschen untersucht wurde, klafft oft eine große Lücke.
 
-Dieses Buch will diese Lücke sichtbar machen. Es stellt für jedes behandelte Peptid nüchtern dar, welche Studien am Menschen es gibt, was sie zeigen und was nicht, welche Risiken bekannt sind und wie die Rechtslage aussieht. Es vergleicht die Peptide miteinander und ordnet ein, wie belastbar die Belege jeweils sind. Es soll Ihnen helfen, Behauptungen kritisch zu prüfen und informierte Gespräche mit Ärztinnen, Ärzten und Apotheken zu führen.
+Dieses Buch will diese Lücke sichtbar machen. Es stellt für jedes behandelte Peptid nüchtern dar, welche Studien am Menschen es gibt, was sie zeigen und was nicht, welche Risiken bekannt sind und wie die Rechtslage aussieht. Es vergleicht die Peptide miteinander und ordnet ein, wie belastbar die Belege jeweils sind. Es soll dir helfen, Behauptungen kritisch zu prüfen und informierte Gespräche mit Ärztinnen, Ärzten und Apotheken zu führen.
 
 ### Für wen dieses Buch geschrieben ist
 
@@ -47,7 +47,7 @@ Vorkenntnisse sind nicht nötig. Fachbegriffe werden beim ersten Auftreten erkl�
 
 **Teil I – Grundlagen** erklärt, was Peptide sind, wie sich die Peptidmedizin entwickelt hat, wie Peptide in den Körper gelangen, wie man Studien liest, was auf dem Graumarkt passiert und welcher rechtliche Rahmen gilt. Wer mit diesen Themen nicht vertraut ist, sollte hier beginnen.
 
-**Teil II – Die Peptide** stellt die einzelnen Wirkstoffe in sechs Gruppen vor: Stoffwechsel und Gewicht; Heilung, Regeneration und Immunsystem; Wachstumshormon-Achse; Gehirn, Schlaf und Langlebigkeit; Hormone, Sexualität und Pigmentierung; Kollagen, Ernährung und Kosmetik. Jedes Kapitel folgt demselben Aufbau: Steckbrief, Wirkprinzip, Studien am Menschen, Tier- und Laborstudien, Risiken und Nebenwirkungen, Rechtslage, laufende Studien und Ausblick, Fazit. So können Sie Peptide leicht miteinander vergleichen und gezielt nachschlagen.
+**Teil II – Die Peptide** stellt die einzelnen Wirkstoffe in sechs Gruppen vor: Stoffwechsel und Gewicht; Heilung, Regeneration und Immunsystem; Wachstumshormon-Achse; Gehirn, Schlaf und Langlebigkeit; Hormone, Sexualität und Pigmentierung; Kollagen, Ernährung und Kosmetik. Jedes Kapitel folgt demselben Aufbau: Steckbrief, Wirkprinzip, Studien am Menschen, Tier- und Laborstudien, Risiken und Nebenwirkungen, Rechtslage, laufende Studien und Ausblick, Fazit. So kannst du Peptide leicht miteinander vergleichen und gezielt nachschlagen.
 
 **Teil III – Der große Vergleich** stellt alle Peptide nebeneinander und vergleicht die GLP-1-Medikamente direkt.
 
@@ -55,7 +55,7 @@ Vorkenntnisse sind nicht nötig. Fachbegriffe werden beim ersten Auftreten erkl�
 
 **Teil V – Zukunft** blickt auf die Entwicklungspipeline, neue Darreichungsformen, Patentabläufe und Preise. Gesicherte Fakten und Einschätzungen werden dabei klar getrennt.
 
-Im **Anhang** finden Sie das Glossar, die Methodik der Recherche und das Verzeichnis der ausgewerteten Studien.
+Im **Anhang** findest du das Glossar, die Methodik der Recherche und das Verzeichnis der ausgewerteten Studien.
 
 ### Die Evidenzstufen
 
@@ -78,25 +78,25 @@ Registrierte Studien, insbesondere laufende, sind mit ihrer Nummer im US-amerika
 
 Die Fußnoten stehen jeweils am Ende des Kapitels; das vollständige Studienverzeichnis steht im Anhang.
 
-### So schlagen Sie eine Quelle nach
+### So schlägst du eine Quelle nach
 
 **PMID**: Die PubMed-Identifikationsnummer ist eine eindeutige Nummer für jeden Eintrag in PubMed, der frei zugänglichen Literaturdatenbank der US-amerikanischen National Library of Medicine.
 
-1. Öffnen Sie in Ihrem Browser die Seite pubmed.ncbi.nlm.nih.gov.
-2. Geben Sie die Nummer in das Suchfeld ein, zum Beispiel 33567185, und starten Sie die Suche.
-3. Sie gelangen direkt zum Eintrag mit Titel, Autorinnen und Autoren, Fachzeitschrift und meist einer Zusammenfassung (Abstract).
+1. Öffne in deinem Browser die Seite pubmed.ncbi.nlm.nih.gov.
+2. Gib die Nummer in das Suchfeld ein, zum Beispiel 33567185, und starte die Suche.
+3. Du gelangst direkt zum Eintrag mit Titel, Autorinnen und Autoren, Fachzeitschrift und meist einer Zusammenfassung (Abstract).
 
-Alternativ können Sie die Nummer direkt an die Adresse anhängen: pubmed.ncbi.nlm.nih.gov/33567185. Viele Einträge enthalten einen Link zum Volltext, der teils frei, teils nur gegen Bezahlung verfügbar ist.
+Alternativ kannst du die Nummer direkt an die Adresse anhängen: pubmed.ncbi.nlm.nih.gov/33567185. Viele Einträge enthalten einen Link zum Volltext, der teils frei, teils nur gegen Bezahlung verfügbar ist.
 
-**NCT-Nummer**: Registrierte Studien finden Sie auf der Seite clinicaltrials.gov, indem Sie die Nummer in das Suchfeld eingeben oder an die Adresse clinicaltrials.gov/study/ anhängen, zum Beispiel clinicaltrials.gov/study/NCT03548935. Dort sehen Sie Studiendesign, Teilnehmerzahl, Endpunkte und den aktuellen Status.
+**NCT-Nummer**: Registrierte Studien findest du auf der Seite clinicaltrials.gov, indem du die Nummer in das Suchfeld eingeben oder an die Adresse clinicaltrials.gov/study/ anhängen, zum Beispiel clinicaltrials.gov/study/NCT03548935. Dort siehst du Studiendesign, Teilnehmerzahl, Endpunkte und den aktuellen Status.
 
 ### Was dieses Buch bewusst nicht enthält
 
 - **Keine Dosierungen und Anwendungsanleitungen.** Es gibt keine Angaben dazu, wie viel, wie oft oder wie lange ein Peptid angewendet werden soll, keine Anleitungen zum Auflösen oder Spritzen und keine Kombinationen mehrerer Stoffe. Bei zugelassenen Arzneimitteln verweist das Buch auf die Fachinformation und die ärztliche Begleitung.
 - **Keine Bezugsquellen.** Es werden keine Shops, Hersteller, Apotheken oder Länder genannt, in denen man Peptide erwerben kann, und keine Hinweise gegeben, wie man Kontrollen umgeht.
-- **Keine Heilversprechen.** Das Buch berichtet, was in Studien beobachtet wurde – nicht, was ein Stoff bei Ihnen bewirken wird.
+- **Keine Heilversprechen.** Das Buch berichtet, was in Studien beobachtet wurde – nicht, was ein Stoff bei dir bewirken wird.
 - **Keine Produktempfehlungen.** Weder Marken noch Anbieter werden empfohlen. Markennamen zugelassener Arzneimittel werden nur genannt, wenn sie zum Verständnis nötig sind.
 
 ### Ein Wort zum Schluss
 
-Dieses Buch ist ein Werkzeug zum Nachdenken, kein Ratgeber zur Selbstbehandlung. Wenn Sie nach der Lektüre mehr Fragen haben als vorher, ist das kein schlechtes Zeichen: Oft ist die ehrlichste Antwort auf die Frage „Wirkt dieses Peptid?“ ein „Das weiß noch niemand“.
+Dieses Buch ist ein Werkzeug zum Nachdenken, kein Ratgeber zur Selbstbehandlung. Wenn du nach der Lektüre mehr Fragen hast als vorher, ist das kein schlechtes Zeichen: Oft ist die ehrlichste Antwort auf die Frage „Wirkt dieses Peptid?“ ein „Das weiß noch niemand“.

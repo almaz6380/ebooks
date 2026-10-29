@@ -2,7 +2,7 @@
 
 Of een peptide een geneesmiddel op recept, een voedingssupplement, een cosmetisch product of een verboden dopingmiddel is, hangt niet alleen af van het molecuul. Beslissend is ook waarvoor het bestemd is, hoe het wordt aangeboden en hoe het in het lichaam werkt. Hetzelfde collageenpeptide kan als levensmiddel in het supermarktschap staan; een peptide met aantoonbare hormoonachtige werking is daarentegen bijna altijd een geneesmiddel – wat er ook op het etiket staat. Dit hoofdstuk geeft een overzicht van de regels in de Europese Unie, in Oostenrijk, in Duitsland en in de VS en van de antidopingbepalingen.
 
-> **Belangrijke opmerking:** dit hoofdstuk geeft de stand van 2026 naar beste weten weer en is geen juridisch advies. Wetten, verordeningen, de praktijk van autoriteiten en de verboden lijst van het Wereld Anti-Doping Agentschap veranderen regelmatig. Controleer in elk afzonderlijk geval de actuele juridische situatie en wend u bij concrete vragen tot een advocaat of de bevoegde autoriteit.
+> **Belangrijke opmerking:** dit hoofdstuk geeft de stand van 2026 naar beste weten weer en is geen juridisch advies. Wetten, verordeningen, de praktijk van autoriteiten en de verboden lijst van het Wereld Anti-Doping Agentschap veranderen regelmatig. Controleer in elk afzonderlijk geval de actuele juridische situatie en wend je bij concrete vragen tot een advocaat of de bevoegde autoriteit.
 
 ### Drie laden: geneesmiddel, levensmiddel, cosmetica
 

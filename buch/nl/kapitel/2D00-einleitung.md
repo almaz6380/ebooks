@@ -12,7 +12,7 @@ De groep laat zich grofweg in drie families indelen:
 
 ### De nootropica- en longevityscene
 
-Wie op internet naar deze stoffen zoekt, belandt al snel op fora, bij influencers en in „longevityklinieken”. Typerend zijn drie denkfouten die u in de volgende hoofdstukken steeds weer zult tegenkomen:
+Wie op internet naar deze stoffen zoekt, belandt al snel op fora, bij influencers en in „longevityklinieken”. Typerend zijn drie denkfouten die je in de volgende hoofdstukken steeds weer zult tegenkomen:
 
 1. **Van dier naar mens:** Dat een peptide bij muizen het geheugen of de levensduur verbetert, zegt weinig over de vraag of het bij mensen werkt. In het onderzoek naar beroerte en alzheimer zijn honderden bij dieren succesvolle werkzame stoffen bij mensen mislukt.
 2. **Van spiegel naar spuit:** Dat mensen met lage MOTS-c- of humaninespiegels vaker ziek zijn, bewijst niet dat toediening gezond maakt.

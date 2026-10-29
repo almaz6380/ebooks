@@ -66,29 +66,29 @@ Semax, Selank, Epitalon und Pinealon wurden fast ausschließlich in Russland unt
 
 Die Aussage, ein Peptid sei „gut verträglich“ oder „ohne Nebenwirkungen“, stützt sich bei BPC-157 auf zusammen 30 Personen. Mit so wenigen Teilnehmenden lassen sich nur häufige, unmittelbar auftretende Probleme erkennen; eine Nebenwirkung, die eine von tausend Personen betrifft, bliebe unsichtbar. Bei Stoffen, die Wachstumssignale verstärken – Wachstumshormon-Freisetzer, IGF-1 LR3, Peptide, die Gefäßneubildung fördern –, gibt es zudem eine theoretische, aber ungeprüfte Sorge um Tumorwachstum. Bei Melanotan II beschreiben Fallberichte neue und veränderte Muttermale und Melanome; ein ursächlicher Zusammenhang ist nicht bewiesen, aber auch nicht ausgeschlossen. Dazu kommen die Risiken der Produkte selbst: In Graumarkt-Fläschchen mit Melanotan II fanden sich weniger Wirkstoff als angegeben und unbekannte Verunreinigungen (Breindahl 2015, PMID 24771717). Mehr dazu in Teil IV.
 
-### Woran Sie seriöse von unseriösen Aussagen unterscheiden
+### Woran du seriöse von unseriösen Aussagen unterscheidest
 
 Die folgende Checkliste hilft, Aussagen über Peptide – in Shops, Videos, Foren oder Zeitschriften – einzuordnen. Sie ersetzt keine fachliche Beratung, schärft aber den Blick dafür, wie viel hinter einer Behauptung steckt.
 
 #### Fragen zur Quelle
 
 - **Wer spricht?** Verkauft die Person oder Seite den Stoff selbst, bietet sie Kurse, Beratungen oder Rabattcodes an? Ein finanzielles Interesse macht eine Aussage nicht falsch, ist aber ein Grund, genauer hinzusehen.
-- **Werden Studien genannt – und lassen sie sich finden?** Seriöse Aussagen nennen eine überprüfbare Quelle: eine PMID, einen DOI oder eine Registernummer (NCT). Sie können jede PMID kostenlos bei PubMed eingeben und den Abstract selbst lesen. Formulierungen wie „Studien zeigen“ ohne konkrete Angabe sind ein Warnsignal.
-- **Passt die zitierte Studie zur Aussage?** Prüfen Sie, ob die Studie wirklich den verkauften Stoff, die beworbene Anwendung und Menschen untersucht hat – oder ob es um ein verwandtes Molekül, eine andere Erkrankung oder Ratten ging.
+- **Werden Studien genannt – und lassen sie sich finden?** Seriöse Aussagen nennen eine überprüfbare Quelle: eine PMID, einen DOI oder eine Registernummer (NCT). Du kannst jede PMID kostenlos bei PubMed eingeben und den Abstract selbst lesen. Formulierungen wie „Studien zeigen“ ohne konkrete Angabe sind ein Warnsignal.
+- **Passt die zitierte Studie zur Aussage?** Prüfe, ob die Studie wirklich den verkauften Stoff, die beworbene Anwendung und Menschen untersucht hat – oder ob es um ein verwandtes Molekül, eine andere Erkrankung oder Ratten ging.
 
 #### Fragen zur Studie
 
 - **Mensch, Tier oder Zellkultur?** Steht im Abstract „rats“, „mice“, „in vitro“ oder „cell culture“, ist über die Wirkung beim Menschen nichts gesagt.
 - **Gab es eine Vergleichsgruppe?** Ohne Placebo- oder Kontrollgruppe lässt sich nicht unterscheiden, ob eine Besserung vom Stoff, von der Zeit, von anderen Behandlungen oder von der Erwartung kommt. Gerade bei Schmerz, Stimmung oder Schlaf ist der Placeboeffekt groß.
 - **Wie viele Teilnehmende?** Studien mit 10 oder 20 Personen können Hinweise geben, aber keinen Nutzen belegen und seltene Nebenwirkungen nicht erkennen.
-- **Was wurde gemessen?** Ein Laborwert, der steigt, ist kein spürbarer Nutzen. Fragen Sie: Wurde gemessen, was für Betroffene zählt – Schmerz, Funktion, Krankheitsereignisse, Lebensqualität?
+- **Was wurde gemessen?** Ein Laborwert, der steigt, ist kein spürbarer Nutzen. Frag: Wurde gemessen, was für Betroffene zählt – Schmerz, Funktion, Krankheitsereignisse, Lebensqualität?
 - **Wurde die Studie vorab registriert?** Eine Registrierung bei ClinicalTrials.gov oder im EU-Register vor Studienbeginn verhindert, dass Ziele nachträglich passend gewählt werden.
 - **Wurde das Ergebnis wiederholt?** Ein einzelnes positives Ergebnis einer einzigen Forschungsgruppe ist ein Anfang, kein Beweis.
 
 #### Warnsignale in der Sprache
 
 - Versprechen, die sehr viele unterschiedliche Beschwerden zugleich betreffen („für Gelenke, Darm, Haut, Gehirn und Immunsystem“).
-- Begriffe wie „Wundermittel“, „Geheimtipp“, „was Ärzte Ihnen nicht sagen“ oder „von der Pharmaindustrie unterdrückt“.
+- Begriffe wie „Wundermittel“, „Geheimtipp“, „was Ärzte dir nicht sagen“ oder „von der Pharmaindustrie unterdrückt“.
 - Die Behauptung „keine Nebenwirkungen“ bei einem Stoff, der kaum am Menschen untersucht ist.
 - Erfahrungsberichte und Vorher-nachher-Bilder statt Studiendaten.
 - Der Hinweis „nur für Forschungszwecke“ oder „nicht zum menschlichen Verzehr“ auf einem Produkt, das gleichzeitig mit Wirkungen am Menschen beworben wird. Dieser Widerspruch zeigt, dass der Anbieter die Arzneimittelregeln umgehen will (siehe Teil I).
@@ -104,7 +104,7 @@ Die folgende Checkliste hilft, Aussagen über Peptide – in Shops, Videos, Fore
 
 #### Drei Fragen für den Alltag
 
-Wenn Sie wenig Zeit haben, reichen oft drei Fragen:
+Wenn du wenig Zeit hast, reichen oft drei Fragen:
 
 1. Ist der Stoff in der EU oder den USA als Arzneimittel für genau diese Anwendung zugelassen?
 2. Gibt es mindestens eine randomisierte, placebokontrollierte Studie am Menschen, die den behaupteten Nutzen gezeigt hat?

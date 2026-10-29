@@ -96,7 +96,7 @@ De door velen verwachte directe vergelijking bij obesitas zonder diabetes leverd
 
 Een nadere analyse liet zien dat 44% met tirzepatide en 21% met semaglutide tegen week 24 al ten minste 15% was afgevallen („snelle responders”). Zij hadden iets meer maag-darm- en galweggebeurtenissen, maar stopten niet vaker met de behandeling (Aronne 2026, PMID 41865857).
 
-Ter plaatsing: SURMOUNT-5 werd gefinancierd door de fabrikant van tirzepatide en open uitgevoerd. Het verschil is toch groot genoeg dat het nauwelijks alleen door deze beperkingen te verklaren is. Een vergelijking van alle GLP-1-geneesmiddelen vindt u in deel III.
+Ter plaatsing: SURMOUNT-5 werd gefinancierd door de fabrikant van tirzepatide en open uitgevoerd. Het verschil is toch groot genoeg dat het nauwelijks alleen door deze beperkingen te verklaren is. Een vergelijking van alle GLP-1-geneesmiddelen vind je in deel III.
 
 #### Hartfalen: SUMMIT
 

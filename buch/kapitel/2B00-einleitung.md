@@ -30,7 +30,7 @@ Kein einziges Peptid dieser Gruppe ist in der EU oder den USA als Arzneimittel z
 
 ### Lesehinweis
 
-Die Kapitel folgen dem einheitlichen Aufbau dieses Buches. Achten Sie bei dieser Gruppe besonders auf drei Unterscheidungen:
+Die Kapitel folgen dem einheitlichen Aufbau dieses Buches. Achte bei dieser Gruppe besonders auf drei Unterscheidungen:
 
 - **Mensch oder Tier?** Bei BPC-157, KPV und TB-500 beruht fast alles, was im Internet behauptet wird, auf Versuchen an Ratten, Mäusen oder Zellkulturen. Die Kapitel kennzeichnen das jeweils ausdrücklich.
 - **Wirkstoff oder Messwert?** Bei LL-37 gibt es viele Studien, die den Stoff im Blut *messen*, aber nur wenige, die ihn als Medikament *geben*. Nur Letztere sagen etwas über eine Behandlung aus.
@@ -38,4 +38,4 @@ Die Kapitel folgen dem einheitlichen Aufbau dieses Buches. Achten Sie bei dieser
 
 Zwei Kapitel enthalten Hinweise zu Registereinträgen, deren Echtheit fraglich ist: Ein Sponsor hat bei ClinicalTrials.gov sowohl eine Phase-2-Studie zu BPC-157 als auch eine Studie zu TB-500 eingetragen, von denen sich eine selbst als „fiktives Beispiel“ bezeichnet. Auch ein Registereintrag ist also kein Beweis dafür, dass eine Studie tatsächlich stattfindet.
 
-Fragen zu Graumarkt-Produkten, Verunreinigungen und dem theoretischen Krebsrisiko durch Wachstums- und Gefäßsignale werden in Kapitel I.5 und in Teil IV ausführlicher und peptidübergreifend behandelt. Für Sportlerinnen und Sportler gilt: BPC-157, TB-500 und ARA-290 sind von der WADA ausdrücklich verboten; bei den übrigen sollten Sie vor jeder Anwendung Ihre nationale Anti-Doping-Agentur fragen.
+Fragen zu Graumarkt-Produkten, Verunreinigungen und dem theoretischen Krebsrisiko durch Wachstums- und Gefäßsignale werden in Kapitel I.5 und in Teil IV ausführlicher und peptidübergreifend behandelt. Für Sportlerinnen und Sportler gilt: BPC-157, TB-500 und ARA-290 sind von der WADA ausdrücklich verboten; bei den übrigen solltest du vor jeder Anwendung deine nationale Anti-Doping-Agentur fragen.

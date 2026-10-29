@@ -1,10 +1,10 @@
 ## GLP-1 & co. direct vergeleken
 
-Geen andere groep in dit boek is zo goed onderzocht als de incretinegeneesmiddelen: GLP-1-receptoragonisten zoals liraglutide en semaglutide, de duale agonist tirzepatide en een reeks opvolgers die daarnaast op de glucagon- of amylinereceptor aangrijpen. Voor deze middelen zijn er registratieprogramma's met tienduizenden deelnemers, grote cardiovasculaire studies en in toenemende mate ook directe vergelijkende studies. Dit hoofdstuk zet de belangrijkste resultaten naast elkaar. Alle cijfers komen uit de hoofdstukken van Deel II, groep A, en de daar geciteerde studies; daar vindt u ook de beperkingen van elke afzonderlijke studie.
+Geen andere groep in dit boek is zo goed onderzocht als de incretinegeneesmiddelen: GLP-1-receptoragonisten zoals liraglutide en semaglutide, de duale agonist tirzepatide en een reeks opvolgers die daarnaast op de glucagon- of amylinereceptor aangrijpen. Voor deze middelen zijn er registratieprogramma's met tienduizenden deelnemers, grote cardiovasculaire studies en in toenemende mate ook directe vergelijkende studies. Dit hoofdstuk zet de belangrijkste resultaten naast elkaar. Alle cijfers komen uit de hoofdstukken van Deel II, groep A, en de daar geciteerde studies; daar vind je ook de beperkingen van elke afzonderlijke studie.
 
 Dit hoofdstuk is geen keuzehulp voor een behandeling. Welk geneesmiddel in een individueel geval in aanmerking komt, hangt af van bijkomende aandoeningen, verdraagbaarheid, registratie, vergoeding en beschikbaarheid, en hoort in handen van een arts. Bepalend zijn de betreffende productinformatie (SmPC) en de medische begeleiding.
 
-### Vooraf: waarom u studies niet zomaar naast elkaar mag leggen
+### Vooraf: waarom je studies niet zomaar naast elkaar mag leggen
 
 De tabellen in dit hoofdstuk nodigen uit om cijfers uit verschillende studies te vergelijken – bijvoorbeeld 20,9% gewichtsverlies met tirzepatide tegenover 14,9% met semaglutide. Zulke kruisvergelijkingen („cross-trial comparisons”) zijn maar beperkt toelaatbaar. De redenen:
 

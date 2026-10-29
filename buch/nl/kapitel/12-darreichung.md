@@ -1,6 +1,6 @@
 ## Hoe peptiden in het lichaam komen – en waarom dat lastig is
 
-Bijna elk peptidegeneesmiddel dat u kent, wordt geïnjecteerd: insuline, semaglutide, tirzepatide, teriparatide. Dat is geen toeval en geen voorkeur van de farmaceutische industrie, maar een gevolg van de biologie. Het menselijk lichaam is uitstekend in het afbreken van eiwitten en peptiden – het leeft er immers van de eiwitten uit de voeding in hun bouwstenen te splitsen. Dit hoofdstuk legt uit welke hindernissen een peptide op weg naar zijn werkingsplaats moet overwinnen, welke wegen de geneeskunde heeft gevonden en waarom veel beloften over druppels, capsules en crèmes met voorzichtigheid moeten worden bekeken.
+Bijna elk peptidegeneesmiddel dat je kent, wordt geïnjecteerd: insuline, semaglutide, tirzepatide, teriparatide. Dat is geen toeval en geen voorkeur van de farmaceutische industrie, maar een gevolg van de biologie. Het menselijk lichaam is uitstekend in het afbreken van eiwitten en peptiden – het leeft er immers van de eiwitten uit de voeding in hun bouwstenen te splitsen. Dit hoofdstuk legt uit welke hindernissen een peptide op weg naar zijn werkingsplaats moet overwinnen, welke wegen de geneeskunde heeft gevonden en waarom veel beloften over druppels, capsules en crèmes met voorzichtigheid moeten worden bekeken.
 
 ### Het basisprobleem: biologische beschikbaarheid
 
@@ -99,7 +99,7 @@ Voor peptiden betekent dit: al vanaf ongeveer vier tot vijf aminozuren liggen ze
 
 Een vuistregel blijft een vuistregel: er zijn uitzonderingen, en hulpmiddelen zoals microneedlepleisters kunnen de barrière overwinnen. Zulke pleisters dragen minuscule naaldjes die alleen de bovenste huidlaag doordringen. Voor peptiden zijn ze nog grotendeels in ontwikkeling.
 
-Voor geneesmiddelpeptiden zoals GLP-1-analogen, groeihormoonvrijmakers of melanotan geldt: een eenvoudige crème of gel brengt ze niet in noemenswaardige hoeveelheid in het bloed. Aanbiedingen op internet die het tegendeel beweren, moet u met grote scepsis bekijken.
+Voor geneesmiddelpeptiden zoals GLP-1-analogen, groeihormoonvrijmakers of melanotan geldt: een eenvoudige crème of gel brengt ze niet in noemenswaardige hoeveelheid in het bloed. Aanbiedingen op internet die het tegendeel beweren, moet je met grote scepsis bekijken.
 
 ### Stabiliteit: het onderschatte probleem
 

@@ -4,7 +4,7 @@ Veel peptiden worden juist aangeprezen omdat ze groei zouden stimuleren: van spi
 
 Dit hoofdstuk vat samen wat daarover bekend is – gescheiden naar de vier mechanismen die in Deel II steeds weer terugkomen: de groeihormoon-IGF-1-as, de vorming van nieuwe bloedvaten, de stimulatie van de pigmentcellen en de werking van de GLP-1-geneesmiddelen op schildklier en alvleesklier. Aan het einde staat een overzicht van de nieuwste grote analyses over GLP-1-geneesmiddelen en kanker.
 
-### Hoe u de kankervraag kunt duiden
+### Hoe je de kankervraag kunt duiden
 
 Vier punten helpen om de volgende gegevens te lezen.
 

@@ -4,7 +4,7 @@ Keine Gruppe von Peptiden hat die Medizin der letzten Jahre so verändert wie di
 
 ### Was diese Wirkstoffe verbindet: Hormone aus Darm und Bauchspeicheldrüse
 
-Fast alle Wirkstoffe dieser Gruppe ahmen Hormone nach, die der Körper rund um eine Mahlzeit ausschüttet. Vier davon sollten Sie kennen:
+Fast alle Wirkstoffe dieser Gruppe ahmen Hormone nach, die der Körper rund um eine Mahlzeit ausschüttet. Vier davon solltest du kennen:
 
 - **GLP-1 (Glucagon-like Peptide-1)** wird von Zellen im Dünn- und Dickdarm freigesetzt, sobald Nahrung ankommt. Es verstärkt die Insulinausschüttung – aber nur, wenn der Blutzucker erhöht ist –, bremst die Magenentleerung und meldet dem Gehirn Sättigung. Körpereigenes GLP-1 wird innerhalb weniger Minuten abgebaut; die Medikamente sind so verändert, dass sie einen Tag bis eine Woche wirken.
 - **GIP (Glukose-abhängiges insulinotropes Polypeptid)** stammt aus dem oberen Dünndarm und verstärkt ebenfalls die Insulinausschüttung. Seine Rolle für Appetit und Körpergewicht ist widersprüchlich: Tirzepatid aktiviert den GIP-Rezeptor, Maridebart Cafraglutid blockiert ihn – und beide führen zu Gewichtsverlust.
@@ -35,12 +35,12 @@ Zwei Wirkstoffe dieser Gruppe passen nicht in dieses Schema: **Setmelanotid** gr
 | AOD-9604 | D | nein | Wachstumshormon-Fragment, Graumarkt |
 | Orforglipron | A | offen | kein Peptid, Tablette (Vergleich) |
 
-Die Evidenzstufen sind in Teil I erklärt. Zulassungsangaben beziehen sich auf den Stand Oktober 2026 und auf mindestens ein Anwendungsgebiet; Einzelheiten stehen im jeweiligen Kapitel. Bitte prüfen Sie den aktuellen Stand, denn gerade in dieser Gruppe ändern sich Zulassungen schnell.
+Die Evidenzstufen sind in Teil I erklärt. Zulassungsangaben beziehen sich auf den Stand Oktober 2026 und auf mindestens ein Anwendungsgebiet; Einzelheiten stehen im jeweiligen Kapitel. Bitte prüfe den aktuellen Stand, denn gerade in dieser Gruppe ändern sich Zulassungen schnell.
 
 ### Lesehinweis
 
 Die Kapitel folgen grob der historischen Entwicklung: von den etablierten GLP-1-Agonisten (Exenatid bis Semaglutid) über die Kombinationswirkstoffe (Tirzepatid bis Maridebart Cafraglutid) zu den Sonderfällen (Pramlintid, Setmelanotid, AOD-9604) und schließlich zu Orforglipron, das als Nicht-Peptid zum Vergleich aufgenommen ist.
 
-Wer sich einen schnellen Überblick verschaffen will, beginnt mit Semaglutid und Tirzepatid – an ihnen werden alle anderen gemessen. Die direkten Vergleiche von Gewichtsverlust, Blutzuckersenkung, Herz-Kreislauf-Ergebnissen und Nebenwirkungen über alle Wirkstoffe hinweg finden Sie in Teil III. Klassenrisiken wie Gallenblasen- und Bauchspeicheldrüsenprobleme, Muskelverlust und Fragen zur Schilddrüse behandelt Teil IV ausführlich.
+Wer sich einen schnellen Überblick verschaffen will, beginnt mit Semaglutid und Tirzepatid – an ihnen werden alle anderen gemessen. Die direkten Vergleiche von Gewichtsverlust, Blutzuckersenkung, Herz-Kreislauf-Ergebnissen und Nebenwirkungen über alle Wirkstoffe hinweg findest du in Teil III. Klassenrisiken wie Gallenblasen- und Bauchspeicheldrüsenprobleme, Muskelverlust und Fragen zur Schilddrüse behandelt Teil IV ausführlich.
 
 Zwei Grundsätze gelten für die ganze Gruppe: Erstens beschreiben die Kapitel Studienergebnisse, keine Behandlungsanleitungen – für zugelassene Medikamente sind Fachinformation und ärztliche Begleitung maßgeblich. Zweitens kehrt bei fast allen Wirkstoffen ein Großteil des verlorenen Gewichts zurück, wenn die Behandlung endet. Diese Medikamente wirken, solange sie genommen werden; sie sind keine Kur.

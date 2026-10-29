@@ -1,6 +1,6 @@
 # Woordenlijst
 
-De volgende uitleg is bewust kort gehouden. Uitgebreidere toelichtingen vindt u in de hoofdstukken van Deel I, met name in „Wat peptiden zijn – en wat niet” en „Studies goed lezen”.
+De volgende uitleg is bewust kort gehouden. Uitgebreidere toelichtingen vind je in de hoofdstukken van Deel I, met name in „Wat peptiden zijn – en wat niet” en „Studies goed lezen”.
 
 ### A
 

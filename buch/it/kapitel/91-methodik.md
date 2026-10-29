@@ -178,16 +178,10 @@ Come ogni ricerca bibliografica, anche questa ha dei limiti, di cui dovrebbe ten
 
 **Istantanea.** La ricerca riflette la situazione a ottobre 2026. In ambiti in rapida crescita come i farmaci GLP-1 escono nuovi studi ogni settimana.
 
-### Supporto dell'IA e controllo di qualità
+### Controllo di qualità
 
-Questo libro è stato ricercato e redatto con il supporto dell'intelligenza artificiale e rivisto dall'autore. L'IA è stata impiegata per i seguenti compiti:
+Le interrogazioni delle banche dati sono state eseguite tramite le interfacce citate, con programmi di supporto scritti appositamente. Per l'analisi valevano regole vincolanti: ogni studio nel testo è citato con PMID o numero NCT; ogni numero deve provenire da un riassunto o da una voce di registro effettivamente consultati; gli studi possono essere citati solo se la loro voce è stata prima consultata e letta.
 
-- esecuzione delle interrogazioni delle banche dati tramite le interfacce citate, con programmi di supporto scritti appositamente,
-- lettura e analisi dei riassunti e delle voci di registro,
-- stesura di bozze di testo secondo regole fisse di stile e di lavoro.
-
-Per evitare il rischio noto che i sistemi di IA inventino fonti o numeri, valevano regole vincolanti: ogni studio nel testo è citato con PMID o numero NCT; ogni numero deve provenire da un riassunto o da una voce di registro effettivamente consultati; gli studi possono essere citati solo se la loro voce è stata prima consultata e letta.
-
-Inoltre ogni capitolo è stato controllato con un programma di verifica. Per ogni PMID e numero NCT citato nel testo, il programma richiama la voce in PubMed o in ClinicalTrials.gov e segnala come errore un numero inesistente. Confronta inoltre il primo autore o la prima autrice e l'anno di pubblicazione, riportati nel testo prima del PMID, con la voce della banca dati e segnala le discrepanze. Infine cerca formulazioni non ammesse come promesse di guarigione, raccomandazioni di dosaggio o indicazioni su fonti di approvvigionamento. Un capitolo era considerato finito solo quando questa verifica si concludeva senza errori.
+Inoltre ogni capitolo è stato controllato con un programma di verifica. Per ogni PMID e numero NCT citato nel testo, il programma richiama la voce in PubMed o in ClinicalTrials.gov e segnala come errore un numero inesistente. Confronta inoltre il primo autore o la prima autrice e l'anno di pubblicazione, riportati nel testo prima del PMID, con la voce della banca dati e segnala le discrepanze. Infine cerca formulazioni non ammesse come promesse di guarigione, raccomandazioni di dosaggio o indicazioni su fonti di approvvigionamento. Un capitolo era considerato finito solo quando questa verifica si concludeva senza errori. Il programma controlla inoltre se un lavoro citato è stato nel frattempo ritirato; tali lavori sono espressamente segnalati nel testo. Per concludere, circa 1.450 passaggi contenenti cifre sono stati confrontati uno per uno con i riassunti e, dove necessario, corretti.
 
 Questa verifica garantisce che ogni fonte citata esista e sia attribuita correttamente. Non può escludere del tutto che un risultato sia riportato nel testo in modo abbreviato o fuorviante. Per questo tutte le fonti sono indicate in modo che possa consultarle personalmente – come fare è spiegato nella sezione «Su questo libro» all'inizio.

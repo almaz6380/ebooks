@@ -1,6 +1,6 @@
 ## Kurze Geschichte: von Insulin bis zu den GLP-1-Medikamenten
 
-Die Geschichte der Peptid-Medikamente ist eine Geschichte von Durchbrüchen, Irrwegen und erstaunlichen Zufällen. Sie beginnt mit einem verzweifelten Experiment in Toronto, führt über das Gift einer amerikanischen Wüstenechse und endet – vorläufig – bei Abnehmspritzen, die zu den meistverkauften Arzneimitteln der Welt gehören. Dieses Kapitel erzählt die wichtigsten Stationen. Es soll Ihnen helfen, die heutige Aufregung um Peptide einzuordnen: Vieles, was als revolutionär verkauft wird, steht auf den Schultern von hundert Jahren mühsamer Forschung.
+Die Geschichte der Peptid-Medikamente ist eine Geschichte von Durchbrüchen, Irrwegen und erstaunlichen Zufällen. Sie beginnt mit einem verzweifelten Experiment in Toronto, führt über das Gift einer amerikanischen Wüstenechse und endet – vorläufig – bei Abnehmspritzen, die zu den meistverkauften Arzneimitteln der Welt gehören. Dieses Kapitel erzählt die wichtigsten Stationen. Es soll dir helfen, die heutige Aufregung um Peptide einzuordnen: Vieles, was als revolutionär verkauft wird, steht auf den Schultern von hundert Jahren mühsamer Forschung.
 
 ### Vor 1922: Botenstoffe werden entdeckt
 

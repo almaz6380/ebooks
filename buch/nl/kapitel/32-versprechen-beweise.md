@@ -66,14 +66,14 @@ Semax, Selank, Epitalon en Pinealon werden bijna uitsluitend in Rusland onderzoc
 
 De bewering dat een peptide „goed verdragen” wordt of „zonder bijwerkingen” is, steunt bij BPC-157 op samen 30 personen. Met zo weinig deelnemers zijn alleen veelvoorkomende, direct optredende problemen te herkennen; een bijwerking die één op de duizend personen treft, zou onzichtbaar blijven. Bij stoffen die groeisignalen versterken – groeihormoonvrijmakers, IGF-1 LR3, peptiden die de vorming van nieuwe bloedvaten bevorderen – bestaat bovendien een theoretische, maar niet onderzochte zorg over tumorgroei. Bij Melanotan II beschrijven casusbeschrijvingen nieuwe en veranderde moedervlekken en melanomen; een oorzakelijk verband is niet bewezen, maar ook niet uitgesloten. Daarbij komen de risico's van de producten zelf: in grijze-marktflesjes met Melanotan II werden minder werkzame stof dan opgegeven en onbekende verontreinigingen gevonden (Breindahl 2015, PMID 24771717). Meer hierover in Deel IV.
 
-### Hoe u serieuze van onbetrouwbare beweringen onderscheidt
+### Hoe je serieuze van onbetrouwbare beweringen onderscheidt
 
 De volgende checklist helpt om beweringen over peptiden – in webwinkels, video's, fora of tijdschriften – te duiden. Ze vervangt geen deskundig advies, maar scherpt de blik voor hoeveel er achter een bewering zit.
 
 #### Vragen over de bron
 
 - **Wie spreekt er?** Verkoopt de persoon of website de stof zelf, biedt die cursussen, consulten of kortingscodes aan? Een financieel belang maakt een bewering niet onjuist, maar is wel een reden om beter te kijken.
-- **Worden studies genoemd – en zijn ze te vinden?** Serieuze beweringen noemen een controleerbare bron: een PMID, een DOI of een registratienummer (NCT). U kunt elke PMID gratis in PubMed invoeren en de abstract zelf lezen. Formuleringen als „studies tonen aan” zonder concrete vermelding zijn een waarschuwingssignaal.
+- **Worden studies genoemd – en zijn ze te vinden?** Serieuze beweringen noemen een controleerbare bron: een PMID, een DOI of een registratienummer (NCT). Je kunt elke PMID gratis in PubMed invoeren en de abstract zelf lezen. Formuleringen als „studies tonen aan” zonder concrete vermelding zijn een waarschuwingssignaal.
 - **Past de geciteerde studie bij de bewering?** Controleer of de studie werkelijk de verkochte stof, de aangeprezen toepassing en mensen heeft onderzocht – of dat het ging om een verwant molecuul, een andere aandoening of ratten.
 
 #### Vragen over de studie
@@ -81,14 +81,14 @@ De volgende checklist helpt om beweringen over peptiden – in webwinkels, video
 - **Mens, dier of celkweek?** Staat in de abstract „rats”, „mice”, „in vitro” of „cell culture”, dan zegt dat niets over de werking bij de mens.
 - **Was er een vergelijkingsgroep?** Zonder placebo- of controlegroep valt niet te onderscheiden of een verbetering komt door de stof, door de tijd, door andere behandelingen of door de verwachting. Juist bij pijn, stemming of slaap is het placebo-effect groot.
 - **Hoeveel deelnemers?** Studies met 10 of 20 personen kunnen aanwijzingen geven, maar geen voordeel aantonen en zeldzame bijwerkingen niet herkennen.
-- **Wat werd gemeten?** Een laboratoriumwaarde die stijgt, is geen merkbaar voordeel. Vraag u af: werd gemeten wat voor de betrokkenen telt – pijn, functie, ziektegebeurtenissen, kwaliteit van leven?
+- **Wat werd gemeten?** Een laboratoriumwaarde die stijgt, is geen merkbaar voordeel. Vraag je af: werd gemeten wat voor de betrokkenen telt – pijn, functie, ziektegebeurtenissen, kwaliteit van leven?
 - **Werd de studie vooraf geregistreerd?** Een registratie bij ClinicalTrials.gov of in het EU-register vóór de start van de studie voorkomt dat doelen achteraf passend worden gekozen.
 - **Werd het resultaat herhaald?** Eén positief resultaat van één onderzoeksgroep is een begin, geen bewijs.
 
 #### Waarschuwingssignalen in de taal
 
 - Beloften die heel veel verschillende klachten tegelijk betreffen („voor gewrichten, darm, huid, hersenen en immuunsysteem”).
-- Termen als „wondermiddel”, „geheime tip”, „wat artsen u niet vertellen” of „door de farmaceutische industrie onderdrukt”.
+- Termen als „wondermiddel”, „geheime tip”, „wat artsen je niet vertellen” of „door de farmaceutische industrie onderdrukt”.
 - De bewering „geen bijwerkingen” bij een stof die nauwelijks bij mensen is onderzocht.
 - Ervaringsverhalen en voor-en-nafoto's in plaats van studiegegevens.
 - De vermelding „alleen voor onderzoeksdoeleinden” of „niet voor menselijke consumptie” op een product dat tegelijk wordt aangeprezen met effecten bij de mens. Deze tegenstrijdigheid laat zien dat de aanbieder de geneesmiddelenregels wil omzeilen (zie Deel I).
@@ -104,7 +104,7 @@ De volgende checklist helpt om beweringen over peptiden – in webwinkels, video
 
 #### Drie vragen voor het dagelijks leven
 
-Als u weinig tijd hebt, volstaan vaak drie vragen:
+Als je weinig tijd hebt, volstaan vaak drie vragen:
 
 1. Is de stof in de EU of de VS als geneesmiddel geregistreerd voor precies deze toepassing?
 2. Is er minstens één gerandomiseerde, placebogecontroleerde studie bij mensen die het beweerde voordeel heeft aangetoond?

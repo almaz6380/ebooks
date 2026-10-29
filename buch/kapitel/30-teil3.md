@@ -6,7 +6,7 @@ Die Tabellen sind Verdichtungen. Quellen und Einschränkungen jeder Zahl stehen 
 
 ## Alle Peptide auf einen Blick
 
-### So lesen Sie die Tabellen
+### So liest du die Tabellen
 
 Für jede Gruppe aus Teil II folgen zwei Tabellen: die erste mit Evidenzstufe, Zulassung und Größenordnung der Studienlage, die zweite mit dem wichtigsten Studienergebnis und dem Hauptrisiko.
 

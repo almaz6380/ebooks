@@ -1,6 +1,6 @@
 # Methodik
 
-Dieser Anhang beschreibt, wie die Studien für dieses Buch gesucht, ausgewählt und geprüft wurden. Er soll es Ihnen ermöglichen, die Recherche nachzuvollziehen und bei Bedarf selbst zu wiederholen oder zu aktualisieren.
+Dieser Anhang beschreibt, wie die Studien für dieses Buch gesucht, ausgewählt und geprüft wurden. Er soll es dir ermöglichen, die Recherche nachzuvollziehen und bei Bedarf selbst zu wiederholen oder zu aktualisieren.
 
 ### Datenbanken
 
@@ -162,7 +162,7 @@ Die Einstufung bezieht sich auf die Datenlage am Menschen insgesamt und auf das 
 
 ### Grenzen der Methodik
 
-Wie jede Literaturrecherche hat auch diese Grenzen, die Sie bei der Lektüre berücksichtigen sollten:
+Wie jede Literaturrecherche hat auch diese Grenzen, die du bei der Lektüre berücksichtigen solltest:
 
 **Treffer sind nicht gleich eigenständige Studien.** Eine große Studie wird oft in mehreren Artikeln veröffentlicht – Hauptergebnis, Untergruppen, Nachbeobachtung, Lebensqualität. Jeder dieser Artikel ist ein eigener Treffer. Umgekehrt können Studien in einem Artikel zusammengefasst sein. Die Trefferzahlen geben deshalb die Größenordnung der Forschung wieder, nicht die exakte Zahl unabhängiger Studien.
 
@@ -184,4 +184,4 @@ Die Datenbankabfragen liefen über die genannten Schnittstellen mit eigens dafü
 
 Zusätzlich wurde jedes Kapitel mit einem Prüfprogramm kontrolliert. Es ruft für jede im Text genannte PMID und NCT-Nummer den Eintrag in PubMed beziehungsweise ClinicalTrials.gov ab und meldet als Fehler, wenn eine Nummer nicht existiert. Es vergleicht außerdem Erstautorin oder Erstautor und Erscheinungsjahr, die im Text vor der PMID stehen, mit dem Datenbankeintrag und weist auf Abweichungen hin. Schließlich sucht es nach unzulässigen Formulierungen wie Heilversprechen, Dosierungsempfehlungen oder Hinweisen auf Bezugsquellen. Ein Kapitel galt erst als fertig, wenn diese Prüfung ohne Fehler durchlief. Außerdem prüft das Programm, ob eine zitierte Arbeit inzwischen zurückgezogen wurde; solche Arbeiten sind im Text ausdrücklich gekennzeichnet. Zum Abschluss wurden rund 1.450 Textstellen mit Zahlen einzeln mit den Zusammenfassungen verglichen und, wo nötig, korrigiert.
 
-Diese Prüfung stellt sicher, dass jede zitierte Quelle existiert und richtig zugeordnet ist. Sie kann nicht vollständig ausschließen, dass ein Ergebnis im Text verkürzt oder missverständlich wiedergegeben ist. Deshalb sind alle Quellen so angegeben, dass Sie sie selbst nachschlagen können – wie das geht, steht im Abschnitt „Über dieses Buch“ am Anfang.
+Diese Prüfung stellt sicher, dass jede zitierte Quelle existiert und richtig zugeordnet ist. Sie kann nicht vollständig ausschließen, dass ein Ergebnis im Text verkürzt oder missverständlich wiedergegeben ist. Deshalb sind alle Quellen so angegeben, dass du sie selbst nachschlagen kannst – wie das geht, steht im Abschnitt „Über dieses Buch“ am Anfang.

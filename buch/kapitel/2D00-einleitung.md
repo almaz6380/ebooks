@@ -12,7 +12,7 @@ Die Gruppe lässt sich grob in drei Familien einteilen:
 
 ### Die Nootropika- und Longevity-Szene
 
-Wer im Internet nach diesen Stoffen sucht, landet schnell in Foren, bei Influencern und „Longevity-Kliniken“. Typisch sind drei Denkfehler, denen Sie in den folgenden Kapiteln immer wieder begegnen werden:
+Wer im Internet nach diesen Stoffen sucht, landet schnell in Foren, bei Influencern und „Longevity-Kliniken“. Typisch sind drei Denkfehler, denen du in den folgenden Kapiteln immer wieder begegnen wirst:
 
 1. **Vom Tier auf den Menschen:** Dass ein Peptid bei Mäusen das Gedächtnis oder die Lebensdauer verbessert, sagt wenig darüber, ob es beim Menschen wirkt. In der Schlaganfall- und Alzheimerforschung sind Hunderte im Tier erfolgreiche Wirkstoffe am Menschen gescheitert.
 2. **Vom Spiegel auf die Spritze:** Dass Menschen mit niedrigen MOTS-c- oder Humanin-Spiegeln häufiger krank sind, beweist nicht, dass eine Zufuhr gesund macht.
@@ -49,4 +49,4 @@ Ein großer Teil der Literatur zu Semax, Selank, DSIP, Epitalon und Pinealon sta
 
 ### Lesehinweis
 
-Die Kapitel folgen dem einheitlichen Aufbau dieses Buches. Achten Sie in jedem Kapitel besonders auf den Abschnitt „Studien am Menschen“ und dort auf die Größenordnung der Studienlage: Bei neun der zwölf Peptide gibt es entweder keine Studie, in der Menschen den Wirkstoff erhielten, oder nur sehr kleine, methodisch schwache Untersuchungen. Rechtslage und FDA-Status haben sich 2026 mehrfach geändert; die Angaben entsprechen dem Stand Oktober 2026 und sollten aktuell geprüft werden.
+Die Kapitel folgen dem einheitlichen Aufbau dieses Buches. Achte in jedem Kapitel besonders auf den Abschnitt „Studien am Menschen“ und dort auf die Größenordnung der Studienlage: Bei neun der zwölf Peptide gibt es entweder keine Studie, in der Menschen den Wirkstoff erhielten, oder nur sehr kleine, methodisch schwache Untersuchungen. Rechtslage und FDA-Status haben sich 2026 mehrfach geändert; die Angaben entsprechen dem Stand Oktober 2026 und sollten aktuell geprüft werden.

@@ -1,6 +1,6 @@
 ## Studies goed lezen
 
-„Studies tonen aan …” – nauwelijks een formulering wordt in reclame voor peptiden zo vaak gebruikt. Daarmee kan van alles bedoeld zijn: een proef met cellen in een petrischaal, een experiment met twaalf ratten, een ervaringsverhaal van één patiënt of een studie met 17.000 deelnemers over meer dan drie jaar. Wie peptiden wil beoordelen, moet deze verschillen kennen. Dit hoofdstuk is een soort gereedschapskist. Het legt de belangrijkste soorten studies uit, de valkuilen bij het interpreteren van resultaten en hoe u zelf kunt nagaan wat er achter een bewering zit.
+„Studies tonen aan …” – nauwelijks een formulering wordt in reclame voor peptiden zo vaak gebruikt. Daarmee kan van alles bedoeld zijn: een proef met cellen in een petrischaal, een experiment met twaalf ratten, een ervaringsverhaal van één patiënt of een studie met 17.000 deelnemers over meer dan drie jaar. Wie peptiden wil beoordelen, moet deze verschillen kennen. Dit hoofdstuk is een soort gereedschapskist. Het legt de belangrijkste soorten studies uit, de valkuilen bij het interpreteren van resultaten en hoe je zelf kunt nagaan wat er achter een bewering zit.
 
 ### De bewijspiramide
 
@@ -38,7 +38,7 @@ Voor dit boek heeft dat een duidelijk gevolg: wanneer voor een peptide alleen di
 
 ### Casusbeschrijvingen en observationele studies
 
-**Casusbeschrijvingen** beschrijven afzonderlijke patiënten. Over werkzaamheid zeggen ze weinig, voor de veiligheid kunnen ze daarentegen zeer waardevol zijn: zeldzame of onverwachte bijwerkingen vallen vaak het eerst op in casusbeschrijvingen. In het hoofdstuk over de grijze markt leert u verscheidene van zulke verslagen kennen, bijvoorbeeld over ernstige hypoglykemieën door vervalste preparaten.
+**Casusbeschrijvingen** beschrijven afzonderlijke patiënten. Over werkzaamheid zeggen ze weinig, voor de veiligheid kunnen ze daarentegen zeer waardevol zijn: zeldzame of onverwachte bijwerkingen vallen vaak het eerst op in casusbeschrijvingen. In het hoofdstuk over de grijze markt leer je verscheidene van zulke verslagen kennen, bijvoorbeeld over ernstige hypoglykemieën door vervalste preparaten.
 
 **Observationele studies** vergelijken mensen die een stof gebruiken met mensen die dat niet doen. Hun hoofdprobleem is de zogeheten **verstorende factor** (confounding): wie een bepaald preparaat gebruikt, verschilt vaak ook op andere punten – bijvoorbeeld in inkomen, gezondheidsbewustzijn of eerdere aandoeningen. Een gevonden verband hoeft daarom geen oorzaak-gevolgrelatie te zijn.
 
@@ -86,7 +86,7 @@ Bijzonder belangrijk is het onderscheid tussen **harde eindpunten** en **surroga
 
 Surrogaateindpunten zijn praktisch, omdat ze sneller en met minder deelnemers te meten zijn. Maar ze kunnen misleiden. Het bekendste voorbeeld is de Cardiac Arrhythmia Suppression Trial (CAST) uit de late jaren 1980. Men ging ervan uit dat geneesmiddelen die bepaalde hartritmestoornissen na een hartinfarct onderdrukken, ook sterfgevallen voorkomen. De geneesmiddelen onderdrukten de ritmestoornissen inderdaad – het surrogaateindpunt was bereikt. Maar in de gerandomiseerde studie stierven onder twee van deze geneesmiddelen meer mensen dan onder placebo: aan ritmestoornissen stierven 43 deelnemers met werkzame stof tegenover 16 met placebo (Echt 1991, PMID 1900101).
 
-Bij peptiden komt u surrogaateindpunten voortdurend tegen. Bij groeihormoonvrijmakers wordt vaak alleen gemeten of de spiegel van groeihormoon of IGF-1 stijgt – niet of mensen daardoor gezonder of sterker worden of langer leven. Bij de GLP-1-geneesmiddelen zijn er daarentegen inmiddels grote studies met harde eindpunten zoals hartinfarct en beroerte. Dat is een van de redenen waarom ze in dit boek het hoogste bewijsniveau krijgen.
+Bij peptiden kom je surrogaateindpunten voortdurend tegen. Bij groeihormoonvrijmakers wordt vaak alleen gemeten of de spiegel van groeihormoon of IGF-1 stijgt – niet of mensen daardoor gezonder of sterker worden of langer leven. Bij de GLP-1-geneesmiddelen zijn er daarentegen inmiddels grote studies met harde eindpunten zoals hartinfarct en beroerte. Dat is een van de redenen waarom ze in dit boek het hoogste bewijsniveau krijgen.
 
 ### Relatieve en absolute risico's
 

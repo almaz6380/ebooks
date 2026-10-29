@@ -178,7 +178,7 @@ Geen ander peptide in dit boek wordt zo vaak buiten de reguliere kanalen verkreg
 
 **Illegale webwinkels:** in een marktonderzoek leidde 42,3% van de gevonden links naar online apotheken naar illegale aanbieders die semaglutide zonder recept verkochten (Ashraf 2024, PMID 39509151). Bij proefaankopen kwamen bestelde Ozempic-pennen helemaal niet aan. De geleverde flesjes bevatten weliswaar semaglutide, maar de zuiverheid lag slechts op 7,7% tot 14,37% in plaats van de opgegeven 99%, en in alle monsters werden endotoxinen (bestanddelen van bacteriën die koorts en ontstekingen kunnen veroorzaken) aangetoond.
 
-**Vervalsingen:** vervalste Ozempic-pennen zijn in Europa en de VS opgedoken, deels gevuld met insuline of zonder werkzame stof; de geneesmiddelenautoriteiten en de Wereldgezondheidsorganisatie hebben meermaals gewaarschuwd. Algemene informatie over producten van de grijze markt vindt u in deel I en deel IV. Veilig is alleen de reguliere weg: voorschrift door een arts en afgifte door de apotheek.
+**Vervalsingen:** vervalste Ozempic-pennen zijn in Europa en de VS opgedoken, deels gevuld met insuline of zonder werkzame stof; de geneesmiddelenautoriteiten en de Wereldgezondheidsorganisatie hebben meermaals gewaarschuwd. Algemene informatie over producten van de grijze markt vind je in deel I en deel IV. Veilig is alleen de reguliere weg: voorschrift door een arts en afgifte door de apotheek.
 
 ### Juridische status
 

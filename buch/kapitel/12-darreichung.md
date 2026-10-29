@@ -1,6 +1,6 @@
 ## Wie Peptide in den Körper kommen – und warum das schwierig ist
 
-Fast jedes Peptid-Arzneimittel, das Sie kennen, wird gespritzt: Insulin, Semaglutid, Tirzepatid, Teriparatid. Das ist kein Zufall und keine Vorliebe der Pharmaindustrie, sondern eine Folge der Biologie. Der menschliche Körper ist hervorragend darin, Eiweiße und Peptide zu zerlegen – schließlich lebt er davon, die Eiweiße aus der Nahrung in ihre Bausteine aufzuspalten. Dieses Kapitel erklärt, welche Hürden ein Peptid auf dem Weg zu seinem Wirkort überwinden muss, welche Wege die Medizin gefunden hat und warum viele Versprechen zu Tropfen, Kapseln und Cremes mit Vorsicht zu betrachten sind.
+Fast jedes Peptid-Arzneimittel, das du kennst, wird gespritzt: Insulin, Semaglutid, Tirzepatid, Teriparatid. Das ist kein Zufall und keine Vorliebe der Pharmaindustrie, sondern eine Folge der Biologie. Der menschliche Körper ist hervorragend darin, Eiweiße und Peptide zu zerlegen – schließlich lebt er davon, die Eiweiße aus der Nahrung in ihre Bausteine aufzuspalten. Dieses Kapitel erklärt, welche Hürden ein Peptid auf dem Weg zu seinem Wirkort überwinden muss, welche Wege die Medizin gefunden hat und warum viele Versprechen zu Tropfen, Kapseln und Cremes mit Vorsicht zu betrachten sind.
 
 ### Das Grundproblem: Bioverfügbarkeit
 
@@ -99,7 +99,7 @@ Für Peptide bedeutet das: Schon ab etwa vier bis fünf Aminosäuren liegen sie 
 
 Eine Regel ist eine Faustregel: Es gibt Ausnahmen, und Hilfsmittel wie Mikronadel-Pflaster können die Barriere überwinden. Solche Pflaster tragen winzige Nadeln, die nur die oberste Hautschicht durchdringen. Für Peptide sind sie noch weitgehend in Entwicklung.
 
-Für Arzneimittel-Peptide wie GLP-1-Analoga, Wachstumshormon-Freisetzer oder Melanotan gilt: Eine einfache Creme oder ein Gel bringt sie nicht in nennenswerter Menge ins Blut. Angebote im Internet, die das Gegenteil behaupten, sollten Sie mit großer Skepsis betrachten.
+Für Arzneimittel-Peptide wie GLP-1-Analoga, Wachstumshormon-Freisetzer oder Melanotan gilt: Eine einfache Creme oder ein Gel bringt sie nicht in nennenswerter Menge ins Blut. Angebote im Internet, die das Gegenteil behaupten, solltest du mit großer Skepsis betrachten.
 
 ### Stabilität: das unterschätzte Problem
 

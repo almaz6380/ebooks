@@ -1,6 +1,6 @@
 ## Korte geschiedenis: van insuline tot de GLP-1-geneesmiddelen
 
-De geschiedenis van de peptidegeneesmiddelen is een geschiedenis van doorbraken, dwaalwegen en verbazingwekkende toevalligheden. Ze begint met een wanhopig experiment in Toronto, loopt via het gif van een Amerikaanse woestijnhagedis en eindigt – voorlopig – bij afslankinjecties die tot de best verkochte geneesmiddelen ter wereld behoren. Dit hoofdstuk vertelt de belangrijkste etappes. Het moet u helpen de huidige opwinding rond peptiden in perspectief te plaatsen: veel van wat als revolutionair wordt verkocht, staat op de schouders van honderd jaar moeizaam onderzoek.
+De geschiedenis van de peptidegeneesmiddelen is een geschiedenis van doorbraken, dwaalwegen en verbazingwekkende toevalligheden. Ze begint met een wanhopig experiment in Toronto, loopt via het gif van een Amerikaanse woestijnhagedis en eindigt – voorlopig – bij afslankinjecties die tot de best verkochte geneesmiddelen ter wereld behoren. Dit hoofdstuk vertelt de belangrijkste etappes. Het moet je helpen de huidige opwinding rond peptiden in perspectief te plaatsen: veel van wat als revolutionair wordt verkocht, staat op de schouders van honderd jaar moeizaam onderzoek.
 
 ### Vóór 1922: boodschapperstoffen worden ontdekt
 

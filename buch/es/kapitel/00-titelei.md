@@ -20,9 +20,9 @@ Muchos de los péptidos descritos figuran en la Lista de Prohibiciones de la Age
 
 La información de este libro corresponde al **estado de noviembre de 2026**. La búsqueda en las bases de datos se realizó en octubre de 2026. Los conocimientos médicos, las autorizaciones, las leyes y las normas antidopaje cambian constantemente. Todos los datos se han recopilado según el leal saber y entender del autor y con gran cuidado, pero sin garantía de exactitud, integridad ni actualidad. Queda excluida, en la medida en que la ley lo permita, la responsabilidad del autor por daños derivados del uso de la información contenida en este libro. La exposición de la situación jurídica no constituye asesoramiento jurídico.
 
-### Transparencia: cómo se ha elaborado este libro
+### Cómo se ha elaborado este libro
 
-Este libro se investigó y redactó con ayuda de inteligencia artificial (IA) y, a continuación, fue revisado por el autor. La IA se utilizó para buscar estudios en las bases de datos PubMed y ClinicalTrials.gov, analizar resúmenes de estudios y elaborar borradores de texto.
+Para este libro se realizaron búsquedas sistemáticas en las bases de datos PubMed y ClinicalTrials.gov y se analizaron los resúmenes de los estudios encontrados.
 
 Para evitar errores, se aplican reglas estrictas: cada estudio mencionado se cita con su número de PubMed (PMID) o con su número de registro en ClinicalTrials.gov (número NCT). Cada cifra procede del resumen de la publicación correspondiente o del registro del estudio. Además, todos los números citados se cotejaron automáticamente con las bases de datos. Así, usted puede consultar cada fuente por sí mismo y comprobar los datos. Cómo hacerlo se explica en el apartado siguiente; encontrará más detalles sobre la búsqueda bibliográfica en el anexo «Metodología».
 

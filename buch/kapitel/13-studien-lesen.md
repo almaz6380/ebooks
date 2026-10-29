@@ -1,6 +1,6 @@
 ## Studien richtig lesen
 
-„Studien zeigen …“ – kaum eine Formulierung wird in der Werbung für Peptide so oft verwendet. Gemeint sein kann damit alles Mögliche: ein Versuch mit Zellen in einer Petrischale, ein Experiment an zwölf Ratten, ein Erfahrungsbericht eines einzelnen Patienten oder eine Studie mit 17.000 Teilnehmenden über mehr als drei Jahre. Wer Peptide beurteilen will, muss diese Unterschiede kennen. Dieses Kapitel ist eine Art Werkzeugkasten. Es erklärt die wichtigsten Studientypen, die Fallstricke bei der Interpretation von Ergebnissen und wie Sie selbst prüfen können, was hinter einer Behauptung steckt.
+„Studien zeigen …“ – kaum eine Formulierung wird in der Werbung für Peptide so oft verwendet. Gemeint sein kann damit alles Mögliche: ein Versuch mit Zellen in einer Petrischale, ein Experiment an zwölf Ratten, ein Erfahrungsbericht eines einzelnen Patienten oder eine Studie mit 17.000 Teilnehmenden über mehr als drei Jahre. Wer Peptide beurteilen will, muss diese Unterschiede kennen. Dieses Kapitel ist eine Art Werkzeugkasten. Es erklärt die wichtigsten Studientypen, die Fallstricke bei der Interpretation von Ergebnissen und wie du selbst prüfen kannst, was hinter einer Behauptung steckt.
 
 ### Die Evidenzpyramide
 
@@ -38,7 +38,7 @@ Für dieses Buch hat das eine klare Konsequenz: Wenn für ein Peptid nur Tierdat
 
 ### Fallberichte und Beobachtungsstudien
 
-**Fallberichte** beschreiben einzelne Patientinnen oder Patienten. Für die Wirksamkeit sagen sie wenig, für die Sicherheit können sie dagegen sehr wertvoll sein: Seltene oder unerwartete Nebenwirkungen fallen oft zuerst in Fallberichten auf. Im Kapitel über den Graumarkt werden Sie mehrere solcher Berichte kennenlernen, etwa über schwere Unterzuckerungen durch gefälschte Präparate.
+**Fallberichte** beschreiben einzelne Patientinnen oder Patienten. Für die Wirksamkeit sagen sie wenig, für die Sicherheit können sie dagegen sehr wertvoll sein: Seltene oder unerwartete Nebenwirkungen fallen oft zuerst in Fallberichten auf. Im Kapitel über den Graumarkt wirst du mehrere solcher Berichte kennenlernen, etwa über schwere Unterzuckerungen durch gefälschte Präparate.
 
 **Beobachtungsstudien** vergleichen Menschen, die einen Stoff nehmen, mit Menschen, die ihn nicht nehmen. Ihr Hauptproblem ist die sogenannte **Störgröße** (Confounding): Wer ein bestimmtes Präparat nimmt, unterscheidet sich oft auch in anderen Punkten – etwa in Einkommen, Gesundheitsbewusstsein oder Vorerkrankungen. Ein gefundener Zusammenhang muss deshalb keine Ursache-Wirkungs-Beziehung sein.
 
@@ -86,7 +86,7 @@ Besonders wichtig ist die Unterscheidung zwischen **harten Endpunkten** und **Su
 
 Surrogat-Endpunkte sind praktisch, weil sie sich schneller und mit weniger Teilnehmenden messen lassen. Aber sie können in die Irre führen. Das bekannteste Beispiel ist die Cardiac Arrhythmia Suppression Trial (CAST) aus den späten 1980er-Jahren. Man ging davon aus, dass Medikamente, die bestimmte Herzrhythmusstörungen nach einem Herzinfarkt unterdrücken, auch Todesfälle verhindern. Die Medikamente unterdrückten die Rhythmusstörungen tatsächlich – der Surrogat-Endpunkt war erreicht. Doch in der randomisierten Studie starben unter zwei dieser Medikamente mehr Menschen als unter Placebo: An Rhythmusstörungen starben 43 Teilnehmende mit Wirkstoff gegenüber 16 mit Placebo (Echt 1991, PMID 1900101).
 
-Bei Peptiden begegnen Ihnen Surrogat-Endpunkte ständig. Bei Wachstumshormon-Freisetzern wird oft nur gemessen, ob der Spiegel von Wachstumshormon oder IGF-1 steigt – nicht, ob Menschen dadurch gesünder, kräftiger oder länger leben. Bei den GLP-1-Medikamenten dagegen gibt es inzwischen große Studien mit harten Endpunkten wie Herzinfarkt und Schlaganfall. Das ist einer der Gründe, warum sie in diesem Buch die höchste Evidenzstufe erhalten.
+Bei Peptiden begegnen dir Surrogat-Endpunkte ständig. Bei Wachstumshormon-Freisetzern wird oft nur gemessen, ob der Spiegel von Wachstumshormon oder IGF-1 steigt – nicht, ob Menschen dadurch gesünder, kräftiger oder länger leben. Bei den GLP-1-Medikamenten dagegen gibt es inzwischen große Studien mit harten Endpunkten wie Herzinfarkt und Schlaganfall. Das ist einer der Gründe, warum sie in diesem Buch die höchste Evidenzstufe erhalten.
 
 ### Relative und absolute Risiken
 
@@ -99,7 +99,7 @@ Daraus lassen sich zwei Aussagen ableiten, die beide richtig sind:
 
 Aus dem absoluten Unterschied lässt sich die **Number Needed to Treat (NNT)** berechnen: wie viele Menschen behandelt werden müssen, damit einer ein Ereignis vermeidet. Hier sind das rechnerisch etwa 67 Menschen über gut drei Jahre. Das bedeutet nicht, dass die Behandlung unwichtig ist – bei Millionen Betroffenen ist der Effekt bedeutsam. Aber es zeigt, dass die meisten Behandelten kein Ereignis gehabt hätten, auch ohne Medikament, und dass einige trotz Medikament eines haben.
 
-Werbung und Schlagzeilen bevorzugen relative Zahlen, weil sie größer klingen. Gute Studienberichte nennen beides. Achten Sie deshalb immer auf die Ausgangshäufigkeit: Eine „Halbierung“ des Risikos von 2 auf 1 von 10.000 ist etwas völlig anderes als von 20 auf 10 von 100.
+Werbung und Schlagzeilen bevorzugen relative Zahlen, weil sie größer klingen. Gute Studienberichte nennen beides. Achte deshalb immer auf die Ausgangshäufigkeit: Eine „Halbierung“ des Risikos von 2 auf 1 von 10.000 ist etwas völlig anderes als von 20 auf 10 von 100.
 
 Dasselbe gilt für Nebenwirkungen. In SELECT brachen 16,6 % der Teilnehmenden mit Semaglutid die Behandlung wegen unerwünschter Ereignisse ab, gegenüber 8,2 % mit Placebo (Lincoff 2023, PMID 37952131). Relativ ist das eine Verdopplung, absolut ein Unterschied von 8,4 Prozentpunkten.
 
@@ -176,5 +176,5 @@ Die Stufe bewertet die **Menge und Qualität der Daten am Menschen**, nicht, ob 
 - Labor- und Tierstudien liefern Hinweise auf Mechanismen, aber keinen Beleg für einen Nutzen beim Menschen.
 - Der randomisierte, kontrollierte, verblindete Vergleich ist der verlässlichste Weg, eine Wirkung nachzuweisen.
 - Surrogat-Endpunkte wie Laborwerte können in die Irre führen; harte Endpunkte zählen.
-- Relative Zahlen klingen größer als absolute. Fragen Sie immer nach der Ausgangshäufigkeit.
+- Relative Zahlen klingen größer als absolute. Frag immer nach der Ausgangshäufigkeit.
 - Finanzierung, Veröffentlichungsverzerrung und fehlende Bestätigung durch unabhängige Gruppen können das Bild verzerren. Studienregister helfen, das zu prüfen.

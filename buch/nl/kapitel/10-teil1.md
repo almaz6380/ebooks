@@ -1,6 +1,6 @@
 # Deel I – Basis
 
-Voordat het in deel II over afzonderlijke werkzame stoffen gaat, legt dit deel het fundament. U leert wat een peptide chemisch eigenlijk is, hoe binnen een eeuw uit een extract van alvleesklieren van honden een van de best verkopende geneesmiddelgroepen ter wereld is ontstaan, waarom de meeste peptiden geïnjecteerd moeten worden, hoe u een studie leest zonder u door krantenkoppen te laten misleiden, wat er op de grijze markt werkelijk in de flesjes zit en welke juridische regels gelden.
+Voordat het in deel II over afzonderlijke werkzame stoffen gaat, legt dit deel het fundament. Je leert wat een peptide chemisch eigenlijk is, hoe binnen een eeuw uit een extract van alvleesklieren van honden een van de best verkopende geneesmiddelgroepen ter wereld is ontstaan, waarom de meeste peptiden geïnjecteerd moeten worden, hoe je een studie leest zonder je door krantenkoppen te laten misleiden, wat er op de grijze markt werkelijk in de flesjes zit en welke juridische regels gelden.
 
 Wie alleen een bepaald peptide wil opzoeken, kan direct naar deel II springen. De hoofdstukken van dit deel leggen echter de begrippen en maatstaven uit die daar voortdurend worden gebruikt – zoals „gerandomiseerd”, „surrogaateindpunt”, „bewijsniveau B” of „research peptide”. Een korte blik loont daarom ook voor lezers met weinig tijd.
 
@@ -12,7 +12,7 @@ Het woord „peptide” heeft de afgelopen jaren een verbazingwekkende carrière
 
 Alle peptiden en eiwitten bestaan uit aminozuren. Een aminozuur is een klein molecuul met twee typische onderdelen: een aminogroep (die stikstof bevat) en een zuurgroep (carboxylgroep). Daartussen zit een centraal koolstofatoom waaraan een zogeheten zijketen hangt. Die zijketen onderscheidt de aminozuren van elkaar: ze kan klein en onopvallend zijn zoals bij glycine, olieachtig en waterafstotend zoals bij leucine, elektrisch geladen zoals bij lysine of zwavelhoudend zoals bij cysteïne.
 
-Het menselijk lichaam bouwt zijn eiwitten in wezen op uit 20 standaardaminozuren. Sommige daarvan kan het zelf aanmaken, andere – de „essentiële” aminozuren – moet het via de voeding opnemen. Daarnaast bestaan er honderden andere aminozuren die in de natuur voorkomen of in het laboratorium worden gemaakt. Voor de ontwikkeling van geneesmiddelen zijn zulke „niet-natuurlijke” aminozuren belangrijk, omdat ze een peptide stabieler kunnen maken. Een voorbeeld vindt u verderop bij semaglutide.
+Het menselijk lichaam bouwt zijn eiwitten in wezen op uit 20 standaardaminozuren. Sommige daarvan kan het zelf aanmaken, andere – de „essentiële” aminozuren – moet het via de voeding opnemen. Daarnaast bestaan er honderden andere aminozuren die in de natuur voorkomen of in het laboratorium worden gemaakt. Voor de ontwikkeling van geneesmiddelen zijn zulke „niet-natuurlijke” aminozuren belangrijk, omdat ze een peptide stabieler kunnen maken. Een voorbeeld vind je verderop bij semaglutide.
 
 Belangrijk om veel reclamebeloften te begrijpen: losse aminozuren zijn geen peptiden. Een voedingssupplement met arginine, glutamine of „BCAA” bevat vrije aminozuren, dus losse bouwstenen – geen peptide.
 
@@ -92,7 +92,7 @@ Peptiden bezetten een niche tussen de klassieke „kleine moleculen” (zoals as
 
 Volgens een overzichtsartikel hebben sinds de introductie van insuline meer dan 80 peptidegeneesmiddelen de markt bereikt, onder meer tegen diabetes, kanker, osteoporose, multiple sclerose, hiv-infectie en chronische pijn (Muttenthaler 2021, PMID 33536635). Een andere analyse telde meer dan 150 peptiden in actieve klinische ontwikkeling (Lau 2018, PMID 28720325). De aantallen verschillen afhankelijk van de telwijze, maar wijzen in dezelfde richting: peptiden zijn een vast en groeiend onderdeel van de geneeskunde.
 
-Veel geneesmiddelpeptiden kent u misschien zonder ze als peptiden te hebben herkend: insuline, het osteoporosemiddel teriparatide (een fragment van het bijschildklierhormoon van 34 aminozuren), werkzame stoffen tegen prostaatkanker die het GnRH-systeem beïnvloeden, het weeënmiddel oxytocine of het antibioticum vancomycine, een glycopeptide.
+Veel geneesmiddelpeptiden ken je misschien zonder ze als peptiden te hebben herkend: insuline, het osteoporosemiddel teriparatide (een fragment van het bijschildklierhormoon van 34 aminozuren), werkzame stoffen tegen prostaatkanker die het GnRH-systeem beïnvloeden, het weeënmiddel oxytocine of het antibioticum vancomycine, een glycopeptide.
 
 ### Wat peptiden niet zijn
 

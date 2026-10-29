@@ -2,7 +2,7 @@
 
 Wer im Internet nach Peptiden sucht, landet schnell bei Online-Shops mit professionell wirkenden Seiten, Laborfotos und Reinheitszertifikaten. Angeboten werden Fläschchen mit weißem Pulver: BPC-157, TB-500, Ipamorelin, Melanotan II – und zunehmend auch Semaglutid, Tirzepatid oder noch gar nicht zugelassene Wirkstoffe wie Retatrutid. Fast immer steht irgendwo der Hinweis „Research Use Only“ oder „not for human consumption“ – nur für Forschungszwecke, nicht zur Anwendung am Menschen.
 
-Dieses Kapitel beschreibt, was über diesen Markt bekannt ist: aus Laboranalysen gekaufter und beschlagnahmter Produkte, aus Fallberichten von Vergiftungen und aus Auswertungen von Nebenwirkungsmeldungen. Es soll Ihnen helfen, die Risiken realistisch einzuschätzen. Bezugsquellen werden in diesem Buch grundsätzlich nicht genannt.
+Dieses Kapitel beschreibt, was über diesen Markt bekannt ist: aus Laboranalysen gekaufter und beschlagnahmter Produkte, aus Fallberichten von Vergiftungen und aus Auswertungen von Nebenwirkungsmeldungen. Es soll dir helfen, die Risiken realistisch einzuschätzen. Bezugsquellen werden in diesem Buch grundsätzlich nicht genannt.
 
 ### Was „Research Peptides“ sind
 
@@ -124,11 +124,11 @@ Die Gründe für den Griff zum Graumarkt sind vielfältig: hohe Preise und fehle
 
 Diese Motive sind nachvollziehbar. Die Analysen in diesem Kapitel zeigen aber, dass Käuferinnen und Käufer auf dem Graumarkt nicht wissen können, was sie tatsächlich erhalten.
 
-### Wenn Sie bereits Graumarkt-Peptide verwendet haben
+### Wenn du bereits Graumarkt-Peptide verwendet hast
 
 Dieses Buch gibt keine Anwendungshinweise. Einige allgemeine Punkte sind aber aus Sicherheitsgründen wichtig:
 
-- Informieren Sie Ihre Ärztin oder Ihren Arzt über alle Spritzen, Peptide und „Forschungschemikalien“, die Sie verwenden – auch wenn Sie sie nicht als Medikament betrachten.
+- Informiere deine Ärztin oder deinen Arzt über alle Spritzen, Peptide und „Forschungschemikalien“, die du verwendest – auch wenn du sie nicht als Medikament betrachtest.
 - Unerwartete Beschwerden wie Zittern, Schwitzen, Verwirrtheit oder Bewusstseinsstörungen nach einer Spritze können auf eine Unterzuckerung hindeuten und sind ein Notfall.
 - Verdächtige Produkte und Nebenwirkungen können den Behörden gemeldet werden: in Deutschland dem Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM), in Österreich dem Bundesamt für Sicherheit im Gesundheitswesen (BASG).
 

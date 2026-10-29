@@ -1,6 +1,6 @@
 # Glossar
 
-Die folgenden Erklärungen sind bewusst kurz gehalten. Ausführlichere Darstellungen finden Sie in den Kapiteln von Teil I, insbesondere in „Was Peptide sind – und was nicht“ und „Studien richtig lesen“.
+Die folgenden Erklärungen sind bewusst kurz gehalten. Ausführlichere Darstellungen findest du in den Kapiteln von Teil I, insbesondere in „Was Peptide sind – und was nicht“ und „Studien richtig lesen“.
 
 ### A
 

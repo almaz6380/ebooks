@@ -178,7 +178,7 @@ Kein anderes Peptid in diesem Buch wird so häufig außerhalb regulärer Wege be
 
 **Illegale Online-Shops:** In einer Marktuntersuchung führten 42,3 % der gefundenen Online-Apotheken-Links zu illegalen Anbietern, die Semaglutid ohne Rezept verkauften (Ashraf 2024, PMID 39509151). Bei Testkäufen kamen bestellte Ozempic-Pens gar nicht an. Die gelieferten Fläschchen enthielten zwar Semaglutid, aber die Reinheit lag nur bei 7,7 % bis 14,37 % statt der angegebenen 99 %, und in allen Proben wurden Endotoxine (Bestandteile von Bakterien, die Fieber und Entzündungen auslösen können) nachgewiesen.
 
-**Fälschungen:** Gefälschte Ozempic-Pens sind in Europa und den USA aufgetaucht, teils mit Insulin oder ohne Wirkstoff gefüllt; die Arzneimittelbehörden und die Weltgesundheitsorganisation haben mehrfach gewarnt. Allgemeine Informationen zu Graumarkt-Produkten finden Sie in Teil I und Teil IV. Sicher ist nur der reguläre Weg: ärztliche Verordnung und Abgabe in der Apotheke.
+**Fälschungen:** Gefälschte Ozempic-Pens sind in Europa und den USA aufgetaucht, teils mit Insulin oder ohne Wirkstoff gefüllt; die Arzneimittelbehörden und die Weltgesundheitsorganisation haben mehrfach gewarnt. Allgemeine Informationen zu Graumarkt-Produkten findest du in Teil I und Teil IV. Sicher ist nur der reguläre Weg: ärztliche Verordnung und Abgabe in der Apotheke.
 
 ### Rechtslage
 

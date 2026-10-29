@@ -6,7 +6,7 @@ De tabellen zijn samenvattingen. Bronnen en beperkingen van elk getal staan in d
 
 ## Alle peptiden in één oogopslag
 
-### Zo leest u de tabellen
+### Zo lees je de tabellen
 
 Voor elke groep uit Deel II volgen twee tabellen: de eerste met bewijsniveau, registratie en omvang van het onderzoek, de tweede met het belangrijkste studieresultaat en het belangrijkste risico.
 

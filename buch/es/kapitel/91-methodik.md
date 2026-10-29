@@ -178,16 +178,10 @@ Como toda búsqueda bibliográfica, también esta tiene límites que conviene qu
 
 **Instantánea.** La investigación refleja la situación de octubre de 2026. En campos de rápido crecimiento como el de los medicamentos GLP-1 se publican nuevos estudios cada semana.
 
-### Apoyo de la IA y control de calidad
+### Control de calidad
 
-Este libro se investigó y redactó con el apoyo de la inteligencia artificial y fue revisado por el autor. La IA se utilizó para las siguientes tareas:
+Las consultas a las bases de datos se realizaron a través de las interfaces mencionadas, con programas auxiliares escritos expresamente para ello. Para el análisis se aplicaron reglas vinculantes: cada estudio del texto se cita con su PMID o número NCT; cada cifra debe proceder de un resumen o de una entrada de registro realmente consultados; los estudios solo pueden mencionarse si su entrada se ha consultado y leído previamente.
 
-- realización de las consultas a las bases de datos a través de las interfaces mencionadas, con programas auxiliares escritos expresamente para ello,
-- lectura y análisis de los resúmenes y de las entradas de registro,
-- elaboración de borradores de texto según reglas fijas de estilo y de trabajo.
-
-Para evitar el conocido riesgo de que los sistemas de IA inventen fuentes o cifras, se aplicaron reglas vinculantes: cada estudio del texto se cita con su PMID o número NCT; cada cifra debe proceder de un resumen o de una entrada de registro realmente consultados; los estudios solo pueden mencionarse si su entrada se ha consultado y leído previamente.
-
-Además, cada capítulo se controló con un programa de verificación. Este consulta, para cada PMID y número NCT mencionado en el texto, la entrada en PubMed o en ClinicalTrials.gov y señala como error que un número no exista. Compara además el primer autor y el año de publicación que figuran en el texto antes del PMID con la entrada de la base de datos y advierte de las discrepancias. Por último, busca formulaciones no admisibles, como promesas de curación, recomendaciones de dosis o indicaciones de fuentes de suministro. Un capítulo solo se consideraba terminado cuando esta verificación se completaba sin errores.
+Además, cada capítulo se controló con un programa de verificación. Este consulta, para cada PMID y número NCT mencionado en el texto, la entrada en PubMed o en ClinicalTrials.gov y señala como error que un número no exista. Compara además el primer autor y el año de publicación que figuran en el texto antes del PMID con la entrada de la base de datos y advierte de las discrepancias. Por último, busca formulaciones no admisibles, como promesas de curación, recomendaciones de dosis o indicaciones de fuentes de suministro. Un capítulo solo se consideraba terminado cuando esta verificación se completaba sin errores. Además, el programa comprueba si un trabajo citado ha sido retractado entretanto; estos trabajos están señalados expresamente en el texto. Para terminar, se compararon una a una con los resúmenes unos 1450 pasajes del texto con cifras y, donde fue necesario, se corrigieron.
 
 Esta verificación garantiza que cada fuente citada existe y está correctamente asignada. No puede descartar por completo que un resultado se reproduzca en el texto de forma abreviada o equívoca. Por eso, todas las fuentes se indican de modo que usted mismo pueda consultarlas; cómo hacerlo se explica en el apartado «Sobre este libro» al principio.

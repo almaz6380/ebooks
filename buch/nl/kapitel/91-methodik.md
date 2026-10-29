@@ -1,6 +1,6 @@
 # Methodologie
 
-Deze bijlage beschrijft hoe de studies voor dit boek zijn gezocht, geselecteerd en gecontroleerd. Ze moet u in staat stellen het onderzoek na te gaan en het zo nodig zelf te herhalen of bij te werken.
+Deze bijlage beschrijft hoe de studies voor dit boek zijn gezocht, geselecteerd en gecontroleerd. Ze moet je in staat stellen het onderzoek na te gaan en het zo nodig zelf te herhalen of bij te werken.
 
 ### Databanken
 
@@ -162,7 +162,7 @@ De indeling heeft betrekking op de bewijslast bij mensen als geheel en op het be
 
 ### Grenzen van de methodologie
 
-Zoals elk literatuuronderzoek heeft ook dit onderzoek grenzen, waarmee u bij het lezen rekening kunt houden:
+Zoals elk literatuuronderzoek heeft ook dit onderzoek grenzen, waarmee je bij het lezen rekening kunt houden:
 
 **Treffers zijn niet hetzelfde als zelfstandige studies.** Een grote studie wordt vaak in meerdere artikelen gepubliceerd – hoofdresultaat, subgroepen, follow-up, kwaliteit van leven. Elk van deze artikelen is een eigen treffer. Omgekeerd kunnen studies in één artikel zijn samengevat. De aantallen treffers geven daarom de orde van grootte van het onderzoek weer, niet het exacte aantal onafhankelijke studies.
 
@@ -178,16 +178,10 @@ Zoals elk literatuuronderzoek heeft ook dit onderzoek grenzen, waarmee u bij het
 
 **Momentopname.** Het onderzoek geeft de stand van oktober 2026 weer. In snel groeiende velden zoals de GLP-1-geneesmiddelen verschijnen elke week nieuwe studies.
 
-### Ondersteuning door AI en kwaliteitscontrole
+### Kwaliteitscontrole
 
-Dit boek is met ondersteuning van kunstmatige intelligentie onderzocht en geschreven en door de auteur bewerkt. De AI is voor de volgende taken ingezet:
+De databankzoekopdrachten liepen via de genoemde interfaces met speciaal daarvoor geschreven hulpprogramma's. Voor de analyse golden bindende regels: elke studie in de tekst wordt geciteerd met PMID of NCT-nummer; elk getal moet afkomstig zijn uit een daadwerkelijk opgevraagde samenvatting of registervermelding; studies mogen alleen worden genoemd als hun vermelding eerst is opgevraagd en gelezen.
 
-- uitvoeren van de databankzoekopdrachten via de genoemde interfaces met speciaal daarvoor geschreven hulpprogramma's,
-- lezen en analyseren van de samenvattingen en registervermeldingen,
-- opstellen van tekstontwerpen volgens vaste stijl- en werkregels.
+Daarnaast is elk hoofdstuk gecontroleerd met een controleprogramma. Dat vraagt voor elk in de tekst genoemd PMID en NCT-nummer de vermelding in PubMed respectievelijk ClinicalTrials.gov op en meldt een fout als een nummer niet bestaat. Het vergelijkt bovendien de eerste auteur en het jaar van verschijnen, die in de tekst vóór het PMID staan, met de databankvermelding en wijst op afwijkingen. Ten slotte zoekt het naar ontoelaatbare formuleringen zoals beloften van genezing, doseringsaanbevelingen of verwijzingen naar bronnen om middelen te kopen. Een hoofdstuk gold pas als klaar als deze controle zonder fouten doorliep. Daarnaast controleert het programma of een geciteerd artikel inmiddels is ingetrokken; zulke artikelen zijn in de tekst uitdrukkelijk gemarkeerd. Tot slot zijn ongeveer 1.450 tekstpassages met cijfers afzonderlijk met de samenvattingen vergeleken en waar nodig gecorrigeerd.
 
-Om het bekende risico te vermijden dat AI-systemen bronnen of cijfers verzinnen, golden bindende regels: elke studie in de tekst wordt geciteerd met PMID of NCT-nummer; elk getal moet afkomstig zijn uit een daadwerkelijk opgevraagde samenvatting of registervermelding; studies mogen alleen worden genoemd als hun vermelding eerst is opgevraagd en gelezen.
-
-Daarnaast is elk hoofdstuk gecontroleerd met een controleprogramma. Dat vraagt voor elk in de tekst genoemd PMID en NCT-nummer de vermelding in PubMed respectievelijk ClinicalTrials.gov op en meldt een fout als een nummer niet bestaat. Het vergelijkt bovendien de eerste auteur en het jaar van verschijnen, die in de tekst vóór het PMID staan, met de databankvermelding en wijst op afwijkingen. Ten slotte zoekt het naar ontoelaatbare formuleringen zoals beloften van genezing, doseringsaanbevelingen of verwijzingen naar bronnen om middelen te kopen. Een hoofdstuk gold pas als klaar als deze controle zonder fouten doorliep.
-
-Deze controle garandeert dat elke geciteerde bron bestaat en juist is toegeschreven. Ze kan niet volledig uitsluiten dat een resultaat in de tekst verkort of misleidend is weergegeven. Daarom zijn alle bronnen zo vermeld dat u ze zelf kunt opzoeken – hoe dat werkt, staat in de paragraaf „Over dit boek” aan het begin.
+Deze controle garandeert dat elke geciteerde bron bestaat en juist is toegeschreven. Ze kan niet volledig uitsluiten dat een resultaat in de tekst verkort of misleidend is weergegeven. Daarom zijn alle bronnen zo vermeld dat je ze zelf kunt opzoeken – hoe dat werkt, staat in de paragraaf „Over dit boek” aan het begin.

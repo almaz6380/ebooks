@@ -1,6 +1,6 @@
 # Teil I – Grundlagen
 
-Bevor es in Teil II um einzelne Wirkstoffe geht, legt dieser Teil das Fundament. Sie erfahren, was ein Peptid chemisch eigentlich ist, wie aus einem Extrakt aus Hundebauchspeicheldrüsen innerhalb eines Jahrhunderts eine der umsatzstärksten Arzneimittelgruppen der Welt wurde, warum die meisten Peptide gespritzt werden müssen, wie man eine Studie liest, ohne sich von Schlagzeilen täuschen zu lassen, was auf dem Graumarkt tatsächlich in den Fläschchen steckt und welche rechtlichen Regeln gelten.
+Bevor es in Teil II um einzelne Wirkstoffe geht, legt dieser Teil das Fundament. Du erfährst, was ein Peptid chemisch eigentlich ist, wie aus einem Extrakt aus Hundebauchspeicheldrüsen innerhalb eines Jahrhunderts eine der umsatzstärksten Arzneimittelgruppen der Welt wurde, warum die meisten Peptide gespritzt werden müssen, wie man eine Studie liest, ohne sich von Schlagzeilen täuschen zu lassen, was auf dem Graumarkt tatsächlich in den Fläschchen steckt und welche rechtlichen Regeln gelten.
 
 Wer nur ein bestimmtes Peptid nachschlagen möchte, kann direkt in Teil II springen. Die Kapitel dieses Teils erklären aber die Begriffe und Maßstäbe, die dort ständig verwendet werden – etwa „randomisiert“, „Surrogat-Endpunkt“, „Evidenzstufe B“ oder „Research Peptide“. Ein kurzer Blick lohnt sich daher auch für eilige Leserinnen und Leser.
 
@@ -12,7 +12,7 @@ Das Wort „Peptid“ hat in den letzten Jahren eine erstaunliche Karriere gemac
 
 Alle Peptide und Proteine bestehen aus Aminosäuren. Eine Aminosäure ist ein kleines Molekül mit zwei typischen Bestandteilen: einer Aminogruppe (sie enthält Stickstoff) und einer Säuregruppe (Carboxylgruppe). Dazwischen sitzt ein zentrales Kohlenstoffatom, an dem eine sogenannte Seitenkette hängt. Diese Seitenkette unterscheidet die Aminosäuren voneinander: Sie kann klein und unscheinbar sein wie beim Glycin, ölig und wasserabweisend wie beim Leucin, elektrisch geladen wie beim Lysin oder schwefelhaltig wie beim Cystein.
 
-Der menschliche Körper baut seine Eiweiße im Wesentlichen aus 20 Standard-Aminosäuren auf. Einige davon kann er selbst herstellen, andere – die „essenziellen“ Aminosäuren – muss er mit der Nahrung aufnehmen. Daneben gibt es Hunderte weiterer Aminosäuren, die in der Natur vorkommen oder im Labor hergestellt werden. Für die Arzneimittelentwicklung sind solche „nicht natürlichen“ Aminosäuren wichtig, weil sie ein Peptid stabiler machen können. Ein Beispiel finden Sie weiter unten beim Semaglutid.
+Der menschliche Körper baut seine Eiweiße im Wesentlichen aus 20 Standard-Aminosäuren auf. Einige davon kann er selbst herstellen, andere – die „essenziellen“ Aminosäuren – muss er mit der Nahrung aufnehmen. Daneben gibt es Hunderte weiterer Aminosäuren, die in der Natur vorkommen oder im Labor hergestellt werden. Für die Arzneimittelentwicklung sind solche „nicht natürlichen“ Aminosäuren wichtig, weil sie ein Peptid stabiler machen können. Ein Beispiel findest du weiter unten beim Semaglutid.
 
 Wichtig für das Verständnis vieler Werbeversprechen: Einzelne Aminosäuren sind keine Peptide. Ein Nahrungsergänzungsmittel mit Arginin, Glutamin oder „BCAA“ enthält freie Aminosäuren, also lose Bausteine – kein Peptid.
 
@@ -92,7 +92,7 @@ Peptide besetzen eine Nische zwischen den klassischen „kleinen Molekülen“ (
 
 Einer Übersichtsarbeit zufolge haben seit der Einführung des Insulins mehr als 80 Peptid-Arzneimittel den Markt erreicht, etwa gegen Diabetes, Krebs, Osteoporose, Multiple Sklerose, HIV-Infektion und chronische Schmerzen (Muttenthaler 2021, PMID 33536635). Eine andere Auswertung zählte über 150 Peptide in aktiver klinischer Entwicklung (Lau 2018, PMID 28720325). Die Zahlen unterscheiden sich je nach Zählweise, zeigen aber dieselbe Richtung: Peptide sind ein fester und wachsender Teil der Medizin.
 
-Viele Arzneimittel-Peptide kennen Sie vielleicht, ohne sie als Peptide wahrgenommen zu haben: Insulin, das Osteoporosemittel Teriparatid (ein Teilstück des Parathormons aus 34 Aminosäuren), Wirkstoffe gegen Prostatakrebs, die das GnRH-System beeinflussen, das Wehenmittel Oxytocin oder das Antibiotikum Vancomycin, ein Glykopeptid.
+Viele Arzneimittel-Peptide kennst du vielleicht, ohne sie als Peptide wahrgenommen zu haben: Insulin, das Osteoporosemittel Teriparatid (ein Teilstück des Parathormons aus 34 Aminosäuren), Wirkstoffe gegen Prostatakrebs, die das GnRH-System beeinflussen, das Wehenmittel Oxytocin oder das Antibiotikum Vancomycin, ein Glykopeptid.
 
 ### Was Peptide nicht sind
 

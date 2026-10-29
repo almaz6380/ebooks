@@ -4,7 +4,7 @@ Geen enkele groep peptiden heeft de geneeskunde van de afgelopen jaren zo verand
 
 ### Wat deze werkzame stoffen verbindt: hormonen uit darm en alvleesklier
 
-Bijna alle werkzame stoffen in deze groep bootsen hormonen na die het lichaam rond een maaltijd afgeeft. Vier daarvan moet u kennen:
+Bijna alle werkzame stoffen in deze groep bootsen hormonen na die het lichaam rond een maaltijd afgeeft. Vier daarvan moet je kennen:
 
 - **GLP-1 (glucagon-like peptide-1)** wordt door cellen in de dunne en dikke darm vrijgegeven zodra er voedsel aankomt. Het versterkt de insulineafgifte – maar alleen als de bloedsuiker verhoogd is –, remt de maaglediging en meldt verzadiging aan de hersenen. Lichaamseigen GLP-1 wordt binnen enkele minuten afgebroken; de geneesmiddelen zijn zo veranderd dat ze een dag tot een week werken.
 - **GIP (glucoseafhankelijk insulinotroop polypeptide)** komt uit het bovenste deel van de dunne darm en versterkt eveneens de insulineafgifte. Zijn rol voor eetlust en lichaamsgewicht is tegenstrijdig: tirzepatide activeert de GIP-receptor, maridebart cafraglutide blokkeert hem – en beide leiden tot gewichtsverlies.
@@ -41,6 +41,6 @@ De bewijsniveaus worden in deel I uitgelegd. Registratiegegevens hebben betrekki
 
 De hoofdstukken volgen grofweg de historische ontwikkeling: van de gevestigde GLP-1-agonisten (exenatide tot semaglutide) via de combinatiemiddelen (tirzepatide tot maridebart cafraglutide) naar de bijzondere gevallen (pramlintide, setmelanotide, AOD-9604) en ten slotte naar orforglipron, dat als niet-peptide ter vergelijking is opgenomen.
 
-Wie snel een overzicht wil, begint met semaglutide en tirzepatide – daaraan worden alle andere gemeten. De directe vergelijkingen van gewichtsverlies, bloedsuikerverlaging, cardiovasculaire uitkomsten en bijwerkingen over alle werkzame stoffen heen vindt u in deel III. Klasserisico's zoals problemen met galblaas en alvleesklier, spierverlies en vragen over de schildklier behandelt deel IV uitgebreid.
+Wie snel een overzicht wil, begint met semaglutide en tirzepatide – daaraan worden alle andere gemeten. De directe vergelijkingen van gewichtsverlies, bloedsuikerverlaging, cardiovasculaire uitkomsten en bijwerkingen over alle werkzame stoffen heen vind je in deel III. Klasserisico's zoals problemen met galblaas en alvleesklier, spierverlies en vragen over de schildklier behandelt deel IV uitgebreid.
 
 Twee principes gelden voor de hele groep: ten eerste beschrijven de hoofdstukken studieresultaten, geen behandelinstructies – voor geregistreerde geneesmiddelen zijn de productinformatie en de begeleiding door een arts bepalend. Ten tweede komt bij bijna alle werkzame stoffen een groot deel van het verloren gewicht terug wanneer de behandeling stopt. Deze geneesmiddelen werken zolang ze worden gebruikt; ze zijn geen kuur.

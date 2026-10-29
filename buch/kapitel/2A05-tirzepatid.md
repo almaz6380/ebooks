@@ -96,7 +96,7 @@ Die von vielen erwartete direkte Gegenüberstellung bei Adipositas ohne Diabetes
 
 Eine Nachauswertung zeigte, dass 44 % unter Tirzepatid und 21 % unter Semaglutid bis Woche 24 bereits mindestens 15 % abgenommen hatten („schnelle Responder“). Diese hatten etwas mehr Magen-Darm- und Gallenwegsereignisse, brachen die Behandlung aber nicht häufiger ab (Aronne 2026, PMID 41865857).
 
-Zur Einordnung: SURMOUNT-5 war vom Hersteller des Tirzepatids finanziert und offen durchgeführt. Der Unterschied ist trotzdem groß genug, dass er kaum allein durch diese Einschränkungen erklärbar ist. Eine Gegenüberstellung aller GLP-1-Medikamente finden Sie in Teil III.
+Zur Einordnung: SURMOUNT-5 war vom Hersteller des Tirzepatids finanziert und offen durchgeführt. Der Unterschied ist trotzdem groß genug, dass er kaum allein durch diese Einschränkungen erklärbar ist. Eine Gegenüberstellung aller GLP-1-Medikamente findest du in Teil III.
 
 #### Herzinsuffizienz: SUMMIT
 
