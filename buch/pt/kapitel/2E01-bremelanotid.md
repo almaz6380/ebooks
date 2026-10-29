@@ -95,16 +95,16 @@ Em culturas de células, a bremelanotida inibiu o crescimento de células de gli
 
 Para a gravidez, não há dados suficientes. Um pequeno estudo mede atualmente a passagem para o leite materno (NCT06867835). Faltam dados de longo prazo além de 18 meses.
 
-#### Mercado cinzento
+#### Mercado cinza
 
-Com o nome “PT-141”, a bremelanotida é oferecida na internet como pó para autoinjeção, frequentemente ao lado do melanotan II. Laboratórios forenses identificaram ambas as substâncias em amostras apreendidas pela polícia no meio do fisiculturismo (Mestria 2021, PMID 33245851). Para esses produtos valem os mesmos riscos de outros peptídeos do mercado cinzento (Parte I, capítulo “O mercado cinzento”): pureza desconhecida, quantidades erradas, contaminações, fabricação não estéril. Sabe-se do spray nasal de bremelanotida que ele agia mais fortemente sobre a pressão arterial; sprays do mercado cinzento não são testados.
+Com o nome “PT-141”, a bremelanotida é oferecida na internet como pó para autoinjeção, frequentemente ao lado do melanotan II. Laboratórios forenses identificaram ambas as substâncias em amostras apreendidas pela polícia no meio do fisiculturismo (Mestria 2021, PMID 33245851). Para esses produtos valem os mesmos riscos de outros peptídeos do mercado cinza (Parte I, capítulo “O mercado cinza”): pureza desconhecida, quantidades erradas, contaminações, fabricação não estéril. Sabe-se do spray nasal de bremelanotida que ele agia mais fortemente sobre a pressão arterial; sprays do mercado cinza não são testados.
 
 ### Situação legal
 
 *Situação em 2026, verificar atualização.*
 
 - **UE:** nenhuma aprovação, e não se conhece nenhum processo de aprovação em andamento. A venda para uso em humanos não é permitida na UE.
-- **Alemanha e Áustria:** nenhuma aprovação. A importação individual de um medicamento aprovado nos EUA mediante prescrição médica é juridicamente possível de forma muito restrita; produtos do mercado cinzento não se enquadram nisso.
+- **Alemanha e Áustria:** nenhuma aprovação. A importação individual de um medicamento aprovado nos EUA mediante prescrição médica é juridicamente possível de forma muito restrita; produtos do mercado cinza não se enquadram nisso.
 - **EUA:** aprovada desde junho de 2019 (Vyleesi) para mulheres na pré-menopausa com HSDD adquirido e generalizado. Não aprovada para homens, para mulheres na pós-menopausa nem para aumentar o desejo em pessoas saudáveis. Os direitos de comercialização mudaram várias vezes; segundo os registros, a responsável hoje é a empresa Cosette Pharmaceuticals.
 - **Outros países:** na Coreia do Sul, foi realizado um estudo-ponte com 193 mulheres para uma aprovação no país (NCT04943068).
 - **WADA:** não listada nominalmente. Verifique a lista de proibições atual.
@@ -121,4 +121,4 @@ Com o nome “PT-141”, a bremelanotida é oferecida na internet como pó para 
 
 ### Conclusão
 
-A bremelanotida é o único medicamento aprovado que visa ao desejo sexual por meio do sistema das melanocortinas no cérebro – porém apenas nos EUA e apenas para um grupo restrito de mulheres. Em dois grandes estudos de fase 3, o desejo e o sofrimento melhoraram de forma estatisticamente inequívoca, mas em pequena medida e com grande efeito placebo. A náusea atinge quase metade das usuárias e leva frequentemente à interrupção; aumentos breves da pressão arterial exigem cautela em caso de risco cardiovascular. Produtos do mercado cinzento com o nome “PT-141” não são testados, e para homens ou pessoas sem diagnóstico falta qualquer evidência suficiente para aprovação.
+A bremelanotida é o único medicamento aprovado que visa ao desejo sexual por meio do sistema das melanocortinas no cérebro – porém apenas nos EUA e apenas para um grupo restrito de mulheres. Em dois grandes estudos de fase 3, o desejo e o sofrimento melhoraram de forma estatisticamente inequívoca, mas em pequena medida e com grande efeito placebo. A náusea atinge quase metade das usuárias e leva frequentemente à interrupção; aumentos breves da pressão arterial exigem cautela em caso de risco cardiovascular. Produtos do mercado cinza com o nome “PT-141” não são testados, e para homens ou pessoas sem diagnóstico falta qualquer evidência suficiente para aprovação.

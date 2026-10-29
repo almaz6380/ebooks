@@ -56,7 +56,7 @@ Quase todos os trabalhos vêm do grupo desenvolvedor ou de institutos russos coo
 
 **Teórico:** se a hipótese dos desenvolvedores estiver correta e o Pinealon de fato se ligar ao DNA e regular genes, também seriam concebíveis efeitos genéticos indesejados. Não há estudos sobre danos ao material genético, risco de câncer ou efeitos a longo prazo.
 
-**Mercado cinzento:** o Pinealon é oferecido online como cápsula, spray nasal ou pó para injeção, geralmente com promessas sobre memória, sono e "rejuvenescimento cerebral". Teor e pureza não são verificados.
+**Mercado cinza:** o Pinealon é oferecido online como cápsula, spray nasal ou pó para injeção, geralmente com promessas sobre memória, sono e "rejuvenescimento cerebral". Teor e pureza não são verificados.
 
 ### Situação legal
 

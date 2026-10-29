@@ -45,7 +45,7 @@ Dos 157 estudos de fase 3 em andamento, 68 ainda estavam recrutando, 54 estavam 
 
 No grupo A, aproximadamente um em cada três desses estudos tardios é conduzido por universidades e hospitais, os demais por empresas. As datas de término planejadas distribuem-se assim: 21 estudos devem terminar em 2026, 49 em 2027, 41 em 2028 e 44 entre 2029 e 2033. A verdadeira onda de novos resultados está, portanto, por vir em 2027 e 2028.
 
-**Os grupos B a F** têm um aspecto completamente diferente. Após a revisão dos registros, restam apenas cinco estudos de fase 3 em andamento em que uma substância deste livro é de fato a substância testada: timosina alfa-1 após cirurgia de câncer colorretal (NCT05086614), colírio de timosina beta-4 na ceratopatia neurotrófica (NCT05555589), elamipretida na degeneração macular seca (NCT06373731), afamelanotida no vitiligo (NCT06109649) e ibutamoren, que não é peptídeo, em crianças com deficiência de hormônio do crescimento (NCT06948214). Somam-se alguns estudos combinados de fase 2/3, como sobre spray nasal de ocitocina na dor crônica (NCT04903002) e sobre timosina alfa-1 na falha repetida de implantação após fertilização in vitro (NCT07675980). Para os “peptídeos de pesquisa” mais populares na internet – BPC-157, CJC-1295, ipamorelina, Epitalon, Semax, Selank – não há nenhum estudo de fase 3 em andamento.
+**Os grupos B a F** têm um aspecto completamente diferente. Após a revisão dos registros, restam apenas cinco estudos de fase 3 em andamento em que uma substância deste livro é de fato a substância testada: timosina alfa-1 após cirurgia de câncer colorretal (NCT05086614), colírio de timosina beta-4 na ceratopatia neurotrófica (NCT05555589), elamipretida na degeneração macular seca (NCT06373731), afamelanotida no vitiligo (NCT06109649) e ibutamoreno, que não é peptídeo, em crianças com deficiência de hormônio do crescimento (NCT06948214). Somam-se alguns estudos combinados de fase 2/3, como sobre spray nasal de ocitocina na dor crônica (NCT04903002) e sobre timosina alfa-1 na falha repetida de implantação após fertilização in vitro (NCT07675980). Para os “peptídeos de pesquisa” mais populares na internet – BPC-157, CJC-1295, ipamorelina, Epitalon, Semax, Selank – não há nenhum estudo de fase 3 em andamento.
 
 ### Os principais estudos de fase 3 em andamento
 
@@ -68,7 +68,7 @@ As tabelas a seguir mostram uma seleção por tamanho e importância. “Términ
 | MARITIME-CV, NCT07037433 | Maridebarte cafraglutida | eventos cardiovasculares, 12.800 participantes | setembro de 2030 |
 | MARITIME-HF, NCT07037459 | Maridebarte cafraglutida | insuficiência cardíaca com obesidade, 5.056 participantes | setembro de 2030 |
 | AMBIENCE, NCT07861100 | Amicretina (zenagamtida) | eventos cardiovasculares, 8.500 planejados | setembro de 2030 |
-| ATTAIN-Outcomes, NCT07241390 | Orforgliprona (não é peptídeo) | eventos cardiovasculares, 7.140 participantes | agosto de 2031 |
+| ATTAIN-Outcomes, NCT07241390 | Orforglipron (não é peptídeo) | eventos cardiovasculares, 7.140 participantes | agosto de 2031 |
 | LIVERAGE, NCT06632444 | Survodutida | MASH com fibrose, 1.800 participantes | dezembro de 2031 |
 | SYNERGY-Outcomes, NCT07165028 | Tirzepatida e retatrutida | eventos hepáticos graves, 4.500 participantes | agosto de 2032 |
 
@@ -80,7 +80,7 @@ As tabelas a seguir mostram uma seleção por tamanho e importância. “Términ
 | NCT06109649 | Afamelanotida | vitiligo com fototerapia, 200 participantes | junho de 2026 (resultado pendente) |
 | NCT05086614 | Timosina alfa-1 | sobrevida livre de doença após câncer colorretal, 2.500 participantes | março de 2027 |
 | ReNEW, NCT06373731 | Elamipretida (SS-31) | degeneração macular seca, 313 participantes | setembro de 2027 |
-| NCT06948214 | Ibutamoren (LUM-201, não é peptídeo) | crescimento em crianças com deficiência hormonal, 150 participantes | janeiro de 2028 |
+| NCT06948214 | Ibutamoreno (LUM-201, não é peptídeo) | crescimento em crianças com deficiência hormonal, 150 participantes | janeiro de 2028 |
 
 Detalhes sobre cada estudo estão na seção “Estudos em andamento e perspectivas” do respectivo capítulo.
 
@@ -94,7 +94,7 @@ Detalhes sobre cada estudo estão na seção “Estudos em andamento e perspecti
 
 **Novos países, novas moléculas.** Grande parte dos novos estudos de fase 3 vem de empresas chinesas que testam substâncias próprias baseadas em GLP-1 contra semaglutida ou dulaglutida – como a bofanglutida, injetada a cada duas semanas (BALANCE-OBS, NCT07622810), ou a proteína de fusão de exendina-4 JY09 (NCT06257966). O mercado se torna, portanto, mais amplo, não apenas mais potente.
 
-**Crianças e adolescentes.** Para quase todas as grandes substâncias há estudos em andamento em adolescentes, em parte também em crianças, como para tirzepatida (NCT06439277, NCT07817875), orforgliprona (NCT06672939) e CagriSema (NCT07253285, término previsto para 2033).
+**Crianças e adolescentes.** Para quase todas as grandes substâncias há estudos em andamento em adolescentes, em parte também em crianças, como para tirzepatida (NCT06439277, NCT07817875), orforglipron (NCT06672939) e CagriSema (NCT07253285, término previsto para 2033).
 
 **E fora do metabolismo?** Aqui o pipeline é escasso. Onde um peptídeo não é patenteável, já é vendido como suplemento alimentar ou só existe no mercado cinza, quase ninguém financia estudos de aprovação caros. Isso explica por que justamente os peptídeos mais discutidos na internet praticamente não aparecem nos registros.
 

@@ -15,7 +15,7 @@ O IGF-1 LR3 (por extenso "Long-R3-IGF-I") não é um medicamento, mas um reagent
 
 No sangue, quase todo o IGF-1 está acoplado a proteínas de ligação, sobretudo à IGFBP-3. Essas proteínas funcionam como um tampão: prolongam a vida útil do IGF-1, mas também o mantêm afastado das células e assim atenuam seu efeito. Em experimentos com células, a IGFBP-3 inibiu a ativação do receptor de IGF-1 pelo IGF-1 e também pelo Long-R3-IGF-I, captando os mensageiros (Devi 2001, PMID 11735239).
 
-O LR3 foi modificado de forma a escapar em grande parte desse tampão. Em ratos, encontrava-se no sangue predominantemente como peptídeo livre e era removido do sangue – em animais não prenhes – cerca de dez vezes mais rápido do que o IGF-1 – ou seja, desaparece rapidamente para os tecidos (Bastian 1993, PMID 7693845). Em ratos diabéticos, foi 2,5 a 3 vezes mais eficaz do que o IGF-1 na restauração do crescimento (Tomas 1993, PMID 7683875). No mercado cinzento, deriva-se daí a expectativa de que o LR3 desenvolveria músculos em humanos com mais força do que o IGF-1 natural. Não há evidências disso.
+O LR3 foi modificado de forma a escapar em grande parte desse tampão. Em ratos, encontrava-se no sangue predominantemente como peptídeo livre e era removido do sangue – em animais não prenhes – cerca de dez vezes mais rápido do que o IGF-1 – ou seja, desaparece rapidamente para os tecidos (Bastian 1993, PMID 7693845). Em ratos diabéticos, foi 2,5 a 3 vezes mais eficaz do que o IGF-1 na restauração do crescimento (Tomas 1993, PMID 7683875). No mercado cinza, deriva-se daí a expectativa de que o LR3 desenvolveria músculos em humanos com mais força do que o IGF-1 natural. Não há evidências disso.
 
 ### Estudos em humanos
 
@@ -23,7 +23,7 @@ O LR3 foi modificado de forma a escapar em grande parte desse tampão. Em ratos,
 
 Foram encontrados apenas:
 
-- **Análises do mercado cinzento:** um laboratório antidoping encontrou em um frasco de injeção do mercado negro Long-R3-IGF-I com uma chamada His-tag – um apêndice de seis unidades de histidina usado na produção de proteínas de laboratório para purificação. Os autores supõem que se tratava de um subproduto da pesquisa bioquímica, e não de um preparado fabricado para injeções; o efeito dessa variante em humanos é totalmente desconhecido (Kohler 2010, PMID 20675162). Outro grupo de pesquisa encontrou em produtos do mercado negro numerosos indícios de formas peptídicas de baixa qualidade, oxidadas (Mongongu 2021, PMID 33587816).
+- **Análises do mercado cinza:** um laboratório antidoping encontrou em um frasco de injeção do mercado negro Long-R3-IGF-I com uma chamada His-tag – um apêndice de seis unidades de histidina usado na produção de proteínas de laboratório para purificação. Os autores supõem que se tratava de um subproduto da pesquisa bioquímica, e não de um preparado fabricado para injeções; o efeito dessa variante em humanos é totalmente desconhecido (Kohler 2010, PMID 20675162). Outro grupo de pesquisa encontrou em produtos do mercado negro numerosos indícios de formas peptídicas de baixa qualidade, oxidadas (Mongongu 2021, PMID 33587816).
 - **Revisões sobre doping:** o IGF-1 e seus análogos são anunciados na internet e estão disponíveis há anos no mercado negro (Guha 2013, PMID 23934394).
 
 ### Estudos em animais e em laboratório

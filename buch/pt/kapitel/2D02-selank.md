@@ -66,9 +66,9 @@ Esses achados são achados em animais e em laboratório e vêm em grande parte d
 
 **Teórico:** o Selank agiria sobre os sistemas imunológico, de encefalinas e GABA. Interações com calmantes, álcool ou antidepressivos não foram estudadas; o estudo russo de combinação mostra, de todo modo, que o Selank é usado junto com benzodiazepínicos. Para gravidez, amamentação e crianças não há dados.
 
-**Mercado cinzento:** fora da Rússia, o Selank é vendido como "Research Peptide" em pó para injeção ou como spray nasal. Um laboratório de controle belga encontrou Selank em preparados desconhecidos apreendidos (Vanhee 2020, PMID 31667971). A injeção não é uma via de administração testada em estudos; pureza e teor desses produtos não são verificados.
+**Mercado cinza:** fora da Rússia, o Selank é vendido como "Research Peptide" em pó para injeção ou como spray nasal. Um laboratório de controle belga encontrou Selank em preparados desconhecidos apreendidos (Vanhee 2020, PMID 31667971). A injeção não é uma via de administração testada em estudos; pureza e teor desses produtos não são verificados.
 
-**Importante:** transtornos de ansiedade são bem tratáveis – com psicoterapia e com medicamentos aprovados, cujo efeito está comprovado em grandes estudos controlados por placebo. Um peptídeo do mercado cinzento não é substituto para isso.
+**Importante:** transtornos de ansiedade são bem tratáveis – com psicoterapia e com medicamentos aprovados, cujo efeito está comprovado em grandes estudos controlados por placebo. Um peptídeo do mercado cinza não é substituto para isso.
 
 ### Situação legal
 

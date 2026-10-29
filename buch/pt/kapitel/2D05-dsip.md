@@ -61,7 +61,7 @@ Notável é um estudo com 24 mulheres durante uma anestesia: em vez de aprofunda
 
 **Teórico:** como nem o receptor nem a função natural foram esclarecidos, efeitos e interações – por exemplo com soníferos, álcool ou opioides – dificilmente podem ser previstos.
 
-**Mercado cinzento:** o DSIP é vendido online como pó para injeção e anunciado como sonífero. Os preparados usados nos estudos eram infundidos na veia; faltam dados sobre a injeção subcutânea. Pureza e teor dos produtos do mercado cinzento não são verificados.
+**Mercado cinza:** o DSIP é vendido online como pó para injeção e anunciado como sonífero. Os preparados usados nos estudos eram infundidos na veia; faltam dados sobre a injeção subcutânea. Pureza e teor dos produtos do mercado cinza não são verificados.
 
 **Importante:** para a insônia crônica existem tratamentos eficazes e bem estudados, sobretudo a terapia cognitivo-comportamental para insônia.
 

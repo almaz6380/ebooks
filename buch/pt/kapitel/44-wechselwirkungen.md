@@ -21,7 +21,7 @@ Alguns peptídeos são perigosos na gravidez pelo seu próprio princípio de aç
 
 ### Contracepção oral e esvaziamento gástrico
 
-Medicamentos de GLP-1, análogos de amilina como a pramlintida e também a bremelanotida retardam o esvaziamento do estômago. Com isso, comprimidos tomados ao mesmo tempo podem chegar ao sangue mais tarde ou em quantidade diferente. Isso afeta sobretudo medicamentos em que importam um início de ação rápido ou um nível sanguíneo uniforme.
+Medicamentos de GLP-1, análogos de amilina como a pranlintida e também a bremelanotida retardam o esvaziamento do estômago. Com isso, comprimidos tomados ao mesmo tempo podem chegar ao sangue mais tarde ou em quantidade diferente. Isso afeta sobretudo medicamentos em que importam um início de ação rápido ou um nível sanguíneo uniforme.
 
 A pílula anticoncepcional foi estudada com especial cuidado. Para a semaglutida, um estudo com 43 mulheres não encontrou absorção reduzida dos dois hormônios de uma pílula combinada comum; o nível do progestagênio foi até 20% mais alto com semaglutida (Kapitza 2015, PMID 25475122). Com a tirzepatida é diferente: uma revisão de seis estudos encontrou apenas com a tirzepatida uma redução significativa da quantidade de hormônio absorvida, com os demais agonistas do receptor de GLP-1 não. Como explicação, os autores citam o retardo mais forte do esvaziamento gástrico após a primeira dose e após aumentos de dose (Skelley 2024, PMID 37940101). A bula profissional da tirzepatida contém, por isso, uma advertência própria sobre a contracepção com comprimidos; os detalhes estão ali e devem ser discutidos com o médico.
 
@@ -31,11 +31,11 @@ Outras interações conhecidas em visão geral:
 
 | Peptídeo | Interação | Relevância | Capítulo |
 |---|---|---|---|
-| Medicamentos de GLP-1, pramlintida | absorção retardada de comprimidos | atenção em medicamentos de margem terapêutica estreita | Semaglutida, Pramlintida |
+| Medicamentos de GLP-1, pranlintida | absorção retardada de comprimidos | atenção em medicamentos de margem terapêutica estreita | Semaglutida, Pranlintida |
 | Tirzepatida | menos hormônio da pílula | advertência na bula profissional | Tirzepatida |
 | Bremelanotida | níveis mais baixos de indometacina e naltrexona | o efeito desses medicamentos pode diminuir | Bremelanotida |
 | Macimorelina | prolonga o intervalo QT | cautela com outros medicamentos que prolongam o QT | Macimorelina |
-| Orforgliprona | metabolização por enzimas hepáticas | interações com outros medicamentos possíveis | Orforgliprona |
+| Orforglipron | metabolização por enzimas hepáticas | interações com outros medicamentos possíveis | Orforglipron |
 | Selank, DSIP | sedativos e hipnóticos, álcool | não estudado | Selank, DSIP |
 | BPC-157 | coagulação sanguínea (apenas dados em animais) | com anticoagulantes, desconhecido | BPC-157 |
 
@@ -55,9 +55,9 @@ Possivelmente as taxas de aspiração são baixas porque as equipes de anestesia
 
 ### Combinação com antidiabéticos e hipoglicemia
 
-Como descrito no capítulo “Efeitos colaterais por sistemas de órgãos”, medicamentos de GLP-1 isoladamente quase não causam hipoglicemias perigosas. Isso muda em combinação com insulina ou sulfonilureias, que baixam a glicemia independentemente do valor atual. Em um estudo com exenatida em associação a metformina e uma sulfonilureia, hipoglicemias leves a moderadas ocorreram em até 28%, com placebo em 13%; com sulfonilureia em dose baixa, foram mais raras (Kendall 2005, PMID 15855571). Com a pramlintida, usada junto com insulina, hipoglicemias graves ocorreram com mais frequência do que com placebo (Edelman 2006, PMID 17003291). Por isso, as bulas profissionais preveem revisar a dose dos outros antidiabéticos no início; a execução cabe ao médico.
+Como descrito no capítulo “Efeitos colaterais por sistemas de órgãos”, medicamentos de GLP-1 isoladamente quase não causam hipoglicemias perigosas. Isso muda em combinação com insulina ou sulfonilureias, que baixam a glicemia independentemente do valor atual. Em um estudo com exenatida em associação a metformina e uma sulfonilureia, hipoglicemias leves a moderadas ocorreram em até 28%, com placebo em 13%; com sulfonilureia em dose baixa, foram mais raras (Kendall 2005, PMID 15855571). Com a pranlintida, usada junto com insulina, hipoglicemias graves ocorreram com mais frequência do que com placebo (Edelman 2006, PMID 17003291). Por isso, as bulas profissionais preveem revisar a dose dos outros antidiabéticos no início; a execução cabe ao médico.
 
-Para vários peptídeos não aprovados, uma redução adicional da glicemia é teoricamente concebível, por exemplo para MOTS-c ou IGF-1 LR3 (capítulos MOTS-c, IGF-1 LR3). Isso não foi estudado. Inversamente, os peptídeos do eixo do hormônio do crescimento podem elevar a glicemia e desequilibrar um tratamento de diabetes existente (capítulos Ibutamoren, Tesamorelina).
+Para vários peptídeos não aprovados, uma redução adicional da glicemia é teoricamente concebível, por exemplo para MOTS-c ou IGF-1 LR3 (capítulos MOTS-c, IGF-1 LR3). Isso não foi estudado. Inversamente, os peptídeos do eixo do hormônio do crescimento podem elevar a glicemia e desequilibrar um tratamento de diabetes existente (capítulos Ibutamoreno, Tesamorelina).
 
 ### Crianças e adolescentes
 
@@ -80,7 +80,7 @@ Com a idade, aumenta o risco de que efeitos colaterais evoluam de forma mais gra
 
 - **Perda de líquidos.** Vômitos e diarreia com medicamentos de GLP-1 podem levar mais rapidamente, em idosos, à desidratação e a problemas renais.
 - **Massa muscular.** Quem já tem pouca musculatura tolera mal uma perda adicional (ver a seção seguinte).
-- **Retenção hídrica e coração.** O hormônio do crescimento levou em idosos saudáveis com mais frequência a inchaço dos tecidos, dores articulares e síndrome do túnel do carpo (Liu 2007, PMID 17227934). Um estudo com ibutamoren em idosos após fratura de quadril foi interrompido devido a um sinal de insuficiência cardíaca (Adunsky 2011, PMID 21067829). Justamente os peptídeos promovidos como “antienvelhecimento” são, portanto, antes uma sobrecarga para corações idosos.
+- **Retenção hídrica e coração.** O hormônio do crescimento levou em idosos saudáveis com mais frequência a inchaço dos tecidos, dores articulares e síndrome do túnel do carpo (Liu 2007, PMID 17227934). Um estudo com ibutamoreno em idosos após fratura de quadril foi interrompido devido a um sinal de insuficiência cardíaca (Adunsky 2011, PMID 21067829). Justamente os peptídeos promovidos como “antienvelhecimento” são, portanto, antes uma sobrecarga para corações idosos.
 - **Vários medicamentos.** Idosos frequentemente tomam muitos medicamentos ao mesmo tempo. O esvaziamento gástrico retardado pode alterar a absorção deles, e combinações com medicamentos hipoglicemiantes aumentam o risco de hipoglicemia e quedas.
 
 ### Perda muscular na perda de peso intensa

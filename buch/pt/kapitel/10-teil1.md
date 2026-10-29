@@ -104,7 +104,7 @@ Justamente porque o termo se tornou tão popular, vale a pena examinar alguns eq
 
 **Peptídeos não são esteroides.** Anabolizantes como a testosterona são hormônios esteroides com uma estrutura química completamente diferente, formada por anéis de carbono. Eles agem por meio de receptores no interior das células. No meio fitness, os dois grupos às vezes são colocados no mesmo saco; química e farmacologicamente, têm pouco em comum.
 
-**Nem tudo o que age de modo parecido é um peptídeo.** A orforglipron, por exemplo, ativa o receptor de GLP-1 como a semaglutida, mas é uma molécula pequena, não peptídica. O ibutamoren (MK-677) estimula a liberação do hormônio do crescimento como alguns peptídeos, mas ele próprio não é um. Por isso, ambos são tratados neste livro apenas para fins de comparação.
+**Nem tudo o que age de modo parecido é um peptídeo.** A orforglipron, por exemplo, ativa o receptor de GLP-1 como a semaglutida, mas é uma molécula pequena, não peptídica. O ibutamoreno (MK-677) estimula a liberação do hormônio do crescimento como alguns peptídeos, mas ele próprio não é um. Por isso, ambos são tratados neste livro apenas para fins de comparação.
 
 **Um peptídeo no creme não é o mesmo que um peptídeo na injeção.** Peptídeos cosméticos como o palmitoil pentapeptídeo-4 são desenhados especialmente para agir na camada mais superficial da pele. Se e quão profundamente penetram é outra questão. Por outro lado, um peptídeo injetado como medicamento não atravessa simplesmente a pele quando aplicado sobre ela.
 

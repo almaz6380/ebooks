@@ -91,14 +91,14 @@ Em culturas de células, a afamelanotida tem efeitos antioxidantes. Em células 
 
 - **Efeitos colaterais frequentes, geralmente leves:** náusea, dor de cabeça, cansaço e reações no local de inserção do implante (Langendonk 2015, PMID 26132941; Wensink 2020, PMID 32186677; Biolcati 2015, PMID 25494545). Nos estudos de aprovação, eventos adversos graves não foram atribuídos ao princípio ativo.
 - **Pele e pintas mais escuras:** o bronzeamento é o efeito desejado. Pintas e sardas também escurecem. Em um estudo com 15 pessoas e 103 pintas, a dermatoscopia mostrou alterações passageiras, que haviam regredido após um ano; não surgiram pintas novas nem indícios de malignidade (Arisi 2021, PMID 33721252). A bula prevê exames regulares da pele.
-- **Alterações pigmentares da mucosa oral** foram descritas (de Baat 2020, PMID 32459219; a revisão, porém, mistura achados do implante aprovado com achados de melanotan do mercado cinzento), assim como um caso de aparente despigmentação com dermatite atópica simultânea (von Bartenwerffer 2011, PMID 21597671).
+- **Alterações pigmentares da mucosa oral** foram descritas (de Baat 2020, PMID 32459219; a revisão, porém, mistura achados do implante aprovado com achados de melanotan do mercado cinza), assim como um caso de aparente despigmentação com dermatite atópica simultânea (von Bartenwerffer 2011, PMID 21597671).
 - **Nenhum efeito sobre a vitamina D:** veja acima (Kluijver 2024, PMID 38634774).
 
 #### Em aberto
 
 Faltam em grande parte dados sobre gravidez; na prática, o tratamento é pausado. A afamelanotida não está aprovada para crianças e adolescentes (Barman-Aksözen 2026, PMID 41885813), embora a EPP geralmente comece na primeira infância. Alguns tratamentos de crianças fora da indicação aprovada foram publicados como relatos de caso (Minder 2026, PMID 41542313). Se a estimulação das células pigmentares ao longo de décadas influencia o risco de câncer de pele não pode ser dito de forma conclusiva com os períodos de observação disponíveis até agora.
 
-#### Diferença em relação ao mercado cinzento
+#### Diferença em relação ao mercado cinza
 
 Na internet, o “melanotan I” é oferecido como bronzeador. Esses produtos têm em comum com o implante aprovado apenas o nome do princípio ativo: são vendidos como pó para autoinjeção, pureza e teor não são testados, e não há controle médico da pele. Os dados de segurança do tratamento da EPP não podem ser transferidos para eles (Habbema 2017, PMID 28266027).
 
@@ -126,4 +126,4 @@ Na internet, o “melanotan I” é oferecido como bronzeador. Esses produtos t�
 
 ### Conclusão
 
-A afamelanotida é o peptídeo mais bem estudado e o único aprovado na UE que estimula o bronzeamento da pele pelo sistema das melanocortinas. Em adultos com protoporfiria eritropoética, prolongou em dois estudos randomizados o tempo sem dor sob a luz do sol e melhorou a qualidade de vida; coortes de longo prazo de vários países mostram altas taxas de continuidade, com efeitos colaterais predominantemente leves. No vitiligo, acelerou em um estudo randomizado a repigmentação sob fototerapia; os resultados de fase 3 ainda estão pendentes. O implante controlado em ambulatório especializado não tem praticamente nada em comum com o “melanotan I” do mercado cinzento para bronzeamento cosmético.
+A afamelanotida é o peptídeo mais bem estudado e o único aprovado na UE que estimula o bronzeamento da pele pelo sistema das melanocortinas. Em adultos com protoporfiria eritropoética, prolongou em dois estudos randomizados o tempo sem dor sob a luz do sol e melhorou a qualidade de vida; coortes de longo prazo de vários países mostram altas taxas de continuidade, com efeitos colaterais predominantemente leves. No vitiligo, acelerou em um estudo randomizado a repigmentação sob fototerapia; os resultados de fase 3 ainda estão pendentes. O implante controlado em ambulatório especializado não tem praticamente nada em comum com o “melanotan I” do mercado cinza para bronzeamento cosmético.

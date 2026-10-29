@@ -71,7 +71,7 @@ Esses resultados são achados em animais e em laboratório. Muitas substâncias 
 
 **Teórico:** o Semax influenciaria fatores de crescimento e genes imunológicos; as consequências a longo prazo dessas intervenções não foram estudadas. Faltam dados para gravidez, amamentação, crianças, epilepsia e doenças psiquiátricas.
 
-**Mercado cinzento:** fora da Rússia, o Semax é vendido geralmente como "Research Peptide" ou como solução nasal preparada pelo próprio usuário. Teor, pureza e esterilidade desses produtos não são verificados. Um laboratório de controle de medicamentos identificou Semax e Selank em 2017 e 2018 em preparados desconhecidos apreendidos e constatou, em uma pesquisa online, que esses "peptídeos nootrópicos" são oferecidos livremente como pó para injeção ou como spray nasal (Vanhee 2020, PMID 31667971). Mais sobre isso na Parte I e na Parte IV.
+**Mercado cinza:** fora da Rússia, o Semax é vendido geralmente como "Research Peptide" ou como solução nasal preparada pelo próprio usuário. Teor, pureza e esterilidade desses produtos não são verificados. Um laboratório de controle de medicamentos identificou Semax e Selank em 2017 e 2018 em preparados desconhecidos apreendidos e constatou, em uma pesquisa online, que esses "peptídeos nootrópicos" são oferecidos livremente como pó para injeção ou como spray nasal (Vanhee 2020, PMID 31667971). Mais sobre isso na Parte I e na Parte IV.
 
 ### Situação legal
 

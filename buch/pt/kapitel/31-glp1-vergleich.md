@@ -18,7 +18,7 @@ Uma comparação só é robusta quando duas substâncias foram atribuídas aleat
 
 ### Perda de peso nos estudos de aprovação
 
-A tabela a seguir mostra, para cada substância, o estudo controlado por placebo mais importante em adultos com sobrepeso ou obesidade *sem* diabetes. Indica-se a variação média do peso corporal na dose mais alta testada em comparação com placebo. Exenatida, dulaglutida e pramlintida não estão aprovadas para redução de peso e, por isso, não aparecem.
+A tabela a seguir mostra, para cada substância, o estudo controlado por placebo mais importante em adultos com sobrepeso ou obesidade *sem* diabetes. Indica-se a variação média do peso corporal na dose mais alta testada em comparação com placebo. Exenatida, dulaglutida e pranlintida não estão aprovadas para redução de peso e, por isso, não aparecem.
 
 | Substância | Estudo | Duração | Perda de peso vs. placebo |
 |---|---|---|---|
@@ -33,7 +33,7 @@ A tabela a seguir mostra, para cada substância, o estudo controlado por placebo
 | Mazdutida 6 mg | GLORY-1 (Ji 2025), PMID 40421736 | 48 semanas | −14,0% vs. +0,3% |
 | Maridebarte cafraglutida | Fase 2 (Jastreboff 2025), PMID 40549887 | 52 semanas | −12,3 a −16,2% vs. −2,5% |
 | Amicretina (injeção) | Fase 1b/2a (Dahl 2025), PMID 40550231 | 36 semanas | até −24,3% vs. −1,1% |
-| Orforgliprona 36 mg (comprimido, não é peptídeo) | ATTAIN-1 (Wharton 2025), PMID 40960239 | 72 semanas | −11,2% vs. −2,1% |
+| Orforglipron 36 mg (comprimido, não é peptídeo) | ATTAIN-1 (Wharton 2025), PMID 40960239 | 72 semanas | −11,2% vs. −2,1% |
 
 Para situar cada linha:
 
@@ -54,7 +54,7 @@ Nota-se uma escala: agonistas puros de GLP-1 alcançam em média cerca de 8 a 15
 | CagriSema | REDEFINE 2 (Davies 2025), PMID 40544432 | 68 semanas | −13,7% vs. −3,4% |
 | Retatrutida 12 mg | TRIUMPH-2 (Bellido 2026), PMID 42810372 | 80 semanas | −18,8% vs. −5,1% |
 | Survodutida | SYNCHRONIZE-2 (Wharton 2026), PMID 42820639 | 76 semanas | −8,2 / −9,8% vs. −3,9% |
-| Orforgliprona | ATTAIN-2 (Horn 2026), PMID 41275875 | 72 semanas | −5,1 a −9,6% vs. −2,5% |
+| Orforglipron | ATTAIN-2 (Horn 2026), PMID 41275875 | 72 semanas | −5,1 a −9,6% vs. −2,5% |
 
 Em todas as substâncias, o valor com diabetes é bem mais baixo do que sem, geralmente de um quarto a um terço. Esse padrão é tão constante que comparar um estudo em diabetes com um estudo em obesidade sem diabetes sempre leva a conclusões erradas.
 
@@ -69,7 +69,7 @@ O valor de HbA1c (“glicemia de longo prazo”) indica que proporção do pigme
 | Substância | Estudo | Duração | Variação da HbA1c (pontos percentuais) |
 |---|---|---|---|
 | Exenatida duas vezes ao dia | DeFronzo 2005, PMID 15855572 | 30 semanas | −0,78 vs. +0,08 (placebo) |
-| Pramlintida | Hollander 2003, PMID 12610038 | 52 semanas | −0,62 (além da insulina) |
+| Pranlintida | Hollander 2003, PMID 12610038 | 52 semanas | −0,62 (além da insulina) |
 | Liraglutida 1,8 mg | LEAD-3 (Garber 2009), PMID 18819705 | 52 semanas | −1,14 vs. −0,51 (glimepirida) |
 | Dulaglutida 4,5 mg | AWARD-11 (Frias 2021), PMID 33397768 | 36 semanas | −1,77 vs. −1,54 (1,5 mg) |
 | Semaglutida 1,0 mg | SUSTAIN 1 (Sorli 2017), PMID 28110911 | 30 semanas | −1,55 vs. −0,02 (placebo) |
@@ -79,11 +79,11 @@ O valor de HbA1c (“glicemia de longo prazo”) indica que proporção do pigme
 | Mazdutida | DREAMS-1 (Zhu 2026), PMID 41407859 | 24 semanas | −1,57 / −2,15 vs. −0,14 (placebo) |
 | CagriSema | REIMAGINE 1 (Aroda 2026), PMID 42251860 | 40 semanas | −1,8 vs. −0,1 (placebo) |
 | Maridebarte cafraglutida | Fase 2 (Jastreboff 2025), PMID 40549887 | 52 semanas | −1,2 a −1,6 vs. +0,1 (placebo) |
-| Orforgliprona | ACHIEVE-1 (Rosenstock 2025), PMID 40544435 | 40 semanas | −1,24 a −1,48 vs. −0,41 (placebo) |
+| Orforglipron | ACHIEVE-1 (Rosenstock 2025), PMID 40544435 | 40 semanas | −1,24 a −1,48 vs. −0,41 (placebo) |
 
-As substâncias mais antigas, exenatida e pramlintida, reduzem a HbA1c em menos de um ponto percentual, os agonistas semanais de GLP-1 em cerca de 1,5 ponto, a tirzepatida e os agonistas múltiplos mais novos em cerca de 2 pontos. Na glicemia, as diferenças entre as substâncias mais novas são menores do que no peso. O REIMAGINE 2 mostra isso de forma especialmente clara: ali, o CagriSema reduziu a HbA1c apenas 0,16 ponto percentual a mais do que a semaglutida 2,4 mg isolada (−1,91 vs. −1,75; Buse 2026, PMID 42251859). O acréscimo de amilina atua, portanto, sobretudo no peso.
+As substâncias mais antigas, exenatida e pranlintida, reduzem a HbA1c em menos de um ponto percentual, os agonistas semanais de GLP-1 em cerca de 1,5 ponto, a tirzepatida e os agonistas múltiplos mais novos em cerca de 2 pontos. Na glicemia, as diferenças entre as substâncias mais novas são menores do que no peso. O REIMAGINE 2 mostra isso de forma especialmente clara: ali, o CagriSema reduziu a HbA1c apenas 0,16 ponto percentual a mais do que a semaglutida 2,4 mg isolada (−1,91 vs. −1,75; Buse 2026, PMID 42251859). O acréscimo de amilina atua, portanto, sobretudo no peso.
 
-Uma diferença importante diz respeito à hipoglicemia. Como o GLP-1 só aumenta a secreção de insulina quando a glicemia está elevada, hipoglicemias são raras com esses medicamentos isoladamente. Elas se tornam mais frequentes quando insulina ou sulfonilureias são usadas ao mesmo tempo. Na pramlintida, que só é usada em associação à insulina prandial, a hipoglicemia grave é o risco mais importante (Edelman 2006, PMID 17003291).
+Uma diferença importante diz respeito à hipoglicemia. Como o GLP-1 só aumenta a secreção de insulina quando a glicemia está elevada, hipoglicemias são raras com esses medicamentos isoladamente. Elas se tornam mais frequentes quando insulina ou sulfonilureias são usadas ao mesmo tempo. Na pranlintida, que só é usada em associação à insulina prandial, a hipoglicemia grave é o risco mais importante (Edelman 2006, PMID 17003291).
 
 ### Estudos de desfechos cardiovasculares
 
@@ -99,7 +99,7 @@ Estudos de desfechos não medem valores laboratoriais, mas eventos que importam 
 | REWIND (dulaglutida; Gerstein 2019), PMID 31189511 | 9.901 com diabetes tipo 2, com ou sem doença cardiovascular prévia | mediana de 5,4 anos | 12,0% vs. 13,4%; HR 0,88 |
 | EXSCEL (exenatida semanal; Holman 2017), PMID 28910237 | 14.752 com diabetes tipo 2 | mediana de 3,2 anos | 11,4% vs. 12,2%; HR 0,91, superioridade não alcançada por pouco |
 | SURPASS-CVOT (tirzepatida contra dulaglutida; Nicholls 2025), PMID 41406444 | 13.165 com diabetes tipo 2 e doença vascular | vários anos | 12,2% vs. 13,1%; HR 0,92, não inferior |
-| ACHIEVE-4 (orforgliprona contra insulina glargina; Klein 2026), PMID 42815506 | 2.749 com diabetes tipo 2 e alto risco | mediana de 2 anos | 4,2% vs. 5,0% (MACE-4), não inferior |
+| ACHIEVE-4 (orforglipron contra insulina glargina; Klein 2026), PMID 42815506 | 2.749 com diabetes tipo 2 e alto risco | mediana de 2 anos | 4,2% vs. 5,0% (MACE-4), não inferior |
 
 O que esta tabela mostra:
 
@@ -109,7 +109,7 @@ O que esta tabela mostra:
 - **A tirzepatida foi testada contra um medicamento eficaz.** O SURPASS-CVOT não comparou a tirzepatida com placebo, mas com a dulaglutida, que no REWIND havia ela própria reduzido o risco. A tirzepatida não foi inferior; a superioridade formal não foi alcançada por pouco. Qual seria o benefício em relação a nenhum tratamento só pode ser estimado a partir disso por meio de modelos matemáticos.
 - **Insuficiência cardíaca:** na insuficiência cardíaca com fração de ejeção preservada e obesidade, a tirzepatida reduziu no SUMMIT, com 731 pessoas, o desfecho combinado de morte cardiovascular ou agravamento da insuficiência cardíaca (9,9% vs. 15,3%; HR 0,62; Packer 2025, PMID 39555826). A diferença se deveu a menos eventos de agravamento; mortes foram raras. No STEP-HFpEF, a semaglutida melhorou sintomas e distância de caminhada (Kosiborod 2023, PMID 37622681), mas o estudo não foi desenhado para desfechos duros.
 
-**Ainda pendente (estudos registrados):** para as substâncias mais novas faltam dados de desfechos. Estudos em andamento são o SURMOUNT-MMO, sobre tirzepatida na obesidade sem diabetes (NCT05556512), o TRIUMPH-Outcomes, sobre retatrutida (NCT06383390), o REDEFINE 3, sobre CagriSema (NCT05669755), um estudo sobre maridebarte cafraglutida (NCT07037433) e um sobre orforgliprona (NCT07241390). Até que esses resultados estejam disponíveis, permanece em aberto se uma perda de peso maior também leva a menos infartos e AVCs. Essa é uma expectativa plausível, mas não um resultado.
+**Ainda pendente (estudos registrados):** para as substâncias mais novas faltam dados de desfechos. Estudos em andamento são o SURMOUNT-MMO, sobre tirzepatida na obesidade sem diabetes (NCT05556512), o TRIUMPH-Outcomes, sobre retatrutida (NCT06383390), o REDEFINE 3, sobre CagriSema (NCT05669755), um estudo sobre maridebarte cafraglutida (NCT07037433) e um sobre orforglipron (NCT07241390). Até que esses resultados estejam disponíveis, permanece em aberto se uma perda de peso maior também leva a menos infartos e AVCs. Essa é uma expectativa plausível, mas não um resultado.
 
 ### Rins e fígado
 
@@ -140,7 +140,7 @@ O perfil de efeitos colaterais é semelhante em toda a classe: náusea, diarreia
 | Retatrutida | TRIUMPH-2 (Bellido 2026), PMID 42810372 | diarreia 27–34%, náusea 14–28% (placebo 13% e 8%, respectivamente) | 4–12% vs. 5% (incl. mortes) |
 | Survodutida | SYNCHRONIZE-1 (le Roux 2026), PMID 42253238 | 80,9 / 89,7% vs. 47,9% | sem informação no resumo |
 | Mazdutida | GLORY-1 (Ji 2025), PMID 40421736 | efeito colateral mais frequente | 0,5–1,5% vs. 1,0% |
-| Orforgliprona | ATTAIN-1 (Wharton 2025), PMID 40960239 | efeito colateral mais frequente | 5,3–10,3% vs. 2,7% |
+| Orforglipron | ATTAIN-1 (Wharton 2025), PMID 40960239 | efeito colateral mais frequente | 5,3–10,3% vs. 2,7% |
 
 Algumas observações:
 
@@ -168,7 +168,7 @@ A tabela a seguir reúne estudos randomizados em que duas substâncias da classe
 | REDEFINE 5 (Yamauchi 2026), PMID 42009015 | CagriSema vs. semaglutida 2,4 mg, Japão e Taiwan, cego | 68 semanas | Peso −18,4% vs. −11,9% |
 | SURPASS-2 (Frías 2021), PMID 34170647 | Tirzepatida vs. semaglutida 1 mg, diabetes tipo 2, aberto | 40 semanas | HbA1c −2,01 a −2,30 vs. −1,86; peso adicional −1,9 a −5,5 kg |
 | REIMAGINE 2 (Buse 2026), PMID 42251859 | CagriSema vs. semaglutida 2,4 mg, diabetes tipo 2 | 68 semanas | HbA1c −1,91 vs. −1,75 |
-| ACHIEVE-3 (Rosenstock 2026), PMID 41765029 | Orforgliprona vs. semaglutida comprimido, aberto | 52 semanas | HbA1c −1,91 vs. −1,47 (dose mais alta de cada) |
+| ACHIEVE-3 (Rosenstock 2026), PMID 41765029 | Orforglipron vs. semaglutida comprimido, aberto | 52 semanas | HbA1c −1,91 vs. −1,47 (dose mais alta de cada) |
 | SUSTAIN 7 (Pratley 2018), PMID 29397376 | Semaglutida vs. dulaglutida | 40 semanas | HbA1c −1,8 vs. −1,4; peso −6,5 vs. −3,0 kg |
 | SUSTAIN 10 (Capehorn 2020), PMID 31539622 | Semaglutida 1,0 mg vs. liraglutida 1,2 mg | 30 semanas | HbA1c −1,7 vs. −1,0; peso −5,8 vs. −1,9 kg |
 | SUSTAIN 3 (Ahmann 2018), PMID 29246950 | Semaglutida vs. exenatida semanal, aberto | 56 semanas | HbA1c −1,5 vs. −0,9; peso −5,6 vs. −1,9 kg |

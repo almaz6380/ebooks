@@ -16,7 +16,7 @@ A história dos três peptídeos de melanocortina desta parte começa na Univers
 Desses começos surgiram três caminhos:
 
 - **O melanotan I** foi desenvolvido, com o nome **afamelanotida**, como implante contra uma rara e dolorosa sensibilidade à luz e está aprovado na UE e nos EUA.
-- **O melanotan II** nunca foi aprovado, mas é difundido no mercado cinzento como “injeção de bronzeamento”.
+- **O melanotan II** nunca foi aprovado, mas é difundido no mercado cinza como “injeção de bronzeamento”.
 - **A bremelanotida**, uma variante do melanotan II, está aprovada nos EUA contra o baixo desejo sexual em mulheres.
 
 Um quarto princípio ativo de melanocortina, a setmelanotida, tem como alvo específico o MC4R e é usado em formas genéticas raras de obesidade; ele é tratado na Parte II · A. Quanto mais seletivamente um princípio ativo se liga a um receptor, mais direcionada é sua ação. O melanotan II se liga a quase todos e, por isso, reúne bronzeamento, náusea, perda de apetite e ereções em uma única molécula.
@@ -30,7 +30,7 @@ Os outros três peptídeos desta parte atuam sobre o eixo que controla a puberda
 | Peptídeo | Evidência | Aprovação | Em resumo |
 |---|---|---|---|
 | Bremelanotida (PT-141) | A | EUA (Vyleesi), não na UE | Desejo em mulheres com HSDD; efeito pequeno, muita náusea |
-| Melanotan II | C | nenhuma | Bronzeamento do mercado cinzento; relatos de caso sobre pintas e priapismo |
+| Melanotan II | C | nenhuma | Bronzeamento do mercado cinza; relatos de caso sobre pintas e priapismo |
 | Afamelanotida | A | UE e EUA (Scenesse) | Proteção contra a luz na EPP; vitiligo em estudo |
 | Kisspeptina | B | nenhuma | Maturação de óvulos na FIV, testes hormonais; pesquisa |
 | Ocitocina (spray nasal) | B | só como infusão (obstetrícia) | Autismo e confiança: grandes estudos negativos |
@@ -40,4 +40,4 @@ As informações sobre aprovação correspondem à situação em 2026 e devem se
 
 ### Orientação de leitura
 
-Quem se interessa por bronzeadores deve ler juntos os capítulos sobre melanotan II e afamelanotida: eles mostram como a mesma ideia básica pode ter resultados muito diferentes – uma vez como medicamento testado em um ambulatório especializado, outra vez como pó não testado vindo da internet. Para o tema sexualidade, vale a pena comparar bremelanotida, kisspeptina e ocitocina; as três mostram como os efeitos placebo são fortes nesse campo. Kisspeptina e gonadorelina explicam, juntas, o eixo hormonal da fertilidade. Informações gerais sobre produtos do mercado cinzento estão na Parte I; os riscos em comparação, na Parte IV.
+Quem se interessa por bronzeadores deve ler juntos os capítulos sobre melanotan II e afamelanotida: eles mostram como a mesma ideia básica pode ter resultados muito diferentes – uma vez como medicamento testado em um ambulatório especializado, outra vez como pó não testado vindo da internet. Para o tema sexualidade, vale a pena comparar bremelanotida, kisspeptina e ocitocina; as três mostram como os efeitos placebo são fortes nesse campo. Kisspeptina e gonadorelina explicam, juntas, o eixo hormonal da fertilidade. Informações gerais sobre produtos do mercado cinza estão na Parte I; os riscos em comparação, na Parte IV.

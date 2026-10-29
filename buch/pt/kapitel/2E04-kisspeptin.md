@@ -108,7 +108,7 @@ Em todos os estudos publicados, a kisspeptina foi bem tolerada. Vários estudos 
 - **Dados de longo prazo** faltam. Os estudos mais longos duraram oito semanas.
 - **Gravidez:** no uso em FIV, nasceram crianças; dados sistemáticos sobre a saúde dessas crianças não foram publicados.
 
-#### Mercado cinzento
+#### Mercado cinza
 
 A kisspeptina-10 é oferecida na internet como “research peptide” e promovida em fóruns para aumentar a testosterona ou a libido. Não existem estudos sobre esses produtos. Devido à meia-vida curta e à habituação com administração frequente, um efeito duradouro na autoaplicação não está comprovado; pureza e teor não são testados (veja a Parte I e a Parte IV).
 

@@ -43,7 +43,7 @@ No caso do BPC-157, há ainda um segundo problema: os estudos positivos em anima
 
 #### 2. Um valor medido ainda não é um benefício
 
-O CJC-1295 aumenta o hormônio do crescimento, o Epitalon ativa a telomerase em culturas de células, cápsulas de glutationa aumentam o nível de glutationa no sangue. Esses são valores substitutos (“desfechos substitutos”, ver Parte I). Se disso resulta algo que importa para as pessoas – mais força muscular, vida mais longa, menos doenças – é uma questão à parte, que exige estudos próprios. No caso do hormônio do crescimento, o exemplo do ibutamoren mostra quão grande pode ser a lacuna: em 65 idosos saudáveis, a massa magra aumentou 1,1 kg ao longo de um ano, mas força e função física não melhoraram (Nass 2008, PMID 18981485).
+O CJC-1295 aumenta o hormônio do crescimento, o Epitalon ativa a telomerase em culturas de células, cápsulas de glutationa aumentam o nível de glutationa no sangue. Esses são valores substitutos (“desfechos substitutos”, ver Parte I). Se disso resulta algo que importa para as pessoas – mais força muscular, vida mais longa, menos doenças – é uma questão à parte, que exige estudos próprios. No caso do hormônio do crescimento, o exemplo do ibutamoreno mostra quão grande pode ser a lacuna: em 65 idosos saudáveis, a massa magra aumentou 1,1 kg ao longo de um ano, mas força e função física não melhoraram (Nass 2008, PMID 18981485).
 
 #### 3. Confusão de substâncias
 

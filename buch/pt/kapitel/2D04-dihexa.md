@@ -22,7 +22,7 @@ Na internet, o Dihexa é frequentemente descrito como uma substância muitas vez
 
 ### Estudos em humanos
 
-**Dimensão do conjunto de estudos:** a consulta automatizada ao PubMed (outubro de 2026) **não** resultou em nenhum estudo em humanos com Dihexa; ao todo, o PubMed lista apenas 18 trabalhos com o termo de busca, entre eles vários sem relação com a substância. No ClinicalTrials.gov não há estudo registrado. Também uma busca direcionada adicional por relatos de caso, intoxicações ou análises de produtos do mercado cinzento ficou sem resultado.
+**Dimensão do conjunto de estudos:** a consulta automatizada ao PubMed (outubro de 2026) **não** resultou em nenhum estudo em humanos com Dihexa; ao todo, o PubMed lista apenas 18 trabalhos com o termo de busca, entre eles vários sem relação com a substância. No ClinicalTrials.gov não há estudo registrado. Também uma busca direcionada adicional por relatos de caso, intoxicações ou análises de produtos do mercado cinza ficou sem resultado.
 
 Não há, portanto, dados sobre eficácia, tolerabilidade, duração do efeito ou quantidades adequadas em humanos. Tudo o que se relata sobre um efeito em humanos vem de relatos de experiência em fóruns.
 
@@ -55,7 +55,7 @@ Uma revisão sistemática sobre derivados da angiotensina IV encontrou efeitos f
 
 **Teórico – e a ser levado a sério:** o sistema HGF/c-Met não é importante apenas para neurônios. A ativação do c-Met estimula divisão celular, migração celular e remodelação tecidual (Wright 2015, PMID 25649658). Na pesquisa sobre câncer, o c-Met é conhecido como impulsionador do crescimento e da disseminação de diversos tumores; vários medicamentos oncológicos aprovados bloqueiam justamente esse receptor. Uma substância que reforça continuamente esse sinal poderia, teoricamente, favorecer o crescimento de tumores não detectados. Se isso ocorre com o Dihexa nunca foi estudado – não há estudos de toxicidade de longo prazo publicamente acessíveis. (Mais sobre sinais de crescimento e risco de câncer na Parte IV.)
 
-**Mercado cinzento:** o Dihexa é vendido online como pó, cápsulas ou solução, em parte para ingestão, em parte para aplicação na pele. Teor e pureza não são verificados.
+**Mercado cinza:** o Dihexa é vendido online como pó, cápsulas ou solução, em parte para ingestão, em parte para aplicação na pele. Teor e pureza não são verificados.
 
 ### Situação legal
 

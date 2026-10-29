@@ -27,7 +27,7 @@ A pesquisa clínica com senolíticos está, portanto, ainda no início, e os pri
 
 ### Estudos em humanos
 
-**Dimensão do conjunto de estudos:** a consulta automatizada ao PubMed (outubro de 2026) **não** resultou em nenhum estudo em humanos com FOXO4-DRI; ao todo, o PubMed lista cerca de 20 trabalhos com o termo. No ClinicalTrials.gov não há estudo registrado. Também não foram encontrados relatos de caso sobre o uso em humanos nem análises de produtos do mercado cinzento.
+**Dimensão do conjunto de estudos:** a consulta automatizada ao PubMed (outubro de 2026) **não** resultou em nenhum estudo em humanos com FOXO4-DRI; ao todo, o PubMed lista cerca de 20 trabalhos com o termo. No ClinicalTrials.gov não há estudo registrado. Também não foram encontrados relatos de caso sobre o uso em humanos nem análises de produtos do mercado cinza.
 
 O mais próximo do ser humano é um estudo de laboratório com células de cartilagem humanas: em células multiplicadas em laboratório para um transplante de cartilagem, o FOXO4-DRI eliminou mais da metade das células muito multiplicadas (e, portanto, mais frequentemente senescentes), mas não melhorou a capacidade de formar nova cartilagem (Huang 2021, PMID 33996787).
 
@@ -56,7 +56,7 @@ Um importante achado contrário vem da pesquisa cardiovascular: em modelos de hi
 - **Cicatrização e reparo tecidual:** células senescentes também participam da cicatrização de feridas e da remodelação tecidual; sua eliminação pode perturbar esses processos.
 - **Reações imunológicas:** o peptídeo contém um segmento de uma proteína viral e é relativamente grande; reações imunológicas com administração repetida são concebíveis, mas não foram estudadas.
 
-**Mercado cinzento:** o FOXO4-DRI é oferecido online como "senolítico" para injeção, muitas vezes a preços altos. A fabricação de um peptídeo longo de D-aminoácidos é exigente; se os produtos vendidos realmente têm a sequência e a pureza corretas não é verificado.
+**Mercado cinza:** o FOXO4-DRI é oferecido online como "senolítico" para injeção, muitas vezes a preços altos. A fabricação de um peptídeo longo de D-aminoácidos é exigente; se os produtos vendidos realmente têm a sequência e a pureza corretas não é verificado.
 
 ### Situação legal
 

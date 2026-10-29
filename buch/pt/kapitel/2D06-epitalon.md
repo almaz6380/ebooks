@@ -79,7 +79,7 @@ A grande maioria desses estudos vem do grupo de Khavinson e Anisimov, geralmente
 - **Câncer:** a ativação da telomerase é uma característica central das células cancerosas. Uma substância que deveria ligar a telomerase poderia, teoricamente, favorecer o crescimento de células cancerosas já existentes e não detectadas. No estudo celular independente, também os telômeros de células de câncer de mama se alongaram (Al-Dulaimi 2025, PMID 40908429). O estudo em camundongos não encontrou aumento de tumores espontâneos (Anisimov 2003, PMID 14501183), mas dados animais não se transferem para décadas de uso humano.
 - **Sistema hormonal:** uma influência sobre a melatonina e a glândula pineal pode alterar o sono e os ritmos hormonais; isso não foi estudado em humanos.
 
-**Mercado cinzento:** o Epitalon está entre os "peptídeos de longevidade" mais vendidos e é oferecido como pó para injeção ou como spray nasal. Pureza, teor e esterilidade não são verificados. Uma revisão independente cita questões não resolvidas sobre qualidade do produto, reações imunológicas e risco de câncer (Jain 2026, PMID 42884164).
+**Mercado cinza:** o Epitalon está entre os "peptídeos de longevidade" mais vendidos e é oferecido como pó para injeção ou como spray nasal. Pureza, teor e esterilidade não são verificados. Uma revisão independente cita questões não resolvidas sobre qualidade do produto, reações imunológicas e risco de câncer (Jain 2026, PMID 42884164).
 
 ### Situação legal
 

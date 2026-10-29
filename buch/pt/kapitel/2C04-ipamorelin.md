@@ -49,7 +49,7 @@ Para a clínica, o interesse estava sobretudo no efeito intestinal: após cirurg
 
 **Desconhecido:** não há dados sobre o uso repetido ao longo de semanas ou meses, como descrito na internet. Teoricamente, seriam de esperar os efeitos de níveis elevados de GH (retenção de líquidos, queixas articulares, redução da sensibilidade à insulina), bem como, via receptor de grelina, aumento do apetite. Sobre a questão de um risco de câncer por IGF-1 continuamente elevado, veja a introdução deste grupo e a Parte IV.
 
-**Mercado cinzento:** análises laboratoriais de produtos apreendidos encontraram "Gly-ipamorelina", ou seja, ipamorelina com um aminoácido adicional, não declarado, no início – provavelmente para burlar testes antidoping (Krug 2018, PMID 29864719; Gajda 2019, PMID 30136411). Como tais modificações se comportam no organismo é desconhecido.
+**Mercado cinza:** análises laboratoriais de produtos apreendidos encontraram "Gly-ipamorelina", ou seja, ipamorelina com um aminoácido adicional, não declarado, no início – provavelmente para burlar testes antidoping (Krug 2018, PMID 29864719; Gajda 2019, PMID 30136411). Como tais modificações se comportam no organismo é desconhecido.
 
 ### Situação legal
 
@@ -61,8 +61,8 @@ Para a clínica, o interesse estava sobretudo no efeito intestinal: após cirurg
 
 ### Estudos em andamento e perspectivas
 
-No ClinicalTrials.gov, em outubro de 2026, não há registro de estudo em andamento que examine a ipamorelina como medicamento em teste. *Avaliação do autor:* após o resultado negativo no íleo pós-operatório, falta uma empresa que continue o desenvolvimento da substância. Novos dados são mais prováveis a partir de relatos de caso sobre usos do mercado cinzento.
+No ClinicalTrials.gov, em outubro de 2026, não há registro de estudo em andamento que examine a ipamorelina como medicamento em teste. *Avaliação do autor:* após o resultado negativo no íleo pós-operatório, falta uma empresa que continue o desenvolvimento da substância. Novos dados são mais prováveis a partir de relatos de caso sobre usos do mercado cinza.
 
 ### Conclusão
 
-A ipamorelina é um agonista do receptor de grelina desenvolvido de forma direcionada, que em animais libera hormônio do crescimento sem secreção relevante de hormônios do estresse. O único estudo de eficácia publicado em humanos – 117 pacientes após cirurgias intestinais – não encontrou benefício significativo; um estudo subsequente maior permaneceu sem publicação. Para os usos anunciados na internet (ganho muscular, perda de gordura, sono, anti-aging) não há estudos em humanos, e produtos do mercado cinzento comprovadamente contêm também moléculas modificadas.
+A ipamorelina é um agonista do receptor de grelina desenvolvido de forma direcionada, que em animais libera hormônio do crescimento sem secreção relevante de hormônios do estresse. O único estudo de eficácia publicado em humanos – 117 pacientes após cirurgias intestinais – não encontrou benefício significativo; um estudo subsequente maior permaneceu sem publicação. Para os usos anunciados na internet (ganho muscular, perda de gordura, sono, anti-aging) não há estudos em humanos, e produtos do mercado cinza comprovadamente contêm também moléculas modificadas.

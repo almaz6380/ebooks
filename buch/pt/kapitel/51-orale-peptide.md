@@ -47,14 +47,14 @@ Nenhuma das duas substâncias é um peptídeo do mercado cinza; são moléculas 
 
 ### Caminho 2: pequenas moléculas em vez de peptídeos
 
-#### Orforgliprona
+#### Orforglipron
 
-A orforgliprona não é um peptídeo, mas uma pequena molécula produzida quimicamente que ativa o receptor de GLP-1 (em detalhe no capítulo Orforgliprona, na Parte II · A). Ela é tomada como um comprimido comum, uma vez ao dia, segundo os estudos sem levar em conta refeições ou quantidade de água (Rosenstock 2026, PMID 41765029).
+A orforglipron não é um peptídeo, mas uma pequena molécula produzida quimicamente que ativa o receptor de GLP-1 (em detalhe no capítulo Orforglipron, na Parte II · A). Ela é tomada como um comprimido comum, uma vez ao dia, segundo os estudos sem levar em conta refeições ou quantidade de água (Rosenstock 2026, PMID 41765029).
 
 - **Peso:** no ATTAIN-1, com 3.127 adultos com obesidade, o peso caiu após 72 semanas, na dose mais alta, 11,2%, com placebo 2,1%. Por efeitos colaterais, abandonaram 5,3 a 10,3% (placebo 2,7%) (Wharton 2025, PMID 40960239).
-- **Glicemia:** na comparação aberta com o comprimido de semaglutida (ACHIEVE-3, 1.698 participantes), a orforgliprona reduziu mais a HbA1c após 52 semanas, nas doses mais altas de cada um, 1,91 contra 1,47 ponto percentual (Rosenstock 2026, PMID 41765029).
-- **Manter o peso:** no ATTAIN-MAINTAIN, participantes passaram, após uma perda de peso com tirzepatida ou semaglutida injetáveis, para orforgliprona ou placebo. Após 52 semanas, mantiveram com orforgliprona 74,7% e 79,3%, respectivamente, da sua perda de peso, com placebo 49,2% e 37,6%. Não houve um grupo que simplesmente continuasse recebendo a injeção; os próprios autores citam isso como limitação (Aronne 2026, PMID 42120723).
-- **Fígado:** em pequenas moléculas de GLP-1, os valores hepáticos eram uma preocupação especial. Uma análise agrupada de sete estudos de fase 3 com 11.220 participantes não encontrou, para a orforgliprona, nenhum caso que preenchesse os critérios de lesão hepática induzida por medicamento (Wharton 2026, PMID 42338042).
+- **Glicemia:** na comparação aberta com o comprimido de semaglutida (ACHIEVE-3, 1.698 participantes), a orforglipron reduziu mais a HbA1c após 52 semanas, nas doses mais altas de cada um, 1,91 contra 1,47 ponto percentual (Rosenstock 2026, PMID 41765029).
+- **Manter o peso:** no ATTAIN-MAINTAIN, participantes passaram, após uma perda de peso com tirzepatida ou semaglutida injetáveis, para orforglipron ou placebo. Após 52 semanas, mantiveram com orforglipron 74,7% e 79,3%, respectivamente, da sua perda de peso, com placebo 49,2% e 37,6%. Não houve um grupo que simplesmente continuasse recebendo a injeção; os próprios autores citam isso como limitação (Aronne 2026, PMID 42120723).
+- **Fígado:** em pequenas moléculas de GLP-1, os valores hepáticos eram uma preocupação especial. Uma análise agrupada de sete estudos de fase 3 com 11.220 participantes não encontrou, para a orforglipron, nenhum caso que preenchesse os critérios de lesão hepática induzida por medicamento (Wharton 2026, PMID 42338042).
 
 #### Nem toda pequena molécula chega lá
 
@@ -62,24 +62,24 @@ Que o caminho é difícil mostra a **danugliprona**, da Pfizer. Em um estudo de 
 
 ### Comprimido peptídico ou pequena molécula: uma comparação
 
-Falta uma comparação direta do comprimido de semaglutida com a orforgliprona na obesidade. Uma análise comparou as duas indiretamente, cotejando os dados individuais do OASIS 4 com os dados agregados publicados do ATTAIN-1. Segundo ela, a perda de peso com o comprimido de semaglutida foi cerca de 3 pontos percentuais maior, e abandonos por efeitos colaterais foram mais frequentes com orforgliprona (Michalak 2026, PMID 42225305). Essas comparações indiretas devem ser lidas com cautela: apenas para um dos dois estudos havia dados individuais disponíveis, e eram os do programa da semaglutida.
+Falta uma comparação direta do comprimido de semaglutida com a orforglipron na obesidade. Uma análise comparou as duas indiretamente, cotejando os dados individuais do OASIS 4 com os dados agregados publicados do ATTAIN-1. Segundo ela, a perda de peso com o comprimido de semaglutida foi cerca de 3 pontos percentuais maior, e abandonos por efeitos colaterais foram mais frequentes com orforglipron (Michalak 2026, PMID 42225305). Essas comparações indiretas devem ser lidas com cautela: apenas para um dos dois estudos havia dados individuais disponíveis, e eram os do programa da semaglutida.
 
 | Característica | Injeção peptídica | Comprimido peptídico | Pequena molécula |
 |---|---|---|---|
-| Exemplo | Semaglutida, tirzepatida | Comprimido de semaglutida, comprimido de zenagamtida | Orforgliprona |
+| Exemplo | Semaglutida, tirzepatida | Comprimido de semaglutida, comprimido de zenagamtida | Orforglipron |
 | Tomada | semanal a mensal | diária, em jejum, com regras de tomada | diária, sem regras alimentares |
 | Necessidade de substância | baixa | muito alta (absorção de cerca de 1%) | normal para comprimidos |
 | Perda de peso nos estudos | a mais alta | semelhante à da injeção de semaglutida | um pouco menor |
 | Degradação, interações | como proteína, quase sem interações | como proteína | por enzimas hepáticas, interações possíveis |
 | Desfechos duros | comprovados para várias substâncias | comprovados no diabetes tipo 2 (SOUL) | estudo de desfechos em andamento até 2031 |
 
-O ponto “interações” merece uma explicação: peptídeos são degradados no corpo como outras proteínas. Pequenas moléculas como a orforgliprona, por outro lado, são metabolizadas por enzimas hepáticas, pelas quais passam também muitos outros medicamentos. Por isso, foram realizados numerosos estudos de interação para a orforgliprona (ver capítulo Orforgliprona).
+O ponto “interações” merece uma explicação: peptídeos são degradados no corpo como outras proteínas. Pequenas moléculas como a orforglipron, por outro lado, são metabolizadas por enzimas hepáticas, pelas quais passam também muitos outros medicamentos. Por isso, foram realizados numerosos estudos de interação para a orforglipron (ver capítulo Orforglipron).
 
 ### Questões em aberto
 
 **Toma-se um comprimido diário com mais regularidade do que uma injeção semanal?** Isso não está de forma alguma decidido. Quem troca uma injeção por semana por sete comprimidos tem sete oportunidades por semana de esquecer uma dose. No comprimido de semaglutida, soma-se que uma refeição cedo demais pode praticamente impedir a absorção (Vahora 2026, PMID 42687069). Como isso afeta o efeito no dia a dia, os estudos de aprovação, com seus participantes acompanhados de perto, não mostram.
 
-**Há desfechos duros para comprimidos na obesidade?** Ainda não. O SOUL envolveu pessoas com diabetes tipo 2. O estudo cardiovascular com orforgliprona vai até 2031 (NCT07241390), e a orforgliprona está sendo testada até em pessoas com sobrepeso, para impedir a progressão para obesidade ou para doenças decorrentes (ATTAIN-NOW, NCT07794579, 2.001 participantes, término em setembro de 2030).
+**Há desfechos duros para comprimidos na obesidade?** Ainda não. O SOUL envolveu pessoas com diabetes tipo 2. O estudo cardiovascular com orforglipron vai até 2031 (NCT07241390), e a orforglipron está sendo testada até em pessoas com sobrepeso, para impedir a progressão para obesidade ou para doenças decorrentes (ATTAIN-NOW, NCT07794579, 2.001 participantes, término em setembro de 2030).
 
 **O comprimido é o recurso para a manutenção?** O ATTAIN-MAINTAIN sugere que a troca da injeção por um comprimido pode manter grande parte da perda de peso. Se isso é tão bom quanto continuar com a injeção não foi testado.
 
@@ -94,7 +94,7 @@ A injeção não vai desaparecer, mas seu monopólio acabou. Para a fase de perd
 ### O essencial em resumo
 
 - Peptídeos em comprimido só funcionam com grande esforço técnico. No comprimido de semaglutida, cerca de 1% da substância chega ao sangue; mesmo assim, ele alcança nos estudos perdas de peso semelhantes às da injeção.
-- Pequenas moléculas como a orforgliprona contornam o problema, mas produziram nos estudos um pouco menos de perda de peso e são degradadas por enzimas hepáticas.
+- Pequenas moléculas como a orforglipron contornam o problema, mas produziram nos estudos um pouco menos de perda de peso e são degradadas por enzimas hepáticas.
 - Peptídeos orais estão se tornando uma classe de medicamentos própria também fora do metabolismo, por exemplo contra o colesterol alto (enlicitida) e a psoríase (icotrokinra).
 - Em aberto estão os dados de longo prazo, os desfechos duros na obesidade, a adesão ao tratamento no dia a dia e os preços.
 - Medicamentos devem ser usados apenas com acompanhamento médico e conforme a bula profissional; peptídeos “orais” do mercado cinza não têm nada a ver com esses desenvolvimentos.

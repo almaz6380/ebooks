@@ -25,7 +25,7 @@ Na internet, esses nomes são frequentemente confundidos. “Melanotan” sem co
 
 ### Estudos em humanos
 
-**Dimensão do conjunto de estudos (consulta em outubro de 2026):** a busca automatizada deste livro encontrou **8** estudos em humanos no PubMed (`humanstudien_alle`) e um único registro no ClinicalTrials.gov, que, ao ser verificado, se revelou não confiável (veja Perspectivas) – não há, portanto, **nenhum** (0) estudo registrado sólido. Também o número do PubMed engana: quatro dos oito estudos investigaram o melanotan I, isto é, a futura afamelanotida, e não o melanotan II. Sobre o próprio melanotan II, há apenas três pequenos estudos originais e um resumo do mesmo grupo de pesquisa. Muito mais extensa é a literatura sobre efeitos colaterais: relatos de caso, séries de casos, análises de fóruns da internet e exames laboratoriais de produtos do mercado cinzento.
+**Dimensão do conjunto de estudos (consulta em outubro de 2026):** a busca automatizada deste livro encontrou **8** estudos em humanos no PubMed (`humanstudien_alle`) e um único registro no ClinicalTrials.gov, que, ao ser verificado, se revelou não confiável (veja Perspectivas) – não há, portanto, **nenhum** (0) estudo registrado sólido. Também o número do PubMed engana: quatro dos oito estudos investigaram o melanotan I, isto é, a futura afamelanotida, e não o melanotan II. Sobre o próprio melanotan II, há apenas três pequenos estudos originais e um resumo do mesmo grupo de pesquisa. Muito mais extensa é a literatura sobre efeitos colaterais: relatos de caso, séries de casos, análises de fóruns da internet e exames laboratoriais de produtos do mercado cinza.
 
 #### Os estudos clínicos da década de 1990
 
@@ -92,9 +92,9 @@ Uma revisão de todos os casos publicados de pintas de aparecimento súbito (179
 - **Edema cerebral:** um relato de caso descreve uma síndrome de encefalopatia posterior reversível (PRES), um edema na região occipital do cérebro, em associação com o melanotan (Kaski 2013, PMID 23648958).
 - **Inflamação cutânea:** também foi descrito um pioderma gangrenoso, uma doença de pele ulcerativa grave (Dickson 2025, PMID 41487785).
 
-#### Riscos do mercado cinzento
+#### Riscos do mercado cinza
 
-Um laboratório comprou frascos de melanotan II em três lojas online. Todos prometiam 10 mg por frasco; na realidade, continham entre 4,32 e 8,84 mg. Nos produtos de duas lojas, havia 4,1 a 5,9% de impurezas desconhecidas (Breindahl 2015, PMID 24771717). Um laboratório forense determinou, em uma amostra apreendida, uma pureza de 30% (Deville 2024, PMID 39302005). Somam-se a isso os riscos do preparo não estéril e de agulhas compartilhadas, para os quais especialistas chamam expressamente a atenção (Gilhooley 2021, PMID 34464955). Mais informações sobre pureza e falsificações no mercado cinzento estão na Parte I e na Parte IV.
+Um laboratório comprou frascos de melanotan II em três lojas online. Todos prometiam 10 mg por frasco; na realidade, continham entre 4,32 e 8,84 mg. Nos produtos de duas lojas, havia 4,1 a 5,9% de impurezas desconhecidas (Breindahl 2015, PMID 24771717). Um laboratório forense determinou, em uma amostra apreendida, uma pureza de 30% (Deville 2024, PMID 39302005). Somam-se a isso os riscos do preparo não estéril e de agulhas compartilhadas, para os quais especialistas chamam expressamente a atenção (Gilhooley 2021, PMID 34464955). Mais informações sobre pureza e falsificações no mercado cinza estão na Parte I e na Parte IV.
 
 ### Situação legal
 
@@ -114,4 +114,4 @@ Um laboratório comprou frascos de melanotan II em três lojas online. Todos pro
 
 ### Conclusão
 
-O melanotan II é um peptídeo de pesquisa da década de 1990, testado em apenas cerca de duas dúzias de pessoas em pequenos estudos e que nunca recebeu aprovação. Ele bronzeia a pele, mas, por meio de receptores no cérebro, provoca regularmente náusea e ereções espontâneas. Relatos de caso descrevem pintas novas e alteradas, melanomas, priapismo e destruição muscular; uma relação causal com o câncer de pele não está comprovada, mas também não está excluída. Em análises laboratoriais, produtos do mercado cinzento continham menos princípio ativo do que o declarado e impurezas desconhecidas. Os dados não são suficientes para considerar o melanotan II seguro.
+O melanotan II é um peptídeo de pesquisa da década de 1990, testado em apenas cerca de duas dúzias de pessoas em pequenos estudos e que nunca recebeu aprovação. Ele bronzeia a pele, mas, por meio de receptores no cérebro, provoca regularmente náusea e ereções espontâneas. Relatos de caso descrevem pintas novas e alteradas, melanomas, priapismo e destruição muscular; uma relação causal com o câncer de pele não está comprovada, mas também não está excluída. Em análises laboratoriais, produtos do mercado cinza continham menos princípio ativo do que o declarado e impurezas desconhecidas. Os dados não são suficientes para considerar o melanotan II seguro.

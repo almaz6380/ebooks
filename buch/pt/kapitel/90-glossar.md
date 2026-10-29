@@ -12,7 +12,7 @@ As explicações a seguir são deliberadamente breves. Apresentações mais deta
 
 **Albumina**: a proteína mais abundante do plasma sanguíneo. Alguns medicamentos peptídicos são construídos de modo a se ligar à albumina e, com isso, permanecer mais tempo no corpo.
 
-**Amilina**: um hormônio peptídico secretado pelo pâncreas junto com a insulina, que influencia, entre outros, a saciedade e o esvaziamento gástrico. Variantes como a pramlintida e a cagrilintida são usadas ou pesquisadas como medicamentos.
+**Amilina**: um hormônio peptídico secretado pelo pâncreas junto com a insulina, que influencia, entre outros, a saciedade e o esvaziamento gástrico. Variantes como a pranlintida e a cagrilintida são usadas ou pesquisadas como medicamentos.
 
 **Aminoácido**: componente básico de peptídeos e proteínas. O ser humano usa essencialmente 20 aminoácidos padrão, que são unidos em cadeias por ligações peptídicas.
 

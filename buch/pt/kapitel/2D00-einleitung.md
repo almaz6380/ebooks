@@ -18,7 +18,7 @@ Quem procura essas substâncias na internet chega rapidamente a fóruns, influen
 2. **Do nível sanguíneo para a injeção:** o fato de pessoas com níveis baixos de MOTS-c ou humanina adoecerem com mais frequência não prova que uma suplementação traga saúde.
 3. **Do mecanismo para o benefício:** um mecanismo coerente – "protege as mitocôndrias", "alonga os telômeros" – não é eficácia. O SS-31 é o melhor exemplo disso: foi testado em vários grandes estudos e não atingiu os desfechos principais no infarto do miocárdio, na insuficiência cardíaca e na miopatia mitocondrial.
 
-Além disso, quase todas essas substâncias são vendidas no mercado cinzento como "Research Peptides" – sem controle de qualidade (veja a Parte I e a Parte IV).
+Além disso, quase todas essas substâncias são vendidas no mercado cinza como "Research Peptides" – sem controle de qualidade (veja a Parte I e a Parte IV).
 
 ### A pesquisa russa de peptídeos e sua situação de publicação
 

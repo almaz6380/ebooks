@@ -30,7 +30,7 @@ Duas substâncias deste grupo não se encaixam nesse esquema: a **setmelanotida*
 | Cagrilintida / CagriSema | B | não | amilina, combinada com semaglutida |
 | Amicretina (zenagamtida) | B | não | amilina e GLP-1 em uma só molécula |
 | Maridebarte cafraglutida | B | não | bloqueador de GIP, aplicação mensal |
-| Pramlintida | A | só EUA | primeiro medicamento à base de amilina |
+| Pranlintida | A | só EUA | primeiro medicamento à base de amilina |
 | Setmelanotida | A | UE, EUA | obesidade genética rara |
 | AOD-9604 | D | não | fragmento do hormônio do crescimento, mercado cinza |
 | Orforglipron | A | em aberto | não é peptídeo, comprimido (comparação) |
@@ -39,7 +39,7 @@ Os níveis de evidência são explicados na Parte I. As informações sobre apro
 
 ### Orientação de leitura
 
-Os capítulos seguem, de modo geral, a evolução histórica: dos agonistas de GLP-1 estabelecidos (da exenatida à semaglutida), passando pelas substâncias combinadas (da tirzepatida à maridebarte cafraglutida), aos casos especiais (pramlintida, setmelanotida, AOD-9604) e, por fim, à orforglipron, incluída para comparação por não ser um peptídeo.
+Os capítulos seguem, de modo geral, a evolução histórica: dos agonistas de GLP-1 estabelecidos (da exenatida à semaglutida), passando pelas substâncias combinadas (da tirzepatida à maridebarte cafraglutida), aos casos especiais (pranlintida, setmelanotida, AOD-9604) e, por fim, à orforglipron, incluída para comparação por não ser um peptídeo.
 
 Quem quer ter uma visão geral rápida começa pela semaglutida e pela tirzepatida – todas as outras são medidas por elas. As comparações diretas de perda de peso, redução da glicose, resultados cardiovasculares e efeitos colaterais entre todas as substâncias você encontra na Parte III. Riscos da classe, como problemas na vesícula biliar e no pâncreas, perda muscular e questões sobre a tireoide, são tratados em detalhe na Parte IV.
 

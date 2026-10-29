@@ -13,14 +13,14 @@ Os dados de registro refletem a situação de outubro de 2026.
 
 **Assegurado:**
 
-- Até 2032 terminam pelo menos nove grandes estudos de desfechos e hepáticos: SURMOUNT-MMO, sobre tirzepatida (NCT05556512), e REDEFINE 3, sobre CagriSema (NCT05669755), em 2027; TRIUMPH-Outcomes, sobre retatrutida (NCT06383390), e LIVERAGE-Cirrhosis, sobre survodutida (NCT06632457), em 2029; MARITIME-CV e MARITIME-HF, sobre maridebarte cafraglutida (NCT07037433, NCT07037459), bem como AMBIENCE, sobre zenagamtida (NCT07861100), em 2030; ATTAIN-Outcomes, sobre orforgliprona (NCT07241390), em 2031; e SYNERGY-Outcomes, sobre tirzepatida e retatrutida (NCT07165028), em 2032.
+- Até 2032 terminam pelo menos nove grandes estudos de desfechos e hepáticos: SURMOUNT-MMO, sobre tirzepatida (NCT05556512), e REDEFINE 3, sobre CagriSema (NCT05669755), em 2027; TRIUMPH-Outcomes, sobre retatrutida (NCT06383390), e LIVERAGE-Cirrhosis, sobre survodutida (NCT06632457), em 2029; MARITIME-CV e MARITIME-HF, sobre maridebarte cafraglutida (NCT07037433, NCT07037459), bem como AMBIENCE, sobre zenagamtida (NCT07861100), em 2030; ATTAIN-Outcomes, sobre orforglipron (NCT07241390), em 2031; e SYNERGY-Outcomes, sobre tirzepatida e retatrutida (NCT07165028), em 2032.
 - Substâncias de amilina pura estão em fase 3: eloralintida (ENLIGHTEN-1, NCT07321886, término em 2030) e petrelintida (ZUPREME-3, NCT07843498, término em 2029).
-- Para CagriSema e orforgliprona, segundo os respectivos capítulos, pedidos de aprovação foram apresentados ou anunciados; para a retatrutida, são esperados após a conclusão do TRIUMPH-1 e do TRIUMPH-2 (situação em outubro de 2026, verificar).
+- Para CagriSema e orforglipron, segundo os respectivos capítulos, pedidos de aprovação foram apresentados ou anunciados; para a retatrutida, são esperados após a conclusão do TRIUMPH-1 e do TRIUMPH-2 (situação em outubro de 2026, verificar).
 - Em doze países, a proteção patentária da semaglutida termina em 2026, entre eles grandes mercados fora da UE e dos EUA (Levi 2026, PMID 42437874). Na UE e nos EUA, genéricos são esperados por volta de 2031/2032 (situação em 2026, verificar).
 
 **Avaliação do autor:** até 2030, várias novas classes de substâncias deverão estar aprovadas na UE – pelo menos uma combinação com amilina, um agonista triplo e uma pequena molécula em comprimido. Justificativa: os programas de fase 3 estão bem avançados, os resultados publicados até agora são claramente positivos, e os fabricantes apresentaram ou anunciaram pedidos de aprovação. Uma perda de peso média de 20 a 25% em estudos não deverá mais ser exceção. Mais importante do que um novo recorde, porém, será a pergunta sobre qual substância é adequada para qual pessoa: quem precisa sobretudo de proteção cardíaca, quem tem esteatose hepática, quem quer evitar injeções, quem tolera mal efeitos colaterais. Entre 2030 e 2035, espero preços claramente mais baixos para a semaglutida na Europa por meio de genéricos, enquanto as substâncias mais novas continuarão caras. Considero real o risco de um atendimento de duas classes – os medicamentos mais potentes para quem paga do próprio bolso, os mais antigos para todos os demais.
 
-### Grupo B – Cicatrização, regeneração e sistema imunológico
+### Grupo B – Cura, regeneração e sistema imunológico
 
 **Assegurado:**
 
@@ -35,7 +35,7 @@ Os dados de registro refletem a situação de outubro de 2026.
 
 **Assegurado:**
 
-- O ibutamoren (não é peptídeo) está sendo testado como LUM-201 em um estudo de fase 3 com 150 crianças com deficiência de hormônio do crescimento (NCT06948214, término em janeiro de 2028). Um estudo de fase 2 com 202 idosos com obesidade deverá investigar o LUM-201 em associação à semaglutida (NCT07754045, término em fevereiro de 2028).
+- O ibutamoreno (não é peptídeo) está sendo testado como LUM-201 em um estudo de fase 3 com 150 crianças com deficiência de hormônio do crescimento (NCT06948214, término em janeiro de 2028). Um estudo de fase 2 com 202 idosos com obesidade deverá investigar o LUM-201 em associação à semaglutida (NCT07754045, término em fevereiro de 2028).
 - O registro de longo prazo da mecasermina segue até o final de 2027 (NCT00903110).
 - Para sermorelina, CJC-1295, ipamorelina, GHRP-2, GHRP-6, hexarelina e IGF-1 LR3, nenhum estudo em andamento está registrado (ver os respectivos capítulos).
 
@@ -82,13 +82,13 @@ Os dados de registro refletem a situação de outubro de 2026.
 
 #### Terapia de manutenção
 
-**Assegurado:** após a suspensão, grande parte do peso perdido volta. Na extensão do STEP 1, foram em média dois terços um ano após o fim do tratamento com semaglutida (Wilding 2022, PMID 35441470). No SURMOUNT-4, participantes recuperaram, após a troca de tirzepatida por placebo, 14,0% do peso no ano seguinte (Aronne 2024, PMID 38078870). A troca da injeção pela orforgliprona manteve, no ATTAIN-MAINTAIN, grande parte da perda de peso (Aronne 2026, PMID 42120723). Outros estudos sobre manutenção do peso estão em andamento (TRIUMPH-6, NCT06859268; troca por substâncias mensais, NCT07575399, NCT07845500). Modelos sugerem que administrações menos frequentes poderiam manter parte do efeito; isso ainda não foi testado em estudos e não é base para alterações do tratamento por conta própria (Cengiz 2025, PMID 39950222).
+**Assegurado:** após a suspensão, grande parte do peso perdido volta. Na extensão do STEP 1, foram em média dois terços um ano após o fim do tratamento com semaglutida (Wilding 2022, PMID 35441470). No SURMOUNT-4, participantes recuperaram, após a troca de tirzepatida por placebo, 14,0% do peso no ano seguinte (Aronne 2024, PMID 38078870). A troca da injeção pela orforglipron manteve, no ATTAIN-MAINTAIN, grande parte da perda de peso (Aronne 2026, PMID 42120723). Outros estudos sobre manutenção do peso estão em andamento (TRIUMPH-6, NCT06859268; troca por substâncias mensais, NCT07575399, NCT07845500). Modelos sugerem que administrações menos frequentes poderiam manter parte do efeito; isso ainda não foi testado em estudos e não é base para alterações do tratamento por conta própria (Cengiz 2025, PMID 39950222).
 
 **Avaliação do autor:** até 2030, um modelo em etapas vai se impor: primeiro uma fase com uma substância muito eficaz, depois uma manutenção com um comprimido, uma preparação mensal ou uma intensidade menor. Justificativa: vários fabricantes testam exatamente essa sequência, e ela é atraente para os pagadores. Se a manutenção será necessária por toda a vida ou se, em algumas pessoas, uma suspensão sem grande recuperação de peso será possível continuará sendo uma das questões em aberto mais importantes.
 
 #### Personalização
 
-**Assegurado:** a medicina de precisão na obesidade já existe para formas genéticas raras: a setmelanotida está aprovada apenas para determinados defeitos genéticos (ver capítulo Setmelanotida). A orforgliprona está sendo testada em um estudo com 2.001 participantes com sobrepeso para impedir a progressão para obesidade ou para doenças decorrentes (ATTAIN-NOW, NCT07794579, término em setembro de 2030). A OMS anuncia que vai elaborar a seguir critérios sobre quem deve ser tratado primeiro quando os recursos forem limitados (Celletti 2026, PMID 41324410).
+**Assegurado:** a medicina de precisão na obesidade já existe para formas genéticas raras: a setmelanotida está aprovada apenas para determinados defeitos genéticos (ver capítulo Setmelanotida). A orforglipron está sendo testada em um estudo com 2.001 participantes com sobrepeso para impedir a progressão para obesidade ou para doenças decorrentes (ATTAIN-NOW, NCT07794579, término em setembro de 2030). A OMS anuncia que vai elaborar a seguir critérios sobre quem deve ser tratado primeiro quando os recursos forem limitados (Celletti 2026, PMID 41324410).
 
 **Avaliação do autor:** um teste confiável que diga de antemão quem responde bem a qual substância não está à vista até 2030. A personalização será, de início, pragmática: segundo doenças associadas, tolerabilidade, disposição para injeções e custos. A questão de se medicamentos devem ser usados já antes do surgimento da obesidade continuará sendo controversa do ponto de vista ético e econômico.
 
@@ -113,11 +113,11 @@ Os dados de registro refletem a situação de outubro de 2026.
 | 2027 | resultados cardiovasculares | CagriSema | NCT05669755 |
 | 2027 | acompanhamento após câncer colorretal | Timosina alfa-1 | NCT05086614 |
 | 2027 | degeneração macular | Elamipretida | NCT06373731 |
-| 2028 | crescimento em crianças | Ibutamoren (LUM-201) | NCT06948214 |
+| 2028 | crescimento em crianças | Ibutamoreno (LUM-201) | NCT06948214 |
 | 2029 | eventos cardíacos e renais | Retatrutida | NCT06383390 |
 | 2030 | resultados cardiovasculares, insuficiência cardíaca | Maridebarte cafraglutida | NCT07037433, NCT07037459 |
 | 2030 | resultados cardiovasculares | Zenagamtida | NCT07861100 |
-| 2031 | resultados cardiovasculares | Orforgliprona | NCT07241390 |
+| 2031 | resultados cardiovasculares | Orforglipron | NCT07241390 |
 | 2031 | resultados cardiovasculares | Enlicitida (peptídeo oral) | NCT06008756 |
 | 2032 | eventos hepáticos graves | Tirzepatida, retatrutida | NCT07165028 |
 

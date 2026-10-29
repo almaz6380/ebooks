@@ -81,7 +81,7 @@ Uma análise tecidual das biópsias hepáticas do estudo sobre fígado gorduroso
 *Situação em 2026, verificar atualização.*
 
 - **UE:** não aprovada. A tesamorelina não é comercializada como medicamento industrializado em nenhum Estado da UE.
-- **Alemanha e Áustria:** nenhuma aprovação. A obtenção seria concebível, quando muito, por meio de importação individual, sob responsabilidade médica, de um medicamento aprovado no exterior; o fornecimento de produtos do mercado cinzento para uso em humanos é proibido.
+- **Alemanha e Áustria:** nenhuma aprovação. A obtenção seria concebível, quando muito, por meio de importação individual, sob responsabilidade médica, de um medicamento aprovado no exterior; o fornecimento de produtos do mercado cinza para uso em humanos é proibido.
 - **EUA:** aprovada como Egrifta (sujeita a prescrição) exclusivamente para a redução do excesso de gordura abdominal na lipodistrofia associada ao HIV. Qualquer outro uso – por exemplo "para emagrecer" ou "contra o envelhecimento" – é off-label.
 - **WADA:** proibida (S2), em competição e fora dela. Laboratórios antidoping desenvolveram métodos de detecção para tesamorelina e outros análogos de GHRH na urina (Memdouh 2021, PMID 34665524).
 

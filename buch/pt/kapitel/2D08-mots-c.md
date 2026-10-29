@@ -78,7 +78,7 @@ A abundância de estudos animais positivos chama a atenção. Ela mostra que o M
 - **Câncer:** em estudos de laboratório, o MOTS-c tendeu a frear células cancerosas: inibiu o crescimento de células de câncer de ovário (Yin 2024, PMID 39321430) e tornou células de câncer de fígado, sob falta de oxigênio, mais sensíveis à morte celular programada (Shen 2025, PMID 39581216). Se isso vale para humanos e como a suplementação por anos de um sinalizador metabolicamente ativo se manifesta não foi estudado.
 - **Reações imunológicas:** com injeções repetidas de um peptídeo, podem surgir anticorpos; isso não foi estudado para o MOTS-c.
 
-**Mercado cinzento e esporte:** o MOTS-c está entre os peptídeos de "longevidade" e fitness mais populares na internet e é vendido como pó para injeção. Pureza e teor não são verificados. Para atletas, o uso é expressamente proibido (WADA S4).
+**Mercado cinza e esporte:** o MOTS-c está entre os peptídeos de "longevidade" e fitness mais populares na internet e é vendido como pó para injeção. Pureza e teor não são verificados. Para atletas, o uso é expressamente proibido (WADA S4).
 
 ### Situação legal
 

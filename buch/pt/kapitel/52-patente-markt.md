@@ -38,7 +38,7 @@ Os próprios autores ressaltam que os custos da caneta, outras patentes e sistem
 
 ### Tirzepatida e os sucessores
 
-Para a tirzepatida e todas as substâncias mais novas – retatrutida, CagriSema, amicretina, maridebarte cafraglutida, orforgliprona – não se espera uma expiração de patente nesta década. Para a tirzepatida, segundo informações do setor, genéricos são esperados no mínimo na segunda metade da década de 2030 (situação em 2026, verificar). Disso resulta um padrão previsível: as substâncias mais antigas ficam mais baratas, as mais potentes continuam caras.
+Para a tirzepatida e todas as substâncias mais novas – retatrutida, CagriSema, amicretina, maridebarte cafraglutida, orforglipron – não se espera uma expiração de patente nesta década. Para a tirzepatida, segundo informações do setor, genéricos são esperados no mínimo na segunda metade da década de 2030 (situação em 2026, verificar). Disso resulta um padrão previsível: as substâncias mais antigas ficam mais baratas, as mais potentes continuam caras.
 
 ### O fim do compounding nos EUA
 

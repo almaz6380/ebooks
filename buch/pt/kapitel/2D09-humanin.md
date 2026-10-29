@@ -2,7 +2,7 @@
 
 ### Ficha técnica
 
-- **Tipo e estrutura:** peptídeo do próprio organismo com 24 aminoácidos. No mercado cinzento e na pesquisa, usa-se em geral a forma modificada **HNG** (humanina-G, também S14G-humanina), na qual, na posição 14, a serina é substituída por glicina; em experimentos de laboratório, ela age com bem mais força.
+- **Tipo e estrutura:** peptídeo do próprio organismo com 24 aminoácidos. No mercado cinza e na pesquisa, usa-se em geral a forma modificada **HNG** (humanina-G, também S14G-humanina), na qual, na posição 14, a serina é substituída por glicina; em experimentos de laboratório, ela age com bem mais força.
 - **Origem:** descoberta em 2001 por pesquisadores japoneses quando buscavam, em tecido cerebral de uma pessoa com doença de Alzheimer, fatores que protegem neurônios da morte – daí o nome. Está codificada no material genético das mitocôndrias; segmentos semelhantes existem também no material genético do núcleo celular.
 - **Princípio de ação:** "mitocina" (sinalizador das mitocôndrias) que protegeria as células da morte celular programada. Liga-se, entre outros, a um complexo receptor formado pelo receptor de CNTF, WSX-1 e gp130 na superfície celular.
 - **Aprovação UE:** não.
@@ -33,7 +33,7 @@ Uma particularidade: a humanina, como o MOTS-c (veja o capítulo anterior), é c
 | von Walden 2021, PMID 34351816 | 30 pessoas, uma sessão aeróbica ou de força ou controle, randomizado | única | humanina no sangue elevada após esforço aeróbico |
 | Xu 2019, PMID 31134827 | 158 pessoas com demência vascular, oxigenoterapia hiperbárica ou padrão | 12 semanas | níveis mais altos de humanina e escores MEEM sob terapia hiperbárica |
 
-As observações formam um quadro coerente: os níveis de humanina caem com a idade, são mais altos em filhos de pessoas muito idosas, mais baixos em algumas doenças e sobem com o exercício. Interessante é a relação com o sistema do hormônio do crescimento: hormônio do crescimento e IGF-1 reduziram os níveis de humanina em camundongos e humanos, e camundongos longevos com deficiência de hormônio do crescimento tinham níveis elevados (Lee 2014, PMID 25040290). Isso é notável porque, no mesmo mercado cinzento, frequentemente se oferecem liberadores de hormônio do crescimento (veja a Parte II · C).
+As observações formam um quadro coerente: os níveis de humanina caem com a idade, são mais altos em filhos de pessoas muito idosas, mais baixos em algumas doenças e sobem com o exercício. Interessante é a relação com o sistema do hormônio do crescimento: hormônio do crescimento e IGF-1 reduziram os níveis de humanina em camundongos e humanos, e camundongos longevos com deficiência de hormônio do crescimento tinham níveis elevados (Lee 2014, PMID 25040290). Isso é notável porque, no mesmo mercado cinza, frequentemente se oferecem liberadores de hormônio do crescimento (veja a Parte II · C).
 
 Mas também aqui vale: um nível que acompanha a saúde não é prova de que uma suplementação torne mais saudável. A humanina pode muito bem ser um sinal acompanhante de mitocôndrias saudáveis, sem ser ela própria a causa.
 
@@ -60,7 +60,7 @@ A literatura pré-clínica é extensa:
 - **Inflamação em células envelhecidas:** em experimentos com células, a humanina e o MOTS-c intensificaram a liberação de mensageiros inflamatórios por células envelhecidas ("senescentes") (Mendelsohn 2018, PMID 30058454).
 - **Reações imunológicas:** com injeção repetida de um peptídeo, podem surgir anticorpos; não estudado.
 
-**Mercado cinzento:** humanina e HNG são oferecidas como "peptídeos de longevidade" para injeção. Teor, pureza e esterilidade não são verificados.
+**Mercado cinza:** humanina e HNG são oferecidas como "peptídeos de longevidade" para injeção. Teor, pureza e esterilidade não são verificados.
 
 ### Situação legal
 

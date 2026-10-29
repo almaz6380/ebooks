@@ -56,12 +56,12 @@ As tabelas a seguir reproduzem os termos de busca do PubMed usados na consulta s
 | Cagrilintida ou CagriSema | `cagrilintide[tiab]` |
 | Amicretina | `amycretin[tiab]` |
 | Maridebarte cafraglutida (MariTide) | `maridebart[tiab] OR AMG 133[tiab]` |
-| Pramlintida | `pramlintide[tiab]` |
+| Pranlintida | `pramlintide[tiab]` |
 | Setmelanotida | `setmelanotide[tiab]` |
 | AOD-9604 | `AOD9604[tiab] OR AOD-9604[tiab]` |
-| Orforgliprona (comparação) | `orforglipron[tiab]` |
+| Orforglipron (comparação) | `orforglipron[tiab]` |
 
-#### B. Cicatrização, regeneração e sistema imunológico
+#### B. Cura, regeneração e sistema imunológico
 
 | Peptídeo | Termo de busca no PubMed |
 |---|---|
@@ -72,7 +72,7 @@ As tabelas a seguir reproduzem os termos de busca do PubMed usados na consulta s
 | LL-37 | `LL-37[tiab] OR cathelicidin[tiab]` |
 | ARA-290 (cibinetida) | `ARA 290[tiab] OR ARA290[tiab] OR cibinetide[tiab]` |
 | Larazotida | `larazotide[tiab]` |
-| Timalin ou timogen | `thymalin[tiab] OR thymogen[tiab]` |
+| Timalina ou timogen | `thymalin[tiab] OR thymogen[tiab]` |
 
 #### C. Eixo do hormônio do crescimento
 
@@ -88,7 +88,7 @@ As tabelas a seguir reproduzem os termos de busca do PubMed usados na consulta s
 | Macimorelina | `macimorelin[tiab]` |
 | Mecasermina (IGF-1) | `mecasermin[tiab] OR rhIGF-1[tiab]` |
 | IGF-1 LR3 | `LR3-IGF-1[tiab] OR IGF-1 LR3[tiab] OR "Long R3"[tiab]` |
-| Ibutamoren (MK-677) (comparação) | `ibutamoren[tiab] OR MK-677[tiab] OR MK-0677[tiab]` |
+| Ibutamoreno (MK-677) (comparação) | `ibutamoreno[tiab] OR MK-677[tiab] OR MK-0677[tiab]` |
 
 #### D. Cérebro, sono e longevidade
 
@@ -170,7 +170,7 @@ Como toda pesquisa bibliográfica, também esta tem limites, que você deve cons
 
 **Termos de busca podem ter lacunas.** Um termo de busca só encontra o que está descrito no título ou no resumo com as palavras escolhidas. Estudos que mencionam uma substância apenas sob um nome de código ou com outra grafia podem faltar. Inversamente, siglas ambíguas como “KPV” ou “SS-31” podem captar também trabalhos sobre temas completamente diferentes. Para os capítulos, os resultados foram, por isso, revisados e não adotados sem verificação.
 
-**Idiomas.** O PubMed registra predominantemente revistas em língua inglesa. Trabalhos publicados apenas em outros idiomas e em revistas não indexadas estão em grande parte ausentes. Isso afeta especialmente alguns peptídeos pesquisados e usados sobretudo na Rússia ou em outros países do Leste Europeu, como Semax, Selank, Epitalon ou timalin. Para eles, a situação real dos estudos é possivelmente mais ampla, mas difícil de verificar para leitores internacionais.
+**Idiomas.** O PubMed registra predominantemente revistas em língua inglesa. Trabalhos publicados apenas em outros idiomas e em revistas não indexadas estão em grande parte ausentes. Isso afeta especialmente alguns peptídeos pesquisados e usados sobretudo na Rússia ou em outros países do Leste Europeu, como Semax, Selank, Epitalon ou timalina. Para eles, a situação real dos estudos é possivelmente mais ampla, mas difícil de verificar para leitores internacionais.
 
 **Estudos não publicados.** Estudos que nunca foram publicados não constam do PubMed. O registro ClinicalTrials.gov ajuda a reconhecer essas lacunas, mas não abrange todos os estudos do mundo.
 

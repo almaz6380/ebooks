@@ -1,6 +1,6 @@
 ## Ibutamoreno (MK-677)
 
-*Capítulo comparativo:* o ibutamoreno não é um peptídeo. É uma pequena molécula sintética que se engole em comprimido ou líquido – e justamente por isso está neste livro: como comparação. Ele age no mesmo receptor que a ipamorelina, o GHRP-2 ou a hexarelina, ou seja, no receptor de grelina, e eleva o hormônio do crescimento e o IGF-1 ao longo de meses. O ibutamoreno foi testado nos anos 1990 e 2000 pela empresa farmacêutica Merck em vários estudos randomizados de maior porte. Esses estudos mostram com bastante precisão o que uma estimulação contínua do eixo do hormônio do crescimento traz para pessoas idosas – e onde estão os riscos. No mercado cinzento, o ibutamoreno é hoje vendido geralmente como "suplemento semelhante a SARM".
+*Capítulo comparativo:* o ibutamoreno não é um peptídeo. É uma pequena molécula sintética que se engole em comprimido ou líquido – e justamente por isso está neste livro: como comparação. Ele age no mesmo receptor que a ipamorelina, o GHRP-2 ou a hexarelina, ou seja, no receptor de grelina, e eleva o hormônio do crescimento e o IGF-1 ao longo de meses. O ibutamoreno foi testado nos anos 1990 e 2000 pela empresa farmacêutica Merck em vários estudos randomizados de maior porte. Esses estudos mostram com bastante precisão o que uma estimulação contínua do eixo do hormônio do crescimento traz para pessoas idosas – e onde estão os riscos. No mercado cinza, o ibutamoreno é hoje vendido geralmente como "suplemento semelhante a SARM".
 
 ### Ficha técnica
 
@@ -67,11 +67,11 @@ Em camundongos com um modelo de Alzheimer, o ibutamoreno reduziu depósitos de a
 - **Ganho de peso e apetite:** mais peso corporal, mais gordura em braços e pernas, aumento da fome (Nass 2008, PMID 18981485).
 - **Retenção de líquidos e dores musculares** (Nass 2008, PMID 18981485).
 
-**Relatos de caso do uso no mercado cinzento:** um homem de pouco mais de 30 anos desenvolveu, após dois meses de uso de MK-677, enzimas hepáticas elevadas, que se normalizaram após a suspensão (Cobani 2025, PMID 40675653). Um homem de 40 anos desenvolveu crescimento das mamas e deficiência de testosterona; seus suplementos de fitness continham, além de MK-677, também um SARM, cardarine e hormônios não declarados (Chong 2024, PMID 39145153).
+**Relatos de caso do uso no mercado cinza:** um homem de pouco mais de 30 anos desenvolveu, após dois meses de uso de MK-677, enzimas hepáticas elevadas, que se normalizaram após a suspensão (Cobani 2025, PMID 40675653). Um homem de 40 anos desenvolveu crescimento das mamas e deficiência de testosterona; seus suplementos de fitness continham, além de MK-677, também um SARM, cardarine e hormônios não declarados (Chong 2024, PMID 39145153).
 
 **Câncer:** o ibutamoreno eleva o IGF-1 ao longo de meses a anos ao nível de adultos jovens. Nos estudos não foi relatado sinal de câncer, mas eles não foram nem grandes nem longos o suficiente para isso. Uma revisão sobre liberadores de GH pede expressamente dados de longo prazo sobre câncer e mortalidade (Sigalos 2018, PMID 28400207). Sobre o panorama geral dos dados, veja a introdução deste grupo e a Parte IV.
 
-**Qualidade no mercado cinzento:** em uma análise americana de 44 produtos vendidos na internet como SARMs, 39% continham, em vez da substância declarada ou adicionalmente, outras substâncias não aprovadas, entre elas o ibutamoreno; apenas 41% continham a quantidade declarada da substância ativa (Van Wagoner 2017, PMID 29183075). Uma vigilância de mercado europeia com 324 amostras de 13 países encontrou o ibutamoreno como substância mais frequente entre os preparados para ganho muscular examinados; 24% dos produtos eram apresentados como suplementos alimentares (Barrios 2025, PMID 40551438).
+**Qualidade no mercado cinza:** em uma análise americana de 44 produtos vendidos na internet como SARMs, 39% continham, em vez da substância declarada ou adicionalmente, outras substâncias não aprovadas, entre elas o ibutamoreno; apenas 41% continham a quantidade declarada da substância ativa (Van Wagoner 2017, PMID 29183075). Uma vigilância de mercado europeia com 324 amostras de 13 países encontrou o ibutamoreno como substância mais frequente entre os preparados para ganho muscular examinados; 24% dos produtos eram apresentados como suplementos alimentares (Barrios 2025, PMID 40551438).
 
 ### Situação legal
 
@@ -89,4 +89,4 @@ Em camundongos com um modelo de Alzheimer, o ibutamoreno reduziu depósitos de a
 
 ### Conclusão
 
-O ibutamoreno é o agente ativo por via oral mais minuciosamente estudado que estimula continuamente o eixo do hormônio do crescimento. Os estudos mostram o padrão básico de todo o grupo: IGF-1 e massa magra sobem, mas força, função e evolução de doenças – no envelhecimento, na fratura de quadril e no Alzheimer – não melhoraram. Em contrapartida, glicemia e peso subiram, e um estudo em pessoas idosas foi interrompido por insuficiência cardíaca. Produtos do mercado cinzento com "MK-677" são frequentemente rotulados de forma incorreta.
+O ibutamoreno é o agente ativo por via oral mais minuciosamente estudado que estimula continuamente o eixo do hormônio do crescimento. Os estudos mostram o padrão básico de todo o grupo: IGF-1 e massa magra sobem, mas força, função e evolução de doenças – no envelhecimento, na fratura de quadril e no Alzheimer – não melhoraram. Em contrapartida, glicemia e peso subiram, e um estudo em pessoas idosas foi interrompido por insuficiência cardíaca. Produtos do mercado cinza com "MK-677" são frequentemente rotulados de forma incorreta.

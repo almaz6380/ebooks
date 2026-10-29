@@ -113,7 +113,7 @@ Para atletas sujeitos a controles antidoping, o que vale é a **lista de substâ
 
 - o hormônio do crescimento e seus fragmentos (por exemplo, AOD-9604),
 - o hormônio liberador do hormônio do crescimento e seus análogos (por exemplo, CJC-1295, sermorelina, tesamorelina),
-- secretagogos do hormônio do crescimento e peptídeos liberadores do hormônio do crescimento (por exemplo, ipamorelina, GHRP-2, GHRP-6, hexarelina, macimorelina e, até onde sabemos, também o ibutamoren, que não é peptídico),
+- secretagogos do hormônio do crescimento e peptídeos liberadores do hormônio do crescimento (por exemplo, ipamorelina, GHRP-2, GHRP-6, hexarelina, macimorelina e, até onde sabemos, também o ibutamoreno, que não é peptídico),
 - fatores de crescimento como o IGF-1 e seus análogos, assim como a timosina beta-4 e seus derivados (por exemplo, TB-500),
 - em homens, hormônios e fatores de liberação do eixo dos hormônios sexuais (por exemplo, gonadorelina e kisspeptina).
 

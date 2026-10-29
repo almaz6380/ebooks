@@ -66,7 +66,7 @@ Casos isolados mostram como essas reações podem ser:
 - Relatos de caso descrevem anafilaxia com a forma semanal da exenatida (Ornelas 2018, PMID 30350785) e uma reação alérgica à exenatida e à lixisenatida, mas não à liraglutida (Shamriz 2019, PMID 31296642) – um indício de que as substâncias derivadas de lagartos são reconhecidas de forma diferente das semelhantes às humanas.
 - Com tirzepatida, está descrita uma anafilaxia bifásica, em que os sintomas voltaram após uma melhora inicial (He 2023, PMID 38186543).
 - Uma mulher de 50 anos desenvolveu, quatro horas após sua primeira injeção de semaglutida de uma farmácia de manipulação, um inchaço maciço de lábios, língua e garganta e precisou de ventilação mecânica por quatro dias. Só depois se descobriu que ela havia injetado acidentalmente dez vezes a quantidade (Kraft 2026, PMID 42194666).
-- Após uma infusão de Cerebrolysin, um homem de 85 anos desenvolveu uma anafilaxia potencialmente fatal, confirmada em laboratório (Trimmel 2024, PMID 39055722). O Cerebrolysin é uma mistura de peptídeos de cérebro de porco; extratos animais como este ou o timalin trazem, por princípio, mais proteínas estranhas (capítulos Cerebrolysin, Timalin).
+- Após uma infusão de Cerebrolysin, um homem de 85 anos desenvolveu uma anafilaxia potencialmente fatal, confirmada em laboratório (Trimmel 2024, PMID 39055722). O Cerebrolysin é uma mistura de peptídeos de cérebro de porco; extratos animais como este ou o timalina trazem, por princípio, mais proteínas estranhas (capítulos Cerebrolysin, Timalina).
 
 Também com peptídeos cosméticos alergias são possíveis, ainda que raras. Em um pequeno estudo com um creme que continha, entre outros, palmitoil pentapeptídeo-4, houve suspeita de uma reação alérgica; qual componente foi responsável ficou em aberto (Röper 2004, PMID 15127162).
 
@@ -78,7 +78,7 @@ Alguns peptídeos fazem eles próprios parte do sistema imunológico. Isso os to
 
 O **LL-37** é um peptídeo de defesa do próprio corpo. Na psoríase, ele tem um papel-chave: liga-se ao material genético do próprio corpo e o torna visível para determinadas células imunológicas, que em seguida liberam mensageiros inflamatórios (Lande 2007, PMID 17873860). Em dois terços das pessoas com psoríase moderada a grave, encontraram-se células T que reconhecem especificamente o LL-37 – ali ele age, portanto, como um autoantígeno (Lande 2014, PMID 25470744). Após injeções de LL-37 em metástases cutâneas, surgiram em uma paciente lesões cutâneas inflamatórias semelhantes a verrugas (Dolkar 2018, PMID 29665030). Para pessoas com psoríase, rosácea ou outras doenças autoimunes, esse é um indício a ser levado a sério (capítulo LL-37).
 
-**Peptídeos imunoestimulantes** como a timosina alfa-1 e o timalin supostamente estimulam a defesa. Se isso causa danos em doenças autoimunes ou após transplantes de órgãos não foi investigado (capítulos Timosina alfa-1, Timalin).
+**Peptídeos imunoestimulantes** como a timosina alfa-1 e o timalina supostamente estimulam a defesa. Se isso causa danos em doenças autoimunes ou após transplantes de órgãos não foi investigado (capítulos Timosina alfa-1, Timalina).
 
 Nos medicamentos de GLP-1, uma revisão sistemática descreve, além das reações cutâneas leves frequentes, doenças imunomediadas raras, mas potencialmente graves, entre elas angioedemas, doenças autoimunes bolhosas, erupções medicamentosas e inflamações vasculares (Gupta 2026, PMID 42930571). Com que frequência ocorrem não pode ser deduzido de relatos de caso.
 

@@ -31,7 +31,7 @@ Um laboratório forense dinamarquês recebeu em 2019 36 amostras apreendidas em 
 
 Um laboratório de doping equino analisou produtos oferecidos na internet com as denominações “TB500”, “TB1000” e “SGF1000”. O conteúdo dos produtos TB não correspondia sempre às descrições anteriores. O “SGF1000” consistia predominantemente em proteínas do tecido conjuntivo e do sangue de ovelhas; os supostos componentes promotores de crescimento estavam extremamente diluídos (Delcourt 2023, PMID 36482504).
 
-Com que frequência rótulo e conteúdo divergem é mostrado por uma investigação norte-americana que não tratava de peptídeos, mas dos chamados SARMs, que usam o mesmo canal de venda: de 44 produtos da internet, apenas 52% continham alguma substância do grupo promovido. 39% continham outras substâncias não aprovadas, entre elas o liberador de hormônio do crescimento ibutamoren, 9% não continham nenhuma substância ativa, e 25% continham substâncias não declaradas (Van Wagoner 2017, PMID 29183075).
+Com que frequência rótulo e conteúdo divergem é mostrado por uma investigação norte-americana que não tratava de peptídeos, mas dos chamados SARMs, que usam o mesmo canal de venda: de 44 produtos da internet, apenas 52% continham alguma substância do grupo promovido. 39% continham outras substâncias não aprovadas, entre elas o liberador de hormônio do crescimento ibutamoreno, 9% não continham nenhuma substância ativa, e 25% continham substâncias não declaradas (Van Wagoner 2017, PMID 29183075).
 
 #### Quantidade errada
 

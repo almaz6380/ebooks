@@ -58,7 +58,7 @@ Nenhuma dessas abordagens levou até agora a um estudo controlado publicado em h
 
 **Desconhecido:** não há estudos em humanos sobre o uso repetido ao longo de semanas ou meses. Com o uso contínuo, são concebíveis as consequências conhecidas de níveis elevados de hormônio do crescimento e de uma estimulação repetida do cortisol, como piora da regulação da glicemia. Um relato de caso descreve um fisiculturista que, durante décadas, usou hormônio do crescimento e liberadores – entre eles uma combinação de sermorelina e GHRP-6 – e desenvolveu um grande osteófito na coluna cervical; uma relação causal não está comprovada (Perez 2026, PMID 42465868). Sobre a questão do câncer, veja a introdução deste grupo e a Parte IV.
 
-**Mercado cinzento:** em produtos apreendidos foi detectado "Gly-GHRP-6", uma modificação não declarada com um aminoácido adicional (Krug 2018, PMID 29864719).
+**Mercado cinza:** em produtos apreendidos foi detectado "Gly-GHRP-6", uma modificação não declarada com um aminoácido adicional (Krug 2018, PMID 29864719).
 
 ### Situação legal
 
@@ -73,4 +73,4 @@ No ClinicalTrials.gov, em outubro de 2026, não há estudo registrado com GHRP-6
 
 ### Conclusão
 
-O GHRP-6 foi o primeiro peptídeo artificial a liberar seletivamente hormônio do crescimento e contribuiu de forma decisiva para a descoberta do sistema da grelina. Em humanos, foi estudado quase só como substância de teste administrada uma única vez, entre outros em um grande estudo publicado na Lancet sobre o diagnóstico da deficiência de hormônio do crescimento. Não há benefício terapêutico comprovado, e faltam completamente dados sobre o uso repetido, como é anunciado no mercado cinzento.
+O GHRP-6 foi o primeiro peptídeo artificial a liberar seletivamente hormônio do crescimento e contribuiu de forma decisiva para a descoberta do sistema da grelina. Em humanos, foi estudado quase só como substância de teste administrada uma única vez, entre outros em um grande estudo publicado na Lancet sobre o diagnóstico da deficiência de hormônio do crescimento. Não há benefício terapêutico comprovado, e faltam completamente dados sobre o uso repetido, como é anunciado no mercado cinza.

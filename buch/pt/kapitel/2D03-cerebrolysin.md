@@ -123,7 +123,7 @@ Os estudos pré-clínicos vêm em parte considerável de cooperações com o fab
 
 **Teórico:** como preparado de tecido cerebral animal, a cerebrolisina está em princípio ligada a questões de pureza e de transmissibilidade de patógenos; os processos de fabricação e as exigências das autoridades devem minimizar esse risco. Casos concretos de transmissão não estão descritos nas fontes avaliadas aqui.
 
-**Mercado cinzento:** em fóruns de nootrópicos, a cerebrolisina é discutida como "impulsionador cerebral" e obtida de países onde está disponível. A autoaplicação intravenosa sem supervisão médica traz o risco de reações alérgicas graves, para as quais não haveria atendimento de emergência disponível. Mais sobre produtos do mercado cinzento na Parte I e na Parte IV.
+**Mercado cinza:** em fóruns de nootrópicos, a cerebrolisina é discutida como "impulsionador cerebral" e obtida de países onde está disponível. A autoaplicação intravenosa sem supervisão médica traz o risco de reações alérgicas graves, para as quais não haveria atendimento de emergência disponível. Mais sobre produtos do mercado cinza na Parte I e na Parte IV.
 
 ### Situação legal
 

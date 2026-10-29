@@ -1,6 +1,6 @@
 ## Macimorelina
 
-A macimorelina é o membro mais sóbrio deste grupo – e justamente por isso um bom contraexemplo aos peptídeos do mercado cinzento. Ela não é usada para tratamento, mas como teste: a pessoa bebe uma solução com macimorelina e, em seguida, colhe-se sangue várias vezes. Se o hormônio do crescimento quase não sobe, isso indica uma deficiência de hormônio do crescimento. Para isso a macimorelina está aprovada nos EUA e na UE. Ela é um exemplo de como um mimético de grelina pode se tornar um medicamento de verdade com estudos comparativos bem conduzidos.
+A macimorelina é o membro mais sóbrio deste grupo – e justamente por isso um bom contraexemplo aos peptídeos do mercado cinza. Ela não é usada para tratamento, mas como teste: a pessoa bebe uma solução com macimorelina e, em seguida, colhe-se sangue várias vezes. Se o hormônio do crescimento quase não sobe, isso indica uma deficiência de hormônio do crescimento. Para isso a macimorelina está aprovada nos EUA e na UE. Ela é um exemplo de como um mimético de grelina pode se tornar um medicamento de verdade com estudos comparativos bem conduzidos.
 
 ### Ficha técnica
 

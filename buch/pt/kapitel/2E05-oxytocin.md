@@ -148,7 +148,7 @@ Em estudos controlados, o spray nasal de ocitocina é considerado bem tolerado. 
 - **Uso de longo prazo:** faltam dados de mais de seis meses, especialmente em crianças.
 - **Efeitos sociais:** alguns estudos de laboratório relataram que, sob determinadas condições, a ocitocina também pode intensificar a inveja, a desconfiança em relação a estranhos ou o favorecimento do próprio grupo. Esses achados são tão incertos quanto os positivos.
 
-#### Mercado cinzento
+#### Mercado cinza
 
 Sprays nasais de ocitocina são vendidos na internet como “spray do amor” ou “spray da confiança”. Conteúdo e teor desses produtos não são verificados de forma independente. Para nenhum desses produtos há provas de efeito.
 

@@ -78,9 +78,9 @@ Notas sobre a tabela: para o **BPC-157**, nenhuma publicação cumpriu os crité
 
 | Peptídeo | Resultado principal | Principal risco |
 |---|---|---|
-| BPC-157 | Três investigações-piloto não controladas, evidência muito baixa segundo revisão (PMID 42885452) | segurança de longo prazo desconhecida, qualidade do mercado cinzento |
+| BPC-157 | Três investigações-piloto não controladas, evidência muito baixa segundo revisão (PMID 42885452) | segurança de longo prazo desconhecida, qualidade do mercado cinza |
 | TB-500 / timosina beta-4 | Tβ4 após infarto: tamanho do infarto não significativamente menor (PMID 41229390); TB-500 não testado | conteúdo incerto, teoricamente estímulo tumoral |
-| Timosina alfa 1 | TESTS na sepse: mortalidade em 28 dias 23,4% vs. 24,1%, nenhuma diferença (PMID 39814420) | possíveis desvantagens em subgrupos; mercado cinzento |
+| Timosina alfa 1 | TESTS na sepse: mortalidade em 28 dias 23,4% vs. 24,1%, nenhuma diferença (PMID 39814420) | possíveis desvantagens em subgrupos; mercado cinza |
 | KPV | Apenas dados em animais: menos inflamação intestinal em camundongos (PMID 18061177) | perfil em humanos totalmente desconhecido |
 | LL-37 | HEAL LL-37: úlceras de perna não cicatrizaram melhor que com placebo (PMID 34687253) | reações inflamatórias e autoimunes |
 | ARA-290 | Fase 2b: fibras nervosas aumentadas apenas com uma de três doses (PMID 28475703) | quase nenhum dado além de doze semanas |
@@ -141,7 +141,7 @@ Notas sobre a tabela: para **Selank** e **DSIP**, os resultados nos registros re
 | Peptídeo | Resultado principal | Principal risco |
 |---|---|---|
 | Semax | Estudo aberto após AVC: BDNF mais alto, melhora mais rápida (PMID 29798983) | nenhum dado sistemático de segurança |
-| Selank | Efeito ansiolítico semelhante ao medazepam, sem grupo placebo (PMID 18454096) | nenhum dado de longo prazo; mercado cinzento |
+| Selank | Efeito ansiolítico semelhante ao medazepam, sem grupo placebo (PMID 18454096) | nenhum dado de longo prazo; mercado cinza |
 | Cerebrolisina | CASTA, com 1.070 pessoas: desfecho principal não atingido (PMID 22282884) | possível sinal de efeitos colaterais graves (Cochrane) |
 | Dihexa | Apenas dados em animais; um estudo central em ratos foi retratado em 2025 (PMID 25187433, retratação PMID 40312093) | nenhum dado em humanos; risco teórico de câncer |
 | DSIP | 16 pessoas com insônia: apenas efeitos fracos (PMID 1299794) | nenhum dado sistemático de segurança |
@@ -149,7 +149,7 @@ Notas sobre a tabela: para **Selank** e **DSIP**, os resultados nos registros re
 | Pinealon | 32 idosos, não controlado; também inibição da hematopoese (PMID 26390612) | nenhum dado sistemático de segurança |
 | MOTS-c | Apenas dados em animais sobre a administração: em camundongos, menos sobrepeso (PMID 25738459) | nenhum dado sobre administração em humanos |
 | Humanina | Apenas medições de níveis em humanos (PMID 32575074) | em camundongos, maior crescimento de câncer de mama (PMID 32444831) |
-| SS-31 (elamipretida) | MMPOWER-3, com 218 pessoas: nenhum benefício na miopatia (PMID 37268435) | Locais de injeção; produto do mercado cinzento não idêntico |
+| SS-31 (elamipretida) | MMPOWER-3, com 218 pessoas: nenhum benefício na miopatia (PMID 37268435) | Locais de injeção; produto do mercado cinza não idêntico |
 | FOXO4-DRI | Apenas dados em animais: melhor condição física em camundongos envelhecidos (PMID 28340339) | nenhum dado em humanos; interferência no p53 |
 | Glutationa | Fase 3 com 185 pessoas: nenhuma proteção contra lesões nervosas por quimioterapia (PMID 24619793) | Infusões para clareamento da pele: alertas das autoridades |
 
@@ -193,7 +193,7 @@ Notas sobre a tabela: para os **peptídeos de colágeno**, uma parte consideráv
 | Peptídeos de colágeno | Artrose: efeitos pequenos a moderados (PMID 38218227); benefício para a pele não confirmado em estudos independentes (PMID 40324552) | Substituição de medidas eficazes; oxalato em caso de tendência a cálculos renais |
 | Lactotripeptídeos | Metanálise, 30 ECRs: sistólica −2,95 mmHg, com viés de publicação (PMID 25608938) | Substituição de um tratamento eficaz da pressão arterial |
 | Carnosina | Metanálise, 8 ECRs: valores de glicemia e HbA1c um pouco mais baixos (PMID 40999397) | nenhum relevante; faltam dados de longo prazo |
-| GHK-Cu | Úlceras de pé: área da ferida, mediana −98,5% vs. −60,8% (PMID 17147644) | Injeções de produto do mercado cinzento não testadas |
+| GHK-Cu | Úlceras de pé: área da ferida, mediana −98,5% vs. −60,8% (PMID 17147644) | Injeções de produto do mercado cinza não testadas |
 | Palmitoil pentapeptídeo-4 | 93 mulheres, estudo de hemiface: menos rugas após 12 semanas (PMID 18492182) | raramente irritação cutânea |
 | Acetil hexapeptídeo-8 | 19 mulheres, estudo de hemiface: nenhuma diferença após 4 semanas (PMID 38024099) | Injeções não aprovadas, relato de caso de infecção |
 
@@ -243,7 +243,7 @@ O grupo D tem os dados mais fracos: quatro de seus doze peptídeos nunca foram a
 
 Apenas cerca de um quarto das entradas está aprovado como medicamento na UE ou nos EUA – geralmente para aplicações estritamente delimitadas: afamelanotida para uma rara intolerância à luz (protoporfiria eritropoética, EPP), não para bronzear; elamipretida apenas para a síndrome de Barth; ocitocina apenas para a obstetrícia, não como spray nasal; tesamorelina apenas para um distúrbio de distribuição de gordura no HIV. Diante da afirmação “aprovado”, vale sempre perguntar: onde, para quê e em que forma?
 
-As 28 entradas não aprovadas em lugar nenhum dividem-se em dois grupos. Retatrutida, survodutida, CagriSema, amicretina, maridebarte cafraglutida e orforglipron estão em desenvolvimento regular, com estudos de fase 3; uma aprovação é provável para eles, mas não garantida (avaliação). Substâncias como BPC-157, TB-500, CJC-1295, AOD-9604, Epitalon, MOTS-c, Dihexa ou IGF-1 LR3, por outro lado, não têm caminho reconhecível para aprovação e são vendidas predominantemente como “research peptides”. Ofertas do mercado cinzento do primeiro grupo não devem ser equiparadas aos medicamentos testados.
+As 28 entradas não aprovadas em lugar nenhum dividem-se em dois grupos. Retatrutida, survodutida, CagriSema, amicretina, maridebarte cafraglutida e orforglipron estão em desenvolvimento regular, com estudos de fase 3; uma aprovação é provável para eles, mas não garantida (avaliação). Substâncias como BPC-157, TB-500, CJC-1295, AOD-9604, Epitalon, MOTS-c, Dihexa ou IGF-1 LR3, por outro lado, não têm caminho reconhecível para aprovação e são vendidas predominantemente como “research peptides”. Ofertas do mercado cinza do primeiro grupo não devem ser equiparadas aos medicamentos testados.
 
 #### Status de doping segundo a WADA
 

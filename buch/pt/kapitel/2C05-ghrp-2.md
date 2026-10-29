@@ -1,6 +1,6 @@
 ## GHRP-2 (pralmorelina)
 
-O GHRP-2 é um pequeno peptídeo artificial de seis aminoácidos que estimula a hipófise a secretar hormônio do crescimento com mais força do que quase qualquer outro estímulo conhecido. Essa potência fez dele, no Japão, um medicamento aprovado – não como terapia, mas como substância de teste: com uma única injeção é possível verificar se um adulto tem deficiência de hormônio do crescimento. No mercado cinzento, o mesmo peptídeo é vendido como "peptídeo para músculos e anti-aging". Para isso não há evidências.
+O GHRP-2 é um pequeno peptídeo artificial de seis aminoácidos que estimula a hipófise a secretar hormônio do crescimento com mais força do que quase qualquer outro estímulo conhecido. Essa potência fez dele, no Japão, um medicamento aprovado – não como terapia, mas como substância de teste: com uma única injeção é possível verificar se um adulto tem deficiência de hormônio do crescimento. No mercado cinza, o mesmo peptídeo é vendido como "peptídeo para músculos e anti-aging". Para isso não há evidências.
 
 ### Ficha técnica
 
@@ -53,7 +53,7 @@ Em ratos acordados, o GHRP-2 liberou mais hormônio do crescimento do que o GHRH
 
 **Desconhecido:** não há dados sobre o uso por meses ou anos em adultos. Sobre a questão de se um hormônio do crescimento/IGF-1 continuamente elevado aumenta o risco de câncer, veja a introdução deste grupo e a Parte IV.
 
-**Mercado cinzento:** em produtos apreendidos foi encontrado "Gly-GHRP-2", ou seja, GHRP-2 com um aminoácido adicional que não estava declarado (Krug 2018, PMID 29864719; Gajda 2019, PMID 30136411).
+**Mercado cinza:** em produtos apreendidos foi encontrado "Gly-GHRP-2", ou seja, GHRP-2 com um aminoácido adicional que não estava declarado (Krug 2018, PMID 29864719; Gajda 2019, PMID 30136411).
 
 ### Situação legal
 
