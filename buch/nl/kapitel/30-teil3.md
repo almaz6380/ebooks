@@ -61,7 +61,7 @@ Opmerking bij de tabel: bij **amycretine** vond de zoekopdracht in het register 
 | AOD-9604 | alleen dierlijke gegevens: bij muizen minder gewichtstoename (PMID 11673763) | effect bij mensen onbekend |
 | Orforglipron | ATTAIN-1: tot −11,2% vs. −2,1% als tablet (PMID 40960239) | maag-darmklachten, iets meer uitval dan semaglutidetablet |
 
-### B. Genezing, herstel en immuunsysteem
+### B. Genezing, regeneratie en immuunsysteem
 
 | Peptide | Bewijs | Registratie EU / VS | Studies bij mensen / register |
 |---|---|---|---|
@@ -119,7 +119,7 @@ Opmerkingen bij de tabel: bij **sermoreline** vindt de zoekopdracht op naam geen
 | IGF-1 LR3 | geen studie bij mensen; in een flesje van de zwarte markt een laboratoriumvariant (PMID 20675162) | hypoglykemie, groeisignalen (theoretisch) |
 | Ibutamoren | 65 ouderen: vetvrije massa +1,1 kg, kracht en functie onveranderd (PMID 18981485) | signaal voor hartfalen, hogere bloedsuiker |
 
-### D. Hersenen, slaap en een lang leven
+### D. Hersenen, slaap en levensduur
 
 | Peptide | Bewijs | Registratie EU / VS | Studies bij mensen / register |
 |---|---|---|---|
@@ -214,7 +214,7 @@ Opmerking: TB-500 is in de telling opgenomen met niveau B voor thymosine bèta-4
 
 Drie patronen:
 
-1. **Niveau A wordt bijna alleen bereikt door werkzame stoffen die een regulier registratieprogramma van een geneesmiddelenfabrikant hebben doorlopen.** Negen van de 14 vermeldingen met niveau A komen uit groep A (stofwisseling en gewicht). De overige zijn tesamoreline, macimoreline en mecasermine uit de groeihormoonas, en bremelanotide en afamelanotide. Geen van de in groep B (genezing) en groep D (hersenen en een lang leven) beschreven stoffen bereikt niveau A.
+1. **Niveau A wordt bijna alleen bereikt door werkzame stoffen die een regulier registratieprogramma van een geneesmiddelenfabrikant hebben doorlopen.** Negen van de 14 vermeldingen met niveau A komen uit groep A (stofwisseling en gewicht). De overige zijn tesamoreline, macimoreline en mecasermine uit de groeihormoonas, en bremelanotide en afamelanotide. Geen van de in groep B (genezing) en groep D (hersenen en levensduur) beschreven stoffen bereikt niveau A.
 2. **Niveau B betekent vaak „getest en niet bevestigd”.** Bij veel van de 25 vermeldingen haalde de grootste gerandomiseerde studie haar primaire doel niet: thymosine alfa-1 bij sepsis, LL-37 bij beenzweren, ipamoreline na darmoperaties, elamipretide bij myopathie, oxytocine bij autisme, glutathion tegen zenuwschade door chemotherapie.
 3. **Een derde heeft niveau C of D.** 19 van de 58 vermeldingen berusten op kleine, ongecontroleerde studies bij mensen of alleen op dier- en laboratoriumproeven – waaronder veel van de stoffen die op internet het sterkst worden aangeprezen.
 
@@ -223,7 +223,7 @@ Per groep bekeken:
 - A. Stofwisseling en gewicht (15 vermeldingen): 9 × A, 5 × B, 1 × D
 - B. Genezing en immuunsysteem (8): 5 × B, 2 × C, 1 × D
 - C. Groeihormoonas (11): 3 × A, 4 × B, 3 × C, 1 × D
-- D. Hersenen en een lang leven (12): 3 × B, 5 × C, 4 × D
+- D. Hersenen en levensduur (12): 3 × B, 5 × C, 4 × D
 - E. Hormonen en pigmentatie (6): 2 × A, 3 × B, 1 × C
 - F. Collageen en cosmetica (6): 5 × B, 1 × C
 
