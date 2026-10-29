@@ -1,6 +1,6 @@
 ## Breve storia: dall'insulina ai farmaci GLP-1
 
-La storia dei farmaci peptidici è una storia di scoperte decisive, vicoli ciechi e coincidenze sorprendenti. Comincia con un esperimento disperato a Toronto, passa per il veleno di una lucertola del deserto americano e si conclude – per ora – con iniezioni dimagranti che figurano tra i farmaci più venduti al mondo. Questo capitolo racconta le tappe più importanti. Intende aiutarLa a inquadrare l'attuale fermento intorno ai peptidi: molto di ciò che viene venduto come rivoluzionario poggia sulle spalle di cento anni di faticosa ricerca.
+La storia dei farmaci peptidici è una storia di scoperte decisive, vicoli ciechi e coincidenze sorprendenti. Comincia con un esperimento disperato a Toronto, passa per il veleno di una lucertola del deserto americano e si conclude – per ora – con iniezioni dimagranti che figurano tra i farmaci più venduti al mondo. Questo capitolo racconta le tappe più importanti. Intende aiutarti a inquadrare l'attuale fermento intorno ai peptidi: molto di ciò che viene venduto come rivoluzionario poggia sulle spalle di cento anni di faticosa ricerca.
 
 ### Prima del 1922: la scoperta dei messaggeri chimici
 

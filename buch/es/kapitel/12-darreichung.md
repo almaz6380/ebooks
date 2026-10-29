@@ -99,7 +99,7 @@ Para los péptidos esto significa que a partir de unos cuatro o cinco aminoácid
 
 Una regla empírica es solo eso: hay excepciones, y recursos como los parches de microagujas pueden superar la barrera. Estos parches llevan diminutas agujas que solo atraviesan la capa más superficial de la piel. Para los péptidos se encuentran todavía en gran medida en fase de desarrollo.
 
-Para los péptidos farmacológicos, como los análogos de GLP-1, los liberadores de hormona del crecimiento o el melanotán, rige lo siguiente: una simple crema o un gel no los hace llegar a la sangre en cantidad apreciable. Las ofertas de internet que afirman lo contrario debes considerarlas con gran escepticismo.
+Para los péptidos farmacológicos, como los análogos de GLP-1, los liberadores de hormona del crecimiento o el melanotán, rige lo siguiente: una simple crema o un gel no los hace llegar a la sangre en cantidad apreciable. Las ofertas de internet que afirman lo contrario deberías considerarlas con gran escepticismo.
 
 ### Estabilidad: el problema subestimado
 

@@ -1,6 +1,6 @@
 # Parte I – Fondamenti
 
-Prima che la Parte II si occupi dei singoli principi attivi, questa parte getta le fondamenta. Scoprirà che cosa sia chimicamente un peptide, come un estratto di pancreas di cane sia diventato nel giro di un secolo uno dei gruppi di farmaci con il maggior fatturato al mondo, perché la maggior parte dei peptidi debba essere iniettata, come si legge uno studio senza farsi ingannare dai titoli dei giornali, che cosa contengano davvero i flaconcini del mercato grigio e quali regole giuridiche si applichino.
+Prima che la Parte II si occupi dei singoli principi attivi, questa parte getta le fondamenta. Scoprirai che cosa sia chimicamente un peptide, come un estratto di pancreas di cane sia diventato nel giro di un secolo uno dei gruppi di farmaci con il maggior fatturato al mondo, perché la maggior parte dei peptidi debba essere iniettata, come si legge uno studio senza farsi ingannare dai titoli dei giornali, che cosa contengano davvero i flaconcini del mercato grigio e quali regole giuridiche si applichino.
 
 Chi desidera consultare solo un determinato peptide può passare direttamente alla Parte II. I capitoli di questa parte spiegano però i concetti e i criteri che vi vengono usati di continuo – per esempio „randomizzato“, „endpoint surrogato“, „livello di evidenza B“ o „Research Peptide“. Un rapido sguardo vale quindi la pena anche per le lettrici e i lettori di fretta.
 
@@ -12,7 +12,7 @@ Negli ultimi anni la parola „peptide“ ha fatto una carriera sorprendente. Co
 
 Tutti i peptidi e le proteine sono costituiti da amminoacidi. Un amminoacido è una piccola molecola con due componenti tipiche: un gruppo amminico (contiene azoto) e un gruppo acido (gruppo carbossilico). In mezzo si trova un atomo di carbonio centrale al quale è legata una cosiddetta catena laterale. È questa catena laterale a distinguere gli amminoacidi tra loro: può essere piccola e poco appariscente come nella glicina, oleosa e idrorepellente come nella leucina, elettricamente carica come nella lisina o contenente zolfo come nella cisteina.
 
-Il corpo umano costruisce le sue proteine essenzialmente a partire da 20 amminoacidi standard. Alcuni può produrli da sé, altri – gli amminoacidi „essenziali“ – deve assumerli con il cibo. Esistono inoltre centinaia di altri amminoacidi presenti in natura o prodotti in laboratorio. Per lo sviluppo dei farmaci questi amminoacidi „non naturali“ sono importanti perché possono rendere un peptide più stabile. Un esempio lo trova più avanti a proposito della semaglutide.
+Il corpo umano costruisce le sue proteine essenzialmente a partire da 20 amminoacidi standard. Alcuni può produrli da sé, altri – gli amminoacidi „essenziali“ – deve assumerli con il cibo. Esistono inoltre centinaia di altri amminoacidi presenti in natura o prodotti in laboratorio. Per lo sviluppo dei farmaci questi amminoacidi „non naturali“ sono importanti perché possono rendere un peptide più stabile. Un esempio lo trovi più avanti a proposito della semaglutide.
 
 Importante per comprendere molte promesse pubblicitarie: i singoli amminoacidi non sono peptidi. Un integratore alimentare con arginina, glutammina o „BCAA“ contiene amminoacidi liberi, cioè mattoni sciolti – non un peptide.
 
@@ -92,7 +92,7 @@ I peptidi occupano una nicchia tra le classiche „piccole molecole“ (come l'a
 
 Secondo una revisione, dall'introduzione dell'insulina più di 80 farmaci peptidici hanno raggiunto il mercato, per esempio contro diabete, cancro, osteoporosi, sclerosi multipla, infezione da HIV e dolore cronico (Muttenthaler 2021, PMID 33536635). Un'altra analisi ha contato oltre 150 peptidi in sviluppo clinico attivo (Lau 2018, PMID 28720325). I numeri differiscono a seconda del metodo di conteggio, ma indicano la stessa direzione: i peptidi sono una parte stabile e in crescita della medicina.
 
-Molti peptidi farmaceutici forse li conosce senza averli percepiti come peptidi: l'insulina, il farmaco per l'osteoporosi teriparatide (un frammento dell'ormone paratiroideo di 34 amminoacidi), principi attivi contro il cancro della prostata che influenzano il sistema del GnRH, l'ossitocina usata per indurre le contrazioni o l'antibiotico vancomicina, un glicopeptide.
+Molti peptidi farmaceutici forse li conosci senza averli percepiti come peptidi: l'insulina, il farmaco per l'osteoporosi teriparatide (un frammento dell'ormone paratiroideo di 34 amminoacidi), principi attivi contro il cancro della prostata che influenzano il sistema del GnRH, l'ossitocina usata per indurre le contrazioni o l'antibiotico vancomicina, un glicopeptide.
 
 ### Che cosa non sono i peptidi
 

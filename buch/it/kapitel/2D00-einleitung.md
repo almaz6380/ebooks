@@ -12,7 +12,7 @@ Il gruppo si può suddividere a grandi linee in tre famiglie:
 
 ### Il mondo dei nootropi e della longevità
 
-Chi cerca queste sostanze in internet finisce presto in forum, presso influencer e «cliniche della longevità». Tipici sono tre errori di ragionamento che incontrerà più volte nei capitoli seguenti:
+Chi cerca queste sostanze in internet finisce presto in forum, presso influencer e «cliniche della longevità». Tipici sono tre errori di ragionamento che incontrerai più volte nei capitoli seguenti:
 
 1. **Dall'animale all'uomo:** che un peptide migliori nei topi la memoria o la durata della vita dice poco sul fatto che agisca nell'uomo. Nella ricerca sull'ictus e sull'Alzheimer centinaia di principi attivi efficaci negli animali hanno fallito nell'uomo.
 2. **Dal livello all'iniezione:** che le persone con bassi livelli di MOTS-c o umanina si ammalino più spesso non dimostra che somministrarli renda sani.

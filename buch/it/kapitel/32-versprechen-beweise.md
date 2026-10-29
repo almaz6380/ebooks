@@ -73,7 +73,7 @@ La seguente checklist aiuta a valutare affermazioni sui peptidi – in negozi, v
 #### Domande sulla fonte
 
 - **Chi parla?** La persona o il sito vende la sostanza, offre corsi, consulenze o codici sconto? Un interesse economico non rende falsa un'affermazione, ma è un motivo per guardare con più attenzione.
-- **Vengono citati studi – e si possono trovare?** Le affermazioni serie indicano una fonte verificabile: un PMID, un DOI o un numero di registro (NCT). Può inserire gratuitamente qualsiasi PMID su PubMed e leggere l'abstract personalmente. Formulazioni come «gli studi dimostrano» senza indicazioni concrete sono un segnale d'allarme.
+- **Vengono citati studi – e si possono trovare?** Le affermazioni serie indicano una fonte verificabile: un PMID, un DOI o un numero di registro (NCT). Puoi inserire gratuitamente qualsiasi PMID su PubMed e leggere l'abstract personalmente. Formulazioni come «gli studi dimostrano» senza indicazioni concrete sono un segnale d'allarme.
 - **Lo studio citato corrisponde all'affermazione?** Verifichi se lo studio ha davvero esaminato la sostanza venduta, l'uso pubblicizzato e persone – oppure se si trattava di una molecola affine, di un'altra malattia o di ratti.
 
 #### Domande sullo studio
@@ -88,7 +88,7 @@ La seguente checklist aiuta a valutare affermazioni sui peptidi – in negozi, v
 #### Segnali d'allarme nel linguaggio
 
 - Promesse che riguardano contemporaneamente moltissimi disturbi diversi («per articolazioni, intestino, pelle, cervello e sistema immunitario»).
-- Termini come «rimedio miracoloso», «consiglio segreto», «quello che i medici non Le dicono» o «soppresso dall'industria farmaceutica».
+- Termini come «rimedio miracoloso», «consiglio segreto», «quello che i medici non ti dicono» o «soppresso dall'industria farmaceutica».
 - L'affermazione «nessun effetto collaterale» per una sostanza che è stata a malapena studiata sull'uomo.
 - Testimonianze e foto prima-dopo invece di dati di studio.
 - La dicitura «solo per scopi di ricerca» o «non per il consumo umano» su un prodotto che al tempo stesso viene pubblicizzato con effetti sull'uomo. Questa contraddizione mostra che il venditore vuole aggirare le norme sui farmaci (vedi Parte I).
@@ -104,7 +104,7 @@ La seguente checklist aiuta a valutare affermazioni sui peptidi – in negozi, v
 
 #### Tre domande per la vita quotidiana
 
-Se ha poco tempo, spesso bastano tre domande:
+Se hai poco tempo, spesso bastano tre domande:
 
 1. La sostanza è autorizzata nell'UE o negli USA come farmaco proprio per questo uso?
 2. Esiste almeno uno studio randomizzato, controllato con placebo, sull'uomo, che abbia dimostrato il beneficio dichiarato?

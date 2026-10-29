@@ -1,6 +1,6 @@
 # Metodologia
 
-Questa appendice descrive come sono stati cercati, selezionati e verificati gli studi per questo libro. Dovrebbe permetterLe di ricostruire la ricerca e, se necessario, di ripeterla o aggiornarla in prima persona.
+Questa appendice descrive come sono stati cercati, selezionati e verificati gli studi per questo libro. Dovrebbe permetterti di ricostruire la ricerca e, se necessario, di ripeterla o aggiornarla in prima persona.
 
 ### Banche dati
 
@@ -162,7 +162,7 @@ La classificazione si riferisce ai dati complessivi sull'uomo e al principale am
 
 ### Limiti della metodologia
 
-Come ogni ricerca bibliografica, anche questa ha dei limiti, di cui dovrebbe tenere conto durante la lettura:
+Come ogni ricerca bibliografica, anche questa ha dei limiti, di cui dovresti tenere conto durante la lettura:
 
 **I risultati non equivalgono a studi indipendenti.** Un grande studio viene spesso pubblicato in più articoli – risultato principale, sottogruppi, follow-up, qualità della vita. Ciascuno di questi articoli è un risultato a sé. Al contrario, più studi possono essere riassunti in un unico articolo. I numeri dei risultati riflettono quindi l'ordine di grandezza della ricerca, non il numero esatto di studi indipendenti.
 
@@ -184,4 +184,4 @@ Le interrogazioni delle banche dati sono state eseguite tramite le interfacce ci
 
 Inoltre ogni capitolo è stato controllato con un programma di verifica. Per ogni PMID e numero NCT citato nel testo, il programma richiama la voce in PubMed o in ClinicalTrials.gov e segnala come errore un numero inesistente. Confronta inoltre il primo autore o la prima autrice e l'anno di pubblicazione, riportati nel testo prima del PMID, con la voce della banca dati e segnala le discrepanze. Infine cerca formulazioni non ammesse come promesse di guarigione, raccomandazioni di dosaggio o indicazioni su fonti di approvvigionamento. Un capitolo era considerato finito solo quando questa verifica si concludeva senza errori. Il programma controlla inoltre se un lavoro citato è stato nel frattempo ritirato; tali lavori sono espressamente segnalati nel testo. Per concludere, circa 1.450 passaggi contenenti cifre sono stati confrontati uno per uno con i riassunti e, dove necessario, corretti.
 
-Questa verifica garantisce che ogni fonte citata esista e sia attribuita correttamente. Non può escludere del tutto che un risultato sia riportato nel testo in modo abbreviato o fuorviante. Per questo tutte le fonti sono indicate in modo che possa consultarle personalmente – come fare è spiegato nella sezione «Su questo libro» all'inizio.
+Questa verifica garantisce che ogni fonte citata esista e sia attribuita correttamente. Non può escludere del tutto che un risultato sia riportato nel testo in modo abbreviato o fuorviante. Per questo tutte le fonti sono indicate in modo che tu possa consultarle personalmente – come fare è spiegato nella sezione «Su questo libro» all'inizio.

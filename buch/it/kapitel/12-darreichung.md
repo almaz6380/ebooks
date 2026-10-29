@@ -1,6 +1,6 @@
 ## Come i peptidi entrano nell'organismo – e perché è difficile
 
-Quasi tutti i farmaci peptidici che conosce vengono iniettati: insulina, semaglutide, tirzepatide, teriparatide. Non è un caso né una preferenza dell'industria farmaceutica, ma una conseguenza della biologia. Il corpo umano è bravissimo a scomporre proteine e peptidi – dopotutto vive proprio della scomposizione delle proteine alimentari nei loro mattoni. Questo capitolo spiega quali ostacoli un peptide deve superare per raggiungere il suo sito d'azione, quali vie ha trovato la medicina e perché molte promesse legate a gocce, capsule e creme vanno considerate con cautela.
+Quasi tutti i farmaci peptidici che conosci vengono iniettati: insulina, semaglutide, tirzepatide, teriparatide. Non è un caso né una preferenza dell'industria farmaceutica, ma una conseguenza della biologia. Il corpo umano è bravissimo a scomporre proteine e peptidi – dopotutto vive proprio della scomposizione delle proteine alimentari nei loro mattoni. Questo capitolo spiega quali ostacoli un peptide deve superare per raggiungere il suo sito d'azione, quali vie ha trovato la medicina e perché molte promesse legate a gocce, capsule e creme vanno considerate con cautela.
 
 ### Il problema di fondo: la biodisponibilità
 

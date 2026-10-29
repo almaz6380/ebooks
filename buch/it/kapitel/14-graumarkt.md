@@ -2,7 +2,7 @@
 
 Chi cerca peptidi su Internet approda rapidamente a negozi online con pagine dall'aspetto professionale, foto di laboratorio e certificati di purezza. Vengono offerti flaconcini di polvere bianca: BPC-157, TB-500, ipamorelin, melanotan II – e sempre più spesso anche semaglutide, tirzepatide o principi attivi non ancora autorizzati come la retatrutide. Quasi sempre compare da qualche parte la dicitura „Research Use Only“ o „not for human consumption“ – solo a scopo di ricerca, non per l'uso nell'uomo.
 
-Questo capitolo descrive ciò che si sa di questo mercato: da analisi di laboratorio di prodotti acquistati e sequestrati, da casi clinici di intossicazioni e da analisi delle segnalazioni di effetti collaterali. Intende aiutarLa a valutare i rischi in modo realistico. In questo libro, per principio, non vengono indicate fonti di approvvigionamento.
+Questo capitolo descrive ciò che si sa di questo mercato: da analisi di laboratorio di prodotti acquistati e sequestrati, da casi clinici di intossicazioni e da analisi delle segnalazioni di effetti collaterali. Intende aiutarti a valutare i rischi in modo realistico. In questo libro, per principio, non vengono indicate fonti di approvvigionamento.
 
 ### Che cosa sono i „Research Peptides“
 
@@ -124,11 +124,11 @@ I motivi per ricorrere al mercato grigio sono molteplici: prezzi elevati e manca
 
 Queste motivazioni sono comprensibili. Le analisi di questo capitolo mostrano però che chi acquista sul mercato grigio non può sapere che cosa riceve effettivamente.
 
-### Se ha già usato peptidi del mercato grigio
+### Se hai già usato peptidi del mercato grigio
 
 Questo libro non fornisce indicazioni d'uso. Alcuni punti generali sono però importanti per motivi di sicurezza:
 
-- Informi il Suo medico di tutte le iniezioni, i peptidi e le „sostanze chimiche per la ricerca“ che usa – anche se non li considera farmaci.
+- Informa il tuo medico di tutte le iniezioni, i peptidi e le „sostanze chimiche per la ricerca“ che usi – anche se non li consideri farmaci.
 - Disturbi inattesi come tremore, sudorazione, confusione o alterazioni della coscienza dopo un'iniezione possono indicare un'ipoglicemia e sono un'emergenza.
 - Prodotti sospetti ed effetti collaterali possono essere segnalati alle autorità: in Germania all'Istituto federale per i farmaci e i dispositivi medici (BfArM), in Austria all'Ufficio federale per la sicurezza sanitaria (BASG).
 

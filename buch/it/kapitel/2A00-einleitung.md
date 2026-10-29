@@ -4,7 +4,7 @@ Nessun gruppo di peptidi ha cambiato la medicina degli ultimi anni quanto i prin
 
 ### Che cosa accomuna questi principi attivi: ormoni dell'intestino e del pancreas
 
-Quasi tutti i principi attivi di questo gruppo imitano ormoni che l'organismo rilascia intorno a un pasto. Quattro di essi dovrebbe conoscerli:
+Quasi tutti i principi attivi di questo gruppo imitano ormoni che l'organismo rilascia intorno a un pasto. Quattro di essi dovresti conoscerli:
 
 - Il **GLP-1 (glucagon-like peptide-1)** viene rilasciato dalle cellule dell'intestino tenue e del colon non appena arriva il cibo. Potenzia la secrezione di insulina – ma solo quando la glicemia è elevata –, rallenta lo svuotamento gastrico e segnala sazietà al cervello. Il GLP-1 endogeno viene degradato nel giro di pochi minuti; i farmaci sono modificati in modo da agire da un giorno a una settimana.
 - Il **GIP (polipeptide insulinotropico glucosio-dipendente)** proviene dalla parte superiore dell'intestino tenue e potenzia anch'esso la secrezione di insulina. Il suo ruolo su appetito e peso corporeo è contraddittorio: la tirzepatide attiva il recettore del GIP, maridebart cafraglutide lo blocca – ed entrambi portano a una perdita di peso.

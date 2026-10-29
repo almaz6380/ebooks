@@ -1,6 +1,6 @@
 ## Leggere correttamente gli studi
 
-„Gli studi dimostrano …“ – poche formule vengono usate così spesso nella pubblicità dei peptidi. Può significare qualsiasi cosa: un esperimento con cellule in una piastra di Petri, una prova su dodici ratti, la testimonianza di un singolo paziente o uno studio con 17.000 partecipanti durato più di tre anni. Chi vuole valutare i peptidi deve conoscere queste differenze. Questo capitolo è una sorta di cassetta degli attrezzi. Spiega i principali tipi di studio, le insidie nell'interpretazione dei risultati e come può verificare personalmente che cosa si nasconde dietro un'affermazione.
+„Gli studi dimostrano …“ – poche formule vengono usate così spesso nella pubblicità dei peptidi. Può significare qualsiasi cosa: un esperimento con cellule in una piastra di Petri, una prova su dodici ratti, la testimonianza di un singolo paziente o uno studio con 17.000 partecipanti durato più di tre anni. Chi vuole valutare i peptidi deve conoscere queste differenze. Questo capitolo è una sorta di cassetta degli attrezzi. Spiega i principali tipi di studio, le insidie nell'interpretazione dei risultati e come puoi verificare personalmente che cosa si nasconde dietro un'affermazione.
 
 ### La piramide delle evidenze
 
@@ -38,7 +38,7 @@ Per questo libro ciò ha una conseguenza chiara: se per un peptide sono disponib
 
 ### Casi clinici e studi osservazionali
 
-I **casi clinici** descrivono singole pazienti o singoli pazienti. Sull'efficacia dicono poco, per la sicurezza invece possono essere molto preziosi: effetti collaterali rari o inattesi emergono spesso per la prima volta nei casi clinici. Nel capitolo sul mercato grigio incontrerà diverse segnalazioni di questo tipo, per esempio di gravi ipoglicemie dovute a preparati contraffatti.
+I **casi clinici** descrivono singole pazienti o singoli pazienti. Sull'efficacia dicono poco, per la sicurezza invece possono essere molto preziosi: effetti collaterali rari o inattesi emergono spesso per la prima volta nei casi clinici. Nel capitolo sul mercato grigio incontrerai diverse segnalazioni di questo tipo, per esempio di gravi ipoglicemie dovute a preparati contraffatti.
 
 Gli **studi osservazionali** confrontano persone che assumono una sostanza con persone che non la assumono. Il loro problema principale è il cosiddetto **fattore di confondimento** (confounding): chi assume un determinato preparato si distingue spesso anche per altri aspetti – per esempio reddito, attenzione alla salute o malattie preesistenti. Un'associazione riscontrata non deve quindi necessariamente essere un rapporto di causa-effetto.
 
@@ -86,7 +86,7 @@ Particolarmente importante è la distinzione tra **endpoint solidi** ed **endpoi
 
 Gli endpoint surrogati sono pratici perché si possono misurare più rapidamente e con meno partecipanti. Ma possono essere fuorvianti. L'esempio più noto è il Cardiac Arrhythmia Suppression Trial (CAST) della fine degli anni Ottanta. Si dava per scontato che i farmaci che sopprimono determinate aritmie cardiache dopo un infarto prevenissero anche i decessi. I farmaci sopprimevano effettivamente le aritmie – l'endpoint surrogato era raggiunto. Ma nello studio randomizzato con due di questi farmaci morirono più persone che con placebo: di aritmie morirono 43 partecipanti con principio attivo contro 16 con placebo (Echt 1991, PMID 1900101).
 
-Con i peptidi incontrerà di continuo endpoint surrogati. Per i secretagoghi dell'ormone della crescita spesso si misura solo se il livello di ormone della crescita o di IGF-1 aumenta – non se le persone diventano così più sane, più forti o più longeve. Per i farmaci GLP-1, invece, esistono ormai grandi studi con endpoint solidi come infarto e ictus. È uno dei motivi per cui in questo libro ricevono il livello di evidenza più alto.
+Con i peptidi incontrerai di continuo endpoint surrogati. Per i secretagoghi dell'ormone della crescita spesso si misura solo se il livello di ormone della crescita o di IGF-1 aumenta – non se le persone diventano così più sane, più forti o più longeve. Per i farmaci GLP-1, invece, esistono ormai grandi studi con endpoint solidi come infarto e ictus. È uno dei motivi per cui in questo libro ricevono il livello di evidenza più alto.
 
 ### Rischi relativi e assoluti
 

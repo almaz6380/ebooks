@@ -2,7 +2,7 @@
 
 Se un peptide sia un farmaco soggetto a prescrizione, un integratore alimentare, un cosmetico o una sostanza dopante vietata non dipende soltanto dalla molecola. Contano anche lo scopo a cui è destinato, il modo in cui viene offerto e come agisce nell'organismo. Lo stesso peptide di collagene può trovarsi sullo scaffale del supermercato come alimento; un peptide con un effetto di tipo ormonale dimostrabile è invece quasi sempre un farmaco – qualunque cosa ci sia scritto sull'etichetta. Questo capitolo offre una panoramica delle regole nell'Unione europea, in Austria, in Germania e negli Stati Uniti, nonché delle norme antidoping.
 
-> **Avvertenza importante:** questo capitolo riporta la situazione del 2026 secondo le migliori conoscenze disponibili e non costituisce consulenza legale. Leggi, regolamenti, prassi delle autorità e la Lista delle sostanze proibite dell'Agenzia mondiale antidoping cambiano regolarmente. Verifichi nel singolo caso il quadro normativo attuale e, per questioni concrete, si rivolga a un avvocato o all'autorità competente.
+> **Avvertenza importante:** questo capitolo riporta la situazione del 2026 secondo le migliori conoscenze disponibili e non costituisce consulenza legale. Leggi, regolamenti, prassi delle autorità e la Lista delle sostanze proibite dell'Agenzia mondiale antidoping cambiano regolarmente. Verifica nel singolo caso il quadro normativo attuale e, per questioni concrete, rivolgiti a un avvocato o all'autorità competente.
 
 ### Tre cassetti: farmaci, alimenti, cosmetici
 
