@@ -10,7 +10,7 @@
 - **WADA:** not on the Prohibited List (status as of 2026; please check for current information).
 - **Evidence level:** **A** – numerous large randomized trials, outcomes trials on the heart and heart failure, approval in many countries.
 
-### How It Is Supposed to Work
+### How it is supposed to work
 
 After a meal, the gut releases two hormones known as incretins: GLP-1 (glucagon-like peptide-1) and GIP (glucose-dependent insulinotropic polypeptide). Both tell the pancreas "food is coming" and enhance insulin release – but only as long as blood sugar is elevated. This is why incretin medications on their own rarely cause hypoglycemia. GLP-1 additionally slows gastric emptying and acts on satiety centers in the brain. The role GIP plays in appetite is less clear and was long disputed; in some older papers, GIP was even regarded as more of a "fattening hormone."
 
@@ -20,7 +20,7 @@ In overweight mice, tirzepatide improved insulin sensitivity more than a pure GL
 
 Put simply: tirzepatide acts like a GLP-1 medication with an additional GIP "amplifier." The studies show that this package achieves more for weight and blood sugar than the pure GLP-1 agonists available previously – exactly why is not yet fully understood.
 
-### Human Studies
+### Human studies
 
 **Scale of the evidence:** The automated PubMed query (October 2026) yielded 144 publications classified as human studies with "tirzepatide" in the title or abstract, plus a very large number of reviews and meta-analyses. ClinicalTrials.gov listed 307 registered studies, more than 100 of them still recruiting (an obviously fictitious sample entry from an unknown sponsor is not counted). Tirzepatide is thus among the best-studied drugs in this book. The main weight is borne by two approval programs: **SURPASS** (type 2 diabetes) and **SURMOUNT** (obesity), supplemented by studies on heart failure, sleep apnea, and fatty liver disease.
 
@@ -131,13 +131,13 @@ The literature on tirzepatide is growing very rapidly. In addition to the large 
 
 On body composition: in a DXA substudy of SURMOUNT-1 with 160 people, about 75% of the weight lost consisted of fat and about 25% of fat-free mass (which includes muscle) – in the same ratio as in the placebo group (Look 2025, PMID 39996356). The concern about muscle loss is therefore justified, but it is not an effect specific to tirzepatide; rather, it is typical of any substantial weight loss.
 
-### Animal and Laboratory Studies
+### Animal and laboratory studies
 
 The preclinical development is unusually well published. In cell cultures, tirzepatide activates both receptors; in mice, it lowered weight and food intake more than a pure GLP-1 agonist (Coskun 2018, PMID 30473097). Studies in mice without a functioning GLP-1 receptor showed that the GIP component improves insulin sensitivity in adipose tissue (Samms 2021, PMID 34003802). Studies on distribution and breakdown in the body are available in humans, rats, and monkeys: the molecule is metabolized by cleavage of the peptide backbone and breakdown of the fatty acid chain; in humans, about 66% of the labeled substance was found in urine and about 33% in feces, whereas unchanged tirzepatide was found in neither (Martin 2024, PMID 39243911).
 
 As with all long-acting GLP-1 agonists, tumors of the thyroid C cells occurred in long-term studies in rodents. Whether this finding is transferable to humans is unclear, because rodents carry considerably more GLP-1 receptors on these cells. This animal finding is the basis for the warnings in the prescribing information (see below).
 
-### Risks and Side Effects
+### Risks and side effects
 
 **Established from studies:**
 
@@ -155,14 +155,14 @@ As with all long-acting GLP-1 agonists, tumors of the thyroid C cells occurred i
 
 **Copycat products:** During the shortages of 2022 to 2024, tirzepatide preparations were made in pharmacies in the USA ("compounding"), and at the same time a large online gray market emerged. A 2025 investigation found 33 preparations containing semaglutide or tirzepatide in dosage forms that are not approved – such as lozenges or mixtures with vitamins; data on efficacy and safety are lacking for these products (Belcourt 2026, PMID 41689811). This applies to an even greater degree to "research" products without a marketing authorization (see Part I and Part IV).
 
-### Legal Status
+### Legal status
 
 - **EU / Austria / Germany:** Tirzepatide is centrally authorized in the EU as Mounjaro (2022 for type 2 diabetes, since late 2023 also for weight management). It is prescription-only. Whether health insurance covers the costs depends on the indication: for type 2 diabetes, reimbursement is possible in principle; in Germany, weight-reduction drugs are largely excluded from reimbursement by law, and in Austria separate, restrictive rules apply. Details change – please check for current information.
 - **USA:** Approved as Mounjaro (2022, type 2 diabetes) and as Zepbound (2023, chronic weight management; in 2024 additionally obstructive sleep apnea in obesity). Since the end of the official shortage, the FDA has severely restricted the production of copies in pharmacies.
 - **Sport:** Tirzepatide is not on the WADA Prohibited List (status as of 2026; please check for current information).
 - **Gray market:** Trading in unapproved tirzepatide products ("for research use only") is not a legal route to a medicine in the EU; the products are not subject to any quality control.
 
-### Ongoing Studies and Outlook
+### Ongoing studies and outlook
 
 **Established (registered studies, status as of October 2026):**
 

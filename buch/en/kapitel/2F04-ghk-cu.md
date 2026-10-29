@@ -11,7 +11,7 @@
 - **WADA:** not listed by name. When injected as a non-approved substance, category S0 ("non-approved substances") may apply (as of 2026, please check for updates).
 - **Evidence level:** **C** – one older randomized wound study and a few very small skin studies; for the uses promoted today (anti-aging cosmetics, injections), no robust controlled human data.
 
-### How It Is Supposed to Work
+### How it is supposed to work
 
 GHK binds copper so tightly that it can transport this vital trace element into cells. Copper is needed by several enzymes that are important for connective tissue, such as lysyl oxidase, which cross-links collagen and elastin fibers. An early paper suggested as early as 1980 that GHK exerts its effect on cells by facilitating copper uptake (Pickart 1980, PMID 7453802).
 
@@ -21,7 +21,7 @@ In cell cultures, GHK-Cu stimulated collagen production by fibroblasts even at e
 
 For cosmetic use, it is decisive whether GHK-Cu overcomes the skin barrier. The stratum corneum of the skin is poorly permeable to water-soluble, charged molecules such as GHK. A 2025 review concludes that GHK could undoubtedly be considered an anti-wrinkle agent in cell experiments, but that there are strikingly few clinical studies; copper binding and fatty acid attachments improve permeability, and microneedles and other aids are being researched (Mortazavi 2025, PMID 39963574). A study in three volunteers found the related Pal-GHK in all layers of the stratum corneum after application, but only between the cells and in decreasing amounts with depth (Trzaska 2026, PMID 42790608). Whether sufficient amounts reach the deeper layers of the skin where collagen is formed has not been clarified.
 
-### Human Studies
+### Human studies
 
 The PubMed search evaluated for this book (GHK-Cu, copper tripeptide or copper peptide GHK in title or abstract, search date October 2026) yielded only **one** human study. On ClinicalTrials.gov, the search yielded 25 entries, but almost all of them concern other copper compounds (such as radioactive copper-64 for imaging). Only one credible entry actually studies GHK or GHK-Cu; another entry on a GHK-Cu wound gel comes from a sponsor whose registry entries, according to our review, are apparently fictitious sample or test entries, and is therefore not taken into account here. An extended search additionally yielded the older wound study mentioned below as well as individual case reports.
 
@@ -39,7 +39,7 @@ The PubMed search evaluated for this book (GHK-Cu, copper tripeptide or copper p
 
 **Injections:** There is not a single published controlled study of injected GHK-Cu in humans. A review for orthopedics and sports medicine states that there are no clinical data for use in musculoskeletal disorders and that the dose, frequency and duration of treatment are unknown (Mayfield 2026, PMID 41476424). Another review of non-approved peptides in sports medicine concludes that robust human safety data are lacking and that there is a potential for harm (Mendias 2026, PMID 41966639).
 
-### Animal and Laboratory Studies
+### Animal and laboratory studies
 
 The preclinical literature is extensive:
 
@@ -50,7 +50,7 @@ The preclinical literature is extensive:
 
 These findings show biological activity but cannot readily be transferred to humans – least of all to cosmetic creams with unclear skin penetration.
 
-### Risks and Side Effects
+### Risks and side effects
 
 **Cosmetic use (established or likely):** GHK-Cu has been used in cosmetics for decades; no relevant side effects were reported in the few studies. As with any cosmetic ingredient, skin irritation and contact allergies are possible. Copper-containing serums may or may not be chemically compatible with other active ingredients (such as vitamin C or acids) – this is a question of formulation.
 
@@ -62,13 +62,13 @@ These findings show biological activity but cannot readily be transferred to hum
 - **Growth signals:** In animal experiments, GHK-Cu promotes the formation of new blood vessels (angiogenesis). Whether this poses a risk in existing tumors is unknown (theoretical risk).
 - **Gray-market quality:** "Research peptides" are manufactured without pharmaceutical quality control. Impurities, wrong amounts or bacterial contamination are possible; injections of non-sterile products can lead to abscesses and infections. A review describes these risks for injectable "biohacking" peptides in general (Moiz 2026, PMID 42757290). Part IV covers the topic in detail.
 
-### Legal Status
+### Legal status
 
 - **EU / Austria / Germany:** GHK-Cu (Copper Tripeptide-1) may be used as an ingredient in cosmetics; the EU Cosmetics Regulation (Regulation (EC) No 1223/2009) applies. Cosmetics may only be intended for application to the skin and its appendages and may not claim medicinal effects; advertising claims must be substantiated in accordance with Regulation (EU) No 655/2013. GHK-Cu intended for injection is not a cosmetic but an unapproved medicine. Its sale for human use is not permitted; labels such as "for research purposes only" do not change this.
 - **USA:** Permitted in cosmetics. To our knowledge, in 2023 the FDA placed GHK-Cu for injection on a list of substances for which it sees significant safety concerns for pharmacy preparation (compounding); the classification of several peptides has since been rediscussed (as of 2026, please check for updates).
 - **Sport:** GHK-Cu is not named on the WADA list. Cosmetic creams are considered unproblematic. Injected GHK-Cu as a non-approved substance could fall under category S0; athletes should check with their National Anti-Doping Agency if in doubt (as of 2026, please check for updates).
 
-### Ongoing Studies and Outlook
+### Ongoing studies and outlook
 
 **Established (registered studies, as of October 2026):**
 

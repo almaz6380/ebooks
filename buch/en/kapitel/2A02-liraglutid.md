@@ -11,7 +11,7 @@
 - **WADA:** not listed (status as of 2026; please check for current information).
 - **Evidence level:** **A** – two large approval programs (LEAD, SCALE), one large outcomes trial (LEADER), studies in children and adolescents.
 
-### How It Is Supposed to Work
+### How it is supposed to work
 
 Liraglutide acts like the body's own gut hormone GLP-1: it enhances glucose-dependent insulin release, inhibits glucagon, which raises blood sugar, slows gastric emptying, and dampens appetite in the brain. The basic mechanism of the class is described in the chapter Exenatide.
 
@@ -21,7 +21,7 @@ Effects in the brain are primarily responsible for weight loss. In mice and rats
 
 Semaglutide later emerged from liraglutide: the same basic idea, but with stronger albumin binding that allows one injection per week (Knudsen 2019, PMID 31031702).
 
-### Human Studies
+### Human studies
 
 Liraglutide is among the best-studied peptide drugs. The PubMed query evaluated for this book (search term "liraglutide" in title or abstract, query date October 2026) yielded 613 human studies – more than for any other peptide in this book. ClinicalTrials.gov lists 517 registry entries. The following focuses on the approval and outcomes trials; in addition, there are hundreds of smaller studies on the liver, heart, brain, fertility, and eating disorders.
 
@@ -113,7 +113,7 @@ In SCALE Kids (Fox 2025, PMID 39258838), the body weight of the growing children
 - **Alzheimer's disease:** In the phase 2b trial ELAD with 204 people without diabetes, the primary endpoint, glucose metabolism in the brain, did not change (Edison 2026, PMID 41326666). In a secondary endpoint on executive function, liraglutide performed better, but not for activities of daily living or dementia severity. Secondary endpoints without correction for multiple testing are only indications.
 - **Alcohol and other addictions:** In a Swedish registry study of 227,866 people with alcohol dependence, the use of liraglutide was associated with a 28% lower risk of alcohol-related hospital admissions (Lähteenvuo 2025, PMID 39535805). Observational data of this kind show associations, not cause-and-effect relationships.
 
-### Animal and Laboratory Studies
+### Animal and laboratory studies
 
 Much of today's understanding of GLP-1 action in the brain comes from animal experiments with liraglutide. In rats and mice, it was shown that, despite its size, the molecule reaches certain brain regions without a tight blood-brain barrier and stimulates appetite-suppressing nerve cells there (Secher 2014, PMID 25202980).
 
@@ -121,7 +121,7 @@ The findings on the thyroid had particularly far-reaching consequences. In long-
 
 Further animal studies have dealt with cardioprotection, neuroprotection (Alzheimer's and Parkinson's models), fatty liver, and kidney damage. As with exenatide, transferability to humans is limited: the Alzheimer's trial ELAD, for example, missed its primary endpoint even though the animal data were positive.
 
-### Risks and Side Effects
+### Risks and side effects
 
 **Established from randomized trials:**
 
@@ -138,7 +138,7 @@ Further animal studies have dealt with cardioprotection, neuroprotection (Alzhei
 
 **Notes for practice:** Liraglutide is not indicated during pregnancy. Like all GLP-1 receptor agonists, it slows gastric emptying, which can play a role during anesthesia and in the absorption of other medications. The prescribing information and medical supervision are authoritative, including for the gradual dose escalation.
 
-### Legal Status
+### Legal status
 
 - **EU:** Victoza has been approved since 2009 for the treatment of type 2 diabetes, Saxenda since 2015 for weight management in adults and adolescents. Both are prescription-only.
 - **Germany:** For diabetes, statutory health insurers reimburse liraglutide. Weight-reduction drugs, by contrast, are in principle excluded from reimbursement under Section 34 of Book V of the Social Code (SGB V); insured persons generally have to pay for Saxenda themselves (status as of 2026; please check for current information).
@@ -149,7 +149,7 @@ Further animal studies have dealt with cardioprotection, neuroprotection (Alzhei
 
 The generics make liraglutide a special case in its class: it is the first GLP-1 drug with proven cardiovascular benefit that can become considerably cheaper. This is particularly important in countries with limited health budgets, even though the daily injection and the smaller effect compared with semaglutide remain disadvantages. More on patent expirations and prices in Part V.
 
-### Ongoing Studies and Outlook
+### Ongoing studies and outlook
 
 **Established (registered studies):** There are hardly any new approval trials by Novo Nordisk; research is mainly carried out by hospitals and universities. Examples:
 

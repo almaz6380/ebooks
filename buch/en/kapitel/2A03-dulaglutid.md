@@ -11,7 +11,7 @@
 - **WADA:** not listed (status as of 2026; please check for current information).
 - **Evidence level:** **A** – AWARD study program with more than ten randomized phase 3 trials, outcomes trial REWIND, study in adolescents.
 
-### How It Is Supposed to Work
+### How it is supposed to work
 
 Dulaglutide acts on the GLP-1 receptor like exenatide, liraglutide, and semaglutide: it enhances glucose-dependent insulin release, suppresses the hormone glucagon, slows gastric emptying, and dampens appetite. The basic mechanism is explained in the chapter Exenatide.
 
@@ -21,7 +21,7 @@ In the GLP-1 chains themselves, individual amino acids were exchanged – partly
 
 A disadvantage of its size: the molecule presumably has more difficulty reaching the brain regions that control appetite. This could explain why dulaglutide produces less weight loss than semaglutide despite comparable blood sugar reduction. This explanation is plausible but not proven.
 
-### Human Studies
+### Human studies
 
 The PubMed query evaluated for this book (search term "dulaglutide" in title or abstract, query date October 2026) yielded 158 human studies; ClinicalTrials.gov lists 143 registry entries. The number is smaller than for liraglutide or semaglutide, but the studies are particularly systematic: the AWARD program (Assessment of Weekly AdministRation of LY2189265 in Diabetes) tested dulaglutide against almost every common diabetes therapy. It is also striking how often dulaglutide itself serves as the comparator for newer drugs – from semaglutide and tirzepatide to new Chinese developments.
 
@@ -123,13 +123,13 @@ In AWARD-PEDS with 154 adolescents with type 2 diabetes, HbA1c rose by 0.6 perce
 - **Alcohol:** In a prespecified secondary analysis of the same study, participants on dulaglutide drank 29% less alcohol than those on placebo after 12 weeks (Probst 2023, PMID 37991022). The study was not designed for this question.
 - **Primary polydipsia** (pathologically increased drinking): in a crossover study with 34 people, dulaglutide reduced fluid intake during an eight-hour test by 490 ml, corresponding to 17% (Winzeler 2021, PMID 34473645). An indication that GLP-1 also influences the sensation of thirst.
 
-### Animal and Laboratory Studies
+### Animal and laboratory studies
 
 The preclinical characterization of dulaglutide (then LY2189265) was carried out in cells, rats, mice, and cynomolgus monkeys (Glaesner 2010, PMID 20503261). In laboratory experiments, the fusion protein retained full activity at the GLP-1 receptor. In diabetic mice, a single dose improved glucose tolerance; twice-weekly doses over four weeks lowered weight and delayed the rise in blood sugar. In monkeys, the effect on insulin release lasted up to one week after a single dose.
 
 As with all GLP-1 receptor agonists, changes in the C cells of the thyroid occurred in long-term studies in rodents; the mechanism and its limited transferability to humans are described in the chapter Liraglutide (Bjerre Knudsen 2010, PMID 20203154).
 
-### Risks and Side Effects
+### Risks and side effects
 
 **Established from randomized trials:**
 
@@ -146,7 +146,7 @@ As with all GLP-1 receptor agonists, changes in the C cells of the thyroid occur
 
 **Notes for practice:** Dulaglutide slows gastric emptying, which plays a role in anesthesia and gastroscopy; a large study is under way on whether GLP-1 receptor agonists should be paused before a gastroscopy (NCT07276763). The prescribing information and medical supervision are authoritative.
 
-### Legal Status
+### Legal status
 
 - **EU:** Trulicity has been centrally authorized since 2014 for the treatment of type 2 diabetes, now also for adolescents aged 10 and older. Prescription-only. No approval for weight reduction.
 - **Germany and Austria:** prescription-only; reimbursable for type 2 diabetes. From 2022 onward, as with other GLP-1 products, there were temporary supply shortages (please check for current information).
@@ -155,7 +155,7 @@ As with all GLP-1 receptor agonists, changes in the C cells of the thyroid occur
 - **Sport (WADA):** not listed (status as of 2026; please check for current information).
 - **Gray market:** Dulaglutide plays practically no role on the gray market because a large fusion protein cannot be produced synthetically like small peptides.
 
-### Ongoing Studies and Outlook
+### Ongoing studies and outlook
 
 **Established (registered studies):**
 

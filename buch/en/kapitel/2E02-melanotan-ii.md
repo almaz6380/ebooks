@@ -10,7 +10,7 @@
 - **WADA:** not named explicitly; as a substance not approved anywhere, it falls under group S0 (non-approved substances) and is therefore prohibited at all times (as of 2026, please check for updates).
 - **Evidence level:** **C** – only very small pilot studies from the 1990s with a total of around two dozen participants, supplemented by numerous case reports of side effects from uncontrolled self-administration.
 
-### How It Is Supposed to Work
+### How it is supposed to work
 
 The skin tans when pigment cells (melanocytes) produce more melanin. The signal for this comes, among other things, from the hormone alpha-MSH, which binds to the MC1R receptor on the pigment cells. After sunbathing, alpha-MSH production in the skin increases, and the pigment cells switch to the dark, protective eumelanin.
 
@@ -23,7 +23,7 @@ Research into this "side effect" gave rise to two other drugs which, unlike mela
 
 On the internet, these names are often mixed up. "Melanotan" without further specification can refer to one or the other depending on the seller – or to something else entirely (Langan 2011, PMID 21547334).
 
-### Human Studies
+### Human studies
 
 **Size of the evidence base (search October 2026):** The automated search for this book found **8** human studies in PubMed (`humanstudien_alle`) and a single entry on ClinicalTrials.gov, which on inspection proved untrustworthy (see Outlook) – so there are **0** reliable registered studies. The PubMed figure is also misleading: four of the eight studies examined melanotan I, i.e. the later afamelanotide, not melanotan II. For melanotan II itself, there are only three small original studies and one summary by the same research group. The literature on side effects is far more extensive: case reports, case series, analyses of internet forums and laboratory analyses of gray-market products.
 
@@ -54,7 +54,7 @@ An analysis of British and Irish internet forums from 2016 and 2017 evaluated 62
 
 In recent years, advertising has increasingly shifted to social media such as TikTok, where melanotan is promoted as the "Barbie drug." Several dermatology journals have analyzed such content and warn against trivializing it (Orr 2025, PMID 38808957; Herlihy 2025, PMID 39148422; Sidhu 2026, PMID 41559011).
 
-### Animal and Laboratory Studies
+### Animal and laboratory studies
 
 In basic research, melanotan II is a standard tool for activating melanocortin receptors. Accordingly, there are numerous animal experiments, but they mostly answer questions in neuroscience and do not concern safety in humans:
 
@@ -64,7 +64,7 @@ In basic research, melanotan II is a standard tool for activating melanocortin r
 
 None of these results has been confirmed in humans.
 
-### Risks and Side Effects
+### Risks and side effects
 
 The risks of melanotan II can be sorted into three groups: the expected effects via the melanocortin receptors, the skin changes with the open question of skin cancer, and severe individual cases.
 
@@ -96,7 +96,7 @@ A review of all published cases of suddenly appearing moles (179 people) found m
 
 A laboratory bought vials of melanotan II from three online shops. All promised 10 mg per vial; in fact, they contained between 4.32 and 8.84 mg. Products from two shops contained 4.1 to 5.9% unknown impurities (Breindahl 2015, PMID 24771717). A forensic laboratory determined a purity of 30% in a seized sample (Deville 2024, PMID 39302005). In addition, there are the risks of non-sterile preparation and shared needles, which experts explicitly point out (Gilhooley 2021, PMID 34464955). More on purity and counterfeits on the gray market can be found in Part I and Part IV.
 
-### Legal Status
+### Legal status
 
 *As of 2026, please check for updates.*
 
@@ -106,7 +106,7 @@ A laboratory bought vials of melanotan II from three online shops. All promised 
 - **USA:** no FDA approval; distribution as a drug for use in humans is not permitted.
 - **WADA:** prohibited as a non-approved substance (S0).
 
-### Ongoing Studies and Outlook
+### Ongoing studies and outlook
 
 **Established (registered studies):** none. ClinicalTrials.gov did contain an entry on melanotan II in vitiligo; however, the sponsor of this entry has also registered entries that describe themselves as fictitious. The entry is therefore not counted here as a genuine study. Incidentally, this shows that a registry entry is not proof that a study is actually taking place.
 

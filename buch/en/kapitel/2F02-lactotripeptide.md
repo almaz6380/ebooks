@@ -10,7 +10,7 @@
 - **WADA:** not listed (as of 2026, please check for updates).
 - **Evidence level:** **B** – around 30 randomized studies with a total of several thousand participants, but each small, with contradictory results and without hard endpoints.
 
-### How It Is Supposed to Work
+### How it is supposed to work
 
 Blood pressure is controlled, among other things, by the renin-angiotensin system. A central step is the conversion of inactive angiotensin I into vasoconstricting angiotensin II by the enzyme ACE. The same enzyme also breaks down bradykinin, a substance that dilates blood vessels. If ACE is inhibited, less angiotensin II and more bradykinin are formed – blood pressure falls. ACE inhibitors, one of the most important groups of blood pressure medications, are based on this principle. Of historical interest: the first ACE inhibitor, captopril, was developed from a peptide in snake venom.
 
@@ -20,7 +20,7 @@ For this to work, the peptides must reach the bloodstream intact. A small study 
 
 This means: the mechanism that is plausible in the laboratory could not be demonstrated in humans at the amounts tested. Other pathways are therefore also being discussed, such as improved function of the inner vessel wall via nitric oxide. So far, these come mainly from cell culture and animal experiments.
 
-### Human Studies
+### Human studies
 
 The PubMed search evaluated for this book (lactotripeptides or valyl-prolyl-proline, search date October 2026) yielded 21 human studies; on ClinicalTrials.gov, the search "lactotripeptides" found no registry entry. Most studies were conducted before registration became mandatory for nutrition studies. The meta-analyses refer to up to 30 randomized studies, including many Japanese studies that are not fully captured in the PubMed search.
 
@@ -73,11 +73,11 @@ Three patterns run through all the analyses:
 
 There is no study showing that lactotripeptides prevent heart attacks, strokes or deaths. Given the small effect, such a study is not to be expected either.
 
-### Animal and Laboratory Studies
+### Animal and laboratory studies
 
 In rats with congenital high blood pressure (SHR rats), VPP and IPP lowered blood pressure in a dose-dependent manner; in rats with normal blood pressure, they did not (Nakamura 1995, PMID 7673515). In cell cultures, VPP and IPP stimulated the formation of nitric oxide in vascular cells at concentrations above 100 nanomoles per liter, and in isolated rat aortas they triggered vasodilation (Hirota 2011, PMID 21221598). For comparison: in human blood, less than 1 nanomole per liter of IPP was measured after drinking an enriched beverage (Foltz 2007, PMID 17374660). X-ray structure analyses show that both peptides preferentially bind to one of the two active sites of the ACE molecule (Gregory 2024, PMID 37904282). In rats and rabbits, toxicity studies – including investigations of kidney development in the offspring, because ACE inhibitors can harm the unborn child during pregnancy – found no adverse effects at the highest doses tested (Dent 2007, PMID 17383063). A milk protein hydrolysate containing IPP was not mutagenic in genetic tests; the highest dose tested in the 90-day study in rats was about 141 times the expected maximum intake (Ponstein-Simarro Doorten 2009, PMID 18955104).
 
-### Risks and Side Effects
+### Risks and side effects
 
 **Established:** In the human studies, no more side effects occurred under lactotripeptides than under placebo (e.g. Jauhiainen 2005, PMID 16364832). The peptides come from milk protein, which has always been eaten; the amounts in the products are in the milligram range.
 
@@ -88,14 +88,14 @@ In rats with congenital high blood pressure (SHR rats), VPP and IPP lowered bloo
 - **Pregnancy:** ACE inhibitors are contraindicated in pregnancy. For lactotripeptides, no corresponding harm was found in animal experiments; human data are lacking.
 - **The most important risk:** Anyone who treats high blood pressure that requires treatment with a milk drink instead of effective measures forgoes protection against heart attack and stroke. Weight reduction, less salt, exercise and – if necessary – medication demonstrably lower blood pressure more.
 
-### Legal Status
+### Legal status
 
 - **EU / Austria / Germany:** Lactotripeptides are food ingredients. Health claims regarding blood pressure are **not authorized** under the Health Claims Regulation (Regulation (EC) No 1924/2006). The European Food Safety Authority (EFSA) assessed applications concerning lactotripeptides and the maintenance of normal blood pressure and concluded that a cause-and-effect relationship has not been sufficiently established. Decisive factors included the contradictory European studies. Products may therefore not be advertised in the EU with "lowers blood pressure" or "contributes to normal blood pressure."
 - **Japan:** There, such beverages were marketed as "Foods for Specified Health Uses" (FOSHU) with an officially approved blood pressure claim. This partly explains why a large proportion of the studies come from Japan.
 - **USA:** sold as dietary supplements; disease-related claims are not permitted.
 - **Sport:** not on the WADA Prohibited List (as of 2026, please check for updates).
 
-### Ongoing Studies and Outlook
+### Ongoing studies and outlook
 
 **Established:** On ClinicalTrials.gov, no ongoing study is registered under the term "lactotripeptides." Under related terms, there is a completed study on IPP and vascular function in coronary heart disease with 54 participants (NCT00924157). Research on lactotripeptides has declined markedly since about 2015; new work mainly examines in general why people respond differently to food peptides.
 

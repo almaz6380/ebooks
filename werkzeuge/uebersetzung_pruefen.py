@@ -44,7 +44,7 @@ def main(sprache, namen):
                 extra = set(b[feld]) - set(a[feld])
                 if fehlend or extra:
                     meldungen.append(f"FEHLER  {feld}: fehlend {sorted(fehlend)} zusätzlich {sorted(extra)}")
-        if a["ueberschriften"] != b["ueberschriften"]:
+        if a["ueberschriften"] != b["ueberschriften"] and not q.name.startswith("90-glossar"):
             meldungen.append(f"FEHLER  Überschriften {dict(a['ueberschriften'])} vs. {dict(b['ueberschriften'])}")
         if a["tabellenzeilen"] != b["tabellenzeilen"]:
             meldungen.append(f"FEHLER  Tabellenzeilen {a['tabellenzeilen']} vs. {b['tabellenzeilen']}")

@@ -10,7 +10,7 @@
 - **WADA:** not listed (as of 2026, please check for updates).
 - **Evidence level:** **B** (weak) – a few small randomized studies with mostly short durations and inconsistent results.
 
-### How It Is Supposed to Work
+### How it is supposed to work
 
 For a muscle to contract, a nerve cell must release the messenger acetylcholine. To do this, small vesicles filled with the messenger fuse with the cell membrane. This fusion is mediated by a protein complex, the SNARE complex, in which the protein SNAP-25, among others, is involved. Botulinum toxin type A cleaves SNAP-25 and thereby paralyzes the release of the messenger for months – the muscle relaxes and the overlying wrinkle smooths out.
 
@@ -20,7 +20,7 @@ The decisive catch: to work, Argireline from a cream would have to pass through 
 
 This does not rule out effects on the skin – for example on moisture or via nerve endings in the upper layers of the skin – but it makes the advertised "Botox mechanism" unlikely when applied to the skin.
 
-### Human Studies
+### Human studies
 
 The PubMed search evaluated for this book (acetyl hexapeptide or Argireline in title or abstract, search date October 2026) yielded three papers classified as human studies; ClinicalTrials.gov lists seven registry entries. Review turned up a few more small studies.
 
@@ -47,13 +47,13 @@ The PubMed search evaluated for this book (acetyl hexapeptide or Argireline in t
 - **Combination products:** Many studies test serums that contain Argireline together with retinol, hyaluronic acid or other peptides. Their results cannot be attributed to the individual peptide.
 - **Registered small studies:** ClinicalTrials.gov lists, among others, a completed study on oily skin with 14 participants (NCT02597777) and a study on periorbital wrinkles described as phase 3 with 70 participants (NCT01381484); whether the latter corresponds to the Chinese study mentioned above could not be clearly determined.
 
-### Animal and Laboratory Studies
+### Animal and laboratory studies
 
 - **Cell experiments:** inhibition of messenger release and disruption of SNARE complex formation (Blanes-Mira 2002, PMID 18498523). In cell cultures of human skin fibroblasts and other cell lines, Argireline inhibited cell proliferation in a dose-dependent manner, but only at concentrations 18 to 10,000 times higher than those of the comparator substance doxorubicin, a cancer drug (Grosicki 2014, PMID 24644551).
 - **Animal experiments:** In mice with artificially accelerated aging (induced by D-galactose), the proportion of type I collagen fibers in the skin increased under Argireline (Wang 2013, PMID 23464592).
 - **Skin penetration:** In addition to the study on body donor skin (Kraeling 2015, PMID 24754410), numerous laboratory studies are investigating emulsions, microneedles, iontophoresis and chemical modifications to deliver more active ingredient into the skin.
 
-### Risks and Side Effects
+### Risks and side effects
 
 **As a cream (established):** No relevant side effects were observed in the studies; skin irritation and allergies are possible, as with any cosmetic ingredient. The independent US expert panel on the safety of cosmetic ingredients (Cosmetic Ingredient Review) concluded in 2025 that acetyl hexapeptide-8 is safe at the concentrations currently in use of up to 0.005%. For higher concentrations, the available data were insufficient for a safety statement (Johnson 2025, PMID 40673537).
 
@@ -61,13 +61,13 @@ The PubMed search evaluated for this book (acetyl hexapeptide or Argireline in t
 
 **Theoretical:** If Argireline reached neuromuscular junctions in significant amounts, undesirable muscle weakness would be conceivable – as with botulinum toxin. There is no indication of this with topical use.
 
-### Legal Status
+### Legal status
 
 - **EU / Austria / Germany:** Acetyl hexapeptide-8 is a permitted cosmetic ingredient under the EU Cosmetics Regulation (Regulation (EC) No 1223/2009). Advertising claims must be substantiated in accordance with Regulation (EU) No 655/2013. Comparisons with botulinum toxin ("like Botox") are misleading if they suggest a comparable effect. An injection is not a cosmetic use; a product intended for injection would be an unapproved medicine or medical device and may not be marketed as such.
 - **USA:** cosmetic ingredient without prior review by the FDA; claims that promise an effect on muscles can legally turn a product into a drug.
 - **Sport:** irrelevant (as of 2026, please check for updates).
 
-### Ongoing Studies and Outlook
+### Ongoing studies and outlook
 
 **Established:** On ClinicalTrials.gov (as of October 2026), there is no ongoing study with acetyl hexapeptide-8 as a single active ingredient; the listed entries have been completed or terminated. Cosmetic efficacy studies are rarely registered.
 

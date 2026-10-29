@@ -11,7 +11,7 @@
 - **WADA:** not listed (as of 2026, please check for updates).
 - **Evidence level:** **A** – approval in the EU and USA based on two randomized, placebo-controlled trials, supplemented by several long-term cohorts. Because the disease is rare, the studies are smaller than for common diseases.
 
-### How It Is Supposed to Work
+### How it is supposed to work
 
 Erythropoietic protoporphyria (EPP) is a rare hereditary disease. In Europe, at least one in 140,000 people is affected (Homey 2025, PMID 40082741). Because of an enzyme defect in the production of the red blood pigment, a precursor, protoporphyrin IX, accumulates in the blood and skin. This substance is activated by visible light and then damages tissue and small blood vessels of the skin.
 
@@ -21,7 +21,7 @@ Afamelanotide does not address the cause but the skin: it tans the skin, and the
 
 Unlike melanotan II (chapter 2E02), afamelanotide acts mainly on the pigment receptor MC1R and only slightly on the receptors in the brain. That is why nausea and sexual side effects are much less common.
 
-### Human Studies
+### Human studies
 
 **Size of the evidence base (search October 2026):** The automated search for this book found **10** human studies in PubMed (`humanstudien_alle`) and **23** entries on ClinicalTrials.gov. However, the search only covers the name "afamelanotide"; older studies under the names melanotan I or NDP-MSH as well as several cohort studies are not included and are discussed here in addition.
 
@@ -81,11 +81,11 @@ The following results come from very small, mostly open-label studies and should
 - **Stroke:** In an open-label feasibility study with 6 people, administration was feasible; one person died of a recurrent stroke, which the researchers did not attribute to the drug (Stanislaus 2023, PMID 37496004).
 - **Healthy skin:** In 9 healthy volunteers, skin redness after UV irradiation was lower six days after the implant (Griffin 2026, PMID 42678656).
 
-### Animal and Laboratory Studies
+### Animal and laboratory studies
 
 In cell cultures, afamelanotide has antioxidant effects. In skin cells from people with Hailey-Hailey disease, it activated the protective factor Nrf2 and partially restored disturbed cell division (Biolcati 2014, PMID 24256215). Studies on the stability and degradation products of the active substance concern pharmaceutical quality (Chawathe 2026, PMID 41547183). Today, animal data play a minor role in the assessment in humans because the clinical data are more meaningful.
 
-### Risks and Side Effects
+### Risks and side effects
 
 #### Established
 
@@ -102,7 +102,7 @@ Data on pregnancy are largely lacking; in practice, treatment is paused. Afamela
 
 "Melanotan I" is offered on the internet as a tanning agent. Such products share only the name of the active substance with the approved implant: they are sold as powder for self-injection, purity and content are untested, and there is no medical monitoring of the skin. The safety data from EPP treatment cannot be transferred to them (Habbema 2017, PMID 28266027).
 
-### Legal Status
+### Legal status
 
 *As of 2026, please check for updates.*
 
@@ -112,7 +112,7 @@ Data on pregnancy are largely lacking; in practice, treatment is paused. Afamela
 - **Cost:** Afamelanotide is one of the expensive medicines for rare diseases. In England, the assessment body NICE declined funding – so far the only therapy in its program for very rare diseases to be rejected. Patient representatives criticize the calculation used (Barman-Aksözen 2024, PMID 38791830).
 - **WADA:** not listed.
 
-### Ongoing Studies and Outlook
+### Ongoing studies and outlook
 
 **Established (registered studies):**
 

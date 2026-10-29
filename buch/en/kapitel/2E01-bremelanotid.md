@@ -11,7 +11,7 @@
 - **WADA:** not listed by name (as of 2026, please check for updates).
 - **Evidence level:** **A** – two large randomized phase 3 trials with a combined total of more than 1,200 participants, approval in the USA. However, the clinical benefit is small and disputed (see below).
 
-### How It Is Supposed to Work
+### How it is supposed to work
 
 The melanocortin system is a network of messengers and five receptors (MC1R to MC5R), described in more detail in the introduction to this part. For bremelanotide, the MC4R receptor is the most important. It is located, among other places, in the hypothalamus, a control center in the diencephalon, where it influences appetite, energy expenditure and – as was discovered by chance – sexual arousal.
 
@@ -21,7 +21,7 @@ Exactly how activation of MC4R influences sexual desire is only partly understoo
 
 Important for understanding: the approval does not target "more desire" in healthy people, but a defined diagnosis. HSDD means persistently low sexual desire that causes distress and is not explained by another illness, medications or relationship problems.
 
-### Human Studies
+### Human studies
 
 **Size of the evidence base (search October 2026):** The automated search for this book found **16** human studies in PubMed (`humanstudien_alle`) and **10** entries on ClinicalTrials.gov. In addition, there are several reviews and meta-analyses. The assessment rests mainly on the two RECONNECT approval trials, their extension and the safety analysis of the entire development program.
 
@@ -73,7 +73,7 @@ A meta-analysis of medications for female sexual dysfunction (including bremelan
 - **Weight:** Because MC4R also controls appetite, bremelanotide was tested in women with obesity. In two small phase 1 studies, calorie intake fell by about 400 kcal per day; after 16 days, weight was 1.3 kg below that of the placebo group (Spana 2022, PMID 35170192). These are short-term data that say nothing about long-term treatment.
 - **Brain:** The fMRI study already mentioned (Thurston 2022, PMID 36189794; NCT04179734) is one of the few studies not led by the manufacturer.
 
-### Animal and Laboratory Studies
+### Animal and laboratory studies
 
 Animal research on bremelanotide comes mostly from rats. A review summarizes it as follows: bremelanotide activates MC4R on nerve cells in the hypothalamus, which then release more dopamine; in female rats, behavior with which females signal sexual interest increased (Pfaus 2022, PMID 33455598). The review comes from researchers with ties to the development of the drug.
 
@@ -81,7 +81,7 @@ An independent study in female hamsters came to a sobering result: bremelanotide
 
 In cell cultures, bremelanotide inhibited the growth of glioblastoma cells, a type of brain tumor (Suzuki 2024, PMID 39197897). This is a purely laboratory finding with no clinical significance.
 
-### Risks and Side Effects
+### Risks and side effects
 
 #### Established
 
@@ -99,7 +99,7 @@ There are insufficient data for pregnancy. A small study is currently measuring 
 
 Under the name "PT-141," bremelanotide is offered on the internet as a powder for self-injection, often alongside melanotan II. Forensic laboratories identified both substances in samples seized by police from the bodybuilding scene (Mestria 2021, PMID 33245851). Such products carry the same risks as other gray-market peptides (Part I, chapter "The Gray Market"): unknown purity, wrong amounts, contamination, non-sterile manufacturing. The bremelanotide nasal spray is known to have had a stronger effect on blood pressure; gray-market sprays have not been tested.
 
-### Legal Status
+### Legal status
 
 *As of 2026, please check for updates.*
 
@@ -109,7 +109,7 @@ Under the name "PT-141," bremelanotide is offered on the internet as a powder fo
 - **Other countries:** In South Korea, a bridging study with 193 women was conducted for approval there (NCT04943068).
 - **WADA:** not listed by name. Please check the current Prohibited List.
 
-### Ongoing Studies and Outlook
+### Ongoing studies and outlook
 
 **Established (registered studies):**
 

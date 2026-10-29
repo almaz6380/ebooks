@@ -11,7 +11,7 @@
 - **WADA:** not listed (status as of 2026; please check for current information).
 - **Evidence level:** **A** – numerous large randomized studies, one large cardiovascular outcomes trial, approved since 2005.
 
-### How It Is Supposed to Work
+### How it is supposed to work
 
 After a meal, the gut releases the hormone GLP-1 (glucagon-like peptide-1). It signals the pancreas to release more insulin – but only as long as blood sugar is elevated. At the same time, it suppresses the hormone glucagon, which raises blood sugar, slows gastric emptying, and acts on centers in the brain that control hunger and satiety. Because insulin release is glucose-dependent, GLP-1 receptor agonists on their own rarely cause hypoglycemia.
 
@@ -21,7 +21,7 @@ The original form acts for only a few hours and must therefore be injected twice
 
 An important difference from the later drugs: exenatide is only about half similar to human GLP-1. The immune system therefore more often recognizes it as foreign and forms antibodies. In most people treated, this has no consequences; in a small proportion with high antibody levels, the effect may diminish.
 
-### Human Studies
+### Human studies
 
 The body of research on exenatide is extensive. The PubMed query evaluated for this book (search term "exenatide" in title or abstract, query date October 2026) yielded 437 human studies; ClinicalTrials.gov lists 379 registry entries involving exenatide. Many of these are small mechanistic or combination studies. Three groups carry most weight for the assessment: the AMIGO (twice-daily form) and DURATION (weekly form) approval programs, the cardiovascular outcomes trial EXSCEL, and a series of studies beyond diabetes, particularly on Parkinson's disease.
 
@@ -116,7 +116,7 @@ In multiple system atrophy, a rare related disease, an open-label study with 50 
 - **Alcohol dependence:** In a study with 127 participants, weekly exenatide did not significantly reduce the number of heavy drinking days. In a post hoc subgroup analysis of people with obesity, an effect was seen; on brain MRI, the response to alcohol cues was attenuated (Klausen 2022, PMID 36066977). Such subgroup findings are hypotheses, not evidence.
 - **Idiopathic intracranial hypertension** (raised intracranial pressure without an identifiable cause, mostly in young women with overweight): in 16 women, exenatide lowered measured intracranial pressure after 24 hours by an average of 6.4 cm of water compared with placebo (Mitchell 2023, PMID 36907221). The study is very small; a larger study is pending.
 
-### Animal and Laboratory Studies
+### Animal and laboratory studies
 
 Exendin-4 was originally not sought as a diabetes drug at all. In the first description in 1992, the researchers studied its effect on cells from the pancreas of guinea pigs (Eng 1992, PMID 1313797). Only later did it become clear that it acts on the GLP-1 receptor.
 
@@ -126,7 +126,7 @@ In addition, there were experiments in rodents on neuroprotection (Parkinson's d
 
 On the thyroid: in rats and mice, GLP-1 receptor agonists trigger proliferation of the C cells of the thyroid, whereas in primates and humans these cells have hardly any receptors (Bjerre Knudsen 2010, PMID 20203154). More on this in the chapter Liraglutide and in Part IV.
 
-### Risks and Side Effects
+### Risks and side effects
 
 **Established from randomized trials:**
 
@@ -143,7 +143,7 @@ On the thyroid: in rats and mice, GLP-1 receptor agonists trigger proliferation 
 
 **Notes for practice:** Exenatide is excreted via the kidneys; it is not recommended in severely impaired kidney function. Like all GLP-1 receptor agonists, it slows gastric emptying and can thereby affect the absorption of other medications. For use, contraindications, and interactions, the current prescribing information is authoritative; treatment belongs in the hands of a physician.
 
-### Legal Status
+### Legal status
 
 - **EU:** Exenatide is centrally authorized as a prescription medicine for the treatment of type 2 diabetes (Byetta since 2006, Bydureon since 2011). It is not approved for weight reduction.
 - **Germany and Austria:** prescription-only. Prescribing it purely for weight loss would be off-label use and is generally not covered by health insurers. Some dosage forms are not permanently on the market in all countries – please check for current information.
@@ -151,7 +151,7 @@ On the thyroid: in rats and mice, GLP-1 receptor agonists trigger proliferation 
 - **Sport (WADA):** GLP-1 receptor agonists are not on the Prohibited List (status as of 2026; please check for current information).
 - **Gray market:** Alongside semaglutide and tirzepatide, exenatide plays hardly any role on the gray market. General risks of unapproved sources of supply are described in Part I.
 
-### Ongoing Studies and Outlook
+### Ongoing studies and outlook
 
 **Established (registered studies):** As a diabetes drug, exenatide has been largely "researched out"; there are hardly any new approval trials in this indication. Current registry entries mainly concern:
 

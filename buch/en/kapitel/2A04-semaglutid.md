@@ -11,7 +11,7 @@
 - **WADA:** not listed (status as of 2026; please check for current information).
 - **Evidence level:** **A** – four large approval programs (SUSTAIN, PIONEER, STEP, OASIS), several outcomes trials with a combined total of more than 40,000 participants.
 
-### How It Is Supposed to Work
+### How it is supposed to work
 
 Semaglutide acts like the gut hormone GLP-1: it enhances glucose-dependent insulin release, inhibits glucagon, which raises blood sugar, slows gastric emptying, and dampens hunger and food cravings in the brain. The basic mechanism of the class is explained in the chapter Exenatide.
 
@@ -21,7 +21,7 @@ For weight loss, effects in the brain are decisive above all. Semaglutide reduce
 
 **The tablet:** Peptides are normally digested in the stomach and hardly absorbed. For Rybelsus, semaglutide is combined with the excipient SNAC. This buffers stomach acid directly at the tablet surface, thereby protecting against breakdown, and briefly facilitates absorption through the gastric mucosa – in studies in humans and dogs exclusively in the stomach, not in the intestine (Buckley 2018, PMID 30429357). Even so, only a very small fraction of the drug reaches the blood. The tablet therefore contains many times the injection dose and must be taken on an empty stomach with a little water; the prescribing information sets out the details.
 
-### Human Studies
+### Human studies
 
 Semaglutide is currently the most extensively studied drug in its class. The PubMed query evaluated for this book (search term "semaglutide" in title or abstract, query date October 2026) yielded 342 human studies. This number underestimates the actual volume of research, because many analyses of large trials are published under the trial's name. ClinicalTrials.gov lists 793 registry entries – more than for any other peptide in this book.
 
@@ -146,13 +146,13 @@ FLOW (Perkovic 2024, PMID 38785209) was the first large trial with a GLP-1 recep
 
 **Alcohol:** In a small randomized trial with 48 people with alcohol use disorder, low-dose semaglutide reduced the amount of alcohol consumed in a laboratory test, the craving for alcohol, and the number of drinks on drinking days; the number of drinking days did not change (Hendershot 2025, PMID 39937469). In a Swedish registry study, semaglutide was associated with a 36% lower risk of alcohol-related hospital admissions (Lähteenvuo 2025, PMID 39535805). Larger randomized trials are ongoing.
 
-### Animal and Laboratory Studies
+### Animal and laboratory studies
 
 Semaglutide was specifically designed on the drawing board: from numerous variants, the developers selected the one with the best combination of albumin binding, receptor activity, and stability (Lau 2015, PMID 26308095). The half-life was first determined in minipigs. Absorption of the tablet through the gastric mucosa was studied in dogs and in humans (Buckley 2018, PMID 30429357).
 
 As with liraglutide, long-term experiments in rodents led to C-cell tumors of the thyroid; transferability to humans is considered questionable because of the low receptor density in human C cells (Bjerre Knudsen 2010, PMID 20203154). Animal experiments on neuroprotection, addiction, and inflammation formed the basis for the human studies described above – with mixed results, as the failure of evoke shows.
 
-### Risks and Side Effects
+### Risks and side effects
 
 **Established from randomized trials:**
 
@@ -180,7 +180,7 @@ No other peptide in this book is obtained outside regular channels as often as s
 
 **Counterfeits:** Counterfeit Ozempic pens have appeared in Europe and the USA, some filled with insulin or containing no drug at all; medicines regulators and the World Health Organization have issued repeated warnings. General information on gray-market products can be found in Part I and Part IV. Only the regular route is safe: a physician's prescription and dispensing by a pharmacy.
 
-### Legal Status
+### Legal status
 
 - **EU:** Ozempic (2018), Rybelsus (2020), and Wegovy (2022) are centrally authorized and prescription-only. Wegovy is approved for weight management in adults and adolescents aged 12 and older; the prescribing information now also includes information on cardiovascular risk reduction from SELECT.
 - **Germany:** Ozempic and Rybelsus are reimbursed for type 2 diabetes. Wegovy is considered a weight-reduction drug and is in principle excluded from reimbursement by statutory health insurance under Section 34 of Book V of the Social Code (SGB V); a change is being discussed politically (status as of 2026; please check for current information). Prescribing Ozempic purely for weight loss is off-label and was explicitly criticized by the authorities during the shortages.
@@ -189,7 +189,7 @@ No other peptide in this book is obtained outside regular channels as often as s
 - **Patents and generics:** In several large markets outside the EU and the USA – including Canada, China, India, and Brazil – patent protection for semaglutide expires in 2026; the first copycat products have been announced or are on the market there. In the EU and the USA, generics are not expected until around 2031/2032 (status as of 2026; please check for current information). More on this in Part V.
 - **Sport (WADA):** not listed (status as of 2026; please check for current information).
 
-### Ongoing Studies and Outlook
+### Ongoing studies and outlook
 
 **Established (registered studies):** Of the 793 registry entries, a large proportion concern combinations and successors. Examples:
 

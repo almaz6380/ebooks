@@ -11,7 +11,7 @@
 - **WADA:** not listed (as of 2026, please check for updates).
 - **Evidence level:** **B** – numerous randomized, placebo-controlled studies, but mostly small, short and funded by manufacturers.
 
-### How It Is Supposed to Work
+### How it is supposed to work
 
 Collagen is the most abundant protein in the human body. It forms the framework of skin, tendons, ligaments, cartilage and bone. Its basic unit is a triple helix of three protein chains in which a pattern repeats constantly: glycine, then any amino acid, then frequently proline or hydroxyproline. With age, collagen production in the skin declines and the collagen network becomes more fragile – visible as wrinkles and decreasing firmness.
 
@@ -24,7 +24,7 @@ There are, however, two serious hypotheses as to why collagen peptides might sti
 
 Important for context: collagen is an incomplete protein source. Because it lacks tryptophan, a gelatin-based peptide mixture is even used deliberately in research to lower the tryptophan level in the blood in the short term (Stenbæk 2016, PMID 26655163). For muscle building, collagen is therefore inferior to other proteins – more on this below.
 
-### Human Studies
+### Human studies
 
 The body of evidence is extensive but inconsistent. The PubMed search evaluated for this book (collagen hydrolysate or collagen peptides in combination with intake or supplementation, search date October 2026) yielded 101 human studies. On ClinicalTrials.gov, the search "collagen peptides" found 237 registry entries; a considerable proportion of these, however, concern other topics (such as collagen implants in dentistry or the cancer drug endostatin, a collagen fragment). In addition, there are at least a dozen meta-analyses.
 
@@ -142,13 +142,13 @@ A meta-analysis of 19 studies with 768 healthy adults found small advantages in 
 
 In smaller studies, collagen peptides have been studied for blood pressure and vascular function, sleep, appetite, gum inflammation and digestive complaints, among other things. A meta-analysis of 12 placebo-controlled studies reported a reduction in systolic blood pressure of 5.04 mmHg and in LDL cholesterol of 4.09 mg/dl, but with extremely high heterogeneity among the individual studies (I² 98.9% and 93.4%) (Jalili 2023, PMID 35658958). These areas have been studied too little to allow robust statements.
 
-### Animal and Laboratory Studies
+### Animal and laboratory studies
 
 In cell cultures, collagen peptides and in particular prolyl-hydroxyproline stimulate skin fibroblasts to grow; in mice and rats, they improved the skin barrier, bone density and cartilage metabolism in experiments. In human skin samples in the laboratory (ex vivo), collagen peptides promoted the formation of collagen and glycosaminoglycans (Asserin 2015, PMID 26362110). A systematic review of eleven mostly experimental studies concluded that collagen hydrolysates at concentrations of 50 to 500 micrograms per milliliter stimulate fibroblasts without being toxic (Inacio 2024, PMID 38892477). In rodent experiments with a high-calorie diet, a meta-analysis described effects on weight and fat mass (Bischof 2026, PMID 41168365) – a finding that has not been demonstrated in humans.
 
 These results make the hypotheses plausible. But they do not prove that the peptide concentrations reached in humans after drinking are sufficient at the target tissue.
 
-### Risks and Side Effects
+### Risks and side effects
 
 **Established:** In the randomized studies, side effects did not occur more frequently than under placebo. The large osteoarthritis meta-analysis found no increased risk of adverse events or study discontinuations (Liang 2024, PMID 38218227). Occasionally, a feeling of fullness, bloating or an unpleasant taste is reported.
 
@@ -160,13 +160,13 @@ These results make the hypotheses plausible. But they do not prove that the pept
 - **Product quality:** Food supplements are not tested for efficacy before sale. The manufacturer is responsible for purity and freedom from contaminants; food control authorities only carry out spot checks.
 - **False security:** The greatest practical risk is that collagen is used instead of effective measures – for example instead of UV protection against skin aging or instead of osteoporosis treatment.
 
-### Legal Status
+### Legal status
 
 - **EU / Austria / Germany:** Collagen peptides are foods. In Germany, food supplements must be notified to the Federal Office of Consumer Protection and Food Safety (BVL) before they are first sold; in Austria, separate rules apply. Efficacy is not assessed in either country. Under the EU Health Claims Regulation (Regulation (EC) No 1924/2006), health claims are only permitted if they are authorized in the EU list. **There is no authorized health claim for collagen or collagen peptides.** The European Food Safety Authority (EFSA) has issued negative opinions on claims applied for, for example regarding joint health, because a cause-and-effect relationship had not been demonstrated. That is why many products contain vitamin C: for vitamin C, the claim that it contributes to normal collagen formation for the normal function of skin, cartilage, bones, gums, teeth and blood vessels is authorized. The advertising statement then legally refers to the vitamin, not to the collagen. Beauty claims ("for firmer skin") fall into a gray area and are judged differently by the courts.
 - **USA:** Collagen peptides are sold as dietary supplements. Manufacturers may make so-called structure/function claims ("supports healthy skin"), but must carry a notice that the claim has not been evaluated by the FDA. Disease-related promises are not permitted.
 - **Sport:** Collagen peptides are not on the WADA Prohibited List. As with all food supplements, there is a residual risk of contamination; elite athletes should look for tested lists (e.g. the Cologne List) (as of 2026, please check for updates).
 
-### Ongoing Studies and Outlook
+### Ongoing studies and outlook
 
 **Established (registered studies, as of October 2026):**
 

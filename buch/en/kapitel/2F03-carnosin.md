@@ -11,7 +11,7 @@
 - **WADA:** carnosine and beta-alanine are not listed (as of 2026, please check for updates).
 - **Evidence level:** **B** – several small randomized studies, one larger study with just under 300 participants; many results inconsistent.
 
-### How It Is Supposed to Work
+### How it is supposed to work
 
 During short, very intense exertion – a 400-meter run or a rowing race – the muscle produces more acid than it can remove. The acidity rises and muscle performance declines. Carnosine is one of the buffers in muscle that neutralize this acid. In 18 elite Belgian rowers, the carnosine content of the calf muscles was closely related to speed over 100 to 6,000 meters (Baguet 2010, PMID 20671038).
 
@@ -29,7 +29,7 @@ For muscle, a different route has become established. The body builds carnosine 
 
 Beta-alanine is not a peptide but a single amino acid. It is covered only briefly here because it raises muscle carnosine content more reliably than carnosine itself and therefore plays by far the larger role in sport.
 
-### Human Studies
+### Human studies
 
 The PubMed search evaluated for this book (carnosine in the title, combined with supplementation or oral administration, search date October 2026) yielded 57 human studies; ClinicalTrials.gov lists 53 registry entries. Some of these actually concern beta-alanine or zinc carnosine. The studies are spread across many small fields of application.
 
@@ -79,13 +79,13 @@ A meta-analysis of nine studies with 350 participants found lower levels of the 
 
 **N-acetylcarnosine eye drops** are promoted on the internet against cataracts. A Cochrane review found only two possible studies with 114 participants whose methodology could not be traced and concluded that there is no convincing evidence that the drops reverse cataracts or prevent their progression (Dubois 2017, PMID 28245346). The only effective treatment remains surgery.
 
-### Animal and Laboratory Studies
+### Animal and laboratory studies
 
 In cell cultures and in rodents, carnosine acts as an antioxidant, inhibits protein glycation and binds reactive aldehydes. In mice and rats, it improved blood glucose, diabetic kidney damage, wound healing and vascular function in many experiments. The Matthews 2021 meta-analysis included 16 rodent studies in addition to four human studies and rated the certainty of the animal data as very low (Matthews 2021, PMID 34333586).
 
 A fundamental transfer problem remains: rodents have practically no carnosinase in their blood. In mice genetically engineered to carry the human enzyme, diabetes and kidney damage were more severe (Qiu 2020, PMID 32803273). This suggests that in humans the enzyme could considerably limit the effect of supplemented carnosine.
 
-### Risks and Side Effects
+### Risks and side effects
 
 **Established:** In the studies so far – with daily amounts of up to 2 g for up to 14 weeks – no relevant side effects were reported. In the NEAT study with just under 300 participants, there were no changes in kidney, liver or heart function or blood electrolytes (Baba 2024, PMID 39215872).
 
@@ -98,14 +98,14 @@ A fundamental transfer problem remains: rodents have practically no carnosinase 
 - With diabetes medications, an enhancement of blood glucose lowering is conceivable but not established; blood glucose monitoring and consultation with a doctor are advisable.
 - As with all food supplements, quality depends on the manufacturer.
 
-### Legal Status
+### Legal status
 
 - **EU / Austria / Germany:** Carnosine is sold as a food supplement. There is no authorized health claim for carnosine under the Health Claims Regulation (Regulation (EC) No 1924/2006); advertising claims such as "anti-aging" or "protects cells" are therefore not permitted. Whether individual preparations are to be classified as novel foods may vary from product to product – please check for updates. Zinc carnosine is not approved as a medicine in the EU; N-acetylcarnosine eye drops have no approval as a medicine for cataracts.
 - **USA:** available as a dietary supplement, without approval as a drug.
 - **Japan:** Polaprezinc (zinc carnosine) is an approved stomach medicine.
 - **Sport:** Neither carnosine nor beta-alanine is on the WADA Prohibited List (as of 2026, please check for updates).
 
-### Ongoing Studies and Outlook
+### Ongoing studies and outlook
 
 **Established (registered studies, as of October 2026):**
 

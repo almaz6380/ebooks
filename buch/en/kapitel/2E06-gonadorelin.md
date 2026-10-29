@@ -11,7 +11,7 @@
 - **WADA:** prohibited for men (group S2, where gonadorelin is named explicitly), in and out of competition (as of 2026, please check for updates).
 - **Evidence level:** **B** – approved medicine with decades of use; however, the efficacy data come mainly from large case series, cohorts and a few small randomized studies.
 
-### How It Is Supposed to Work
+### How it is supposed to work
 
 The reproductive hormone axis begins in the hypothalamus. There, specialized nerve cells release GnRH – not evenly, but in pulses roughly every one to two hours. Each pulse causes the pituitary gland (hypophysis) to release the hormones LH and FSH. These act on the ovaries and testes: they control egg maturation and ovulation, sperm production and the production of estrogen and testosterone. The messenger kisspeptin (chapter 2E04) sits one level higher still and switches on the GnRH nerve cells.
 
@@ -24,7 +24,7 @@ The GnRH analogs such as leuprorelin, triptorelin or goserelin are based on the 
 
 Gonadorelin itself is unsuitable for continuous blockade: it is broken down in the blood within a few minutes.
 
-### Human Studies
+### Human studies
 
 **Size of the evidence base (search October 2026) – and why the numbers are misleading:** The automated search for this book found **9** human studies in PubMed (`humanstudien_alle`) and, on ClinicalTrials.gov, the maximum number of **1,000** registry entries at which the query stops. Both figures are useless for assessing gonadorelin, and in opposite directions:
 
@@ -69,11 +69,11 @@ In an analysis of 26 men at a German university center, sperm appeared in the ej
 
 In some European countries, a gonadorelin nasal spray is given before or after surgery for undescended testes to promote maturation of the germ cells. A randomized study with 62 infants reported more favorable ultrasound findings after combined treatment (Spinelli 2014, PMID 25106891). Another randomized study with 36 boys, by contrast, found no difference in penile size, testicular volume or hormone levels at the time of surgery; the treatment did, however, prove safe (Fiala 2022, PMID 35691791). The benefit is disputed; early surgery is the priority.
 
-### Animal and Laboratory Studies
+### Animal and laboratory studies
 
 Gonadorelin is one of the best-understood hormones of all; its fundamentals come from animal experiments in the 1970s. Today, animal research plays hardly any role in the assessment in humans. In veterinary medicine, gonadorelin is widely used, above all in cattle to control ovulation. These products are approved for animals and not for humans.
 
-### Risks and Side Effects
+### Risks and side effects
 
 #### Established
 
@@ -96,7 +96,7 @@ What is known about this:
 
 In sport, gonadorelin is prohibited for men. Anti-doping laboratories have developed their own detection methods; a review describes gonadorelin as an example of a peptide that has been misused in competitive sport in recent years (Torrini 2023, PMID 36858006).
 
-### Legal Status
+### Legal status
 
 *As of 2026, please check for updates.*
 
@@ -106,7 +106,7 @@ In sport, gonadorelin is prohibited for men. Anti-doping laboratories have devel
 - **USA:** The formerly approved human products are off the market. Gonadorelin is reportedly offered by compounding pharmacies; the regulatory assessment of such preparations is in flux. Veterinary medicines containing gonadorelin are not intended for humans.
 - **WADA:** S2 – prohibited for men in and out of competition.
 
-### Ongoing Studies and Outlook
+### Ongoing studies and outlook
 
 **Established (registered studies):** Among the few registry entries that actually concern native GnRH are:
 

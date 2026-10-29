@@ -10,7 +10,7 @@
 - **WADA:** not named explicitly. As a non-approved substance, kisspeptin falls under S0; in men, group S2 also covers luteinizing hormone releasing factors (as of 2026, please check for updates).
 - **Evidence level:** **B** – numerous small, partly randomized studies and several randomized phase 2 trials, mainly from London and Boston. No phase 3 trial, no approval.
 
-### How It Is Supposed to Work
+### How it is supposed to work
 
 Human reproduction is controlled by a chain of hormones. At the top is the hormone GnRH (gonadotropin-releasing hormone) from the hypothalamus, which is released in pulses. It causes the pituitary gland to release the hormones LH (luteinizing hormone) and FSH (follicle-stimulating hormone). These in turn control the ovaries and testes: egg maturation and ovulation, sperm production, estrogen and testosterone production. The chapter on gonadorelin (2E06) describes this axis in more detail.
 
@@ -23,7 +23,7 @@ Kisspeptin is of medical interest for two reasons:
 
 Kisspeptin receptors are also found in brain regions that process emotions and sexual stimuli. This gave rise to the idea that kisspeptin could influence sexual desire.
 
-### Human Studies
+### Human studies
 
 **Size of the evidence base (search October 2026):** The automated search for this book found **37** human studies in PubMed (`humanstudien_alle`) and **36** entries on ClinicalTrials.gov. Not all of them administer kisspeptin as a drug: some studies only measure kisspeptin levels in the blood, for example during pregnancy. The administration of kisspeptin in humans has been driven by a few research groups, mainly at Imperial College London and Massachusetts General Hospital in Boston. Most studies have fewer than 50 participants.
 
@@ -90,13 +90,13 @@ A nasal spray with kisspeptin-54 increased LH in healthy men and women and in wo
 
 With continuous administration, the synthetic analog TAK-448 became a hormone blocker. In healthy men over 50, testosterone fell to castration levels after one week of continuous infusion; in men with prostate cancer, a depot injection lowered testosterone and the tumor marker PSA (MacLean 2014, PMID 24762108). Two further phase 2 trials by the manufacturer were terminated early (NCT02369796, NCT02381288).
 
-### Animal and Laboratory Studies
+### Animal and laboratory studies
 
 The role of kisspeptin in puberty and reproduction was first shown in mice with a knocked-out receptor gene; the animals remain sexually immature (Seminara 2003, PMID 14573733). Originally, the peptide was described as a brake on metastasis: in cell culture and in mice, it inhibited the spread of melanoma cells (Lee 1996, PMID 8944003; Ohtaki 2001, PMID 11385580). Whether this can be used therapeutically is open.
 
 In rat models of PCOS, kisspeptin restored ovulation in some animals but not in others (Romero-Ruiz 2019, PMID 31820802). Basic research on kisspeptin and neurokinin B is summarized in a review (Koysombat 2025, PMID 39813600).
 
-### Risks and Side Effects
+### Risks and side effects
 
 #### Established
 
@@ -112,7 +112,7 @@ In all published studies, kisspeptin was well tolerated. Several studies explici
 
 Kisspeptin-10 is offered on the internet as a "research peptide" and promoted in forums for boosting testosterone or libido. There are no studies on such products. Because of the short half-life and desensitization with frequent administration, a lasting effect with self-administration is not established; purity and content are untested (see Part I and Part IV).
 
-### Legal Status
+### Legal status
 
 *As of 2026, please check for updates.*
 
@@ -120,7 +120,7 @@ Kisspeptin-10 is offered on the internet as a "research peptide" and promoted in
 - **USA:** no approval; use only in studies authorized by the FDA.
 - **WADA:** In men, LH releasing factors are prohibited under S2, and non-approved substances in general under S0. Kisspeptin is not named explicitly, but in the author's assessment falls under these groups.
 
-### Ongoing Studies and Outlook
+### Ongoing studies and outlook
 
 **Established (registered studies):**
 

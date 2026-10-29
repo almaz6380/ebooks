@@ -10,7 +10,7 @@
 - **WADA:** not listed (as of 2026, please check for updates).
 - **Evidence level:** **B** for use as a nasal spray – hundreds of randomized studies, but mostly small and with single doses; the few large treatment trials were negative. For obstetrics (infusion, injection), level A applies; it is not the focus of this chapter.
 
-### How It Is Supposed to Work
+### How it is supposed to work
 
 #### From Labor Hormone to "Cuddle Hormone"
 
@@ -33,7 +33,7 @@ Experts who view the field positively overall now consider a direct route from t
 
 As an infusion or injection, oxytocin is one of the most important medicines in the world; the World Health Organization includes it on its List of Essential Medicines. It is used to induce or strengthen labor contractions and to prevent heavy bleeding after childbirth. A Cochrane review of 24 studies concluded that prophylactic oxytocin roughly halves the risk of blood loss of 500 ml or more (relative risk 0.51), although the quality of the individual studies was partly low (Salati 2019, PMID 31032882). This use belongs exclusively in the hands of midwives and physicians; dosage and monitoring are governed by the prescribing information. It plays no role in assessing the nasal spray for psychological questions.
 
-### Human Studies
+### Human studies
 
 **Size of the evidence base (search October 2026):** The automated search for this book (term "intranasal oxytocin" in title or abstract) found **349** human studies in PubMed (`humanstudien_alle`) and **263** entries on ClinicalTrials.gov, of which around 20 are still recruiting. In addition, there are at least 15 meta-analyses and systematic reviews. This makes oxytocin the most frequently studied peptide in humans in this part of the book. However, the vast majority of studies gave only a single dose to mostly 20 to 60 young, healthy men and measured short-term changes in laboratory tests or in the brain scanner.
 
@@ -128,13 +128,13 @@ Oxytocin is released during orgasm and is promoted on the internet as a means to
 
 A new and medically plausible field is genuine oxytocin deficiency. People whose hypothalamus or pituitary gland has been damaged, for example by a tumor or surgery, often have vasopressin deficiency (formerly central diabetes insipidus). A Swiss study used the drug MDMA, which strongly releases oxytocin in healthy people, as a provocation test. In 15 healthy people, oxytocin rose sharply; in 15 patients, it barely rose; the area under the curve was 82% larger in healthy people, and the patients hardly felt the typical social and anxiolytic effects (Atila 2023, PMID 37192642). This suggests that many of these people also have an oxytocin deficiency. Whether replacement via nasal spray relieves their psychological symptoms is being tested in an ongoing study (NCT06036004). Kisspeptin is also being investigated as a possible test for oxytocin deficiency (Galbiati 2025, PMID 39965102; chapter 2E04).
 
-### Animal and Laboratory Studies
+### Animal and laboratory studies
 
 The enthusiasm for oxytocin rests on convincing animal findings: in prairie voles, the oxytocin system is necessary for pair bonding, and in rodents and sheep for maternal behavior. In mice in an autism model, an agent that stimulates the oxytocin system improved measures of social behavior (Minakova 2019, PMID 30629642). In rhesus monkeys, labeled oxytocin reached certain brain regions via the nose (Lee 2020, PMID 32494001).
 
 However, these findings can only be transferred to a limited extent: the distribution of oxytocin receptors in the brain differs greatly between species, even between closely related vole species. Many animal experiments administered oxytocin directly into the brain, which is not possible in humans.
 
-### Risks and Side Effects
+### Risks and side effects
 
 #### Established: Nasal Spray in Studies
 
@@ -152,7 +152,7 @@ In controlled studies, oxytocin nasal spray is considered well tolerated. A syst
 
 Oxytocin nasal sprays are sold on the internet as "love" or "trust" sprays. The content and strength of such products have not been independently tested. There is no evidence of efficacy for any of these products.
 
-### Legal Status
+### Legal status
 
 *As of 2026, please check for updates.*
 
@@ -160,7 +160,7 @@ Oxytocin nasal sprays are sold on the internet as "love" or "trust" sprays. The 
 - **USA:** Oxytocin injection (Pitocin and generics) approved for obstetrics; no approved nasal spray. Compounding pharmacies prepare nasal sprays on medical prescription; their quality is not tested in the same way as that of finished medicines.
 - **WADA:** not listed.
 
-### Ongoing Studies and Outlook
+### Ongoing studies and outlook
 
 **Established (registered studies):** Among the ongoing studies are some larger ones that could answer individual open questions:
 
