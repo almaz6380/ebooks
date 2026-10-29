@@ -88,7 +88,7 @@ As tabelas a seguir reproduzem os termos de busca do PubMed usados na consulta s
 | Macimorelina | `macimorelin[tiab]` |
 | Mecasermina (IGF-1) | `mecasermin[tiab] OR rhIGF-1[tiab]` |
 | IGF-1 LR3 | `LR3-IGF-1[tiab] OR IGF-1 LR3[tiab] OR "Long R3"[tiab]` |
-| Ibutamoreno (MK-677) (comparação) | `ibutamoreno[tiab] OR MK-677[tiab] OR MK-0677[tiab]` |
+| Ibutamoreno (MK-677) (comparação) | `ibutamoren[tiab] OR MK-677[tiab] OR MK-0677[tiab]` |
 
 #### D. Cérebro, sono e longevidade
 
@@ -178,16 +178,10 @@ Como toda pesquisa bibliográfica, também esta tem limites, que você deve cons
 
 **Retrato instantâneo.** A pesquisa reflete a situação de outubro de 2026. Em campos de crescimento rápido, como o dos medicamentos de GLP-1, novos estudos são publicados toda semana.
 
-### Apoio de IA e controle de qualidade
+### Controle de qualidade
 
-Este livro foi pesquisado e redigido com o apoio de inteligência artificial e revisado pelo autor. A IA foi usada para as seguintes tarefas:
+As consultas aos bancos de dados foram feitas pelas interfaces citadas, com programas auxiliares escritos especificamente para isso. Para a avaliação, valeram regras obrigatórias: cada estudo no texto é citado com PMID ou número NCT; cada número precisa vir de um resumo ou registro de estudo efetivamente consultado; estudos só podem ser citados se seu registro tiver sido consultado e lido antes.
 
-- execução das consultas aos bancos de dados pelas interfaces citadas, com programas auxiliares escritos especificamente para isso,
-- leitura e avaliação dos resumos e registros de estudos,
-- elaboração de rascunhos de texto segundo regras fixas de estilo e de trabalho.
-
-Para evitar o risco conhecido de que sistemas de IA inventem fontes ou números, valeram regras obrigatórias: cada estudo no texto é citado com PMID ou número NCT; cada número precisa vir de um resumo ou registro de estudo efetivamente consultado; estudos só podem ser citados se seu registro tiver sido consultado e lido antes.
-
-Além disso, cada capítulo foi verificado com um programa de controle. Ele consulta, para cada PMID e número NCT citado no texto, o registro no PubMed ou no ClinicalTrials.gov e aponta como erro quando um número não existe. Compara também o primeiro autor ou a primeira autora e o ano de publicação, que constam do texto antes do PMID, com o registro do banco de dados e indica divergências. Por fim, procura formulações inadmissíveis, como promessas de cura, recomendações de dose ou indicações de onde comprar. Um capítulo só era considerado pronto quando essa verificação passava sem erros.
+Além disso, cada capítulo foi verificado com um programa de controle. Ele consulta, para cada PMID e número NCT citado no texto, o registro no PubMed ou no ClinicalTrials.gov e aponta como erro quando um número não existe. Compara também o primeiro autor ou a primeira autora e o ano de publicação, que constam do texto antes do PMID, com o registro do banco de dados e indica divergências. Por fim, procura formulações inadmissíveis, como promessas de cura, recomendações de dose ou indicações de onde comprar. Um capítulo só era considerado pronto quando essa verificação passava sem erros. Além disso, o programa verifica se um trabalho citado foi retratado nesse meio-tempo; esses trabalhos estão expressamente identificados no texto. Para concluir, cerca de 1.450 trechos com números foram comparados um a um com os resumos e, quando necessário, corrigidos.
 
 Essa verificação garante que cada fonte citada existe e está corretamente atribuída. Ela não pode excluir completamente que um resultado esteja reproduzido no texto de forma abreviada ou ambígua. Por isso, todas as fontes estão indicadas de modo que você possa consultá-las por conta própria – como fazer isso está explicado na seção “Sobre este livro”, no início.

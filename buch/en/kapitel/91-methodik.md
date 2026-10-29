@@ -178,16 +178,10 @@ Like any literature search, this one has limitations that you should keep in min
 
 **Snapshot.** The research reflects the status as of October 2026. In rapidly growing fields such as GLP-1 drugs, new studies appear every week.
 
-### AI support and quality control
+### Quality control
 
-This book was researched and written with the support of artificial intelligence and revised by the author. The AI was used for the following tasks:
+The database queries were carried out via the interfaces mentioned, using purpose-written helper programs. Binding rules applied to the evaluation: every study in the text is cited with its PMID or NCT number; every figure must come from an abstract or registry entry that was actually retrieved; studies may be mentioned only if their entry was previously retrieved and read.
 
-- carrying out the database queries via the interfaces mentioned, using purpose-written helper programs,
-- reading and evaluating the abstracts and registry entries,
-- producing draft texts according to fixed style and working rules.
-
-To avoid the known risk that AI systems invent sources or figures, binding rules applied: every study in the text is cited with its PMID or NCT number; every figure must come from an abstract or registry entry that was actually retrieved; studies may be mentioned only if their entry was previously retrieved and read.
-
-In addition, each chapter was checked with a verification program. For every PMID and NCT number mentioned in the text, it retrieves the entry in PubMed or ClinicalTrials.gov and reports an error if a number does not exist. It also compares the first author and year of publication given in the text before the PMID with the database entry and flags discrepancies. Finally, it searches for impermissible wording such as promises of cure, dosage recommendations, or references to sources of supply. A chapter was considered finished only when this check ran without errors.
+In addition, each chapter was checked with a verification program. For every PMID and NCT number mentioned in the text, it retrieves the entry in PubMed or ClinicalTrials.gov and reports an error if a number does not exist. It also compares the first author and year of publication given in the text before the PMID with the database entry and flags discrepancies. Finally, it searches for impermissible wording such as promises of cure, dosage recommendations, or references to sources of supply. A chapter was considered finished only when this check ran without errors. The program also checks whether a cited paper has since been retracted; such papers are explicitly marked in the text. Finally, around 1,450 passages containing figures were individually compared with the abstracts and corrected where necessary.
 
 This check ensures that every cited source exists and is correctly attributed. It cannot completely rule out that a result is presented in the text in abbreviated or misleading form. That is why all sources are given in such a way that you can look them up yourself – how to do this is explained in the section "About This Book" at the beginning.

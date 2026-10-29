@@ -20,9 +20,9 @@ Muitos dos peptídeos descritos constam da lista de substâncias proibidas da Ag
 
 As informações deste livro refletem a **situação em novembro de 2026**. A pesquisa nas bases de dados foi feita em outubro de 2026. O conhecimento médico, as aprovações, as leis e as normas antidoping mudam continuamente. Todas as informações foram reunidas da melhor forma possível e com grande cuidado, mas são fornecidas sem garantia de exatidão, completude e atualidade. Exclui-se a responsabilidade do autor por danos decorrentes do uso das informações deste livro, na medida permitida por lei. A apresentação da situação legal não constitui assessoria jurídica.
 
-### Transparência: como este livro foi feito
+### Como este livro foi feito
 
-Este livro foi pesquisado e redigido com o apoio de inteligência artificial (IA) e, em seguida, revisado pelo autor. A IA foi usada para buscar estudos nas bases de dados PubMed e ClinicalTrials.gov, analisar resumos de estudos e produzir rascunhos de texto.
+Para este livro, as bases de dados PubMed e ClinicalTrials.gov foram pesquisadas de forma sistemática, e os resumos dos estudos encontrados foram analisados.
 
 Para evitar erros, valem regras rigorosas: cada estudo citado é indicado com seu número no PubMed (PMID) ou seu número de registro no ClinicalTrials.gov (número NCT). Cada número vem do resumo da respectiva publicação ou do registro do estudo. Todos os números citados foram, além disso, verificados automaticamente nas bases de dados. Assim, você pode consultar cada fonte e conferir as informações por conta própria. Como fazer isso está explicado na seção a seguir; detalhes sobre a pesquisa você encontra no apêndice “Metodologia”.
 

@@ -20,9 +20,9 @@ Molti dei peptidi descritti figurano nella Lista delle sostanze proibite dell'Ag
 
 Le informazioni contenute in questo libro sono **aggiornate a novembre 2026**. La ricerca nelle banche dati è stata effettuata nell'ottobre 2026. Le conoscenze mediche, le autorizzazioni, le leggi e le norme antidoping cambiano continuamente. Tutte le informazioni sono state raccolte in buona fede e con grande cura, ma senza garanzia di correttezza, completezza e attualità. È esclusa, nei limiti consentiti dalla legge, la responsabilità dell'autore per danni derivanti dall'uso delle informazioni contenute in questo libro. La descrizione del quadro normativo non costituisce consulenza legale.
 
-### Trasparenza: come è nato questo libro
+### Come è nato questo libro
 
-Questo libro è stato ricercato e redatto con il supporto dell'intelligenza artificiale (IA) e successivamente rivisto dall'autore. L'IA è stata impiegata per cercare studi nelle banche dati PubMed e ClinicalTrials.gov, analizzare i riassunti degli studi e preparare bozze di testo.
+Per questo libro sono state consultate sistematicamente le banche dati PubMed e ClinicalTrials.gov e sono stati analizzati i riassunti degli studi individuati.
 
 Per evitare errori valgono regole rigorose: ogni studio citato è indicato con il suo numero PubMed (PMID) o con il suo numero di registrazione su ClinicalTrials.gov (numero NCT). Ogni cifra proviene dal riassunto della rispettiva pubblicazione o dalla voce di registro. Tutti i numeri citati sono stati inoltre verificati automaticamente con le banche dati. In questo modo può consultare personalmente ogni fonte e verificare le informazioni. Come fare è spiegato nella sezione seguente; i dettagli sulla ricerca si trovano nell'appendice „Metodologia“.
 

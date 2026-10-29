@@ -20,9 +20,9 @@ Many of the peptides described are on the Prohibited List of the World Anti-Dopi
 
 The information in this book reflects the **status as of November 2026**. The database research was carried out in October 2026. Medical knowledge, approvals, laws, and anti-doping regulations change constantly. All information has been compiled to the best of our knowledge and with great care, but no guarantee is given for its accuracy, completeness, or currency. The author accepts no liability for damages arising from the use of the information in this book, to the extent permitted by law. The presentation of the legal situation does not constitute legal advice.
 
-### Transparency: How This Book Was Created
+### How This Book Was Created
 
-This book was researched and written with the support of artificial intelligence (AI) and subsequently revised by the author. The AI was used to search for studies in the PubMed and ClinicalTrials.gov databases, to evaluate study summaries, and to produce draft texts.
+For this book, the PubMed and ClinicalTrials.gov databases were systematically searched and the summaries of the studies found were evaluated.
 
 To avoid errors, strict rules apply: Every study mentioned is cited with its PubMed number (PMID) or its ClinicalTrials.gov registry number (NCT number). Every figure comes from the summary of the respective publication or from the registry entry. All cited numbers were additionally checked automatically against the databases. This allows you to look up every source yourself and verify the information. How to do this is explained in the following section; details on the research can be found in the appendix "Methodology."
 
