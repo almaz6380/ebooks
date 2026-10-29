@@ -8,7 +8,7 @@ Le larazotide est le seul peptide de ce groupe à être parvenu jusqu'à une ét
 - **Origine :** issu de la recherche sur la toxine zonula occludens de la bactérie du choléra, qui ouvre les jonctions entre les cellules intestinales ; le larazotide est censé agir en sens inverse.
 - **Principe d'action :** régulateur des « jonctions serrées » (tight junctions, les jonctions d'étanchéité entre les cellules intestinales) ; considéré comme antagoniste de la substance de signalisation endogène zonuline. Agit localement dans l'intestin et n'est pratiquement pas absorbé dans le sang.
 - **Autorisation UE/États-Unis :** non.
-- **WADA :** non listé ; pas d'effet améliorant la performance identifiable (état 2026, à vérifier).
+- **AMA (WADA) :** non listé ; pas d'effet améliorant la performance identifiable (état 2026, à vérifier).
 - **Niveau de preuve : B** – plusieurs études randomisées de phase 2 aux résultats mitigés ; l'étude de phase 3 a été interrompue, sans résultats publiés.
 
 ### Mode d'action supposé
@@ -68,7 +68,7 @@ Le larazotide a été bien toléré dans toutes les études. Dans l'étude avec 
 
 - **UE, Allemagne, Autriche :** non autorisé.
 - **États-Unis :** non autorisé. À la connaissance de l'auteur, le développeur avait obtenu de la FDA une procédure accélérée (« Fast Track ») pour la maladie cœliaque ; après l'arrêt de l'étude de phase 3, aucune demande d'autorisation n'a été déposée.
-- **WADA :** non listé.
+- **AMA (WADA) :** non listé.
 
 ### Études en cours et perspectives
 

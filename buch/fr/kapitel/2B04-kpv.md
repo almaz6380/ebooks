@@ -8,7 +8,7 @@ Le KPV est le plus petit peptide de ce livre : il ne compte que trois acides ami
 - **Origine :** correspond aux trois derniers acides aminés (positions 11 à 13) de l'hormone endogène alpha-MSH (hormone stimulant les mélanocytes alpha), impliquée entre autres dans le bronzage de la peau et dans la régulation de l'inflammation (Cutuli 2000, PMID 10670585).
 - **Principe d'action (supposé, d'après des études de laboratoire et animales) :** inhibition des voies de signalisation pro-inflammatoires dans les cellules intestinales et immunitaires après absorption par le transporteur de peptides PepT1.
 - **Autorisation UE/États-Unis :** non.
-- **WADA :** non expressément listé ; en tant que substance non approuvée, il relève selon l'auteur du groupe S0 (état 2026, à vérifier).
+- **AMA (WADA) :** non expressément listé ; en tant que substance non approuvée, il relève selon l'auteur du groupe S0 (état 2026, à vérifier).
 - **Niveau de preuve : D** – aucune étude publiée chez l'humain.
 
 ### Mode d'action supposé
@@ -66,7 +66,7 @@ Aucun – parce qu'il n'existe pas d'études chez l'humain. L'absence d'effets i
 
 - **UE, Allemagne, Autriche :** non autorisé comme médicament. Si le KPV est proposé avec des allégations de soulagement de maladies, il est considéré comme un médicament non autorisé. En tant qu'ingrédient cosmétique, il relève du règlement européen sur les cosmétiques ; les promesses de guérison y sont interdites.
 - **États-Unis :** pas d'autorisation de la FDA.
-- **WADA :** non cité nommément. En tant que substance pharmacologiquement active sans autorisation, le KPV relève selon l'auteur de S0 (substances non approuvées).
+- **AMA (WADA) :** non cité nommément. En tant que substance pharmacologiquement active sans autorisation, le KPV relève selon l'auteur de S0 (substances non approuvées).
 
 ### Études en cours et perspectives
 

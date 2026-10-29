@@ -8,7 +8,7 @@
 - **Autorisation UE :** non.
 - **Autorisation États-Unis :** non.
 - **Autorisation Chine :** oui, depuis juin 2025 pour la gestion du poids, depuis septembre 2025 aussi pour le diabète de type 2 (nom commercial Xinermei).
-- **WADA :** non cité nommément. Le mazdutide étant autorisé par une autorité sanitaire nationale (Chine), il ne relève plus, selon la lettre du texte, de S0 ; son usage dans le sport sans indication médicale reste néanmoins problématique (état 2026, à vérifier).
+- **AMA (WADA) :** non cité nommément. Le mazdutide étant autorisé par une autorité sanitaire nationale (Chine), il ne relève plus, selon la lettre du texte, de S0 ; son usage dans le sport sans indication médicale reste néanmoins problématique (état 2026, à vérifier).
 - **Niveau de preuve :** **A** – plusieurs grandes études de phase 3 et une autorisation, mais presque exclusivement chez des participants chinois.
 
 ### Mode d'action supposé

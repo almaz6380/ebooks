@@ -7,7 +7,7 @@
 - **Principe d'action :** agoniste du récepteur de la mélanocortine de type 4 (MC4R) dans l'hypothalamus, un centre de commande essentiel de la faim et de la satiété.
 - **Autorisation UE :** oui (Imcivree) dans l'obésité liée à un déficit génétiquement confirmé en POMC, en PCSK1 ou en récepteur de la leptine, ainsi que dans le syndrome de Bardet-Biedl.
 - **Autorisation États-Unis :** oui (Imcivree), pour la première fois en 2020, pour les mêmes formes génétiques rares (Markham 2021, PMID 33638809).
-- **WADA :** non cité nommément ; en tant que médicament autorisé, ne relève pas de S0 (état 2026, à vérifier).
+- **AMA (WADA) :** non cité nommément ; en tant que médicament autorisé, ne relève pas de S0 (état 2026, à vérifier).
 - **Niveau de preuve :** **A** – autorisation sur la base d'études de phase 3 ; en raison de la rareté des maladies, les études sont toutefois petites et en partie non contrôlées.
 
 ### Mode d'action supposé

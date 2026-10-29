@@ -7,7 +7,7 @@
 - **Principe d'action :** « triple agoniste » agissant sur trois récepteurs : GIP, GLP-1 et glucagon. Souvent surnommé « Triple G » dans les médias.
 - **Autorisation UE :** non (état octobre 2026 ; programme de phase 3 TRIUMPH en partie terminé).
 - **Autorisation États-Unis :** non (état octobre 2026, à vérifier).
-- **WADA :** non cité nommément ; en tant que substance autorisée nulle part, le rétatrutide relève toutefois de la classe S0 « Substances non approuvées » et est donc interdit en permanence dans le sport (état 2026, à vérifier).
+- **AMA (WADA) :** non cité nommément ; en tant que substance autorisée nulle part, le rétatrutide relève toutefois de la classe S0 « Substances non approuvées » et est donc interdit en permanence dans le sport (état 2026, à vérifier).
 - **Niveau de preuve :** **B** – plusieurs grandes études de phase 3 publiées, mais pas encore d'autorisation ni de données sur les critères cliniques cardiaques et rénaux. Une autorisation permettrait d'atteindre le niveau A.
 
 ### Mode d'action supposé

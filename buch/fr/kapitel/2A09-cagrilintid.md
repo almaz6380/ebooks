@@ -7,7 +7,7 @@
 - **Principe d'action :** le cagrilintide active les récepteurs de l'amyline ainsi que le récepteur apparenté de la calcitonine (un « double agoniste des récepteurs de l'amyline et de la calcitonine »). Dans CagriSema s'y ajoute l'effet GLP-1 du sémaglutide.
 - **Autorisation UE :** non (état octobre 2026).
 - **Autorisation États-Unis :** non (état octobre 2026 ; une procédure d'autorisation pour CagriSema a été annoncée ou pourrait déjà être en cours – à vérifier).
-- **WADA :** interdit au titre de S0 en tant que substance non approuvée (état 2026, à vérifier).
+- **AMA (WADA) :** interdit au titre de S0 en tant que substance non approuvée (état 2026, à vérifier).
 - **Niveau de preuve :** **B** – plusieurs grandes études de phase 3 publiées, mais pas encore d'autorisation. Avec une autorisation, CagriSema atteindrait le niveau A.
 
 ### Mode d'action supposé

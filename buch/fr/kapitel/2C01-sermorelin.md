@@ -8,7 +8,7 @@ La sermoréline est un morceau d'histoire pharmaceutique qui connaît une second
 - **Origine :** dérivée dans les années 1980 de la GHRH naturelle ; commercialisée par Serono sous le nom de Geref.
 - **Principe d'action :** se lie au récepteur de la GHRH de l'hypophyse et y déclenche une libération d'hormone de croissance ; la régulation propre de l'organisme (frein par la somatostatine, rétrocontrôle par l'IGF-1) est préservée.
 - **Autorisation UE :** non (état 2026). **Autorisation États-Unis :** autrefois oui (Geref comme produit de diagnostic et pour le traitement d'enfants présentant un déficit en hormone de croissance) ; la spécialité d'origine n'est plus disponible depuis la fin des années 2000.
-- **WADA :** interdite, groupe S2 – la sermoréline est expressément citée comme analogue de la GHRH.
+- **AMA (WADA) :** interdite, groupe S2 – la sermoréline est expressément citée comme analogue de la GHRH.
 - **Niveau de preuve : B** – quelques petites études randomisées ou contrôlées, le plus souvent en ouvert et datant des années 1980 et 1990 ; aucune grande étude moderne.
 
 ### Mode d'action supposé
@@ -73,7 +73,7 @@ La sermoréline elle-même a surtout été étudiée en laboratoire dans le cont
 - **Contexte de l'autorisation américaine :** Geref était autorisé aux États-Unis d'abord comme produit de diagnostic, puis à partir des années 1990 pour le traitement d'enfants présentant un déficit en hormone de croissance. Le fabricant a cessé la commercialisation vers la fin des années 2000 ; selon les informations publiques disponibles, pour des raisons de fabrication ou économiques, et non en raison d'un problème de sécurité nouvellement identifié. La disparition du produit de diagnostic à cette époque est documentée dans une étude (Garcia 2013, PMID 23559086). Il n'existe aujourd'hui aucune spécialité dotée d'une autorisation valide.
 - **États-Unis aujourd'hui :** la sermoréline est fabriquée par des pharmacies de préparations magistrales (compounding) et prescrite surtout dans des cabinets anti-âge. La légalité et les conditions de cette pratique dépendent de l'évolution des règles de la FDA sur les substances pour préparations magistrales, qui font l'objet de débats controversés dans les milieux spécialisés (Willis 2026, PMID 42752426).
 - **UE, Allemagne, Autriche :** pas d'autorisation, aucune spécialité commercialisée. La délivrance en vue d'un usage humain sans autorisation est illégale selon la loi sur les médicaments de chaque pays ; les étiquettes « uniquement à des fins de recherche » n'y changent rien.
-- **WADA :** interdite (S2). Des méthodes de détection de la sermoréline et de ses produits de dégradation dans l'urine ont été développées (Memdouh 2021, PMID 34665524).
+- **AMA (WADA) :** interdite (S2). Des méthodes de détection de la sermoréline et de ses produits de dégradation dans l'urine ont été développées (Memdouh 2021, PMID 34665524).
 
 ### Études en cours et perspectives
 

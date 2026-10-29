@@ -7,7 +7,7 @@
 - **Principe d'action :** agoniste des récepteurs de l'amyline – ralentit la vidange gastrique, atténue la sécrétion de glucagon après les repas et favorise la sensation de satiété.
 - **Autorisation UE :** non – le pramlintide n'a jamais été autorisé dans l'UE.
 - **Autorisation États-Unis :** oui, depuis 2005, en complément de l'insuline prandiale dans le diabète de type 1 et de type 2.
-- **WADA :** non cité nommément ; en raison de l'autorisation américaine, il ne relève pas de S0 (état 2026, à vérifier).
+- **AMA (WADA) :** non cité nommément ; en raison de l'autorisation américaine, il ne relève pas de S0 (état 2026, à vérifier).
 - **Niveau de preuve :** **A** – plusieurs grandes études randomisées, autorisation aux États-Unis.
 
 ### Mode d'action supposé

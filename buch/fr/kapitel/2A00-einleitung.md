@@ -7,7 +7,7 @@ Aucun groupe de peptides n'a autant transformé la médecine ces dernières ann�
 Presque toutes les substances de ce groupe imitent des hormones que l'organisme sécrète autour d'un repas. Quatre d'entre elles méritent d'être connues :
 
 - Le **GLP-1 (glucagon-like peptide-1)** est libéré par des cellules de l'intestin grêle et du côlon dès que la nourriture arrive. Il renforce la sécrétion d'insuline – mais seulement lorsque la glycémie est élevée –, ralentit la vidange gastrique et signale la satiété au cerveau. Le GLP-1 produit par l'organisme est dégradé en quelques minutes ; les médicaments sont modifiés de manière à agir d'un jour à une semaine.
-- Le **GIP (polypeptide insulinotrope dépendant du glucose)** provient de la partie haute de l'intestin grêle et renforce lui aussi la sécrétion d'insuline. Son rôle dans l'appétit et le poids corporel est contradictoire : le tirzépatide active le récepteur du GIP, le maridébart cafraglutide le bloque – et tous deux entraînent une perte de poids.
+- Le **GIP (polypeptide insulinotrope dépendant du glucose)** provient de la partie haute de l'intestin grêle et renforce lui aussi la sécrétion d'insuline. Son rôle dans l'appétit et le poids corporel est contradictoire : le tirzépatide active le récepteur du GIP, le maridebart cafraglutide le bloque – et tous deux entraînent une perte de poids.
 - Le **glucagon** est l'hormone pancréatique antagoniste de l'insuline. Il élève la glycémie, mais augmente aussi la dépense énergétique et la dégradation des graisses dans le foie. Des substances plus récentes exploitent délibérément ce second aspect.
 - L'**amyline** est sécrétée avec l'insuline par les cellules bêta du pancréas. Elle agit dans le tronc cérébral en favorisant la satiété et ralentit la vidange gastrique.
 
@@ -29,7 +29,7 @@ Deux substances de ce groupe n'entrent pas dans ce schéma : le **setmélanotide
 | Mazdutide | A | Chine uniquement | glucagon plus GLP-1 |
 | Cagrilintide / CagriSema | B | non | amyline, associée au sémaglutide |
 | Amycrétine (zénagamtide) | B | non | amyline et GLP-1 dans une seule molécule |
-| Maridébart cafraglutide | B | non | bloqueur du GIP, administration mensuelle |
+| Maridebart cafraglutide | B | non | bloqueur du GIP, administration mensuelle |
 | Pramlintide | A | États-Unis uniquement | premier médicament à base d'amyline |
 | Setmélanotide | A | UE, États-Unis | obésité génétique rare |
 | AOD-9604 | D | non | fragment d'hormone de croissance, marché gris |
@@ -39,7 +39,7 @@ Les niveaux de preuve sont expliqués dans la partie I. Les indications d'autori
 
 ### Conseil de lecture
 
-Les chapitres suivent à peu près l'évolution historique : des agonistes du GLP-1 établis (de l'exénatide au sémaglutide) aux substances combinées (du tirzépatide au maridébart cafraglutide), puis aux cas particuliers (pramlintide, setmélanotide, AOD-9604) et enfin à l'orforglipron, inclus à titre de comparaison en tant que non-peptide.
+Les chapitres suivent à peu près l'évolution historique : des agonistes du GLP-1 établis (de l'exénatide au sémaglutide) aux substances combinées (du tirzépatide au maridebart cafraglutide), puis aux cas particuliers (pramlintide, setmélanotide, AOD-9604) et enfin à l'orforglipron, inclus à titre de comparaison en tant que non-peptide.
 
 Pour une vue d'ensemble rapide, commencez par le sémaglutide et le tirzépatide – c'est à eux que tous les autres sont comparés. Vous trouverez dans la partie III les comparaisons directes de la perte de poids, de la baisse de la glycémie, des résultats cardiovasculaires et des effets indésirables pour l'ensemble des substances. La partie IV traite en détail des risques de classe comme les problèmes de vésicule biliaire et de pancréas, la perte musculaire et les questions concernant la thyroïde.
 

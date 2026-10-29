@@ -8,7 +8,7 @@ La thymosine alpha 1 est un cas particulier dans ce groupe. Contrairement au BPC
 - **Origine :** isolée dans les années 1970 à partir d'un extrait de thymus (« fraction 5 de thymosine ») ; aujourd'hui obtenue par synthèse chimique. Dénomination de la substance : thymalfasine.
 - **Principe d'action :** immunomodulateur – censé favoriser la maturation et l'activité des lymphocytes T et des cellules dendritiques.
 - **Autorisation UE :** pas d'autorisation centralisée. **États-Unis :** non autorisée ; la FDA a restreint en 2023 son utilisation par les pharmacies de préparations magistrales (Dinetz 2024, PMID 38308608). **Autres pays :** autorisée sous le nom Zadaxin, surtout en Chine et dans d'autres pays asiatiques, le plus souvent pour l'hépatite B chronique et comme traitement d'appoint pour renforcer le système immunitaire.
-- **WADA :** non expressément listée (état 2026, à vérifier).
+- **AMA (WADA) :** non expressément listée (état 2026, à vérifier).
 - **Niveau de preuve : B** – formellement, de nombreuses études randomisées existent ; mais les grandes études, méthodologiquement les meilleures, n'ont pas atteint leurs critères principaux, et les résultats positifs proviennent majoritairement de petites études à risque de biais élevé.
 
 ### Mode d'action supposé
@@ -96,7 +96,7 @@ La thymosine alpha 1 est considérée comme bien tolérée dans les études. Dan
 - **UE, Allemagne, Autriche :** pas d'autorisation comme médicament. Une prescription au cas par cas via une importation individuelle depuis un pays où elle est autorisée peut être possible, selon le droit national, dans des conditions strictes ; la vente comme « research peptide » en vue d'un usage humain n'est pas autorisée.
 - **États-Unis :** pas d'autorisation de la FDA. En 2023, la FDA a inscrit la thymosine alpha 1, avec d'autres peptides, sur la liste des substances présentant des préoccupations de sécurité pour les préparations magistrales ; ses partisans le critiquent (Dinetz 2024, PMID 38308608). Le classement des peptides continue d'être discuté au sein du comité consultatif de la FDA (Willis 2026, PMID 42752426).
 - **Chine et autres pays :** autorisée sous le nom de Zadaxin ou de thymalfasine ; il existe aussi en Chine un certain nombre de génériques.
-- **WADA :** non expressément inscrite sur la liste des interdictions. Les sportives et sportifs devraient néanmoins se renseigner auprès de leur agence nationale antidopage avant toute utilisation.
+- **AMA (WADA) :** non expressément inscrite sur la liste des interdictions. Les sportives et sportifs devraient néanmoins se renseigner auprès de leur agence nationale antidopage avant toute utilisation.
 
 ### Études en cours et perspectives
 

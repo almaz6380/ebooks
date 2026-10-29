@@ -6,7 +6,7 @@
 - **Origine :** découvert à l'origine par Chugai Pharmaceutical, sous licence et développé par Eli Lilly.
 - **Principe d'action :** agoniste du récepteur du GLP-1 – la même cible que le sémaglutide ou le liraglutide, mais avec une structure chimique totalement différente.
 - **Autorisation UE / États-Unis :** selon l'état de la recherche pour ce livre (octobre 2026), non répertorié comme autorisé ; des demandes d'autorisation ont été déposées ou annoncées sur la base des études de phase 3 – à vérifier.
-- **WADA :** non cité nommément ; tant qu'il n'est autorisé nulle part, interdit au titre de S0 (état 2026, à vérifier).
+- **AMA (WADA) :** non cité nommément ; tant qu'il n'est autorisé nulle part, interdit au titre de S0 (état 2026, à vérifier).
 - **Niveau de preuve :** **A** au vu des données (plusieurs grandes études de phase 3, dont une étude de sécurité cardiovasculaire) ; l'autorisation formelle reste en attente ou est à vérifier.
 
 ### Pourquoi ce chapitre figure dans un livre sur les peptides

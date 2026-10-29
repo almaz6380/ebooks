@@ -8,7 +8,7 @@ La thymaline est un extrait de thymus de veau, le thymogène un dipeptide de syn
 - **Thymogène :** dipeptide de synthèse L-Glu-L-Trp, isolé à partir de la thymaline (Anisimov 2000, PMID 11707921) ; disponible en Russie aussi en spray nasal.
 - **Principe d'action (allégué) :** stimulation de la maturation des lymphocytes T, « normalisation » de la fonction immunitaire et de la coagulation ; selon la théorie de Khavinson, les peptides courts agissent comme « biorégulateurs » directement sur l'activité des gènes.
 - **Autorisation :** autorisés comme médicaments en Russie et dans quelques États successeurs de l'Union soviétique ; **UE et États-Unis :** non.
-- **WADA :** non expressément listés (état 2026, à vérifier).
+- **AMA (WADA) :** non expressément listés (état 2026, à vérifier).
 - **Niveau de preuve : C** – majoritairement de petites études en ouvert ou insuffisamment décrites ; une seule étude décrite comme randomisée et contrôlée contre placebo dans PubMed.
 
 ### Mode d'action supposé
@@ -84,7 +84,7 @@ Il n'existe pas de données de sécurité recueillies systématiquement selon le
 - **Russie et quelques États successeurs de l'Union soviétique :** la thymaline et le thymogène sont autorisés comme médicaments.
 - **UE, Allemagne, Autriche :** pas d'autorisation. L'importation et la délivrance en vue d'un usage humain ne sont permises que dans les conditions strictes du droit pharmaceutique de chaque pays. Les gélules d'extraits d'organes vendues comme compléments alimentaires ne doivent promettre aucun effet sur des maladies ; leur éventuelle qualification de médicament dépend du cas d'espèce.
 - **États-Unis :** pas d'autorisation de la FDA.
-- **WADA :** non cités nommément.
+- **AMA (WADA) :** non cités nommément.
 
 ### Études en cours et perspectives
 

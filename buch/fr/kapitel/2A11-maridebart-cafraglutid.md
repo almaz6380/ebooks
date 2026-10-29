@@ -7,7 +7,7 @@
 - **Principe d'action :** la composante GLP-1 **active** le récepteur du GLP-1, l'anticorps **bloque** le récepteur du GIP (antagoniste du GIPR). C'est l'inverse du tirzépatide, qui active le récepteur du GIP.
 - **Particularité :** grâce à sa composante anticorps, MariTide agit très longtemps ; une administration toutes les quatre semaines ou moins souvent est à l'étude.
 - **Autorisation UE / États-Unis :** non (état octobre 2026).
-- **WADA :** interdit au titre de S0 en tant que substance non approuvée (état 2026, à vérifier).
+- **AMA (WADA) :** interdit au titre de S0 en tant que substance non approuvée (état 2026, à vérifier).
 - **Niveau de preuve :** **B** – une grande étude randomisée de phase 2, phase 3 en cours.
 
 ### Mode d'action supposé

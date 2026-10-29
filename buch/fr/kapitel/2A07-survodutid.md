@@ -7,7 +7,7 @@
 - **Principe d'action :** double agoniste des récepteurs du glucagon et du GLP-1 (sans composante GIP).
 - **Autorisation UE :** non (état octobre 2026).
 - **Autorisation États-Unis :** non (état octobre 2026).
-- **WADA :** en tant que substance autorisée nulle part, interdit au titre de S0 « Substances non approuvées » (état 2026, à vérifier).
+- **AMA (WADA) :** en tant que substance autorisée nulle part, interdit au titre de S0 « Substances non approuvées » (état 2026, à vérifier).
 - **Niveau de preuve :** **B** – études randomisées de phase 2 et premières études de phase 3 publiées, pas d'autorisation.
 
 ### Mode d'action supposé

@@ -7,7 +7,7 @@
 - **Principe d'action :** agoniste des récepteurs du GLP-1, de l'amyline et de la calcitonine.
 - **Autorisation UE :** non.
 - **Autorisation États-Unis :** non.
-- **WADA :** interdit au titre de S0 en tant que substance non approuvée (état 2026, à vérifier).
+- **AMA (WADA) :** interdit au titre de S0 en tant que substance non approuvée (état 2026, à vérifier).
 - **Niveau de preuve :** **B** – études randomisées de phase 1 et de phase 2 publiées ; la phase 3 a commencé en 2026.
 
 ### Mode d'action supposé
