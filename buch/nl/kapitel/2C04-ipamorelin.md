@@ -7,7 +7,7 @@ Ipamoreline geldt in fitness- en anti-agingkringen als de „schone” groeihorm
 - **Soort en structuur:** synthetisch pentapeptide (5 aminozuren, deels niet-natuurlijk: Aib-His-D-2-Nal-D-Phe-Lys-NH2) (Raun 1998, PMID 9849822).
 - **Herkomst:** ontwikkeld door Novo Nordisk (Denemarken) uit de familie van de groeihormoonvrijmakende peptiden (GHRP); later door Helsinn verder ontwikkeld voor het maag-darmgebied.
 - **Werkingsprincipe:** bindt aan de ghrelinereceptor (GHS-R1a) in hypofyse en tussenhersenen en in het maag-darmkanaal; veroorzaakt een korte stoot groeihormoon en zou de darmbeweging stimuleren.
-- **Toelating EU:** nee. **Toelating VS:** nee.
+- **Registratie EU:** nee. **Registratie VS:** nee.
 - **WADA:** verboden, groep S2 (groeihormoonsecretagogen; ipamoreline wordt uitdrukkelijk genoemd).
 - **Bewijsniveau: B** – één gerandomiseerde fase 2-studie met 117 personen (zonder bewezen werkzaamheid) en een kleine farmacologische studie bij gezonde mensen; een tweede fase 2-studie is afgerond, maar ongepubliceerd.
 

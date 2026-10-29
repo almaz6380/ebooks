@@ -1,6 +1,6 @@
 # Woordenlijst
 
-De volgende uitleg is bewust kort gehouden. Uitgebreidere toelichtingen vindt u in de hoofdstukken van Deel I, met name in „Wat peptiden zijn – en wat niet“ en „Studies goed lezen“.
+De volgende uitleg is bewust kort gehouden. Uitgebreidere toelichtingen vindt u in de hoofdstukken van Deel I, met name in „Wat peptiden zijn – en wat niet” en „Studies goed lezen”.
 
 ### A
 
@@ -154,7 +154,7 @@ De volgende uitleg is bewust kort gehouden. Uitgebreidere toelichtingen vindt u 
 
 **Intention-to-treat-analyse**: Analyse van een studie waarbij alle deelnemers worden meegeteld in de groep waaraan ze zijn toegewezen – ook als ze met de behandeling zijn gestopt. Ze geldt als een realistischere schatting van het effect in de dagelijkse praktijk.
 
-**In vitro**: „In het glas“ – proeven in het laboratorium op cellen, weefsels of geïsoleerde moleculen buiten een levend organisme.
+**In vitro**: „In het glas” – proeven in het laboratorium op cellen, weefsels of geïsoleerde moleculen buiten een levend organisme.
 
 ### L
 
@@ -172,7 +172,7 @@ De volgende uitleg is bewust kort gehouden. Uitgebreidere toelichtingen vindt u 
 
 ### N
 
-**NCT-nummer**: Het identificatienummer van een studie in het register ClinicalTrials.gov, bestaande uit „NCT“ en acht cijfers.
+**NCT-nummer**: Het identificatienummer van een studie in het register ClinicalTrials.gov, bestaande uit „NCT” en acht cijfers.
 
 **Novel food**: In de EU een levensmiddel of ingrediënt dat vóór 15 mei 1997 niet in noemenswaardige mate werd geconsumeerd. Zulke producten hebben vóór de verkoop een toelating nodig.
 
@@ -238,7 +238,7 @@ De volgende uitleg is bewust kort gehouden. Uitgebreidere toelichtingen vindt u 
 
 **Relatief risico**: De verhouding van de frequentie van een gebeurtenis in twee groepen. Een relatief risico van 0,5 betekent een halvering – ongeacht hoe vaak de gebeurtenis in totaal voorkomt.
 
-**Research peptides**: Peptiden die worden verkocht met de vermelding „alleen voor onderzoeksdoeleinden“ of „niet voor gebruik bij mensen“, maar vaak aan particulieren. Het zijn geen geteste geneesmiddelen.
+**Research peptides**: Peptiden die worden verkocht met de vermelding „alleen voor onderzoeksdoeleinden” of „niet voor gebruik bij mensen”, maar vaak aan particulieren. Het zijn geen geteste geneesmiddelen.
 
 ### S
 

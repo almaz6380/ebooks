@@ -4,7 +4,7 @@ De geschiedenis van de peptidegeneesmiddelen is een geschiedenis van doorbraken,
 
 ### Vóór 1922: boodschapperstoffen worden ontdekt
 
-Rond 1900 brak in de fysiologie een nieuw idee door: organen communiceren niet alleen via zenuwen, maar ook via chemische boodschapperstoffen in het bloed. De Britse fysiologen William Bayliss en Ernest Starling beschreven in 1902 secretine, een stof uit de darmwand die de alvleesklier aanzet tot sapproductie. Voor zulke boodschapperstoffen bedacht Starling kort daarna het begrip „hormoon“. Secretine is – zoals we nu weten – een peptide. Daarmee stond een peptide aan het begin van het hele hormoononderzoek.
+Rond 1900 brak in de fysiologie een nieuw idee door: organen communiceren niet alleen via zenuwen, maar ook via chemische boodschapperstoffen in het bloed. De Britse fysiologen William Bayliss en Ernest Starling beschreven in 1902 secretine, een stof uit de darmwand die de alvleesklier aanzet tot sapproductie. Voor zulke boodschapperstoffen bedacht Starling kort daarna het begrip „hormoon”. Secretine is – zoals we nu weten – een peptide. Daarmee stond een peptide aan het begin van het hele hormoononderzoek.
 
 Tegelijk was bekend dat suikerziekte (diabetes mellitus) samenhangt met de alvleesklier. Honden bij wie men het orgaan verwijderde, kregen een dodelijke diabetes. Veel onderzoeksgroepen probeerden de vermoede bloedsuikerverlagende stof uit de klier te winnen. De extracten waren echter ofwel onwerkzaam, ofwel zo verontreinigd dat ze ernstige reacties veroorzaakten.
 
@@ -20,7 +20,7 @@ De decennia daarna draaiden, zoals een historisch overzicht samenvat, om zeer pr
 
 Lang was onduidelijk hoe insuline chemisch is opgebouwd. De Britse biochemicus Frederick Sanger ontrafelde begin jaren 1950 stap voor stap de volgorde van de aminozuren in de twee insulineketens (Sanger 1952, PMID 13018185). Insuline was daarmee het eerste eiwitmolecuul waarvan de volledige sequentie bekend was. Sanger kreeg daarvoor in 1958 de Nobelprijs voor de Scheikunde. Het inzicht dat eiwitten een vaste, precies bepaalde volgorde van bouwstenen hebben, was fundamenteel voor de hele moleculaire biologie.
 
-Vrijwel tegelijk slaagde de Amerikaanse chemicus Vincent du Vigneaud in de eerste chemische synthese van een peptidehormoon: oxytocine, een hormoon van negen aminozuren dat weeën en de melktoeschietreflex opwekt. Hij werd daarvoor in 1955 bekroond met de Nobelprijs voor de Scheikunde. Voor het eerst was een lichaamseigen hormoon in het laboratorium „nagebouwd“ – synthetisch oxytocine wordt in de verloskunde nog altijd gebruikt.
+Vrijwel tegelijk slaagde de Amerikaanse chemicus Vincent du Vigneaud in de eerste chemische synthese van een peptidehormoon: oxytocine, een hormoon van negen aminozuren dat weeën en de melktoeschietreflex opwekt. Hij werd daarvoor in 1955 bekroond met de Nobelprijs voor de Scheikunde. Voor het eerst was een lichaamseigen hormoon in het laboratorium „nagebouwd” – synthetisch oxytocine wordt in de verloskunde nog altijd gebruikt.
 
 In de jaren 1960 ontwikkelde Robert Bruce Merrifield de vastefasesynthese, waarbij een peptideketen op een vaste drager bouwsteen voor bouwsteen wordt verlengd (Merrifield 1969, PMID 4307033). De methode liet zich automatiseren en maakte de productie van willekeurige korte peptiden pas praktisch haalbaar. Merrifield kreeg in 1984 de Nobelprijs voor de Scheikunde. Zonder deze techniek zouden de meeste moderne peptidegeneesmiddelen niet bestaan, en evenmin de huidige grijze markt.
 
@@ -36,9 +36,9 @@ Tot in de jaren 1980 kwam insuline uit alvleesklieren van slachtdieren. Het mens
 
 Genetische modificatie bood een uitweg. Humane insuline, gemaakt in bacteriën, werd vanaf 1980 in klinische studies bij mensen gebruikt en was het eerste geneesmiddel uit recombinant-DNA-technologie (The 1989, PMID 2690608). Enkele jaren later volgde recombinant groeihormoon. Voor het eerst waren menselijke peptiden en eiwitten in praktisch onbeperkte hoeveelheid beschikbaar.
 
-In de jaren 1990 gingen de fabrikanten een stap verder: ze veranderden de insulinemoleculen gericht, zodat ze sneller of langzamer werkten. Deze „insulineanalogen“ waren een voorloper van het principe dat later de GLP-1-geneesmiddelen zo succesvol maakte: een natuurlijk voorbeeld, in het laboratorium geoptimaliseerd voor het gebruik.
+In de jaren 1990 gingen de fabrikanten een stap verder: ze veranderden de insulinemoleculen gericht, zodat ze sneller of langzamer werkten. Deze „insulineanalogen” waren een voorloper van het principe dat later de GLP-1-geneesmiddelen zo succesvol maakte: een natuurlijk voorbeeld, in het laboratorium geoptimaliseerd voor het gebruik.
 
-Ook andere peptidegeneesmiddelen vestigden zich. Een voorbeeld is teriparatide, een fragment van het bijschildklierhormoon. In een grote studie met 1.637 vrouwen na de overgang met osteoporose traden nieuwe wervelfracturen op bij 14% van de vrouwen met placebo, maar slechts bij 5% respectievelijk 4% in de twee teriparatidegroepen (Neer 2001, PMID 11346808). Zulke studies met „harde“ eindpunten zoals botbreuken legden de lat waaraan ook nieuwe peptiden zich moeten meten.
+Ook andere peptidegeneesmiddelen vestigden zich. Een voorbeeld is teriparatide, een fragment van het bijschildklierhormoon. In een grote studie met 1.637 vrouwen na de overgang met osteoporose traden nieuwe wervelfracturen op bij 14% van de vrouwen met placebo, maar slechts bij 5% respectievelijk 4% in de twee teriparatidegroepen (Neer 2001, PMID 11346808). Zulke studies met „harde” eindpunten zoals botbreuken legden de lat waaraan ook nieuwe peptiden zich moeten meten.
 
 ### De incretines: van de darm naar het geneesmiddel
 
@@ -70,7 +70,7 @@ Een keerpunt kwam toen de autoriteiten na problemen met een ander diabetesmiddel
 
 In de studie LEADER met 9.340 mensen met diabetes type 2 en een hoog cardiovasculair risico trad de gecombineerde gebeurtenis van cardiovasculaire dood, niet-fataal hartinfarct of beroerte onder liraglutide op bij 13,0%, onder placebo bij 14,9% (Marso 2016, PMID 27295427). In de studie SUSTAIN-6 met 3.297 deelnemers was dat onder semaglutide 6,6%, onder placebo 8,9%; wel traden onder semaglutide vaker complicaties aan het netvlies op (Marso 2016, PMID 27633186).
 
-In 2023 volgde de studie SELECT, die voor het eerst mensen met overgewicht en hart- en vaatziekte, maar zonder diabetes onderzocht. Bij 17.604 deelnemers trad de gecombineerde cardiovasculaire gebeurtenis over gemiddeld 39,8 maanden onder semaglutide op bij 6,5%, onder placebo bij 8,0% (Lincoff 2023, PMID 37952131). Daarmee was aangetoond dat een peptidegeneesmiddel bij obesitas niet alleen het gewicht, maar ook harde gebeurtenissen zoals hartinfarcten kan beïnvloeden. Wat deze percentages betekenen – en waarom men onderscheid moet maken tussen relatieve en absolute verschillen –, legt het hoofdstuk „Studies goed lezen“ uit.
+In 2023 volgde de studie SELECT, die voor het eerst mensen met overgewicht en hart- en vaatziekte, maar zonder diabetes onderzocht. Bij 17.604 deelnemers trad de gecombineerde cardiovasculaire gebeurtenis over gemiddeld 39,8 maanden onder semaglutide op bij 6,5%, onder placebo bij 8,0% (Lincoff 2023, PMID 37952131). Daarmee was aangetoond dat een peptidegeneesmiddel bij obesitas niet alleen het gewicht, maar ook harde gebeurtenissen zoals hartinfarcten kan beïnvloeden. Wat deze percentages betekenen – en waarom men onderscheid moet maken tussen relatieve en absolute verschillen –, legt het hoofdstuk „Studies goed lezen” uit.
 
 ### De tablet en de meervoudige agonisten
 
@@ -84,7 +84,7 @@ Opmerkelijk is dat het incretine GIP, dat in de jaren 1980 als zwakker dan GLP-1
 
 ### De keerzijde van het succes
 
-Het enorme succes van de GLP-1-geneesmiddelen had bijwerkingen buiten de farmacologie. Leveringstekorten vanaf 2022 leidden ertoe dat mensen met diabetes hun geneesmiddelen tijdelijk niet kregen. In de VS gebruikten apotheken een uitzonderingsregel om namaakpreparaten te bereiden. Wereldwijd doken vervalsingen op die in sommige gevallen in plaats van semaglutide insuline bevatten. En de groeiende belangstelling voor „peptiden“ in het algemeen opende een markt voor stoffen die nooit fatsoenlijk bij de mens zijn onderzocht. Het hoofdstuk over de grijze markt gaat daar uitgebreid op in.
+Het enorme succes van de GLP-1-geneesmiddelen had bijwerkingen buiten de farmacologie. Leveringstekorten vanaf 2022 leidden ertoe dat mensen met diabetes hun geneesmiddelen tijdelijk niet kregen. In de VS gebruikten apotheken een uitzonderingsregel om namaakpreparaten te bereiden. Wereldwijd doken vervalsingen op die in sommige gevallen in plaats van semaglutide insuline bevatten. En de groeiende belangstelling voor „peptiden” in het algemeen opende een markt voor stoffen die nooit fatsoenlijk bij de mens zijn onderzocht. Het hoofdstuk over de grijze markt gaat daar uitgebreid op in.
 
 ### Wat de geschiedenis leert
 
@@ -93,7 +93,7 @@ Uit honderd jaar peptidegeneeskunde zijn enkele lessen te trekken die nuttig zij
 1. **Zuiverheid is geen detail.** Van de verontreinigde insuline-extracten uit de begintijd tot het groeihormoon uit hypofysen van overledenen laat de geschiedenis zien dat productiekwaliteit over leven en dood kan beslissen.
 2. **Werkingsmechanisme is niet hetzelfde als nut.** Dat een peptide op een receptor werkt, betekent nog niet dat het mensen baat. Bij de GLP-1-geneesmiddelen waren daarvoor grote studies met duizenden deelnemers en jarenlange observatie nodig.
 3. **Verrassingen zijn er in beide richtingen.** Het gewichtsverlies door exenatide was aanvankelijk een voetnoot, de hartbeschermende effecten werden in veiligheidsstudies ontdekt. Omgekeerd kwamen in grote studies ook onverwachte risico's aan het licht, zoals de netvliescomplicaties in SUSTAIN-6.
-4. **Goede ideeën hebben tijd nodig.** Tussen de beschrijving van GLP-1 bij de mens in 1987 en de registratie van semaglutide voor gewichtsbehandeling verstreken meer dan drie decennia. Peptiden die nu op internet als „doorbraak“ worden aangeprezen, zonder dat er één gecontroleerde studie bij mensen bestaat, staan in het beste geval aan het begin van zo'n weg.
+4. **Goede ideeën hebben tijd nodig.** Tussen de beschrijving van GLP-1 bij de mens in 1987 en de registratie van semaglutide voor gewichtsbehandeling verstreken meer dan drie decennia. Peptiden die nu op internet als „doorbraak” worden aangeprezen, zonder dat er één gecontroleerde studie bij mensen bestaat, staan in het beste geval aan het begin van zo'n weg.
 
 ### Tijdlijn
 

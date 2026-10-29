@@ -5,8 +5,8 @@
 - **Soort en structuur:** nonapeptide van negen aminozuren (Trp-Ala-Gly-Gly-Asp-Ala-Ser-Gly-Glu); internationale generieke naam emideltide.
 - **Herkomst:** in 1977 door een onderzoeksgroep in Bazel geïsoleerd uit het hersenveneuze bloed van konijnen die door elektrische prikkeling in diepe slaap waren gebracht. Een gen, een voorlopereiwit of een receptor voor DSIP is tot op heden niet gevonden.
 - **Werkingsprincipe:** zou als lichaamseigen „slaapstof” de diepe slaap (deltaslaap met langzame eeg-golven) bevorderen; later werden invloeden op stresshormonen, pijn en ontwenningsverschijnselen vermoed.
-- **Toelating EU:** nee.
-- **Toelating VS:** nee. Emideltide werd in april 2026 van de FDA-„categorie 2” geschrapt; het adviescomité PCAC stemde in juli 2026 met 6 tegen 7 stemmen **tegen** opname in de lijst van toegestane grondstoffen voor bereidingen (stand oktober 2026, actuele situatie controleren).
+- **Registratie EU:** nee.
+- **Registratie VS:** nee. Emideltide werd in april 2026 van de FDA-„categorie 2” geschrapt; het adviescomité PCAC stemde in juli 2026 met 6 tegen 7 stemmen **tegen** opname in de lijst van toegestane grondstoffen voor bereidingen (stand oktober 2026, actuele situatie controleren).
 - **Rusland en buurlanden:** DSIP-preparaten (bijv. Deltaran, Deltalicin) werden daar in studies en in de praktijk gebruikt.
 - **WADA:** niet bij naam vermeld (stand 2026, actuele situatie controleren).
 - **Bewijsniveau:** **C** – alleen zeer kleine, overwegend in de jaren tachtig uitgevoerde studies; de methodologisch beste daarvan vonden geen klinisch relevant nut.

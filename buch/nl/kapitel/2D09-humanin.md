@@ -5,8 +5,8 @@
 - **Soort en structuur:** lichaamseigen peptide van 24 aminozuren. Op de grijze markt en in het onderzoek wordt meestal de gewijzigde vorm **HNG** (humanine-G, ook S14G-humanine) gebruikt, waarbij op positie 14 serine door glycine is vervangen; die werkt in laboratoriumexperimenten duidelijk sterker.
 - **Herkomst:** in 2001 ontdekt door Japanse onderzoekers die in hersenweefsel van een mens met de ziekte van Alzheimer zochten naar factoren die zenuwcellen tegen afsterven beschermen – vandaar de naam. Het is gecodeerd in het erfelijk materiaal van de mitochondriën; vergelijkbare stukken bestaan ook in het erfelijk materiaal van de celkern.
 - **Werkingsprincipe:** „mitokine” (signaalstof van de mitochondriën) dat cellen zou beschermen tegen geprogrammeerde celdood. Het bindt onder meer aan een receptorcomplex van CNTF-receptor, WSX-1 en gp130 op het celoppervlak.
-- **Toelating EU:** nee.
-- **Toelating VS:** nee.
+- **Registratie EU:** nee.
+- **Registratie VS:** nee.
 - **WADA:** niet bij naam vermeld; als nergens toegelaten stof valt humanine resp. HNG naar onze inschatting onder de verzamelcategorie S0 (stand 2026, actuele situatie controleren).
 - **Bewijsniveau:** **D** voor toediening als werkzame stof – niet één studie waarin mensen humanine of HNG kregen; bij mensen zijn er alleen metingen van de lichaamseigen spiegels.
 

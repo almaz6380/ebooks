@@ -10,7 +10,7 @@ Dit boek bevat bewust geen adviezen over het gebruik van peptiden, geen dosering
 
 ### Veel stoffen zijn niet geregistreerd
 
-Een groot deel van de in dit boek beschreven peptiden is in de Europese Unie, in Oostenrijk, in Duitsland en in de VS **niet** als geneesmiddel geregistreerd. Voor veel ervan zijn alleen dier- of laboratoriumstudies beschikbaar. De beschrijving van zulke stoffen in dit boek is geen uitspraak over hun werkzaamheid of veiligheid bij de mens en geen aansporing om ze te gebruiken. Producten die op internet als „research peptides“ of „alleen voor onderzoeksdoeleinden“ worden aangeboden, kunnen verkeerd gedoseerd, verontreinigd of vervalst zijn. Het gebruik ervan kan aanzienlijke gevolgen hebben voor uw gezondheid en juridische gevolgen.
+Een groot deel van de in dit boek beschreven peptiden is in de Europese Unie, in Oostenrijk, in Duitsland en in de VS **niet** als geneesmiddel geregistreerd. Voor veel ervan zijn alleen dier- of laboratoriumstudies beschikbaar. De beschrijving van zulke stoffen in dit boek is geen uitspraak over hun werkzaamheid of veiligheid bij de mens en geen aansporing om ze te gebruiken. Producten die op internet als „research peptides” of „alleen voor onderzoeksdoeleinden” worden aangeboden, kunnen verkeerd gedoseerd, verontreinigd of vervalst zijn. Het gebruik ervan kan aanzienlijke gevolgen hebben voor uw gezondheid en juridische gevolgen.
 
 ### Doping
 
@@ -24,7 +24,7 @@ De informatie in dit boek geeft de **stand van november 2026** weer. Het onderzo
 
 Dit boek is met ondersteuning van kunstmatige intelligentie (AI) onderzocht en geschreven en daarna door de auteur bewerkt. De AI werd ingezet om studies te zoeken in de databases PubMed en ClinicalTrials.gov, samenvattingen van studies te analyseren en tekstconcepten op te stellen.
 
-Om fouten te voorkomen gelden strikte regels: elke genoemde studie wordt vermeld met haar PubMed-nummer (PMID) of haar registratienummer bij ClinicalTrials.gov (NCT-nummer). Elk getal komt uit de samenvatting van de betreffende publicatie of uit de registratie. Alle geciteerde nummers zijn bovendien automatisch tegen de databases gecontroleerd. Zo kunt u elke bron zelf opzoeken en de gegevens controleren. Hoe dat werkt, staat in de volgende paragraaf; details over het onderzoek vindt u in de bijlage „Methodologie“.
+Om fouten te voorkomen gelden strikte regels: elke genoemde studie wordt vermeld met haar PubMed-nummer (PMID) of haar registratienummer bij ClinicalTrials.gov (NCT-nummer). Elk getal komt uit de samenvatting van de betreffende publicatie of uit de registratie. Alle geciteerde nummers zijn bovendien automatisch tegen de databases gecontroleerd. Zo kunt u elke bron zelf opzoeken en de gegevens controleren. Hoe dat werkt, staat in de volgende paragraaf; details over het onderzoek vindt u in de bijlage „Methodologie”.
 
 # Over dit boek
 
@@ -68,7 +68,7 @@ Elk peptide krijgt in het profiel een bewijsniveau. Dat beschrijft hoe goed de g
 | C | alleen kleine of ongecontroleerde studies bij mensen |
 | D | alleen dier- en laboratoriumstudies |
 
-Het bewijsniveau is geen advies en geen uitspraak over de veiligheid van een stof. Ook een werkzame stof van niveau A heeft bijwerkingen, en een stof van niveau D is niet noodzakelijk werkingsloos – ze is alleen nog niet voldoende bij de mens onderzocht. Wat er achter de begrippen „gerandomiseerd“, „gecontroleerd“ of „surrogaateindpunt“ zit, legt het hoofdstuk „Studies goed lezen“ uit.
+Het bewijsniveau is geen advies en geen uitspraak over de veiligheid van een stof. Ook een werkzame stof van niveau A heeft bijwerkingen, en een stof van niveau D is niet noodzakelijk werkingsloos – ze is alleen nog niet voldoende bij de mens onderzocht. Wat er achter de begrippen „gerandomiseerd”, „gecontroleerd” of „surrogaateindpunt” zit, legt het hoofdstuk „Studies goed lezen” uit.
 
 ### Hoe bronnen worden vermeld
 
@@ -103,4 +103,4 @@ U kunt het nummer ook direct achter het adres plakken: pubmed.ncbi.nlm.nih.gov/3
 
 ### Tot slot
 
-Dit boek is een hulpmiddel om na te denken, geen gids voor zelfbehandeling. Als u na het lezen meer vragen hebt dan ervoor, is dat geen slecht teken: vaak is het eerlijkste antwoord op de vraag „Werkt dit peptide?“ een „Dat weet nog niemand“.
+Dit boek is een hulpmiddel om na te denken, geen gids voor zelfbehandeling. Als u na het lezen meer vragen hebt dan ervoor, is dat geen slecht teken: vaak is het eerlijkste antwoord op de vraag „Werkt dit peptide?” een „Dat weet nog niemand”.

@@ -23,7 +23,7 @@ Uit liraglutide ontstond later semaglutide: hetzelfde basisidee, maar met een st
 
 ### Studies bij mensen
 
-Liraglutide behoort tot de best onderzochte peptidegeneesmiddelen. De voor dit boek geanalyseerde PubMed-zoekopdracht (zoekterm „liraglutide“ in titel of abstract, zoekdatum oktober 2026) leverde 613 studies bij mensen op – meer dan voor enig ander peptide in dit boek. ClinicalTrials.gov vermeldt 517 registraties. Hieronder staan de registratie- en uitkomststudies centraal; daarnaast zijn er honderden kleinere studies over lever, hart, hersenen, vruchtbaarheid en eetstoornissen.
+Liraglutide behoort tot de best onderzochte peptidegeneesmiddelen. De voor dit boek geanalyseerde PubMed-zoekopdracht (zoekterm „liraglutide” in titel of abstract, zoekdatum oktober 2026) leverde 613 studies bij mensen op – meer dan voor enig ander peptide in dit boek. ClinicalTrials.gov vermeldt 517 registraties. Hieronder staan de registratie- en uitkomststudies centraal; daarnaast zijn er honderden kleinere studies over lever, hart, hersenen, vruchtbaarheid en eetstoornissen.
 
 #### Diabetes type 2: het LEAD-programma
 

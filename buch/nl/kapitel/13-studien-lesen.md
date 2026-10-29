@@ -1,12 +1,12 @@
 ## Studies goed lezen
 
-„Studies tonen aan …“ – nauwelijks een formulering wordt in reclame voor peptiden zo vaak gebruikt. Daarmee kan van alles bedoeld zijn: een proef met cellen in een petrischaal, een experiment met twaalf ratten, een ervaringsverhaal van één patiënt of een studie met 17.000 deelnemers over meer dan drie jaar. Wie peptiden wil beoordelen, moet deze verschillen kennen. Dit hoofdstuk is een soort gereedschapskist. Het legt de belangrijkste soorten studies uit, de valkuilen bij het interpreteren van resultaten en hoe u zelf kunt nagaan wat er achter een bewering zit.
+„Studies tonen aan …” – nauwelijks een formulering wordt in reclame voor peptiden zo vaak gebruikt. Daarmee kan van alles bedoeld zijn: een proef met cellen in een petrischaal, een experiment met twaalf ratten, een ervaringsverhaal van één patiënt of een studie met 17.000 deelnemers over meer dan drie jaar. Wie peptiden wil beoordelen, moet deze verschillen kennen. Dit hoofdstuk is een soort gereedschapskist. Het legt de belangrijkste soorten studies uit, de valkuilen bij het interpreteren van resultaten en hoe u zelf kunt nagaan wat er achter een bewering zit.
 
 ### De bewijspiramide
 
 Vakmensen rangschikken soorten studies vaak in een piramide. Onderaan staan onderzoeksvormen die veel aanwijzingen, maar weinig zekerheid opleveren; bovenaan die welke het betrouwbaarst laten zien of een behandeling bij de mens werkt. Van onder naar boven:
 
-1. **Laboratorium- en celstudies** (in vitro, „in glas“): cellen of weefsels worden in het laboratorium aan een stof blootgesteld.
+1. **Laboratorium- en celstudies** (in vitro, „in glas”): cellen of weefsels worden in het laboratorium aan een stof blootgesteld.
 2. **Dierstudies** (meestal bij muizen of ratten).
 3. **Casusbeschrijvingen en casusreeksen**: beschrijvingen van één of enkele patiënten.
 4. **Observationele studies**: men observeert mensen die een stof toch al wel of niet gebruiken en vergelijkt wat er met hen gebeurt.
@@ -20,7 +20,7 @@ De piramide is een vereenvoudiging. Een grote, zorgvuldige observationele studie
 
 In celkweken kunnen mechanismen goed worden onderzocht: welke receptor wordt geactiveerd? Welke genen worden afgelezen? Groeien of bewegen cellen sneller? Zulke studies zijn onmisbaar voor fundamenteel onderzoek.
 
-Hun beperkingen zijn echter groot. Cellen in een schaal hebben geen bloedsomloop, geen lever die stoffen afbreekt, geen immuunsysteem en geen spijsvertering. De concentraties die in het laboratorium worden gebruikt, zijn vaak veel hoger dan wat in het menselijk lichaam überhaupt haalbaar is. Een stof die in de petrischaal kankercellen doodt, kan in het lichaam werkingsloos of giftig zijn. Wanneer een reclametekst zich op „studies“ beroept en het gaat om celkweken, is dat een aanwijzing voor een mogelijk mechanisme – niet voor een nut bij de mens.
+Hun beperkingen zijn echter groot. Cellen in een schaal hebben geen bloedsomloop, geen lever die stoffen afbreekt, geen immuunsysteem en geen spijsvertering. De concentraties die in het laboratorium worden gebruikt, zijn vaak veel hoger dan wat in het menselijk lichaam überhaupt haalbaar is. Een stof die in de petrischaal kankercellen doodt, kan in het lichaam werkingsloos of giftig zijn. Wanneer een reclametekst zich op „studies” beroept en het gaat om celkweken, is dat een aanwijzing voor een mogelijk mechanisme – niet voor een nut bij de mens.
 
 ### Dierstudies: belangrijk, maar niet overdraagbaar
 
@@ -77,7 +77,7 @@ Veel werkzame stoffen stranden tussen fase 2 en fase 3. Een veelbelovend fase 2-
 
 ### Eindpunten: wat wordt er eigenlijk gemeten?
 
-Elke studie legt vooraf een **primair eindpunt** vast – het hoofddoel waaraan het succes wordt afgemeten. Daarnaast zijn er secundaire eindpunten. Wordt een resultaat pas achteraf als belangrijk naar voren gehaald, dan is voorzichtigheid geboden: wie veel eindpunten meet, vindt bijna altijd wel ergens een „significant“ verschil.
+Elke studie legt vooraf een **primair eindpunt** vast – het hoofddoel waaraan het succes wordt afgemeten. Daarnaast zijn er secundaire eindpunten. Wordt een resultaat pas achteraf als belangrijk naar voren gehaald, dan is voorzichtigheid geboden: wie veel eindpunten meet, vindt bijna altijd wel ergens een „significant” verschil.
 
 Bijzonder belangrijk is het onderscheid tussen **harde eindpunten** en **surrogaateindpunten**:
 
@@ -99,13 +99,13 @@ Daaruit zijn twee uitspraken af te leiden die allebei juist zijn:
 
 Uit het absolute verschil kan de **number needed to treat (NNT)** worden berekend: hoeveel mensen behandeld moeten worden opdat één persoon een gebeurtenis bespaard blijft. Hier zijn dat rekenkundig ongeveer 67 mensen over ruim drie jaar. Dat betekent niet dat de behandeling onbelangrijk is – bij miljoenen getroffenen is het effect aanzienlijk. Maar het laat zien dat de meeste behandelden ook zonder geneesmiddel geen gebeurtenis zouden hebben gehad, en dat sommigen er ondanks het geneesmiddel toch een krijgen.
 
-Reclame en krantenkoppen geven de voorkeur aan relatieve cijfers, omdat die groter klinken. Goede studieverslagen noemen beide. Let daarom altijd op de uitgangsfrequentie: een „halvering“ van het risico van 2 naar 1 op de 10.000 is iets heel anders dan van 20 naar 10 op de 100.
+Reclame en krantenkoppen geven de voorkeur aan relatieve cijfers, omdat die groter klinken. Goede studieverslagen noemen beide. Let daarom altijd op de uitgangsfrequentie: een „halvering” van het risico van 2 naar 1 op de 10.000 is iets heel anders dan van 20 naar 10 op de 100.
 
 Hetzelfde geldt voor bijwerkingen. In SELECT stopte 16,6% van de deelnemers met semaglutide met de behandeling vanwege ongewenste voorvallen, tegenover 8,2% met placebo (Lincoff 2023, PMID 37952131). Relatief is dat een verdubbeling, absoluut een verschil van 8,4 procentpunten.
 
 ### Statistische significantie en betrouwbaarheidsintervallen
 
-Een **p-waarde** geeft aan hoe waarschijnlijk een minstens zo groot verschil zou zijn als er in werkelijkheid geen effect bestond. Is ze kleiner dan 0,05, dan geldt een resultaat gewoonlijk als „statistisch significant“. Dat betekent niet dat het effect groot of betekenisvol is – bij zeer grote studies worden ook minieme verschillen significant.
+Een **p-waarde** geeft aan hoe waarschijnlijk een minstens zo groot verschil zou zijn als er in werkelijkheid geen effect bestond. Is ze kleiner dan 0,05, dan geldt een resultaat gewoonlijk als „statistisch significant”. Dat betekent niet dat het effect groot of betekenisvol is – bij zeer grote studies worden ook minieme verschillen significant.
 
 Zeggingskrachtiger is vaak het **95%-betrouwbaarheidsinterval**. Het geeft een bereik aan waarbinnen het ware effect met grote waarschijnlijkheid ligt. In STEP 1 bedroeg het verschil in lichaamsgewicht tussen semaglutide en placebo 12,4 procentpunten, met een betrouwbaarheidsinterval van 11,5 tot 13,4 (Wilding 2021, PMID 33567185). Zo'n smal interval wijst op een precieze schatting. Bij kleine studies zijn de intervallen vaak zeer breed – een teken dat het ware effect groot, klein of zelfs nul zou kunnen zijn.
 
@@ -133,7 +133,7 @@ Niet elke studie wordt gepubliceerd – en het zijn vooral de teleurstellende di
 
 Als reactie op zulke bevindingen verklaarde het internationale comité van redacteuren van medische vaktijdschriften in 2004 dat klinische studies vóór de start in een openbaar register moeten zijn ingeschreven om later gepubliceerd te kunnen worden (DeAngelis 2004, PMID 15355936). Tegenwoordig zijn registers een centraal hulpmiddel:
 
-- **ClinicalTrials.gov** (VS) is het grootste register. Elke studie krijgt een nummer in het formaat „NCT“ plus acht cijfers. De studie SELECT heeft bijvoorbeeld het nummer NCT03574597.
+- **ClinicalTrials.gov** (VS) is het grootste register. Elke studie krijgt een nummer in het formaat „NCT” plus acht cijfers. De studie SELECT heeft bijvoorbeeld het nummer NCT03574597.
 - In de **EU** worden klinische proeven vastgelegd in het Clinical Trials Information System (CTIS) van het Europees Geneesmiddelenbureau; oudere studies staan in het EU Clinical Trials Register.
 - De **Wereldgezondheidsorganisatie** bundelt veel nationale registers in een zoekportaal (ICTRP).
 
@@ -145,7 +145,7 @@ In het register staan onder meer de geplande studieopzet, het aantal deelnemers,
 - **Vaktijdschriften met twijfelachtige normen.** Sommige tijdschriften publiceren tegen betaling bijna alles.
 - **Studies die niet te vinden zijn.** Als een geciteerde studie niet in PubMed of een register te vinden is, is voorzichtigheid geboden.
 - **Vertaling van zieken naar gezonden.** Een stof die bij een bepaalde ziekte helpt, hoeft bij gezonde mensen geen nut te hebben – de verhouding tussen risico en nut is daar een heel andere.
-- **Vertaling van de ene stof naar de andere.** Resultaten over semaglutide gelden niet automatisch voor een product van de grijze markt waarop „semaglutide“ staat – en studies over thymosine bèta-4 niet automatisch voor het fragment „TB-500“.
+- **Vertaling van de ene stof naar de andere.** Resultaten over semaglutide gelden niet automatisch voor een product van de grijze markt waarop „semaglutide” staat – en studies over thymosine bèta-4 niet automatisch voor het fragment „TB-500”.
 
 ### Tien vragen bij elke studie
 
@@ -169,7 +169,7 @@ Elk peptide in deel II krijgt een bewijsniveau:
 - **C**: alleen kleine of ongecontroleerde studies bij mensen.
 - **D**: alleen dier- en laboratoriumstudies.
 
-Het niveau beoordeelt de **hoeveelheid en kwaliteit van de gegevens bij de mens**, niet of een stof „goed“ of „slecht“ is. Een peptide met niveau A kan aanzienlijke bijwerkingen hebben, en een peptide met niveau D kan in de toekomst wel degelijk nuttig blijken – het is alleen nog niet voldoende onderzocht. De indeling geldt bovendien voor een bepaalde toepassing: een stof kan voor de ene ziekte goed onderbouwd zijn en voor een andere helemaal niet.
+Het niveau beoordeelt de **hoeveelheid en kwaliteit van de gegevens bij de mens**, niet of een stof „goed” of „slecht” is. Een peptide met niveau A kan aanzienlijke bijwerkingen hebben, en een peptide met niveau D kan in de toekomst wel degelijk nuttig blijken – het is alleen nog niet voldoende onderzocht. De indeling geldt bovendien voor een bepaalde toepassing: een stof kan voor de ene ziekte goed onderbouwd zijn en voor een andere helemaal niet.
 
 ### Het belangrijkste in het kort
 

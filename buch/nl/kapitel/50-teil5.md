@@ -6,7 +6,7 @@ Uitspraken over de toekomst zijn in dit boek strikt gescheiden. **Vaststaand** i
 
 ## De pijplijn: wat er in fase 2 en 3 zit
 
-Met „pijplijn“ (pipeline) bedoelt de farmaceutische industrie het geheel van werkzame stoffen die in ontwikkeling zijn. De stadia zijn in Deel I uitgelegd: in **fase 1** wordt een werkzame stof meestal bij enkele gezonde mensen op verdraagbaarheid getest, in **fase 2** bij enkele honderden patiënten op werkzaamheid en geschikte dosis, in **fase 3** bij duizenden voor de registratie. **Fase 4** duidt op studies met al geregistreerde geneesmiddelen. Wie wil weten wat er in de komende vijf jaar op de markt zou kunnen komen, moet vooral naar fase 3 kijken.
+Met „pijplijn” (pipeline) bedoelt de farmaceutische industrie het geheel van werkzame stoffen die in ontwikkeling zijn. De stadia zijn in Deel I uitgelegd: in **fase 1** wordt een werkzame stof meestal bij enkele gezonde mensen op verdraagbaarheid getest, in **fase 2** bij enkele honderden patiënten op werkzaamheid en geschikte dosis, in **fase 3** bij duizenden voor de registratie. **Fase 4** duidt op studies met al geregistreerde geneesmiddelen. Wie wil weten wat er in de komende vijf jaar op de markt zou kunnen komen, moet vooral naar fase 3 kijken.
 
 ### Hoe de analyse is uitgevoerd
 
@@ -19,12 +19,12 @@ Studies die onder meerdere werkzame stoffen voorkomen – bijvoorbeeld een verge
 
 **Wat werd uitgesloten – en waarom:**
 
-- **Acht vermeldingen van de sponsor „Hudson Biotech“** (telkens één over BPC-157, GHK-Cu, Melanotan II, MOTS-c, retatrutide, TB-500, tesamoreline en tirzepatide). Eén vermelding van deze sponsor noemt zichzelf in de eigen beschrijving een fictief voorbeeld (zie hoofdstukken BPC-157 en TB-500). Geen van deze vermeldingen wordt in dit boek als echte studie beschouwd.
-- **Alle 1.000 treffers voor de zoekterm „gonadorelin“.** Die betreffen overwegend synthetische varianten van het hormoon GnRH (zoals leuproreline of triptoreline) bij de behandeling van prostaat- en borstkanker of in de vruchtbaarheidsgeneeskunde – dus andere geneesmiddelen. De weinige vermeldingen over natuurlijk GnRH worden besproken in het hoofdstuk Gonadoreline; geen daarvan is een lopende fase 3-studie.
+- **Acht vermeldingen van de sponsor „Hudson Biotech”** (telkens één over BPC-157, GHK-Cu, Melanotan II, MOTS-c, retatrutide, TB-500, tesamoreline en tirzepatide). Eén vermelding van deze sponsor noemt zichzelf in de eigen beschrijving een fictief voorbeeld (zie hoofdstukken BPC-157 en TB-500). Geen van deze vermeldingen wordt in dit boek als echte studie beschouwd.
+- **Alle 1.000 treffers voor de zoekterm „gonadorelin”.** Die betreffen overwegend synthetische varianten van het hormoon GnRH (zoals leuproreline of triptoreline) bij de behandeling van prostaat- en borstkanker of in de vruchtbaarheidsgeneeskunde – dus andere geneesmiddelen. De weinige vermeldingen over natuurlijk GnRH worden besproken in het hoofdstuk Gonadoreline; geen daarvan is een lopende fase 3-studie.
 
 **Wat niet werd uitgesloten, maar wel gecontroleerd:** bij glutathion, collageen en carnosine zijn de zoektermen zo algemeen dat veel treffers de stof alleen als bestanddeel van een mengsel, als vergelijking of als meetwaarde noemen. Zo verschijnt onder glutathion een grote denguestudie, omdat daarin N-acetylcysteïne – een voorloper van glutathion – wordt getest (NCT07543458). Onder larazotide duiken twee studies op over een totaal andere werkzame stof tegen de ziekte van Fabry (NCT04020055, NCT06904261). Deze treffers zijn in de totaalaantallen opgenomen, maar in de beoordeling niet als peptidestudies geteld.
 
-**Twee grenzen van de analyse:** ten eerste melden niet alle sponsors de afronding van hun studie tijdig; sommige vermeldingen met einddatum 2025 staan nog als „lopend“ in het register. Ten tweede omvat de zoekopdracht alleen de 58 werkzame stoffen in dit boek. Nieuwe moleculen zonder eigen hoofdstuk verschijnen alleen als ze tegen een van deze werkzame stoffen worden getest. Daarom is voor de nieuwe werkingsprincipes verderop gericht nagezocht.
+**Twee grenzen van de analyse:** ten eerste melden niet alle sponsors de afronding van hun studie tijdig; sommige vermeldingen met einddatum 2025 staan nog als „lopend” in het register. Ten tweede omvat de zoekopdracht alleen de 58 werkzame stoffen in dit boek. Nieuwe moleculen zonder eigen hoofdstuk verschijnen alleen als ze tegen een van deze werkzame stoffen worden getest. Daarom is voor de nieuwe werkingsprincipes verderop gericht nagezocht.
 
 ### Het resultaat in cijfers
 
@@ -45,11 +45,11 @@ Van de 157 lopende fase 3-studies waren er 68 nog aan het werven, 54 actief zond
 
 In groep A wordt ongeveer één op de drie van deze late studies gedragen door universiteiten en ziekenhuizen, de overige door bedrijven. De geplande einddata zijn als volgt verdeeld: 21 studies moeten in 2026 eindigen, 49 in 2027, 41 in 2028 en 44 tussen 2029 en 2033. De eigenlijke golf nieuwe resultaten staat dus in 2027 en 2028 te wachten.
 
-**De groepen B tot en met F** zien er totaal anders uit. Na doorlichting van de vermeldingen blijven slechts vijf lopende fase 3-studies over waarin een werkzame stof uit dit boek werkelijk de onderzochte stof is: thymosine alfa-1 na een darmkankeroperatie (NCT05086614), oogdruppels met thymosine bèta-4 bij neurotrofe keratopathie (NCT05555589), elamipretide bij droge maculadegeneratie (NCT06373731), afamelanotide bij vitiligo (NCT06109649) en ibutamoren, dat geen peptide is, bij kinderen met groeihormoontekort (NCT06948214). Daarbij komen enkele gecombineerde fase 2/3-studies, bijvoorbeeld naar oxytocine-neusspray bij chronische pijn (NCT04903002) en naar thymosine alfa-1 bij herhaald innestelingsfalen na kunstmatige bevruchting (NCT07675980). Voor de op internet populairste „onderzoekspeptiden“ – BPC-157, CJC-1295, ipamoreline, Epitalon, Semax, Selank – loopt geen enkele fase 3-studie.
+**De groepen B tot en met F** zien er totaal anders uit. Na doorlichting van de vermeldingen blijven slechts vijf lopende fase 3-studies over waarin een werkzame stof uit dit boek werkelijk de onderzochte stof is: thymosine alfa-1 na een darmkankeroperatie (NCT05086614), oogdruppels met thymosine bèta-4 bij neurotrofe keratopathie (NCT05555589), elamipretide bij droge maculadegeneratie (NCT06373731), afamelanotide bij vitiligo (NCT06109649) en ibutamoren, dat geen peptide is, bij kinderen met groeihormoontekort (NCT06948214). Daarbij komen enkele gecombineerde fase 2/3-studies, bijvoorbeeld naar oxytocine-neusspray bij chronische pijn (NCT04903002) en naar thymosine alfa-1 bij herhaald innestelingsfalen na kunstmatige bevruchting (NCT07675980). Voor de op internet populairste „onderzoekspeptiden” – BPC-157, CJC-1295, ipamoreline, Epitalon, Semax, Selank – loopt geen enkele fase 3-studie.
 
 ### De belangrijkste lopende fase 3-studies
 
-De volgende tabellen tonen een selectie naar grootte en belang. „Verwacht einde“ is het in het register vermelde einde van de studie (stand oktober 2026); het primaire eindpunt wordt vaak enkele maanden eerder geanalyseerd, publicaties volgen meestal een half tot een heel jaar later.
+De volgende tabellen tonen een selectie naar grootte en belang. „Verwacht einde” is het in het register vermelde einde van de studie (stand oktober 2026); het primaire eindpunt wordt vaak enkele maanden eerder geanalyseerd, publicaties volgen meestal een half tot een heel jaar later.
 
 **Stofwisseling en gewicht (groep A):**
 
@@ -82,7 +82,7 @@ De volgende tabellen tonen een selectie naar grootte en belang. „Verwacht eind
 | ReNEW, NCT06373731 | Elamipretide (SS-31) | droge maculadegeneratie, 313 deelnemers | september 2027 |
 | NCT06948214 | Ibutamoren (LUM-201, geen peptide) | groei bij kinderen met hormoontekort, 150 deelnemers | januari 2028 |
 
-Details over elke studie staan in de paragraaf „Lopende studies en vooruitzichten“ van het betreffende hoofdstuk.
+Details over elke studie staan in de paragraaf „Lopende studies en vooruitzichten” van het betreffende hoofdstuk.
 
 ### Wat het register verraadt over de richting
 

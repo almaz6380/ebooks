@@ -7,7 +7,7 @@ Tesamoreline is het enige peptide uit deze groep dat in de Verenigde Staten vand
 - **Soort en structuur:** synthetisch peptide van 44 aminozuren; het komt overeen met het volledige menselijke groeihormoon-releasing hormoon, GHRH(1-44) (Falutz 2010, PMID 20101189), waaraan aan het begin een extra chemische groep is gekoppeld die de snelle afbraak in het bloed vertraagt.
 - **Herkomst:** ontwikkeld door het Canadese bedrijf Theratechnologies (ontwikkelingsnaam TH9507).
 - **Werkingsprincipe:** bindt net als het lichaamseigen GHRH aan diens receptor in de hypofyse en verhoogt zo de eigen, nog steeds pulsatiele afgifte van groeihormoon (GH); als gevolg daarvan stijgt de signaalstof IGF-1.
-- **Toelating EU:** nee. **Toelating VS:** ja (Egrifta, sinds 2010) voor het verminderen van overtollig buikvet bij volwassenen met hiv en lipodystrofie (FDA-goedkeuring beschreven bij Traynor 2010, PMID 21115997).
+- **Registratie EU:** nee. **Registratie VS:** ja (Egrifta, sinds 2010) voor het verminderen van overtollig buikvet bij volwassenen met hiv en lipodystrofie (FDA-goedkeuring beschreven bij Traynor 2010, PMID 21115997).
 - **WADA:** verboden, groep S2 (peptidehormonen, groeifactoren, verwante stoffen) – als GHRH-analoog uitdrukkelijk vermeld.
 - **Bewijsniveau: A** – twee grote fase 3-studies met samen 806 deelnemers, meerdere andere gerandomiseerde studies, toelating in de VS.
 

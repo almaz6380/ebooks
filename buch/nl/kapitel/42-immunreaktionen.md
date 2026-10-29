@@ -53,7 +53,7 @@ De frequentie verschilt aanzienlijk tussen de peptiden:
 
 Bij de weekvorm van exenatide ontstaan vaak kleine knobbeltjes, omdat de microbolletjes die de werkzame stof langzaam vrijgeven, onder de huid worden afgebroken. In de vijfjaarsanalyse van DURATION-1 werden zulke reacties na verloop van tijd zeldzamer (Wysham 2015, PMID 25744115). Bij mecasermine ging het om een verdikking van het vetweefsel op de injectieplaats (lipohypertrofie).
 
-Belangrijk is het onderscheid met een **infectie**. Een roodheid die over dagen toeneemt, warm wordt, pijn doet, ettert of met koorts gepaard gaat, is geen onschuldige reactie. Na injecties met Argireline in voorhoofd en slapen ontwikkelde een 45-jarige vrouw knobbels en abcessen; de oorzaak was de moeilijk te behandelen bacterie *Mycobacterium abscessus*, de behandeling duurde vijf maanden (Chen 2021, PMID 33748252). Zulke infecties gaan meestal niet uit van het peptide, maar van niet-steriele producten of werkwijzen – meer hierover in het hoofdstuk „Grijze-marktproducten“.
+Belangrijk is het onderscheid met een **infectie**. Een roodheid die over dagen toeneemt, warm wordt, pijn doet, ettert of met koorts gepaard gaat, is geen onschuldige reactie. Na injecties met Argireline in voorhoofd en slapen ontwikkelde een 45-jarige vrouw knobbels en abcessen; de oorzaak was de moeilijk te behandelen bacterie *Mycobacterium abscessus*, de behandeling duurde vijf maanden (Chen 2021, PMID 33748252). Zulke infecties gaan meestal niet uit van het peptide, maar van niet-steriele producten of werkwijzen – meer hierover in het hoofdstuk „Grijze-marktproducten”.
 
 ### Allergische reacties en anafylaxie
 

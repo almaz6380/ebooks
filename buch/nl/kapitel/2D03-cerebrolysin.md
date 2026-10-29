@@ -5,8 +5,8 @@
 - **Soort en structuur:** geen afzonderlijk peptide, maar een mengsel van korte peptiden en vrije aminozuren. Het wordt verkregen door enzymatische splitsing van gezuiverde eiwitten uit varkenshersenen. De exacte samenstelling is niet volledig beschreven; de fabrikant standaardiseert het preparaat via het productieproces en biologische tests.
 - **Herkomst:** al decennia geproduceerd door een Oostenrijks bedrijf (tegenwoordig EVER Neuro Pharma, Unterach am Attersee).
 - **Werkingsprincipe:** zou effecten van lichaamseigen zenuwgroeifactoren nabootsen – zenuwcellen beschermen (neuroprotectie) en herstel- en ombouwprocessen bevorderen (neuroregeneratie). Het wordt toegediend als infuus of injectie in een ader, meestal in kuren van 10 tot 21 dagen.
-- **Toelating EU:** geen centrale EU-toelating. Nationaal toegelaten in Oostenrijk en een reeks andere, vooral Midden- en Oost-Europese staten (afhankelijk van het land voor beroerte, traumatisch hersenletsel en dementie). In Duitsland is het naar onze kennis niet in de handel (stand 2026, actuele situatie controleren).
-- **Toelating VS:** nee.
+- **Registratie EU:** geen centrale EU-toelating. Nationaal toegelaten in Oostenrijk en een reeks andere, vooral Midden- en Oost-Europese staten (afhankelijk van het land voor beroerte, traumatisch hersenletsel en dementie). In Duitsland is het naar onze kennis niet in de handel (stand 2026, actuele situatie controleren).
+- **Registratie VS:** nee.
 - **Andere landen:** breed gebruikt in Rusland, andere opvolgerstaten van de Sovjet-Unie, China en andere Aziatische landen.
 - **WADA:** niet vermeld (stand 2026, actuele situatie controleren).
 - **Bewijsniveau:** **B** – talrijke gerandomiseerde, placebogecontroleerde studies, waaronder een grote met meer dan 1.000 deelnemers; de resultaten zijn echter wisselend, en de twee grote onafhankelijke Cochrane-reviews komen tot terughoudende beoordelingen.

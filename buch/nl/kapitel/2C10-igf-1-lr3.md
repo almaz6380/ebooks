@@ -7,7 +7,7 @@ IGF-1 LR3 (voluit „Long-R3-IGF-I”) is geen geneesmiddel, maar een laboratori
 - **Soort en structuur:** gewijzigd menselijk IGF-1: op positie 3 staat het aminozuur arginine („R3”), en aan het begin is een extra aminozuurketen toegevoegd („Long”). Beide verminderen de binding aan de IGF-bindingseiwitten sterk (Bastian 1993, PMID 7693845; Tomas 1993, PMID 7683875).
 - **Herkomst:** begin jaren negentig beschreven als onderzoeksinstrument; tegenwoordig commercieel verkrijgbaar als toevoeging aan voedingsmedia voor celkweek.
 - **Werkingsprincipe:** bindt net als IGF-1 aan de IGF-1-receptor; omdat het nauwelijks door bindingseiwitten wordt weggevangen, is het in het bloed overwegend vrij en daarmee direct werkzaam aanwezig.
-- **Toelating EU:** nee. **Toelating VS:** nee. Nergens als geneesmiddel toegelaten of ooit aangevraagd.
+- **Registratie EU:** nee. **Registratie VS:** nee. Nergens als geneesmiddel toegelaten of ooit aangevraagd.
 - **WADA:** verboden, groep S2 (IGF-1-analogen als groeifactoren).
 - **Bewijsniveau: D** – niet één studie bij mensen; alleen dier- en laboratoriumstudies.
 

@@ -7,7 +7,7 @@
 - **Soort en structuur:** klein synthetisch molecuul, geen peptide („non-peptide agonist”; Liu 2021, PMID 34737341); oraal werkzaam. Ontwikkelingsnamen MK-677 resp. MK-0677, tegenwoordig als LUM-201 in ontwikkeling (Bright 2022, PMID 35354138).
 - **Herkomst:** ontwikkeld door Merck (VS) in de jaren negentig als „peptidemimeticum” van de groeihormoonvrijmakende peptiden.
 - **Werkingsprincipe:** agonist op de ghrelinereceptor (GHS-R1a); versterkt de bestaande GH-pieken en verhoogt IGF-1 blijvend; verhoogt de eetlust.
-- **Toelating EU:** nee. **Toelating VS:** nee.
+- **Registratie EU:** nee. **Registratie VS:** nee.
 - **WADA:** verboden, groep S2 (groeihormoonsecretagogen; ibutamoren wordt uitdrukkelijk genoemd).
 - **Bewijsniveau: B** – meerdere gerandomiseerde, placebogecontroleerde studies met maximaal 563 deelnemers, maar geen toelating en geen studie met een positief klinisch hoofdresultaat.
 

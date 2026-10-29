@@ -25,7 +25,7 @@ Op deze zoekterm zijn drie filters toegepast:
 
 `(clinical trial[pt] OR randomized controlled trial[pt]) AND humans[mh]`
 
-Het deel `[pt]` zoekt naar het publicatietype dat PubMed aan elk artikel toekent; `humans[mh]` staat voor het trefwoord „mensen“ in het trefwoordsysteem MeSH. Zo worden artikelen gevonden die als klinische studie of als gerandomiseerde gecontroleerde studie zijn gemarkeerd en mensen betreffen.
+Het deel `[pt]` zoekt naar het publicatietype dat PubMed aan elk artikel toekent; `humans[mh]` staat voor het trefwoord „mensen” in het trefwoordsysteem MeSH. Zo worden artikelen gevonden die als klinische studie of als gerandomiseerde gecontroleerde studie zijn gemarkeerd en mensen betreffen.
 
 **Meta-analyses en overzichtsartikelen.** Voor samenvattende artikelen is de zoekterm gecombineerd met dit filter:
 
@@ -131,7 +131,7 @@ De volgende tabellen geven de PubMed-zoektermen weer die voor de systematische z
 
 ### Omvang van de treffers
 
-In totaal leverden de 58 zoekopdrachten met het filter voor studies bij mensen 3.216 treffers op, met het filter voor meta-analyses en overzichtsartikelen 1.739 treffers. In ClinicalTrials.gov zijn 4.879 registervermeldingen gevonden. Deze totalen bevatten dubbeltellingen, omdat sommige studies meerdere peptiden betreffen – bijvoorbeeld vergelijkende studies tussen semaglutide en tirzepatide. De aantallen per peptide worden aan het begin van de paragraaf „Studies bij mensen“ in het betreffende hoofdstuk genoemd.
+In totaal leverden de 58 zoekopdrachten met het filter voor studies bij mensen 3.216 treffers op, met het filter voor meta-analyses en overzichtsartikelen 1.739 treffers. In ClinicalTrials.gov zijn 4.879 registervermeldingen gevonden. Deze totalen bevatten dubbeltellingen, omdat sommige studies meerdere peptiden betreffen – bijvoorbeeld vergelijkende studies tussen semaglutide en tirzepatide. De aantallen per peptide worden aan het begin van de paragraaf „Studies bij mensen” in het betreffende hoofdstuk genoemd.
 
 De verdeling is zeer ongelijk: op de geregistreerde GLP-1-geneesmiddelen vallen honderden studies bij mensen, voor veel grijze-marktpeptiden daarentegen geen of slechts een handvol.
 
@@ -168,7 +168,7 @@ Zoals elk literatuuronderzoek heeft ook dit onderzoek grenzen, waarmee u bij het
 
 **Publicatietypen zijn niet altijd correct.** Het filter voor studies bij mensen berust op de indexering door PubMed. Sommige studies zijn niet als klinische studie gemarkeerd en ontbreken daarom; sommige als klinische studie gemarkeerde artikelen blijken bij nader inzien observationele studies of laboratoriumwerk met menselijk materiaal te zijn. Zeer nieuwe artikelen zijn vaak nog niet volledig geïndexeerd.
 
-**Zoektermen kunnen lacunes hebben.** Een zoekterm vindt alleen wat in de titel of samenvatting met de gekozen woorden wordt beschreven. Studies die een stof alleen onder een codenaam of in een andere spelling vermelden, kunnen ontbreken. Omgekeerd kunnen meerduidige afkortingen zoals „KPV“ of „SS-31“ ook artikelen over heel andere onderwerpen opleveren. Voor de hoofdstukken zijn de treffers daarom doorgenomen en niet ongecontroleerd overgenomen.
+**Zoektermen kunnen lacunes hebben.** Een zoekterm vindt alleen wat in de titel of samenvatting met de gekozen woorden wordt beschreven. Studies die een stof alleen onder een codenaam of in een andere spelling vermelden, kunnen ontbreken. Omgekeerd kunnen meerduidige afkortingen zoals „KPV” of „SS-31” ook artikelen over heel andere onderwerpen opleveren. Voor de hoofdstukken zijn de treffers daarom doorgenomen en niet ongecontroleerd overgenomen.
 
 **Talen.** PubMed bevat overwegend Engelstalige vaktijdschriften. Artikelen die alleen in andere talen en in niet-opgenomen tijdschriften zijn verschenen, ontbreken grotendeels. Dat betreft vooral enkele peptiden die vooral in Rusland of andere landen van Oost-Europa worden onderzocht en gebruikt, zoals Semax, Selank, Epitalon of thymaline. Voor die peptiden is de werkelijke hoeveelheid studies mogelijk groter, maar voor internationale lezers moeilijk controleerbaar.
 
@@ -190,4 +190,4 @@ Om het bekende risico te vermijden dat AI-systemen bronnen of cijfers verzinnen,
 
 Daarnaast is elk hoofdstuk gecontroleerd met een controleprogramma. Dat vraagt voor elk in de tekst genoemd PMID en NCT-nummer de vermelding in PubMed respectievelijk ClinicalTrials.gov op en meldt een fout als een nummer niet bestaat. Het vergelijkt bovendien de eerste auteur en het jaar van verschijnen, die in de tekst vóór het PMID staan, met de databankvermelding en wijst op afwijkingen. Ten slotte zoekt het naar ontoelaatbare formuleringen zoals beloften van genezing, doseringsaanbevelingen of verwijzingen naar bronnen om middelen te kopen. Een hoofdstuk gold pas als klaar als deze controle zonder fouten doorliep.
 
-Deze controle garandeert dat elke geciteerde bron bestaat en juist is toegeschreven. Ze kan niet volledig uitsluiten dat een resultaat in de tekst verkort of misleidend is weergegeven. Daarom zijn alle bronnen zo vermeld dat u ze zelf kunt opzoeken – hoe dat werkt, staat in de paragraaf „Over dit boek“ aan het begin.
+Deze controle garandeert dat elke geciteerde bron bestaat en juist is toegeschreven. Ze kan niet volledig uitsluiten dat een resultaat in de tekst verkort of misleidend is weergegeven. Daarom zijn alle bronnen zo vermeld dat u ze zelf kunt opzoeken – hoe dat werkt, staat in de paragraaf „Over dit boek” aan het begin.

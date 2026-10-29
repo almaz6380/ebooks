@@ -2,7 +2,7 @@
 
 Of een geneesmiddel werkt, wordt bepaald door studies. Of het bij de mensen terechtkomt, wordt bepaald door octrooien, prijzen, toeleveringsketens en zorgverzekeraars. Bij de GLP-1-geneesmiddelen is dit tweede deel van het verhaal bijna net zo dramatisch als het eerste: leveringstekorten, een markt voor apotheekkopieën in de VS, vervalsingen wereldwijd – en in 2026 het aflopen van de eerste semaglutide-octrooien in grote landen.
 
-**Een belangrijke opmerking vooraf:** prijzen, octrooitermijnen en vergoedingsregels veranderen snel en zijn maar gedeeltelijk in wetenschappelijke publicaties vastgelegd. Waar dit hoofdstuk gegevens zonder studiebewijs geeft, zijn die gemarkeerd met „stand 2026, controleren“. Concrete prijzen in euro worden bewust niet genoemd, omdat ze verschillen per land, verpakking en tijdstip.
+**Een belangrijke opmerking vooraf:** prijzen, octrooitermijnen en vergoedingsregels veranderen snel en zijn maar gedeeltelijk in wetenschappelijke publicaties vastgelegd. Waar dit hoofdstuk gegevens zonder studiebewijs geeft, zijn die gemarkeerd met „stand 2026, controleren”. Concrete prijzen in euro worden bewust niet genoemd, omdat ze verschillen per land, verpakking en tijdstip.
 
 ### Octrooien, generieken en biosimilars: de begrippen
 
@@ -32,7 +32,7 @@ Voor semaglutide lopen de octrooien in meerdere grote landen buiten de EU en de 
 
 De auteurs benadrukken zelf dat penkosten, verdere octrooien en zwakke gezondheidssystemen de toegang toch kunnen beperken. Hoe sterk generieken prijzen kunnen drukken, laat een analyse uit India zien: daar daalden de prijzen van SGLT2-remmers en GLP-1-receptoragonisten na het aflopen van het octrooi met ongeveer 60 tot 90%. Tussen Indiase generieke prijzen en Amerikaanse lijstprijzen vonden de auteurs verschillen van een factor 15 tot 65. Ze wijzen er echter ook op dat generieken van verschillende fabrikanten kunnen verschillen in kwaliteit en opname in het lichaam (Mohan 2026, PMID 42747945).
 
-**In de EU en de VS** wordt pas rond 2031/2032 op semaglutide-generieken gerekend (stand 2026, controleren). Voor lezers in Oostenrijk en Duitsland betekent dat: een in Canada of India legaal verkocht generiek semaglutide is hier geen geregistreerd geneesmiddel. De regels voor invoer voor persoonlijk gebruik zijn strikt (zie hoofdstuk „Juridisch kader“ in Deel I), en online-aanbiedingen die zich op zulke generieken beroepen, zijn een typische toegangspoort voor vervalsingen (zie hoofdstuk „De grijze markt“).
+**In de EU en de VS** wordt pas rond 2031/2032 op semaglutide-generieken gerekend (stand 2026, controleren). Voor lezers in Oostenrijk en Duitsland betekent dat: een in Canada of India legaal verkocht generiek semaglutide is hier geen geregistreerd geneesmiddel. De regels voor invoer voor persoonlijk gebruik zijn strikt (zie hoofdstuk „Juridisch kader” in Deel I), en online-aanbiedingen die zich op zulke generieken beroepen, zijn een typische toegangspoort voor vervalsingen (zie hoofdstuk „De grijze markt”).
 
 **Een politiek signaal:** de Wereldgezondheidsorganisatie heeft semaglutide, liraglutide, dulaglutide en tirzepatide in september 2025 opgenomen in haar lijst van essentiële geneesmiddelen. Een beschouwing ziet daarin een stap die prijsonderhandelingen en de ontwikkeling van generieken in lage- en middeninkomenslanden moet vergemakkelijken; tegelijk noemt ze ontbrekende middelen, zwakke infrastructuur en het risico van onkritisch gebruik als hindernissen (Mani 2025, PMID 41358329). In haar eerste richtlijn over GLP-1-therapieën bij obesitas spreekt de WHO een voorwaardelijke aanbeveling uit voor langdurige behandeling samen met intensieve gedragstherapie. Als redenen voor de beperking noemt ze onder meer beperkte langetermijngegevens, kosten en de vraag van rechtvaardige toegang (Celletti 2026, PMID 41324410).
 
@@ -42,11 +42,11 @@ Voor tirzepatide en alle nieuwere werkzame stoffen – retatrutide, CagriSema, a
 
 ### Het einde van compounding in de VS
 
-Tijdens de officiële leveringstekorten mochten Amerikaanse apotheken semaglutide en tirzepatide zelf bereiden („compounding“, zie Deel I). Daaruit ontstond een grote markt. Een onderzoek in de Amerikaanse staat Colorado vond in het voorjaar van 2024 93 bedrijven met 188 vestigingen die zulke preparaten aanprezen – meestal als medische spa's of afslankdiensten. 41 van deze websites verwezen in hun productbeschrijvingen naar FDA-registratie, hoewel de preparaten die niet hadden. Eén aanbieder prees een mengsel met BPC-157 aan, een stof die de FDA als ongeschikt voor compounding heeft aangemerkt (DiStefano 2025, PMID 39776466).
+Tijdens de officiële leveringstekorten mochten Amerikaanse apotheken semaglutide en tirzepatide zelf bereiden („compounding”, zie Deel I). Daaruit ontstond een grote markt. Een onderzoek in de Amerikaanse staat Colorado vond in het voorjaar van 2024 93 bedrijven met 188 vestigingen die zulke preparaten aanprezen – meestal als medische spa's of afslankdiensten. 41 van deze websites verwezen in hun productbeschrijvingen naar FDA-registratie, hoewel de preparaten die niet hadden. Eén aanbieder prees een mengsel met BPC-157 aan, een stof die de FDA als ongeschikt voor compounding heeft aangemerkt (DiStefano 2025, PMID 39776466).
 
 Nadat de FDA de tekorten voor beëindigd had verklaard – voor tirzepatide eind 2024, voor semaglutide begin 2025 –, liepen de overgangstermijnen voor kopieën van de geregistreerde preparaten in de loop van 2025 af (stand 2026, controleren). Sindsdien zijn alleen nog bereidingen toegestaan die verschillen van de geregistreerde preparaten. Een analyse vond 33 van zulke producten, waaronder mengsels met vitamine B12, glycine of een laxeermiddel en ook druppels en smelttabletten, waarvan voordeel en veiligheid grotendeels onbekend zijn (Belcourt 2026, PMID 41689811). Een laboratorium vond in tirzepatide-B12-mengsels van verschillende aanbieders een tot dan toe onbekende verontreiniging, die ontstaat door een chemische reactie tussen tirzepatide en bepaalde B12-vormen; welke gevolgen die voor de gezondheid heeft, is onbekend (Jordan 2026, PMID 42010938).
 
-Compounding is daarmee niet verdwenen, maar verschoven naar een niche waarin „gepersonaliseerde“ toevoegingen de juridische basis leveren. In Europa bestaat geen vergelijkbaar systeem.
+Compounding is daarmee niet verdwenen, maar verschoven naar een niche waarin „gepersonaliseerde” toevoegingen de juridische basis leveren. In Europa bestaat geen vergelijkbaar systeem.
 
 ### Leveringstekorten
 
@@ -80,7 +80,7 @@ In beide landen geldt: of een behandeling wordt vergoed, hangt af van het indica
 
 ### Wat dit voor patiënten betekent
 
-- **Goedkoper betekent niet grijze markt.** Met het aflopen van octrooien in andere landen zullen aanbiedingen toenemen die zich op „generieken“ beroepen. Voor Oostenrijk en Duitsland zijn alleen hier geregistreerde preparaten uit apotheken geteste geneesmiddelen.
+- **Goedkoper betekent niet grijze markt.** Met het aflopen van octrooien in andere landen zullen aanbiedingen toenemen die zich op „generieken” beroepen. Voor Oostenrijk en Duitsland zijn alleen hier geregistreerde preparaten uit apotheken geteste geneesmiddelen.
 - **Stoppen om kostenredenen komt vaak voor – en heeft gevolgen.** In de verlenging van STEP 1 kwamen deelnemers een jaar na het stoppen met semaglutide gemiddeld twee derde van hun gewichtsverlies weer aan, en de verbeteringen van bloeddruk en bloedwaarden gingen grotendeels verloren (Wilding 2022, PMID 35441470). Wie om kostenredenen overweegt te stoppen, doet er goed aan dit met een arts te bespreken.
 - **Oudere werkzame stoffen zijn niet waardeloos.** Liraglutide of dulaglutide zijn goed onderzocht en hebben bij diabetes type 2 een aangetoond cardiovasculair voordeel. Welke werkzame stof in een individueel geval in aanmerking komt, is een medische beslissing.
 

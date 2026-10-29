@@ -6,11 +6,11 @@ Dit hoofdstuk is geen keuzehulp voor een behandeling. Welk geneesmiddel in een i
 
 ### Vooraf: waarom u studies niet zomaar naast elkaar mag leggen
 
-De tabellen in dit hoofdstuk nodigen uit om cijfers uit verschillende studies te vergelijken – bijvoorbeeld 20,9% gewichtsverlies met tirzepatide tegenover 14,9% met semaglutide. Zulke kruisvergelijkingen („cross-trial comparisons“) zijn maar beperkt toelaatbaar. De redenen:
+De tabellen in dit hoofdstuk nodigen uit om cijfers uit verschillende studies te vergelijken – bijvoorbeeld 20,9% gewichtsverlies met tirzepatide tegenover 14,9% met semaglutide. Zulke kruisvergelijkingen („cross-trial comparisons”) zijn maar beperkt toelaatbaar. De redenen:
 
 - **Verschillende deelnemers:** mensen met diabetes type 2 verliezen met alle incretinegeneesmiddelen duidelijk minder gewicht dan mensen zonder diabetes. Studies in China of Japan nemen mensen met een lager uitgangsgewicht op dan studies in Noord-Amerika en Europa.
 - **Verschillende duur:** gewichtsverlies na 48 weken is niet hetzelfde als na 80 weken; veel curven vlakken pas laat af.
-- **Verschillende analyse:** sommige studies analyseren alle deelnemers, ook als zij met de behandeling zijn gestopt (de zogenoemde behandelstrategie- of „treatment policy“-schatter). Andere rekenen alsof iedereen het geneesmiddel volgens plan heeft genomen. De tweede variant levert gunstigere cijfers op.
+- **Verschillende analyse:** sommige studies analyseren alle deelnemers, ook als zij met de behandeling zijn gestopt (de zogenoemde behandelstrategie- of „treatment policy”-schatter). Andere rekenen alsof iedereen het geneesmiddel volgens plan heeft genomen. De tweede variant levert gunstigere cijfers op.
 - **Verschillende placebogroepen:** met placebo verloren de deelnemers, afhankelijk van de studie, tussen niets en meer dan 5% van hun gewicht, afhankelijk van hoe intensief de begeleidende voedings- en beweegadvisering was.
 - **Verschillende fasen:** resultaten uit kleine fase 2-studies vallen vaak gunstiger uit dan de latere grote fase 3-studies.
 
@@ -64,7 +64,7 @@ Twee studies hebben gericht onderzocht wat er na het stoppen gebeurt. In STEP 4 
 
 ### Bloedsuiker: HbA1c
 
-De HbA1c-waarde („lange-termijnsuiker“) geeft aan welk deel van de rode bloedkleurstof met suiker beladen is, en weerspiegelt de gemiddelde bloedsuiker van de afgelopen twee tot drie maanden. Een daling met één procentpunt geldt als klinisch betekenisvol. Hoe sterk de waarde daalt, hangt sterk af van de uitgangswaarde: wie met 9% begint, kan meer verliezen dan iemand met 7,5%.
+De HbA1c-waarde („lange-termijnsuiker”) geeft aan welk deel van de rode bloedkleurstof met suiker beladen is, en weerspiegelt de gemiddelde bloedsuiker van de afgelopen twee tot drie maanden. Een daling met één procentpunt geldt als klinisch betekenisvol. Hoe sterk de waarde daalt, hangt sterk af van de uitgangswaarde: wie met 9% begint, kan meer verliezen dan iemand met 7,5%.
 
 | Werkzame stof | Studie | Duur | HbA1c-verandering (procentpunten) |
 |---|---|---|---|
@@ -87,7 +87,7 @@ Een belangrijk verschil betreft hypoglykemie (te lage bloedsuiker). Omdat GLP-1 
 
 ### Cardiovasculaire eindpuntstudies
 
-Eindpuntstudies meten geen laboratoriumwaarden, maar gebeurtenissen die voor patiënten tellen: cardiovasculaire sterfte, hartinfarct en beroerte, samengevat als „MACE“ (major adverse cardiovascular events). De hazard ratio (HR) geeft aan hoe hoog het risico was in vergelijking met de controlegroep; 0,80 betekent een 20% lager relatief risico.
+Eindpuntstudies meten geen laboratoriumwaarden, maar gebeurtenissen die voor patiënten tellen: cardiovasculaire sterfte, hartinfarct en beroerte, samengevat als „MACE” (major adverse cardiovascular events). De hazard ratio (HR) geeft aan hoe hoog het risico was in vergelijking met de controlegroep; 0,80 betekent een 20% lager relatief risico.
 
 | Studie (werkzame stof) | Deelnemers | Duur | Resultaat |
 |---|---|---|---|

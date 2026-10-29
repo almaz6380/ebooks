@@ -1,6 +1,6 @@
 ## Tabletten in plaats van injecties
 
-Bijna alle peptidegeneesmiddelen in dit boek worden geïnjecteerd. Daar is een eenvoudige reden voor: het maag-darmkanaal is erop ingericht eiwitten en peptiden in hun bouwstenen af te breken. Wat als voeding zinvol is, maakt een peptide als geneesmiddel onbruikbaar voordat het het bloed bereikt. Deel I heeft deze hindernissen uitvoerig beschreven (hoofdstuk „Hoe peptiden in het lichaam komen“).
+Bijna alle peptidegeneesmiddelen in dit boek worden geïnjecteerd. Daar is een eenvoudige reden voor: het maag-darmkanaal is erop ingericht eiwitten en peptiden in hun bouwstenen af te breken. Wat als voeding zinvol is, maakt een peptide als geneesmiddel onbruikbaar voordat het het bloed bereikt. Deel I heeft deze hindernissen uitvoerig beschreven (hoofdstuk „Hoe peptiden in het lichaam komen”).
 
 Dat er toch intensief onderzoek naar tabletten wordt gedaan, heeft meerdere redenen. Veel mensen injecteren zichzelf niet graag. Injecties moeten meestal gekoeld worden bewaard, pennen zijn bewerkelijk om te produceren. En omdat geneesmiddelen tegen obesitas volgens de huidige kennis blijvend moeten worden gebruikt om te werken, telt elke vereenvoudiging voor de langdurige behandeling. Een overzichtsartikel beschrijft dat in klinische studies al orale vormen van insuline, calcitonine, parathormoon en vasopressine zijn uitgeprobeerd en dat pas semaglutide de doorbraak bracht voor een breed ingezette werkzame stof (Drucker 2020, PMID 31848464).
 
@@ -26,7 +26,7 @@ In beide tabletstudies kwamen maag-darmklachten vaak voor: 80% tegenover 46% met
 
 De cijfers liggen dicht bij die van de injectie. Een grote directe vergelijking tussen tablet en injectie bij obesitas ontbreekt echter, en kruisvergelijkingen tussen studies zijn slechts een grove oriëntatie.
 
-**Een nadeel dat zelden wordt genoemd:** omdat slechts een fractie wordt opgenomen, heeft de tablet een veelvoud aan werkzame stof nodig. Een kostenraming voor generieke preparaten na het aflopen van het octrooi kwam voor geïnjecteerd semaglutide uit op 28 tot 140 Amerikaanse dollar per persoon per jaar, voor de tablet op 186 tot 380 Amerikaanse dollar (Levi 2026, PMID 42437874). De tablet is dus niet automatisch de goedkopere oplossing (meer hierover in het hoofdstuk „Octrooien, generieken en prijzen“).
+**Een nadeel dat zelden wordt genoemd:** omdat slechts een fractie wordt opgenomen, heeft de tablet een veelvoud aan werkzame stof nodig. Een kostenraming voor generieke preparaten na het aflopen van het octrooi kwam voor geïnjecteerd semaglutide uit op 28 tot 140 Amerikaanse dollar per persoon per jaar, voor de tablet op 186 tot 380 Amerikaanse dollar (Levi 2026, PMID 42437874). De tablet is dus niet automatisch de goedkopere oplossing (meer hierover in het hoofdstuk „Octrooien, generieken en prijzen”).
 
 #### Harde eindpunten: SOUL
 
@@ -43,7 +43,7 @@ De doorbraak beperkt zich niet tot afslankmiddelen. Twee voorbeelden laten zien 
 - **Enlicitide** is een ringvormig (macrocyclisch) peptide dat het eiwit PCSK9 remt en zo het LDL-cholesterol verlaagt. Tot nu toe bestonden zulke remmers alleen als injectie (antistoffen). De werkzame stof werd gevonden met een methode die zeer grote peptidebibliotheken doorzoekt naar geschikte bindingspartners, en daarna gericht chemisch geoptimaliseerd (Johns 2023, PMID 37125593). In de fase 3-studie CORALreef Lipids met 2.909 deelnemers daalde het LDL-cholesterol na 24 weken met 57,1%, met placebo steeg het met 3,0%. Ongewenste voorvallen kwamen in beide groepen ongeveer even vaak voor (Navar 2026, PMID 41879224). Of dit ook hartinfarcten en beroertes voorkomt, moet CORALreef Outcomes met 14.550 deelnemers laten zien (NCT06008756, einde november 2031).
 - **Icotrokinra** is een oraal peptide dat de receptor voor de ontstekingssignaalstof interleukine-23 blokkeert. In de fase 3-studie ICONIC-LEAD met 684 volwassenen en jongeren met matige tot ernstige psoriasis bereikte na 16 weken 65% een (bijna) symptoomvrije huid tegenover 8% met placebo; ongewenste voorvallen kwamen in beide groepen even vaak voor (49%) (Bissonnette 2025, PMID 41191940). In maart 2026 werd icotrokinra in de VS geregistreerd; in de EU liep de beoordeling (Keam 2026, PMID 42243571; actuele stand controleren). Opmerkelijk is de weg daarnaartoe: volgens een farmacologisch onderzoek heeft icotrokinra **geen** absorptieversterker nodig. In dierproeven kwam slechts 0,1 tot 0,3% in het bloed, en toch was een werking in het hele lichaam meetbaar, omdat het peptide zeer stabiel en zeer werkzaam is (Knight 2025, PMID 40629250). Studies bij colitis ulcerosa lopen (ICONIC-UC, NCT07196748).
 
-Beide werkzame stoffen zijn geen peptiden van de grijze markt, maar doelbewust op de tekentafel ontworpen moleculen die jarenlang in grote studies zijn getest. Met de „orale“ peptiden die op internet worden aangeboden, hebben ze niets gemeen.
+Beide werkzame stoffen zijn geen peptiden van de grijze markt, maar doelbewust op de tekentafel ontworpen moleculen die jarenlang in grote studies zijn getest. Met de „orale” peptiden die op internet worden aangeboden, hebben ze niets gemeen.
 
 ### Weg 2: kleine moleculen in plaats van peptiden
 
@@ -73,7 +73,7 @@ Een directe vergelijking van de semaglutide-tablet met orforglipron bij obesitas
 | Afbraak, interacties | zoals eiwit, nauwelijks interacties | zoals eiwit | via leverenzymen, interacties mogelijk |
 | Harde eindpunten | voor meerdere werkzame stoffen aangetoond | bij diabetes type 2 aangetoond (SOUL) | eindpuntstudie loopt tot 2031 |
 
-Het punt „interacties“ verdient een toelichting: peptiden worden in het lichaam afgebroken zoals andere eiwitten. Kleine moleculen zoals orforglipron worden daarentegen omgezet via leverenzymen, waarlangs ook veel andere geneesmiddelen lopen. Daarom zijn voor orforglipron talrijke interactiestudies uitgevoerd (zie hoofdstuk Orforglipron).
+Het punt „interacties” verdient een toelichting: peptiden worden in het lichaam afgebroken zoals andere eiwitten. Kleine moleculen zoals orforglipron worden daarentegen omgezet via leverenzymen, waarlangs ook veel andere geneesmiddelen lopen. Daarom zijn voor orforglipron talrijke interactiestudies uitgevoerd (zie hoofdstuk Orforglipron).
 
 ### Open vragen
 
@@ -85,7 +85,7 @@ Het punt „interacties“ verdient een toelichting: peptiden worden in het lich
 
 **Worden tabletten goedkoper?** Voor kleine moleculen is dat aannemelijk, omdat ze met standaardmethoden uit de chemie worden geproduceerd. Voor peptidetabletten spreekt de kostenraming dat eerder tegen, omdat ze veel meer werkzame stof nodig hebben (Levi 2026, PMID 42437874). Concrete prijzen in Europa zijn onbekend.
 
-**Hoe zit het met druppels, smelttabletten en neussprays van internet?** Hier is voorzichtigheid geboden. Een onderzoek naar in de VS geproduceerde apotheekbereidingen vond semaglutide- of tirzepatidebereidingen voor gebruik onder de tong en als smelttablet, waarvoor geen bewijs van werkzaamheid en veiligheid bestaat (Belcourt 2026, PMID 41689811). Namaakproducten van oraal semaglutide bevatten in een laboratoriumanalyse deels duidelijk minder werkzame stof dan opgegeven en gaven werkzame stof en SNAC anders af dan het origineel (Hach 2024, PMID 39379664). Een peptide dat „als tablet“ wordt verkocht, wordt zonder een geteste formulering nauwelijks opgenomen – dat geldt voor semaglutide net zo goed als voor BPC-157 of andere grijze-marktpeptiden.
+**Hoe zit het met druppels, smelttabletten en neussprays van internet?** Hier is voorzichtigheid geboden. Een onderzoek naar in de VS geproduceerde apotheekbereidingen vond semaglutide- of tirzepatidebereidingen voor gebruik onder de tong en als smelttablet, waarvoor geen bewijs van werkzaamheid en veiligheid bestaat (Belcourt 2026, PMID 41689811). Namaakproducten van oraal semaglutide bevatten in een laboratoriumanalyse deels duidelijk minder werkzame stof dan opgegeven en gaven werkzame stof en SNAC anders af dan het origineel (Hach 2024, PMID 39379664). Een peptide dat „als tablet” wordt verkocht, wordt zonder een geteste formulering nauwelijks opgenomen – dat geldt voor semaglutide net zo goed als voor BPC-157 of andere grijze-marktpeptiden.
 
 ### Inschatting van de auteur
 
@@ -97,4 +97,4 @@ De injectie zal niet verdwijnen, maar haar monopoliepositie is voorbij. Voor de 
 - Kleine moleculen zoals orforglipron omzeilen het probleem, maar gaven in studies iets minder gewichtsverlies en worden via leverenzymen afgebroken.
 - Orale peptiden worden ook buiten de stofwisseling een eigen klasse geneesmiddelen, bijvoorbeeld tegen hoog cholesterol (enlicitide) en psoriasis (icotrokinra).
 - Open zijn langetermijngegevens, harde eindpunten bij obesitas, therapietrouw in het dagelijks leven en de prijzen.
-- Geneesmiddelen horen alleen onder medische begeleiding en volgens de productinformatie te worden gebruikt; „orale“ grijze-marktpeptiden hebben met deze ontwikkelingen niets te maken.
+- Geneesmiddelen horen alleen onder medische begeleiding en volgens de productinformatie te worden gebruikt; „orale” grijze-marktpeptiden hebben met deze ontwikkelingen niets te maken.

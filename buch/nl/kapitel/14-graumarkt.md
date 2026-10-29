@@ -1,14 +1,14 @@
 ## De grijze markt
 
-Wie op internet naar peptiden zoekt, komt al snel terecht bij webwinkels met professioneel ogende pagina's, laboratoriumfoto's en zuiverheidscertificaten. Aangeboden worden flesjes met wit poeder: BPC-157, TB-500, ipamorelin, melanotan II – en steeds vaker ook semaglutide, tirzepatide of nog helemaal niet geregistreerde werkzame stoffen zoals retatrutide. Bijna altijd staat ergens de vermelding „Research Use Only“ of „not for human consumption“ – alleen voor onderzoeksdoeleinden, niet voor gebruik bij de mens.
+Wie op internet naar peptiden zoekt, komt al snel terecht bij webwinkels met professioneel ogende pagina's, laboratoriumfoto's en zuiverheidscertificaten. Aangeboden worden flesjes met wit poeder: BPC-157, TB-500, ipamorelin, melanotan II – en steeds vaker ook semaglutide, tirzepatide of nog helemaal niet geregistreerde werkzame stoffen zoals retatrutide. Bijna altijd staat ergens de vermelding „Research Use Only” of „not for human consumption” – alleen voor onderzoeksdoeleinden, niet voor gebruik bij de mens.
 
 Dit hoofdstuk beschrijft wat er over deze markt bekend is: uit laboratoriumanalyses van gekochte en in beslag genomen producten, uit casusbeschrijvingen van vergiftigingen en uit analyses van bijwerkingsmeldingen. Het moet u helpen de risico's realistisch in te schatten. Verkooppunten worden in dit boek principieel niet genoemd.
 
-### Wat „research peptides“ zijn
+### Wat „research peptides” zijn
 
-Als „research peptides“ of „research chemicals“ worden stoffen aangeduid die officieel alleen voor onderzoeksdoeleinden aan laboratoria worden verkocht. De opdruk „niet voor gebruik bij de mens“ moet de verkoop juridisch afdekken: een product dat niet als geneesmiddel wordt aangeboden, hoeft – zo luidt de redenering van de aanbieders – ook geen registratie als geneesmiddel te hebben. In de praktijk richten veel van deze webwinkels zich echter herkenbaar op particulieren die de stoffen zelf willen injecteren. Of deze constructie juridisch standhoudt, wordt in het volgende hoofdstuk besproken; in veel gevallen doet ze dat niet.
+Als „research peptides” of „research chemicals” worden stoffen aangeduid die officieel alleen voor onderzoeksdoeleinden aan laboratoria worden verkocht. De opdruk „niet voor gebruik bij de mens” moet de verkoop juridisch afdekken: een product dat niet als geneesmiddel wordt aangeboden, hoeft – zo luidt de redenering van de aanbieders – ook geen registratie als geneesmiddel te hebben. In de praktijk richten veel van deze webwinkels zich echter herkenbaar op particulieren die de stoffen zelf willen injecteren. Of deze constructie juridisch standhoudt, wordt in het volgende hoofdstuk besproken; in veel gevallen doet ze dat niet.
 
-Een overzicht beschrijft het patroon aan de hand van semaglutide en tirzepatide: fabrikanten verkopen flesjes „alleen voor onderzoeksdoeleinden“ of „niet voor menselijke consumptie“ rechtstreeks aan consumenten, vaak zonder de materialen en de kennis die nodig zijn om de werkzame stof op te lossen, op te zuigen en te injecteren. Daarmee worden artsen en apotheken omzeild – en met hen de controle op wisselwerkingen en het medisch toezicht (Belcourt 2025, PMID 39285774).
+Een overzicht beschrijft het patroon aan de hand van semaglutide en tirzepatide: fabrikanten verkopen flesjes „alleen voor onderzoeksdoeleinden” of „niet voor menselijke consumptie” rechtstreeks aan consumenten, vaak zonder de materialen en de kennis die nodig zijn om de werkzame stof op te lossen, op te zuigen en te injecteren. Daarmee worden artsen en apotheken omzeild – en met hen de controle op wisselwerkingen en het medisch toezicht (Belcourt 2025, PMID 39285774).
 
 Hoe moeilijk het gebruik voor leken is, onderzocht een kleine studie aan een Amerikaanse universiteit. 20 volwassenen moesten aan de hand van informatie van internet de nodige stappen uitvoeren om zo'n semaglutidepoeder op te lossen en een injectiespuit klaar te maken. Van 34 handelingen voerden ze er gemiddeld 15 correct uit. De onderzoekers zagen fouten die tot een verkeerde dosering, prikaccidenten of infecties zouden kunnen leiden (Sedensky 2026, PMID 42541373).
 
@@ -59,13 +59,13 @@ Uit deze analyses ontstaat een terugkerend beeld:
 | Te veel werkzame stof | overdosering, meer bijwerkingen | semaglutide tot 38,7% boven opgave |
 | Te weinig werkzame stof | geen werking | melanotan II 4,32 in plaats van 10 mg |
 | Verkeerde werkzame stof | onvoorspelbare, deels levensgevaarlijke werking | insuline in plaats van semaglutide |
-| Geen werkzame stof | oplichting, geen werking | lege „groeihormoon“-flesjes |
+| Geen werkzame stof | oplichting, geen werking | lege „groeihormoon”-flesjes |
 | Verontreinigingen | immuunreacties, giftige werking | bijproducten van de synthese |
 | Endotoxinen | koorts, ontsteking, circulatiereacties | in alle proefaankopen van semaglutide |
 
 ### Zuiverheid: wat het percentage betekent – en wat niet
 
-Veel aanbieders adverteren met „99% zuiverheid“ en voegen analysecertificaten bij. Daarover enkele opmerkingen:
+Veel aanbieders adverteren met „99% zuiverheid” en voegen analysecertificaten bij. Daarover enkele opmerkingen:
 
 - **Zuiverheid meet alleen bepaalde verontreinigingen.** Een typische meting (hogedrukvloeistofchromatografie, HPLC) laat zien welk percentage van de meetbare peptidesignalen aan de gewenste stof toe te schrijven is. Vaak worden zouten, water, resten van oplosmiddelen, metalen of endotoxinen niet gemeten.
 - **Zuiverheid zegt niets over de hoeveelheid.** Een flesje kan een zeer zuivere stof bevatten, maar in de verkeerde hoeveelheid.
@@ -78,13 +78,13 @@ Daar komen verontreinigingen bij die typisch bij de chemische synthese ontstaan:
 
 Endotoxinen zijn bestanddelen van de celwand van bepaalde bacteriën. Ze blijven bestaan, ook als de bacteriën gedood zijn, en zijn zeer hittebestendig. Komen ze in het bloed, dan kunnen ze koorts, koude rillingen, bloeddrukdaling en in grotere hoeveelheden een levensbedreigende shock veroorzaken. Daarom gelden voor injecties en infusen strenge grenswaarden, en geneesmiddelenfabrikanten controleren elke partij.
 
-Een poeder dat „steriel“ of „kiemvrij“ is, kan toch endotoxinen bevatten – precies dat lieten de proefaankopen van semaglutide zien: geen levende kiemen, maar endotoxinen in alle monsters (Ashraf 2024, PMID 39509151). Ook het oplossen met niet-steriel water, het meermaals opzuigen uit hetzelfde flesje of het hergebruiken van naalden kan kiemen binnenbrengen.
+Een poeder dat „steriel” of „kiemvrij” is, kan toch endotoxinen bevatten – precies dat lieten de proefaankopen van semaglutide zien: geen levende kiemen, maar endotoxinen in alle monsters (Ashraf 2024, PMID 39509151). Ook het oplossen met niet-steriel water, het meermaals opzuigen uit hetzelfde flesje of het hergebruiken van naalden kan kiemen binnenbrengen.
 
 ### Doseringsfouten
 
 Zelfs als een product precies bevat wat erop staat, is de juiste dosering op de grijze markt lastig. Poeder moet met een bepaalde hoeveelheid vloeistof worden opgelost; de dosis volgt dan uit een omrekening. Wie zich verrekent of eenheden verwisselt, kan gemakkelijk een veelvoud van de bedoelde hoeveelheid injecteren.
 
-Een casusreeks van een Amerikaans vergiftigingeninformatiecentrum beschrijft drie gevallen met semaglutide uit apotheken en een schoonheidssalon. Twee personen hadden zich per ongeluk de tienvoudige hoeveelheid geïnjecteerd. Allen hadden dagenlang misselijkheid, braken en buikpijn. Eén persoon had een flesje met spuiten gekregen zonder enige uitleg, een ander verwisselde milliliters, „eenheden“ en milligrammen (Lambson 2023, PMID 37392810). De auteurs benadrukken dat flesjes, anders dan voorgevulde pennen, geen veiligheidsmechanismen tegen zulke fouten bieden.
+Een casusreeks van een Amerikaans vergiftigingeninformatiecentrum beschrijft drie gevallen met semaglutide uit apotheken en een schoonheidssalon. Twee personen hadden zich per ongeluk de tienvoudige hoeveelheid geïnjecteerd. Allen hadden dagenlang misselijkheid, braken en buikpijn. Eén persoon had een flesje met spuiten gekregen zonder enige uitleg, een ander verwisselde milliliters, „eenheden” en milligrammen (Lambson 2023, PMID 37392810). De auteurs benadrukken dat flesjes, anders dan voorgevulde pennen, geen veiligheidsmechanismen tegen zulke fouten bieden.
 
 ### Vervalsingen van Ozempic en andere GLP-1-geneesmiddelen
 
@@ -92,13 +92,13 @@ Met de enorme vraag naar semaglutide doken wereldwijd vervalsingen op. De Wereld
 
 Bijzonder gevaarlijk zijn vervalsingen die een andere werkzame stof bevatten. In Italië werd een 31-jarige vrouw in hypoglykemisch coma naar de spoedeisende hulp gebracht nadat ze zich vermeende Ozempic van internet had geïnjecteerd. De toxicologische analyse wees uit dat het flesje insuline in plaats van semaglutide bevatte (Antonacci 2026, PMID 41125326). Uit Nederland werden twee vergelijkbare gevallen gemeld: twee mensen zonder diabetes en zonder obesitas hadden zich zonder recept verkregen semaglutide geïnjecteerd en lagen met ernstige hypoglykemie, kaliumtekort en onderkoeling in coma. Oorzaak was een vergiftiging met synthetische insuline. Om de bloedsuiker stabiel te houden, was tot twee dagen een continu glucose-infuus nodig (Stammers 2026, PMID 42390457).
 
-Deze gevallen zijn zo belangrijk omdat echt semaglutide bij gezonde mensen op zichzelf nauwelijks een noemenswaardige hypoglykemie veroorzaakt. Een hypoglykemie na een „afslankinjectie“ is daarom een waarschuwingssignaal voor een vervalst product.
+Deze gevallen zijn zo belangrijk omdat echt semaglutide bij gezonde mensen op zichzelf nauwelijks een noemenswaardige hypoglykemie veroorzaakt. Een hypoglykemie na een „afslankinjectie” is daarom een waarschuwingssignaal voor een vervalst product.
 
 Een analyse van de Europese bijwerkingendatabase EudraVigilance vond van 2018 tot 2025 in totaal 234 meldingen over mogelijk vervalste semaglutide. 73,5% betrof vrouwen, en 89,3% van de gemelde bijwerkingen was ernstig. Het vaakst werden braken, misselijkheid en hypoglykemie gemeld. Vergeleken met echt semaglutide werden hypoglykemie, gebruik buiten de geregistreerde indicatie, malaise en gebrek aan werking onevenredig vaak gemeld (Zinzi 2026, PMID 42137313). Zoals bij alle meldgegevens geldt: ze tonen signalen, geen frequenties.
 
 ### Niet-geregistreerde GLP-1-werkzame stoffen
 
-Inmiddels worden op de grijze markt ook werkzame stoffen aangeboden die nog helemaal niet geregistreerd zijn, zoals de drievoudige agonist retatrutide. Voor zulke stoffen zijn er weliswaar studies van de fabrikanten, maar geen gecontroleerde producten – wat er in een flesje met het opschrift „retatrutide“ werkelijk zit, is onbekend. Een vaktijdschrift wijdde in 2026 een eigen artikel aan deze zwarte markt (Rubin 2026, PMID 42853576).
+Inmiddels worden op de grijze markt ook werkzame stoffen aangeboden die nog helemaal niet geregistreerd zijn, zoals de drievoudige agonist retatrutide. Voor zulke stoffen zijn er weliswaar studies van de fabrikanten, maar geen gecontroleerde producten – wat er in een flesje met het opschrift „retatrutide” werkelijk zit, is onbekend. Een vaktijdschrift wijdde in 2026 een eigen artikel aan deze zwarte markt (Rubin 2026, PMID 42853576).
 
 Een casusbeschrijving gaat over een vrouw van midden twintig die met vijf dagen aanhoudende misselijkheid, herhaaldelijk braken en diarree in het ziekenhuis kwam. De klachten verbeterden ondanks meerdere middelen tegen misselijkheid aanvankelijk niet. Pas door herhaaldelijk doorvragen kwam aan het licht dat een zelfbenoemde lifecoach zonder medische kwalificatie haar vier wekelijkse injecties had gegeven van een product dat zogenaamd retatrutide bevatte. Zelf had ze de injecties niet als geneesmiddel beschouwd (Buzzi 2026, PMID 42843917). De casus laat nog een probleem zien: wie peptiden niet als geneesmiddel ziet, vermeldt ze ook niet bij artsen.
 
@@ -128,13 +128,13 @@ Deze motieven zijn begrijpelijk. De analyses in dit hoofdstuk laten echter zien 
 
 Dit boek geeft geen gebruiksaanwijzingen. Enkele algemene punten zijn om veiligheidsredenen echter belangrijk:
 
-- Informeer uw arts over alle injecties, peptiden en „onderzoekschemicaliën“ die u gebruikt – ook als u ze niet als geneesmiddel beschouwt.
+- Informeer uw arts over alle injecties, peptiden en „onderzoekschemicaliën” die u gebruikt – ook als u ze niet als geneesmiddel beschouwt.
 - Onverwachte klachten zoals trillen, zweten, verwardheid of bewustzijnsstoornissen na een injectie kunnen wijzen op een hypoglykemie en zijn een noodgeval.
 - Verdachte producten en bijwerkingen kunnen aan de autoriteiten worden gemeld: in Duitsland bij het Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM), in Oostenrijk bij het Bundesamt für Sicherheit im Gesundheitswesen (BASG).
 
 ### Het belangrijkste in het kort
 
-- De vermelding „alleen voor onderzoeksdoeleinden“ beschermt niet tegen risico's; ze verschuift de verantwoordelijkheid naar de kopers.
+- De vermelding „alleen voor onderzoeksdoeleinden” beschermt niet tegen risico's; ze verschuift de verantwoordelijkheid naar de kopers.
 - Laboratoriumanalyses vonden bij peptiden van de grijze markt te veel, te weinig, de verkeerde of helemaal geen werkzame stof, en daarnaast verontreinigingen en endotoxinen.
 - Vervalste semaglutideproducten die insuline bevatten, leidden tot levensgevaarlijke hypoglykemieën.
 - Ook zelf bereide preparaten uit Amerikaanse apotheken zijn niet getoetst zoals geregistreerde geneesmiddelen.

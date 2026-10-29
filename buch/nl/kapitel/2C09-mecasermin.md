@@ -7,7 +7,7 @@ Mecasermine is met gentechnologie geproduceerd menselijk IGF-1 – dus de signaa
 - **Soort en structuur:** recombinant (met gentechnologie in bacteriën geproduceerd) menselijk IGF-1 van 70 aminozuren, identiek aan het lichaamseigen hormoon.
 - **Herkomst:** IGF-1 werd in de jaren zeventig beschreven als „somatomedine”; mecasermine werd ontwikkeld door Tercica en op de markt gebracht door Ipsen, inmiddels door een andere vergunninghouder (stand 2026, actuele situatie controleren).
 - **Werkingsprincipe:** bindt aan de IGF-1-receptor en vervangt het ontbrekende IGF-1 rechtstreeks; werkt groeibevorderend, opbouwend en – in hogere dosis – bloedsuikerverlagend, vergelijkbaar met insuline.
-- **Toelating EU:** ja (Increlex) voor de langdurige behandeling van groeistoornissen bij kinderen en jongeren met ernstig primair IGF-1-tekort. **Toelating VS:** ja (Increlex), zelfde indicatie.
+- **Registratie EU:** ja (Increlex) voor de langdurige behandeling van groeistoornissen bij kinderen en jongeren met ernstig primair IGF-1-tekort. **Registratie VS:** ja (Increlex), zelfde indicatie.
 - **WADA:** verboden, groep S2 (IGF-1 en zijn analogen als groeifactoren).
 - **Bewijsniveau: A** – toegelaten in de EU en de VS. Beperking: vanwege de zeldzaamheid van de aandoening berust de toelating op open langetermijnstudies en registers, niet op grote gerandomiseerde studies. Gerandomiseerde studies bestaan voor andere toepassingen, bijvoorbeeld ALS (negatief).
 

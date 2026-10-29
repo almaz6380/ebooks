@@ -5,8 +5,8 @@
 - **Soort en structuur:** chemisch gewijzigd minipeptide, afgeleid van angiotensine IV, een fragment van het bloeddrukregulerende hormoonsysteem. De kern bestaat uit twee aminozuren (tyrosine en isoleucine), aan beide uiteinden voorzien van vetzuurachtige ketens; chemische naam N-hexanoyl-Tyr-Ile-(6)-aminohexaanzuuramide, onderzoekscode PNB-0408.
 - **Herkomst:** ontwikkeld rond 2012 aan de Washington State University (VS).
 - **Werkingsprincipe:** zou het groeifactorsysteem HGF/c-Met versterken (HGF = hepatocytengroeifactor, c-Met = de receptor ervan) en zo de vorming van nieuwe zenuwverbindingen (synapsen) stimuleren.
-- **Toelating EU:** nee.
-- **Toelating VS:** nee. Dihexa stond vanaf 2023 in de FDA-„categorie 2” voor grondstoffen voor bereidingen met veiligheidsbezwaren; in april 2026 werd het daarvan geschrapt, een beoordeling door het adviescomité PCAC is aangekondigd voor een vergadering tot februari 2027 (stand oktober 2026, actuele situatie controleren).
+- **Registratie EU:** nee.
+- **Registratie VS:** nee. Dihexa stond vanaf 2023 in de FDA-„categorie 2” voor grondstoffen voor bereidingen met veiligheidsbezwaren; in april 2026 werd het daarvan geschrapt, een beoordeling door het adviescomité PCAC is aangekondigd voor een vergadering tot februari 2027 (stand oktober 2026, actuele situatie controleren).
 - **WADA:** niet bij naam vermeld; als nergens toegelaten stof valt dihexa naar onze inschatting onder de verzamelcategorie S0 „niet-toegelaten stoffen” (stand 2026, actuele situatie controleren).
 - **Bewijsniveau:** **D** – niet één gepubliceerde studie bij mensen.
 

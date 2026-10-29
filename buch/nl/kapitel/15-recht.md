@@ -14,27 +14,27 @@ Het Europese recht onderscheidt in wezen drie productcategorieën waaronder pept
 | Levensmiddel en voedingssupplement | geen registratie, fabrikant verantwoordelijk | collageenpeptiden, melkpeptiden |
 | Cosmetica | geen registratie, veiligheidsbeoordeling door fabrikant | palmitoyl-pentapeptide-4, argireline |
 
-Daarnaast zijn er stoffen die rechtmatig in geen van deze categorieën passen – bijvoorbeeld niet-geregistreerde werkzame stoffen met farmacologische werking die als „onderzoekschemicaliën“ worden verkocht. Voor deze stoffen bestaat geen legale weg naar de handel als product voor gebruik bij de mens.
+Daarnaast zijn er stoffen die rechtmatig in geen van deze categorieën passen – bijvoorbeeld niet-geregistreerde werkzame stoffen met farmacologische werking die als „onderzoekschemicaliën” worden verkocht. Voor deze stoffen bestaat geen legale weg naar de handel als product voor gebruik bij de mens.
 
 ### Wat een geneesmiddel is
 
 De definitie van een geneesmiddel is in de EU vastgelegd in een richtlijn (Richtlijn 2001/83/EG) en omgezet in de nationale geneesmiddelenwetten. Ze heeft twee kanten:
 
-- **Geneesmiddel naar presentatie**: een product is een geneesmiddel wanneer het wordt **voorgesteld** als middel om ziekten te genezen of te voorkomen. Alleen al reclame met uitspraken als „versnelt het herstel van peesblessures“ kan van een product een geneesmiddel maken.
+- **Geneesmiddel naar presentatie**: een product is een geneesmiddel wanneer het wordt **voorgesteld** als middel om ziekten te genezen of te voorkomen. Alleen al reclame met uitspraken als „versnelt het herstel van peesblessures” kan van een product een geneesmiddel maken.
 - **Geneesmiddel naar functie**: een product is een geneesmiddel wanneer het de menselijke lichaamsfuncties door een **farmacologische, immunologische of metabole werking** kan herstellen, corrigeren of beïnvloeden – ongeacht hoe het wordt aangeprezen.
 
-Valt een product zowel onder de definitie van een geneesmiddel als onder die van een ander product, dan heeft volgens deze richtlijn in geval van twijfel het geneesmiddelenrecht voorrang. Voor peptiden met hormoonachtige werking – zoals groeihormoonvrijmakers, GLP-1-analogen of melanotan – betekent dit: ze zijn in de regel geneesmiddelen, ook als ze als voedingssupplement, cosmetica of „onderzoekschemicalie“ worden aangeduid.
+Valt een product zowel onder de definitie van een geneesmiddel als onder die van een ander product, dan heeft volgens deze richtlijn in geval van twijfel het geneesmiddelenrecht voorrang. Voor peptiden met hormoonachtige werking – zoals groeihormoonvrijmakers, GLP-1-analogen of melanotan – betekent dit: ze zijn in de regel geneesmiddelen, ook als ze als voedingssupplement, cosmetica of „onderzoekschemicalie” worden aangeduid.
 
 ### Registratie in de EU
 
-Een geneesmiddel mag in de EU alleen in de handel worden gebracht als het geregistreerd is. Voor de registratie moet de fabrikant gegevens over kwaliteit, werkzaamheid en veiligheid overleggen – meestal uit de fase 3-studies die in het hoofdstuk „Studies goed lezen“ zijn beschreven.
+Een geneesmiddel mag in de EU alleen in de handel worden gebracht als het geregistreerd is. Voor de registratie moet de fabrikant gegevens over kwaliteit, werkzaamheid en veiligheid overleggen – meestal uit de fase 3-studies die in het hoofdstuk „Studies goed lezen” zijn beschreven.
 
 Er zijn twee hoofdwegen:
 
 - **Centrale procedure** via het Europees Geneesmiddelenbureau (EMA). De registratie geldt dan in alle lidstaten. Voor biotechnologisch geproduceerde geneesmiddelen en nieuwe werkzame stoffen tegen bepaalde ziekten – waaronder diabetes – is deze weg verplicht. De meeste moderne peptidegeneesmiddelen zijn centraal geregistreerd.
 - **Nationale en gedecentraliseerde procedures** via de autoriteiten van de lidstaten, in Oostenrijk het Bundesamt für Sicherheit im Gesundheitswesen (BASG), in Duitsland het Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM) respectievelijk voor bepaalde biologische geneesmiddelen het Paul-Ehrlich-Institut.
 
-Samen met de registratie wordt vastgelegd of een geneesmiddel **receptplichtig** is. Bijna alle peptidegeneesmiddelen zijn dat. De precieze toepassingsgebieden, doseringen, contra-indicaties en bijwerkingen staan in de **productinformatie** (SmPC, voor professionals) en in de **bijsluiter**. De registratie geldt voor bepaalde toepassingsgebieden. Artsen mogen een geregistreerd geneesmiddel onder bepaalde voorwaarden ook buiten deze toepassingsgebieden voorschrijven („off-label use“), maar dragen dan een grotere verantwoordelijkheid voor voorlichting en afweging; de kosten worden in de regel niet door de zorgverzekering vergoed.
+Samen met de registratie wordt vastgelegd of een geneesmiddel **receptplichtig** is. Bijna alle peptidegeneesmiddelen zijn dat. De precieze toepassingsgebieden, doseringen, contra-indicaties en bijwerkingen staan in de **productinformatie** (SmPC, voor professionals) en in de **bijsluiter**. De registratie geldt voor bepaalde toepassingsgebieden. Artsen mogen een geregistreerd geneesmiddel onder bepaalde voorwaarden ook buiten deze toepassingsgebieden voorschrijven („off-label use”), maar dragen dan een grotere verantwoordelijkheid voor voorlichting en afweging; de kosten worden in de regel niet door de zorgverzekering vergoed.
 
 Enkele peptiden die in dit boek voorkomen, zijn in andere landen geregistreerd, maar niet in de EU – bijvoorbeeld enkele in Rusland gebruikte preparaten. Een buitenlandse registratie maakt een product in de EU niet verhandelbaar.
 
@@ -45,14 +45,14 @@ Voedingssupplementen zijn juridisch levensmiddelen. Ze moeten de normale voeding
 Belangrijke grenzen:
 
 - Een stof die farmacologisch werkt, kan geen voedingssupplement zijn. Wordt ze toch zo verkocht, dan gaat het om een niet-geregistreerd geneesmiddel.
-- **Gezondheidsclaims** zoals „ondersteunt de gewrichten“ of „verlaagt de bloeddruk“ zijn alleen toegestaan als ze door de EU na beoordeling door de Europese Autoriteit voor voedselveiligheid (EFSA) zijn toegelaten en in een lijst zijn opgenomen (Verordening (EG) nr. 1924/2006). Voor veel aangeprezen werkingen van peptidelevensmiddelen bestaat voor zover ons bekend geen toegelaten claim. Reclame die toch zo'n werking belooft, is ontoelaatbaar.
-- **Ziekteclaims** (bijvoorbeeld „werkt tegen artrose“) zijn voor levensmiddelen in het algemeen verboden.
+- **Gezondheidsclaims** zoals „ondersteunt de gewrichten” of „verlaagt de bloeddruk” zijn alleen toegestaan als ze door de EU na beoordeling door de Europese Autoriteit voor voedselveiligheid (EFSA) zijn toegelaten en in een lijst zijn opgenomen (Verordening (EG) nr. 1924/2006). Voor veel aangeprezen werkingen van peptidelevensmiddelen bestaat voor zover ons bekend geen toegelaten claim. Reclame die toch zo'n werking belooft, is ontoelaatbaar.
+- **Ziekteclaims** (bijvoorbeeld „werkt tegen artrose”) zijn voor levensmiddelen in het algemeen verboden.
 
 Dat ook voedingssupplementen niet vrij zijn van verboden werkzame stoffen, laat een geval uit een antidopinglaboratorium zien: in tabletten die als vrij verkrijgbaar voedingssupplement werden aangeboden, werd het groeihormoonvrijmakende peptide GHRP-2 aangetoond (Thomas 2010, PMID 20878896).
 
 ### Novel food
 
-Een eigen hindernis voor levensmiddelen is de **novelfoodverordening** (Verordening (EU) 2015/2283). Als „nieuw“ gelden levensmiddelen en ingrediënten die vóór 15 mei 1997 in de EU niet in noemenswaardige mate voor menselijke consumptie werden gebruikt. Ze mogen pas na een veiligheidsbeoordeling en een toelating door de EU worden verkocht.
+Een eigen hindernis voor levensmiddelen is de **novelfoodverordening** (Verordening (EU) 2015/2283). Als „nieuw” gelden levensmiddelen en ingrediënten die vóór 15 mei 1997 in de EU niet in noemenswaardige mate voor menselijke consumptie werden gebruikt. Ze mogen pas na een veiligheidsbeoordeling en een toelating door de EU worden verkocht.
 
 Voor peptiden betekent dit: collageenhydrolysaten uit gelatine hebben een lange consumptiegeschiedenis en zijn geen novel food. Een nieuw gesynthetiseerd peptide zonder consumptiegeschiedenis dat als levensmiddel verkocht zou worden, zou daarentegen in principe een novel food zijn en een toelating nodig hebben – tenzij het vanwege zijn farmacologische werking toch al als geneesmiddel moet worden ingedeeld. Of een stof als novel food geldt, moet per geval worden beoordeeld; de Europese Commissie houdt daarvoor een catalogus bij.
 
@@ -65,13 +65,13 @@ Cosmetische producten zijn in de EU geregeld door de cosmeticaverordening (Veror
 - Reclameclaims moeten onderbouwd kunnen worden en mogen niet misleiden. Uitspraken over de behandeling van ziekten zijn ontoelaatbaar.
 - **Wat geïnjecteerd wordt, is nooit cosmetica.** Injecties vallen niet onder de definitie van cosmetische producten.
 
-Cosmetische peptiden zoals palmitoyl-pentapeptide-4 of acetyl-hexapeptide-8 zijn daarom legaal in crèmes en serums. Een peptide zoals melanotan II, dat onder de huid wordt geïnjecteerd en in het hele lichaam werkt, is daarentegen geen cosmetica, ook al wordt het als „bruiningsmiddel“ aangeprezen.
+Cosmetische peptiden zoals palmitoyl-pentapeptide-4 of acetyl-hexapeptide-8 zijn daarom legaal in crèmes en serums. Een peptide zoals melanotan II, dat onder de huid wordt geïnjecteerd en in het hele lichaam werkt, is daarentegen geen cosmetica, ook al wordt het als „bruiningsmiddel” aangeprezen.
 
 ### Oostenrijk
 
 In Oostenrijk regelt de **Arzneimittelgesetz (AMG)** registratie, productie en afgifte van geneesmiddelen. Bevoegd voor registratie en toezicht is het Bundesamt für Sicherheit im Gesundheitswesen (BASG) met de AGES Medizinmarktaufsicht. Receptplichtige geneesmiddelen worden alleen in apotheken op recept afgegeven; de postorderverkoop door apotheken is beperkt tot niet-receptplichtige geneesmiddelen.
 
-De invoer van geneesmiddelen regelt de **Arzneiwareneinfuhrgesetz**. Particulieren mogen geneesmiddelen alleen onder bepaalde voorwaarden en in hoeveelheden voor persoonlijk gebruik invoeren; voor bestellingen uit landen buiten de Europese Economische Ruimte gelden strengere regels. Niet-geregistreerde werkzame stoffen uit webwinkels voor „onderzoekschemicaliën“ voldoen in de regel niet aan deze voorwaarden. De douane kan zulke zendingen in beslag nemen.
+De invoer van geneesmiddelen regelt de **Arzneiwareneinfuhrgesetz**. Particulieren mogen geneesmiddelen alleen onder bepaalde voorwaarden en in hoeveelheden voor persoonlijk gebruik invoeren; voor bestellingen uit landen buiten de Europese Economische Ruimte gelden strengere regels. Niet-geregistreerde werkzame stoffen uit webwinkels voor „onderzoekschemicaliën” voldoen in de regel niet aan deze voorwaarden. De douane kan zulke zendingen in beslag nemen.
 
 Voor de sport geldt de **Anti-Doping-Bundesgesetz 2021**. Die verwijst naar de verboden lijst van het Wereld Anti-Doping Agentschap en bevat verboden en strafbepalingen, met name voor het in de handel brengen en doorgeven van verboden werkzame stoffen. Bevoegd voor controles is de Nationale Anti-Doping Agentur Austria (NADA Austria).
 
@@ -91,13 +91,13 @@ Stand 2026, actuele situatie controleren.
 
 ### VS
 
-In de VS is de **Food and Drug Administration (FDA)** bevoegd. Nieuwe geneesmiddelen hebben een registratie nodig (bij chemisch geproduceerde werkzame stoffen via een „New Drug Application“, bij biologische werkzame stoffen via een „Biologics License Application“).
+In de VS is de **Food and Drug Administration (FDA)** bevoegd. Nieuwe geneesmiddelen hebben een registratie nodig (bij chemisch geproduceerde werkzame stoffen via een „New Drug Application”, bij biologische werkzame stoffen via een „Biologics License Application”).
 
 **Voedingssupplementen** (dietary supplements) zijn sinds een wet uit 1994 grotendeels zonder voorafgaande controle verhandelbaar. Een stof die eerst als geneesmiddel is geregistreerd of als geneesmiddel op grotere schaal klinisch is onderzocht, mag echter in principe niet achteraf als voedingssupplement worden verkocht. Daarom kunnen veel peptiden in de VS niet legaal als supplement op de markt worden gebracht.
 
 **Compounding**: Amerikaanse apotheken mogen onder bepaalde voorwaarden zelf geneesmiddelen bereiden – afzonderlijk voor bepaalde patiënten of op grotere schaal in bedrijven onder bijzonder toezicht. Bij leveringstekorten van geregistreerde geneesmiddelen mogen ze ook kopieën maken. Na het einde van de tekorten van semaglutide en tirzepatide mogen ze volgens het Amerikaanse recht alleen nog afwijkende preparaten maken (Belcourt 2026, PMID 41689811). Welke werkzame stoffen als grondstof voor compounding mogen worden gebruikt, legt de FDA in lijsten vast. Voor zover ons bekend heeft de FDA meerdere populaire peptiden van de grijze markt, waaronder BPC-157, vanwege veiligheidszorgen als ongeschikt voor compounding ingedeeld. Deze lijsten en het politieke debat erover veranderen; controleer de actuele stand van zaken.
 
-**„Research Use Only“**: de verkoop van peptiden met de vermelding „alleen voor onderzoeksdoeleinden“ aan consumenten bevindt zich ook in de VS in een juridisch grijs gebied, dat door deskundigen wordt beschreven als omzeiling van de receptplicht (Belcourt 2025, PMID 39285774). De FDA heeft aan afzonderlijke aanbieders waarschuwingsbrieven gestuurd.
+**„Research Use Only”**: de verkoop van peptiden met de vermelding „alleen voor onderzoeksdoeleinden” aan consumenten bevindt zich ook in de VS in een juridisch grijs gebied, dat door deskundigen wordt beschreven als omzeiling van de receptplicht (Belcourt 2025, PMID 39285774). De FDA heeft aan afzonderlijke aanbieders waarschuwingsbrieven gestuurd.
 
 **Invoer**: de FDA gedoogt onder strikte voorwaarden de invoer van kleine hoeveelheden geneesmiddelen voor persoonlijk gebruik. Er bestaat geen recht op, en niet-geregistreerde werkzame stoffen zonder medische begeleiding vallen er in de regel niet onder.
 
@@ -132,7 +132,7 @@ Bij **geregistreerde geneesmiddelen** zijn fabrikanten, apotheken en voorschrijv
 Bij **producten van de grijze markt** ontbreekt dit systeem grotendeels:
 
 - De aanbieders zitten vaak in het buitenland, veranderen regelmatig hun namen en websites en zijn praktisch onvindbaar.
-- Met de vermelding „niet voor gebruik bij de mens“ proberen ze elke verantwoordelijkheid van zich af te schuiven.
+- Met de vermelding „niet voor gebruik bij de mens” proberen ze elke verantwoordelijkheid van zich af te schuiven.
 - Wie zo'n product zelf gebruikt, draagt het gezondheids- en financiële risico grotendeels alleen.
 - Wie zo'n product aan anderen doorgeeft of bij anderen toepast – bijvoorbeeld in een sportschool, schoonheidssalon of wellnessbedrijf –, kan zich strafbaar maken en is onder omstandigheden aansprakelijk voor schade.
 
@@ -144,7 +144,7 @@ Ook bij **toepassing door artsen** gelden strenge maatstaven. Wie niet-geregistr
 |---|---|
 | Geregistreerd peptide op recept uit de apotheek | legaal, medisch begeleid |
 | Geregistreerd peptide zonder recept van internet | in de regel illegaal, risico op vervalsing |
-| Niet-geregistreerd peptide als „onderzoekschemicalie“ | in de regel niet verhandelbaar geneesmiddel |
+| Niet-geregistreerd peptide als „onderzoekschemicalie” | in de regel niet verhandelbaar geneesmiddel |
 | Collageenpeptiden als levensmiddel | legaal, reclameclaims beperkt |
 | Peptidecrème als cosmetica | legaal, mits veilig en niet als geneesmiddel aangeprezen |
 | Verboden peptide in gecontroleerde sport | dopingovertreding, deels strafbaar |
@@ -153,7 +153,7 @@ Ook bij **toepassing door artsen** gelden strenge maatstaven. Wie niet-geregistr
 
 - Of een peptide een geneesmiddel, levensmiddel of cosmetica is, hangt af van werking, bestemming en presentatie. Bij farmacologische werking heeft het geneesmiddelenrecht voorrang.
 - Geneesmiddelen hebben een registratie nodig. De meeste peptidegeneesmiddelen zijn receptplichtig.
-- De opdruk „alleen voor onderzoeksdoeleinden“ maakt de verkoop aan particulieren niet legaal en beschermt hen niet.
+- De opdruk „alleen voor onderzoeksdoeleinden” maakt de verkoop aan particulieren niet legaal en beschermt hen niet.
 - Veel peptiden van de grijze markt zijn in de sport verboden, vaak via de rubrieken S0 en S2 van de WADA-lijst.
 - Bij producten van de grijze markt dragen de gebruikers het risico grotendeels alleen.
 

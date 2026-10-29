@@ -5,8 +5,8 @@
 - **Soort en structuur:** relatief lang synthetisch peptide, afgeleid van een gedeelte van het eiwit FOXO4. „DRI” staat voor *D-retro-inverso*: het peptide is opgebouwd uit spiegelbeeldige D-aminozuren in omgekeerde volgorde. Daardoor wordt het door lichaamseigen enzymen nauwelijks afgebroken. Een gekoppeld, positief geladen gedeelte (afgeleid van een viruseiwit) moet het in cellen binnensluizen.
 - **Herkomst:** in 2017 gepresenteerd door een Nederlandse onderzoeksgroep rond Peter de Keizer (Erasmus MC Rotterdam).
 - **Werkingsprincipe:** **senolyticum** – een stof die gericht verouderde, zogeheten senescente cellen in geprogrammeerde celdood zou drijven, door de binding tussen FOXO4 en het beschermende eiwit p53 te verstoren.
-- **Toelating EU:** nee.
-- **Toelating VS:** nee.
+- **Registratie EU:** nee.
+- **Registratie VS:** nee.
 - **WADA:** niet bij naam vermeld; als nergens toegelaten stof valt FOXO4-DRI naar onze inschatting onder de verzamelcategorie S0 (stand 2026, actuele situatie controleren).
 - **Bewijsniveau:** **D** – uitsluitend dier- en laboratoriumstudies.
 

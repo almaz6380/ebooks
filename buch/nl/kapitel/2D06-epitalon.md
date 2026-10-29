@@ -5,14 +5,14 @@
 - **Soort en structuur:** synthetisch tetrapeptide van vier aminozuren: Ala-Glu-Asp-Gly (afgekort AEDG). Schrijfwijzen: epitalon, epithalon, epithalone.
 - **Herkomst:** ontwikkeld in de jaren tachtig en negentig aan het Instituut voor Bioregulatie en Gerontologie in Sint-Petersburg onder Vladimir Chavinson (in vakartikelen: Khavinson). De aminozuurvolgorde werd afgeleid uit de samenstelling van **epithalamine**, een extract uit de pijnappelklier (epifyse) van runderen. Epitalon en epithalamine zijn chemisch verschillende stoffen.
 - **Werkingsprincipe:** zou als „peptidebioregulator” de functie van de pijnappelklier normaliseren, de aanmaak van melatonine op oudere leeftijd bevorderen en het enzym telomerase activeren, dat de uiteinden van de chromosomen (telomeren) verlengt.
-- **Toelating EU:** nee.
-- **Toelating VS:** nee. In april 2026 van de FDA-„categorie 2” geschrapt; het adviescomité PCAC stemde in juli 2026 met 7 tegen 4 stemmen voor opname in de lijst van toegestane grondstoffen voor bereidingen, tegen de aanbeveling van de deskundigen van de FDA in. Een toelating als geneesmiddel is dat niet (stand oktober 2026, actuele situatie controleren).
+- **Registratie EU:** nee.
+- **Registratie VS:** nee. In april 2026 van de FDA-„categorie 2” geschrapt; het adviescomité PCAC stemde in juli 2026 met 7 tegen 4 stemmen voor opname in de lijst van toegestane grondstoffen voor bereidingen, tegen de aanbeveling van de deskundigen van de FDA in. Een toelating als geneesmiddel is dat niet (stand oktober 2026, actuele situatie controleren).
 - **WADA:** niet bij naam vermeld; als nergens als geneesmiddel toegelaten stof valt epitalon naar onze inschatting onder de verzamelcategorie S0 (stand 2026, actuele situatie controleren).
 - **Bewijsniveau:** **C** – slechts één kleine gecontroleerde studie met het synthetische peptide bij mensen; de overige gegevens bij mensen betreffen het extract epithalamine of cellen in de reageerbuis.
 
 ### Hoe het zou moeten werken
 
-De pijnappelklier is een klein orgaan in de hersenen dat 's nachts het hormoon melatonine aanmaakt en daarmee het dag-nachtritme mede stuurt. Op oudere leeftijd neemt de aanmaak van melatonine af. De groep in Sint-Petersburg ging ervan uit dat korte peptiden uit organen als „bioregulatoren” de functie van precies die organen kunnen herstellen – uit de pijnappelklier voor de pijnappelklier, uit de thymus voor het immuunsysteem (zie ook het hoofdstuk Thymalin in Deel II · B).
+De pijnappelklier is een klein orgaan in de hersenen dat 's nachts het hormoon melatonine aanmaakt en daarmee het dag-nachtritme mede stuurt. Op oudere leeftijd neemt de aanmaak van melatonine af. De groep in Sint-Petersburg ging ervan uit dat korte peptiden uit organen als „bioregulatoren” de functie van precies die organen kunnen herstellen – uit de pijnappelklier voor de pijnappelklier, uit de thymus voor het immuunsysteem (zie ook het hoofdstuk Thymaline en thymogen in Deel II · B).
 
 Voor epitalon worden meerdere mechanismen beschreven, bijna allemaal uit laboratorium- en dierproeven van de ontwikkelaarsgroep:
 

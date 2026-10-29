@@ -7,7 +7,7 @@ Macimoreline is het meest nuchtere lid van deze groep – en juist daarom een go
 - **Soort en structuur:** klein peptideachtig molecuul (peptidomimeticum) dat na inslikken werkzaam is (Piccoli 2007, PMID 17284637). Eerdere aanduidingen: EP01572, ARD-07, AEZS-130.
 - **Herkomst:** ontwikkeld uit het onderzoek naar oraal werkzame groeihormoonvrijmakers; toegelaten op aanvraag van Aeterna Zentaris.
 - **Werkingsprincipe:** agonist op de ghrelinereceptor (GHS-R1a); veroorzaakt eenmalig een afgifte van groeihormoon waarvan de hoogte het prestatievermogen van de hypofyse weerspiegelt.
-- **Toelating VS:** ja (Macrilen, sinds 2017) voor de diagnose van groeihormoontekort bij volwassenen. **Toelating EU:** ja (centraal toegelaten in 2019) voor dezelfde indicatie. Voor de actuele beschikbaarheid in afzonderlijke landen zie hieronder.
+- **Registratie VS:** ja (Macrilen, sinds 2017) voor de diagnose van groeihormoontekort bij volwassenen. **Registratie EU:** ja (centraal toegelaten in 2019) voor dezelfde indicatie. Voor de actuele beschikbaarheid in afzonderlijke landen zie hieronder.
 - **WADA:** verboden, groep S2 (groeihormoonsecretagogen; macimoreline wordt uitdrukkelijk genoemd).
 - **Bewijsniveau: A** – twee fase 3-studies naar de diagnostische nauwkeurigheid, toelating in de VS en de EU. Beperking: het gaat om een diagnosticum, niet om een therapie.
 

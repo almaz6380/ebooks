@@ -7,7 +7,7 @@ Hexareline is een naaste verwant van GHRP-6 – en een van de sterkste kunstmati
 - **Soort en structuur:** synthetisch hexapeptide His-D-2-methyl-Trp-Ala-Trp-D-Phe-Lys-NH2; het verschilt van GHRP-6 door een extra methylgroep aan de tweede bouwsteen (Imbimbo 1994, PMID 7957536).
 - **Herkomst:** begin jaren negentig ontwikkeld als variant van GHRP-6; een groot deel van het klinisch onderzoek komt van Italiaanse universitaire centra.
 - **Werkingsprincipe:** agonist op de ghrelinereceptor (GHS-R1a); maakt groeihormoon, ACTH, cortisol en prolactine vrij. Daarnaast bindt hexareline aan de receptor CD36 in hartweefsel, via welke GH-onafhankelijke effecten op het hart worden vermoed (Mao 2014, PMID 25278975).
-- **Toelating EU:** nee. **Toelating VS:** nee.
+- **Registratie EU:** nee. **Registratie VS:** nee.
 - **WADA:** verboden, groep S2 – hexareline wordt als groeihormoonvrijmakend peptide uitdrukkelijk genoemd.
 - **Bewijsniveau: C** – talrijke kleine studies, veel daarvan gerandomiseerd, maar vrijwel uitsluitend met enkele doses en hormonale of circulatiefysiologische meetwaarden; geen studie naar een klinisch eindpunt.
 

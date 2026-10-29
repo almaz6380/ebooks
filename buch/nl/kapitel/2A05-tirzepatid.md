@@ -4,7 +4,7 @@
 
 - **Soort/structuur:** synthetisch peptide waarvan het basisskelet is gemodelleerd naar het lichaamseigen darmhormoon GIP; een aangehangen vetzuurketen bindt het in het bloed aan albumine en verlengt de werkingsduur zo ver dat één injectie per week volstaat.
 - **Herkomst:** ontwikkeld door Eli Lilly, in vroege studies aangeduid met de code LY3298176.
-- **Werkingsprincipe:** dubbele agonist (activator) van twee receptoren: de GIP-receptor en de GLP-1-receptor. Daarom ook „twincretine“ of „duale incretineagonist“ genoemd.
+- **Werkingsprincipe:** dubbele agonist (activator) van twee receptoren: de GIP-receptor en de GLP-1-receptor. Daarom ook „twincretine” of „duale incretineagonist” genoemd.
 - **Registratie EU:** ja (Mounjaro) voor diabetes type 2 en voor gewichtsbeheersing bij obesitas en overgewicht met bijkomende aandoeningen.
 - **Registratie VS:** ja (Mounjaro voor diabetes type 2; Zepbound voor obesitas en voor matige tot ernstige obstructieve slaapapneu bij obesitas).
 - **WADA:** niet op de verboden lijst (stand 2026, actuele situatie controleren).
@@ -12,17 +12,17 @@
 
 ### Hoe het zou moeten werken
 
-Na een maaltijd geeft de darm twee hormonen af die men incretines noemt: GLP-1 (glucagon-like peptide-1) en GIP (glucoseafhankelijk insulinotroop polypeptide). Beide melden de alvleesklier „er komt voedsel“ en versterken de insulineafgifte – maar alleen zolang de bloedsuiker verhoogd is. Dat is de reden waarom incretinegeneesmiddelen op zichzelf zelden hypoglykemieën veroorzaken. GLP-1 remt daarnaast de maaglediging en werkt in de hersenen op verzadigingscentra. Welke rol GIP bij de eetlust speelt, is minder duidelijk en was lang omstreden; in sommige oudere publicaties gold GIP zelfs eerder als „dikmakend hormoon“.
+Na een maaltijd geeft de darm twee hormonen af die men incretines noemt: GLP-1 (glucagon-like peptide-1) en GIP (glucoseafhankelijk insulinotroop polypeptide). Beide melden de alvleesklier „er komt voedsel” en versterken de insulineafgifte – maar alleen zolang de bloedsuiker verhoogd is. Dat is de reden waarom incretinegeneesmiddelen op zichzelf zelden hypoglykemieën veroorzaken. GLP-1 remt daarnaast de maaglediging en werkt in de hersenen op verzadigingscentra. Welke rol GIP bij de eetlust speelt, is minder duidelijk en was lang omstreden; in sommige oudere publicaties gold GIP zelfs eerder als „dikmakend hormoon”.
 
-Tirzepatide combineert beide signalen in één enkel molecuul. Laboratoriumonderzoek met cellijnen liet twee bijzonderheden zien (Willard 2020, PMID 32730231): ten eerste is tirzepatide „onevenwichtig“ – bij de concentraties die met behandeldoses worden bereikt, bezet het de GIP-receptor sterker dan de GLP-1-receptor. Ten tweede activeert het op de GLP-1-receptor bij voorkeur een bepaalde signaalroute (cAMP) en veroorzaakt het minder receptorinternalisatie, waarbij de receptor naar het celinnerste wordt getrokken en daarmee tijdelijk uitgeschakeld. Of deze „scheve“ signaaloverdracht bij de mens een rol speelt, is een hypothese op basis van laboratoriumgegevens.
+Tirzepatide combineert beide signalen in één enkel molecuul. Laboratoriumonderzoek met cellijnen liet twee bijzonderheden zien (Willard 2020, PMID 32730231): ten eerste is tirzepatide „onevenwichtig” – bij de concentraties die met behandeldoses worden bereikt, bezet het de GIP-receptor sterker dan de GLP-1-receptor. Ten tweede activeert het op de GLP-1-receptor bij voorkeur een bepaalde signaalroute (cAMP) en veroorzaakt het minder receptorinternalisatie, waarbij de receptor naar het celinnerste wordt getrokken en daarmee tijdelijk uitgeschakeld. Of deze „scheve” signaaloverdracht bij de mens een rol speelt, is een hypothese op basis van laboratoriumgegevens.
 
 Bij muizen met overgewicht verbeterde tirzepatide de insulinegevoeligheid sterker dan een zuivere GLP-1-agonist, en wel deels onafhankelijk van het gewichtsverlies – via de GIP-receptor en een betere glucoseopname in het vetweefsel (Samms 2021, PMID 34003802). Bij de mens daalt onder tirzepatide vooral de voedselinname; in een studie met 117 mensen met diabetes type 2 namen onder tirzepatide eetlust, energie-inname en vetmassa af ten opzichte van placebo. Wat de eetlust betreft verschilde het echter niet meetbaar van semaglutide, hoewel het gewichtsverlies groter was – de auteurs achten daarom andere mechanismen mogelijk (Heise 2023, PMID 36857477).
 
-Eenvoudig gezegd: tirzepatide werkt als een GLP-1-geneesmiddel met een extra GIP-„versterker“. De studies laten zien dat dit pakket bij gewicht en bloedsuiker meer bereikt dan de tot nu toe beschikbare zuivere GLP-1-agonisten – waarom precies, is nog niet volledig begrepen.
+Eenvoudig gezegd: tirzepatide werkt als een GLP-1-geneesmiddel met een extra GIP-„versterker”. De studies laten zien dat dit pakket bij gewicht en bloedsuiker meer bereikt dan de tot nu toe beschikbare zuivere GLP-1-agonisten – waarom precies, is nog niet volledig begrepen.
 
 ### Studies bij mensen
 
-**Omvang van het onderzoek:** de geautomatiseerde PubMed-zoekopdracht (oktober 2026) leverde 144 als studies bij mensen geclassificeerde publicaties op met „tirzepatide“ in titel of abstract, daarnaast zeer veel overzichtsartikelen en meta-analyses. Op ClinicalTrials.gov waren 307 studies geregistreerd, waarvan meer dan 100 nog in de werving (een overduidelijk fictieve voorbeeldregistratie van een onbekende sponsor is niet meegeteld). Tirzepatide behoort daarmee tot de best onderzochte werkzame stoffen in dit boek. Het zwaartepunt ligt bij twee registratieprogramma's: **SURPASS** (diabetes type 2) en **SURMOUNT** (obesitas), aangevuld met studies naar hartfalen, slaapapneu en leververvetting.
+**Omvang van het onderzoek:** de geautomatiseerde PubMed-zoekopdracht (oktober 2026) leverde 144 als studies bij mensen geclassificeerde publicaties op met „tirzepatide” in titel of abstract, daarnaast zeer veel overzichtsartikelen en meta-analyses. Op ClinicalTrials.gov waren 307 studies geregistreerd, waarvan meer dan 100 nog in de werving (een overduidelijk fictieve voorbeeldregistratie van een onbekende sponsor is niet meegeteld). Tirzepatide behoort daarmee tot de best onderzochte werkzame stoffen in dit boek. Het zwaartepunt ligt bij twee registratieprogramma's: **SURPASS** (diabetes type 2) en **SURMOUNT** (obesitas), aangevuld met studies naar hartfalen, slaapapneu en leververvetting.
 
 #### Van het laboratorium naar de kliniek: fase 1 en 2
 
@@ -60,7 +60,7 @@ Het primaire eindpunt – cardiovasculaire dood, hartinfarct of beroerte – tra
 
 Een achteraf uitgevoerde (post hoc) analyse met een breder eindpunt uit zes componenten – overlijden door welke oorzaak ook, hartinfarct, beroerte, revascularisatie, ziekenhuisopname wegens hartfalen en niergebeurtenissen – vond na een mediane behandelduur van bijna vier jaar gebeurtenissen bij 23,7% tegenover 27,4% (hazard ratio 0,84; 95%-BI 0,79–0,90) (Nissen 2026, PMID 41903177). Post-hocanalyses zijn hypothesevormend; ze kunnen een vooraf vastgelegde primaire analyse niet vervangen.
 
-Hoe groot het nut ten opzichte van *geen* behandeling zou zijn, valt uit een vergelijking met een werkzaam geneesmiddel niet direct af te lezen. Een vooraf geplande, maar indirecte analyse berekende een „placebo-arm“ uit de gegevens van de REWIND-studie en kwam voor tirzepatide ten opzichte van deze berekende placebo uit op een hazard ratio van 0,72 (95%-BI 0,55–0,94) voor cardiovasculaire dood, hartinfarct of beroerte (Sattar 2026, PMID 41940793). Zulke modelberekeningen berusten op aannames en vervangen geen echte placebovergelijking.
+Hoe groot het nut ten opzichte van *geen* behandeling zou zijn, valt uit een vergelijking met een werkzaam geneesmiddel niet direct af te lezen. Een vooraf geplande, maar indirecte analyse berekende een „placebo-arm” uit de gegevens van de REWIND-studie en kwam voor tirzepatide ten opzichte van deze berekende placebo uit op een hazard ratio van 0,72 (95%-BI 0,55–0,94) voor cardiovasculaire dood, hartinfarct of beroerte (Sattar 2026, PMID 41940793). Zulke modelberekeningen berusten op aannames en vervangen geen echte placebovergelijking.
 
 #### SURMOUNT: obesitas
 
@@ -79,7 +79,7 @@ In het obesitasprogramma werd tirzepatide onderzocht bij mensen met een body-mas
 
 **Mensen met diabetes type 2** verliezen met alle incretinegeneesmiddelen minder gewicht dan mensen zonder diabetes. Dat liet ook SURMOUNT-2 zien: het verschil met placebo bedroeg 9,6 respectievelijk 11,6 procentpunten (Garvey 2023, PMID 37385275).
 
-**Wat gebeurt er na het stoppen?** SURMOUNT-4 beantwoordde deze vraag met een „randomized withdrawal“-opzet: iedereen kreeg eerst 36 weken tirzepatide en verloor gemiddeld 20,9%. Daarna werd geloot wie verder tirzepatide en wie ongemerkt placebo kreeg. In de volgende 52 weken kwam de placebogroep 14,0% weer aan, de tirzepatidegroep verloor nog eens 5,5%. Over de hele studieduur bedroeg het gewichtsverlies 25,3% tegenover 9,9% (Aronne 2024, PMID 38078870). De boodschap van de auteurs: obesitas gedraagt zich als een chronische ziekte waarvan de behandeling meestal blijvend moet zijn.
+**Wat gebeurt er na het stoppen?** SURMOUNT-4 beantwoordde deze vraag met een „randomized withdrawal”-opzet: iedereen kreeg eerst 36 weken tirzepatide en verloor gemiddeld 20,9%. Daarna werd geloot wie verder tirzepatide en wie ongemerkt placebo kreeg. In de volgende 52 weken kwam de placebogroep 14,0% weer aan, de tirzepatidegroep verloor nog eens 5,5%. Over de hele studieduur bedroeg het gewichtsverlies 25,3% tegenover 9,9% (Aronne 2024, PMID 38078870). De boodschap van de auteurs: obesitas gedraagt zich als een chronische ziekte waarvan de behandeling meestal blijvend moet zijn.
 
 **Lagere onderhoudsdosis:** of men na het afvallen kan overstappen op een lagere dosis, onderzocht SURMOUNT-MAINTAIN met 378 gerandomiseerde personen in de VS. Na 60 weken op de hoogste dosis werden ze over drie groepen verdeeld. In week 112 lag het gewichtsverlies sinds het begin van de studie op −21,9% (hoogste dosis voortgezet), −16,6% (verlaging naar 5 mg) en −9,9% (placebo). Een noodbehandeling wegens hertoename van ten minste 50% hadden 8%, 25% respectievelijk 67% nodig (Horn 2026, PMID 42119587). Dosisverlaging is dus een tussenoplossing met individueel zeer wisselend succes.
 
@@ -94,7 +94,7 @@ De door velen verwachte directe vergelijking bij obesitas zonder diabetes leverd
 - Meer deelnemers met tirzepatide bereikten elk van de drempels 10, 15, 20 en 25%.
 - De bijwerkingen waren in beide groepen overwegend maag-darmklachten, meestal licht tot matig en vooral in de opbouwfase.
 
-Een nadere analyse liet zien dat 44% met tirzepatide en 21% met semaglutide tegen week 24 al ten minste 15% was afgevallen („snelle responders“). Zij hadden iets meer maag-darm- en galweggebeurtenissen, maar stopten niet vaker met de behandeling (Aronne 2026, PMID 41865857).
+Een nadere analyse liet zien dat 44% met tirzepatide en 21% met semaglutide tegen week 24 al ten minste 15% was afgevallen („snelle responders”). Zij hadden iets meer maag-darm- en galweggebeurtenissen, maar stopten niet vaker met de behandeling (Aronne 2026, PMID 41865857).
 
 Ter plaatsing: SURMOUNT-5 werd gefinancierd door de fabrikant van tirzepatide en open uitgevoerd. Het verschil is toch groot genoeg dat het nauwelijks alleen door deze beperkingen te verklaren is. Een vergelijking van alle GLP-1-geneesmiddelen vindt u in deel III.
 
@@ -153,14 +153,14 @@ Zoals bij alle langwerkende GLP-1-agonisten traden in langetermijnstudies bij kn
 
 **Belangrijk voor de praktijk (volgens de productinformatie, niet bedoeld als instructie):** de vertraagde maaglediging kan de opname van tabletten beïnvloeden, wat bijvoorbeeld relevant is voor de anticonceptiepil. Tijdens zwangerschap en borstvoeding wordt tirzepatide niet gebruikt. Vóór operaties onder narcose moet rekening worden gehouden met de vertraagde maaglediging. Over alle details informeren de productinformatie en de behandelend arts.
 
-**Nagemaakte producten:** tijdens de leveringstekorten van 2022 tot 2024 werden in de VS tirzepatidebereidingen in apotheken gemaakt („compounding“), tegelijk ontstond een grote online grijze markt. Een onderzoek uit 2025 vond 33 bereidingen met semaglutide of tirzepatide in toedieningsvormen die niet geregistreerd zijn – zoals zuigtabletten of mengsels met vitaminen; gegevens over werkzaamheid en veiligheid ontbreken voor deze producten (Belcourt 2026, PMID 41689811). Voor „research“-waar zonder registratie als geneesmiddel geldt dat in nog sterkere mate (zie deel I en deel IV).
+**Nagemaakte producten:** tijdens de leveringstekorten van 2022 tot 2024 werden in de VS tirzepatidebereidingen in apotheken gemaakt („compounding”), tegelijk ontstond een grote online grijze markt. Een onderzoek uit 2025 vond 33 bereidingen met semaglutide of tirzepatide in toedieningsvormen die niet geregistreerd zijn – zoals zuigtabletten of mengsels met vitaminen; gegevens over werkzaamheid en veiligheid ontbreken voor deze producten (Belcourt 2026, PMID 41689811). Voor „research”-waar zonder registratie als geneesmiddel geldt dat in nog sterkere mate (zie deel I en deel IV).
 
 ### Juridische status
 
 - **EU / Oostenrijk / Duitsland:** tirzepatide is als Mounjaro centraal in de EU geregistreerd (2022 voor diabetes type 2, sinds eind 2023 ook voor gewichtsbeheersing). Het is receptplichtig. Of de zorgverzekeraar de kosten vergoedt, hangt af van het toepassingsgebied: voor diabetes type 2 is vergoeding in principe mogelijk; geneesmiddelen voor gewichtsvermindering zijn in Duitsland wettelijk grotendeels van vergoeding uitgesloten, in Oostenrijk gelden eigen, restrictieve regels. Details veranderen – actuele situatie controleren.
 - **VS:** geregistreerd als Mounjaro (2022, diabetes type 2) en als Zepbound (2023, chronische gewichtsbeheersing; 2024 daarnaast obstructieve slaapapneu bij obesitas). Na het einde van het officiële leveringstekort heeft de FDA het maken van kopieën in apotheken sterk ingeperkt.
 - **Sport:** tirzepatide staat niet op de verboden lijst van het WADA (stand 2026, actuele situatie controleren).
-- **Grijze markt:** de handel in niet-geregistreerde tirzepatideproducten („for research use only“) is in de EU geen legale weg naar een geneesmiddel; de producten zijn aan geen enkele kwaliteitscontrole onderworpen.
+- **Grijze markt:** de handel in niet-geregistreerde tirzepatideproducten („for research use only”) is in de EU geen legale weg naar een geneesmiddel; de producten zijn aan geen enkele kwaliteitscontrole onderworpen.
 
 ### Lopende studies en vooruitzichten
 

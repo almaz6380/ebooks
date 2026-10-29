@@ -7,7 +7,7 @@ GHRP-2 is een klein kunstmatig peptide van zes aminozuren dat de hypofyse kracht
 - **Soort en structuur:** synthetisch hexapeptide (D-Ala-D-2-Nal-Ala-Trp-D-Phe-Lys-NH2) met meerdere niet-natuurlijke aminozuren; ontwikkelingsnamen KP-102 en GPA-748, internationale generieke naam pralmoreline (Doi 2004, PMID 15646370).
 - **Herkomst:** in de jaren negentig ontwikkeld uit de door Cyril Bowers (Tulane University, VS) gegrondveste reeks van GH-vrijmakende peptiden; rechten bij Kaken (Japan) (anoniem stofprofiel in Drugs R D 2004, PMID 15230633).
 - **Werkingsprincipe:** agonist op de ghrelinereceptor (GHS-R1a) in hypofyse en tussenhersenen; maakt groeihormoon vrij, in mindere mate ook ACTH, cortisol en prolactine; verhoogt de eetlust.
-- **Toelating EU:** nee. **Toelating VS:** nee. **Japan:** toegelaten als diagnosticum voor de functie van de hypofyse (stand 2026, actuele situatie controleren).
+- **Registratie EU:** nee. **Registratie VS:** nee. **Japan:** toegelaten als diagnosticum voor de functie van de hypofyse (stand 2026, actuele situatie controleren).
 - **WADA:** verboden, groep S2 – GHRP-2 (pralmoreline) wordt als groeihormoonvrijmakend peptide uitdrukkelijk genoemd.
 - **Bewijsniveau: B** – talrijke kleine gerandomiseerde studies naar de hormoonfysiologie en een validatiestudie als diagnosticum; geen gerandomiseerde studie naar een therapeutisch nut.
 

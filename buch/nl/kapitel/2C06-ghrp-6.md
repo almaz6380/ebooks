@@ -7,7 +7,7 @@ GHRP-6 is de stamvader van alle groeihormoonvrijmakende peptiden. In 1984 beschr
 - **Soort en structuur:** synthetisch hexapeptide His-D-Trp-Ala-Trp-D-Phe-Lys-NH2 met twee niet-natuurlijke D-aminozuren (Bowers 1984, PMID 6714155).
 - **Herkomst:** Tulane University (VS), begin jaren tachtig.
 - **Werkingsprincipe:** agonist op de ghrelinereceptor (GHS-R1a) in hypofyse en tussenhersenen; maakt groeihormoon vrij, daarnaast ACTH, cortisol en prolactine; verhoogt de eetlust.
-- **Toelating EU:** nee. **Toelating VS:** nee. Ook elders nergens als geneesmiddel toegelaten (stand 2026).
+- **Registratie EU:** nee. **Registratie VS:** nee. Ook elders nergens als geneesmiddel toegelaten (stand 2026).
 - **WADA:** verboden, groep S2 – GHRP-6 wordt als groeihormoonvrijmakend peptide uitdrukkelijk genoemd.
 - **Bewijsniveau: C** – veel kleine studies naar hormoonfysiologie en diagnostiek met telkens 10 tot 250 personen, maar niet één gecontroleerde studie naar een therapeutisch nut.
 

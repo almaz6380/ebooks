@@ -23,7 +23,7 @@ Een belangrijk verschil met de latere werkzame stoffen: exenatide lijkt maar voo
 
 ### Studies bij mensen
 
-Het onderzoek naar exenatide is omvangrijk. De voor dit boek geanalyseerde PubMed-zoekopdracht (zoekterm „exenatide“ in titel of abstract, zoekdatum oktober 2026) leverde 437 studies bij mensen op; op ClinicalTrials.gov staan 379 registraties met exenatide. Veel daarvan zijn kleine mechanisme- of combinatiestudies. Voor de beoordeling zijn vooral drie groepen van belang: de registratieprogramma's AMIGO (tweemaal-daagse vorm) en DURATION (weekvorm), de cardiovasculaire uitkomststudie EXSCEL en een reeks studies buiten diabetes, in het bijzonder bij de ziekte van Parkinson.
+Het onderzoek naar exenatide is omvangrijk. De voor dit boek geanalyseerde PubMed-zoekopdracht (zoekterm „exenatide” in titel of abstract, zoekdatum oktober 2026) leverde 437 studies bij mensen op; op ClinicalTrials.gov staan 379 registraties met exenatide. Veel daarvan zijn kleine mechanisme- of combinatiestudies. Voor de beoordeling zijn vooral drie groepen van belang: de registratieprogramma's AMIGO (tweemaal-daagse vorm) en DURATION (weekvorm), de cardiovasculaire uitkomststudie EXSCEL en een reeks studies buiten diabetes, in het bijzonder bij de ziekte van Parkinson.
 
 #### De AMIGO-studies: de start van de klasse
 
@@ -36,7 +36,7 @@ Drie placebogecontroleerde studies van elk 30 weken vormden de basis van de eers
 | Kendall 2005, PMID 15855571 | diabetes type 2 met metformine plus sulfonylureumderivaat, RCT | 30 weken | HbA1c −0,8 vs. +0,2; lichte hypoglykemieën 28% vs. 13% |
 | Heine 2005, PMID 16230722 | 551 personen, open vergelijking met insuline glargine | 26 weken | HbA1c telkens −1,11; gewicht −2,3 kg vs. +1,8 kg |
 
-De HbA1c-waarde (langetermijnsuiker) beschrijft het aandeel „versuikerde“ rode bloedkleurstof en weerspiegelt de bloedsuiker van de afgelopen twee tot drie maanden. Een daling met 0,8 tot 1 procentpunt gold destijds als klinisch betekenisvol. Nieuw was dat het gewicht niet steeg, zoals bij insuline of sulfonylureumderivaten gebruikelijk, maar daalde. De studie van Kendall laat echter ook zien: in combinatie met een sulfonylureumderivaat, dat onafhankelijk van de bloedsuiker insuline vrijmaakt, namen lichte hypoglykemieën toe.
+De HbA1c-waarde (langetermijnsuiker) beschrijft het aandeel „versuikerde” rode bloedkleurstof en weerspiegelt de bloedsuiker van de afgelopen twee tot drie maanden. Een daling met 0,8 tot 1 procentpunt gold destijds als klinisch betekenisvol. Nieuw was dat het gewicht niet steeg, zoals bij insuline of sulfonylureumderivaten gebruikelijk, maar daalde. De studie van Kendall laat echter ook zien: in combinatie met een sulfonylureumderivaat, dat onafhankelijk van de bloedsuiker insuline vrijmaakt, namen lichte hypoglykemieën toe.
 
 In de directe vergelijking met insuline glargine (Heine 2005, PMID 16230722) verlaagden beide behandelingen de HbA1c even sterk. Het gewichtsverschil bedroeg 4,1 kg in het voordeel van exenatide, nachtelijke hypoglykemieën waren zeldzamer (0,9 vs. 2,4 voorvallen per patiëntjaar). De prijs: misselijkheid trad op bij 57,1% tegenover 8,6%, braken bij 17,4% tegenover 3,7%. 19,4% van de exenatidegroep stopte met de studie, tegenover 9,7% met insuline.
 
@@ -60,7 +60,7 @@ In DURATION-2 (Bergenstal 2010, PMID 20580422) was de weekvorm superieur aan twe
 
 Voor de plaatsbepaling van exenatide zijn de head-to-headstudies met latere werkzame stoffen bijzonder verhelderend. Ze laten zien dat exenatide weliswaar werkzaam is, maar door de opvolgers wordt overtroffen.
 
-In **DURATION-6** (Buse 2013, PMID 23141817) nam de weekvorm het op tegen liraglutide eenmaal per dag. Liraglutide verlaagde de HbA1c met 1,48 procentpunt, exenatide met 1,28. Het verschil van 0,21 procentpunt haalde de vooraf vastgelegde grens voor „niet slechter“ niet. Daar stond tegenover dat exenatide beter werd verdragen: misselijkheid trad op bij 9% tegenover 21%, diarree bij 6% tegenover 13%, braken bij 4% tegenover 11%.
+In **DURATION-6** (Buse 2013, PMID 23141817) nam de weekvorm het op tegen liraglutide eenmaal per dag. Liraglutide verlaagde de HbA1c met 1,48 procentpunt, exenatide met 1,28. Het verschil van 0,21 procentpunt haalde de vooraf vastgelegde grens voor „niet slechter” niet. Daar stond tegenover dat exenatide beter werd verdragen: misselijkheid trad op bij 9% tegenover 21%, diarree bij 6% tegenover 13%, braken bij 4% tegenover 11%.
 
 In **SUSTAIN 3** (Ahmann 2018, PMID 29246950) verloor exenatide wekelijks over 56 weken duidelijk van semaglutide wekelijks. De HbA1c daalde met 0,9 tegenover 1,5 procentpunt, het gewicht met 1,9 tegenover 5,6 kg. Een HbA1c onder 7% bereikte 40% tegenover 67%. Maag-darmklachten waren onder exenatide iets zeldzamer (33,3% vs. 41,8%), reacties op de injectieplaats daarentegen veel vaker (22,0% vs. 1,2%).
 
@@ -153,7 +153,7 @@ Over de schildklier: bij ratten en muizen veroorzaken GLP-1-receptoragonisten ee
 
 ### Lopende studies en vooruitzichten
 
-**Vaststaand (geregistreerde studies):** exenatide is als diabetesmiddel grotendeels „uitonderzocht“; nieuwe registratiestudies voor deze indicatie zijn er nauwelijks nog. Actuele registraties betreffen vooral:
+**Vaststaand (geregistreerde studies):** exenatide is als diabetesmiddel grotendeels „uitonderzocht”; nieuwe registratiestudies voor deze indicatie zijn er nauwelijks nog. Actuele registraties betreffen vooral:
 
 - Afgeleiden van het molecuul: in China worden gepegyleerde varianten ontwikkeld. Voor PB-119 verlaagde een fase 2-studie met 251 deelnemers de HbA1c na 12 weken tot 1,18 procentpunt sterker dan placebo (Ji 2021, PMID 33687487). Een andere kandidaat, JY09 – exendine-4 gekoppeld aan een antilichaambouwsteen (Fc-fusie-eiwit), dat in de studies om de twee weken wordt geïnjecteerd –, wordt in fase 3-studies getest tegen placebo en tegen dulaglutide (NCT06254014, NCT06257966).
 - Neurologie: de gepegyleerde variant NLY01 wordt bij multiple sclerose onderzocht in een fase 2-studie met 120 deelnemers (NCT07497399).

@@ -5,8 +5,8 @@
 - **Soort en structuur:** synthetisch heptapeptide (zeven aminozuren: Met-Glu-His-Phe-Pro-Gly-Pro). De eerste vier bouwstenen komen overeen met een fragment van het stresshormoon ACTH (adrenocorticotroop hormoon, gedeelte 4–7); daaraan is het tripeptide Pro-Gly-Pro gekoppeld, dat de afbraak moet vertragen.
 - **Herkomst:** ontwikkeld vanaf de jaren tachtig aan het Instituut voor Moleculaire Genetica van de Russische Academie van Wetenschappen in Moskou.
 - **Werkingsprincipe:** zou de aanmaak van zenuwgroeifactoren (vooral BDNF) stimuleren en zenuwcellen bij zuurstoftekort beschermen; anders dan ACTH zet het de bijnier niet aan tot afgifte van cortisol. Het wordt toegediend als neusdruppels.
-- **Toelating EU:** nee.
-- **Toelating VS:** nee. Semax stond vanaf 2023 op de FDA-lijst van stoffen met mogelijke veiligheidsrisico's voor apotheekbereidingen („categorie 2”), werd in april 2026 daarvan geschrapt en in juli 2026 door het adviescomité PCAC nipt aanbevolen voor opname in de lijst van toegestane grondstoffen voor bereidingen. Een toelating als geneesmiddel is dat niet.
+- **Registratie EU:** nee.
+- **Registratie VS:** nee. Semax stond vanaf 2023 op de FDA-lijst van stoffen met mogelijke veiligheidsrisico's voor apotheekbereidingen („categorie 2”), werd in april 2026 daarvan geschrapt en in juli 2026 door het adviescomité PCAC nipt aanbevolen voor opname in de lijst van toegestane grondstoffen voor bereidingen. Een toelating als geneesmiddel is dat niet.
 - **Rusland en enkele buurlanden:** als geneesmiddel geregistreerd (neusdruppels; 0,1%-oplossing als nootropicum, 1%-oplossing voor beroerte).
 - **WADA:** niet bij naam vermeld. Omdat Semax in Rusland is toegelaten, valt het niet eenduidig onder de verzamelcategorie S0 voor niet-toegelaten stoffen (stand 2026, actuele situatie controleren).
 - **Bewijsniveau:** **C** – enkele kleine, overwegend niet-gerandomiseerde studies uit Russische centra.

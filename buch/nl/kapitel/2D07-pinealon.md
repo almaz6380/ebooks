@@ -5,8 +5,8 @@
 - **Soort en structuur:** synthetisch tripeptide van drie aminozuren: Glu-Asp-Arg (afgekort EDR).
 - **Herkomst:** ontwikkeld aan het Instituut voor Bioregulatie en Gerontologie in Sint-Petersburg (groep rond Vladimir Chavinson, die ook epitalon heeft ontwikkeld). De naam verwijst naar de pijnappelklier (glandula pinealis), hoewel het peptide vooral als beschermende stof voor zenuwcellen wordt beschreven.
 - **Werkingsprincipe:** zou als „korte peptidebioregulator” cellen en celkernen binnendringen, aan DNA of histonen binden en zo de activiteit beïnvloeden van genen die zenuwcellen beschermen tegen oxidatieve stress en celdood.
-- **Toelating EU:** nee.
-- **Toelating VS:** nee.
+- **Registratie EU:** nee.
+- **Registratie VS:** nee.
 - **Rusland:** op de markt gebracht als bestanddeel van zogeheten „cytogenen” in capsulevorm, dus eerder als voedingssupplement dan als getest geneesmiddel.
 - **WADA:** niet bij naam vermeld; een niet als geneesmiddel toegelaten werkzame stof kan onder de verzamelcategorie S0 vallen (stand 2026, actuele situatie controleren).
 - **Bewijsniveau:** **C** – enkele kleine, niet-gerandomiseerde Russische observationele studies met surrogaatmaten zoals „biologische leeftijd”.

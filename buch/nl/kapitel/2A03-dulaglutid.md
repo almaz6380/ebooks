@@ -23,7 +23,7 @@ Een nadeel van de grootte: het molecuul komt vermoedelijk slechter in de herseng
 
 ### Studies bij mensen
 
-De voor dit boek geanalyseerde PubMed-zoekopdracht (zoekterm „dulaglutide“ in titel of abstract, zoekdatum oktober 2026) leverde 158 studies bij mensen op, ClinicalTrials.gov vermeldt 143 registraties. Het aantal is kleiner dan bij liraglutide of semaglutide, maar de studies zijn bijzonder systematisch opgezet: het AWARD-programma (Assessment of Weekly AdministRation of LY2189265 in Diabetes) testte dulaglutide tegen bijna elke gangbare diabetestherapie. Opvallend is bovendien hoe vaak dulaglutide zelf als vergelijkingsmiddel dient voor nieuwere werkzame stoffen – van semaglutide via tirzepatide tot Chinese nieuwe ontwikkelingen.
+De voor dit boek geanalyseerde PubMed-zoekopdracht (zoekterm „dulaglutide” in titel of abstract, zoekdatum oktober 2026) leverde 158 studies bij mensen op, ClinicalTrials.gov vermeldt 143 registraties. Het aantal is kleiner dan bij liraglutide of semaglutide, maar de studies zijn bijzonder systematisch opgezet: het AWARD-programma (Assessment of Weekly AdministRation of LY2189265 in Diabetes) testte dulaglutide tegen bijna elke gangbare diabetestherapie. Opvallend is bovendien hoe vaak dulaglutide zelf als vergelijkingsmiddel dient voor nieuwere werkzame stoffen – van semaglutide via tirzepatide tot Chinese nieuwe ontwikkelingen.
 
 #### Het AWARD-programma
 
@@ -84,7 +84,7 @@ In een meta-analyse van alle grote GLP-1-uitkomststudies paste REWIND goed in he
 
 #### Wat verklaart het nut – en wat niet?
 
-Meerdere achteraf uitgevoerde analyses van REWIND probeerden het cardiovasculaire effect beter te begrijpen. In een deelanalyse met 9.543 personen zonder boezemfibrilleren bij aanvang van de studie had 31% al een hart- en vaatziekte, de overigen „alleen“ risicofactoren (Raubenheimer 2022, PMID 34984808). Dat onderstreept dat REWIND veel meer dan andere uitkomststudies mensen in de preventie onderzocht.
+Meerdere achteraf uitgevoerde analyses van REWIND probeerden het cardiovasculaire effect beter te begrijpen. In een deelanalyse met 9.543 personen zonder boezemfibrilleren bij aanvang van de studie had 31% al een hart- en vaatziekte, de overigen „alleen” risicofactoren (Raubenheimer 2022, PMID 34984808). Dat onderstreept dat REWIND veel meer dan andere uitkomststudies mensen in de preventie onderzocht.
 
 | Analyse | Vraag | Resultaat |
 |---|---|---|
@@ -107,7 +107,7 @@ Omdat dulaglutide wereldwijd breed wordt gebruikt, goed wordt verdragen en een a
 | Guo 2026, PMID 41407860 | 731 personen in China; mazdutide vs. dulaglutide 1,5 mg | 28 weken | HbA1c-verschil −0,24 resp. −0,30 procentpunt in het voordeel van mazdutide |
 | EECOH-2 (He 2025), PMID 40854315 | 621 personen in China; ecnoglutide vs. dulaglutide 1,5 mg | 52 weken (primair eindpunt 32) | HbA1c −1,89 tot −1,91 vs. −1,65 |
 
-Bijzonder verhelderend is SURPASS-CVOT (Nicholls 2025, PMID 41406444), de eerste grote uitkomststudie waarin twee incretinegeneesmiddelen het rechtstreeks tegen elkaar opnamen. Tirzepatide was niet slechter, maar ook niet aantoonbaar beter dan dulaglutide. Omdat dulaglutide zelf in REWIND het risico had verlaagd, is een „gelijkspel“ tegen dulaglutide een sterk resultaat voor beide werkzame stoffen. Een achteraf uitgevoerde analyse met een breder hart-niereindpunt vond een voordeel voor tirzepatide (23,7% vs. 27,4%; HR 0,84) (Nissen 2026, PMID 41903177). Achteraf uitgevoerde analyses zijn echter minder solide dan het vooraf vastgelegde primaire eindpunt.
+Bijzonder verhelderend is SURPASS-CVOT (Nicholls 2025, PMID 41406444), de eerste grote uitkomststudie waarin twee incretinegeneesmiddelen het rechtstreeks tegen elkaar opnamen. Tirzepatide was niet slechter, maar ook niet aantoonbaar beter dan dulaglutide. Omdat dulaglutide zelf in REWIND het risico had verlaagd, is een „gelijkspel” tegen dulaglutide een sterk resultaat voor beide werkzame stoffen. Een achteraf uitgevoerde analyse met een breder hart-niereindpunt vond een voordeel voor tirzepatide (23,7% vs. 27,4%; HR 0,84) (Nissen 2026, PMID 41903177). Achteraf uitgevoerde analyses zijn echter minder solide dan het vooraf vastgelegde primaire eindpunt.
 
 #### Gebruik: de voorgevulde pen
 

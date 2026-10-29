@@ -2,7 +2,7 @@
 
 Wie op internet naar peptiden zoekt, komt al snel terecht bij webwinkels, video's en fora waarin bepaalde stoffen in grote woorden worden beschreven: ze zouden pezen herstellen, het ouder worden afremmen, vet laten smelten of het geheugen aanscherpen. Dit hoofdstuk zet tegenover zulke typische reclamebeloften wat studies bij mensen werkelijk hebben aangetoond.
 
-Gekozen zijn de peptiden die in 2026 op het Duits- en Engelstalige internet het vaakst worden aangeprezen. De beloften zijn algemeen geformuleerd en vatten terugkerende beweringen samen; ze zijn niet afkomstig van een bepaalde aanbieder. De kolom „Wat de studies bij mensen laten zien“ berust op de hoofdstukken in Deel II, waarin de bronnen uitvoerig worden besproken. Dierproeven en laboratoriumresultaten zijn uitdrukkelijk als zodanig aangeduid.
+Gekozen zijn de peptiden die in 2026 op het Duits- en Engelstalige internet het vaakst worden aangeprezen. De beloften zijn algemeen geformuleerd en vatten terugkerende beweringen samen; ze zijn niet afkomstig van een bepaalde aanbieder. De kolom „Wat de studies bij mensen laten zien” berust op de hoofdstukken in Deel II, waarin de bronnen uitvoerig worden besproken. Dierproeven en laboratoriumresultaten zijn uitdrukkelijk als zodanig aangeduid.
 
 Een opmerking vooraf: dat een voordeel niet is aangetoond, betekent niet automatisch dat een stof niet werkt. Het betekent dat niemand het weet – ook de aanbieders niet die haar verkopen. Evenzo geldt: dat er geen bijwerkingen zijn gepubliceerd, betekent bij nauwelijks onderzochte stoffen niet dat ze veilig zijn, maar alleen dat niemand er systematisch naar heeft gezocht.
 
@@ -12,10 +12,10 @@ Een opmerking vooraf: dat een voordeel niet is aangetoond, betekent niet automat
 |---|---|---|---|
 | BPC-157 | Versnelt het herstel van pezen, banden, spieren en darm | Drie ongecontroleerde onderzoeken met samen 30 personen (knie, urineblaas, verdraagbaarheid); bewijskracht volgens een systematisch overzicht zeer laag (Poolton 2026, PMID 42885452). De vele positieve resultaten komen uit dierproeven, overwegend van één enkele onderzoeksgroep. | C |
 | TB-500 | Herstelt weefsel, pezen en spieren, maakt soepeler | TB-500 is nooit in een gepubliceerde studie bij mensen getest. Het volledige eiwit thymosine bèta-4 verkleinde na een hartinfarct de infarctgrootte in totaal niet significant (Zhang 2025, PMID 41229390). Grijze-marktproducten bevatten niet steeds wat werd opgegeven (Delcourt 2023, PMID 36482504). | D (TB-500) |
-| CJC-1295 | Verhoogt het groeihormoon voor spieropbouw, vetverlies en slaap | Bij gezonde mensen stegen groeihormoon en IGF-1 na een enkele injectie gedurende ongeveer zes tot elf dagen (Teichman 2006, PMID 16352683). Of daar een voordeel uit volgt, is nooit onderzocht. Voor de meest verkochte variant zonder „DAC“ bestaat geen studie bij mensen. | C |
+| CJC-1295 | Verhoogt het groeihormoon voor spieropbouw, vetverlies en slaap | Bij gezonde mensen stegen groeihormoon en IGF-1 na een enkele injectie gedurende ongeveer zes tot elf dagen (Teichman 2006, PMID 16352683). Of daar een voordeel uit volgt, is nooit onderzocht. Voor de meest verkochte variant zonder „DAC” bestaat geen studie bij mensen. | C |
 | Ipamoreline | Milde groeihormoonbooster zonder bijwerkingen | Enige gepubliceerde werkzaamheidsstudie: 117 personen na een darmoperatie, geen significant voordeel (Beck 2014, PMID 25331030). Over spieren, vet, slaap of veroudering geen studie bij mensen. | B |
 | Epitalon | Verlengt de telomeren en zet de biologische klok terug | Telomeerverlenging alleen in celkweken (Khavinson 2003, PMID 12937682). Bij muizen geen langere gemiddelde levensduur (Anisimov 2003, PMID 14501183). Geen voldoende grote gerandomiseerde studie bij mensen. | C |
-| MOTS-c | „Sport uit de spuit“: meer uithoudingsvermogen, minder vet, betere insulinewerking | Deze effecten werden gezien bij muizen (Lee 2015, PMID 25738459). Bij mensen zijn er alleen metingen van de lichaamseigen spiegels, geen gepubliceerde studie waarin MOTS-c werd toegediend. | D |
+| MOTS-c | „Sport uit de spuit”: meer uithoudingsvermogen, minder vet, betere insulinewerking | Deze effecten werden gezien bij muizen (Lee 2015, PMID 25738459). Bij mensen zijn er alleen metingen van de lichaamseigen spiegels, geen gepubliceerde studie waarin MOTS-c werd toegediend. | D |
 | Semax | Verhoogt concentratie, geheugen en prestatievermogen | Kleine, overwegend niet-gerandomiseerde Russische studies bij beroerte, bijvoorbeeld een studie met 110 personen (Gusev 2018, PMID 29798983). Voor gezonde mensen geen zeggingskrachtige gegevens. | C |
 | Selank | Neemt angst weg zonder vermoeidheid en verslaving | Drie kleine Russische studies zonder placebogroep, waaronder 62 personen in vergelijking met een benzodiazepine (Zozulia 2008, PMID 18454096). Studies naar concentratie bij gezonde mensen zijn er niet. | C |
 | Melanotan II | Bruin worden zonder zonnebrand, meer zin in seks | Kleine pilotstudies uit de jaren negentig met zo'n twee dozijn personen, vaak misselijkheid (Wessells 2000, PMID 11035391). Casusbeschrijvingen van nieuwe moedervlekken, melanomen en priapisme. Flesjes uit webwinkels bevatten 4,32 tot 8,84 in plaats van 10 mg (Breindahl 2015, PMID 24771717). | C |
@@ -43,7 +43,7 @@ Daar komt bij BPC-157 een tweede probleem bij: de positieve dierstudies komen ov
 
 #### 2. Een meetwaarde is nog geen voordeel
 
-CJC-1295 verhoogt het groeihormoon, Epitalon activeert in celkweken het telomerase, glutathioncapsules verhogen de glutathionspiegel in het bloed. Dat zijn vervangende meetwaarden („surrogaateindpunten“, zie Deel I). Of daar iets uit volgt dat voor mensen telt – meer spierkracht, een langer leven, minder ziekten –, is een aparte vraag die aparte studies vereist. Bij het groeihormoon laat het voorbeeld ibutamoren zien hoe groot de kloof kan zijn: bij 65 gezonde oudere mensen nam de vetvrije massa in een jaar met 1,1 kg toe, maar kracht en lichamelijk functioneren verbeterden niet (Nass 2008, PMID 18981485).
+CJC-1295 verhoogt het groeihormoon, Epitalon activeert in celkweken het telomerase, glutathioncapsules verhogen de glutathionspiegel in het bloed. Dat zijn vervangende meetwaarden („surrogaateindpunten”, zie Deel I). Of daar iets uit volgt dat voor mensen telt – meer spierkracht, een langer leven, minder ziekten –, is een aparte vraag die aparte studies vereist. Bij het groeihormoon laat het voorbeeld ibutamoren zien hoe groot de kloof kan zijn: bij 65 gezonde oudere mensen nam de vetvrije massa in een jaar met 1,1 kg toe, maar kracht en lichamelijk functioneren verbeterden niet (Nass 2008, PMID 18981485).
 
 #### 3. Verwisseling van stoffen
 
@@ -51,7 +51,7 @@ Meerdere beloften berusten op studies met een andere stof dan die welke wordt ve
 
 - **TB-500** is een gewijzigd fragment. De studies bij mensen betreffen het volledige eiwit thymosine bèta-4 – en ook die gaan nauwelijks over pezen, banden of spieren.
 - **Epitalon** is een synthetisch tetrapeptide. De vaak geciteerde studie over een langer leven betrof het runderextract epithalamine, was niet gerandomiseerd en werd nooit onafhankelijk herhaald.
-- **CJC-1295** wordt overwegend verkocht zonder de „DAC“-groep die in de studies bij mensen werd gebruikt.
+- **CJC-1295** wordt overwegend verkocht zonder de „DAC”-groep die in de studies bij mensen werd gebruikt.
 - **Retatrutide** van de grijze markt is niet het geneesmiddel uit de studies. Laboratoriumanalyses van andere grijze-marktpeptiden laten zien dat flesjes vaak minder, meer of een andere werkzame stof bevatten dan opgegeven; bij ipamoreline en CJC-1295 vonden laboratoria gewijzigde, niet-gedeclareerde moleculen (Gajda 2019, PMID 30136411).
 
 #### 4. Negatieve studies worden niet genoemd
@@ -62,9 +62,9 @@ Voor meerdere peptiden bestaan wel degelijk gerandomiseerde studies – alleen v
 
 Semax, Selank, Epitalon en Pinealon werden bijna uitsluitend in Rusland onderzocht, meestal door de ontwikkelaars zelf, in kleine groepen en vaak zonder placebovergelijking. Dat maakt de resultaten niet automatisch onjuist. Het betekent wel dat ze nooit zijn getest onder de voorwaarden die tegenwoordig voor een registratie worden geëist: vooraf geregistreerd, geblindeerd, voldoende groot en door onafhankelijke groepen bevestigd.
 
-#### 6. „Geen bijwerkingen“ betekent meestal „niet onderzocht“
+#### 6. „Geen bijwerkingen” betekent meestal „niet onderzocht”
 
-De bewering dat een peptide „goed verdragen“ wordt of „zonder bijwerkingen“ is, steunt bij BPC-157 op samen 30 personen. Met zo weinig deelnemers zijn alleen veelvoorkomende, direct optredende problemen te herkennen; een bijwerking die één op de duizend personen treft, zou onzichtbaar blijven. Bij stoffen die groeisignalen versterken – groeihormoonvrijmakers, IGF-1 LR3, peptiden die de vorming van nieuwe bloedvaten bevorderen – bestaat bovendien een theoretische, maar niet onderzochte zorg over tumorgroei. Bij Melanotan II beschrijven casusbeschrijvingen nieuwe en veranderde moedervlekken en melanomen; een oorzakelijk verband is niet bewezen, maar ook niet uitgesloten. Daarbij komen de risico's van de producten zelf: in grijze-marktflesjes met Melanotan II werden minder werkzame stof dan opgegeven en onbekende verontreinigingen gevonden (Breindahl 2015, PMID 24771717). Meer hierover in Deel IV.
+De bewering dat een peptide „goed verdragen” wordt of „zonder bijwerkingen” is, steunt bij BPC-157 op samen 30 personen. Met zo weinig deelnemers zijn alleen veelvoorkomende, direct optredende problemen te herkennen; een bijwerking die één op de duizend personen treft, zou onzichtbaar blijven. Bij stoffen die groeisignalen versterken – groeihormoonvrijmakers, IGF-1 LR3, peptiden die de vorming van nieuwe bloedvaten bevorderen – bestaat bovendien een theoretische, maar niet onderzochte zorg over tumorgroei. Bij Melanotan II beschrijven casusbeschrijvingen nieuwe en veranderde moedervlekken en melanomen; een oorzakelijk verband is niet bewezen, maar ook niet uitgesloten. Daarbij komen de risico's van de producten zelf: in grijze-marktflesjes met Melanotan II werden minder werkzame stof dan opgegeven en onbekende verontreinigingen gevonden (Breindahl 2015, PMID 24771717). Meer hierover in Deel IV.
 
 ### Hoe u serieuze van onbetrouwbare beweringen onderscheidt
 
@@ -73,12 +73,12 @@ De volgende checklist helpt om beweringen over peptiden – in webwinkels, video
 #### Vragen over de bron
 
 - **Wie spreekt er?** Verkoopt de persoon of website de stof zelf, biedt die cursussen, consulten of kortingscodes aan? Een financieel belang maakt een bewering niet onjuist, maar is wel een reden om beter te kijken.
-- **Worden studies genoemd – en zijn ze te vinden?** Serieuze beweringen noemen een controleerbare bron: een PMID, een DOI of een registratienummer (NCT). U kunt elke PMID gratis in PubMed invoeren en de abstract zelf lezen. Formuleringen als „studies tonen aan“ zonder concrete vermelding zijn een waarschuwingssignaal.
+- **Worden studies genoemd – en zijn ze te vinden?** Serieuze beweringen noemen een controleerbare bron: een PMID, een DOI of een registratienummer (NCT). U kunt elke PMID gratis in PubMed invoeren en de abstract zelf lezen. Formuleringen als „studies tonen aan” zonder concrete vermelding zijn een waarschuwingssignaal.
 - **Past de geciteerde studie bij de bewering?** Controleer of de studie werkelijk de verkochte stof, de aangeprezen toepassing en mensen heeft onderzocht – of dat het ging om een verwant molecuul, een andere aandoening of ratten.
 
 #### Vragen over de studie
 
-- **Mens, dier of celkweek?** Staat in de abstract „rats“, „mice“, „in vitro“ of „cell culture“, dan zegt dat niets over de werking bij de mens.
+- **Mens, dier of celkweek?** Staat in de abstract „rats”, „mice”, „in vitro” of „cell culture”, dan zegt dat niets over de werking bij de mens.
 - **Was er een vergelijkingsgroep?** Zonder placebo- of controlegroep valt niet te onderscheiden of een verbetering komt door de stof, door de tijd, door andere behandelingen of door de verwachting. Juist bij pijn, stemming of slaap is het placebo-effect groot.
 - **Hoeveel deelnemers?** Studies met 10 of 20 personen kunnen aanwijzingen geven, maar geen voordeel aantonen en zeldzame bijwerkingen niet herkennen.
 - **Wat werd gemeten?** Een laboratoriumwaarde die stijgt, is geen merkbaar voordeel. Vraag u af: werd gemeten wat voor de betrokkenen telt – pijn, functie, ziektegebeurtenissen, kwaliteit van leven?
@@ -87,18 +87,18 @@ De volgende checklist helpt om beweringen over peptiden – in webwinkels, video
 
 #### Waarschuwingssignalen in de taal
 
-- Beloften die heel veel verschillende klachten tegelijk betreffen („voor gewrichten, darm, huid, hersenen en immuunsysteem“).
-- Termen als „wondermiddel“, „geheime tip“, „wat artsen u niet vertellen“ of „door de farmaceutische industrie onderdrukt“.
-- De bewering „geen bijwerkingen“ bij een stof die nauwelijks bij mensen is onderzocht.
+- Beloften die heel veel verschillende klachten tegelijk betreffen („voor gewrichten, darm, huid, hersenen en immuunsysteem”).
+- Termen als „wondermiddel”, „geheime tip”, „wat artsen u niet vertellen” of „door de farmaceutische industrie onderdrukt”.
+- De bewering „geen bijwerkingen” bij een stof die nauwelijks bij mensen is onderzocht.
 - Ervaringsverhalen en voor-en-nafoto's in plaats van studiegegevens.
-- De vermelding „alleen voor onderzoeksdoeleinden“ of „niet voor menselijke consumptie“ op een product dat tegelijk wordt aangeprezen met effecten bij de mens. Deze tegenstrijdigheid laat zien dat de aanbieder de geneesmiddelenregels wil omzeilen (zie Deel I).
+- De vermelding „alleen voor onderzoeksdoeleinden” of „niet voor menselijke consumptie” op een product dat tegelijk wordt aangeprezen met effecten bij de mens. Deze tegenstrijdigheid laat zien dat de aanbieder de geneesmiddelenregels wil omzeilen (zie Deel I).
 - Voorstellen voor doseringen, kuren of combinatiepakketten van meerdere peptiden voor stoffen zonder registratie. Voor zulke schema's bestaat geen basis in studies.
 
 #### Kenmerken van een serieuze weergave
 
 - Dier- en laboratoriumresultaten worden uitdrukkelijk als zodanig aangeduid.
 - Negatieve en tegenstrijdige studies worden genoemd, niet alleen de positieve.
-- Onzekerheid wordt openlijk benoemd („De gegevens zijn onvoldoende om … te beoordelen“).
+- Onzekerheid wordt openlijk benoemd („De gegevens zijn onvoldoende om … te beoordelen”).
 - Juridische status en dopingstatus worden vermeld.
 - Er staat een duidelijke vermelding dat geneesmiddelen in handen van een arts horen en dat grijze-marktproducten niet gecontroleerd zijn.
 
@@ -110,7 +110,7 @@ Als u weinig tijd hebt, volstaan vaak drie vragen:
 2. Is er minstens één gerandomiseerde, placebogecontroleerde studie bij mensen die het beweerde voordeel heeft aangetoond?
 3. Komt het product uit de apotheek – of uit een bron waarvan niemand de inhoud controleert?
 
-Luidt het antwoord op alle drie de vragen „nee“, dan berust de belofte op hoop, niet op bewijs.
+Luidt het antwoord op alle drie de vragen „nee”, dan berust de belofte op hoop, niet op bewijs.
 
 ### Conclusie
 

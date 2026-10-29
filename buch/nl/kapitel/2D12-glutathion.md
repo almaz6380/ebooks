@@ -5,8 +5,8 @@
 - **Soort en structuur:** tripeptide van drie aminozuren – glutaminezuur, cysteïne en glycine (γ-glutamyl-cysteïnyl-glycine, afgekort GSH). De gereduceerde vorm (GSH) is de actieve; bij de afweer tegen oxidatie worden twee moleculen verbonden tot geoxideerd glutathion (GSSG).
 - **Herkomst:** wordt door vrijwel alle lichaamscellen zelf aangemaakt, bijzonder veel in de lever. Als preparaat wordt het meestal geproduceerd door fermentatie met gisten.
 - **Werkingsprincipe:** belangrijkste lichaamseigen beschermende stof tegen oxidatie in cellen; betrokken bij de ontgifting van geneesmiddelen en schadelijke stoffen (bijvoorbeeld bij de afbraak van paracetamol) en bij de regulering van immuuncellen. In de huid verschuift het de pigmentvorming van het donkere naar het lichtere melanine.
-- **Toelating EU:** als voedingssupplement breed in de handel; als geneesmiddel voor injectie alleen in afzonderlijke landen voor nauw omschreven toepassingen, niet voor huidbleking (stand 2026, actuele situatie controleren).
-- **Toelating VS:** geen door de FDA toegelaten glutathiongeneesmiddel; verkrijgbaar als voedingssupplement en als apotheekbereiding.
+- **Registratie EU:** als voedingssupplement breed in de handel; als geneesmiddel voor injectie alleen in afzonderlijke landen voor nauw omschreven toepassingen, niet voor huidbleking (stand 2026, actuele situatie controleren).
+- **Registratie VS:** geen door de FDA toegelaten glutathiongeneesmiddel; verkrijgbaar als voedingssupplement en als apotheekbereiding.
 - **WADA:** glutathion zelf is niet verboden. Infusen of injecties van meer dan 100 ml binnen twaalf uur vallen echter onder de verboden methoden (M2), behalve in het kader van een ziekenhuisbehandeling of onderzoek (stand 2026, actuele situatie controleren).
 - **Bewijsniveau:** **B** – talrijke gerandomiseerde, overwegend kleine studies met wisselende resultaten; geen toelating op basis van grote eindpuntstudies.
 

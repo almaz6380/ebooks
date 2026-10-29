@@ -5,8 +5,8 @@
 - **Soort en structuur:** synthetisch heptapeptide (Thr-Lys-Pro-Arg-Pro-Gly-Pro). De eerste vier aminozuren komen overeen met tuftsine, een lichaamseigen peptide dat van een antilichaamfragment wordt afgesplitst en immuuncellen stimuleert; daaraan is – net als bij Semax – de stabiliserende sequentie Pro-Gly-Pro gekoppeld.
 - **Herkomst:** ontwikkeld in Moskou aan het Instituut voor Moleculaire Genetica en het Zakusov-Instituut voor Farmacologie.
 - **Werkingsprincipe:** zou angstremmend werken zonder, zoals benzodiazepinen, slaperig of afhankelijk te maken. Besproken worden een remming van de afbraak van lichaamseigen enkefalinen (pijn- en stressdempende signaalstoffen), invloeden op het GABA-systeem en op immuunsignaalstoffen. Het wordt toegediend als neusdruppels.
-- **Toelating EU:** nee.
-- **Toelating VS:** nee. Selank stond in 2023 op de FDA-lijst „categorie 2” voor apotheekbereidingen; de actuele status is niet eenduidig gedocumenteerd (stand oktober 2026, actuele situatie controleren).
+- **Registratie EU:** nee.
+- **Registratie VS:** nee. Selank stond in 2023 op de FDA-lijst „categorie 2” voor apotheekbereidingen; de actuele status is niet eenduidig gedocumenteerd (stand oktober 2026, actuele situatie controleren).
 - **Rusland:** als geneesmiddel (angstremmer) geregistreerd.
 - **WADA:** niet bij naam vermeld (stand 2026, actuele situatie controleren).
 - **Bewijsniveau:** **C** – drie kleine vergelijkende studies uit Rusland, zonder placebocontrole en zonder registratie.

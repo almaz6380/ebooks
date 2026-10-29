@@ -1,6 +1,6 @@
 # Deel II · A – Stofwisseling en gewicht
 
-Geen enkele groep peptiden heeft de geneeskunde van de afgelopen jaren zo veranderd als de werkzame stoffen in dit deel. Ze zijn oorspronkelijk ontwikkeld voor diabetes type 2, werden daarna de werkzaamste afslankmiddelen die er ooit zijn geweest, en worden inmiddels onderzocht bij hartfalen, slaapapneu, leververvetting en nierziekten. Tegelijk wordt nauwelijks een terrein zo sterk door de grijze markt getroffen: werkzame stoffen die nog in studies zitten, worden op internet als „research peptides“ verkocht.
+Geen enkele groep peptiden heeft de geneeskunde van de afgelopen jaren zo veranderd als de werkzame stoffen in dit deel. Ze zijn oorspronkelijk ontwikkeld voor diabetes type 2, werden daarna de werkzaamste afslankmiddelen die er ooit zijn geweest, en worden inmiddels onderzocht bij hartfalen, slaapapneu, leververvetting en nierziekten. Tegelijk wordt nauwelijks een terrein zo sterk door de grijze markt getroffen: werkzame stoffen die nog in studies zitten, worden op internet als „research peptides” verkocht.
 
 ### Wat deze werkzame stoffen verbindt: hormonen uit darm en alvleesklier
 
@@ -11,9 +11,9 @@ Bijna alle werkzame stoffen in deze groep bootsen hormonen na die het lichaam ro
 - **Glucagon** is het tegenhormoon van insuline uit de alvleesklier. Het verhoogt de bloedsuiker, maar verhoogt ook het energieverbruik en de vetafbraak in de lever. Nieuwere werkzame stoffen benutten gericht deze tweede kant.
 - **Amyline** wordt samen met insuline door de bètacellen van de alvleesklier afgegeven. Het werkt in de hersenstam verzadigend en vertraagt de maaglediging.
 
-GLP-1 en GIP noemt men **incretines** (afgeleid van het Engelse „INtestinal seCRETion of INsulin“, dus door de darm opgewekte insulineafgifte): ze verklaren waarom suiker die wordt gegeten meer insuline vrijmaakt dan dezelfde hoeveelheid suiker rechtstreeks in de ader. De ontwikkeling laat zich lezen als een reeks stappen: eerst zuivere GLP-1-agonisten, dan combinaties met GIP, glucagon of amyline in één molecuul, ten slotte tabletten die helemaal geen peptiden meer zijn.
+GLP-1 en GIP noemt men **incretines** (afgeleid van het Engelse „INtestinal seCRETion of INsulin”, dus door de darm opgewekte insulineafgifte): ze verklaren waarom suiker die wordt gegeten meer insuline vrijmaakt dan dezelfde hoeveelheid suiker rechtstreeks in de ader. De ontwikkeling laat zich lezen als een reeks stappen: eerst zuivere GLP-1-agonisten, dan combinaties met GIP, glucagon of amyline in één molecuul, ten slotte tabletten die helemaal geen peptiden meer zijn.
 
-Twee werkzame stoffen uit deze groep passen niet in dit schema: **setmelanotide** grijpt dieper in de hersenen aan, op de melanocortine-4-receptor, en is alleen bedoeld voor zeldzame genetische vormen van obesitas. **AOD-9604** is een fragment van groeihormoon dat als „vetverbrander“ op de markt wordt gebracht, zonder dat er gepubliceerde studies bij mensen bestaan.
+Twee werkzame stoffen uit deze groep passen niet in dit schema: **setmelanotide** grijpt dieper in de hersenen aan, op de melanocortine-4-receptor, en is alleen bedoeld voor zeldzame genetische vormen van obesitas. **AOD-9604** is een fragment van groeihormoon dat als „vetverbrander” op de markt wordt gebracht, zonder dat er gepubliceerde studies bij mensen bestaan.
 
 ### Overzicht
 

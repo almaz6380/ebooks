@@ -2,25 +2,25 @@
 
 Voordat het in deel II over afzonderlijke werkzame stoffen gaat, legt dit deel het fundament. U leert wat een peptide chemisch eigenlijk is, hoe binnen een eeuw uit een extract van alvleesklieren van honden een van de best verkopende geneesmiddelgroepen ter wereld is ontstaan, waarom de meeste peptiden geïnjecteerd moeten worden, hoe u een studie leest zonder u door krantenkoppen te laten misleiden, wat er op de grijze markt werkelijk in de flesjes zit en welke juridische regels gelden.
 
-Wie alleen een bepaald peptide wil opzoeken, kan direct naar deel II springen. De hoofdstukken van dit deel leggen echter de begrippen en maatstaven uit die daar voortdurend worden gebruikt – zoals „gerandomiseerd“, „surrogaateindpunt“, „bewijsniveau B“ of „research peptide“. Een korte blik loont daarom ook voor lezers met weinig tijd.
+Wie alleen een bepaald peptide wil opzoeken, kan direct naar deel II springen. De hoofdstukken van dit deel leggen echter de begrippen en maatstaven uit die daar voortdurend worden gebruikt – zoals „gerandomiseerd”, „surrogaateindpunt”, „bewijsniveau B” of „research peptide”. Een korte blik loont daarom ook voor lezers met weinig tijd.
 
 ## Wat peptiden zijn – en wat niet
 
-Het woord „peptide“ heeft de afgelopen jaren een verbazingwekkende carrière gemaakt. Het staat op huidcrèmes en eiwitpoeders, in advertenties voor afslankinjecties en op online fora waar over „genezingspeptiden“ wordt gediscussieerd. Toch duidt het begrip in de eerste plaats alleen een bepaalde chemische bouw aan – niet meer en niet minder. Het zegt niets over de vraag of een stof werkt, of ze veilig is of of ze überhaupt in het lichaam terechtkomt. Dit hoofdstuk verduidelijkt de basisbegrippen en rekent af met enkele wijdverbreide misverstanden.
+Het woord „peptide” heeft de afgelopen jaren een verbazingwekkende carrière gemaakt. Het staat op huidcrèmes en eiwitpoeders, in advertenties voor afslankinjecties en op online fora waar over „genezingspeptiden” wordt gediscussieerd. Toch duidt het begrip in de eerste plaats alleen een bepaalde chemische bouw aan – niet meer en niet minder. Het zegt niets over de vraag of een stof werkt, of ze veilig is of of ze überhaupt in het lichaam terechtkomt. Dit hoofdstuk verduidelijkt de basisbegrippen en rekent af met enkele wijdverbreide misverstanden.
 
 ### Aminozuren: de bouwstenen
 
 Alle peptiden en eiwitten bestaan uit aminozuren. Een aminozuur is een klein molecuul met twee typische onderdelen: een aminogroep (die stikstof bevat) en een zuurgroep (carboxylgroep). Daartussen zit een centraal koolstofatoom waaraan een zogeheten zijketen hangt. Die zijketen onderscheidt de aminozuren van elkaar: ze kan klein en onopvallend zijn zoals bij glycine, olieachtig en waterafstotend zoals bij leucine, elektrisch geladen zoals bij lysine of zwavelhoudend zoals bij cysteïne.
 
-Het menselijk lichaam bouwt zijn eiwitten in wezen op uit 20 standaardaminozuren. Sommige daarvan kan het zelf aanmaken, andere – de „essentiële“ aminozuren – moet het via de voeding opnemen. Daarnaast bestaan er honderden andere aminozuren die in de natuur voorkomen of in het laboratorium worden gemaakt. Voor de ontwikkeling van geneesmiddelen zijn zulke „niet-natuurlijke“ aminozuren belangrijk, omdat ze een peptide stabieler kunnen maken. Een voorbeeld vindt u verderop bij semaglutide.
+Het menselijk lichaam bouwt zijn eiwitten in wezen op uit 20 standaardaminozuren. Sommige daarvan kan het zelf aanmaken, andere – de „essentiële” aminozuren – moet het via de voeding opnemen. Daarnaast bestaan er honderden andere aminozuren die in de natuur voorkomen of in het laboratorium worden gemaakt. Voor de ontwikkeling van geneesmiddelen zijn zulke „niet-natuurlijke” aminozuren belangrijk, omdat ze een peptide stabieler kunnen maken. Een voorbeeld vindt u verderop bij semaglutide.
 
-Belangrijk om veel reclamebeloften te begrijpen: losse aminozuren zijn geen peptiden. Een voedingssupplement met arginine, glutamine of „BCAA“ bevat vrije aminozuren, dus losse bouwstenen – geen peptide.
+Belangrijk om veel reclamebeloften te begrijpen: losse aminozuren zijn geen peptiden. Een voedingssupplement met arginine, glutamine of „BCAA” bevat vrije aminozuren, dus losse bouwstenen – geen peptide.
 
 ### De peptidebinding
 
-Wanneer twee aminozuren zich met elkaar verbinden, reageert de zuurgroep van het ene met de aminogroep van het andere. Daarbij wordt een watermolecuul afgesplitst en ontstaat een stabiele verbinding: de peptidebinding. Het resultaat heet een dipeptide. Hangt men er nog een aminozuur aan, dan ontstaat een tripeptide, daarna een tetrapeptide enzovoort. Zo'n keten heeft altijd een richting: ze begint met een vrije aminogroep (de „N-terminus“) en eindigt met een vrije zuurgroep (de „C-terminus“). In vakartikelen worden aminozuren daarom altijd van links naar rechts, van het N- naar het C-uiteinde, opgeschreven – vaak met afkortingen van één letter. Het tripeptide „GHK“ staat bijvoorbeeld voor glycine–histidine–lysine.
+Wanneer twee aminozuren zich met elkaar verbinden, reageert de zuurgroep van het ene met de aminogroep van het andere. Daarbij wordt een watermolecuul afgesplitst en ontstaat een stabiele verbinding: de peptidebinding. Het resultaat heet een dipeptide. Hangt men er nog een aminozuur aan, dan ontstaat een tripeptide, daarna een tetrapeptide enzovoort. Zo'n keten heeft altijd een richting: ze begint met een vrije aminogroep (de „N-terminus”) en eindigt met een vrije zuurgroep (de „C-terminus”). In vakartikelen worden aminozuren daarom altijd van links naar rechts, van het N- naar het C-uiteinde, opgeschreven – vaak met afkortingen van één letter. Het tripeptide „GHK” staat bijvoorbeeld voor glycine–histidine–lysine.
 
-De volgorde van de aminozuren noemt men sequentie of primaire structuur. Die is beslissend: twee peptiden uit dezelfde bouwstenen in een andere volgorde zijn verschillende stoffen met verschillende eigenschappen – zoals „roos“ en „soor“ uit dezelfde letters bestaan.
+De volgorde van de aminozuren noemt men sequentie of primaire structuur. Die is beslissend: twee peptiden uit dezelfde bouwstenen in een andere volgorde zijn verschillende stoffen met verschillende eigenschappen – zoals „roos” en „soor” uit dezelfde letters bestaan.
 
 ### Peptide of eiwit? Een kwestie van lengte
 
@@ -62,7 +62,7 @@ Peptiden vervullen in het lichaam zeer uiteenlopende taken:
 - **Antimicrobiële peptiden** zoals LL-37 maken deel uit van de aangeboren afweer.
 - **Structuurbouwstenen en afbraakproducten**: wanneer collageen of melkeiwit wordt verteerd, ontstaan korte peptiden, waarvan sommige in het bloed aantoonbaar zijn.
 
-Deze verscheidenheid verklaart waarom onder het begrip „peptide“ zulke verschillende stoffen worden samengebracht: een zeer werkzaam diabetesgeneesmiddel op recept net zo goed als een collageenpoeder uit de supermarkt.
+Deze verscheidenheid verklaart waarom onder het begrip „peptide” zulke verschillende stoffen worden samengebracht: een zeer werkzaam diabetesgeneesmiddel op recept net zo goed als een collageenpoeder uit de supermarkt.
 
 ### Korte levensduur: het basisprobleem van natuurlijke peptiden
 
@@ -72,7 +72,7 @@ Voor een geneesmiddel is die korte levensduur echter een probleem. Het natuurlij
 
 De oplossing van het farmaceutisch onderzoek bestond erin het molecuul gericht te veranderen. Bij semaglutide werden twee aminozuren van het natuurlijke GLP-1 vervangen – op positie 8 staat het niet-natuurlijke aminozuur Aib, dat het molecuul tegen DPP-4 beschermt – en aan de keten werd via een verbindingsstuk een vetzuur gehangen. Het vetzuur zorgt ervoor dat semaglutide in het bloed reversibel aan het transporteiwit albumine bindt (Lau 2015, PMID 26308095). Zo ontstaat een depot waaruit de werkzame stof langzaam vrijkomt. De halfwaardetijd bij de mens bedraagt ongeveer een week (Marso 2016, PMID 27633186) – daarom volstaat één injectie per week.
 
-Dit principe – natuurlijk voorbeeld, gericht gestabiliseerd – loopt als een rode draad door de moderne peptidegeneeskunde. Het betekent echter ook: een peptidegeneesmiddel is meestal **geen** „natuurlijke“ stof in de zin van onveranderd lichaamseigen. Het is een molecuul dat door de natuur is geïnspireerd, maar in het laboratorium is geoptimaliseerd.
+Dit principe – natuurlijk voorbeeld, gericht gestabiliseerd – loopt als een rode draad door de moderne peptidegeneeskunde. Het betekent echter ook: een peptidegeneesmiddel is meestal **geen** „natuurlijke” stof in de zin van onveranderd lichaamseigen. Het is een molecuul dat door de natuur is geïnspireerd, maar in het laboratorium is geoptimaliseerd.
 
 ### Hoe peptiden worden gemaakt
 
@@ -84,11 +84,11 @@ Er zijn drie fundamentele manieren om peptiden te verkrijgen:
 
 **Winning uit natuurlijke bronnen.** Vroege insulines werden gewonnen uit alvleesklieren van runderen en varkens. Collageenpeptiden ontstaan tegenwoordig doordat collageen uit huid, botten of visschubben met enzymen in kleinere stukken wordt gesplitst (hydrolyse). Zulke hydrolysaten zijn mengsels van veel verschillende peptiden – geen uniforme werkzame stof.
 
-De productiewijze is van belang voor de veiligheid. Een onderzoek vergeleek namaakproducten van semaglutide en liraglutide met de originele preparaten en vond bij sommige werkzame stoffen van namaakproducten nieuwe verontreinigingen, waaronder eiwitten met een hoger moleculegewicht, sporenmetalen en resten van oplosmiddelen (Hach 2024, PMID 39379664). Of zulke verschillen klinisch relevant zijn, is onduidelijk – ze laten echter zien dat „dezelfde werkzame stof“ niet automatisch „hetzelfde product“ betekent. Het onderzoek werd overigens uitgevoerd door de fabrikant van de originele preparaten, waarmee bij de beoordeling rekening moet worden gehouden.
+De productiewijze is van belang voor de veiligheid. Een onderzoek vergeleek namaakproducten van semaglutide en liraglutide met de originele preparaten en vond bij sommige werkzame stoffen van namaakproducten nieuwe verontreinigingen, waaronder eiwitten met een hoger moleculegewicht, sporenmetalen en resten van oplosmiddelen (Hach 2024, PMID 39379664). Of zulke verschillen klinisch relevant zijn, is onduidelijk – ze laten echter zien dat „dezelfde werkzame stof” niet automatisch „hetzelfde product” betekent. Het onderzoek werd overigens uitgevoerd door de fabrikant van de originele preparaten, waarmee bij de beoordeling rekening moet worden gehouden.
 
 ### Peptiden als geneesmiddel: een groeiende groep
 
-Peptiden bezetten een niche tussen de klassieke „kleine moleculen“ (zoals aspirine of metformine) en de grote biologische geneesmiddelen (zoals antilichamen). Ze kunnen zeer gericht aan een receptor binden, wat vaak leidt tot weinig ongewenste bijwerkingen op andere plaatsen. Tegelijk zijn ze moeilijker in tabletvorm te brengen en vaak duur om te maken.
+Peptiden bezetten een niche tussen de klassieke „kleine moleculen” (zoals aspirine of metformine) en de grote biologische geneesmiddelen (zoals antilichamen). Ze kunnen zeer gericht aan een receptor binden, wat vaak leidt tot weinig ongewenste bijwerkingen op andere plaatsen. Tegelijk zijn ze moeilijker in tabletvorm te brengen en vaak duur om te maken.
 
 Volgens een overzichtsartikel hebben sinds de introductie van insuline meer dan 80 peptidegeneesmiddelen de markt bereikt, onder meer tegen diabetes, kanker, osteoporose, multiple sclerose, hiv-infectie en chronische pijn (Muttenthaler 2021, PMID 33536635). Een andere analyse telde meer dan 150 peptiden in actieve klinische ontwikkeling (Lau 2018, PMID 28720325). De aantallen verschillen afhankelijk van de telwijze, maar wijzen in dezelfde richting: peptiden zijn een vast en groeiend onderdeel van de geneeskunde.
 
@@ -98,9 +98,9 @@ Veel geneesmiddelpeptiden kent u misschien zonder ze als peptiden te hebben herk
 
 Juist omdat het begrip zo populair is geworden, loont een blik op wijdverbreide misverstanden.
 
-**„Peptide“ is geen kwaliteitskenmerk.** De chemische bouw zegt niets over nut of risico. Insuline redt dagelijks levens – in de verkeerde hoeveelheid kan het dodelijk zijn. Een peptide is niet automatisch milder dan een „chemisch“ geneesmiddel.
+**„Peptide” is geen kwaliteitskenmerk.** De chemische bouw zegt niets over nut of risico. Insuline redt dagelijks levens – in de verkeerde hoeveelheid kan het dodelijk zijn. Een peptide is niet automatisch milder dan een „chemisch” geneesmiddel.
 
-**„Lichaamseigen“ betekent niet „onschuldig“.** Veel peptiden van de grijze markt worden aangeprezen als „lichaamseigen“ of „bio-identiek“. Maar ook lichaamseigen stoffen kunnen schade aanrichten in onnatuurlijk hoge hoeveelheden, op de verkeerde plaats of gedurende lange tijd. Een voorbeeld is het groeihormoonsysteem: een tekort maakt ziek, een blijvend teveel ook. Bovendien zijn veel zogenaamd lichaamseigen peptiden in werkelijkheid afgeleiden of fragmenten die in deze vorm helemaal niet in het lichaam voorkomen. BPC-157 is bijvoorbeeld een sequentie van 15 aminozuren (Cox 2017, PMID 28035768) die door de ontdekkers werd afgeleid uit maagsap; als zelfstandig hormoon van de mens is ze niet erkend.
+**„Lichaamseigen” betekent niet „onschuldig”.** Veel peptiden van de grijze markt worden aangeprezen als „lichaamseigen” of „bio-identiek”. Maar ook lichaamseigen stoffen kunnen schade aanrichten in onnatuurlijk hoge hoeveelheden, op de verkeerde plaats of gedurende lange tijd. Een voorbeeld is het groeihormoonsysteem: een tekort maakt ziek, een blijvend teveel ook. Bovendien zijn veel zogenaamd lichaamseigen peptiden in werkelijkheid afgeleiden of fragmenten die in deze vorm helemaal niet in het lichaam voorkomen. BPC-157 is bijvoorbeeld een sequentie van 15 aminozuren (Cox 2017, PMID 28035768) die door de ontdekkers werd afgeleid uit maagsap; als zelfstandig hormoon van de mens is ze niet erkend.
 
 **Peptiden zijn geen steroïden.** Anabolica zoals testosteron zijn steroïdhormonen met een volledig ander chemisch skelet van koolstofringen. Ze werken via receptoren in het celinnerste. In de fitnesswereld worden beide groepen soms op één hoop gegooid; chemisch en farmacologisch hebben ze weinig gemeen.
 
@@ -126,7 +126,7 @@ Drie ontwikkelingen verklaren de hype van de afgelopen jaren:
 
 **Ten eerste de GLP-1-geneesmiddelen.** De resultaten van werkzame stoffen zoals semaglutide en tirzepatide bij overgewicht hebben peptiden in het nieuws gebracht. In de registratiestudie STEP 1 verloren deelnemers met semaglutide gemiddeld 14,9% van hun lichaamsgewicht, met placebo 2,4% (Wilding 2021, PMID 33567185). Zulke cijfers waren met geneesmiddelen nooit eerder bereikt.
 
-**Ten tweede de gemakkelijke beschikbaarheid.** Korte peptiden kunnen tegenwoordig in veel landen goedkoop worden gesynthetiseerd en worden via internet wereldwijd aangeboden – vaak met het etiket „alleen voor onderzoeksdoeleinden“. Wat dat betekent, behandelt het hoofdstuk over de grijze markt.
+**Ten tweede de gemakkelijke beschikbaarheid.** Korte peptiden kunnen tegenwoordig in veel landen goedkoop worden gesynthetiseerd en worden via internet wereldwijd aangeboden – vaak met het etiket „alleen voor onderzoeksdoeleinden”. Wat dat betekent, behandelt het hoofdstuk over de grijze markt.
 
 **Ten derde sociale media.** Ervaringsverhalen, voor-en-nafoto's en aanbevelingen van influencers verspreiden zich sneller dan wetenschappelijke gegevens. Een overzichtsartikel beschrijft hoe digitale reclame, toegang tot de grijze markt en zelfinjectie samenwerken en producten normaliseren waarvan identiteit, zuiverheid en veiligheid onduidelijk zijn (Hailu 2026, PMID 42437212).
 
@@ -138,4 +138,4 @@ Dit boek wil daar een nuchter tegenwicht bieden: voor elk peptide wordt nagegaan
 - In het lichaam werken peptiden vooral als boodschapperstoffen via receptoren aan het celoppervlak.
 - Natuurlijke peptiden worden snel afgebroken. Moderne peptidegeneesmiddelen zijn daarom bijna altijd gericht veranderde moleculen.
 - Peptiden worden chemisch gesynthetiseerd, genetisch gemodificeerd geproduceerd of uit natuurlijke bronnen gewonnen. Productiewijze en zuiverheid beïnvloeden de veiligheid.
-- „Peptide“ is een chemische beschrijving, geen keurmerk. Of een bepaald peptide bij de mens werkt en veilig is, kunnen alleen goede studies aantonen.
+- „Peptide” is een chemische beschrijving, geen keurmerk. Of een bepaald peptide bij de mens werkt en veilig is, kunnen alleen goede studies aantonen.

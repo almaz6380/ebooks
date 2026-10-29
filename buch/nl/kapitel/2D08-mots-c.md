@@ -5,8 +5,8 @@
 - **Soort en structuur:** peptide van 16 aminozuren. De naam staat voor *mitochondrial open reading frame of the 12S rRNA-c* – het is niet in de celkern, maar in het erfelijk materiaal van de mitochondriën gecodeerd, de „energiecentrales” van de cel.
 - **Herkomst:** in 2015 beschreven door een onderzoeksgroep rond Pinchas Cohen aan de University of Southern California. Het lichaam maakt het zelf aan, vooral in de skeletspier.
 - **Werkingsprincipe:** geldt als „mitokine” – een signaalstof van de mitochondriën. Bij muizen activeerde het de energiesensor AMPK, verbeterde het de insulinegevoeligheid en het lichamelijk prestatievermogen; daarom wordt het besproken als „bewegingsnabootser” (exercise mimetic).
-- **Toelating EU:** nee.
-- **Toelating VS:** nee. In april 2026 van de FDA-„categorie 2” geschrapt; het adviescomité PCAC stemde in juli 2026 met 7 tegen 5 stemmen voor opname in de lijst van toegestane grondstoffen voor bereidingen (stand oktober 2026, actuele situatie controleren).
+- **Registratie EU:** nee.
+- **Registratie VS:** nee. In april 2026 van de FDA-„categorie 2” geschrapt; het adviescomité PCAC stemde in juli 2026 met 7 tegen 5 stemmen voor opname in de lijst van toegestane grondstoffen voor bereidingen (stand oktober 2026, actuele situatie controleren).
 - **WADA:** **verboden** – uitdrukkelijk in categorie S4 (hormoon- en stofwisselingsmodulatoren) genoemd als voorbeeld van een AMPK-activator, binnen en buiten wedstrijden (stand 2026, actuele situatie controleren).
 - **Bewijsniveau:** **D** voor toediening als werkzame stof – gepubliceerde resultaten van gecontroleerde studies bij mensen zijn er niet; bij mensen bestaan alleen observationele studies naar de lichaamseigen spiegels.
 
