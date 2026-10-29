@@ -100,4 +100,4 @@ Pour le marché gris, cela signifie : même si un peptide est en soi peu immunog
 - Les réactions au point d'injection sont la réaction immunitaire la plus fréquente, presque la règle pour certains peptides. Une rougeur croissante, de la chaleur, du pus ou de la fièvre évoquent en revanche une infection.
 - L'anaphylaxie est très rare sous médicaments GLP-1 autorisés – de l'ordre de quelques cas pour 10 000 années de traitement. Il existe aussi des rapports de cas pour le tirzépatide, le Cerebrolysin et pour un surdosage accidentel.
 - Pour la plupart des peptides du marché gris, les données sur les anticorps et les allergies font entièrement défaut. Les impuretés et les endotoxines y constituent un risque supplémentaire et incalculable.
-- Si vous avez déjà eu une réaction allergique à un peptide, signalez-le lors de chaque traitement médical. Seul un médecin peut déterminer si des substances apparentées sont tolérées.
+- Si tu as déjà eu une réaction allergique à un peptide, signale-le lors de chaque traitement médical. Seul un médecin peut déterminer si des substances apparentées sont tolérées.

@@ -96,7 +96,7 @@ La comparaison directe attendue par beaucoup dans l'obésité sans diabète a é
 
 Une analyse ultérieure a montré que 44 % sous tirzépatide et 21 % sous sémaglutide avaient déjà perdu au moins 15 % à la semaine 24 (« répondeurs rapides »). Ceux-ci ont eu un peu plus d'événements gastro-intestinaux et biliaires, mais n'ont pas arrêté le traitement plus souvent (Aronne 2026, PMID 41865857).
 
-Pour situer ce résultat : SURMOUNT-5 a été financée par le fabricant du tirzépatide et menée en ouvert. La différence est néanmoins suffisamment grande pour qu'elle puisse difficilement s'expliquer par ces seules limites. Vous trouverez une comparaison de tous les médicaments GLP-1 dans la partie III.
+Pour situer ce résultat : SURMOUNT-5 a été financée par le fabricant du tirzépatide et menée en ouvert. La différence est néanmoins suffisamment grande pour qu'elle puisse difficilement s'expliquer par ces seules limites. Tu trouveras une comparaison de tous les médicaments GLP-1 dans la partie III.
 
 #### Insuffisance cardiaque : SUMMIT
 

@@ -1,8 +1,8 @@
 # Partie I – Notions de base
 
-Avant d'aborder les différentes substances actives dans la partie II, cette partie pose les fondations. Vous y apprendrez ce qu'est réellement un peptide sur le plan chimique, comment un extrait de pancréas de chien est devenu en un siècle l'un des groupes de médicaments les plus rentables au monde, pourquoi la plupart des peptides doivent être injectés, comment lire une étude sans se laisser tromper par les gros titres, ce que contiennent réellement les flacons vendus sur le marché gris et quelles règles juridiques s'appliquent.
+Avant d'aborder les différentes substances actives dans la partie II, cette partie pose les fondations. Tu y apprendras ce qu'est réellement un peptide sur le plan chimique, comment un extrait de pancréas de chien est devenu en un siècle l'un des groupes de médicaments les plus rentables au monde, pourquoi la plupart des peptides doivent être injectés, comment lire une étude sans se laisser tromper par les gros titres, ce que contiennent réellement les flacons vendus sur le marché gris et quelles règles juridiques s'appliquent.
 
-Si vous souhaitez seulement consulter un peptide particulier, vous pouvez passer directement à la partie II. Les chapitres de cette partie expliquent toutefois les notions et les critères qui y sont constamment utilisés – par exemple « randomisé », « critère de substitution », « niveau de preuve B » ou « Research Peptide ». Un bref coup d'œil en vaut donc la peine, même pour les lectrices et lecteurs pressés.
+Si tu souhaites seulement consulter un peptide particulier, tu peux passer directement à la partie II. Les chapitres de cette partie expliquent toutefois les notions et les critères qui y sont constamment utilisés – par exemple « randomisé », « critère de substitution », « niveau de preuve B » ou « Research Peptide ». Un bref coup d'œil en vaut donc la peine, même pour les lectrices et lecteurs pressés.
 
 ## Ce que sont les peptides – et ce qu'ils ne sont pas
 
@@ -12,7 +12,7 @@ Le mot « peptide » a fait une carrière étonnante ces dernières années. On 
 
 Tous les peptides et toutes les protéines sont constitués d'acides aminés. Un acide aminé est une petite molécule comportant deux éléments caractéristiques : un groupe amine (qui contient de l'azote) et un groupe acide (groupe carboxyle). Entre les deux se trouve un atome de carbone central auquel est rattachée une chaîne dite latérale. C'est cette chaîne latérale qui distingue les acides aminés entre eux : elle peut être petite et discrète comme dans la glycine, huileuse et hydrophobe comme dans la leucine, chargée électriquement comme dans la lysine ou soufrée comme dans la cystéine.
 
-Le corps humain construit ses protéines essentiellement à partir de 20 acides aminés standard. Il peut en fabriquer certains lui-même ; d'autres – les acides aminés « essentiels » – doivent être apportés par l'alimentation. Il existe en outre des centaines d'autres acides aminés présents dans la nature ou fabriqués en laboratoire. Pour le développement de médicaments, ces acides aminés « non naturels » sont importants, car ils peuvent rendre un peptide plus stable. Vous en trouverez un exemple plus bas avec le sémaglutide.
+Le corps humain construit ses protéines essentiellement à partir de 20 acides aminés standard. Il peut en fabriquer certains lui-même ; d'autres – les acides aminés « essentiels » – doivent être apportés par l'alimentation. Il existe en outre des centaines d'autres acides aminés présents dans la nature ou fabriqués en laboratoire. Pour le développement de médicaments, ces acides aminés « non naturels » sont importants, car ils peuvent rendre un peptide plus stable. Tu en trouveras un exemple plus bas avec le sémaglutide.
 
 Point important pour comprendre de nombreuses promesses publicitaires : les acides aminés isolés ne sont pas des peptides. Un complément alimentaire à base d'arginine, de glutamine ou de « BCAA » contient des acides aminés libres, c'est-à-dire des briques isolées – pas de peptide.
 
@@ -92,7 +92,7 @@ Les peptides occupent une niche entre les « petites molécules » classiques (c
 
 Selon une revue, plus de 80 médicaments peptidiques ont atteint le marché depuis l'introduction de l'insuline, par exemple contre le diabète, le cancer, l'ostéoporose, la sclérose en plaques, l'infection par le VIH et les douleurs chroniques (Muttenthaler 2021, PMID 33536635). Une autre analyse a recensé plus de 150 peptides en développement clinique actif (Lau 2018, PMID 28720325). Les chiffres varient selon le mode de comptage, mais vont dans le même sens : les peptides sont une composante établie et croissante de la médecine.
 
-Vous connaissez peut-être de nombreux médicaments peptidiques sans les avoir perçus comme tels : l'insuline, le médicament contre l'ostéoporose tériparatide (un fragment de 34 acides aminés de la parathormone), des médicaments contre le cancer de la prostate qui agissent sur le système de la GnRH, l'ocytocine utilisée pour déclencher le travail ou l'antibiotique vancomycine, un glycopeptide.
+Tu connais peut-être de nombreux médicaments peptidiques sans les avoir perçus comme tels : l'insuline, le médicament contre l'ostéoporose tériparatide (un fragment de 34 acides aminés de la parathormone), des médicaments contre le cancer de la prostate qui agissent sur le système de la GnRH, l'ocytocine utilisée pour déclencher le travail ou l'antibiotique vancomycine, un glycopeptide.
 
 ### Ce que les peptides ne sont pas
 

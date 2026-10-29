@@ -1,6 +1,6 @@
 # Méthodologie
 
-Cette annexe décrit comment les études de ce livre ont été recherchées, sélectionnées et vérifiées. Elle doit vous permettre de retracer la recherche documentaire et, si nécessaire, de la refaire vous-même ou de la mettre à jour.
+Cette annexe décrit comment les études de ce livre ont été recherchées, sélectionnées et vérifiées. Elle doit te permettre de retracer la recherche documentaire et, si nécessaire, de la refaire toi-même ou de la mettre à jour.
 
 ### Bases de données
 
@@ -162,7 +162,7 @@ Le classement se rapporte à l'ensemble des données chez l'humain et au princip
 
 ### Limites de la méthodologie
 
-Comme toute recherche bibliographique, celle-ci a des limites dont vous devriez tenir compte à la lecture :
+Comme toute recherche bibliographique, celle-ci a des limites dont tu devrais tenir compte à la lecture :
 
 **Un résultat n'est pas forcément une étude indépendante.** Une grande étude est souvent publiée dans plusieurs articles – résultat principal, sous-groupes, suivi, qualité de vie. Chacun de ces articles constitue un résultat distinct. À l'inverse, plusieurs études peuvent être regroupées dans un même article. Le nombre de résultats reflète donc l'ordre de grandeur de la recherche, et non le nombre exact d'études indépendantes.
 
@@ -184,4 +184,4 @@ Les interrogations des bases de données ont été réalisées via les interface
 
 En outre, chaque chapitre a été contrôlé à l'aide d'un programme de vérification. Pour chaque PMID et chaque numéro NCT mentionné dans le texte, celui-ci consulte l'entrée dans PubMed ou ClinicalTrials.gov et signale une erreur si un numéro n'existe pas. Il compare aussi la première autrice ou le premier auteur et l'année de publication indiqués dans le texte avant le PMID avec l'entrée de la base de données et signale les divergences. Enfin, il recherche des formulations inadmissibles comme des promesses de guérison, des recommandations de dosage ou des indications de sources d'approvisionnement. Un chapitre n'était considéré comme terminé que lorsque ce contrôle se déroulait sans erreur. Le programme vérifie en outre si un travail cité a entre-temps été rétracté ; ces travaux sont expressément signalés dans le texte. Pour finir, environ 1 450 passages contenant des chiffres ont été comparés un à un avec les résumés et, si nécessaire, corrigés.
 
-Ce contrôle garantit que chaque source citée existe et est correctement attribuée. Il ne peut pas exclure entièrement qu'un résultat soit rendu de manière abrégée ou ambiguë dans le texte. C'est pourquoi toutes les sources sont indiquées de manière à ce que vous puissiez les consulter vous-même – la marche à suivre est expliquée dans la section « À propos de ce livre », au début.
+Ce contrôle garantit que chaque source citée existe et est correctement attribuée. Il ne peut pas exclure entièrement qu'un résultat soit rendu de manière abrégée ou ambiguë dans le texte. C'est pourquoi toutes les sources sont indiquées de manière à ce que tu puisses les consulter toi-même – la marche à suivre est expliquée dans la section « À propos de ce livre », au début.

@@ -1,6 +1,6 @@
 ## Comment les peptides pénètrent dans l'organisme – et pourquoi c'est difficile
 
-Presque tous les médicaments peptidiques que vous connaissez sont injectés : l'insuline, le sémaglutide, le tirzépatide, le tériparatide. Ce n'est ni un hasard ni une préférence de l'industrie pharmaceutique, mais une conséquence de la biologie. Le corps humain excelle à décomposer les protéines et les peptides – il vit après tout de la dégradation des protéines alimentaires en leurs briques élémentaires. Ce chapitre explique quels obstacles un peptide doit surmonter pour atteindre son site d'action, quelles voies la médecine a trouvées et pourquoi de nombreuses promesses concernant des gouttes, des gélules et des crèmes sont à considérer avec prudence.
+Presque tous les médicaments peptidiques que tu connais sont injectés : l'insuline, le sémaglutide, le tirzépatide, le tériparatide. Ce n'est ni un hasard ni une préférence de l'industrie pharmaceutique, mais une conséquence de la biologie. Le corps humain excelle à décomposer les protéines et les peptides – il vit après tout de la dégradation des protéines alimentaires en leurs briques élémentaires. Ce chapitre explique quels obstacles un peptide doit surmonter pour atteindre son site d'action, quelles voies la médecine a trouvées et pourquoi de nombreuses promesses concernant des gouttes, des gélules et des crèmes sont à considérer avec prudence.
 
 ### Le problème fondamental : la biodisponibilité
 

@@ -1,4 +1,4 @@
-# L'autore
+# Sull'autore
 
 Josef Gallab si occupa da più di cinque anni in modo approfondito di peptidi, sport e biohacking. Gli interessa ciò che fa davvero progredire la salute e le prestazioni – e ciò che resta soltanto una promessa.
 

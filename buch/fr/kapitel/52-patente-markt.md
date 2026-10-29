@@ -81,7 +81,7 @@ Dans les deux pays, la règle est la suivante : le remboursement d'un traitement
 ### Ce que cela signifie pour les patientes et les patients
 
 - **Moins cher ne veut pas dire marché gris.** Avec l'expiration des brevets dans d'autres pays, les offres se réclamant de « génériques » vont se multiplier. Pour l'Autriche et l'Allemagne, seules les préparations autorisées dans ces pays et délivrées en pharmacie sont des médicaments contrôlés.
-- **L'arrêt pour des raisons de coût est fréquent – et a des conséquences.** Dans la prolongation de STEP 1, un an après l'arrêt du sémaglutide, les participants avaient repris en moyenne deux tiers de leur perte de poids, et les améliorations de la pression artérielle et des valeurs sanguines s'étaient largement estompées (Wilding 2022, PMID 35441470). Si vous envisagez d'arrêter pour des raisons de coût, parlez-en à votre médecin.
+- **L'arrêt pour des raisons de coût est fréquent – et a des conséquences.** Dans la prolongation de STEP 1, un an après l'arrêt du sémaglutide, les participants avaient repris en moyenne deux tiers de leur perte de poids, et les améliorations de la pression artérielle et des valeurs sanguines s'étaient largement estompées (Wilding 2022, PMID 35441470). Si tu envisages d'arrêter pour des raisons de coût, parles-en à ton médecin.
 - **Les substances plus anciennes ne sont pas sans valeur.** Le liraglutide ou le dulaglutide sont bien étudiés et ont un bénéfice cardiovasculaire démontré dans le diabète de type 2. Le choix de la substance qui convient dans un cas particulier relève d'une décision médicale.
 
 ### L'essentiel en bref

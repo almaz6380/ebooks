@@ -178,7 +178,7 @@ Aucun autre peptide de ce livre n'est aussi souvent obtenu en dehors des circuit
 
 **Boutiques en ligne illégales :** dans une étude de marché, 42,3 % des liens vers des pharmacies en ligne trouvés menaient à des vendeurs illégaux qui vendaient du sémaglutide sans ordonnance (Ashraf 2024, PMID 39509151). Lors d'achats tests, les stylos d'Ozempic commandés ne sont jamais arrivés. Les flacons livrés contenaient certes du sémaglutide, mais la pureté n'était que de 7,7 % à 14,37 % au lieu des 99 % indiqués, et des endotoxines (composants bactériens pouvant provoquer fièvre et inflammations) ont été détectées dans tous les échantillons.
 
-**Contrefaçons :** des stylos d'Ozempic falsifiés sont apparus en Europe et aux États-Unis, parfois remplis d'insuline ou dépourvus de substance active ; les autorités du médicament et l'Organisation mondiale de la santé ont émis plusieurs mises en garde. Vous trouverez des informations générales sur les produits du marché gris dans les parties I et IV. Seule la voie régulière est sûre : prescription médicale et délivrance en pharmacie.
+**Contrefaçons :** des stylos d'Ozempic falsifiés sont apparus en Europe et aux États-Unis, parfois remplis d'insuline ou dépourvus de substance active ; les autorités du médicament et l'Organisation mondiale de la santé ont émis plusieurs mises en garde. Tu trouveras des informations générales sur les produits du marché gris dans les parties I et IV. Seule la voie régulière est sûre : prescription médicale et délivrance en pharmacie.
 
 ### Statut juridique
 

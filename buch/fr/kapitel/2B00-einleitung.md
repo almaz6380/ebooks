@@ -30,7 +30,7 @@ Aucun peptide de ce groupe n'est autorisé comme médicament dans l'UE ou aux É
 
 ### Conseils de lecture
 
-Les chapitres suivent la structure uniforme de ce livre. Pour ce groupe, soyez particulièrement attentif à trois distinctions :
+Les chapitres suivent la structure uniforme de ce livre. Pour ce groupe, sois particulièrement attentif à trois distinctions :
 
 - **Humain ou animal ?** Pour le BPC-157, le KPV et le TB-500, presque tout ce qui est affirmé sur Internet repose sur des expériences chez le rat, la souris ou en culture cellulaire. Les chapitres le signalent expressément à chaque fois.
 - **Substance active ou valeur mesurée ?** Pour le LL-37, il existe de nombreuses études qui *mesurent* la substance dans le sang, mais peu qui l'*administrent* comme médicament. Seules ces dernières disent quelque chose d'un traitement.
@@ -38,4 +38,4 @@ Les chapitres suivent la structure uniforme de ce livre. Pour ce groupe, soyez p
 
 Deux chapitres contiennent des remarques sur des entrées de registre dont l'authenticité est douteuse : un promoteur a inscrit sur ClinicalTrials.gov à la fois une étude de phase 2 sur le BPC-157 et une étude sur le TB-500, dont l'une se désigne elle-même comme « exemple fictif ». Même une entrée de registre n'est donc pas une preuve qu'une étude a réellement lieu.
 
-Les questions relatives aux produits du marché gris, aux impuretés et au risque théorique de cancer lié aux signaux de croissance et vasculaires sont traitées plus en détail, de manière transversale, au chapitre I.5 et dans la partie IV. Pour les sportives et sportifs : le BPC-157, le TB-500 et l'ARA-290 sont expressément interdits par la WADA ; pour les autres, interrogez votre agence nationale antidopage avant toute utilisation.
+Les questions relatives aux produits du marché gris, aux impuretés et au risque théorique de cancer lié aux signaux de croissance et vasculaires sont traitées plus en détail, de manière transversale, au chapitre I.5 et dans la partie IV. Pour les sportives et sportifs : le BPC-157, le TB-500 et l'ARA-290 sont expressément interdits par la WADA ; pour les autres, interroge ton agence nationale antidopage avant toute utilisation.

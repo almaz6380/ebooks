@@ -2,7 +2,7 @@
 
 Quiconque cherche des peptides sur Internet aboutit rapidement à des boutiques en ligne aux pages d'apparence professionnelle, avec des photos de laboratoire et des certificats de pureté. On y propose des flacons de poudre blanche : BPC-157, TB-500, ipamoréline, Melanotan II – et de plus en plus aussi du sémaglutide, du tirzépatide ou des substances encore non autorisées comme le rétatrutide. Presque toujours figure quelque part la mention « Research Use Only » ou « not for human consumption » – uniquement à des fins de recherche, pas pour un usage chez l'humain.
 
-Ce chapitre décrit ce que l'on sait de ce marché : grâce aux analyses en laboratoire de produits achetés et saisis, aux rapports de cas d'intoxication et aux analyses des notifications d'effets indésirables. Il doit vous aider à évaluer les risques de façon réaliste. Ce livre ne cite par principe aucune source d'approvisionnement.
+Ce chapitre décrit ce que l'on sait de ce marché : grâce aux analyses en laboratoire de produits achetés et saisis, aux rapports de cas d'intoxication et aux analyses des notifications d'effets indésirables. Il doit t'aider à évaluer les risques de façon réaliste. Ce livre ne cite par principe aucune source d'approvisionnement.
 
 ### Ce que sont les « Research Peptides »
 
@@ -124,11 +124,11 @@ Les raisons de se tourner vers le marché gris sont multiples : prix élevés et
 
 Ces motivations sont compréhensibles. Les analyses de ce chapitre montrent cependant que les acheteuses et acheteurs du marché gris ne peuvent pas savoir ce qu'ils reçoivent réellement.
 
-### Si vous avez déjà utilisé des peptides du marché gris
+### Si tu as déjà utilisé des peptides du marché gris
 
 Ce livre ne donne pas de conseils d'utilisation. Quelques points généraux sont toutefois importants pour des raisons de sécurité :
 
-- Informez votre médecin de toutes les injections, de tous les peptides et de tous les « produits chimiques de recherche » que vous utilisez – même si vous ne les considérez pas comme des médicaments.
+- Informe ton médecin de toutes les injections, de tous les peptides et de tous les « produits chimiques de recherche » que tu utilises – même si tu ne les considères pas comme des médicaments.
 - Des troubles inattendus comme des tremblements, des sueurs, une confusion ou des troubles de la conscience après une injection peuvent indiquer une hypoglycémie et constituent une urgence.
 - Les produits suspects et les effets indésirables peuvent être signalés aux autorités : en Allemagne à l'Institut fédéral des médicaments et des dispositifs médicaux (BfArM), en Autriche à l'Office fédéral pour la sécurité dans le domaine de la santé (BASG).
 

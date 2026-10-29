@@ -107,7 +107,7 @@ Sous le nom de « PT-141 », le brémélanotide est proposé sur Internet sous f
 - **Allemagne et Autriche :** pas d'autorisation. L'importation individuelle d'un médicament autorisé aux États-Unis sur prescription médicale est juridiquement possible dans des limites étroites ; les produits du marché gris n'en relèvent pas.
 - **États-Unis :** autorisé depuis juin 2019 (Vyleesi) pour les femmes non ménopausées atteintes de HSDD acquis et généralisé. Non autorisé pour les hommes, pour les femmes ménopausées ni pour augmenter le désir chez les personnes en bonne santé. Les droits de commercialisation ont changé de mains plusieurs fois ; selon les registres, c'est désormais la société Cosette Pharmaceuticals qui en est responsable.
 - **Autres pays :** en Corée du Sud, une étude de transposition (bridging study) a été menée chez 193 femmes en vue d'une autorisation locale (NCT04943068).
-- **AMA (WADA) :** pas mentionné nommément. Veuillez consulter la liste des interdictions en vigueur.
+- **AMA (WADA) :** pas mentionné nommément. Consulte la liste des interdictions en vigueur.
 
 ### Études en cours et perspectives
 

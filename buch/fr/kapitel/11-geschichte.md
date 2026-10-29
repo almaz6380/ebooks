@@ -1,6 +1,6 @@
 ## Brève histoire : de l'insuline aux médicaments GLP-1
 
-L'histoire des médicaments peptidiques est une histoire de percées, de fausses pistes et de hasards étonnants. Elle commence par une expérience désespérée à Toronto, passe par le venin d'un lézard du désert américain et aboutit – provisoirement – à des piqûres amaigrissantes qui comptent parmi les médicaments les plus vendus au monde. Ce chapitre en retrace les principales étapes. Il doit vous aider à mettre en perspective l'effervescence actuelle autour des peptides : beaucoup de ce qui est présenté comme révolutionnaire repose sur cent ans de recherche laborieuse.
+L'histoire des médicaments peptidiques est une histoire de percées, de fausses pistes et de hasards étonnants. Elle commence par une expérience désespérée à Toronto, passe par le venin d'un lézard du désert américain et aboutit – provisoirement – à des piqûres amaigrissantes qui comptent parmi les médicaments les plus vendus au monde. Ce chapitre en retrace les principales étapes. Il doit t'aider à mettre en perspective l'effervescence actuelle autour des peptides : beaucoup de ce qui est présenté comme révolutionnaire repose sur cent ans de recherche laborieuse.
 
 ### Avant 1922 : la découverte des messagers chimiques
 

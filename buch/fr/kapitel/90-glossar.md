@@ -1,6 +1,6 @@
 # Glossaire
 
-Les explications qui suivent sont volontairement brèves. Vous trouverez des présentations plus détaillées dans les chapitres de la partie I, en particulier « Ce que sont les peptides – et ce qu'ils ne sont pas » et « Bien lire les études ».
+Les explications qui suivent sont volontairement brèves. Tu trouveras des présentations plus détaillées dans les chapitres de la partie I, en particulier « Ce que sont les peptides – et ce qu'ils ne sont pas » et « Bien lire les études ».
 
 ### A
 

@@ -92,7 +92,7 @@ Ce que l'on sait à ce sujet :
 - **Il n'existe aucune étude** sur la gonadoréline dans cette situation. Les données sur la PCT en général sont minces ; presque seuls les anti-œstrogènes, la hCG et les inhibiteurs de l'aromatase ont été étudiés, et là aussi il s'agit surtout de données observationnelles. Du point de vue scientifique, une PCT n'est majoritairement pas recommandée (Smit 2026, PMID 42644333).
 - **La récupération se fait le plus souvent d'elle-même.** Dans l'étude néerlandaise HAARLEM portant sur 100 pratiquants de musculation, la testostérone s'était normalisée chez la plupart trois mois après la fin de la cure de stéroïdes ; après un an, elle restait inférieure aux valeurs normales chez 11 %, et le nombre de spermatozoïdes était encore abaissé chez 34 % (Smit 2021, PMID 33550376).
 - **Le principe d'action plaide contre une utilisation naïve.** Des injections isolées ne produisent que de brefs pics de LH ; des administrations fréquentes risquent plutôt d'émousser la réponse de l'hypophyse. Sans pompe ni contrôle biologique, aucun bénéfice n'est à attendre, et un retard de la récupération ne peut être exclu.
-- **Si vous présentez des troubles après une prise de stéroïdes**, par exemple un manque d'élan, une perte de libido ou un désir d'enfant non satisfait, faites-les évaluer par un médecin, idéalement dans une consultation d'andrologie ou d'endocrinologie.
+- **Si tu présentes des troubles après une prise de stéroïdes**, par exemple un manque d'élan, une perte de libido ou un désir d'enfant non satisfait, fais-les évaluer par un médecin, idéalement dans une consultation d'andrologie ou d'endocrinologie.
 
 Dans le sport, la gonadoréline est interdite pour les hommes. Les laboratoires antidopage ont mis au point leurs propres méthodes de détection ; une revue présente la gonadoréline comme exemple de peptide détourné ces dernières années dans le sport de compétition (Torrini 2023, PMID 36858006).
 
@@ -102,7 +102,7 @@ Dans le sport, la gonadoréline est interdite pour les hommes. Les laboratoires 
 
 - **UE :** pas d'autorisation centralisée de l'UE ; autorisations nationales dans plusieurs États membres, notamment comme produit diagnostique, pour le traitement pulsatile par pompe et comme spray nasal dans la cryptorchidie. Les préparations sont soumises à prescription.
 - **Allemagne :** des préparations pour le test à la GnRH et pour le traitement par pompe étaient ou sont commercialisées ; la disponibilité actuelle fluctue. Le traitement a lieu dans des centres spécialisés.
-- **Autriche :** soumise à prescription ; veuillez vérifier la disponibilité actuelle des différentes préparations dans la liste des spécialités pharmaceutiques.
+- **Autriche :** soumise à prescription ; vérifie la disponibilité actuelle des différentes préparations dans la liste des spécialités pharmaceutiques.
 - **États-Unis :** les préparations à usage humain autrefois autorisées ont été retirées du marché. La gonadoréline serait proposée par des pharmacies de préparation ; l'évaluation réglementaire de ces préparations est en évolution. Les médicaments vétérinaires contenant de la gonadoréline ne sont pas destinés à l'humain.
 - **AMA (WADA) :** S2 – interdite pour les hommes en compétition et hors compétition.
 

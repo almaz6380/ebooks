@@ -2,11 +2,11 @@
 
 ### Ne remplace pas un avis médical
 
-Ce livre a pour seul objet l'information et la formation générales. Il ne remplace ni une consultation médicale, ni un diagnostic, ni un traitement. Avant de prendre des décisions concernant votre santé, de commencer, d'arrêter ou de modifier un médicament, parlez-en à un médecin ou à un pharmacien. En cas de troubles aigus, adressez-vous au service médical d'urgence ou appelez les secours.
+Ce livre a pour seul objet l'information et la formation générales. Il ne remplace ni une consultation médicale, ni un diagnostic, ni un traitement. Avant de prendre des décisions concernant ta santé, de commencer, d'arrêter ou de modifier un médicament, parles-en à un médecin ou à un pharmacien. En cas de troubles aigus, adresse-toi au service médical d'urgence ou appelle les secours.
 
 ### Aucune recommandation d'utilisation
 
-Ce livre ne contient délibérément aucune recommandation d'utilisation de peptides, aucune posologie, aucun mode d'emploi pour la prise ou l'injection, aucun cycle d'utilisation et aucune recommandation d'association. Lorsqu'une dose est mentionnée dans le texte, elle décrit uniquement ce qui a été étudié dans une étude donnée. Il ne s'agit pas d'une recommandation, et elle ne peut pas être transposée à votre situation personnelle. Pour les médicaments autorisés, ce sont le résumé des caractéristiques du produit, la notice et l'accompagnement médical qui font foi.
+Ce livre ne contient délibérément aucune recommandation d'utilisation de peptides, aucune posologie, aucun mode d'emploi pour la prise ou l'injection, aucun cycle d'utilisation et aucune recommandation d'association. Lorsqu'une dose est mentionnée dans le texte, elle décrit uniquement ce qui a été étudié dans une étude donnée. Il ne s'agit pas d'une recommandation, et elle ne peut pas être transposée à ta situation personnelle. Pour les médicaments autorisés, ce sont le résumé des caractéristiques du produit, la notice et l'accompagnement médical qui font foi.
 
 ### De nombreuses substances ne sont pas autorisées
 
@@ -24,7 +24,7 @@ Les informations de ce livre correspondent à l'**état de novembre 2026**. Les 
 
 Pour ce livre, les bases de données PubMed et ClinicalTrials.gov ont été systématiquement interrogées et les résumés des études trouvées ont été analysés.
 
-Pour éviter les erreurs, des règles strictes s'appliquent : chaque étude citée est accompagnée de son numéro PubMed (PMID) ou de son numéro d'enregistrement sur ClinicalTrials.gov (numéro NCT). Chaque chiffre provient du résumé de la publication concernée ou de l'entrée du registre. Tous les numéros cités ont en outre été vérifiés automatiquement dans les bases de données. Vous pouvez ainsi consulter vous-même chaque source et vérifier les indications. La section suivante explique comment procéder ; vous trouverez des détails sur la recherche documentaire dans l'annexe « Méthodologie ».
+Pour éviter les erreurs, des règles strictes s'appliquent : chaque étude citée est accompagnée de son numéro PubMed (PMID) ou de son numéro d'enregistrement sur ClinicalTrials.gov (numéro NCT). Chaque chiffre provient du résumé de la publication concernée ou de l'entrée du registre. Tous les numéros cités ont en outre été vérifiés automatiquement dans les bases de données. Tu peux ainsi consulter toi-même chaque source et vérifier les indications. La section suivante explique comment procéder ; tu trouveras des détails sur la recherche documentaire dans l'annexe « Méthodologie ».
 
 # À propos de ce livre
 
@@ -32,7 +32,7 @@ Pour éviter les erreurs, des règles strictes s'appliquent : chaque étude cit�
 
 Les peptides sont sur toutes les lèvres. Les « piqûres pour maigrir » comme le sémaglutide et le tirzépatide ont transformé le traitement de l'excès de poids, et des dizaines d'autres peptides sont proposés sur Internet – pour une guérison plus rapide, plus de muscles, une plus belle peau, plus d'énergie ou une vie plus longue. Entre les promesses des forums, des réseaux sociaux et des boutiques en ligne et ce qui a réellement été étudié chez l'humain, l'écart est souvent considérable.
 
-Ce livre veut rendre cet écart visible. Pour chaque peptide traité, il expose sobrement quelles études chez l'humain existent, ce qu'elles montrent et ce qu'elles ne montrent pas, quels risques sont connus et quelle est la situation juridique. Il compare les peptides entre eux et évalue la solidité des preuves dans chaque cas. Il doit vous aider à examiner les affirmations d'un œil critique et à mener des discussions éclairées avec les médecins et les pharmacies.
+Ce livre veut rendre cet écart visible. Pour chaque peptide traité, il expose sobrement quelles études chez l'humain existent, ce qu'elles montrent et ce qu'elles ne montrent pas, quels risques sont connus et quelle est la situation juridique. Il compare les peptides entre eux et évalue la solidité des preuves dans chaque cas. Il doit t'aider à examiner les affirmations d'un œil critique et à mener des discussions éclairées avec les médecins et les pharmacies.
 
 ### À qui s'adresse ce livre
 
@@ -45,9 +45,9 @@ Aucune connaissance préalable n'est nécessaire. Les termes techniques sont exp
 
 ### Comment le livre est organisé
 
-**Partie I – Notions de base** explique ce que sont les peptides, comment la médecine peptidique s'est développée, comment les peptides pénètrent dans l'organisme, comment lire les études, ce qui se passe sur le marché gris et quel cadre juridique s'applique. Si ces sujets ne vous sont pas familiers, commencez par là.
+**Partie I – Notions de base** explique ce que sont les peptides, comment la médecine peptidique s'est développée, comment les peptides pénètrent dans l'organisme, comment lire les études, ce qui se passe sur le marché gris et quel cadre juridique s'applique. Si ces sujets ne te sont pas familiers, commence par là.
 
-**Partie II – Les peptides** présente les différentes substances actives en six groupes : métabolisme et poids ; guérison, régénération et système immunitaire ; axe de l'hormone de croissance ; cerveau, sommeil et longévité ; hormones, sexualité et pigmentation ; collagène, nutrition et cosmétique. Chaque chapitre suit la même structure : fiche signalétique, mode d'action, études chez l'humain, études animales et de laboratoire, risques et effets indésirables, statut juridique, études en cours et perspectives, conclusion. Vous pouvez ainsi comparer facilement les peptides entre eux et faire des recherches ciblées.
+**Partie II – Les peptides** présente les différentes substances actives en six groupes : métabolisme et poids ; guérison, régénération et système immunitaire ; axe de l'hormone de croissance ; cerveau, sommeil et longévité ; hormones, sexualité et pigmentation ; collagène, nutrition et cosmétique. Chaque chapitre suit la même structure : fiche signalétique, mode d'action, études chez l'humain, études animales et de laboratoire, risques et effets indésirables, statut juridique, études en cours et perspectives, conclusion. Tu peux ainsi comparer facilement les peptides entre eux et faire des recherches ciblées.
 
 **Partie III – La grande comparaison** met tous les peptides côte à côte et compare directement les médicaments GLP-1.
 
@@ -55,7 +55,7 @@ Aucune connaissance préalable n'est nécessaire. Les termes techniques sont exp
 
 **Partie V – Avenir** se penche sur les produits en développement, les nouvelles formes galéniques, l'expiration des brevets et les prix. Les faits établis et les estimations y sont clairement distingués.
 
-Dans l'**annexe**, vous trouverez le glossaire, la méthodologie de la recherche documentaire et la liste des études analysées.
+Dans l'**annexe**, tu trouveras le glossaire, la méthodologie de la recherche documentaire et la liste des études analysées.
 
 ### Les niveaux de preuve
 
@@ -82,21 +82,21 @@ Les notes sont regroupées à la fin de chaque chapitre ; l'index complet des é
 
 **PMID** : l'identifiant PubMed est un numéro unique attribué à chaque entrée de PubMed, la base de données bibliographique en libre accès de la National Library of Medicine américaine.
 
-1. Ouvrez dans votre navigateur la page pubmed.ncbi.nlm.nih.gov.
-2. Saisissez le numéro dans le champ de recherche, par exemple 33567185, et lancez la recherche.
-3. Vous accédez directement à l'entrée avec le titre, les autrices et auteurs, la revue et, le plus souvent, un résumé (abstract).
+1. Ouvre dans ton navigateur la page pubmed.ncbi.nlm.nih.gov.
+2. Saisis le numéro dans le champ de recherche, par exemple 33567185, et lance la recherche.
+3. Tu accèdes directement à l'entrée avec le titre, les autrices et auteurs, la revue et, le plus souvent, un résumé (abstract).
 
-Vous pouvez aussi ajouter directement le numéro à l'adresse : pubmed.ncbi.nlm.nih.gov/33567185. De nombreuses entrées contiennent un lien vers le texte intégral, disponible parfois gratuitement, parfois uniquement contre paiement.
+Tu peux aussi ajouter directement le numéro à l'adresse : pubmed.ncbi.nlm.nih.gov/33567185. De nombreuses entrées contiennent un lien vers le texte intégral, disponible parfois gratuitement, parfois uniquement contre paiement.
 
-**Numéro NCT** : vous trouverez les études enregistrées sur le site clinicaltrials.gov en saisissant le numéro dans le champ de recherche ou en l'ajoutant à l'adresse clinicaltrials.gov/study/, par exemple clinicaltrials.gov/study/NCT03548935. Vous y verrez le plan de l'étude, le nombre de participants, les critères d'évaluation et le statut actuel.
+**Numéro NCT** : tu trouveras les études enregistrées sur le site clinicaltrials.gov en saisissant le numéro dans le champ de recherche ou en l'ajoutant à l'adresse clinicaltrials.gov/study/, par exemple clinicaltrials.gov/study/NCT03548935. Tu y verras le plan de l'étude, le nombre de participants, les critères d'évaluation et le statut actuel.
 
 ### Ce que ce livre ne contient délibérément pas
 
 - **Aucune posologie ni mode d'emploi.** Il n'y a aucune indication sur la quantité, la fréquence ou la durée d'utilisation d'un peptide, aucun mode d'emploi pour la dissolution ou l'injection et aucune association de plusieurs substances. Pour les médicaments autorisés, le livre renvoie au résumé des caractéristiques du produit et à l'accompagnement médical.
 - **Aucune source d'approvisionnement.** Aucune boutique, aucun fabricant, aucune pharmacie ni aucun pays où l'on peut se procurer des peptides n'est cité, et aucune indication n'est donnée sur la manière de contourner les contrôles.
-- **Aucune promesse de guérison.** Le livre rapporte ce qui a été observé dans les études – et non ce qu'une substance produira chez vous.
+- **Aucune promesse de guérison.** Le livre rapporte ce qui a été observé dans les études – et non ce qu'une substance produira chez toi.
 - **Aucune recommandation de produit.** Ni marques ni fournisseurs ne sont recommandés. Les noms commerciaux de médicaments autorisés ne sont mentionnés que lorsqu'ils sont nécessaires à la compréhension.
 
 ### Un dernier mot
 
-Ce livre est un outil de réflexion, pas un guide d'automédication. Si vous avez plus de questions après la lecture qu'avant, ce n'est pas mauvais signe : souvent, la réponse la plus honnête à la question « Ce peptide est-il efficace ? » est « Personne ne le sait encore ».
+Ce livre est un outil de réflexion, pas un guide d'automédication. Si tu as plus de questions après la lecture qu'avant, ce n'est pas mauvais signe : souvent, la réponse la plus honnête à la question « Ce peptide est-il efficace ? » est « Personne ne le sait encore ».

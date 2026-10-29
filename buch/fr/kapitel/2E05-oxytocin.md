@@ -27,7 +27,7 @@ En tant que peptide, l'ocytocine est trop grosse et trop hydrosoluble pour franc
 - **Observations chez l'humain :** une étude a comparé spray nasal, nébuliseur et perfusion. La diminution de la perfusion sanguine de l'amygdale s'expliquait entièrement par la hausse dans le sang ; il y avait en même temps des indices d'effets directs par voie nasale dans d'autres régions (Martins 2020, PMID 32127545).
 - **Problèmes de mesure :** les taux sanguins d'ocytocine ne reflètent pas les valeurs cérébrales dans des conditions de repos (Valstad 2017, PMID 28442403). Beaucoup d'études plus anciennes utilisaient en outre des méthodes de mesure aujourd'hui considérées comme peu fiables (Leng 2016, PMID 26049207).
 
-Les spécialistes qui portent un regard globalement positif sur le domaine considèrent désormais comme démontrée une voie directe du nez vers le cerveau, mais soulignent que la dose, la technique de pulvérisation et le sexe des participants influencent fortement les résultats (Quintana 2021, PMID 32807845). Pour vous, lectrices et lecteurs, cela signifie : l'arrivée d'un spray nasal d'ocytocine dans le cerveau dépend de nombreux détails, et même les spécialistes ne s'accordent pas sur l'ordre de grandeur.
+Les spécialistes qui portent un regard globalement positif sur le domaine considèrent désormais comme démontrée une voie directe du nez vers le cerveau, mais soulignent que la dose, la technique de pulvérisation et le sexe des participants influencent fortement les résultats (Quintana 2021, PMID 32807845). Pour toi, lectrice ou lecteur, cela signifie : l'arrivée d'un spray nasal d'ocytocine dans le cerveau dépend de nombreux détails, et même les spécialistes ne s'accordent pas sur l'ordre de grandeur.
 
 #### En bref : l'ocytocine en obstétrique
 

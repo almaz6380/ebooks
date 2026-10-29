@@ -73,15 +73,15 @@ La liste de contrôle suivante aide à évaluer les affirmations sur les peptide
 #### Questions sur la source
 
 - **Qui parle ?** La personne ou le site vend-il lui-même la substance, propose-t-il des cours, des consultations ou des codes de réduction ? Un intérêt financier ne rend pas une affirmation fausse, mais c'est une raison d'y regarder de plus près.
-- **Des études sont-elles citées – et peut-on les retrouver ?** Les affirmations sérieuses indiquent une source vérifiable : un PMID, un DOI ou un numéro de registre (NCT). Vous pouvez saisir gratuitement n'importe quel PMID dans PubMed et lire vous-même le résumé. Des formulations comme « des études montrent » sans référence concrète sont un signal d'alerte.
-- **L'étude citée correspond-elle à l'affirmation ?** Vérifiez si l'étude a réellement porté sur la substance vendue, sur l'usage promu et sur des humains – ou s'il s'agissait d'une molécule apparentée, d'une autre maladie ou de rats.
+- **Des études sont-elles citées – et peut-on les retrouver ?** Les affirmations sérieuses indiquent une source vérifiable : un PMID, un DOI ou un numéro de registre (NCT). Tu peux saisir gratuitement n'importe quel PMID dans PubMed et lire toi-même le résumé. Des formulations comme « des études montrent » sans référence concrète sont un signal d'alerte.
+- **L'étude citée correspond-elle à l'affirmation ?** Vérifie si l'étude a réellement porté sur la substance vendue, sur l'usage promu et sur des humains – ou s'il s'agissait d'une molécule apparentée, d'une autre maladie ou de rats.
 
 #### Questions sur l'étude
 
 - **Humain, animal ou culture cellulaire ?** Si le résumé mentionne « rats », « mice », « in vitro » ou « cell culture », il ne dit rien de l'effet chez l'humain.
 - **Y avait-il un groupe de comparaison ?** Sans groupe placebo ou témoin, on ne peut pas distinguer si une amélioration est due à la substance, au temps, à d'autres traitements ou à l'attente. L'effet placebo est particulièrement important pour la douleur, l'humeur ou le sommeil.
 - **Combien de participants ?** Des études portant sur 10 ou 20 personnes peuvent fournir des indices, mais pas démontrer un bénéfice ni détecter des effets indésirables rares.
-- **Qu'a-t-on mesuré ?** Une valeur de laboratoire qui augmente n'est pas un bénéfice tangible. Demandez-vous : a-t-on mesuré ce qui compte pour les personnes concernées – douleur, fonction, événements pathologiques, qualité de vie ?
+- **Qu'a-t-on mesuré ?** Une valeur de laboratoire qui augmente n'est pas un bénéfice tangible. Demande-toi : a-t-on mesuré ce qui compte pour les personnes concernées – douleur, fonction, événements pathologiques, qualité de vie ?
 - **L'étude a-t-elle été enregistrée au préalable ?** Un enregistrement sur ClinicalTrials.gov ou dans le registre de l'UE avant le début de l'étude empêche de choisir après coup des objectifs qui arrangent.
 - **Le résultat a-t-il été reproduit ?** Un résultat positif isolé obtenu par un seul groupe de recherche est un début, pas une preuve.
 
@@ -104,7 +104,7 @@ La liste de contrôle suivante aide à évaluer les affirmations sur les peptide
 
 #### Trois questions pour la vie quotidienne
 
-Si vous avez peu de temps, trois questions suffisent souvent :
+Si tu as peu de temps, trois questions suffisent souvent :
 
 1. La substance est-elle autorisée comme médicament dans l'UE ou aux États-Unis pour exactement cet usage ?
 2. Existe-t-il au moins une étude randomisée, contrôlée contre placebo chez l'humain, qui a montré le bénéfice allégué ?

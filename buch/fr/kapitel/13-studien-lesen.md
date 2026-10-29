@@ -1,6 +1,6 @@
 ## Bien lire les études
 
-« Des études montrent … » – rares sont les formules aussi souvent utilisées dans la publicité pour les peptides. Elle peut désigner à peu près n'importe quoi : un essai sur des cellules dans une boîte de Petri, une expérience sur douze rats, le témoignage d'un seul patient ou une étude portant sur 17 000 participants pendant plus de trois ans. Pour évaluer les peptides, il faut connaître ces différences. Ce chapitre est une sorte de boîte à outils. Il explique les principaux types d'études, les pièges de l'interprétation des résultats et la manière dont vous pouvez vérifier vous-même ce qui se cache derrière une affirmation.
+« Des études montrent … » – rares sont les formules aussi souvent utilisées dans la publicité pour les peptides. Elle peut désigner à peu près n'importe quoi : un essai sur des cellules dans une boîte de Petri, une expérience sur douze rats, le témoignage d'un seul patient ou une étude portant sur 17 000 participants pendant plus de trois ans. Pour évaluer les peptides, il faut connaître ces différences. Ce chapitre est une sorte de boîte à outils. Il explique les principaux types d'études, les pièges de l'interprétation des résultats et la manière dont tu peux vérifier toi-même ce qui se cache derrière une affirmation.
 
 ### La pyramide des preuves
 
@@ -38,7 +38,7 @@ Pour ce livre, cela a une conséquence claire : lorsque seules des données anim
 
 ### Rapports de cas et études observationnelles
 
-Les **rapports de cas** décrivent des patientes ou patients individuels. Ils disent peu de chose sur l'efficacité, mais peuvent être très précieux pour la sécurité : les effets indésirables rares ou inattendus sont souvent repérés d'abord dans des rapports de cas. Dans le chapitre sur le marché gris, vous découvrirez plusieurs de ces rapports, par exemple sur des hypoglycémies sévères dues à des préparations contrefaites.
+Les **rapports de cas** décrivent des patientes ou patients individuels. Ils disent peu de chose sur l'efficacité, mais peuvent être très précieux pour la sécurité : les effets indésirables rares ou inattendus sont souvent repérés d'abord dans des rapports de cas. Dans le chapitre sur le marché gris, tu découvriras plusieurs de ces rapports, par exemple sur des hypoglycémies sévères dues à des préparations contrefaites.
 
 Les **études observationnelles** comparent des personnes qui prennent une substance à des personnes qui ne la prennent pas. Leur principal problème est le **facteur de confusion** (confounding) : les personnes qui prennent une préparation donnée diffèrent souvent aussi sur d'autres points – par exemple le revenu, le souci de leur santé ou les antécédents médicaux. Une association constatée n'est donc pas forcément une relation de cause à effet.
 
@@ -86,7 +86,7 @@ La distinction entre **critères d'évaluation durs** et **critères de substitu
 
 Les critères de substitution sont pratiques, car ils se mesurent plus rapidement et avec moins de participants. Mais ils peuvent induire en erreur. L'exemple le plus connu est le Cardiac Arrhythmia Suppression Trial (CAST) de la fin des années 1980. On partait du principe que les médicaments supprimant certains troubles du rythme cardiaque après un infarctus empêchaient aussi des décès. Les médicaments supprimaient effectivement les troubles du rythme – le critère de substitution était atteint. Mais dans l'étude randomisée, davantage de personnes sont décédées sous deux de ces médicaments que sous placebo : 43 participants sous substance active sont morts de troubles du rythme, contre 16 sous placebo (Echt 1991, PMID 1900101).
 
-Avec les peptides, vous rencontrerez constamment des critères de substitution. Pour les stimulateurs de la sécrétion d'hormone de croissance, on mesure souvent seulement si le taux d'hormone de croissance ou d'IGF-1 augmente – et non si les personnes deviennent ainsi plus saines, plus fortes ou vivent plus longtemps. Pour les médicaments GLP-1, en revanche, il existe désormais de grandes études avec des critères durs comme l'infarctus et l'AVC. C'est l'une des raisons pour lesquelles ils reçoivent dans ce livre le niveau de preuve le plus élevé.
+Avec les peptides, tu rencontreras constamment des critères de substitution. Pour les stimulateurs de la sécrétion d'hormone de croissance, on mesure souvent seulement si le taux d'hormone de croissance ou d'IGF-1 augmente – et non si les personnes deviennent ainsi plus saines, plus fortes ou vivent plus longtemps. Pour les médicaments GLP-1, en revanche, il existe désormais de grandes études avec des critères durs comme l'infarctus et l'AVC. C'est l'une des raisons pour lesquelles ils reçoivent dans ce livre le niveau de preuve le plus élevé.
 
 ### Risques relatifs et absolus
 
@@ -99,7 +99,7 @@ On peut en tirer deux affirmations, toutes deux exactes :
 
 À partir de la différence absolue, on peut calculer le **nombre de sujets à traiter (NST, en anglais Number Needed to Treat, NNT)** : combien de personnes doivent être traitées pour qu'une d'entre elles évite un événement. Ici, ce sont mathématiquement environ 67 personnes sur un peu plus de trois ans. Cela ne signifie pas que le traitement est sans importance – avec des millions de personnes concernées, l'effet est considérable. Mais cela montre que la plupart des personnes traitées n'auraient pas eu d'événement même sans médicament, et que certaines en ont un malgré le médicament.
 
-La publicité et les gros titres privilégient les chiffres relatifs, parce qu'ils paraissent plus impressionnants. Les bons comptes rendus d'études donnent les deux. Soyez donc toujours attentif à la fréquence de départ : une « division par deux » du risque de 2 à 1 sur 10 000 est tout autre chose qu'une baisse de 20 à 10 sur 100.
+La publicité et les gros titres privilégient les chiffres relatifs, parce qu'ils paraissent plus impressionnants. Les bons comptes rendus d'études donnent les deux. Sois donc toujours attentif à la fréquence de départ : une « division par deux » du risque de 2 à 1 sur 10 000 est tout autre chose qu'une baisse de 20 à 10 sur 100.
 
 Il en va de même pour les effets indésirables. Dans SELECT, 16,6 % des participants sous sémaglutide ont arrêté le traitement en raison d'événements indésirables, contre 8,2 % sous placebo (Lincoff 2023, PMID 37952131). En relatif, c'est un doublement ; en absolu, une différence de 8,4 points de pourcentage.
 
@@ -176,5 +176,5 @@ Le niveau évalue la **quantité et la qualité des données chez l'humain**, et
 - Les études de laboratoire et animales fournissent des indices sur les mécanismes, mais aucune preuve d'un bénéfice chez l'humain.
 - La comparaison randomisée, contrôlée et en aveugle est le moyen le plus fiable de démontrer un effet.
 - Les critères de substitution comme les valeurs biologiques peuvent induire en erreur ; ce sont les critères durs qui comptent.
-- Les chiffres relatifs paraissent plus impressionnants que les chiffres absolus. Demandez toujours quelle est la fréquence de départ.
+- Les chiffres relatifs paraissent plus impressionnants que les chiffres absolus. Demande toujours quelle est la fréquence de départ.
 - Le financement, le biais de publication et l'absence de confirmation par des groupes indépendants peuvent fausser le tableau. Les registres d'études aident à le vérifier.

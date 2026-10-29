@@ -2,7 +2,7 @@
 
 Qu'un peptide soit un médicament soumis à prescription, un complément alimentaire, un produit cosmétique ou un produit dopant interdit ne dépend pas uniquement de la molécule. Ce qui compte aussi, c'est sa destination, la manière dont il est proposé et son mode d'action dans l'organisme. Le même peptide de collagène peut se trouver en rayon au supermarché en tant que denrée alimentaire ; un peptide ayant un effet de type hormonal démontrable est en revanche presque toujours un médicament – quoi qu'il soit écrit sur l'étiquette. Ce chapitre donne une vue d'ensemble des règles en vigueur dans l'Union européenne, en Autriche, en Allemagne et aux États-Unis, ainsi que des règles antidopage.
 
-> **Avertissement important :** ce chapitre reflète l'état 2026 en toute bonne foi et ne constitue pas un conseil juridique. Les lois, les règlements, la pratique des autorités et la liste des interdictions de l'Agence mondiale antidopage changent régulièrement. Veuillez vérifier la situation juridique actuelle au cas par cas et, pour des questions concrètes, vous adresser à une avocate, un avocat ou à l'autorité compétente.
+> **Avertissement important :** ce chapitre reflète l'état 2026 en toute bonne foi et ne constitue pas un conseil juridique. Les lois, les règlements, la pratique des autorités et la liste des interdictions de l'Agence mondiale antidopage changent régulièrement. Vérifie la situation juridique actuelle au cas par cas et, pour des questions concrètes, adresse-toi à une avocate, un avocat ou à l'autorité compétente.
 
 ### Trois tiroirs : médicaments, denrées alimentaires, cosmétiques
 
@@ -95,7 +95,7 @@ Aux États-Unis, c'est la **Food and Drug Administration (FDA)** qui est compét
 
 Les **compléments alimentaires** (dietary supplements) peuvent, depuis une loi de 1994, être commercialisés en grande partie sans contrôle préalable. Une substance d'abord autorisée comme médicament ou étudiée cliniquement à grande échelle comme médicament ne peut toutefois en principe pas être vendue ultérieurement comme complément alimentaire. Pour cette raison, de nombreux peptides ne peuvent pas être commercialisés légalement comme compléments aux États-Unis.
 
-**Préparations magistrales (compounding)** : les pharmacies américaines peuvent, sous certaines conditions, préparer elles-mêmes des médicaments – individuellement pour des patientes et patients déterminés ou à plus grande échelle dans des établissements soumis à une surveillance particulière. En cas de pénurie de médicaments autorisés, elles peuvent aussi en fabriquer des copies. Depuis la fin des pénuries de sémaglutide et de tirzépatide, le droit américain ne les autorise plus qu'à fabriquer des préparations différentes (Belcourt 2026, PMID 41689811). La FDA fixe dans des listes les substances qui peuvent être utilisées comme matières premières pour les préparations magistrales. À notre connaissance, la FDA a classé plusieurs peptides populaires du marché gris, dont le BPC-157, comme inadaptés aux préparations magistrales en raison de préoccupations de sécurité. Ces listes et le débat politique à leur sujet évoluent ; veuillez vérifier la situation actuelle.
+**Préparations magistrales (compounding)** : les pharmacies américaines peuvent, sous certaines conditions, préparer elles-mêmes des médicaments – individuellement pour des patientes et patients déterminés ou à plus grande échelle dans des établissements soumis à une surveillance particulière. En cas de pénurie de médicaments autorisés, elles peuvent aussi en fabriquer des copies. Depuis la fin des pénuries de sémaglutide et de tirzépatide, le droit américain ne les autorise plus qu'à fabriquer des préparations différentes (Belcourt 2026, PMID 41689811). La FDA fixe dans des listes les substances qui peuvent être utilisées comme matières premières pour les préparations magistrales. À notre connaissance, la FDA a classé plusieurs peptides populaires du marché gris, dont le BPC-157, comme inadaptés aux préparations magistrales en raison de préoccupations de sécurité. Ces listes et le débat politique à leur sujet évoluent ; vérifie la situation actuelle.
 
 **« Research Use Only »** : la vente aux consommatrices et consommateurs de peptides portant la mention « uniquement à des fins de recherche » se situe aussi aux États-Unis dans une zone grise juridique, que des spécialistes décrivent comme un contournement de l'obligation de prescription (Belcourt 2025, PMID 39285774). La FDA a adressé des lettres d'avertissement à certains vendeurs.
 
@@ -123,7 +123,7 @@ En droit antidopage s'applique le principe de la **responsabilité objective** :
 
 Les laboratoires de contrôle antidopage développent en permanence des méthodes de détection pour de nouveaux peptides, souvent à partir de produits saisis (Cox 2017, PMID 28035768). Qu'une substance n'ait pas été détectable hier ne signifie pas qu'elle ne le sera pas demain – et des échantillons congelés peuvent être réanalysés des années plus tard.
 
-État 2026, veuillez vérifier la liste des interdictions actuelle de l'AMA.
+État 2026, vérifie la liste des interdictions actuelle de l'AMA.
 
 ### Responsabilité : qui supporte le risque ?
 

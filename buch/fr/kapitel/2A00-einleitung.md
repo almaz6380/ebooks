@@ -35,12 +35,12 @@ Deux substances de ce groupe n'entrent pas dans ce schéma : le **setmélanotide
 | AOD-9604 | D | non | fragment d'hormone de croissance, marché gris |
 | Orforglipron | A | en suspens | pas un peptide, comprimé (comparaison) |
 
-Les niveaux de preuve sont expliqués dans la partie I. Les indications d'autorisation correspondent à l'état d'octobre 2026 et à au moins une indication ; les détails figurent dans chaque chapitre. Veuillez vérifier la situation actuelle, car c'est précisément dans ce groupe que les autorisations évoluent rapidement.
+Les niveaux de preuve sont expliqués dans la partie I. Les indications d'autorisation correspondent à l'état d'octobre 2026 et à au moins une indication ; les détails figurent dans chaque chapitre. Vérifie la situation actuelle, car c'est précisément dans ce groupe que les autorisations évoluent rapidement.
 
 ### Conseil de lecture
 
 Les chapitres suivent à peu près l'évolution historique : des agonistes du GLP-1 établis (de l'exénatide au sémaglutide) aux substances combinées (du tirzépatide au maridebart cafraglutide), puis aux cas particuliers (pramlintide, setmélanotide, AOD-9604) et enfin à l'orforglipron, inclus à titre de comparaison en tant que non-peptide.
 
-Pour une vue d'ensemble rapide, commencez par le sémaglutide et le tirzépatide – c'est à eux que tous les autres sont comparés. Vous trouverez dans la partie III les comparaisons directes de la perte de poids, de la baisse de la glycémie, des résultats cardiovasculaires et des effets indésirables pour l'ensemble des substances. La partie IV traite en détail des risques de classe comme les problèmes de vésicule biliaire et de pancréas, la perte musculaire et les questions concernant la thyroïde.
+Pour une vue d'ensemble rapide, commence par le sémaglutide et le tirzépatide – c'est à eux que tous les autres sont comparés. Tu trouveras dans la partie III les comparaisons directes de la perte de poids, de la baisse de la glycémie, des résultats cardiovasculaires et des effets indésirables pour l'ensemble des substances. La partie IV traite en détail des risques de classe comme les problèmes de vésicule biliaire et de pancréas, la perte musculaire et les questions concernant la thyroïde.
 
 Deux principes valent pour l'ensemble du groupe : premièrement, les chapitres décrivent des résultats d'études, pas des modes d'emploi thérapeutiques – pour les médicaments autorisés, ce sont le résumé des caractéristiques du produit et l'accompagnement médical qui font foi. Deuxièmement, pour presque toutes les substances, une grande partie du poids perdu est reprise à l'arrêt du traitement. Ces médicaments agissent tant qu'ils sont pris ; ce ne sont pas des cures.

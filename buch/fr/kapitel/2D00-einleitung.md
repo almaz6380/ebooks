@@ -12,7 +12,7 @@ Le groupe peut être divisé grossièrement en trois familles :
 
 ### La scène des nootropiques et de la longévité
 
-Quiconque recherche ces substances sur Internet atterrit vite dans des forums, chez des influenceurs et dans des « cliniques de longévité ». Trois erreurs de raisonnement y sont typiques, et vous les rencontrerez sans cesse dans les chapitres suivants :
+Quiconque recherche ces substances sur Internet atterrit vite dans des forums, chez des influenceurs et dans des « cliniques de longévité ». Trois erreurs de raisonnement y sont typiques, et tu les rencontreras sans cesse dans les chapitres suivants :
 
 1. **De l'animal à l'humain :** qu'un peptide améliore la mémoire ou la durée de vie chez la souris dit peu de chose sur son efficacité chez l'humain. Dans la recherche sur l'AVC et la maladie d'Alzheimer, des centaines de substances efficaces chez l'animal ont échoué chez l'humain.
 2. **Du taux sanguin à l'injection :** que les personnes ayant de faibles taux de MOTS-c ou d'humanine soient plus souvent malades ne prouve pas qu'un apport rende en bonne santé.
@@ -49,4 +49,4 @@ Une grande partie de la littérature sur le Semax, le Selank, le DSIP, l'Epitalo
 
 ### Conseils de lecture
 
-Les chapitres suivent la structure uniforme de ce livre. Dans chaque chapitre, soyez particulièrement attentif à la section « Études chez l'humain » et, en son sein, à l'ampleur des données : pour neuf des douze peptides, il n'existe soit aucune étude dans laquelle des personnes ont reçu la substance, soit seulement des travaux très petits et méthodologiquement faibles. Le statut juridique et le statut auprès de la FDA ont changé à plusieurs reprises en 2026 ; les indications correspondent à l'état d'octobre 2026 et devraient être vérifiées.
+Les chapitres suivent la structure uniforme de ce livre. Dans chaque chapitre, sois particulièrement attentif à la section « Études chez l'humain » et, en son sein, à l'ampleur des données : pour neuf des douze peptides, il n'existe soit aucune étude dans laquelle des personnes ont reçu la substance, soit seulement des travaux très petits et méthodologiquement faibles. Le statut juridique et le statut auprès de la FDA ont changé à plusieurs reprises en 2026 ; les indications correspondent à l'état d'octobre 2026 et devraient être vérifiées.
