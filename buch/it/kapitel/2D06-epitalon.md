@@ -12,7 +12,7 @@
 
 ### Come dovrebbe agire
 
-La ghiandola pineale è un piccolo organo del cervello che di notte produce l'ormone melatonina e contribuisce così a regolare il ritmo giorno-notte. In età avanzata la produzione di melatonina diminuisce. Il gruppo di San Pietroburgo partiva dal presupposto che brevi peptidi ricavati da organi possano, come «bioregolatori», ripristinare la funzione proprio di quegli organi: dalla ghiandola pineale per la ghiandola pineale, dal timo per il sistema immunitario (si veda anche il capitolo Thymalin nella Parte II · B).
+La ghiandola pineale è un piccolo organo del cervello che di notte produce l'ormone melatonina e contribuisce così a regolare il ritmo giorno-notte. In età avanzata la produzione di melatonina diminuisce. Il gruppo di San Pietroburgo partiva dal presupposto che brevi peptidi ricavati da organi possano, come «bioregolatori», ripristinare la funzione proprio di quegli organi: dalla ghiandola pineale per la ghiandola pineale, dal timo per il sistema immunitario (si veda anche il capitolo Timalina e timogeno nella Parte II · B).
 
 Per l'Epitalon vengono descritti diversi meccanismi, quasi tutti da esperimenti di laboratorio e su animali del gruppo degli sviluppatori:
 
