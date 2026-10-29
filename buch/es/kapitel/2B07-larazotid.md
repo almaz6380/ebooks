@@ -51,7 +51,7 @@ Un grupo de investigación supone que en el síndrome inflamatorio multisistémi
 
 Además de en la enfermedad celíaca, la larazotida se ha evaluado en modelos animales de otras enfermedades con alteración de la barrera intestinal. En ratones propensos a la inflamación articular, la larazotida redujo la aparición de artritis (Tajik 2020, PMID 32332732). En cerdos favoreció la recuperación del tejido del intestino delgado tras un trastorno de la irrigación (Slifer 2021, PMID 33881350). En ratas se describieron efectos en la pancreatitis aguda y la insuficiencia hepática aguda (Karahan 2024, PMID 38441784; Caliskan 2021, PMID 34791921). Son experimentos con animales; de ellos no pueden deducirse conclusiones sobre el reumatismo, el páncreas o el hígado en humanos.
 
-### Riesgos y efectos secundarios
+### Riesgos y efectos adversos
 
 #### Demostrado
 

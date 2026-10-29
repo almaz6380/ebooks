@@ -51,7 +51,7 @@ En un estudio abierto de fase 1, la survodutida se estudió también en personas
 
 Los datos preclínicos proceden mayoritariamente de los laboratorios del fabricante: perfiles de receptores en líneas celulares, pérdida de peso en ratones con obesidad inducida por la dieta y reducción de la glucemia en ratones diabéticos (Thomas 2024, PMID 38560764). Sobre el lugar de acción en el cerebro existen estudios en ratones y en tejido humano (Zimmermann 2026, PMID 41638399). Los estudios independientes en animales son escasos.
 
-### Riesgos y efectos secundarios
+### Riesgos y efectos adversos
 
 **Demostrado en estudios:**
 

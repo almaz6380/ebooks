@@ -59,7 +59,7 @@ Según el registro, han concluido el estudio comparativo directo frente a tirzep
 
 Los estudios de biología estructural muestran cómo se une la cagrilintida a los receptores de amilina y de calcitonina (Cao 2025, PMID 40204768). En ratones sin los subtipos 1 y 3 del receptor de amilina, el efecto se vio muy atenuado (Carvas 2025, PMID 40609154). En ratas, CagriSema redujo la ingesta de alimentos un 39 %; según los cálculos de los autores, aproximadamente un tercio de la pérdida de peso se debió a que el gasto energético no disminuyó en la medida habitual (Jacobsen 2025, PMID 40629149). En otro estudio en ratas, la combinación de cagrilintida con retatrutida potenció la pérdida de peso (Petersen 2026, PMID 42744908), un indicio de que en el futuro los principios activos de amilina podrían combinarse también con otros fármacos incretínicos. Todos estos resultados proceden de experimentos con animales.
 
-### Riesgos y efectos secundarios
+### Riesgos y efectos adversos
 
 **Demostrado en estudios:**
 

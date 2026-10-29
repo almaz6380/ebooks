@@ -65,7 +65,7 @@ Para valorar la timalina y el timógeno, el origen de los datos es más importan
 
 Esto no significa que todos los resultados tengan que ser falsos. Significa que, según los criterios de este libro, no pueden considerarse prueba de un beneficio mientras no se confirmen en estudios independientes y bien planificados.
 
-### Riesgos y efectos secundarios
+### Riesgos y efectos adversos
 
 #### Demostrado
 

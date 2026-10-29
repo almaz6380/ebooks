@@ -58,7 +58,7 @@ Una revisión retrospectiva de historias clínicas de una clínica masculina est
 
 La propia sermorelina se estudió en el laboratorio sobre todo en relación con su descubrimiento y con variantes de acción más prolongada, por ejemplo variantes acopladas a polietilenglicol que en ratas y cerdos actuaron durante más tiempo que el péptido sin modificar (Esposito 2003, PMID 14499707). Un trabajo puramente computacional que comparó datos de actividad génica de pacientes con glioma con una base de datos de fármacos citó la sermorelina como posible candidata contra los tumores cerebrales recurrentes (Chang 2021, PMID 33842627). Es una hipótesis informática sin confirmación en laboratorio ni en pacientes, y contrasta llamativamente con la preocupación de que estimular el eje del crecimiento pueda más bien favorecer los tumores.
 
-### Riesgos y efectos secundarios
+### Riesgos y efectos adversos
 
 **Demostrado (a partir de los datos de autorización y de estudios):** el enrojecimiento facial transitorio (flush) y el dolor en el lugar de inyección fueron los efectos secundarios más frecuentes (Prakash 1999, PMID 18031173). Los anticuerpos contra la sermorelina aparecieron con frecuencia en niños, sin consecuencias reconocibles (Ross 1987, PMID 2879138). En algunos estudios aumentaron transitoriamente la glucemia, la insulina o los lípidos sanguíneos (Kirk 1994, PMID 7955460; Khorram 1997, PMID 9141536).
 

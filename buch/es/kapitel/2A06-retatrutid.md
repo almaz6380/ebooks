@@ -67,7 +67,7 @@ Las bases preclínicas proceden en su mayoría del fabricante. En cultivos celul
 
 Para el análisis antidopaje se desarrolló en 2026 un método de detección. Para ello se analizaron muestras de sangre y orina de cuatro personas que se habían inyectado retatrutida por su cuenta fuera de estudios. En la orina no se encontró retatrutida intacta; en la sangre era detectable hasta unos 56 días después de la primera inyección (Carneiro 2026, PMID 42745421). Los autores mencionan informes sobre su uso entre deportistas aficionados.
 
-### Riesgos y efectos secundarios
+### Riesgos y efectos adversos
 
 **Demostrado en estudios:**
 

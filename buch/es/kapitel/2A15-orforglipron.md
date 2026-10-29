@@ -54,7 +54,7 @@ Para situarlo en contexto: es claramente menos que con la semaglutida o la tirze
 
 Para este capítulo comparativo no se exponen en detalle los datos preclínicos. Es importante una diferencia farmacológica: como molécula pequeña, el orforglipron se degrada mediante enzimas hepáticas. Por ello se han realizado numerosos estudios sobre interacciones con otros medicamentos, por ejemplo con claritromicina, ciclosporina, carbamazepina o quinidina (NCT05469126, NCT05573230, NCT06370728, NCT06704763). Los agonistas peptídicos, en cambio, se degradan como las proteínas y apenas presentan este tipo de interacciones.
 
-### Riesgos y efectos secundarios
+### Riesgos y efectos adversos
 
 **Demostrado en estudios:**
 

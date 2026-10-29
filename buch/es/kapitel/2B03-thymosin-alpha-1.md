@@ -76,7 +76,7 @@ Ya en 1989, 90 hombres de entre 65 y 99 años recibieron, además de la vacuna a
 
 Como la timosina alfa 1 se estudia en humanos desde hace décadas, los estudios en animales desempeñan un papel menor en la valoración. Fueron importantes para la idea oncológica: en modelos de ratón de cáncer de pulmón, leucemia y melanoma, así como en un modelo de rata de metástasis hepáticas, la combinación de timosina alfa 1 con interferón o interleucina-2 y quimioterapia actuó mejor que los tratamientos por separado (Garaci 2007, PMID 17600290). Hasta ahora, estos hallazgos no han podido reproducirse de forma convincente en humanos.
 
-### Riesgos y efectos secundarios
+### Riesgos y efectos adversos
 
 #### Demostrado
 

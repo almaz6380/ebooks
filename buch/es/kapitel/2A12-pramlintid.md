@@ -57,7 +57,7 @@ Desde aproximadamente 2015, la pramlintida vive un pequeño renacimiento en la i
 
 Las bases de la investigación sobre la amilina proceden de estudios en animales y de laboratorio que no se exponen aquí en detalle. En roedores, la combinación de amilina y leptina produjo una pérdida de peso más que aditiva (descrita como punto de partida en Ravussin 2009, PMID 19521351). En modelos de ratón, la amilina, de forma similar al péptido mensajero de la migraña CGRP, desencadenó hipersensibilidad y fotofobia (Ghanizada 2021, PMID 33772845).
 
-### Riesgos y efectos secundarios
+### Riesgos y efectos adversos
 
 **Demostrado en estudios:**
 

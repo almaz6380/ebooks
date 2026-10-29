@@ -59,7 +59,7 @@ Un informe de caso describe a un paciente de 15 años con obesidad, diabetes tip
 
 En ratones diabéticos (modelo db/db), la mazdutida obtuvo mejores resultados que la dulaglutida en pruebas de memoria y comportamiento; en el tejido cerebral se observaron menos daños (Dong 2025, PMID 40479843). En ratones con hígado graso inducido por la dieta y en cultivos de células hepáticas, la mazdutida redujo la acumulación de grasa y los signos de inflamación (Gan 2026, PMID 41901218). No está claro si de ello se derivan ventajas para el ser humano; en China hay registrado un estudio sobre diabetes tipo 2 con deterioro cognitivo incipiente (NCT07083154).
 
-### Riesgos y efectos secundarios
+### Riesgos y efectos adversos
 
 **Demostrado en estudios:**
 

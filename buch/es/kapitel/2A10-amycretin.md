@@ -55,7 +55,7 @@ Los resultados de peso de estos estudios en diabetes no se cuantifican en los re
 
 Los datos preclínicos proceden del fabricante (Kuhre 2025, PMID 40706446): activación de receptores en cultivos celulares, pérdida de peso y mejora de la sensibilidad a la insulina en ratas con sobrepeso, menos hígado graso y acumulación en regiones cerebrales reguladoras del apetito en ratones. Apenas existen estudios independientes en animales.
 
-### Riesgos y efectos secundarios
+### Riesgos y efectos adversos
 
 **Demostrado en estudios:**
 

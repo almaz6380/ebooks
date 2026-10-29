@@ -48,7 +48,7 @@ El foco de la investigación está en las enfermedades inflamatorias intestinale
 
 Otros trabajos estudian el KPV en hidrogeles para heridas y mucosas, en nanopartículas contra la calcificación vascular o en el metabolismo de las células adiposas, casi exclusivamente en cultivos celulares o en roedores. Llama la atención que gran parte de la literatura reciente desarrolla formas farmacéuticas (nanopartículas, geles, parches). Esto indica que el KPV solo, en comprimido o crema, al parecer no llega suficientemente bien al lugar de acción, un punto relevante para los productos que se venden libremente.
 
-### Riesgos y efectos secundarios
+### Riesgos y efectos adversos
 
 #### Demostrado
 

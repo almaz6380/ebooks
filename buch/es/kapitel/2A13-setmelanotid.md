@@ -64,7 +64,7 @@ Los datos son menos convincentes en personas con una sola copia alterada del gen
 
 En ensayos celulares, la setmelanotida es claramente más potente sobre el receptor MC4 que la alfa-MSH endógena y puede reactivar parcialmente una parte de las variantes defectuosas del receptor. En roedores normales provocó pérdida de peso, pero no en ratones sin receptor MC4 (Collet 2017, PMID 29031731). Esto confirma que el efecto se produce realmente a través de este receptor.
 
-### Riesgos y efectos secundarios
+### Riesgos y efectos adversos
 
 **Demostrado en estudios:**
 

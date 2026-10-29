@@ -42,7 +42,7 @@ Los efectos secundarios gastrointestinales fueron frecuentes, pero menos cuando 
 
 En sistemas celulares se confirmó que AMG 133 bloquea el receptor de GIP y activa el receptor de GLP-1. En ratones y macacos cangrejeros con sobrepeso redujo el peso corporal y mejoró los marcadores metabólicos (Véniant 2024, PMID 38316982; Wu 2026, PMID 41941715). Estudios comparativos en ratones sobre el bloqueo frente a la activación del GIP muestran efectos diferentes sobre la sensibilidad a la insulina y el tejido adiposo (Davies 2026, PMID 41287212). Todos estos hallazgos proceden de experimentos con animales.
 
-### Riesgos y efectos secundarios
+### Riesgos y efectos adversos
 
 **Demostrado en estudios:**
 
