@@ -8,7 +8,7 @@
 - **Principes actifs apparentés :** bêta-alanine (le précurseur, complément sportif répandu) ; zinc-carnosine (polaprézinc, un médicament contre l'ulcère gastrique au Japon) ; N-acétylcarnosine (dans des collyres).
 - **Autorisation UE :** pas d'autorisation comme médicament pour la carnosine ; commercialisée comme complément alimentaire. Aucune allégation de santé autorisée.
 - **Autorisation États-Unis :** pas d'autorisation comme médicament ; disponible comme complément alimentaire.
-- **WADA :** la carnosine et la bêta-alanine ne sont pas listées (état 2026, à vérifier).
+- **AMA (WADA) :** la carnosine et la bêta-alanine ne sont pas listées (état 2026, à vérifier).
 - **Niveau de preuve :** **B** – plusieurs petites études randomisées, une étude plus grande avec près de 300 participants ; beaucoup de résultats hétérogènes.
 
 ### Mode d'action supposé

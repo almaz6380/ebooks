@@ -7,7 +7,7 @@
 - **Principe d'action :** agoniste du récepteur de la kisspeptine (KISS1R, anciennement GPR54) situé sur les neurones à GnRH de l'hypothalamus. La kisspeptine est le principal déclencheur connu de la libération de GnRH et donc de tout l'axe hormonal de la reproduction.
 - **Autorisation UE :** non.
 - **Autorisation États-Unis :** non.
-- **WADA :** pas mentionnée nommément. En tant que principe actif non autorisé, la kisspeptine relève de S0 ; chez les hommes, le groupe S2 couvre en outre les facteurs de libération de l'hormone lutéinisante (état 2026, à vérifier).
+- **AMA (WADA) :** pas mentionnée nommément. En tant que principe actif non autorisé, la kisspeptine relève de S0 ; chez les hommes, le groupe S2 couvre en outre les facteurs de libération de l'hormone lutéinisante (état 2026, à vérifier).
 - **Niveau de preuve :** **B** – nombreuses petites études, en partie randomisées, et plusieurs études randomisées de phase 2, principalement à Londres et à Boston. Aucune étude de phase 3, aucune autorisation.
 
 ### Mode d'action supposé
@@ -41,8 +41,8 @@ L'application la plus avancée à ce jour est le déclenchement de la maturation
 |---|---|---|---|
 | Jayasena 2014, PMID 25036713 | 53 femmes en traitement de FIV, étude de dose sans groupe témoin | un cycle | Maturation ovocytaire à toutes les doses ; grossesse clinique 23 % |
 | Abbara 2015, PMID 26192876 | 60 femmes à haut risque de SHO, étude de dose randomisée | un cycle | Maturation ovocytaire chez 95 % ; naissance vivante 45 % par transfert ; aucun SHO modéré ou sévère |
-| Abbara 2017, PMID 28854728 | 62 femmes à haut risque de SHO, RCT : seconde dose contre sérum physiologique | un cycle | Rendement ovocytaire suffisant chez 71 % contre 45 % |
-| Abbara 2024, PMID 37925096 | 24 et 75 femmes en bonne santé, deux RCT avec l'analogue MVT-602 | dose unique | Hausse de la LH semblable à celle du milieu de cycle naturel ; ovulation en 5 jours chez jusqu'à 100 % |
+| Abbara 2017, PMID 28854728 | 62 femmes à haut risque de SHO, ECR : seconde dose contre sérum physiologique | un cycle | Rendement ovocytaire suffisant chez 71 % contre 45 % |
+| Abbara 2024, PMID 37925096 | 24 et 75 femmes en bonne santé, deux ECR avec l'analogue MVT-602 | dose unique | Hausse de la LH semblable à celle du milieu de cycle naturel ; ovulation en 5 jours chez jusqu'à 100 % |
 
 Dans la première étude (Jayasena 2014, PMID 25036713 ; NCT01667406), 53 femmes ont reçu une injection unique de kisspeptine. À toutes les doses testées, des ovocytes ont mûri ; chez 49 femmes, des embryons ont été transférés, et douze ont eu une grossesse clinique. Il était ainsi démontré pour la première fois qu'une grossesse est possible après une maturation ovocytaire déclenchée par la kisspeptine.
 
@@ -118,7 +118,7 @@ La kisspeptine-10 est proposée sur Internet comme « research peptide » et pro
 
 - **UE, Allemagne, Autriche :** pas d'autorisation. La kisspeptine ne peut être administrée à l'humain que dans le cadre d'études cliniques autorisées. La vente pour un usage chez l'humain est illégale.
 - **États-Unis :** pas d'autorisation ; utilisation uniquement dans des études autorisées par la FDA.
-- **WADA :** chez les hommes, les facteurs de libération de la LH sont interdits au titre de S2, les principes actifs non autorisés en général au titre de S0. La kisspeptine n'est pas mentionnée nommément, mais relève selon l'appréciation de l'auteur de ces groupes.
+- **AMA (WADA) :** chez les hommes, les facteurs de libération de la LH sont interdits au titre de S2, les principes actifs non autorisés en général au titre de S0. La kisspeptine n'est pas mentionnée nommément, mais relève selon l'appréciation de l'auteur de ces groupes.
 
 ### Études en cours et perspectives
 

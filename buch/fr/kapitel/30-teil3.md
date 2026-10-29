@@ -170,7 +170,7 @@ Remarques sur le tableau : pour le **Melanotan II**, quatre des huit résultats 
 |---|---|---|
 | Brémélanotide (PT-141) | RECONNECT, 1 267 femmes : avantage seulement faible par rapport au placebo (PMID 31599840) | Nausées chez environ 40 %, brève hausse de la pression artérielle |
 | Melanotan II | Petites études croisées : érections chez 17 hommes sur 20, nausées fréquentes (PMID 11035391) | Modifications des grains de beauté, cas rapportés de mélanome, priapisme |
-| Afamélanotide | Deux RCT : temps sans douleur au soleil allongé dans la PPE (PMID 26132941) | Nausées, maux de tête ; contrôles cutanés nécessaires |
+| Afamélanotide | Deux ECR : temps sans douleur au soleil allongé dans la PPE (PMID 26132941) | Nausées, maux de tête ; contrôles cutanés nécessaires |
 | Kisspeptine | 60 femmes à risque de SHO : maturation ovocytaire chez 95 %, aucun SHO sévère (PMID 26192876) | Accoutumance jusqu'à la suppression de l'axe hormonal |
 | Ocytocine (spray nasal) | SOARS-B, 290 enfants autistes : aucune différence avec le placebo (PMID 34644471) | Rétention d'eau à fortes doses, déclenchement des contractions |
 | Gonadoréline | Administration pulsatile : ovulation chez 91 % et 96 % de 109 femmes (PMID 2122733) | En cas de mauvais rythme, suppression de l'axe hormonal |
@@ -191,8 +191,8 @@ Remarques sur le tableau : pour les **peptides de collagène**, une part consid�
 | Peptide | Résultat clé | Risque principal |
 |---|---|---|
 | Peptides de collagène | Arthrose : effets faibles à modérés (PMID 38218227) ; bénéfice cutané absent dans les études indépendantes (PMID 40324552) | Remplacement de mesures efficaces ; oxalate en cas de tendance aux calculs rénaux |
-| Lactotripeptides | Méta-analyse, 30 RCT : systolique −2,95 mmHg, avec biais de publication (PMID 25608938) | Remplacement d'un traitement antihypertenseur efficace |
-| Carnosine | Méta-analyse, 8 RCT : valeurs de glycémie et d'HbA1c un peu plus basses (PMID 40999397) | Aucun risque significatif ; données à long terme manquantes |
+| Lactotripeptides | Méta-analyse, 30 ECR : systolique −2,95 mmHg, avec biais de publication (PMID 25608938) | Remplacement d'un traitement antihypertenseur efficace |
+| Carnosine | Méta-analyse, 8 ECR : valeurs de glycémie et d'HbA1c un peu plus basses (PMID 40999397) | Aucun risque significatif ; données à long terme manquantes |
 | GHK-Cu | Ulcères du pied : surface de la plaie, médiane −98,5 % contre −60,8 % (PMID 17147644) | Injections de produits du marché gris non évaluées |
 | Palmitoyl pentapeptide-4 | 93 femmes, étude en hémivisage : moins de rides après 12 semaines (PMID 18492182) | Rarement irritation cutanée |
 | Acétyl hexapeptide-8 | 19 femmes, étude en hémivisage : aucune différence après 4 semaines (PMID 38024099) | Injections non autorisées, cas rapporté d'infection |

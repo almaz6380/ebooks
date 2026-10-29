@@ -7,7 +7,7 @@
 - **Principe d'action :** ils sont censés inhiber l'enzyme de conversion de l'angiotensine (ECA) – la même enzyme que bloquent les inhibiteurs de l'ECA antihypertenseurs comme le ramipril ou l'énalapril, mais de manière bien plus faible.
 - **Autorisation UE :** pas d'autorisation comme médicament ; utilisés comme ingrédient alimentaire ou dans des compléments alimentaires. Aucune allégation de santé autorisée concernant la pression artérielle.
 - **Autorisation États-Unis :** pas d'autorisation comme médicament ; disponibles comme compléments alimentaires.
-- **WADA :** pas listés (état 2026, à vérifier).
+- **AMA (WADA) :** pas listés (état 2026, à vérifier).
 - **Niveau de preuve :** **B** – une trentaine d'études randomisées réunissant au total quelques milliers de participants, mais chacune petite, avec des résultats contradictoires et sans critères durs.
 
 ### Mode d'action supposé

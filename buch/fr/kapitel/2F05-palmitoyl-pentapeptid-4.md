@@ -8,7 +8,7 @@
 - **Distinction :** le « Matrixyl 3000 » est un autre produit, une association de palmitoyl tripeptide-1 (Pal-GHK, voir chapitre GHK-Cu) et de palmitoyl tétrapeptide-7.
 - **Autorisation UE :** pas un médicament ; ingrédient cosmétique.
 - **Autorisation États-Unis :** pas un médicament ; ingrédient cosmétique.
-- **WADA :** pas listé ; en tant que composant cosmétique, sans importance en droit du sport (état 2026, à vérifier).
+- **AMA (WADA) :** pas listé ; en tant que composant cosmétique, sans importance en droit du sport (état 2026, à vérifier).
 - **Niveau de preuve :** **B** (faible) – une étude randomisée en hémivisage assez grande de 2005 et une très petite étude randomisée ; aucune étude de confirmation indépendante.
 
 ### Mode d'action supposé

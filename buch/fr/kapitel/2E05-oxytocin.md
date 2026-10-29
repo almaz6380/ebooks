@@ -7,7 +7,7 @@
 - **Principe d'action :** agoniste du récepteur de l'ocytocine. Dans l'organisme, elle déclenche les contractions et le réflexe d'éjection du lait ; dans le cerveau, elle participe à l'attachement, au comportement social et à la régulation du stress.
 - **Autorisation UE et États-Unis (injection/perfusion) :** oui, depuis des décennies en obstétrique, pour déclencher et soutenir les contractions et prévenir les hémorragies importantes après l'accouchement.
 - **Autorisation comme spray nasal :** un spray nasal d'ocytocine était autrefois autorisé dans plusieurs pays européens pour favoriser l'écoulement du lait pendant l'allaitement, mais il n'est plus commercialisé dans de nombreux pays. Pour des usages psychiques, sociaux ou sexuels, l'ocytocine n'est autorisée nulle part (état 2026, à vérifier).
-- **WADA :** pas listée (état 2026, à vérifier).
+- **AMA (WADA) :** pas listée (état 2026, à vérifier).
 - **Niveau de preuve :** **B** pour l'utilisation en spray nasal – des centaines d'études randomisées, mais en majorité petites et à dose unique ; les rares grandes études de traitement ont été négatives. Pour l'obstétrique (perfusion, injection), le niveau A s'applique ; elle n'est pas le sujet principal de ce chapitre.
 
 ### Mode d'action supposé
@@ -79,12 +79,12 @@ Les troubles du spectre de l'autisme se caractérisent par des difficultés de c
 
 | Étude | Participants et protocole | Durée | Résultat |
 |---|---|---|---|
-| Anagnostou 2012, PMID 23216716 | 19 adultes, RCT | 6 semaines | Critères principaux non atteints ; amélioration de critères secondaires |
-| Guastella 2015, PMID 25087908 | 50 adolescents de sexe masculin (12–18 ans), RCT | 8 semaines | Aucun bénéfice sur les critères principaux ou secondaires |
+| Anagnostou 2012, PMID 23216716 | 19 adultes, ECR | 6 semaines | Critères principaux non atteints ; amélioration de critères secondaires |
+| Guastella 2015, PMID 25087908 | 50 adolescents de sexe masculin (12–18 ans), ECR | 8 semaines | Aucun bénéfice sur les critères principaux ou secondaires |
 | Yatawara 2016, PMID 26503762 | 31 jeunes enfants, étude croisée contre placebo | 5 semaines chacune | Réactivité sociale améliorée selon les parents |
-| Parker 2017, PMID 28696286 | 32 enfants (6–12 ans), RCT | 4 semaines | Compétences sociales améliorées en tenant compte des valeurs sanguines initiales ; un taux initial bas prédisait la réponse |
-| SOARS-B (Sikich 2021), PMID 34644471 | 290 enfants et adolescents (3–17 ans), RCT | 24 semaines | Aucune différence : −3,7 contre −3,5 points pour le retrait social |
-| Guastella 2023, PMID 36302965 | 87 enfants (3–12 ans), RCT après phase préliminaire sous placebo | 12 semaines | Aucun effet global ; indice d'efficacité chez les 3–5 ans |
+| Parker 2017, PMID 28696286 | 32 enfants (6–12 ans), ECR | 4 semaines | Compétences sociales améliorées en tenant compte des valeurs sanguines initiales ; un taux initial bas prédisait la réponse |
+| SOARS-B (Sikich 2021), PMID 34644471 | 290 enfants et adolescents (3–17 ans), ECR | 24 semaines | Aucune différence : −3,7 contre −3,5 points pour le retrait social |
+| Guastella 2023, PMID 36302965 | 87 enfants (3–12 ans), ECR après phase préliminaire sous placebo | 12 semaines | Aucun effet global ; indice d'efficacité chez les 3–5 ans |
 
 **L'étude SOARS-B.** L'étude de loin la plus grande et la plus probante est SOARS-B (Study of Oxytocin in Autism to Improve Reciprocal Social Behaviors), financée par les autorités sanitaires américaines et publiée en 2021 dans le New England Journal of Medicine (Sikich 2021, PMID 34644471 ; NCT01944046). 290 enfants et adolescents de 3 à 17 ans ont reçu pendant 24 semaines, chaque jour, de l'ocytocine ou un spray nasal placebo. Le critère principal était une échelle de retrait social (ABC-mSW, 0 à 39 points).
 
@@ -158,7 +158,7 @@ Des sprays nasaux d'ocytocine sont vendus sur Internet comme « spray de l'amour
 
 - **UE, Allemagne, Autriche :** l'ocytocine pour perfusion et injection est autorisée comme médicament sur ordonnance en obstétrique. Il n'existe pas de spray nasal autorisé pour des usages psychiques ou sociaux ; les sprays autrefois autorisés pour favoriser l'écoulement du lait ne sont plus disponibles dans de nombreux pays. Une prescription pour traiter l'autisme ou d'autres maladies constituerait un essai thérapeutique individuel hors autorisation (hors AMM, off-label), avec les obligations d'information et de responsabilité correspondantes.
 - **États-Unis :** injection d'ocytocine (Pitocin et génériques) autorisée en obstétrique ; aucun spray nasal autorisé. Des pharmacies de préparation fabriquent des sprays nasaux sur prescription médicale ; leur qualité n'est pas contrôlée comme celle des médicaments industriels.
-- **WADA :** pas listée.
+- **AMA (WADA) :** pas listée.
 
 ### Études en cours et perspectives
 

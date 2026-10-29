@@ -8,7 +8,7 @@
 - **Distinction :** le collagène de type II *non dénaturé* (par ex. UC-II) est un autre produit, avec un autre principe d'action, et il est présenté séparément plus bas.
 - **Autorisation UE :** pas d'autorisation comme médicament ; commercialisable comme denrée alimentaire ou complément alimentaire. Pour le collagène lui-même, il n'existe **aucune** allégation de santé autorisée (health claim).
 - **Autorisation États-Unis :** pas d'autorisation comme médicament ; commercialisé comme complément alimentaire (dietary supplement).
-- **WADA :** pas listé (état 2026, à vérifier).
+- **AMA (WADA) :** pas listé (état 2026, à vérifier).
 - **Niveau de preuve :** **B** – nombreuses études randomisées contrôlées contre placebo, mais pour la plupart petites, courtes et financées par des fabricants.
 
 ### Mode d'action supposé

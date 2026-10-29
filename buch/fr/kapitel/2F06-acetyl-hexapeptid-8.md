@@ -7,7 +7,7 @@
 - **Principe d'action :** il est censé atténuer la libération du messager acétylcholine à la jonction entre nerf et muscle et ainsi lisser les rides d'expression – une cible similaire à celle de la toxine botulique, mais avec un effet beaucoup plus faible. D'où le terme publicitaire de « Botox en tube ».
 - **Autorisation UE :** pas un médicament ; ingrédient cosmétique.
 - **Autorisation États-Unis :** pas un médicament ; ingrédient cosmétique.
-- **WADA :** pas listé (état 2026, à vérifier).
+- **AMA (WADA) :** pas listé (état 2026, à vérifier).
 - **Niveau de preuve :** **B** (faible) – quelques petites études randomisées, le plus souvent de courte durée et aux résultats hétérogènes.
 
 ### Mode d'action supposé

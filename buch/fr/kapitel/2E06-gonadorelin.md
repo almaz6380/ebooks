@@ -8,7 +8,7 @@
 - **Formes galéniques :** injection intraveineuse pour les tests fonctionnels ; pompe portable qui délivre toutes les 60 à 120 minutes une petite quantité par voie sous-cutanée ou intraveineuse (traitement pulsatile) ; dans certains pays, un spray nasal pour les nourrissons atteints de cryptorchidie (testicule non descendu).
 - **Autorisation UE :** autorisation nationale dans certains États membres, par exemple comme produit diagnostique et pour le traitement par pompe ; les préparations et leur disponibilité varient d'un pays à l'autre.
 - **Autorisation États-Unis :** les anciennes préparations (Factrel pour le diagnostic, Lutrepulse pour la pompe) ne sont plus commercialisées. À la connaissance de l'auteur, il n'existe actuellement aucun médicament à usage humain autorisé et commercialisé (à vérifier).
-- **WADA :** interdite pour les hommes (groupe S2, la gonadoréline y est mentionnée nommément), en compétition et hors compétition (état 2026, à vérifier).
+- **AMA (WADA) :** interdite pour les hommes (groupe S2, la gonadoréline y est mentionnée nommément), en compétition et hors compétition (état 2026, à vérifier).
 - **Niveau de preuve :** **B** – médicament autorisé utilisé depuis des décennies ; les données d'efficacité proviennent toutefois surtout de grandes séries de cas, de cohortes et de quelques petites études randomisées.
 
 ### Mode d'action supposé
@@ -50,7 +50,7 @@ Dans l'aménorrhée hypothalamique, les règles s'arrêtent parce que le cerveau
 | Santoro 1990, PMID 2122733 | 109 femmes atteintes d'aménorrhée hypothalamique, étude multicentrique avec pompe intraveineuse | plusieurs cycles | Ovulation chez 91 % et 96 % ; grossesses multiples 12 % |
 | Filicori 1994, PMID 7962297 | 292 femmes, 600 cycles, causes diverses | 1984–1993 | Ovulation dans 75 % des cycles ; grossesse 18 % par cycle ; grossesses multiples 3,8 % ; fausses couches 30 % |
 | Christin-Maitre 2007, PMID 17293247 | 248 femmes, 829 cycles, 24 centres français, rétrospective | 3 ans | Grossesse 25 % par cycle ; grossesses multiples 8,8 % ; aucune hyperstimulation sévère |
-| Dubourdieu 2013, PMID 23298894 | 30 femmes atteintes d'aménorrhée et de SOPK, RCT : pompe contre gonadotrophines | un cycle | Grossesse clinique 46 % contre 0 % |
+| Dubourdieu 2013, PMID 23298894 | 30 femmes atteintes d'aménorrhée et de SOPK, ECR : pompe contre gonadotrophines | un cycle | Grossesse clinique 46 % contre 0 % |
 | Quaas 2022, PMID 36378460 | 66 femmes, 212 cycles, centre suisse, rétrospective | 1996–2020 | Naissance vivante par traitement 65,9 % ; un seul follicule dans 75 % des cycles ; une grossesse gémellaire |
 
 Les chiffres dessinent un tableau cohérent : chez les femmes dont le problème se situe réellement dans l'hypothalamus, la pompe entraîne une ovulation dans la très grande majorité des cycles, souvent avec un seul ovocyte en maturation. Comme l'hypophyse conserve son propre rétrocontrôle, l'hyperstimulation et les grossesses multiples sont plus rares qu'avec des gonadotrophines injectées directement (Quaas 2022, PMID 36378460). Chez les femmes atteintes du syndrome des ovaires polykystiques ou en surpoids, la pompe agit moins bien, et les fausses couches étaient fréquentes dans la plus grande série individuelle (Filicori 1994, PMID 7962297).
@@ -104,7 +104,7 @@ Dans le sport, la gonadoréline est interdite pour les hommes. Les laboratoires 
 - **Allemagne :** des préparations pour le test à la GnRH et pour le traitement par pompe étaient ou sont commercialisées ; la disponibilité actuelle fluctue. Le traitement a lieu dans des centres spécialisés.
 - **Autriche :** soumise à prescription ; veuillez vérifier la disponibilité actuelle des différentes préparations dans la liste des spécialités pharmaceutiques.
 - **États-Unis :** les préparations à usage humain autrefois autorisées ont été retirées du marché. La gonadoréline serait proposée par des pharmacies de préparation ; l'évaluation réglementaire de ces préparations est en évolution. Les médicaments vétérinaires contenant de la gonadoréline ne sont pas destinés à l'humain.
-- **WADA :** S2 – interdite pour les hommes en compétition et hors compétition.
+- **AMA (WADA) :** S2 – interdite pour les hommes en compétition et hors compétition.
 
 ### Études en cours et perspectives
 

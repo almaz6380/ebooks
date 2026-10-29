@@ -8,7 +8,7 @@
 - **Utilisation :** autorisé comme ingrédient dans les cosmétiques (crèmes, sérums, soins capillaires). Par ailleurs proposé sur le marché gris comme « research peptide » à injecter.
 - **Autorisation UE :** pas d'autorisation comme médicament. Utilisable comme ingrédient cosmétique.
 - **Autorisation États-Unis :** pas d'autorisation comme médicament ; commercialisé comme ingrédient cosmétique. Des restrictions s'appliquent à la fabrication de préparations injectables en pharmacie (voir Statut juridique).
-- **WADA :** pas listé nommément. En cas d'injection, en tant que principe actif non autorisé, la catégorie S0 (« substances non approuvées ») peut s'appliquer (état 2026, à vérifier).
+- **AMA (WADA) :** pas listé nommément. En cas d'injection, en tant que principe actif non autorisé, la catégorie S0 (« substances non approuvées ») peut s'appliquer (état 2026, à vérifier).
 - **Niveau de preuve :** **C** – une ancienne étude randomisée sur les plaies et quelques très petites études cutanées ; pour les usages promus aujourd'hui (cosmétique anti-âge, injections), aucune donnée contrôlée solide chez l'humain.
 
 ### Mode d'action supposé
