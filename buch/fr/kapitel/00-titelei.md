@@ -72,15 +72,11 @@ Le niveau de preuve n'est ni une recommandation ni une affirmation sur la sécur
 
 ### Comment les sources sont indiquées
 
-Chaque étude est citée dans le texte avec le nom de la première autrice ou du premier auteur, l'année de publication et le numéro PubMed, par exemple :
+Pour que le texte reste lisible, les sources figurent en notes de bas de page. Dans le livre numérique, un petit chiffre en exposant apparaît à l'endroit concerné ; il suffit de le toucher pour afficher la source. Chaque note indique le premier auteur ou la première autrice, l'année de publication et le numéro PubMed, par exemple : Wilding 2021, PMID 33567185.
 
-(Wilding 2021, PMID 33567185)
+Les études enregistrées, en particulier celles en cours, sont indiquées avec leur numéro dans le registre américain ClinicalTrials.gov, par exemple NCT03548935. Dans les tableaux, les sources figurent directement dans la première colonne.
 
-Les études enregistrées, en particulier celles en cours, sont indiquées avec leur numéro dans le registre américain des essais cliniques ClinicalTrials.gov, par exemple :
-
-(NCT03548935)
-
-Il n'y a ni notes de bas de page ni bibliographie séparée en fin de chapitre ; la liste complète des études figure en annexe.
+Les notes sont regroupées à la fin de chaque chapitre ; l'index complet des études se trouve en annexe.
 
 ### Comment consulter une source
 

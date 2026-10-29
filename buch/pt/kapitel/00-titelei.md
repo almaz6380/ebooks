@@ -72,15 +72,11 @@ O nível de evidência não é uma recomendação nem uma afirmação sobre a se
 
 ### Como as fontes são indicadas
 
-Cada estudo é indicado no texto com o primeiro autor ou a primeira autora, o ano de publicação e o número no PubMed, por exemplo:
+Para manter o texto fácil de ler, as fontes estão em notas de rodapé. No e-book, aparece um pequeno número sobrescrito no ponto correspondente; basta tocar nele para ver a fonte. Cada nota indica o primeiro autor ou a primeira autora, o ano de publicação e o número do PubMed, por exemplo: Wilding 2021, PMID 33567185.
 
-(Wilding 2021, PMID 33567185)
+Estudos registrados, especialmente os em andamento, são indicados com seu número no registro norte-americano ClinicalTrials.gov, por exemplo NCT03548935. Nas tabelas, as fontes aparecem diretamente na primeira coluna.
 
-Estudos registrados, especialmente os em andamento, são indicados com seu número no registro norte-americano de estudos ClinicalTrials.gov, por exemplo:
-
-(NCT03548935)
-
-Não há notas de rodapé nem bibliografia separada ao final dos capítulos; a lista completa de estudos está no apêndice.
+As notas ficam no final de cada capítulo; o índice completo de estudos está no apêndice.
 
 ### Como consultar uma fonte
 

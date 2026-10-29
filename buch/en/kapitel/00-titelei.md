@@ -72,15 +72,11 @@ The evidence level is not a recommendation and not a statement about whether a s
 
 ### How Sources Are Cited
 
-Each study is cited in the text with its first author, year of publication, and PubMed number, for example:
+To keep the text readable, sources are given in footnotes. In the e-book a small superscript number appears at the relevant point; tapping it shows the source. Each footnote names the first author, the year of publication and the PubMed number, for example: Wilding 2021, PMID 33567185.
 
-(Wilding 2021, PMID 33567185)
+Registered studies, especially ongoing ones, are given with their number in the US trial registry ClinicalTrials.gov, for example NCT03548935. In tables, sources appear directly in the first column.
 
-Registered studies, especially ongoing ones, are cited with their number in the US study registry ClinicalTrials.gov, for example:
-
-(NCT03548935)
-
-There are no footnotes and no separate bibliography at the end of each chapter; the complete index of studies is in the appendix.
+The footnotes are collected at the end of each chapter; the complete index of studies is in the appendix.
 
 ### How to Look Up a Source
 

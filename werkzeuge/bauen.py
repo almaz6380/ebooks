@@ -14,6 +14,7 @@ import yaml
 
 BASIS = pathlib.Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(BASIS / "werkzeuge"))
+import satz  # noqa: E402
 import verzeichnis  # noqa: E402
 
 
@@ -25,12 +26,14 @@ def main(sprache):
     bau.mkdir(parents=True, exist_ok=True)
 
     verzeichnis.main(sprache, bau / "92-studienverzeichnis.md")
-    (bau / "01-impressum.md").write_text(meta["impressum"], encoding="utf-8")
+    # „0-“ sortiert vor „00-titelei“: Impressum steht ganz vorne
+    (bau / "0-impressum.md").write_text(meta["impressum"], encoding="utf-8")
 
-    # Kapitel in den Bauordner kopieren; geschützte Leerzeichen, damit Zahl und Einheit nicht getrennt werden
-    teile = [bau / "01-impressum.md", bau / "92-studienverzeichnis.md"]
+    # Kapitel in den Bauordner kopieren: Quellen als Fußnoten, Vorsichtshinweise gebündelt (satz.py),
+    # geschützte Leerzeichen, damit Zahl und Einheit nicht getrennt werden
+    teile = [bau / "0-impressum.md", bau / "92-studienverzeichnis.md"]
     for d in kap_dir.glob("*.md"):
-        text = d.read_text(encoding="utf-8")
+        text = satz.vorbereiten(d.read_text(encoding="utf-8"), sprache, d.name)
         text = re.sub(r"(\d) (%|kg|mg|µg|mmol|Wochen|Monate|Jahre|Tage|Stunden)\b", "\\1\u00a0\\2", text)
         text = re.sub(r"(\d) %", "\\1\u00a0%", text)
         text = re.sub(r"(PMID|NCT|Phase) (\d)", "\\1\u00a0\\2", text)

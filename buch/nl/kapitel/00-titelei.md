@@ -72,15 +72,11 @@ Het bewijsniveau is geen advies en geen uitspraak over de veiligheid van een sto
 
 ### Hoe bronnen worden vermeld
 
-Elke studie wordt in de tekst vermeld met de eerste auteur, het jaar van publicatie en het PubMed-nummer, bijvoorbeeld:
+Om de tekst goed leesbaar te houden, staan de bronnen in voetnoten. In het e-book verschijnt op de betreffende plek een klein superscriptcijfer; door erop te tikken ziet u de bron. Elke voetnoot vermeldt de eerste auteur, het jaar van publicatie en het PubMed-nummer, bijvoorbeeld: Wilding 2021, PMID 33567185.
 
-(Wilding 2021, PMID 33567185)
+Geregistreerde studies, vooral lopende, worden vermeld met hun nummer in het Amerikaanse studieregister ClinicalTrials.gov, bijvoorbeeld NCT03548935. In tabellen staan de bronnen direct in de eerste kolom.
 
-Geregistreerde studies, vooral lopende, worden vermeld met hun nummer in het Amerikaanse studieregister ClinicalTrials.gov, bijvoorbeeld:
-
-(NCT03548935)
-
-Voetnoten en een aparte literatuurlijst aan het eind van elk hoofdstuk zijn er niet; de volledige studielijst staat in de bijlage.
+De voetnoten staan telkens aan het eind van het hoofdstuk; het volledige studieregister staat in de bijlage.
 
 ### Zo zoekt u een bron op
 

@@ -72,15 +72,11 @@ Il livello di evidenza non è una raccomandazione né un'affermazione sulla sicu
 
 ### Come sono indicate le fonti
 
-Ogni studio è indicato nel testo con la prima autrice o il primo autore, l'anno di pubblicazione e il numero PubMed, per esempio:
+Per mantenere il testo scorrevole, le fonti sono riportate nelle note a piè di pagina. Nell'e-book compare un piccolo numero in apice nel punto corrispondente; toccandolo si visualizza la fonte. Ogni nota indica il primo autore o la prima autrice, l'anno di pubblicazione e il numero PubMed, per esempio: Wilding 2021, PMID 33567185.
 
-(Wilding 2021, PMID 33567185)
+Gli studi registrati, in particolare quelli in corso, sono indicati con il loro numero nel registro statunitense ClinicalTrials.gov, per esempio NCT03548935. Nelle tabelle le fonti compaiono direttamente nella prima colonna.
 
-Gli studi registrati, in particolare quelli in corso, sono indicati con il loro numero nel registro statunitense degli studi ClinicalTrials.gov, per esempio:
-
-(NCT03548935)
-
-Non ci sono note a piè di pagina né una bibliografia separata alla fine dei capitoli; l'elenco completo degli studi si trova nell'appendice.
+Le note sono raccolte alla fine di ogni capitolo; l'indice completo degli studi si trova in appendice.
 
 ### Come consultare una fonte
 

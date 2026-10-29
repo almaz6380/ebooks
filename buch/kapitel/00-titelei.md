@@ -72,15 +72,11 @@ Die Evidenzstufe ist keine Empfehlung und keine Aussage darüber, ob ein Stoff s
 
 ### Wie Quellen angegeben sind
 
-Jede Studie ist im Text mit Erstautorin oder Erstautor, Erscheinungsjahr und PubMed-Nummer angegeben, zum Beispiel:
+Damit der Text gut lesbar bleibt, stehen die Quellen in Fußnoten. Im E-Book erscheint an der betreffenden Stelle eine kleine hochgestellte Ziffer; ein Tippen darauf zeigt die Quelle. Jede Fußnote nennt Erstautorin oder Erstautor, Erscheinungsjahr und PubMed-Nummer, zum Beispiel: Wilding 2021, PMID 33567185.
 
-(Wilding 2021, PMID 33567185)
+Registrierte Studien, insbesondere laufende, sind mit ihrer Nummer im US-amerikanischen Studienregister ClinicalTrials.gov angegeben, zum Beispiel NCT03548935. In Tabellen stehen die Quellen direkt in der ersten Spalte.
 
-Registrierte Studien, insbesondere laufende, werden mit ihrer Nummer im US-amerikanischen Studienregister ClinicalTrials.gov angegeben, zum Beispiel:
-
-(NCT03548935)
-
-Fußnoten und ein separates Literaturverzeichnis am Kapitelende gibt es nicht; das vollständige Studienverzeichnis steht im Anhang.
+Die Fußnoten stehen jeweils am Ende des Kapitels; das vollständige Studienverzeichnis steht im Anhang.
 
 ### So schlagen Sie eine Quelle nach
 

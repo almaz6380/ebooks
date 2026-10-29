@@ -72,15 +72,11 @@ El nivel de evidencia no es una recomendación ni una afirmación sobre la segur
 
 ### Cómo se citan las fuentes
 
-Cada estudio se cita en el texto con el primer autor o la primera autora, el año de publicación y el número de PubMed, por ejemplo:
+Para que el texto sea fácil de leer, las fuentes figuran en notas al pie. En el libro electrónico aparece un pequeño número volado en el lugar correspondiente; al tocarlo se muestra la fuente. Cada nota indica el primer autor o la primera autora, el año de publicación y el número de PubMed, por ejemplo: Wilding 2021, PMID 33567185.
 
-(Wilding 2021, PMID 33567185)
+Los estudios registrados, en especial los que están en curso, figuran con su número en el registro estadounidense de ensayos ClinicalTrials.gov, por ejemplo NCT03548935. En las tablas, las fuentes aparecen directamente en la primera columna.
 
-Los estudios registrados, en particular los que están en curso, se citan con su número en el registro estadounidense de estudios ClinicalTrials.gov, por ejemplo:
-
-(NCT03548935)
-
-No hay notas al pie ni una bibliografía separada al final de cada capítulo; el índice completo de estudios se encuentra en el anexo.
+Las notas se recogen al final de cada capítulo; el índice completo de estudios se encuentra en el anexo.
 
 ### Cómo consultar una fuente
 

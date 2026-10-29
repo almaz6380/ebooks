@@ -11,3 +11,6 @@ ul, ol { margin: 0.3em 0 0.8em 1.2em; padding: 0; }
 li { margin-bottom: 0.25em; }
 blockquote { margin: 0.8em 1em; font-style: italic; }
 nav#toc ol { list-style: none; margin-left: 0.8em; }
+a.footnote-ref { vertical-align: super; font-size: 0.65em; line-height: 0; text-decoration: none; }
+section.footnotes { font-size: 0.85em; }
+section.footnotes hr { margin: 1.5em 0 0.5em; }
