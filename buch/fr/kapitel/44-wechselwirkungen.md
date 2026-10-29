@@ -17,7 +17,7 @@ Comme les médicaments GLP-1 sont utilisés chez de nombreuses femmes en âge de
 
 Ces données aident à évaluer une exposition *accidentelle*. Elles ne prouvent pas qu'une utilisation planifiée pendant la grossesse serait sûre. Pour l'allaitement, les données sont encore plus minces ; une petite étude portant sur dix femmes et consacrée au passage du brémélanotide dans le lait maternel a été achevée (NCT06867835).
 
-Certains peptides sont dangereux pendant la grossesse en raison de leur principe d'action. L'ocytocine déclenche les contractions ; une utilisation en spray nasal en dehors de tout contrôle médical est risquée pendant la grossesse (chapitre Ocytocine). Pour les peptides du marché gris comme le BPC-157, le TB-500, l'�Epitalon ou les sécrétagogues de l'hormone de croissance, il n'existe aucune donnée sur la grossesse et l'allaitement.
+Certains peptides sont dangereux pendant la grossesse en raison de leur principe d'action. L'ocytocine déclenche les contractions ; une utilisation en spray nasal en dehors de tout contrôle médical est risquée pendant la grossesse (chapitre Ocytocine). Pour les peptides du marché gris comme le BPC-157, le TB-500, l'Epitalon ou les sécrétagogues de l'hormone de croissance, il n'existe aucune donnée sur la grossesse et l'allaitement.
 
 ### Contraception orale et vidange gastrique
 

@@ -35,7 +35,7 @@ Pour les médicaments GLP-1 autorisés, des études systématiques sont disponib
 
 Pour les substances plus récentes – rétatrutide, survodutide, mazdutide, cagrilintide, amycrétine et le maridebart cafraglutide, à base d'anticorps –, des analyses de synthèse comparables n'ont pas encore été publiées. Pour le maridebart cafraglutide, c'est particulièrement pertinent, car les médicaments à base d'anticorps peuvent avoir une immunogénicité propre (chapitre Maridebart cafraglutide).
 
-Pour la plupart des peptides du marché gris, il n'existe aucune donnée sur les anticorps. C'est le cas du BPC-157, du TB-500, du CJC-1295, de l'ipamoréline, du MOTS-c, de l'humanine, de l'�Epitalon et de bien d'autres. Les chapitres consacrés au MOTS-c, à l'humanine et au FOXO4-DRI signalent que des anticorps sont envisageables en cas d'injections répétées, mais n'ont jamais été étudiés. Une personne qui s'injecte de telles substances pendant des mois ne peut donc pas savoir si son organisme forme des anticorps ni ce qu'ils provoquent.
+Pour la plupart des peptides du marché gris, il n'existe aucune donnée sur les anticorps. C'est le cas du BPC-157, du TB-500, du CJC-1295, de l'ipamoréline, du MOTS-c, de l'humanine, de l'Epitalon et de bien d'autres. Les chapitres consacrés au MOTS-c, à l'humanine et au FOXO4-DRI signalent que des anticorps sont envisageables en cas d'injections répétées, mais n'ont jamais été étudiés. Une personne qui s'injecte de telles substances pendant des mois ne peut donc pas savoir si son organisme forme des anticorps ni ce qu'ils provoquent.
 
 ### Réactions au point d'injection
 

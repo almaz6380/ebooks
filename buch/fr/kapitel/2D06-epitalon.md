@@ -12,7 +12,7 @@
 
 ### Mode d'action supposé
 
-La glande pinéale est un petit organe du cerveau qui produit la nuit l'hormone mélatonine et contribue ainsi à piloter le rythme jour-nuit. Avec l'âge, la production de mélatonine diminue. Le groupe de Saint-Pétersbourg partait du principe que des peptides courts issus d'organes peuvent, en tant que « biorégulateurs », rétablir la fonction de ces mêmes organes – issus de la glande pinéale pour la glande pinéale, du thymus pour le système immunitaire (voir aussi le chapitre Thymalin dans la partie II · B).
+La glande pinéale est un petit organe du cerveau qui produit la nuit l'hormone mélatonine et contribue ainsi à piloter le rythme jour-nuit. Avec l'âge, la production de mélatonine diminue. Le groupe de Saint-Pétersbourg partait du principe que des peptides courts issus d'organes peuvent, en tant que « biorégulateurs », rétablir la fonction de ces mêmes organes – issus de la glande pinéale pour la glande pinéale, du thymus pour le système immunitaire (voir aussi le chapitre Thymaline et thymogène dans la partie II · B).
 
 Pour l'Epitalon, plusieurs mécanismes sont décrits, presque tous issus d'expériences de laboratoire et animales du groupe de ses concepteurs :
 
