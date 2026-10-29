@@ -30,7 +30,7 @@ Ni un solo péptido de este grupo está autorizado como medicamento en la UE o e
 
 ### Indicaciones para la lectura
 
-Los capítulos siguen la estructura uniforme de este libro. En este grupo, preste especial atención a tres distinciones:
+Los capítulos siguen la estructura uniforme de este libro. En este grupo, presta especial atención a tres distinciones:
 
 - **¿Humano o animal?** En el caso del BPC-157, el KPV y el TB-500, casi todo lo que se afirma en internet se basa en experimentos con ratas, ratones o cultivos celulares. Los capítulos lo señalan expresamente en cada caso.
 - **¿Principio activo o valor medido?** Sobre el LL-37 hay muchos estudios que *miden* la sustancia en sangre, pero pocos que la *administran* como medicamento. Solo estos últimos dicen algo sobre un tratamiento.
@@ -38,4 +38,4 @@ Los capítulos siguen la estructura uniforme de este libro. En este grupo, prest
 
 Dos capítulos contienen advertencias sobre entradas de registro cuya autenticidad es dudosa: un promotor ha inscrito en ClinicalTrials.gov tanto un estudio de fase 2 sobre el BPC-157 como un estudio sobre el TB-500, uno de los cuales se describe a sí mismo como «ejemplo ficticio». Así pues, tampoco una entrada de registro prueba que un estudio se esté realizando realmente.
 
-Las cuestiones sobre productos del mercado gris, contaminantes y el riesgo teórico de cáncer por señales de crecimiento y vasculares se tratan con más detalle y de forma transversal a todos los péptidos en el capítulo I.5 y en la Parte IV. Para los deportistas rige lo siguiente: el BPC-157, el TB-500 y el ARA-290 están expresamente prohibidos por la AMA; en el caso de los demás, consulte a su agencia nacional antidopaje antes de cualquier uso.
+Las cuestiones sobre productos del mercado gris, contaminantes y el riesgo teórico de cáncer por señales de crecimiento y vasculares se tratan con más detalle y de forma transversal a todos los péptidos en el capítulo I.5 y en la Parte IV. Para los deportistas rige lo siguiente: el BPC-157, el TB-500 y el ARA-290 están expresamente prohibidos por la AMA; en el caso de los demás, consulta a tu agencia nacional antidopaje antes de cualquier uso.

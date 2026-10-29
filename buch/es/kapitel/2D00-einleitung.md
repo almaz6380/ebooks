@@ -12,7 +12,7 @@ El grupo puede dividirse a grandes rasgos en tres familias:
 
 ### El mundo de los nootrópicos y la longevidad
 
-Quien busca estas sustancias en internet acaba rápidamente en foros, con influencers y en «clínicas de longevidad». Son típicos tres errores de razonamiento que encontrará una y otra vez en los capítulos siguientes:
+Quien busca estas sustancias en internet acaba rápidamente en foros, con influencers y en «clínicas de longevidad». Son típicos tres errores de razonamiento que encontrarás una y otra vez en los capítulos siguientes:
 
 1. **Del animal al ser humano:** Que un péptido mejore la memoria o la esperanza de vida en ratones dice poco sobre si actúa en el ser humano. En la investigación sobre el ictus y el alzhéimer, cientos de principios activos con éxito en animales han fracasado en humanos.
 2. **Del nivel en sangre a la inyección:** Que las personas con niveles bajos de MOTS-c o de humanina enfermen con más frecuencia no demuestra que su aporte sea saludable.
@@ -49,4 +49,4 @@ Una gran parte de la literatura sobre Semax, Selank, DSIP, Epitalon y Pinealon p
 
 ### Nota de lectura
 
-Los capítulos siguen la estructura uniforme de este libro. Preste especial atención en cada capítulo al apartado «Estudios en humanos» y, dentro de él, a la magnitud de los datos disponibles: en nueve de los doce péptidos no existe ningún estudio en el que personas recibieran el principio activo, o solo hay investigaciones muy pequeñas y metodológicamente débiles. La situación legal y el estatus ante la FDA cambiaron varias veces en 2026; los datos corresponden a la situación de octubre de 2026 y conviene comprobarlos en su versión actual.
+Los capítulos siguen la estructura uniforme de este libro. Presta especial atención en cada capítulo al apartado «Estudios en humanos» y, dentro de él, a la magnitud de los datos disponibles: en nueve de los doce péptidos no existe ningún estudio en el que personas recibieran el principio activo, o solo hay investigaciones muy pequeñas y metodológicamente débiles. La situación legal y el estatus ante la FDA cambiaron varias veces en 2026; los datos corresponden a la situación de octubre de 2026 y conviene comprobarlos en su versión actual.

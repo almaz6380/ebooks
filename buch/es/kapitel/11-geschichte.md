@@ -1,6 +1,6 @@
 ## Breve historia: de la insulina a los medicamentos GLP-1
 
-La historia de los medicamentos peptídicos es una historia de avances decisivos, callejones sin salida y casualidades asombrosas. Comienza con un experimento desesperado en Toronto, pasa por el veneno de un lagarto del desierto norteamericano y termina, de momento, en inyecciones para adelgazar que figuran entre los medicamentos más vendidos del mundo. Este capítulo recorre las etapas más importantes. Pretende ayudarle a situar en su contexto el revuelo actual en torno a los péptidos: mucho de lo que se vende como revolucionario se apoya sobre los hombros de cien años de laboriosa investigación.
+La historia de los medicamentos peptídicos es una historia de avances decisivos, callejones sin salida y casualidades asombrosas. Comienza con un experimento desesperado en Toronto, pasa por el veneno de un lagarto del desierto norteamericano y termina, de momento, en inyecciones para adelgazar que figuran entre los medicamentos más vendidos del mundo. Este capítulo recorre las etapas más importantes. Pretende ayudarte a situar en su contexto el revuelo actual en torno a los péptidos: mucho de lo que se vende como revolucionario se apoya sobre los hombros de cien años de laboriosa investigación.
 
 ### Antes de 1922: se descubren los mensajeros químicos
 

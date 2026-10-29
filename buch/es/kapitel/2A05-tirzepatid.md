@@ -96,7 +96,7 @@ La comparación directa en la obesidad sin diabetes, esperada por muchos, la apo
 
 Un análisis posterior mostró que el 44 % con tirzepatida y el 21 % con semaglutida ya habían perdido al menos el 15 % hasta la semana 24 («respondedores rápidos»). Estos tuvieron algo más de eventos gastrointestinales y biliares, pero no interrumpieron el tratamiento con más frecuencia (Aronne 2026, PMID 41865857).
 
-Para situarlo en contexto: SURMOUNT-5 fue financiado por el fabricante de la tirzepatida y se realizó de forma abierta. Aun así, la diferencia es lo bastante grande como para que difícilmente pueda explicarse solo por estas limitaciones. Encontrará una comparación de todos los medicamentos GLP-1 en la Parte III.
+Para situarlo en contexto: SURMOUNT-5 fue financiado por el fabricante de la tirzepatida y se realizó de forma abierta. Aun así, la diferencia es lo bastante grande como para que difícilmente pueda explicarse solo por estas limitaciones. Encontrarás una comparación de todos los medicamentos GLP-1 en la Parte III.
 
 #### Insuficiencia cardíaca: SUMMIT
 

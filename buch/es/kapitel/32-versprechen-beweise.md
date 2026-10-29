@@ -73,22 +73,22 @@ La siguiente lista de comprobación ayuda a valorar afirmaciones sobre péptidos
 #### Preguntas sobre la fuente
 
 - **¿Quién habla?** ¿La persona o la página vende la propia sustancia, ofrece cursos, asesoramiento o códigos de descuento? Un interés económico no hace falsa una afirmación, pero es un motivo para mirar con más atención.
-- **¿Se citan estudios y se pueden encontrar?** Las afirmaciones serias indican una fuente verificable: un PMID, un DOI o un número de registro (NCT). Puede introducir cualquier PMID gratuitamente en PubMed y leer usted mismo el resumen. Expresiones como «los estudios demuestran» sin una referencia concreta son una señal de alarma.
-- **¿Encaja el estudio citado con la afirmación?** Compruebe si el estudio investigó realmente la sustancia que se vende, el uso promocionado y a seres humanos, o si se trataba de una molécula emparentada, otra enfermedad o ratas.
+- **¿Se citan estudios y se pueden encontrar?** Las afirmaciones serias indican una fuente verificable: un PMID, un DOI o un número de registro (NCT). Puedes introducir cualquier PMID gratuitamente en PubMed y leer tú mismo el resumen. Expresiones como «los estudios demuestran» sin una referencia concreta son una señal de alarma.
+- **¿Encaja el estudio citado con la afirmación?** Comprueba si el estudio investigó realmente la sustancia que se vende, el uso promocionado y a seres humanos, o si se trataba de una molécula emparentada, otra enfermedad o ratas.
 
 #### Preguntas sobre el estudio
 
 - **¿Humanos, animales o cultivo celular?** Si en el resumen pone «rats», «mice», «in vitro» o «cell culture», no dice nada sobre el efecto en el ser humano.
 - **¿Hubo un grupo de comparación?** Sin un grupo placebo o de control no puede distinguirse si una mejoría se debe a la sustancia, al paso del tiempo, a otros tratamientos o a las expectativas. Precisamente en el dolor, el estado de ánimo o el sueño, el efecto placebo es grande.
 - **¿Cuántos participantes?** Los estudios con 10 o 20 personas pueden aportar indicios, pero no demostrar un beneficio ni detectar efectos adversos raros.
-- **¿Qué se midió?** Un valor de laboratorio que sube no es un beneficio perceptible. Pregúntese: ¿se midió lo que importa a los afectados (dolor, función, acontecimientos de enfermedad, calidad de vida)?
+- **¿Qué se midió?** Un valor de laboratorio que sube no es un beneficio perceptible. Pregúntate: ¿se midió lo que importa a los afectados (dolor, función, acontecimientos de enfermedad, calidad de vida)?
 - **¿Se registró el estudio previamente?** Un registro en ClinicalTrials.gov o en el registro de la UE antes de iniciar el estudio impide que los objetivos se elijan a posteriori a conveniencia.
 - **¿Se repitió el resultado?** Un único resultado positivo de un único grupo de investigación es un comienzo, no una prueba.
 
 #### Señales de alarma en el lenguaje
 
 - Promesas que abarcan a la vez muchas dolencias muy distintas («para articulaciones, intestino, piel, cerebro y sistema inmunitario»).
-- Términos como «remedio milagroso», «consejo secreto», «lo que los médicos no le cuentan» o «silenciado por la industria farmacéutica».
+- Términos como «remedio milagroso», «consejo secreto», «lo que los médicos no te cuentan» o «silenciado por la industria farmacéutica».
 - La afirmación «sin efectos adversos» para una sustancia apenas estudiada en humanos.
 - Testimonios e imágenes de antes y después en lugar de datos de estudios.
 - La indicación «solo para fines de investigación» o «no apto para consumo humano» en un producto que al mismo tiempo se promociona con efectos en humanos. Esta contradicción demuestra que el proveedor quiere eludir la normativa sobre medicamentos (véase la Parte I).
@@ -104,7 +104,7 @@ La siguiente lista de comprobación ayuda a valorar afirmaciones sobre péptidos
 
 #### Tres preguntas para el día a día
 
-Si tiene poco tiempo, a menudo bastan tres preguntas:
+Si tienes poco tiempo, a menudo bastan tres preguntas:
 
 1. ¿Está la sustancia autorizada como medicamento en la UE o en EE. UU. exactamente para este uso?
 2. ¿Existe al menos un estudio aleatorizado y controlado con placebo en humanos que haya demostrado el beneficio afirmado?

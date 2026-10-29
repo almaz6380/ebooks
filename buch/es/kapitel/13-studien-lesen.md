@@ -1,6 +1,6 @@
 ## Cómo leer correctamente los estudios
 
-«Los estudios demuestran…»: pocas expresiones se utilizan tanto en la publicidad de péptidos. Con ella puede aludirse a cualquier cosa: un ensayo con células en una placa de Petri, un experimento con doce ratas, el testimonio de un único paciente o un estudio con 17.000 participantes a lo largo de más de tres años. Quien quiera evaluar los péptidos debe conocer estas diferencias. Este capítulo es una especie de caja de herramientas. Explica los tipos de estudio más importantes, las trampas al interpretar los resultados y cómo puede comprobar usted mismo qué hay detrás de una afirmación.
+«Los estudios demuestran…»: pocas expresiones se utilizan tanto en la publicidad de péptidos. Con ella puede aludirse a cualquier cosa: un ensayo con células en una placa de Petri, un experimento con doce ratas, el testimonio de un único paciente o un estudio con 17.000 participantes a lo largo de más de tres años. Quien quiera evaluar los péptidos debe conocer estas diferencias. Este capítulo es una especie de caja de herramientas. Explica los tipos de estudio más importantes, las trampas al interpretar los resultados y cómo puedes comprobar tú mismo qué hay detrás de una afirmación.
 
 ### La pirámide de la evidencia
 
@@ -38,7 +38,7 @@ Para este libro, esto tiene una consecuencia clara: si para un péptido solo exi
 
 ### Casos clínicos y estudios observacionales
 
-Los **casos clínicos** describen a pacientes individuales. Dicen poco sobre la eficacia, pero pueden ser muy valiosos para la seguridad: los efectos adversos raros o inesperados suelen detectarse primero en casos clínicos. En el capítulo sobre el mercado gris conocerá varios de ellos, por ejemplo sobre hipoglucemias graves causadas por preparados falsificados.
+Los **casos clínicos** describen a pacientes individuales. Dicen poco sobre la eficacia, pero pueden ser muy valiosos para la seguridad: los efectos adversos raros o inesperados suelen detectarse primero en casos clínicos. En el capítulo sobre el mercado gris conocerás varios de ellos, por ejemplo sobre hipoglucemias graves causadas por preparados falsificados.
 
 Los **estudios observacionales** comparan a personas que toman una sustancia con personas que no la toman. Su principal problema es el llamado **factor de confusión** (confounding): quien toma un determinado preparado suele diferir también en otros aspectos, como los ingresos, la conciencia sobre la salud o las enfermedades previas. Por eso, una asociación encontrada no tiene por qué ser una relación de causa y efecto.
 
@@ -86,7 +86,7 @@ Es especialmente importante distinguir entre **variables duras** y **variables s
 
 Las variables subrogadas son prácticas porque pueden medirse más rápido y con menos participantes. Pero pueden inducir a error. El ejemplo más conocido es el Cardiac Arrhythmia Suppression Trial (CAST), de finales de la década de 1980. Se partía de que los medicamentos que suprimen determinadas arritmias cardíacas después de un infarto también evitan muertes. Los medicamentos suprimieron efectivamente las arritmias: se alcanzó la variable subrogada. Sin embargo, en el estudio aleatorizado murieron más personas con dos de estos medicamentos que con placebo: por arritmias murieron 43 participantes con principio activo frente a 16 con placebo (Echt 1991, PMID 1900101).
 
-Con los péptidos encontrará constantemente variables subrogadas. En los liberadores de hormona del crecimiento a menudo solo se mide si aumenta la concentración de hormona del crecimiento o de IGF-1, no si las personas están por ello más sanas, más fuertes o viven más. En los medicamentos GLP-1, en cambio, existen ya grandes estudios con variables duras como el infarto de miocardio y el ictus. Esta es una de las razones por las que reciben en este libro el nivel de evidencia más alto.
+Con los péptidos encontrarás constantemente variables subrogadas. En los liberadores de hormona del crecimiento a menudo solo se mide si aumenta la concentración de hormona del crecimiento o de IGF-1, no si las personas están por ello más sanas, más fuertes o viven más. En los medicamentos GLP-1, en cambio, existen ya grandes estudios con variables duras como el infarto de miocardio y el ictus. Esta es una de las razones por las que reciben en este libro el nivel de evidencia más alto.
 
 ### Riesgos relativos y absolutos
 
@@ -99,7 +99,7 @@ De ello se derivan dos afirmaciones, ambas correctas:
 
 A partir de la diferencia absoluta puede calcularse el **número necesario a tratar (NNT)**: cuántas personas deben tratarse para que una evite un evento. Aquí son, según el cálculo, unas 67 personas durante algo más de tres años. Eso no significa que el tratamiento carezca de importancia: con millones de afectados, el efecto es relevante. Pero muestra que la mayoría de las personas tratadas no habría sufrido ningún evento aun sin medicamento y que algunas lo sufren a pesar del medicamento.
 
-La publicidad y los titulares prefieren las cifras relativas porque suenan más grandes. Los buenos informes de estudios indican ambas. Por eso, preste siempre atención a la frecuencia de partida: «reducir a la mitad» el riesgo de 2 a 1 de cada 10.000 es algo completamente distinto que de 20 a 10 de cada 100.
+La publicidad y los titulares prefieren las cifras relativas porque suenan más grandes. Los buenos informes de estudios indican ambas. Por eso, presta siempre atención a la frecuencia de partida: «reducir a la mitad» el riesgo de 2 a 1 de cada 10.000 es algo completamente distinto que de 20 a 10 de cada 100.
 
 Lo mismo se aplica a los efectos adversos. En SELECT, el 16,6 % de los participantes con semaglutida interrumpieron el tratamiento por acontecimientos adversos, frente al 8,2 % con placebo (Lincoff 2023, PMID 37952131). En términos relativos es el doble; en términos absolutos, una diferencia de 8,4 puntos porcentuales.
 
@@ -176,5 +176,5 @@ El nivel valora **la cantidad y la calidad de los datos en el ser humano**, no s
 - Los estudios de laboratorio y en animales aportan indicios sobre los mecanismos, pero no prueban un beneficio en el ser humano.
 - La comparación aleatorizada, controlada y enmascarada es la vía más fiable para demostrar un efecto.
 - Las variables subrogadas, como los valores de laboratorio, pueden inducir a error; lo que cuenta son las variables duras.
-- Las cifras relativas suenan más grandes que las absolutas. Pregunte siempre por la frecuencia de partida.
+- Las cifras relativas suenan más grandes que las absolutas. Pregunta siempre por la frecuencia de partida.
 - La financiación, el sesgo de publicación y la falta de confirmación por grupos independientes pueden distorsionar la imagen. Los registros de estudios ayudan a comprobarlo.

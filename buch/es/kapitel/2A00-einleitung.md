@@ -4,7 +4,7 @@ Ningún grupo de péptidos ha transformado tanto la medicina de los últimos añ
 
 ### Lo que une a estos principios activos: hormonas del intestino y del páncreas
 
-Casi todos los principios activos de este grupo imitan hormonas que el organismo libera en torno a una comida. Conviene conocer cuatro de ellas:
+Casi todos los principios activos de este grupo imitan hormonas que el organismo libera en torno a una comida. Conviene que conozcas cuatro de ellas:
 
 - **El GLP-1 (péptido similar al glucagón tipo 1)** es liberado por células del intestino delgado y del intestino grueso en cuanto llegan los alimentos. Aumenta la secreción de insulina —pero solo si la glucemia está elevada—, frena el vaciamiento gástrico y comunica saciedad al cerebro. El GLP-1 endógeno se degrada en pocos minutos; los medicamentos están modificados de manera que actúan entre un día y una semana.
 - **El GIP (polipéptido insulinotrópico dependiente de glucosa)** procede de la parte superior del intestino delgado y también aumenta la secreción de insulina. Su papel en el apetito y el peso corporal es contradictorio: la tirzepatida activa el receptor de GIP, el maridebart cafraglutida lo bloquea, y ambos provocan pérdida de peso.
@@ -35,12 +35,12 @@ Dos principios activos de este grupo no encajan en este esquema: la **setmelanot
 | AOD-9604 | D | no | fragmento de hormona del crecimiento, mercado gris |
 | Orforglipron | A | pendiente | no es un péptido, comprimido (comparación) |
 
-Los niveles de evidencia se explican en la Parte I. Los datos de autorización se refieren al estado de octubre de 2026 y a al menos una indicación; los detalles figuran en el capítulo correspondiente. Compruebe la situación actual, porque precisamente en este grupo las autorizaciones cambian con rapidez.
+Los niveles de evidencia se explican en la Parte I. Los datos de autorización se refieren al estado de octubre de 2026 y a al menos una indicación; los detalles figuran en el capítulo correspondiente. Comprueba la situación actual, porque precisamente en este grupo las autorizaciones cambian con rapidez.
 
 ### Indicaciones de lectura
 
 Los capítulos siguen a grandes rasgos la evolución histórica: de los agonistas del GLP-1 consolidados (de la exenatida a la semaglutida) a los principios activos combinados (de la tirzepatida al maridebart cafraglutida), pasando por los casos especiales (pramlintida, setmelanotida, AOD-9604) y, por último, al orforglipron, que se incluye a efectos comparativos como sustancia no peptídica.
 
-Si desea hacerse una idea rápida, empiece por la semaglutida y la tirzepatida: todos los demás se miden con ellas. Las comparaciones directas de la pérdida de peso, la reducción de la glucemia, los resultados cardiovasculares y los efectos adversos de todos los principios activos se encuentran en la Parte III. Los riesgos de la clase, como los problemas de la vesícula biliar y del páncreas, la pérdida de masa muscular y las cuestiones relativas a la tiroides, se tratan en detalle en la Parte IV.
+Si deseas hacerte una idea rápida, empieza por la semaglutida y la tirzepatida: todos los demás se miden con ellas. Las comparaciones directas de la pérdida de peso, la reducción de la glucemia, los resultados cardiovasculares y los efectos adversos de todos los principios activos se encuentran en la Parte III. Los riesgos de la clase, como los problemas de la vesícula biliar y del páncreas, la pérdida de masa muscular y las cuestiones relativas a la tiroides, se tratan en detalle en la Parte IV.
 
 Dos principios rigen para todo el grupo: en primer lugar, los capítulos describen resultados de estudios, no instrucciones de tratamiento; para los medicamentos autorizados, lo determinante son la ficha técnica y el seguimiento médico. En segundo lugar, con casi todos los principios activos se recupera gran parte del peso perdido cuando termina el tratamiento. Estos medicamentos actúan mientras se toman; no son una cura.

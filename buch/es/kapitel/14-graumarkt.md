@@ -2,7 +2,7 @@
 
 Quien busca péptidos en internet llega enseguida a tiendas en línea con páginas de aspecto profesional, fotos de laboratorio y certificados de pureza. Se ofrecen viales con un polvo blanco: BPC-157, TB-500, ipamorelina, melanotán II y, cada vez más, también semaglutida, tirzepatida o principios activos todavía no autorizados como la retatrutida. Casi siempre figura en algún lugar la advertencia «Research Use Only» o «not for human consumption»: solo para fines de investigación, no apto para uso en seres humanos.
 
-Este capítulo describe lo que se sabe sobre este mercado: a partir de análisis de laboratorio de productos comprados e incautados, de casos clínicos de intoxicaciones y de análisis de notificaciones de efectos adversos. Pretende ayudarle a valorar los riesgos de forma realista. En este libro no se mencionan, por principio, fuentes de suministro.
+Este capítulo describe lo que se sabe sobre este mercado: a partir de análisis de laboratorio de productos comprados e incautados, de casos clínicos de intoxicaciones y de análisis de notificaciones de efectos adversos. Pretende ayudarte a valorar los riesgos de forma realista. En este libro no se mencionan, por principio, fuentes de suministro.
 
 ### Qué son los «Research Peptides»
 
@@ -124,11 +124,11 @@ Los motivos para recurrir al mercado gris son diversos: precios elevados y falta
 
 Estos motivos son comprensibles. Pero los análisis de este capítulo muestran que los compradores del mercado gris no pueden saber qué reciben realmente.
 
-### Si ya ha utilizado péptidos del mercado gris
+### Si ya has utilizado péptidos del mercado gris
 
 Este libro no da indicaciones de uso. No obstante, algunos puntos generales son importantes por razones de seguridad:
 
-- Informe a su médico o médica de todas las inyecciones, péptidos y «productos químicos de investigación» que utilice, aunque no los considere medicamentos.
+- Informa a tu médico o médica de todas las inyecciones, péptidos y «productos químicos de investigación» que utilices, aunque no los consideres medicamentos.
 - Las molestias inesperadas como temblor, sudoración, confusión o alteraciones de la consciencia tras una inyección pueden indicar una hipoglucemia y constituyen una urgencia.
 - Los productos sospechosos y los efectos adversos pueden notificarse a las autoridades: en Alemania, al Instituto Federal de Medicamentos y Productos Sanitarios (BfArM); en Austria, a la Oficina Federal de Seguridad en la Asistencia Sanitaria (BASG).
 

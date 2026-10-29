@@ -1,6 +1,6 @@
 # Parte I – Fundamentos
 
-Antes de que la Parte II se ocupe de los distintos principios activos, esta parte sienta las bases. Descubrirá qué es químicamente un péptido, cómo un extracto de páncreas de perro se convirtió en el plazo de un siglo en uno de los grupos de medicamentos con mayor volumen de ventas del mundo, por qué la mayoría de los péptidos deben inyectarse, cómo leer un estudio sin dejarse engañar por los titulares, qué contienen realmente los viales del mercado gris y qué normas jurídicas se aplican.
+Antes de que la Parte II se ocupe de los distintos principios activos, esta parte sienta las bases. Descubrirás qué es químicamente un péptido, cómo un extracto de páncreas de perro se convirtió en el plazo de un siglo en uno de los grupos de medicamentos con mayor volumen de ventas del mundo, por qué la mayoría de los péptidos deben inyectarse, cómo leer un estudio sin dejarse engañar por los titulares, qué contienen realmente los viales del mercado gris y qué normas jurídicas se aplican.
 
 Quien solo quiera consultar un péptido concreto puede saltar directamente a la Parte II. No obstante, los capítulos de esta parte explican los conceptos y criterios que se emplean allí constantemente, como «aleatorizado», «variable subrogada», «nivel de evidencia B» o «Research Peptide». Por eso merece la pena echarles un vistazo, incluso si tiene prisa.
 
@@ -12,7 +12,7 @@ La palabra «péptido» ha hecho una carrera asombrosa en los últimos años. Ap
 
 Todos los péptidos y proteínas están formados por aminoácidos. Un aminoácido es una molécula pequeña con dos componentes característicos: un grupo amino (que contiene nitrógeno) y un grupo ácido (grupo carboxilo). Entre ambos se sitúa un átomo de carbono central del que cuelga una llamada cadena lateral. Esta cadena lateral es lo que distingue a los aminoácidos entre sí: puede ser pequeña y discreta, como en la glicina; oleosa e hidrófoba, como en la leucina; con carga eléctrica, como en la lisina; o con azufre, como en la cisteína.
 
-El cuerpo humano construye sus proteínas esencialmente a partir de 20 aminoácidos estándar. Algunos puede fabricarlos por sí mismo; otros, los aminoácidos «esenciales», debe obtenerlos de la alimentación. Además, existen cientos de aminoácidos más que se encuentran en la naturaleza o se fabrican en el laboratorio. Para el desarrollo de medicamentos, estos aminoácidos «no naturales» son importantes porque pueden hacer que un péptido sea más estable. Encontrará un ejemplo más abajo, en el caso de la semaglutida.
+El cuerpo humano construye sus proteínas esencialmente a partir de 20 aminoácidos estándar. Algunos puede fabricarlos por sí mismo; otros, los aminoácidos «esenciales», debe obtenerlos de la alimentación. Además, existen cientos de aminoácidos más que se encuentran en la naturaleza o se fabrican en el laboratorio. Para el desarrollo de medicamentos, estos aminoácidos «no naturales» son importantes porque pueden hacer que un péptido sea más estable. Encontrarás un ejemplo más abajo, en el caso de la semaglutida.
 
 Algo importante para entender muchas promesas publicitarias: los aminoácidos sueltos no son péptidos. Un complemento alimenticio con arginina, glutamina o «BCAA» contiene aminoácidos libres, es decir, componentes sueltos, no un péptido.
 
@@ -92,7 +92,7 @@ Los péptidos ocupan un nicho entre las «moléculas pequeñas» clásicas (como
 
 Según un artículo de revisión, desde la introducción de la insulina más de 80 medicamentos peptídicos han llegado al mercado, por ejemplo contra la diabetes, el cáncer, la osteoporosis, la esclerosis múltiple, la infección por VIH y el dolor crónico (Muttenthaler 2021, PMID 33536635). Otro análisis contabilizó más de 150 péptidos en desarrollo clínico activo (Lau 2018, PMID 28720325). Las cifras varían según el método de recuento, pero apuntan en la misma dirección: los péptidos son una parte consolidada y creciente de la medicina.
 
-Es posible que conozca muchos péptidos farmacológicos sin haberlos percibido como tales: la insulina, el antiosteoporótico teriparatida (un fragmento de la hormona paratiroidea de 34 aminoácidos), los principios activos contra el cáncer de próstata que actúan sobre el sistema de la GnRH, la oxitocina utilizada para inducir las contracciones del parto o el antibiótico vancomicina, un glucopéptido.
+Es posible que conozcas muchos péptidos farmacológicos sin haberlos percibido como tales: la insulina, el antiosteoporótico teriparatida (un fragmento de la hormona paratiroidea de 34 aminoácidos), los principios activos contra el cáncer de próstata que actúan sobre el sistema de la GnRH, la oxitocina utilizada para inducir las contracciones del parto o el antibiótico vancomicina, un glucopéptido.
 
 ### Lo que no son los péptidos
 

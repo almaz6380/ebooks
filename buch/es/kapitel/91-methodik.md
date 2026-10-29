@@ -1,6 +1,6 @@
 # Metodología
 
-Este anexo describe cómo se buscaron, seleccionaron y revisaron los estudios para este libro. Debe permitirle comprender la investigación y, si es necesario, repetirla o actualizarla usted mismo.
+Este anexo describe cómo se buscaron, seleccionaron y revisaron los estudios para este libro. Debe permitirte comprender la investigación y, si es necesario, repetirla o actualizarla tú mismo.
 
 ### Bases de datos
 
@@ -162,7 +162,7 @@ La clasificación se refiere al conjunto de los datos disponibles en humanos y a
 
 ### Límites de la metodología
 
-Como toda búsqueda bibliográfica, también esta tiene límites que conviene que tenga en cuenta durante la lectura:
+Como toda búsqueda bibliográfica, también esta tiene límites que conviene que tengas en cuenta durante la lectura:
 
 **Los resultados no equivalen a estudios independientes.** Un gran estudio se publica a menudo en varios artículos: resultado principal, subgrupos, seguimiento, calidad de vida. Cada uno de estos artículos es un resultado propio. A la inversa, varios estudios pueden resumirse en un solo artículo. Por eso, el número de resultados refleja el orden de magnitud de la investigación, no el número exacto de estudios independientes.
 
@@ -184,4 +184,4 @@ Las consultas a las bases de datos se realizaron a través de las interfaces men
 
 Además, cada capítulo se controló con un programa de verificación. Este consulta, para cada PMID y número NCT mencionado en el texto, la entrada en PubMed o en ClinicalTrials.gov y señala como error que un número no exista. Compara además el primer autor y el año de publicación que figuran en el texto antes del PMID con la entrada de la base de datos y advierte de las discrepancias. Por último, busca formulaciones no admisibles, como promesas de curación, recomendaciones de dosis o indicaciones de fuentes de suministro. Un capítulo solo se consideraba terminado cuando esta verificación se completaba sin errores. Además, el programa comprueba si un trabajo citado ha sido retractado entretanto; estos trabajos están señalados expresamente en el texto. Para terminar, se compararon una a una con los resúmenes unos 1450 pasajes del texto con cifras y, donde fue necesario, se corrigieron.
 
-Esta verificación garantiza que cada fuente citada existe y está correctamente asignada. No puede descartar por completo que un resultado se reproduzca en el texto de forma abreviada o equívoca. Por eso, todas las fuentes se indican de modo que usted mismo pueda consultarlas; cómo hacerlo se explica en el apartado «Sobre este libro» al principio.
+Esta verificación garantiza que cada fuente citada existe y está correctamente asignada. No puede descartar por completo que un resultado se reproduzca en el texto de forma abreviada o equívoca. Por eso, todas las fuentes se indican de modo que tú mismo puedas consultarlas; cómo hacerlo se explica en el apartado «Sobre este libro» al principio.

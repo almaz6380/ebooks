@@ -4,4 +4,4 @@ Josef Gallab houdt zich al meer dan vijf jaar intensief bezig met peptiden, spor
 
 De scene, de beloften en de ervaringsverhalen rond veel van de peptiden die in dit boek worden beschreven, kent hij van dichtbij. Juist daarom vindt hij het belangrijk enthousiasme en bewijs zorgvuldig uit elkaar te houden: het potentieel van peptiden serieus te nemen zonder de open vragen te verzwijgen.
 
-Met het Peptidehandboek wil hij lezers het gereedschap geven dat hij zelf aan het begin miste – een eerlijk overzicht van wat de studies werkelijk laten zien.
+Met *Het peptidenhandboek* wil hij lezers het gereedschap geven dat hij zelf aan het begin miste – een eerlijk overzicht van wat de studies werkelijk laten zien.

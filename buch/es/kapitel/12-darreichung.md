@@ -1,6 +1,6 @@
 ## Cómo llegan los péptidos al organismo y por qué es difícil
 
-Casi todos los medicamentos peptídicos que usted conoce se inyectan: la insulina, la semaglutida, la tirzepatida, la teriparatida. No es casualidad ni una preferencia de la industria farmacéutica, sino una consecuencia de la biología. El cuerpo humano es excelente descomponiendo proteínas y péptidos; al fin y al cabo, vive de dividir las proteínas de los alimentos en sus componentes básicos. Este capítulo explica qué obstáculos debe superar un péptido en su camino hacia el lugar donde actúa, qué vías ha encontrado la medicina y por qué muchas promesas sobre gotas, cápsulas y cremas deben considerarse con cautela.
+Casi todos los medicamentos peptídicos que conoces se inyectan: la insulina, la semaglutida, la tirzepatida, la teriparatida. No es casualidad ni una preferencia de la industria farmacéutica, sino una consecuencia de la biología. El cuerpo humano es excelente descomponiendo proteínas y péptidos; al fin y al cabo, vive de dividir las proteínas de los alimentos en sus componentes básicos. Este capítulo explica qué obstáculos debe superar un péptido en su camino hacia el lugar donde actúa, qué vías ha encontrado la medicina y por qué muchas promesas sobre gotas, cápsulas y cremas deben considerarse con cautela.
 
 ### El problema fundamental: la biodisponibilidad
 
@@ -99,7 +99,7 @@ Para los péptidos esto significa que a partir de unos cuatro o cinco aminoácid
 
 Una regla empírica es solo eso: hay excepciones, y recursos como los parches de microagujas pueden superar la barrera. Estos parches llevan diminutas agujas que solo atraviesan la capa más superficial de la piel. Para los péptidos se encuentran todavía en gran medida en fase de desarrollo.
 
-Para los péptidos farmacológicos, como los análogos de GLP-1, los liberadores de hormona del crecimiento o el melanotán, rige lo siguiente: una simple crema o un gel no los hace llegar a la sangre en cantidad apreciable. Las ofertas de internet que afirman lo contrario deben considerarse con gran escepticismo.
+Para los péptidos farmacológicos, como los análogos de GLP-1, los liberadores de hormona del crecimiento o el melanotán, rige lo siguiente: una simple crema o un gel no los hace llegar a la sangre en cantidad apreciable. Las ofertas de internet que afirman lo contrario debes considerarlas con gran escepticismo.
 
 ### Estabilidad: el problema subestimado
 

@@ -178,7 +178,7 @@ Ningún otro péptido de este libro se obtiene con tanta frecuencia fuera de las
 
 **Tiendas en línea ilegales:** en un estudio de mercado, el 42,3 % de los enlaces a farmacias en línea encontrados conducían a vendedores ilegales que vendían semaglutida sin receta (Ashraf 2024, PMID 39509151). En las compras de prueba, las plumas de Ozempic encargadas ni siquiera llegaron. Los viales entregados contenían semaglutida, pero la pureza era solo del 7,7 % al 14,37 % en lugar del 99 % declarado, y en todas las muestras se detectaron endotoxinas (componentes de bacterias que pueden provocar fiebre e inflamación).
 
-**Falsificaciones:** han aparecido plumas de Ozempic falsificadas en Europa y Estados Unidos, en parte rellenas de insulina o sin principio activo; las autoridades sanitarias y la Organización Mundial de la Salud han emitido varias advertencias. Encontrará información general sobre los productos del mercado gris en la Parte I y la Parte IV. Solo la vía regular es segura: prescripción médica y dispensación en la farmacia.
+**Falsificaciones:** han aparecido plumas de Ozempic falsificadas en Europa y Estados Unidos, en parte rellenas de insulina o sin principio activo; las autoridades sanitarias y la Organización Mundial de la Salud han emitido varias advertencias. Encontrarás información general sobre los productos del mercado gris en la Parte I y la Parte IV. Solo la vía regular es segura: prescripción médica y dispensación en la farmacia.
 
 ### Situación legal
 

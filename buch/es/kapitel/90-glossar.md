@@ -1,6 +1,6 @@
 # Glosario
 
-Las siguientes explicaciones son deliberadamente breves. Encontrará exposiciones más detalladas en los capítulos de la Parte I, en particular en «Qué son los péptidos y qué no son» y «Cómo leer correctamente los estudios».
+Las siguientes explicaciones son deliberadamente breves. Encontrarás exposiciones más detalladas en los capítulos de la Parte I, en particular en «Qué son los péptidos y qué no son» y «Cómo leer correctamente los estudios».
 
 ### A
 
