@@ -9,7 +9,7 @@ Un concepto central en este capítulo es la **biodisponibilidad**. Indica qué p
 En los péptidos, la biodisponibilidad es especialmente crítica porque confluyen tres propiedades:
 
 1. **Son sensibles a las enzimas.** Los enlaces peptídicos son escindidos de forma específica por enzimas digestivas como la pepsina en el estómago o la tripsina en el intestino delgado, además de por numerosas enzimas de la sangre y los tejidos.
-2. **Son grandes.** En comparación con los fármacos clásicos como el ibuprofeno, la mayoría de los péptidos son enormes. Un péptido de solo diez aminoácidos ya pesa más de 1.000 dalton.
+2. **Son grandes.** En comparación con los fármacos clásicos como el ibuprofeno, la mayoría de los péptidos son enormes. Un péptido de solo diez aminoácidos ya pesa más de 1000 dalton.
 3. **Suelen ser hidrosolubles y a menudo tienen carga eléctrica.** Por ello les cuesta atravesar las membranas grasas de las células.
 
 Cada vía de administración es un intento de sortear estos obstáculos. Un artículo de revisión sobre péptidos orales resume que los principios activos proteicos y peptídicos deben administrarse, por regla general, evitando el tubo digestivo, lo que puede perjudicar la adherencia terapéutica (Drucker 2020, PMID 31848464).
