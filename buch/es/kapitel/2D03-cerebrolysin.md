@@ -5,10 +5,10 @@
 - **Tipo y estructura:** no es un péptido único, sino una mezcla de péptidos cortos y aminoácidos libres. Se obtiene mediante la escisión enzimática de proteínas purificadas de cerebro de cerdo. Su composición exacta no está descrita por completo; el fabricante estandariza el preparado mediante su procedimiento de fabricación y pruebas biológicas.
 - **Origen:** fabricada desde hace décadas por una empresa austriaca (actualmente EVER Neuro Pharma, Unterach am Attersee).
 - **Mecanismo de acción:** debería imitar efectos de los factores de crecimiento nervioso propios del organismo: proteger las neuronas (neuroprotección) y favorecer los procesos de reparación y remodelación (neurorregeneración). Se administra en infusión o inyección intravenosa, por lo general en ciclos de 10 a 21 días.
-- **Autorización UE:** sin autorización centralizada en la UE. Autorizada a nivel nacional en Austria y en una serie de otros Estados, sobre todo de Europa central y oriental (según el país, para el ictus, el traumatismo craneoencefálico y la demencia). En Alemania, según nuestros conocimientos, no se comercializa (situación en 2026; compruebe la información actualizada).
+- **Autorización UE:** sin autorización centralizada en la UE. Autorizada a nivel nacional en Austria y en una serie de otros Estados, sobre todo de Europa central y oriental (según el país, para el ictus, el traumatismo craneoencefálico y la demencia). En Alemania, según nuestros conocimientos, no se comercializa (situación en 2026; comprueba la información actualizada).
 - **Autorización EE. UU.:** no.
 - **Otros países:** ampliamente utilizada en Rusia, otros Estados sucesores de la Unión Soviética, China y otros países asiáticos.
-- **WADA:** no figura en la lista (situación en 2026; compruebe la información actualizada).
+- **WADA:** no figura en la lista (situación en 2026; comprueba la información actualizada).
 - **Nivel de evidencia:** **B** – numerosos estudios aleatorizados y controlados con placebo, entre ellos uno grande con más de 1000 participantes; sin embargo, los resultados son heterogéneos, y las dos grandes revisiones Cochrane independientes llegan a valoraciones prudentes.
 
 ### Cómo se supone que actúa
@@ -127,9 +127,9 @@ Los estudios preclínicos proceden en una parte considerable de colaboraciones c
 
 ### Situación legal
 
-- **UE / Austria / Alemania:** sin autorización centralizada en la UE. En Austria, la cerebrolisina está autorizada a nivel nacional como medicamento con receta; las indicaciones y la financiación se rigen por la ficha técnica austriaca. Otros Estados de la UE tienen sus propias autorizaciones nacionales. En Alemania, según nuestros conocimientos, la cerebrolisina no se comercializa; su obtención solo sería posible, en su caso, como importación individual con prescripción médica (situación en 2026; compruebe la información actualizada).
+- **UE / Austria / Alemania:** sin autorización centralizada en la UE. En Austria, la cerebrolisina está autorizada a nivel nacional como medicamento con receta; las indicaciones y la financiación se rigen por la ficha técnica austriaca. Otros Estados de la UE tienen sus propias autorizaciones nacionales. En Alemania, según nuestros conocimientos, la cerebrolisina no se comercializa; su obtención solo sería posible, en su caso, como importación individual con prescripción médica (situación en 2026; comprueba la información actualizada).
 - **EE. UU.:** no autorizada.
-- **Deporte:** no figura en la lista de la WADA (situación en 2026; compruebe la información actualizada).
+- **Deporte:** no figura en la lista de la WADA (situación en 2026; comprueba la información actualizada).
 - En caso de uso autorizado: remisión a la ficha técnica y acompañamiento médico.
 
 ### Estudios en curso y perspectivas

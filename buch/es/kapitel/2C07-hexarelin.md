@@ -60,7 +60,7 @@ Varios estudios pequeños de un grupo de trabajo italiano examinaron el corazón
 
 ### Situación legal
 
-*Situación en 2026; compruebe la información actualizada.*
+*Situación en 2026; comprueba la información actualizada.*
 
 - **UE, Alemania, Austria, EE. UU.:** sin autorización como medicamento; su dispensación para uso en humanos no está permitida.
 - **WADA:** prohibida (S2). La hexarelina se degrada en gran medida en el organismo; sus productos de degradación siguen siendo detectables en orina después de que desaparezca la sustancia original (Semenistaya 2015, PMID 25869809).

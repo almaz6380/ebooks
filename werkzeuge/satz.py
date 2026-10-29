@@ -14,7 +14,7 @@ _NUR_ZITATE = re.compile(rf"\s?\(\s*({_ZITAT}(?:\s*[;,]\s*{_ZITAT})*)\s*\)")
 HINWEIS = {
     "de": r"Stand 2026,? bitte (?:aktuell )?prüfen",
     "en": r"(?:status )?as of 2026[,;]? please check(?: for (?:updates|current (?:status|information)))?",
-    "es": r"(?:situación|estado) en 2026[,;]? compru[ée]b(?:ese|elo|e)(?: (?:en su|la) (?:versión|información) actual(?:izada)?)?",
+    "es": r"(?:situación|estado) en 2026[,;]? compru[ée]b(?:ese|elo|alo|e|a)(?: (?:en su|la) (?:versión|información) actual(?:izada)?)?",
     "fr": r"état 2026,? à vérifier",
     "it": r"aggiornato al 2026,? da verificare",
     "nl": r"stand 2026,? (?:actuele situatie )?controleren",

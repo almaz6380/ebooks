@@ -5,8 +5,8 @@
 - **Tipo/estructura:** **no es un péptido**, sino una molécula pequeña de síntesis química («small molecule») que actúa sobre el receptor de GLP-1 como un péptido. Código de desarrollo LY3502970. Toma una vez al día en comprimido o cápsula.
 - **Origen:** descubierto originalmente por Chugai Pharmaceutical, licenciado y desarrollado por Eli Lilly.
 - **Mecanismo de acción:** agonista del receptor de GLP-1, la misma diana que la semaglutida o la liraglutida, pero con una estructura química completamente diferente.
-- **Autorización UE / EE. UU.:** según la información recopilada para este libro (octubre de 2026), no consta como autorizado; se han presentado o anunciado solicitudes de autorización sobre la base de los estudios de fase 3; compruébelo en su versión actual.
-- **AMA (WADA):** no figura por su nombre; mientras no esté autorizado en ningún país, está prohibido en la clase S0 (situación en 2026, compruébelo en su versión actual).
+- **Autorización UE / EE. UU.:** según la información recopilada para este libro (octubre de 2026), no consta como autorizado; se han presentado o anunciado solicitudes de autorización sobre la base de los estudios de fase 3; compruébalo en su versión actual.
+- **AMA (WADA):** no figura por su nombre; mientras no esté autorizado en ningún país, está prohibido en la clase S0 (situación en 2026, compruébalo en su versión actual).
 - **Nivel de evidencia:** **A** según los datos disponibles (varios grandes estudios de fase 3, incluido un estudio de seguridad cardiovascular); la autorización formal aún está pendiente o debe comprobarse.
 
 ### Por qué este capítulo figura en un libro sobre péptidos
@@ -66,9 +66,9 @@ Para este capítulo comparativo no se exponen en detalle los datos preclínicos.
 
 ### Situación legal
 
-- **UE / Austria / Alemania:** a octubre de 2026 consta como no autorizado; cabe esperar un procedimiento de autorización, que puede estar ya en curso; compruébelo en su versión actual.
-- **EE. UU.:** se han presentado o anunciado solicitudes de autorización para la obesidad y la diabetes tipo 2 sobre la base de los datos de ATTAIN y ACHIEVE; compruebe en su versión actual el estado de la decisión.
-- **Deporte:** mientras no esté autorizado en ningún país, clase S0 de la AMA (situación en 2026, compruébelo en su versión actual).
+- **UE / Austria / Alemania:** a octubre de 2026 consta como no autorizado; cabe esperar un procedimiento de autorización, que puede estar ya en curso; compruébalo en su versión actual.
+- **EE. UU.:** se han presentado o anunciado solicitudes de autorización para la obesidad y la diabetes tipo 2 sobre la base de los datos de ATTAIN y ACHIEVE; comprueba en su versión actual el estado de la decisión.
+- **Deporte:** mientras no esté autorizado en ningún país, clase S0 de la AMA (situación en 2026, compruébalo en su versión actual).
 - Las ofertas de «Orforglipron» no autorizado en internet no son medicamentos controlados.
 
 ### Estudios en curso y perspectivas

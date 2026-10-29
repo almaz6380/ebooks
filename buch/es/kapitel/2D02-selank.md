@@ -6,9 +6,9 @@
 - **Origen:** desarrollado en Moscú en el Instituto de Genética Molecular y en el Instituto de Farmacología Zakusov.
 - **Mecanismo de acción:** debería tener un efecto ansiolítico sin causar somnolencia ni dependencia como las benzodiacepinas. Se discuten una inhibición de la degradación de las encefalinas propias del organismo (mensajeros que atenúan el dolor y el estrés), así como influencias sobre el sistema GABA y sobre los mensajeros inmunitarios. Se administra en gotas nasales.
 - **Autorización UE:** no.
-- **Autorización EE. UU.:** no. En 2023, Selank figuró en la lista de «categoría 2» de la FDA para fórmulas magistrales de farmacia; el estado actual está documentado de forma poco uniforme (situación en octubre de 2026; compruebe la información actualizada).
+- **Autorización EE. UU.:** no. En 2023, Selank figuró en la lista de «categoría 2» de la FDA para fórmulas magistrales de farmacia; el estado actual está documentado de forma poco uniforme (situación en octubre de 2026; comprueba la información actualizada).
 - **Rusia:** registrado como medicamento (ansiolítico).
-- **WADA:** no figura nominalmente (situación en 2026; compruebe la información actualizada).
+- **WADA:** no figura nominalmente (situación en 2026; comprueba la información actualizada).
 - **Nivel de evidencia:** **C** – tres pequeños estudios comparativos de Rusia, sin control con placebo y sin registro.
 
 ### Cómo se supone que actúa
@@ -72,10 +72,10 @@ Estos hallazgos son resultados en animales y de laboratorio y proceden en gran p
 
 ### Situación legal
 
-- **UE / Austria / Alemania:** no autorizado; como sustancia con efecto farmacológico, Selank se considera medicamento, y su comercialización sin autorización no está permitida (situación en 2026; compruebe la información actualizada).
-- **EE. UU.:** no autorizado. En 2023, Selank se incluyó en la «categoría 2» de la FDA de sustancias para fórmulas magistrales con problemas de seguridad; según informaciones posteriores, la nominación se retiró. Selank no figuraba entre los péptidos que el comité asesor PCAC evaluó en julio de 2026. Según los conocimientos actuales, no existe autorización para fórmulas magistrales de farmacia (situación en octubre de 2026; compruebe la información actualizada).
+- **UE / Austria / Alemania:** no autorizado; como sustancia con efecto farmacológico, Selank se considera medicamento, y su comercialización sin autorización no está permitida (situación en 2026; comprueba la información actualizada).
+- **EE. UU.:** no autorizado. En 2023, Selank se incluyó en la «categoría 2» de la FDA de sustancias para fórmulas magistrales con problemas de seguridad; según informaciones posteriores, la nominación se retiró. Selank no figuraba entre los péptidos que el comité asesor PCAC evaluó en julio de 2026. Según los conocimientos actuales, no existe autorización para fórmulas magistrales de farmacia (situación en octubre de 2026; comprueba la información actualizada).
 - **Rusia:** registrado como medicamento.
-- **Deporte:** no figura nominalmente en la lista de la WADA (situación en 2026; compruebe la información actualizada).
+- **Deporte:** no figura nominalmente en la lista de la WADA (situación en 2026; comprueba la información actualizada).
 
 ### Estudios en curso y perspectivas
 

@@ -49,4 +49,4 @@ Gran parte della letteratura su Semax, Selank, DSIP, Epitalon e Pinealon provien
 
 ### Indicazioni per la lettura
 
-I capitoli seguono la struttura uniforme di questo libro. In ogni capitolo presti particolare attenzione alla sezione «Studi sull'uomo» e, al suo interno, alle dimensioni della letteratura: per nove dei dodici peptidi non esiste alcuno studio in cui delle persone abbiano ricevuto il principio attivo, oppure esistono solo indagini molto piccole e metodologicamente deboli. Quadro normativo e status FDA sono cambiati più volte nel 2026; le informazioni corrispondono alla situazione di ottobre 2026 e andrebbero verificate.
+I capitoli seguono la struttura uniforme di questo libro. In ogni capitolo presta particolare attenzione alla sezione «Studi sull'uomo» e, al suo interno, alle dimensioni della letteratura: per nove dei dodici peptidi non esiste alcuno studio in cui delle persone abbiano ricevuto il principio attivo, oppure esistono solo indagini molto piccole e metodologicamente deboli. Quadro normativo e status FDA sono cambiati più volte nel 2026; le informazioni corrispondono alla situazione di ottobre 2026 e andrebbero verificate.

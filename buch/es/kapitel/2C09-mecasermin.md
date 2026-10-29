@@ -71,7 +71,7 @@ Para los adultos que usan IGF-1 sin déficit con el fin de mejorar el rendimient
 
 ### Situación legal
 
-*Situación en 2026; compruebe la información actualizada.*
+*Situación en 2026; comprueba la información actualizada.*
 
 - **UE, Alemania, Austria:** autorizada (Increlex) exclusivamente para niños y adolescentes con déficit primario grave de IGF-1; con receta, tratamiento por médicas y médicos con experiencia en endocrinología pediátrica según la ficha técnica. La autorización de la UE está vinculada a la recogida de datos en el registro a largo plazo (Saavedra 2026, PMID 42341624).
 - **EE. UU.:** autorizada (Increlex) para la misma indicación.

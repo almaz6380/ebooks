@@ -7,7 +7,7 @@
 - **Mecanismo de acción:** agonista de los receptores de amilina; ralentiza el vaciamiento gástrico, atenúa la liberación de glucagón después de comer y favorece la sensación de saciedad.
 - **Autorización UE:** no; la pramlintida nunca se ha autorizado en la UE.
 - **Autorización EE. UU.:** sí, desde 2005, como complemento de la insulina prandial en la diabetes tipo 1 y tipo 2.
-- **AMA (WADA):** no figura por su nombre; debido a la autorización en EE. UU., no entra en la clase S0 (situación en 2026, compruébelo en su versión actual).
+- **AMA (WADA):** no figura por su nombre; debido a la autorización en EE. UU., no entra en la clase S0 (situación en 2026, compruébalo en su versión actual).
 - **Nivel de evidencia:** **A** – varios grandes estudios aleatorizados, autorización en EE. UU.
 
 ### Cómo se supone que actúa
@@ -70,7 +70,7 @@ Las bases de la investigación sobre la amilina proceden de estudios en animales
 
 - **UE / Austria / Alemania:** no autorizada. En Europa, la pramlintida solo sería concebible mediante importación individual para determinados pacientes y en la práctica no desempeña ningún papel.
 - **EE. UU.:** autorizada desde 2005 (Symlin) como complemento de la insulina prandial en la diabetes tipo 1 y tipo 2; sujeta a prescripción médica. No está autorizada para la obesidad sin diabetes.
-- **Deporte:** no figura en la lista de la AMA (situación en 2026, compruébelo en su versión actual).
+- **Deporte:** no figura en la lista de la AMA (situación en 2026, compruébalo en su versión actual).
 
 ### Estudios en curso y perspectivas
 

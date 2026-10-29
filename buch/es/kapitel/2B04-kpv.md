@@ -8,7 +8,7 @@ El KPV es el péptido más pequeño de este libro: solo tiene tres aminoácidos.
 - **Origen:** corresponde a los tres últimos aminoácidos (posiciones 11 a 13) de la hormona endógena alfa-MSH (hormona estimulante de los melanocitos alfa), que participa, entre otras cosas, en el bronceado de la piel y en el control de la inflamación (Cutuli 2000, PMID 10670585).
 - **Mecanismo de acción (supuesto, a partir de estudios de laboratorio y en animales):** inhibición de vías de señalización proinflamatorias en células intestinales e inmunitarias tras su captación a través del transportador de péptidos PepT1.
 - **Autorización UE/EE. UU.:** no.
-- **WADA:** no figura expresamente; como sustancia no aprobada, en opinión del autor entra en el grupo S0 (situación en 2026, compruébelo en su versión actual).
+- **WADA:** no figura expresamente; como sustancia no aprobada, en opinión del autor entra en el grupo S0 (situación en 2026, compruébalo en su versión actual).
 - **Nivel de evidencia: D** – ningún estudio publicado en humanos.
 
 ### Cómo se supone que actúa
@@ -62,7 +62,7 @@ Ninguno, porque no existen estudios en humanos. La ausencia de efectos secundari
 
 ### Situación legal
 
-*Situación en 2026, compruébelo en su versión actual.*
+*Situación en 2026, compruébalo en su versión actual.*
 
 - **UE, Alemania, Austria:** no autorizado como medicamento. Si el KPV se ofrece con afirmaciones sobre el alivio de enfermedades, se considera un medicamento no autorizado. Como ingrediente de cosméticos se aplican las normas del Reglamento europeo sobre productos cosméticos; allí no se permiten promesas curativas.
 - **EE. UU.:** sin autorización de la FDA.

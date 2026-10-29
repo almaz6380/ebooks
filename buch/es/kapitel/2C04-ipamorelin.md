@@ -53,7 +53,7 @@ En la clínica interesaba sobre todo el efecto intestinal: tras las operaciones 
 
 ### Situación legal
 
-*Situación en 2026; compruebe la información actualizada.*
+*Situación en 2026; comprueba la información actualizada.*
 
 - **UE, Alemania, Austria:** sin autorización; su dispensación para uso en humanos no está permitida.
 - **EE. UU.:** sin autorización. La FDA ha clasificado la ipamorelina entre las sustancias de partida para farmacias de formulación magistral como sustancia con problemas de seguridad (categoría 2); la clasificación de los péptidos se debate desde entonces de forma controvertida (Willis 2026, PMID 42752426).

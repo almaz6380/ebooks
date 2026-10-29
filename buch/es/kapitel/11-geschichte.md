@@ -116,4 +116,4 @@ De cien años de medicina peptídica pueden extraerse algunas lecciones útiles 
 | 2022 | Tirzepatida: primer agonista doble GIP/GLP-1 |
 | 2023 | SELECT: protección cardíaca en la obesidad sin diabetes |
 
-Los años de autorización se refieren en cada caso a la primera autorización; en otros países y para otras indicaciones rigen en parte otras fechas. Estado en 2026; compruebe la información actualizada si es necesario.
+Los años de autorización se refieren en cada caso a la primera autorización; en otros países y para otras indicaciones rigen en parte otras fechas. Estado en 2026; comprueba la información actualizada si es necesario.

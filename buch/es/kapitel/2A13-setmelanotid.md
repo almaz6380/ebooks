@@ -7,7 +7,7 @@
 - **Mecanismo de acción:** agonista del receptor de melanocortina 4 (MC4R) en el hipotálamo, un centro de control clave del hambre y la saciedad.
 - **Autorización UE:** sí (Imcivree), para la obesidad por déficit confirmado genéticamente de POMC, PCSK1 o del receptor de leptina, así como en el síndrome de Bardet-Biedl.
 - **Autorización EE. UU.:** sí (Imcivree), por primera vez en 2020, para las mismas formas genéticas raras (Markham 2021, PMID 33638809).
-- **AMA (WADA):** no figura por su nombre; como medicamento autorizado no entra en la clase S0 (situación en 2026, compruébelo en su versión actual).
+- **AMA (WADA):** no figura por su nombre; como medicamento autorizado no entra en la clase S0 (situación en 2026, compruébalo en su versión actual).
 - **Nivel de evidencia:** **A** – autorización basada en estudios de fase 3; sin embargo, debido a la rareza de las enfermedades, los estudios son pequeños y en parte no controlados.
 
 ### Cómo se supone que actúa
@@ -80,9 +80,9 @@ En ensayos celulares, la setmelanotida es claramente más potente sobre el recep
 
 ### Situación legal
 
-- **UE / Austria / Alemania:** autorizada (Imcivree), sujeta a prescripción médica, solo para formas confirmadas genéticamente (déficit de POMC, PCSK1 o del receptor de leptina, síndrome de Bardet-Biedl). El diagnóstico requiere un estudio genético; el inicio y el seguimiento corresponden a centros especializados. Detalles sobre la ampliación a la obesidad hipotalámica: situación en 2026, compruébelo en su versión actual.
-- **EE. UU.:** autorizada desde 2020 (POMC, PCSK1, LEPR), ampliada posteriormente al síndrome de Bardet-Biedl y a niños más pequeños; sobre la base de TRANSCEND se ha presentado una solicitud para la obesidad hipotalámica (situación en 2026, compruébelo en su versión actual).
-- **Deporte:** no figura en la lista de la AMA (situación en 2026, compruébelo en su versión actual).
+- **UE / Austria / Alemania:** autorizada (Imcivree), sujeta a prescripción médica, solo para formas confirmadas genéticamente (déficit de POMC, PCSK1 o del receptor de leptina, síndrome de Bardet-Biedl). El diagnóstico requiere un estudio genético; el inicio y el seguimiento corresponden a centros especializados. Detalles sobre la ampliación a la obesidad hipotalámica: situación en 2026, compruébalo en su versión actual.
+- **EE. UU.:** autorizada desde 2020 (POMC, PCSK1, LEPR), ampliada posteriormente al síndrome de Bardet-Biedl y a niños más pequeños; sobre la base de TRANSCEND se ha presentado una solicitud para la obesidad hipotalámica (situación en 2026, compruébalo en su versión actual).
+- **Deporte:** no figura en la lista de la AMA (situación en 2026, compruébalo en su versión actual).
 
 ### Estudios en curso y perspectivas
 

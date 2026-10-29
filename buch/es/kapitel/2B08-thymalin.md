@@ -8,7 +8,7 @@ La timalina es un extracto del timo de terneros, y el timógeno, un dipéptido s
 - **Timógeno:** dipéptido L-Glu-L-Trp de fabricación sintética, aislado a partir de la timalina (Anisimov 2000, PMID 11707921); en Rusia también está disponible como espray nasal.
 - **Mecanismo de acción (afirmado):** estímulo de la maduración de los linfocitos T, «normalización» de la función inmunitaria y de la coagulación sanguínea; según la teoría de Khavinson, los péptidos cortos actúan como «biorreguladores» directamente sobre la actividad génica.
 - **Autorización:** autorizados como medicamentos en Rusia y en algunos Estados sucesores de la Unión Soviética; **UE y EE. UU.:** no.
-- **WADA:** no figuran expresamente (situación en 2026, compruébelo en su versión actual).
+- **WADA:** no figuran expresamente (situación en 2026, compruébalo en su versión actual).
 - **Nivel de evidencia: C** – en su mayoría estudios pequeños, abiertos o descritos de forma insuficiente; en PubMed solo hay un único estudio descrito como aleatorizado y controlado con placebo.
 
 ### Cómo se supone que actúa
@@ -79,7 +79,7 @@ No existen datos de seguridad recogidos sistemáticamente según los estándares
 
 ### Situación legal
 
-*Situación en 2026, compruébelo en su versión actual.*
+*Situación en 2026, compruébalo en su versión actual.*
 
 - **Rusia y algunos Estados sucesores de la Unión Soviética:** la timalina y el timógeno están autorizados como medicamentos.
 - **UE, Alemania, Austria:** sin autorización. La importación y la dispensación para uso en humanos solo están permitidas en las estrictas condiciones de la respectiva legislación farmacéutica. Las cápsulas con extractos de órganos que se venden como complementos alimenticios no pueden prometer efectos sobre enfermedades; si deben clasificarse como medicamentos depende de cada caso.

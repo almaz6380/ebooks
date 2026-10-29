@@ -8,7 +8,7 @@ La timosina alfa 1 es un caso especial dentro de este grupo. A diferencia del BP
 - **Origen:** aislada en la década de 1970 a partir de un extracto del timo («fracción 5 de timosina»); hoy se sintetiza químicamente. Denominación del principio activo: timalfasina.
 - **Mecanismo de acción:** inmunomodulador; favorecería la maduración y la actividad de los linfocitos T y de las células dendríticas.
 - **Autorización UE:** sin autorización centralizada. **EE. UU.:** no autorizada; en 2023, la FDA restringió su uso en farmacias de formulación magistral (Dinetz 2024, PMID 38308608). **Otros países:** autorizada como Zadaxin, sobre todo en China y otros Estados asiáticos, en general para la hepatitis B crónica y como tratamiento complementario para reforzar el sistema inmunitario.
-- **WADA:** no figura expresamente (situación en 2026, compruébelo en su versión actual).
+- **WADA:** no figura expresamente (situación en 2026, compruébalo en su versión actual).
 - **Nivel de evidencia: B** – formalmente existen muchos estudios aleatorizados; sin embargo, los estudios grandes y metodológicamente mejores no alcanzaron sus criterios principales, y los resultados positivos proceden en su mayoría de estudios pequeños con alto riesgo de sesgo.
 
 ### Cómo se supone que actúa
@@ -91,7 +91,7 @@ En los estudios, la timosina alfa 1 se considera bien tolerada. En los estudios 
 
 ### Situación legal
 
-*Situación en 2026, compruébelo en su versión actual.*
+*Situación en 2026, compruébalo en su versión actual.*
 
 - **UE, Alemania, Austria:** sin autorización como medicamento. Una prescripción en casos individuales mediante importación individual desde un país con autorización puede ser posible según el derecho nacional en condiciones estrictas; la venta como «Research Peptide» para uso en humanos no está permitida.
 - **EE. UU.:** sin autorización de la FDA. En 2023, la FDA incluyó la timosina alfa 1, junto con otros péptidos, en la lista de sustancias con problemas de seguridad para la formulación magistral; los defensores lo critican (Dinetz 2024, PMID 38308608). La clasificación de los péptidos se sigue debatiendo en el comité asesor de la FDA (Willis 2026, PMID 42752426).

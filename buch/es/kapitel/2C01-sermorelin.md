@@ -68,7 +68,7 @@ La propia sermorelina se estudió en el laboratorio sobre todo en relación con 
 
 ### Situación legal
 
-*Situación en 2026, compruébelo en su versión actual.*
+*Situación en 2026, compruébalo en su versión actual.*
 
 - **Antecedentes de la autorización en EE. UU.:** Geref estuvo autorizado en EE. UU. primero como agente diagnóstico y, desde la década de 1990, para el tratamiento de niños con déficit de hormona del crecimiento. El fabricante interrumpió la distribución hacia finales de la década de 2000; según la información de acceso público, por motivos de fabricación o económicos y no por un problema de seguridad recién detectado. Que el agente diagnóstico desapareció por esas fechas está documentado en un estudio (Garcia 2013, PMID 23559086). Hoy no existe ningún medicamento fabricado industrialmente con una autorización válida.
 - **EE. UU. hoy:** la sermorelina la elaboran farmacias de formulación magistral (compounding) y se prescribe sobre todo en consultas antienvejecimiento. Si esto es lícito, y en qué condiciones, depende de las cambiantes normas de la FDA para los principios activos de formulación magistral, que se debaten de forma controvertida en círculos especializados (Willis 2026, PMID 42752426).

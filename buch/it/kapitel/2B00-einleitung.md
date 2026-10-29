@@ -30,7 +30,7 @@ Nessun peptide di questo gruppo è autorizzato come medicinale nell'UE o negli U
 
 ### Indicazioni per la lettura
 
-I capitoli seguono la struttura uniforme di questo libro. In questo gruppo presti particolare attenzione a tre distinzioni:
+I capitoli seguono la struttura uniforme di questo libro. In questo gruppo presta particolare attenzione a tre distinzioni:
 
 - **Uomo o animale?** Per BPC-157, KPV e TB-500 quasi tutto ciò che viene affermato su internet si basa su esperimenti con ratti, topi o colture cellulari. I capitoli lo indicano ogni volta espressamente.
 - **Principio attivo o valore misurato?** Per LL-37 esistono molti studi che *misurano* la sostanza nel sangue, ma pochi che la *somministrano* come farmaco. Solo questi ultimi dicono qualcosa su un trattamento.

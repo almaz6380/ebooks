@@ -64,7 +64,7 @@ Con una administración única no cabe esperar un riesgo de cáncer; el debate s
 
 ### Situación legal
 
-*Situación en 2026; compruebe la información actualizada.*
+*Situación en 2026; comprueba la información actualizada.*
 
 - **UE:** autorización centralizada para el diagnóstico del déficit de hormona del crecimiento en adultos. Si el preparado se comercializa realmente en Alemania y Austria depende de las decisiones de distribución del titular de la autorización y debe comprobarse en su versión actual.
 - **EE. UU.:** autorizada (Macrilen) para la misma indicación; los derechos de distribución han cambiado de manos en los últimos años.

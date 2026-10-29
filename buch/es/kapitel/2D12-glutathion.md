@@ -5,9 +5,9 @@
 - **Tipo y estructura:** tripéptido de tres aminoácidos: ácido glutámico, cisteína y glicina (γ-glutamil-cisteinil-glicina, abreviado GSH). La forma reducida (GSH) es la activa; en la defensa frente a la oxidación, dos moléculas se unen para formar glutatión oxidado (GSSG).
 - **Origen:** lo producen prácticamente todas las células del organismo, en especial el hígado. Como preparado se fabrica sobre todo por fermentación con levaduras.
 - **Mecanismo de acción:** la sustancia protectora propia del organismo más importante frente a la oxidación en las células; participa en la desintoxicación de medicamentos y sustancias nocivas (por ejemplo, en la degradación del paracetamol) y en la regulación de las células inmunitarias. En la piel desplaza la formación de pigmento de la melanina oscura a la más clara.
-- **Autorización UE:** ampliamente comercializado como complemento alimenticio; como medicamento inyectable, solo en algunos países para indicaciones muy delimitadas, no para aclarar la piel (situación en 2026; compruebe la información actualizada).
+- **Autorización UE:** ampliamente comercializado como complemento alimenticio; como medicamento inyectable, solo en algunos países para indicaciones muy delimitadas, no para aclarar la piel (situación en 2026; comprueba la información actualizada).
 - **Autorización EE. UU.:** ningún medicamento de glutatión autorizado por la FDA; disponible como complemento alimenticio y como fórmula magistral de farmacia.
-- **WADA:** el glutatión en sí no está prohibido. Sin embargo, las infusiones o inyecciones de más de 100 ml en un plazo de doce horas están recogidas como método prohibido (M2), salvo en el marco de un tratamiento hospitalario o de una exploración (situación en 2026; compruebe la información actualizada).
+- **WADA:** el glutatión en sí no está prohibido. Sin embargo, las infusiones o inyecciones de más de 100 ml en un plazo de doce horas están recogidas como método prohibido (M2), salvo en el marco de un tratamiento hospitalario o de una exploración (situación en 2026; comprueba la información actualizada).
 - **Nivel de evidencia:** **B** – numerosos estudios aleatorizados, en su mayoría pequeños, con resultados variables; ninguna autorización basada en grandes estudios con criterios de valoración clínicos.
 
 ### Cómo se supone que actúa
@@ -93,9 +93,9 @@ La investigación de laboratorio sobre el glutatión es enormemente amplia y aba
 
 ### Situación legal
 
-- **UE / Austria / Alemania:** El glutatión se vende como complemento alimenticio en cápsulas y polvos; las promesas de salud en la publicidad no están permitidas sin declaraciones de propiedades saludables (health claims) autorizadas. Las infusiones e inyecciones son medicamentos; los preparados para aclarar la piel por infusión no están autorizados. En algunos países (según nuestros conocimientos, por ejemplo Italia) existen inyecciones de glutatión autorizadas para aplicaciones médicas especiales; los detalles deben consultarse en la ficha técnica correspondiente (situación en 2026; compruebe la información actualizada).
+- **UE / Austria / Alemania:** El glutatión se vende como complemento alimenticio en cápsulas y polvos; las promesas de salud en la publicidad no están permitidas sin declaraciones de propiedades saludables (health claims) autorizadas. Las infusiones e inyecciones son medicamentos; los preparados para aclarar la piel por infusión no están autorizados. En algunos países (según nuestros conocimientos, por ejemplo Italia) existen inyecciones de glutatión autorizadas para aplicaciones médicas especiales; los detalles deben consultarse en la ficha técnica correspondiente (situación en 2026; comprueba la información actualizada).
 - **EE. UU.:** ningún medicamento de glutatión autorizado; los complementos alimenticios están permitidos, y las infusiones se elaboran como fórmula magistral de farmacia y están sujetas a las normas de la FDA para preparaciones estériles.
-- **Deporte:** el glutatión no está prohibido; las infusiones de más de 100 ml en doce horas, fuera de tratamientos hospitalarios, entran en el método M2 de la WADA (situación en 2026; compruebe la información actualizada).
+- **Deporte:** el glutatión no está prohibido; las infusiones de más de 100 ml en doce horas, fuera de tratamientos hospitalarios, entran en el método M2 de la WADA (situación en 2026; comprueba la información actualizada).
 
 ### Estudios en curso y perspectivas
 

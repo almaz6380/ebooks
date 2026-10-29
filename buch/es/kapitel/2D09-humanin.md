@@ -7,7 +7,7 @@
 - **Mecanismo de acción:** «mitocina» (sustancia señalizadora de las mitocondrias) que debería proteger a las células de la muerte celular programada. Se une, entre otros, a un complejo receptor formado por el receptor de CNTF, WSX-1 y gp130 en la superficie celular.
 - **Autorización UE:** no.
 - **Autorización EE. UU.:** no.
-- **WADA:** no figura nominalmente; como sustancia no autorizada en ningún lugar, la humanina o la HNG entran, según nuestra valoración, en la categoría general S0 (situación en 2026; compruebe la información actualizada).
+- **WADA:** no figura nominalmente; como sustancia no autorizada en ningún lugar, la humanina o la HNG entran, según nuestra valoración, en la categoría general S0 (situación en 2026; comprueba la información actualizada).
 - **Nivel de evidencia:** **D** para su administración como principio activo: ni un solo estudio en el que personas recibieran humanina o HNG; en el ser humano solo hay mediciones de los niveles propios del organismo.
 
 ### Cómo se supone que actúa
@@ -64,9 +64,9 @@ La literatura preclínica es amplia:
 
 ### Situación legal
 
-- **UE / Austria / Alemania:** no autorizada; como sustancia con efecto farmacológico, la humanina se considera medicamento, y su venta para uso en humanos no está permitida (situación en 2026; compruebe la información actualizada).
+- **UE / Austria / Alemania:** no autorizada; como sustancia con efecto farmacológico, la humanina se considera medicamento, y su venta para uso en humanos no está permitida (situación en 2026; comprueba la información actualizada).
 - **EE. UU.:** no autorizada.
-- **Deporte:** según nuestra valoración, categoría S0 de la WADA (situación en 2026; compruebe la información actualizada).
+- **Deporte:** según nuestra valoración, categoría S0 de la WADA (situación en 2026; comprueba la información actualizada).
 
 ### Estudios en curso y perspectivas
 

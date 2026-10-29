@@ -102,7 +102,7 @@ En el deporte, la gonadorelina está prohibida para los hombres. Los laboratorio
 
 - **UE:** sin autorización centralizada de la UE; autorizaciones nacionales en varios Estados miembros, entre otras como agente diagnóstico, para la terapia pulsátil con bomba y como espray nasal en la criptorquidia. Los preparados están sujetos a prescripción médica.
 - **Alemania:** los preparados para la prueba de GnRH y para la terapia con bomba estaban o están en el mercado; la disponibilidad actual fluctúa. El tratamiento se realiza en centros especializados.
-- **Austria:** sujeta a prescripción médica; compruebe la disponibilidad actual de cada preparado en la lista de especialidades farmacéuticas.
+- **Austria:** sujeta a prescripción médica; comprueba la disponibilidad actual de cada preparado en la lista de especialidades farmacéuticas.
 - **EE. UU.:** los preparados de uso humano autorizados anteriormente han salido del mercado. Según diversas informaciones, farmacias de formulación magistral ofrecen gonadorelina; la evaluación regulatoria de estas preparaciones está en evolución. Los medicamentos veterinarios con gonadorelina no están destinados a personas.
 - **WADA:** S2 – prohibida para los hombres en competición y fuera de ella.
 

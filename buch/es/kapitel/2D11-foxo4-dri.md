@@ -7,7 +7,7 @@
 - **Mecanismo de acción:** **senolítico**: una sustancia que debería empujar de forma selectiva a las células envejecidas, llamadas senescentes, hacia la muerte celular programada, alterando la unión entre FOXO4 y la proteína protectora p53.
 - **Autorización UE:** no.
 - **Autorización EE. UU.:** no.
-- **WADA:** no figura nominalmente; como sustancia no autorizada en ningún lugar, FOXO4-DRI entra, según nuestra valoración, en la categoría general S0 (situación en 2026; compruebe la información actualizada).
+- **WADA:** no figura nominalmente; como sustancia no autorizada en ningún lugar, FOXO4-DRI entra, según nuestra valoración, en la categoría general S0 (situación en 2026; comprueba la información actualizada).
 - **Nivel de evidencia:** **D** – exclusivamente estudios en animales y de laboratorio.
 
 ### Cómo se supone que actúa
@@ -60,9 +60,9 @@ Un importante hallazgo en sentido contrario procede de la investigación cardiov
 
 ### Situación legal
 
-- **UE / Austria / Alemania:** no autorizado; como sustancia con efecto farmacológico, FOXO4-DRI se considera medicamento, y su venta para uso en humanos no está permitida (situación en 2026; compruebe la información actualizada).
+- **UE / Austria / Alemania:** no autorizado; como sustancia con efecto farmacológico, FOXO4-DRI se considera medicamento, y su venta para uso en humanos no está permitida (situación en 2026; comprueba la información actualizada).
 - **EE. UU.:** no autorizado.
-- **Deporte:** según nuestra valoración, categoría S0 de la WADA (situación en 2026; compruebe la información actualizada).
+- **Deporte:** según nuestra valoración, categoría S0 de la WADA (situación en 2026; comprueba la información actualizada).
 
 ### Estudios en curso y perspectivas
 

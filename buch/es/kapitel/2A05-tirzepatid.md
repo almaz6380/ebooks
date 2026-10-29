@@ -7,7 +7,7 @@
 - **Principio de acción:** agonista (activador) doble de dos receptores: el receptor de GIP y el receptor de GLP-1. Por eso se la llama también «twincretina» o «agonista incretínico dual».
 - **Autorización UE:** sí (Mounjaro) para la diabetes tipo 2 y para el control del peso en la obesidad y el sobrepeso con enfermedades asociadas.
 - **Autorización EE. UU.:** sí (Mounjaro para la diabetes tipo 2; Zepbound para la obesidad y para la apnea obstructiva del sueño moderada a grave en la obesidad).
-- **WADA:** no figura en la Lista de Prohibiciones (estado en 2026; compruebe la información actualizada).
+- **WADA:** no figura en la Lista de Prohibiciones (estado en 2026; comprueba la información actualizada).
 - **Nivel de evidencia:** **A** – numerosos estudios aleatorizados grandes, estudios de resultados sobre el corazón y la insuficiencia cardíaca, autorización en muchos países.
 
 ### Cómo se supone que actúa
@@ -157,9 +157,9 @@ Como con todos los agonistas del GLP-1 de acción prolongada, en estudios de lar
 
 ### Situación legal
 
-- **UE / Austria / Alemania:** la tirzepatida está autorizada por el procedimiento centralizado en la UE como Mounjaro (en 2022 para la diabetes tipo 2 y, desde finales de 2023, también para el control del peso). Está sujeta a prescripción médica. Que el seguro de enfermedad asuma los costes depende de la indicación: para la diabetes tipo 2, la financiación es en principio posible; los medicamentos para reducir peso están en Alemania excluidos legalmente en gran medida de la financiación, y en Austria rigen normas propias y restrictivas. Los detalles cambian; compruebe la información actualizada.
+- **UE / Austria / Alemania:** la tirzepatida está autorizada por el procedimiento centralizado en la UE como Mounjaro (en 2022 para la diabetes tipo 2 y, desde finales de 2023, también para el control del peso). Está sujeta a prescripción médica. Que el seguro de enfermedad asuma los costes depende de la indicación: para la diabetes tipo 2, la financiación es en principio posible; los medicamentos para reducir peso están en Alemania excluidos legalmente en gran medida de la financiación, y en Austria rigen normas propias y restrictivas. Los detalles cambian; comprueba la información actualizada.
 - **EE. UU.:** autorizada como Mounjaro (2022, diabetes tipo 2) y como Zepbound (2023, control crónico del peso; en 2024 además apnea obstructiva del sueño en la obesidad). Tras el fin de la escasez oficial, la FDA ha restringido fuertemente la elaboración de copias en farmacias.
-- **Deporte:** la tirzepatida no figura en la Lista de Prohibiciones de la WADA (estado en 2026; compruebe la información actualizada).
+- **Deporte:** la tirzepatida no figura en la Lista de Prohibiciones de la WADA (estado en 2026; comprueba la información actualizada).
 - **Mercado gris:** el comercio con productos de tirzepatida no autorizados («for research use only») no es en la UE una vía legal para obtener el medicamento; los productos no están sujetos a ningún control de calidad.
 
 ### Estudios en curso y perspectivas

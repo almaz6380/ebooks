@@ -7,7 +7,7 @@
 - **Mecanismo de acción:** agonista de los receptores de GLP-1, amilina y calcitonina.
 - **Autorización UE:** no.
 - **Autorización EE. UU.:** no.
-- **AMA (WADA):** prohibida como sustancia no aprobada en la clase S0 (situación en 2026, compruébelo en su versión actual).
+- **AMA (WADA):** prohibida como sustancia no aprobada en la clase S0 (situación en 2026, compruébalo en su versión actual).
 - **Nivel de evidencia:** **B** – estudios aleatorizados de fase 1 y fase 2 publicados; la fase 3 comenzó en 2026.
 
 ### Cómo se supone que actúa
@@ -71,7 +71,7 @@ Los datos preclínicos proceden del fabricante (Kuhre 2025, PMID 40706446): acti
 
 - **UE / Austria / Alemania:** no autorizada; uso solo en ensayos clínicos.
 - **EE. UU.:** no autorizada.
-- **Deporte:** clase S0 de la AMA (sustancia no aprobada), situación en 2026, compruébelo en su versión actual.
+- **Deporte:** clase S0 de la AMA (sustancia no aprobada), situación en 2026, compruébalo en su versión actual.
 
 ### Estudios en curso y perspectivas
 

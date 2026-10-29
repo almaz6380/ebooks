@@ -74,14 +74,14 @@ La seguente checklist aiuta a valutare affermazioni sui peptidi – in negozi, v
 
 - **Chi parla?** La persona o il sito vende la sostanza, offre corsi, consulenze o codici sconto? Un interesse economico non rende falsa un'affermazione, ma è un motivo per guardare con più attenzione.
 - **Vengono citati studi – e si possono trovare?** Le affermazioni serie indicano una fonte verificabile: un PMID, un DOI o un numero di registro (NCT). Puoi inserire gratuitamente qualsiasi PMID su PubMed e leggere l'abstract personalmente. Formulazioni come «gli studi dimostrano» senza indicazioni concrete sono un segnale d'allarme.
-- **Lo studio citato corrisponde all'affermazione?** Verifichi se lo studio ha davvero esaminato la sostanza venduta, l'uso pubblicizzato e persone – oppure se si trattava di una molecola affine, di un'altra malattia o di ratti.
+- **Lo studio citato corrisponde all'affermazione?** Verifica se lo studio ha davvero esaminato la sostanza venduta, l'uso pubblicizzato e persone – oppure se si trattava di una molecola affine, di un'altra malattia o di ratti.
 
 #### Domande sullo studio
 
 - **Uomo, animale o coltura cellulare?** Se nell'abstract compaiono «rats», «mice», «in vitro» o «cell culture», nulla è detto sull'effetto nell'uomo.
 - **C'era un gruppo di confronto?** Senza un gruppo placebo o di controllo non si può distinguere se un miglioramento dipenda dalla sostanza, dal tempo, da altri trattamenti o dall'aspettativa. Proprio per dolore, umore o sonno l'effetto placebo è grande.
 - **Quanti partecipanti?** Studi con 10 o 20 persone possono fornire indizi, ma non dimostrare un beneficio né individuare effetti collaterali rari.
-- **Che cosa è stato misurato?** Un valore di laboratorio che sale non è un beneficio percepibile. Si chieda: è stato misurato ciò che conta per le persone interessate – dolore, funzione, eventi di malattia, qualità della vita?
+- **Che cosa è stato misurato?** Un valore di laboratorio che sale non è un beneficio percepibile. Chiediti: è stato misurato ciò che conta per le persone interessate – dolore, funzione, eventi di malattia, qualità della vita?
 - **Lo studio è stato registrato in anticipo?** Una registrazione su ClinicalTrials.gov o nel registro UE prima dell'inizio dello studio impedisce che gli obiettivi vengano scelti a posteriori in modo conveniente.
 - **Il risultato è stato replicato?** Un singolo risultato positivo di un unico gruppo di ricerca è un inizio, non una prova.
 

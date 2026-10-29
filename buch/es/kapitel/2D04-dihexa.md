@@ -6,8 +6,8 @@
 - **Origen:** desarrollado hacia 2012 en la Universidad Estatal de Washington (EE. UU.).
 - **Mecanismo de acción:** debería reforzar el sistema de factores de crecimiento HGF/c-Met (HGF = factor de crecimiento de hepatocitos, c-Met = su receptor) y estimular así la formación de nuevas conexiones nerviosas (sinapsis).
 - **Autorización UE:** no.
-- **Autorización EE. UU.:** no. A partir de 2023, Dihexa figuró en la «categoría 2» de la FDA de sustancias para fórmulas magistrales con problemas de seguridad; en abril de 2026 se retiró de ella, y se ha anunciado una evaluación por el comité asesor PCAC en una sesión hasta febrero de 2027 (situación en octubre de 2026; compruebe la información actualizada).
-- **WADA:** no figura nominalmente; como sustancia no autorizada en ningún lugar, Dihexa entra, según nuestra valoración, en la categoría general S0 «sustancias no aprobadas» (situación en 2026; compruebe la información actualizada).
+- **Autorización EE. UU.:** no. A partir de 2023, Dihexa figuró en la «categoría 2» de la FDA de sustancias para fórmulas magistrales con problemas de seguridad; en abril de 2026 se retiró de ella, y se ha anunciado una evaluación por el comité asesor PCAC en una sesión hasta febrero de 2027 (situación en octubre de 2026; comprueba la información actualizada).
+- **WADA:** no figura nominalmente; como sustancia no autorizada en ningún lugar, Dihexa entra, según nuestra valoración, en la categoría general S0 «sustancias no aprobadas» (situación en 2026; comprueba la información actualizada).
 - **Nivel de evidencia:** **D** – ni un solo estudio publicado en humanos.
 
 ### Cómo se supone que actúa
@@ -59,9 +59,9 @@ Una revisión sistemática sobre derivados de la angiotensina IV encontró efect
 
 ### Situación legal
 
-- **UE / Austria / Alemania:** no autorizado. Como sustancia con efecto farmacológico, Dihexa se considera medicamento; su venta para uso en humanos no está permitida. La etiqueta «solo para fines de investigación» no cambia nada (situación en 2026; compruebe la información actualizada).
-- **EE. UU.:** no autorizado. Desde abril de 2026 ya no figura en la «categoría 2» de la FDA; el comité asesor PCAC no había deliberado hasta octubre de 2026 sobre una posible inclusión en la lista de sustancias admisibles para fórmulas magistrales (situación en octubre de 2026; compruebe la información actualizada).
-- **Deporte:** como sustancia no autorizada entra, según nuestra valoración, en la categoría S0 de la WADA (situación en 2026; compruebe la información actualizada).
+- **UE / Austria / Alemania:** no autorizado. Como sustancia con efecto farmacológico, Dihexa se considera medicamento; su venta para uso en humanos no está permitida. La etiqueta «solo para fines de investigación» no cambia nada (situación en 2026; comprueba la información actualizada).
+- **EE. UU.:** no autorizado. Desde abril de 2026 ya no figura en la «categoría 2» de la FDA; el comité asesor PCAC no había deliberado hasta octubre de 2026 sobre una posible inclusión en la lista de sustancias admisibles para fórmulas magistrales (situación en octubre de 2026; comprueba la información actualizada).
+- **Deporte:** como sustancia no autorizada entra, según nuestra valoración, en la categoría S0 de la WADA (situación en 2026; comprueba la información actualizada).
 
 ### Estudios en curso y perspectivas
 

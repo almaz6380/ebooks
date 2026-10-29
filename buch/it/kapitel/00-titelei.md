@@ -83,7 +83,7 @@ Le note sono raccolte alla fine di ogni capitolo; l'indice completo degli studi 
 **PMID**: il numero identificativo PubMed è un numero univoco per ogni voce di PubMed, la banca dati bibliografica liberamente accessibile della National Library of Medicine statunitense.
 
 1. Apri nel tuo browser la pagina pubmed.ncbi.nlm.nih.gov.
-2. Inserisca il numero nel campo di ricerca, per esempio 33567185, e avvii la ricerca.
+2. Inserisci il numero nel campo di ricerca, per esempio 33567185, e avvia la ricerca.
 3. Arriverai direttamente alla voce con titolo, autrici e autori, rivista scientifica e quasi sempre un riassunto (abstract).
 
 In alternativa puoi aggiungere il numero direttamente all'indirizzo: pubmed.ncbi.nlm.nih.gov/33567185. Molte voci contengono un link al testo completo, disponibile in parte gratuitamente, in parte solo a pagamento.

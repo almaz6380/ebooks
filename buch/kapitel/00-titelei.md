@@ -2,7 +2,7 @@
 
 ### Kein Ersatz für ärztlichen Rat
 
-Dieses Buch dient ausschließlich der allgemeinen Information und Bildung. Es ersetzt keine ärztliche Beratung, Diagnose oder Behandlung. Bevor du Entscheidungen über deine Gesundheit triffst, ein Arzneimittel beginnen, absetzen oder veränderst, sprich bitte mit einer Ärztin, einem Arzt oder einer Apothekerin beziehungsweise einem Apotheker. Bei akuten Beschwerden wende dich an den ärztlichen Notdienst oder ruf den Notruf.
+Dieses Buch dient ausschließlich der allgemeinen Information und Bildung. Es ersetzt keine ärztliche Beratung, Diagnose oder Behandlung. Bevor du Entscheidungen über deine Gesundheit triffst, ein Arzneimittel beginnst, absetzt oder veränderst, sprich bitte mit einer Ärztin, einem Arzt oder einer Apothekerin beziehungsweise einem Apotheker. Bei akuten Beschwerden wende dich an den ärztlichen Notdienst oder ruf den Notruf.
 
 ### Keine Anwendungsempfehlungen
 
@@ -88,7 +88,7 @@ Die Fußnoten stehen jeweils am Ende des Kapitels; das vollständige Studienverz
 
 Alternativ kannst du die Nummer direkt an die Adresse anhängen: pubmed.ncbi.nlm.nih.gov/33567185. Viele Einträge enthalten einen Link zum Volltext, der teils frei, teils nur gegen Bezahlung verfügbar ist.
 
-**NCT-Nummer**: Registrierte Studien findest du auf der Seite clinicaltrials.gov, indem du die Nummer in das Suchfeld eingeben oder an die Adresse clinicaltrials.gov/study/ anhängen, zum Beispiel clinicaltrials.gov/study/NCT03548935. Dort siehst du Studiendesign, Teilnehmerzahl, Endpunkte und den aktuellen Status.
+**NCT-Nummer**: Registrierte Studien findest du auf der Seite clinicaltrials.gov, indem du die Nummer in das Suchfeld eingibst oder an die Adresse clinicaltrials.gov/study/ anhängst, zum Beispiel clinicaltrials.gov/study/NCT03548935. Dort siehst du Studiendesign, Teilnehmerzahl, Endpunkte und den aktuellen Status.
 
 ### Was dieses Buch bewusst nicht enthält
 

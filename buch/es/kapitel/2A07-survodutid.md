@@ -7,7 +7,7 @@
 - **Mecanismo de acción:** agonista doble de los receptores de glucagón y de GLP-1 (sin componente GIP).
 - **Autorización UE:** no (a octubre de 2026).
 - **Autorización EE. UU.:** no (a octubre de 2026).
-- **AMA (WADA):** como principio activo no autorizado en ningún país, prohibida en la clase S0 «Sustancias no aprobadas» (situación en 2026, compruébelo en su versión actual).
+- **AMA (WADA):** como principio activo no autorizado en ningún país, prohibida en la clase S0 «Sustancias no aprobadas» (situación en 2026, compruébalo en su versión actual).
 - **Nivel de evidencia:** **B** – estudios aleatorizados de fase 2 y primeros estudios de fase 3 publicados, sin autorización.
 
 ### Cómo se supone que actúa
@@ -64,8 +64,8 @@ Los datos preclínicos proceden mayoritariamente de los laboratorios del fabrica
 ### Situación legal
 
 - **UE / Austria / Alemania:** no autorizada; uso solo en ensayos clínicos. Las ofertas del mercado gris no son medicamentos legales.
-- **EE. UU.:** no autorizada. La FDA ha calificado la survodutida para el tratamiento de la MASH como «Breakthrough Therapy» (terapia innovadora), lo que puede acelerar el procedimiento de evaluación (situación en 2026, compruébelo en su versión actual).
-- **Deporte:** clase S0 de la AMA (sustancia no aprobada), situación en 2026, compruébelo en su versión actual.
+- **EE. UU.:** no autorizada. La FDA ha calificado la survodutida para el tratamiento de la MASH como «Breakthrough Therapy» (terapia innovadora), lo que puede acelerar el procedimiento de evaluación (situación en 2026, compruébalo en su versión actual).
+- **Deporte:** clase S0 de la AMA (sustancia no aprobada), situación en 2026, compruébalo en su versión actual.
 
 ### Estudios en curso y perspectivas
 

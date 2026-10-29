@@ -6,8 +6,8 @@
 - **Origen:** desarrollado en las décadas de 1980 y 1990 en el Instituto de Biorregulación y Gerontología de San Petersburgo bajo la dirección de Vladímir Jávinson (en artículos especializados: Khavinson). La secuencia de aminoácidos se derivó de la composición de la **epitalamina**, un extracto de la glándula pineal (epífisis) de bovinos. Epitalon y epitalamina son sustancias químicamente distintas.
 - **Mecanismo de acción:** como «biorregulador peptídico», debería normalizar la función de la glándula pineal, favorecer la producción de melatonina en la vejez y activar la enzima telomerasa, que alarga los extremos de los cromosomas (telómeros).
 - **Autorización UE:** no.
-- **Autorización EE. UU.:** no. En abril de 2026 se retiró de la «categoría 2» de la FDA; el comité asesor PCAC votó en julio de 2026, por 7 votos contra 4, a favor de su inclusión en la lista de sustancias admisibles para fórmulas magistrales, en contra de la recomendación de los expertos de la FDA. Eso no equivale a una autorización como medicamento (situación en octubre de 2026; compruebe la información actualizada).
-- **WADA:** no figura nominalmente; como sustancia no autorizada como medicamento en ningún lugar, Epitalon entra, según nuestra valoración, en la categoría general S0 (situación en 2026; compruebe la información actualizada).
+- **Autorización EE. UU.:** no. En abril de 2026 se retiró de la «categoría 2» de la FDA; el comité asesor PCAC votó en julio de 2026, por 7 votos contra 4, a favor de su inclusión en la lista de sustancias admisibles para fórmulas magistrales, en contra de la recomendación de los expertos de la FDA. Eso no equivale a una autorización como medicamento (situación en octubre de 2026; comprueba la información actualizada).
+- **WADA:** no figura nominalmente; como sustancia no autorizada como medicamento en ningún lugar, Epitalon entra, según nuestra valoración, en la categoría general S0 (situación en 2026; comprueba la información actualizada).
 - **Nivel de evidencia:** **C** – solo un pequeño estudio controlado con el péptido sintético en humanos; el resto de los datos en humanos se refiere al extracto epitalamina o a células in vitro.
 
 ### Cómo se supone que actúa
@@ -83,10 +83,10 @@ La mayoría de estos estudios procede del grupo de Jávinson y Anisimov, en gene
 
 ### Situación legal
 
-- **UE / Austria / Alemania:** no autorizado; como sustancia con efecto farmacológico, Epitalon se considera medicamento, y su venta para uso en humanos no está permitida (situación en 2026; compruebe la información actualizada).
-- **EE. UU.:** no autorizado. Tras el voto del comité asesor PCAC en julio de 2026, Epitalon podría en el futuro utilizarse en fórmulas magistrales de farmacia si la FDA sigue esa recomendación; el procedimiento no había concluido al cierre de la redacción (situación en octubre de 2026; compruebe la información actualizada).
+- **UE / Austria / Alemania:** no autorizado; como sustancia con efecto farmacológico, Epitalon se considera medicamento, y su venta para uso en humanos no está permitida (situación en 2026; comprueba la información actualizada).
+- **EE. UU.:** no autorizado. Tras el voto del comité asesor PCAC en julio de 2026, Epitalon podría en el futuro utilizarse en fórmulas magistrales de farmacia si la FDA sigue esa recomendación; el procedimiento no había concluido al cierre de la redacción (situación en octubre de 2026; comprueba la información actualizada).
 - **Rusia:** En Rusia, los biorreguladores peptídicos se comercializan en parte como complementos alimenticios; Epitalon en sí, según nuestros conocimientos, no está registrado allí como medicamento (compruébese en su versión actual).
-- **Deporte:** según nuestra valoración, categoría S0 de la WADA (situación en 2026; compruebe la información actualizada).
+- **Deporte:** según nuestra valoración, categoría S0 de la WADA (situación en 2026; comprueba la información actualizada).
 
 ### Estudios en curso y perspectivas
 

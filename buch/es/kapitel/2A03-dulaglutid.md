@@ -8,7 +8,7 @@
 - **Preparado:** Trulicity (pluma precargada, semanal; concentraciones autorizadas de hasta 4,5 mg).
 - **Autorización UE:** sí, diabetes tipo 2 en adultos y adolescentes a partir de 10 años. Sin autorización para la reducción de peso.
 - **Autorización EE. UU.:** sí, diabetes tipo 2 a partir de 10 años y reducción del riesgo cardiovascular en adultos con diabetes tipo 2.
-- **WADA:** no figura en la lista (estado en 2026; compruebe la información actualizada).
+- **WADA:** no figura en la lista (estado en 2026; comprueba la información actualizada).
 - **Nivel de evidencia:** **A** – programa de estudios AWARD con más de diez estudios aleatorizados de fase 3, estudio de resultados REWIND, estudio en adolescentes.
 
 ### Cómo se supone que actúa
@@ -149,10 +149,10 @@ Como con todos los agonistas del receptor de GLP-1, en estudios de larga duraci�
 ### Situación legal
 
 - **UE:** Trulicity está autorizado por el procedimiento centralizado desde 2014 para el tratamiento de la diabetes tipo 2, actualmente también para adolescentes a partir de 10 años. Sujeto a prescripción médica. Sin autorización para la reducción de peso.
-- **Alemania y Austria:** sujeta a prescripción médica; financiable en la diabetes tipo 2. A partir de 2022 se produjeron, como con otros preparados de GLP-1, problemas de suministro temporales (compruebe la información actualizada).
+- **Alemania y Austria:** sujeta a prescripción médica; financiable en la diabetes tipo 2. A partir de 2022 se produjeron, como con otros preparados de GLP-1, problemas de suministro temporales (comprueba la información actualizada).
 - **EE. UU.:** autorizada para la diabetes tipo 2 a partir de 10 años y para reducir el riesgo cardiovascular.
-- **Genéricos:** como la dulaglutida es una proteína de fusión obtenida por ingeniería genética, los preparados de imitación serían biosimilares, con un procedimiento de autorización más complejo que en el caso de la liraglutida o la semaglutida. En el momento de la impresión, según el leal saber y entender del autor, no hay ningún biosimilar comercializado en la UE (compruebe la información actualizada).
-- **Deporte (WADA):** no figura en la lista (estado en 2026; compruebe la información actualizada).
+- **Genéricos:** como la dulaglutida es una proteína de fusión obtenida por ingeniería genética, los preparados de imitación serían biosimilares, con un procedimiento de autorización más complejo que en el caso de la liraglutida o la semaglutida. En el momento de la impresión, según el leal saber y entender del autor, no hay ningún biosimilar comercializado en la UE (comprueba la información actualizada).
+- **Deporte (WADA):** no figura en la lista (estado en 2026; comprueba la información actualizada).
 - **Mercado gris:** la dulaglutida prácticamente no desempeña ningún papel en el mercado gris, porque una gran proteína de fusión no puede fabricarse por síntesis como los péptidos pequeños.
 
 ### Estudios en curso y perspectivas

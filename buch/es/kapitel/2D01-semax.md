@@ -8,7 +8,7 @@
 - **Autorización UE:** no.
 - **Autorización EE. UU.:** no. A partir de 2023, Semax figuró en la lista de la FDA de sustancias con posibles riesgos de seguridad para preparados de farmacia («categoría 2»); en abril de 2026 se retiró de ella y en julio de 2026 el comité asesor PCAC recomendó por estrecho margen su inclusión en la lista de sustancias admisibles para fórmulas magistrales. Eso no equivale a una autorización como medicamento.
 - **Rusia y algunos países vecinos:** registrado como medicamento (gotas nasales; solución al 0,1 % como nootrópico, solución al 1 % para el ictus).
-- **WADA:** no figura nominalmente. Como Semax está autorizado en Rusia, no entra claramente en la categoría general S0 de sustancias no aprobadas (situación en 2026; compruebe la información actualizada).
+- **WADA:** no figura nominalmente. Como Semax está autorizado en Rusia, no entra claramente en la categoría general S0 de sustancias no aprobadas (situación en 2026; comprueba la información actualizada).
 - **Nivel de evidencia:** **C** – pocos estudios pequeños, mayoritariamente no aleatorizados, de centros rusos.
 
 ### Cómo se supone que actúa
@@ -75,10 +75,10 @@ Estos resultados son hallazgos en animales y de laboratorio. Muchos principios a
 
 ### Situación legal
 
-- **UE / Austria / Alemania:** Semax no está autorizado. Como sustancia con un efecto pretendido sobre las funciones corporales, se considera medicamento; su venta y publicidad sin autorización no están permitidas. La importación desde Rusia como medicamento está sujeta a las normas sobre importaciones individuales (situación en 2026; compruebe la información actualizada).
-- **EE. UU.:** no autorizado. La FDA retiró Semax en abril de 2026 de su lista de «categoría 2»; el comité asesor PCAC votó en julio de 2026, por 8 votos contra 5, a favor de incluir Semax en la lista de sustancias que las farmacias pueden utilizar para fórmulas magistrales. Los expertos de la FDA lo habían desaconsejado; la decisión de la agencia estaba pendiente al cierre de la redacción (situación en octubre de 2026; compruebe la información actualizada).
+- **UE / Austria / Alemania:** Semax no está autorizado. Como sustancia con un efecto pretendido sobre las funciones corporales, se considera medicamento; su venta y publicidad sin autorización no están permitidas. La importación desde Rusia como medicamento está sujeta a las normas sobre importaciones individuales (situación en 2026; comprueba la información actualizada).
+- **EE. UU.:** no autorizado. La FDA retiró Semax en abril de 2026 de su lista de «categoría 2»; el comité asesor PCAC votó en julio de 2026, por 8 votos contra 5, a favor de incluir Semax en la lista de sustancias que las farmacias pueden utilizar para fórmulas magistrales. Los expertos de la FDA lo habían desaconsejado; la decisión de la agencia estaba pendiente al cierre de la redacción (situación en octubre de 2026; comprueba la información actualizada).
 - **Rusia:** registrado como medicamento y disponible en farmacias.
-- **Deporte:** no figura nominalmente en la lista de la WADA (situación en 2026; compruebe la información actualizada).
+- **Deporte:** no figura nominalmente en la lista de la WADA (situación en 2026; comprueba la información actualizada).
 
 ### Estudios en curso y perspectivas
 

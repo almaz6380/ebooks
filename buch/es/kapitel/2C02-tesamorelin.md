@@ -78,7 +78,7 @@ Un análisis tisular de las biopsias hepáticas del estudio sobre hígado graso 
 
 ### Situación legal
 
-*Situación en 2026; compruebe la información actualizada.*
+*Situación en 2026; comprueba la información actualizada.*
 
 - **UE:** no autorizada. La tesamorelina no se comercializa como medicamento en ningún Estado de la UE.
 - **Alemania y Austria:** sin autorización. Su obtención solo sería concebible, en su caso, mediante la importación individual, bajo responsabilidad médica, de un medicamento autorizado en el extranjero; la dispensación de productos del mercado gris para uso en humanos no está permitida.

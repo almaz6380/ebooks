@@ -7,8 +7,8 @@
 - **Principio de acción:** agonista del receptor de GLP-1. La exenatida imita la hormona de la saciedad e incretina GLP-1, pero se degrada mucho más lentamente.
 - **Formas de administración:** dos veces al día (Byetta) y una vez a la semana como depósito con microesferas (Bydureon, más tarde en pluma precargada o autoinyector). En estudios, además: implante con bomba (ITCA 650) y variantes pegiladas (PB-119, NLY01).
 - **Autorización UE:** sí, para el tratamiento de la diabetes tipo 2 (Byetta, Bydureon). Sin autorización para la reducción de peso.
-- **Autorización EE. UU.:** sí, diabetes tipo 2 (Byetta en 2005 como primer agonista del receptor de GLP-1, Bydureon/Bydureon BCise); la forma semanal también para adolescentes a partir de 10 años. Entre tanto existen allí también preparados de imitación de la forma de dos veces al día. La disponibilidad de algunos preparados varía; compruebe la información actualizada.
-- **WADA:** no figura en la lista (estado en 2026; compruebe la información actualizada).
+- **Autorización EE. UU.:** sí, diabetes tipo 2 (Byetta en 2005 como primer agonista del receptor de GLP-1, Bydureon/Bydureon BCise); la forma semanal también para adolescentes a partir de 10 años. Entre tanto existen allí también preparados de imitación de la forma de dos veces al día. La disponibilidad de algunos preparados varía; comprueba la información actualizada.
+- **WADA:** no figura en la lista (estado en 2026; comprueba la información actualizada).
 - **Nivel de evidencia:** **A** – numerosos estudios aleatorizados grandes, un gran estudio de resultados cardiovasculares, autorización desde 2005.
 
 ### Cómo se supone que actúa
@@ -146,9 +146,9 @@ Sobre la tiroides: en ratas y ratones, los agonistas del receptor de GLP-1 provo
 ### Situación legal
 
 - **UE:** la exenatida está autorizada por el procedimiento centralizado como medicamento sujeto a prescripción médica para el tratamiento de la diabetes tipo 2 (Byetta desde 2006, Bydureon desde 2011). No está autorizada para la reducción de peso.
-- **Alemania y Austria:** sujeta a prescripción médica. La prescripción solo para perder peso sería un uso fuera de indicación y, por regla general, las cajas del seguro de enfermedad no la financian. Algunas formas de administración no están comercializadas de forma permanente en todos los países; compruebe la información actualizada.
+- **Alemania y Austria:** sujeta a prescripción médica. La prescripción solo para perder peso sería un uso fuera de indicación y, por regla general, las cajas del seguro de enfermedad no la financian. Algunas formas de administración no están comercializadas de forma permanente en todos los países; comprueba la información actualizada.
 - **EE. UU.:** autorizada para la diabetes tipo 2; la forma semanal también para adolescentes a partir de 10 años. Para la forma de dos veces al día hay genéricos autorizados.
-- **Deporte (WADA):** los agonistas del receptor de GLP-1 no figuran en la Lista de Prohibiciones (estado en 2026; compruebe la información actualizada).
+- **Deporte (WADA):** los agonistas del receptor de GLP-1 no figuran en la Lista de Prohibiciones (estado en 2026; comprueba la información actualizada).
 - **Mercado gris:** la exenatida apenas desempeña un papel en el mercado gris en comparación con la semaglutida y la tirzepatida. Los riesgos generales de las vías de adquisición no autorizadas se describen en la Parte I.
 
 ### Estudios en curso y perspectivas

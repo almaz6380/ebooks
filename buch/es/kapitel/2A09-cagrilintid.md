@@ -6,8 +6,8 @@
 - **Origen:** desarrollada por Novo Nordisk, el fabricante de la semaglutida.
 - **Mecanismo de acción:** la cagrilintida activa los receptores de amilina y, además, el receptor de calcitonina, emparentado con ellos (un «agonista dual de los receptores de amilina y calcitonina»). En CagriSema se añade el efecto GLP-1 de la semaglutida.
 - **Autorización UE:** no (a octubre de 2026).
-- **Autorización EE. UU.:** no (a octubre de 2026; se ha anunciado un procedimiento de autorización para CagriSema, que podría estar ya en curso; compruébelo en su versión actual).
-- **AMA (WADA):** prohibida como sustancia no aprobada en la clase S0 (situación en 2026, compruébelo en su versión actual).
+- **Autorización EE. UU.:** no (a octubre de 2026; se ha anunciado un procedimiento de autorización para CagriSema, que podría estar ya en curso; compruébalo en su versión actual).
+- **AMA (WADA):** prohibida como sustancia no aprobada en la clase S0 (situación en 2026, compruébalo en su versión actual).
 - **Nivel de evidencia:** **B** – varios grandes estudios de fase 3 publicados, pero todavía sin autorización. Con una autorización, CagriSema alcanzaría el nivel A.
 
 ### Cómo se supone que actúa
@@ -73,8 +73,8 @@ Los estudios de biología estructural muestran cómo se une la cagrilintida a lo
 ### Situación legal
 
 - **UE / Austria / Alemania:** ni la cagrilintida ni CagriSema están autorizadas; uso solo en estudios. Las ofertas de «Cagrilintide» en el mercado gris no son medicamentos y no están controladas.
-- **EE. UU.:** no autorizadas (a octubre de 2026, compruébelo en su versión actual).
-- **Deporte:** clase S0 de la AMA (no aprobada), situación en 2026, compruébelo en su versión actual.
+- **EE. UU.:** no autorizadas (a octubre de 2026, compruébalo en su versión actual).
+- **Deporte:** clase S0 de la AMA (no aprobada), situación en 2026, compruébalo en su versión actual.
 
 ### Estudios en curso y perspectivas
 

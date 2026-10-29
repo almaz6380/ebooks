@@ -8,7 +8,7 @@ La larazotida es el único péptido de este grupo que llegó hasta un estudio de
 - **Origen:** derivada de la investigación sobre la toxina zonula occludens de la bacteria del cólera, que abre las uniones entre las células intestinales; la larazotida actuaría a la inversa.
 - **Mecanismo de acción:** regulador de las «tight junctions» (uniones estrechas entre las células intestinales); se considera antagonista del mensajero endógeno zonulina. Actúa localmente en el intestino y apenas se absorbe a la sangre.
 - **Autorización UE/EE. UU.:** no.
-- **WADA:** no figura; sin efecto reconocible de mejora del rendimiento (situación en 2026, compruébelo en su versión actual).
+- **WADA:** no figura; sin efecto reconocible de mejora del rendimiento (situación en 2026, compruébalo en su versión actual).
 - **Nivel de evidencia: B** – varios estudios aleatorizados de fase 2 con resultados dispares; el estudio de fase 3 se interrumpió, sin resultados publicados.
 
 ### Cómo se supone que actúa
@@ -64,7 +64,7 @@ La larazotida fue bien tolerada en todos los estudios. En el estudio con 86 pers
 
 ### Situación legal
 
-*Situación en 2026, compruébelo en su versión actual.*
+*Situación en 2026, compruébalo en su versión actual.*
 
 - **UE, Alemania, Austria:** no autorizada.
 - **EE. UU.:** no autorizada. Según el conocimiento del autor, el desarrollador había obtenido de la FDA una revisión acelerada («Fast Track») para la enfermedad celíaca; tras la interrupción del estudio de fase 3 no se presentó ninguna solicitud de autorización.

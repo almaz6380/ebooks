@@ -6,8 +6,8 @@
 - **Origen:** desarrollada por Eli Lilly como sucesora de la tirzepatida.
 - **Mecanismo de acción:** «agonista triple» en tres receptores: GIP, GLP-1 y glucagón. En los medios se la llama a menudo «Triple G».
 - **Autorización UE:** no (a octubre de 2026; programa de fase 3 TRIUMPH parcialmente concluido).
-- **Autorización EE. UU.:** no (a octubre de 2026, compruébelo en su versión actual).
-- **AMA (WADA):** no figura por su nombre; sin embargo, como principio activo no autorizado en ningún país, la retatrutida entra en la clase S0 «Sustancias no aprobadas» y, por tanto, está prohibida en el deporte en todo momento (situación en 2026, compruébelo en su versión actual).
+- **Autorización EE. UU.:** no (a octubre de 2026, compruébalo en su versión actual).
+- **AMA (WADA):** no figura por su nombre; sin embargo, como principio activo no autorizado en ningún país, la retatrutida entra en la clase S0 «Sustancias no aprobadas» y, por tanto, está prohibida en el deporte en todo momento (situación en 2026, compruébalo en su versión actual).
 - **Nivel de evidencia:** **B** – varios grandes estudios de fase 3 publicados, pero todavía sin autorización y sin datos de criterios de valoración clínicos sobre corazón y riñón. Con una autorización se alcanzaría el nivel A.
 
 ### Cómo se supone que actúa
@@ -85,8 +85,8 @@ Para el análisis antidopaje se desarrolló en 2026 un método de detección. Pa
 ### Situación legal
 
 - **UE / Austria / Alemania:** no autorizada. La retatrutida solo puede utilizarse en el marco de ensayos clínicos. Su venta como «sustancia química de investigación» para uso en humanos es ilegal según la legislación farmacéutica.
-- **EE. UU.:** no autorizada (a octubre de 2026). En el registro figura un programa de acceso ampliado antes de la autorización («Expanded Access») (NCT07629401). Si se presentará o se ha presentado una solicitud de autorización, y cuándo, compruébelo en su versión actual.
-- **Deporte:** como principio activo no autorizado, la retatrutida entra en la clase S0 de la AMA (situación en 2026, compruébelo en su versión actual). Se ha descrito un método de detección específico en sangre.
+- **EE. UU.:** no autorizada (a octubre de 2026). En el registro figura un programa de acceso ampliado antes de la autorización («Expanded Access») (NCT07629401). Si se presentará o se ha presentado una solicitud de autorización, y cuándo, compruébalo en su versión actual.
+- **Deporte:** como principio activo no autorizado, la retatrutida entra en la clase S0 de la AMA (situación en 2026, compruébalo en su versión actual). Se ha descrito un método de detección específico en sangre.
 
 ### Estudios en curso y perspectivas
 

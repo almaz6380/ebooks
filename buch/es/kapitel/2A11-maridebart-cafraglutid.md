@@ -7,7 +7,7 @@
 - **Mecanismo de acción:** el componente GLP-1 **activa** el receptor de GLP-1, y el anticuerpo **bloquea** el receptor de GIP (antagonista de GIPR). Es lo contrario de la tirzepatida, que activa el receptor de GIP.
 - **Particularidad:** gracias al componente de anticuerpo, MariTide actúa durante mucho tiempo; se está estudiando una administración cada cuatro semanas o con menor frecuencia.
 - **Autorización UE / EE. UU.:** no (a octubre de 2026).
-- **AMA (WADA):** prohibido como sustancia no aprobada en la clase S0 (situación en 2026, compruébelo en su versión actual).
+- **AMA (WADA):** prohibido como sustancia no aprobada en la clase S0 (situación en 2026, compruébalo en su versión actual).
 - **Nivel de evidencia:** **B** – un gran estudio aleatorizado de fase 2; la fase 3 está en curso.
 
 ### Cómo se supone que actúa
@@ -59,7 +59,7 @@ En sistemas celulares se confirmó que AMG 133 bloquea el receptor de GIP y acti
 
 - **UE / Austria / Alemania:** no autorizado; uso solo en ensayos clínicos. Al tratarse de un producto biotecnológico complejo, su imitación en el mercado gris es bastante más difícil que la de los péptidos pequeños.
 - **EE. UU.:** no autorizado.
-- **Deporte:** clase S0 de la AMA (sustancia no aprobada), situación en 2026, compruébelo en su versión actual.
+- **Deporte:** clase S0 de la AMA (sustancia no aprobada), situación en 2026, compruébalo en su versión actual.
 
 ### Estudios en curso y perspectivas
 

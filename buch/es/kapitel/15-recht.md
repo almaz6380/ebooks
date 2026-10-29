@@ -75,7 +75,7 @@ La importación de medicamentos está regulada por la **Ley de Importación de M
 
 Para el deporte rige la **Ley Federal Antidopaje de 2021 (Anti-Doping-Bundesgesetz 2021)**. Remite a la Lista de Prohibiciones de la Agencia Mundial Antidopaje y contiene prohibiciones y disposiciones penales, en particular para la comercialización y la cesión de principios activos prohibidos. La autoridad competente para los controles es la Agencia Nacional Antidopaje de Austria (NADA Austria).
 
-Estado en 2026; compruebe la información actualizada.
+Estado en 2026; comprueba la información actualizada.
 
 ### Alemania
 
@@ -87,7 +87,7 @@ Quien fabrica, comercializa o cede a terceros medicamentos sin autorización pue
 
 Para el deporte rige además la **Ley Antidopaje (Anti-Doping-Gesetz, AntiDopG)**. Prohíbe, entre otras cosas, la fabricación, el comercio y la comercialización de sustancias dopantes, así como su aplicación a otras personas. La adquisición y la posesión de determinadas sustancias enumeradas en un anexo de la ley —entre ellas las hormonas peptídicas— son punibles en cantidades no insignificantes con fines de dopaje. Para los deportistas de alto nivel, también el autodopaje es punible. La autoridad competente para los controles es la Agencia Nacional Antidopaje de Alemania (NADA).
 
-Estado en 2026; compruebe la información actualizada.
+Estado en 2026; comprueba la información actualizada.
 
 ### Estados Unidos
 
@@ -101,7 +101,7 @@ En Estados Unidos, la autoridad competente es la **Food and Drug Administration 
 
 **Importación**: la FDA tolera, en condiciones estrictas, la importación de pequeñas cantidades de medicamentos para uso personal. No existe un derecho legal a ello, y los principios activos no autorizados sin seguimiento médico no suelen quedar incluidos.
 
-Estado en 2026; compruebe la información actualizada.
+Estado en 2026; comprueba la información actualizada.
 
 ### Dopaje: la Lista de Prohibiciones de la WADA
 
@@ -123,7 +123,7 @@ En el derecho antidopaje rige la **responsabilidad objetiva**: si se encuentra u
 
 Los laboratorios de control antidopaje desarrollan continuamente métodos de detección para nuevos péptidos, a menudo a partir de productos incautados (Cox 2017, PMID 28035768). Que una sustancia no fuera detectable ayer no significa que no lo sea mañana, y las muestras congeladas pueden volver a analizarse años después.
 
-Estado en 2026; compruebe la Lista de Prohibiciones actual de la WADA.
+Estado en 2026; comprueba la Lista de Prohibiciones actual de la WADA.
 
 ### Responsabilidad: ¿quién asume el riesgo?
 
@@ -157,4 +157,4 @@ También en la **aplicación por parte de médicos** rigen criterios estrictos. 
 - Muchos péptidos del mercado gris están prohibidos en el deporte, a menudo a través de las secciones S0 y S2 de la lista de la WADA.
 - Con los productos del mercado gris, los usuarios asumen el riesgo en gran medida en solitario.
 
-Todos los datos de este capítulo: estado en 2026, no constituyen asesoramiento jurídico; compruebe la información actualizada.
+Todos los datos de este capítulo: estado en 2026, no constituyen asesoramiento jurídico; comprueba la información actualizada.

@@ -57,7 +57,7 @@ En ratas despiertas, el GHRP-2 liberó más hormona del crecimiento que la GHRH 
 
 ### Situación legal
 
-*Situación en 2026; compruebe la información actualizada.*
+*Situación en 2026; comprueba la información actualizada.*
 
 - **Japón:** autorizado como agente diagnóstico; uso exclusivamente en el marco de pruebas funcionales médicas.
 - **UE, Alemania, Austria:** sin autorización; su dispensación para uso en humanos no está permitida.

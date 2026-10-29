@@ -99,7 +99,7 @@ Se ne possono ricavare due affermazioni, entrambe corrette:
 
 Dalla differenza assoluta si può calcolare il **Number Needed to Treat (NNT)**: quante persone devono essere trattate perché una eviti un evento. Qui sono, in base al calcolo, circa 67 persone in poco più di tre anni. Ciò non significa che il trattamento sia poco importante – con milioni di persone interessate l'effetto è rilevante. Ma mostra che la maggior parte dei trattati non avrebbe avuto alcun evento anche senza farmaco, e che alcuni ne hanno uno nonostante il farmaco.
 
-Pubblicità e titoli di giornale preferiscono i numeri relativi perché sembrano più grandi. I buoni resoconti degli studi riportano entrambi. Faccia quindi sempre attenzione alla frequenza di partenza: un „dimezzamento“ del rischio da 2 a 1 su 10.000 è qualcosa di completamente diverso da 20 a 10 su 100.
+Pubblicità e titoli di giornale preferiscono i numeri relativi perché sembrano più grandi. I buoni resoconti degli studi riportano entrambi. Fai quindi sempre attenzione alla frequenza di partenza: un „dimezzamento“ del rischio da 2 a 1 su 10.000 è qualcosa di completamente diverso da 20 a 10 su 100.
 
 Lo stesso vale per gli effetti collaterali. In SELECT il 16,6% dei partecipanti con semaglutide ha interrotto il trattamento a causa di eventi avversi, contro l'8,2% con placebo (Lincoff 2023, PMID 37952131). In termini relativi è un raddoppio, in termini assoluti una differenza di 8,4 punti percentuali.
 
@@ -176,5 +176,5 @@ Il livello valuta la **quantità e la qualità dei dati nell'uomo**, non se una 
 - Gli studi di laboratorio e su animali forniscono indizi sui meccanismi, ma non una prova di beneficio nell'uomo.
 - Il confronto randomizzato, controllato e in cieco è la via più affidabile per dimostrare un effetto.
 - Gli endpoint surrogati come i valori di laboratorio possono essere fuorvianti; contano gli endpoint solidi.
-- I numeri relativi sembrano più grandi di quelli assoluti. Chieda sempre la frequenza di partenza.
+- I numeri relativi sembrano più grandi di quelli assoluti. Chiedi sempre la frequenza di partenza.
 - Finanziamento, distorsione di pubblicazione e mancata conferma da parte di gruppi indipendenti possono distorcere il quadro. I registri degli studi aiutano a verificarlo.

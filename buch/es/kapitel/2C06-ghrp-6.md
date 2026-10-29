@@ -62,7 +62,7 @@ Ninguno de estos enfoques ha dado lugar hasta ahora a un estudio controlado publ
 
 ### Situación legal
 
-*Situación en 2026; compruebe la información actualizada.*
+*Situación en 2026; comprueba la información actualizada.*
 
 - **UE, Alemania, Austria, EE. UU.:** sin autorización como medicamento; su dispensación para uso en humanos no está permitida. En la investigación, el GHRP-6 se utiliza en el marco de estudios aprobados.
 - **WADA:** prohibido (S2). El GHRP-6 se excreta en su mayor parte sin cambios por la orina y, tras su administración como aerosol nasal en un voluntario, fue detectable durante 23 horas (Semenistaya 2015, PMID 25869809).

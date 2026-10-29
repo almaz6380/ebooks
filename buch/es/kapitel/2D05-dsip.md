@@ -6,9 +6,9 @@
 - **Origen:** aislado en 1977 por un grupo de trabajo de Basilea a partir de la sangre venosa cerebral de conejos a los que se había inducido un sueño profundo mediante estimulación eléctrica. Hasta hoy no se ha encontrado ningún gen, proteína precursora ni receptor para el DSIP.
 - **Mecanismo de acción:** como «sustancia del sueño» propia del organismo, debía favorecer el sueño profundo (sueño delta con ondas lentas en el EEG); más tarde se supusieron influencias sobre las hormonas del estrés, el dolor y los síntomas de abstinencia.
 - **Autorización UE:** no.
-- **Autorización EE. UU.:** no. En abril de 2026, la emideltida se retiró de la «categoría 2» de la FDA; el comité asesor PCAC votó en julio de 2026, por 6 votos contra 7, **en contra** de su inclusión en la lista de sustancias admisibles para fórmulas magistrales (situación en octubre de 2026; compruebe la información actualizada).
+- **Autorización EE. UU.:** no. En abril de 2026, la emideltida se retiró de la «categoría 2» de la FDA; el comité asesor PCAC votó en julio de 2026, por 6 votos contra 7, **en contra** de su inclusión en la lista de sustancias admisibles para fórmulas magistrales (situación en octubre de 2026; comprueba la información actualizada).
 - **Rusia y países vecinos:** allí se utilizaron preparados de DSIP (p. ej., Deltaran, Deltalicin) en estudios y en la práctica clínica.
-- **WADA:** no figura nominalmente (situación en 2026; compruebe la información actualizada).
+- **WADA:** no figura nominalmente (situación en 2026; comprueba la información actualizada).
 - **Nivel de evidencia:** **C** – solo estudios muy pequeños, realizados mayoritariamente en la década de 1980; los mejores desde el punto de vista metodológico no encontraron ningún beneficio clínicamente relevante.
 
 ### Cómo se supone que actúa
@@ -67,9 +67,9 @@ Es llamativo un estudio en 24 mujeres durante una anestesia: en lugar de profund
 
 ### Situación legal
 
-- **UE / Austria / Alemania:** no autorizado; como sustancia con efecto farmacológico, el DSIP se considera medicamento, y su venta para uso en humanos no está permitida (situación en 2026; compruebe la información actualizada).
-- **EE. UU.:** no autorizado; el comité asesor PCAC se pronunció en julio de 2026, por estrecho margen, en contra de admitirlo para fórmulas magistrales de farmacia. La decisión definitiva de la FDA estaba pendiente al cierre de la redacción (situación en octubre de 2026; compruebe la información actualizada).
-- **Deporte:** no figura nominalmente en la lista de la WADA (situación en 2026; compruebe la información actualizada).
+- **UE / Austria / Alemania:** no autorizado; como sustancia con efecto farmacológico, el DSIP se considera medicamento, y su venta para uso en humanos no está permitida (situación en 2026; comprueba la información actualizada).
+- **EE. UU.:** no autorizado; el comité asesor PCAC se pronunció en julio de 2026, por estrecho margen, en contra de admitirlo para fórmulas magistrales de farmacia. La decisión definitiva de la FDA estaba pendiente al cierre de la redacción (situación en octubre de 2026; comprueba la información actualizada).
+- **Deporte:** no figura nominalmente en la lista de la WADA (situación en 2026; comprueba la información actualizada).
 
 ### Estudios en curso y perspectivas
 

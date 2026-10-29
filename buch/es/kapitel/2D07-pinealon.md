@@ -8,7 +8,7 @@
 - **Autorización UE:** no.
 - **Autorización EE. UU.:** no.
 - **Rusia:** comercializado como componente de los llamados «citógenos» en cápsulas, es decir, más bien como complemento alimenticio que como medicamento evaluado.
-- **WADA:** no figura nominalmente; un principio activo no autorizado como medicamento puede entrar en la categoría general S0 (situación en 2026; compruebe la información actualizada).
+- **WADA:** no figura nominalmente; un principio activo no autorizado como medicamento puede entrar en la categoría general S0 (situación en 2026; comprueba la información actualizada).
 - **Nivel de evidencia:** **C** – algunos pequeños estudios observacionales rusos no aleatorizados con valores de medición sustitutivos como la «edad biológica».
 
 ### Cómo se supone que actúa
@@ -60,10 +60,10 @@ Casi todos los trabajos proceden del grupo desarrollador o de institutos rusos c
 
 ### Situación legal
 
-- **UE / Austria / Alemania:** no autorizado como medicamento. Su venta como complemento alimenticio solo sería admisible si la sustancia estuviera permitida según la legislación alimentaria; como sustancia sintética nueva con efecto farmacológico pretendido, según nuestra valoración no es el caso (situación en 2026; compruebe la información actualizada).
+- **UE / Austria / Alemania:** no autorizado como medicamento. Su venta como complemento alimenticio solo sería admisible si la sustancia estuviera permitida según la legislación alimentaria; como sustancia sintética nueva con efecto farmacológico pretendido, según nuestra valoración no es el caso (situación en 2026; comprueba la información actualizada).
 - **EE. UU.:** no autorizado.
 - **Rusia:** comercializado como componente de preparados peptídicos que no han pasado por el procedimiento de autorización de medicamentos.
-- **Deporte:** no figura nominalmente; posible inclusión en la categoría S0 de la WADA (situación en 2026; compruebe la información actualizada).
+- **Deporte:** no figura nominalmente; posible inclusión en la categoría S0 de la WADA (situación en 2026; comprueba la información actualizada).
 
 ### Estudios en curso y perspectivas
 

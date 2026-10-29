@@ -49,7 +49,7 @@ Como no hay estudios en humanos, los riesgos solo pueden deducirse de la biolog�
 
 ### Situación legal
 
-*Situación en 2026; compruebe la información actualizada.*
+*Situación en 2026; comprueba la información actualizada.*
 
 - **UE, Alemania, Austria:** no es un medicamento, no tiene autorización y tampoco se ha solicitado. Como reactivo de laboratorio puede venderse para la investigación; su dispensación para uso en humanos no está permitida según las leyes del medicamento.
 - **EE. UU.:** sin autorización; distribución solo como sustancia química de investigación.

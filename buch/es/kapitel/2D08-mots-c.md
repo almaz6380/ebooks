@@ -6,8 +6,8 @@
 - **Origen:** descrito en 2015 por un grupo de trabajo dirigido por Pinchas Cohen en la University of Southern California. El organismo lo produce por sí mismo, sobre todo en el músculo esquelético.
 - **Mecanismo de acción:** se considera una «mitocina», una sustancia señalizadora de las mitocondrias. En ratones activó el sensor energético AMPK y mejoró la sensibilidad a la insulina y el rendimiento físico; por eso se discute como «imitador del ejercicio» (exercise mimetic).
 - **Autorización UE:** no.
-- **Autorización EE. UU.:** no. En abril de 2026 se retiró de la «categoría 2» de la FDA; el comité asesor PCAC votó en julio de 2026, por 7 votos contra 5, a favor de su inclusión en la lista de sustancias admisibles para fórmulas magistrales (situación en octubre de 2026; compruebe la información actualizada).
-- **WADA:** **prohibido**: se menciona expresamente en la categoría S4 (moduladores hormonales y metabólicos) como ejemplo de activador de la AMPK, en competición y fuera de ella (situación en 2026; compruebe la información actualizada).
+- **Autorización EE. UU.:** no. En abril de 2026 se retiró de la «categoría 2» de la FDA; el comité asesor PCAC votó en julio de 2026, por 7 votos contra 5, a favor de su inclusión en la lista de sustancias admisibles para fórmulas magistrales (situación en octubre de 2026; comprueba la información actualizada).
+- **WADA:** **prohibido**: se menciona expresamente en la categoría S4 (moduladores hormonales y metabólicos) como ejemplo de activador de la AMPK, en competición y fuera de ella (situación en 2026; comprueba la información actualizada).
 - **Nivel de evidencia:** **D** para su administración como principio activo: no hay resultados publicados de estudios controlados en humanos; en el ser humano solo existen estudios observacionales sobre los niveles propios del organismo.
 
 ### Cómo se supone que actúa
@@ -82,9 +82,9 @@ La abundancia de estudios positivos en animales es llamativa. Muestra que MOTS-c
 
 ### Situación legal
 
-- **UE / Austria / Alemania:** no autorizado; como sustancia con efecto farmacológico, MOTS-c se considera medicamento, y su venta para uso en humanos no está permitida (situación en 2026; compruebe la información actualizada).
-- **EE. UU.:** no autorizado. Tras el voto positivo del PCAC de julio de 2026, MOTS-c podría utilizarse en el futuro en fórmulas magistrales de farmacia si la FDA sigue esa recomendación; la decisión estaba pendiente al cierre de la redacción (situación en octubre de 2026; compruebe la información actualizada).
-- **Deporte:** prohibido según la lista de la WADA, categoría S4 (situación en 2026; compruebe la información actualizada).
+- **UE / Austria / Alemania:** no autorizado; como sustancia con efecto farmacológico, MOTS-c se considera medicamento, y su venta para uso en humanos no está permitida (situación en 2026; comprueba la información actualizada).
+- **EE. UU.:** no autorizado. Tras el voto positivo del PCAC de julio de 2026, MOTS-c podría utilizarse en el futuro en fórmulas magistrales de farmacia si la FDA sigue esa recomendación; la decisión estaba pendiente al cierre de la redacción (situación en octubre de 2026; comprueba la información actualizada).
+- **Deporte:** prohibido según la lista de la WADA, categoría S4 (situación en 2026; comprueba la información actualizada).
 
 ### Estudios en curso y perspectivas
 

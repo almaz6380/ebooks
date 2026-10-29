@@ -35,7 +35,7 @@ Due principi attivi di questo gruppo non rientrano in questo schema: la **setmel
 | AOD-9604 | D | no | frammento dell'ormone della crescita, mercato grigio |
 | Orforglipron | A | aperta | non è un peptide, compressa (confronto) |
 
-I livelli di evidenza sono spiegati nella Parte I. Le informazioni sulle autorizzazioni si riferiscono alla situazione di ottobre 2026 e ad almeno un'indicazione; i dettagli si trovano nei singoli capitoli. Verifichi la situazione attuale, perché proprio in questo gruppo le autorizzazioni cambiano rapidamente.
+I livelli di evidenza sono spiegati nella Parte I. Le informazioni sulle autorizzazioni si riferiscono alla situazione di ottobre 2026 e ad almeno un'indicazione; i dettagli si trovano nei singoli capitoli. Verifica la situazione attuale, perché proprio in questo gruppo le autorizzazioni cambiano rapidamente.
 
 ### Indicazioni per la lettura
 

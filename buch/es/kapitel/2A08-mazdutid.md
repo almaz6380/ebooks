@@ -8,7 +8,7 @@
 - **Autorización UE:** no.
 - **Autorización EE. UU.:** no.
 - **Autorización China:** sí, desde junio de 2025 para el control del peso y desde septiembre de 2025 también para la diabetes tipo 2 (nombre comercial Xinermei).
-- **AMA (WADA):** no figura por su nombre. Como la mazdutida está autorizada por una autoridad sanitaria estatal (China), según la letra de la norma ya no entra en la clase S0; aun así, su uso en el deporte sin indicación médica es problemático (situación en 2026, compruébelo en su versión actual).
+- **AMA (WADA):** no figura por su nombre. Como la mazdutida está autorizada por una autoridad sanitaria estatal (China), según la letra de la norma ya no entra en la clase S0; aun así, su uso en el deporte sin indicación médica es problemático (situación en 2026, compruébalo en su versión actual).
 - **Nivel de evidencia:** **A** – varios grandes estudios de fase 3 y una autorización, aunque casi exclusivamente en participantes chinos.
 
 ### Cómo se supone que actúa
@@ -74,7 +74,7 @@ En ratones diabéticos (modelo db/db), la mazdutida obtuvo mejores resultados qu
 - **China:** autorizada (junio de 2025 para el control del peso, septiembre de 2025 para la diabetes tipo 2) (Shirley 2025, PMID 41028652).
 - **UE / Austria / Alemania:** no autorizada. Su importación para uso no es legal sin autorización; los productos «Mazdutide» ofrecidos en el mercado gris no son medicamentos controlados.
 - **EE. UU.:** no autorizada; Lilly realiza sus propios estudios.
-- **Deporte:** no figura por su nombre; situación respecto a S0 poco clara debido a la autorización china. Situación en 2026, compruébelo en su versión actual.
+- **Deporte:** no figura por su nombre; situación respecto a S0 poco clara debido a la autorización china. Situación en 2026, compruébalo en su versión actual.
 
 ### Estudios en curso y perspectivas
 

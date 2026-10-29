@@ -75,7 +75,7 @@ En ratones con un modelo de alzhéimer, el ibutamoreno redujo los depósitos de 
 
 ### Situación legal
 
-*Situación en 2026; compruebe la información actualizada.*
+*Situación en 2026; comprueba la información actualizada.*
 
 - **UE, Alemania, Austria:** sin autorización. El ibutamoreno es un principio activo no autorizado; no puede comercializarse como complemento alimenticio. Quien lo ofrece para uso en humanos infringe la legislación farmacéutica.
 - **EE. UU.:** sin autorización; aun así se vende como «research chemical» o en suplementos.
