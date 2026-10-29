@@ -25,7 +25,12 @@ def esc(s):
 def main(sprache, ziel):
     t = TEXTE[sprache]
     liste = yaml.safe_load((BASIS / "recherche/peptide.yaml").read_text())
-    namen = yaml.safe_load((BASIS / "recherche/namen.yaml").read_text()) if (BASIS / "recherche/namen.yaml").exists() else {}
+    kap = BASIS / ("buch/kapitel" if sprache == "de" else f"buch/{sprache}/kapitel")
+    namen = {}
+    for f in kap.glob("2[A-F][0-9][0-9]-*.md"):
+        erste = f.read_text(encoding="utf-8").lstrip().splitlines()[0]
+        if erste.startswith("## "):
+            namen[f.stem[5:]] = {sprache: erste[3:].strip()}
     teile = [f"# {t['titel']}\n", t["einleitung"], ""]
     gesamt = 0
     for gruppe in liste.values():

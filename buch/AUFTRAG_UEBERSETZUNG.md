@@ -34,3 +34,20 @@ Ziel: `buch/<sprache>/kapitel/<gleicher Dateiname>.md`.
 - Prüfe danach jede Datei: `python3 werkzeuge/uebersetzung_pruefen.py <sprache> <datei>` – meldet fehlende/zusätzliche PMIDs/NCTs,
   abweichende Überschriften- und Tabellenzeilenzahl. Alle Abweichungen beheben.
 - Kein git commit. Gib am Ende die Liste der Dateien und das Prüfergebnis zurück.
+
+## Feste Abschnittsüberschriften in Peptid-Kapiteln (immer exakt so, Kleinschreibung nach dem ersten Wort)
+| de | en | fr | it | nl | pt |
+|---|---|---|---|---|---|
+| Steckbrief | Profile | Fiche signalétique | Scheda | Profiel | Ficha técnica |
+| Wie es wirken soll | How it is supposed to work | Mode d'action supposé | Come dovrebbe agire | Hoe het zou moeten werken | Como deveria agir |
+| Studien am Menschen | Human studies | Études chez l'humain | Studi sull'uomo | Studies bij mensen | Estudos em humanos |
+| Tier- und Laborstudien | Animal and laboratory studies | Études animales et de laboratoire | Studi su animali e in laboratorio | Dier- en laboratoriumstudies | Estudos em animais e em laboratório |
+| Risiken und Nebenwirkungen | Risks and side effects | Risques et effets indésirables | Rischi ed effetti collaterali | Risico's en bijwerkingen | Riscos e efeitos colaterais |
+| Rechtslage | Legal status | Statut juridique | Quadro normativo | Juridische status | Situação legal |
+| Laufende Studien und Ausblick | Ongoing studies and outlook | Études en cours et perspectives | Studi in corso e prospettive | Lopende studies en vooruitzichten | Estudos em andamento e perspectivas |
+| Fazit | Conclusion | Conclusion | Conclusione | Conclusie | Conclusão |
+| Teil | Part | Partie | Parte | Deel | Parte |
+| Evidenzstufe | Evidence level | Niveau de preuve | Livello di evidenza | Bewijsniveau | Nível de evidência |
+| Stand 2026, bitte aktuell prüfen | as of 2026, please check for updates | état 2026, à vérifier | aggiornato al 2026, da verificare | stand 2026, actuele situatie controleren | situação em 2026, verificar atualização |
+
+Gruppenüberschriften: „# <Teil> II · A – …“ usw. mit übersetztem Gruppentitel. Glossar alphabetisch nach Begriffen der Zielsprache neu sortieren.
