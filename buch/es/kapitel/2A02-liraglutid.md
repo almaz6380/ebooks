@@ -11,7 +11,7 @@
 - **WADA:** no figura en la lista (estado en 2026; compruebe la información actualizada).
 - **Nivel de evidencia:** **A** – dos grandes programas de registro (LEAD, SCALE), un gran estudio de resultados (LEADER), estudios en niños y adolescentes.
 
-### Cómo debería actuar
+### Cómo se supone que actúa
 
 La liraglutida actúa como la hormona intestinal endógena GLP-1: aumenta la secreción de insulina dependiente de la glucosa, inhibe el glucagón, que eleva la glucemia, ralentiza el vaciamiento gástrico y atenúa el apetito en el cerebro. El mecanismo básico de la clase se describe en el capítulo Exenatida.
 
@@ -21,7 +21,7 @@ De la pérdida de peso son responsables sobre todo los efectos en el cerebro. En
 
 De la liraglutida surgió más tarde la semaglutida: la misma idea básica, pero con una unión más intensa a la albúmina que permite una inyección semanal (Knudsen 2019, PMID 31031702).
 
-### Estudios en seres humanos
+### Estudios en humanos
 
 La liraglutida figura entre los medicamentos peptídicos mejor estudiados. La consulta de PubMed analizada para este libro (término de búsqueda «liraglutide» en el título o el resumen, fecha de consulta octubre de 2026) arrojó 613 estudios en seres humanos, más que para cualquier otro péptido de este libro. ClinicalTrials.gov recoge 517 registros. A continuación se tratan sobre todo los estudios de registro y de resultados; además existen cientos de estudios más pequeños sobre el hígado, el corazón, el cerebro, la fertilidad y los trastornos de la conducta alimentaria.
 
@@ -138,7 +138,7 @@ Otros estudios en animales se ocuparon de la protección cardíaca, la neuroprot
 
 **Indicaciones para la práctica:** la liraglutida no está indicada durante el embarazo. Como todos los agonistas del receptor de GLP-1, ralentiza el vaciamiento gástrico, lo que puede tener importancia en las anestesias y en la absorción de otros medicamentos. Lo determinante son la ficha técnica y el seguimiento médico, también para el aumento progresivo de la dosis.
 
-### Situación jurídica
+### Situación legal
 
 - **UE:** Victoza está autorizado desde 2009 para el tratamiento de la diabetes tipo 2, y Saxenda desde 2015 para el control del peso en adultos y adolescentes. Ambos están sujetos a prescripción médica.
 - **Alemania:** en la diabetes, las cajas del seguro obligatorio de enfermedad financian la liraglutida. En cambio, los medicamentos para reducir peso están excluidos en principio de la financiación según el artículo 34 del Libro V del Código Social (SGB V); los asegurados suelen tener que pagar Saxenda de su bolsillo (estado en 2026; compruebe la información actualizada).

@@ -2,7 +2,7 @@
 
 ### Ficha
 
-- **Tipo/estructura:** mezcla de péptidos de distinta longitud obtenida por escisión enzimática (hidrólisis) del colágeno o de la gelatina. Los productos típicos contienen fragmentos con una masa molecular media de unos 2.000 a 5.000 daltons. Son característicos los aminoácidos glicina, prolina e hidroxiprolina; falta el aminoácido esencial triptófano.
+- **Tipo/estructura:** mezcla de péptidos de distinta longitud obtenida por escisión enzimática (hidrólisis) del colágeno o de la gelatina. Los productos típicos contienen fragmentos con una masa molecular media de unos 2000 a 5000 daltons. Son característicos los aminoácidos glicina, prolina e hidroxiprolina; falta el aminoácido esencial triptófano.
 - **Origen:** piel, huesos o escamas de vacuno, porcino, pollo y pescado, subproductos de la industria cárnica y pesquera. Muchos estudios utilizan materias primas de marca registrada (p. ej., Verisol, Fortigel, Bodybalance, Tendoforte) procedentes de unos pocos fabricantes.
 - **Mecanismo de acción:** aporte de componentes para el tejido conjuntivo propio; además, se debate si ciertos péptidos pequeños (sobre todo la prolil-hidroxiprolina) actúan como señales sobre las células del tejido conjuntivo.
 - **Diferenciación:** el colágeno de tipo II *no desnaturalizado* (p. ej., UC-II) es un producto distinto con otro mecanismo de acción y se comenta por separado más abajo.
@@ -55,11 +55,11 @@ En pacientes con úlceras por presión (decúbito) se probó, además del tratam
 
 Si se agrupan los estudios sobre la piel, a primera vista resulta un panorama claro:
 
-- 19 estudios con 1.125 participantes: efecto favorable sobre la hidratación, la elasticidad y las arrugas (de Miranda 2021, PMID 33742704).
-- 26 estudios con 1.721 participantes: mejora significativa de la hidratación y la elasticidad; pero los autores señalan varias fuentes de sesgo y reclaman estudios grandes (Pu 2023, PMID 37432180).
+- 19 estudios con 1125 participantes: efecto favorable sobre la hidratación, la elasticidad y las arrugas (de Miranda 2021, PMID 33742704).
+- 26 estudios con 1721 participantes: mejora significativa de la hidratación y la elasticidad; pero los autores señalan varias fuentes de sesgo y reclaman estudios grandes (Pu 2023, PMID 37432180).
 - 10 estudios con 646 participantes: hidratación y elasticidad mejoradas, con heterogeneidad media y un riesgo de sesgo mayoritariamente incierto (Danessa 2025, PMID 40826844).
 
-Un metaanálisis de 2025 fue un paso más allá y separó los estudios según su financiador y su calidad. Considerando los 23 estudios con 1.474 participantes, volvió a observarse una ventaja. Pero si solo se consideraban los estudios *sin* financiación de la industria, el efecto sobre la hidratación, la elasticidad y las arrugas desaparecía. Tampoco los estudios de alta calidad metodológica mostraron un efecto significativo en ninguna categoría; solo en los estudios de baja calidad se halló una mejora de la elasticidad. Las autoras y los autores concluyen que actualmente no hay pruebas clínicas que respalden el uso de preparados de colágeno para prevenir o tratar el envejecimiento cutáneo (Myung 2025, PMID 40324552).
+Un metaanálisis de 2025 fue un paso más allá y separó los estudios según su financiador y su calidad. Considerando los 23 estudios con 1474 participantes, volvió a observarse una ventaja. Pero si solo se consideraban los estudios *sin* financiación de la industria, el efecto sobre la hidratación, la elasticidad y las arrugas desaparecía. Tampoco los estudios de alta calidad metodológica mostraron un efecto significativo en ninguna categoría; solo en los estudios de baja calidad se halló una mejora de la elasticidad. Las autoras y los autores concluyen que actualmente no hay pruebas clínicas que respalden el uso de preparados de colágeno para prevenir o tratar el envejecimiento cutáneo (Myung 2025, PMID 40324552).
 
 Este resultado no es un veredicto definitivo: el número de estudios independientes es pequeño, y la falta de significación estadística no significa automáticamente que no haya efecto. Pero muestra cuánto depende el balance global positivo de estudios que han financiado los propios proveedores. Para las lectoras y los lectores, esto significa que la afirmación «clínicamente demostrado» de un envase de colágeno se basa por lo general en estudios del propio proveedor de la materia prima.
 
@@ -80,7 +80,7 @@ El estudio de Bongers es notable porque es de los más grandes y comunica un res
 Aun así, los metaanálisis llegan mayoritariamente a un resultado favorable:
 
 - Un metaanálisis de estudios aleatorizados y controlados con placebo encontró una reducción significativa de la puntuación total del WOMAC (un cuestionario de artrosis) y de la puntuación del dolor en la escala visual analógica; sin embargo, las subescalas de dolor y de limitación funcional del WOMAC no difirieron significativamente (García-Coronado 2019, PMID 30368550).
-- El análisis más amplio hasta la fecha incluyó 35 estudios con 3.165 pacientes con artrosis. Los derivados del colágeno –aquí se agrupan el colágeno hidrolizado y el no desnaturalizado– tuvieron efectos pequeños a moderados sobre el dolor (diferencia de medias estandarizada −0,35) y la función (−0,31). Los efectos adversos y los abandonos no fueron más frecuentes que con el control (Liang 2024, PMID 38218227).
+- El análisis más amplio hasta la fecha incluyó 35 estudios con 3165 pacientes con artrosis. Los derivados del colágeno –aquí se agrupan el colágeno hidrolizado y el no desnaturalizado– tuvieron efectos pequeños a moderados sobre el dolor (diferencia de medias estandarizada −0,35) y la función (−0,31). Los efectos adversos y los abandonos no fueron más frecuentes que con el control (Liang 2024, PMID 38218227).
 - Un análisis de solo cuatro estudios con 507 pacientes con artrosis de rodilla encontró también un alivio del dolor, pero calificó los cuatro estudios como de alto riesgo de sesgo (Lin 2023, PMID 37717022).
 - Un metaanálisis actualizado con 11 estudios y 870 participantes comunicó mejoras de la función y el dolor, aunque con una heterogeneidad muy alta (I² 75 y 88 %, respectivamente) (Simental-Mendía 2025, PMID 39212129).
 

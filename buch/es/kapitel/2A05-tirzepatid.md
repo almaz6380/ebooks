@@ -10,7 +10,7 @@
 - **WADA:** no figura en la Lista de Prohibiciones (estado en 2026; compruebe la información actualizada).
 - **Nivel de evidencia:** **A** – numerosos estudios aleatorizados grandes, estudios de resultados sobre el corazón y la insuficiencia cardíaca, autorización en muchos países.
 
-### Cómo debería actuar
+### Cómo se supone que actúa
 
 Después de una comida, el intestino libera dos hormonas llamadas incretinas: el GLP-1 (péptido similar al glucagón tipo 1) y el GIP (polipéptido insulinotrópico dependiente de glucosa). Ambas comunican al páncreas que «llega comida» y aumentan la secreción de insulina, pero solo mientras la glucemia esté elevada. Por eso los medicamentos incretínicos por sí solos rara vez provocan hipoglucemias. El GLP-1 frena además el vaciamiento gástrico y actúa en el cerebro sobre los centros de la saciedad. Qué papel desempeña el GIP en el apetito está menos claro y fue objeto de controversia durante mucho tiempo; en algunos trabajos antiguos, el GIP llegó a considerarse más bien una «hormona que engorda».
 
@@ -20,7 +20,7 @@ En ratones con sobrepeso, la tirzepatida mejoró la sensibilidad a la insulina m
 
 Dicho de forma simplificada: la tirzepatida actúa como un medicamento GLP-1 con un «amplificador» adicional de GIP. Los estudios muestran que este paquete logra más en el peso y la glucemia que los agonistas puros del GLP-1 disponibles hasta ahora; el porqué exacto todavía no se comprende del todo.
 
-### Estudios en seres humanos
+### Estudios en humanos
 
 **Magnitud de los datos:** la consulta automatizada de PubMed (octubre de 2026) arrojó 144 publicaciones clasificadas como estudios en seres humanos con «tirzepatide» en el título o el resumen, además de muchísimos artículos de revisión y metaanálisis. En ClinicalTrials.gov había 307 estudios registrados, más de 100 de ellos aún en fase de reclutamiento (no se ha contado un registro de ejemplo manifiestamente ficticio de un promotor desconocido). La tirzepatida figura así entre los principios activos mejor estudiados de este libro. El peso principal lo soportan dos programas de registro: **SURPASS** (diabetes tipo 2) y **SURMOUNT** (obesidad), completados con estudios sobre insuficiencia cardíaca, apnea del sueño e hígado graso.
 
@@ -155,7 +155,7 @@ Como con todos los agonistas del GLP-1 de acción prolongada, en estudios de lar
 
 **Productos de imitación:** durante los problemas de suministro de los años 2022 a 2024 se elaboraron en farmacias estadounidenses preparados de tirzepatida («compounding»), y paralelamente surgió un gran mercado gris en línea. Un estudio de 2025 encontró 33 preparados con semaglutida o tirzepatida en formas de administración no autorizadas, como pastillas para chupar o mezclas con vitaminas; para estos productos faltan datos de eficacia y seguridad (Belcourt 2026, PMID 41689811). Para la mercancía «Research» sin autorización como medicamento esto se aplica en mayor medida aún (véanse la Parte I y la Parte IV).
 
-### Situación jurídica
+### Situación legal
 
 - **UE / Austria / Alemania:** la tirzepatida está autorizada por el procedimiento centralizado en la UE como Mounjaro (en 2022 para la diabetes tipo 2 y, desde finales de 2023, también para el control del peso). Está sujeta a prescripción médica. Que el seguro de enfermedad asuma los costes depende de la indicación: para la diabetes tipo 2, la financiación es en principio posible; los medicamentos para reducir peso están en Alemania excluidos legalmente en gran medida de la financiación, y en Austria rigen normas propias y restrictivas. Los detalles cambian; compruebe la información actualizada.
 - **EE. UU.:** autorizada como Mounjaro (2022, diabetes tipo 2) y como Zepbound (2023, control crónico del peso; en 2024 además apnea obstructiva del sueño en la obesidad). Tras el fin de la escasez oficial, la FDA ha restringido fuertemente la elaboración de copias en farmacias.

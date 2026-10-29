@@ -10,7 +10,7 @@
 - **WADA:** no figuran en la lista (situación en 2026, compruébese la versión actual).
 - **Nivel de evidencia:** **B** – unos 30 estudios aleatorizados con varios miles de participantes en total, pero todos pequeños, con resultados contradictorios y sin variables de resultado duras.
 
-### Cómo se supone que actúan
+### Cómo se supone que actúa
 
 La presión arterial está regulada, entre otros, por el sistema renina-angiotensina. Un paso central es la conversión de la angiotensina I, inactiva, en la angiotensina II, vasoconstrictora, mediante la enzima ECA. La misma enzima degrada además la bradicinina, una sustancia que dilata los vasos. Si se inhibe la ECA, se forma menos angiotensina II y más bradicinina, y la presión arterial baja. En este principio se basan los inhibidores de la ECA, uno de los grupos más importantes de antihipertensivos. Un dato histórico interesante: el primer inhibidor de la ECA, el captopril, se desarrolló a partir de un péptido del veneno de una serpiente.
 
@@ -59,11 +59,11 @@ Además hay pequeños estudios sobre la función vascular, la circulación cereb
 | Metaanálisis | Alcance | Efecto sobre la presión sistólica |
 |---|---|---|
 | Cicero 2011, PMID 20811398 | 18 estudios | −3,73 mmHg en total; Asia −6,93 mmHg; Europa −1,17 mmHg (no significativo) |
-| Turpeinen 2013, PMID 23305234 | 19 estudios, unas 1.500 personas | −4,0 mmHg |
-| Qin 2013, PMID 23566677 | 28 brazos de estudio, 1.919 personas | −1,66 mmHg; en la presión de 24 horas −1,30 mmHg |
-| Cicero 2013, PMID 23382495 | 14 estudios europeos, 1.306 personas | −1,28 mmHg |
+| Turpeinen 2013, PMID 23305234 | 19 estudios, unas 1500 personas | −4,0 mmHg |
+| Qin 2013, PMID 23566677 | 28 brazos de estudio, 1919 personas | −1,66 mmHg; en la presión de 24 horas −1,30 mmHg |
+| Cicero 2013, PMID 23382495 | 14 estudios europeos, 1306 personas | −1,28 mmHg |
 | Fekete 2015, PMID 25608938 | 30 estudios | −2,95 mmHg; presión de 24 horas no significativa |
-| Chanson-Rolle 2015, PMID 26536628 | 18 estudios japoneses, 1.194 personas | −5,63 mmHg |
+| Chanson-Rolle 2015, PMID 26536628 | 18 estudios japoneses, 1194 personas | −5,63 mmHg |
 
 Tres patrones recorren todos los análisis:
 

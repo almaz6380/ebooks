@@ -11,7 +11,7 @@
 - **WADA:** no figura en la lista (estado en 2026; compruebe la información actualizada).
 - **Nivel de evidencia:** **A** – programa de estudios AWARD con más de diez estudios aleatorizados de fase 3, estudio de resultados REWIND, estudio en adolescentes.
 
-### Cómo debería actuar
+### Cómo se supone que actúa
 
 La dulaglutida actúa sobre el receptor de GLP-1 igual que la exenatida, la liraglutida y la semaglutida: aumenta la secreción de insulina dependiente de la glucosa, frena la hormona glucagón, ralentiza el vaciamiento gástrico y atenúa el apetito. El mecanismo básico se explica en el capítulo Exenatida.
 
@@ -21,7 +21,7 @@ En las propias cadenas de GLP-1 se sustituyeron algunos aminoácidos, en parte p
 
 Un inconveniente del tamaño: es probable que la molécula llegue peor a las regiones cerebrales que regulan el apetito. Esto podría explicar por qué la dulaglutida, con una reducción de la glucemia comparable, provoca menos pérdida de peso que la semaglutida. Esta explicación es plausible, pero no está demostrada.
 
-### Estudios en seres humanos
+### Estudios en humanos
 
 La consulta de PubMed analizada para este libro (término de búsqueda «dulaglutide» en el título o el resumen, fecha de consulta octubre de 2026) arrojó 158 estudios en seres humanos; ClinicalTrials.gov recoge 143 registros. La cifra es menor que en el caso de la liraglutida o la semaglutida, pero los estudios están planteados de forma especialmente sistemática: el programa AWARD (Assessment of Weekly AdministRation of LY2189265 in Diabetes) evaluó la dulaglutida frente a casi todos los tratamientos habituales de la diabetes. Llama la atención, además, la frecuencia con que la propia dulaglutida sirve de medicamento comparador para principios activos más recientes: desde la semaglutida y la tirzepatida hasta nuevos desarrollos chinos.
 
@@ -146,7 +146,7 @@ Como con todos los agonistas del receptor de GLP-1, en estudios de larga duraci�
 
 **Indicaciones para la práctica:** la dulaglutida ralentiza el vaciamiento gástrico, lo que tiene importancia en las anestesias y las gastroscopias; al respecto está en marcha un gran estudio sobre si los agonistas del receptor de GLP-1 deben suspenderse antes de una gastroscopia (NCT07276763). Lo determinante son la ficha técnica y el seguimiento médico.
 
-### Situación jurídica
+### Situación legal
 
 - **UE:** Trulicity está autorizado por el procedimiento centralizado desde 2014 para el tratamiento de la diabetes tipo 2, actualmente también para adolescentes a partir de 10 años. Sujeto a prescripción médica. Sin autorización para la reducción de peso.
 - **Alemania y Austria:** sujeta a prescripción médica; financiable en la diabetes tipo 2. A partir de 2022 se produjeron, como con otros preparados de GLP-1, problemas de suministro temporales (compruebe la información actualizada).

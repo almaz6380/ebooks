@@ -39,7 +39,7 @@ La consulta en PubMed evaluada para este libro (palmitoil pentapéptido o Matrix
 
 **Productos combinados:** en dos estudios de hemicara con 42 y 35 mujeres, productos de cuidado que contenían Pal-KTTKS junto con niacinamida, otro péptido, carnosina y en parte propionato de retinilo mejoraron la suavidad de la piel del contorno de ojos en comparación con la piel no tratada (Kaczvinsky 2009, PMID 19735523). Como se probaron varios principios activos a la vez y se compararon con «ningún tratamiento», el efecto no puede atribuirse al péptido.
 
-**Metaanálisis:** un metaanálisis sobre péptidos orales y tópicos contra el envejecimiento cutáneo (19 estudios, 1.341 participantes) encontró un efecto global modesto sobre las arrugas, debido sobre todo a los péptidos tomados por vía oral (Nukaly 2026, PMID 41924746). De ello no se deriva una prueba propia para los péptidos tópicos como el Pal-KTTKS.
+**Metaanálisis:** un metaanálisis sobre péptidos orales y tópicos contra el envejecimiento cutáneo (19 estudios, 1341 participantes) encontró un efecto global modesto sobre las arrugas, debido sobre todo a los péptidos tomados por vía oral (Nukaly 2026, PMID 41924746). De ello no se deriva una prueba propia para los péptidos tópicos como el Pal-KTTKS.
 
 ### Estudios en animales y de laboratorio
 

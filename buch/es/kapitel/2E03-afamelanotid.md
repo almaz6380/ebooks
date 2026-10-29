@@ -50,7 +50,7 @@ Como los estudios de autorización fueron cortos y pequeños, las observaciones 
 
 | Estudio | Participantes y diseño | Duración | Resultado |
 |---|---|---|---|
-| Biolcati 2015, PMID 25494545 | 115 personas en Roma y Zúrich, 1.023 implantes, estudio observacional | hasta 8 años | Calidad de vida del 31 % al 74 % del valor máximo |
+| Biolcati 2015, PMID 25494545 | 115 personas en Roma y Zúrich, 1023 implantes, estudio observacional | hasta 8 años | Calidad de vida del 31 % al 74 % del valor máximo |
 | Wensink 2020, PMID 32186677 | 117 personas en Róterdam, cohorte prospectiva | mediana 2 años | 6,1 horas más a la semana al aire libre; el 98 % continuó |
 | Homey 2025, PMID 40082741 | 200 personas en Alemania, estudio de seguridad posautorización | en curso | Calidad de vida significativamente mejor; el 91,0 % continuó |
 | Seidl-Philipp 2026, PMID 41793078 | 20 personas en Austria | 2023 | Tolerancia a la luz, mediana de 15 a 250 minutos; reacciones fototóxicas en el 88 % frente al 33 % |
@@ -61,7 +61,7 @@ Estas cohortes no tienen grupo de control. Quien responde bien tiende a seguir e
 
 #### Otras observaciones en la EPP
 
-- **Hígado:** en un análisis suizo de 70 personas tratadas con casi 3.000 valores hepáticos, la ALAT y la bilirrubina disminuyeron cuanto más implantes se habían colocado el año anterior (Minder 2023, PMID 37109595). Es una asociación procedente de datos observacionales, no una prueba de protección hepática.
+- **Hígado:** en un análisis suizo de 70 personas tratadas con casi 3000 valores hepáticos, la ALAT y la bilirrubina disminuyeron cuanto más implantes se habían colocado el año anterior (Minder 2023, PMID 37109595). Es una asociación procedente de datos observacionales, no una prueba de protección hepática.
 - **Vitamina D:** la afamelanotida no modificó la concentración de vitamina D. En un estudio con 230 personas, el déficit persistió en el 71,8 %; solo la administración de vitamina D3 elevó los valores (Kluijver 2024, PMID 38634774).
 - **Anticuerpos:** en 23 de 26 personas no se formaron anticuerpos contra el principio activo a lo largo de hasta seis años; tres tenían ya antes del tratamiento anticuerpos medibles que no cambiaron (Lengweiler 2015, PMID 25402764).
 

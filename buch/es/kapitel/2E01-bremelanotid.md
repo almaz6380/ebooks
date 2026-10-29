@@ -9,7 +9,7 @@
 - **Autorización en la UE:** no.
 - **Autorización en EE. UU.:** sí, desde 2019 como Vyleesi para mujeres premenopáusicas con trastorno del deseo sexual adquirido y generalizado (trastorno de deseo sexual hipoactivo, HSDD) (Dhillon 2019, PMID 31429064). Uso solo con prescripción médica y conforme a la ficha técnica.
 - **WADA:** no figura nominalmente (situación en 2026, compruébese la versión actual).
-- **Nivel de evidencia:** **A** – dos grandes estudios aleatorizados de fase 3 con más de 1.200 participantes en total, autorización en EE. UU. No obstante, el beneficio clínico es pequeño y discutido (véase más abajo).
+- **Nivel de evidencia:** **A** – dos grandes estudios aleatorizados de fase 3 con más de 1200 participantes en total, autorización en EE. UU. No obstante, el beneficio clínico es pequeño y discutido (véase más abajo).
 
 ### Cómo se supone que actúa
 
@@ -43,10 +43,10 @@ El decisivo estudio de fase 2b (Clayton 2016, PMID 27181790; NCT01382719) compar
 
 | Estudio | Participantes y diseño | Duración | Resultado |
 |---|---|---|---|
-| RECONNECT 301 y 302 (Kingsberg 2019), PMID 31599840 | 1.267 mujeres premenopáusicas con HSDD, dos ECA frente a placebo, uso a demanda | 24 semanas | Deseo (FSFI-Desire) +0,35 puntos más que con placebo; malestar reducido 0,33 puntos más |
+| RECONNECT 301 y 302 (Kingsberg 2019), PMID 31599840 | 1267 mujeres premenopáusicas con HSDD, dos ECA frente a placebo, uso a demanda | 24 semanas | Deseo (FSFI-Desire) +0,35 puntos más que con placebo; malestar reducido 0,33 puntos más |
 | Extensión abierta (Simon 2019), PMID 31599847 | 684 mujeres de ambos estudios, todas con bremelanotida | 52 semanas | 272 completaron la extensión; ninguna nueva señal de seguridad |
-| Análisis de subgrupos (Simon 2022), PMID 35230162 | 1.202 mujeres de ambos estudios | 24 semanas | Efecto similar en casi todos los subgrupos de edad, peso y estado hormonal |
-| Análisis de seguridad (Clayton 2022), PMID 35147466 | unas 3.500 personas en 43 estudios | hasta 18 meses | Náuseas 40,0 % frente a 1,3 %, sofocos 20,3 % frente a 1,3 % |
+| Análisis de subgrupos (Simon 2022), PMID 35230162 | 1202 mujeres de ambos estudios | 24 semanas | Efecto similar en casi todos los subgrupos de edad, peso y estado hormonal |
+| Análisis de seguridad (Clayton 2022), PMID 35147466 | unas 3500 personas en 43 estudios | hasta 18 meses | Náuseas 40,0 % frente a 1,3 %, sofocos 20,3 % frente a 1,3 % |
 
 Los dos estudios idénticos 301 y 302 (NCT02333071, NCT02338960) se realizaron en 2015 y 2016, principalmente en EE. UU. Las participantes se inyectaban a demanda, antes de la actividad sexual, 1,75 mg de bremelanotida o placebo con un autoinyector. Se midieron dos variables principales: el deseo sexual (dominio de deseo del FSFI, escala de 1,2 a 6) y el malestar por el deseo bajo (una pregunta aislada del cuestionario FSDS-DAO, escala de 0 a 4).
 

@@ -47,7 +47,7 @@ Nota a la tabla: en el caso de la **amicretina**, la búsqueda en el registro so
 |---|---|---|
 | Exenatida | EXSCEL: riesgo cardiovascular no aumentado, pero tampoco reducido significativamente (HR 0,91; PMID 28910237) | Náuseas, nódulos, anticuerpos |
 | Liraglutida | LEADER: 13 % menos acontecimientos cardiovasculares (PMID 27295427); SCALE: −8,4 frente a −2,8 kg (PMID 26132939) | Molestias gastrointestinales, vesícula biliar |
-| Dulaglutida | REWIND: 12 % menos acontecimientos cardiovasculares graves en 9.901 participantes (PMID 31189511) | Gastrointestinal; hipoglucemia en combinación |
+| Dulaglutida | REWIND: 12 % menos acontecimientos cardiovasculares graves en 9901 participantes (PMID 31189511) | Gastrointestinal; hipoglucemia en combinación |
 | Semaglutida | STEP 1: −14,9 % frente a −2,4 % (PMID 33567185); SELECT: 20 % menos acontecimientos cardiovasculares (PMID 37952131) | Gastrointestinal, vesícula biliar, señal rara de NAION, falsificaciones |
 | Tirzepatida | SURMOUNT-5: −20,2 % frente a −13,7 % con semaglutida (PMID 40353578) | Gastrointestinal, vías biliares; recuperación del peso tras suspenderla |
 | Retatrutida | TRIUMPH-1: hasta −25,0 % frente a −3,9 % a las 80 semanas (PMID 42814954) | Gastrointestinal, disestesias cutáneas, más abandonos con dosis alta |
@@ -142,7 +142,7 @@ Notas a la tabla: en el caso de **Selank** y **DSIP**, los resultados del regist
 |---|---|---|
 | Semax | Estudio abierto tras ictus: BDNF más alto, mejoría más rápida (PMID 29798983) | sin datos de seguridad sistemáticos |
 | Selank | Efecto ansiolítico similar al del medazepam, sin grupo placebo (PMID 18454096) | sin datos a largo plazo; mercado gris |
-| Cerebrolisina | CASTA con 1.070 personas: variable principal no alcanzada (PMID 22282884) | posible señal de efectos adversos graves (Cochrane) |
+| Cerebrolisina | CASTA con 1070 personas: variable principal no alcanzada (PMID 22282884) | posible señal de efectos adversos graves (Cochrane) |
 | Dihexa | Solo datos en animales; un estudio central en ratas fue retractado en 2025 (PMID 25187433, retractación PMID 40312093) | sin datos en humanos; riesgo teórico de cáncer |
 | DSIP | 16 personas con insomnio: solo efectos débiles (PMID 1299794) | sin datos de seguridad sistemáticos |
 | Epitalon | En ratones, sin mayor esperanza de vida media (PMID 14501183) | sin datos en humanos; cuestión de la telomerasa |
@@ -162,13 +162,13 @@ Notas a la tabla: en el caso de **Selank** y **DSIP**, los resultados del regist
 | Afamelanotida | A | sí / sí (Scenesse, solo EPP) | 10 / 23 (nota) |
 | Kisspeptina | B | no / no | 37 / 36 |
 | Oxitocina (espray nasal) | B | solo obstetricia / solo obstetricia | 349 / 263 |
-| Gonadorelina | B | nacional en algunos Estados / no | 9 / 1.000 (nota) |
+| Gonadorelina | B | nacional en algunos Estados / no | 9 / 1000 (nota) |
 
-Notas a la tabla: en el caso del **melanotán II**, cuatro de los ocho resultados de PubMed se refieren al melanotán I (la posterior afamelanotida); el único registro resultó no ser fiable. En el de la **afamelanotida**, faltan en el recuento los estudios antiguos con los nombres de melanotán I o NDP-MSH. En el de la **oxitocina**, solo está autorizado el uso como infusión o inyección en obstetricia, no el espray nasal. Las cifras de la **gonadorelina** son inservibles: la búsqueda en el registro alcanzó su límite máximo de 1.000 resultados porque el registro incluye el término genérico «Gonadotropin-Releasing Hormone»; casi todos los resultados se refieren a análogos de la GnRH, por ejemplo en el cáncer de próstata, y solo unos diez a la hormona idéntica a la endógena. La cifra de PubMed es demasiado baja porque la mayoría de los estudios escriben «GnRH» o «LHRH».
+Notas a la tabla: en el caso del **melanotán II**, cuatro de los ocho resultados de PubMed se refieren al melanotán I (la posterior afamelanotida); el único registro resultó no ser fiable. En el de la **afamelanotida**, faltan en el recuento los estudios antiguos con los nombres de melanotán I o NDP-MSH. En el de la **oxitocina**, solo está autorizado el uso como infusión o inyección en obstetricia, no el espray nasal. Las cifras de la **gonadorelina** son inservibles: la búsqueda en el registro alcanzó su límite máximo de 1000 resultados porque el registro incluye el término genérico «Gonadotropin-Releasing Hormone»; casi todos los resultados se refieren a análogos de la GnRH, por ejemplo en el cáncer de próstata, y solo unos diez a la hormona idéntica a la endógena. La cifra de PubMed es demasiado baja porque la mayoría de los estudios escriben «GnRH» o «LHRH».
 
 | Péptido | Resultado clave | Riesgo principal |
 |---|---|---|
-| Bremelanotida (PT-141) | RECONNECT, 1.267 mujeres: solo una pequeña ventaja frente a placebo (PMID 31599840) | Náuseas en torno al 40 %, subida breve de la presión arterial |
+| Bremelanotida (PT-141) | RECONNECT, 1267 mujeres: solo una pequeña ventaja frente a placebo (PMID 31599840) | Náuseas en torno al 40 %, subida breve de la presión arterial |
 | Melanotán II | Pequeños estudios cruzados: erecciones en 17 de 20 hombres, náuseas frecuentes (PMID 11035391) | Cambios en los lunares, casos clínicos de melanoma, priapismo |
 | Afamelanotida | Dos ECA: mayor tiempo sin dolor a la luz del sol en la EPP (PMID 26132941) | Náuseas, cefalea; necesidad de controles cutáneos |
 | Kisspeptina | 60 mujeres con riesgo de OHSS: maduración ovocitaria en el 95 %, ningún OHSS grave (PMID 26192876) | Habituación hasta la supresión del eje hormonal |

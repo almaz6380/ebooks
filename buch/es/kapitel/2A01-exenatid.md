@@ -11,7 +11,7 @@
 - **WADA:** no figura en la lista (estado en 2026; compruebe la información actualizada).
 - **Nivel de evidencia:** **A** – numerosos estudios aleatorizados grandes, un gran estudio de resultados cardiovasculares, autorización desde 2005.
 
-### Cómo debería actuar
+### Cómo se supone que actúa
 
 Después de una comida, el intestino libera la hormona GLP-1 (péptido similar al glucagón tipo 1). Esta indica al páncreas que libere más insulina, pero solo mientras la glucemia esté elevada. Al mismo tiempo, frena la hormona glucagón, que eleva la glucemia, ralentiza el vaciamiento gástrico y actúa en el cerebro sobre los centros que regulan el hambre y la saciedad. Como la liberación de insulina depende de la glucosa, los agonistas del receptor de GLP-1 por sí solos rara vez causan hipoglucemias.
 
@@ -21,7 +21,7 @@ La forma original actúa solo unas horas y por eso debe inyectarse dos veces al 
 
 Una diferencia importante con los principios activos posteriores: la exenatida solo se parece al GLP-1 humano en aproximadamente la mitad. Por eso, el sistema inmunitario la reconoce con más frecuencia como extraña y forma anticuerpos. En la mayoría de las personas tratadas esto no tiene consecuencias; en una pequeña parte con concentraciones altas de anticuerpos, el efecto puede disminuir.
 
-### Estudios en seres humanos
+### Estudios en humanos
 
 Los datos de estudios sobre la exenatida son abundantes. La consulta de PubMed analizada para este libro (término de búsqueda «exenatide» en el título o el resumen, fecha de consulta octubre de 2026) arrojó 437 estudios en seres humanos; en ClinicalTrials.gov figuran 379 registros con exenatida. Muchos de ellos son pequeños estudios de mecanismo o de combinación. Para la valoración son relevantes sobre todo tres grupos: los programas de registro AMIGO (forma de dos veces al día) y DURATION (forma semanal), el estudio de resultados cardiovasculares EXSCEL y una serie de estudios más allá de la diabetes, en particular sobre la enfermedad de Parkinson.
 
@@ -143,7 +143,7 @@ Sobre la tiroides: en ratas y ratones, los agonistas del receptor de GLP-1 provo
 
 **Indicaciones para la práctica:** la exenatida se elimina por los riñones; no se recomienda en caso de función renal muy reducida. Como todos los agonistas del receptor de GLP-1, ralentiza el vaciamiento gástrico y puede influir así en la absorción de otros medicamentos. Para el uso, las contraindicaciones y las interacciones, lo determinante es la ficha técnica vigente; el tratamiento debe estar en manos médicas.
 
-### Situación jurídica
+### Situación legal
 
 - **UE:** la exenatida está autorizada por el procedimiento centralizado como medicamento sujeto a prescripción médica para el tratamiento de la diabetes tipo 2 (Byetta desde 2006, Bydureon desde 2011). No está autorizada para la reducción de peso.
 - **Alemania y Austria:** sujeta a prescripción médica. La prescripción solo para perder peso sería un uso fuera de indicación y, por regla general, las cajas del seguro de enfermedad no la financian. Algunas formas de administración no están comercializadas de forma permanente en todos los países; compruebe la información actualizada.

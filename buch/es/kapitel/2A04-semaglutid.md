@@ -11,7 +11,7 @@
 - **WADA:** no figura en la lista (estado en 2026; compruebe la información actualizada).
 - **Nivel de evidencia:** **A** – cuatro grandes programas de registro (SUSTAIN, PIONEER, STEP, OASIS), varios estudios de resultados con un total de más de 40.000 participantes.
 
-### Cómo debería actuar
+### Cómo se supone que actúa
 
 La semaglutida actúa como la hormona intestinal GLP-1: aumenta la secreción de insulina dependiente de la glucosa, inhibe el glucagón, que eleva la glucemia, ralentiza el vaciamiento gástrico y atenúa en el cerebro el hambre y el deseo de comer. El mecanismo básico de la clase se explica en el capítulo Exenatida.
 
@@ -21,7 +21,7 @@ Para la pérdida de peso son decisivos sobre todo los efectos en el cerebro. La 
 
 **El comprimido:** normalmente, los péptidos se digieren en el estómago y apenas se absorben. Para Rybelsus, la semaglutida se combina con el excipiente SNAC. Este amortigua el ácido gástrico directamente en la superficie del comprimido, protege así frente a la degradación y facilita durante un breve tiempo la absorción a través de la mucosa gástrica; en estudios en seres humanos y perros, exclusivamente en el estómago, no en el intestino (Buckley 2018, PMID 30429357). Aun así, solo una fracción muy pequeña del principio activo llega a la sangre. Por eso, el comprimido contiene una dosis muchas veces mayor que la inyección y debe tomarse en ayunas con poca agua; la ficha técnica regula los detalles.
 
-### Estudios en seres humanos
+### Estudios en humanos
 
 La semaglutida es actualmente el principio activo más estudiado de su clase. La consulta de PubMed analizada para este libro (término de búsqueda «semaglutide» en el título o el resumen, fecha de consulta octubre de 2026) arrojó 342 estudios en seres humanos. Esta cifra subestima el volumen real de investigación, porque muchos análisis de grandes estudios se publican con el nombre de estos. En ClinicalTrials.gov figuran 793 registros, más que para cualquier otro péptido de este libro.
 
@@ -180,7 +180,7 @@ Ningún otro péptido de este libro se obtiene con tanta frecuencia fuera de las
 
 **Falsificaciones:** han aparecido plumas de Ozempic falsificadas en Europa y Estados Unidos, en parte rellenas de insulina o sin principio activo; las autoridades sanitarias y la Organización Mundial de la Salud han emitido varias advertencias. Encontrará información general sobre los productos del mercado gris en la Parte I y la Parte IV. Solo la vía regular es segura: prescripción médica y dispensación en la farmacia.
 
-### Situación jurídica
+### Situación legal
 
 - **UE:** Ozempic (2018), Rybelsus (2020) y Wegovy (2022) están autorizados por el procedimiento centralizado y sujetos a prescripción médica. Wegovy está autorizado para el control del peso en adultos y adolescentes a partir de 12 años; la ficha técnica contiene ya también datos sobre la reducción del riesgo cardiovascular procedentes de SELECT.
 - **Alemania:** Ozempic y Rybelsus se financian en la diabetes tipo 2. Wegovy se considera un medicamento para reducir peso y, según el artículo 34 del Libro V del Código Social (SGB V), está excluido en principio de la financiación del seguro obligatorio de enfermedad; se está debatiendo políticamente un cambio (estado en 2026; compruebe la información actualizada). La prescripción de Ozempic solo para perder peso es un uso fuera de indicación y fue criticada expresamente por las autoridades durante los problemas de suministro.

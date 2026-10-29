@@ -98,7 +98,7 @@ El resultado fue claramente negativo: el valor disminuyó 3,7 puntos con oxitoci
 
 - Un metaanálisis de 17 estudios aleatorizados con 466 personas con trastornos del desarrollo no encontró efecto sobre el reconocimiento de emociones y sí un pequeño efecto sobre la comprensión de los pensamientos ajenos (Keech 2018, PMID 29032324).
 - Un metaanálisis de 28 estudios con 726 personas con autismo, incluidos estudios no controlados, llegó a un juicio más positivo sobre la función social (Huang 2021, PMID 33400920). La inclusión de estudios no controlados hace que este resultado sea vulnerable a sesgos.
-- El mayor metaanálisis hasta la fecha sobre todas las enfermedades psíquicas (42 estudios doble ciego, 1.922 personas) no encontró en conjunto ningún efecto significativo. Tras excluir dos valores atípicos, el tamaño del efecto se situó cerca de cero (Bonnieux 2026, PMID 42134427).
+- El mayor metaanálisis hasta la fecha sobre todas las enfermedades psíquicas (42 estudios doble ciego, 1922 personas) no encontró en conjunto ningún efecto significativo. Tras excluir dos valores atípicos, el tamaño del efecto se situó cerca de cero (Bonnieux 2026, PMID 42134427).
 
 **Balance provisional sobre el autismo:** tras el gran estudio SOARS-B y el estudio australiano posterior, no hay ninguna prueba sólida de que el espray nasal de oxitocina mejore en la vida diaria la conducta social de niños y adolescentes con autismo. Los investigadores debaten si determinados subgrupos –niños muy pequeños, niños con concentraciones bajas de oxitocina– podrían beneficiarse, y proponen un enfoque personalizado (Boulton 2026, PMID 42144048). Hasta que esto se confirme en estudios propios, sigue siendo una hipótesis.
 
@@ -138,7 +138,7 @@ Sin embargo, estos hallazgos solo pueden trasladarse de forma limitada: la distr
 
 #### Demostrados: espray nasal en estudios
 
-En los estudios controlados, el espray nasal de oxitocina se considera bien tolerado. Una revisión sistemática de 38 estudios aleatorizados con 1.529 participantes no encontró, con el uso a corto plazo, efectos adversos más frecuentes que con placebo. Los participantes tampoco pudieron reconocer si habían recibido oxitocina o placebo (MacDonald 2011, PMID 21429671). En SOARS-B, los efectos adversos fueron igual de frecuentes en ambos grupos a lo largo de 24 semanas (Sikich 2021, PMID 34644471). En 95 hombres mayores no se produjeron cambios en la presión arterial ni en los valores de orina o sangre a lo largo de cuatro semanas (Rung 2021, PMID 33982141). En estudios con niños se comunicaron sed, aumento de la micción y estreñimiento (Yatawara 2016, PMID 26503762).
+En los estudios controlados, el espray nasal de oxitocina se considera bien tolerado. Una revisión sistemática de 38 estudios aleatorizados con 1529 participantes no encontró, con el uso a corto plazo, efectos adversos más frecuentes que con placebo. Los participantes tampoco pudieron reconocer si habían recibido oxitocina o placebo (MacDonald 2011, PMID 21429671). En SOARS-B, los efectos adversos fueron igual de frecuentes en ambos grupos a lo largo de 24 semanas (Sikich 2021, PMID 34644471). En 95 hombres mayores no se produjeron cambios en la presión arterial ni en los valores de orina o sangre a lo largo de cuatro semanas (Rung 2021, PMID 33982141). En estudios con niños se comunicaron sed, aumento de la micción y estreñimiento (Yatawara 2016, PMID 26503762).
 
 #### Posibles y a tener en cuenta
 
