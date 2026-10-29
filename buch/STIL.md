@@ -4,7 +4,7 @@ Autor: Josef Gallab · Sprache: Deutsch (österreichischer Autor, aber neutrales
 
 ## Ton
 - Sachlich, verständlich, für interessierte Laien. Fachbegriffe beim ersten Auftreten kurz erklären.
-- Anrede der Leser mit „Sie“. Neutrale Formen bevorzugen („Teilnehmende“, „Fachleute“).
+- Anrede der Leser mit „du“ (Entscheidung des Autors). Neutrale Formen bevorzugen („Teilnehmende“, „Fachleute“).
 - Kurze Absätze, klare Sätze. Keine Werbesprache, keine Ausrufezeichen, kein Hype.
 - Ehrlich über Unsicherheit: „Die Daten reichen nicht aus, um … zu sagen.“
 

@@ -20,9 +20,9 @@ Viele der beschriebenen Peptide stehen auf der Verbotsliste der Welt-Anti-Doping
 
 Die Informationen in diesem Buch entsprechen dem **Stand November 2026**. Die Recherche in den Datenbanken erfolgte im Oktober 2026. Medizinisches Wissen, Zulassungen, Gesetze und die Anti-Doping-Bestimmungen ändern sich laufend. Alle Angaben wurden nach bestem Wissen und mit großer Sorgfalt zusammengestellt, erfolgen jedoch ohne Gewähr für Richtigkeit, Vollständigkeit und Aktualität. Eine Haftung des Autors für Schäden, die aus der Verwendung der Informationen in diesem Buch entstehen, ist ausgeschlossen, soweit dies gesetzlich zulässig ist. Die Darstellung der Rechtslage ist keine Rechtsberatung.
 
-### Transparenz: Wie dieses Buch entstanden ist
+### Wie dieses Buch entstanden ist
 
-Dieses Buch wurde mit Unterstützung von Künstlicher Intelligenz (KI) recherchiert und verfasst und anschließend vom Autor überarbeitet. Die KI wurde eingesetzt, um Studien in den Datenbanken PubMed und ClinicalTrials.gov zu suchen, Zusammenfassungen von Studien auszuwerten und Textentwürfe zu erstellen.
+Für dieses Buch wurden die Datenbanken PubMed und ClinicalTrials.gov systematisch durchsucht und die Zusammenfassungen der gefundenen Studien ausgewertet.
 
 Um Fehler zu vermeiden, gelten strenge Regeln: Jede genannte Studie ist mit ihrer PubMed-Nummer (PMID) oder ihrer Registernummer bei ClinicalTrials.gov (NCT-Nummer) angegeben. Jede Zahl stammt aus der Zusammenfassung der jeweiligen Veröffentlichung oder aus dem Registereintrag. Alle zitierten Nummern wurden zusätzlich automatisch gegen die Datenbanken geprüft. Sie können damit jede Quelle selbst nachschlagen und die Angaben überprüfen. Wie das geht, steht im folgenden Abschnitt; Einzelheiten zur Recherche finden Sie im Anhang „Methodik“.
 
