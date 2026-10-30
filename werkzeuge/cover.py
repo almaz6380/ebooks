@@ -153,8 +153,11 @@ def main():
     for zeile in umbrechen(d, t["zeile"], schrift("Regular", 46), 1300):
         y = text_mittig(d, y, zeile, schrift("Regular", 46), grau) + 18 * S
 
-    text_mittig(d, (H - 300) * S, t["badge"].upper(), schrift("SemiBold", 34), gold, sperrung=6)
-    text_mittig(d, (H - 210) * S, t["autor"], schrift("SemiBold", 84), weiss, sperrung=4)
+    if t.get("autor"):
+        text_mittig(d, (H - 300) * S, t["badge"].upper(), schrift("SemiBold", 34), gold, sperrung=6)
+        text_mittig(d, (H - 210) * S, t["autor"], schrift("SemiBold", 84), weiss, sperrung=4)
+    else:  # ohne Autorennamen: nur das Stand-Band unten
+        text_mittig(d, (H - 190) * S, t["badge"].upper(), schrift("SemiBold", 38), gold, sperrung=6)
 
     bild = bild.resize((B, H), Image.LANCZOS)
     ziel = BASIS / f"cover/cover_{a.sprache}.jpg"

@@ -4,14 +4,14 @@ de:
   untertitel: "Alle Humanstudien im Vergleich"
   zeile: "Wirkung, Risiken, Rechtslage und Zukunft von 58 Peptiden – von Semaglutid bis BPC-157"
   badge: "Stand November 2026"
-  autor: "Josef Gallab"
+  autor: ""
 en:
   oben: "Studies · Risks · Outlook"
   titel: ["The", "Peptide", "Handbook"]
   untertitel: "Every Human Study Compared"
   zeile: "Effects, risks, legal status and future of 58 peptides – from semaglutide to BPC-157"
   badge: "Updated November 2026"
-  autor: "Josef Gallab"
+  autor: ""
 fr:
   oben: "Études · Risques · Perspectives"
   titel: ["Le guide", "des", "peptides"]
@@ -19,7 +19,7 @@ fr:
   untertitel: "Toutes les études chez l'humain comparées"
   zeile: "Effets, risques, cadre juridique et avenir de 58 peptides – du sémaglutide au BPC-157"
   badge: "À jour novembre 2026"
-  autor: "Josef Gallab"
+  autor: ""
 es:
   oben: "Estudios · Riesgos · Perspectivas"
   titel: ["El manual", "de los", "péptidos"]
@@ -27,7 +27,7 @@ es:
   untertitel: "Todos los estudios en humanos comparados"
   zeile: "Efectos, riesgos, situación legal y futuro de 58 péptidos – de la semaglutida al BPC-157"
   badge: "Actualizado noviembre 2026"
-  autor: "Josef Gallab"
+  autor: ""
 it:
   oben: "Studi · Rischi · Prospettive"
   titel: ["Il manuale", "dei", "peptidi"]
@@ -35,7 +35,7 @@ it:
   untertitel: "Tutti gli studi sull'uomo a confronto"
   zeile: "Effetti, rischi, quadro normativo e futuro di 58 peptidi – dalla semaglutide al BPC-157"
   badge: "Aggiornato a novembre 2026"
-  autor: "Josef Gallab"
+  autor: ""
 nl:
   oben: "Studies · Risico's · Vooruitzichten"
   titel: ["Het", "peptiden-", "handboek"]
@@ -43,7 +43,7 @@ nl:
   untertitel: "Alle studies bij mensen vergeleken"
   zeile: "Werking, risico's, wetgeving en toekomst van 58 peptiden – van semaglutide tot BPC-157"
   badge: "Bijgewerkt november 2026"
-  autor: "Josef Gallab"
+  autor: ""
 pt:
   oben: "Estudos · Riscos · Perspectivas"
   titel: ["O manual", "dos", "peptídeos"]
@@ -51,4 +51,4 @@ pt:
   untertitel: "Todos os estudos em humanos comparados"
   zeile: "Efeitos, riscos, situação legal e futuro de 58 peptídeos – da semaglutida ao BPC-157"
   badge: "Atualizado em novembro de 2026"
-  autor: "Josef Gallab"
+  autor: ""
